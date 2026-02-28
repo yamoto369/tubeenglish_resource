@@ -1,0 +1,972 @@
+[
+  {
+    "startTime": 12.949,
+    "endTime": 14.773,
+    "text": "I'm thrilled to be here tonight"
+  },
+  {
+    "startTime": 14.773,
+    "endTime": 17.152,
+    "text": "to share with you something we've been working on"
+  },
+  {
+    "startTime": 17.152,
+    "endTime": 19.242,
+    "text": "for over two years,"
+  },
+  {
+    "startTime": 19.242,
+    "endTime": 21.796,
+    "text": "and it's in the area of additive manufacturing,"
+  },
+  {
+    "startTime": 21.796,
+    "endTime": 24.512999999999998,
+    "text": "also known as 3D printing."
+  },
+  {
+    "startTime": 24.513,
+    "endTime": 26.231,
+    "text": "You see this object here."
+  },
+  {
+    "startTime": 26.231,
+    "endTime": 30.549,
+    "text": "It looks fairly simple, but it's quite complex at the same time."
+  },
+  {
+    "startTime": 30.549,
+    "endTime": 33.8,
+    "text": "It's a set of concentric geodesic structures"
+  },
+  {
+    "startTime": 33.8,
+    "endTime": 36.794999999999995,
+    "text": "with linkages between each one."
+  },
+  {
+    "startTime": 36.795,
+    "endTime": 43.343,
+    "text": "In its context, it is not manufacturable by traditional manufacturing techniques."
+  },
+  {
+    "startTime": 43.343,
+    "endTime": 47.290000000000006,
+    "text": "It has a symmetry such that you can't injection mold it."
+  },
+  {
+    "startTime": 47.29,
+    "endTime": 51.47,
+    "text": "You can't even manufacture it through milling."
+  },
+  {
+    "startTime": 51.47,
+    "endTime": 54.117,
+    "text": "This is a job for a 3D printer,"
+  },
+  {
+    "startTime": 54.117,
+    "endTime": 58.598,
+    "text": "but most 3D printers would take between three and 10 hours to fabricate it,"
+  },
+  {
+    "startTime": 58.598,
+    "endTime": 62.824,
+    "text": "and we're going to take the risk tonight to try to fabricate it onstage"
+  },
+  {
+    "startTime": 62.824,
+    "endTime": 65.401,
+    "text": "during this 10-minute talk."
+  },
+  {
+    "startTime": 65.401,
+    "endTime": 68.35,
+    "text": "Wish us luck."
+  },
+  {
+    "startTime": 68.35,
+    "endTime": 71.624,
+    "text": "Now, 3D printing is actually a misnomer."
+  },
+  {
+    "startTime": 71.624,
+    "endTime": 75.919,
+    "text": "It's actually 2D printing over and over again,"
+  },
+  {
+    "startTime": 75.919,
+    "endTime": 80.401,
+    "text": "and it in fact uses the technologies associated with 2D printing."
+  },
+  {
+    "startTime": 80.401,
+    "endTime": 85.36,
+    "text": "Think about inkjet printing where you lay down ink on a page to make letters,"
+  },
+  {
+    "startTime": 85.36,
+    "endTime": 90.346,
+    "text": "and then do that over and over again to build up a three-dimensional object."
+  },
+  {
+    "startTime": 90.346,
+    "endTime": 92.417,
+    "text": "In microelectronics, they use something"
+  },
+  {
+    "startTime": 92.417,
+    "endTime": 94.737,
+    "text": "called lithography to do the same sort of thing,"
+  },
+  {
+    "startTime": 94.737,
+    "endTime": 96.945,
+    "text": "to make the transistors and integrated circuits"
+  },
+  {
+    "startTime": 96.945,
+    "endTime": 98.997,
+    "text": "and build up a structure several times."
+  },
+  {
+    "startTime": 98.997,
+    "endTime": 102.099,
+    "text": "These are all 2D printing technologies."
+  },
+  {
+    "startTime": 102.099,
+    "endTime": 105.98700000000001,
+    "text": "Now, I'm a chemist, a material scientist too,"
+  },
+  {
+    "startTime": 105.987,
+    "endTime": 108.711,
+    "text": "and my co-inventors are also material scientists,"
+  },
+  {
+    "startTime": 108.711,
+    "endTime": 111.01,
+    "text": "one a chemist, one a physicist,"
+  },
+  {
+    "startTime": 111.01,
+    "endTime": 113.936,
+    "text": "and we began to be interested in 3D printing."
+  },
+  {
+    "startTime": 113.936,
+    "endTime": 119.531,
+    "text": "And very often, as you know, new ideas are often simple connections"
+  },
+  {
+    "startTime": 119.531,
+    "endTime": 123.274,
+    "text": "between people with different experiences in different communities,"
+  },
+  {
+    "startTime": 123.274,
+    "endTime": 125.59100000000001,
+    "text": "and that's our story."
+  },
+  {
+    "startTime": 125.591,
+    "endTime": 128.12199999999999,
+    "text": "Now, we were inspired"
+  },
+  {
+    "startTime": 128.122,
+    "endTime": 132.893,
+    "text": "by the \"Terminator 2\" scene for T-1000,"
+  },
+  {
+    "startTime": 132.893,
+    "endTime": 138.426,
+    "text": "and we thought, why couldn't a 3D printer operate in this fashion,"
+  },
+  {
+    "startTime": 138.426,
+    "endTime": 143.052,
+    "text": "where you have an object arise out of a puddle"
+  },
+  {
+    "startTime": 143.052,
+    "endTime": 145.51999999999998,
+    "text": "in essentially real time"
+  },
+  {
+    "startTime": 145.52,
+    "endTime": 147.74900000000002,
+    "text": "with essentially no waste"
+  },
+  {
+    "startTime": 147.749,
+    "endTime": 150.071,
+    "text": "to make a great object?"
+  },
+  {
+    "startTime": 150.071,
+    "endTime": 151.488,
+    "text": "Okay, just like the movies."
+  },
+  {
+    "startTime": 151.488,
+    "endTime": 154.877,
+    "text": "And could we be inspired by Hollywood"
+  },
+  {
+    "startTime": 154.877,
+    "endTime": 158.38400000000001,
+    "text": "and come up with ways to actually try to get this to work?"
+  },
+  {
+    "startTime": 158.384,
+    "endTime": 160.45,
+    "text": "And that was our challenge."
+  },
+  {
+    "startTime": 160.45,
+    "endTime": 163.81699999999998,
+    "text": "And our approach would be, if we could do this,"
+  },
+  {
+    "startTime": 163.817,
+    "endTime": 167.67100000000002,
+    "text": "then we could fundamentally address the three issues holding back 3D printing"
+  },
+  {
+    "startTime": 167.671,
+    "endTime": 170.08599999999998,
+    "text": "from being a manufacturing process."
+  },
+  {
+    "startTime": 170.086,
+    "endTime": 172.61700000000002,
+    "text": "One, 3D printing takes forever."
+  },
+  {
+    "startTime": 172.617,
+    "endTime": 179.28099999999998,
+    "text": "There are mushrooms that grow faster than 3D printed parts. (Laughter)"
+  },
+  {
+    "startTime": 179.281,
+    "endTime": 181.417,
+    "text": "The layer by layer process"
+  },
+  {
+    "startTime": 181.417,
+    "endTime": 184.319,
+    "text": "leads to defects in mechanical properties,"
+  },
+  {
+    "startTime": 184.319,
+    "endTime": 188.266,
+    "text": "and if we could grow continuously, we could eliminate those defects."
+  },
+  {
+    "startTime": 188.266,
+    "endTime": 193.398,
+    "text": "And in fact, if we could grow really fast, we could also start using materials"
+  },
+  {
+    "startTime": 193.398,
+    "endTime": 198.042,
+    "text": "that are self-curing, and we could have amazing properties."
+  },
+  {
+    "startTime": 198.042,
+    "endTime": 202.151,
+    "text": "So if we could pull this off, imitate Hollywood,"
+  },
+  {
+    "startTime": 202.151,
+    "endTime": 206.702,
+    "text": "we could in fact address 3D manufacturing."
+  },
+  {
+    "startTime": 206.702,
+    "endTime": 209.953,
+    "text": "Our approach is to use some standard knowledge"
+  },
+  {
+    "startTime": 209.953,
+    "endTime": 212.553,
+    "text": "in polymer chemistry"
+  },
+  {
+    "startTime": 212.553,
+    "endTime": 219.152,
+    "text": "to harness light and oxygen to grow parts continuously."
+  },
+  {
+    "startTime": 219.152,
+    "endTime": 222.099,
+    "text": "Light and oxygen work in different ways."
+  },
+  {
+    "startTime": 222.099,
+    "endTime": 225.141,
+    "text": "Light can take a resin and convert it to a solid,"
+  },
+  {
+    "startTime": 225.141,
+    "endTime": 227.295,
+    "text": "can convert a liquid to a solid."
+  },
+  {
+    "startTime": 227.295,
+    "endTime": 230.82899999999998,
+    "text": "Oxygen inhibits that process."
+  },
+  {
+    "startTime": 230.829,
+    "endTime": 234.08,
+    "text": "So light and oxygen are polar opposites from one another"
+  },
+  {
+    "startTime": 234.08,
+    "endTime": 236.58800000000002,
+    "text": "from a chemical point of view,"
+  },
+  {
+    "startTime": 236.588,
+    "endTime": 240.001,
+    "text": "and if we can control spatially the light and oxygen,"
+  },
+  {
+    "startTime": 240.001,
+    "endTime": 242.288,
+    "text": "we could control this process."
+  },
+  {
+    "startTime": 242.288,
+    "endTime": 245.739,
+    "text": "And we refer to this as CLIP. [Continuous Liquid Interface Production.]"
+  },
+  {
+    "startTime": 245.739,
+    "endTime": 248.465,
+    "text": "It has three functional components."
+  },
+  {
+    "startTime": 248.465,
+    "endTime": 252.326,
+    "text": "One, it has a reservoir that holds the puddle,"
+  },
+  {
+    "startTime": 252.326,
+    "endTime": 254.20499999999998,
+    "text": "just like the T-1000."
+  },
+  {
+    "startTime": 254.205,
+    "endTime": 256.62100000000004,
+    "text": "At the bottom of the reservoir is a special window."
+  },
+  {
+    "startTime": 256.621,
+    "endTime": 258.11199999999997,
+    "text": "I'll come back to that."
+  },
+  {
+    "startTime": 258.112,
+    "endTime": 261.892,
+    "text": "In addition, it has a stage that will lower into the puddle"
+  },
+  {
+    "startTime": 261.892,
+    "endTime": 264.481,
+    "text": "and pull the object out of the liquid."
+  },
+  {
+    "startTime": 264.481,
+    "endTime": 268.28499999999997,
+    "text": "The third component is a digital light projection system"
+  },
+  {
+    "startTime": 268.285,
+    "endTime": 270.305,
+    "text": "underneath the reservoir,"
+  },
+  {
+    "startTime": 270.305,
+    "endTime": 274.048,
+    "text": "illuminating with light in the ultraviolet region."
+  },
+  {
+    "startTime": 274.048,
+    "endTime": 277.271,
+    "text": "Now, the key is that this window in the bottom of this reservoir,"
+  },
+  {
+    "startTime": 277.271,
+    "endTime": 280.15000000000003,
+    "text": "it's a composite, it's a very special window."
+  },
+  {
+    "startTime": 280.15,
+    "endTime": 283.796,
+    "text": "It's not only transparent to light but it's permeable to oxygen."
+  },
+  {
+    "startTime": 283.796,
+    "endTime": 287.435,
+    "text": "It's got characteristics like a contact lens."
+  },
+  {
+    "startTime": 287.435,
+    "endTime": 289.716,
+    "text": "So we can see how the process works."
+  },
+  {
+    "startTime": 289.716,
+    "endTime": 293.13,
+    "text": "You can start to see that as you lower a stage in there,"
+  },
+  {
+    "startTime": 293.13,
+    "endTime": 297.30899999999997,
+    "text": "in a traditional process, with an oxygen-impermeable window,"
+  },
+  {
+    "startTime": 297.309,
+    "endTime": 300.00800000000004,
+    "text": "you make a two-dimensional pattern"
+  },
+  {
+    "startTime": 300.008,
+    "endTime": 303.37,
+    "text": "and you end up gluing that onto the window with a traditional window,"
+  },
+  {
+    "startTime": 303.37,
+    "endTime": 306.922,
+    "text": "and so in order to introduce the next layer, you have to separate it,"
+  },
+  {
+    "startTime": 306.922,
+    "endTime": 310.451,
+    "text": "introduce new resin, reposition it,"
+  },
+  {
+    "startTime": 310.451,
+    "endTime": 313.40000000000003,
+    "text": "and do this process over and over again."
+  },
+  {
+    "startTime": 313.4,
+    "endTime": 315.234,
+    "text": "But with our very special window,"
+  },
+  {
+    "startTime": 315.234,
+    "endTime": 318.563,
+    "text": "what we're able to do is, with oxygen coming through the bottom"
+  },
+  {
+    "startTime": 318.563,
+    "endTime": 321.256,
+    "text": "as light hits it,"
+  },
+  {
+    "startTime": 321.256,
+    "endTime": 323.926,
+    "text": "that oxygen inhibits the reaction,"
+  },
+  {
+    "startTime": 323.926,
+    "endTime": 326.55,
+    "text": "and we form a dead zone."
+  },
+  {
+    "startTime": 326.55,
+    "endTime": 330.869,
+    "text": "This dead zone is on the order of tens of microns thick,"
+  },
+  {
+    "startTime": 330.869,
+    "endTime": 334.096,
+    "text": "so that's two or three diameters of a red blood cell,"
+  },
+  {
+    "startTime": 334.096,
+    "endTime": 336.627,
+    "text": "right at the window interface that remains a liquid,"
+  },
+  {
+    "startTime": 336.627,
+    "endTime": 338.577,
+    "text": "and we pull this object up,"
+  },
+  {
+    "startTime": 338.577,
+    "endTime": 340.969,
+    "text": "and as we talked about in a Science paper,"
+  },
+  {
+    "startTime": 340.969,
+    "endTime": 345.682,
+    "text": "as we change the oxygen content, we can change the dead zone thickness."
+  },
+  {
+    "startTime": 345.682,
+    "endTime": 349.374,
+    "text": "And so we have a number of key variables that we control: oxygen content,"
+  },
+  {
+    "startTime": 349.374,
+    "endTime": 352.439,
+    "text": "the light, the light intensity, the dose to cure,"
+  },
+  {
+    "startTime": 352.439,
+    "endTime": 354.401,
+    "text": "the viscosity, the geometry,"
+  },
+  {
+    "startTime": 354.401,
+    "endTime": 358.697,
+    "text": "and we use very sophisticated software to control this process."
+  },
+  {
+    "startTime": 358.697,
+    "endTime": 361.46,
+    "text": "The result is pretty staggering."
+  },
+  {
+    "startTime": 361.46,
+    "endTime": 366.33599999999996,
+    "text": "It's 25 to 100 times faster than traditional 3D printers,"
+  },
+  {
+    "startTime": 366.336,
+    "endTime": 368.17,
+    "text": "which is game-changing."
+  },
+  {
+    "startTime": 368.17,
+    "endTime": 372.50600000000003,
+    "text": "In addition, as our ability to deliver liquid to that interface,"
+  },
+  {
+    "startTime": 372.506,
+    "endTime": 376.246,
+    "text": "we can go 1,000 times faster I believe,"
+  },
+  {
+    "startTime": 376.246,
+    "endTime": 379.803,
+    "text": "and that in fact opens up the opportunity for generating a lot of heat,"
+  },
+  {
+    "startTime": 379.803,
+    "endTime": 383.866,
+    "text": "and as a chemical engineer, I get very excited at heat transfer"
+  },
+  {
+    "startTime": 383.866,
+    "endTime": 388.04499999999996,
+    "text": "and the idea that we might one day have water-cooled 3D printers,"
+  },
+  {
+    "startTime": 388.045,
+    "endTime": 390.437,
+    "text": "because they're going so fast."
+  },
+  {
+    "startTime": 390.437,
+    "endTime": 394.5,
+    "text": "In addition, because we're growing things, we eliminate the layers,"
+  },
+  {
+    "startTime": 394.5,
+    "endTime": 396.474,
+    "text": "and the parts are monolithic."
+  },
+  {
+    "startTime": 396.474,
+    "endTime": 398.56399999999996,
+    "text": "You don't see the surface structure."
+  },
+  {
+    "startTime": 398.564,
+    "endTime": 401.057,
+    "text": "You have molecularly smooth surfaces."
+  },
+  {
+    "startTime": 401.057,
+    "endTime": 405.297,
+    "text": "And the mechanical properties of most parts made in a 3D printer"
+  },
+  {
+    "startTime": 405.297,
+    "endTime": 409.593,
+    "text": "are notorious for having properties that depend on the orientation"
+  },
+  {
+    "startTime": 409.593,
+    "endTime": 413.35400000000004,
+    "text": "with which how you printed it, because of the layer-like structure."
+  },
+  {
+    "startTime": 413.354,
+    "endTime": 415.699,
+    "text": "But when you grow objects like this,"
+  },
+  {
+    "startTime": 415.699,
+    "endTime": 419.368,
+    "text": "the properties are invariant with the print direction."
+  },
+  {
+    "startTime": 419.368,
+    "endTime": 422.317,
+    "text": "These look like injection-molded parts,"
+  },
+  {
+    "startTime": 422.317,
+    "endTime": 425.729,
+    "text": "which is very different than traditional 3D manufacturing."
+  },
+  {
+    "startTime": 425.729,
+    "endTime": 429.25899999999996,
+    "text": "In addition, we're able to throw"
+  },
+  {
+    "startTime": 429.259,
+    "endTime": 432.83500000000004,
+    "text": "the entire polymer chemistry textbook at this,"
+  },
+  {
+    "startTime": 432.835,
+    "endTime": 436.82599999999996,
+    "text": "and we're able to design chemistries that can give rise to the properties"
+  },
+  {
+    "startTime": 436.826,
+    "endTime": 439.868,
+    "text": "you really want in a 3D-printed object."
+  },
+  {
+    "startTime": 439.868,
+    "endTime": 441.205,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 441.205,
+    "endTime": 446.049,
+    "text": "There it is. That's great."
+  },
+  {
+    "startTime": 446.049,
+    "endTime": 450.17699999999996,
+    "text": "You always take the risk that something like this won't work onstage, right?"
+  },
+  {
+    "startTime": 450.177,
+    "endTime": 453.05600000000004,
+    "text": "But we can have materials with great mechanical properties."
+  },
+  {
+    "startTime": 453.056,
+    "endTime": 455.49399999999997,
+    "text": "For the first time, we can have elastomers"
+  },
+  {
+    "startTime": 455.494,
+    "endTime": 457.95500000000004,
+    "text": "that are high elasticity or high dampening."
+  },
+  {
+    "startTime": 457.955,
+    "endTime": 461.368,
+    "text": "Think about vibration control or great sneakers, for example."
+  },
+  {
+    "startTime": 461.368,
+    "endTime": 464.828,
+    "text": "We can make materials that have incredible strength,"
+  },
+  {
+    "startTime": 464.828,
+    "endTime": 468.404,
+    "text": "high strength-to-weight ratio, really strong materials,"
+  },
+  {
+    "startTime": 468.404,
+    "endTime": 470.517,
+    "text": "really great elastomers,"
+  },
+  {
+    "startTime": 470.517,
+    "endTime": 473.242,
+    "text": "so throw that in the audience there."
+  },
+  {
+    "startTime": 473.242,
+    "endTime": 475.87800000000004,
+    "text": "So great material properties."
+  },
+  {
+    "startTime": 475.878,
+    "endTime": 479.293,
+    "text": "And so the opportunity now, if you actually make a part"
+  },
+  {
+    "startTime": 479.293,
+    "endTime": 482.973,
+    "text": "that has the properties to be a final part,"
+  },
+  {
+    "startTime": 482.973,
+    "endTime": 486.07300000000004,
+    "text": "and you do it in game-changing speeds,"
+  },
+  {
+    "startTime": 486.073,
+    "endTime": 488.85999999999996,
+    "text": "you can actually transform manufacturing."
+  },
+  {
+    "startTime": 488.86,
+    "endTime": 491.716,
+    "text": "Right now, in manufacturing, what happens is,"
+  },
+  {
+    "startTime": 491.716,
+    "endTime": 494.678,
+    "text": "the so-called digital thread in digital manufacturing."
+  },
+  {
+    "startTime": 494.678,
+    "endTime": 499.717,
+    "text": "We go from a CAD drawing, a design, to a prototype to manufacturing."
+  },
+  {
+    "startTime": 499.717,
+    "endTime": 502.44,
+    "text": "Often, the digital thread is broken right at prototype,"
+  },
+  {
+    "startTime": 502.44,
+    "endTime": 504.872,
+    "text": "because you can't go all the way to manufacturing"
+  },
+  {
+    "startTime": 504.872,
+    "endTime": 508.587,
+    "text": "because most parts don't have the properties to be a final part."
+  },
+  {
+    "startTime": 508.587,
+    "endTime": 510.978,
+    "text": "We now can connect the digital thread"
+  },
+  {
+    "startTime": 510.978,
+    "endTime": 515.227,
+    "text": "all the way from design to prototyping to manufacturing,"
+  },
+  {
+    "startTime": 515.227,
+    "endTime": 518.1759999999999,
+    "text": "and that opportunity really opens up all sorts of things,"
+  },
+  {
+    "startTime": 518.176,
+    "endTime": 523.129,
+    "text": "from better fuel-efficient cars dealing with great lattice properties"
+  },
+  {
+    "startTime": 523.129,
+    "endTime": 525.08,
+    "text": "with high strength-to-weight ratio,"
+  },
+  {
+    "startTime": 525.08,
+    "endTime": 529.4680000000001,
+    "text": "new turbine blades, all sorts of wonderful things."
+  },
+  {
+    "startTime": 529.468,
+    "endTime": 534.6229999999999,
+    "text": "Think about if you need a stent in an emergency situation,"
+  },
+  {
+    "startTime": 534.623,
+    "endTime": 538.5930000000001,
+    "text": "instead of the doctor pulling off a stent out of the shelf"
+  },
+  {
+    "startTime": 538.593,
+    "endTime": 540.822,
+    "text": "that was just standard sizes,"
+  },
+  {
+    "startTime": 540.822,
+    "endTime": 544.978,
+    "text": "having a stent that's designed for you, for your own anatomy"
+  },
+  {
+    "startTime": 544.978,
+    "endTime": 546.789,
+    "text": "with your own tributaries,"
+  },
+  {
+    "startTime": 546.789,
+    "endTime": 550.038,
+    "text": "printed in an emergency situation in real time out of the properties"
+  },
+  {
+    "startTime": 550.038,
+    "endTime": 553.477,
+    "text": "such that the stent could go away after 18 months: really-game changing."
+  },
+  {
+    "startTime": 553.477,
+    "endTime": 557.6329999999999,
+    "text": "Or digital dentistry, and making these kinds of structures"
+  },
+  {
+    "startTime": 557.633,
+    "endTime": 560.8140000000001,
+    "text": "even while you're in the dentist chair."
+  },
+  {
+    "startTime": 560.814,
+    "endTime": 563.53,
+    "text": "And look at the structures that my students are making"
+  },
+  {
+    "startTime": 563.53,
+    "endTime": 565.504,
+    "text": "at the University of North Carolina."
+  },
+  {
+    "startTime": 565.504,
+    "endTime": 568.313,
+    "text": "These are amazing microscale structures."
+  },
+  {
+    "startTime": 568.313,
+    "endTime": 571.309,
+    "text": "You know, the world is really good at nano-fabrication."
+  },
+  {
+    "startTime": 571.309,
+    "endTime": 575.5989999999999,
+    "text": "Moore's Law has driven things from 10 microns and below."
+  },
+  {
+    "startTime": 575.599,
+    "endTime": 577.201,
+    "text": "We're really good at that,"
+  },
+  {
+    "startTime": 577.201,
+    "endTime": 581.241,
+    "text": "but it's actually very hard to make things from 10 microns to 1,000 microns,"
+  },
+  {
+    "startTime": 581.241,
+    "endTime": 583.261,
+    "text": "the mesoscale."
+  },
+  {
+    "startTime": 583.261,
+    "endTime": 586.0939999999999,
+    "text": "And subtractive techniques from the silicon industry"
+  },
+  {
+    "startTime": 586.094,
+    "endTime": 587.5100000000001,
+    "text": "can't do that very well."
+  },
+  {
+    "startTime": 587.51,
+    "endTime": 589.159,
+    "text": "They can't etch wafers that well."
+  },
+  {
+    "startTime": 589.159,
+    "endTime": 591.109,
+    "text": "But this process is so gentle,"
+  },
+  {
+    "startTime": 591.109,
+    "endTime": 593.594,
+    "text": "we can grow these objects up from the bottom"
+  },
+  {
+    "startTime": 593.594,
+    "endTime": 595.59,
+    "text": "using additive manufacturing"
+  },
+  {
+    "startTime": 595.59,
+    "endTime": 597.8430000000001,
+    "text": "and make amazing things in tens of seconds,"
+  },
+  {
+    "startTime": 597.843,
+    "endTime": 599.932,
+    "text": "opening up new sensor technologies,"
+  },
+  {
+    "startTime": 599.932,
+    "endTime": 602.417,
+    "text": "new drug delivery techniques,"
+  },
+  {
+    "startTime": 602.417,
+    "endTime": 607.149,
+    "text": "new lab-on-a-chip applications, really game-changing stuff."
+  },
+  {
+    "startTime": 607.149,
+    "endTime": 611.983,
+    "text": "So the opportunity of making a part in real time"
+  },
+  {
+    "startTime": 611.983,
+    "endTime": 614.8159999999999,
+    "text": "that has the properties to be a final part"
+  },
+  {
+    "startTime": 614.816,
+    "endTime": 617.792,
+    "text": "really opens up 3D manufacturing,"
+  },
+  {
+    "startTime": 617.792,
+    "endTime": 620.9920000000001,
+    "text": "and for us, this is very exciting, because this really is owning"
+  },
+  {
+    "startTime": 620.992,
+    "endTime": 627.5889999999999,
+    "text": "the intersection between hardware, software and molecular science,"
+  },
+  {
+    "startTime": 627.589,
+    "endTime": 631.7550000000001,
+    "text": "and I can't wait to see what designers and engineers around the world"
+  },
+  {
+    "startTime": 631.755,
+    "endTime": 634.499,
+    "text": "are going to be able to do with this great tool."
+  },
+  {
+    "startTime": 634.499,
+    "endTime": 636.618,
+    "text": "Thanks for listening."
+  },
+  {
+    "startTime": 636.618,
+    "endTime": 646.618,
+    "text": "(Applause)"
+  }
+]

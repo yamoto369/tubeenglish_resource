@@ -1,0 +1,2167 @@
+[
+  {
+    "startTime": 12.963,
+    "endTime": 14.892,
+    "text": "This is a play called \"Sell/Buy/Date.\""
+  },
+  {
+    "startTime": 14.892,
+    "endTime": 17.963,
+    "text": "It's my first since \"Bridge and Tunnel,\" which I did on Broadway,"
+  },
+  {
+    "startTime": 17.963,
+    "endTime": 21.333000000000002,
+    "text": "and this one, I -- thank you --"
+  },
+  {
+    "startTime": 21.333,
+    "endTime": 29.762999999999998,
+    "text": "I've excerpted it just for you, so here we go."
+  },
+  {
+    "startTime": 29.763,
+    "endTime": 32.901,
+    "text": "Right. Class, let's be absolutely certain"
+  },
+  {
+    "startTime": 32.901,
+    "endTime": 38.268,
+    "text": "all electronic devices are switched off before we begin."
+  },
+  {
+    "startTime": 38.268,
+    "endTime": 43.985,
+    "text": "So class, hopefully you'll recognize what you just heard me say as the -- ?"
+  },
+  {
+    "startTime": 43.985,
+    "endTime": 47.199,
+    "text": "Very good, the cellular phone announcement."
+  },
+  {
+    "startTime": 47.199,
+    "endTime": 51.378,
+    "text": "Right? This was also known as a mobile phone."
+  },
+  {
+    "startTime": 51.378,
+    "endTime": 53.607,
+    "text": "So you'll remember, people of that era"
+  },
+  {
+    "startTime": 53.607,
+    "endTime": 58.483,
+    "text": "would have had an external electronic device, right,"
+  },
+  {
+    "startTime": 58.483,
+    "endTime": 60.434,
+    "text": "something like this,"
+  },
+  {
+    "startTime": 60.434,
+    "endTime": 63.37,
+    "text": "and they all would have carried one of these around with them,"
+  },
+  {
+    "startTime": 63.37,
+    "endTime": 66.749,
+    "text": "and amongst their biggest fears was the sheer mortification"
+  },
+  {
+    "startTime": 66.749,
+    "endTime": 70.139,
+    "text": "that one of these might ring at some inopportune moment."
+  },
+  {
+    "startTime": 70.139,
+    "endTime": 72.53999999999999,
+    "text": "Right? So a bit of trivia about that era for you."
+  },
+  {
+    "startTime": 72.54,
+    "endTime": 75.10000000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 75.1,
+    "endTime": 77.851,
+    "text": "So the format of today's class is"
+  },
+  {
+    "startTime": 77.851,
+    "endTime": 81.793,
+    "text": "I will be presenting multiple BERT modules today"
+  },
+  {
+    "startTime": 81.793,
+    "endTime": 84.16300000000001,
+    "text": "from that period in history, right,"
+  },
+  {
+    "startTime": 84.163,
+    "endTime": 86.973,
+    "text": "so starting circa 2016."
+  },
+  {
+    "startTime": 86.973,
+    "endTime": 91.32,
+    "text": "And remember, this was the very first year of the BERT program."
+  },
+  {
+    "startTime": 91.32,
+    "endTime": 93.69,
+    "text": "So we've got quite a few of these to get through."
+  },
+  {
+    "startTime": 93.69,
+    "endTime": 97.697,
+    "text": "Bear in mind, I will be living into various different bodies,"
+  },
+  {
+    "startTime": 97.697,
+    "endTime": 99.815,
+    "text": "different ages,"
+  },
+  {
+    "startTime": 99.815,
+    "endTime": 103.40299999999999,
+    "text": "also what were then called races, or ethnic groups,"
+  },
+  {
+    "startTime": 103.403,
+    "endTime": 105.49300000000001,
+    "text": "as you'll remember from Unit 1."
+  },
+  {
+    "startTime": 105.493,
+    "endTime": 108.81299999999999,
+    "text": "And -- (Laughter) -- and along the gender continuum,"
+  },
+  {
+    "startTime": 108.813,
+    "endTime": 111.321,
+    "text": "I will be living into males as well."
+  },
+  {
+    "startTime": 111.321,
+    "endTime": 112.991,
+    "text": "It was quite binary at that time."
+  },
+  {
+    "startTime": 112.991,
+    "endTime": 114.55,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 114.55,
+    "endTime": 117.86699999999999,
+    "text": "Also, don't forget, we are reading the book module"
+  },
+  {
+    "startTime": 117.867,
+    "endTime": 119.842,
+    "text": "for next week's focus on gender."
+  },
+  {
+    "startTime": 119.842,
+    "endTime": 123.885,
+    "text": "Now, I know some of you have requested the book in pill form."
+  },
+  {
+    "startTime": 123.885,
+    "endTime": 128.201,
+    "text": "I know people still believe ingesting it is better for retention,"
+  },
+  {
+    "startTime": 128.201,
+    "endTime": 133.7,
+    "text": "but since we are trying to experience what our forebears did, right,"
+  },
+  {
+    "startTime": 133.7,
+    "endTime": 139.207,
+    "text": "let's please just consider doing the actual ocular reading, okay?"
+  },
+  {
+    "startTime": 139.207,
+    "endTime": 144.22199999999998,
+    "text": "And also, how many people have your emotional shunts engaged?"
+  },
+  {
+    "startTime": 144.222,
+    "endTime": 146.916,
+    "text": "Right. Please toggle them off. Okay?"
+  },
+  {
+    "startTime": 146.916,
+    "endTime": 151.861,
+    "text": "I know it's challenging, but I want you to be able to feel the entire"
+  },
+  {
+    "startTime": 151.861,
+    "endTime": 153.719,
+    "text": "natural emo range, all right?"
+  },
+  {
+    "startTime": 153.719,
+    "endTime": 157.888,
+    "text": "It is essential to this part of the syllabus."
+  },
+  {
+    "startTime": 157.888,
+    "endTime": 159.756,
+    "text": "Yes, Macy?"
+  },
+  {
+    "startTime": 159.756,
+    "endTime": 163.627,
+    "text": "All right. I understand. If you're unwilling to --"
+  },
+  {
+    "startTime": 163.627,
+    "endTime": 165.996,
+    "text": "All right, well, we can discuss that after class."
+  },
+  {
+    "startTime": 165.996,
+    "endTime": 168.429,
+    "text": "All right, we will discuss your concerns."
+  },
+  {
+    "startTime": 168.429,
+    "endTime": 172.549,
+    "text": "Just relax. Nobody's died and gone to composting."
+  },
+  {
+    "startTime": 172.549,
+    "endTime": 177.133,
+    "text": "Okay. After class. Okay? After class."
+  },
+  {
+    "startTime": 177.133,
+    "endTime": 179.144,
+    "text": "Let's just get started, okay."
+  },
+  {
+    "startTime": 179.144,
+    "endTime": 185.552,
+    "text": "This first subject identified as a middle-class homemaker."
+  },
+  {
+    "startTime": 185.552,
+    "endTime": 187.851,
+    "text": "Remember, these early modules"
+  },
+  {
+    "startTime": 187.851,
+    "endTime": 191.984,
+    "text": "in these people's full identities were protected,"
+  },
+  {
+    "startTime": 191.984,
+    "endTime": 195.20000000000002,
+    "text": "and this allowed them to speak more freely on our topic,"
+  },
+  {
+    "startTime": 195.2,
+    "endTime": 200.10999999999999,
+    "text": "which for many of them was taboo."
+  },
+  {
+    "startTime": 200.11,
+    "endTime": 203.73200000000003,
+    "text": "Okay honey, now, I'm ready when you are."
+  },
+  {
+    "startTime": 203.732,
+    "endTime": 208.06,
+    "text": "No, sweetheart, I said, I'm ready when you are."
+  },
+  {
+    "startTime": 208.06,
+    "endTime": 210.061,
+    "text": "I'm freezing."
+  },
+  {
+    "startTime": 210.061,
+    "endTime": 213.20600000000002,
+    "text": "It's like a meat locker in here in this recording studio."
+  },
+  {
+    "startTime": 213.206,
+    "endTime": 215.80599999999998,
+    "text": "I should have brought a shmata."
+  },
+  {
+    "startTime": 215.806,
+    "endTime": 220.375,
+    "text": "All this fancy technology but they can't afford heat."
+  },
+  {
+    "startTime": 220.375,
+    "endTime": 223.678,
+    "text": "What is he saying? I can't hear you!"
+  },
+  {
+    "startTime": 223.678,
+    "endTime": 226.557,
+    "text": "I can't hear you through the glass, honey!"
+  },
+  {
+    "startTime": 226.557,
+    "endTime": 229.32,
+    "text": "There you are in my ear."
+  },
+  {
+    "startTime": 229.32,
+    "endTime": 231.92,
+    "text": "Oh, you can hear me?"
+  },
+  {
+    "startTime": 231.92,
+    "endTime": 233.778,
+    "text": "The whole time."
+  },
+  {
+    "startTime": 233.778,
+    "endTime": 237.98,
+    "text": "Oh, yes, I am a little chilly."
+  },
+  {
+    "startTime": 237.98,
+    "endTime": 243.553,
+    "text": "Yes, oh the cold is for the machines, the new technology. Okay."
+  },
+  {
+    "startTime": 243.553,
+    "endTime": 249.304,
+    "text": "Yes, now remind me again, you're recording not only my voice but my feelings"
+  },
+  {
+    "startTime": 249.304,
+    "endTime": 252.41400000000002,
+    "text": "and my memories? Right."
+  },
+  {
+    "startTime": 252.414,
+    "endTime": 254.433,
+    "text": "Yes, BERT, yes, I read about it."
+  },
+  {
+    "startTime": 254.433,
+    "endTime": 257.484,
+    "text": "Bio-Empathetic Resonant Technology."
+  },
+  {
+    "startTime": 257.484,
+    "endTime": 262.64099999999996,
+    "text": "Right, right, so people will be able to feel my experience"
+  },
+  {
+    "startTime": 262.641,
+    "endTime": 264.543,
+    "text": "and my memory? Okay."
+  },
+  {
+    "startTime": 264.543,
+    "endTime": 265.958,
+    "text": "No, right, I'm ready."
+  },
+  {
+    "startTime": 265.958,
+    "endTime": 270.055,
+    "text": "I just thought you were going to give me a test to see how my memory's doing."
+  },
+  {
+    "startTime": 270.055,
+    "endTime": 274.847,
+    "text": "I was going to tell you you're too late, it's already bad news."
+  },
+  {
+    "startTime": 274.847,
+    "endTime": 277.64799999999997,
+    "text": "No, no, go ahead, honey."
+  },
+  {
+    "startTime": 277.648,
+    "endTime": 279.98400000000004,
+    "text": "Oh, that's the first question?"
+  },
+  {
+    "startTime": 279.984,
+    "endTime": 283.258,
+    "text": "What do I think of prostitution?"
+  },
+  {
+    "startTime": 283.258,
+    "endTime": 287.483,
+    "text": "Are you soliciting me, young man?"
+  },
+  {
+    "startTime": 287.483,
+    "endTime": 293.102,
+    "text": "I've heard of May-December romances, but what are you, about 20 years old?"
+  },
+  {
+    "startTime": 293.102,
+    "endTime": 294.844,
+    "text": "Eighteen? Eighteen years."
+  },
+  {
+    "startTime": 294.844,
+    "endTime": 300.46299999999997,
+    "text": "I think I have candies in my purse older than 18 years old."
+  },
+  {
+    "startTime": 300.463,
+    "endTime": 304.281,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 304.281,
+    "endTime": 309.94,
+    "text": "I'm teasing you, sweetheart. No, I'm comfortable with any question."
+  },
+  {
+    "startTime": 309.94,
+    "endTime": 315.951,
+    "text": "Sure. So about the prostitution -- oh, sex worker, sex worker."
+  },
+  {
+    "startTime": 315.951,
+    "endTime": 319.92,
+    "text": "No, just in my day, they called it prostitution, not sex work."
+  },
+  {
+    "startTime": 319.92,
+    "endTime": 322.666,
+    "text": "Oh, because it includes pornography also?"
+  },
+  {
+    "startTime": 322.666,
+    "endTime": 324.477,
+    "text": "Okay."
+  },
+  {
+    "startTime": 324.477,
+    "endTime": 326.659,
+    "text": "No, well, I guess when I was a girl,"
+  },
+  {
+    "startTime": 326.659,
+    "endTime": 329.167,
+    "text": "we didn't really have a name for that either."
+  },
+  {
+    "startTime": 329.167,
+    "endTime": 334.902,
+    "text": "We would have said dirty magazines, I suppose, or dirty movies."
+  },
+  {
+    "startTime": 334.902,
+    "endTime": 338.13,
+    "text": "Well, it's not like what you have with the Internet."
+  },
+  {
+    "startTime": 338.13,
+    "endTime": 341.63599999999997,
+    "text": "No, well, I don't mind sharing."
+  },
+  {
+    "startTime": 341.636,
+    "endTime": 347.898,
+    "text": "My late husband and I, we were a very romantic couple."
+  },
+  {
+    "startTime": 347.898,
+    "endTime": 351.79400000000004,
+    "text": "Lots of tenderness, you understand."
+  },
+  {
+    "startTime": 351.794,
+    "endTime": 355.164,
+    "text": "Well, as you get older, you know, at one point I thought my husband"
+  },
+  {
+    "startTime": 355.164,
+    "endTime": 361.317,
+    "text": "might be helped by using some of the pills men can take,"
+  },
+  {
+    "startTime": 361.317,
+    "endTime": 364.413,
+    "text": "but he wasn't interested in those,"
+  },
+  {
+    "startTime": 364.413,
+    "endTime": 370.474,
+    "text": "so I thought, what about maybe watching an adult movie on the Internet?"
+  },
+  {
+    "startTime": 370.474,
+    "endTime": 373.908,
+    "text": "Just for inspiration, you understand."
+  },
+  {
+    "startTime": 373.908,
+    "endTime": 378.906,
+    "text": "Well, at the time, neither of us were very good on the computer,"
+  },
+  {
+    "startTime": 378.906,
+    "endTime": 381.619,
+    "text": "so usually, if we needed help with the Internet,"
+  },
+  {
+    "startTime": 381.619,
+    "endTime": 386.59700000000004,
+    "text": "we would just call our children or our grandchildren,"
+  },
+  {
+    "startTime": 386.597,
+    "endTime": 390.16299999999995,
+    "text": "but obviously, in this case, that wasn't an option,"
+  },
+  {
+    "startTime": 390.163,
+    "endTime": 395.588,
+    "text": "so I thought, I'll have a look myself, just to see."
+  },
+  {
+    "startTime": 395.588,
+    "endTime": 398.127,
+    "text": "How difficult could it be?"
+  },
+  {
+    "startTime": 398.127,
+    "endTime": 401.76,
+    "text": "You search for certain key words and you look --"
+  },
+  {
+    "startTime": 401.76,
+    "endTime": 403.955,
+    "text": "Oh wow is right, young man."
+  },
+  {
+    "startTime": 403.955,
+    "endTime": 406.67199999999997,
+    "text": "You can't imagine what I saw."
+  },
+  {
+    "startTime": 406.672,
+    "endTime": 411.61800000000005,
+    "text": "Well, first of all, I was just trying to find, you know, couples,"
+  },
+  {
+    "startTime": 411.618,
+    "endTime": 415.303,
+    "text": "normal couples making love,"
+  },
+  {
+    "startTime": 415.303,
+    "endTime": 419.791,
+    "text": "but this, so many people together at one time."
+  },
+  {
+    "startTime": 419.791,
+    "endTime": 423.599,
+    "text": "You couldn't tell which part belonged to which body."
+  },
+  {
+    "startTime": 423.599,
+    "endTime": 427.77799999999996,
+    "text": "How they even got the cameras to capture some of this, I couldn't tell you."
+  },
+  {
+    "startTime": 427.778,
+    "endTime": 434.658,
+    "text": "But the one thing they didn't capture was making love."
+  },
+  {
+    "startTime": 434.658,
+    "endTime": 439.38800000000003,
+    "text": "There was lots of making of something,"
+  },
+  {
+    "startTime": 439.388,
+    "endTime": 443.49699999999996,
+    "text": "but they took the love part right out of it, you know, the fun."
+  },
+  {
+    "startTime": 443.497,
+    "endTime": 447.421,
+    "text": "It was all very extreme, you know?"
+  },
+  {
+    "startTime": 447.421,
+    "endTime": 451.149,
+    "text": "Like you would say, with the extreme sports."
+  },
+  {
+    "startTime": 451.149,
+    "endTime": 454.778,
+    "text": "Lots of endurance,"
+  },
+  {
+    "startTime": 454.778,
+    "endTime": 457.8,
+    "text": "but never tenderness."
+  },
+  {
+    "startTime": 457.8,
+    "endTime": 464.116,
+    "text": "So anyway, needless to say, that was $19.95 I'll never get back again,"
+  },
+  {
+    "startTime": 464.116,
+    "endTime": 468.945,
+    "text": "but it only showed up on the credit card as \"entertainment services,\""
+  },
+  {
+    "startTime": 468.945,
+    "endTime": 471.73199999999997,
+    "text": "so my husband was never the wiser,"
+  },
+  {
+    "startTime": 471.732,
+    "endTime": 475.13300000000004,
+    "text": "and after all of that,"
+  },
+  {
+    "startTime": 475.133,
+    "endTime": 477.572,
+    "text": "well, you could say it turned out"
+  },
+  {
+    "startTime": 477.572,
+    "endTime": 483.152,
+    "text": "he didn't need the extra inspiration after all."
+  },
+  {
+    "startTime": 483.152,
+    "endTime": 487.924,
+    "text": "Right, so next subject is a young woman -- (Applause) --"
+  },
+  {
+    "startTime": 487.924,
+    "endTime": 490.957,
+    "text": "Next subject, class, is a young woman called Bella,"
+  },
+  {
+    "startTime": 490.957,
+    "endTime": 494.904,
+    "text": "a university student interviewed in 2016"
+  },
+  {
+    "startTime": 494.904,
+    "endTime": 498.828,
+    "text": "during what was called an Intro to Feminist Porn class"
+  },
+  {
+    "startTime": 498.828,
+    "endTime": 503.31699999999995,
+    "text": "as part of her major in sex work at a college in the Bay Area."
+  },
+  {
+    "startTime": 503.317,
+    "endTime": 506.672,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 506.672,
+    "endTime": 509.439,
+    "text": "Yeah, I just want to, like, get a recording of, like,"
+  },
+  {
+    "startTime": 509.439,
+    "endTime": 511.80800000000005,
+    "text": "you guys recording me,"
+  },
+  {
+    "startTime": 511.808,
+    "endTime": 514.887,
+    "text": "like a meta recording, or whatever."
+  },
+  {
+    "startTime": 514.887,
+    "endTime": 518.611,
+    "text": "It's just like this whole experience is just, like, really amazing,"
+  },
+  {
+    "startTime": 518.611,
+    "endTime": 522.131,
+    "text": "and I'd like to capture that for, like, Instagram and my Tumblr."
+  },
+  {
+    "startTime": 522.131,
+    "endTime": 525.126,
+    "text": "So, like, hi guys, it's me, Bella,"
+  },
+  {
+    "startTime": 525.126,
+    "endTime": 529.723,
+    "text": "and I am, like, being interviewed right now"
+  },
+  {
+    "startTime": 529.723,
+    "endTime": 535.505,
+    "text": "for this, like, really amazing Bio-Empathetic Resonance Technology,"
+  },
+  {
+    "startTime": 535.505,
+    "endTime": 541.78,
+    "text": "which is, like, basically where they are, like, recording, as you can see"
+  },
+  {
+    "startTime": 541.78,
+    "endTime": 543.702,
+    "text": "from these, whatever, like, electrodes,"
+  },
+  {
+    "startTime": 543.702,
+    "endTime": 550.16,
+    "text": "the formation of, like, neuropeptides in my hippocampus, or whatever."
+  },
+  {
+    "startTime": 550.16,
+    "endTime": 552.92,
+    "text": "They will later be able to reconstitute these"
+  },
+  {
+    "startTime": 552.92,
+    "endTime": 559.54,
+    "text": "as, like, my own actual memory, like actual experiences,"
+  },
+  {
+    "startTime": 559.54,
+    "endTime": 564.3199999999999,
+    "text": "so other people can, like, actually feel what I'm feeling right now."
+  },
+  {
+    "startTime": 564.32,
+    "endTime": 566.572,
+    "text": "Okay. Okay."
+  },
+  {
+    "startTime": 566.572,
+    "endTime": 572.75,
+    "text": "So, like, hello, BERT person of the future who is experiencing me."
+  },
+  {
+    "startTime": 572.75,
+    "endTime": 576.557,
+    "text": "This is what it feels like to be, like, a college freshman,"
+  },
+  {
+    "startTime": 576.557,
+    "endTime": 581.7810000000001,
+    "text": "and also the, like, headache that you are experiencing through me"
+  },
+  {
+    "startTime": 581.781,
+    "endTime": 588.1999999999999,
+    "text": "is the, like, residual effect of the Jell-O shots which I had last night"
+  },
+  {
+    "startTime": 588.2,
+    "endTime": 591.115,
+    "text": "at the bi-weekly feminist pole dancing party"
+  },
+  {
+    "startTime": 591.115,
+    "endTime": 594.157,
+    "text": "which I cohost on Wednesdays."
+  },
+  {
+    "startTime": 594.157,
+    "endTime": 597.779,
+    "text": "It's called \"Don't Get All Pole-emical\" -- (Laughter) --"
+  },
+  {
+    "startTime": 597.779,
+    "endTime": 602.072,
+    "text": "and it's in Beekman Hall,"
+  },
+  {
+    "startTime": 602.072,
+    "endTime": 604.25,
+    "text": "and, what else, like,"
+  },
+  {
+    "startTime": 604.25,
+    "endTime": 608.297,
+    "text": "non-Jell-O shots are also available for vegans,"
+  },
+  {
+    "startTime": 608.297,
+    "endTime": 617.98,
+    "text": "and, oh, okay, yeah, totally, yeah, we should also focus on your questions also."
+  },
+  {
+    "startTime": 617.98,
+    "endTime": 622.182,
+    "text": "So for your record, I am, like, a sex work studies major"
+  },
+  {
+    "startTime": 622.182,
+    "endTime": 624.457,
+    "text": "but minoring in social media"
+  },
+  {
+    "startTime": 624.457,
+    "endTime": 627.151,
+    "text": "with a concentration on notable YouTube memes."
+  },
+  {
+    "startTime": 627.151,
+    "endTime": 630.2389999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 630.239,
+    "endTime": 633.49,
+    "text": "Yes, well, of course, like, I consider myself to be, like,"
+  },
+  {
+    "startTime": 633.49,
+    "endTime": 635.5790000000001,
+    "text": "obviously, like, a feminist."
+  },
+  {
+    "startTime": 635.579,
+    "endTime": 640.5709999999999,
+    "text": "I was named for Bella Abzug, who was, like, a famous, like,"
+  },
+  {
+    "startTime": 640.571,
+    "endTime": 642.986,
+    "text": "feminist from history,"
+  },
+  {
+    "startTime": 642.986,
+    "endTime": 649.255,
+    "text": "and, like, also I feel that it is, like, important to, like, represent women"
+  },
+  {
+    "startTime": 649.255,
+    "endTime": 654.224,
+    "text": "who are, like, sex-positive feminists."
+  },
+  {
+    "startTime": 654.224,
+    "endTime": 656.941,
+    "text": "What is sex-negative?"
+  },
+  {
+    "startTime": 656.941,
+    "endTime": 661.399,
+    "text": "Well, like, I guess I would ask, like, what do you think"
+  },
+  {
+    "startTime": 661.399,
+    "endTime": 664.417,
+    "text": "sex-negative is? (Laughter)"
+  },
+  {
+    "startTime": 664.417,
+    "endTime": 669.3140000000001,
+    "text": "Yeah, because, like, the terms that we use are, like, so important, because, like,"
+  },
+  {
+    "startTime": 669.314,
+    "endTime": 676.352,
+    "text": "we call it sex work because it helps people understand that, like, it's work,"
+  },
+  {
+    "startTime": 676.352,
+    "endTime": 681.228,
+    "text": "and, like, you know, just like there are, like, healthcare providers"
+  },
+  {
+    "startTime": 681.228,
+    "endTime": 683.712,
+    "text": "and, like, insurance providers,"
+  },
+  {
+    "startTime": 683.712,
+    "endTime": 690.511,
+    "text": "like, we think of these workers as, like, sex care providers."
+  },
+  {
+    "startTime": 690.511,
+    "endTime": 694.184,
+    "text": "Yeah, but like, I don't think of myself like, providing direct"
+  },
+  {
+    "startTime": 694.184,
+    "endTime": 698.433,
+    "text": "sex care services per se as, like, being a requirement"
+  },
+  {
+    "startTime": 698.433,
+    "endTime": 700.894,
+    "text": "for me to be, like, an advocate."
+  },
+  {
+    "startTime": 700.894,
+    "endTime": 704.563,
+    "text": "Like, I support other women's right to choose it voluntarily, like,"
+  },
+  {
+    "startTime": 704.563,
+    "endTime": 706.676,
+    "text": "if they enjoy it."
+  },
+  {
+    "startTime": 706.676,
+    "endTime": 709.509,
+    "text": "Yeah, but, like, I see myself going forward"
+  },
+  {
+    "startTime": 709.509,
+    "endTime": 713.2470000000001,
+    "text": "as more likely, like, protecting sex workers',"
+  },
+  {
+    "startTime": 713.247,
+    "endTime": 716.288,
+    "text": "like, legal freedoms and rights."
+  },
+  {
+    "startTime": 716.288,
+    "endTime": 722.133,
+    "text": "Yeah, so, like, basically, I'm planning on becoming a lawyer."
+  },
+  {
+    "startTime": 722.133,
+    "endTime": 723.835,
+    "text": "Right, class. (Laughter) (Applause)"
+  },
+  {
+    "startTime": 723.835,
+    "endTime": 727.921,
+    "text": "So these next two modules are also circa 2016."
+  },
+  {
+    "startTime": 727.921,
+    "endTime": 731.9150000000001,
+    "text": "One subject is an Irishwoman with a particularly noteworthy"
+  },
+  {
+    "startTime": 731.915,
+    "endTime": 734.847,
+    "text": "relationship to this issue,"
+  },
+  {
+    "startTime": 734.847,
+    "endTime": 738.509,
+    "text": "but first will be a West Indian woman,"
+  },
+  {
+    "startTime": 738.509,
+    "endTime": 740.831,
+    "text": "a self-described escort"
+  },
+  {
+    "startTime": 740.831,
+    "endTime": 746.241,
+    "text": "who was recorded at a sex workers' rights rally and parade."
+  },
+  {
+    "startTime": 746.241,
+    "endTime": 750.792,
+    "text": "She was interviewed whilst marching in full carnival headdress"
+  },
+  {
+    "startTime": 750.792,
+    "endTime": 756.2950000000001,
+    "text": "and very little else."
+  },
+  {
+    "startTime": 756.295,
+    "endTime": 758.3789999999999,
+    "text": "All right, you want me to start talking now."
+  },
+  {
+    "startTime": 758.379,
+    "endTime": 761.509,
+    "text": "Yeah, I told you, you can put those wires anywhere you want to"
+  },
+  {
+    "startTime": 761.509,
+    "endTime": 765.164,
+    "text": "as long as it don't get in the way."
+  },
+  {
+    "startTime": 765.164,
+    "endTime": 770.069,
+    "text": "Yeah, no, but, tell me again what the name of -- BERT? BERT."
+  },
+  {
+    "startTime": 770.069,
+    "endTime": 773.108,
+    "text": "Yeah, I was telling you, you know, I think I have in all my time"
+  },
+  {
+    "startTime": 773.108,
+    "endTime": 776.7969999999999,
+    "text": "I have had at least one client with that name, so this won't be the first time"
+  },
+  {
+    "startTime": 776.797,
+    "endTime": 783.905,
+    "text": "I had BERT all over me."
+  },
+  {
+    "startTime": 783.905,
+    "endTime": 785.218,
+    "text": "Oh, I'm sorry,"
+  },
+  {
+    "startTime": 785.218,
+    "endTime": 788.67,
+    "text": "but you got to get into the spirit of it if you're going to interview me."
+  },
+  {
+    "startTime": 788.67,
+    "endTime": 790.536,
+    "text": "All right? You can say it."
+  },
+  {
+    "startTime": 790.536,
+    "endTime": 792.934,
+    "text": "No justice, no piece! No justice, no piece!"
+  },
+  {
+    "startTime": 792.934,
+    "endTime": 798.8779999999999,
+    "text": "But you see the sign? You get it? P-I-E-C-E. No justice, no piece of us."
+  },
+  {
+    "startTime": 798.878,
+    "endTime": 800.7900000000001,
+    "text": "You understand?"
+  },
+  {
+    "startTime": 800.79,
+    "endTime": 803.2439999999999,
+    "text": "Right, so that's the part where I was telling you"
+  },
+  {
+    "startTime": 803.244,
+    "endTime": 807.609,
+    "text": "is that when I first came to this country, I worked every job I could find."
+  },
+  {
+    "startTime": 807.609,
+    "endTime": 812.2990000000001,
+    "text": "I was a nanny; I was a home care attendant for all these different old people,"
+  },
+  {
+    "startTime": 812.299,
+    "endTime": 816.422,
+    "text": "and then I said, child, if I have to touch another white man's backside,"
+  },
+  {
+    "startTime": 816.422,
+    "endTime": 819.381,
+    "text": "I might as well get paid a lot more money for it than this,"
+  },
+  {
+    "startTime": 819.381,
+    "endTime": 821.285,
+    "text": "you understand?"
+  },
+  {
+    "startTime": 821.285,
+    "endTime": 824.98,
+    "text": "Pshh, you know how hard it is being a domestic worker?"
+  },
+  {
+    "startTime": 824.98,
+    "endTime": 826.729,
+    "text": "Some of these men, they're heavy."
+  },
+  {
+    "startTime": 826.729,
+    "endTime": 829.528,
+    "text": "You have to pick them up and flip them over."
+  },
+  {
+    "startTime": 829.528,
+    "endTime": 833.986,
+    "text": "Now, I let them pick me up and flip me over, you understand?"
+  },
+  {
+    "startTime": 833.986,
+    "endTime": 837.399,
+    "text": "Well, you have to have a sense of humor about it, that's what I think."
+  },
+  {
+    "startTime": 837.399,
+    "endTime": 839.349,
+    "text": "No, but see, listen,"
+  },
+  {
+    "startTime": 839.349,
+    "endTime": 842.739,
+    "text": "you find me somebody who don't hate some part of their job."
+  },
+  {
+    "startTime": 842.739,
+    "endTime": 845.5020000000001,
+    "text": "I mean, there's a lot of things about this job that I hate,"
+  },
+  {
+    "startTime": 845.502,
+    "endTime": 847.072,
+    "text": "but the money is not one of them,"
+  },
+  {
+    "startTime": 847.072,
+    "endTime": 849.891,
+    "text": "and I will tell you, as long as this is the best possibility"
+  },
+  {
+    "startTime": 849.891,
+    "endTime": 851.655,
+    "text": "for me to make real money,"
+  },
+  {
+    "startTime": 851.655,
+    "endTime": 855.8109999999999,
+    "text": "I am going to be Jamaican-No-Fakin' if that's what they want to call me."
+  },
+  {
+    "startTime": 855.811,
+    "endTime": 859.318,
+    "text": "No, I'm not even from Jamaica. That's how they market me."
+  },
+  {
+    "startTime": 859.318,
+    "endTime": 863.495,
+    "text": "My family is from Trinidad and the Virgin Islands."
+  },
+  {
+    "startTime": 863.495,
+    "endTime": 865.711,
+    "text": "They don't know what I do, but you know what?"
+  },
+  {
+    "startTime": 865.711,
+    "endTime": 868.977,
+    "text": "My children, they know that their school fees are paid,"
+  },
+  {
+    "startTime": 868.977,
+    "endTime": 871.4839999999999,
+    "text": "they have their books and their computer,"
+  },
+  {
+    "startTime": 871.484,
+    "endTime": 874.456,
+    "text": "and this way, I know that they have a chance."
+  },
+  {
+    "startTime": 874.456,
+    "endTime": 877.266,
+    "text": "So I'm not going to tell you that what I do, it's easy,"
+  },
+  {
+    "startTime": 877.266,
+    "endTime": 882.1279999999999,
+    "text": "I'm not going to tell you that I feel -- what's that you said, liberated?"
+  },
+  {
+    "startTime": 882.128,
+    "endTime": 886.12,
+    "text": "But I'm going to tell you that I feel paid."
+  },
+  {
+    "startTime": 886.12,
+    "endTime": 890.872,
+    "text": "Right. (Applause)"
+  },
+  {
+    "startTime": 890.872,
+    "endTime": 893.496,
+    "text": "Thanks, that's lovely, and just the cup of tea, love,"
+  },
+  {
+    "startTime": 893.496,
+    "endTime": 895.47,
+    "text": "and just a splash of the whiskey."
+  },
+  {
+    "startTime": 895.47,
+    "endTime": 900.2,
+    "text": "It's perfect, that's grand. Just a drop more. A splash. Perfect."
+  },
+  {
+    "startTime": 900.2,
+    "endTime": 903.5500000000001,
+    "text": "What was your name? Peter? Is that right, so, Peter?"
+  },
+  {
+    "startTime": 903.55,
+    "endTime": 906.708,
+    "text": "Right. So that, that is the unique part of it for me,"
+  },
+  {
+    "startTime": 906.708,
+    "endTime": 910.6809999999999,
+    "text": "right, is that I ended up in both,"
+  },
+  {
+    "startTime": 910.681,
+    "endTime": 914.5500000000001,
+    "text": "first in the convent, and then in the prostitution after. That's right."
+  },
+  {
+    "startTime": 914.55,
+    "endTime": 916.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 916.16,
+    "endTime": 920.12,
+    "text": "So one woman at the university here in Dublin, she wrote about me."
+  },
+  {
+    "startTime": 920.12,
+    "endTime": 925.82,
+    "text": "She said, Maureen Fitzroy is the living embodiment of the whore-virgin dichotomy."
+  },
+  {
+    "startTime": 925.82,
+    "endTime": 927.341,
+    "text": "Right? (Laughter)"
+  },
+  {
+    "startTime": 927.341,
+    "endTime": 930.359,
+    "text": "Doesn't it sound like something you need to go into hospital?"
+  },
+  {
+    "startTime": 930.359,
+    "endTime": 932.248,
+    "text": "Well, I've got this terrible dichotomy."
+  },
+  {
+    "startTime": 932.248,
+    "endTime": 933.7810000000001,
+    "text": "Doesn't it."
+  },
+  {
+    "startTime": 933.781,
+    "endTime": 937.1189999999999,
+    "text": "Right. Well, for me though, it was, as a girl, it started with me dad."
+  },
+  {
+    "startTime": 937.119,
+    "endTime": 940.394,
+    "text": "I mean, half the time, when he spoke to us, it was just a sort of"
+  },
+  {
+    "startTime": 940.394,
+    "endTime": 944.856,
+    "text": "tell us we were all useless rotten idiots and we had no morals, that type of thing."
+  },
+  {
+    "startTime": 944.856,
+    "endTime": 948.177,
+    "text": "And I certainly didn't do myself any favors."
+  },
+  {
+    "startTime": 948.177,
+    "endTime": 950.4060000000001,
+    "text": "By the time I was 16,"
+  },
+  {
+    "startTime": 950.406,
+    "endTime": 953.285,
+    "text": "I had started messing about with this older fella,"
+  },
+  {
+    "startTime": 953.285,
+    "endTime": 956.837,
+    "text": "and he wanted it to be our little secret,"
+  },
+  {
+    "startTime": 956.837,
+    "endTime": 959.345,
+    "text": "and I did as I was told, didn't I,"
+  },
+  {
+    "startTime": 959.345,
+    "endTime": 966.7520000000001,
+    "text": "and when that got back to me dad, he had me sent straightaway to the convent."
+  },
+  {
+    "startTime": 966.752,
+    "endTime": 971.17,
+    "text": "Well no, that older fella, he would still come to find me in the convent."
+  },
+  {
+    "startTime": 971.17,
+    "endTime": 972.766,
+    "text": "Yeah, he'd leave me notes"
+  },
+  {
+    "startTime": 972.766,
+    "endTime": 976.001,
+    "text": "tucked into the holes in the brick at the back of the charity shop"
+  },
+  {
+    "startTime": 976.001,
+    "endTime": 977.188,
+    "text": "so we could meet."
+  },
+  {
+    "startTime": 977.188,
+    "endTime": 980.915,
+    "text": "And he'd tell me how he's leaving his wife,"
+  },
+  {
+    "startTime": 980.915,
+    "endTime": 985.141,
+    "text": "and I believed him, until I got pregnant."
+  },
+  {
+    "startTime": 985.141,
+    "endTime": 990.458,
+    "text": "I did, Peter, and I left him a note about it in our special place there,"
+  },
+  {
+    "startTime": 990.458,
+    "endTime": 993.477,
+    "text": "and I never did hear from him again."
+  },
+  {
+    "startTime": 993.477,
+    "endTime": 999.0699999999999,
+    "text": "No, I gave it up for adoption so it could have a decent life,"
+  },
+  {
+    "startTime": 999.07,
+    "endTime": 1002.815,
+    "text": "and then they wouldn't let me back into the convent."
+  },
+  {
+    "startTime": 1002.82,
+    "endTime": 1006.278,
+    "text": "No, my one sister Virginia gave me a fiver for the coach to Dublin,"
+  },
+  {
+    "startTime": 1006.27,
+    "endTime": 1008.9879999999999,
+    "text": "and that's how I ended up here."
+  },
+  {
+    "startTime": 1008.99,
+    "endTime": 1013.119,
+    "text": "Well, surprise, surprise, I fell in love with another fella much older than me,"
+  },
+  {
+    "startTime": 1013.12,
+    "endTime": 1019.349,
+    "text": "and I always say I was just so happy because he didn't drink,"
+  },
+  {
+    "startTime": 1019.35,
+    "endTime": 1022.503,
+    "text": "I married the bastard."
+  },
+  {
+    "startTime": 1022.5,
+    "endTime": 1026.182,
+    "text": "Well, he didn't drink, but he did have just the wee heroin problem, didn't he,"
+  },
+  {
+    "startTime": 1026.18,
+    "endTime": 1029.275,
+    "text": "and -- That's right, and before I knew it,"
+  },
+  {
+    "startTime": 1029.28,
+    "endTime": 1033.704,
+    "text": "he was the one who turned me on to the prostitution, my own husband."
+  },
+  {
+    "startTime": 1033.7,
+    "endTime": 1035.768,
+    "text": "He had me supporting the both of us."
+  },
+  {
+    "startTime": 1035.77,
+    "endTime": 1038.143,
+    "text": "I was 18."
+  },
+  {
+    "startTime": 1038.14,
+    "endTime": 1042.505,
+    "text": "Well, it wasn't Pretty Woman, I can tell you that."
+  },
+  {
+    "startTime": 1042.51,
+    "endTime": 1045.567,
+    "text": "That Julia Roberts,"
+  },
+  {
+    "startTime": 1045.57,
+    "endTime": 1049.5729999999999,
+    "text": "if she'd ever had to sleep with a man to put a few pounds in her pocket,"
+  },
+  {
+    "startTime": 1049.57,
+    "endTime": 1052.1109999999999,
+    "text": "I don't think she'd ever have made that film."
+  },
+  {
+    "startTime": 1052.11,
+    "endTime": 1054.339,
+    "text": "Well, for your record,"
+  },
+  {
+    "startTime": 1054.34,
+    "endTime": 1058.6209999999999,
+    "text": "my opinion of the legalization, I'd say I'm against it."
+  },
+  {
+    "startTime": 1058.62,
+    "endTime": 1060.8639999999998,
+    "text": "I just, I don't care what these young girls say."
+  },
+  {
+    "startTime": 1060.86,
+    "endTime": 1063.971,
+    "text": "You know, living like that, you're just lost,"
+  },
+  {
+    "startTime": 1063.97,
+    "endTime": 1066.478,
+    "text": "and, you know, I'm 63 years old."
+  },
+  {
+    "startTime": 1066.48,
+    "endTime": 1069.5,
+    "text": "I'm still trying to find who I am."
+  },
+  {
+    "startTime": 1069.5,
+    "endTime": 1073.237,
+    "text": "You know, I never was a wife or a nun,"
+  },
+  {
+    "startTime": 1073.24,
+    "endTime": 1076.56,
+    "text": "or a prostitute even, really, not really."
+  },
+  {
+    "startTime": 1076.56,
+    "endTime": 1079.648,
+    "text": "Nobody ever asked who I wanted to be."
+  },
+  {
+    "startTime": 1079.65,
+    "endTime": 1081.4840000000002,
+    "text": "They just told me,"
+  },
+  {
+    "startTime": 1081.48,
+    "endTime": 1083.431,
+    "text": "and if you legalize it,"
+  },
+  {
+    "startTime": 1083.43,
+    "endTime": 1087.261,
+    "text": "then you're really telling these girls, \"Go on and get lost for a living,\""
+  },
+  {
+    "startTime": 1087.26,
+    "endTime": 1090.608,
+    "text": "and a lot of them, they'll do as they're told."
+  },
+  {
+    "startTime": 1090.61,
+    "endTime": 1095.667,
+    "text": "All right, so four perspectives from four quite -- (Applause) --"
+  },
+  {
+    "startTime": 1095.67,
+    "endTime": 1097.8300000000002,
+    "text": "four quite different voices there, right?"
+  },
+  {
+    "startTime": 1097.83,
+    "endTime": 1102.787,
+    "text": "One woman saying sex itself is natural but the sex industry seems to"
+  },
+  {
+    "startTime": 1102.79,
+    "endTime": 1104.798,
+    "text": "mechanize or industrialize it."
+  },
+  {
+    "startTime": 1104.79,
+    "endTime": 1109.158,
+    "text": "Then the second woman considered sex work to be empowering,"
+  },
+  {
+    "startTime": 1109.16,
+    "endTime": 1112.989,
+    "text": "liberating, and feminist, though she, herself, notably,"
+  },
+  {
+    "startTime": 1112.99,
+    "endTime": 1115.567,
+    "text": "did not seem keen to do it."
+  },
+  {
+    "startTime": 1115.57,
+    "endTime": 1119.9969999999998,
+    "text": "The third woman, who actually was a so-called sex worker"
+  },
+  {
+    "startTime": 1119.99,
+    "endTime": 1123.335,
+    "text": "did not agree that it was liberating but she wanted the right"
+  },
+  {
+    "startTime": 1123.34,
+    "endTime": 1125.1,
+    "text": "to the economic empowerment,"
+  },
+  {
+    "startTime": 1125.1,
+    "endTime": 1128.4119999999998,
+    "text": "and then we hear the fourth woman saying not only prostitution itself"
+  },
+  {
+    "startTime": 1128.41,
+    "endTime": 1130.9360000000001,
+    "text": "but proscribed roles for women in general"
+  },
+  {
+    "startTime": 1130.94,
+    "endTime": 1134.4,
+    "text": "prevented her from ever finding who she was, right?"
+  },
+  {
+    "startTime": 1134.4,
+    "endTime": 1136.3970000000002,
+    "text": "So another fact most people did not know"
+  },
+  {
+    "startTime": 1136.4,
+    "endTime": 1142.085,
+    "text": "was the average age of an at-risk girl being introduced to the sex industry"
+  },
+  {
+    "startTime": 1142.08,
+    "endTime": 1144.11,
+    "text": "was 12 or 13."
+  },
+  {
+    "startTime": 1144.11,
+    "endTime": 1147.146,
+    "text": "Also consider that the age when all girls in that society"
+  },
+  {
+    "startTime": 1147.15,
+    "endTime": 1150.795,
+    "text": "first became exposed to sexualized images of women"
+  },
+  {
+    "startTime": 1150.79,
+    "endTime": 1153.344,
+    "text": "was quite a bit earlier, right?"
+  },
+  {
+    "startTime": 1153.34,
+    "endTime": 1158.1,
+    "text": "This was a doll called Barbie, right?"
+  },
+  {
+    "startTime": 1158.1,
+    "endTime": 1161.687,
+    "text": "I initially thought she was an educational tool for anorexia prevention --"
+  },
+  {
+    "startTime": 1161.69,
+    "endTime": 1162.8400000000001,
+    "text": "(Laughter) --"
+  },
+  {
+    "startTime": 1162.84,
+    "endTime": 1166.2069999999999,
+    "text": "but actually she was considered by many"
+  },
+  {
+    "startTime": 1166.21,
+    "endTime": 1170.2730000000001,
+    "text": "to be a wholesome symbol of femininity,"
+  },
+  {
+    "startTime": 1170.27,
+    "endTime": 1173.613,
+    "text": "and often young girls began what was called dieting."
+  },
+  {
+    "startTime": 1173.61,
+    "endTime": 1177.849,
+    "text": "Remember this? This was restricting food intake on purpose"
+  },
+  {
+    "startTime": 1177.85,
+    "endTime": 1179.23,
+    "text": "by the age of six,"
+  },
+  {
+    "startTime": 1179.23,
+    "endTime": 1182.057,
+    "text": "and defining themselves based on attractiveness"
+  },
+  {
+    "startTime": 1182.06,
+    "endTime": 1183.8999999999999,
+    "text": "by around that same time. Right?"
+  },
+  {
+    "startTime": 1183.9,
+    "endTime": 1185.711,
+    "text": "Yes?"
+  },
+  {
+    "startTime": 1185.71,
+    "endTime": 1187.7540000000001,
+    "text": "Right, Bradley, okay, excellent point."
+  },
+  {
+    "startTime": 1187.76,
+    "endTime": 1192.589,
+    "text": "So there was a lucrative market in that society in convincing all people"
+  },
+  {
+    "startTime": 1192.58,
+    "endTime": 1196.4579999999999,
+    "text": "they had to look a certain way to even have a sex life, right?"
+  },
+  {
+    "startTime": 1196.46,
+    "endTime": 1201.615,
+    "text": "But girls, especially, were expected to be \"sexy\" while avoiding"
+  },
+  {
+    "startTime": 1201.62,
+    "endTime": 1204.972,
+    "text": "being perceived as \"sluts\" for being sexual. Right?"
+  },
+  {
+    "startTime": 1204.97,
+    "endTime": 1207.237,
+    "text": "So there's that shame piece we've heard about."
+  },
+  {
+    "startTime": 1207.24,
+    "endTime": 1208.842,
+    "text": "Yes."
+  },
+  {
+    "startTime": 1208.84,
+    "endTime": 1210.697,
+    "text": "Valerie, right? Okay, very good."
+  },
+  {
+    "startTime": 1210.7,
+    "endTime": 1213.51,
+    "text": "Of course, men were having sex as well,"
+  },
+  {
+    "startTime": 1213.51,
+    "endTime": 1215.948,
+    "text": "but you'll remember from the reading,"
+  },
+  {
+    "startTime": 1215.94,
+    "endTime": 1218.671,
+    "text": "what were male sluts called?"
+  },
+  {
+    "startTime": 1218.68,
+    "endTime": 1220.546,
+    "text": "Very good, they were called men."
+  },
+  {
+    "startTime": 1220.54,
+    "endTime": 1222.7459999999999,
+    "text": "(Laughter) (Applause)"
+  },
+  {
+    "startTime": 1222.75,
+    "endTime": 1228.862,
+    "text": "So not easy living in a world like that, right?"
+  },
+  {
+    "startTime": 1228.86,
+    "endTime": 1230.712,
+    "text": "Though it was not all bad news either."
+  },
+  {
+    "startTime": 1230.71,
+    "endTime": 1234.2160000000001,
+    "text": "Most women in the early 2000s considered themselves empowered,"
+  },
+  {
+    "startTime": 1234.22,
+    "endTime": 1238.453,
+    "text": "and men generally felt they were also evolved in this area,"
+  },
+  {
+    "startTime": 1238.45,
+    "endTime": 1241.3,
+    "text": "and, in fact, most people would have been aware of issues"
+  },
+  {
+    "startTime": 1241.3,
+    "endTime": 1243.235,
+    "text": "like human trafficking, for example,"
+  },
+  {
+    "startTime": 1243.23,
+    "endTime": 1245.631,
+    "text": "but they would have seen that as quite separate"
+  },
+  {
+    "startTime": 1245.64,
+    "endTime": 1248.431,
+    "text": "from more recreational adult entertainment."
+  },
+  {
+    "startTime": 1248.43,
+    "endTime": 1251.853,
+    "text": "And so we'll just very briefly, class -- we don't have a lot of time --"
+  },
+  {
+    "startTime": 1251.85,
+    "endTime": 1254.0649999999998,
+    "text": "we'll just very briefly hear from a man"
+  },
+  {
+    "startTime": 1254.06,
+    "endTime": 1255.8339999999998,
+    "text": "on our topic at this stage."
+  },
+  {
+    "startTime": 1255.84,
+    "endTime": 1263.427,
+    "text": "So this next subject was interviewed on the night of his bachelor party."
+  },
+  {
+    "startTime": 1263.43,
+    "endTime": 1266.9830000000002,
+    "text": "Dude, can you, all right, can you just keep it down?"
+  },
+  {
+    "startTime": 1266.98,
+    "endTime": 1269.186,
+    "text": "I'm trying to talk to BERT right now."
+  },
+  {
+    "startTime": 1269.19,
+    "endTime": 1271.303,
+    "text": "Oh, your name's not BERT."
+  },
+  {
+    "startTime": 1271.3,
+    "endTime": 1273.575,
+    "text": "BERT's the name of the, oh, all right."
+  },
+  {
+    "startTime": 1273.57,
+    "endTime": 1276.635,
+    "text": "No, no, no, totally, it's totally fine. I'm mostly sober,"
+  },
+  {
+    "startTime": 1276.64,
+    "endTime": 1280.075,
+    "text": "so I just want to be helpful."
+  },
+  {
+    "startTime": 1280.07,
+    "endTime": 1283.889,
+    "text": "Yeah, and I totally believe in causes, yeah, like, all that stuff."
+  },
+  {
+    "startTime": 1283.89,
+    "endTime": 1285.3300000000002,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1285.33,
+    "endTime": 1288.952,
+    "text": "And actually, I'm wearing Toms right now."
+  },
+  {
+    "startTime": 1288.95,
+    "endTime": 1292.556,
+    "text": "Yeah, Toms, like, the shoes,"
+  },
+  {
+    "startTime": 1292.56,
+    "endTime": 1296.857,
+    "text": "like, you buy a pair and then a kid in Africa gets clean water."
+  },
+  {
+    "startTime": 1296.86,
+    "endTime": 1298.397,
+    "text": "Yeah. Totally."
+  },
+  {
+    "startTime": 1298.39,
+    "endTime": 1301.1770000000001,
+    "text": "But what was the question again? Sorry."
+  },
+  {
+    "startTime": 1301.18,
+    "endTime": 1305.8880000000001,
+    "text": "Of course I believe in women's rights. I'm marrying a woman."
+  },
+  {
+    "startTime": 1305.89,
+    "endTime": 1308.39,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1308.39,
+    "endTime": 1312.019,
+    "text": "No, but I mean, like, just because I'm in a strip club parking lot"
+  },
+  {
+    "startTime": 1312.02,
+    "endTime": 1315.0439999999999,
+    "text": "doesn't mean that I'm, like, a sexist or whatever."
+  },
+  {
+    "startTime": 1315.04,
+    "endTime": 1319.452,
+    "text": "My fiancee is totally amazing, she's totally a strong girl, woman,"
+  },
+  {
+    "startTime": 1319.45,
+    "endTime": 1321.945,
+    "text": "smart woman, like, the whole thing."
+  },
+  {
+    "startTime": 1321.95,
+    "endTime": 1325.519,
+    "text": "Yeah, she knows I'm here. She's probably at a strip club herself right now,"
+  },
+  {
+    "startTime": 1325.52,
+    "endTime": 1327.512,
+    "text": "like, as a joke, same as me."
+  },
+  {
+    "startTime": 1327.51,
+    "endTime": 1329.602,
+    "text": "My best man, I told him he could surprise me,"
+  },
+  {
+    "startTime": 1329.6,
+    "endTime": 1331.5949999999998,
+    "text": "and he thought this would be hilarious,"
+  },
+  {
+    "startTime": 1331.6,
+    "endTime": 1334.3529999999998,
+    "text": "but this is not something."
+  },
+  {
+    "startTime": 1334.35,
+    "endTime": 1337.06,
+    "text": "Yeah, we all went to B school together."
+  },
+  {
+    "startTime": 1337.06,
+    "endTime": 1338.54,
+    "text": "Wharton."
+  },
+  {
+    "startTime": 1338.54,
+    "endTime": 1339.724,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1339.72,
+    "endTime": 1342.167,
+    "text": "Yeah, so, dude, can you guys --"
+  },
+  {
+    "startTime": 1342.17,
+    "endTime": 1344.086,
+    "text": "All right, but it's my bachelor party,"
+  },
+  {
+    "startTime": 1344.09,
+    "endTime": 1347.598,
+    "text": "and I can spend it in the parking lot with Anderson Cooper if I want to."
+  },
+  {
+    "startTime": 1347.59,
+    "endTime": 1351.071,
+    "text": "All right, I'll see you in there."
+  },
+  {
+    "startTime": 1351.08,
+    "endTime": 1353.2179999999998,
+    "text": "All right, okay, so Anderson,"
+  },
+  {
+    "startTime": 1353.21,
+    "endTime": 1357.107,
+    "text": "so, like, first of all, stripping,"
+  },
+  {
+    "startTime": 1357.11,
+    "endTime": 1359.894,
+    "text": "but then, like, all the other things you're talking about,"
+  },
+  {
+    "startTime": 1359.9,
+    "endTime": 1363.4080000000001,
+    "text": "prostitution and all that stuff, that's, like, not the same thing at all."
+  },
+  {
+    "startTime": 1363.4,
+    "endTime": 1366.6560000000002,
+    "text": "You know? Like, you keep calling it the sex industry or whatever,"
+  },
+  {
+    "startTime": 1366.66,
+    "endTime": 1370.606,
+    "text": "but it's like, if the girl wants to be an exotic dancer"
+  },
+  {
+    "startTime": 1370.6,
+    "endTime": 1375.087,
+    "text": "and she's 18, like, that's her right."
+  },
+  {
+    "startTime": 1375.09,
+    "endTime": 1378.338,
+    "text": "Whoa, whoa, I hear what you're saying, but I just feel like people,"
+  },
+  {
+    "startTime": 1378.34,
+    "endTime": 1381.9759999999999,
+    "text": "they just want to make it seem like all dudes are just, like, predators,"
+  },
+  {
+    "startTime": 1381.98,
+    "endTime": 1385.118,
+    "text": "that we would just automatically go to a prostitute, or whatever."
+  },
+  {
+    "startTime": 1385.11,
+    "endTime": 1390.346,
+    "text": "Even, like, when I pledged, you know, like when I rushed my fraternity."
+  },
+  {
+    "startTime": 1390.35,
+    "endTime": 1393.337,
+    "text": "My brothers who I'm close to, those guys, they're all like me."
+  },
+  {
+    "startTime": 1393.34,
+    "endTime": 1397.293,
+    "text": "We're just normal people, but, like, there's this myth that you must"
+  },
+  {
+    "startTime": 1397.29,
+    "endTime": 1401.9279999999999,
+    "text": "be that guy who is kind of an asshole, and like, all bros before hos or whatever."
+  },
+  {
+    "startTime": 1401.93,
+    "endTime": 1406.605,
+    "text": "And actually, like, bros before hos, it doesn't mean like what it sounds like."
+  },
+  {
+    "startTime": 1406.6,
+    "endTime": 1410.377,
+    "text": "It's actually just like a joking way of saying that you care about your brothers"
+  },
+  {
+    "startTime": 1410.38,
+    "endTime": 1413.4660000000001,
+    "text": "and you put them first."
+  },
+  {
+    "startTime": 1413.47,
+    "endTime": 1415.58,
+    "text": "Yeah, but, you can't blame the media, either."
+  },
+  {
+    "startTime": 1415.58,
+    "endTime": 1418.114,
+    "text": "I mean, like, if you go watch \"Hangover 2,\""
+  },
+  {
+    "startTime": 1418.11,
+    "endTime": 1420.264,
+    "text": "and you think that's an instruction manual"
+  },
+  {
+    "startTime": 1420.26,
+    "endTime": 1422.796,
+    "text": "for your life, like, I don't know what to tell you."
+  },
+  {
+    "startTime": 1422.8,
+    "endTime": 1424.8619999999999,
+    "text": "You know? You don't watch \"Bourne Identity\""
+  },
+  {
+    "startTime": 1424.86,
+    "endTime": 1429.734,
+    "text": "and go drive your car over a gondola in Venice. (Laughter)"
+  },
+  {
+    "startTime": 1429.74,
+    "endTime": 1432.676,
+    "text": "Well, yeah, okay, like, if you're a little kid or whatever,"
+  },
+  {
+    "startTime": 1432.67,
+    "endTime": 1434.874,
+    "text": "of course it's different, but --"
+  },
+  {
+    "startTime": 1434.88,
+    "endTime": 1439.384,
+    "text": "Yeah, all right, I remember one thing like that."
+  },
+  {
+    "startTime": 1439.38,
+    "endTime": 1443.2800000000002,
+    "text": "I was at this kid's house one time playing GTA,"
+  },
+  {
+    "startTime": 1443.28,
+    "endTime": 1445.417,
+    "text": "uh, Grand Theft Auto?"
+  },
+  {
+    "startTime": 1445.42,
+    "endTime": 1449.596,
+    "text": "Dude, are you from Canada? (Laughter)"
+  },
+  {
+    "startTime": 1449.59,
+    "endTime": 1452.983,
+    "text": "So, like, whatever, with Grand Theft Auto,"
+  },
+  {
+    "startTime": 1452.99,
+    "endTime": 1456.164,
+    "text": "you're this kid, like, you're this guy walking around or whatever,"
+  },
+  {
+    "startTime": 1456.16,
+    "endTime": 1459.092,
+    "text": "and you can basically, like, the more cops you kill,"
+  },
+  {
+    "startTime": 1459.09,
+    "endTime": 1461.761,
+    "text": "the more points you get, and stuff like that."
+  },
+  {
+    "startTime": 1461.76,
+    "endTime": 1464.598,
+    "text": "But also, you can find prostitutes"
+  },
+  {
+    "startTime": 1464.6,
+    "endTime": 1467.7969999999998,
+    "text": "and obviously you can do sexual stuff with them,"
+  },
+  {
+    "startTime": 1467.8,
+    "endTime": 1472.527,
+    "text": "but you can, like, kill them and take your money back."
+  },
+  {
+    "startTime": 1472.53,
+    "endTime": 1476.471,
+    "text": "Yeah, this kid, I remember he ran over a couple of them a few times with his car"
+  },
+  {
+    "startTime": 1476.47,
+    "endTime": 1479.324,
+    "text": "and he got all these points."
+  },
+  {
+    "startTime": 1479.32,
+    "endTime": 1483.685,
+    "text": "We were, like, 10, I think."
+  },
+  {
+    "startTime": 1483.69,
+    "endTime": 1486.832,
+    "text": "It felt pretty terrible, actually."
+  },
+  {
+    "startTime": 1486.83,
+    "endTime": 1492.848,
+    "text": "No, I don't think I said anything, I just finished playing and went home."
+  },
+  {
+    "startTime": 1492.84,
+    "endTime": 1495.7649999999999,
+    "text": "All right class, so then there were men who had more than just"
+  },
+  {
+    "startTime": 1495.77,
+    "endTime": 1499.955,
+    "text": "a passing relationship to this issue. (Laughter)"
+  },
+  {
+    "startTime": 1499.95,
+    "endTime": 1504.875,
+    "text": "The next subject described himself as a reformed and remorseful pimp"
+  },
+  {
+    "startTime": 1504.88,
+    "endTime": 1506.526,
+    "text": "turned motivational speaker,"
+  },
+  {
+    "startTime": 1506.53,
+    "endTime": 1508.968,
+    "text": "life coach and therapist,"
+  },
+  {
+    "startTime": 1508.96,
+    "endTime": 1512.93,
+    "text": "but if you want to know more about him, you'll have to come to the entire play."
+  },
+  {
+    "startTime": 1512.93,
+    "endTime": 1516.9160000000002,
+    "text": "Thank you so much, you beautiful TED audience."
+  },
+  {
+    "startTime": 1516.92,
+    "endTime": 1518.7160000000001,
+    "text": "I will see you for \"Sell/Buy/Date.\""
+  },
+  {
+    "startTime": 1518.72,
+    "endTime": 1528.72,
+    "text": "(Applause)"
+  }
+]
