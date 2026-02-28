@@ -1,0 +1,372 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 12.809,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 13.2,
+    "endTime": 15.12,
+    "text": "Michael Jordan once said, \"I don't know"
+  },
+  {
+    "startTime": 15.12,
+    "endTime": 17.039,
+    "text": "whether I'll fly or not. I know that"
+  },
+  {
+    "startTime": 17.039,
+    "endTime": 19.199,
+    "text": "when I'm in the air, sometimes I feel"
+  },
+  {
+    "startTime": 19.199,
+    "endTime": 21.68,
+    "text": "like I don't ever have to come down. But"
+  },
+  {
+    "startTime": 21.68,
+    "endTime": 23.68,
+    "text": "thanks to Isaac Newton, we know that"
+  },
+  {
+    "startTime": 23.68,
+    "endTime": 27.039,
+    "text": "what goes up must eventually come down."
+  },
+  {
+    "startTime": 27.039,
+    "endTime": 29.92,
+    "text": "In fact, the human limit on a flat"
+  },
+  {
+    "startTime": 29.92,
+    "endTime": 32.96,
+    "text": "surface for hang time, or the time from"
+  },
+  {
+    "startTime": 32.96,
+    "endTime": 34.96,
+    "text": "when your feet leave the ground to when"
+  },
+  {
+    "startTime": 34.96,
+    "endTime": 37.68,
+    "text": "they touch down again, is only about 1"
+  },
+  {
+    "startTime": 37.68,
+    "endTime": 40.64,
+    "text": "second. And yes, that even includes his"
+  },
+  {
+    "startTime": 40.64,
+    "endTime": 43.44,
+    "text": "airs, whose infamous dunk from the free"
+  },
+  {
+    "startTime": 43.44,
+    "endTime": 47.399,
+    "text": "throw line has been calculated at 92"
+  },
+  {
+    "startTime": 47.399,
+    "endTime": 50.64,
+    "text": "seconds. And of course, gravity is"
+  },
+  {
+    "startTime": 50.64,
+    "endTime": 52.559,
+    "text": "what's making it so hard to stay in the"
+  },
+  {
+    "startTime": 52.559,
+    "endTime": 55.36,
+    "text": "air longer. Earth's gravity pulls all"
+  },
+  {
+    "startTime": 55.36,
+    "endTime": 57.68,
+    "text": "nearby objects towards the planet's"
+  },
+  {
+    "startTime": 57.68,
+    "endTime": 62.76,
+    "text": "surface, accelerating them at 9.8 m/s"
+  },
+  {
+    "startTime": 62.76,
+    "endTime": 66.24,
+    "text": "squared. As soon as you jump, gravity is"
+  },
+  {
+    "startTime": 66.24,
+    "endTime": 69.04,
+    "text": "already pulling you back down. Using"
+  },
+  {
+    "startTime": 69.04,
+    "endTime": 70.96,
+    "text": "what we know about gravity, we can"
+  },
+  {
+    "startTime": 70.96,
+    "endTime": 73.68,
+    "text": "derive a fairly simple equation that"
+  },
+  {
+    "startTime": 73.68,
+    "endTime": 76.479,
+    "text": "models hang time. This equation states"
+  },
+  {
+    "startTime": 76.479,
+    "endTime": 78.56,
+    "text": "that the height of a falling object"
+  },
+  {
+    "startTime": 78.56,
+    "endTime": 81.36,
+    "text": "above a surface is equal to the object's"
+  },
+  {
+    "startTime": 81.36,
+    "endTime": 83.92,
+    "text": "initial height from the surface plus its"
+  },
+  {
+    "startTime": 83.92,
+    "endTime": 86.799,
+    "text": "initial velocity multiplied by how many"
+  },
+  {
+    "startTime": 86.799,
+    "endTime": 89.6,
+    "text": "seconds it's been in the air plus half"
+  },
+  {
+    "startTime": 89.6,
+    "endTime": 92.0,
+    "text": "of the gravitational acceleration"
+  },
+  {
+    "startTime": 92.0,
+    "endTime": 94.24,
+    "text": "multiplied by the square of the number"
+  },
+  {
+    "startTime": 94.24,
+    "endTime": 97.439,
+    "text": "of seconds spent in the air. Now we can"
+  },
+  {
+    "startTime": 97.439,
+    "endTime": 99.92,
+    "text": "use this equation to model MJ's free"
+  },
+  {
+    "startTime": 99.92,
+    "endTime": 103.52,
+    "text": "throw dunk. Say MJ starts as one does at"
+  },
+  {
+    "startTime": 103.52,
+    "endTime": 106.399,
+    "text": "0 m off the ground and jumps with an"
+  },
+  {
+    "startTime": 106.399,
+    "endTime": 110.36,
+    "text": "initial vertical velocity of 4.51"
+  },
+  {
+    "startTime": 110.36,
+    "endTime": 112.96,
+    "text": "m/s. Let's see what happens if we model"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 115.439,
+    "text": "this equation on a coordinate grid."
+  },
+  {
+    "startTime": 115.439,
+    "endTime": 117.68,
+    "text": "Since the formula is quadratic, the"
+  },
+  {
+    "startTime": 117.68,
+    "endTime": 119.68,
+    "text": "relationship between height and time"
+  },
+  {
+    "startTime": 119.68,
+    "endTime": 122.2,
+    "text": "spent in the air has the shape of a"
+  },
+  {
+    "startTime": 122.2,
+    "endTime": 124.479,
+    "text": "parabola. So what does it tell us about"
+  },
+  {
+    "startTime": 124.479,
+    "endTime": 127.68,
+    "text": "MJ's dunk? Well, the parabola's vertex"
+  },
+  {
+    "startTime": 127.68,
+    "endTime": 129.92,
+    "text": "shows us his maximum height off the"
+  },
+  {
+    "startTime": 129.92,
+    "endTime": 131.56,
+    "text": "ground at"
+  },
+  {
+    "startTime": 131.56,
+    "endTime": 135.68,
+    "text": "1.038 m, and the x intercepts tell us"
+  },
+  {
+    "startTime": 135.68,
+    "endTime": 138.16,
+    "text": "when he took off and when he landed,"
+  },
+  {
+    "startTime": 138.16,
+    "endTime": 141.239,
+    "text": "with the difference being the hang"
+  },
+  {
+    "startTime": 141.239,
+    "endTime": 143.76,
+    "text": "time. It looks like Earth's gravity"
+  },
+  {
+    "startTime": 143.76,
+    "endTime": 146.4,
+    "text": "makes it pretty hard for even MJ to get"
+  },
+  {
+    "startTime": 146.4,
+    "endTime": 148.8,
+    "text": "some solid hang time. But what if he"
+  },
+  {
+    "startTime": 148.8,
+    "endTime": 150.72,
+    "text": "were playing an away game somewhere"
+  },
+  {
+    "startTime": 150.72,
+    "endTime": 153.68,
+    "text": "else, somewhere far? Well, the"
+  },
+  {
+    "startTime": 153.68,
+    "endTime": 155.599,
+    "text": "gravitational acceleration on our"
+  },
+  {
+    "startTime": 155.599,
+    "endTime": 159.879,
+    "text": "nearest planetary neighbor Venus is 8.87"
+  },
+  {
+    "startTime": 159.879,
+    "endTime": 163.68,
+    "text": "m/s squared. Pretty similar to Earth's."
+  },
+  {
+    "startTime": 163.68,
+    "endTime": 165.84,
+    "text": "If Michael jumped here with the same"
+  },
+  {
+    "startTime": 165.84,
+    "endTime": 168.239,
+    "text": "force as he did back on Earth, he would"
+  },
+  {
+    "startTime": 168.239,
+    "endTime": 170.48,
+    "text": "be able to get more than a meter off the"
+  },
+  {
+    "startTime": 170.48,
+    "endTime": 172.879,
+    "text": "ground, giving him a hang time of a"
+  },
+  {
+    "startTime": 172.879,
+    "endTime": 175.76,
+    "text": "little over 1 second."
+  },
+  {
+    "startTime": 175.76,
+    "endTime": 178.0,
+    "text": "The competition on Jupiter with its"
+  },
+  {
+    "startTime": 178.0,
+    "endTime": 179.879,
+    "text": "gravitational pole of"
+  },
+  {
+    "startTime": 179.879,
+    "endTime": 183.8,
+    "text": "24.92 m/s squared would be much less"
+  },
+  {
+    "startTime": 183.8,
+    "endTime": 186.159,
+    "text": "entertaining. Here, Michael wouldn't"
+  },
+  {
+    "startTime": 186.159,
+    "endTime": 188.959,
+    "text": "even get a half meter off the ground and"
+  },
+  {
+    "startTime": 188.959,
+    "endTime": 193.12,
+    "text": "would remain airborne a mere 41 seconds."
+  },
+  {
+    "startTime": 193.12,
+    "endTime": 195.519,
+    "text": "But a game on the moon would be quite"
+  },
+  {
+    "startTime": 195.519,
+    "endTime": 198.0,
+    "text": "spectacular. MJ could take off from"
+  },
+  {
+    "startTime": 198.0,
+    "endTime": 201.519,
+    "text": "behind half court, jumping over 6 m"
+  },
+  {
+    "startTime": 201.519,
+    "endTime": 204.64,
+    "text": "high. And his hang time of over 5 and"
+  },
+  {
+    "startTime": 204.64,
+    "endTime": 207.04,
+    "text": "1/2 seconds would be long enough for"
+  },
+  {
+    "startTime": 207.04,
+    "endTime": 211.719,
+    "text": "anyone to believe he can fly."
+  },
+  {
+    "startTime": 217.92,
+    "endTime": 221.06,
+    "text": "[Music]"
+  }
+]

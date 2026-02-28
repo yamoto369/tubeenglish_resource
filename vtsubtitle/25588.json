@@ -1,0 +1,262 @@
+[
+  {
+    "startTime": 12.923,
+    "endTime": 14.665,
+    "text": "Michael Jordan once said,"
+  },
+  {
+    "startTime": 14.665,
+    "endTime": 16.477999999999998,
+    "text": "\"I don't know whether I'll fly or not."
+  },
+  {
+    "startTime": 16.478,
+    "endTime": 18.87,
+    "text": "I know that when I'm in the air"
+  },
+  {
+    "startTime": 18.87,
+    "endTime": 21.736,
+    "text": "sometimes I feel like I don't ever have to come down.\""
+  },
+  {
+    "startTime": 21.736,
+    "endTime": 23.302,
+    "text": "But thanks to Isaac Newton,"
+  },
+  {
+    "startTime": 23.302,
+    "endTime": 27.091,
+    "text": "we know that what goes up must eventually come down."
+  },
+  {
+    "startTime": 27.091,
+    "endTime": 31.762,
+    "text": "In fact, the human limit  on a flat surface for hang time,"
+  },
+  {
+    "startTime": 31.762,
+    "endTime": 36.379,
+    "text": "or the time from when your feet leave the ground to when they touch down again,"
+  },
+  {
+    "startTime": 36.379,
+    "endTime": 38.653999999999996,
+    "text": "is only about one second,"
+  },
+  {
+    "startTime": 38.654,
+    "endTime": 41.583000000000006,
+    "text": "and, yes, that even includes his airness,"
+  },
+  {
+    "startTime": 41.583,
+    "endTime": 44.436,
+    "text": "whose infamous dunk  from the free throw line"
+  },
+  {
+    "startTime": 44.436,
+    "endTime": 48.517,
+    "text": "has been calculated at .92 seconds."
+  },
+  {
+    "startTime": 48.517,
+    "endTime": 53.658,
+    "text": "And, of course, gravity is what's making it so hard to stay in the air longer."
+  },
+  {
+    "startTime": 53.658,
+    "endTime": 58.506,
+    "text": "Earth's gravity pulls all nearby objects towards the planet's surface,"
+  },
+  {
+    "startTime": 58.506,
+    "endTime": 63.418,
+    "text": "accelerating them  at 9.8 meters per second squared."
+  },
+  {
+    "startTime": 63.418,
+    "endTime": 68.882,
+    "text": "As soon as you jump, gravity is already pulling you back down."
+  },
+  {
+    "startTime": 68.882,
+    "endTime": 70.777,
+    "text": "Using what we know about gravity,"
+  },
+  {
+    "startTime": 70.777,
+    "endTime": 75.296,
+    "text": "we can derive a fairly simple equation that models hang time."
+  },
+  {
+    "startTime": 75.296,
+    "endTime": 79.73500000000001,
+    "text": "This equation states that the height of a falling object above a surface"
+  },
+  {
+    "startTime": 79.735,
+    "endTime": 85.185,
+    "text": "is equal to the object's initial height from the surface plus its initial velocity"
+  },
+  {
+    "startTime": 85.185,
+    "endTime": 88.685,
+    "text": "multiplied by how many seconds it's been in the air,"
+  },
+  {
+    "startTime": 88.685,
+    "endTime": 91.664,
+    "text": "plus half of the  gravitational acceleration"
+  },
+  {
+    "startTime": 91.664,
+    "endTime": 97.026,
+    "text": "multiplied by the square of the number of seconds spent in the air."
+  },
+  {
+    "startTime": 97.026,
+    "endTime": 101.10199999999999,
+    "text": "Now we can use this equation to model MJ's free throw dunk."
+  },
+  {
+    "startTime": 101.102,
+    "endTime": 105.25,
+    "text": "Say MJ starts, as one does, at zero meters off the ground,"
+  },
+  {
+    "startTime": 105.25,
+    "endTime": 111.508,
+    "text": "and jumps with an initial vertical velocity of 4.51 meters per second."
+  },
+  {
+    "startTime": 111.508,
+    "endTime": 115.393,
+    "text": "Let's see what happens if we model this equation on a coordinate grid."
+  },
+  {
+    "startTime": 115.393,
+    "endTime": 117.388,
+    "text": "Since the formula is quadratic,"
+  },
+  {
+    "startTime": 117.388,
+    "endTime": 120.82000000000001,
+    "text": "the relationship between height and time spent in the air"
+  },
+  {
+    "startTime": 120.82,
+    "endTime": 123.28999999999999,
+    "text": "has the shape of a parabola."
+  },
+  {
+    "startTime": 123.29,
+    "endTime": 125.83000000000001,
+    "text": "So what does it tell us about MJ's dunk?"
+  },
+  {
+    "startTime": 125.83,
+    "endTime": 130.36599999999999,
+    "text": "Well, the parabola's vertex shows us his maximum height off the ground"
+  },
+  {
+    "startTime": 130.366,
+    "endTime": 133.75900000000001,
+    "text": "at 1.038 meters,"
+  },
+  {
+    "startTime": 133.759,
+    "endTime": 136.75199999999998,
+    "text": "and the X-intercepts tell us  when he took off"
+  },
+  {
+    "startTime": 136.752,
+    "endTime": 142.47,
+    "text": "and when he landed, with the difference being the hang time."
+  },
+  {
+    "startTime": 142.47,
+    "endTime": 145.034,
+    "text": "It looks like Earth's gravity makes it pretty hard"
+  },
+  {
+    "startTime": 145.034,
+    "endTime": 148.213,
+    "text": "for even MJ to get some solid hang time."
+  },
+  {
+    "startTime": 148.213,
+    "endTime": 153.126,
+    "text": "But what if he were playing an away game somewhere else, somewhere far?"
+  },
+  {
+    "startTime": 153.126,
+    "endTime": 157.973,
+    "text": "Well, the gravitational acceleration on our nearest planetary neighbor, Venus,"
+  },
+  {
+    "startTime": 157.973,
+    "endTime": 163.822,
+    "text": "is 8.87 meters per second squared,  pretty similar to Earth's."
+  },
+  {
+    "startTime": 163.822,
+    "endTime": 167.829,
+    "text": "If Michael jumped here with the same force as he did back on Earth,"
+  },
+  {
+    "startTime": 167.829,
+    "endTime": 171.14000000000001,
+    "text": "he would be able to get more  than a meter off the ground,"
+  },
+  {
+    "startTime": 171.14,
+    "endTime": 175.97199999999998,
+    "text": "giving him a hang time  of a little over one second."
+  },
+  {
+    "startTime": 175.972,
+    "endTime": 179.07000000000002,
+    "text": "The competition on Jupiter with its gravitational pull"
+  },
+  {
+    "startTime": 179.07,
+    "endTime": 184.829,
+    "text": "of 24.92 meters per second squared would be much less entertaining."
+  },
+  {
+    "startTime": 184.829,
+    "endTime": 188.781,
+    "text": "Here, Michael wouldn't even get a half meter off the ground,"
+  },
+  {
+    "startTime": 188.781,
+    "endTime": 193.309,
+    "text": "and would remain airborne a mere .41 seconds."
+  },
+  {
+    "startTime": 193.309,
+    "endTime": 196.649,
+    "text": "But a game on the moon would be quite spectacular."
+  },
+  {
+    "startTime": 196.649,
+    "endTime": 199.526,
+    "text": "MJ could take off from behind half court,"
+  },
+  {
+    "startTime": 199.526,
+    "endTime": 202.097,
+    "text": "jumping over six meters high,"
+  },
+  {
+    "startTime": 202.097,
+    "endTime": 205.413,
+    "text": "and his hang time of over  five and half seconds,"
+  },
+  {
+    "startTime": 205.413,
+    "endTime": 215.413,
+    "text": "would be long enough for anyone to believe he could fly."
+  }
+]

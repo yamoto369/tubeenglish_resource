@@ -1,0 +1,572 @@
+[
+  {
+    "startTime": 12.903,
+    "endTime": 18.376,
+    "text": "When I was growing up, I really \nliked playing hide-and-seek a lot."
+  },
+  {
+    "startTime": 18.383,
+    "endTime": 22.491999999999997,
+    "text": "One time, though, I thought climbing\na tree would lead to a great hiding spot,"
+  },
+  {
+    "startTime": 22.492,
+    "endTime": 25.395,
+    "text": "but I fell and broke my arm."
+  },
+  {
+    "startTime": 25.395,
+    "endTime": 29.478,
+    "text": "I actually started first grade\nwith a big cast all over my torso."
+  },
+  {
+    "startTime": 30.178,
+    "endTime": 34.323,
+    "text": "It was taken off six weeks later,\nbut even then, I couldn't extend my elbow,"
+  },
+  {
+    "startTime": 34.323,
+    "endTime": 37.376,
+    "text": "and I had to do physical therapy\nto flex and extend it,"
+  },
+  {
+    "startTime": 37.376,
+    "endTime": 40.271,
+    "text": "100 times per day, seven days per week."
+  },
+  {
+    "startTime": 41.021,
+    "endTime": 44.063,
+    "text": "I barely did it, because\nI found it boring and painful,"
+  },
+  {
+    "startTime": 44.063,
+    "endTime": 47.694,
+    "text": "and as a result, it took me\nanother six weeks to get better."
+  },
+  {
+    "startTime": 48.684,
+    "endTime": 51.547999999999995,
+    "text": "Many years later, my mom\ndeveloped frozen shoulder,"
+  },
+  {
+    "startTime": 51.548,
+    "endTime": 56.044000000000004,
+    "text": "which leads to pain\nand stiffness in the shoulder."
+  },
+  {
+    "startTime": 56.044,
+    "endTime": 59.154999999999994,
+    "text": "The person I believed for half of my life\nto have superpowers"
+  },
+  {
+    "startTime": 59.155,
+    "endTime": 62.463,
+    "text": "suddenly needed help\nto get dressed or to cut food."
+  },
+  {
+    "startTime": 63.474,
+    "endTime": 66.283,
+    "text": "She went each week to physical therapy,\nbut just like me,"
+  },
+  {
+    "startTime": 66.283,
+    "endTime": 68.187,
+    "text": "she barely followed the home treatment,"
+  },
+  {
+    "startTime": 68.187,
+    "endTime": 71.228,
+    "text": "and it took her\nover five months to feel better."
+  },
+  {
+    "startTime": 71.848,
+    "endTime": 74.503,
+    "text": "Both my mom and I\nrequired physical therapy,"
+  },
+  {
+    "startTime": 74.503,
+    "endTime": 77.266,
+    "text": "a process of doing a suite\nof repetitive exercises"
+  },
+  {
+    "startTime": 77.266,
+    "endTime": 81.79400000000001,
+    "text": "in order to regain the range of movement\nlost due to an accident or injury."
+  },
+  {
+    "startTime": 81.794,
+    "endTime": 84.17099999999999,
+    "text": "At first, a physical therapist\nworks with patients,"
+  },
+  {
+    "startTime": 84.171,
+    "endTime": 87.134,
+    "text": "but then it's up to the patients\nto do their exercises at home."
+  },
+  {
+    "startTime": 87.134,
+    "endTime": 90.923,
+    "text": "But patients find physical therapy\nboring, frustrating, confusing"
+  },
+  {
+    "startTime": 90.923,
+    "endTime": 93.84400000000001,
+    "text": "and lengthy before seeing results."
+  },
+  {
+    "startTime": 93.844,
+    "endTime": 98.83699999999999,
+    "text": "Sadly, patient noncompliance\ncan be as high as 70 percent."
+  },
+  {
+    "startTime": 98.837,
+    "endTime": 102.226,
+    "text": "This means the majority of patients\ndon't do their exercises"
+  },
+  {
+    "startTime": 102.226,
+    "endTime": 106.011,
+    "text": "and therefore take\na lot longer to get better."
+  },
+  {
+    "startTime": 106.011,
+    "endTime": 108.797,
+    "text": "All physical therapists agree\nthat special exercises"
+  },
+  {
+    "startTime": 108.797,
+    "endTime": 110.957,
+    "text": "reduce the time needed for recovery,"
+  },
+  {
+    "startTime": 110.957,
+    "endTime": 113.333,
+    "text": "but patients lack\nthe motivation to do them."
+  },
+  {
+    "startTime": 114.393,
+    "endTime": 118.898,
+    "text": "So together with three friends,\nall of us software geeks,"
+  },
+  {
+    "startTime": 118.898,
+    "endTime": 120.987,
+    "text": "we asked ourselves,"
+  },
+  {
+    "startTime": 120.987,
+    "endTime": 125.585,
+    "text": "wouldn't it be interesting if patients\ncould play their way to recovery?"
+  },
+  {
+    "startTime": 125.585,
+    "endTime": 128.441,
+    "text": "We started building MIRA,\nA P.C. software platform"
+  },
+  {
+    "startTime": 128.441,
+    "endTime": 131.339,
+    "text": "that uses this Kinect device,\na motion capture camera,"
+  },
+  {
+    "startTime": 131.339,
+    "endTime": 135.072,
+    "text": "to transform traditional exercises\ninto video games."
+  },
+  {
+    "startTime": 135.702,
+    "endTime": 140.364,
+    "text": "My physical therapist has already set up\na schedule for my particular therapy."
+  },
+  {
+    "startTime": 140.364,
+    "endTime": 142.616,
+    "text": "Let's see how this looks."
+  },
+  {
+    "startTime": 145.867,
+    "endTime": 148.74599999999998,
+    "text": "The first game asks me\nto fly a bee up and down"
+  },
+  {
+    "startTime": 148.746,
+    "endTime": 151.27700000000002,
+    "text": "to gather pollen to deposit in beehives,"
+  },
+  {
+    "startTime": 151.277,
+    "endTime": 153.738,
+    "text": "all while avoiding the other bugs."
+  },
+  {
+    "startTime": 153.738,
+    "endTime": 156.964,
+    "text": "I control the bee by doing\nelbow extension and flexion,"
+  },
+  {
+    "startTime": 156.964,
+    "endTime": 160.846,
+    "text": "just like when I was seven years old\nafter the cast was taken off."
+  },
+  {
+    "startTime": 161.865,
+    "endTime": 164.929,
+    "text": "When designing a game,\nwe speak to physical therapists at first"
+  },
+  {
+    "startTime": 164.929,
+    "endTime": 167.856,
+    "text": "to understand what movement\npatients need to do."
+  },
+  {
+    "startTime": 167.856,
+    "endTime": 169.527,
+    "text": "We then make that a video game"
+  },
+  {
+    "startTime": 169.527,
+    "endTime": 172.72199999999998,
+    "text": "to give patients simple,\nmotivating objectives to follow."
+  },
+  {
+    "startTime": 173.312,
+    "endTime": 175.239,
+    "text": "But the software is very customizable,"
+  },
+  {
+    "startTime": 175.239,
+    "endTime": 178.65200000000002,
+    "text": "and physical therapists can also\ncreate their own exercises."
+  },
+  {
+    "startTime": 179.192,
+    "endTime": 181.18300000000002,
+    "text": "Using the software, my physical therapist"
+  },
+  {
+    "startTime": 181.183,
+    "endTime": 183.471,
+    "text": "recorded herself performing\na shoulder abduction,"
+  },
+  {
+    "startTime": 183.471,
+    "endTime": 185.66400000000002,
+    "text": "which is one of the movements\nmy mom had to do"
+  },
+  {
+    "startTime": 185.664,
+    "endTime": 187.361,
+    "text": "when she had frozen shoulder."
+  },
+  {
+    "startTime": 187.361,
+    "endTime": 190.819,
+    "text": "I can follow my therapist's example\non the left side of the screen,"
+  },
+  {
+    "startTime": 190.819,
+    "endTime": 194.511,
+    "text": "while on the right, I see myself\ndoing the recommended movement."
+  },
+  {
+    "startTime": 194.511,
+    "endTime": 196.554,
+    "text": "I feel more engaged and confident,"
+  },
+  {
+    "startTime": 196.554,
+    "endTime": 199.01500000000001,
+    "text": "as I'm exercising alongside my therapist"
+  },
+  {
+    "startTime": 199.015,
+    "endTime": 202.86999999999998,
+    "text": "with the exercises my therapist\nthinks are best for me."
+  },
+  {
+    "startTime": 202.87,
+    "endTime": 205.79500000000002,
+    "text": "This basically extends the application\nfor physical therapists"
+  },
+  {
+    "startTime": 205.795,
+    "endTime": 210.32299999999998,
+    "text": "to create whatever exercises\nthey think are best."
+  },
+  {
+    "startTime": 210.323,
+    "endTime": 213.574,
+    "text": "This is an auction house game\nfor preventing falls,"
+  },
+  {
+    "startTime": 213.574,
+    "endTime": 216.56900000000002,
+    "text": "designed to strengthen muscles\nand improve balance."
+  },
+  {
+    "startTime": 216.569,
+    "endTime": 219.564,
+    "text": "As a patient, I need to do\nsit and stand movements,"
+  },
+  {
+    "startTime": 219.564,
+    "endTime": 221.422,
+    "text": "and when I stand up,"
+  },
+  {
+    "startTime": 221.422,
+    "endTime": 223.767,
+    "text": "I bid for the items I want to buy."
+  },
+  {
+    "startTime": 223.767,
+    "endTime": 225.88,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 225.88,
+    "endTime": 228.875,
+    "text": "In two days, my grandmother\nwill be 82 years old,"
+  },
+  {
+    "startTime": 228.875,
+    "endTime": 231.29,
+    "text": "and there's a 50 percent chance\nfor people over 80"
+  },
+  {
+    "startTime": 231.29,
+    "endTime": 233.171,
+    "text": "to fall at least once per year,"
+  },
+  {
+    "startTime": 233.171,
+    "endTime": 236.259,
+    "text": "which could lead to a broken hip\nor even worse."
+  },
+  {
+    "startTime": 236.259,
+    "endTime": 240.415,
+    "text": "Poor muscle tone and impaired balance\nare the number one cause of falls,"
+  },
+  {
+    "startTime": 240.415,
+    "endTime": 243.52599999999998,
+    "text": "so reversing these problems\nthrough targeted exercise"
+  },
+  {
+    "startTime": 243.526,
+    "endTime": 246.196,
+    "text": "will help keep older people\nlike my grandmother"
+  },
+  {
+    "startTime": 246.196,
+    "endTime": 249.029,
+    "text": "safer and independent for longer."
+  },
+  {
+    "startTime": 249.029,
+    "endTime": 251.514,
+    "text": "When my schedule ends,\nMIRA briefly shows me"
+  },
+  {
+    "startTime": 251.514,
+    "endTime": 254.693,
+    "text": "how I progressed throughout my session."
+  },
+  {
+    "startTime": 255.553,
+    "endTime": 257.62,
+    "text": "I have just shown you\nthree different games"
+  },
+  {
+    "startTime": 257.62,
+    "endTime": 260.113,
+    "text": "for kids, adults and seniors."
+  },
+  {
+    "startTime": 260.113,
+    "endTime": 262.942,
+    "text": "These can be used with orthopedic\nor neurologic patients,"
+  },
+  {
+    "startTime": 262.942,
+    "endTime": 265.886,
+    "text": "but we'll soon have options\nfor children with autism,"
+  },
+  {
+    "startTime": 265.886,
+    "endTime": 268.31100000000004,
+    "text": "mental health or speech therapy."
+  },
+  {
+    "startTime": 268.661,
+    "endTime": 270.999,
+    "text": "My physical therapist\ncan go back to my profile"
+  },
+  {
+    "startTime": 270.999,
+    "endTime": 273.99,
+    "text": "and see the data gathered\nduring my sessions."
+  },
+  {
+    "startTime": 273.99,
+    "endTime": 276.66,
+    "text": "She can see how much I moved,\nhow many points I scored,"
+  },
+  {
+    "startTime": 276.66,
+    "endTime": 278.61,
+    "text": "with what speed I moved my joints,"
+  },
+  {
+    "startTime": 278.61,
+    "endTime": 279.841,
+    "text": "and so on."
+  },
+  {
+    "startTime": 279.841,
+    "endTime": 283.118,
+    "text": "My physical therapist can use all of this\nto adapt my treatment."
+  },
+  {
+    "startTime": 283.881,
+    "endTime": 285.94699999999995,
+    "text": "I'm so pleased this version is now in use"
+  },
+  {
+    "startTime": 285.947,
+    "endTime": 289.244,
+    "text": "in over 10 clinics\nacross Europe and the U.S.,"
+  },
+  {
+    "startTime": 289.244,
+    "endTime": 291.197,
+    "text": "and we're working on the home version."
+  },
+  {
+    "startTime": 291.197,
+    "endTime": 295.67,
+    "text": "We want to enable physical therapists\nto prescribe this digital treatment"
+  },
+  {
+    "startTime": 295.67,
+    "endTime": 299.31,
+    "text": "and help patients play their way\nto recovery at home."
+  },
+  {
+    "startTime": 300.03,
+    "endTime": 303.47299999999996,
+    "text": "If my mom or I had a tool like this\nwhen we needed physical therapy,"
+  },
+  {
+    "startTime": 303.473,
+    "endTime": 306.519,
+    "text": "then we would have been more successful\nfollowing the treatment,"
+  },
+  {
+    "startTime": 306.519,
+    "endTime": 310.049,
+    "text": "and perhaps gotten better a lot sooner."
+  },
+  {
+    "startTime": 310.049,
+    "endTime": 311.65099999999995,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 311.651,
+    "endTime": 314.031,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 314.031,
+    "endTime": 317.607,
+    "text": "Tom Rielly: So Cosmin, tell me\nwhat hardware is this"
+  },
+  {
+    "startTime": 317.607,
+    "endTime": 319.47,
+    "text": "that they're rapidly putting away?"
+  },
+  {
+    "startTime": 319.47,
+    "endTime": 321.71000000000004,
+    "text": "What is that made of,\nand how much does it cost?"
+  },
+  {
+    "startTime": 321.71,
+    "endTime": 324.789,
+    "text": "Cosmin Milhau: So it's\na Microsoft Surface Pro 3 for the demo,"
+  },
+  {
+    "startTime": 324.789,
+    "endTime": 328.534,
+    "text": "but you just need a computer\nand a Kinect, which is 120 dollars."
+  },
+  {
+    "startTime": 328.534,
+    "endTime": 331.981,
+    "text": "TR: Right, and the Kinect is the thing\nthat people use for their Xboxes"
+  },
+  {
+    "startTime": 331.981,
+    "endTime": 333.052,
+    "text": "to do 3D games, right?"
+  },
+  {
+    "startTime": 333.052,
+    "endTime": 336.113,
+    "text": "CM: Exactly, but you don't need the Xbox,\nyou only need a camera."
+  },
+  {
+    "startTime": 336.113,
+    "endTime": 338.875,
+    "text": "TR: Right, so this is less\nthan a $1,000 solution."
+  },
+  {
+    "startTime": 338.875,
+    "endTime": 341.458,
+    "text": "CM: Definitely, 400 dollars,\nyou can definitely use it."
+  },
+  {
+    "startTime": 341.458,
+    "endTime": 344.254,
+    "text": "TR: So right now, you're doing\nclinical trials in clinics."
+  },
+  {
+    "startTime": 344.254,
+    "endTime": 344.993,
+    "text": "CM: Yes."
+  },
+  {
+    "startTime": 344.993,
+    "endTime": 347.713,
+    "text": "TR: And then the hope is to get it\nso it's a home version"
+  },
+  {
+    "startTime": 347.713,
+    "endTime": 349.392,
+    "text": "and I can do my exercise remotely,"
+  },
+  {
+    "startTime": 349.392,
+    "endTime": 352.92199999999997,
+    "text": "and the therapist at the clinic\ncan see how I'm doing and stuff like that."
+  },
+  {
+    "startTime": 352.922,
+    "endTime": 353.98900000000003,
+    "text": "CM: Exactly."
+  },
+  {
+    "startTime": 353.989,
+    "endTime": 355.84299999999996,
+    "text": "TR: Cool. Thanks so much.\nCM: Thank you."
+  },
+  {
+    "startTime": 355.843,
+    "endTime": 356.584,
+    "text": "(Applause)"
+  }
+]

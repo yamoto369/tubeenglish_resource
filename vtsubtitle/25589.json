@@ -1,0 +1,367 @@
+[
+  {
+    "startTime": 7.4,
+    "endTime": 10.906,
+    "text": "When you picture a spaceship, you probably think of something like this,"
+  },
+  {
+    "startTime": 10.906,
+    "endTime": 13.414000000000001,
+    "text": "or this, or maybe this."
+  },
+  {
+    "startTime": 13.414,
+    "endTime": 15.017,
+    "text": "What do they all have in common?"
+  },
+  {
+    "startTime": 15.017,
+    "endTime": 19.456,
+    "text": "Among other things, they're huge because they have to carry people, fuel,"
+  },
+  {
+    "startTime": 19.456,
+    "endTime": 22.758,
+    "text": "and all sorts of supplies,  scientific instruments,"
+  },
+  {
+    "startTime": 22.758,
+    "endTime": 26.413999999999998,
+    "text": "and, in rare cases, planet-killing lasers."
+  },
+  {
+    "startTime": 26.414,
+    "endTime": 31.231,
+    "text": "But the next real-world generation  of spacecraft may be much, much smaller."
+  },
+  {
+    "startTime": 31.231,
+    "endTime": 35.403,
+    "text": "We're talking fit-inside-your-pocket tiny."
+  },
+  {
+    "startTime": 35.403,
+    "endTime": 40.708,
+    "text": "Imagine sending a swarm of these microspacecraft out into the galaxy."
+  },
+  {
+    "startTime": 40.708,
+    "endTime": 43.214999999999996,
+    "text": "They could explore  distant stars and planets"
+  },
+  {
+    "startTime": 43.215,
+    "endTime": 46.331,
+    "text": "by carrying sophisticated  electronic sensors"
+  },
+  {
+    "startTime": 46.331,
+    "endTime": 50.027,
+    "text": "that would measure everything from temperature to cosmic rays."
+  },
+  {
+    "startTime": 50.027,
+    "endTime": 51.792,
+    "text": "You could deploy thousands of them"
+  },
+  {
+    "startTime": 51.792,
+    "endTime": 54.886,
+    "text": "for the cost of a single  space shuttle mission,"
+  },
+  {
+    "startTime": 54.886,
+    "endTime": 57.229,
+    "text": "exponentially increasing  the amount of data"
+  },
+  {
+    "startTime": 57.229,
+    "endTime": 60.058,
+    "text": "we could collect about the universe."
+  },
+  {
+    "startTime": 60.058,
+    "endTime": 62.364,
+    "text": "And they're individually expendable,"
+  },
+  {
+    "startTime": 62.364,
+    "endTime": 64.715,
+    "text": "meaning that we could send them  into environments"
+  },
+  {
+    "startTime": 64.715,
+    "endTime": 68.468,
+    "text": "that are too risky  for a billion dollar rocket or probe."
+  },
+  {
+    "startTime": 68.468,
+    "endTime": 73.421,
+    "text": "Several hundred small spacecraft are already orbiting the Earth,"
+  },
+  {
+    "startTime": 73.421,
+    "endTime": 74.96000000000001,
+    "text": "taking pictures of outer space,"
+  },
+  {
+    "startTime": 74.96,
+    "endTime": 76.43599999999999,
+    "text": "and collecting data on things,"
+  },
+  {
+    "startTime": 76.436,
+    "endTime": 79.86800000000001,
+    "text": "like the behavior of bacteria  in the Earth's atmosphere"
+  },
+  {
+    "startTime": 79.868,
+    "endTime": 83.17699999999999,
+    "text": "and magnetic signals that could help predict earthquakes."
+  },
+  {
+    "startTime": 83.177,
+    "endTime": 88.477,
+    "text": "But imagine how much more we could learn if they could fly beyond Earth's orbit."
+  },
+  {
+    "startTime": 88.477,
+    "endTime": 92.393,
+    "text": "That's exactly what organizations, like NASA, want to do:"
+  },
+  {
+    "startTime": 92.393,
+    "endTime": 96.334,
+    "text": "send microspacecraft  to scout habitable planets"
+  },
+  {
+    "startTime": 96.334,
+    "endTime": 101.161,
+    "text": "and describe astronomical phenomena we can't study from Earth."
+  },
+  {
+    "startTime": 101.161,
+    "endTime": 105.924,
+    "text": "But something so small can't carry  a large engine or tons of fuel,"
+  },
+  {
+    "startTime": 105.924,
+    "endTime": 108.84100000000001,
+    "text": "so how would such a vessel propel itself?"
+  },
+  {
+    "startTime": 108.841,
+    "endTime": 113.744,
+    "text": "For microspacecraft, it turns out,  you need micropropulsion."
+  },
+  {
+    "startTime": 113.744,
+    "endTime": 115.602,
+    "text": "On really small scales,"
+  },
+  {
+    "startTime": 115.602,
+    "endTime": 118.59700000000001,
+    "text": "some of the familiar  rules of physics don't apply,"
+  },
+  {
+    "startTime": 118.597,
+    "endTime": 122.934,
+    "text": "in particular, everyday  Newtonian mechanics break down,"
+  },
+  {
+    "startTime": 122.934,
+    "endTime": 126.982,
+    "text": "and forces that are normally negligible become powerful."
+  },
+  {
+    "startTime": 126.982,
+    "endTime": 131.089,
+    "text": "Those forces include surface tension and capillary action,"
+  },
+  {
+    "startTime": 131.089,
+    "endTime": 133.698,
+    "text": "the phenomena  that govern other small things."
+  },
+  {
+    "startTime": 133.698,
+    "endTime": 139.412,
+    "text": "Micropropulsion systems can harness these forces to power spacecraft."
+  },
+  {
+    "startTime": 139.412,
+    "endTime": 141.636,
+    "text": "One example of how this might work"
+  },
+  {
+    "startTime": 141.636,
+    "endTime": 146.251,
+    "text": "is called microfluidic  electrospray propulsion."
+  },
+  {
+    "startTime": 146.251,
+    "endTime": 148.214,
+    "text": "It's a type of ion thruster,"
+  },
+  {
+    "startTime": 148.214,
+    "endTime": 152.686,
+    "text": "which means that it shoots out charged particles to generate momentum."
+  },
+  {
+    "startTime": 152.686,
+    "endTime": 156.338,
+    "text": "One model being developed at NASA's jet propulsion laboratory"
+  },
+  {
+    "startTime": 156.338,
+    "endTime": 159.48499999999999,
+    "text": "is only a couple centimeters  on each side."
+  },
+  {
+    "startTime": 159.485,
+    "endTime": 160.81300000000002,
+    "text": "Here's how it works."
+  },
+  {
+    "startTime": 160.813,
+    "endTime": 166.19899999999998,
+    "text": "That postage-stamp sized metal plate is studded with a hundred skinny needles"
+  },
+  {
+    "startTime": 166.199,
+    "endTime": 170.631,
+    "text": "and coated with a metal  that has a low melting point, like indium."
+  },
+  {
+    "startTime": 170.631,
+    "endTime": 173.589,
+    "text": "A metal grid sits above the needles,"
+  },
+  {
+    "startTime": 173.589,
+    "endTime": 177.579,
+    "text": "and an electric field is set up between the grid and the plate."
+  },
+  {
+    "startTime": 177.579,
+    "endTime": 180.752,
+    "text": "When the plate is heated, the indium melts"
+  },
+  {
+    "startTime": 180.752,
+    "endTime": 184.966,
+    "text": "and capillary action draws  the liquid metal up the needles."
+  },
+  {
+    "startTime": 184.966,
+    "endTime": 188.116,
+    "text": "The electric field tugs  the molten metal upwards,"
+  },
+  {
+    "startTime": 188.116,
+    "endTime": 190.91000000000003,
+    "text": "while surface tension pulls it back,"
+  },
+  {
+    "startTime": 190.91,
+    "endTime": 194.21,
+    "text": "causing the indium to deform into a cone."
+  },
+  {
+    "startTime": 194.21,
+    "endTime": 196.428,
+    "text": "The small radius of the tips  of the needles"
+  },
+  {
+    "startTime": 196.428,
+    "endTime": 201.18099999999998,
+    "text": "makes it possible for the electric field to overcome the surface tension,"
+  },
+  {
+    "startTime": 201.181,
+    "endTime": 202.589,
+    "text": "and when that happens,"
+  },
+  {
+    "startTime": 202.589,
+    "endTime": 208.79,
+    "text": "positively charged ions shoot off at speeds of tens of kilometers per second."
+  },
+  {
+    "startTime": 208.79,
+    "endTime": 213.828,
+    "text": "That stream of ions propels the spacecraft in the opposite direction,"
+  },
+  {
+    "startTime": 213.828,
+    "endTime": 215.941,
+    "text": "thanks to Newton's third law."
+  },
+  {
+    "startTime": 215.941,
+    "endTime": 218.92600000000002,
+    "text": "And while each ion  is an extremely small particle,"
+  },
+  {
+    "startTime": 218.926,
+    "endTime": 222.73399999999998,
+    "text": "the combined force of so many of them pushing away from the craft"
+  },
+  {
+    "startTime": 222.734,
+    "endTime": 226.339,
+    "text": "is enough to generate  significant acceleration."
+  },
+  {
+    "startTime": 226.339,
+    "endTime": 229.356,
+    "text": "And unlike the exhaust  that pours out of a rocket engine,"
+  },
+  {
+    "startTime": 229.356,
+    "endTime": 233.373,
+    "text": "this stream is much smaller and far more fuel efficient,"
+  },
+  {
+    "startTime": 233.373,
+    "endTime": 237.745,
+    "text": "which makes it better suited for long deep-space missions."
+  },
+  {
+    "startTime": 237.745,
+    "endTime": 241.366,
+    "text": "These micropropulsion systems haven't been fully tested yet,"
+  },
+  {
+    "startTime": 241.366,
+    "endTime": 244.513,
+    "text": "but some scientists think that they will provide enough thrust"
+  },
+  {
+    "startTime": 244.513,
+    "endTime": 247.69,
+    "text": "to break small craft out of Earth's orbit."
+  },
+  {
+    "startTime": 247.69,
+    "endTime": 251.707,
+    "text": "In fact, they're predicting that thousands of microspacecraft"
+  },
+  {
+    "startTime": 251.707,
+    "endTime": 254.013,
+    "text": "will be launched in the next ten years"
+  },
+  {
+    "startTime": 254.013,
+    "endTime": 258.065,
+    "text": "to gather data that today  we can only dream about."
+  },
+  {
+    "startTime": 258.065,
+    "endTime": 268.065,
+    "text": "And that is micro-rocket science."
+  }
+]
