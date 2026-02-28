@@ -1,0 +1,497 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 6.6,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.6,
+    "endTime": 9.52,
+    "text": "this may look like a neatly arranged"
+  },
+  {
+    "startTime": 9.52,
+    "endTime": 11.74,
+    "text": "stack of numbers but it's actually a"
+  },
+  {
+    "startTime": 11.74,
+    "endTime": 14.95,
+    "text": "mathematical treasure trove Indian"
+  },
+  {
+    "startTime": 14.95,
+    "endTime": 16.9,
+    "text": "mathematicians called it the staircase"
+  },
+  {
+    "startTime": 16.9,
+    "endTime": 19.81,
+    "text": "of Mount Meru in Iran it's the Khayyam"
+  },
+  {
+    "startTime": 19.81,
+    "endTime": 22.539,
+    "text": "triangle and in China it's Yong ways"
+  },
+  {
+    "startTime": 22.539,
+    "endTime": 24.82,
+    "text": "triangle to much of the Western world"
+  },
+  {
+    "startTime": 24.82,
+    "endTime": 28.119,
+    "text": "it's known as Pascal's triangle after"
+  },
+  {
+    "startTime": 28.119,
+    "endTime": 31.06,
+    "text": "French mathematician Blaise Pascal which"
+  },
+  {
+    "startTime": 31.06,
+    "endTime": 33.55,
+    "text": "seems a bit unfair since he was clearly"
+  },
+  {
+    "startTime": 33.55,
+    "endTime": 34.66,
+    "text": "late to the party"
+  },
+  {
+    "startTime": 34.66,
+    "endTime": 37.51,
+    "text": "but he still had a lot to contribute so"
+  },
+  {
+    "startTime": 37.51,
+    "endTime": 38.979,
+    "text": "what is it about this that has so"
+  },
+  {
+    "startTime": 38.979,
+    "endTime": 41.62,
+    "text": "intrigued mathematicians the world over"
+  },
+  {
+    "startTime": 41.62,
+    "endTime": 44.62,
+    "text": "in short it's full of patterns and"
+  },
+  {
+    "startTime": 44.62,
+    "endTime": 47.559,
+    "text": "secrets first and foremost there's the"
+  },
+  {
+    "startTime": 47.559,
+    "endTime": 50.26,
+    "text": "pattern that generates it start with one"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 53.049,
+    "text": "and imagine invisible zeros on either"
+  },
+  {
+    "startTime": 53.049,
+    "endTime": 55.239,
+    "text": "side of it add them together in pairs"
+  },
+  {
+    "startTime": 55.239,
+    "endTime": 58.989,
+    "text": "and you'll generate the next row now do"
+  },
+  {
+    "startTime": 58.989,
+    "endTime": 62.71,
+    "text": "that again and again keep going and"
+  },
+  {
+    "startTime": 62.71,
+    "endTime": 64.78,
+    "text": "you'll wind up with something like this"
+  },
+  {
+    "startTime": 64.78,
+    "endTime": 67.659,
+    "text": "the really Pascal's triangle goes on"
+  },
+  {
+    "startTime": 67.659,
+    "endTime": 71.2,
+    "text": "infinitely now each row corresponds to"
+  },
+  {
+    "startTime": 71.2,
+    "endTime": 73.21,
+    "text": "what's called the coefficients of a"
+  },
+  {
+    "startTime": 73.21,
+    "endTime": 76.75,
+    "text": "binomial expansion of the form X plus y"
+  },
+  {
+    "startTime": 76.75,
+    "endTime": 80.289,
+    "text": "raised to the N where n is the number of"
+  },
+  {
+    "startTime": 80.289,
+    "endTime": 83.799,
+    "text": "the row and we start counting from 0 so"
+  },
+  {
+    "startTime": 83.799,
+    "endTime": 86.799,
+    "text": "if you make n equal 2 and expand it you"
+  },
+  {
+    "startTime": 86.799,
+    "endTime": 90.1,
+    "text": "get x squared plus 2xy plus y squared"
+  },
+  {
+    "startTime": 90.1,
+    "endTime": 93.219,
+    "text": "the coefficients or numbers in front of"
+  },
+  {
+    "startTime": 93.219,
+    "endTime": 95.229,
+    "text": "the variables are the same as the"
+  },
+  {
+    "startTime": 95.229,
+    "endTime": 97.74,
+    "text": "numbers in that row of Pascal's triangle"
+  },
+  {
+    "startTime": 97.74,
+    "endTime": 100.57,
+    "text": "you'll see the same thing with N equals"
+  },
+  {
+    "startTime": 100.57,
+    "endTime": 103.63,
+    "text": "3 which expands to this so the triangle"
+  },
+  {
+    "startTime": 103.63,
+    "endTime": 106.24,
+    "text": "is a quick and easy way to look up all"
+  },
+  {
+    "startTime": 106.24,
+    "endTime": 109.06,
+    "text": "of these coefficients but there's much"
+  },
+  {
+    "startTime": 109.06,
+    "endTime": 112.179,
+    "text": "more for example add up the numbers in"
+  },
+  {
+    "startTime": 112.179,
+    "endTime": 114.219,
+    "text": "each row and you'll get successive"
+  },
+  {
+    "startTime": 114.219,
+    "endTime": 118.03,
+    "text": "powers of 2 or in a given row treat each"
+  },
+  {
+    "startTime": 118.03,
+    "endTime": 121.179,
+    "text": "number as part of a decimal expansion in"
+  },
+  {
+    "startTime": 121.179,
+    "endTime": 124.719,
+    "text": "other words Row 2 is 1 times 1 plus 2"
+  },
+  {
+    "startTime": 124.719,
+    "endTime": 129.039,
+    "text": "times 10 plus 1 times 100 you get 121"
+  },
+  {
+    "startTime": 129.039,
+    "endTime": 132.7,
+    "text": "which is 11 squared and take a look at"
+  },
+  {
+    "startTime": 132.7,
+    "endTime": 134.379,
+    "text": "what happens when you do the same thing"
+  },
+  {
+    "startTime": 134.379,
+    "endTime": 139.739,
+    "text": "to row 6 it adds up to 1 million 770"
+  },
+  {
+    "startTime": 139.739,
+    "endTime": 144.28,
+    "text": "1561 which is 11 to the 6 and so on"
+  },
+  {
+    "startTime": 144.28,
+    "endTime": 147.069,
+    "text": "there are also geometric applications"
+  },
+  {
+    "startTime": 147.069,
+    "endTime": 150.129,
+    "text": "look at the diagonals the first two"
+  },
+  {
+    "startTime": 150.129,
+    "endTime": 152.47,
+    "text": "aren't very interesting all ones and"
+  },
+  {
+    "startTime": 152.47,
+    "endTime": 155.14,
+    "text": "then the positive integers also known as"
+  },
+  {
+    "startTime": 155.14,
+    "endTime": 157.689,
+    "text": "natural numbers but the numbers in the"
+  },
+  {
+    "startTime": 157.689,
+    "endTime": 160.03,
+    "text": "next diagonal are called the triangular"
+  },
+  {
+    "startTime": 160.03,
+    "endTime": 162.28,
+    "text": "numbers because if you take that many"
+  },
+  {
+    "startTime": 162.28,
+    "endTime": 165.37,
+    "text": "dots you can stack them into equilateral"
+  },
+  {
+    "startTime": 165.37,
+    "endTime": 167.92,
+    "text": "triangles the next diagonal has the"
+  },
+  {
+    "startTime": 167.92,
+    "endTime": 170.409,
+    "text": "tetrahedral numbers because similarly"
+  },
+  {
+    "startTime": 170.409,
+    "endTime": 173.29,
+    "text": "you can stack that many spheres into"
+  },
+  {
+    "startTime": 173.29,
+    "endTime": 176.439,
+    "text": "tetrahedra or how about this shade in"
+  },
+  {
+    "startTime": 176.439,
+    "endTime": 178.78,
+    "text": "all of the odd numbers it doesn't look"
+  },
+  {
+    "startTime": 178.78,
+    "endTime": 181.239,
+    "text": "like much when the triangles small but"
+  },
+  {
+    "startTime": 181.239,
+    "endTime": 183.73,
+    "text": "if you add thousands of rows you get a"
+  },
+  {
+    "startTime": 183.73,
+    "endTime": 186.81,
+    "text": "fractal known as your Pinsky's triangle"
+  },
+  {
+    "startTime": 186.81,
+    "endTime": 189.519,
+    "text": "this triangle isn't just a mathematical"
+  },
+  {
+    "startTime": 189.519,
+    "endTime": 192.03,
+    "text": "work of art it's also quite useful"
+  },
+  {
+    "startTime": 192.03,
+    "endTime": 194.349,
+    "text": "especially when it comes to probability"
+  },
+  {
+    "startTime": 194.349,
+    "endTime": 196.599,
+    "text": "and calculations in the domain of"
+  },
+  {
+    "startTime": 196.599,
+    "endTime": 199.72,
+    "text": "combinatorics say you want to have five"
+  },
+  {
+    "startTime": 199.72,
+    "endTime": 201.519,
+    "text": "children and would like to know the"
+  },
+  {
+    "startTime": 201.519,
+    "endTime": 203.739,
+    "text": "probability of having your dream family"
+  },
+  {
+    "startTime": 203.739,
+    "endTime": 207.069,
+    "text": "of three girls and two boys in the"
+  },
+  {
+    "startTime": 207.069,
+    "endTime": 209.439,
+    "text": "binomial expansion that corresponds to"
+  },
+  {
+    "startTime": 209.439,
+    "endTime": 212.59,
+    "text": "girl plus boy to the fifth power so we"
+  },
+  {
+    "startTime": 212.59,
+    "endTime": 215.11,
+    "text": "look at the row 5 where the first number"
+  },
+  {
+    "startTime": 215.11,
+    "endTime": 217.689,
+    "text": "corresponds to 5 girls and the last"
+  },
+  {
+    "startTime": 217.689,
+    "endTime": 220.93,
+    "text": "corresponds to 5 boys the third number"
+  },
+  {
+    "startTime": 220.93,
+    "endTime": 223.719,
+    "text": "is what we're looking for 10 out of the"
+  },
+  {
+    "startTime": 223.719,
+    "endTime": 225.939,
+    "text": "sum of all the possibilities in the row"
+  },
+  {
+    "startTime": 225.939,
+    "endTime": 232.36,
+    "text": "so 10 over 32 or 31 point to 5% or if"
+  },
+  {
+    "startTime": 232.36,
+    "endTime": 234.099,
+    "text": "you're randomly picking a 5 player"
+  },
+  {
+    "startTime": 234.099,
+    "endTime": 236.319,
+    "text": "basketball team out of a group of 12"
+  },
+  {
+    "startTime": 236.319,
+    "endTime": 238.81,
+    "text": "friends how many possible groups of 5"
+  },
+  {
+    "startTime": 238.81,
+    "endTime": 241.659,
+    "text": "are there in combinatoric terms this"
+  },
+  {
+    "startTime": 241.659,
+    "endTime": 244.299,
+    "text": "problem would be phrased as 12 choose 5"
+  },
+  {
+    "startTime": 244.299,
+    "endTime": 246.43,
+    "text": "and could be calculated with this"
+  },
+  {
+    "startTime": 246.43,
+    "endTime": 248.65,
+    "text": "formula or you could just look at the"
+  },
+  {
+    "startTime": 248.65,
+    "endTime": 251.319,
+    "text": "sixth element of row 12 on the triangle"
+  },
+  {
+    "startTime": 251.319,
+    "endTime": 253.959,
+    "text": "and get your answer the patterns in"
+  },
+  {
+    "startTime": 253.959,
+    "endTime": 256.299,
+    "text": "Pascal's triangle are a testament to the"
+  },
+  {
+    "startTime": 256.299,
+    "endTime": 258.43,
+    "text": "elegantly interwoven fabric of"
+  },
+  {
+    "startTime": 258.43,
+    "endTime": 260.799,
+    "text": "mathematics and it's still revealing"
+  },
+  {
+    "startTime": 260.799,
+    "endTime": 264.03,
+    "text": "fresh secrets to this day for example"
+  },
+  {
+    "startTime": 264.03,
+    "endTime": 266.44,
+    "text": "mathematicians recently discovered a way"
+  },
+  {
+    "startTime": 266.44,
+    "endTime": 268.48,
+    "text": "to expand it to these kinds of"
+  },
+  {
+    "startTime": 268.48,
+    "endTime": 269.47,
+    "text": "polynomials"
+  },
+  {
+    "startTime": 269.47,
+    "endTime": 272.74,
+    "text": "what might we find next well that's up"
+  },
+  {
+    "startTime": 272.74,
+    "endTime": 275.069,
+    "text": "to you"
+  },
+  {
+    "startTime": 282.2,
+    "endTime": 285.329,
+    "text": "[Music]"
+  }
+]
