@@ -1,0 +1,2627 @@
+[
+  {
+    "startTime": 4.16,
+    "endTime": 9.96,
+    "text": "good afternoon everyone this is a special day because we're in the first day of the ni"
+  },
+  {
+    "startTime": 9.96,
+    "endTime": 15.28,
+    "text": "research festival and also a special day because we have a remarkable lecturer as"
+  },
+  {
+    "startTime": 15.28,
+    "endTime": 22.199,
+    "text": "part of our regular Wednesday afternoon series uh who is here uh to teach us uh something pretty interesting uh about"
+  },
+  {
+    "startTime": 22.199,
+    "endTime": 29.32,
+    "text": "viral hemorrhagic fever specifically Ebola virus Erica Olman Sapphire has a"
+  },
+  {
+    "startTime": 29.32,
+    "endTime": 35.92,
+    "text": "uh interesting and very productive career bringing to where she is now as a professor in immunology and microbial"
+  },
+  {
+    "startTime": 35.92,
+    "endTime": 43.48,
+    "text": "science at the scripts Research Institute uh we did a little digging and found a profile of her in the San Diego"
+  },
+  {
+    "startTime": 43.48,
+    "endTime": 50.52,
+    "text": "Union Tribune where she was called the virus Hunter and uh the various comments were"
+  },
+  {
+    "startTime": 50.52,
+    "endTime": 56.0,
+    "text": "made about her contributions which are obviously substantial I won't comment"
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 61.719,
+    "text": "upon what they called her namely a Steel Magnolia I thought that was a little odd to be put in a profile of a scientist"
+  },
+  {
+    "startTime": 61.719,
+    "endTime": 69.0,
+    "text": "but you can decide for yourself later on uh anyway she got her undergraduate degree at Rice u in a double major in"
+  },
+  {
+    "startTime": 69.0,
+    "endTime": 77.28,
+    "text": "biocham and cell biology and also ecology and evolutionary biology and then PhD uh at the scripts in in the"
+  },
+  {
+    "startTime": 77.28,
+    "endTime": 84.2,
+    "text": "year 2000 and has been there uh in this remarkable productive Enterprise focused"
+  },
+  {
+    "startTime": 84.2,
+    "endTime": 89.56,
+    "text": "on trying to understand how pathogens evade and usurp the innate and adaptive"
+  },
+  {
+    "startTime": 89.56,
+    "endTime": 95.6,
+    "text": "immune responses uh she has quite a diversity of projects going on in the lab"
+  },
+  {
+    "startTime": 95.6,
+    "endTime": 101.0,
+    "text": "including Lassa and marberg and Ebola fever and she uh is expert at"
+  },
+  {
+    "startTime": 101.0,
+    "endTime": 107.479,
+    "text": "incorporating different approaches uh to understanding this including immunology virology and x-ray"
+  },
+  {
+    "startTime": 107.479,
+    "endTime": 113.6,
+    "text": "crystallography so um it is a great pleasure to have her here I want to just point out that at the end of the lecture"
+  },
+  {
+    "startTime": 113.6,
+    "endTime": 120.439,
+    "text": "we'll have time for some questions and their microphones in the aisle and again welcome to those of you who are watching on the web we'll try to be sure"
+  },
+  {
+    "startTime": 120.439,
+    "endTime": 125.799,
+    "text": "that questions are posed from the microphone so you can hear them and then at 4:00 we're going to adjourn down the"
+  },
+  {
+    "startTime": 125.799,
+    "endTime": 131.84,
+    "text": "hall uh for continuation of informal conversations with our speaker but also"
+  },
+  {
+    "startTime": 131.84,
+    "endTime": 137.36,
+    "text": "uh the actual formal unveiling of the new faes center uh which I think you'll"
+  },
+  {
+    "startTime": 137.36,
+    "endTime": 143.4,
+    "text": "want to come and have a look at because it's really quite beautiful facility we'll have a ribbon cutting we'll have a"
+  },
+  {
+    "startTime": 143.4,
+    "endTime": 150.92,
+    "text": "few hopefully short speeches and uh then that will morph into a poster session where the scientific directors are"
+  },
+  {
+    "startTime": 150.92,
+    "endTime": 156.879,
+    "text": "themselves standing by their posters talking about their science giving you a chance to hit them up with really hard"
+  },
+  {
+    "startTime": 156.879,
+    "endTime": 164.12,
+    "text": "questions so it's going to be quite an afternoon but uh to get us going here uh in Missour uh let me ask you please to"
+  },
+  {
+    "startTime": 164.12,
+    "endTime": 173.68,
+    "text": "give a warm welcome uh to Erica Olman [Applause]"
+  },
+  {
+    "startTime": 173.68,
+    "endTime": 178.56,
+    "text": "Sapphire thank you Dr Collins it's a real pleasure to be"
+  },
+  {
+    "startTime": 178.84,
+    "endTime": 185.48,
+    "text": "here so this not going to work for me there it goes my laboratory works on a lot of different viruses today I'm going"
+  },
+  {
+    "startTime": 185.48,
+    "endTime": 193.0,
+    "text": "to show you examples from two of them the first one is a Bola virus it's a long filamentous fil virus the second"
+  },
+  {
+    "startTime": 193.0,
+    "endTime": 199.04,
+    "text": "one is Lassa virus it's a smaller rounder particle and it belongs to the arena virus family now what these"
+  },
+  {
+    "startTime": 199.04,
+    "endTime": 204.519,
+    "text": "viruses have in common is a similar disease they both cause hemorrhagic fever and the symptoms look quite"
+  },
+  {
+    "startTime": 204.519,
+    "endTime": 211.599,
+    "text": "similar especially at first whereas Ebola is thankfully quite rare l is unfortunately extremely common"
+  },
+  {
+    "startTime": 211.599,
+    "endTime": 218.64,
+    "text": "there are hundreds of thousands of cases of Lassa fever every year in Western Africa and it's a hemorrhagic fever most frequently transported to the United"
+  },
+  {
+    "startTime": 218.64,
+    "endTime": 226.799,
+    "text": "States and Europe now what else these viruses have in common is a very small genome Ebola"
+  },
+  {
+    "startTime": 226.799,
+    "endTime": 234.4,
+    "text": "encod just seven genes Lassa only four so whereas you have 20 25,000 genes and"
+  },
+  {
+    "startTime": 234.4,
+    "endTime": 240.799,
+    "text": "you can make 20 25,000 proteins these viruses make only a few"
+  },
+  {
+    "startTime": 240.799,
+    "endTime": 247.92,
+    "text": "so using this very limited protein toolkit how does a virus achieve all the"
+  },
+  {
+    "startTime": 247.92,
+    "endTime": 253.56,
+    "text": "different functions of the virus life cycle from attachment to new ho Cel Fusion entry replication encoding"
+  },
+  {
+    "startTime": 253.56,
+    "endTime": 260.04,
+    "text": "transcription assembly exit and some of the more sophisticated functions of immune evasion through lots of different"
+  },
+  {
+    "startTime": 260.04,
+    "endTime": 266.16,
+    "text": "Pathways how do they do that with only a very few proteins at their"
+  },
+  {
+    "startTime": 266.16,
+    "endTime": 273.68,
+    "text": "disposal this is the Genome of Lassa virus those are seven genes this is the genome I mean that was aola say Lassa"
+  },
+  {
+    "startTime": 273.68,
+    "endTime": 280.639,
+    "text": "it's four genes in two RNA segments so how does a handful of proteins conspired to create such"
+  },
+  {
+    "startTime": 280.639,
+    "endTime": 285.84,
+    "text": "extraordinary pathogenesis and hemorrhagic fever the answer is that each protein"
+  },
+  {
+    "startTime": 285.84,
+    "endTime": 292.12,
+    "text": "that these viruses do encode is essential these viruses have no junk many of these proteins are"
+  },
+  {
+    "startTime": 292.12,
+    "endTime": 297.68,
+    "text": "multifunctional and some are extremely adaptable by studying the proteins that"
+  },
+  {
+    "startTime": 297.68,
+    "endTime": 304.96,
+    "text": "these viruses make we see the vulnerabilities of the virus the Achilles heel the place where we can Target a drug or a vaccine or an"
+  },
+  {
+    "startTime": 304.96,
+    "endTime": 311.96,
+    "text": "antibody but perhaps more importantly we can understand something more about proteins themselves because Evolution"
+  },
+  {
+    "startTime": 311.96,
+    "endTime": 317.479,
+    "text": "has compelled these proteins to be remarkable to do more with less than"
+  },
+  {
+    "startTime": 317.479,
+    "endTime": 324.44,
+    "text": "other proteins by studying what these proteins are capable of we learned something more about the capabilities of proteins and molecular biology in"
+  },
+  {
+    "startTime": 324.44,
+    "endTime": 330.919,
+    "text": "general so I'll show you a few examples the first one comes from the first step of the virus life cycle so"
+  },
+  {
+    "startTime": 330.919,
+    "endTime": 337.919,
+    "text": "the first step the virus has to find and attach to a new host cell this is achieved by the glycoprotein called GP"
+  },
+  {
+    "startTime": 337.919,
+    "endTime": 344.039,
+    "text": "both of these viruses Express only one protein on their surface a glycoprotein called GP and it's solely responsible"
+  },
+  {
+    "startTime": 344.039,
+    "endTime": 350.28,
+    "text": "for attachment and fusion with that cell so Bola virus is filamentous this is a cartoon of what the virus might look"
+  },
+  {
+    "startTime": 350.28,
+    "endTime": 356.72,
+    "text": "like it's got a membrane envelope that's green surrounding a nu nuclear capsid and studed into the surface are these"
+  },
+  {
+    "startTime": 356.72,
+    "endTime": 362.759,
+    "text": "glycoprotein spikes those for a bowl of virus form 450 kilodalton trimers and"
+  },
+  {
+    "startTime": 362.759,
+    "endTime": 369.599,
+    "text": "they're quite heavily glycosilated so the question you might ask because the spike is important for"
+  },
+  {
+    "startTime": 369.599,
+    "endTime": 376.599,
+    "text": "attachment and entry what does it look like how does it work we had to make about 140 versions"
+  },
+  {
+    "startTime": 376.599,
+    "endTime": 383.44,
+    "text": "of this GP to get one that would crystallize well and we had to grow about 50,000 crystals to get one that would defract well enough before we have"
+  },
+  {
+    "startTime": 383.44,
+    "endTime": 389.68,
+    "text": "a structure we typically think of a protein as a schematic like this with an N Terminus and a c Terminus this GP is"
+  },
+  {
+    "startTime": 389.68,
+    "endTime": 395.639,
+    "text": "cleaved in the producer cell to yield two subunits a gp1 which mediates"
+  },
+  {
+    "startTime": 395.639,
+    "endTime": 403.4,
+    "text": "receptor binding and a gp2 which mediates Fusion so the gp1 has the receptor binding domains the gp2 has"
+  },
+  {
+    "startTime": 403.4,
+    "endTime": 409.039,
+    "text": "heptad repeats that undergo a confirmational change and collapse into a 6ix bundle driving membrane"
+  },
+  {
+    "startTime": 409.039,
+    "endTime": 415.4,
+    "text": "Fusion also in gp1 is this unusual muon likee domain it's very heavily"
+  },
+  {
+    "startTime": 415.4,
+    "endTime": 421.639,
+    "text": "glycosilated each domain is about 75 kils there's three on the trimer it's a lot of unstructured protein and"
+  },
+  {
+    "startTime": 421.639,
+    "endTime": 427.4,
+    "text": "carbohydrate so this is the crystal structure of the bowl of rsgp it's the first one we solved you can see the"
+  },
+  {
+    "startTime": 427.4,
+    "endTime": 434.599,
+    "text": "three gp1 subunits in blue and green these mediate receptor binding and they're tied together at the bottom by"
+  },
+  {
+    "startTime": 434.599,
+    "endTime": 440.479,
+    "text": "the gp2 fusion subunits now there's something interesting here when you think about a fusion peptide for flu or"
+  },
+  {
+    "startTime": 440.479,
+    "endTime": 447.319,
+    "text": "HIV it's a hydrophobic peptide that's tucked up inside the structure well here the fusion Loop is tacked under the"
+  },
+  {
+    "startTime": 447.319,
+    "endTime": 452.52,
+    "text": "outside like a fly swatter the one that belongs so this monomer reaches around the outside of the Trier and binds into"
+  },
+  {
+    "startTime": 452.52,
+    "endTime": 458.4,
+    "text": "the next one over in order to get this molecule to"
+  },
+  {
+    "startTime": 458.4,
+    "endTime": 464.52,
+    "text": "crystallize we had to excise that muin like domain but we want to understand what the real GP looks like on the viral"
+  },
+  {
+    "startTime": 464.52,
+    "endTime": 471.44,
+    "text": "surface so it's got these heavily glycosilated domains attached up at top well no GP containing that mu domain"
+  },
+  {
+    "startTime": 471.44,
+    "endTime": 476.68,
+    "text": "crystallizes so we had to use a different technique which was small angle x-ray scattering that's shiny"
+  },
+  {
+    "startTime": 476.68,
+    "endTime": 483.44,
+    "text": "X-rays and protein molecules tumbling around in solution you get kind of a low resolution view sort of maybe 10 enks"
+  },
+  {
+    "startTime": 483.44,
+    "endTime": 488.96,
+    "text": "resolution and then this then turns out this is the solution scattering envelope"
+  },
+  {
+    "startTime": 488.96,
+    "endTime": 494.8,
+    "text": "of a complete fully glycosilated Abola virus GP with all of its sugars and all of its muin like domains so the crystal"
+  },
+  {
+    "startTime": 494.8,
+    "endTime": 500.879,
+    "text": "structure I'm showing you in ribbon in the center for scale these are the muan like domains attached so they"
+  },
+  {
+    "startTime": 500.879,
+    "endTime": 506.479,
+    "text": "effectively triple the size of the molecule I mean Peter Quang coined the term glycan Shield this is a hell of a"
+  },
+  {
+    "startTime": 506.479,
+    "endTime": 513.039,
+    "text": "glycan shield maybe a glycan awning they reach about 100 enstrom away from"
+  },
+  {
+    "startTime": 513.039,
+    "endTime": 519.36,
+    "text": "the core of GP and they're quite flexible so I would actually expect the actual width of this domain to be about"
+  },
+  {
+    "startTime": 519.36,
+    "endTime": 526.08,
+    "text": "half that I think we're visualizing solution a lot of flexibility and waving up here the Salient feature of this is"
+  },
+  {
+    "startTime": 526.08,
+    "endTime": 531.959,
+    "text": "that these muik domains are massive and they sort of dominate the structure of the"
+  },
+  {
+    "startTime": 531.959,
+    "endTime": 537.16,
+    "text": "GP okay so this is what's on the bile surface how does it work how does it"
+  },
+  {
+    "startTime": 537.16,
+    "endTime": 543.24,
+    "text": "find and get into a new host cell well this I'm showing again the crystal"
+  },
+  {
+    "startTime": 543.24,
+    "endTime": 549.079,
+    "text": "structure I'm coloring all the surface white Patos that I'm colored pink are"
+  },
+  {
+    "startTime": 549.079,
+    "endTime": 554.88,
+    "text": "areas that mutagenesis tells us are important for infectivity they're a little bit sequestered kind of inside"
+  },
+  {
+    "startTime": 554.88,
+    "endTime": 561.48,
+    "text": "the bowl shape that the Trier makes the residues that are most important for receptor binding are very sequestered"
+  },
+  {
+    "startTime": 561.48,
+    "endTime": 567.56,
+    "text": "and in fact inside the structure underneath this domain so that's sort of a"
+  },
+  {
+    "startTime": 567.56,
+    "endTime": 572.6,
+    "text": "representation of where the muik domain are the parts that are important for receptor binding are these pink ones and"
+  },
+  {
+    "startTime": 572.6,
+    "endTime": 578.959,
+    "text": "they're underneath these domains we call the glycan Caps because they have a lot of glycans attached to them"
+  },
+  {
+    "startTime": 578.959,
+    "endTime": 585.92,
+    "text": "so does this make sense I mean how on Earth is this a functional receptor binding site underneath this entire"
+  },
+  {
+    "startTime": 585.92,
+    "endTime": 594.04,
+    "text": "canopy of protein and carbohydrate the answer is that it was known from biology that GP needs to be"
+  },
+  {
+    "startTime": 594.04,
+    "endTime": 600.839,
+    "text": "cleaved by host cathepsin enzymes for infection to occur and the fil virus is different in the requirement for cathepsin cleavage but it's especially"
+  },
+  {
+    "startTime": 600.839,
+    "endTime": 606.0,
+    "text": "important for a boulevar so why well in solving the crystal"
+  },
+  {
+    "startTime": 606.0,
+    "endTime": 611.16,
+    "text": "structure we see that all of this structure the glycan cap and the whole"
+  },
+  {
+    "startTime": 611.16,
+    "endTime": 616.279,
+    "text": "muin like domain are attached by a single polypeptide tether that connects"
+  },
+  {
+    "startTime": 616.279,
+    "endTime": 621.32,
+    "text": "residue 189 to 213 and that piece of polypeptide is"
+  },
+  {
+    "startTime": 621.32,
+    "endTime": 627.64,
+    "text": "disordered so something that's disordered in the crystal structure it's flexible and it's moving around it's solv and exposed so this looks like a"
+  },
+  {
+    "startTime": 627.64,
+    "endTime": 634.519,
+    "text": "pretty attractive prus cleavage site right right if protasis were to cleave on that yellow Loop this would be the"
+  },
+  {
+    "startTime": 634.519,
+    "endTime": 640.2,
+    "text": "effect which is much better exposure of the receptor binding sites and now we're not making that up this is actually the"
+  },
+  {
+    "startTime": 640.2,
+    "endTime": 645.44,
+    "text": "crystal structure now of cleave GP and another L simultaneously so that yes"
+  },
+  {
+    "startTime": 645.44,
+    "endTime": 651.04,
+    "text": "cleavage indeed strips off 85% of the mass of gp1 GP leaving the receptor"
+  },
+  {
+    "startTime": 651.04,
+    "endTime": 656.079,
+    "text": "bonding sites exposed so this is what the protein"
+  },
+  {
+    "startTime": 656.079,
+    "endTime": 661.36,
+    "text": "looks like on the viral surface what do we learn from this receptor binding probably doesn't happen"
+  },
+  {
+    "startTime": 661.36,
+    "endTime": 667.279,
+    "text": "at the viral surface so just by looking at the structure alone you can see that the spots needed to bind that receptor"
+  },
+  {
+    "startTime": 667.279,
+    "endTime": 674.44,
+    "text": "are not well not accessible they're not well Exposed on this kind of protein instead the virus that Bears this on its"
+  },
+  {
+    "startTime": 674.44,
+    "endTime": 680.8,
+    "text": "surface enters cells by macropinocytosis once in the endosome"
+  },
+  {
+    "startTime": 680.8,
+    "endTime": 686.16,
+    "text": "this is cleaved to strip off all that surface sugar in those muan likee"
+  },
+  {
+    "startTime": 686.16,
+    "endTime": 693.72,
+    "text": "domains leaving the receptor bonding site well exposed and allowing binding by the receptor nean pick C1 npc1 and"
+  },
+  {
+    "startTime": 693.72,
+    "endTime": 701.44,
+    "text": "its binding side is right there sort of where the glycan cap used to be okay so what we see here is one"
+  },
+  {
+    "startTime": 701.44,
+    "endTime": 707.16,
+    "text": "polypeptide that results in two different biologically relevant manifestations this is the molecule"
+  },
+  {
+    "startTime": 707.16,
+    "endTime": 712.639,
+    "text": "subject to antibody surveillance this is the molecule that's functional for receptor"
+  },
+  {
+    "startTime": 712.639,
+    "endTime": 719.44,
+    "text": "binding so what does that mean for the immune response well nothing good"
+  },
+  {
+    "startTime": 719.44,
+    "endTime": 724.959,
+    "text": "uh many epitopes are going to be clipped right off in fact in a lot of vaccination studies these sites can be"
+  },
+  {
+    "startTime": 724.959,
+    "endTime": 730.2,
+    "text": "immunodominant and you can see that any antibod that binds to these mucin like domain epitopes is going to be cut right"
+  },
+  {
+    "startTime": 730.2,
+    "endTime": 735.959,
+    "text": "off in the endosome leaving a perfectly functional receptor binding core that's now antibod free so those kinds of"
+  },
+  {
+    "startTime": 735.959,
+    "endTime": 741.32,
+    "text": "antibodies don't neutralize the essential conserved sites"
+  },
+  {
+    "startTime": 741.32,
+    "endTime": 747.079,
+    "text": "are not well exposed so for example all these fil viruses share the same receptor so that's a conserved binding"
+  },
+  {
+    "startTime": 747.079,
+    "endTime": 754.0,
+    "text": "site um it's an essential site for the molecule you'd love to Target that with an antibody it's completely or partially"
+  },
+  {
+    "startTime": 754.0,
+    "endTime": 759.959,
+    "text": "hidden under the glycan cap in the viral surface so the antibody might not see it unless you find a way to engineer the"
+  },
+  {
+    "startTime": 759.959,
+    "endTime": 767.0,
+    "text": "immunogen or engineer the antibody because of this conundrum we're left with a bit of a puzzle that"
+  },
+  {
+    "startTime": 767.0,
+    "endTime": 773.839,
+    "text": "neutralization and protection don't always correlate for boulevards so neutralization is your ability to"
+  },
+  {
+    "startTime": 773.839,
+    "endTime": 781.839,
+    "text": "inactivate the virus in vitro protection is your ability to save the animal in Vivo so for example antibodies like this"
+  },
+  {
+    "startTime": 781.839,
+    "endTime": 789.0,
+    "text": "this is the human kz52 from the Survivor of the kick with Z outbreak neutralizes brilliantly doesn't protect the"
+  },
+  {
+    "startTime": 789.0,
+    "endTime": 795.639,
+    "text": "primate antibodies like these including two that bind the muin like domains and one that binds up by the glycan cab"
+  },
+  {
+    "startTime": 795.639,
+    "endTime": 802.8,
+    "text": "don't neutralize but they do protect the primate so this doesn't make a lot of"
+  },
+  {
+    "startTime": 802.8,
+    "endTime": 809.16,
+    "text": "sense leaving you wondering what works here we had this result years before"
+  },
+  {
+    "startTime": 809.16,
+    "endTime": 814.8,
+    "text": "before and that really cooled everybody's opinion on antibodies against the Bol virus maybe it wasn't even going to be possible to protect"
+  },
+  {
+    "startTime": 814.8,
+    "endTime": 820.519,
+    "text": "animals but then it turns out that you can these are quite protective even if you wait long enough for hemorrhagic"
+  },
+  {
+    "startTime": 820.519,
+    "endTime": 826.839,
+    "text": "fever to develop the difference might be that these are given in a cocktail where this one was given alone so does that"
+  },
+  {
+    "startTime": 826.839,
+    "endTime": 833.12,
+    "text": "mean that we have to have a cocktail is replicative capacity or the length and the number of spikes of a Biv virus such"
+  },
+  {
+    "startTime": 833.12,
+    "endTime": 839.48,
+    "text": "that we need to have multiple antibodies against multiple sites and if so which ones do we put together I mean"
+  },
+  {
+    "startTime": 839.48,
+    "endTime": 848.12,
+    "text": "two-thirds of this cocktail is muin does that mean that muin works or is this one the champ that binds the top we we don't"
+  },
+  {
+    "startTime": 848.12,
+    "endTime": 854.32,
+    "text": "know now in the field we have about 200 different monoclonal antibodies identified against the virus what do you"
+  },
+  {
+    "startTime": 854.32,
+    "endTime": 860.759,
+    "text": "put together in the coctail well now I'm going to divert a little bit from my theme about the proteins of the viruses"
+  },
+  {
+    "startTime": 860.759,
+    "endTime": 865.92,
+    "text": "to tell you how we can use the structure to try to get out that problem this is the website of the viral hemorrhagic"
+  },
+  {
+    "startTime": 865.92,
+    "endTime": 873.639,
+    "text": "fever immunotherapeutic Consortium you'll be able to find this link through scpt very soon what this is is that more than"
+  },
+  {
+    "startTime": 873.639,
+    "endTime": 880.079,
+    "text": "20 pis in seven different countries have all gotten on the same page we put all the almost all the antibodies known"
+  },
+  {
+    "startTime": 880.079,
+    "endTime": 885.72,
+    "text": "against these viruses together in one pool we've blinded them we're going to compare them side by side to find out"
+  },
+  {
+    "startTime": 885.72,
+    "endTime": 892.44,
+    "text": "what's more effective we're going to try to see if it can correlate efficacy in vitro and in animals to the epitope"
+  },
+  {
+    "startTime": 892.44,
+    "endTime": 897.839,
+    "text": "bounds we're going to understand how to put together the right cocktail because right now we have three from the Army in"
+  },
+  {
+    "startTime": 897.839,
+    "endTime": 903.92,
+    "text": "a cocktail that neutralized we have three uh from Canada and a cocktail that neutralized what if the most effective"
+  },
+  {
+    "startTime": 903.92,
+    "endTime": 909.88,
+    "text": "cocktail is one from Japan and one from the Army and one from Hamilton we won't know until we put them all"
+  },
+  {
+    "startTime": 909.88,
+    "endTime": 916.079,
+    "text": "together and so it's nice that everyone is on the same page in the same study"
+  },
+  {
+    "startTime": 916.079,
+    "endTime": 922.639,
+    "text": "Okay so until we make that cocktail let's assume that viral infection will proceed so the next deck"
+  },
+  {
+    "startTime": 922.639,
+    "endTime": 928.6,
+    "text": "of viral infection after the virus has the viral membrane is fused with the host endosome membrane the genetic"
+  },
+  {
+    "startTime": 928.6,
+    "endTime": 934.68,
+    "text": "material enters and the virus starts to replicate now something important happens"
+  },
+  {
+    "startTime": 934.68,
+    "endTime": 941.519,
+    "text": "here most people die from aola Virus Infection 50 to 90% some people live"
+  },
+  {
+    "startTime": 941.519,
+    "endTime": 948.959,
+    "text": "what's the difference the difference seems to be that those people that survive their Ebola virus infection tend"
+  },
+  {
+    "startTime": 948.959,
+    "endTime": 954.639,
+    "text": "to generate an early and strong immune response against the virus and their viral tighter starts to drop by around"
+  },
+  {
+    "startTime": 954.639,
+    "endTime": 960.36,
+    "text": "day four those people that ultimately succumb to their Abola virus infection"
+  },
+  {
+    "startTime": 960.36,
+    "endTime": 967.12,
+    "text": "are more likely to be characterized by a very poor immune response and their viral titers get quite High 10 to the 9"
+  },
+  {
+    "startTime": 967.12,
+    "endTime": 973.399,
+    "text": "to 10 to the 10 per Mill of s at time of death so for this decision point to have"
+  },
+  {
+    "startTime": 973.399,
+    "endTime": 980.44,
+    "text": "occurred by around day four that means that the innate immune system is quite important in making this decision of"
+  },
+  {
+    "startTime": 980.44,
+    "endTime": 985.68,
+    "text": "survival or um not survival so what is"
+  },
+  {
+    "startTime": 985.68,
+    "endTime": 991.48,
+    "text": "the viral Factor at play in this ative immune decision Point well one of them"
+  },
+  {
+    "startTime": 991.48,
+    "endTime": 997.639,
+    "text": "is a protein called vp35 viral protein 35 kod that's how that's got its name it's a component of"
+  },
+  {
+    "startTime": 997.639,
+    "endTime": 1005.12,
+    "text": "the nucleo capson replication complex that's his J job it also has another job it's an interferon antagonist and what"
+  },
+  {
+    "startTime": 1005.12,
+    "endTime": 1011.44,
+    "text": "it does in that function is to bind double stranded RNA now you typically would only have double stranded RNA in"
+  },
+  {
+    "startTime": 1011.44,
+    "endTime": 1017.959,
+    "text": "the context of a viral infection and so it is a pathogen Associated molecular pattern your anate immune system has"
+  },
+  {
+    "startTime": 1017.959,
+    "endTime": 1023.48,
+    "text": "sensors that go looking for double Str RNA when they sense it they mount an antiviral response not having to know"
+  },
+  {
+    "startTime": 1023.48,
+    "endTime": 1028.558,
+    "text": "what the virus is just the presence of a viral infection so how does this one"
+  },
+  {
+    "startTime": 1028.559,
+    "endTime": 1035.52,
+    "text": "work this is a crystal structure of bp35 bound to double stranded RNA so the double strand RNA here is an 18 base per"
+  },
+  {
+    "startTime": 1035.52,
+    "endTime": 1042.12,
+    "text": "oligo and green we've got four copies of vp35 bound to it now this half is"
+  },
+  {
+    "startTime": 1042.12,
+    "endTime": 1047.76,
+    "text": "identical to this half in the structure so two fold axes down the center you can really only look at this half if you"
+  },
+  {
+    "startTime": 1047.76,
+    "endTime": 1053.88,
+    "text": "want this is not the mode of Lian binding that you learned on your mother's knee"
+  },
+  {
+    "startTime": 1053.88,
+    "endTime": 1060.36,
+    "text": "as a biochemist so what you typically think of when you think of a protein binding a Lian is that it has one"
+  },
+  {
+    "startTime": 1060.36,
+    "endTime": 1067.48,
+    "text": "binding site right this laser pointer is a liand my hand is the protein it binds in the palm and that's its binding site"
+  },
+  {
+    "startTime": 1067.48,
+    "endTime": 1072.679,
+    "text": "perfectly shaped for it what we have here is the same protein binding in two"
+  },
+  {
+    "startTime": 1072.679,
+    "endTime": 1079.4,
+    "text": "different ways two copies bind the backbone two copies cap the end"
+  },
+  {
+    "startTime": 1079.4,
+    "endTime": 1086.84,
+    "text": "now these are the identical protein you could pull off the endcapping one roll it around and attach it by the backbone binding they use different binding sites"
+  },
+  {
+    "startTime": 1086.84,
+    "endTime": 1092.96,
+    "text": "to do that the endcapping uses a hydrophobic patch sort of these kind of residues being Central and the backbone"
+  },
+  {
+    "startTime": 1092.96,
+    "endTime": 1100.52,
+    "text": "binding one uses a hydrophilic patch with these residues being Central so instead of the lion binding in one site"
+  },
+  {
+    "startTime": 1100.52,
+    "endTime": 1106.88,
+    "text": "you have two identical copies of the protein one binds this way and one binds this way and it turns out that that"
+  },
+  {
+    "startTime": 1106.88,
+    "endTime": 1113.4,
+    "text": "dimerization is essential point mutations that block that Diemer interface attenuate the Ebola virus so"
+  },
+  {
+    "startTime": 1113.4,
+    "endTime": 1119.32,
+    "text": "after you form this asymmetric Diemer on the end it then goes on to spiral around the RNA marberg virus doesn't need to do"
+  },
+  {
+    "startTime": 1119.32,
+    "endTime": 1126.4,
+    "text": "this it just spirals but it's interesting that it has repurposed itself from Nu nucleocapsid protein have"
+  },
+  {
+    "startTime": 1126.4,
+    "endTime": 1131.6,
+    "text": "this additional function and use different sides of itself in order to"
+  },
+  {
+    "startTime": 1131.6,
+    "endTime": 1137.799,
+    "text": "make two different binding sides so one polypeptide it's got two"
+  },
+  {
+    "startTime": 1137.799,
+    "endTime": 1143.28,
+    "text": "functions replication and immune evasion and the same protein has two"
+  },
+  {
+    "startTime": 1143.28,
+    "endTime": 1149.28,
+    "text": "different binding sites for the same leg okay well here's this protein I'm going to show you next has a different"
+  },
+  {
+    "startTime": 1149.28,
+    "endTime": 1154.559,
+    "text": "strategy for managing double stranded RNA this is the nuclear protein of Lassa"
+  },
+  {
+    "startTime": 1154.559,
+    "endTime": 1160.84,
+    "text": "virus so the day job of a nuclear protein is to bind and play a role in"
+  },
+  {
+    "startTime": 1160.84,
+    "endTime": 1167.28,
+    "text": "replicating the viral genome these are RNA viruses they protect the RNA genen by having it continually Bound by a nuclear"
+  },
+  {
+    "startTime": 1167.28,
+    "endTime": 1173.6,
+    "text": "protein V genome has four genes again this protein has another function"
+  },
+  {
+    "startTime": 1173.6,
+    "endTime": 1179.4,
+    "text": "it's also an interferon antagonist but it it was known that it"
+  },
+  {
+    "startTime": 1179.4,
+    "endTime": 1185.2,
+    "text": "was immunosuppressive but it wasn't known how it was immunosuppressive so how does this genome binding protein"
+  },
+  {
+    "startTime": 1185.2,
+    "endTime": 1190.32,
+    "text": "suppress immune signaling we didn't know so we saw the"
+  },
+  {
+    "startTime": 1190.32,
+    "endTime": 1195.679,
+    "text": "structure here's the structure it's got strands heles lupy bits bound"
+  },
+  {
+    "startTime": 1195.679,
+    "endTime": 1200.919,
+    "text": "zinc that didn't tell us anything uh the sequence of this protein wasn't"
+  },
+  {
+    "startTime": 1200.919,
+    "endTime": 1207.36,
+    "text": "like anything in gen Bank it only looks like another Rena virus nuclear protein and there were no other structures of those so we haven't learned anything"
+  },
+  {
+    "startTime": 1207.36,
+    "endTime": 1213.64,
+    "text": "from its sequence so then we asked ourselves well is its structure like anything we've seen before even if a"
+  },
+  {
+    "startTime": 1213.64,
+    "endTime": 1219.64,
+    "text": "sequence isn't so we did a dolly search for things of similar fold and we found"
+  },
+  {
+    "startTime": 1219.64,
+    "endTime": 1226.72,
+    "text": "one so in green it's the L of virus nuclear protein I'm going to Overlay some other proteins they are all"
+  },
+  {
+    "startTime": 1226.72,
+    "endTime": 1233.84,
+    "text": "exonucleases of the dddh super uh ex DH super family this is isg20 DNA"
+  },
+  {
+    "startTime": 1233.84,
+    "endTime": 1239.159,
+    "text": "polymerase 3 Epsilon subunit you can see the folds are similar they have the secondary structural elements in the"
+  },
+  {
+    "startTime": 1239.159,
+    "endTime": 1246.799,
+    "text": "same places this is a super family of nucleases um it has the Lassa has a"
+  },
+  {
+    "startTime": 1246.799,
+    "endTime": 1252.0,
+    "text": "similar fold even right down to the exonuclease active site so all of these"
+  },
+  {
+    "startTime": 1252.0,
+    "endTime": 1259.28,
+    "text": "enzymes are characterized by the DH so uh D DH these catalytic residues"
+  },
+  {
+    "startTime": 1259.28,
+    "endTime": 1266.08,
+    "text": "in the catalytic AOS site the L of nuclear protein is colored green so it's got the same residues in the same place"
+  },
+  {
+    "startTime": 1266.08,
+    "endTime": 1272.559,
+    "text": "and if you went back and looked in the sequence you could see that those were there and those are conserved across Arena viruses but the spacing of them"
+  },
+  {
+    "startTime": 1272.559,
+    "endTime": 1278.12,
+    "text": "wasn't anything that you could appreciate that was going to wind up being an exonuclease until we solve the"
+  },
+  {
+    "startTime": 1278.12,
+    "endTime": 1283.48,
+    "text": "structure so it looks like an exonuclease does it function like an ex"
+  },
+  {
+    "startTime": 1283.48,
+    "endTime": 1288.64,
+    "text": "nucleas so to answer that we gave it all kinds of oligos some DNA some RNA some"
+  },
+  {
+    "startTime": 1288.64,
+    "endTime": 1296.6,
+    "text": "single stranded some double stranded and it digests some of them so NEX nucleus digest nucleic acid this one does two"
+  },
+  {
+    "startTime": 1296.6,
+    "endTime": 1302.72,
+    "text": "the only thing it digests though is double stranded RNA so the other exonucleases in the Super family can be"
+  },
+  {
+    "startTime": 1302.72,
+    "endTime": 1310.36,
+    "text": "more Catholic in their substrate specificity they digest a number of things this one only digests double stranded RNA the pathogen Associated"
+  },
+  {
+    "startTime": 1310.36,
+    "endTime": 1316.679,
+    "text": "molecular pattern and we think that enzymatic activity is linked to the imuno suppression that we see in lass of virus"
+  },
+  {
+    "startTime": 1316.679,
+    "endTime": 1323.159,
+    "text": "infection because when you make Point mutants in and around the active site or that disrupt the structure so the wild"
+  },
+  {
+    "startTime": 1323.159,
+    "endTime": 1329.96,
+    "text": "type protein digests the double Str RNA the mutants don't if you look at an ir3 reporter activity the wild type protein"
+  },
+  {
+    "startTime": 1329.96,
+    "endTime": 1335.48,
+    "text": "suppresses it the mutants don't and the ones that disrupt the structure have varing effects so if you knock out the"
+  },
+  {
+    "startTime": 1335.48,
+    "endTime": 1342.159,
+    "text": "exonuclease activity you knock out the IM suppression so now here's the structure of the nucleus now in complex"
+  },
+  {
+    "startTime": 1342.159,
+    "endTime": 1348.2,
+    "text": "with double strand RNA the yellow strand feeds right into the active site the paired purple strand The non-substrate"
+  },
+  {
+    "startTime": 1348.2,
+    "endTime": 1353.919,
+    "text": "Strand arches up above and we can look in here and compare this to other ex nucleuses and we see there are only two"
+  },
+  {
+    "startTime": 1353.919,
+    "endTime": 1359.72,
+    "text": "amino acids that give Lassa its unique immunosuppressive substrate"
+  },
+  {
+    "startTime": 1359.72,
+    "endTime": 1365.0,
+    "text": "specificity and so what it's doing is maybe rapidly erasing the thing that the"
+  },
+  {
+    "startTime": 1365.0,
+    "endTime": 1370.039,
+    "text": "immune system is looking for a double stranded RNA as a replication intermediate of the single stranded RNA"
+  },
+  {
+    "startTime": 1370.039,
+    "endTime": 1376.559,
+    "text": "virus maybe as one domain of the protein binds the genome the other domain coupled to it comes along and erases it"
+  },
+  {
+    "startTime": 1376.559,
+    "endTime": 1383.36,
+    "text": "we're still trying to figure out how that works what we do see is that this structure and that Motif and this Enz activity"
+  },
+  {
+    "startTime": 1383.36,
+    "endTime": 1390.44,
+    "text": "seems to be shared among the arena virus family this is a family of 50 different viruses that exist on on nearly every"
+  },
+  {
+    "startTime": 1390.44,
+    "endTime": 1395.84,
+    "text": "continent so an enzyme with a number of human pathogens looks like it could be"
+  },
+  {
+    "startTime": 1395.84,
+    "endTime": 1402.679,
+    "text": "an effective um target for a broadspectrum antiviral and I'm looking for someone to work with me on that okay"
+  },
+  {
+    "startTime": 1402.679,
+    "endTime": 1408.159,
+    "text": "so what we here see here in this example is one polypeptide with multiple activities as J job is to bind and"
+  },
+  {
+    "startTime": 1408.159,
+    "endTime": 1413.279,
+    "text": "replicate The genome it also erases a key signature that would spark in"
+  },
+  {
+    "startTime": 1413.279,
+    "endTime": 1420.76,
+    "text": "aimmune signaling so if we the virus has entered the cell suppressed immune signaling"
+  },
+  {
+    "startTime": 1420.76,
+    "endTime": 1426.64,
+    "text": "replicated its next job in its life cycle is to assemble new varians and butt"
+  },
+  {
+    "startTime": 1426.64,
+    "endTime": 1431.679,
+    "text": "app that occurs by a protein called Matrix for a bol of virus it's called"
+  },
+  {
+    "startTime": 1431.679,
+    "endTime": 1439.919,
+    "text": "vp40 viral protein 40 kils it's this protein here so the Matrix is the the layer"
+  },
+  {
+    "startTime": 1439.919,
+    "endTime": 1447.64,
+    "text": "right underneath the membrane sort of between the membrane and the nucleo capson and that's what gives the virus its shape so if you transfect cells with"
+  },
+  {
+    "startTime": 1447.64,
+    "endTime": 1453.52,
+    "text": "bp40 alone they will assemble and butt out virus-like particles that look just like a Bola virus so all of the"
+  },
+  {
+    "startTime": 1453.52,
+    "endTime": 1460.0,
+    "text": "information that you need to build and Bud a filamentous envelope particle is contained in"
+  },
+  {
+    "startTime": 1460.0,
+    "endTime": 1466.6,
+    "text": "vp40 so how does it do that what does this protein look like the first crystal"
+  },
+  {
+    "startTime": 1466.6,
+    "endTime": 1472.279,
+    "text": "structure of v40 was solved 13 years ago now here it is has an N terminal domain"
+  },
+  {
+    "startTime": 1472.279,
+    "endTime": 1479.2,
+    "text": "and a c terminal domain was thought to be a monomer but what's interesting about a matrix protein is not what it"
+  },
+  {
+    "startTime": 1479.2,
+    "endTime": 1486.039,
+    "text": "looks like as a monomer but how it assembles right how does it build a matrix so they knew at the time that if"
+  },
+  {
+    "startTime": 1486.039,
+    "endTime": 1492.64,
+    "text": "they tinkered with VP 40 and the tinkering could be cutting off CA turmo regions or incubating the protein and"
+  },
+  {
+    "startTime": 1492.64,
+    "endTime": 1498.0,
+    "text": "three M Ura they could get it to form rings so here is em of a hexameric ring"
+  },
+  {
+    "startTime": 1498.0,
+    "endTime": 1503.44,
+    "text": "here's crystal structure of an octameric ring so in this Crystal to generate this crystal structure they express the N"
+  },
+  {
+    "startTime": 1503.44,
+    "endTime": 1510.76,
+    "text": "terminal domain by itself without the orange C terminal domain eight of them make this ring and"
+  },
+  {
+    "startTime": 1510.76,
+    "endTime": 1517.52,
+    "text": "unexpectedly it pulled out RNA from the e Cola expression system there's a little oligo and orange bound to each"
+  },
+  {
+    "startTime": 1517.52,
+    "endTime": 1523.279,
+    "text": "one of the eight copies of b40 in this ring so for the last decade that has"
+  },
+  {
+    "startTime": 1523.279,
+    "endTime": 1529.559,
+    "text": "been our only model for how VP 40 could assemble and there's an awful lot of effort that's gone into designing drugs"
+  },
+  {
+    "startTime": 1529.559,
+    "endTime": 1535.52,
+    "text": "to inhibit ring formation to inhibit Matrix formation there's a lot of models of Bola virus generated by taking these"
+  },
+  {
+    "startTime": 1535.52,
+    "endTime": 1544.039,
+    "text": "little Cheerios making lolium pattern out of them and wrapping it around a fil virus but there are a number of problems"
+  },
+  {
+    "startTime": 1544.039,
+    "endTime": 1550.88,
+    "text": "with this model the first one is that the Rings are not actually found in the purified varians so if they're not in the Varan"
+  },
+  {
+    "startTime": 1550.88,
+    "endTime": 1556.08,
+    "text": "are they a component of the Varan they are found in infected cells however just"
+  },
+  {
+    "startTime": 1556.08,
+    "endTime": 1562.039,
+    "text": "not the actual virus the second problem is that there's no RNA in the virus Matrix layer so what"
+  },
+  {
+    "startTime": 1562.039,
+    "endTime": 1568.039,
+    "text": "that RNA bound to that ring is wasn't entirely clear the RNA is bound to the nucle capset at the center not in the"
+  },
+  {
+    "startTime": 1568.039,
+    "endTime": 1575.08,
+    "text": "Matrix layer underneath the membrane the third problem is that mutations that prevent ring formation"
+  },
+  {
+    "startTime": 1575.08,
+    "endTime": 1580.679,
+    "text": "gave perfectly normal looking viral particles so if you abolish the ring you can butt out a normal looking virus now"
+  },
+  {
+    "startTime": 1580.679,
+    "endTime": 1587.96,
+    "text": "the crystallographers that solv the structure did not think this is how the Matrix is assembled because they did all this work but the field proceeded as if"
+  },
+  {
+    "startTime": 1587.96,
+    "endTime": 1593.159,
+    "text": "you know even if V4 didn't make these discret Rings something about the structure was how the virus was"
+  },
+  {
+    "startTime": 1593.159,
+    "endTime": 1598.36,
+    "text": "assembled okay how does it ass simple we did not"
+  },
+  {
+    "startTime": 1598.36,
+    "endTime": 1604.0,
+    "text": "intend to do any of the work I'm going to show you next we were making vp40 for some other reason we wanted to pull down"
+  },
+  {
+    "startTime": 1604.0,
+    "endTime": 1610.52,
+    "text": "some of the V protein and what we noticed is that whenever we purified VP 40 it came out"
+  },
+  {
+    "startTime": 1610.52,
+    "endTime": 1616.84,
+    "text": "as a dier not a monomer so we're using now size exclusion chomatography coupled to multi-angle light scattering so it's"
+  },
+  {
+    "startTime": 1616.84,
+    "endTime": 1622.559,
+    "text": "a more sensitive method me of determining molecular weight and something that wasn't widely available when the first structure was determined"
+  },
+  {
+    "startTime": 1622.559,
+    "endTime": 1628.919,
+    "text": "a decade ago so vp40 was always a dimer does that matter we were looking"
+  },
+  {
+    "startTime": 1628.919,
+    "endTime": 1634.12,
+    "text": "for a different way that b40 might algiz well we had all this protein we had these robots we grew some crystals they"
+  },
+  {
+    "startTime": 1634.12,
+    "endTime": 1640.399,
+    "text": "refracted right away we Sol the structure here's the structure we see the N termal domain we see the C termal"
+  },
+  {
+    "startTime": 1640.399,
+    "endTime": 1646.32,
+    "text": "domain so the structure from dier is colored here's the structure from the"
+  },
+  {
+    "startTime": 1646.32,
+    "endTime": 1652.64,
+    "text": "monomer no change so the Revelation that it was a dimer instead of a monomer hasn't told us"
+  },
+  {
+    "startTime": 1652.64,
+    "endTime": 1658.76,
+    "text": "anything about the fold of the protein but it was a piece of information that we needed to go looking"
+  },
+  {
+    "startTime": 1658.76,
+    "endTime": 1665.36,
+    "text": "in the crystal packing because we knew that it was a dimer in solution so somehow and how those proteins assemble"
+  },
+  {
+    "startTime": 1665.36,
+    "endTime": 1672.36,
+    "text": "in the crystals we're going to see the dimer interface this is the crystal packing so"
+  },
+  {
+    "startTime": 1672.36,
+    "endTime": 1679.919,
+    "text": "the N termal domains are blue c termal domains are orange the proteins are oriented like this down a filament so"
+  },
+  {
+    "startTime": 1679.919,
+    "endTime": 1687.12,
+    "text": "they make this nncc nncc filament um somewhere in this is the"
+  },
+  {
+    "startTime": 1687.12,
+    "endTime": 1693.399,
+    "text": "dimer that floats around a solution so it's the dimer made by the blue blue n to end interaction or the orange orange"
+  },
+  {
+    "startTime": 1693.399,
+    "endTime": 1699.24,
+    "text": "C Toc interaction well the blue blue buries a lot more molecular surface but the proof"
+  },
+  {
+    "startTime": 1699.24,
+    "endTime": 1705.44,
+    "text": "came from a point mutation we made this one loosing 117 an L 117r point mutation"
+  },
+  {
+    "startTime": 1705.44,
+    "endTime": 1711.64,
+    "text": "results in only monomer so the dier and interface is probably the blue one and this is the dier that floats around a"
+  },
+  {
+    "startTime": 1711.64,
+    "endTime": 1719.679,
+    "text": "solution kind of looks like a butterfly incidentally that Lucine 117"
+  },
+  {
+    "startTime": 1719.679,
+    "endTime": 1725.96,
+    "text": "is on the outside of the ring it's not involved in any of the Ring assembling interfaces okay so let's have another"
+  },
+  {
+    "startTime": 1725.96,
+    "endTime": 1731.84,
+    "text": "look at that filament here this one here belongs to Suzanna bol of virus you're looking at it in its side view roll it"
+  },
+  {
+    "startTime": 1731.84,
+    "endTime": 1738.559,
+    "text": "around there's a top view this is how the crystals assemble all those filaments line up side by side"
+  },
+  {
+    "startTime": 1738.559,
+    "endTime": 1743.799,
+    "text": "well we wondered um if that was interesting is this assembly"
+  },
+  {
+    "startTime": 1743.799,
+    "endTime": 1750.159,
+    "text": "physiologically relevant or is this just some artifact of Crystal packet well the odd thing we noticed is that no matter"
+  },
+  {
+    "startTime": 1750.159,
+    "endTime": 1758.279,
+    "text": "how we tried to crystallize VP 40 we always got the same filament space group C2 space group P6 422 p62 this is the"
+  },
+  {
+    "startTime": 1758.279,
+    "endTime": 1764.96,
+    "text": "original structure done 13 years ago no matter which species of a Bola virus we worked with or which kind of Crystal"
+  },
+  {
+    "startTime": 1764.96,
+    "endTime": 1772.36,
+    "text": "symmetry arrangement we got we always got the same filament organized the same way the same nncc nncc filament here"
+  },
+  {
+    "startTime": 1772.36,
+    "endTime": 1777.679,
+    "text": "they're rigid and they line up next to each other and they defract well here they form four twisted around each other"
+  },
+  {
+    "startTime": 1777.679,
+    "endTime": 1783.84,
+    "text": "and they don't defract as well here they make a 10 stranded conduit tube they don't defract too well but they're"
+  },
+  {
+    "startTime": 1783.84,
+    "endTime": 1790.799,
+    "text": "always assembled by the same interfaces so that's starting to get uncanny right"
+  },
+  {
+    "startTime": 1790.799,
+    "endTime": 1797.32,
+    "text": "you crystallize the protein four different times and it makes the same assembly every time maybe it's something it wants to do so the proteins inscribed"
+  },
+  {
+    "startTime": 1797.32,
+    "endTime": 1803.039,
+    "text": "as a monomer forms a dimer in solution every time we crystallize a full length protein we get the same"
+  },
+  {
+    "startTime": 1803.039,
+    "endTime": 1808.2,
+    "text": "filament under some other circumstances you could cut off the C termal domain"
+  },
+  {
+    "startTime": 1808.2,
+    "endTime": 1815.559,
+    "text": "and form a ring and there's one crystal structure of that so which one of these assemblies"
+  },
+  {
+    "startTime": 1815.559,
+    "endTime": 1820.919,
+    "text": "makes the viral Matrix or or do neither one of them do to answer that question"
+  },
+  {
+    "startTime": 1820.919,
+    "endTime": 1826.72,
+    "text": "we made mutations each one of these interfaces because this assembly and the ring assembly are built by different"
+  },
+  {
+    "startTime": 1826.72,
+    "endTime": 1831.96,
+    "text": "surfaces Amino acids that make this filament are on the outside of the ring and amino acids that are important in"
+  },
+  {
+    "startTime": 1831.96,
+    "endTime": 1837.64,
+    "text": "RNA binding and ring formation are not what assembled this filament so let me"
+  },
+  {
+    "startTime": 1837.64,
+    "endTime": 1843.32,
+    "text": "show you those mutations so this is the dier interface you're looking top down at the butterfly it's the blue blue so"
+  },
+  {
+    "startTime": 1843.32,
+    "endTime": 1850.919,
+    "text": "for example locing 117 tring 112 are important to the Diemer interface if you mutate them you get"
+  },
+  {
+    "startTime": 1850.919,
+    "endTime": 1858.559,
+    "text": "this so the wild proteins the dier if you mutate the dier interface you get monomer and ring can you see that or do"
+  },
+  {
+    "startTime": 1858.559,
+    "endTime": 1864.279,
+    "text": "we need to dim the lights a little more see it okay so you mutate the DI interface you get monomer and you get"
+  },
+  {
+    "startTime": 1864.279,
+    "endTime": 1870.24,
+    "text": "ring you transfect cells and now we're standing v40 greens attract the green"
+  },
+  {
+    "startTime": 1870.24,
+    "endTime": 1876.36,
+    "text": "the wild type protein traffics to the cell membrane and buds out these filamentous virus-like particles so you"
+  },
+  {
+    "startTime": 1876.36,
+    "endTime": 1882.76,
+    "text": "can see some lengthwise and many in cross-section the monomer and ring mutations don't traffic as well to the"
+  },
+  {
+    "startTime": 1882.76,
+    "endTime": 1890.159,
+    "text": "membrane and they don't butt anything at all so that end to end dier interface is important for Matrix assembly and"
+  },
+  {
+    "startTime": 1890.159,
+    "endTime": 1895.6,
+    "text": "budding even if the mutants make ring okay well how about the filament that we"
+  },
+  {
+    "startTime": 1895.6,
+    "endTime": 1901.919,
+    "text": "keep seeing in those crystals made by packing sideways of the dimers that's made by those ctoc interactions so at"
+  },
+  {
+    "startTime": 1901.919,
+    "endTime": 1907.76,
+    "text": "that interface is methionine 241 and isoline 307 so let's mutate"
+  },
+  {
+    "startTime": 1907.76,
+    "endTime": 1913.6,
+    "text": "those okay wild t protein is a dier this first mutant it's also a dier but that's"
+  },
+  {
+    "startTime": 1913.6,
+    "endTime": 1919.919,
+    "text": "what we expected right because what we're mutating is how the diers assemble to make the filament so we still have the"
+  },
+  {
+    "startTime": 1919.919,
+    "endTime": 1925.2,
+    "text": "dier the wild type protein traffics to the membrane and buds out these viruslike particles it also makes these"
+  },
+  {
+    "startTime": 1925.2,
+    "endTime": 1930.96,
+    "text": "funny little membrane Ruffles we don't know what they are but the wild type protein does that this mutant protein"
+  },
+  {
+    "startTime": 1930.96,
+    "endTime": 1937.679,
+    "text": "doesn't traffic quite as well but when it gets there it has this crazy ruffling morphology it doesn't successfully Bud"
+  },
+  {
+    "startTime": 1937.679,
+    "endTime": 1944.12,
+    "text": "any viral particles but it makes this membrane have this funny ruffling effect so we Sol the structure of the D the the"
+  },
+  {
+    "startTime": 1944.12,
+    "endTime": 1950.159,
+    "text": "m241 r mutant to find out what was happening and you have the same di here you can see the green butterfly and"
+  },
+  {
+    "startTime": 1950.159,
+    "endTime": 1956.519,
+    "text": "here's a blue butterfly but instead of being packed side by side like every"
+  },
+  {
+    "startTime": 1956.519,
+    "endTime": 1962.919,
+    "text": "other crystal structure we've mutated that interface and they're Twisted relative to each other so it might be"
+  },
+  {
+    "startTime": 1962.919,
+    "endTime": 1970.279,
+    "text": "that when they traffic to the membrane they're making some kind of funny Twisted filament that's making that ruffled morphology but can't quite get"
+  },
+  {
+    "startTime": 1970.279,
+    "endTime": 1977.519,
+    "text": "together and release the virus okay this other mutant is different it doesn't make dier it only"
+  },
+  {
+    "startTime": 1977.519,
+    "endTime": 1983.2,
+    "text": "makes makes rings and these Rings bind RNA the vp40 dier doesn't B RNA the vp40"
+  },
+  {
+    "startTime": 1983.2,
+    "endTime": 1988.48,
+    "text": "filament doesn't B RNA only the ring binds RNA and we looked at these by em"
+  },
+  {
+    "startTime": 1988.48,
+    "endTime": 1995.84,
+    "text": "and they've got sort of the same size and shape as the other rings made by deleting the C Terminus the RNA binding rings do not"
+  },
+  {
+    "startTime": 1995.84,
+    "endTime": 2002.12,
+    "text": "traffic to the membrane instead they hug the nucleus and they don't Bud anything at all so what we see from those"
+  },
+  {
+    "startTime": 2002.12,
+    "endTime": 2008.76,
+    "text": "experiments is that disrupting the interactions that build that filament prevents virus assembly and budding"
+  },
+  {
+    "startTime": 2008.76,
+    "endTime": 2016.519,
+    "text": "even if you're making only rings okay now let's break the ring this mutation was previously known"
+  },
+  {
+    "startTime": 2016.519,
+    "endTime": 2021.96,
+    "text": "by Stephan Becker's lab it prevents RNA binding and ring formation it's a dimer"
+  },
+  {
+    "startTime": 2021.96,
+    "endTime": 2027.639,
+    "text": "it traffics to the membrane it buds out virus-like particles and the same kind of membrane Ruffles it looks identical"
+  },
+  {
+    "startTime": 2027.639,
+    "endTime": 2034.12,
+    "text": "to Wild type it assembles and buds just fine same morphology same number of particles you can't tell it apart from"
+  },
+  {
+    "startTime": 2034.12,
+    "endTime": 2039.679,
+    "text": "Wild Ty so what we conclude is that something about that dier and filament is involved"
+  },
+  {
+    "startTime": 2039.679,
+    "endTime": 2045.96,
+    "text": "in virus Assembly not the ring so how different are the dier in"
+  },
+  {
+    "startTime": 2045.96,
+    "endTime": 2051.878,
+    "text": "the ring well they're pretty different so it's easy to see how you're making this filament just by lengthwise"
+  },
+  {
+    "startTime": 2051.879,
+    "endTime": 2057.44,
+    "text": "assembly of the dimers to make the ring you have to"
+  },
+  {
+    "startTime": 2057.44,
+    "endTime": 2064.24,
+    "text": "separate the n and C terminal domains from each other split the N terminal domains apart unravel the 70 amino acids"
+  },
+  {
+    "startTime": 2064.24,
+    "endTime": 2071.48,
+    "text": "that make the interface and then rotate the two members of the dier from parallel to anti-parallel and backwards"
+  },
+  {
+    "startTime": 2071.48,
+    "endTime": 2077.72,
+    "text": "so they're going to reassemble now by the green interface that used to be hidden by the C termal domain used to be"
+  },
+  {
+    "startTime": 2077.72,
+    "endTime": 2084.96,
+    "text": "attached by the yellow interface then four of these anti-parallel backwards diers then make the ring and this ring"
+  },
+  {
+    "startTime": 2084.96,
+    "endTime": 2090.56,
+    "text": "then has an RNA binding site in its Center that wasn't available to the"
+  },
+  {
+    "startTime": 2090.56,
+    "endTime": 2097.2,
+    "text": "filament okay so we think this is something to do with virus assembly how there are three questions"
+  },
+  {
+    "startTime": 2097.2,
+    "endTime": 2102.52,
+    "text": "you might ask yourself the first one would be well what side of this thing interacts with"
+  },
+  {
+    "startTime": 2102.52,
+    "endTime": 2108.56,
+    "text": "membrane well we knew that the interaction with membrane was electrostatic because you could salt it off and we knew that it involved the C"
+  },
+  {
+    "startTime": 2108.56,
+    "endTime": 2115.48,
+    "text": "termal domain so if you look for a basic patch in vp40 there's really only one"
+  },
+  {
+    "startTime": 2115.48,
+    "endTime": 2121.72,
+    "text": "and they're all on the same side of this filament in that basic patch are five lysin that are conserved across the Eola"
+  },
+  {
+    "startTime": 2121.72,
+    "endTime": 2127.28,
+    "text": "viruses four of those five are essential for um membrane interaction and budding"
+  },
+  {
+    "startTime": 2127.28,
+    "endTime": 2132.76,
+    "text": "viruses so probably this surface of the filament is the one that interacts with"
+  },
+  {
+    "startTime": 2132.76,
+    "endTime": 2138.72,
+    "text": "membrane the next question you might ask yourself is is this it is this filament"
+  },
+  {
+    "startTime": 2138.72,
+    "endTime": 2144.76,
+    "text": "how you build the filamentous virus well there are a lot of satisfying things about this model I mean all of"
+  },
+  {
+    "startTime": 2144.76,
+    "endTime": 2150.079,
+    "text": "the interfaces we see there we think are essential because anytime you mutate them you no longer build them by a"
+  },
+  {
+    "startTime": 2150.079,
+    "endTime": 2155.359,
+    "text": "virus but there were two other pieces of information that this model doesn't"
+  },
+  {
+    "startTime": 2155.359,
+    "endTime": 2163.319,
+    "text": "address the first one is that Interac action with membrane induces a lization of vp40 into heximer"
+  },
+  {
+    "startTime": 2163.319,
+    "endTime": 2170.48,
+    "text": "and by our model we just see 2 4 6810 with no jump to hexamer the second thing is that"
+  },
+  {
+    "startTime": 2170.48,
+    "endTime": 2178.44,
+    "text": "interaction with membrane seems to induce some kind of confirmational change between the n and C terminal domains and this model didn't answer"
+  },
+  {
+    "startTime": 2178.44,
+    "endTime": 2184.0,
+    "text": "that either so the third question that we asked yourselves and you might be asking"
+  },
+  {
+    "startTime": 2184.0,
+    "endTime": 2189.04,
+    "text": "yourself right now is there something different happened to the structure when it makes that electrostatic interaction"
+  },
+  {
+    "startTime": 2189.04,
+    "endTime": 2196.52,
+    "text": "with membrane so we went through a series of attempts to try to satisfy the positive"
+  },
+  {
+    "startTime": 2196.52,
+    "endTime": 2203.44,
+    "text": "charge of that basic patch now it's known that phosphole serine is the natural liend of vp40 in the membrane"
+  },
+  {
+    "startTime": 2203.44,
+    "endTime": 2209.76,
+    "text": "and that the molecule dextran sulfate will all compete phospha tillos serum so we soaked a lot of crystals in phosphos"
+  },
+  {
+    "startTime": 2209.76,
+    "endTime": 2217.839,
+    "text": "serum just the head group um we tried to co- crystalize with it we finally found success with dextran sulfate if we incub"
+  },
+  {
+    "startTime": 2217.839,
+    "endTime": 2225.92,
+    "text": "vp40 with dexan sulfate C crystals and straw the structure what we get is a vp40 that is now hexameric with n and C"
+  },
+  {
+    "startTime": 2225.92,
+    "endTime": 2231.599,
+    "text": "separation we get this so let me walk you through this hexic structure the N"
+  },
+  {
+    "startTime": 2231.599,
+    "endTime": 2237.76,
+    "text": "terminal domains are still Blue C termal domains are orange this is one complete monomer with"
+  },
+  {
+    "startTime": 2237.76,
+    "endTime": 2246.44,
+    "text": "this n termal domain and a c termal domain here are two more so molecules 1 2 3 4 5 six in the hexer these C termal"
+  },
+  {
+    "startTime": 2246.44,
+    "endTime": 2253.44,
+    "text": "domains are still attached because if you run the crystal in a gel you only see intact bp40 they're there but we don't see them they're disordered they"
+  },
+  {
+    "startTime": 2253.44,
+    "endTime": 2260.079,
+    "text": "have somehow sprung into solvent channels in the crystal where they occupy a lot of positions so we know they're attached but we don't see them"
+  },
+  {
+    "startTime": 2260.079,
+    "endTime": 2266.44,
+    "text": "and they belong to these and we can see which direction they're going from the poly peptide chain that"
+  },
+  {
+    "startTime": 2266.44,
+    "endTime": 2272.079,
+    "text": "extends this hexameric building block forms this long zigzagging filament in"
+  },
+  {
+    "startTime": 2272.079,
+    "endTime": 2277.92,
+    "text": "these crystals and this is assembled by three different interfaces the same di"
+  },
+  {
+    "startTime": 2277.92,
+    "endTime": 2284.68,
+    "text": "interface we were mutating before with the same Lucine 117 and t112 the same C Toc interface before between the orange"
+  },
+  {
+    "startTime": 2284.68,
+    "endTime": 2291.079,
+    "text": "orange that had the same methionine isoline and something else which we're calling liiz interface that has a"
+  },
+  {
+    "startTime": 2291.079,
+    "endTime": 2298.44,
+    "text": "tryptophan 95 at the center and that's exposed by release of the C termal domain and we know that mutation of tryptophan 95 also prevents Matrix"
+  },
+  {
+    "startTime": 2298.44,
+    "endTime": 2304.2,
+    "text": "assembly so we know by mutagenesis that every interface of this rearranged"
+  },
+  {
+    "startTime": 2304.2,
+    "endTime": 2310.76,
+    "text": "zigzag filament is essential for budding okay well does this filament now fit"
+  },
+  {
+    "startTime": 2310.76,
+    "endTime": 2317.76,
+    "text": "what we know about the virus the Ebola virus looks like this in cross-section cut the fil in half you"
+  },
+  {
+    "startTime": 2317.76,
+    "endTime": 2323.599,
+    "text": "have the nucleo capsid at the center the membrane on the outside and then the tomography tells us there are multiple"
+  },
+  {
+    "startTime": 2323.599,
+    "endTime": 2330.96,
+    "text": "protein layers between the nucle capsid and the membrane so Matrix has a lot of protein layers in it if you look at the"
+  },
+  {
+    "startTime": 2330.96,
+    "endTime": 2336.0,
+    "text": "radial density of the virus inside to out you see a big peak for the nuclear"
+  },
+  {
+    "startTime": 2336.0,
+    "endTime": 2341.04,
+    "text": "capsid and then bump bump bump bump a peak for membrane so we call this an"
+  },
+  {
+    "startTime": 2341.04,
+    "endTime": 2348.88,
+    "text": "inner Peak a central Peak an outer peak in the membrane okay here's our zigzag filament"
+  },
+  {
+    "startTime": 2348.88,
+    "endTime": 2354.04,
+    "text": "turn it around on its side roll it over once more here are three protein layers"
+  },
+  {
+    "startTime": 2354.04,
+    "endTime": 2359.359,
+    "text": "an inner layer a central layer and an outer layer they fit to scale what we"
+  },
+  {
+    "startTime": 2359.359,
+    "endTime": 2365.319,
+    "text": "know about the width of the virion which is always fixed the width of the nuclear capsu which is always fixed the space in"
+  },
+  {
+    "startTime": 2365.319,
+    "endTime": 2371.76,
+    "text": "between and the dimensions that we know C terminal domain the inter terminal core and the reach of these this also"
+  },
+  {
+    "startTime": 2371.76,
+    "endTime": 2378.64,
+    "text": "fits the biology we know from biology that is the C terminal domain that binds membrane we also know it is the C"
+  },
+  {
+    "startTime": 2378.64,
+    "endTime": 2383.88,
+    "text": "terminal domain that binds nucleocapsid how can this happen unless some go this"
+  },
+  {
+    "startTime": 2383.88,
+    "endTime": 2389.359,
+    "text": "way and some go that way so it fits what we understand about the virus"
+  },
+  {
+    "startTime": 2389.359,
+    "endTime": 2394.4,
+    "text": "assembly it also fits the shape of the virus too so here protein is white not"
+  },
+  {
+    "startTime": 2394.4,
+    "endTime": 2400.48,
+    "text": "protein is black we're shooting into the side of the B virus setad of end on and the zigzagging filament seems to follow"
+  },
+  {
+    "startTime": 2400.48,
+    "endTime": 2407.76,
+    "text": "the checkerbar pattern shooting into the size of the virus and scale and repeating distances okay so what we have expressed"
+  },
+  {
+    "startTime": 2407.76,
+    "endTime": 2412.96,
+    "text": "as a dier makes this filamentous intermediate at the membrane there seems"
+  },
+  {
+    "startTime": 2412.96,
+    "endTime": 2420.4,
+    "text": "to be some kind of rearrangement that makes this hexameric building block and this is our current best model for how the Matrix is assembled under some other"
+  },
+  {
+    "startTime": 2420.4,
+    "endTime": 2425.8,
+    "text": "circumstances you can split the thing apart rotate around and make this other ring that binds"
+  },
+  {
+    "startTime": 2425.8,
+    "endTime": 2433.44,
+    "text": "RNA what is this this ring is it real well remember this mutation by"
+  },
+  {
+    "startTime": 2433.44,
+    "endTime": 2439.839,
+    "text": "which we prevent RNA binding and ring formation it results in perfectly normal looking viruses in the perfect shape and"
+  },
+  {
+    "startTime": 2439.839,
+    "endTime": 2446.359,
+    "text": "the perfect number this is a lethal mutation you cannot propagate an ebola virus bearing"
+  },
+  {
+    "startTime": 2446.359,
+    "endTime": 2452.8,
+    "text": "this mutation well why not you can still build and butt a virus and virus can still attach an ENT a"
+  },
+  {
+    "startTime": 2452.8,
+    "endTime": 2457.48,
+    "text": "cell why is this lethal"
+  },
+  {
+    "startTime": 2458.96,
+    "endTime": 2465.0,
+    "text": "the RNA binding ring must do something that's what we conclude by this it must do something essential in the virus life"
+  },
+  {
+    "startTime": 2465.0,
+    "endTime": 2471.56,
+    "text": "cycle well what would that be well the recent discovery that vp40 has a second function in addition to virus assembly"
+  },
+  {
+    "startTime": 2471.56,
+    "endTime": 2477.319,
+    "text": "and budding vp40 controls viral transcription inside the infected cells"
+  },
+  {
+    "startTime": 2477.319,
+    "endTime": 2483.4,
+    "text": "well maybe this is what the ring is for the ring is the only structure of v40 that binds RNA we only see it in"
+  },
+  {
+    "startTime": 2483.4,
+    "endTime": 2488.96,
+    "text": "infected cells we never see the Ring of the virus well now we have some new tools to bring to bear in situation we"
+  },
+  {
+    "startTime": 2488.96,
+    "endTime": 2494.599,
+    "text": "found these point mutations that make only ring or point mutations that never make ring so as our first pass we put"
+  },
+  {
+    "startTime": 2494.599,
+    "endTime": 2500.599,
+    "text": "these into some mini genom mesis so we can do this at bsl2 we have an Abola start aola stop luciferase in the middle"
+  },
+  {
+    "startTime": 2500.599,
+    "endTime": 2507.88,
+    "text": "the wild tape bp40 exhibits that control function vp40 that we've locked into that ring controls a little better so if"
+  },
+  {
+    "startTime": 2507.88,
+    "endTime": 2513.0,
+    "text": "you anchor vp40 into the ring you get the same function if you prevent v40 from forming"
+  },
+  {
+    "startTime": 2513.0,
+    "endTime": 2519.48,
+    "text": "the ring you get a lot less it's not a Total Knockout maybe it's making some partial structure so that ring does seem"
+  },
+  {
+    "startTime": 2519.48,
+    "endTime": 2526.28,
+    "text": "to have some kind of function inside the infected cell and transcriptional control so the wild type unmodified Gene"
+  },
+  {
+    "startTime": 2526.28,
+    "endTime": 2532.92,
+    "text": "product here makes a dimer the dimer is critical for trafficking to the membrane it makes this filament to build in by a"
+  },
+  {
+    "startTime": 2532.92,
+    "endTime": 2539.48,
+    "text": "virus and it makes an RNA binding ring to control transcription of side infected cells so vp40 is both a"
+  },
+  {
+    "startTime": 2539.48,
+    "endTime": 2545.48,
+    "text": "structural and a nonstructural protein uh we're doing this all in"
+  },
+  {
+    "startTime": 2545.48,
+    "endTime": 2551.72,
+    "text": "bacteria so we don't need a translational modification to do it maybe there's one in an infection but we don't there's no mutation there's no"
+  },
+  {
+    "startTime": 2551.72,
+    "endTime": 2557.48,
+    "text": "splice variation the same poly peptide making different structures for different functions at different"
+  },
+  {
+    "startTime": 2559.72,
+    "endTime": 2564.96,
+    "text": "times what do you call a protein that does that well we toyed around with some"
+  },
+  {
+    "startTime": 2564.96,
+    "endTime": 2571.28,
+    "text": "different names by structural Ambi form I finally decided the Transformer was"
+  },
+  {
+    "startTime": 2571.28,
+    "endTime": 2576.64,
+    "text": "the right analogy so Transformers are these toys that refold from a robot into"
+  },
+  {
+    "startTime": 2576.64,
+    "endTime": 2583.52,
+    "text": "a vehicle um truck car it's never a cup of coffee or a grant but they refold from one to"
+  },
+  {
+    "startTime": 2583.52,
+    "endTime": 2589.68,
+    "text": "the other and what I like about this analogy is that you see the same secondary structural elements achieving"
+  },
+  {
+    "startTime": 2589.68,
+    "endTime": 2596.92,
+    "text": "different roles in the different manifestations so for example the tires are the seat of his pants and his ankles"
+  },
+  {
+    "startTime": 2596.92,
+    "endTime": 2603.599,
+    "text": "and the tires are of course tires on the truck if you did not know that this truck existed I'm going to block it out"
+  },
+  {
+    "startTime": 2603.599,
+    "endTime": 2609.76,
+    "text": "all you knew is what this robot existed and you knew that sometimes this protein"
+  },
+  {
+    "startTime": 2609.76,
+    "endTime": 2615.88,
+    "text": "could um walk and talk and shoot and sometimes this robot could carry a lot of cargo and drive really fast and you"
+  },
+  {
+    "startTime": 2615.88,
+    "endTime": 2622.16,
+    "text": "wanted to find out why and you mutated the tires it's easy to see how the tires would flatten the cargo carrying"
+  },
+  {
+    "startTime": 2622.16,
+    "endTime": 2629.28,
+    "text": "capacity but if you didn't know the structure existed and you were looking at this you would conclude that this robot had rocket powered pants because"
+  },
+  {
+    "startTime": 2629.28,
+    "endTime": 2634.76,
+    "text": "obviously the seat of his pants and his Hem of His pants are essential for carrying a lot of cargo and driving 100 miles an"
+  },
+  {
+    "startTime": 2634.76,
+    "endTime": 2641.48,
+    "text": "hour the head here is the Hydro phobic core about which the truck is folded so if you mutate the head you knock out"
+  },
+  {
+    "startTime": 2641.48,
+    "endTime": 2649.04,
+    "text": "everything and so you would say ah the head is a Thinking Center so um we were not allowed to use that"
+  },
+  {
+    "startTime": 2649.04,
+    "endTime": 2656.119,
+    "text": "analogy because the toy company wouldn't let us and so instead we called it molecular origami and so what you can"
+  },
+  {
+    "startTime": 2656.119,
+    "endTime": 2661.839,
+    "text": "think about in this situation is the protein is a blank sheet of paper that folds into different structures"
+  },
+  {
+    "startTime": 2661.839,
+    "endTime": 2667.44,
+    "text": "according to different needs and the virus life cycle and so we've just shown you how we think the dier makes RNA"
+  },
+  {
+    "startTime": 2667.44,
+    "endTime": 2673.4,
+    "text": "binding ring the same dier rearranges to make the hexamer that builds and buds the"
+  },
+  {
+    "startTime": 2673.4,
+    "endTime": 2678.88,
+    "text": "virus viruses are compelled by Evolution to be small especially RNA viruses they"
+  },
+  {
+    "startTime": 2678.88,
+    "endTime": 2684.68,
+    "text": "don't have a proof reading Machinery they have to keep below that error threshold how do viruses keep their"
+  },
+  {
+    "startTime": 2684.68,
+    "endTime": 2691.64,
+    "text": "genomes lean and mean how do they do more with less well they can hijack host proteins for Central functions they can"
+  },
+  {
+    "startTime": 2691.64,
+    "endTime": 2698.559,
+    "text": "encode proteins in overlapping reading frame so it's the same piece of nucleic acid that makes different proteins"
+  },
+  {
+    "startTime": 2698.559,
+    "endTime": 2705.76,
+    "text": "um they can have Moonlighting proteins so the same protein does different functions so the nucleo capsid also suppresses interference signaling this"
+  },
+  {
+    "startTime": 2705.76,
+    "endTime": 2711.359,
+    "text": "is sort of a fourth flavorite where here's a vp40 crystal structure here's a vp40 crystal structure and here's a vp40"
+  },
+  {
+    "startTime": 2711.359,
+    "endTime": 2717.599,
+    "text": "crystal structure the polypeptide that the gene encodes rearranges into different structures for different functions at"
+  },
+  {
+    "startTime": 2717.599,
+    "endTime": 2724.48,
+    "text": "different times to get more function from less Gene so this is what we bring to go to"
+  },
+  {
+    "startTime": 2724.48,
+    "endTime": 2730.0,
+    "text": "the virus's territory this is what it brings it travels light because this"
+  },
+  {
+    "startTime": 2730.0,
+    "endTime": 2737.28,
+    "text": "actually the few proteins that it does make achieve a multitude of functions this is my lab at scripts we"
+  },
+  {
+    "startTime": 2737.28,
+    "endTime": 2744.319,
+    "text": "collaborate with a number of wonderful labs and very supportive the kawaoka lab did all of the uh cellular microscopy"
+  },
+  {
+    "startTime": 2744.319,
+    "endTime": 2750.16,
+    "text": "for VP 40 these groups are working with us to develop antibodies against Ebola virus we work with card Channon to"
+  },
+  {
+    "startTime": 2750.16,
+    "endTime": 2755.24,
+    "text": "understand viral entry and I'd like to thank the nah very much for funding also"
+  },
+  {
+    "startTime": 2755.24,
+    "endTime": 2761.64,
+    "text": "the burls welcome fund and Scag Institute for chemical biology and I'd like to thank you for your"
+  },
+  {
+    "startTime": 2764.89,
+    "endTime": 2772.559,
+    "text": "[Applause] attention what great stories uh please"
+  },
+  {
+    "startTime": 2772.559,
+    "endTime": 2778.64,
+    "text": "if people have questions there are microphones in the aisles uh feel free to uh come forward and ask what's on"
+  },
+  {
+    "startTime": 2778.64,
+    "endTime": 2784.64,
+    "text": "your mind while people are thinking I have to come back to something you said early in the talk about the difference"
+  },
+  {
+    "startTime": 2784.64,
+    "endTime": 2791.76,
+    "text": "in who survives Ebola and who doesn't in terms of who's able to mount some kind of an immune response in those four days"
+  },
+  {
+    "startTime": 2791.76,
+    "endTime": 2799.24,
+    "text": "do you have any idea what that's about what what determines whether you're in the survival category or not we do not"
+  },
+  {
+    "startTime": 2799.24,
+    "endTime": 2805.839,
+    "text": "there are some obvious answers that you can rule out you know healthc Care status nutritional status the German scientists infected in marberg had a"
+  },
+  {
+    "startTime": 2805.839,
+    "endTime": 2812.44,
+    "text": "better prognosis than people that were hungry in remote villages in Africa but if you rule that out I think we still"
+  },
+  {
+    "startTime": 2812.44,
+    "endTime": 2819.079,
+    "text": "need to do the work to understand I think that we know that the viral factors is at play but we don't know the human genetic factors that control"
+  },
+  {
+    "startTime": 2819.079,
+    "endTime": 2825.72,
+    "text": "resistance we know these for Lassa virus um Ebola is quite new Lassa is quite old"
+  },
+  {
+    "startTime": 2825.72,
+    "endTime": 2831.64,
+    "text": "for example lass of virus has been in Nigeria for thousands of years and went into to serone 150 years ago and you can"
+  },
+  {
+    "startTime": 2831.64,
+    "endTime": 2838.2,
+    "text": "see the people have evolved mutations uh in their receptor sort of like a cley anemia kind of thing so"
+  },
+  {
+    "startTime": 2838.2,
+    "endTime": 2844.28,
+    "text": "they're less susceptible to the virus what's happening onola I think we don't know I think we need the people on the ground in there to tell us to look at"
+  },
+  {
+    "startTime": 2844.28,
+    "endTime": 2851.0,
+    "text": "the human genetics of the survivors part over here very interesting talk and"
+  },
+  {
+    "startTime": 2851.0,
+    "endTime": 2857.16,
+    "text": "in a different version that U of question that Dr Collins asked um my"
+  },
+  {
+    "startTime": 2857.16,
+    "endTime": 2863.359,
+    "text": "question is do we know you mentioned you don't know but you know the thought is"
+  },
+  {
+    "startTime": 2863.359,
+    "endTime": 2868.4,
+    "text": "um are you um impacting"
+  },
+  {
+    "startTime": 2868.4,
+    "endTime": 2876.24,
+    "text": "different uh composition of cells perhaps the mous cells that can actually"
+  },
+  {
+    "startTime": 2876.24,
+    "endTime": 2884.76,
+    "text": "neutralize or is there anything known about the profile of imunoglobulin"
+  },
+  {
+    "startTime": 2884.76,
+    "endTime": 2891.28,
+    "text": "synthesis and or the affected cells that could either"
+  },
+  {
+    "startTime": 2891.28,
+    "endTime": 2900.079,
+    "text": "neutralize and produce U immune responses or they are not affected"
+  },
+  {
+    "startTime": 2900.079,
+    "endTime": 2907.52,
+    "text": "immediately I don't think we really know the answers to that question yet because we haven't done as much much in-depth"
+  },
+  {
+    "startTime": 2907.52,
+    "endTime": 2913.28,
+    "text": "analysis of the human survivors as we need to have done so a lot of those studies are ongoing it does"
+  },
+  {
+    "startTime": 2913.28,
+    "endTime": 2919.72,
+    "text": "infect most cell types mon monocytes and maccrage to begin so it's quite a"
+  },
+  {
+    "startTime": 2919.72,
+    "endTime": 2924.96,
+    "text": "prolific virus but I think that we haven't we haven't really looked enough at the survivors to find out what the"
+  },
+  {
+    "startTime": 2924.96,
+    "endTime": 2931.599,
+    "text": "differences in the cell types thank you yeah the um the ring and the filament of"
+  },
+  {
+    "startTime": 2931.599,
+    "endTime": 2938.319,
+    "text": "bb40 they coexist um so basically uh something is"
+  },
+  {
+    "startTime": 2938.319,
+    "endTime": 2943.839,
+    "text": "determining uh the folding pattern uh do we do you know what what"
+  },
+  {
+    "startTime": 2943.839,
+    "endTime": 2950.92,
+    "text": "does it is a choper on no and it's killing me right what is the trigger for this what makes it do one thing I once"
+  },
+  {
+    "startTime": 2950.92,
+    "endTime": 2959.28,
+    "text": "so this is specific game number one so I don't know um like we can we can speculate so maybe"
+  },
+  {
+    "startTime": 2959.28,
+    "endTime": 2965.4,
+    "text": "at some stage of virus life cycle there's a lot of viral RNA and what I've drawn in that model is RNA binding it"
+  },
+  {
+    "startTime": 2965.4,
+    "endTime": 2971.599,
+    "text": "and drawing a wedge between the Ms and kicking off the C and opening up if it's not RNA maybe it's an RNA protein"
+  },
+  {
+    "startTime": 2971.599,
+    "endTime": 2977.119,
+    "text": "complex like uh the polymeris or something like that um is there a"
+  },
+  {
+    "startTime": 2977.119,
+    "endTime": 2983.28,
+    "text": "chaperone it could be what we're trying to do now is use these point mutations that we have that lock it into only ring"
+  },
+  {
+    "startTime": 2983.28,
+    "endTime": 2990.64,
+    "text": "or never ring or either and see what they pull down and based on what it pulls down does it tell us if it needs a"
+  },
+  {
+    "startTime": 2990.64,
+    "endTime": 2997.839,
+    "text": "host factor to drive this or is it purely a viral factor is it RNA and if if RNA which RNA the RNA that it picked"
+  },
+  {
+    "startTime": 2997.839,
+    "endTime": 3003.44,
+    "text": "out from the Eola expression system in that rein crystal structure was UGA UGA"
+  },
+  {
+    "startTime": 3003.44,
+    "endTime": 3009.0,
+    "text": "UGA so does it recognize stop codons is that what it's trying to find in the virus life cycle does it look for the"
+  },
+  {
+    "startTime": 3009.0,
+    "endTime": 3014.48,
+    "text": "end of a gene we don't know and those are a exactly the kind of questions we're"
+  },
+  {
+    "startTime": 3014.48,
+    "endTime": 3020.52,
+    "text": "trying to ask and also what is the thermodynamics of this are these all equally stable or do you need the input"
+  },
+  {
+    "startTime": 3020.52,
+    "endTime": 3026.839,
+    "text": "of energy or a shaper in order to get from one to the other there's kinetics"
+  },
+  {
+    "startTime": 3026.839,
+    "endTime": 3035.359,
+    "text": "difference in the synthesis of this we don't know we know that we have trafficked where vp40 is at"
+  },
+  {
+    "startTime": 3035.359,
+    "endTime": 3041.72,
+    "text": "different stages of the virus life cycle early it hugs the nucleus so maybe it's in the ring formation and it's making"
+  },
+  {
+    "startTime": 3041.72,
+    "endTime": 3048.04,
+    "text": "copies later in the virus life cycle it catches a ride of microtubules up to the surface and then it makes the filaments"
+  },
+  {
+    "startTime": 3048.04,
+    "endTime": 3053.839,
+    "text": "and buds out so the location traffics maybe with its function what causes it"
+  },
+  {
+    "startTime": 3053.839,
+    "endTime": 3058.96,
+    "text": "to make the different structures we still need to figure that out but what's interesting about that is it's kind of a"
+  },
+  {
+    "startTime": 3058.96,
+    "endTime": 3065.2,
+    "text": "different perspective on the protein folding problem right instead of an infinitely unknown unfolded thing to one"
+  },
+  {
+    "startTime": 3065.2,
+    "endTime": 3070.48,
+    "text": "single folded structure we have a folded structure another folded structure and an interc conversion and are these"
+  },
+  {
+    "startTime": 3070.48,
+    "endTime": 3076.799,
+    "text": "thermodynamically equal or different or what can we learn something about the protein folding problem getting from one"
+  },
+  {
+    "startTime": 3076.799,
+    "endTime": 3083.64,
+    "text": "to the other can we learn something about information and coding that we have multiple functions encoded in this"
+  },
+  {
+    "startTime": 3083.64,
+    "endTime": 3093.88,
+    "text": "one piece of code okay ER so uh the Exon nucleus you talk"
+  },
+  {
+    "startTime": 3093.88,
+    "endTime": 3100.799,
+    "text": "about um one would Envision that it might actually uh uh do harm to the uh"
+  },
+  {
+    "startTime": 3100.799,
+    "endTime": 3108.72,
+    "text": "replication of the virus too if it gets activated in uh an opportune time so is there a timing in terms of when this"
+  },
+  {
+    "startTime": 3108.72,
+    "endTime": 3117.04,
+    "text": "viral encoded exonucleases activated during the life cycle of the virus so that allows it to evade immune detection"
+  },
+  {
+    "startTime": 3117.04,
+    "endTime": 3124.44,
+    "text": "but does not hurt his own production yeah that's a fantastic question that's some of what I wanted to ask Dr crotch about earlier today we don't know we"
+  },
+  {
+    "startTime": 3124.44,
+    "endTime": 3130.559,
+    "text": "know that one domain binds genome the other domain um choose up DED RNA and"
+  },
+  {
+    "startTime": 3130.559,
+    "endTime": 3136.92,
+    "text": "for for the protein to function they must be genetically linked you cannot Supply them separately so they have to be teed together so you need the one"
+  },
+  {
+    "startTime": 3136.92,
+    "endTime": 3142.4,
+    "text": "function attached to the other the NP doesn't exist as a monomer it's an igamer that makes the ribonuclear"
+  },
+  {
+    "startTime": 3142.4,
+    "endTime": 3147.68,
+    "text": "protein particle so somehow this interacts with its friends so so we also"
+  },
+  {
+    "startTime": 3147.68,
+    "endTime": 3154.599,
+    "text": "know that the Linker is quite protea sensitive and that in actual infection a lot of C termal domains Go free so is it"
+  },
+  {
+    "startTime": 3154.599,
+    "endTime": 3161.72,
+    "text": "the C terminal man having gone free that's scrubbing out double stranded RNA or is that just an accident of proteas"
+  },
+  {
+    "startTime": 3161.72,
+    "endTime": 3168.48,
+    "text": "contamination right or is this exonuclease to the replication side in"
+  },
+  {
+    "startTime": 3168.48,
+    "endTime": 3174.48,
+    "text": "order to erase some intermediate as it's being made or does it have some entirely other function that we've never thought"
+  },
+  {
+    "startTime": 3174.48,
+    "endTime": 3180.28,
+    "text": "about or does it do any genetic Ting for the varoma itself um well that's another"
+  },
+  {
+    "startTime": 3180.28,
+    "endTime": 3185.799,
+    "text": "question we wanted to keep cycles of replication going to see if it had some kind of proofreading function right uh"
+  },
+  {
+    "startTime": 3185.799,
+    "endTime": 3192.559,
+    "text": "we don't know we'd love to do those kinds of studies so I have a second question about this RNA bonding towards"
+  },
+  {
+    "startTime": 3192.559,
+    "endTime": 3197.64,
+    "text": "by the protein at the end and also on the side so I guess you mentioned that"
+  },
+  {
+    "startTime": 3197.64,
+    "endTime": 3204.599,
+    "text": "the uh chemical nature is totally different one is through hydrophobic and electostatic um which one actually"
+  },
+  {
+    "startTime": 3204.599,
+    "endTime": 3210.0,
+    "text": "dominantes do you I mean if you analyze the binding Affinity I mean obviously"
+  },
+  {
+    "startTime": 3210.0,
+    "endTime": 3216.68,
+    "text": "the cap and binding has a disadvantage because it needs each strand it can only bind two yeah if it binds on the side"
+  },
+  {
+    "startTime": 3216.68,
+    "endTime": 3224.2,
+    "text": "you can bind multiple there's a lot more back there is in there disadvantage in that I don't know which one I we haven't"
+  },
+  {
+    "startTime": 3224.2,
+    "endTime": 3230.799,
+    "text": "what we should have done and we haven't done is see how well it binds to a circular double Str r that has no end so"
+  },
+  {
+    "startTime": 3230.799,
+    "endTime": 3237.359,
+    "text": "it only do backbone we do see what happens is it makes the cap first and then this backbone binder"
+  },
+  {
+    "startTime": 3237.359,
+    "endTime": 3243.319,
+    "text": "does the same interaction all the way down the rest so it can keep polymerizing once it's got this cap on"
+  },
+  {
+    "startTime": 3243.319,
+    "endTime": 3249.44,
+    "text": "there Marb virus does not need the cap and it's happy to just polymerize and so"
+  },
+  {
+    "startTime": 3249.44,
+    "endTime": 3255.599,
+    "text": "um another group has been doing similar structures and they see the same thing every time you crystallize an a Bola virus vp35 you have an endcap and every"
+  },
+  {
+    "startTime": 3255.599,
+    "endTime": 3260.88,
+    "text": "time you crystallize a marar vp5 you have a spiral So based on that I would"
+  },
+  {
+    "startTime": 3260.88,
+    "endTime": 3267.96,
+    "text": "say it's the backbone binder that might be dominant but we haven't been able to really tease them apart yet um you do"
+  },
+  {
+    "startTime": 3267.96,
+    "endTime": 3273.88,
+    "text": "lose binding when you have an overhang that projects into the space that needs"
+  },
+  {
+    "startTime": 3273.88,
+    "endTime": 3279.559,
+    "text": "to be occupied by the endcap so I don't know what that says"
+  },
+  {
+    "startTime": 3279.559,
+    "endTime": 3285.28,
+    "text": "about relative Infinity but it seems like you need that endcap in order to get it going the Affinity is not high it's"
+  },
+  {
+    "startTime": 3285.28,
+    "endTime": 3292.92,
+    "text": "maybe 10 to it's maybe micromolar so maybe you need some kind of avidity effect right get it one more question"
+  },
+  {
+    "startTime": 3292.92,
+    "endTime": 3301.0,
+    "text": "and then we will adjourn to the ribbon cutting please in the crystal structures of VP 40 you showed a hexameric ring"
+  },
+  {
+    "startTime": 3301.0,
+    "endTime": 3307.16,
+    "text": "that I didn't see later is that involved in the cell during infection at any point Oh you mean hexer versus the oomer"
+  },
+  {
+    "startTime": 3307.16,
+    "endTime": 3313.599,
+    "text": "yes we don't know uh and we don't even know if in infected cells it's even a"
+  },
+  {
+    "startTime": 3313.599,
+    "endTime": 3319.68,
+    "text": "complete ring or what it is it's the same interface but split open and spiraling around the nucleo capsid uh we"
+  },
+  {
+    "startTime": 3319.68,
+    "endTime": 3328.079,
+    "text": "don't know we just know that we you can get it to form both kinds of rings and one crystallized and the other didn't"
+  },
+  {
+    "startTime": 3328.079,
+    "endTime": 3334.92,
+    "text": "and we will now invite everybody to walk up the hall to the ribbon cutting but before you do so please join me in"
+  },
+  {
+    "startTime": 3334.92,
+    "endTime": 3339.839,
+    "text": "thanking Erica for a really fascinating seminar"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "startTime": 6.412,
+    "endTime": 10.558,
+    "text": "You and a fellow castaway are stranded on a desert island"
+  },
+  {
+    "startTime": 10.558,
+    "endTime": 13.61,
+    "text": "playing dice for the last banana."
+  },
+  {
+    "startTime": 13.61,
+    "endTime": 15.604,
+    "text": "You've agreed on these rules:"
+  },
+  {
+    "startTime": 15.604,
+    "endTime": 17.146,
+    "text": "You'll roll two dice,"
+  },
+  {
+    "startTime": 17.146,
+    "endTime": 21.069000000000003,
+    "text": "and if the biggest number  is one, two, three or four,"
+  },
+  {
+    "startTime": 21.069,
+    "endTime": 23.352999999999998,
+    "text": "player one wins."
+  },
+  {
+    "startTime": 23.353,
+    "endTime": 28.326,
+    "text": "If the biggest number is five or six,  player two wins."
+  },
+  {
+    "startTime": 28.326,
+    "endTime": 30.154,
+    "text": "Let's try twice more."
+  },
+  {
+    "startTime": 30.154,
+    "endTime": 33.247,
+    "text": "Here, player one wins,"
+  },
+  {
+    "startTime": 33.247,
+    "endTime": 35.971000000000004,
+    "text": "and here it's player two."
+  },
+  {
+    "startTime": 35.971,
+    "endTime": 37.741,
+    "text": "So who do you want to be?"
+  },
+  {
+    "startTime": 37.741,
+    "endTime": 42.207,
+    "text": "At first glance, it may seem  like player one has the advantage"
+  },
+  {
+    "startTime": 42.207,
+    "endTime": 46.222,
+    "text": "since she'll win if any one  of four numbers is the highest,"
+  },
+  {
+    "startTime": 46.222,
+    "endTime": 47.236000000000004,
+    "text": "but actually,"
+  },
+  {
+    "startTime": 47.236,
+    "endTime": 53.619,
+    "text": "player two has an approximately 56% chance of winning each match."
+  },
+  {
+    "startTime": 53.619,
+    "endTime": 57.527,
+    "text": "One way to see that is to list all the possible combinations you could get"
+  },
+  {
+    "startTime": 57.527,
+    "endTime": 59.527,
+    "text": "by rolling two dice,"
+  },
+  {
+    "startTime": 59.527,
+    "endTime": 62.674,
+    "text": "and then count up  the ones that each player wins."
+  },
+  {
+    "startTime": 62.674,
+    "endTime": 65.30799999999999,
+    "text": "These are the possibilities for the yellow die."
+  },
+  {
+    "startTime": 65.308,
+    "endTime": 67.784,
+    "text": "These are the possibilities  for the blue die."
+  },
+  {
+    "startTime": 67.784,
+    "endTime": 73.214,
+    "text": "Each cell in the chart shows a possible combination when you roll both dice."
+  },
+  {
+    "startTime": 73.214,
+    "endTime": 75.269,
+    "text": "If you roll a four and then a five,"
+  },
+  {
+    "startTime": 75.269,
+    "endTime": 77.44500000000001,
+    "text": "we'll mark a player two  victory in this cell."
+  },
+  {
+    "startTime": 77.445,
+    "endTime": 82.496,
+    "text": "A three and a one gives  player one a victory here."
+  },
+  {
+    "startTime": 82.496,
+    "endTime": 84.817,
+    "text": "There are 36 possible combinations,"
+  },
+  {
+    "startTime": 84.817,
+    "endTime": 88.091,
+    "text": "each with exactly the same  chance of happening."
+  },
+  {
+    "startTime": 88.091,
+    "endTime": 91.23599999999999,
+    "text": "Mathematicians call these equiprobable events."
+  },
+  {
+    "startTime": 91.236,
+    "endTime": 94.801,
+    "text": "Now we can see why  the first glance was wrong."
+  },
+  {
+    "startTime": 94.801,
+    "endTime": 97.46600000000001,
+    "text": "Even though player one  has four winning numbers,"
+  },
+  {
+    "startTime": 97.466,
+    "endTime": 99.55999999999999,
+    "text": "and player two only has two,"
+  },
+  {
+    "startTime": 99.56,
+    "endTime": 103.70400000000001,
+    "text": "the chance of each number  being the greatest is not the same."
+  },
+  {
+    "startTime": 103.704,
+    "endTime": 108.681,
+    "text": "There is only a one in 36 chance that one will be the highest number."
+  },
+  {
+    "startTime": 108.681,
+    "endTime": 112.857,
+    "text": "But there's an 11 in 36 chance  that six will be the highest."
+  },
+  {
+    "startTime": 112.857,
+    "endTime": 115.586,
+    "text": "So if any of these  combinations are rolled,"
+  },
+  {
+    "startTime": 115.586,
+    "endTime": 117.473,
+    "text": "player one will win."
+  },
+  {
+    "startTime": 117.473,
+    "endTime": 119.66799999999999,
+    "text": "And if any of these  combinations are rolled,"
+  },
+  {
+    "startTime": 119.668,
+    "endTime": 121.397,
+    "text": "player two will win."
+  },
+  {
+    "startTime": 121.397,
+    "endTime": 123.71900000000001,
+    "text": "Out of the 36 possible combinations,"
+  },
+  {
+    "startTime": 123.719,
+    "endTime": 129.819,
+    "text": "16 give the victory to player one, and 20 give player two the win."
+  },
+  {
+    "startTime": 129.819,
+    "endTime": 132.16299999999998,
+    "text": "You could think about it this way, too."
+  },
+  {
+    "startTime": 132.163,
+    "endTime": 134.359,
+    "text": "The only way player one can win"
+  },
+  {
+    "startTime": 134.359,
+    "endTime": 138.639,
+    "text": "is if both dice show  a one, two, three or four."
+  },
+  {
+    "startTime": 138.639,
+    "endTime": 141.596,
+    "text": "A five or six would mean  a win for player two."
+  },
+  {
+    "startTime": 141.596,
+    "endTime": 146.705,
+    "text": "The chance of one die showing one, two, three or four is four out of six."
+  },
+  {
+    "startTime": 146.705,
+    "endTime": 150.556,
+    "text": "The result of each die roll  is independent from the other."
+  },
+  {
+    "startTime": 150.556,
+    "endTime": 153.869,
+    "text": "And you can calculate the joint  probability of independent events"
+  },
+  {
+    "startTime": 153.869,
+    "endTime": 156.386,
+    "text": "by multiplying their probabilities."
+  },
+  {
+    "startTime": 156.386,
+    "endTime": 160.822,
+    "text": "So the chance of getting a one, two,  three or four on both dice"
+  },
+  {
+    "startTime": 160.822,
+    "endTime": 166.279,
+    "text": "is 4/6 times 4/6, or 16/36."
+  },
+  {
+    "startTime": 166.279,
+    "endTime": 168.46699999999998,
+    "text": "Because someone has to win,"
+  },
+  {
+    "startTime": 168.467,
+    "endTime": 174.502,
+    "text": "the chance of player two winning is 36/36 minus 16/36,"
+  },
+  {
+    "startTime": 174.502,
+    "endTime": 177.303,
+    "text": "or 20/36."
+  },
+  {
+    "startTime": 177.303,
+    "endTime": 181.409,
+    "text": "Those are the exact same probabilities we got by making our table."
+  },
+  {
+    "startTime": 181.409,
+    "endTime": 184.045,
+    "text": "But this doesn't mean  that player two will win,"
+  },
+  {
+    "startTime": 184.045,
+    "endTime": 189.41299999999998,
+    "text": "or even that if you played 36 games as player two, you'd win 20 of them."
+  },
+  {
+    "startTime": 189.413,
+    "endTime": 192.62400000000002,
+    "text": "That's why events like dice rolling  are called random."
+  },
+  {
+    "startTime": 192.624,
+    "endTime": 195.903,
+    "text": "Even though you can calculate  the theoretical probability"
+  },
+  {
+    "startTime": 195.903,
+    "endTime": 197.415,
+    "text": "of each outcome,"
+  },
+  {
+    "startTime": 197.415,
+    "endTime": 202.07,
+    "text": "you might not get the expected results if you examine just a few events."
+  },
+  {
+    "startTime": 202.07,
+    "endTime": 206.417,
+    "text": "But if you repeat those random events many, many, many times,"
+  },
+  {
+    "startTime": 206.417,
+    "endTime": 210.357,
+    "text": "the frequency of a specific outcome, like a player two win,"
+  },
+  {
+    "startTime": 210.357,
+    "endTime": 213.418,
+    "text": "will approach its theoretical probability,"
+  },
+  {
+    "startTime": 213.418,
+    "endTime": 216.372,
+    "text": "that value we got by writing down  all the possibilities"
+  },
+  {
+    "startTime": 216.372,
+    "endTime": 219.03900000000002,
+    "text": "and counting up the ones for each outcome."
+  },
+  {
+    "startTime": 219.039,
+    "endTime": 222.994,
+    "text": "So, if you sat on that desert island playing dice forever,"
+  },
+  {
+    "startTime": 222.994,
+    "endTime": 226.913,
+    "text": "player two would eventually  win 56% of the games,"
+  },
+  {
+    "startTime": 226.913,
+    "endTime": 229.995,
+    "text": "and player one would win 44%."
+  },
+  {
+    "startTime": 229.995,
+    "endTime": 239.995,
+    "text": "But by then, of course, the banana would be long gone."
+  }
+]

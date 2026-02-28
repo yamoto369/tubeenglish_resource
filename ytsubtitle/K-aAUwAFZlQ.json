@@ -1,0 +1,452 @@
+[
+  {
+    "startTime": 0.11,
+    "endTime": 3.3,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.759,
+    "endTime": 9.599,
+    "text": "some are born great some achieve"
+  },
+  {
+    "startTime": 9.599,
+    "endTime": 12.08,
+    "text": "greatness and others have greatness"
+  },
+  {
+    "startTime": 12.08,
+    "endTime": 14.719,
+    "text": "thrust upon them quote William"
+  },
+  {
+    "startTime": 14.719,
+    "endTime": 17.84,
+    "text": "Shakespeare or did he some people"
+  },
+  {
+    "startTime": 17.84,
+    "endTime": 19.48,
+    "text": "question whether Shakespeare really"
+  },
+  {
+    "startTime": 19.48,
+    "endTime": 22.24,
+    "text": "wrote The Works that bear his name or"
+  },
+  {
+    "startTime": 22.24,
+    "endTime": 24.96,
+    "text": "whether he even existed at all they"
+  },
+  {
+    "startTime": 24.96,
+    "endTime": 26.76,
+    "text": "speculate that Shakespeare was a"
+  },
+  {
+    "startTime": 26.76,
+    "endTime": 29.119,
+    "text": "pseudonym for another writer or a group"
+  },
+  {
+    "startTime": 29.119,
+    "endTime": 31.359,
+    "text": "of writers proposed candidates for the"
+  },
+  {
+    "startTime": 31.359,
+    "endTime": 33.68,
+    "text": "real Shakespeare include other famous"
+  },
+  {
+    "startTime": 33.68,
+    "endTime": 36.239,
+    "text": "playwrights politicians and even some"
+  },
+  {
+    "startTime": 36.239,
+    "endTime": 39.0,
+    "text": "prominent women could it be true that"
+  },
+  {
+    "startTime": 39.0,
+    "endTime": 40.76,
+    "text": "the greatest writer in the English"
+  },
+  {
+    "startTime": 40.76,
+    "endTime": 43.76,
+    "text": "language was as fictional as his"
+  },
+  {
+    "startTime": 43.76,
+    "endTime": 46.8,
+    "text": "plays most Shakespeare Scholars dismiss"
+  },
+  {
+    "startTime": 46.8,
+    "endTime": 49.399,
+    "text": "these theories based on historical and"
+  },
+  {
+    "startTime": 49.399,
+    "endTime": 52.12,
+    "text": "biographical evidence but there is"
+  },
+  {
+    "startTime": 52.12,
+    "endTime": 54.44,
+    "text": "another way to test whether shakespear's"
+  },
+  {
+    "startTime": 54.44,
+    "endTime": 56.92,
+    "text": "famous lines were actually written by"
+  },
+  {
+    "startTime": 56.92,
+    "endTime": 60.039,
+    "text": "someone else Linguistics the study of"
+  },
+  {
+    "startTime": 60.039,
+    "endTime": 62.32,
+    "text": "language can tell us a great deal about"
+  },
+  {
+    "startTime": 62.32,
+    "endTime": 64.96,
+    "text": "the way we speak and write by examining"
+  },
+  {
+    "startTime": 64.96,
+    "endTime": 68.4,
+    "text": "syntax grammar semantics and"
+  },
+  {
+    "startTime": 68.4,
+    "endTime": 71.479,
+    "text": "vocabulary and in the late 1800s a"
+  },
+  {
+    "startTime": 71.479,
+    "endTime": 74.52,
+    "text": "Polish philosopher named vincenti lutas"
+  },
+  {
+    "startTime": 74.52,
+    "endTime": 77.2,
+    "text": "swavi formalized a method known as"
+  },
+  {
+    "startTime": 77.2,
+    "endTime": 79.759,
+    "text": "stylometry applying this knowledge to"
+  },
+  {
+    "startTime": 79.759,
+    "endTime": 82.24,
+    "text": "investigate questions of literary"
+  },
+  {
+    "startTime": 82.24,
+    "endTime": 85.28,
+    "text": "authorship so how does stylometry work"
+  },
+  {
+    "startTime": 85.28,
+    "endTime": 87.84,
+    "text": "the idea is that each writer's style has"
+  },
+  {
+    "startTime": 87.84,
+    "endTime": 90.119,
+    "text": "certain characteristics that remain"
+  },
+  {
+    "startTime": 90.119,
+    "endTime": 93.479,
+    "text": "fairly uniform among individual Works"
+  },
+  {
+    "startTime": 93.479,
+    "endTime": 95.479,
+    "text": "examples of characteristics include"
+  },
+  {
+    "startTime": 95.479,
+    "endTime": 97.52,
+    "text": "average sentence length the arrangement"
+  },
+  {
+    "startTime": 97.52,
+    "endTime": 99.64,
+    "text": "of words and even the number of"
+  },
+  {
+    "startTime": 99.64,
+    "endTime": 102.479,
+    "text": "occurrences of a particular word let's"
+  },
+  {
+    "startTime": 102.479,
+    "endTime": 104.64,
+    "text": "look at use of the word the and"
+  },
+  {
+    "startTime": 104.64,
+    "endTime": 107.88,
+    "text": "visualize it as a dimension or axis each"
+  },
+  {
+    "startTime": 107.88,
+    "endTime": 109.759,
+    "text": "of Shakespeare's Works can be placed on"
+  },
+  {
+    "startTime": 109.759,
+    "endTime": 112.32,
+    "text": "that axis like a data point based on the"
+  },
+  {
+    "startTime": 112.32,
+    "endTime": 114.84,
+    "text": "number of occurrences of that word in"
+  },
+  {
+    "startTime": 114.84,
+    "endTime": 117.479,
+    "text": "statistics the tightness of these points"
+  },
+  {
+    "startTime": 117.479,
+    "endTime": 119.96,
+    "text": "gives us what is known as the variance"
+  },
+  {
+    "startTime": 119.96,
+    "endTime": 123.079,
+    "text": "an expected range for our data but this"
+  },
+  {
+    "startTime": 123.079,
+    "endTime": 125.479,
+    "text": "is only a single characteristic in a"
+  },
+  {
+    "startTime": 125.479,
+    "endTime": 128.08,
+    "text": "very high-dimensional space with a"
+  },
+  {
+    "startTime": 128.08,
+    "endTime": 129.879,
+    "text": "clustering tool called principal"
+  },
+  {
+    "startTime": 129.879,
+    "endTime": 132.319,
+    "text": "component analysis we can reduce the"
+  },
+  {
+    "startTime": 132.319,
+    "endTime": 134.76,
+    "text": "multi-dimensional space into simple"
+  },
+  {
+    "startTime": 134.76,
+    "endTime": 137.08,
+    "text": "principal components that collectively"
+  },
+  {
+    "startTime": 137.08,
+    "endTime": 139.12,
+    "text": "measure the variance in Shakespeare's"
+  },
+  {
+    "startTime": 139.12,
+    "endTime": 141.64,
+    "text": "works we can then test the works of our"
+  },
+  {
+    "startTime": 141.64,
+    "endTime": 143.68,
+    "text": "candidates against those principal"
+  },
+  {
+    "startTime": 143.68,
+    "endTime": 146.48,
+    "text": "components for example if enough works"
+  },
+  {
+    "startTime": 146.48,
+    "endTime": 148.72,
+    "text": "of Francis Bacon fall within the"
+  },
+  {
+    "startTime": 148.72,
+    "endTime": 150.56,
+    "text": "Shakespearean variable"
+  },
+  {
+    "startTime": 150.56,
+    "endTime": 152.48,
+    "text": "that would be pretty strong evidence"
+  },
+  {
+    "startTime": 152.48,
+    "endTime": 154.92,
+    "text": "that Francis Bacon and Shakespeare are"
+  },
+  {
+    "startTime": 154.92,
+    "endTime": 157.72,
+    "text": "actually the same person what did the"
+  },
+  {
+    "startTime": 157.72,
+    "endTime": 160.72,
+    "text": "results show well the stylets who"
+  },
+  {
+    "startTime": 160.72,
+    "endTime": 162.64,
+    "text": "carried this out have concluded that"
+  },
+  {
+    "startTime": 162.64,
+    "endTime": 165.36,
+    "text": "Shakespeare is none other than"
+  },
+  {
+    "startTime": 165.36,
+    "endTime": 168.64,
+    "text": "Shakespeare The Bard is The"
+  },
+  {
+    "startTime": 168.64,
+    "endTime": 171.44,
+    "text": "Bard The Pretender works just don't"
+  },
+  {
+    "startTime": 171.44,
+    "endTime": 173.4,
+    "text": "match up with Shakespeare's signature"
+  },
+  {
+    "startTime": 173.4,
+    "endTime": 177.04,
+    "text": "style however our Intrepid statisticians"
+  },
+  {
+    "startTime": 177.04,
+    "endTime": 179.28,
+    "text": "did find some compelling evidence of"
+  },
+  {
+    "startTime": 179.28,
+    "endTime": 180.76,
+    "text": "collaboration"
+  },
+  {
+    "startTime": 180.76,
+    "endTime": 183.2,
+    "text": "for instance one recent study concluded"
+  },
+  {
+    "startTime": 183.2,
+    "endTime": 185.319,
+    "text": "that Shakespeare worked with playwright"
+  },
+  {
+    "startTime": 185.319,
+    "endTime": 188.959,
+    "text": "Christopher Marlo on Henry V Parts one"
+  },
+  {
+    "startTime": 188.959,
+    "endTime": 192.12,
+    "text": "and two Shakespeare's identity is only"
+  },
+  {
+    "startTime": 192.12,
+    "endTime": 194.799,
+    "text": "one of the many problems stylometry can"
+  },
+  {
+    "startTime": 194.799,
+    "endTime": 197.2,
+    "text": "resolve it can help us determine when a"
+  },
+  {
+    "startTime": 197.2,
+    "endTime": 199.64,
+    "text": "work was written whether an ancient text"
+  },
+  {
+    "startTime": 199.64,
+    "endTime": 201.92,
+    "text": "is a forgery whether a student has"
+  },
+  {
+    "startTime": 201.92,
+    "endTime": 204.72,
+    "text": "committed plagiarism or if that email"
+  },
+  {
+    "startTime": 204.72,
+    "endTime": 207.319,
+    "text": "you just received is of a high priority"
+  },
+  {
+    "startTime": 207.319,
+    "endTime": 210.48,
+    "text": "or spam and does the Tim poetry of"
+  },
+  {
+    "startTime": 210.48,
+    "endTime": 212.56,
+    "text": "Shakespeare's lines just boil down to"
+  },
+  {
+    "startTime": 212.56,
+    "endTime": 215.519,
+    "text": "numbers and statistics not quite"
+  },
+  {
+    "startTime": 215.519,
+    "endTime": 217.879,
+    "text": "stylometric analysis May reveal what"
+  },
+  {
+    "startTime": 217.879,
+    "endTime": 220.12,
+    "text": "makes Shakespeare's Works structurally"
+  },
+  {
+    "startTime": 220.12,
+    "endTime": 222.48,
+    "text": "distinct but it cannot capture the"
+  },
+  {
+    "startTime": 222.48,
+    "endTime": 224.599,
+    "text": "beauty of the sentiments and emotions"
+  },
+  {
+    "startTime": 224.599,
+    "endTime": 227.4,
+    "text": "they express or why they affect us the"
+  },
+  {
+    "startTime": 227.4,
+    "endTime": 233.0,
+    "text": "way they do at least not yet"
+  },
+  {
+    "startTime": 238.95,
+    "endTime": 242.08,
+    "text": "[Music]"
+  }
+]

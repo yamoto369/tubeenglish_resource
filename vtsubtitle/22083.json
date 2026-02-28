@@ -1,0 +1,842 @@
+[
+  {
+    "startTime": 12.14,
+    "endTime": 13.731,
+    "text": "Some years ago,"
+  },
+  {
+    "startTime": 13.731,
+    "endTime": 17.175,
+    "text": "I stumbled across a simple design exercise"
+  },
+  {
+    "startTime": 17.175,
+    "endTime": 20.78,
+    "text": "that helps people understand and solve complex problems,"
+  },
+  {
+    "startTime": 20.78,
+    "endTime": 24.867,
+    "text": "and like many of these design exercises, it kind of seems trivial at first,"
+  },
+  {
+    "startTime": 24.867,
+    "endTime": 26.611,
+    "text": "but under deep inspection,"
+  },
+  {
+    "startTime": 26.611,
+    "endTime": 29.331,
+    "text": "it turns out that it reveals unexpected truths"
+  },
+  {
+    "startTime": 29.331,
+    "endTime": 32.662,
+    "text": "about the way that we collaborate and make sense of things."
+  },
+  {
+    "startTime": 32.662,
+    "endTime": 34.263999999999996,
+    "text": "The exercise has three parts"
+  },
+  {
+    "startTime": 34.264,
+    "endTime": 36.749,
+    "text": "and begins with something that we all know how to do,"
+  },
+  {
+    "startTime": 36.749,
+    "endTime": 39.149,
+    "text": "which is how to make toast."
+  },
+  {
+    "startTime": 39.489,
+    "endTime": 42.809,
+    "text": "It begins with a clean sheet of paper, a felt marker,"
+  },
+  {
+    "startTime": 42.809,
+    "endTime": 46.94,
+    "text": "and without using any words, you begin to draw how to make toast."
+  },
+  {
+    "startTime": 46.94,
+    "endTime": 49.117999999999995,
+    "text": "And most people draw something like this."
+  },
+  {
+    "startTime": 49.118,
+    "endTime": 52.498000000000005,
+    "text": "They draw a loaf of bread,  which is sliced, then put into a toaster."
+  },
+  {
+    "startTime": 52.498,
+    "endTime": 54.744,
+    "text": "The toast is then deposited for some time."
+  },
+  {
+    "startTime": 54.744,
+    "endTime": 60.295,
+    "text": "It pops up, and then voila! After two minutes, toast and happiness."
+  },
+  {
+    "startTime": 61.045,
+    "endTime": 65.643,
+    "text": "Now, over the years, I've collected many hundreds of drawings of these toasts,"
+  },
+  {
+    "startTime": 65.643,
+    "endTime": 67.403,
+    "text": "and some of them are very good,"
+  },
+  {
+    "startTime": 67.403,
+    "endTime": 70.869,
+    "text": "because they really illustrate the toast-making process quite clearly."
+  },
+  {
+    "startTime": 70.869,
+    "endTime": 74.166,
+    "text": "And then there are some that are, well, not so good."
+  },
+  {
+    "startTime": 74.166,
+    "endTime": 79.344,
+    "text": "They really suck, actually, because you don't know what they're trying to say."
+  },
+  {
+    "startTime": 79.344,
+    "endTime": 81.271,
+    "text": "Under close inspection,"
+  },
+  {
+    "startTime": 81.271,
+    "endTime": 84.754,
+    "text": "some reveal some aspects of toast-making while hiding others."
+  },
+  {
+    "startTime": 84.754,
+    "endTime": 87.424,
+    "text": "So there's some that are all about the toast,"
+  },
+  {
+    "startTime": 87.424,
+    "endTime": 90.164,
+    "text": "and all about the transformation of toast."
+  },
+  {
+    "startTime": 90.164,
+    "endTime": 92.764,
+    "text": "And there's others that are all about the toaster,"
+  },
+  {
+    "startTime": 92.764,
+    "endTime": 96.094,
+    "text": "and the engineers love to draw the mechanics of this."
+  },
+  {
+    "startTime": 96.094,
+    "endTime": 97.50399999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 97.504,
+    "endTime": 99.875,
+    "text": "And then there are others that are about people."
+  },
+  {
+    "startTime": 99.875,
+    "endTime": 103.723,
+    "text": "It's about visualizing the experience that people have."
+  },
+  {
+    "startTime": 103.723,
+    "endTime": 107.236,
+    "text": "And then there are others that are about the supply chain of making toast"
+  },
+  {
+    "startTime": 107.236,
+    "endTime": 109.226,
+    "text": "that goes all the way back to the store."
+  },
+  {
+    "startTime": 109.226,
+    "endTime": 112.663,
+    "text": "It goes through the supply chain networks of teleportation"
+  },
+  {
+    "startTime": 112.663,
+    "endTime": 115.89,
+    "text": "and all the way back to the field and wheat,"
+  },
+  {
+    "startTime": 115.89,
+    "endTime": 118.7,
+    "text": "and one all actually goes all the way back to the Big Bang."
+  },
+  {
+    "startTime": 118.7,
+    "endTime": 120.904,
+    "text": "So it's crazy stuff."
+  },
+  {
+    "startTime": 120.904,
+    "endTime": 122.75699999999999,
+    "text": "But I think it's obvious"
+  },
+  {
+    "startTime": 122.757,
+    "endTime": 126.263,
+    "text": "that even though these drawings are really wildly different,"
+  },
+  {
+    "startTime": 126.263,
+    "endTime": 129.366,
+    "text": "they share a common quality, and I'm wondering if you can see it."
+  },
+  {
+    "startTime": 129.366,
+    "endTime": 131.74300000000002,
+    "text": "Do you see it? What's common about these?"
+  },
+  {
+    "startTime": 131.743,
+    "endTime": 135.118,
+    "text": "Most drawings have nodes and links."
+  },
+  {
+    "startTime": 135.118,
+    "endTime": 140.468,
+    "text": "So nodes represent the tangible objects like the toaster and people,"
+  },
+  {
+    "startTime": 140.468,
+    "endTime": 143.974,
+    "text": "and links represent the connections between the nodes."
+  },
+  {
+    "startTime": 143.974,
+    "endTime": 146.807,
+    "text": "And it's the combination of links and nodes"
+  },
+  {
+    "startTime": 146.807,
+    "endTime": 148.92,
+    "text": "that produces a full systems model,"
+  },
+  {
+    "startTime": 148.92,
+    "endTime": 151.845,
+    "text": "and it makes our private mental models visible"
+  },
+  {
+    "startTime": 151.845,
+    "endTime": 154.878,
+    "text": "about how we think something works."
+  },
+  {
+    "startTime": 154.878,
+    "endTime": 156.70899999999997,
+    "text": "So that's the value of these things."
+  },
+  {
+    "startTime": 156.709,
+    "endTime": 158.817,
+    "text": "What's interesting about these systems models"
+  },
+  {
+    "startTime": 158.817,
+    "endTime": 161.002,
+    "text": "is how they reveal our various points of view."
+  },
+  {
+    "startTime": 161.002,
+    "endTime": 164.62300000000002,
+    "text": "So for example, Americans make toast with a toaster."
+  },
+  {
+    "startTime": 164.623,
+    "endTime": 166.14399999999998,
+    "text": "That seems obvious."
+  },
+  {
+    "startTime": 166.144,
+    "endTime": 170.114,
+    "text": "Whereas many Europeans make toast with a frying pan, of course,"
+  },
+  {
+    "startTime": 170.114,
+    "endTime": 174.391,
+    "text": "and many students make toast with a fire."
+  },
+  {
+    "startTime": 174.391,
+    "endTime": 177.60999999999999,
+    "text": "I don't really understand this. A lot of MBA students do this."
+  },
+  {
+    "startTime": 177.61,
+    "endTime": 181.375,
+    "text": "So you can measure the complexity by counting the number of nodes,"
+  },
+  {
+    "startTime": 181.375,
+    "endTime": 185.297,
+    "text": "and the average illustration has between four and eight nodes."
+  },
+  {
+    "startTime": 185.297,
+    "endTime": 188.292,
+    "text": "Less than that, the drawing seems trivial,"
+  },
+  {
+    "startTime": 188.292,
+    "endTime": 190.54500000000002,
+    "text": "but it's quick to understand,"
+  },
+  {
+    "startTime": 190.545,
+    "endTime": 195.618,
+    "text": "and more than 13, the drawing produces a feeling of map shock."
+  },
+  {
+    "startTime": 195.618,
+    "endTime": 197.12099999999998,
+    "text": "It's too complex."
+  },
+  {
+    "startTime": 197.121,
+    "endTime": 199.66400000000002,
+    "text": "So the sweet spot is between 5 and 13."
+  },
+  {
+    "startTime": 199.664,
+    "endTime": 202.29399999999998,
+    "text": "So if you want to communicate something visually,"
+  },
+  {
+    "startTime": 202.294,
+    "endTime": 206.02100000000002,
+    "text": "have between five and 13 nodes in your diagram."
+  },
+  {
+    "startTime": 206.021,
+    "endTime": 208.725,
+    "text": "So though we may not be skilled at drawing,"
+  },
+  {
+    "startTime": 208.725,
+    "endTime": 212.856,
+    "text": "the point is that we intuitively know how to break down complex things"
+  },
+  {
+    "startTime": 212.856,
+    "endTime": 216.11599999999999,
+    "text": "into simple things and then  bring them back together again."
+  },
+  {
+    "startTime": 216.116,
+    "endTime": 219.33700000000002,
+    "text": "So this brings us to our second part of  the exercise,"
+  },
+  {
+    "startTime": 219.337,
+    "endTime": 220.91299999999998,
+    "text": "which is how to make toast,"
+  },
+  {
+    "startTime": 220.913,
+    "endTime": 223.71300000000002,
+    "text": "but now with sticky notes or with cards."
+  },
+  {
+    "startTime": 223.713,
+    "endTime": 225.141,
+    "text": "So what happens then?"
+  },
+  {
+    "startTime": 226.041,
+    "endTime": 229.462,
+    "text": "Well, with cards, most people tend to draw clear, more detailed,"
+  },
+  {
+    "startTime": 229.462,
+    "endTime": 231.73999999999998,
+    "text": "and more logical nodes."
+  },
+  {
+    "startTime": 231.74,
+    "endTime": 235.317,
+    "text": "You can see the step by step analysis that takes place,"
+  },
+  {
+    "startTime": 235.317,
+    "endTime": 238.549,
+    "text": "and as they build up their model, they move their nodes around,"
+  },
+  {
+    "startTime": 238.549,
+    "endTime": 241.12900000000002,
+    "text": "rearranging them like Lego blocks."
+  },
+  {
+    "startTime": 241.129,
+    "endTime": 245.184,
+    "text": "Now, though this might seem trivial, it's actually really important."
+  },
+  {
+    "startTime": 245.184,
+    "endTime": 249.912,
+    "text": "This rapid iteration of expressing and then reflecting and analyzing"
+  },
+  {
+    "startTime": 249.912,
+    "endTime": 253.263,
+    "text": "is really the only way in which we get clarity."
+  },
+  {
+    "startTime": 253.263,
+    "endTime": 255.911,
+    "text": "It's the essence of the design process."
+  },
+  {
+    "startTime": 255.911,
+    "endTime": 257.62,
+    "text": "And systems theorists do tell us"
+  },
+  {
+    "startTime": 257.62,
+    "endTime": 261.182,
+    "text": "that the ease with which we can change a representation"
+  },
+  {
+    "startTime": 261.182,
+    "endTime": 264.767,
+    "text": "correlates to our willingness to improve the model."
+  },
+  {
+    "startTime": 265.447,
+    "endTime": 269.239,
+    "text": "So sticky note systems are not only more fluid,"
+  },
+  {
+    "startTime": 269.239,
+    "endTime": 273.279,
+    "text": "they generally produce way more nodes than static drawings."
+  },
+  {
+    "startTime": 273.279,
+    "endTime": 275.01,
+    "text": "The drawings are much richer."
+  },
+  {
+    "startTime": 275.01,
+    "endTime": 277.575,
+    "text": "And this brings us to our third part of the exercise,"
+  },
+  {
+    "startTime": 277.575,
+    "endTime": 281.509,
+    "text": "which is to draw how to make toast, but this time in a group."
+  },
+  {
+    "startTime": 281.509,
+    "endTime": 283.271,
+    "text": "So what happens then?"
+  },
+  {
+    "startTime": 283.271,
+    "endTime": 284.88300000000004,
+    "text": "Well, here's what happens."
+  },
+  {
+    "startTime": 284.883,
+    "endTime": 288.5,
+    "text": "It starts out messy, and then it gets really messy,"
+  },
+  {
+    "startTime": 288.5,
+    "endTime": 290.125,
+    "text": "and then it gets messier,"
+  },
+  {
+    "startTime": 290.125,
+    "endTime": 292.052,
+    "text": "but as people refine the models,"
+  },
+  {
+    "startTime": 292.052,
+    "endTime": 294.583,
+    "text": "the best nodes become more prominent,"
+  },
+  {
+    "startTime": 294.583,
+    "endTime": 297.16,
+    "text": "and with each iteration, the model becomes clearer"
+  },
+  {
+    "startTime": 297.16,
+    "endTime": 300.434,
+    "text": "because people build on top of each other's ideas."
+  },
+  {
+    "startTime": 300.434,
+    "endTime": 303.91700000000003,
+    "text": "What emerges is a unified systems model"
+  },
+  {
+    "startTime": 303.917,
+    "endTime": 308.05699999999996,
+    "text": "that integrates the diversity of everyone's individual points of view,"
+  },
+  {
+    "startTime": 308.057,
+    "endTime": 309.97700000000003,
+    "text": "so that's a really different outcome"
+  },
+  {
+    "startTime": 309.977,
+    "endTime": 312.64799999999997,
+    "text": "from what usually happens  in meetings, isn't it?"
+  },
+  {
+    "startTime": 312.648,
+    "endTime": 315.62,
+    "text": "So these drawings can contain 20 or more nodes,"
+  },
+  {
+    "startTime": 315.62,
+    "endTime": 317.849,
+    "text": "but participants don't feel map shock"
+  },
+  {
+    "startTime": 317.849,
+    "endTime": 322.074,
+    "text": "because they participate in the building of their models themselves."
+  },
+  {
+    "startTime": 322.074,
+    "endTime": 325.39500000000004,
+    "text": "Now, what's also really interesting, that the groups spontaneously mix"
+  },
+  {
+    "startTime": 325.395,
+    "endTime": 328.854,
+    "text": "and add additional layers of organization to it."
+  },
+  {
+    "startTime": 328.854,
+    "endTime": 330.864,
+    "text": "To deal with contradictions, for example,"
+  },
+  {
+    "startTime": 330.864,
+    "endTime": 333.68399999999997,
+    "text": "they add branching patterns and parallel patterns."
+  },
+  {
+    "startTime": 333.684,
+    "endTime": 336.90700000000004,
+    "text": "Oh, and by the way, if they do it in complete silence,"
+  },
+  {
+    "startTime": 336.907,
+    "endTime": 339.66299999999995,
+    "text": "they do it much better and much more quickly."
+  },
+  {
+    "startTime": 339.663,
+    "endTime": 342.205,
+    "text": "Really interesting -- talking gets in the way."
+  },
+  {
+    "startTime": 342.205,
+    "endTime": 345.897,
+    "text": "So here's some key lessons that can emerge from this."
+  },
+  {
+    "startTime": 345.897,
+    "endTime": 348.476,
+    "text": "First, drawing helps us understand the situations"
+  },
+  {
+    "startTime": 348.476,
+    "endTime": 351.748,
+    "text": "as systems with nodes and their relationships."
+  },
+  {
+    "startTime": 351.748,
+    "endTime": 355.388,
+    "text": "Movable cards produce better systems models,"
+  },
+  {
+    "startTime": 355.388,
+    "endTime": 358.118,
+    "text": "because we iterate much more fluidly."
+  },
+  {
+    "startTime": 358.118,
+    "endTime": 361.332,
+    "text": "And then the group notes produce  the most comprehensive models"
+  },
+  {
+    "startTime": 361.332,
+    "endTime": 364.689,
+    "text": "because we synthesize several points of view."
+  },
+  {
+    "startTime": 364.689,
+    "endTime": 366.27500000000003,
+    "text": "So that's interesting."
+  },
+  {
+    "startTime": 366.275,
+    "endTime": 369.58099999999996,
+    "text": "When people work together under the right circumstances,"
+  },
+  {
+    "startTime": 369.581,
+    "endTime": 372.692,
+    "text": "group models are much better than individual models."
+  },
+  {
+    "startTime": 372.692,
+    "endTime": 377.639,
+    "text": "So this approach works really great for drawing how to make toast,"
+  },
+  {
+    "startTime": 377.639,
+    "endTime": 381.528,
+    "text": "but what if you wanted to draw something more relevant or pressing,"
+  },
+  {
+    "startTime": 381.528,
+    "endTime": 386.636,
+    "text": "like your organizational vision, or customer experience,"
+  },
+  {
+    "startTime": 386.636,
+    "endTime": 388.94,
+    "text": "or long-term sustainability?"
+  },
+  {
+    "startTime": 388.94,
+    "endTime": 392.44599999999997,
+    "text": "There's a visual revolution that's taking place"
+  },
+  {
+    "startTime": 392.446,
+    "endTime": 395.85900000000004,
+    "text": "as more organizations are addressing their wicked problems"
+  },
+  {
+    "startTime": 395.859,
+    "endTime": 398.645,
+    "text": "by collaboratively drawing them out."
+  },
+  {
+    "startTime": 398.645,
+    "endTime": 403.267,
+    "text": "And I'm convinced that those who see their world as movable nodes and links"
+  },
+  {
+    "startTime": 403.267,
+    "endTime": 405.391,
+    "text": "really have an edge."
+  },
+  {
+    "startTime": 405.391,
+    "endTime": 407.469,
+    "text": "And the practice is really pretty simple."
+  },
+  {
+    "startTime": 407.469,
+    "endTime": 410.371,
+    "text": "You start with a question, you collect the nodes,"
+  },
+  {
+    "startTime": 410.371,
+    "endTime": 413.459,
+    "text": "you refine the nodes, you do it over again,"
+  },
+  {
+    "startTime": 413.459,
+    "endTime": 418.76800000000003,
+    "text": "you refine and refine and refine, and the patterns emerge,"
+  },
+  {
+    "startTime": 418.768,
+    "endTime": 423.11999999999995,
+    "text": "and the group gets clarity and you answer the question."
+  },
+  {
+    "startTime": 425.07,
+    "endTime": 431.11199999999997,
+    "text": "So this simple act of visualizing and doing over and over again"
+  },
+  {
+    "startTime": 431.112,
+    "endTime": 433.694,
+    "text": "produces some really remarkable outcomes."
+  },
+  {
+    "startTime": 433.694,
+    "endTime": 435.581,
+    "text": "What's really important to know"
+  },
+  {
+    "startTime": 435.581,
+    "endTime": 439.271,
+    "text": "is that it's the conversations that are the important aspects,"
+  },
+  {
+    "startTime": 439.271,
+    "endTime": 441.596,
+    "text": "not just the models themselves."
+  },
+  {
+    "startTime": 441.596,
+    "endTime": 443.384,
+    "text": "And these visual frames of reference"
+  },
+  {
+    "startTime": 443.384,
+    "endTime": 447.982,
+    "text": "can grow to several hundreds or even thousands of nodes."
+  },
+  {
+    "startTime": 447.982,
+    "endTime": 451.0,
+    "text": "So, one example is from an organization called Rodale."
+  },
+  {
+    "startTime": 451.0,
+    "endTime": 452.486,
+    "text": "Big publishing company."
+  },
+  {
+    "startTime": 452.486,
+    "endTime": 454.622,
+    "text": "They lost a bunch of money one year,"
+  },
+  {
+    "startTime": 454.622,
+    "endTime": 458.964,
+    "text": "and their executive team for three days visualized their entire practice."
+  },
+  {
+    "startTime": 458.964,
+    "endTime": 464.886,
+    "text": "And what's interesting is that after visualizing the entire business,"
+  },
+  {
+    "startTime": 464.886,
+    "endTime": 466.65000000000003,
+    "text": "systems upon systems,"
+  },
+  {
+    "startTime": 466.65,
+    "endTime": 469.71599999999995,
+    "text": "they reclaimed  50 million dollars of revenue,"
+  },
+  {
+    "startTime": 469.716,
+    "endTime": 474.734,
+    "text": "and they also moved from a D rating  to an A rating from their customers."
+  },
+  {
+    "startTime": 474.734,
+    "endTime": 478.329,
+    "text": "Why? Because there's alignment from the executive team."
+  },
+  {
+    "startTime": 478.329,
+    "endTime": 481.742,
+    "text": "So I'm now on a mission to help organizations"
+  },
+  {
+    "startTime": 481.742,
+    "endTime": 486.456,
+    "text": "solve their wicked problems by using collaborative visualization,"
+  },
+  {
+    "startTime": 486.456,
+    "endTime": 489.474,
+    "text": "and on a site that I've produced called drawtoast.com,"
+  },
+  {
+    "startTime": 489.474,
+    "endTime": 492.678,
+    "text": "I've collected a bunch of best practices."
+  },
+  {
+    "startTime": 492.678,
+    "endTime": 495.441,
+    "text": "and so you can learn how to run a workshop here,"
+  },
+  {
+    "startTime": 495.441,
+    "endTime": 497.58399999999995,
+    "text": "you can learn more about the visual language"
+  },
+  {
+    "startTime": 497.584,
+    "endTime": 502.5,
+    "text": "and the structure of links and nodes that you can apply to general problem-solving,"
+  },
+  {
+    "startTime": 502.5,
+    "endTime": 505.705,
+    "text": "and download examples of various templates"
+  },
+  {
+    "startTime": 505.705,
+    "endTime": 510.998,
+    "text": "for unpacking the thorny problems that we all face in our organizations."
+  },
+  {
+    "startTime": 510.998,
+    "endTime": 514.62,
+    "text": "So the seemingly trivial design exercise of drawing toast"
+  },
+  {
+    "startTime": 514.62,
+    "endTime": 518.6610000000001,
+    "text": "helps us get clear, engaged and aligned."
+  },
+  {
+    "startTime": 518.661,
+    "endTime": 521.6089999999999,
+    "text": "So next time you're confronted with an interesting challenge,"
+  },
+  {
+    "startTime": 521.609,
+    "endTime": 523.943,
+    "text": "remember what design has to teach us."
+  },
+  {
+    "startTime": 523.943,
+    "endTime": 527.774,
+    "text": "Make your ideas visible, tangible, and consequential."
+  },
+  {
+    "startTime": 527.774,
+    "endTime": 530.932,
+    "text": "It's simple, it's fun, it's powerful,"
+  },
+  {
+    "startTime": 530.932,
+    "endTime": 534.082,
+    "text": "and I believe it's an idea worth celebrating."
+  },
+  {
+    "startTime": 534.082,
+    "endTime": 535.902,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 535.902,
+    "endTime": 540.3820000000001,
+    "text": "(Applause)"
+  }
+]
