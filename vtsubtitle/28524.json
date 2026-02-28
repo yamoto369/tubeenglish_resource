@@ -1,0 +1,1227 @@
+[
+  {
+    "startTime": 12.954,
+    "endTime": 16.927,
+    "text": "My colleagues and I are fascinated by the science of moving dots."
+  },
+  {
+    "startTime": 16.927,
+    "endTime": 18.101,
+    "text": "So what are these dots?"
+  },
+  {
+    "startTime": 18.101,
+    "endTime": 19.412,
+    "text": "Well, it's all of us."
+  },
+  {
+    "startTime": 19.412,
+    "endTime": 24.521,
+    "text": "And we're moving in our homes, in our offices, as we shop and travel"
+  },
+  {
+    "startTime": 24.521,
+    "endTime": 26.958000000000002,
+    "text": "throughout our cities and around the world."
+  },
+  {
+    "startTime": 26.958,
+    "endTime": 30.918,
+    "text": "And wouldn't it be great if we could understand all this movement?"
+  },
+  {
+    "startTime": 30.918,
+    "endTime": 34.259,
+    "text": "If we could find patterns and meaning and insight in it."
+  },
+  {
+    "startTime": 34.259,
+    "endTime": 36.068,
+    "text": "And luckily for us, we live in a time"
+  },
+  {
+    "startTime": 36.068,
+    "endTime": 40.806999999999995,
+    "text": "where we're incredibly good at capturing information about ourselves."
+  },
+  {
+    "startTime": 40.807,
+    "endTime": 44.494,
+    "text": "So whether it's through sensors or videos, or apps,"
+  },
+  {
+    "startTime": 44.494,
+    "endTime": 48.092,
+    "text": "we can track our movement with incredibly fine detail."
+  },
+  {
+    "startTime": 48.092,
+    "endTime": 53.147999999999996,
+    "text": "So it turns out one of the places where we have the best data about movement"
+  },
+  {
+    "startTime": 53.148,
+    "endTime": 54.682,
+    "text": "is sports."
+  },
+  {
+    "startTime": 54.682,
+    "endTime": 60.039,
+    "text": "So whether it's basketball or baseball, or football or the other football,"
+  },
+  {
+    "startTime": 60.039,
+    "endTime": 64.465,
+    "text": "we're instrumenting our stadiums and our players to track their movements"
+  },
+  {
+    "startTime": 64.465,
+    "endTime": 65.802,
+    "text": "every fraction of a second."
+  },
+  {
+    "startTime": 65.802,
+    "endTime": 70.20800000000001,
+    "text": "So what we're doing is turning our athletes into --"
+  },
+  {
+    "startTime": 70.208,
+    "endTime": 72.191,
+    "text": "you probably guessed it --"
+  },
+  {
+    "startTime": 72.191,
+    "endTime": 73.946,
+    "text": "moving dots."
+  },
+  {
+    "startTime": 73.946,
+    "endTime": 78.904,
+    "text": "So we've got mountains of moving dots and like most raw data,"
+  },
+  {
+    "startTime": 78.904,
+    "endTime": 81.42999999999999,
+    "text": "it's hard to deal with and not that interesting."
+  },
+  {
+    "startTime": 81.43,
+    "endTime": 85.22300000000001,
+    "text": "But there are things that, for example, basketball coaches want to know."
+  },
+  {
+    "startTime": 85.223,
+    "endTime": 89.057,
+    "text": "And the problem is they can't know them because they'd have to watch every second"
+  },
+  {
+    "startTime": 89.057,
+    "endTime": 91.804,
+    "text": "of every game, remember it and process it."
+  },
+  {
+    "startTime": 91.804,
+    "endTime": 93.758,
+    "text": "And a person can't do that,"
+  },
+  {
+    "startTime": 93.758,
+    "endTime": 95.661,
+    "text": "but a machine can."
+  },
+  {
+    "startTime": 95.661,
+    "endTime": 99.363,
+    "text": "The problem is a machine can't see the game with the eye of a coach."
+  },
+  {
+    "startTime": 99.363,
+    "endTime": 102.228,
+    "text": "At least they couldn't until now."
+  },
+  {
+    "startTime": 102.228,
+    "endTime": 105.56899999999999,
+    "text": "So what have we taught the machine to see?"
+  },
+  {
+    "startTime": 105.569,
+    "endTime": 107.38,
+    "text": "So, we started simply."
+  },
+  {
+    "startTime": 107.38,
+    "endTime": 111.20299999999999,
+    "text": "We taught it things like passes, shots and rebounds."
+  },
+  {
+    "startTime": 111.203,
+    "endTime": 113.768,
+    "text": "Things that most casual fans would know."
+  },
+  {
+    "startTime": 113.768,
+    "endTime": 116.624,
+    "text": "And then we moved on to things slightly more complicated."
+  },
+  {
+    "startTime": 116.624,
+    "endTime": 121.377,
+    "text": "Events like post-ups, and pick-and-rolls, and isolations."
+  },
+  {
+    "startTime": 121.377,
+    "endTime": 125.56,
+    "text": "And if you don't know them, that's okay. Most casual players probably do."
+  },
+  {
+    "startTime": 125.56,
+    "endTime": 130.924,
+    "text": "Now, we've gotten to a point where today, the machine understands complex events"
+  },
+  {
+    "startTime": 130.924,
+    "endTime": 134.02100000000002,
+    "text": "like down screens and wide pins."
+  },
+  {
+    "startTime": 134.021,
+    "endTime": 136.771,
+    "text": "Basically things only professionals know."
+  },
+  {
+    "startTime": 136.771,
+    "endTime": 142.009,
+    "text": "So we have taught a machine to see with the eyes of a coach."
+  },
+  {
+    "startTime": 142.009,
+    "endTime": 144.511,
+    "text": "So how have we been able to do this?"
+  },
+  {
+    "startTime": 144.511,
+    "endTime": 147.653,
+    "text": "If I asked a coach to describe something like a pick-and-roll,"
+  },
+  {
+    "startTime": 147.653,
+    "endTime": 149.31699999999998,
+    "text": "they would give me a description,"
+  },
+  {
+    "startTime": 149.317,
+    "endTime": 153.026,
+    "text": "and if I encoded that as an algorithm, it would be terrible."
+  },
+  {
+    "startTime": 153.026,
+    "endTime": 157.328,
+    "text": "The pick-and-roll happens to be this dance in basketball between four players,"
+  },
+  {
+    "startTime": 157.328,
+    "endTime": 159.486,
+    "text": "two on offense and two on defense."
+  },
+  {
+    "startTime": 159.486,
+    "endTime": 161.128,
+    "text": "And here's kind of how it goes."
+  },
+  {
+    "startTime": 161.128,
+    "endTime": 163.68499999999997,
+    "text": "So there's the guy on offense without the ball"
+  },
+  {
+    "startTime": 163.685,
+    "endTime": 166.918,
+    "text": "the ball and he goes next to the guy guarding the guy with the ball,"
+  },
+  {
+    "startTime": 166.918,
+    "endTime": 168.199,
+    "text": "and he kind of stays there"
+  },
+  {
+    "startTime": 168.199,
+    "endTime": 171.54000000000002,
+    "text": "and they both move and stuff happens, and ta-da, it's a pick-and-roll."
+  },
+  {
+    "startTime": 171.54,
+    "endTime": 173.779,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 173.779,
+    "endTime": 176.91299999999998,
+    "text": "So that is also an example of a terrible algorithm."
+  },
+  {
+    "startTime": 176.913,
+    "endTime": 181.27800000000002,
+    "text": "So, if the player who's the interferer -- he's called the screener --"
+  },
+  {
+    "startTime": 181.278,
+    "endTime": 184.17399999999998,
+    "text": "goes close by, but he doesn't stop,"
+  },
+  {
+    "startTime": 184.174,
+    "endTime": 186.56,
+    "text": "it's probably not a pick-and-roll."
+  },
+  {
+    "startTime": 186.56,
+    "endTime": 190.529,
+    "text": "Or if he does stop, but he doesn't stop close enough,"
+  },
+  {
+    "startTime": 190.529,
+    "endTime": 192.642,
+    "text": "it's probably not a pick-and-roll."
+  },
+  {
+    "startTime": 192.642,
+    "endTime": 195.903,
+    "text": "Or, if he does go close by and he does stop"
+  },
+  {
+    "startTime": 195.903,
+    "endTime": 199.462,
+    "text": "but they do it under the basket, it's probably not a pick-and-roll."
+  },
+  {
+    "startTime": 199.462,
+    "endTime": 202.01,
+    "text": "Or I could be wrong, they could all be pick-and-rolls."
+  },
+  {
+    "startTime": 202.01,
+    "endTime": 206.602,
+    "text": "It really depends on the exact timing, the distances, the locations,"
+  },
+  {
+    "startTime": 206.602,
+    "endTime": 208.579,
+    "text": "and that's what makes it hard."
+  },
+  {
+    "startTime": 208.579,
+    "endTime": 213.547,
+    "text": "So, luckily, with machine learning, we can go beyond our own ability"
+  },
+  {
+    "startTime": 213.547,
+    "endTime": 215.314,
+    "text": "to describe the things we know."
+  },
+  {
+    "startTime": 215.314,
+    "endTime": 217.759,
+    "text": "So how does this work? Well, it's by example."
+  },
+  {
+    "startTime": 217.759,
+    "endTime": 221.077,
+    "text": "So we go to the machine and say, \"Good morning, machine."
+  },
+  {
+    "startTime": 221.077,
+    "endTime": 224.72,
+    "text": "Here are some pick-and-rolls, and here are some things that are not."
+  },
+  {
+    "startTime": 224.72,
+    "endTime": 227.076,
+    "text": "Please find a way to tell the difference.\""
+  },
+  {
+    "startTime": 227.076,
+    "endTime": 230.807,
+    "text": "And the key to all of this is to find features that enable it to separate."
+  },
+  {
+    "startTime": 230.807,
+    "endTime": 232.94,
+    "text": "So if I was going to teach it the difference"
+  },
+  {
+    "startTime": 232.94,
+    "endTime": 234.345,
+    "text": "between an apple and orange,"
+  },
+  {
+    "startTime": 234.345,
+    "endTime": 236.744,
+    "text": "I might say, \"Why don't you use color or shape?\""
+  },
+  {
+    "startTime": 236.744,
+    "endTime": 239.711,
+    "text": "And the problem that we're solving is, what are those things?"
+  },
+  {
+    "startTime": 239.711,
+    "endTime": 240.982,
+    "text": "What are the key features"
+  },
+  {
+    "startTime": 240.982,
+    "endTime": 244.505,
+    "text": "that let a computer navigate the world of moving dots?"
+  },
+  {
+    "startTime": 244.505,
+    "endTime": 249.352,
+    "text": "So figuring out all these relationships with relative and absolute location,"
+  },
+  {
+    "startTime": 249.352,
+    "endTime": 251.44,
+    "text": "distance, timing, velocities --"
+  },
+  {
+    "startTime": 251.44,
+    "endTime": 256.392,
+    "text": "that's really the key to the science of moving dots, or as we like to call it,"
+  },
+  {
+    "startTime": 256.392,
+    "endTime": 259.925,
+    "text": "spatiotemporal pattern recognition, in academic vernacular."
+  },
+  {
+    "startTime": 259.925,
+    "endTime": 262.84700000000004,
+    "text": "Because the first thing is, you have to make it sound hard --"
+  },
+  {
+    "startTime": 262.847,
+    "endTime": 264.40999999999997,
+    "text": "because it is."
+  },
+  {
+    "startTime": 264.41,
+    "endTime": 267.57500000000005,
+    "text": "The key thing is, for NBA coaches, it's not that they want to know"
+  },
+  {
+    "startTime": 267.575,
+    "endTime": 269.521,
+    "text": "whether a pick-and-roll happened or not."
+  },
+  {
+    "startTime": 269.521,
+    "endTime": 271.62100000000004,
+    "text": "It's that they want to know how it happened."
+  },
+  {
+    "startTime": 271.621,
+    "endTime": 274.631,
+    "text": "And why is it so important to them? So here's a little insight."
+  },
+  {
+    "startTime": 274.631,
+    "endTime": 276.426,
+    "text": "It turns out in modern basketball,"
+  },
+  {
+    "startTime": 276.426,
+    "endTime": 279.065,
+    "text": "this pick-and-roll is perhaps the most important play."
+  },
+  {
+    "startTime": 279.065,
+    "endTime": 281.709,
+    "text": "And knowing how to run it, and knowing how to defend it,"
+  },
+  {
+    "startTime": 281.709,
+    "endTime": 284.403,
+    "text": "is basically a key to winning and losing most games."
+  },
+  {
+    "startTime": 284.403,
+    "endTime": 288.228,
+    "text": "So it turns out that this dance has a great many variations"
+  },
+  {
+    "startTime": 288.228,
+    "endTime": 291.90000000000003,
+    "text": "and identifying the variations is really the thing that matters,"
+  },
+  {
+    "startTime": 291.9,
+    "endTime": 295.22799999999995,
+    "text": "and that's why we need this to be really, really good."
+  },
+  {
+    "startTime": 295.228,
+    "endTime": 296.428,
+    "text": "So, here's an example."
+  },
+  {
+    "startTime": 296.428,
+    "endTime": 298.831,
+    "text": "There are two offensive and two defensive players,"
+  },
+  {
+    "startTime": 298.831,
+    "endTime": 301.007,
+    "text": "getting ready to do the pick-and-roll dance."
+  },
+  {
+    "startTime": 301.007,
+    "endTime": 304.086,
+    "text": "So the guy with ball can either take, or he can reject."
+  },
+  {
+    "startTime": 304.086,
+    "endTime": 307.111,
+    "text": "His teammate can either roll or pop."
+  },
+  {
+    "startTime": 307.111,
+    "endTime": 310.121,
+    "text": "The guy guarding the ball can either go over or under."
+  },
+  {
+    "startTime": 310.121,
+    "endTime": 314.71,
+    "text": "His teammate can either show or play up to touch, or play soft"
+  },
+  {
+    "startTime": 314.71,
+    "endTime": 317.352,
+    "text": "and together they can either switch or blitz"
+  },
+  {
+    "startTime": 317.352,
+    "endTime": 320.03499999999997,
+    "text": "and I didn't know most of these things when I started"
+  },
+  {
+    "startTime": 320.035,
+    "endTime": 323.97900000000004,
+    "text": "and it would be lovely if everybody moved according to those arrows."
+  },
+  {
+    "startTime": 323.979,
+    "endTime": 328.04699999999997,
+    "text": "It would make our lives a lot easier, but it turns out movement is very messy."
+  },
+  {
+    "startTime": 328.047,
+    "endTime": 333.555,
+    "text": "People wiggle a lot and getting these variations identified"
+  },
+  {
+    "startTime": 333.555,
+    "endTime": 334.882,
+    "text": "with very high accuracy,"
+  },
+  {
+    "startTime": 334.882,
+    "endTime": 336.774,
+    "text": "both in precision and recall, is tough"
+  },
+  {
+    "startTime": 336.774,
+    "endTime": 340.416,
+    "text": "because that's what it takes to get a professional coach to believe in you."
+  },
+  {
+    "startTime": 340.416,
+    "endTime": 343.82,
+    "text": "And despite all the difficulties with the right spatiotemporal features"
+  },
+  {
+    "startTime": 343.82,
+    "endTime": 345.318,
+    "text": "we have been able to do that."
+  },
+  {
+    "startTime": 345.318,
+    "endTime": 349.478,
+    "text": "Coaches trust our ability of our machine to identify these variations."
+  },
+  {
+    "startTime": 349.478,
+    "endTime": 353.035,
+    "text": "We're at the point where almost every single contender"
+  },
+  {
+    "startTime": 353.035,
+    "endTime": 354.682,
+    "text": "for an NBA championship this year"
+  },
+  {
+    "startTime": 354.682,
+    "endTime": 359.11400000000003,
+    "text": "is using our software, which is built on a machine that understands"
+  },
+  {
+    "startTime": 359.114,
+    "endTime": 361.87199999999996,
+    "text": "the moving dots of basketball."
+  },
+  {
+    "startTime": 361.872,
+    "endTime": 367.04900000000004,
+    "text": "So not only that, we have given advice that has changed strategies"
+  },
+  {
+    "startTime": 367.049,
+    "endTime": 370.42499999999995,
+    "text": "that have helped teams win very important games,"
+  },
+  {
+    "startTime": 370.425,
+    "endTime": 374.181,
+    "text": "and it's very exciting because you have coaches who've been in the league"
+  },
+  {
+    "startTime": 374.181,
+    "endTime": 377.87399999999997,
+    "text": "for 30 years that are willing to take advice from a machine."
+  },
+  {
+    "startTime": 377.874,
+    "endTime": 380.80400000000003,
+    "text": "And it's very exciting, it's much more than the pick-and-roll."
+  },
+  {
+    "startTime": 380.804,
+    "endTime": 382.904,
+    "text": "Our computer started out with simple things"
+  },
+  {
+    "startTime": 382.904,
+    "endTime": 384.992,
+    "text": "and learned more and more complex things"
+  },
+  {
+    "startTime": 384.992,
+    "endTime": 386.577,
+    "text": "and now it knows so many things."
+  },
+  {
+    "startTime": 386.577,
+    "endTime": 389.436,
+    "text": "Frankly, I don't understand much of what it does,"
+  },
+  {
+    "startTime": 389.436,
+    "endTime": 393.17499999999995,
+    "text": "and while it's not that special to be smarter than me,"
+  },
+  {
+    "startTime": 393.175,
+    "endTime": 396.843,
+    "text": "we were wondering, can a machine know more than a coach?"
+  },
+  {
+    "startTime": 396.843,
+    "endTime": 398.922,
+    "text": "Can it know more than person could know?"
+  },
+  {
+    "startTime": 398.922,
+    "endTime": 400.69100000000003,
+    "text": "And it turns out the answer is yes."
+  },
+  {
+    "startTime": 400.691,
+    "endTime": 403.272,
+    "text": "The coaches want players to take good shots."
+  },
+  {
+    "startTime": 403.272,
+    "endTime": 404.947,
+    "text": "So if I'm standing near the basket"
+  },
+  {
+    "startTime": 404.947,
+    "endTime": 407.137,
+    "text": "and there's nobody near me, it's a good shot."
+  },
+  {
+    "startTime": 407.137,
+    "endTime": 411.101,
+    "text": "If I'm standing far away surrounded by defenders, that's generally a bad shot."
+  },
+  {
+    "startTime": 411.101,
+    "endTime": 416.209,
+    "text": "But we never knew how good \"good\" was, or how bad \"bad\" was quantitatively."
+  },
+  {
+    "startTime": 416.209,
+    "endTime": 417.771,
+    "text": "Until now."
+  },
+  {
+    "startTime": 417.771,
+    "endTime": 420.853,
+    "text": "So what we can do, again, using spatiotemporal features,"
+  },
+  {
+    "startTime": 420.853,
+    "endTime": 422.25100000000003,
+    "text": "we looked at every shot."
+  },
+  {
+    "startTime": 422.251,
+    "endTime": 425.28,
+    "text": "We can see: Where is the shot? What's the angle to the basket?"
+  },
+  {
+    "startTime": 425.28,
+    "endTime": 428.066,
+    "text": "Where are the defenders standing? What are their distances?"
+  },
+  {
+    "startTime": 428.066,
+    "endTime": 429.421,
+    "text": "What are their angles?"
+  },
+  {
+    "startTime": 429.421,
+    "endTime": 432.42199999999997,
+    "text": "For multiple defenders, we can look at how the player's moving"
+  },
+  {
+    "startTime": 432.422,
+    "endTime": 433.879,
+    "text": "and predict the shot type."
+  },
+  {
+    "startTime": 433.879,
+    "endTime": 437.97700000000003,
+    "text": "We can look at all their velocities and we can build a model that predicts"
+  },
+  {
+    "startTime": 437.977,
+    "endTime": 442.188,
+    "text": "what is the likelihood that this shot would go in under these circumstances?"
+  },
+  {
+    "startTime": 442.188,
+    "endTime": 444.102,
+    "text": "So why is this important?"
+  },
+  {
+    "startTime": 444.102,
+    "endTime": 446.929,
+    "text": "We can take something that was shooting,"
+  },
+  {
+    "startTime": 446.929,
+    "endTime": 449.633,
+    "text": "which was one thing before, and turn it into two things:"
+  },
+  {
+    "startTime": 449.633,
+    "endTime": 453.68,
+    "text": "the quality of the shot and the quality of the shooter."
+  },
+  {
+    "startTime": 453.68,
+    "endTime": 456.966,
+    "text": "So here's a bubble chart, because what's TED without a bubble chart?"
+  },
+  {
+    "startTime": 456.966,
+    "endTime": 458.004,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 458.004,
+    "endTime": 459.339,
+    "text": "Those are NBA players."
+  },
+  {
+    "startTime": 459.339,
+    "endTime": 462.483,
+    "text": "The size is the size of the player and the color is the position."
+  },
+  {
+    "startTime": 462.483,
+    "endTime": 464.639,
+    "text": "On the x-axis, we have the shot probability."
+  },
+  {
+    "startTime": 464.639,
+    "endTime": 466.616,
+    "text": "People on the left take difficult shots,"
+  },
+  {
+    "startTime": 466.616,
+    "endTime": 469.19399999999996,
+    "text": "on the right, they take easy shots."
+  },
+  {
+    "startTime": 469.194,
+    "endTime": 471.27500000000003,
+    "text": "On the [y-axis] is their shooting ability."
+  },
+  {
+    "startTime": 471.275,
+    "endTime": 473.861,
+    "text": "People who are good are at the top, bad at the bottom."
+  },
+  {
+    "startTime": 473.861,
+    "endTime": 475.621,
+    "text": "So for example, if there was a player"
+  },
+  {
+    "startTime": 475.621,
+    "endTime": 477.71799999999996,
+    "text": "who generally made 47 percent of their shots,"
+  },
+  {
+    "startTime": 477.718,
+    "endTime": 479.345,
+    "text": "that's all you knew before."
+  },
+  {
+    "startTime": 479.345,
+    "endTime": 484.21900000000005,
+    "text": "But today, I can tell you that player takes shots that an average NBA player"
+  },
+  {
+    "startTime": 484.219,
+    "endTime": 486.204,
+    "text": "would make 49 percent of the time,"
+  },
+  {
+    "startTime": 486.204,
+    "endTime": 488.266,
+    "text": "and they are two percent worse."
+  },
+  {
+    "startTime": 488.266,
+    "endTime": 493.714,
+    "text": "And the reason that's important is that there are lots of 47s out there."
+  },
+  {
+    "startTime": 493.714,
+    "endTime": 496.287,
+    "text": "And so it's really important to know"
+  },
+  {
+    "startTime": 496.287,
+    "endTime": 500.267,
+    "text": "if the 47 that you're considering giving 100 million dollars to"
+  },
+  {
+    "startTime": 500.267,
+    "endTime": 503.346,
+    "text": "is a good shooter who takes bad shots"
+  },
+  {
+    "startTime": 503.346,
+    "endTime": 507.13,
+    "text": "or a bad shooter who takes good shots."
+  },
+  {
+    "startTime": 507.13,
+    "endTime": 510.487,
+    "text": "Machine understanding doesn't just change how we look at players,"
+  },
+  {
+    "startTime": 510.487,
+    "endTime": 512.369,
+    "text": "it changes how we look at the game."
+  },
+  {
+    "startTime": 512.369,
+    "endTime": 516.148,
+    "text": "So there was this very exciting game a couple of years ago, in the NBA finals."
+  },
+  {
+    "startTime": 516.148,
+    "endTime": 519.379,
+    "text": "Miami was down by three, there was 20 seconds left."
+  },
+  {
+    "startTime": 519.379,
+    "endTime": 521.428,
+    "text": "They were about to lose the championship."
+  },
+  {
+    "startTime": 521.428,
+    "endTime": 524.793,
+    "text": "A gentleman named LeBron James came up and he took a three to tie."
+  },
+  {
+    "startTime": 524.793,
+    "endTime": 526.015,
+    "text": "He missed."
+  },
+  {
+    "startTime": 526.015,
+    "endTime": 527.876,
+    "text": "His teammate Chris Bosh got a rebound,"
+  },
+  {
+    "startTime": 527.876,
+    "endTime": 530.059,
+    "text": "passed it to another teammate named Ray Allen."
+  },
+  {
+    "startTime": 530.059,
+    "endTime": 532.002,
+    "text": "He sank a three. It went into overtime."
+  },
+  {
+    "startTime": 532.002,
+    "endTime": 534.122,
+    "text": "They won the game. They won the championship."
+  },
+  {
+    "startTime": 534.122,
+    "endTime": 537.438,
+    "text": "It was one of the most exciting games in basketball."
+  },
+  {
+    "startTime": 537.438,
+    "endTime": 540.891,
+    "text": "And our ability to know the shot probability for every player"
+  },
+  {
+    "startTime": 540.891,
+    "endTime": 542.103,
+    "text": "at every second,"
+  },
+  {
+    "startTime": 542.103,
+    "endTime": 545.083,
+    "text": "and the likelihood of them getting a rebound at every second"
+  },
+  {
+    "startTime": 545.083,
+    "endTime": 549.6179999999999,
+    "text": "can illuminate this moment in a way that we never could before."
+  },
+  {
+    "startTime": 549.618,
+    "endTime": 552.3100000000001,
+    "text": "Now unfortunately, I can't show you that video."
+  },
+  {
+    "startTime": 552.31,
+    "endTime": 556.827,
+    "text": "But for you, we recreated that moment"
+  },
+  {
+    "startTime": 556.827,
+    "endTime": 559.279,
+    "text": "at our weekly basketball game about 3 weeks ago."
+  },
+  {
+    "startTime": 559.279,
+    "endTime": 561.573,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 561.573,
+    "endTime": 565.199,
+    "text": "And we recreated the tracking that led to the insights."
+  },
+  {
+    "startTime": 565.199,
+    "endTime": 569.478,
+    "text": "So, here is us. This is Chinatown in Los Angeles,"
+  },
+  {
+    "startTime": 569.478,
+    "endTime": 571.0659999999999,
+    "text": "a park we play at every week,"
+  },
+  {
+    "startTime": 571.066,
+    "endTime": 573.321,
+    "text": "and that's us recreating the Ray Allen moment"
+  },
+  {
+    "startTime": 573.321,
+    "endTime": 576.772,
+    "text": "and all the tracking that's associated with it."
+  },
+  {
+    "startTime": 576.772,
+    "endTime": 578.3130000000001,
+    "text": "So, here's the shot."
+  },
+  {
+    "startTime": 578.313,
+    "endTime": 580.853,
+    "text": "I'm going to show you that moment"
+  },
+  {
+    "startTime": 580.853,
+    "endTime": 583.4639999999999,
+    "text": "and all the insights of that moment."
+  },
+  {
+    "startTime": 583.464,
+    "endTime": 587.2180000000001,
+    "text": "The only difference is, instead of the professional players, it's us,"
+  },
+  {
+    "startTime": 587.218,
+    "endTime": 589.86,
+    "text": "and instead of a professional announcer, it's me."
+  },
+  {
+    "startTime": 589.86,
+    "endTime": 593.153,
+    "text": "So, bear with me."
+  },
+  {
+    "startTime": 593.153,
+    "endTime": 594.671,
+    "text": "Miami."
+  },
+  {
+    "startTime": 594.671,
+    "endTime": 596.1070000000001,
+    "text": "Down three."
+  },
+  {
+    "startTime": 596.107,
+    "endTime": 599.385,
+    "text": "Twenty seconds left."
+  },
+  {
+    "startTime": 599.385,
+    "endTime": 602.656,
+    "text": "Jeff brings up the ball."
+  },
+  {
+    "startTime": 602.656,
+    "endTime": 604.631,
+    "text": "Josh catches, puts up a three!"
+  },
+  {
+    "startTime": 604.631,
+    "endTime": 607.278,
+    "text": "[Calculating shot probability]"
+  },
+  {
+    "startTime": 607.278,
+    "endTime": 609.048,
+    "text": "[Shot quality]"
+  },
+  {
+    "startTime": 609.048,
+    "endTime": 612.373,
+    "text": "[Rebound probability]"
+  },
+  {
+    "startTime": 612.373,
+    "endTime": 613.57,
+    "text": "Won't go!"
+  },
+  {
+    "startTime": 613.57,
+    "endTime": 615.777,
+    "text": "[Rebound probability]"
+  },
+  {
+    "startTime": 615.777,
+    "endTime": 617.057,
+    "text": "Rebound, Noel."
+  },
+  {
+    "startTime": 617.057,
+    "endTime": 618.509,
+    "text": "Back to Daria."
+  },
+  {
+    "startTime": 618.509,
+    "endTime": 622.676,
+    "text": "[Shot quality]"
+  },
+  {
+    "startTime": 622.676,
+    "endTime": 624.32,
+    "text": "Her three-pointer -- bang!"
+  },
+  {
+    "startTime": 624.32,
+    "endTime": 626.88,
+    "text": "Tie game with five seconds left."
+  },
+  {
+    "startTime": 626.88,
+    "endTime": 628.522,
+    "text": "The crowd goes wild."
+  },
+  {
+    "startTime": 628.522,
+    "endTime": 630.205,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 630.205,
+    "endTime": 631.7760000000001,
+    "text": "That's roughly how it happened."
+  },
+  {
+    "startTime": 631.776,
+    "endTime": 632.9509999999999,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 632.951,
+    "endTime": 634.15,
+    "text": "Roughly."
+  },
+  {
+    "startTime": 634.15,
+    "endTime": 636.121,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 636.121,
+    "endTime": 641.629,
+    "text": "That moment had about a nine percent chance of happening in the NBA"
+  },
+  {
+    "startTime": 641.629,
+    "endTime": 643.914,
+    "text": "and we know that and a great many other things."
+  },
+  {
+    "startTime": 643.914,
+    "endTime": 647.429,
+    "text": "I'm not going to tell you how many times it took us to make that happen."
+  },
+  {
+    "startTime": 647.429,
+    "endTime": 649.1999999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 649.2,
+    "endTime": 651.096,
+    "text": "Okay, I will! It was four."
+  },
+  {
+    "startTime": 651.096,
+    "endTime": 652.121,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 652.121,
+    "endTime": 653.6469999999999,
+    "text": "Way to go, Daria."
+  },
+  {
+    "startTime": 653.647,
+    "endTime": 657.9340000000001,
+    "text": "But the important thing about that video"
+  },
+  {
+    "startTime": 657.934,
+    "endTime": 662.639,
+    "text": "and the insights we have for every second of every NBA game -- it's not that."
+  },
+  {
+    "startTime": 662.639,
+    "endTime": 667.083,
+    "text": "It's the fact you don't have to be a professional team to track movement."
+  },
+  {
+    "startTime": 667.083,
+    "endTime": 670.764,
+    "text": "You do not have to be a professional player to get insights about movement."
+  },
+  {
+    "startTime": 670.764,
+    "endTime": 675.654,
+    "text": "In fact, it doesn't even have to be about sports because we're moving everywhere."
+  },
+  {
+    "startTime": 675.654,
+    "endTime": 681.428,
+    "text": "We're moving in our homes,"
+  },
+  {
+    "startTime": 681.428,
+    "endTime": 684.2379999999999,
+    "text": "in our offices,"
+  },
+  {
+    "startTime": 684.238,
+    "endTime": 689.3180000000001,
+    "text": "as we shop and we travel"
+  },
+  {
+    "startTime": 689.318,
+    "endTime": 692.0649999999999,
+    "text": "throughout our cities"
+  },
+  {
+    "startTime": 692.065,
+    "endTime": 695.2700000000001,
+    "text": "and around our world."
+  },
+  {
+    "startTime": 695.27,
+    "endTime": 697.5889999999999,
+    "text": "What will we know? What will we learn?"
+  },
+  {
+    "startTime": 697.589,
+    "endTime": 699.918,
+    "text": "Perhaps, instead of identifying pick-and-rolls,"
+  },
+  {
+    "startTime": 699.918,
+    "endTime": 702.952,
+    "text": "a machine can identify the moment and let me know"
+  },
+  {
+    "startTime": 702.952,
+    "endTime": 705.035,
+    "text": "when my daughter takes her first steps."
+  },
+  {
+    "startTime": 705.035,
+    "endTime": 708.14,
+    "text": "Which could literally be happening any second now."
+  },
+  {
+    "startTime": 708.14,
+    "endTime": 712.362,
+    "text": "Perhaps we can learn to better use our buildings, better plan our cities."
+  },
+  {
+    "startTime": 712.362,
+    "endTime": 716.559,
+    "text": "I believe that with the development of the science of moving dots,"
+  },
+  {
+    "startTime": 716.559,
+    "endTime": 720.607,
+    "text": "we will move better, we will move smarter, we will move forward."
+  },
+  {
+    "startTime": 720.607,
+    "endTime": 721.8199999999999,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 721.82,
+    "endTime": 731.82,
+    "text": "(Applause)"
+  }
+]
