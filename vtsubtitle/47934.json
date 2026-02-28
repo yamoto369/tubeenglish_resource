@@ -1,0 +1,402 @@
+[
+  {
+    "startTime": 7.507,
+    "endTime": 9.943999999999999,
+    "text": "You're the realm's greatest mathematician,"
+  },
+  {
+    "startTime": 9.944,
+    "endTime": 13.348,
+    "text": "but ever since you criticized  the Emperor's tax laws,"
+  },
+  {
+    "startTime": 13.348,
+    "endTime": 15.249,
+    "text": "you've been locked in the dungeon"
+  },
+  {
+    "startTime": 15.249,
+    "endTime": 18.198,
+    "text": "with only a marker to count the days."
+  },
+  {
+    "startTime": 18.198,
+    "endTime": 21.358,
+    "text": "But one day, you're suddenly brought before the Emperor"
+  },
+  {
+    "startTime": 21.358,
+    "endTime": 24.149,
+    "text": "who looks even angrier than usual."
+  },
+  {
+    "startTime": 24.149,
+    "endTime": 27.938000000000002,
+    "text": "One of his twelve governors has been convicted of paying his taxes"
+  },
+  {
+    "startTime": 27.938,
+    "endTime": 29.945,
+    "text": "with a counterfeit coin"
+  },
+  {
+    "startTime": 29.945,
+    "endTime": 33.239,
+    "text": "which has already made its way into the treasury."
+  },
+  {
+    "startTime": 33.239,
+    "endTime": 35.16,
+    "text": "As the kingdom's greatest mathematician,"
+  },
+  {
+    "startTime": 35.16,
+    "endTime": 40.92999999999999,
+    "text": "you've been granted a chance to earn your freedom by identifying the fake."
+  },
+  {
+    "startTime": 40.93,
+    "endTime": 46.099,
+    "text": "Before you are the twelve identical looking coins and a balance scale."
+  },
+  {
+    "startTime": 46.099,
+    "endTime": 50.3,
+    "text": "You know that the false coin will be very slightly lighter or heavier"
+  },
+  {
+    "startTime": 50.3,
+    "endTime": 51.867999999999995,
+    "text": "than the rest."
+  },
+  {
+    "startTime": 51.868,
+    "endTime": 54.489000000000004,
+    "text": "But the Emperor's not a patient man."
+  },
+  {
+    "startTime": 54.489,
+    "endTime": 56.979,
+    "text": "You may only use the scale three times"
+  },
+  {
+    "startTime": 56.979,
+    "endTime": 60.64,
+    "text": "before you'll be thrown back  into the dungeon."
+  },
+  {
+    "startTime": 60.64,
+    "endTime": 62.829,
+    "text": "You look around for anything else you can use,"
+  },
+  {
+    "startTime": 62.829,
+    "endTime": 64.65,
+    "text": "but there's nothing in the room -"
+  },
+  {
+    "startTime": 64.65,
+    "endTime": 65.68100000000001,
+    "text": "just the coins,"
+  },
+  {
+    "startTime": 65.681,
+    "endTime": 66.92099999999999,
+    "text": "the scale,"
+  },
+  {
+    "startTime": 66.921,
+    "endTime": 68.95200000000001,
+    "text": "and your trusty marker."
+  },
+  {
+    "startTime": 68.952,
+    "endTime": 71.317,
+    "text": "How do you identify the counterfeit?"
+  },
+  {
+    "startTime": 71.317,
+    "endTime": 74.37899999999999,
+    "text": "Pause here if you want  to figure it out for yourself!"
+  },
+  {
+    "startTime": 74.379,
+    "endTime": 75.849,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 75.849,
+    "endTime": 77.35000000000001,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 77.35,
+    "endTime": 79.107,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 79.107,
+    "endTime": 83.309,
+    "text": "Obviously you can't weigh each coin against all of the others,"
+  },
+  {
+    "startTime": 83.309,
+    "endTime": 85.941,
+    "text": "so you'll have to weigh several coins at the same time"
+  },
+  {
+    "startTime": 85.941,
+    "endTime": 89.07000000000001,
+    "text": "by splitting the stack  into multiple piles"
+  },
+  {
+    "startTime": 89.07,
+    "endTime": 92.648,
+    "text": "then narrowing down  where the false coin is."
+  },
+  {
+    "startTime": 92.648,
+    "endTime": 97.36099999999999,
+    "text": "Start by dividing the twelve coins into three equal piles of four."
+  },
+  {
+    "startTime": 97.361,
+    "endTime": 102.20100000000001,
+    "text": "Placing two of these on the scale gives us two possible outcomes."
+  },
+  {
+    "startTime": 102.201,
+    "endTime": 107.21199999999999,
+    "text": "If the two sides balance, all eight coins on the scale are real,"
+  },
+  {
+    "startTime": 107.212,
+    "endTime": 110.39200000000001,
+    "text": "and the fake must be among  the remaining four."
+  },
+  {
+    "startTime": 110.392,
+    "endTime": 112.672,
+    "text": "So how do you keep track of these results?"
+  },
+  {
+    "startTime": 112.672,
+    "endTime": 114.66,
+    "text": "That's where the marker comes in."
+  },
+  {
+    "startTime": 114.66,
+    "endTime": 118.17,
+    "text": "Mark the eight authentic coins with a zero."
+  },
+  {
+    "startTime": 118.17,
+    "endTime": 122.822,
+    "text": "Now, take three of them and weigh them against three unmarked coins."
+  },
+  {
+    "startTime": 122.822,
+    "endTime": 127.333,
+    "text": "If they balance, the remaining  unmarked coin must be the fake."
+  },
+  {
+    "startTime": 127.333,
+    "endTime": 132.181,
+    "text": "If they don't, draw a plus on the three unmarked coins if they're heavier"
+  },
+  {
+    "startTime": 132.181,
+    "endTime": 135.15200000000002,
+    "text": "or a minus if they're lighter."
+  },
+  {
+    "startTime": 135.152,
+    "endTime": 139.66199999999998,
+    "text": "Now, take two of the newly marked coins and weigh them against each other."
+  },
+  {
+    "startTime": 139.662,
+    "endTime": 142.701,
+    "text": "If they balance, the third coin is fake."
+  },
+  {
+    "startTime": 142.701,
+    "endTime": 144.612,
+    "text": "Otherwise, look at their marks."
+  },
+  {
+    "startTime": 144.612,
+    "endTime": 148.553,
+    "text": "If they are plus coins,  the heavier one is the imposter."
+  },
+  {
+    "startTime": 148.553,
+    "endTime": 151.753,
+    "text": "If they are marked with minus, it's the lighter one."
+  },
+  {
+    "startTime": 151.753,
+    "endTime": 156.232,
+    "text": "But what if the first two piles you weigh don't balance?"
+  },
+  {
+    "startTime": 156.232,
+    "endTime": 159.082,
+    "text": "Mark the coins on the heavier side with a plus"
+  },
+  {
+    "startTime": 159.082,
+    "endTime": 162.974,
+    "text": "and those on the lighter side  with a minus."
+  },
+  {
+    "startTime": 162.974,
+    "endTime": 166.173,
+    "text": "You can also mark the remaining four coins with zeros"
+  },
+  {
+    "startTime": 166.173,
+    "endTime": 171.524,
+    "text": "since you know the fake one is already somewhere on the scale."
+  },
+  {
+    "startTime": 171.524,
+    "endTime": 173.414,
+    "text": "Now, you'll need to think strategically"
+  },
+  {
+    "startTime": 173.414,
+    "endTime": 178.475,
+    "text": "so you can remove all remaining ambiguity in just two more weighings."
+  },
+  {
+    "startTime": 178.475,
+    "endTime": 181.944,
+    "text": "To do this, you'll need  to reassemble the piles."
+  },
+  {
+    "startTime": 181.944,
+    "endTime": 184.786,
+    "text": "One method is to replace three of the plus coins"
+  },
+  {
+    "startTime": 184.786,
+    "endTime": 187.113,
+    "text": "with three of the minus coins,"
+  },
+  {
+    "startTime": 187.113,
+    "endTime": 190.953,
+    "text": "and replace those  with three of the zero coins."
+  },
+  {
+    "startTime": 190.953,
+    "endTime": 193.423,
+    "text": ">From here, you have three possibilities."
+  },
+  {
+    "startTime": 193.423,
+    "endTime": 197.475,
+    "text": "If the previously heavier side of the scale is still heavier,"
+  },
+  {
+    "startTime": 197.475,
+    "endTime": 200.725,
+    "text": "that means either the remaining plus coin on that side"
+  },
+  {
+    "startTime": 200.725,
+    "endTime": 202.826,
+    "text": "is actually the heavier one,"
+  },
+  {
+    "startTime": 202.826,
+    "endTime": 205.756,
+    "text": "or the remaining minus coin on the lighter side"
+  },
+  {
+    "startTime": 205.756,
+    "endTime": 208.235,
+    "text": "is actually the lighter one."
+  },
+  {
+    "startTime": 208.235,
+    "endTime": 211.91500000000002,
+    "text": "Choose either one of them, and weigh it against one of the regular coins"
+  },
+  {
+    "startTime": 211.915,
+    "endTime": 213.73499999999999,
+    "text": "to see which is true."
+  },
+  {
+    "startTime": 213.735,
+    "endTime": 216.466,
+    "text": "If the previously heavier side became lighter,"
+  },
+  {
+    "startTime": 216.466,
+    "endTime": 219.23600000000002,
+    "text": "that means one of the three minus coins you moved"
+  },
+  {
+    "startTime": 219.236,
+    "endTime": 221.50699999999998,
+    "text": "is actually the lighter one."
+  },
+  {
+    "startTime": 221.507,
+    "endTime": 223.70600000000002,
+    "text": "Weigh two of them against each other."
+  },
+  {
+    "startTime": 223.706,
+    "endTime": 226.666,
+    "text": "If they balance, the third is counterfeit."
+  },
+  {
+    "startTime": 226.666,
+    "endTime": 229.765,
+    "text": "If not, the lighter one is."
+  },
+  {
+    "startTime": 229.765,
+    "endTime": 233.59599999999998,
+    "text": "Similarly, if the two sides balanced after your substitution,"
+  },
+  {
+    "startTime": 233.596,
+    "endTime": 236.546,
+    "text": "then one of the three plus coins you removed"
+  },
+  {
+    "startTime": 236.546,
+    "endTime": 238.52599999999998,
+    "text": "must be the heavier one."
+  },
+  {
+    "startTime": 238.526,
+    "endTime": 240.52700000000002,
+    "text": "Weigh two of them against each other."
+  },
+  {
+    "startTime": 240.527,
+    "endTime": 243.588,
+    "text": "If they balance, the third one is fake."
+  },
+  {
+    "startTime": 243.588,
+    "endTime": 247.06799999999998,
+    "text": "If not, then it's the heavier one."
+  },
+  {
+    "startTime": 247.068,
+    "endTime": 250.07600000000002,
+    "text": "The Emperor nods approvingly at your finding,"
+  },
+  {
+    "startTime": 250.076,
+    "endTime": 260.076,
+    "text": "and the counterfeiting Lord takes your place in the dungeon."
+  }
+]

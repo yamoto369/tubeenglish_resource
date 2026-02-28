@@ -1,0 +1,1452 @@
+[
+  {
+    "startTime": 13.0,
+    "endTime": 15.24,
+    "text": "I'm going to talk about a failure of intuition"
+  },
+  {
+    "startTime": 15.24,
+    "endTime": 17.48,
+    "text": "that many of us suffer from."
+  },
+  {
+    "startTime": 17.48,
+    "endTime": 21.36,
+    "text": "It's really a failure to detect a certain kind of danger."
+  },
+  {
+    "startTime": 21.36,
+    "endTime": 23.12,
+    "text": "I'm going to describe a scenario"
+  },
+  {
+    "startTime": 23.12,
+    "endTime": 26.400000000000002,
+    "text": "that I think is both terrifying"
+  },
+  {
+    "startTime": 26.4,
+    "endTime": 28.84,
+    "text": "and likely to occur,"
+  },
+  {
+    "startTime": 28.84,
+    "endTime": 30.52,
+    "text": "and that's not a good combination,"
+  },
+  {
+    "startTime": 30.52,
+    "endTime": 32.08,
+    "text": "as it turns out."
+  },
+  {
+    "startTime": 32.08,
+    "endTime": 34.559999999999995,
+    "text": "And yet rather than be scared, most of you will feel"
+  },
+  {
+    "startTime": 34.56,
+    "endTime": 37.2,
+    "text": "that what I'm talking about is kind of cool."
+  },
+  {
+    "startTime": 37.2,
+    "endTime": 40.2,
+    "text": "I'm going to describe how the gains we make"
+  },
+  {
+    "startTime": 40.2,
+    "endTime": 42.0,
+    "text": "in artificial intelligence"
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 43.8,
+    "text": "could ultimately destroy us."
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 47.279999999999994,
+    "text": "And in fact, I think it's very difficult to see how they won't destroy us"
+  },
+  {
+    "startTime": 47.28,
+    "endTime": 49.4,
+    "text": "or inspire us to destroy ourselves."
+  },
+  {
+    "startTime": 49.4,
+    "endTime": 51.28,
+    "text": "And yet if you're anything like me,"
+  },
+  {
+    "startTime": 51.28,
+    "endTime": 53.96,
+    "text": "you'll find that it's fun to think about these things."
+  },
+  {
+    "startTime": 53.96,
+    "endTime": 57.36,
+    "text": "And that response is part of the problem."
+  },
+  {
+    "startTime": 57.36,
+    "endTime": 59.92,
+    "text": "OK? That response should worry you."
+  },
+  {
+    "startTime": 59.92,
+    "endTime": 62.6,
+    "text": "And if I were to convince you in this talk"
+  },
+  {
+    "startTime": 62.6,
+    "endTime": 66.04,
+    "text": "that we were likely to suffer a global famine,"
+  },
+  {
+    "startTime": 66.04,
+    "endTime": 69.12,
+    "text": "either because of climate change or some other catastrophe,"
+  },
+  {
+    "startTime": 69.12,
+    "endTime": 72.56,
+    "text": "and that your grandchildren, or their grandchildren,"
+  },
+  {
+    "startTime": 72.56,
+    "endTime": 75.2,
+    "text": "are very likely to live like this,"
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 77.44,
+    "text": "you wouldn't think,"
+  },
+  {
+    "startTime": 77.44,
+    "endTime": 78.8,
+    "text": "\"Interesting."
+  },
+  {
+    "startTime": 78.8,
+    "endTime": 81.2,
+    "text": "I like this TED Talk.\""
+  },
+  {
+    "startTime": 81.2,
+    "endTime": 83.8,
+    "text": "Famine isn't fun."
+  },
+  {
+    "startTime": 83.8,
+    "endTime": 87.2,
+    "text": "Death by science fiction, on the other hand, is fun,"
+  },
+  {
+    "startTime": 87.2,
+    "endTime": 91.2,
+    "text": "and one of the things that worries me most about the development of AI at this point"
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 95.32000000000001,
+    "text": "is that we seem unable to marshal an appropriate emotional response"
+  },
+  {
+    "startTime": 95.32,
+    "endTime": 97.16,
+    "text": "to the dangers that lie ahead."
+  },
+  {
+    "startTime": 97.16,
+    "endTime": 102.11999999999999,
+    "text": "I am unable to marshal this response, and I'm giving this talk."
+  },
+  {
+    "startTime": 102.12,
+    "endTime": 104.84,
+    "text": "It's as though we stand before two doors."
+  },
+  {
+    "startTime": 104.84,
+    "endTime": 106.12,
+    "text": "Behind door number one,"
+  },
+  {
+    "startTime": 106.12,
+    "endTime": 109.44,
+    "text": "we stop making progress in building intelligent machines."
+  },
+  {
+    "startTime": 109.44,
+    "endTime": 113.48,
+    "text": "Our computer hardware and software just stops getting better for some reason."
+  },
+  {
+    "startTime": 113.48,
+    "endTime": 117.08,
+    "text": "Now take a moment to consider why this might happen."
+  },
+  {
+    "startTime": 117.08,
+    "endTime": 120.76,
+    "text": "I mean, given how valuable intelligence and automation are,"
+  },
+  {
+    "startTime": 120.76,
+    "endTime": 125.2,
+    "text": "we will continue to improve our technology if we are at all able to."
+  },
+  {
+    "startTime": 125.2,
+    "endTime": 127.8,
+    "text": "What could stop us from doing this?"
+  },
+  {
+    "startTime": 127.8,
+    "endTime": 131.0,
+    "text": "A full-scale nuclear war?"
+  },
+  {
+    "startTime": 131.0,
+    "endTime": 134.32,
+    "text": "A global pandemic?"
+  },
+  {
+    "startTime": 134.32,
+    "endTime": 137.64,
+    "text": "An asteroid impact?"
+  },
+  {
+    "startTime": 137.64,
+    "endTime": 140.23999999999998,
+    "text": "Justin Bieber becoming president of the United States?"
+  },
+  {
+    "startTime": 140.24,
+    "endTime": 144.76000000000002,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 144.76,
+    "endTime": 149.35999999999999,
+    "text": "The point is, something would have to destroy civilization as we know it."
+  },
+  {
+    "startTime": 149.36,
+    "endTime": 153.68,
+    "text": "You have to imagine how bad it would have to be"
+  },
+  {
+    "startTime": 153.68,
+    "endTime": 157.04000000000002,
+    "text": "to prevent us from making improvements in our technology"
+  },
+  {
+    "startTime": 157.04,
+    "endTime": 158.28,
+    "text": "permanently,"
+  },
+  {
+    "startTime": 158.28,
+    "endTime": 160.32,
+    "text": "generation after generation."
+  },
+  {
+    "startTime": 160.32,
+    "endTime": 162.48,
+    "text": "Almost by definition, this is the worst thing"
+  },
+  {
+    "startTime": 162.48,
+    "endTime": 164.51999999999998,
+    "text": "that's ever happened in human history."
+  },
+  {
+    "startTime": 164.52,
+    "endTime": 165.84,
+    "text": "So the only alternative,"
+  },
+  {
+    "startTime": 165.84,
+    "endTime": 168.20000000000002,
+    "text": "and this is what lies behind door number two,"
+  },
+  {
+    "startTime": 168.2,
+    "endTime": 171.35999999999999,
+    "text": "is that we continue to improve our intelligent machines"
+  },
+  {
+    "startTime": 171.36,
+    "endTime": 173.72000000000003,
+    "text": "year after year after year."
+  },
+  {
+    "startTime": 173.72,
+    "endTime": 178.08,
+    "text": "At a certain point, we will build machines that are smarter than we are,"
+  },
+  {
+    "startTime": 178.08,
+    "endTime": 180.72,
+    "text": "and once we have machines that are smarter than we are,"
+  },
+  {
+    "startTime": 180.72,
+    "endTime": 182.72,
+    "text": "they will begin to improve themselves."
+  },
+  {
+    "startTime": 182.72,
+    "endTime": 185.48,
+    "text": "And then we risk what the mathematician IJ Good called"
+  },
+  {
+    "startTime": 185.48,
+    "endTime": 187.28,
+    "text": "an \"intelligence explosion,\""
+  },
+  {
+    "startTime": 187.28,
+    "endTime": 190.12,
+    "text": "that the process could get away from us."
+  },
+  {
+    "startTime": 190.12,
+    "endTime": 192.96,
+    "text": "Now, this is often caricatured, as I have here,"
+  },
+  {
+    "startTime": 192.96,
+    "endTime": 196.20000000000002,
+    "text": "as a fear that armies of malicious robots"
+  },
+  {
+    "startTime": 196.2,
+    "endTime": 197.48,
+    "text": "will attack us."
+  },
+  {
+    "startTime": 197.48,
+    "endTime": 200.2,
+    "text": "But that isn't the most likely scenario."
+  },
+  {
+    "startTime": 200.2,
+    "endTime": 205.07999999999998,
+    "text": "It's not that our machines will become spontaneously malevolent."
+  },
+  {
+    "startTime": 205.08,
+    "endTime": 207.72,
+    "text": "The concern is really that we will build machines"
+  },
+  {
+    "startTime": 207.72,
+    "endTime": 209.8,
+    "text": "that are so much more competent than we are"
+  },
+  {
+    "startTime": 209.8,
+    "endTime": 213.60000000000002,
+    "text": "that the slightest divergence between their goals and our own"
+  },
+  {
+    "startTime": 213.6,
+    "endTime": 215.96,
+    "text": "could destroy us."
+  },
+  {
+    "startTime": 215.96,
+    "endTime": 218.6,
+    "text": "Just think about how we relate to ants."
+  },
+  {
+    "startTime": 218.6,
+    "endTime": 220.28,
+    "text": "We don't hate them."
+  },
+  {
+    "startTime": 220.28,
+    "endTime": 222.36,
+    "text": "We don't go out of our way to harm them."
+  },
+  {
+    "startTime": 222.36,
+    "endTime": 224.76000000000002,
+    "text": "In fact, sometimes we take pains not to harm them."
+  },
+  {
+    "startTime": 224.76,
+    "endTime": 226.79999999999998,
+    "text": "We step over them on the sidewalk."
+  },
+  {
+    "startTime": 226.8,
+    "endTime": 228.96,
+    "text": "But whenever their presence"
+  },
+  {
+    "startTime": 228.96,
+    "endTime": 231.48000000000002,
+    "text": "seriously conflicts with one of our goals,"
+  },
+  {
+    "startTime": 231.48,
+    "endTime": 233.981,
+    "text": "let's say when constructing a building like this one,"
+  },
+  {
+    "startTime": 233.981,
+    "endTime": 236.48,
+    "text": "we annihilate them without a qualm."
+  },
+  {
+    "startTime": 236.48,
+    "endTime": 239.44,
+    "text": "The concern is that we will one day build machines"
+  },
+  {
+    "startTime": 239.44,
+    "endTime": 242.2,
+    "text": "that, whether they're conscious or not,"
+  },
+  {
+    "startTime": 242.2,
+    "endTime": 245.76,
+    "text": "could treat us with similar disregard."
+  },
+  {
+    "startTime": 245.76,
+    "endTime": 249.35999999999999,
+    "text": "Now, I suspect this seems far-fetched to many of you."
+  },
+  {
+    "startTime": 249.36,
+    "endTime": 255.72000000000003,
+    "text": "I bet there are those of you who doubt that superintelligent AI is possible,"
+  },
+  {
+    "startTime": 255.72,
+    "endTime": 257.4,
+    "text": "much less inevitable."
+  },
+  {
+    "startTime": 257.4,
+    "endTime": 261.044,
+    "text": "But then you must find something wrong with one of the following assumptions."
+  },
+  {
+    "startTime": 261.044,
+    "endTime": 263.79999999999995,
+    "text": "And there are only three of them."
+  },
+  {
+    "startTime": 263.8,
+    "endTime": 269.32,
+    "text": "Intelligence is a matter of information processing in physical systems."
+  },
+  {
+    "startTime": 269.32,
+    "endTime": 271.959,
+    "text": "Actually, this is a little bit more than an assumption."
+  },
+  {
+    "startTime": 271.959,
+    "endTime": 275.44,
+    "text": "We have already built narrow intelligence into our machines,"
+  },
+  {
+    "startTime": 275.44,
+    "endTime": 277.48,
+    "text": "and many of these machines perform"
+  },
+  {
+    "startTime": 277.48,
+    "endTime": 280.84000000000003,
+    "text": "at a level of superhuman intelligence already."
+  },
+  {
+    "startTime": 280.84,
+    "endTime": 283.44,
+    "text": "And we know that mere matter"
+  },
+  {
+    "startTime": 283.44,
+    "endTime": 286.08,
+    "text": "can give rise to what is called \"general intelligence,\""
+  },
+  {
+    "startTime": 286.08,
+    "endTime": 289.76,
+    "text": "an ability to think flexibly across multiple domains,"
+  },
+  {
+    "startTime": 289.76,
+    "endTime": 292.92,
+    "text": "because our brains have managed it. Right?"
+  },
+  {
+    "startTime": 292.92,
+    "endTime": 296.88,
+    "text": "I mean, there's just atoms in here,"
+  },
+  {
+    "startTime": 296.88,
+    "endTime": 301.4,
+    "text": "and as long as we continue to build systems of atoms"
+  },
+  {
+    "startTime": 301.4,
+    "endTime": 304.12,
+    "text": "that display more and more intelligent behavior,"
+  },
+  {
+    "startTime": 304.12,
+    "endTime": 306.68,
+    "text": "we will eventually, unless we are interrupted,"
+  },
+  {
+    "startTime": 306.68,
+    "endTime": 310.08,
+    "text": "we will eventually build general intelligence"
+  },
+  {
+    "startTime": 310.08,
+    "endTime": 311.4,
+    "text": "into our machines."
+  },
+  {
+    "startTime": 311.4,
+    "endTime": 315.08,
+    "text": "It's crucial to realize that the rate of progress doesn't matter,"
+  },
+  {
+    "startTime": 315.08,
+    "endTime": 318.28,
+    "text": "because any progress is enough to get us into the end zone."
+  },
+  {
+    "startTime": 318.28,
+    "endTime": 322.08,
+    "text": "We don't need Moore's law to continue. We don't need exponential progress."
+  },
+  {
+    "startTime": 322.08,
+    "endTime": 325.47999999999996,
+    "text": "We just need to keep going."
+  },
+  {
+    "startTime": 325.48,
+    "endTime": 329.0,
+    "text": "The second assumption is that we will keep going."
+  },
+  {
+    "startTime": 329.0,
+    "endTime": 333.0,
+    "text": "We will continue to improve our intelligent machines."
+  },
+  {
+    "startTime": 333.0,
+    "endTime": 337.4,
+    "text": "And given the value of intelligence --"
+  },
+  {
+    "startTime": 337.4,
+    "endTime": 340.96,
+    "text": "I mean, intelligence is either the source of everything we value"
+  },
+  {
+    "startTime": 340.96,
+    "endTime": 343.76,
+    "text": "or we need it to safeguard everything we value."
+  },
+  {
+    "startTime": 343.76,
+    "endTime": 346.03999999999996,
+    "text": "It is our most valuable resource."
+  },
+  {
+    "startTime": 346.04,
+    "endTime": 347.6,
+    "text": "So we want to do this."
+  },
+  {
+    "startTime": 347.6,
+    "endTime": 350.96000000000004,
+    "text": "We have problems that we desperately need to solve."
+  },
+  {
+    "startTime": 350.96,
+    "endTime": 354.96,
+    "text": "We want to cure diseases like Alzheimer's and cancer."
+  },
+  {
+    "startTime": 354.96,
+    "endTime": 358.91999999999996,
+    "text": "We want to understand economic systems. We want to improve our climate science."
+  },
+  {
+    "startTime": 358.92,
+    "endTime": 361.2,
+    "text": "So we will do this, if we can."
+  },
+  {
+    "startTime": 361.2,
+    "endTime": 365.88,
+    "text": "The train is already out of the station, and there's no brake to pull."
+  },
+  {
+    "startTime": 365.88,
+    "endTime": 371.36,
+    "text": "Finally, we don't stand on a peak of intelligence,"
+  },
+  {
+    "startTime": 371.36,
+    "endTime": 373.64,
+    "text": "or anywhere near it, likely."
+  },
+  {
+    "startTime": 373.64,
+    "endTime": 375.56,
+    "text": "And this really is the crucial insight."
+  },
+  {
+    "startTime": 375.56,
+    "endTime": 378.0,
+    "text": "This is what makes our situation so precarious,"
+  },
+  {
+    "startTime": 378.0,
+    "endTime": 383.12,
+    "text": "and this is what makes our intuitions about risk so unreliable."
+  },
+  {
+    "startTime": 383.12,
+    "endTime": 386.64,
+    "text": "Now, just consider the smartest person who has ever lived."
+  },
+  {
+    "startTime": 386.64,
+    "endTime": 390.08,
+    "text": "On almost everyone's shortlist here is John von Neumann."
+  },
+  {
+    "startTime": 390.08,
+    "endTime": 393.44,
+    "text": "I mean, the impression that von Neumann made on the people around him,"
+  },
+  {
+    "startTime": 393.44,
+    "endTime": 397.52,
+    "text": "and this included the greatest mathematicians and physicists of his time,"
+  },
+  {
+    "startTime": 397.52,
+    "endTime": 399.47999999999996,
+    "text": "is fairly well-documented."
+  },
+  {
+    "startTime": 399.48,
+    "endTime": 403.28000000000003,
+    "text": "If only half the stories about him are half true,"
+  },
+  {
+    "startTime": 403.28,
+    "endTime": 404.52,
+    "text": "there's no question"
+  },
+  {
+    "startTime": 404.52,
+    "endTime": 407.0,
+    "text": "he's one of the smartest people who has ever lived."
+  },
+  {
+    "startTime": 407.0,
+    "endTime": 410.32,
+    "text": "So consider the spectrum of intelligence."
+  },
+  {
+    "startTime": 410.32,
+    "endTime": 413.56,
+    "text": "Here we have John von Neumann."
+  },
+  {
+    "startTime": 413.56,
+    "endTime": 416.12,
+    "text": "And then we have you and me."
+  },
+  {
+    "startTime": 416.12,
+    "endTime": 417.44,
+    "text": "And then we have a chicken."
+  },
+  {
+    "startTime": 417.44,
+    "endTime": 419.4,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 419.4,
+    "endTime": 420.64,
+    "text": "Sorry, a chicken."
+  },
+  {
+    "startTime": 420.64,
+    "endTime": 421.91999999999996,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 421.92,
+    "endTime": 425.68,
+    "text": "There's no reason for me to make this talk more depressing than it needs to be."
+  },
+  {
+    "startTime": 425.68,
+    "endTime": 428.339,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 428.339,
+    "endTime": 431.84,
+    "text": "It seems overwhelmingly likely, however, that the spectrum of intelligence"
+  },
+  {
+    "startTime": 431.84,
+    "endTime": 435.88,
+    "text": "extends much further than we currently conceive,"
+  },
+  {
+    "startTime": 435.88,
+    "endTime": 439.12,
+    "text": "and if we build machines that are more intelligent than we are,"
+  },
+  {
+    "startTime": 439.12,
+    "endTime": 441.44,
+    "text": "they will very likely explore this spectrum"
+  },
+  {
+    "startTime": 441.44,
+    "endTime": 443.32,
+    "text": "in ways that we can't imagine,"
+  },
+  {
+    "startTime": 443.32,
+    "endTime": 447.0,
+    "text": "and exceed us in ways that we can't imagine."
+  },
+  {
+    "startTime": 447.0,
+    "endTime": 451.36,
+    "text": "And it's important to recognize that this is true by virtue of speed alone."
+  },
+  {
+    "startTime": 451.36,
+    "endTime": 456.44,
+    "text": "Right? So imagine if we just built a superintelligent AI"
+  },
+  {
+    "startTime": 456.44,
+    "endTime": 459.92,
+    "text": "that was no smarter than your average team of researchers"
+  },
+  {
+    "startTime": 459.92,
+    "endTime": 462.24,
+    "text": "at Stanford or MIT."
+  },
+  {
+    "startTime": 462.24,
+    "endTime": 465.24,
+    "text": "Well, electronic circuits function about a million times faster"
+  },
+  {
+    "startTime": 465.24,
+    "endTime": 466.52,
+    "text": "than biochemical ones,"
+  },
+  {
+    "startTime": 466.52,
+    "endTime": 469.68,
+    "text": "so this machine should think about a million times faster"
+  },
+  {
+    "startTime": 469.68,
+    "endTime": 471.52,
+    "text": "than the minds that built it."
+  },
+  {
+    "startTime": 471.52,
+    "endTime": 473.2,
+    "text": "So you set it running for a week,"
+  },
+  {
+    "startTime": 473.2,
+    "endTime": 478.4,
+    "text": "and it will perform 20,000 years of human-level intellectual work,"
+  },
+  {
+    "startTime": 478.4,
+    "endTime": 481.64,
+    "text": "week after week after week."
+  },
+  {
+    "startTime": 481.64,
+    "endTime": 484.76,
+    "text": "How could we even understand, much less constrain,"
+  },
+  {
+    "startTime": 484.76,
+    "endTime": 488.84,
+    "text": "a mind making this sort of progress?"
+  },
+  {
+    "startTime": 488.84,
+    "endTime": 491.0,
+    "text": "The other thing that's worrying, frankly,"
+  },
+  {
+    "startTime": 491.0,
+    "endTime": 496.0,
+    "text": "is that, imagine the best case scenario."
+  },
+  {
+    "startTime": 496.0,
+    "endTime": 500.2,
+    "text": "So imagine we hit upon a design of superintelligent AI"
+  },
+  {
+    "startTime": 500.2,
+    "endTime": 501.59999999999997,
+    "text": "that has no safety concerns."
+  },
+  {
+    "startTime": 501.6,
+    "endTime": 504.88,
+    "text": "We have the perfect design the first time around."
+  },
+  {
+    "startTime": 504.88,
+    "endTime": 507.12,
+    "text": "It's as though we've been handed an oracle"
+  },
+  {
+    "startTime": 507.12,
+    "endTime": 509.16,
+    "text": "that behaves exactly as intended."
+  },
+  {
+    "startTime": 509.16,
+    "endTime": 513.6800000000001,
+    "text": "Well, this machine would be the perfect labor-saving device."
+  },
+  {
+    "startTime": 513.68,
+    "endTime": 516.1329999999999,
+    "text": "It can design the machine that can build the machine"
+  },
+  {
+    "startTime": 516.133,
+    "endTime": 517.9200000000001,
+    "text": "that can do any physical work,"
+  },
+  {
+    "startTime": 517.92,
+    "endTime": 519.4,
+    "text": "powered by sunlight,"
+  },
+  {
+    "startTime": 519.4,
+    "endTime": 522.12,
+    "text": "more or less for the cost of raw materials."
+  },
+  {
+    "startTime": 522.12,
+    "endTime": 525.4,
+    "text": "So we're talking about the end of human drudgery."
+  },
+  {
+    "startTime": 525.4,
+    "endTime": 529.1999999999999,
+    "text": "We're also talking about the end of most intellectual work."
+  },
+  {
+    "startTime": 529.2,
+    "endTime": 532.2800000000001,
+    "text": "So what would apes like ourselves do in this circumstance?"
+  },
+  {
+    "startTime": 532.28,
+    "endTime": 537.8399999999999,
+    "text": "Well, we'd be free to play Frisbee and give each other massages."
+  },
+  {
+    "startTime": 537.84,
+    "endTime": 540.72,
+    "text": "Add some LSD and some questionable wardrobe choices,"
+  },
+  {
+    "startTime": 540.72,
+    "endTime": 542.9200000000001,
+    "text": "and the whole world could be like Burning Man."
+  },
+  {
+    "startTime": 542.92,
+    "endTime": 546.3199999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 546.32,
+    "endTime": 549.2800000000001,
+    "text": "Now, that might sound pretty good,"
+  },
+  {
+    "startTime": 549.28,
+    "endTime": 551.68,
+    "text": "but ask yourself what would happen"
+  },
+  {
+    "startTime": 551.68,
+    "endTime": 554.4399999999999,
+    "text": "under our current economic and political order?"
+  },
+  {
+    "startTime": 554.44,
+    "endTime": 556.8800000000001,
+    "text": "It seems likely that we would witness"
+  },
+  {
+    "startTime": 556.88,
+    "endTime": 561.04,
+    "text": "a level of wealth inequality and unemployment"
+  },
+  {
+    "startTime": 561.04,
+    "endTime": 562.56,
+    "text": "that we have never seen before."
+  },
+  {
+    "startTime": 562.56,
+    "endTime": 565.1999999999999,
+    "text": "Absent a willingness to immediately put this new wealth"
+  },
+  {
+    "startTime": 565.2,
+    "endTime": 567.6400000000001,
+    "text": "to the service of all humanity,"
+  },
+  {
+    "startTime": 567.64,
+    "endTime": 571.28,
+    "text": "a few trillionaires could grace the covers of our business magazines"
+  },
+  {
+    "startTime": 571.28,
+    "endTime": 574.3199999999999,
+    "text": "while the rest of the world would be free to starve."
+  },
+  {
+    "startTime": 574.32,
+    "endTime": 576.6400000000001,
+    "text": "And what would the Russians or the Chinese do"
+  },
+  {
+    "startTime": 576.64,
+    "endTime": 579.28,
+    "text": "if they heard that some company in Silicon Valley"
+  },
+  {
+    "startTime": 579.28,
+    "endTime": 582.04,
+    "text": "was about to deploy a superintelligent AI?"
+  },
+  {
+    "startTime": 582.04,
+    "endTime": 584.92,
+    "text": "This machine would be capable of waging war,"
+  },
+  {
+    "startTime": 584.92,
+    "endTime": 587.16,
+    "text": "whether terrestrial or cyber,"
+  },
+  {
+    "startTime": 587.16,
+    "endTime": 590.12,
+    "text": "with unprecedented power."
+  },
+  {
+    "startTime": 590.12,
+    "endTime": 592.0,
+    "text": "This is a winner-take-all scenario."
+  },
+  {
+    "startTime": 592.0,
+    "endTime": 595.16,
+    "text": "To be six months ahead of the competition here"
+  },
+  {
+    "startTime": 595.16,
+    "endTime": 597.9599999999999,
+    "text": "is to be 500,000 years ahead,"
+  },
+  {
+    "startTime": 597.96,
+    "endTime": 599.48,
+    "text": "at a minimum."
+  },
+  {
+    "startTime": 599.48,
+    "endTime": 604.24,
+    "text": "So it seems that even mere rumors of this kind of breakthrough"
+  },
+  {
+    "startTime": 604.24,
+    "endTime": 606.64,
+    "text": "could cause our species to go berserk."
+  },
+  {
+    "startTime": 606.64,
+    "endTime": 609.56,
+    "text": "Now, one of the most frightening things,"
+  },
+  {
+    "startTime": 609.56,
+    "endTime": 612.3599999999999,
+    "text": "in my view, at this moment,"
+  },
+  {
+    "startTime": 612.36,
+    "endTime": 616.6800000000001,
+    "text": "are the kinds of things that AI researchers say"
+  },
+  {
+    "startTime": 616.68,
+    "endTime": 619.0,
+    "text": "when they want to be reassuring."
+  },
+  {
+    "startTime": 619.0,
+    "endTime": 622.48,
+    "text": "And the most common reason we're told not to worry is time."
+  },
+  {
+    "startTime": 622.48,
+    "endTime": 624.5600000000001,
+    "text": "This is all a long way off, don't you know."
+  },
+  {
+    "startTime": 624.56,
+    "endTime": 627.7199999999999,
+    "text": "This is probably 50 or 100 years away."
+  },
+  {
+    "startTime": 627.72,
+    "endTime": 629.0,
+    "text": "One researcher has said,"
+  },
+  {
+    "startTime": 629.0,
+    "endTime": 630.6,
+    "text": "\"Worrying about AI safety"
+  },
+  {
+    "startTime": 630.6,
+    "endTime": 634.116,
+    "text": "is like worrying about overpopulation on Mars.\""
+  },
+  {
+    "startTime": 634.116,
+    "endTime": 635.76,
+    "text": "This is the Silicon Valley version"
+  },
+  {
+    "startTime": 635.76,
+    "endTime": 638.16,
+    "text": "of \"don't worry your pretty little head about it.\""
+  },
+  {
+    "startTime": 638.16,
+    "endTime": 639.52,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 639.52,
+    "endTime": 641.4399999999999,
+    "text": "No one seems to notice"
+  },
+  {
+    "startTime": 641.44,
+    "endTime": 644.08,
+    "text": "that referencing the time horizon"
+  },
+  {
+    "startTime": 644.08,
+    "endTime": 646.6800000000001,
+    "text": "is a total non sequitur."
+  },
+  {
+    "startTime": 646.68,
+    "endTime": 649.9599999999999,
+    "text": "If intelligence is just a matter of information processing,"
+  },
+  {
+    "startTime": 649.96,
+    "endTime": 652.64,
+    "text": "and we continue to improve our machines,"
+  },
+  {
+    "startTime": 652.64,
+    "endTime": 656.3199999999999,
+    "text": "we will produce some form of superintelligence."
+  },
+  {
+    "startTime": 656.32,
+    "endTime": 660.0,
+    "text": "And we have no idea how long it will take us"
+  },
+  {
+    "startTime": 660.0,
+    "endTime": 664.2,
+    "text": "to create the conditions to do that safely."
+  },
+  {
+    "startTime": 664.2,
+    "endTime": 665.5200000000001,
+    "text": "Let me say that again."
+  },
+  {
+    "startTime": 665.52,
+    "endTime": 669.36,
+    "text": "We have no idea how long it will take us"
+  },
+  {
+    "startTime": 669.36,
+    "endTime": 672.92,
+    "text": "to create the conditions to do that safely."
+  },
+  {
+    "startTime": 672.92,
+    "endTime": 676.4,
+    "text": "And if you haven't noticed, 50 years is not what it used to be."
+  },
+  {
+    "startTime": 676.4,
+    "endTime": 678.88,
+    "text": "This is 50 years in months."
+  },
+  {
+    "startTime": 678.88,
+    "endTime": 681.4399999999999,
+    "text": "This is how long we've had the iPhone."
+  },
+  {
+    "startTime": 681.44,
+    "endTime": 684.6800000000001,
+    "text": "This is how long \"The Simpsons\" has been on television."
+  },
+  {
+    "startTime": 684.68,
+    "endTime": 687.0799999999999,
+    "text": "Fifty years is not that much time"
+  },
+  {
+    "startTime": 687.08,
+    "endTime": 691.64,
+    "text": "to meet one of the greatest challenges our species will ever face."
+  },
+  {
+    "startTime": 691.64,
+    "endTime": 695.68,
+    "text": "Once again, we seem to be failing to have an appropriate emotional response"
+  },
+  {
+    "startTime": 695.68,
+    "endTime": 698.4,
+    "text": "to what we have every reason to believe is coming."
+  },
+  {
+    "startTime": 698.4,
+    "endTime": 702.4,
+    "text": "The computer scientist Stuart Russell has a nice analogy here."
+  },
+  {
+    "startTime": 702.4,
+    "endTime": 707.3199999999999,
+    "text": "He said, imagine that we received a message from an alien civilization,"
+  },
+  {
+    "startTime": 707.32,
+    "endTime": 709.0400000000001,
+    "text": "which read:"
+  },
+  {
+    "startTime": 709.04,
+    "endTime": 710.5999999999999,
+    "text": "\"People of Earth,"
+  },
+  {
+    "startTime": 710.6,
+    "endTime": 713.8000000000001,
+    "text": "we will arrive on your planet in 50 years."
+  },
+  {
+    "startTime": 713.8,
+    "endTime": 715.4,
+    "text": "Get ready.\""
+  },
+  {
+    "startTime": 715.4,
+    "endTime": 719.68,
+    "text": "And now we're just counting down the months until the mothership lands?"
+  },
+  {
+    "startTime": 719.68,
+    "endTime": 724.68,
+    "text": "We would feel a little more urgency than we do."
+  },
+  {
+    "startTime": 724.68,
+    "endTime": 726.56,
+    "text": "Another reason we're told not to worry"
+  },
+  {
+    "startTime": 726.56,
+    "endTime": 729.5999999999999,
+    "text": "is that these machines can't help but share our values"
+  },
+  {
+    "startTime": 729.6,
+    "endTime": 732.24,
+    "text": "because they will be literally extensions of ourselves."
+  },
+  {
+    "startTime": 732.24,
+    "endTime": 734.08,
+    "text": "They'll be grafted onto our brains,"
+  },
+  {
+    "startTime": 734.08,
+    "endTime": 737.12,
+    "text": "and we'll essentially become their limbic systems."
+  },
+  {
+    "startTime": 737.12,
+    "endTime": 738.5600000000001,
+    "text": "Now take a moment to consider"
+  },
+  {
+    "startTime": 738.56,
+    "endTime": 741.76,
+    "text": "that the safest and only prudent path forward,"
+  },
+  {
+    "startTime": 741.76,
+    "endTime": 743.12,
+    "text": "recommended,"
+  },
+  {
+    "startTime": 743.12,
+    "endTime": 746.6,
+    "text": "is to implant this technology directly into our brains."
+  },
+  {
+    "startTime": 746.6,
+    "endTime": 750.0,
+    "text": "Now, this may in fact be the safest and only prudent path forward,"
+  },
+  {
+    "startTime": 750.0,
+    "endTime": 753.08,
+    "text": "but usually one's safety concerns about a technology"
+  },
+  {
+    "startTime": 753.08,
+    "endTime": 756.76,
+    "text": "have to be pretty much worked out before you stick it inside your head."
+  },
+  {
+    "startTime": 756.76,
+    "endTime": 758.8,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 758.8,
+    "endTime": 764.16,
+    "text": "The deeper problem is that building superintelligent AI on its own"
+  },
+  {
+    "startTime": 764.16,
+    "endTime": 765.92,
+    "text": "seems likely to be easier"
+  },
+  {
+    "startTime": 765.92,
+    "endTime": 767.8,
+    "text": "than building superintelligent AI"
+  },
+  {
+    "startTime": 767.8,
+    "endTime": 769.5999999999999,
+    "text": "and having the completed neuroscience"
+  },
+  {
+    "startTime": 769.6,
+    "endTime": 772.8000000000001,
+    "text": "that allows us to seamlessly integrate our minds with it."
+  },
+  {
+    "startTime": 772.8,
+    "endTime": 776.0,
+    "text": "And given that the companies and governments doing this work"
+  },
+  {
+    "startTime": 776.0,
+    "endTime": 779.68,
+    "text": "are likely to perceive themselves as being in a race against all others,"
+  },
+  {
+    "startTime": 779.68,
+    "endTime": 782.9599999999999,
+    "text": "given that to win this race is to win the world,"
+  },
+  {
+    "startTime": 782.96,
+    "endTime": 785.44,
+    "text": "provided you don't destroy it in the next moment,"
+  },
+  {
+    "startTime": 785.44,
+    "endTime": 788.08,
+    "text": "then it seems likely that whatever is easier to do"
+  },
+  {
+    "startTime": 788.08,
+    "endTime": 790.5600000000001,
+    "text": "will get done first."
+  },
+  {
+    "startTime": 790.56,
+    "endTime": 793.4399999999999,
+    "text": "Now, unfortunately, I don't have a solution to this problem,"
+  },
+  {
+    "startTime": 793.44,
+    "endTime": 796.08,
+    "text": "apart from recommending that more of us think about it."
+  },
+  {
+    "startTime": 796.08,
+    "endTime": 798.48,
+    "text": "I think we need something like a Manhattan Project"
+  },
+  {
+    "startTime": 798.48,
+    "endTime": 800.52,
+    "text": "on the topic of artificial intelligence."
+  },
+  {
+    "startTime": 800.52,
+    "endTime": 803.28,
+    "text": "Not to build it, because I think we'll inevitably do that,"
+  },
+  {
+    "startTime": 803.28,
+    "endTime": 806.64,
+    "text": "but to understand how to avoid an arms race"
+  },
+  {
+    "startTime": 806.64,
+    "endTime": 810.16,
+    "text": "and to build it in a way that is aligned with our interests."
+  },
+  {
+    "startTime": 810.16,
+    "endTime": 812.3199999999999,
+    "text": "When you're talking about superintelligent AI"
+  },
+  {
+    "startTime": 812.32,
+    "endTime": 814.6,
+    "text": "that can make changes to itself,"
+  },
+  {
+    "startTime": 814.6,
+    "endTime": 819.24,
+    "text": "it seems that we only have one chance to get the initial conditions right,"
+  },
+  {
+    "startTime": 819.24,
+    "endTime": 821.32,
+    "text": "and even then we will need to absorb"
+  },
+  {
+    "startTime": 821.32,
+    "endTime": 825.7600000000001,
+    "text": "the economic and political consequences of getting them right."
+  },
+  {
+    "startTime": 825.76,
+    "endTime": 827.84,
+    "text": "But the moment we admit"
+  },
+  {
+    "startTime": 827.84,
+    "endTime": 832.72,
+    "text": "that information processing is the source of intelligence,"
+  },
+  {
+    "startTime": 832.72,
+    "endTime": 838.36,
+    "text": "that some appropriate computational system is what the basis of intelligence is,"
+  },
+  {
+    "startTime": 838.36,
+    "endTime": 843.28,
+    "text": "and we admit that we will improve these systems continuously,"
+  },
+  {
+    "startTime": 843.28,
+    "endTime": 847.76,
+    "text": "and we admit that the horizon of cognition very likely far exceeds"
+  },
+  {
+    "startTime": 847.76,
+    "endTime": 850.12,
+    "text": "what we currently know,"
+  },
+  {
+    "startTime": 850.12,
+    "endTime": 851.36,
+    "text": "then we have to admit"
+  },
+  {
+    "startTime": 851.36,
+    "endTime": 855.4,
+    "text": "that we are in the process of building some sort of god."
+  },
+  {
+    "startTime": 855.4,
+    "endTime": 857.0,
+    "text": "Now would be a good time"
+  },
+  {
+    "startTime": 857.0,
+    "endTime": 860.12,
+    "text": "to make sure it's a god we can live with."
+  },
+  {
+    "startTime": 860.12,
+    "endTime": 861.68,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 861.68,
+    "endTime": 871.68,
+    "text": "(Applause)"
+  }
+]
