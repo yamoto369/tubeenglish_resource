@@ -1,0 +1,442 @@
+[
+  {
+    "startTime": 0.65,
+    "endTime": 1.56,
+    "text": "In this video"
+  },
+  {
+    "startTime": 1.56,
+    "endTime": 4.24,
+    "text": "we demonstrate a lightweight VLC system"
+  },
+  {
+    "startTime": 4.24,
+    "endTime": 7.7,
+    "text": "and it's application in indoor positioning"
+  },
+  {
+    "startTime": 7.7,
+    "endTime": 13.219999999999999,
+    "text": "More details can be found in our Mobisys 2015 paper"
+  },
+  {
+    "startTime": 13.22,
+    "endTime": 15.280000000000001,
+    "text": "We used three demo scenarios"
+  },
+  {
+    "startTime": 15.28,
+    "endTime": 22.6,
+    "text": "to explain our design motivation and innovation"
+  },
+  {
+    "startTime": 22.6,
+    "endTime": 26.020000000000003,
+    "text": "Existing schemes on establishing communication"
+  },
+  {
+    "startTime": 26.02,
+    "endTime": 28.52,
+    "text": "between smart devices and lighting lamps"
+  },
+  {
+    "startTime": 28.52,
+    "endTime": 31.8,
+    "text": "mostly relying on modulating light intensity"
+  },
+  {
+    "startTime": 31.8,
+    "endTime": 33.1,
+    "text": "Those schemes"
+  },
+  {
+    "startTime": 33.1,
+    "endTime": 35.120000000000005,
+    "text": "requires increasing the pulse rate"
+  },
+  {
+    "startTime": 35.12,
+    "endTime": 38.8,
+    "text": "above 1000Hz to avoid flickering"
+  },
+  {
+    "startTime": 38.8,
+    "endTime": 40.08,
+    "text": "The high pulse rate"
+  },
+  {
+    "startTime": 40.08,
+    "endTime": 40.96,
+    "text": "however"
+  },
+  {
+    "startTime": 40.96,
+    "endTime": 42.800000000000004,
+    "text": "adds high processing overhead"
+  },
+  {
+    "startTime": 42.8,
+    "endTime": 46.32,
+    "text": "for resource constrained devices"
+  },
+  {
+    "startTime": 46.32,
+    "endTime": 48.96,
+    "text": "Instead of modulating the light intensity"
+  },
+  {
+    "startTime": 48.96,
+    "endTime": 52.58,
+    "text": "we come out the idea to control the polarization of light"
+  },
+  {
+    "startTime": 52.58,
+    "endTime": 55.36,
+    "text": "which human eyes can not perceive"
+  },
+  {
+    "startTime": 55.36,
+    "endTime": 61.24,
+    "text": "We borrow the liquid crystal and polarizing film from the LCD technologies"
+  },
+  {
+    "startTime": 61.24,
+    "endTime": 67.96000000000001,
+    "text": "with those technologies we can control the polarization of light by applying different voltages"
+  },
+  {
+    "startTime": 67.96,
+    "endTime": 73.69999999999999,
+    "text": "In LCD, the back light is first polarized by a polarizing film"
+  },
+  {
+    "startTime": 73.7,
+    "endTime": 76.2,
+    "text": "When the voltage of the liquid crystal is low"
+  },
+  {
+    "startTime": 76.2,
+    "endTime": 82.68,
+    "text": "the structure of liquid crystal can twist the polarization of the polarized light by 90 degree"
+  },
+  {
+    "startTime": 82.68,
+    "endTime": 88.52000000000001,
+    "text": "so that the light will pass the second polarizing film and LCD illustrates bright"
+  },
+  {
+    "startTime": 88.52,
+    "endTime": 91.17,
+    "text": "When the voltage of the Liquid Crystal is high"
+  },
+  {
+    "startTime": 91.17,
+    "endTime": 95.43,
+    "text": "the liquid crystal will not change the lights' polarization properties"
+  },
+  {
+    "startTime": 95.43,
+    "endTime": 99.38000000000001,
+    "text": "so that the light will be blocked by the second polarizing film"
+  },
+  {
+    "startTime": 99.38,
+    "endTime": 102.61,
+    "text": "and LCD illustrates black at this time"
+  },
+  {
+    "startTime": 102.61,
+    "endTime": 107.24,
+    "text": "Our basic idea is very similar to the LCD"
+  },
+  {
+    "startTime": 107.24,
+    "endTime": 111.3,
+    "text": "Since human eyes can not perceive polarization changes"
+  },
+  {
+    "startTime": 111.3,
+    "endTime": 115.36,
+    "text": "we move the second polarizing film to receiver side"
+  },
+  {
+    "startTime": 115.36,
+    "endTime": 123.369,
+    "text": "In this way the modulation can only be detected by equipped receivers"
+  },
+  {
+    "startTime": 123.369,
+    "endTime": 125.14,
+    "text": "In the prototype system"
+  },
+  {
+    "startTime": 125.14,
+    "endTime": 128.53,
+    "text": "the VLC transmitter consists of a polarizing film"
+  },
+  {
+    "startTime": 128.53,
+    "endTime": 133.72,
+    "text": "a liquid crystal layer, a disperser and a control board"
+  },
+  {
+    "startTime": 133.72,
+    "endTime": 136.58,
+    "text": "The two electrodes are connected to the control board"
+  },
+  {
+    "startTime": 136.58,
+    "endTime": 142.29000000000002,
+    "text": "which is continually changing the voltage of the liquid crystal layer"
+  },
+  {
+    "startTime": 142.29,
+    "endTime": 145.81,
+    "text": "For convenience we used LED lamps in this demonstration"
+  },
+  {
+    "startTime": 145.81,
+    "endTime": 150.06,
+    "text": "Note that any other light such as florescent light"
+  },
+  {
+    "startTime": 150.06,
+    "endTime": 154.46,
+    "text": "solar light can also be used as light source"
+  },
+  {
+    "startTime": 154.46,
+    "endTime": 157.81,
+    "text": "The transmitter works by simply attaching to the lamp"
+  },
+  {
+    "startTime": 157.81,
+    "endTime": 160.16,
+    "text": "and facing to the light source"
+  },
+  {
+    "startTime": 160.16,
+    "endTime": 161.32,
+    "text": "As we can see"
+  },
+  {
+    "startTime": 161.32,
+    "endTime": 165.57999999999998,
+    "text": "the modulated light has no difference from normal light"
+  },
+  {
+    "startTime": 165.58,
+    "endTime": 168.61,
+    "text": "However if we view through a polarizing film"
+  },
+  {
+    "startTime": 168.61,
+    "endTime": 175.70000000000002,
+    "text": "it can be see that colors change significantly because of the modulated light"
+  },
+  {
+    "startTime": 175.7,
+    "endTime": 177.14,
+    "text": "Our VLC design"
+  },
+  {
+    "startTime": 177.14,
+    "endTime": 180.27999999999997,
+    "text": "can benefit a vast range of smart devices"
+  },
+  {
+    "startTime": 180.28,
+    "endTime": 183.92,
+    "text": "including those with limited computational resources"
+  },
+  {
+    "startTime": 183.92,
+    "endTime": 186.32,
+    "text": "we have verified our system in wearables"
+  },
+  {
+    "startTime": 186.32,
+    "endTime": 188.42,
+    "text": "such as Google glass"
+  },
+  {
+    "startTime": 188.42,
+    "endTime": 190.45999999999998,
+    "text": "but for better illustration"
+  },
+  {
+    "startTime": 190.46,
+    "endTime": 195.92000000000002,
+    "text": "we use the Samsung Galaxy s2 smartphone in this video"
+  },
+  {
+    "startTime": 195.92,
+    "endTime": 198.7,
+    "text": "This is the default camera application"
+  },
+  {
+    "startTime": 198.7,
+    "endTime": 200.26899999999998,
+    "text": "Similar as human eyes"
+  },
+  {
+    "startTime": 200.269,
+    "endTime": 203.08,
+    "text": "the camera requires a polarizing film"
+  },
+  {
+    "startTime": 203.08,
+    "endTime": 205.64000000000001,
+    "text": "to reveal the modulated signal"
+  },
+  {
+    "startTime": 205.64,
+    "endTime": 208.85899999999998,
+    "text": "After we attached the polarizing film in front of the camera"
+  },
+  {
+    "startTime": 208.859,
+    "endTime": 214.73000000000002,
+    "text": "we can use our application to decode VLC messages"
+  },
+  {
+    "startTime": 214.73,
+    "endTime": 216.5,
+    "text": "The VLC transmitter"
+  },
+  {
+    "startTime": 216.5,
+    "endTime": 218.7,
+    "text": "is currently transmitting word “Hello”"
+  },
+  {
+    "startTime": 218.7,
+    "endTime": 221.76,
+    "text": "repeatedly in baud rate of 14 Hz"
+  },
+  {
+    "startTime": 221.76,
+    "endTime": 224.44,
+    "text": "As each character is encoded in 8 bits"
+  },
+  {
+    "startTime": 224.44,
+    "endTime": 226.57999999999998,
+    "text": "and occupies one packet"
+  },
+  {
+    "startTime": 226.58,
+    "endTime": 232.78,
+    "text": "it take about 1 second to receive one character"
+  },
+  {
+    "startTime": 232.78,
+    "endTime": 235.76,
+    "text": "The client perform localization algorithm"
+  },
+  {
+    "startTime": 235.76,
+    "endTime": 238.92,
+    "text": "to determine its location in 3D space"
+  },
+  {
+    "startTime": 238.92,
+    "endTime": 240.6,
+    "text": "Our VLC design"
+  },
+  {
+    "startTime": 240.6,
+    "endTime": 244.96,
+    "text": "can be seamlessly applied in indoor localization application"
+  },
+  {
+    "startTime": 244.96,
+    "endTime": 250.46,
+    "text": "When broadcasting messages of a VLC transmitter represent the transmitter’s location"
+  },
+  {
+    "startTime": 250.46,
+    "endTime": 252.54000000000002,
+    "text": "mobile client can localize itself"
+  },
+  {
+    "startTime": 252.54,
+    "endTime": 255.41,
+    "text": "through comparing transmitters locations in the image"
+  },
+  {
+    "startTime": 255.41,
+    "endTime": 259.1,
+    "text": "and the corresponding locations in real coordinates"
+  },
+  {
+    "startTime": 259.1,
+    "endTime": 260.56,
+    "text": "To demonstrate this"
+  },
+  {
+    "startTime": 260.56,
+    "endTime": 263.66,
+    "text": "four transmitters are deployed as left"
+  },
+  {
+    "startTime": 263.66,
+    "endTime": 266.04,
+    "text": "They are broadcasting the assigned IDs"
+  },
+  {
+    "startTime": 266.04,
+    "endTime": 268.78000000000003,
+    "text": "which can be mapped to real locations"
+  },
+  {
+    "startTime": 268.78,
+    "endTime": 270.34,
+    "text": "Our receiving client"
+  },
+  {
+    "startTime": 270.34,
+    "endTime": 271.53999999999996,
+    "text": "due to mobility"
+  },
+  {
+    "startTime": 271.54,
+    "endTime": 273.96000000000004,
+    "text": "has opportunity to receive signals"
+  },
+  {
+    "startTime": 273.96,
+    "endTime": 277.09999999999997,
+    "text": "from one or multiple transmitters"
+  },
+  {
+    "startTime": 277.1,
+    "endTime": 282.48,
+    "text": "As expected, it can successfully decode them in all the scenarios"
+  },
+  {
+    "startTime": 282.48,
+    "endTime": 285.26,
+    "text": "Once it successfully decoded messages"
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 288.7,
+    "text": "from three or more transmitters in the same image"
+  },
+  {
+    "startTime": 288.7,
+    "endTime": 295.56899999999996,
+    "text": "the client perform localization algorithm to determine its location in 3D space."
+  },
+  {
+    "startTime": 295.569,
+    "endTime": 297.98,
+    "text": "We appreciate your time for viewing our video"
+  },
+  {
+    "startTime": 297.98,
+    "endTime": 307.98,
+    "text": "Thank you"
+  }
+]
