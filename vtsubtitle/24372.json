@@ -1,0 +1,217 @@
+[
+  {
+    "startTime": 4.799,
+    "endTime": 8.8,
+    "text": "You probably know the drill: You're handed an exam, and you're told you need to fill out the bubbles completely,"
+  },
+  {
+    "startTime": 8.8,
+    "endTime": 11.569,
+    "text": "and then reminded that -- for reasons that no one ever explains"
+  },
+  {
+    "startTime": 11.669,
+    "endTime": 13.408000000000001,
+    "text": "-- you can only use a number 2 pencil!"
+  },
+  {
+    "startTime": 13.629,
+    "endTime": 17.6,
+    "text": "Now, unless you're an artist, you've probably never even seen a pencil that's not number 2,"
+  },
+  {
+    "startTime": 17.847,
+    "endTime": 20.232,
+    "text": "also known as an HB pencil outside the U.S."
+  },
+  {
+    "startTime": 20.432,
+    "endTime": 24.857,
+    "text": "The thing is, if you used any other kind of pencil when you took an automatically-scored test,"
+  },
+  {
+    "startTime": 24.957,
+    "endTime": 25.900000000000002,
+    "text": "you'd probably be fine."
+  },
+  {
+    "startTime": 26.123,
+    "endTime": 29.700000000000003,
+    "text": "However there are reasons that test instructors still tell you to stick to number 2."
+  },
+  {
+    "startTime": 29.729,
+    "endTime": 32.2,
+    "text": "And they have a lot to do with how machines score your tests --"
+  },
+  {
+    "startTime": 32.2,
+    "endTime": 33.5,
+    "text": "or at least, how they used to."
+  },
+  {
+    "startTime": 33.639,
+    "endTime": 37.400000000000006,
+    "text": "In 1931, a high school physics teacher named Reynold Johnson was grading exams"
+  },
+  {
+    "startTime": 37.5,
+    "endTime": 42.1,
+    "text": "when he wondered if there might be a way to score them without actually having to go through every single answer by hand."
+  },
+  {
+    "startTime": 42.379,
+    "endTime": 45.86,
+    "text": "He knew that graphite, the writing material in pencils, was electrically conductive."
+  },
+  {
+    "startTime": 45.878,
+    "endTime": 47.6,
+    "text": "It's made of flat sheets of carbon,"
+  },
+  {
+    "startTime": 47.6,
+    "endTime": 50.83,
+    "text": "and its outer electrons are relatively free to move around within the material."
+  },
+  {
+    "startTime": 50.903,
+    "endTime": 56.1,
+    "text": "So Johnson devised a machine with many small electrical circuits that would pass over an answer sheet."
+  },
+  {
+    "startTime": 56.2,
+    "endTime": 60.1,
+    "text": "If there was a pencil mark on the sheet, it would conduct electricity through one of the circuits,"
+  },
+  {
+    "startTime": 60.1,
+    "endTime": 61.93,
+    "text": "and the machine could record it as an answer."
+  },
+  {
+    "startTime": 62.003,
+    "endTime": 65.8,
+    "text": "Eventually, he sold the idea to IBM, which produced the first mark-sensing machine."
+  },
+  {
+    "startTime": 65.9,
+    "endTime": 71.9,
+    "text": "But the number 2 thing didn't become an issue until the next generation of machines were introduced in the 1960s and 70s."
+  },
+  {
+    "startTime": 72.027,
+    "endTime": 74.9,
+    "text": "Those machines had light-sensing devices called phototubes,"
+  },
+  {
+    "startTime": 74.9,
+    "endTime": 78.5,
+    "text": "and if they did not detect light in a certain spot, they recorded it as an answer."
+  },
+  {
+    "startTime": 78.608,
+    "endTime": 82.60000000000001,
+    "text": "That made graphite especially useful, because it's better at blocking light than many inks."
+  },
+  {
+    "startTime": 82.7,
+    "endTime": 87.286,
+    "text": "Graphite reflects most light -- that's why pencil marks are so shiny -- and absorbs the rest,"
+  },
+  {
+    "startTime": 87.286,
+    "endTime": 88.0,
+    "text": "which is why it's black."
+  },
+  {
+    "startTime": 88.1,
+    "endTime": 92.064,
+    "text": "But for a long time, these optical mark-sensing machines were very picky."
+  },
+  {
+    "startTime": 92.064,
+    "endTime": 93.90499999999999,
+    "text": "And that's where the different grades of pencil came in."
+  },
+  {
+    "startTime": 94.005,
+    "endTime": 99.99,
+    "text": "The graphite in pencils is held together by clay, so manufacturers can control how soft or hard it is, and also how dark it is."
+  },
+  {
+    "startTime": 100.002,
+    "endTime": 102.015,
+    "text": "The softer the graphite, the darker the pencil's mark."
+  },
+  {
+    "startTime": 102.233,
+    "endTime": 103.672,
+    "text": "Pencils are labeled accordingly."
+  },
+  {
+    "startTime": 103.772,
+    "endTime": 105.7,
+    "text": "In the United States, those labels are numbers."
+  },
+  {
+    "startTime": 105.8,
+    "endTime": 109.6,
+    "text": "International manufacturers use a different system, with HB corresponding to number 2."
+  },
+  {
+    "startTime": 109.6,
+    "endTime": 113.934,
+    "text": "Number 2 pencils make marks that are just dark enough to be sensed by the machine,"
+  },
+  {
+    "startTime": 114.034,
+    "endTime": 117.04700000000001,
+    "text": "but also light enough to be erased without leaving a readable mark."
+  },
+  {
+    "startTime": 117.047,
+    "endTime": 122.0,
+    "text": "These days, scoring machines use much more advanced sensors that can detect almost any sort of marks you make,"
+  },
+  {
+    "startTime": 122.0,
+    "endTime": 123.57,
+    "text": "as long as they're in the bubbles."
+  },
+  {
+    "startTime": 123.579,
+    "endTime": 126.437,
+    "text": "So you could probably take your next exam with any kind of pencil you wanted."
+  },
+  {
+    "startTime": 126.6,
+    "endTime": 129.80599999999998,
+    "text": "But your SATs probably aren't the time to test that hypothesis."
+  },
+  {
+    "startTime": 129.906,
+    "endTime": 131.8,
+    "text": "Maybe bring a couple of number 2s just to be safe."
+  },
+  {
+    "startTime": 131.902,
+    "endTime": 134.99499999999998,
+    "text": "Thanks for asking, and thanks especially to all of our supporters on Patreon, where,"
+  },
+  {
+    "startTime": 135.013,
+    "endTime": 137.99800000000002,
+    "text": "if you support us at four dollars per month or more,"
+  },
+  {
+    "startTime": 137.998,
+    "endTime": 141.447,
+    "text": "you can submit your questions to be answered right here on SciShow Quick Questions."
+  },
+  {
+    "startTime": 141.547,
+    "endTime": 147.447,
+    "text": "And if you want to keep getting smarter with us, don't forget to go to youtube.com/scishow, and subscribe."
+  }
+]
