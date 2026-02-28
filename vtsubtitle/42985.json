@@ -1,0 +1,2242 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 18.259999999999998,
+    "text": "For the last 10 years, I've been spending my time trying to figure out"
+  },
+  {
+    "startTime": 18.26,
+    "endTime": 20.26,
+    "text": "how and why human beings"
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 23.26,
+    "text": "assemble themselves into social networks."
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 25.26,
+    "text": "And the kind of social network I'm talking about"
+  },
+  {
+    "startTime": 25.26,
+    "endTime": 27.26,
+    "text": "is not the recent online variety,"
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 29.26,
+    "text": "but rather, the kind of social networks"
+  },
+  {
+    "startTime": 29.26,
+    "endTime": 32.260000000000005,
+    "text": "that human beings have been assembling for hundreds of thousands of years,"
+  },
+  {
+    "startTime": 32.26,
+    "endTime": 35.26,
+    "text": "ever since we emerged from the African savannah."
+  },
+  {
+    "startTime": 35.26,
+    "endTime": 37.26,
+    "text": "So, I form friendships and co-worker"
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 40.26,
+    "text": "and sibling and relative relationships with other people"
+  },
+  {
+    "startTime": 40.26,
+    "endTime": 42.26,
+    "text": "who in turn have similar relationships with other people."
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 45.26,
+    "text": "And this spreads on out endlessly into a distance."
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 47.26,
+    "text": "And you get a network that looks like this."
+  },
+  {
+    "startTime": 47.26,
+    "endTime": 49.26,
+    "text": "Every dot is a person."
+  },
+  {
+    "startTime": 49.26,
+    "endTime": 51.26,
+    "text": "Every line between them is a relationship between two people --"
+  },
+  {
+    "startTime": 51.26,
+    "endTime": 53.26,
+    "text": "different kinds of relationships."
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 56.26,
+    "text": "And you can get this kind of vast fabric of humanity,"
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "in which we're all embedded."
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 61.26,
+    "text": "And my colleague, James Fowler and I have been studying for quite sometime"
+  },
+  {
+    "startTime": 61.26,
+    "endTime": 63.26,
+    "text": "what are the mathematical, social,"
+  },
+  {
+    "startTime": 63.26,
+    "endTime": 66.25999999999999,
+    "text": "biological and psychological rules"
+  },
+  {
+    "startTime": 66.26,
+    "endTime": 68.26,
+    "text": "that govern how these networks are assembled"
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 70.26,
+    "text": "and what are the similar rules"
+  },
+  {
+    "startTime": 70.26,
+    "endTime": 73.26,
+    "text": "that govern how they operate, how they affect our lives."
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 75.26,
+    "text": "But recently, we've been wondering"
+  },
+  {
+    "startTime": 75.26,
+    "endTime": 78.26,
+    "text": "whether it might be possible to take advantage of this insight,"
+  },
+  {
+    "startTime": 78.26,
+    "endTime": 80.26,
+    "text": "to actually find ways to improve the world,"
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 82.26,
+    "text": "to do something better,"
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 85.26,
+    "text": "to actually fix things, not just understand things."
+  },
+  {
+    "startTime": 85.26,
+    "endTime": 88.26,
+    "text": "So one of the first things we thought we would tackle"
+  },
+  {
+    "startTime": 88.26,
+    "endTime": 91.26,
+    "text": "would be how we go about predicting epidemics."
+  },
+  {
+    "startTime": 91.26,
+    "endTime": 93.26,
+    "text": "And the current state of the art in predicting an epidemic --"
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 96.26,
+    "text": "if you're the CDC or some other national body --"
+  },
+  {
+    "startTime": 96.26,
+    "endTime": 98.26,
+    "text": "is to sit in the middle where you are"
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 100.26,
+    "text": "and collect data"
+  },
+  {
+    "startTime": 100.26,
+    "endTime": 102.26,
+    "text": "from physicians and laboratories in the field"
+  },
+  {
+    "startTime": 102.26,
+    "endTime": 105.26,
+    "text": "that report the prevalence or the incidence of certain conditions."
+  },
+  {
+    "startTime": 105.26,
+    "endTime": 108.26,
+    "text": "So, so and so patients have been diagnosed with something,"
+  },
+  {
+    "startTime": 108.26,
+    "endTime": 110.26,
+    "text": "or other patients have been diagnosed,"
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 113.26,
+    "text": "and all these data are fed into a central repository, with some delay."
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 115.26,
+    "text": "And if everything goes smoothly,"
+  },
+  {
+    "startTime": 115.26,
+    "endTime": 117.26,
+    "text": "one to two weeks from now"
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 120.26,
+    "text": "you'll know where the epidemic was today."
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 122.26,
+    "text": "And actually, about a year or so ago,"
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "there was this promulgation"
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 127.26,
+    "text": "of the idea of Google Flu Trends, with respect to the flu,"
+  },
+  {
+    "startTime": 127.26,
+    "endTime": 130.26,
+    "text": "where by looking at people's searching behavior today,"
+  },
+  {
+    "startTime": 130.26,
+    "endTime": 132.26,
+    "text": "we could know where the flu --"
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 134.26,
+    "text": "what the status of the epidemic was today,"
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 137.26,
+    "text": "what's the prevalence of the epidemic today."
+  },
+  {
+    "startTime": 137.26,
+    "endTime": 139.26,
+    "text": "But what I'd like to show you today"
+  },
+  {
+    "startTime": 139.26,
+    "endTime": 141.26,
+    "text": "is a means by which we might get"
+  },
+  {
+    "startTime": 141.26,
+    "endTime": 144.26,
+    "text": "not just rapid warning about an epidemic,"
+  },
+  {
+    "startTime": 144.26,
+    "endTime": 146.26,
+    "text": "but also actually"
+  },
+  {
+    "startTime": 146.26,
+    "endTime": 148.26,
+    "text": "early detection of an epidemic."
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 150.26,
+    "text": "And, in fact, this idea can be used"
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 153.26,
+    "text": "not just to predict epidemics of germs,"
+  },
+  {
+    "startTime": 153.26,
+    "endTime": 157.26,
+    "text": "but also to predict epidemics of all sorts of kinds."
+  },
+  {
+    "startTime": 157.26,
+    "endTime": 160.26,
+    "text": "For example, anything that spreads by a form of social contagion"
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 162.26,
+    "text": "could be understood in this way,"
+  },
+  {
+    "startTime": 162.26,
+    "endTime": 164.26,
+    "text": "from abstract ideas on the left"
+  },
+  {
+    "startTime": 164.26,
+    "endTime": 167.26,
+    "text": "like patriotism, or altruism, or religion"
+  },
+  {
+    "startTime": 167.26,
+    "endTime": 169.26,
+    "text": "to practices"
+  },
+  {
+    "startTime": 169.26,
+    "endTime": 171.26,
+    "text": "like dieting behavior, or book purchasing,"
+  },
+  {
+    "startTime": 171.26,
+    "endTime": 174.26,
+    "text": "or drinking, or bicycle-helmet [and] other safety practices,"
+  },
+  {
+    "startTime": 174.26,
+    "endTime": 176.26,
+    "text": "or products that people might buy,"
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 178.26,
+    "text": "purchases of electronic goods,"
+  },
+  {
+    "startTime": 178.26,
+    "endTime": 181.26,
+    "text": "anything in which there's kind of an interpersonal spread."
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 183.26,
+    "text": "A kind of a diffusion of innovation"
+  },
+  {
+    "startTime": 183.26,
+    "endTime": 185.26,
+    "text": "could be understood and predicted"
+  },
+  {
+    "startTime": 185.26,
+    "endTime": 188.26,
+    "text": "by the mechanism I'm going to show you now."
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 190.26,
+    "text": "So, as all of you probably know,"
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 192.26,
+    "text": "the classic way of thinking about this"
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "is the diffusion-of-innovation,"
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 196.26,
+    "text": "or the adoption curve."
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 198.26,
+    "text": "So here on the Y-axis, we have the percent of the people affected,"
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 200.26,
+    "text": "and on the X-axis, we have time."
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 203.26,
+    "text": "And at the very beginning, not too many people are affected,"
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 205.26,
+    "text": "and you get this classic sigmoidal,"
+  },
+  {
+    "startTime": 205.26,
+    "endTime": 207.26,
+    "text": "or S-shaped, curve."
+  },
+  {
+    "startTime": 207.26,
+    "endTime": 209.26,
+    "text": "And the reason for this shape is that at the very beginning,"
+  },
+  {
+    "startTime": 209.26,
+    "endTime": 211.26,
+    "text": "let's say one or two people"
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 213.26,
+    "text": "are infected, or affected by the thing"
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 215.26,
+    "text": "and then they affect, or infect, two people,"
+  },
+  {
+    "startTime": 215.26,
+    "endTime": 218.26,
+    "text": "who in turn affect four, eight, 16 and so forth,"
+  },
+  {
+    "startTime": 218.26,
+    "endTime": 221.26,
+    "text": "and you get the epidemic growth phase of the curve."
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 223.26,
+    "text": "And eventually, you saturate the population."
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 225.26,
+    "text": "There are fewer and fewer people"
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 227.26,
+    "text": "who are still available that you might infect,"
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 229.26,
+    "text": "and then you get the plateau of the curve,"
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 232.26,
+    "text": "and you get this classic sigmoidal curve."
+  },
+  {
+    "startTime": 232.26,
+    "endTime": 234.26,
+    "text": "And this holds for germs, ideas,"
+  },
+  {
+    "startTime": 234.26,
+    "endTime": 236.26,
+    "text": "product adoption, behaviors,"
+  },
+  {
+    "startTime": 236.26,
+    "endTime": 238.26,
+    "text": "and the like."
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 241.26,
+    "text": "But things don't just diffuse in human populations at random."
+  },
+  {
+    "startTime": 241.26,
+    "endTime": 243.26,
+    "text": "They actually diffuse through networks."
+  },
+  {
+    "startTime": 243.26,
+    "endTime": 246.26,
+    "text": "Because, as I said, we live our lives in networks,"
+  },
+  {
+    "startTime": 246.26,
+    "endTime": 249.26,
+    "text": "and these networks have a particular kind of a structure."
+  },
+  {
+    "startTime": 249.26,
+    "endTime": 251.26,
+    "text": "Now if you look at a network like this --"
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 253.26,
+    "text": "this is 105 people."
+  },
+  {
+    "startTime": 253.26,
+    "endTime": 255.26,
+    "text": "And the lines represent -- the dots are the people,"
+  },
+  {
+    "startTime": 255.26,
+    "endTime": 257.26,
+    "text": "and the lines represent friendship relationships."
+  },
+  {
+    "startTime": 257.26,
+    "endTime": 259.26,
+    "text": "You might see that people occupy"
+  },
+  {
+    "startTime": 259.26,
+    "endTime": 261.26,
+    "text": "different locations within the network."
+  },
+  {
+    "startTime": 261.26,
+    "endTime": 263.26,
+    "text": "And there are different kinds of relationships between the people."
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 266.26,
+    "text": "You could have friendship relationships, sibling relationships,"
+  },
+  {
+    "startTime": 266.26,
+    "endTime": 269.26,
+    "text": "spousal relationships, co-worker relationships,"
+  },
+  {
+    "startTime": 269.26,
+    "endTime": 272.26,
+    "text": "neighbor relationships and the like."
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 274.26,
+    "text": "And different sorts of things"
+  },
+  {
+    "startTime": 274.26,
+    "endTime": 276.26,
+    "text": "spread across different sorts of ties."
+  },
+  {
+    "startTime": 276.26,
+    "endTime": 278.26,
+    "text": "For instance, sexually transmitted diseases"
+  },
+  {
+    "startTime": 278.26,
+    "endTime": 280.26,
+    "text": "will spread across sexual ties."
+  },
+  {
+    "startTime": 280.26,
+    "endTime": 282.26,
+    "text": "Or, for instance, people's smoking behavior"
+  },
+  {
+    "startTime": 282.26,
+    "endTime": 284.26,
+    "text": "might be influenced by their friends."
+  },
+  {
+    "startTime": 284.26,
+    "endTime": 286.26,
+    "text": "Or their altruistic or their charitable giving behavior"
+  },
+  {
+    "startTime": 286.26,
+    "endTime": 288.26,
+    "text": "might be influenced by their coworkers,"
+  },
+  {
+    "startTime": 288.26,
+    "endTime": 290.26,
+    "text": "or by their neighbors."
+  },
+  {
+    "startTime": 290.26,
+    "endTime": 293.26,
+    "text": "But not all positions in the network are the same."
+  },
+  {
+    "startTime": 293.26,
+    "endTime": 295.26,
+    "text": "So if you look at this, you might immediately grasp"
+  },
+  {
+    "startTime": 295.26,
+    "endTime": 298.26,
+    "text": "that different people have different numbers of connections."
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.26,
+    "text": "Some people have one connection, some have two,"
+  },
+  {
+    "startTime": 300.26,
+    "endTime": 303.26,
+    "text": "some have six, some have 10 connections."
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 305.26,
+    "text": "And this is called the \"degree\" of a node,"
+  },
+  {
+    "startTime": 305.26,
+    "endTime": 307.26,
+    "text": "or the number of connections that a node has."
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 309.26,
+    "text": "But in addition, there's something else."
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 311.26,
+    "text": "So, if you look at nodes A and B,"
+  },
+  {
+    "startTime": 311.26,
+    "endTime": 313.26,
+    "text": "they both have six connections."
+  },
+  {
+    "startTime": 313.26,
+    "endTime": 316.26,
+    "text": "But if you can see this image [of the network] from a bird's eye view,"
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 318.26,
+    "text": "you can appreciate that there's something very different"
+  },
+  {
+    "startTime": 318.26,
+    "endTime": 320.26,
+    "text": "about nodes A and B."
+  },
+  {
+    "startTime": 320.26,
+    "endTime": 323.26,
+    "text": "So, let me ask you this -- I can cultivate this intuition by asking a question --"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "who would you rather be"
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 328.26,
+    "text": "if a deadly germ was spreading through the network, A or B?"
+  },
+  {
+    "startTime": 328.26,
+    "endTime": 330.26,
+    "text": "(Audience: B.) Nicholas Christakis: B, it's obvious."
+  },
+  {
+    "startTime": 330.26,
+    "endTime": 332.26,
+    "text": "B is located on the edge of the network."
+  },
+  {
+    "startTime": 332.26,
+    "endTime": 334.26,
+    "text": "Now, who would you rather be"
+  },
+  {
+    "startTime": 334.26,
+    "endTime": 337.26,
+    "text": "if a juicy piece of gossip were spreading through the network?"
+  },
+  {
+    "startTime": 337.26,
+    "endTime": 340.26,
+    "text": "A. And you have an immediate appreciation"
+  },
+  {
+    "startTime": 340.26,
+    "endTime": 342.26,
+    "text": "that A is going to be more likely"
+  },
+  {
+    "startTime": 342.26,
+    "endTime": 345.26,
+    "text": "to get the thing that's spreading and to get it sooner"
+  },
+  {
+    "startTime": 345.26,
+    "endTime": 348.26,
+    "text": "by virtue of their structural location within the network."
+  },
+  {
+    "startTime": 348.26,
+    "endTime": 350.26,
+    "text": "A, in fact, is more central,"
+  },
+  {
+    "startTime": 350.26,
+    "endTime": 353.26,
+    "text": "and this can be formalized mathematically."
+  },
+  {
+    "startTime": 353.26,
+    "endTime": 355.26,
+    "text": "So, if we want to track something"
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 358.26,
+    "text": "that was spreading through a network,"
+  },
+  {
+    "startTime": 358.26,
+    "endTime": 360.26,
+    "text": "what we ideally would like to do is to set up sensors"
+  },
+  {
+    "startTime": 360.26,
+    "endTime": 362.26,
+    "text": "on the central individuals within the network,"
+  },
+  {
+    "startTime": 362.26,
+    "endTime": 364.26,
+    "text": "including node A,"
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 367.26,
+    "text": "monitor those people that are right there in the middle of the network,"
+  },
+  {
+    "startTime": 367.26,
+    "endTime": 369.26,
+    "text": "and somehow get an early detection"
+  },
+  {
+    "startTime": 369.26,
+    "endTime": 372.26,
+    "text": "of whatever it is that is spreading through the network."
+  },
+  {
+    "startTime": 372.26,
+    "endTime": 375.26,
+    "text": "So if you saw them contract a germ or a piece of information,"
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 377.26,
+    "text": "you would know that, soon enough,"
+  },
+  {
+    "startTime": 377.26,
+    "endTime": 379.26,
+    "text": "everybody was about to contract this germ"
+  },
+  {
+    "startTime": 379.26,
+    "endTime": 381.26,
+    "text": "or this piece of information."
+  },
+  {
+    "startTime": 381.26,
+    "endTime": 383.26,
+    "text": "And this would be much better"
+  },
+  {
+    "startTime": 383.26,
+    "endTime": 385.26,
+    "text": "than monitoring six randomly chosen people,"
+  },
+  {
+    "startTime": 385.26,
+    "endTime": 388.26,
+    "text": "without reference to the structure of the population."
+  },
+  {
+    "startTime": 388.26,
+    "endTime": 390.26,
+    "text": "And in fact, if you could do that,"
+  },
+  {
+    "startTime": 390.26,
+    "endTime": 392.26,
+    "text": "what you would see is something like this."
+  },
+  {
+    "startTime": 392.26,
+    "endTime": 395.26,
+    "text": "On the left-hand panel, again, we have the S-shaped curve of adoption."
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 397.26,
+    "text": "In the dotted red line, we show"
+  },
+  {
+    "startTime": 397.26,
+    "endTime": 399.26,
+    "text": "what the adoption would be in the random people,"
+  },
+  {
+    "startTime": 399.26,
+    "endTime": 402.26,
+    "text": "and in the left-hand line, shifted to the left,"
+  },
+  {
+    "startTime": 402.26,
+    "endTime": 404.26,
+    "text": "we show what the adoption would be"
+  },
+  {
+    "startTime": 404.26,
+    "endTime": 406.26,
+    "text": "in the central individuals within the network."
+  },
+  {
+    "startTime": 406.26,
+    "endTime": 408.26,
+    "text": "On the Y-axis is the cumulative instances of contagion,"
+  },
+  {
+    "startTime": 408.26,
+    "endTime": 410.26,
+    "text": "and on the X-axis is the time."
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 412.26,
+    "text": "And on the right-hand side, we show the same data,"
+  },
+  {
+    "startTime": 412.26,
+    "endTime": 414.26,
+    "text": "but here with daily incidence."
+  },
+  {
+    "startTime": 414.26,
+    "endTime": 416.26,
+    "text": "And what we show here is -- like, here --"
+  },
+  {
+    "startTime": 416.26,
+    "endTime": 418.26,
+    "text": "very few people are affected, more and more and more and up to here,"
+  },
+  {
+    "startTime": 418.26,
+    "endTime": 420.26,
+    "text": "and here's the peak of the epidemic."
+  },
+  {
+    "startTime": 420.26,
+    "endTime": 422.26,
+    "text": "But shifted to the left is what's occurring in the central individuals."
+  },
+  {
+    "startTime": 422.26,
+    "endTime": 425.26,
+    "text": "And this difference in time between the two"
+  },
+  {
+    "startTime": 425.26,
+    "endTime": 428.26,
+    "text": "is the early detection, the early warning we can get,"
+  },
+  {
+    "startTime": 428.26,
+    "endTime": 430.26,
+    "text": "about an impending epidemic"
+  },
+  {
+    "startTime": 430.26,
+    "endTime": 432.26,
+    "text": "in the human population."
+  },
+  {
+    "startTime": 432.26,
+    "endTime": 434.26,
+    "text": "The problem, however,"
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 436.26,
+    "text": "is that mapping human social networks"
+  },
+  {
+    "startTime": 436.26,
+    "endTime": 438.26,
+    "text": "is not always possible."
+  },
+  {
+    "startTime": 438.26,
+    "endTime": 440.26,
+    "text": "It can be expensive, not feasible,"
+  },
+  {
+    "startTime": 440.26,
+    "endTime": 442.26,
+    "text": "unethical,"
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 445.26,
+    "text": "or, frankly, just not possible to do such a thing."
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 447.26,
+    "text": "So, how can we figure out"
+  },
+  {
+    "startTime": 447.26,
+    "endTime": 449.26,
+    "text": "who the central people are in a network"
+  },
+  {
+    "startTime": 449.26,
+    "endTime": 452.26,
+    "text": "without actually mapping the network?"
+  },
+  {
+    "startTime": 452.26,
+    "endTime": 454.26,
+    "text": "What we came up with"
+  },
+  {
+    "startTime": 454.26,
+    "endTime": 456.26,
+    "text": "was an idea to exploit an old fact,"
+  },
+  {
+    "startTime": 456.26,
+    "endTime": 458.26,
+    "text": "or a known fact, about social networks,"
+  },
+  {
+    "startTime": 458.26,
+    "endTime": 460.26,
+    "text": "which goes like this:"
+  },
+  {
+    "startTime": 460.26,
+    "endTime": 462.26,
+    "text": "Do you know that your friends"
+  },
+  {
+    "startTime": 462.26,
+    "endTime": 465.26,
+    "text": "have more friends than you do?"
+  },
+  {
+    "startTime": 465.26,
+    "endTime": 468.26,
+    "text": "Your friends have more friends than you do,"
+  },
+  {
+    "startTime": 468.26,
+    "endTime": 470.26,
+    "text": "and this is known as the friendship paradox."
+  },
+  {
+    "startTime": 470.26,
+    "endTime": 472.26,
+    "text": "Imagine a very popular person in the social network --"
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 475.26,
+    "text": "like a party host who has hundreds of friends --"
+  },
+  {
+    "startTime": 475.26,
+    "endTime": 477.26,
+    "text": "and a misanthrope who has just one friend,"
+  },
+  {
+    "startTime": 477.26,
+    "endTime": 480.26,
+    "text": "and you pick someone at random from the population;"
+  },
+  {
+    "startTime": 480.26,
+    "endTime": 482.26,
+    "text": "they were much more likely to know the party host."
+  },
+  {
+    "startTime": 482.26,
+    "endTime": 484.26,
+    "text": "And if they nominate the party host as their friend,"
+  },
+  {
+    "startTime": 484.26,
+    "endTime": 486.26,
+    "text": "that party host has a hundred friends,"
+  },
+  {
+    "startTime": 486.26,
+    "endTime": 489.26,
+    "text": "therefore, has more friends than they do."
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 492.26,
+    "text": "And this, in essence, is what's known as the friendship paradox."
+  },
+  {
+    "startTime": 492.26,
+    "endTime": 495.26,
+    "text": "The friends of randomly chosen people"
+  },
+  {
+    "startTime": 495.26,
+    "endTime": 497.26,
+    "text": "have higher degree, and are more central"
+  },
+  {
+    "startTime": 497.26,
+    "endTime": 499.26,
+    "text": "than the random people themselves."
+  },
+  {
+    "startTime": 499.26,
+    "endTime": 501.26,
+    "text": "And you can get an intuitive appreciation for this"
+  },
+  {
+    "startTime": 501.26,
+    "endTime": 504.26,
+    "text": "if you imagine just the people at the perimeter of the network."
+  },
+  {
+    "startTime": 504.26,
+    "endTime": 506.26,
+    "text": "If you pick this person,"
+  },
+  {
+    "startTime": 506.26,
+    "endTime": 509.26,
+    "text": "the only friend they have to nominate is this person,"
+  },
+  {
+    "startTime": 509.26,
+    "endTime": 511.26,
+    "text": "who, by construction, must have at least two"
+  },
+  {
+    "startTime": 511.26,
+    "endTime": 513.26,
+    "text": "and typically more friends."
+  },
+  {
+    "startTime": 513.26,
+    "endTime": 515.26,
+    "text": "And that happens at every peripheral node."
+  },
+  {
+    "startTime": 515.26,
+    "endTime": 518.26,
+    "text": "And in fact, it happens throughout the network as you move in,"
+  },
+  {
+    "startTime": 518.26,
+    "endTime": 520.26,
+    "text": "everyone you pick, when they nominate a random --"
+  },
+  {
+    "startTime": 520.26,
+    "endTime": 523.26,
+    "text": "when a random person nominates a friend of theirs,"
+  },
+  {
+    "startTime": 523.26,
+    "endTime": 526.26,
+    "text": "you move closer to the center of the network."
+  },
+  {
+    "startTime": 526.26,
+    "endTime": 529.26,
+    "text": "So, we thought we would exploit this idea"
+  },
+  {
+    "startTime": 529.26,
+    "endTime": 532.26,
+    "text": "in order to study whether we could predict phenomena within networks."
+  },
+  {
+    "startTime": 532.26,
+    "endTime": 534.26,
+    "text": "Because now, with this idea"
+  },
+  {
+    "startTime": 534.26,
+    "endTime": 536.26,
+    "text": "we can take a random sample of people,"
+  },
+  {
+    "startTime": 536.26,
+    "endTime": 538.26,
+    "text": "have them nominate their friends,"
+  },
+  {
+    "startTime": 538.26,
+    "endTime": 540.26,
+    "text": "those friends would be more central,"
+  },
+  {
+    "startTime": 540.26,
+    "endTime": 543.26,
+    "text": "and we could do this without having to map the network."
+  },
+  {
+    "startTime": 543.26,
+    "endTime": 546.26,
+    "text": "And we tested this idea with an outbreak of H1N1 flu"
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 548.26,
+    "text": "at Harvard College"
+  },
+  {
+    "startTime": 548.26,
+    "endTime": 551.26,
+    "text": "in the fall and winter of 2009, just a few months ago."
+  },
+  {
+    "startTime": 551.26,
+    "endTime": 554.26,
+    "text": "We took 1,300 randomly selected undergraduates,"
+  },
+  {
+    "startTime": 554.26,
+    "endTime": 556.26,
+    "text": "we had them nominate their friends,"
+  },
+  {
+    "startTime": 556.26,
+    "endTime": 558.26,
+    "text": "and we followed both the random students and their friends"
+  },
+  {
+    "startTime": 558.26,
+    "endTime": 560.26,
+    "text": "daily in time"
+  },
+  {
+    "startTime": 560.26,
+    "endTime": 563.26,
+    "text": "to see whether or not they had the flu epidemic."
+  },
+  {
+    "startTime": 563.26,
+    "endTime": 566.26,
+    "text": "And we did this passively by looking at whether or not they'd gone to university health services."
+  },
+  {
+    "startTime": 566.26,
+    "endTime": 569.26,
+    "text": "And also, we had them [actively] email us a couple of times a week."
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 572.26,
+    "text": "Exactly what we predicted happened."
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 575.26,
+    "text": "So the random group is in the red line."
+  },
+  {
+    "startTime": 575.26,
+    "endTime": 578.26,
+    "text": "The epidemic in the friends group has shifted to the left, over here."
+  },
+  {
+    "startTime": 578.26,
+    "endTime": 581.26,
+    "text": "And the difference in the two is 16 days."
+  },
+  {
+    "startTime": 581.26,
+    "endTime": 583.26,
+    "text": "By monitoring the friends group,"
+  },
+  {
+    "startTime": 583.26,
+    "endTime": 585.26,
+    "text": "we could get 16 days advance warning"
+  },
+  {
+    "startTime": 585.26,
+    "endTime": 588.26,
+    "text": "of an impending epidemic in this human population."
+  },
+  {
+    "startTime": 588.26,
+    "endTime": 590.26,
+    "text": "Now, in addition to that,"
+  },
+  {
+    "startTime": 590.26,
+    "endTime": 593.26,
+    "text": "if you were an analyst who was trying to study an epidemic"
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 596.26,
+    "text": "or to predict the adoption of a product, for example,"
+  },
+  {
+    "startTime": 596.26,
+    "endTime": 599.26,
+    "text": "what you could do is you could pick a random sample of the population,"
+  },
+  {
+    "startTime": 599.26,
+    "endTime": 602.26,
+    "text": "also have them nominate their friends and follow the friends"
+  },
+  {
+    "startTime": 602.26,
+    "endTime": 605.26,
+    "text": "and follow both the randoms and the friends."
+  },
+  {
+    "startTime": 605.26,
+    "endTime": 608.26,
+    "text": "Among the friends, the first evidence you saw of a blip above zero"
+  },
+  {
+    "startTime": 608.26,
+    "endTime": 611.26,
+    "text": "in adoption of the innovation, for example,"
+  },
+  {
+    "startTime": 611.26,
+    "endTime": 613.26,
+    "text": "would be evidence of an impending epidemic."
+  },
+  {
+    "startTime": 613.26,
+    "endTime": 616.26,
+    "text": "Or you could see the first time the two curves diverged,"
+  },
+  {
+    "startTime": 616.26,
+    "endTime": 618.26,
+    "text": "as shown on the left."
+  },
+  {
+    "startTime": 618.26,
+    "endTime": 621.26,
+    "text": "When did the randoms -- when did the friends take off"
+  },
+  {
+    "startTime": 621.26,
+    "endTime": 623.26,
+    "text": "and leave the randoms,"
+  },
+  {
+    "startTime": 623.26,
+    "endTime": 625.26,
+    "text": "and [when did] their curve start shifting?"
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 627.26,
+    "text": "And that, as indicated by the white line,"
+  },
+  {
+    "startTime": 627.26,
+    "endTime": 629.26,
+    "text": "occurred 46 days"
+  },
+  {
+    "startTime": 629.26,
+    "endTime": 631.26,
+    "text": "before the peak of the epidemic."
+  },
+  {
+    "startTime": 631.26,
+    "endTime": 633.26,
+    "text": "So this would be a technique"
+  },
+  {
+    "startTime": 633.26,
+    "endTime": 635.26,
+    "text": "whereby we could get more than a month-and-a-half warning"
+  },
+  {
+    "startTime": 635.26,
+    "endTime": 638.26,
+    "text": "about a flu epidemic in a particular population."
+  },
+  {
+    "startTime": 638.26,
+    "endTime": 640.26,
+    "text": "I should say that"
+  },
+  {
+    "startTime": 640.26,
+    "endTime": 642.26,
+    "text": "how far advanced a notice one might get about something"
+  },
+  {
+    "startTime": 642.26,
+    "endTime": 644.26,
+    "text": "depends on a host of factors."
+  },
+  {
+    "startTime": 644.26,
+    "endTime": 646.26,
+    "text": "It could depend on the nature of the pathogen --"
+  },
+  {
+    "startTime": 646.26,
+    "endTime": 648.26,
+    "text": "different pathogens,"
+  },
+  {
+    "startTime": 648.26,
+    "endTime": 650.26,
+    "text": "using this technique, you'd get different warning --"
+  },
+  {
+    "startTime": 650.26,
+    "endTime": 652.26,
+    "text": "or other phenomena that are spreading,"
+  },
+  {
+    "startTime": 652.26,
+    "endTime": 655.26,
+    "text": "or frankly, on the structure of the human network."
+  },
+  {
+    "startTime": 655.26,
+    "endTime": 658.26,
+    "text": "Now in our case, although it wasn't necessary,"
+  },
+  {
+    "startTime": 658.26,
+    "endTime": 660.26,
+    "text": "we could also actually map the network of the students."
+  },
+  {
+    "startTime": 660.26,
+    "endTime": 662.26,
+    "text": "So, this is a map of 714 students"
+  },
+  {
+    "startTime": 662.26,
+    "endTime": 664.26,
+    "text": "and their friendship ties."
+  },
+  {
+    "startTime": 664.26,
+    "endTime": 666.26,
+    "text": "And in a minute now, I'm going to put this map into motion."
+  },
+  {
+    "startTime": 666.26,
+    "endTime": 668.26,
+    "text": "We're going to take daily cuts through the network"
+  },
+  {
+    "startTime": 668.26,
+    "endTime": 670.26,
+    "text": "for 120 days."
+  },
+  {
+    "startTime": 670.26,
+    "endTime": 673.26,
+    "text": "The red dots are going to be cases of the flu,"
+  },
+  {
+    "startTime": 673.26,
+    "endTime": 676.26,
+    "text": "and the yellow dots are going to be friends of the people with the flu."
+  },
+  {
+    "startTime": 676.26,
+    "endTime": 678.26,
+    "text": "And the size of the dots is going to be proportional"
+  },
+  {
+    "startTime": 678.26,
+    "endTime": 680.26,
+    "text": "to how many of their friends have the flu."
+  },
+  {
+    "startTime": 680.26,
+    "endTime": 683.26,
+    "text": "So bigger dots mean more of your friends have the flu."
+  },
+  {
+    "startTime": 683.26,
+    "endTime": 686.26,
+    "text": "And if you look at this image -- here we are now in September the 13th --"
+  },
+  {
+    "startTime": 686.26,
+    "endTime": 688.26,
+    "text": "you're going to see a few cases light up."
+  },
+  {
+    "startTime": 688.26,
+    "endTime": 690.26,
+    "text": "You're going to see kind of blooming of the flu in the middle."
+  },
+  {
+    "startTime": 690.26,
+    "endTime": 693.26,
+    "text": "Here we are on October the 19th."
+  },
+  {
+    "startTime": 693.26,
+    "endTime": 695.26,
+    "text": "The slope of the epidemic curve is approaching now, in November."
+  },
+  {
+    "startTime": 695.26,
+    "endTime": 698.26,
+    "text": "Bang, bang, bang, bang, bang -- you're going to see lots of blooming in the middle,"
+  },
+  {
+    "startTime": 698.26,
+    "endTime": 700.26,
+    "text": "and then you're going to see a sort of leveling off,"
+  },
+  {
+    "startTime": 700.26,
+    "endTime": 703.26,
+    "text": "fewer and fewer cases towards the end of December."
+  },
+  {
+    "startTime": 703.26,
+    "endTime": 705.26,
+    "text": "And this type of a visualization"
+  },
+  {
+    "startTime": 705.26,
+    "endTime": 707.26,
+    "text": "can show that epidemics like this take root"
+  },
+  {
+    "startTime": 707.26,
+    "endTime": 709.26,
+    "text": "and affect central individuals first,"
+  },
+  {
+    "startTime": 709.26,
+    "endTime": 711.26,
+    "text": "before they affect others."
+  },
+  {
+    "startTime": 711.26,
+    "endTime": 713.26,
+    "text": "Now, as I've been suggesting,"
+  },
+  {
+    "startTime": 713.26,
+    "endTime": 716.26,
+    "text": "this method is not restricted to germs,"
+  },
+  {
+    "startTime": 716.26,
+    "endTime": 718.26,
+    "text": "but actually to anything that spreads in populations."
+  },
+  {
+    "startTime": 718.26,
+    "endTime": 720.26,
+    "text": "Information spreads in populations,"
+  },
+  {
+    "startTime": 720.26,
+    "endTime": 722.26,
+    "text": "norms can spread in populations,"
+  },
+  {
+    "startTime": 722.26,
+    "endTime": 724.26,
+    "text": "behaviors can spread in populations."
+  },
+  {
+    "startTime": 724.26,
+    "endTime": 727.26,
+    "text": "And by behaviors, I can mean things like criminal behavior,"
+  },
+  {
+    "startTime": 727.26,
+    "endTime": 730.26,
+    "text": "or voting behavior, or health care behavior,"
+  },
+  {
+    "startTime": 730.26,
+    "endTime": 732.26,
+    "text": "like smoking, or vaccination,"
+  },
+  {
+    "startTime": 732.26,
+    "endTime": 734.26,
+    "text": "or product adoption, or other kinds of behaviors"
+  },
+  {
+    "startTime": 734.26,
+    "endTime": 736.26,
+    "text": "that relate to interpersonal influence."
+  },
+  {
+    "startTime": 736.26,
+    "endTime": 739.26,
+    "text": "If I'm likely to do something that affects others around me,"
+  },
+  {
+    "startTime": 739.26,
+    "endTime": 742.26,
+    "text": "this technique can get early warning or early detection"
+  },
+  {
+    "startTime": 742.26,
+    "endTime": 745.26,
+    "text": "about the adoption within the population."
+  },
+  {
+    "startTime": 745.26,
+    "endTime": 747.26,
+    "text": "The key thing is that for it to work,"
+  },
+  {
+    "startTime": 747.26,
+    "endTime": 749.26,
+    "text": "there has to be interpersonal influence."
+  },
+  {
+    "startTime": 749.26,
+    "endTime": 751.26,
+    "text": "It cannot be because of some broadcast mechanism"
+  },
+  {
+    "startTime": 751.26,
+    "endTime": 755.26,
+    "text": "affecting everyone uniformly."
+  },
+  {
+    "startTime": 755.26,
+    "endTime": 757.26,
+    "text": "Now the same insights"
+  },
+  {
+    "startTime": 757.26,
+    "endTime": 760.26,
+    "text": "can also be exploited -- with respect to networks --"
+  },
+  {
+    "startTime": 760.26,
+    "endTime": 763.26,
+    "text": "can also be exploited in other ways,"
+  },
+  {
+    "startTime": 763.26,
+    "endTime": 765.26,
+    "text": "for example, in the use of targeting"
+  },
+  {
+    "startTime": 765.26,
+    "endTime": 767.26,
+    "text": "specific people for interventions."
+  },
+  {
+    "startTime": 767.26,
+    "endTime": 769.26,
+    "text": "So, for example, most of you are probably familiar"
+  },
+  {
+    "startTime": 769.26,
+    "endTime": 771.26,
+    "text": "with the notion of herd immunity."
+  },
+  {
+    "startTime": 771.26,
+    "endTime": 774.26,
+    "text": "So, if we have a population of a thousand people,"
+  },
+  {
+    "startTime": 774.26,
+    "endTime": 777.26,
+    "text": "and we want to make the population immune to a pathogen,"
+  },
+  {
+    "startTime": 777.26,
+    "endTime": 779.26,
+    "text": "we don't have to immunize every single person."
+  },
+  {
+    "startTime": 779.26,
+    "endTime": 781.26,
+    "text": "If we immunize 960 of them,"
+  },
+  {
+    "startTime": 781.26,
+    "endTime": 784.26,
+    "text": "it's as if we had immunized a hundred [percent] of them."
+  },
+  {
+    "startTime": 784.26,
+    "endTime": 787.26,
+    "text": "Because even if one or two of the non-immune people gets infected,"
+  },
+  {
+    "startTime": 787.26,
+    "endTime": 789.26,
+    "text": "there's no one for them to infect."
+  },
+  {
+    "startTime": 789.26,
+    "endTime": 791.26,
+    "text": "They are surrounded by immunized people."
+  },
+  {
+    "startTime": 791.26,
+    "endTime": 794.26,
+    "text": "So 96 percent is as good as 100 percent."
+  },
+  {
+    "startTime": 794.26,
+    "endTime": 796.26,
+    "text": "Well, some other scientists have estimated"
+  },
+  {
+    "startTime": 796.26,
+    "endTime": 798.26,
+    "text": "what would happen if you took a 30 percent random sample"
+  },
+  {
+    "startTime": 798.26,
+    "endTime": 801.26,
+    "text": "of these 1000 people, 300 people and immunized them."
+  },
+  {
+    "startTime": 801.26,
+    "endTime": 803.26,
+    "text": "Would you get any population-level immunity?"
+  },
+  {
+    "startTime": 803.26,
+    "endTime": 806.26,
+    "text": "And the answer is no."
+  },
+  {
+    "startTime": 806.26,
+    "endTime": 808.26,
+    "text": "But if you took this 30 percent, these 300 people"
+  },
+  {
+    "startTime": 808.26,
+    "endTime": 810.26,
+    "text": "and had them nominate their friends"
+  },
+  {
+    "startTime": 810.26,
+    "endTime": 813.26,
+    "text": "and took the same number of vaccine doses"
+  },
+  {
+    "startTime": 813.26,
+    "endTime": 815.26,
+    "text": "and vaccinated the friends of the 300 --"
+  },
+  {
+    "startTime": 815.26,
+    "endTime": 817.26,
+    "text": "the 300 friends --"
+  },
+  {
+    "startTime": 817.26,
+    "endTime": 819.26,
+    "text": "you can get the same level of herd immunity"
+  },
+  {
+    "startTime": 819.26,
+    "endTime": 822.26,
+    "text": "as if you had vaccinated 96 percent of the population"
+  },
+  {
+    "startTime": 822.26,
+    "endTime": 825.26,
+    "text": "at a much greater efficiency, with a strict budget constraint."
+  },
+  {
+    "startTime": 825.26,
+    "endTime": 827.26,
+    "text": "And similar ideas can be used, for instance,"
+  },
+  {
+    "startTime": 827.26,
+    "endTime": 829.26,
+    "text": "to target distribution of things like bed nets"
+  },
+  {
+    "startTime": 829.26,
+    "endTime": 831.26,
+    "text": "in the developing world."
+  },
+  {
+    "startTime": 831.26,
+    "endTime": 834.26,
+    "text": "If we could understand the structure of networks in villages,"
+  },
+  {
+    "startTime": 834.26,
+    "endTime": 836.26,
+    "text": "we could target to whom to give the interventions"
+  },
+  {
+    "startTime": 836.26,
+    "endTime": 838.26,
+    "text": "to foster these kinds of spreads."
+  },
+  {
+    "startTime": 838.26,
+    "endTime": 841.26,
+    "text": "Or, frankly, for advertising with all kinds of products."
+  },
+  {
+    "startTime": 841.26,
+    "endTime": 843.26,
+    "text": "If we could understand how to target,"
+  },
+  {
+    "startTime": 843.26,
+    "endTime": 845.26,
+    "text": "it could affect the efficiency"
+  },
+  {
+    "startTime": 845.26,
+    "endTime": 847.26,
+    "text": "of what we're trying to achieve."
+  },
+  {
+    "startTime": 847.26,
+    "endTime": 849.26,
+    "text": "And in fact, we can use data"
+  },
+  {
+    "startTime": 849.26,
+    "endTime": 851.26,
+    "text": "from all kinds of sources nowadays [to do this]."
+  },
+  {
+    "startTime": 851.26,
+    "endTime": 853.26,
+    "text": "This is a map of eight million phone users"
+  },
+  {
+    "startTime": 853.26,
+    "endTime": 855.26,
+    "text": "in a European country."
+  },
+  {
+    "startTime": 855.26,
+    "endTime": 857.26,
+    "text": "Every dot is a person, and every line represents"
+  },
+  {
+    "startTime": 857.26,
+    "endTime": 859.26,
+    "text": "a volume of calls between the people."
+  },
+  {
+    "startTime": 859.26,
+    "endTime": 862.26,
+    "text": "And we can use such data, that's being passively obtained,"
+  },
+  {
+    "startTime": 862.26,
+    "endTime": 864.26,
+    "text": "to map these whole countries"
+  },
+  {
+    "startTime": 864.26,
+    "endTime": 867.26,
+    "text": "and understand who is located where within the network."
+  },
+  {
+    "startTime": 867.26,
+    "endTime": 869.26,
+    "text": "Without actually having to query them at all,"
+  },
+  {
+    "startTime": 869.26,
+    "endTime": 871.26,
+    "text": "we can get this kind of a structural insight."
+  },
+  {
+    "startTime": 871.26,
+    "endTime": 874.26,
+    "text": "And other sources of information, as you're no doubt aware"
+  },
+  {
+    "startTime": 874.26,
+    "endTime": 877.26,
+    "text": "are available about such features, from email interactions,"
+  },
+  {
+    "startTime": 877.26,
+    "endTime": 879.26,
+    "text": "online interactions,"
+  },
+  {
+    "startTime": 879.26,
+    "endTime": 882.26,
+    "text": "online social networks and so forth."
+  },
+  {
+    "startTime": 882.26,
+    "endTime": 884.26,
+    "text": "And in fact, we are in the era of what I would call"
+  },
+  {
+    "startTime": 884.26,
+    "endTime": 887.26,
+    "text": "\"massive-passive\" data collection efforts."
+  },
+  {
+    "startTime": 887.26,
+    "endTime": 890.26,
+    "text": "They're all kinds of ways we can use massively collected data"
+  },
+  {
+    "startTime": 890.26,
+    "endTime": 893.26,
+    "text": "to create sensor networks"
+  },
+  {
+    "startTime": 893.26,
+    "endTime": 895.26,
+    "text": "to follow the population,"
+  },
+  {
+    "startTime": 895.26,
+    "endTime": 897.26,
+    "text": "understand what's happening in the population,"
+  },
+  {
+    "startTime": 897.26,
+    "endTime": 900.26,
+    "text": "and intervene in the population for the better."
+  },
+  {
+    "startTime": 900.26,
+    "endTime": 902.26,
+    "text": "Because these new technologies tell us"
+  },
+  {
+    "startTime": 902.26,
+    "endTime": 904.26,
+    "text": "not just who is talking to whom,"
+  },
+  {
+    "startTime": 904.26,
+    "endTime": 906.26,
+    "text": "but where everyone is,"
+  },
+  {
+    "startTime": 906.26,
+    "endTime": 909.26,
+    "text": "and what they're thinking based on what they're uploading on the Internet,"
+  },
+  {
+    "startTime": 909.26,
+    "endTime": 911.26,
+    "text": "and what they're buying based on their purchases."
+  },
+  {
+    "startTime": 911.26,
+    "endTime": 914.26,
+    "text": "And all this administrative data can be pulled together"
+  },
+  {
+    "startTime": 914.26,
+    "endTime": 916.26,
+    "text": "and processed to understand human behavior"
+  },
+  {
+    "startTime": 916.26,
+    "endTime": 919.26,
+    "text": "in a way we never could before."
+  },
+  {
+    "startTime": 919.26,
+    "endTime": 922.26,
+    "text": "So, for example, we could use truckers' purchases of fuel."
+  },
+  {
+    "startTime": 922.26,
+    "endTime": 924.26,
+    "text": "So the truckers are just going about their business,"
+  },
+  {
+    "startTime": 924.26,
+    "endTime": 926.26,
+    "text": "and they're buying fuel."
+  },
+  {
+    "startTime": 926.26,
+    "endTime": 929.26,
+    "text": "And we see a blip up in the truckers' purchases of fuel,"
+  },
+  {
+    "startTime": 929.26,
+    "endTime": 931.26,
+    "text": "and we know that a recession is about to end."
+  },
+  {
+    "startTime": 931.26,
+    "endTime": 933.26,
+    "text": "Or we can monitor the velocity"
+  },
+  {
+    "startTime": 933.26,
+    "endTime": 936.26,
+    "text": "with which people are moving with their phones on a highway,"
+  },
+  {
+    "startTime": 936.26,
+    "endTime": 938.26,
+    "text": "and the phone company can see,"
+  },
+  {
+    "startTime": 938.26,
+    "endTime": 940.26,
+    "text": "as the velocity is slowing down,"
+  },
+  {
+    "startTime": 940.26,
+    "endTime": 942.26,
+    "text": "that there's a traffic jam."
+  },
+  {
+    "startTime": 942.26,
+    "endTime": 945.26,
+    "text": "And they can feed that information back to their subscribers,"
+  },
+  {
+    "startTime": 945.26,
+    "endTime": 947.26,
+    "text": "but only to their subscribers on the same highway"
+  },
+  {
+    "startTime": 947.26,
+    "endTime": 949.26,
+    "text": "located behind the traffic jam!"
+  },
+  {
+    "startTime": 949.26,
+    "endTime": 952.26,
+    "text": "Or we can monitor doctors prescribing behaviors, passively,"
+  },
+  {
+    "startTime": 952.26,
+    "endTime": 955.26,
+    "text": "and see how the diffusion of innovation with pharmaceuticals"
+  },
+  {
+    "startTime": 955.26,
+    "endTime": 957.26,
+    "text": "occurs within [networks of] doctors."
+  },
+  {
+    "startTime": 957.26,
+    "endTime": 959.26,
+    "text": "Or again, we can monitor purchasing behavior in people"
+  },
+  {
+    "startTime": 959.26,
+    "endTime": 961.26,
+    "text": "and watch how these types of phenomena"
+  },
+  {
+    "startTime": 961.26,
+    "endTime": 964.26,
+    "text": "can diffuse within human populations."
+  },
+  {
+    "startTime": 964.26,
+    "endTime": 966.26,
+    "text": "And there are three ways, I think,"
+  },
+  {
+    "startTime": 966.26,
+    "endTime": 968.26,
+    "text": "that these massive-passive data can be used."
+  },
+  {
+    "startTime": 968.26,
+    "endTime": 970.26,
+    "text": "One is fully passive,"
+  },
+  {
+    "startTime": 970.26,
+    "endTime": 972.26,
+    "text": "like I just described --"
+  },
+  {
+    "startTime": 972.26,
+    "endTime": 974.26,
+    "text": "as in, for instance, the trucker example,"
+  },
+  {
+    "startTime": 974.26,
+    "endTime": 976.26,
+    "text": "where we don't actually intervene in the population in any way."
+  },
+  {
+    "startTime": 976.26,
+    "endTime": 978.26,
+    "text": "One is quasi-active,"
+  },
+  {
+    "startTime": 978.26,
+    "endTime": 980.26,
+    "text": "like the flu example I gave,"
+  },
+  {
+    "startTime": 980.26,
+    "endTime": 983.26,
+    "text": "where we get some people to nominate their friends"
+  },
+  {
+    "startTime": 983.26,
+    "endTime": 985.26,
+    "text": "and then passively monitor their friends --"
+  },
+  {
+    "startTime": 985.26,
+    "endTime": 987.26,
+    "text": "do they have the flu, or not? -- and then get warning."
+  },
+  {
+    "startTime": 987.26,
+    "endTime": 989.26,
+    "text": "Or another example would be,"
+  },
+  {
+    "startTime": 989.26,
+    "endTime": 992.26,
+    "text": "if you're a phone company, you figure out who's central in the network"
+  },
+  {
+    "startTime": 992.26,
+    "endTime": 995.26,
+    "text": "and you ask those people, \"Look, will you just text us your fever every day?"
+  },
+  {
+    "startTime": 995.26,
+    "endTime": 997.26,
+    "text": "Just text us your temperature.\""
+  },
+  {
+    "startTime": 997.26,
+    "endTime": 1000.26,
+    "text": "And collect vast amounts of information about people's temperature,"
+  },
+  {
+    "startTime": 1000.26,
+    "endTime": 1002.26,
+    "text": "but from centrally located individuals."
+  },
+  {
+    "startTime": 1002.26,
+    "endTime": 1004.26,
+    "text": "And be able, on a large scale,"
+  },
+  {
+    "startTime": 1004.26,
+    "endTime": 1006.26,
+    "text": "to monitor an impending epidemic"
+  },
+  {
+    "startTime": 1006.26,
+    "endTime": 1008.26,
+    "text": "with very minimal input from people."
+  },
+  {
+    "startTime": 1008.26,
+    "endTime": 1010.26,
+    "text": "Or, finally, it can be more fully active --"
+  },
+  {
+    "startTime": 1010.26,
+    "endTime": 1012.26,
+    "text": "as I know subsequent speakers will also talk about today --"
+  },
+  {
+    "startTime": 1012.26,
+    "endTime": 1014.26,
+    "text": "where people might globally participate in wikis,"
+  },
+  {
+    "startTime": 1014.26,
+    "endTime": 1017.26,
+    "text": "or photographing, or monitoring elections,"
+  },
+  {
+    "startTime": 1017.26,
+    "endTime": 1019.26,
+    "text": "and upload information in a way that allows us to pool"
+  },
+  {
+    "startTime": 1019.26,
+    "endTime": 1021.26,
+    "text": "information in order to understand social processes"
+  },
+  {
+    "startTime": 1021.26,
+    "endTime": 1023.26,
+    "text": "and social phenomena."
+  },
+  {
+    "startTime": 1023.26,
+    "endTime": 1025.26,
+    "text": "In fact, the availability of these data, I think,"
+  },
+  {
+    "startTime": 1025.26,
+    "endTime": 1027.26,
+    "text": "heralds a kind of new era"
+  },
+  {
+    "startTime": 1027.26,
+    "endTime": 1029.26,
+    "text": "of what I and others would like to call"
+  },
+  {
+    "startTime": 1029.26,
+    "endTime": 1031.26,
+    "text": "\"computational social science.\""
+  },
+  {
+    "startTime": 1031.26,
+    "endTime": 1034.26,
+    "text": "It's sort of like when Galileo invented -- or, didn't invent --"
+  },
+  {
+    "startTime": 1034.26,
+    "endTime": 1036.26,
+    "text": "came to use a telescope"
+  },
+  {
+    "startTime": 1036.26,
+    "endTime": 1038.26,
+    "text": "and could see the heavens in a new way,"
+  },
+  {
+    "startTime": 1038.26,
+    "endTime": 1040.26,
+    "text": "or Leeuwenhoek became aware of the microscope --"
+  },
+  {
+    "startTime": 1040.26,
+    "endTime": 1042.26,
+    "text": "or actually invented --"
+  },
+  {
+    "startTime": 1042.26,
+    "endTime": 1044.26,
+    "text": "and could see biology in a new way."
+  },
+  {
+    "startTime": 1044.26,
+    "endTime": 1046.26,
+    "text": "But now we have access to these kinds of data"
+  },
+  {
+    "startTime": 1046.26,
+    "endTime": 1048.26,
+    "text": "that allow us to understand social processes"
+  },
+  {
+    "startTime": 1048.26,
+    "endTime": 1050.26,
+    "text": "and social phenomena"
+  },
+  {
+    "startTime": 1050.26,
+    "endTime": 1053.26,
+    "text": "in an entirely new way that was never before possible."
+  },
+  {
+    "startTime": 1053.26,
+    "endTime": 1055.26,
+    "text": "And with this science, we can"
+  },
+  {
+    "startTime": 1055.26,
+    "endTime": 1057.26,
+    "text": "understand how exactly"
+  },
+  {
+    "startTime": 1057.26,
+    "endTime": 1059.26,
+    "text": "the whole comes to be greater"
+  },
+  {
+    "startTime": 1059.26,
+    "endTime": 1061.26,
+    "text": "than the sum of its parts."
+  },
+  {
+    "startTime": 1061.26,
+    "endTime": 1063.26,
+    "text": "And actually, we can use these insights"
+  },
+  {
+    "startTime": 1063.26,
+    "endTime": 1066.26,
+    "text": "to improve society and improve human well-being."
+  },
+  {
+    "startTime": 1066.26,
+    "endTime": 1076.26,
+    "text": "Thank you."
+  }
+]
