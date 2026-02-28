@@ -1,0 +1,1702 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 18.259999999999998,
+    "text": "Ever since I was a little girl"
+  },
+  {
+    "startTime": 18.26,
+    "endTime": 20.26,
+    "text": "seeing \"Star Wars\" for the first time,"
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 22.26,
+    "text": "I've been fascinated by this idea"
+  },
+  {
+    "startTime": 22.26,
+    "endTime": 24.26,
+    "text": "of personal robots."
+  },
+  {
+    "startTime": 24.26,
+    "endTime": 26.26,
+    "text": "And as a little girl,"
+  },
+  {
+    "startTime": 26.26,
+    "endTime": 28.26,
+    "text": "I loved the idea of a robot that interacted with us"
+  },
+  {
+    "startTime": 28.26,
+    "endTime": 31.26,
+    "text": "much more like a helpful, trusted sidekick --"
+  },
+  {
+    "startTime": 31.26,
+    "endTime": 33.260000000000005,
+    "text": "something that would delight us, enrich our lives"
+  },
+  {
+    "startTime": 33.26,
+    "endTime": 37.26,
+    "text": "and help us save a galaxy or two."
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 40.26,
+    "text": "I knew robots like that didn't really exist,"
+  },
+  {
+    "startTime": 40.26,
+    "endTime": 42.26,
+    "text": "but I knew I wanted to build them."
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 44.26,
+    "text": "So 20 years pass --"
+  },
+  {
+    "startTime": 44.26,
+    "endTime": 46.26,
+    "text": "I am now a graduate student at MIT"
+  },
+  {
+    "startTime": 46.26,
+    "endTime": 48.26,
+    "text": "studying artificial intelligence,"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 50.26,
+    "text": "the year is 1997,"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 53.26,
+    "text": "and NASA has just landed the first robot on Mars."
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 56.26,
+    "text": "But robots are still not in our home, ironically."
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "And I remember thinking about"
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 60.26,
+    "text": "all the reasons why that was the case."
+  },
+  {
+    "startTime": 60.26,
+    "endTime": 62.26,
+    "text": "But one really struck me."
+  },
+  {
+    "startTime": 62.26,
+    "endTime": 65.25999999999999,
+    "text": "Robotics had really been about interacting with things,"
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 67.26,
+    "text": "not with people --"
+  },
+  {
+    "startTime": 67.26,
+    "endTime": 69.26,
+    "text": "certainly not in a social way that would be natural for us"
+  },
+  {
+    "startTime": 69.26,
+    "endTime": 71.26,
+    "text": "and would really help people accept robots"
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 73.26,
+    "text": "into our daily lives."
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 76.26,
+    "text": "For me, that was the white space; that's what robots could not do yet."
+  },
+  {
+    "startTime": 76.26,
+    "endTime": 79.26,
+    "text": "And so that year, I started to build this robot, Kismet,"
+  },
+  {
+    "startTime": 79.26,
+    "endTime": 82.26,
+    "text": "the world's first social robot."
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 84.26,
+    "text": "Three years later --"
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 86.26,
+    "text": "a lot of programming,"
+  },
+  {
+    "startTime": 86.26,
+    "endTime": 88.26,
+    "text": "working with other graduate students in the lab --"
+  },
+  {
+    "startTime": 88.26,
+    "endTime": 90.26,
+    "text": "Kismet was ready to start interacting with people."
+  },
+  {
+    "startTime": 90.26,
+    "endTime": 92.26,
+    "text": "(Video) Scientist: I want to show you something."
+  },
+  {
+    "startTime": 92.26,
+    "endTime": 94.26,
+    "text": "Kismet: (Nonsense)"
+  },
+  {
+    "startTime": 94.26,
+    "endTime": 97.26,
+    "text": "Scientist: This is a watch that my girlfriend gave me."
+  },
+  {
+    "startTime": 97.26,
+    "endTime": 99.26,
+    "text": "Kismet: (Nonsense)"
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 101.26,
+    "text": "Scientist: Yeah, look, it's got a little blue light in it too."
+  },
+  {
+    "startTime": 101.26,
+    "endTime": 104.26,
+    "text": "I almost lost it this week."
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 107.26,
+    "text": "Cynthia Breazeal: So Kismet interacted with people"
+  },
+  {
+    "startTime": 107.26,
+    "endTime": 110.26,
+    "text": "like kind of a non-verbal child or pre-verbal child,"
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 113.26,
+    "text": "which I assume was fitting because it was really the first of its kind."
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 115.26,
+    "text": "It didn't speak language, but it didn't matter."
+  },
+  {
+    "startTime": 115.26,
+    "endTime": 117.26,
+    "text": "This little robot was somehow able"
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 120.26,
+    "text": "to tap into something deeply social within us --"
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 122.26,
+    "text": "and with that, the promise of an entirely new way"
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "we could interact with robots."
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 126.26,
+    "text": "So over the past several years"
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 128.26,
+    "text": "I've been continuing to explore this interpersonal dimension of robots,"
+  },
+  {
+    "startTime": 128.26,
+    "endTime": 130.26,
+    "text": "now at the media lab"
+  },
+  {
+    "startTime": 130.26,
+    "endTime": 132.26,
+    "text": "with my own team of incredibly talented students."
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 135.26,
+    "text": "And one of my favorite robots is Leonardo."
+  },
+  {
+    "startTime": 135.26,
+    "endTime": 138.26,
+    "text": "We developed Leonardo in collaboration with Stan Winston Studio."
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 141.26,
+    "text": "And so I want to show you a special moment for me of Leo."
+  },
+  {
+    "startTime": 141.26,
+    "endTime": 143.26,
+    "text": "This is Matt Berlin interacting with Leo,"
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 145.26,
+    "text": "introducing Leo to a new object."
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 148.26,
+    "text": "And because it's new, Leo doesn't really know what to make of it."
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 150.26,
+    "text": "But sort of like us, he can actually learn about it"
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 153.26,
+    "text": "from watching Matt's reaction."
+  },
+  {
+    "startTime": 153.26,
+    "endTime": 158.26,
+    "text": "(Video) Matt Berlin: Hello, Leo."
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 164.26,
+    "text": "Leo, this is Cookie Monster."
+  },
+  {
+    "startTime": 164.26,
+    "endTime": 172.26,
+    "text": "Can you find Cookie Monster?"
+  },
+  {
+    "startTime": 172.26,
+    "endTime": 176.26,
+    "text": "Leo, Cookie Monster is very bad."
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 180.26,
+    "text": "He's very bad, Leo."
+  },
+  {
+    "startTime": 180.26,
+    "endTime": 187.26,
+    "text": "Cookie Monster is very, very bad."
+  },
+  {
+    "startTime": 187.26,
+    "endTime": 189.26,
+    "text": "He's a scary monster."
+  },
+  {
+    "startTime": 189.26,
+    "endTime": 192.26,
+    "text": "He wants to get your cookies."
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 197.26,
+    "text": "CB: All right, so Leo and Cookie"
+  },
+  {
+    "startTime": 197.26,
+    "endTime": 199.26,
+    "text": "might have gotten off to a little bit of a rough start,"
+  },
+  {
+    "startTime": 199.26,
+    "endTime": 202.26,
+    "text": "but they get along great now."
+  },
+  {
+    "startTime": 202.26,
+    "endTime": 204.26,
+    "text": "So what I've learned"
+  },
+  {
+    "startTime": 204.26,
+    "endTime": 206.26,
+    "text": "through building these systems"
+  },
+  {
+    "startTime": 206.26,
+    "endTime": 208.26,
+    "text": "is that robots are actually"
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 210.26,
+    "text": "a really intriguing social technology,"
+  },
+  {
+    "startTime": 210.26,
+    "endTime": 212.26,
+    "text": "where it's actually their ability"
+  },
+  {
+    "startTime": 212.26,
+    "endTime": 214.26,
+    "text": "to push our social buttons"
+  },
+  {
+    "startTime": 214.26,
+    "endTime": 216.26,
+    "text": "and to interact with us like a partner"
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 219.26,
+    "text": "that is a core part of their functionality."
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 221.26,
+    "text": "And with that shift in thinking, we can now start to imagine"
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 224.26,
+    "text": "new questions, new possibilities for robots"
+  },
+  {
+    "startTime": 224.26,
+    "endTime": 227.26,
+    "text": "that we might not have thought about otherwise."
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 229.26,
+    "text": "But what do I mean when I say \"push our social buttons?\""
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 231.26,
+    "text": "Well, one of the things that we've learned"
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 233.26,
+    "text": "is that, if we design these robots to communicate with us"
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 235.26,
+    "text": "using the same body language,"
+  },
+  {
+    "startTime": 235.26,
+    "endTime": 237.26,
+    "text": "the same sort of non-verbal cues that people use --"
+  },
+  {
+    "startTime": 237.26,
+    "endTime": 240.26,
+    "text": "like Nexi, our humanoid robot, is doing here --"
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 242.26,
+    "text": "what we find is that people respond to robots"
+  },
+  {
+    "startTime": 242.26,
+    "endTime": 244.26,
+    "text": "a lot like they respond to people."
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 247.26,
+    "text": "People use these cues to determine things like how persuasive someone is,"
+  },
+  {
+    "startTime": 247.26,
+    "endTime": 249.26,
+    "text": "how likable, how engaging,"
+  },
+  {
+    "startTime": 249.26,
+    "endTime": 251.26,
+    "text": "how trustworthy."
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 253.26,
+    "text": "It turns out it's the same for robots."
+  },
+  {
+    "startTime": 253.26,
+    "endTime": 255.26,
+    "text": "It's turning out now"
+  },
+  {
+    "startTime": 255.26,
+    "endTime": 258.26,
+    "text": "that robots are actually becoming a really interesting new scientific tool"
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 260.26,
+    "text": "to understand human behavior."
+  },
+  {
+    "startTime": 260.26,
+    "endTime": 263.26,
+    "text": "To answer questions like, how is it that, from a brief encounter,"
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 266.26,
+    "text": "we're able to make an estimate of how trustworthy another person is?"
+  },
+  {
+    "startTime": 266.26,
+    "endTime": 269.26,
+    "text": "Mimicry's believed to play a role, but how?"
+  },
+  {
+    "startTime": 269.26,
+    "endTime": 272.26,
+    "text": "Is it the mimicking of particular gestures that matters?"
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 274.26,
+    "text": "It turns out it's really hard"
+  },
+  {
+    "startTime": 274.26,
+    "endTime": 276.26,
+    "text": "to learn this or understand this from watching people"
+  },
+  {
+    "startTime": 276.26,
+    "endTime": 279.26,
+    "text": "because when we interact we do all of these cues automatically."
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 281.26,
+    "text": "We can't carefully control them because they're subconscious for us."
+  },
+  {
+    "startTime": 281.26,
+    "endTime": 283.26,
+    "text": "But with the robot, you can."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 285.26,
+    "text": "And so in this video here --"
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 288.26,
+    "text": "this is a video taken from David DeSteno's lab at Northeastern University."
+  },
+  {
+    "startTime": 288.26,
+    "endTime": 290.26,
+    "text": "He's a psychologist we've been collaborating with."
+  },
+  {
+    "startTime": 290.26,
+    "endTime": 293.26,
+    "text": "There's actually a scientist carefully controlling Nexi's cues"
+  },
+  {
+    "startTime": 293.26,
+    "endTime": 296.26,
+    "text": "to be able to study this question."
+  },
+  {
+    "startTime": 296.26,
+    "endTime": 298.26,
+    "text": "And the bottom line is -- the reason why this works is"
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.26,
+    "text": "because it turns out people just behave like people"
+  },
+  {
+    "startTime": 300.26,
+    "endTime": 303.26,
+    "text": "even when interacting with a robot."
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 305.26,
+    "text": "So given that key insight,"
+  },
+  {
+    "startTime": 305.26,
+    "endTime": 307.26,
+    "text": "we can now start to imagine"
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 310.26,
+    "text": "new kinds of applications for robots."
+  },
+  {
+    "startTime": 310.26,
+    "endTime": 313.26,
+    "text": "For instance, if robots do respond to our non-verbal cues,"
+  },
+  {
+    "startTime": 313.26,
+    "endTime": 317.26,
+    "text": "maybe they would be a cool, new communication technology."
+  },
+  {
+    "startTime": 317.26,
+    "endTime": 319.26,
+    "text": "So imagine this:"
+  },
+  {
+    "startTime": 319.26,
+    "endTime": 321.26,
+    "text": "What about a robot accessory for your cellphone?"
+  },
+  {
+    "startTime": 321.26,
+    "endTime": 323.26,
+    "text": "You call your friend, she puts her handset in a robot,"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "and, bam! You're a MeBot --"
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 328.26,
+    "text": "you can make eye contact, you can talk with your friends,"
+  },
+  {
+    "startTime": 328.26,
+    "endTime": 330.26,
+    "text": "you can move around, you can gesture --"
+  },
+  {
+    "startTime": 330.26,
+    "endTime": 333.26,
+    "text": "maybe the next best thing to really being there, or is it?"
+  },
+  {
+    "startTime": 333.26,
+    "endTime": 335.26,
+    "text": "To explore this question,"
+  },
+  {
+    "startTime": 335.26,
+    "endTime": 338.26,
+    "text": "my student, Siggy Adalgeirsson, did a study"
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 341.26,
+    "text": "where we brought human participants, people, into our lab"
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 343.26,
+    "text": "to do a collaborative task"
+  },
+  {
+    "startTime": 343.26,
+    "endTime": 345.26,
+    "text": "with a remote collaborator."
+  },
+  {
+    "startTime": 345.26,
+    "endTime": 347.26,
+    "text": "The task involved things"
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 349.26,
+    "text": "like looking at a set of objects on the table,"
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 352.26,
+    "text": "discussing them in terms of their importance and relevance to performing a certain task --"
+  },
+  {
+    "startTime": 352.26,
+    "endTime": 354.26,
+    "text": "this ended up being a survival task --"
+  },
+  {
+    "startTime": 354.26,
+    "endTime": 356.26,
+    "text": "and then rating them in terms"
+  },
+  {
+    "startTime": 356.26,
+    "endTime": 358.26,
+    "text": "of how valuable and important they thought they were."
+  },
+  {
+    "startTime": 358.26,
+    "endTime": 361.26,
+    "text": "The remote collaborator was an experimenter from our group"
+  },
+  {
+    "startTime": 361.26,
+    "endTime": 363.26,
+    "text": "who used one of three different technologies"
+  },
+  {
+    "startTime": 363.26,
+    "endTime": 365.26,
+    "text": "to interact with the participants."
+  },
+  {
+    "startTime": 365.26,
+    "endTime": 367.26,
+    "text": "The first was just the screen."
+  },
+  {
+    "startTime": 367.26,
+    "endTime": 370.26,
+    "text": "This is just like video conferencing today."
+  },
+  {
+    "startTime": 370.26,
+    "endTime": 373.26,
+    "text": "The next was to add mobility -- so, have the screen on a mobile base."
+  },
+  {
+    "startTime": 373.26,
+    "endTime": 376.26,
+    "text": "This is like, if you're familiar with any of the telepresence robots today --"
+  },
+  {
+    "startTime": 376.26,
+    "endTime": 379.26,
+    "text": "this is mirroring that situation."
+  },
+  {
+    "startTime": 379.26,
+    "endTime": 381.26,
+    "text": "And then the fully expressive MeBot."
+  },
+  {
+    "startTime": 381.26,
+    "endTime": 383.26,
+    "text": "So after the interaction,"
+  },
+  {
+    "startTime": 383.26,
+    "endTime": 386.26,
+    "text": "we asked people to rate their quality of interaction"
+  },
+  {
+    "startTime": 386.26,
+    "endTime": 388.26,
+    "text": "with the technology, with a remote collaborator"
+  },
+  {
+    "startTime": 388.26,
+    "endTime": 391.26,
+    "text": "through this technology, in a number of different ways."
+  },
+  {
+    "startTime": 391.26,
+    "endTime": 393.26,
+    "text": "We looked at psychological involvement --"
+  },
+  {
+    "startTime": 393.26,
+    "endTime": 395.26,
+    "text": "how much empathy did you feel for the other person?"
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 397.26,
+    "text": "We looked at overall engagement."
+  },
+  {
+    "startTime": 397.26,
+    "endTime": 399.26,
+    "text": "We looked at their desire to cooperate."
+  },
+  {
+    "startTime": 399.26,
+    "endTime": 402.26,
+    "text": "And this is what we see when they use just the screen."
+  },
+  {
+    "startTime": 402.26,
+    "endTime": 405.26,
+    "text": "It turns out, when you add mobility -- the ability to roll around the table --"
+  },
+  {
+    "startTime": 405.26,
+    "endTime": 407.26,
+    "text": "you get a little more of a boost."
+  },
+  {
+    "startTime": 407.26,
+    "endTime": 410.26,
+    "text": "And you get even more of a boost when you add the full expression."
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 412.26,
+    "text": "So it seems like this physical, social embodiment"
+  },
+  {
+    "startTime": 412.26,
+    "endTime": 414.26,
+    "text": "actually really makes a difference."
+  },
+  {
+    "startTime": 414.26,
+    "endTime": 417.26,
+    "text": "Now let's try to put this into a little bit of context."
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 420.26,
+    "text": "Today we know that families are living further and further apart,"
+  },
+  {
+    "startTime": 420.26,
+    "endTime": 422.26,
+    "text": "and that definitely takes a toll on family relationships"
+  },
+  {
+    "startTime": 422.26,
+    "endTime": 424.26,
+    "text": "and family bonds over distance."
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 426.26,
+    "text": "For me, I have three young boys,"
+  },
+  {
+    "startTime": 426.26,
+    "endTime": 428.26,
+    "text": "and I want them to have a really good relationship"
+  },
+  {
+    "startTime": 428.26,
+    "endTime": 430.26,
+    "text": "with their grandparents."
+  },
+  {
+    "startTime": 430.26,
+    "endTime": 432.26,
+    "text": "But my parents live thousands of miles away,"
+  },
+  {
+    "startTime": 432.26,
+    "endTime": 434.26,
+    "text": "so they just don't get to see each other that often."
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 436.26,
+    "text": "We try Skype, we try phone calls,"
+  },
+  {
+    "startTime": 436.26,
+    "endTime": 438.26,
+    "text": "but my boys are little -- they don't really want to talk;"
+  },
+  {
+    "startTime": 438.26,
+    "endTime": 440.26,
+    "text": "they want to play."
+  },
+  {
+    "startTime": 440.26,
+    "endTime": 442.26,
+    "text": "So I love the idea of thinking about robots"
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 445.26,
+    "text": "as a new kind of distance-play technology."
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 448.26,
+    "text": "I imagine a time not too far from now --"
+  },
+  {
+    "startTime": 448.26,
+    "endTime": 450.26,
+    "text": "my mom can go to her computer,"
+  },
+  {
+    "startTime": 450.26,
+    "endTime": 452.26,
+    "text": "open up a browser and jack into a little robot."
+  },
+  {
+    "startTime": 452.26,
+    "endTime": 455.26,
+    "text": "And as grandma-bot,"
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 457.26,
+    "text": "she can now play, really play,"
+  },
+  {
+    "startTime": 457.26,
+    "endTime": 459.26,
+    "text": "with my sons, with her grandsons,"
+  },
+  {
+    "startTime": 459.26,
+    "endTime": 462.26,
+    "text": "in the real world with his real toys."
+  },
+  {
+    "startTime": 462.26,
+    "endTime": 464.26,
+    "text": "I could imagine grandmothers being able to do social-plays"
+  },
+  {
+    "startTime": 464.26,
+    "endTime": 466.26,
+    "text": "with their granddaughters, with their friends,"
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 468.26,
+    "text": "and to be able to share all kinds of other activities around the house,"
+  },
+  {
+    "startTime": 468.26,
+    "endTime": 470.26,
+    "text": "like sharing a bedtime story."
+  },
+  {
+    "startTime": 470.26,
+    "endTime": 472.26,
+    "text": "And through this technology,"
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 474.26,
+    "text": "being able to be an active participant"
+  },
+  {
+    "startTime": 474.26,
+    "endTime": 476.26,
+    "text": "in their grandchildren's lives"
+  },
+  {
+    "startTime": 476.26,
+    "endTime": 478.26,
+    "text": "in a way that's not possible today."
+  },
+  {
+    "startTime": 478.26,
+    "endTime": 480.26,
+    "text": "Let's think about some other domains,"
+  },
+  {
+    "startTime": 480.26,
+    "endTime": 482.26,
+    "text": "like maybe health."
+  },
+  {
+    "startTime": 482.26,
+    "endTime": 484.26,
+    "text": "So in the United States today,"
+  },
+  {
+    "startTime": 484.26,
+    "endTime": 487.26,
+    "text": "over 65 percent of people are either overweight or obese,"
+  },
+  {
+    "startTime": 487.26,
+    "endTime": 489.26,
+    "text": "and now it's a big problem with our children as well."
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 491.26,
+    "text": "And we know that as you get older in life,"
+  },
+  {
+    "startTime": 491.26,
+    "endTime": 494.26,
+    "text": "if you're obese when you're younger, that can lead to chronic diseases"
+  },
+  {
+    "startTime": 494.26,
+    "endTime": 496.26,
+    "text": "that not only reduce your quality of life,"
+  },
+  {
+    "startTime": 496.26,
+    "endTime": 499.26,
+    "text": "but are a tremendous economic burden on our health care system."
+  },
+  {
+    "startTime": 499.26,
+    "endTime": 501.26,
+    "text": "But if robots can be engaging,"
+  },
+  {
+    "startTime": 501.26,
+    "endTime": 503.26,
+    "text": "if we like to cooperate with robots,"
+  },
+  {
+    "startTime": 503.26,
+    "endTime": 505.26,
+    "text": "if robots are persuasive,"
+  },
+  {
+    "startTime": 505.26,
+    "endTime": 507.26,
+    "text": "maybe a robot can help you"
+  },
+  {
+    "startTime": 507.26,
+    "endTime": 509.26,
+    "text": "maintain a diet and exercise program,"
+  },
+  {
+    "startTime": 509.26,
+    "endTime": 512.26,
+    "text": "maybe they can help you manage your weight."
+  },
+  {
+    "startTime": 512.26,
+    "endTime": 514.26,
+    "text": "Sort of like a digital Jiminy --"
+  },
+  {
+    "startTime": 514.26,
+    "endTime": 516.26,
+    "text": "as in the well-known fairy tale --"
+  },
+  {
+    "startTime": 516.26,
+    "endTime": 518.26,
+    "text": "a kind of friendly, supportive presence that's always there"
+  },
+  {
+    "startTime": 518.26,
+    "endTime": 520.26,
+    "text": "to be able to help you make the right decision"
+  },
+  {
+    "startTime": 520.26,
+    "endTime": 522.26,
+    "text": "in the right way at the right time"
+  },
+  {
+    "startTime": 522.26,
+    "endTime": 524.26,
+    "text": "to help you form healthy habits."
+  },
+  {
+    "startTime": 524.26,
+    "endTime": 526.26,
+    "text": "So we actually explored this idea in our lab."
+  },
+  {
+    "startTime": 526.26,
+    "endTime": 528.26,
+    "text": "This is a robot, Autom."
+  },
+  {
+    "startTime": 528.26,
+    "endTime": 531.26,
+    "text": "Cory Kidd developed this robot for his doctoral work."
+  },
+  {
+    "startTime": 531.26,
+    "endTime": 534.26,
+    "text": "And it was designed to be a robot diet-and-exercise coach."
+  },
+  {
+    "startTime": 534.26,
+    "endTime": 536.26,
+    "text": "It had a couple of simple non-verbal skills it could do."
+  },
+  {
+    "startTime": 536.26,
+    "endTime": 538.26,
+    "text": "It could make eye contact with you."
+  },
+  {
+    "startTime": 538.26,
+    "endTime": 540.26,
+    "text": "It could share information looking down at a screen."
+  },
+  {
+    "startTime": 540.26,
+    "endTime": 542.26,
+    "text": "You'd use a screen interface to enter information,"
+  },
+  {
+    "startTime": 542.26,
+    "endTime": 544.26,
+    "text": "like how many calories you ate that day,"
+  },
+  {
+    "startTime": 544.26,
+    "endTime": 546.26,
+    "text": "how much exercise you got."
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 548.26,
+    "text": "And then it could help track that for you."
+  },
+  {
+    "startTime": 548.26,
+    "endTime": 550.26,
+    "text": "And the robot spoke with a synthetic voice"
+  },
+  {
+    "startTime": 550.26,
+    "endTime": 552.26,
+    "text": "to engage you in a coaching dialogue"
+  },
+  {
+    "startTime": 552.26,
+    "endTime": 554.26,
+    "text": "modeled after trainers"
+  },
+  {
+    "startTime": 554.26,
+    "endTime": 556.26,
+    "text": "and patients and so forth."
+  },
+  {
+    "startTime": 556.26,
+    "endTime": 558.26,
+    "text": "And it would build a working alliance with you"
+  },
+  {
+    "startTime": 558.26,
+    "endTime": 560.26,
+    "text": "through that dialogue."
+  },
+  {
+    "startTime": 560.26,
+    "endTime": 562.26,
+    "text": "It could help you set goals and track your progress,"
+  },
+  {
+    "startTime": 562.26,
+    "endTime": 564.26,
+    "text": "and it would help motivate you."
+  },
+  {
+    "startTime": 564.26,
+    "endTime": 566.26,
+    "text": "So an interesting question is,"
+  },
+  {
+    "startTime": 566.26,
+    "endTime": 569.26,
+    "text": "does the social embodiment really matter? Does it matter that it's a robot?"
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 572.26,
+    "text": "Is it really just the quality of advice and information that matters?"
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 574.26,
+    "text": "To explore that question,"
+  },
+  {
+    "startTime": 574.26,
+    "endTime": 576.26,
+    "text": "we did a study in the Boston area"
+  },
+  {
+    "startTime": 576.26,
+    "endTime": 579.26,
+    "text": "where we put one of three interventions in people's homes"
+  },
+  {
+    "startTime": 579.26,
+    "endTime": 581.26,
+    "text": "for a period of several weeks."
+  },
+  {
+    "startTime": 581.26,
+    "endTime": 584.26,
+    "text": "One case was the robot you saw there, Autom."
+  },
+  {
+    "startTime": 584.26,
+    "endTime": 587.26,
+    "text": "Another was a computer that ran the same touch-screen interface,"
+  },
+  {
+    "startTime": 587.26,
+    "endTime": 589.26,
+    "text": "ran exactly the same dialogues."
+  },
+  {
+    "startTime": 589.26,
+    "endTime": 591.26,
+    "text": "The quality of advice was identical."
+  },
+  {
+    "startTime": 591.26,
+    "endTime": 593.26,
+    "text": "And the third was just a pen and paper log,"
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 595.26,
+    "text": "because that's the standard intervention you typically get"
+  },
+  {
+    "startTime": 595.26,
+    "endTime": 598.26,
+    "text": "when you start a diet-and-exercise program."
+  },
+  {
+    "startTime": 598.26,
+    "endTime": 601.26,
+    "text": "So one of the things we really wanted to look at"
+  },
+  {
+    "startTime": 601.26,
+    "endTime": 604.26,
+    "text": "was not how much weight people lost,"
+  },
+  {
+    "startTime": 604.26,
+    "endTime": 607.26,
+    "text": "but really how long they interacted with the robot."
+  },
+  {
+    "startTime": 607.26,
+    "endTime": 610.26,
+    "text": "Because the challenge is not losing weight, it's actually keeping it off."
+  },
+  {
+    "startTime": 610.26,
+    "endTime": 613.26,
+    "text": "And the longer you could interact with one of these interventions,"
+  },
+  {
+    "startTime": 613.26,
+    "endTime": 616.26,
+    "text": "well that's indicative, potentially, of longer-term success."
+  },
+  {
+    "startTime": 616.26,
+    "endTime": 618.26,
+    "text": "So the first thing I want to look at is how long,"
+  },
+  {
+    "startTime": 618.26,
+    "endTime": 620.26,
+    "text": "how long did people interact with these systems."
+  },
+  {
+    "startTime": 620.26,
+    "endTime": 622.26,
+    "text": "It turns out that people interacted with the robot"
+  },
+  {
+    "startTime": 622.26,
+    "endTime": 624.26,
+    "text": "significantly more,"
+  },
+  {
+    "startTime": 624.26,
+    "endTime": 628.26,
+    "text": "even though the quality of the advice was identical to the computer."
+  },
+  {
+    "startTime": 628.26,
+    "endTime": 631.26,
+    "text": "When it asked people to rate it on terms of the quality of the working alliance,"
+  },
+  {
+    "startTime": 631.26,
+    "endTime": 633.26,
+    "text": "people rated the robot higher"
+  },
+  {
+    "startTime": 633.26,
+    "endTime": 635.26,
+    "text": "and they trusted the robot more."
+  },
+  {
+    "startTime": 635.26,
+    "endTime": 637.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 637.26,
+    "endTime": 639.26,
+    "text": "And when you look at emotional engagement,"
+  },
+  {
+    "startTime": 639.26,
+    "endTime": 641.26,
+    "text": "it was completely different."
+  },
+  {
+    "startTime": 641.26,
+    "endTime": 643.26,
+    "text": "People would name the robots."
+  },
+  {
+    "startTime": 643.26,
+    "endTime": 645.26,
+    "text": "They would dress the robots."
+  },
+  {
+    "startTime": 645.26,
+    "endTime": 647.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 647.26,
+    "endTime": 650.26,
+    "text": "And even when we would come up to pick up the robots at the end of the study,"
+  },
+  {
+    "startTime": 650.26,
+    "endTime": 652.26,
+    "text": "they would come out to the car and say good-bye to the robots."
+  },
+  {
+    "startTime": 652.26,
+    "endTime": 654.26,
+    "text": "They didn't do this with a computer."
+  },
+  {
+    "startTime": 654.26,
+    "endTime": 656.26,
+    "text": "The last thing I want to talk about today"
+  },
+  {
+    "startTime": 656.26,
+    "endTime": 658.26,
+    "text": "is the future of children's media."
+  },
+  {
+    "startTime": 658.26,
+    "endTime": 661.26,
+    "text": "We know that kids spend a lot of time behind screens today,"
+  },
+  {
+    "startTime": 661.26,
+    "endTime": 664.26,
+    "text": "whether it's television or computer games or whatnot."
+  },
+  {
+    "startTime": 664.26,
+    "endTime": 667.26,
+    "text": "My sons, they love the screen. They love the screen."
+  },
+  {
+    "startTime": 667.26,
+    "endTime": 670.26,
+    "text": "But I want them to play; as a mom, I want them to play,"
+  },
+  {
+    "startTime": 670.26,
+    "endTime": 672.26,
+    "text": "like, real-world play."
+  },
+  {
+    "startTime": 672.26,
+    "endTime": 675.26,
+    "text": "And so I have a new project in my group I wanted to present to you today"
+  },
+  {
+    "startTime": 675.26,
+    "endTime": 677.26,
+    "text": "called Playtime Computing"
+  },
+  {
+    "startTime": 677.26,
+    "endTime": 679.26,
+    "text": "that's really trying to think about how we can take"
+  },
+  {
+    "startTime": 679.26,
+    "endTime": 681.26,
+    "text": "what's so engaging about digital media"
+  },
+  {
+    "startTime": 681.26,
+    "endTime": 683.26,
+    "text": "and literally bring it off the screen"
+  },
+  {
+    "startTime": 683.26,
+    "endTime": 685.26,
+    "text": "into the real world of the child,"
+  },
+  {
+    "startTime": 685.26,
+    "endTime": 689.26,
+    "text": "where it can take on many of the properties of real-world play."
+  },
+  {
+    "startTime": 689.26,
+    "endTime": 693.26,
+    "text": "So here's the first exploration of this idea,"
+  },
+  {
+    "startTime": 693.26,
+    "endTime": 696.26,
+    "text": "where characters can be physical or virtual,"
+  },
+  {
+    "startTime": 696.26,
+    "endTime": 698.26,
+    "text": "and where the digital content"
+  },
+  {
+    "startTime": 698.26,
+    "endTime": 700.26,
+    "text": "can literally come off the screen"
+  },
+  {
+    "startTime": 700.26,
+    "endTime": 702.26,
+    "text": "into the world and back."
+  },
+  {
+    "startTime": 702.26,
+    "endTime": 704.26,
+    "text": "I like to think of this"
+  },
+  {
+    "startTime": 704.26,
+    "endTime": 706.26,
+    "text": "as the Atari Pong"
+  },
+  {
+    "startTime": 706.26,
+    "endTime": 708.26,
+    "text": "of this blended-reality play."
+  },
+  {
+    "startTime": 708.26,
+    "endTime": 710.26,
+    "text": "But we can push this idea further."
+  },
+  {
+    "startTime": 710.26,
+    "endTime": 712.26,
+    "text": "What if --"
+  },
+  {
+    "startTime": 712.26,
+    "endTime": 715.26,
+    "text": "(Game) Nathan: Here it comes. Yay!"
+  },
+  {
+    "startTime": 715.26,
+    "endTime": 718.26,
+    "text": "CB: -- the character itself could come into your world?"
+  },
+  {
+    "startTime": 718.26,
+    "endTime": 720.26,
+    "text": "It turns out that kids love it"
+  },
+  {
+    "startTime": 720.26,
+    "endTime": 723.26,
+    "text": "when the character becomes real and enters into their world."
+  },
+  {
+    "startTime": 723.26,
+    "endTime": 725.26,
+    "text": "And when it's in their world,"
+  },
+  {
+    "startTime": 725.26,
+    "endTime": 727.26,
+    "text": "they can relate to it and play with it in a way"
+  },
+  {
+    "startTime": 727.26,
+    "endTime": 729.26,
+    "text": "that's fundamentally different from how they play with it on the screen."
+  },
+  {
+    "startTime": 729.26,
+    "endTime": 731.26,
+    "text": "Another important idea is this notion"
+  },
+  {
+    "startTime": 731.26,
+    "endTime": 734.26,
+    "text": "of persistence of character across realities."
+  },
+  {
+    "startTime": 734.26,
+    "endTime": 736.26,
+    "text": "So changes that children make in the real world"
+  },
+  {
+    "startTime": 736.26,
+    "endTime": 738.26,
+    "text": "need to translate to the virtual world."
+  },
+  {
+    "startTime": 738.26,
+    "endTime": 741.26,
+    "text": "So here, Nathan has changed the letter A to the number 2."
+  },
+  {
+    "startTime": 741.26,
+    "endTime": 743.26,
+    "text": "You can imagine maybe these symbols"
+  },
+  {
+    "startTime": 743.26,
+    "endTime": 746.26,
+    "text": "give the characters special powers when it goes into the virtual world."
+  },
+  {
+    "startTime": 746.26,
+    "endTime": 749.26,
+    "text": "So they are now sending the character back into that world."
+  },
+  {
+    "startTime": 749.26,
+    "endTime": 752.26,
+    "text": "And now it's got number power."
+  },
+  {
+    "startTime": 752.26,
+    "endTime": 754.26,
+    "text": "And then finally, what I've been trying to do here"
+  },
+  {
+    "startTime": 754.26,
+    "endTime": 757.26,
+    "text": "is create a really immersive experience for kids,"
+  },
+  {
+    "startTime": 757.26,
+    "endTime": 760.26,
+    "text": "where they really feel like they are part of that story,"
+  },
+  {
+    "startTime": 760.26,
+    "endTime": 762.26,
+    "text": "a part of that experience."
+  },
+  {
+    "startTime": 762.26,
+    "endTime": 764.26,
+    "text": "And I really want to spark their imaginations"
+  },
+  {
+    "startTime": 764.26,
+    "endTime": 767.26,
+    "text": "the way mine was sparked as a little girl watching \"Star Wars.\""
+  },
+  {
+    "startTime": 767.26,
+    "endTime": 769.26,
+    "text": "But I want to do more than that."
+  },
+  {
+    "startTime": 769.26,
+    "endTime": 772.26,
+    "text": "I actually want them to create those experiences."
+  },
+  {
+    "startTime": 772.26,
+    "endTime": 774.26,
+    "text": "I want them to be able to literally build their imagination"
+  },
+  {
+    "startTime": 774.26,
+    "endTime": 776.26,
+    "text": "into these experiences and make them their own."
+  },
+  {
+    "startTime": 776.26,
+    "endTime": 778.26,
+    "text": "So we've been exploring a lot of ideas"
+  },
+  {
+    "startTime": 778.26,
+    "endTime": 780.26,
+    "text": "in telepresence and mixed reality"
+  },
+  {
+    "startTime": 780.26,
+    "endTime": 783.26,
+    "text": "to literally allow kids to project their ideas into this space"
+  },
+  {
+    "startTime": 783.26,
+    "endTime": 785.26,
+    "text": "where other kids can interact with them"
+  },
+  {
+    "startTime": 785.26,
+    "endTime": 787.26,
+    "text": "and build upon them."
+  },
+  {
+    "startTime": 787.26,
+    "endTime": 790.26,
+    "text": "I really want to come up with new ways of children's media"
+  },
+  {
+    "startTime": 790.26,
+    "endTime": 793.26,
+    "text": "that foster creativity and learning and innovation."
+  },
+  {
+    "startTime": 793.26,
+    "endTime": 796.26,
+    "text": "I think that's very, very important."
+  },
+  {
+    "startTime": 796.26,
+    "endTime": 798.26,
+    "text": "So this is a new project."
+  },
+  {
+    "startTime": 798.26,
+    "endTime": 800.26,
+    "text": "We've invited a lot of kids into this space,"
+  },
+  {
+    "startTime": 800.26,
+    "endTime": 803.26,
+    "text": "and they think it's pretty cool."
+  },
+  {
+    "startTime": 803.26,
+    "endTime": 805.26,
+    "text": "But I can tell you, the thing that they love the most"
+  },
+  {
+    "startTime": 805.26,
+    "endTime": 807.26,
+    "text": "is the robot."
+  },
+  {
+    "startTime": 807.26,
+    "endTime": 810.26,
+    "text": "What they care about is the robot."
+  },
+  {
+    "startTime": 810.26,
+    "endTime": 813.26,
+    "text": "Robots touch something deeply human within us."
+  },
+  {
+    "startTime": 813.26,
+    "endTime": 815.26,
+    "text": "And so whether they're helping us"
+  },
+  {
+    "startTime": 815.26,
+    "endTime": 817.26,
+    "text": "to become creative and innovative,"
+  },
+  {
+    "startTime": 817.26,
+    "endTime": 819.26,
+    "text": "or whether they're helping us"
+  },
+  {
+    "startTime": 819.26,
+    "endTime": 821.26,
+    "text": "to feel more deeply connected despite distance,"
+  },
+  {
+    "startTime": 821.26,
+    "endTime": 823.26,
+    "text": "or whether they are our trusted sidekick"
+  },
+  {
+    "startTime": 823.26,
+    "endTime": 825.26,
+    "text": "who's helping us attain our personal goals"
+  },
+  {
+    "startTime": 825.26,
+    "endTime": 827.26,
+    "text": "in becoming our highest and best selves,"
+  },
+  {
+    "startTime": 827.26,
+    "endTime": 830.26,
+    "text": "for me, robots are all about people."
+  },
+  {
+    "startTime": 830.26,
+    "endTime": 832.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 832.26,
+    "endTime": 842.26,
+    "text": "(Applause)"
+  }
+]
