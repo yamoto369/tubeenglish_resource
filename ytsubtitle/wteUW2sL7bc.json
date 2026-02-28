@@ -1,0 +1,572 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.0,
+    "text": "Imagine"
+  },
+  {
+    "startTime": 5.03,
+    "endTime": 7.6,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 7.6,
+    "endTime": 10.639,
+    "text": "an airplane flying 1 mm above the ground"
+  },
+  {
+    "startTime": 10.639,
+    "endTime": 13.519,
+    "text": "and circling the earth once every 25"
+  },
+  {
+    "startTime": 13.519,
+    "endTime": 16.08,
+    "text": "seconds while counting every blade of"
+  },
+  {
+    "startTime": 16.08,
+    "endTime": 18.8,
+    "text": "grass. Shrink all that down so that it"
+  },
+  {
+    "startTime": 18.8,
+    "endTime": 21.119,
+    "text": "fits in the palm of your hand and you'd"
+  },
+  {
+    "startTime": 21.119,
+    "endTime": 23.199,
+    "text": "have something equivalent to a modern"
+  },
+  {
+    "startTime": 23.199,
+    "endTime": 25.439,
+    "text": "hard drive, an object that can likely"
+  },
+  {
+    "startTime": 25.439,
+    "endTime": 27.279,
+    "text": "hold more information than your local"
+  },
+  {
+    "startTime": 27.279,
+    "endTime": 30.0,
+    "text": "library. So, how does it store so much"
+  },
+  {
+    "startTime": 30.0,
+    "endTime": 32.96,
+    "text": "information in such a small space? At"
+  },
+  {
+    "startTime": 32.96,
+    "endTime": 35.12,
+    "text": "the heart of every hard drive is a stack"
+  },
+  {
+    "startTime": 35.12,
+    "endTime": 37.76,
+    "text": "of high-speed spinning discs with a"
+  },
+  {
+    "startTime": 37.76,
+    "endTime": 40.879,
+    "text": "recording head flying over each surface."
+  },
+  {
+    "startTime": 40.879,
+    "endTime": 43.12,
+    "text": "Each disc is coated with a film of"
+  },
+  {
+    "startTime": 43.12,
+    "endTime": 46.48,
+    "text": "microscopic magnetized metal grains. And"
+  },
+  {
+    "startTime": 46.48,
+    "endTime": 48.48,
+    "text": "your data doesn't live there in a form"
+  },
+  {
+    "startTime": 48.48,
+    "endTime": 50.8,
+    "text": "you can recognize. Instead, it is"
+  },
+  {
+    "startTime": 50.8,
+    "endTime": 53.68,
+    "text": "recorded as a magnetic pattern formed by"
+  },
+  {
+    "startTime": 53.68,
+    "endTime": 56.079,
+    "text": "groups of those tiny grains. In each"
+  },
+  {
+    "startTime": 56.079,
+    "endTime": 58.64,
+    "text": "group, also known as a bit, all of the"
+  },
+  {
+    "startTime": 58.64,
+    "endTime": 61.039,
+    "text": "grains have their magnetizations aligned"
+  },
+  {
+    "startTime": 61.039,
+    "endTime": 63.76,
+    "text": "in one of two possible states, which"
+  },
+  {
+    "startTime": 63.76,
+    "endTime": 67.36,
+    "text": "correspond to zeros and ones. Data is"
+  },
+  {
+    "startTime": 67.36,
+    "endTime": 69.68,
+    "text": "written onto the disc by converting"
+  },
+  {
+    "startTime": 69.68,
+    "endTime": 72.64,
+    "text": "strings of bits into electrical current"
+  },
+  {
+    "startTime": 72.64,
+    "endTime": 75.2,
+    "text": "fed through an electromagnet. This"
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 77.52,
+    "text": "magnet generates a field strong enough"
+  },
+  {
+    "startTime": 77.52,
+    "endTime": 79.6,
+    "text": "to change the direction of the metal"
+  },
+  {
+    "startTime": 79.6,
+    "endTime": 81.52,
+    "text": "grains magnetization."
+  },
+  {
+    "startTime": 81.52,
+    "endTime": 83.439,
+    "text": "Once this information is written onto"
+  },
+  {
+    "startTime": 83.439,
+    "endTime": 85.84,
+    "text": "the disc, the drive uses a magnetic"
+  },
+  {
+    "startTime": 85.84,
+    "endTime": 87.92,
+    "text": "reader to turn it back into a useful"
+  },
+  {
+    "startTime": 87.92,
+    "endTime": 90.32,
+    "text": "form. Much like a phonograph needle"
+  },
+  {
+    "startTime": 90.32,
+    "endTime": 92.32,
+    "text": "translates a record's grooves into"
+  },
+  {
+    "startTime": 92.32,
+    "endTime": 95.119,
+    "text": "music. But how can you get so much"
+  },
+  {
+    "startTime": 95.119,
+    "endTime": 97.84,
+    "text": "information out of just zeros and ones?"
+  },
+  {
+    "startTime": 97.84,
+    "endTime": 100.4,
+    "text": "Well, by putting lots of them together."
+  },
+  {
+    "startTime": 100.4,
+    "endTime": 102.88,
+    "text": "For example, a letter is represented in"
+  },
+  {
+    "startTime": 102.88,
+    "endTime": 105.84,
+    "text": "one bite or eight bits. And your average"
+  },
+  {
+    "startTime": 105.84,
+    "endTime": 108.399,
+    "text": "photo takes up several megabytes, each"
+  },
+  {
+    "startTime": 108.399,
+    "endTime": 111.52,
+    "text": "of which is 8 million bits. Because each"
+  },
+  {
+    "startTime": 111.52,
+    "endTime": 113.84,
+    "text": "bit must be written onto a physical area"
+  },
+  {
+    "startTime": 113.84,
+    "endTime": 116.399,
+    "text": "of the disc, we're always seeking to"
+  },
+  {
+    "startTime": 116.399,
+    "endTime": 119.2,
+    "text": "increase the disc's aerial density, or"
+  },
+  {
+    "startTime": 119.2,
+    "endTime": 121.68,
+    "text": "how many bits can be squeezed into one"
+  },
+  {
+    "startTime": 121.68,
+    "endTime": 124.88,
+    "text": "square in. The aerial density of a"
+  },
+  {
+    "startTime": 124.88,
+    "endTime": 127.92,
+    "text": "modern hard drive is about 600 GB per"
+  },
+  {
+    "startTime": 127.92,
+    "endTime": 130.959,
+    "text": "square in, 300 million times greater"
+  },
+  {
+    "startTime": 130.959,
+    "endTime": 133.68,
+    "text": "than that of IBM's first hard drive from"
+  },
+  {
+    "startTime": 133.68,
+    "endTime": 135.44,
+    "text": "1957."
+  },
+  {
+    "startTime": 135.44,
+    "endTime": 138.0,
+    "text": "This amazing advance in storage capacity"
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 139.44,
+    "text": "wasn't just a matter of making"
+  },
+  {
+    "startTime": 139.44,
+    "endTime": 141.28,
+    "text": "everything smaller, but involved"
+  },
+  {
+    "startTime": 141.28,
+    "endTime": 143.84,
+    "text": "multiple innovations. A technique called"
+  },
+  {
+    "startTime": 143.84,
+    "endTime": 146.4,
+    "text": "the thin film lithography process"
+  },
+  {
+    "startTime": 146.4,
+    "endTime": 148.48,
+    "text": "allowed engineers to shrink the reader"
+  },
+  {
+    "startTime": 148.48,
+    "endTime": 151.2,
+    "text": "and writer. And despite its size, the"
+  },
+  {
+    "startTime": 151.2,
+    "endTime": 153.599,
+    "text": "reader became more sensitive by taking"
+  },
+  {
+    "startTime": 153.599,
+    "endTime": 156.08,
+    "text": "advantage of new discoveries in magnetic"
+  },
+  {
+    "startTime": 156.08,
+    "endTime": 159.519,
+    "text": "and quantum properties of matter. Bits"
+  },
+  {
+    "startTime": 159.519,
+    "endTime": 161.599,
+    "text": "could also be packed closer together"
+  },
+  {
+    "startTime": 161.599,
+    "endTime": 163.84,
+    "text": "thanks to mathematical algorithms that"
+  },
+  {
+    "startTime": 163.84,
+    "endTime": 165.68,
+    "text": "filter out noise for magnetic"
+  },
+  {
+    "startTime": 165.68,
+    "endTime": 168.0,
+    "text": "interference and find the most likely"
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 170.239,
+    "text": "bit sequences from each chunk of"
+  },
+  {
+    "startTime": 170.239,
+    "endTime": 173.36,
+    "text": "readback signal and thermal expansion"
+  },
+  {
+    "startTime": 173.36,
+    "endTime": 175.84,
+    "text": "control of the head enabled by placing a"
+  },
+  {
+    "startTime": 175.84,
+    "endTime": 178.16,
+    "text": "heater under the magnetic writer allowed"
+  },
+  {
+    "startTime": 178.16,
+    "endTime": 181.36,
+    "text": "it to fly less than 5 nanome above the"
+  },
+  {
+    "startTime": 181.36,
+    "endTime": 184.319,
+    "text": "disc surface about the width of two"
+  },
+  {
+    "startTime": 184.319,
+    "endTime": 187.599,
+    "text": "strands of DNA. For the past several"
+  },
+  {
+    "startTime": 187.599,
+    "endTime": 189.68,
+    "text": "decades, the exponential growth in"
+  },
+  {
+    "startTime": 189.68,
+    "endTime": 191.68,
+    "text": "computers storage capacity and"
+  },
+  {
+    "startTime": 191.68,
+    "endTime": 194.319,
+    "text": "processing power has followed a pattern"
+  },
+  {
+    "startTime": 194.319,
+    "endTime": 197.68,
+    "text": "known as Moore's law, which in 1975"
+  },
+  {
+    "startTime": 197.68,
+    "endTime": 200.239,
+    "text": "predicted that information density would"
+  },
+  {
+    "startTime": 200.239,
+    "endTime": 204.4,
+    "text": "double every 2 years. But at around 100"
+  },
+  {
+    "startTime": 204.4,
+    "endTime": 206.8,
+    "text": "Gbits per square in, shrinking the"
+  },
+  {
+    "startTime": 206.8,
+    "endTime": 209.28,
+    "text": "magnetic grains further or cramming them"
+  },
+  {
+    "startTime": 209.28,
+    "endTime": 212.0,
+    "text": "closer together posed a new risk called"
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 215.2,
+    "text": "the super paramagnetic effect. When a"
+  },
+  {
+    "startTime": 215.2,
+    "endTime": 217.92,
+    "text": "magnetic grain volume is too small, its"
+  },
+  {
+    "startTime": 217.92,
+    "endTime": 220.56,
+    "text": "magnetization is easily disturbed by"
+  },
+  {
+    "startTime": 220.56,
+    "endTime": 223.28,
+    "text": "heat energy and can cause bits to switch"
+  },
+  {
+    "startTime": 223.28,
+    "endTime": 226.64,
+    "text": "unintentionally, leading to data loss."
+  },
+  {
+    "startTime": 226.64,
+    "endTime": 229.2,
+    "text": "Scientists resolved this limitation in a"
+  },
+  {
+    "startTime": 229.2,
+    "endTime": 231.68,
+    "text": "remarkably simple way by changing the"
+  },
+  {
+    "startTime": 231.68,
+    "endTime": 234.4,
+    "text": "direction of recording from longitudinal"
+  },
+  {
+    "startTime": 234.4,
+    "endTime": 236.799,
+    "text": "to perpendicular, allowing aerial"
+  },
+  {
+    "startTime": 236.799,
+    "endTime": 240.159,
+    "text": "density to approach 1 terabit per square"
+  },
+  {
+    "startTime": 240.159,
+    "endTime": 243.04,
+    "text": "in. Recently, the potential limit has"
+  },
+  {
+    "startTime": 243.04,
+    "endTime": 245.519,
+    "text": "been increased yet again through heatass"
+  },
+  {
+    "startTime": 245.519,
+    "endTime": 248.239,
+    "text": "assisted magnetic recording. This uses"
+  },
+  {
+    "startTime": 248.239,
+    "endTime": 251.04,
+    "text": "an even more thermally stable recording"
+  },
+  {
+    "startTime": 251.04,
+    "endTime": 253.599,
+    "text": "medium whose magnetic resistance is"
+  },
+  {
+    "startTime": 253.599,
+    "endTime": 256.16,
+    "text": "momentarily reduced by heating up a"
+  },
+  {
+    "startTime": 256.16,
+    "endTime": 258.56,
+    "text": "particular spot with a laser and"
+  },
+  {
+    "startTime": 258.56,
+    "endTime": 260.88,
+    "text": "allowing data to be written. And while"
+  },
+  {
+    "startTime": 260.88,
+    "endTime": 262.479,
+    "text": "those drives are currently in the"
+  },
+  {
+    "startTime": 262.479,
+    "endTime": 265.36,
+    "text": "prototype stage, scientists already have"
+  },
+  {
+    "startTime": 265.36,
+    "endTime": 267.68,
+    "text": "the next potential trick up their"
+  },
+  {
+    "startTime": 267.68,
+    "endTime": 270.88,
+    "text": "sleeves. bit patterned media where bit"
+  },
+  {
+    "startTime": 270.88,
+    "endTime": 273.44,
+    "text": "locations are arranged in separate"
+  },
+  {
+    "startTime": 273.44,
+    "endTime": 276.4,
+    "text": "nanoiz structures potentially allowing"
+  },
+  {
+    "startTime": 276.4,
+    "endTime": 279.52,
+    "text": "for aerial densities of 20 terabs per"
+  },
+  {
+    "startTime": 279.52,
+    "endTime": 282.88,
+    "text": "square in or more. So it's thanks to the"
+  },
+  {
+    "startTime": 282.88,
+    "endTime": 285.759,
+    "text": "combined efforts of generations of"
+  },
+  {
+    "startTime": 285.759,
+    "endTime": 288.56,
+    "text": "engineers, material scientists, and"
+  },
+  {
+    "startTime": 288.56,
+    "endTime": 291.199,
+    "text": "quantum physicists that this tool of"
+  },
+  {
+    "startTime": 291.199,
+    "endTime": 294.16,
+    "text": "incredible power and precision can spin"
+  },
+  {
+    "startTime": 294.16,
+    "endTime": 298.28,
+    "text": "in the palm of your hand."
+  },
+  {
+    "startTime": 304.38,
+    "endTime": 307.519,
+    "text": "[Music]"
+  }
+]

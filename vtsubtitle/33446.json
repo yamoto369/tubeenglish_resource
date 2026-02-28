@@ -1,0 +1,127 @@
+[
+  {
+    "startTime": 6.3,
+    "endTime": 14.2,
+    "text": "How is it that so many  intergalactic species in movies and TV just happen to speak perfect English?"
+  },
+  {
+    "startTime": 14.2,
+    "endTime": 21.35,
+    "text": "The short answer is that no one wants to watch a starship crew spend years compiling an alien dictionary."
+  },
+  {
+    "startTime": 21.35,
+    "endTime": 34.7,
+    "text": "But to keep things consistent, the creators of Star Trek and other science-fiction worlds have introduced the concept of a universal translator, a portable device that can instantly translate between any languages."
+  },
+  {
+    "startTime": 34.7,
+    "endTime": 38.2,
+    "text": "So is a universal translator possible in real life?"
+  },
+  {
+    "startTime": 38.2,
+    "endTime": 52.2,
+    "text": "We already have many programs that claim to do just that, taking a word, sentence,  or entire book in one language and translating it into almost any other, whether it's modern English or Ancient Sanskrit."
+  },
+  {
+    "startTime": 52.2,
+    "endTime": 59.400000000000006,
+    "text": "And if translation were just a matter of looking up words in a dictionary, these programs would run circles around humans."
+  },
+  {
+    "startTime": 59.4,
+    "endTime": 63.0,
+    "text": "The reality, however,  is a bit more complicated."
+  },
+  {
+    "startTime": 63.0,
+    "endTime": 78.5,
+    "text": "A rule-based translation program uses a lexical database, which includes all the words  you'd find in a dictionary and all grammatical forms they can take, and a set of rules to recognize the basic linguistic elements in the input language."
+  },
+  {
+    "startTime": 78.5,
+    "endTime": 97.0,
+    "text": "For a seemingly simple sentence like, \"The children eat the muffins,\" the program first parses its syntax, or grammatical structure, by identifying the children as the subject, and the rest of the sentence as the predicate consisting of a verb \"eat,\" and a direct object \"the muffins.\""
+  },
+  {
+    "startTime": 97.0,
+    "endTime": 109.5,
+    "text": "It then needs to recognize English morphology, or how the language can be broken down into its smallest meaningful units, such as the word muffin and the suffix \"s,\"  used to indicate plural."
+  },
+  {
+    "startTime": 109.5,
+    "endTime": 115.5,
+    "text": "Finally, it needs to understand the semantics, what the different parts of the sentence actually mean."
+  },
+  {
+    "startTime": 115.8,
+    "endTime": 124.5,
+    "text": "To translate this sentence properly, the program would refer to a different set of vocabulary and rules for each element of the target language."
+  },
+  {
+    "startTime": 124.5,
+    "endTime": 126.5,
+    "text": "But this is where it gets tricky."
+  },
+  {
+    "startTime": 126.5,
+    "endTime": 136.7,
+    "text": "The syntax of some languages allows words to be arranged in any order, while in others, doing so could make the muffin eat the child."
+  },
+  {
+    "startTime": 136.7,
+    "endTime": 139.2,
+    "text": "Morphology can also pose a problem."
+  },
+  {
+    "startTime": 139.2,
+    "endTime": 156.29999999999998,
+    "text": "Slovene distinguishes between two children and three or more using a dual suffix absent  in many other languages, while Russian's lack of definite articles might leave you wondering whether the children are eating  some particular muffins, or just eat muffins in general."
+  },
+  {
+    "startTime": 156.3,
+    "endTime": 167.4,
+    "text": "Finally, even when the semantics are technically correct, the program might miss their finer points, such as whether the children  \"mangiano\" the muffins, or \"divorano\" them."
+  },
+  {
+    "startTime": 167.4,
+    "endTime": 179.3,
+    "text": "Another method is  statistical machine translation, which analyzes a database  of books, articles, and documents that have already  been translated by humans."
+  },
+  {
+    "startTime": 179.3,
+    "endTime": 192.20000000000002,
+    "text": "By finding matches between source and translated text that are unlikely to occur by chance, the program can identify corresponding phrases and patterns, and use them for future translations."
+  },
+  {
+    "startTime": 192.2,
+    "endTime": 203.0,
+    "text": "However, the quality  of this type of translation depends on the size  of the initial database and the availability of samples  for certain languages or styles of writing."
+  },
+  {
+    "startTime": 203.0,
+    "endTime": 218.8,
+    "text": "The difficulty that computers have with the exceptions, irregularities and shades of meaning that seem to come instinctively to humans has led some researchers to believe that our understanding of language is a unique product  of our biological brain structure."
+  },
+  {
+    "startTime": 218.8,
+    "endTime": 236.8,
+    "text": "In fact, one of the most famous fictional universal translators, the Babel fish from  \"The Hitchhiker's Guide to the Galaxy\", is not a machine at all but a small creature that translates the brain waves and nerve signals of sentient species through a form of telepathy."
+  },
+  {
+    "startTime": 236.8,
+    "endTime": 244.8,
+    "text": "For now, learning a language the old fashioned way will still give you better results than any currently available computer program."
+  },
+  {
+    "startTime": 244.8,
+    "endTime": 257.8,
+    "text": "But this is no easy task, and the sheer number  of languages in the world, as well as the increasing interaction between the people who speak them, will only continue to spur greater advances in automatic translation."
+  },
+  {
+    "startTime": 257.8,
+    "endTime": 270.0,
+    "text": "Perhaps by the time we encounter intergalactic life forms, we'll be able to communicate with them through a tiny gizmo, or we might have to start compiling that dictionary, after all."
+  }
+]

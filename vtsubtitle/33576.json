@@ -1,0 +1,322 @@
+[
+  {
+    "startTime": 3.9,
+    "endTime": 7.199999999999999,
+    "text": "Hello, it's Scott Manley here. Now, I love the Star Wars movies."
+  },
+  {
+    "startTime": 7.4,
+    "endTime": 14.364,
+    "text": "When I first saw Star Wars as a four-year-old, it pretty much framed my life and sent me off in my spaceship obsessed course in life."
+  },
+  {
+    "startTime": 14.564,
+    "endTime": 18.416,
+    "text": "Now, Star Wars movies are actually pretty light in terms of physics and science."
+  },
+  {
+    "startTime": 18.616,
+    "endTime": 23.652,
+    "text": "They're often misclassified as science fiction, when I prefer to call them high-tech fantasy."
+  },
+  {
+    "startTime": 24.2,
+    "endTime": 28.494,
+    "text": "But there's one very important question for which we can invoke real-life physics."
+  },
+  {
+    "startTime": 28.8,
+    "endTime": 32.152,
+    "text": "Just what kind of power does it take to destroy a planet?"
+  },
+  {
+    "startTime": 32.352,
+    "endTime": 36.854,
+    "text": "I mean, three of the seven movies involve devices that are able to destroy planets,"
+  },
+  {
+    "startTime": 37.054,
+    "endTime": 39.745000000000005,
+    "text": "and I should mention that there's a couple of minor spoilers here."
+  },
+  {
+    "startTime": 39.95,
+    "endTime": 45.400000000000006,
+    "text": "And, as it turns out, it's pretty easy to figure out how much energy you would actually take to destroy a planet."
+  },
+  {
+    "startTime": 45.576,
+    "endTime": 52.656,
+    "text": "Indeed, in 2001, a paper addressed this issue by calculating the gravitational binding energy of these spherical planet."
+  },
+  {
+    "startTime": 52.856,
+    "endTime": 55.9,
+    "text": "You know, physicists love approximating things to spheres, by the way,"
+  },
+  {
+    "startTime": 56.65,
+    "endTime": 59.3,
+    "text": "at least with planets that's closer to reality."
+  },
+  {
+    "startTime": 59.5,
+    "endTime": 64.792,
+    "text": "And with the gravitational binding energy, it's a pretty simple concept for any Kerbal Space Program player."
+  },
+  {
+    "startTime": 64.992,
+    "endTime": 71.45,
+    "text": "We know that the escape velocity is the critical speed above which an object will escape to infinity and never fall back."
+  },
+  {
+    "startTime": 71.5,
+    "endTime": 76.152,
+    "text": "Now, imagine that you grab a rock from the surface of the planet and shoot off at escape velocity."
+  },
+  {
+    "startTime": 76.352,
+    "endTime": 79.62400000000001,
+    "text": "It's an easy equation to figure out how much energy is required."
+  },
+  {
+    "startTime": 79.824,
+    "endTime": 85.14999999999999,
+    "text": "And repeat that, bit by bit, rock by rock, as you go on, you're actually gonna need slightly less energy"
+  },
+  {
+    "startTime": 85.15,
+    "endTime": 90.69500000000001,
+    "text": "because as you throw bits into space, there's less mass of the planet left behind to hold them down."
+  },
+  {
+    "startTime": 91.0,
+    "endTime": 95.6,
+    "text": "But then wait, if you add them all up, using calculus, you get a very simple equation."
+  },
+  {
+    "startTime": 95.751,
+    "endTime": 104.64200000000001,
+    "text": "The energy is 3/5 times the gravitational constant, times the mass of the planet squared, and divided by the radius of the planet."
+  },
+  {
+    "startTime": 104.842,
+    "endTime": 115.614,
+    "text": "Now, for earth, that number is about 2.25 times 10 to the 32 joules, or in -illion speak, 225 million trillion trillion joules."
+  },
+  {
+    "startTime": 116.0,
+    "endTime": 120.8,
+    "text": "However, in the same paper, they went on to calculate that for larger planets like Jupiter."
+  },
+  {
+    "startTime": 120.85,
+    "endTime": 126.235,
+    "text": "The energy would be even higher, something like 2 times ten to the 36 Joules."
+  },
+  {
+    "startTime": 126.435,
+    "endTime": 129.75300000000001,
+    "text": "That said, 2 trillion trillion trillion Joules."
+  },
+  {
+    "startTime": 129.953,
+    "endTime": 138.356,
+    "text": "The authors hypothesize that the Death Star may, in fact, be able to destroy this by shutting down some of its non-critical system like life support."
+  },
+  {
+    "startTime": 138.556,
+    "endTime": 145.705,
+    "text": "And they wouldn't put that past the Empire, given there are spotty record on providing basic workplace safety features like handrails."
+  },
+  {
+    "startTime": 146.3,
+    "endTime": 154.33100000000002,
+    "text": "Now, this paper is actually underestimating the power of this technological terror, and by extension, the power of the Force."
+  },
+  {
+    "startTime": 154.8,
+    "endTime": 162.0,
+    "text": "In Star Wars, we see the destruction of Alderaan, in but a few second, the planet explodes, sending fragments away."
+  },
+  {
+    "startTime": 162.0,
+    "endTime": 169.387,
+    "text": "But assuming that Alderaan is similar to the earth, that exploding ball of plasma is exploding at many times the escape velocity."
+  },
+  {
+    "startTime": 169.587,
+    "endTime": 176.922,
+    "text": "Look at this demo in Universe Sandbox to show just how slow escape velocity is when you're comparing it to the size of the earth."
+  },
+  {
+    "startTime": 177.122,
+    "endTime": 181.508,
+    "text": "It's not particularly dramatic, unless, of course, you're on the surface of that planet."
+  },
+  {
+    "startTime": 181.708,
+    "endTime": 188.672,
+    "text": "This is, of course, done because Star Wars is a movie, and the audience expects special effects to wow them rather than bore them."
+  },
+  {
+    "startTime": 188.872,
+    "endTime": 197.229,
+    "text": "If we re-examine the sequence in slow mode, we can see that, within a second, the ball of pulverized planet is about two to three times the size of the original planet."
+  },
+  {
+    "startTime": 197.429,
+    "endTime": 201.769,
+    "text": "So, the substantial part is moving at over 10,000 kilometers per second."
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 206.0,
+    "text": "We're dealing with velocities many times higher than the escape velocity,"
+  },
+  {
+    "startTime": 206.0,
+    "endTime": 214.819,
+    "text": "and the gravitational binding energy is really a small correction compared to the kinetic energy required to accelerate a planet's worth of mass up to these speeds."
+  },
+  {
+    "startTime": 215.5,
+    "endTime": 219.011,
+    "text": "To be fair, this is an explosion, and it's more like a range of velocities."
+  },
+  {
+    "startTime": 219.211,
+    "endTime": 222.669,
+    "text": "But even if we take, say, a baseline of 1000 kilometers per second,"
+  },
+  {
+    "startTime": 222.7,
+    "endTime": 231.57399999999998,
+    "text": "the energy required to obliterate Alderaan in this manner that will satisfy movie goers, is about 3 times 10 to the 36 joules,"
+  },
+  {
+    "startTime": 231.774,
+    "endTime": 235.58,
+    "text": "are, once again, 3 trillion trillion trillion joules."
+  },
+  {
+    "startTime": 236.0,
+    "endTime": 247.086,
+    "text": "Now, in The Force Awakens, we have a new generation of planet busting super weapon that can project its beam of destruction over interstellar distances and destroy entire solar systems."
+  },
+  {
+    "startTime": 247.286,
+    "endTime": 253.112,
+    "text": "But, moreover, it's powered by a star, which gives me another opportunity to invoke real physics."
+  },
+  {
+    "startTime": 253.312,
+    "endTime": 265.639,
+    "text": "Our Sun emits roughly 3.85 times 10 to 26 watts of power, or again, in -illion speak, 385 trillion trillion joules per second,"
+  },
+  {
+    "startTime": 265.839,
+    "endTime": 277.121,
+    "text": "which means that for our law and estimate, it would take about a week of the sun's energy output to obliterate Alderaan, or 250 years, if you look at my higher estimates."
+  },
+  {
+    "startTime": 277.321,
+    "endTime": 281.28900000000004,
+    "text": "Now, in the 10-billion-year life span of a star, that isn't so bad."
+  },
+  {
+    "startTime": 281.8,
+    "endTime": 283.927,
+    "text": "But I do have some straight out problems with this."
+  },
+  {
+    "startTime": 284.127,
+    "endTime": 288.40000000000003,
+    "text": "Maybe I missed it, but it seems to me that they weren't planning on moving Starkiller Base around."
+  },
+  {
+    "startTime": 288.4,
+    "endTime": 299.452,
+    "text": "After all, the energy required to move a planet into hyperspace is probably similar to the energy required to destroy a planet by moving its different pieces at several kilometer per second in different directions."
+  },
+  {
+    "startTime": 299.5,
+    "endTime": 306.55,
+    "text": "But if you had to consume the entire star to do that, then you would need another star, and if it can't move,"
+  },
+  {
+    "startTime": 306.55,
+    "endTime": 309.325,
+    "text": "well, you gonna get another star, it seems like bad planning."
+  },
+  {
+    "startTime": 309.525,
+    "endTime": 312.42499999999995,
+    "text": "I mean, you don't even need mathematics to figure this out."
+  },
+  {
+    "startTime": 312.8,
+    "endTime": 316.7,
+    "text": "Okay, look, scriptwriters, hello! Look, there's a way to fix this."
+  },
+  {
+    "startTime": 316.72,
+    "endTime": 321.896,
+    "text": "There are stars that have luminosities that are something like a million times higher than the sun."
+  },
+  {
+    "startTime": 322.096,
+    "endTime": 327.759,
+    "text": "They're short-lived, but they can generate the energy required for epic planet busting for millions of years,"
+  },
+  {
+    "startTime": 327.959,
+    "endTime": 330.14,
+    "text": "long enough for any movie franchise."
+  },
+  {
+    "startTime": 330.34,
+    "endTime": 335.35299999999995,
+    "text": "Starkiller Base could soak up all the power it wanted to from the outer layers of these stars,"
+  },
+  {
+    "startTime": 335.36,
+    "endTime": 340.497,
+    "text": "and it could then even make the star turn from blue through red to black, as the energy was siphoned off,"
+  },
+  {
+    "startTime": 340.697,
+    "endTime": 346.4,
+    "text": "giving those X-wing pilots a way to gauge how long they had left in a visually arresting style."
+  },
+  {
+    "startTime": 346.45,
+    "endTime": 354.346,
+    "text": "And then, of course, after the siphoning stopped, the star would return to normal energy output and be ready for firing again in a few days' time."
+  },
+  {
+    "startTime": 354.85,
+    "endTime": 362.40000000000003,
+    "text": "Of course, the scriptwriters never asked me. Regardless, if you really wanna go into planetary destruction to strike fear into the hearts of your enemies,"
+  },
+  {
+    "startTime": 362.4,
+    "endTime": 369.13,
+    "text": "the Empire and the First Order are going way overboard, making millions of voices cry out in terror."
+  },
+  {
+    "startTime": 369.135,
+    "endTime": 373.861,
+    "text": "It just requires obliterating the top, a 0.1% of the planet near the surface."
+  },
+  {
+    "startTime": 374.061,
+    "endTime": 381.28,
+    "text": "The other 99.9% of a planet is generally things like magma that isn't particularly hospitable to life."
+  },
+  {
+    "startTime": 382.0,
+    "endTime": 385.03,
+    "text": "I'm Scott Manley. Fly safe."
+  }
+]

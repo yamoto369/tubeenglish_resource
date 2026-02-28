@@ -1,0 +1,542 @@
+[
+  {
+    "startTime": 5.649,
+    "endTime": 8.87,
+    "text": "how is it that so many intergalactic"
+  },
+  {
+    "startTime": 8.87,
+    "endTime": 12.32,
+    "text": "species in movies and TV just happen to"
+  },
+  {
+    "startTime": 12.32,
+    "endTime": 15.02,
+    "text": "speak perfect English the short answer"
+  },
+  {
+    "startTime": 15.02,
+    "endTime": 17.18,
+    "text": "is that no one wants to watch a starship"
+  },
+  {
+    "startTime": 17.18,
+    "endTime": 20.18,
+    "text": "crew spend years compiling an alien"
+  },
+  {
+    "startTime": 20.18,
+    "endTime": 22.55,
+    "text": "dictionary but to keep things consistent"
+  },
+  {
+    "startTime": 22.55,
+    "endTime": 25.25,
+    "text": "the creators of Star Trek and other"
+  },
+  {
+    "startTime": 25.25,
+    "endTime": 27.38,
+    "text": "science-fiction worlds have introduced"
+  },
+  {
+    "startTime": 27.38,
+    "endTime": 30.01,
+    "text": "the concept of a universal translator a"
+  },
+  {
+    "startTime": 30.01,
+    "endTime": 32.119,
+    "text": "portable device that can instantly"
+  },
+  {
+    "startTime": 32.119,
+    "endTime": 35.27,
+    "text": "translate between any languages so is a"
+  },
+  {
+    "startTime": 35.27,
+    "endTime": 37.46,
+    "text": "universal translator possible in real"
+  },
+  {
+    "startTime": 37.46,
+    "endTime": 40.37,
+    "text": "life we already have many programs that"
+  },
+  {
+    "startTime": 40.37,
+    "endTime": 41.75,
+    "text": "claim to do just that"
+  },
+  {
+    "startTime": 41.75,
+    "endTime": 44.989,
+    "text": "taking a word sentence or entire book in"
+  },
+  {
+    "startTime": 44.989,
+    "endTime": 47.18,
+    "text": "one language and translating it into"
+  },
+  {
+    "startTime": 47.18,
+    "endTime": 49.61,
+    "text": "almost any other whether it's modern"
+  },
+  {
+    "startTime": 49.61,
+    "endTime": 52.579,
+    "text": "English or ancient Sanskrit and if"
+  },
+  {
+    "startTime": 52.579,
+    "endTime": 54.14,
+    "text": "translation were just a matter of"
+  },
+  {
+    "startTime": 54.14,
+    "endTime": 56.3,
+    "text": "looking up words in a dictionary these"
+  },
+  {
+    "startTime": 56.3,
+    "endTime": 58.969,
+    "text": "programs would run circles around humans"
+  },
+  {
+    "startTime": 58.969,
+    "endTime": 61.82,
+    "text": "the reality however is a bit more"
+  },
+  {
+    "startTime": 61.82,
+    "endTime": 64.64,
+    "text": "complicated a rule-based translation"
+  },
+  {
+    "startTime": 64.64,
+    "endTime": 67.52,
+    "text": "program uses a lexical database which"
+  },
+  {
+    "startTime": 67.52,
+    "endTime": 69.5,
+    "text": "includes all the words you'd find in a"
+  },
+  {
+    "startTime": 69.5,
+    "endTime": 71.96,
+    "text": "dictionary and all grammatical forms"
+  },
+  {
+    "startTime": 71.96,
+    "endTime": 74.21,
+    "text": "they can take and set of rules to"
+  },
+  {
+    "startTime": 74.21,
+    "endTime": 76.31,
+    "text": "recognize the basic linguistic elements"
+  },
+  {
+    "startTime": 76.31,
+    "endTime": 79.43,
+    "text": "in the input language for a seemingly"
+  },
+  {
+    "startTime": 79.43,
+    "endTime": 81.59,
+    "text": "simple sentence like the children eat"
+  },
+  {
+    "startTime": 81.59,
+    "endTime": 84.38,
+    "text": "the muffins the program first parses its"
+  },
+  {
+    "startTime": 84.38,
+    "endTime": 87.11,
+    "text": "syntax or grammatical structure by"
+  },
+  {
+    "startTime": 87.11,
+    "endTime": 89.45,
+    "text": "identifying the children as the subject"
+  },
+  {
+    "startTime": 89.45,
+    "endTime": 91.43,
+    "text": "and the rest of the sentence as the"
+  },
+  {
+    "startTime": 91.43,
+    "endTime": 94.549,
+    "text": "predicate consisting of a verb eat and a"
+  },
+  {
+    "startTime": 94.549,
+    "endTime": 97.79,
+    "text": "direct object the muffins it then needs"
+  },
+  {
+    "startTime": 97.79,
+    "endTime": 100.64,
+    "text": "to recognize English morphology or how"
+  },
+  {
+    "startTime": 100.64,
+    "endTime": 102.74,
+    "text": "the language can be broken down into its"
+  },
+  {
+    "startTime": 102.74,
+    "endTime": 105.14,
+    "text": "smallest meaningful units such as the"
+  },
+  {
+    "startTime": 105.14,
+    "endTime": 107.99,
+    "text": "word muffin and the suffix s used to"
+  },
+  {
+    "startTime": 107.99,
+    "endTime": 110.93,
+    "text": "indicate plural finally it needs to"
+  },
+  {
+    "startTime": 110.93,
+    "endTime": 113.03,
+    "text": "understand the semantics what the"
+  },
+  {
+    "startTime": 113.03,
+    "endTime": 114.799,
+    "text": "different parts of the sentence actually"
+  },
+  {
+    "startTime": 114.799,
+    "endTime": 117.439,
+    "text": "mean to translate the sentence properly"
+  },
+  {
+    "startTime": 117.439,
+    "endTime": 119.54,
+    "text": "the program would refer to a different"
+  },
+  {
+    "startTime": 119.54,
+    "endTime": 122.6,
+    "text": "set of vocabulary and rules for each"
+  },
+  {
+    "startTime": 122.6,
+    "endTime": 125.299,
+    "text": "element of the target language but this"
+  },
+  {
+    "startTime": 125.299,
+    "endTime": 126.38,
+    "text": "is where it gets tricky"
+  },
+  {
+    "startTime": 126.38,
+    "endTime": 129.11,
+    "text": "the syntax of some languages allows"
+  },
+  {
+    "startTime": 129.11,
+    "endTime": 132.079,
+    "text": "words to be arranged in any order while"
+  },
+  {
+    "startTime": 132.079,
+    "endTime": 134.45,
+    "text": "in others doing so could make the muffin"
+  },
+  {
+    "startTime": 134.45,
+    "endTime": 136.51,
+    "text": "eat the child"
+  },
+  {
+    "startTime": 136.51,
+    "endTime": 138.97,
+    "text": "morphology can also pose a problem"
+  },
+  {
+    "startTime": 138.97,
+    "endTime": 141.35,
+    "text": "Slovene distinguishes between two"
+  },
+  {
+    "startTime": 141.35,
+    "endTime": 143.81,
+    "text": "children and three or more using a dual"
+  },
+  {
+    "startTime": 143.81,
+    "endTime": 146.33,
+    "text": "suffix absent in many other languages"
+  },
+  {
+    "startTime": 146.33,
+    "endTime": 149.18,
+    "text": "while Russians lack of definite articles"
+  },
+  {
+    "startTime": 149.18,
+    "endTime": 150.98,
+    "text": "might leave you wondering whether the"
+  },
+  {
+    "startTime": 150.98,
+    "endTime": 152.87,
+    "text": "children are eating some particular"
+  },
+  {
+    "startTime": 152.87,
+    "endTime": 156.04,
+    "text": "muffins or just eat muffins in general"
+  },
+  {
+    "startTime": 156.04,
+    "endTime": 158.54,
+    "text": "finally even when the semantics are"
+  },
+  {
+    "startTime": 158.54,
+    "endTime": 160.79,
+    "text": "technically correct the program might"
+  },
+  {
+    "startTime": 160.79,
+    "endTime": 163.22,
+    "text": "miss their finer points such as whether"
+  },
+  {
+    "startTime": 163.22,
+    "endTime": 166.07,
+    "text": "the children manzano the muffins or de"
+  },
+  {
+    "startTime": 166.07,
+    "endTime": 168.64,
+    "text": "Verano them another method is"
+  },
+  {
+    "startTime": 168.64,
+    "endTime": 171.74,
+    "text": "statistical machine translation which"
+  },
+  {
+    "startTime": 171.74,
+    "endTime": 174.59,
+    "text": "analyzes a database of books articles"
+  },
+  {
+    "startTime": 174.59,
+    "endTime": 177.2,
+    "text": "and documents that have already been"
+  },
+  {
+    "startTime": 177.2,
+    "endTime": 180.14,
+    "text": "translated by humans by finding matches"
+  },
+  {
+    "startTime": 180.14,
+    "endTime": 183.14,
+    "text": "between source and translated texts that"
+  },
+  {
+    "startTime": 183.14,
+    "endTime": 185.63,
+    "text": "are unlikely to occur by chance the"
+  },
+  {
+    "startTime": 185.63,
+    "endTime": 187.85,
+    "text": "program can identify corresponding"
+  },
+  {
+    "startTime": 187.85,
+    "endTime": 190.31,
+    "text": "phrases and patterns and use them for"
+  },
+  {
+    "startTime": 190.31,
+    "endTime": 193.43,
+    "text": "future translations however the quality"
+  },
+  {
+    "startTime": 193.43,
+    "endTime": 195.83,
+    "text": "of this type of translation depends on"
+  },
+  {
+    "startTime": 195.83,
+    "endTime": 198.23,
+    "text": "the size of the initial database and the"
+  },
+  {
+    "startTime": 198.23,
+    "endTime": 200.54,
+    "text": "availability of samples for certain"
+  },
+  {
+    "startTime": 200.54,
+    "endTime": 203.27,
+    "text": "languages or styles of writing the"
+  },
+  {
+    "startTime": 203.27,
+    "endTime": 205.22,
+    "text": "difficulty that computers have with the"
+  },
+  {
+    "startTime": 205.22,
+    "endTime": 208.13,
+    "text": "exceptions irregularities and shades of"
+  },
+  {
+    "startTime": 208.13,
+    "endTime": 209.3,
+    "text": "meaning that seemed to come"
+  },
+  {
+    "startTime": 209.3,
+    "endTime": 211.73,
+    "text": "instinctively to humans has led some"
+  },
+  {
+    "startTime": 211.73,
+    "endTime": 213.38,
+    "text": "researchers to believe that our"
+  },
+  {
+    "startTime": 213.38,
+    "endTime": 215.84,
+    "text": "understanding of language is a unique"
+  },
+  {
+    "startTime": 215.84,
+    "endTime": 217.91,
+    "text": "product of our biological brain"
+  },
+  {
+    "startTime": 217.91,
+    "endTime": 220.79,
+    "text": "structure in fact one of the most famous"
+  },
+  {
+    "startTime": 220.79,
+    "endTime": 223.49,
+    "text": "fictional Universal translators the"
+  },
+  {
+    "startTime": 223.49,
+    "endTime": 225.26,
+    "text": "Babel Fish from The Hitchhiker's Guide"
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 228.02,
+    "text": "to the galaxy is not a machine at all"
+  },
+  {
+    "startTime": 228.02,
+    "endTime": 230.96,
+    "text": "but a small creature that translates the"
+  },
+  {
+    "startTime": 230.96,
+    "endTime": 233.63,
+    "text": "brainwaves and nerve signals of sentient"
+  },
+  {
+    "startTime": 233.63,
+    "endTime": 234.26,
+    "text": "species"
+  },
+  {
+    "startTime": 234.26,
+    "endTime": 237.35,
+    "text": "through a form of telepathy for now"
+  },
+  {
+    "startTime": 237.35,
+    "endTime": 239.48,
+    "text": "learning a language the old-fashioned"
+  },
+  {
+    "startTime": 239.48,
+    "endTime": 241.58,
+    "text": "way will still give you better results"
+  },
+  {
+    "startTime": 241.58,
+    "endTime": 244.01,
+    "text": "than any currently available computer"
+  },
+  {
+    "startTime": 244.01,
+    "endTime": 247.01,
+    "text": "program but this is no easy task and the"
+  },
+  {
+    "startTime": 247.01,
+    "endTime": 248.96,
+    "text": "sheer number of languages in the world"
+  },
+  {
+    "startTime": 248.96,
+    "endTime": 251.3,
+    "text": "as well as the increasing interaction"
+  },
+  {
+    "startTime": 251.3,
+    "endTime": 253.25,
+    "text": "between the people who speak them will"
+  },
+  {
+    "startTime": 253.25,
+    "endTime": 255.92,
+    "text": "only continue to spur greater advances"
+  },
+  {
+    "startTime": 255.92,
+    "endTime": 258.68,
+    "text": "in automatic translation perhaps by the"
+  },
+  {
+    "startTime": 258.68,
+    "endTime": 260.72,
+    "text": "time we encounter intergalactic"
+  },
+  {
+    "startTime": 260.72,
+    "endTime": 262.7,
+    "text": "life-forms we'll be able to communicate"
+  },
+  {
+    "startTime": 262.7,
+    "endTime": 265.52,
+    "text": "with them through a tiny gizmo or we"
+  },
+  {
+    "startTime": 265.52,
+    "endTime": 267.11,
+    "text": "might have to start compiling that"
+  },
+  {
+    "startTime": 267.11,
+    "endTime": 269.54,
+    "text": "dictionary after all"
+  },
+  {
+    "startTime": 269.54,
+    "endTime": 271.6,
+    "text": "you"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "startTime": 4.08,
+    "endTime": 6.279,
+    "text": "hello it's Scott Manley here now I love"
+  },
+  {
+    "startTime": 6.279,
+    "endTime": 8.32,
+    "text": "the Star Wars movies when I first saw"
+  },
+  {
+    "startTime": 8.32,
+    "endTime": 10.16,
+    "text": "Star Wars as a four-year-old it pretty"
+  },
+  {
+    "startTime": 10.16,
+    "endTime": 12.4,
+    "text": "much framed my life and set me off in my"
+  },
+  {
+    "startTime": 12.4,
+    "endTime": 14.839,
+    "text": "spaceship obsessed course in life now"
+  },
+  {
+    "startTime": 14.839,
+    "endTime": 16.56,
+    "text": "Star Wars movies are actually pretty"
+  },
+  {
+    "startTime": 16.56,
+    "endTime": 18.6,
+    "text": "light in terms of physics and science"
+  },
+  {
+    "startTime": 18.6,
+    "endTime": 20.56,
+    "text": "they're often misclassified as science"
+  },
+  {
+    "startTime": 20.56,
+    "endTime": 22.6,
+    "text": "fiction when I prefer to call them"
+  },
+  {
+    "startTime": 22.6,
+    "endTime": 25.119,
+    "text": "Hightech fantasy but there's one very"
+  },
+  {
+    "startTime": 25.119,
+    "endTime": 26.8,
+    "text": "important question for which we can"
+  },
+  {
+    "startTime": 26.8,
+    "endTime": 29.56,
+    "text": "invoke real life physics just what kind"
+  },
+  {
+    "startTime": 29.56,
+    "endTime": 31.8,
+    "text": "of power or does it take to destroy a"
+  },
+  {
+    "startTime": 31.8,
+    "endTime": 34.239,
+    "text": "planet I mean three of the seven movies"
+  },
+  {
+    "startTime": 34.239,
+    "endTime": 36.399,
+    "text": "involve devices that are able to destroy"
+  },
+  {
+    "startTime": 36.399,
+    "endTime": 37.96,
+    "text": "planets and I should mention that"
+  },
+  {
+    "startTime": 37.96,
+    "endTime": 40.2,
+    "text": "there's a couple of minor spoilers here"
+  },
+  {
+    "startTime": 40.2,
+    "endTime": 42.079,
+    "text": "and as it turns out it's pretty easy to"
+  },
+  {
+    "startTime": 42.079,
+    "endTime": 43.719,
+    "text": "figure out how much energy it would"
+  },
+  {
+    "startTime": 43.719,
+    "endTime": 45.96,
+    "text": "actually take to destroy a planet indeed"
+  },
+  {
+    "startTime": 45.96,
+    "endTime": 49.0,
+    "text": "in 2001 a paper addressed this issue by"
+  },
+  {
+    "startTime": 49.0,
+    "endTime": 50.84,
+    "text": "calculating the gravitational binding"
+  },
+  {
+    "startTime": 50.84,
+    "endTime": 53.079,
+    "text": "energy of a spherical Planet you know"
+  },
+  {
+    "startTime": 53.079,
+    "endTime": 55.039,
+    "text": "physicists love approximating things to"
+  },
+  {
+    "startTime": 55.039,
+    "endTime": 57.6,
+    "text": "spheres by the way at least with planets"
+  },
+  {
+    "startTime": 57.6,
+    "endTime": 60.12,
+    "text": "that's closer to reality anyway the"
+  },
+  {
+    "startTime": 60.12,
+    "endTime": 61.879,
+    "text": "gravitational binding energy is a pretty"
+  },
+  {
+    "startTime": 61.879,
+    "endTime": 64.04,
+    "text": "simple concept for any Kerbal Space"
+  },
+  {
+    "startTime": 64.04,
+    "endTime": 66.24,
+    "text": "Program player we know that the escape"
+  },
+  {
+    "startTime": 66.24,
+    "endTime": 68.08,
+    "text": "Velocity is the critical speed above"
+  },
+  {
+    "startTime": 68.08,
+    "endTime": 70.24,
+    "text": "which an object will escape to infinity"
+  },
+  {
+    "startTime": 70.24,
+    "endTime": 72.64,
+    "text": "and never fall back now imagine that you"
+  },
+  {
+    "startTime": 72.64,
+    "endTime": 74.119,
+    "text": "grab a rock from the surface of the"
+  },
+  {
+    "startTime": 74.119,
+    "endTime": 75.52,
+    "text": "planet and shoot it off at escape"
+  },
+  {
+    "startTime": 75.52,
+    "endTime": 77.68,
+    "text": "velocity it's an easy equation to figure"
+  },
+  {
+    "startTime": 77.68,
+    "endTime": 80.079,
+    "text": "out how much energy is required now"
+  },
+  {
+    "startTime": 80.079,
+    "endTime": 82.56,
+    "text": "repeat that bit by bit rock by rock as"
+  },
+  {
+    "startTime": 82.56,
+    "endTime": 84.079,
+    "text": "you go on you're actually going to need"
+  },
+  {
+    "startTime": 84.079,
+    "endTime": 85.72,
+    "text": "slightly less energy because as you"
+  },
+  {
+    "startTime": 85.72,
+    "endTime": 88.479,
+    "text": "throw bits into space there's less mass"
+  },
+  {
+    "startTime": 88.479,
+    "endTime": 90.24,
+    "text": "of the planet left behind to to hold"
+  },
+  {
+    "startTime": 90.24,
+    "endTime": 92.52,
+    "text": "them down but anyway if you add them all"
+  },
+  {
+    "startTime": 92.52,
+    "endTime": 95.119,
+    "text": "up using calculus you get a very simple"
+  },
+  {
+    "startTime": 95.119,
+    "endTime": 98.2,
+    "text": "equation the energy is 35ths * the"
+  },
+  {
+    "startTime": 98.2,
+    "endTime": 100.88,
+    "text": "gravitational constant times the mass of"
+  },
+  {
+    "startTime": 100.88,
+    "endTime": 103.159,
+    "text": "the planet squared and divided by the"
+  },
+  {
+    "startTime": 103.159,
+    "endTime": 105.759,
+    "text": "radius of of the planet now for Earth"
+  },
+  {
+    "startTime": 105.759,
+    "endTime": 109.719,
+    "text": "that number is about 2.25 * 10^ 32"
+  },
+  {
+    "startTime": 109.719,
+    "endTime": 113.96,
+    "text": "jewles or in ilon speak 225 million"
+  },
+  {
+    "startTime": 113.96,
+    "endTime": 115.399,
+    "text": "trillion trillion"
+  },
+  {
+    "startTime": 115.399,
+    "endTime": 118.159,
+    "text": "Jews however in the same paper they went"
+  },
+  {
+    "startTime": 118.159,
+    "endTime": 120.24,
+    "text": "on to calculate that for larger planets"
+  },
+  {
+    "startTime": 120.24,
+    "endTime": 122.439,
+    "text": "like Jupiter the energy would be even"
+  },
+  {
+    "startTime": 122.439,
+    "endTime": 126.64,
+    "text": "higher something like 2 * 10 36 Jews"
+  },
+  {
+    "startTime": 126.64,
+    "endTime": 129.16,
+    "text": "that's a 2 trillion trillion trillion"
+  },
+  {
+    "startTime": 129.16,
+    "endTime": 131.64,
+    "text": "Jewels the authors hypothesize that the"
+  },
+  {
+    "startTime": 131.64,
+    "endTime": 133.28,
+    "text": "Death Star May in fact be able to"
+  },
+  {
+    "startTime": 133.28,
+    "endTime": 135.519,
+    "text": "destroy this by shutting down some of"
+  },
+  {
+    "startTime": 135.519,
+    "endTime": 137.92,
+    "text": "its non-critical systems like life"
+  },
+  {
+    "startTime": 137.92,
+    "endTime": 139.959,
+    "text": "support and I wouldn't put that past the"
+  },
+  {
+    "startTime": 139.959,
+    "endTime": 142.04,
+    "text": "Empire given their spotty record on"
+  },
+  {
+    "startTime": 142.04,
+    "endTime": 143.959,
+    "text": "providing basic workplace safety"
+  },
+  {
+    "startTime": 143.959,
+    "endTime": 147.48,
+    "text": "features like handrails now this paper"
+  },
+  {
+    "startTime": 147.48,
+    "endTime": 149.519,
+    "text": "is actually underestimating the power of"
+  },
+  {
+    "startTime": 149.519,
+    "endTime": 151.959,
+    "text": "this technological Terror and by"
+  },
+  {
+    "startTime": 151.959,
+    "endTime": 155.44,
+    "text": "extension the power of the force in Star"
+  },
+  {
+    "startTime": 155.44,
+    "endTime": 157.8,
+    "text": "Wars we see the destruction of alderan"
+  },
+  {
+    "startTime": 157.8,
+    "endTime": 160.239,
+    "text": "in but a few seconds the planet explodes"
+  },
+  {
+    "startTime": 160.239,
+    "endTime": 163.04,
+    "text": "sending fragments away but assuming that"
+  },
+  {
+    "startTime": 163.04,
+    "endTime": 165.12,
+    "text": "alderon is similar to the Earth that"
+  },
+  {
+    "startTime": 165.12,
+    "endTime": 167.44,
+    "text": "exploding ball of plasma is exploding at"
+  },
+  {
+    "startTime": 167.44,
+    "endTime": 170.239,
+    "text": "many times the escape Velocity look at"
+  },
+  {
+    "startTime": 170.239,
+    "endTime": 172.68,
+    "text": "this demo in Universe Sandbox to show"
+  },
+  {
+    "startTime": 172.68,
+    "endTime": 174.959,
+    "text": "just how slow escape velocity is when"
+  },
+  {
+    "startTime": 174.959,
+    "endTime": 176.519,
+    "text": "you're comparing it to the size of the"
+  },
+  {
+    "startTime": 176.519,
+    "endTime": 179.04,
+    "text": "Earth it's not particularly dramatic"
+  },
+  {
+    "startTime": 179.04,
+    "endTime": 180.599,
+    "text": "unless of course you're on the surface"
+  },
+  {
+    "startTime": 180.599,
+    "endTime": 182.959,
+    "text": "of that planet this is of course done"
+  },
+  {
+    "startTime": 182.959,
+    "endTime": 184.64,
+    "text": "because Star Wars is a movie and the"
+  },
+  {
+    "startTime": 184.64,
+    "endTime": 186.959,
+    "text": "audience expects special effects to wow"
+  },
+  {
+    "startTime": 186.959,
+    "endTime": 189.319,
+    "text": "them rather than bore them if we"
+  },
+  {
+    "startTime": 189.319,
+    "endTime": 191.48,
+    "text": "reexamine the sequence in slow-mo we can"
+  },
+  {
+    "startTime": 191.48,
+    "endTime": 193.159,
+    "text": "see that within a second the ball of"
+  },
+  {
+    "startTime": 193.159,
+    "endTime": 195.28,
+    "text": "pulverized planet is about 2 to three"
+  },
+  {
+    "startTime": 195.28,
+    "endTime": 197.879,
+    "text": "times the size of the original Planet so"
+  },
+  {
+    "startTime": 197.879,
+    "endTime": 199.959,
+    "text": "substantial part is moving at over"
+  },
+  {
+    "startTime": 199.959,
+    "endTime": 201.28,
+    "text": "10,000"
+  },
+  {
+    "startTime": 201.28,
+    "endTime": 204.2,
+    "text": "km/s we're dealing with velocities many"
+  },
+  {
+    "startTime": 204.2,
+    "endTime": 206.0,
+    "text": "times higher than the escape Velocity"
+  },
+  {
+    "startTime": 206.0,
+    "endTime": 207.959,
+    "text": "and the gravitational binding energy is"
+  },
+  {
+    "startTime": 207.959,
+    "endTime": 210.08,
+    "text": "really a small correction compared to"
+  },
+  {
+    "startTime": 210.08,
+    "endTime": 211.799,
+    "text": "the kinetic energy required to"
+  },
+  {
+    "startTime": 211.799,
+    "endTime": 213.879,
+    "text": "accelerate a planet's worth of mass up"
+  },
+  {
+    "startTime": 213.879,
+    "endTime": 216.64,
+    "text": "to these speeds to be fair this is an"
+  },
+  {
+    "startTime": 216.64,
+    "endTime": 218.519,
+    "text": "explosion and it's more like a range of"
+  },
+  {
+    "startTime": 218.519,
+    "endTime": 220.48,
+    "text": "velocities but even if we take say a"
+  },
+  {
+    "startTime": 220.48,
+    "endTime": 223.28,
+    "text": "baseline of 1,000 km/ second the energy"
+  },
+  {
+    "startTime": 223.28,
+    "endTime": 225.439,
+    "text": "required to obliterate alderon in this"
+  },
+  {
+    "startTime": 225.439,
+    "endTime": 228.599,
+    "text": "manner that will satisfy movie Gores is"
+  },
+  {
+    "startTime": 228.599,
+    "endTime": 233.0,
+    "text": "about 3 * 10 36 jewles or once again 3"
+  },
+  {
+    "startTime": 233.0,
+    "endTime": 236.56,
+    "text": "trillion trillion trillion Jewels now in"
+  },
+  {
+    "startTime": 236.56,
+    "endTime": 238.319,
+    "text": "the force awakens we have a new"
+  },
+  {
+    "startTime": 238.319,
+    "endTime": 240.72,
+    "text": "generation of Planet bust super weapon"
+  },
+  {
+    "startTime": 240.72,
+    "endTime": 242.92,
+    "text": "that can project its beam of Destruction"
+  },
+  {
+    "startTime": 242.92,
+    "endTime": 245.36,
+    "text": "over Interstellar distances and Destroy"
+  },
+  {
+    "startTime": 245.36,
+    "endTime": 248.4,
+    "text": "entire solar systems but moreover it's"
+  },
+  {
+    "startTime": 248.4,
+    "endTime": 250.56,
+    "text": "powered by a star which gives me another"
+  },
+  {
+    "startTime": 250.56,
+    "endTime": 253.68,
+    "text": "opportunity to invoke real physics our"
+  },
+  {
+    "startTime": 253.68,
+    "endTime": 258.799,
+    "text": "sun emits roughly 3.85 * 10 26 watts of"
+  },
+  {
+    "startTime": 258.799,
+    "endTime": 262.759,
+    "text": "power or again in illian speak 385"
+  },
+  {
+    "startTime": 262.759,
+    "endTime": 266.0,
+    "text": "trillion trillion Jews per second which"
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 268.08,
+    "text": "means that for our low-end estimate it"
+  },
+  {
+    "startTime": 268.08,
+    "endTime": 270.4,
+    "text": "would take about a week of the the sun's"
+  },
+  {
+    "startTime": 270.4,
+    "endTime": 273.759,
+    "text": "energy output to obliterate alderan or"
+  },
+  {
+    "startTime": 273.759,
+    "endTime": 276.4,
+    "text": "250 years if you look at my higher"
+  },
+  {
+    "startTime": 276.4,
+    "endTime": 278.6,
+    "text": "estimate now in a 10 billion year"
+  },
+  {
+    "startTime": 278.6,
+    "endTime": 282.039,
+    "text": "lifespan of a star that isn't so bad but"
+  },
+  {
+    "startTime": 282.039,
+    "endTime": 283.8,
+    "text": "I do have some straightup problems with"
+  },
+  {
+    "startTime": 283.8,
+    "endTime": 285.52,
+    "text": "this maybe I missed it but it seems to"
+  },
+  {
+    "startTime": 285.52,
+    "endTime": 287.44,
+    "text": "me they weren't planning on moving Star"
+  },
+  {
+    "startTime": 287.44,
+    "endTime": 289.479,
+    "text": "Killer base around after all the energy"
+  },
+  {
+    "startTime": 289.479,
+    "endTime": 291.039,
+    "text": "required to move a planet into"
+  },
+  {
+    "startTime": 291.039,
+    "endTime": 293.199,
+    "text": "hyperspace is probably similar to the"
+  },
+  {
+    "startTime": 293.199,
+    "endTime": 295.36,
+    "text": "energy required to destroy a planet by"
+  },
+  {
+    "startTime": 295.36,
+    "endTime": 297.199,
+    "text": "moving its different pieces at several"
+  },
+  {
+    "startTime": 297.199,
+    "endTime": 298.68,
+    "text": "kilometers per second in different"
+  },
+  {
+    "startTime": 298.68,
+    "endTime": 301.68,
+    "text": "directions but if you had to consume the"
+  },
+  {
+    "startTime": 301.68,
+    "endTime": 304.759,
+    "text": "entire star to do that then you would"
+  },
+  {
+    "startTime": 304.759,
+    "endTime": 306.44,
+    "text": "need another star and if you can't move"
+  },
+  {
+    "startTime": 306.44,
+    "endTime": 307.8,
+    "text": "where you going to get another star it"
+  },
+  {
+    "startTime": 307.8,
+    "endTime": 310.199,
+    "text": "seems like bad planning I mean you don't"
+  },
+  {
+    "startTime": 310.199,
+    "endTime": 313.039,
+    "text": "even need mathematics to figure this out"
+  },
+  {
+    "startTime": 313.039,
+    "endTime": 315.08,
+    "text": "okay look script writers hello look"
+  },
+  {
+    "startTime": 315.08,
+    "endTime": 317.199,
+    "text": "there is a way to fix this there are"
+  },
+  {
+    "startTime": 317.199,
+    "endTime": 318.96,
+    "text": "stars that have luminosities that are"
+  },
+  {
+    "startTime": 318.96,
+    "endTime": 321.039,
+    "text": "something like a million times higher"
+  },
+  {
+    "startTime": 321.039,
+    "endTime": 323.44,
+    "text": "than the sun they're shortlived but they"
+  },
+  {
+    "startTime": 323.44,
+    "endTime": 325.28,
+    "text": "can generate the energy required for"
+  },
+  {
+    "startTime": 325.28,
+    "endTime": 327.44,
+    "text": "epic Planet busting for millions of"
+  },
+  {
+    "startTime": 327.44,
+    "endTime": 330.44,
+    "text": "years long enough for any movie from"
+  },
+  {
+    "startTime": 330.44,
+    "endTime": 332.639,
+    "text": "Star Killer base could soak up all the"
+  },
+  {
+    "startTime": 332.639,
+    "endTime": 334.479,
+    "text": "power it wanted to from the outer layers"
+  },
+  {
+    "startTime": 334.479,
+    "endTime": 336.68,
+    "text": "of these Stars it could even make the"
+  },
+  {
+    "startTime": 336.68,
+    "endTime": 339.039,
+    "text": "star turn from Blue through red to black"
+  },
+  {
+    "startTime": 339.039,
+    "endTime": 341.08,
+    "text": "as the energy was siphoned off giving"
+  },
+  {
+    "startTime": 341.08,
+    "endTime": 343.28,
+    "text": "those X-Wing Pilots a way to gauge how"
+  },
+  {
+    "startTime": 343.28,
+    "endTime": 345.52,
+    "text": "long they had left in a visually"
+  },
+  {
+    "startTime": 345.52,
+    "endTime": 347.96,
+    "text": "arresting style and then of course after"
+  },
+  {
+    "startTime": 347.96,
+    "endTime": 350.24,
+    "text": "the siphoning stopped the star would"
+  },
+  {
+    "startTime": 350.24,
+    "endTime": 352.24,
+    "text": "return to normal energy output and be"
+  },
+  {
+    "startTime": 352.24,
+    "endTime": 354.08,
+    "text": "ready for firing again in a few days"
+  },
+  {
+    "startTime": 354.08,
+    "endTime": 356.44,
+    "text": "time of course the script writers never"
+  },
+  {
+    "startTime": 356.44,
+    "endTime": 358.759,
+    "text": "asked me regardless if you really want"
+  },
+  {
+    "startTime": 358.759,
+    "endTime": 360.44,
+    "text": "to go into planetary destruction to"
+  },
+  {
+    "startTime": 360.44,
+    "endTime": 362.039,
+    "text": "strike fear into the hearts of your"
+  },
+  {
+    "startTime": 362.039,
+    "endTime": 364.12,
+    "text": "enemies the Empire and the first orders"
+  },
+  {
+    "startTime": 364.12,
+    "endTime": 367.28,
+    "text": "are going way overboard making millions"
+  },
+  {
+    "startTime": 367.28,
+    "endTime": 369.44,
+    "text": "of voices cry out in Terror just"
+  },
+  {
+    "startTime": 369.44,
+    "endTime": 371.479,
+    "text": "requires obliterating the top you know"
+  },
+  {
+    "startTime": 371.479,
+    "endTime": 374.319,
+    "text": ".1% of the planet near the surface the"
+  },
+  {
+    "startTime": 374.319,
+    "endTime": 375.199,
+    "text": "other"
+  },
+  {
+    "startTime": 375.199,
+    "endTime": 377.919,
+    "text": "99.9% of a planet is generally things"
+  },
+  {
+    "startTime": 377.919,
+    "endTime": 380.199,
+    "text": "like magma that isn't particularly"
+  },
+  {
+    "startTime": 380.199,
+    "endTime": 383.759,
+    "text": "hospitable to life I'm Scott Manley fly"
+  },
+  {
+    "startTime": 383.759,
+    "endTime": 386.759,
+    "text": "safe"
+  },
+  {
+    "startTime": 387.13,
+    "endTime": 404.76,
+    "text": "[Music]"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "startTime": 6.857,
+    "endTime": 8.809000000000001,
+    "text": "This is a thought experiment."
+  },
+  {
+    "startTime": 9.1,
+    "endTime": 19.505,
+    "text": "Let's say at some point in the not-so-distant future, you're barreling down the highway in your self-driving car, and you find yourself boxed in on all sides by other cars."
+  },
+  {
+    "startTime": 19.609,
+    "endTime": 23.813000000000002,
+    "text": "Suddenly, a large, heavy object falls off the truck in front of you."
+  },
+  {
+    "startTime": 23.913,
+    "endTime": 36.94,
+    "text": "Your car can't stop in time to avoid the collision, so it needs to make a decision: go straight and hit the object, swerve left into an SUV, or swerve right into a motorcycle?"
+  },
+  {
+    "startTime": 36.94,
+    "endTime": 52.787,
+    "text": "Should it prioritize your safety by hitting the motorcycle, minimize danger to others by not swerving, even if it means hitting the large object and sacrificing your life, or take the middle ground by hitting the SUV, which has a high passenger safety rating?"
+  },
+  {
+    "startTime": 52.787,
+    "endTime": 55.97,
+    "text": "So what should the self-driving car do?"
+  },
+  {
+    "startTime": 55.97,
+    "endTime": 65.971,
+    "text": "If we were driving that boxed in car in manual mode, whichever way we'd react would be understood as just that, a reaction, not a deliberate decision."
+  },
+  {
+    "startTime": 65.971,
+    "endTime": 70.569,
+    "text": "It would be an instinctual panicked move with no forethought or malice."
+  },
+  {
+    "startTime": 70.569,
+    "endTime": 81.21900000000001,
+    "text": "But if a programmer were to instruct the car to make the same move, given conditions it may sense in the future, well, that looks more like premeditated homicide."
+  },
+  {
+    "startTime": 81.219,
+    "endTime": 90.99799999999999,
+    "text": "Now, to be fair, self-driving cars are are predicted to dramatically reduce traffic accidents and fatalities by removing human error from the driving equation."
+  },
+  {
+    "startTime": 90.998,
+    "endTime": 100.94500000000001,
+    "text": "Plus, there may be all sorts of other benefits: eased road congestion, decreased harmful emissions, and minimized unproductive and stressful driving time."
+  },
+  {
+    "startTime": 100.945,
+    "endTime": 111.44699999999999,
+    "text": "But accidents can and will still happen, and when they do, their outcomes may be determined months or years in advance by programmers or policy makers."
+  },
+  {
+    "startTime": 111.552,
+    "endTime": 113.852,
+    "text": "And they'll have some difficult decisions to make."
+  },
+  {
+    "startTime": 113.852,
+    "endTime": 122.47500000000001,
+    "text": "It's tempting to offer up general decision-making principles, like minimize harm, but even that quickly leads to morally murky decisions."
+  },
+  {
+    "startTime": 122.475,
+    "endTime": 131.309,
+    "text": "For example, let's say we have the same initial set up, but now there's a motorcyclist wearing a helmet to your left and another one without a helmet to your right."
+  },
+  {
+    "startTime": 131.309,
+    "endTime": 134.35999999999999,
+    "text": "Which one should your robot car crash into?"
+  },
+  {
+    "startTime": 134.36,
+    "endTime": 141.371,
+    "text": "If you say the biker with the helmet because she's more likely to survive, then aren't you penalizing the responsible motorist?"
+  },
+  {
+    "startTime": 141.371,
+    "endTime": 154.871,
+    "text": "If, instead, you say the biker without the helmet because he's acting irresponsibly, then you've gone way beyond the initial design principle about minimizing harm, and the robot car is now meting out street justice."
+  },
+  {
+    "startTime": 154.871,
+    "endTime": 158.40300000000002,
+    "text": "The ethical considerations get more complicated here."
+  },
+  {
+    "startTime": 158.403,
+    "endTime": 164.2,
+    "text": "In both of our scenarios, the underlying design is functioning as a targeting algorithm of sorts."
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 171.298,
+    "text": "In other words, it's systematically favoring or discriminating against a certain type of object to crash into."
+  },
+  {
+    "startTime": 171.298,
+    "endTime": 178.747,
+    "text": "And the owners of the target vehicles will suffer the negative consequences of this algorithm through no fault of their own."
+  },
+  {
+    "startTime": 178.747,
+    "endTime": 183.20100000000002,
+    "text": "Our new technologies are opening up many other novel ethical dilemmas."
+  },
+  {
+    "startTime": 183.201,
+    "endTime": 193.962,
+    "text": "For instance, if you had to choose between a car that would always save as many lives as possible in an accident, or one that would save you at any cost, which would you buy?"
+  },
+  {
+    "startTime": 193.962,
+    "endTime": 201.047,
+    "text": "What happens if the cars start analyzing and factoring in the passengers of the cars and the particulars of their lives?"
+  },
+  {
+    "startTime": 201.047,
+    "endTime": 208.125,
+    "text": "Could it be the case that a random decision is still better than a predetermined one designed to minimize harm?"
+  },
+  {
+    "startTime": 208.125,
+    "endTime": 210.778,
+    "text": "And who should be making all of these decisions anyhow?"
+  },
+  {
+    "startTime": 210.778,
+    "endTime": 213.75199999999998,
+    "text": "Programmers? Companies? Governments?"
+  },
+  {
+    "startTime": 213.752,
+    "endTime": 218.732,
+    "text": "Reality may not play out exactly like our thought experiments, but that's not the point."
+  },
+  {
+    "startTime": 218.732,
+    "endTime": 226.589,
+    "text": "They're designed to isolate and stress test our intuitions on ethics, just like science experiments do for the physical world."
+  },
+  {
+    "startTime": 226.589,
+    "endTime": 239.35,
+    "text": "Spotting these moral hairpin turns now will help us maneuver the unfamiliar road of technology ethics, and allow us to cruise confidently and conscientiously into our brave new future."
+  }
+]

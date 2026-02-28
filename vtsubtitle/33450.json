@@ -1,0 +1,147 @@
+[
+  {
+    "startTime": 7.0,
+    "endTime": 17.0,
+    "text": "Imagine an airplane flying one millimeter above the ground and circling the Earth once every 25 seconds while counting every blade of grass."
+  },
+  {
+    "startTime": 17.0,
+    "endTime": 28.2,
+    "text": "Shrink all that down so that it fits in the palm of your hand, and you'd have something equivalent to a modern hard drive, an object that can likely hold more information than your local library."
+  },
+  {
+    "startTime": 28.2,
+    "endTime": 32.5,
+    "text": "So how does it store so much information in such a small space?"
+  },
+  {
+    "startTime": 32.5,
+    "endTime": 40.525,
+    "text": "At the heart of every hard drive is a stack of high-speed spinning discs, with a recording head flying over each surface."
+  },
+  {
+    "startTime": 40.525,
+    "endTime": 49.591,
+    "text": "Each disc is coated with a film of microscopic magnetised metal grains, and your data doesn't live there in a form you can  recognize."
+  },
+  {
+    "startTime": 49.591,
+    "endTime": 55.5,
+    "text": "Instead, it is recorded as a magnetic pattern formed by groups of those tiny grains."
+  },
+  {
+    "startTime": 55.5,
+    "endTime": 66.7,
+    "text": "In each group, also known as a bit, all of the grains have  their magnetization's aligned in one of two possible states, which  correspond to zeroes and ones."
+  },
+  {
+    "startTime": 66.7,
+    "endTime": 74.7,
+    "text": "Data is written onto the disc by converting strings of bits into electrical current fed through an electromagnet."
+  },
+  {
+    "startTime": 74.7,
+    "endTime": 81.14500000000001,
+    "text": "This magnet generates a field strong enough to change the direction of the metal grain's magnetization."
+  },
+  {
+    "startTime": 81.145,
+    "endTime": 93.46799999999999,
+    "text": "Once this information is written onto the disc, the drive uses a magnetic reader to turn it back into a useful form, much like a phonograph needle translates a record's grooves into music."
+  },
+  {
+    "startTime": 93.468,
+    "endTime": 97.634,
+    "text": "But how can you get so much information out of just zeroes and ones?"
+  },
+  {
+    "startTime": 97.634,
+    "endTime": 100.3,
+    "text": "Well, by putting lots of them together."
+  },
+  {
+    "startTime": 100.3,
+    "endTime": 110.7,
+    "text": "For example, a letter is represented in one byte, or eight bits, and your average photo takes up several megabytes, each of which is 8 million bits."
+  },
+  {
+    "startTime": 110.7,
+    "endTime": 123.4,
+    "text": "Because each bit must be written onto a physical area of the disc, we're always seeking to increase the disc's areal density, or how many bits can be squeezed into one square inch."
+  },
+  {
+    "startTime": 123.4,
+    "endTime": 135.4,
+    "text": "The areal density of a modern hard drive is about 600 gigabits per square inch, 300 million times greater than that of IBM's first hard drive from 1957."
+  },
+  {
+    "startTime": 135.4,
+    "endTime": 142.91400000000002,
+    "text": "This amazing advance in storage capacity wasn't just a matter of making everything smaller, but involved multiple innovations."
+  },
+  {
+    "startTime": 142.914,
+    "endTime": 149.84699999999998,
+    "text": "A technique called the thin-film lithography process allowed engineers to shrink the reader and writer."
+  },
+  {
+    "startTime": 149.847,
+    "endTime": 159.09,
+    "text": "And despite its size, the reader became more sensitive by taking advantage of new discoveries in magnetic and quantum properties of matter."
+  },
+  {
+    "startTime": 159.09,
+    "endTime": 171.474,
+    "text": "Bits could also be packed closer together thanks to mathematical algorithms that filter out noise from magnetic interference, and find the most likely bit sequences from each chunk of read-back signal."
+  },
+  {
+    "startTime": 171.474,
+    "endTime": 186.661,
+    "text": "And thermal expansion control of the head, enabled by placing a heater under the magnetic writer, allowed it to fly less than five nanometers above the disc's surface, about the width of two strands of DNA."
+  },
+  {
+    "startTime": 186.4,
+    "endTime": 202.8,
+    "text": "For the past several decades, the exponential growth in computer storage capacity and processing power has followed a pattern known as Moore's Law, which, in 1975, predicted that information density would double every two years."
+  },
+  {
+    "startTime": 202.8,
+    "endTime": 214.5,
+    "text": "But at around 100 gigabits per square inch, shrinking the magnetic grains further or cramming them closer together posed a new risk called the superparamagnetic effect."
+  },
+  {
+    "startTime": 214.5,
+    "endTime": 226.5,
+    "text": "When a magnetic grain volume is too small, its magnetization is easily disturbed by heat energy and can cause bits to switch unintentionally, leading to data loss."
+  },
+  {
+    "startTime": 226.5,
+    "endTime": 241.225,
+    "text": "Scientists resolved this limitation in a remarkably simple way: by changing the direction of recording from longitudinal to perpendicular, allowing areal density to approach one terabit per square inch."
+  },
+  {
+    "startTime": 241.225,
+    "endTime": 247.5,
+    "text": "Recently, the potential limit has been increased yet again through heat-assisted magnetic recording."
+  },
+  {
+    "startTime": 247.5,
+    "endTime": 260.3,
+    "text": "This uses an even more thermally stable recording medium, whose magnetic resistance is momentarily reduced by heating up  a particular spot with a laser and allowing data to be written."
+  },
+  {
+    "startTime": 260.3,
+    "endTime": 268.295,
+    "text": "And while those drives are currently in the prototype stage, scientists already have the next potential trick up their sleeves:"
+  },
+  {
+    "startTime": 268.295,
+    "endTime": 281.78000000000003,
+    "text": "bit-patterned media, where bit locations are arranged in separate, nano-sized structures, potentially allowing for areal densities of twenty terabits per square inch or more."
+  },
+  {
+    "startTime": 281.78,
+    "endTime": 303.01899999999995,
+    "text": "So, it's thanks to the combined efforts of generations of engineers, material scientists, and quantum physicists that this tool of incredible power and precision can spin in the palm of your hand."
+  }
+]
