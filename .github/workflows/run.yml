@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: subtitle-downloader
+  cancel-in-progress: true   # Job mới sẽ hủy job cũ nếu còn chạy
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
     - name: Checkout repository
