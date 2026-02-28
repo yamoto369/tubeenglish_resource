@@ -1,0 +1,1592 @@
+[
+  {
+    "startTime": 24.0,
+    "endTime": 30.0,
+    "text": "Hello. Nice to meet you. (Applause)"
+  },
+  {
+    "startTime": 30.0,
+    "endTime": 33.0,
+    "text": "I work at the KARI (Korea Aerospace Research Institute)"
+  },
+  {
+    "startTime": 33.0,
+    "endTime": 37.0,
+    "text": "doing jobs related with designing aircrafts, and developing unmanned aircraft system."
+  },
+  {
+    "startTime": 37.0,
+    "endTime": 39.0,
+    "text": "My name is Sam Ok Koo."
+  },
+  {
+    "startTime": 39.0,
+    "endTime": 42.0,
+    "text": "Today, I am going to talk about"
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 44.0,
+    "text": "a topic involved in"
+  },
+  {
+    "startTime": 44.0,
+    "endTime": 48.0,
+    "text": "the keyword on the screen,"
+  },
+  {
+    "startTime": 48.0,
+    "endTime": 53.0,
+    "text": "UAS, the unmanned aircraft system."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 58.0,
+    "text": "Thanks to the development of science and technology,"
+  },
+  {
+    "startTime": 58.0,
+    "endTime": 61.0,
+    "text": "so-called 3d(dull, dirty, difficult) jobs have been increasingly substituted by robotic machines."
+  },
+  {
+    "startTime": 61.0,
+    "endTime": 64.0,
+    "text": "On the extended front line of this trend"
+  },
+  {
+    "startTime": 64.0,
+    "endTime": 66.0,
+    "text": "is there the aerial robot, or, UAS,"
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 68.0,
+    "text": "which does not need pilots."
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 71.0,
+    "text": "While I am introducing you the area of the unmanned aircraft technology,"
+  },
+  {
+    "startTime": 71.0,
+    "endTime": 74.0,
+    "text": "I would like to not only finish in UAS,"
+  },
+  {
+    "startTime": 74.0,
+    "endTime": 75.0,
+    "text": "but also, dream the way to the future aerial vehicle with you."
+  },
+  {
+    "startTime": 75.0,
+    "endTime": 78.0,
+    "text": "These includes adapting UAS technologies,"
+  },
+  {
+    "startTime": 78.0,
+    "endTime": 81.0,
+    "text": "which does not need pilots,"
+  },
+  {
+    "startTime": 81.0,
+    "endTime": 86.0,
+    "text": "to airplanes people take."
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 88.0,
+    "text": "For example,"
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 90.0,
+    "text": "like vehicles we drive,"
+  },
+  {
+    "startTime": 90.0,
+    "endTime": 92.0,
+    "text": "untrained people"
+  },
+  {
+    "startTime": 92.0,
+    "endTime": 95.0,
+    "text": "can easily take airplanes."
+  },
+  {
+    "startTime": 95.0,
+    "endTime": 98.0,
+    "text": "I may ask few questions."
+  },
+  {
+    "startTime": 98.0,
+    "endTime": 102.0,
+    "text": "Many people here seem to have experiences of taking airplanes."
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 105.0,
+    "text": "Anyone has entered to an airplane cockpit?"
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 107.0,
+    "text": "It is quite rare."
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 113.0,
+    "text": "Have anyone grabbed cockpit sticks at amusement parks?"
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 115.0,
+    "text": "(Laughs) Yes, quite many."
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 120.0,
+    "text": "There seems to be many professions among the appliers."
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 123.0,
+    "text": "Anyone is pilot currently?"
+  },
+  {
+    "startTime": 123.0,
+    "endTime": 126.0,
+    "text": "No one seems to be. Is there one person?"
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 129.0,
+    "text": "OK. There is one person."
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 132.0,
+    "text": "Actually I am a pilot."
+  },
+  {
+    "startTime": 132.0,
+    "endTime": 136.0,
+    "text": "Then, let's assume that,"
+  },
+  {
+    "startTime": 136.0,
+    "endTime": 140.0,
+    "text": "airplanes requires prices, driving skills, and difficulties,"
+  },
+  {
+    "startTime": 140.0,
+    "endTime": 147.0,
+    "text": "which are similar with those of cars."
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 150.0,
+    "text": "Then, anyone want to take them and fly?"
+  },
+  {
+    "startTime": 150.0,
+    "endTime": 153.0,
+    "text": "Yes. There are plenty."
+  },
+  {
+    "startTime": 153.0,
+    "endTime": 155.0,
+    "text": "Many people would take them."
+  },
+  {
+    "startTime": 155.0,
+    "endTime": 158.0,
+    "text": "It is an impossible dream right now,"
+  },
+  {
+    "startTime": 158.0,
+    "endTime": 161.0,
+    "text": "but if we combine contents I am going to talk about today,"
+  },
+  {
+    "startTime": 161.0,
+    "endTime": 163.0,
+    "text": "in the recent future,"
+  },
+  {
+    "startTime": 163.0,
+    "endTime": 168.0,
+    "text": "I think there could be"
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 170.0,
+    "text": "aircrafts which requires"
+  },
+  {
+    "startTime": 170.0,
+    "endTime": 172.0,
+    "text": "difficulties of driving cars"
+  },
+  {
+    "startTime": 172.0,
+    "endTime": 176.0,
+    "text": "What do you think this number looks like to be?"
+  },
+  {
+    "startTime": 176.0,
+    "endTime": 177.0,
+    "text": "If I ask this to elementary school students, they answer \"1\"."
+  },
+  {
+    "startTime": 177.0,
+    "endTime": 181.0,
+    "text": "This number means the count of pilots"
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 185.0,
+    "text": "at an aircraft cockpit."
+  },
+  {
+    "startTime": 185.0,
+    "endTime": 187.0,
+    "text": "After WW II,"
+  },
+  {
+    "startTime": 187.0,
+    "endTime": 192.0,
+    "text": "the aircraft manufactures turned their capability"
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 194.0,
+    "text": "in large bombers and cargo aircraft"
+  },
+  {
+    "startTime": 194.0,
+    "endTime": 199.0,
+    "text": "into the commercial trans-continental transport."
+  },
+  {
+    "startTime": 199.0,
+    "endTime": 201.0,
+    "text": "There were five crew members in the cockpit"
+  },
+  {
+    "startTime": 201.0,
+    "endTime": 207.0,
+    "text": "of the early passenger transports:"
+  },
+  {
+    "startTime": 207.0,
+    "endTime": 211.0,
+    "text": "pilot, co-pilot, flight engineer, navigator, and radio operator."
+  },
+  {
+    "startTime": 211.0,
+    "endTime": 213.0,
+    "text": "They are required 10, or 20 hours,"
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 218.0,
+    "text": "for a long-distance flight."
+  },
+  {
+    "startTime": 218.0,
+    "endTime": 223.0,
+    "text": "In the early 60's the radio operator was eliminated from the cockpit,"
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 228.0,
+    "text": "due to the development of communications technologies."
+  },
+  {
+    "startTime": 228.0,
+    "endTime": 232.0,
+    "text": "There are four people left."
+  },
+  {
+    "startTime": 232.0,
+    "endTime": 237.0,
+    "text": "In the 70's the inertial navigation system was developed, expelled the navigator."
+  },
+  {
+    "startTime": 237.0,
+    "endTime": 239.0,
+    "text": "and there were a lot of long-distance flight experiences,"
+  },
+  {
+    "startTime": 239.0,
+    "endTime": 243.0,
+    "text": "therefore, the navigator was expelled."
+  },
+  {
+    "startTime": 243.0,
+    "endTime": 245.0,
+    "text": "Navigator finds the routes"
+  },
+  {
+    "startTime": 245.0,
+    "endTime": 247.0,
+    "text": "for long-distance flights,"
+  },
+  {
+    "startTime": 247.0,
+    "endTime": 250.0,
+    "text": "which is not capable by pilots."
+  },
+  {
+    "startTime": 250.0,
+    "endTime": 253.0,
+    "text": "Flight engineers are still left."
+  },
+  {
+    "startTime": 253.0,
+    "endTime": 257.0,
+    "text": "A lot of instrumental panels you can see here."
+  },
+  {
+    "startTime": 257.0,
+    "endTime": 261.0,
+    "text": "Flight engineers fly for over 10 hours, looking at the wall."
+  },
+  {
+    "startTime": 261.0,
+    "endTime": 263.0,
+    "text": "While pilots sit towards the front,"
+  },
+  {
+    "startTime": 263.0,
+    "endTime": 266.0,
+    "text": "flight engineers sit towards the sides,"
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 269.0,
+    "text": "monitoring a lot of instrumental panels"
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 273.0,
+    "text": "and could not be relaxed before the landing."
+  },
+  {
+    "startTime": 273.0,
+    "endTime": 274.0,
+    "text": "As the automation progressed,"
+  },
+  {
+    "startTime": 274.0,
+    "endTime": 277.0,
+    "text": "in the 80's,"
+  },
+  {
+    "startTime": 277.0,
+    "endTime": 281.0,
+    "text": "when people start to use personal mobile computers"
+  },
+  {
+    "startTime": 281.0,
+    "endTime": 284.0,
+    "text": "those many instrumental panels go into a computer screen."
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 287.0,
+    "text": "As you see in the screen, instrumental panels"
+  },
+  {
+    "startTime": 287.0,
+    "endTime": 291.0,
+    "text": "are changed to digital panels in the computer screen,"
+  },
+  {
+    "startTime": 291.0,
+    "endTime": 295.0,
+    "text": "and even user manuals are imported into computers."
+  },
+  {
+    "startTime": 295.0,
+    "endTime": 297.0,
+    "text": "From then, if you take airplanes now,"
+  },
+  {
+    "startTime": 297.0,
+    "endTime": 302.0,
+    "text": "there have been only 2 crews remaining in the cockpit."
+  },
+  {
+    "startTime": 302.0,
+    "endTime": 308.0,
+    "text": "Let's guess what would happen there next. Who will be expelled first? (Laugh)"
+  },
+  {
+    "startTime": 308.0,
+    "endTime": 311.0,
+    "text": "Perhaps, in recent future,"
+  },
+  {
+    "startTime": 311.0,
+    "endTime": 313.0,
+    "text": "as you see here,"
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 316.0,
+    "text": "you may take an airplane, which has a cockpit but not a pilot,"
+  },
+  {
+    "startTime": 316.0,
+    "endTime": 318.0,
+    "text": "for overseas trips."
+  },
+  {
+    "startTime": 318.0,
+    "endTime": 326.0,
+    "text": "Then, we might not need any pilot."
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 328.0,
+    "text": "Actually, a long-distance trans-continental flight"
+  },
+  {
+    "startTime": 328.0,
+    "endTime": 333.0,
+    "text": "without any pilot,"
+  },
+  {
+    "startTime": 333.0,
+    "endTime": 339.0,
+    "text": "was proven by the small UAS in this picture in 1998."
+  },
+  {
+    "startTime": 339.0,
+    "endTime": 343.0,
+    "text": "It took 26+ hours"
+  },
+  {
+    "startTime": 343.0,
+    "endTime": 346.0,
+    "text": "to cross the Atlantic for about 3200km"
+  },
+  {
+    "startTime": 346.0,
+    "endTime": 348.0,
+    "text": "from Newfoundland to Ireland."
+  },
+  {
+    "startTime": 348.0,
+    "endTime": 352.0,
+    "text": "This airplane is a very small one with 12kg weight."
+  },
+  {
+    "startTime": 352.0,
+    "endTime": 356.0,
+    "text": "Just after then, 10 years from now,"
+  },
+  {
+    "startTime": 356.0,
+    "endTime": 359.0,
+    "text": "the unmanned trans-Pacific flight was done in 2001 by the Global Hawk,"
+  },
+  {
+    "startTime": 359.0,
+    "endTime": 364.0,
+    "text": "the most sophisticated and highest performance UAS."
+  },
+  {
+    "startTime": 364.0,
+    "endTime": 368.0,
+    "text": "From California to an air base in Australia,"
+  },
+  {
+    "startTime": 368.0,
+    "endTime": 374.0,
+    "text": "it took 22 hours for flying 13000km, and recorded in the Guinness Book of Records,"
+  },
+  {
+    "startTime": 374.0,
+    "endTime": 378.0,
+    "text": "for a long-distance flight record without pilots."
+  },
+  {
+    "startTime": 378.0,
+    "endTime": 380.0,
+    "text": "There is basically"
+  },
+  {
+    "startTime": 380.0,
+    "endTime": 385.0,
+    "text": "no technological barrier"
+  },
+  {
+    "startTime": 385.0,
+    "endTime": 389.0,
+    "text": "in long-range flight without a pilot on board."
+  },
+  {
+    "startTime": 389.0,
+    "endTime": 393.0,
+    "text": "Even though, most UAS is for military purposes."
+  },
+  {
+    "startTime": 393.0,
+    "endTime": 396.0,
+    "text": "More than 93% is used as military,"
+  },
+  {
+    "startTime": 396.0,
+    "endTime": 402.0,
+    "text": "The typical example is the Predator, you can see in this picture."
+  },
+  {
+    "startTime": 402.0,
+    "endTime": 406.0,
+    "text": "It is a beautiful-looking airplane, but has a scary name, Predator."
+  },
+  {
+    "startTime": 406.0,
+    "endTime": 409.0,
+    "text": "But in the beginning, the airplane also used for"
+  },
+  {
+    "startTime": 409.0,
+    "endTime": 412.0,
+    "text": "ground detection, which was a very peaceful purpose."
+  },
+  {
+    "startTime": 412.0,
+    "endTime": 414.0,
+    "text": "It was practically used for ground detections at NASA,"
+  },
+  {
+    "startTime": 414.0,
+    "endTime": 417.0,
+    "text": "or scientific researches."
+  },
+  {
+    "startTime": 417.0,
+    "endTime": 423.0,
+    "text": "It started to be used in war at Bosnia in 1995, and Afghanistan in 2000,"
+  },
+  {
+    "startTime": 423.0,
+    "endTime": 426.0,
+    "text": "and started to be armed."
+  },
+  {
+    "startTime": 426.0,
+    "endTime": 431.0,
+    "text": "As you see now, there are 2 missiles under the beautiful airplane."
+  },
+  {
+    "startTime": 431.0,
+    "endTime": 432.0,
+    "text": "What do you expect their usages are for?"
+  },
+  {
+    "startTime": 432.0,
+    "endTime": 435.0,
+    "text": "This video is recorded by the Predator, which is a real situation."
+  },
+  {
+    "startTime": 435.0,
+    "endTime": 437.0,
+    "text": "A video, which detected a specific target at Afghanistan,"
+  },
+  {
+    "startTime": 437.0,
+    "endTime": 439.0,
+    "text": "and attacked the building directly above it."
+  },
+  {
+    "startTime": 439.0,
+    "endTime": 444.0,
+    "text": "2 hellfire missiles are launched."
+  },
+  {
+    "startTime": 444.0,
+    "endTime": 446.0,
+    "text": "You can see a car running away."
+  },
+  {
+    "startTime": 446.0,
+    "endTime": 451.0,
+    "text": "A person driving the car was lucky."
+  },
+  {
+    "startTime": 451.0,
+    "endTime": 462.0,
+    "text": "The target was at the different place."
+  },
+  {
+    "startTime": 462.0,
+    "endTime": 469.0,
+    "text": "Now, from the sky, in the dark, people who didn't recognized the plane flying,"
+  },
+  {
+    "startTime": 469.0,
+    "endTime": 473.0,
+    "text": "were hit by the missile from somewhere, and died."
+  },
+  {
+    "startTime": 473.0,
+    "endTime": 476.0,
+    "text": "If I show this video to elementary school students,"
+  },
+  {
+    "startTime": 476.0,
+    "endTime": 479.0,
+    "text": "they seems to be interested like watching interesting movies."
+  },
+  {
+    "startTime": 479.0,
+    "endTime": 483.0,
+    "text": "But kids, let's think as you were in the place. (Laughs)"
+  },
+  {
+    "startTime": 483.0,
+    "endTime": 489.0,
+    "text": "What if the people in there were you, or your brothers at military service?"
+  },
+  {
+    "startTime": 489.0,
+    "endTime": 495.0,
+    "text": "What if the plane up above air was from your bad neighbor country?"
+  },
+  {
+    "startTime": 495.0,
+    "endTime": 500.0,
+    "text": "Think of the Manchu war of 1636, and the Japanese Invasion of Korea in 1592..."
+  },
+  {
+    "startTime": 500.0,
+    "endTime": 501.0,
+    "text": "Think about those airplanes..."
+  },
+  {
+    "startTime": 501.0,
+    "endTime": 506.0,
+    "text": "Children's face became solid and it became silent."
+  },
+  {
+    "startTime": 506.0,
+    "endTime": 511.0,
+    "text": "I end the story with \"Therefore, you need to study hard.\" (Laughs)"
+  },
+  {
+    "startTime": 511.0,
+    "endTime": 512.0,
+    "text": "Because of those reasons,"
+  },
+  {
+    "startTime": 512.0,
+    "endTime": 516.0,
+    "text": "Korea is investigating about UAS."
+  },
+  {
+    "startTime": 516.0,
+    "endTime": 520.0,
+    "text": "In this big picture, it is showing 송골매 which was developed in 90's,"
+  },
+  {
+    "startTime": 520.0,
+    "endTime": 526.0,
+    "text": "and is used for the researches related with observations in the military and in the sky."
+  },
+  {
+    "startTime": 526.0,
+    "endTime": 531.0,
+    "text": "The next one which is at right upper corner, is 'Remoeye-006',"
+  },
+  {
+    "startTime": 531.0,
+    "endTime": 534.0,
+    "text": "which is sent as troops with Korean soldiers to Afghanistan"
+  },
+  {
+    "startTime": 534.0,
+    "endTime": 536.0,
+    "text": "standing guard duty."
+  },
+  {
+    "startTime": 536.0,
+    "endTime": 540.0,
+    "text": "From among these, the one which should be focused is at the right bottom:"
+  },
+  {
+    "startTime": 540.0,
+    "endTime": 544.0,
+    "text": "A helicopter, 'Remo-H'."
+  },
+  {
+    "startTime": 544.0,
+    "endTime": 548.0,
+    "text": "Even though more than 93% of UASs are used for military purposes,"
+  },
+  {
+    "startTime": 548.0,
+    "endTime": 552.0,
+    "text": "one of the most successful applications of civil unmanned aircraft technology is the agricultural helicopters."
+  },
+  {
+    "startTime": 552.0,
+    "endTime": 556.0,
+    "text": "It is made in Korea. Capable of flying autonomously..."
+  },
+  {
+    "startTime": 556.0,
+    "endTime": 561.0,
+    "text": "If we input the coordinate of a rice paddy, it automatically scans, and sprays aerosols."
+  },
+  {
+    "startTime": 561.0,
+    "endTime": 564.0,
+    "text": "This can cover 6000 평 (20,000 square meters) in a flight mission of 15-minutes."
+  },
+  {
+    "startTime": 564.0,
+    "endTime": 567.0,
+    "text": "This increases the productivity very much."
+  },
+  {
+    "startTime": 567.0,
+    "endTime": 571.0,
+    "text": "In addition, there shows many aircraft models..."
+  },
+  {
+    "startTime": 571.0,
+    "endTime": 574.0,
+    "text": "In research institutions, or schools,"
+  },
+  {
+    "startTime": 574.0,
+    "endTime": 577.0,
+    "text": "There have been many researches related to UAS."
+  },
+  {
+    "startTime": 577.0,
+    "endTime": 580.0,
+    "text": "Even though UAS is needed for the national defense,"
+  },
+  {
+    "startTime": 580.0,
+    "endTime": 585.0,
+    "text": "it have been researched hard, not to be fallen, behind the technology developments,"
+  },
+  {
+    "startTime": 585.0,
+    "endTime": 591.0,
+    "text": "such as making airplanes unmanned or automated."
+  },
+  {
+    "startTime": 591.0,
+    "endTime": 596.0,
+    "text": "The Smart UAV Program"
+  },
+  {
+    "startTime": 596.0,
+    "endTime": 600.0,
+    "text": "is another representative UAS-technology development program"
+  },
+  {
+    "startTime": 600.0,
+    "endTime": 604.0,
+    "text": "of our country."
+  },
+  {
+    "startTime": 604.0,
+    "endTime": 608.0,
+    "text": "As you can see in the screen,"
+  },
+  {
+    "startTime": 608.0,
+    "endTime": 611.0,
+    "text": "I am developing UAS-technology including that vehicle."
+  },
+  {
+    "startTime": 611.0,
+    "endTime": 614.0,
+    "text": "This vehicle has 2 large tilt-rotors,"
+  },
+  {
+    "startTime": 614.0,
+    "endTime": 618.0,
+    "text": "which is different from other vehicles."
+  },
+  {
+    "startTime": 618.0,
+    "endTime": 621.0,
+    "text": "When take-off or landing, rotors are headed to above direction,"
+  },
+  {
+    "startTime": 621.0,
+    "endTime": 623.0,
+    "text": "so that it could do vertical take-off, or landing."
+  },
+  {
+    "startTime": 623.0,
+    "endTime": 627.0,
+    "text": "If it is speeded up, rotors are tilted to front direction."
+  },
+  {
+    "startTime": 627.0,
+    "endTime": 630.0,
+    "text": "When it speeded up to the certain speed, for example,"
+  },
+  {
+    "startTime": 630.0,
+    "endTime": 635.0,
+    "text": "250km/h like usual airplanes, it becomes like this."
+  },
+  {
+    "startTime": 635.0,
+    "endTime": 639.0,
+    "text": "Fixed-wing mode cruise."
+  },
+  {
+    "startTime": 639.0,
+    "endTime": 641.0,
+    "text": "When it is in helicopter mode,"
+  },
+  {
+    "startTime": 641.0,
+    "endTime": 646.0,
+    "text": "rotors covers all weights to make the plane lift."
+  },
+  {
+    "startTime": 646.0,
+    "endTime": 651.0,
+    "text": "On the other hand, in fixed-wing mode, wings lift the plane,"
+  },
+  {
+    "startTime": 651.0,
+    "endTime": 653.0,
+    "text": "and rotors generate projectile force."
+  },
+  {
+    "startTime": 653.0,
+    "endTime": 657.0,
+    "text": "This increases the fuel efficiency very much."
+  },
+  {
+    "startTime": 657.0,
+    "endTime": 660.0,
+    "text": "Among all world-wide airplane companies,"
+  },
+  {
+    "startTime": 660.0,
+    "endTime": 663.0,
+    "text": "only Bell hellicopters have this feature."
+  },
+  {
+    "startTime": 663.0,
+    "endTime": 668.0,
+    "text": "We became the second."
+  },
+  {
+    "startTime": 668.0,
+    "endTime": 672.0,
+    "text": "There can be many core technologies of this airplane."
+  },
+  {
+    "startTime": 672.0,
+    "endTime": 676.0,
+    "text": "The most important one is that"
+  },
+  {
+    "startTime": 676.0,
+    "endTime": 681.0,
+    "text": "transitioning from the helicopter mode to the fixed-wing mode by tilting the rotors."
+  },
+  {
+    "startTime": 681.0,
+    "endTime": 684.0,
+    "text": "Some people might think that,"
+  },
+  {
+    "startTime": 684.0,
+    "endTime": 687.0,
+    "text": "just after taking off, it can tilt rotors very quick, and go on."
+  },
+  {
+    "startTime": 687.0,
+    "endTime": 689.0,
+    "text": "But this process is very complicated."
+  },
+  {
+    "startTime": 689.0,
+    "endTime": 691.0,
+    "text": "When taking off, it is totally a helicopter."
+  },
+  {
+    "startTime": 691.0,
+    "endTime": 696.0,
+    "text": "It controls the flight depending on 2 large tilt-rotors."
+  },
+  {
+    "startTime": 696.0,
+    "endTime": 700.0,
+    "text": "When it became airplane mode,"
+  },
+  {
+    "startTime": 700.0,
+    "endTime": 705.0,
+    "text": "it controls the flight just like other fixed-wing airplanes do."
+  },
+  {
+    "startTime": 705.0,
+    "endTime": 706.0,
+    "text": "The control system is totally changed,"
+  },
+  {
+    "startTime": 706.0,
+    "endTime": 709.0,
+    "text": "so the intermediate processes should be changed gradually."
+  },
+  {
+    "startTime": 709.0,
+    "endTime": 712.0,
+    "text": "The core technology is in that part."
+  },
+  {
+    "startTime": 712.0,
+    "endTime": 714.0,
+    "text": "Unfortunately, or fortunately,"
+  },
+  {
+    "startTime": 714.0,
+    "endTime": 718.0,
+    "text": "There is no company, but only Bell helicopter in USA, who has the technology."
+  },
+  {
+    "startTime": 718.0,
+    "endTime": 723.0,
+    "text": "And the technology was strategic, so we needed to develop it autonomously."
+  },
+  {
+    "startTime": 723.0,
+    "endTime": 728.0,
+    "text": "To develop the flight control technology autonomously,"
+  },
+  {
+    "startTime": 728.0,
+    "endTime": 732.0,
+    "text": "we created a small airplane in the picture."
+  },
+  {
+    "startTime": 732.0,
+    "endTime": 737.0,
+    "text": "The big picture is in full scale. It weighs about 1000kg."
+  },
+  {
+    "startTime": 737.0,
+    "endTime": 742.0,
+    "text": "And the front small one is 40% downscaled model."
+  },
+  {
+    "startTime": 742.0,
+    "endTime": 745.0,
+    "text": "Using this model, we did flight test,"
+  },
+  {
+    "startTime": 745.0,
+    "endTime": 749.0,
+    "text": "and solved the mystery of transitioning from helcopter mode to fixed-wing mode."
+  },
+  {
+    "startTime": 749.0,
+    "endTime": 754.0,
+    "text": "We call tilting wings as tilting angle,"
+  },
+  {
+    "startTime": 754.0,
+    "endTime": 755.0,
+    "text": "Tilt in English,"
+  },
+  {
+    "startTime": 755.0,
+    "endTime": 760.0,
+    "text": "When take-off or landing, it is defined as 90 degree,"
+  },
+  {
+    "startTime": 760.0,
+    "endTime": 763.0,
+    "text": "and when airplane mode, it is defined as 0 degree."
+  },
+  {
+    "startTime": 763.0,
+    "endTime": 787.0,
+    "text": "<Smart unmanned airplane miniature automated flight>"
+  },
+  {
+    "startTime": 787.0,
+    "endTime": 790.0,
+    "text": "The process had many complications."
+  },
+  {
+    "startTime": 790.0,
+    "endTime": 793.0,
+    "text": "When we do flight test, we start at 90 degree,"
+  },
+  {
+    "startTime": 793.0,
+    "endTime": 796.0,
+    "text": "flying in helicopter mode, and then lands automatically."
+  },
+  {
+    "startTime": 796.0,
+    "endTime": 799.0,
+    "text": "After that, the control system should change gradually."
+  },
+  {
+    "startTime": 799.0,
+    "endTime": 806.0,
+    "text": "It changed a bit, for example, changed to 80 degree, and then came back."
+  },
+  {
+    "startTime": 806.0,
+    "endTime": 809.0,
+    "text": "In the next flight, it tried to 70 degree."
+  },
+  {
+    "startTime": 809.0,
+    "endTime": 812.0,
+    "text": "We decided to try it until 30 degree at the first time,"
+  },
+  {
+    "startTime": 812.0,
+    "endTime": 815.0,
+    "text": "but it became better, so we succeeded 23 degree."
+  },
+  {
+    "startTime": 815.0,
+    "endTime": 817.0,
+    "text": "Our researchers liked it very much."
+  },
+  {
+    "startTime": 817.0,
+    "endTime": 820.0,
+    "text": "It was rolled heavily at 45 degree."
+  },
+  {
+    "startTime": 820.0,
+    "endTime": 826.0,
+    "text": "We succeeded at 23 degree, so we changed our goal to 20 degree."
+  },
+  {
+    "startTime": 826.0,
+    "endTime": 830.0,
+    "text": "We had a tremendous happening then."
+  },
+  {
+    "startTime": 830.0,
+    "endTime": 838.0,
+    "text": "There are many new generation people here... That OTL is not the abbreviation of unmanned airplane system."
+  },
+  {
+    "startTime": 838.0,
+    "endTime": 840.0,
+    "text": "We should not pronounce it as OTL."
+  },
+  {
+    "startTime": 840.0,
+    "endTime": 843.0,
+    "text": "There must be sorrows and frustrations."
+  },
+  {
+    "startTime": 843.0,
+    "endTime": 845.0,
+    "text": "When we made airplanes and flew them,"
+  },
+  {
+    "startTime": 845.0,
+    "endTime": 848.0,
+    "text": "like rubber-powered planes or gliders at your childhoods,"
+  },
+  {
+    "startTime": 848.0,
+    "endTime": 851.0,
+    "text": "you feel yourself excited when you made them by your own hand and flew them."
+  },
+  {
+    "startTime": 851.0,
+    "endTime": 854.0,
+    "text": "But if you make those unique thing,"
+  },
+  {
+    "startTime": 854.0,
+    "endTime": 857.0,
+    "text": "Umm.. it is unutterable."
+  },
+  {
+    "startTime": 857.0,
+    "endTime": 863.0,
+    "text": "But developing this flying vehicle has a different part compared with other machines."
+  },
+  {
+    "startTime": 863.0,
+    "endTime": 866.0,
+    "text": "There is an unavoidable destiny."
+  },
+  {
+    "startTime": 866.0,
+    "endTime": 868.0,
+    "text": "It is this."
+  },
+  {
+    "startTime": 868.0,
+    "endTime": 877.0,
+    "text": "During flight test, tilt degree passed 30 degree, and before it reached to 20 degree, this happened."
+  },
+  {
+    "startTime": 877.0,
+    "endTime": 885.0,
+    "text": "It is required to be recovered gradually to land down, but at the moment, that happened."
+  },
+  {
+    "startTime": 885.0,
+    "endTime": 897.0,
+    "text": "This is very critical to airplane development researchers."
+  },
+  {
+    "startTime": 897.0,
+    "endTime": 900.0,
+    "text": "We cannot control at the moment, which is called spin."
+  },
+  {
+    "startTime": 900.0,
+    "endTime": 902.0,
+    "text": "Any control is possible."
+  },
+  {
+    "startTime": 902.0,
+    "endTime": 908.0,
+    "text": "Shivers were sent down our spines. Our mind went blank."
+  },
+  {
+    "startTime": 908.0,
+    "endTime": 913.0,
+    "text": "That's the reason why my hair became white. (Laughs)"
+  },
+  {
+    "startTime": 913.0,
+    "endTime": 916.0,
+    "text": "To break through the 20 degree barrier,"
+  },
+  {
+    "startTime": 916.0,
+    "endTime": 920.0,
+    "text": "from then, 20 degree drinks were abandoned to our teammates."
+  },
+  {
+    "startTime": 920.0,
+    "endTime": 927.0,
+    "text": "Our goal was 0 degree. So, after then, until we reach 0 degree,"
+  },
+  {
+    "startTime": 927.0,
+    "endTime": 933.0,
+    "text": "we kept mind about 0 degree during eating pork, or broiled eels."
+  },
+  {
+    "startTime": 933.0,
+    "endTime": 937.0,
+    "text": "Finally, we succeeded."
+  },
+  {
+    "startTime": 937.0,
+    "endTime": 945.0,
+    "text": "This picture shows Global Hawk, the best UAS."
+  },
+  {
+    "startTime": 945.0,
+    "endTime": 948.0,
+    "text": "It seems to be no exception to Americans."
+  },
+  {
+    "startTime": 948.0,
+    "endTime": 951.0,
+    "text": "An aviation pioneer,"
+  },
+  {
+    "startTime": 951.0,
+    "endTime": 957.0,
+    "text": "Otto Lilienthal, who led aviation development more than Light brothers,"
+  },
+  {
+    "startTime": 957.0,
+    "endTime": 963.0,
+    "text": "made glider and flew by himself, and fell down which killed him."
+  },
+  {
+    "startTime": 963.0,
+    "endTime": 968.0,
+    "text": "Before he passed away, he said like this."
+  },
+  {
+    "startTime": 968.0,
+    "endTime": 971.0,
+    "text": "That made us to keep our researches,"
+  },
+  {
+    "startTime": 971.0,
+    "endTime": 974.0,
+    "text": "and the related R&Ds all over the world are going on."
+  },
+  {
+    "startTime": 974.0,
+    "endTime": 976.0,
+    "text": "Up to this place, we talked about the researches related with UAS."
+  },
+  {
+    "startTime": 976.0,
+    "endTime": 982.0,
+    "text": "Then, if the technology, which can make flight automatic and doesn't require any pilots, is developed,"
+  },
+  {
+    "startTime": 982.0,
+    "endTime": 986.0,
+    "text": "we can apply it to the usual airplanes."
+  },
+  {
+    "startTime": 986.0,
+    "endTime": 990.0,
+    "text": "Then, we don't need professionally trained pilots,"
+  },
+  {
+    "startTime": 990.0,
+    "endTime": 994.0,
+    "text": "but just usual people like audiences here can sit,"
+  },
+  {
+    "startTime": 994.0,
+    "endTime": 1002.0,
+    "text": "and drive as we drive cars. It was my opinion."
+  },
+  {
+    "startTime": 1002.0,
+    "endTime": 1005.0,
+    "text": "Therefore in the near future,"
+  },
+  {
+    "startTime": 1005.0,
+    "endTime": 1009.0,
+    "text": "before very special airplane came out,"
+  },
+  {
+    "startTime": 1009.0,
+    "endTime": 1012.0,
+    "text": "we can integrate those UAS technology with existing aircrafts,"
+  },
+  {
+    "startTime": 1012.0,
+    "endTime": 1016.0,
+    "text": "so that it is controlled automatically without pilots, does tasks,"
+  },
+  {
+    "startTime": 1016.0,
+    "endTime": 1020.0,
+    "text": "moves to target point, and lands automatically."
+  },
+  {
+    "startTime": 1020.0,
+    "endTime": 1025.0,
+    "text": "Then, there could be airplanes to which usual people can approach easily."
+  },
+  {
+    "startTime": 1025.0,
+    "endTime": 1027.0,
+    "text": "It was my opinion."
+  },
+  {
+    "startTime": 1027.0,
+    "endTime": 1030.0,
+    "text": "In extension of that idea,"
+  },
+  {
+    "startTime": 1030.0,
+    "endTime": 1035.0,
+    "text": "an American engineer created a painting here."
+  },
+  {
+    "startTime": 1035.0,
+    "endTime": 1037.0,
+    "text": "We can ride like cars."
+  },
+  {
+    "startTime": 1037.0,
+    "endTime": 1042.0,
+    "text": "At the airport, we can fly like airplanes using wings."
+  },
+  {
+    "startTime": 1042.0,
+    "endTime": 1045.0,
+    "text": "A proto type ended test flights."
+  },
+  {
+    "startTime": 1045.0,
+    "endTime": 1050.0,
+    "text": "We are receiving orders, and developing a commercialized model."
+  },
+  {
+    "startTime": 1050.0,
+    "endTime": 1055.0,
+    "text": "In 2025 may, Young-hee's family in Daejeon take PV,"
+  },
+  {
+    "startTime": 1055.0,
+    "endTime": 1061.0,
+    "text": "and go travel to their grandmother's home near 설악산."
+  },
+  {
+    "startTime": 1061.0,
+    "endTime": 1067.0,
+    "text": "After self-test of car-mode, they move to an airstrip near home,"
+  },
+  {
+    "startTime": 1067.0,
+    "endTime": 1074.0,
+    "text": "change to flight-mode and get departure approval to departure automatically."
+  },
+  {
+    "startTime": 1074.0,
+    "endTime": 1079.0,
+    "text": "Using IT technology-related next generation flight system,"
+  },
+  {
+    "startTime": 1079.0,
+    "endTime": 1083.0,
+    "text": "it automatically fly to the target place fast."
+  },
+  {
+    "startTime": 1083.0,
+    "endTime": 1088.0,
+    "text": "In less than one hour, they can see 설악산."
+  },
+  {
+    "startTime": 1088.0,
+    "endTime": 1092.0,
+    "text": "After a control center approves landing, it lands automatically,"
+  },
+  {
+    "startTime": 1092.0,
+    "endTime": 1098.0,
+    "text": "and changes to car-mode to drive to their grandmother's house."
+  },
+  {
+    "startTime": 1098.0,
+    "endTime": 1101.0,
+    "text": "In very complicated metropolis,"
+  },
+  {
+    "startTime": 1101.0,
+    "endTime": 1107.0,
+    "text": "cars move in 2-dimention on the ground."
+  },
+  {
+    "startTime": 1107.0,
+    "endTime": 1111.0,
+    "text": "To control car traffics,"
+  },
+  {
+    "startTime": 1111.0,
+    "endTime": 1113.0,
+    "text": "there are stop lines, and traffic congestions."
+  },
+  {
+    "startTime": 1113.0,
+    "endTime": 1120.0,
+    "text": "If we create roads parallel in 3-dimension,"
+  },
+  {
+    "startTime": 1120.0,
+    "endTime": 1124.0,
+    "text": "there can be no traffic congestions."
+  },
+  {
+    "startTime": 1124.0,
+    "endTime": 1127.0,
+    "text": "There are ideas like sky-taxi, or sky-car."
+  },
+  {
+    "startTime": 1127.0,
+    "endTime": 1131.0,
+    "text": "Like those ideas, if technologies are developed,"
+  },
+  {
+    "startTime": 1131.0,
+    "endTime": 1138.0,
+    "text": "to create future personal airplane, I think these conditions should be satisfied."
+  },
+  {
+    "startTime": 1138.0,
+    "endTime": 1144.0,
+    "text": "First, it should be easy to control as we drive cars nowadays."
+  },
+  {
+    "startTime": 1144.0,
+    "endTime": 1149.0,
+    "text": "Second, to drive in the air in a very complicated city,"
+  },
+  {
+    "startTime": 1149.0,
+    "endTime": 1152.0,
+    "text": "it requires speeds, and also,"
+  },
+  {
+    "startTime": 1152.0,
+    "endTime": 1156.0,
+    "text": "it should be capable of stop or backward movement in the air."
+  },
+  {
+    "startTime": 1156.0,
+    "endTime": 1161.0,
+    "text": "Next, if there were many airplanes at the same time,"
+  },
+  {
+    "startTime": 1161.0,
+    "endTime": 1165.0,
+    "text": "servomechanism should be completed,"
+  },
+  {
+    "startTime": 1165.0,
+    "endTime": 1168.0,
+    "text": "so that, they should not be crashed to each other. You may not know the term."
+  },
+  {
+    "startTime": 1168.0,
+    "endTime": 1171.0,
+    "text": "For airplane flight, as usual people don't know much,"
+  },
+  {
+    "startTime": 1171.0,
+    "endTime": 1176.0,
+    "text": "technical infra structures should be prepared."
+  },
+  {
+    "startTime": 1176.0,
+    "endTime": 1182.0,
+    "text": "For example, in the metropolis, we can set multi-layered air routes,"
+  },
+  {
+    "startTime": 1182.0,
+    "endTime": 1187.0,
+    "text": "and even though airplanes approach in ultra-close distance, there should be no collision risk."
+  },
+  {
+    "startTime": 1187.0,
+    "endTime": 1193.0,
+    "text": "Those kind of infra, institution, technology, and system should be settled."
+  },
+  {
+    "startTime": 1193.0,
+    "endTime": 1197.0,
+    "text": "Especially, air route following system is important"
+  },
+  {
+    "startTime": 1197.0,
+    "endTime": 1202.0,
+    "text": "for no collisions at complex routes."
+  },
+  {
+    "startTime": 1202.0,
+    "endTime": 1207.0,
+    "text": "For example, if there is a reckless driver like in this movie..."
+  },
+  {
+    "startTime": 1207.0,
+    "endTime": 1214.0,
+    "text": "Those things happen because it is in the movie. They cannot be happened in real world."
+  },
+  {
+    "startTime": 1214.0,
+    "endTime": 1220.0,
+    "text": "If this kind of servomechanism is completed, then it can be applied to metropolis."
+  },
+  {
+    "startTime": 1220.0,
+    "endTime": 1225.0,
+    "text": "Like I showed in animation recently, in the near future, at an uncrowded road,"
+  },
+  {
+    "startTime": 1225.0,
+    "endTime": 1230.0,
+    "text": "these type of airplanes can be used."
+  },
+  {
+    "startTime": 1230.0,
+    "endTime": 1236.0,
+    "text": "Above all, the traffic safety and reliability will be on the highest priority."
+  },
+  {
+    "startTime": 1236.0,
+    "endTime": 1238.0,
+    "text": "It is needless to say more."
+  },
+  {
+    "startTime": 1238.0,
+    "endTime": 1242.0,
+    "text": "After this, after the new airplane comes out,"
+  },
+  {
+    "startTime": 1242.0,
+    "endTime": 1245.0,
+    "text": "for example, in my apartment, 3000 households live in there,"
+  },
+  {
+    "startTime": 1245.0,
+    "endTime": 1249.0,
+    "text": "imagine that, in the morning, 3000 cars comes out,"
+  },
+  {
+    "startTime": 1249.0,
+    "endTime": 1252.0,
+    "text": "and fly up to the sky."
+  },
+  {
+    "startTime": 1252.0,
+    "endTime": 1256.0,
+    "text": "It will be like this. (Laughs)"
+  },
+  {
+    "startTime": 1256.0,
+    "endTime": 1264.0,
+    "text": "Actually, scientists got the idea from a crowd flight of migrant birds,"
+  },
+  {
+    "startTime": 1264.0,
+    "endTime": 1268.0,
+    "text": "and research about it, and the research is in progress."
+  },
+  {
+    "startTime": 1268.0,
+    "endTime": 1270.0,
+    "text": "Someday in the future, it will become possible."
+  },
+  {
+    "startTime": 1270.0,
+    "endTime": 1273.0,
+    "text": "I expect that, especially, new generation people who came as audience today"
+  },
+  {
+    "startTime": 1273.0,
+    "endTime": 1277.0,
+    "text": "may take those car-like airplanes"
+  },
+  {
+    "startTime": 1277.0,
+    "endTime": 1279.0,
+    "text": "to commute in the near future."
+  },
+  {
+    "startTime": 1279.0,
+    "endTime": 1289.0,
+    "text": "Let's dream together. Thank you for your attention."
+  }
+]

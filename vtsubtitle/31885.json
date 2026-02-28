@@ -1,0 +1,1527 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 15.917,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 15.917,
+    "endTime": 18.419,
+    "text": "Some years ago, I set out to try to understand"
+  },
+  {
+    "startTime": 18.419,
+    "endTime": 21.147000000000002,
+    "text": "if there was a possibility to develop biofuels"
+  },
+  {
+    "startTime": 21.147,
+    "endTime": 25.848999999999997,
+    "text": "on a scale that would actually compete with fossil fuels"
+  },
+  {
+    "startTime": 25.849,
+    "endTime": 29.533,
+    "text": "but not compete with agriculture for water,"
+  },
+  {
+    "startTime": 29.533,
+    "endTime": 31.971,
+    "text": "fertilizer or land."
+  },
+  {
+    "startTime": 31.971,
+    "endTime": 33.501,
+    "text": "So here's what I came up with."
+  },
+  {
+    "startTime": 33.501,
+    "endTime": 35.108999999999995,
+    "text": "Imagine that we build an enclosure where we put it"
+  },
+  {
+    "startTime": 35.109,
+    "endTime": 37.387,
+    "text": "just underwater, and we fill it with wastewater"
+  },
+  {
+    "startTime": 37.387,
+    "endTime": 40.515,
+    "text": "and some form of microalgae that produces oil,"
+  },
+  {
+    "startTime": 40.515,
+    "endTime": 42.675,
+    "text": "and we make it out of some kind of flexible material"
+  },
+  {
+    "startTime": 42.675,
+    "endTime": 44.747,
+    "text": "that moves with waves underwater,"
+  },
+  {
+    "startTime": 44.747,
+    "endTime": 46.787,
+    "text": "and the system that we're going to build, of course,"
+  },
+  {
+    "startTime": 46.787,
+    "endTime": 49.107,
+    "text": "will use solar energy to grow the algae,"
+  },
+  {
+    "startTime": 49.107,
+    "endTime": 51.318,
+    "text": "and they use CO2, which is good,"
+  },
+  {
+    "startTime": 51.318,
+    "endTime": 53.683,
+    "text": "and they produce oxygen as they grow."
+  },
+  {
+    "startTime": 53.683,
+    "endTime": 57.347,
+    "text": "The algae that grow are in a container that"
+  },
+  {
+    "startTime": 57.347,
+    "endTime": 60.139,
+    "text": "distributes the heat to the surrounding water,"
+  },
+  {
+    "startTime": 60.139,
+    "endTime": 62.403000000000006,
+    "text": "and you can harvest them and make biofuels"
+  },
+  {
+    "startTime": 62.403,
+    "endTime": 65.083,
+    "text": "and cosmetics and fertilizer and animal feed,"
+  },
+  {
+    "startTime": 65.083,
+    "endTime": 67.923,
+    "text": "and of course you'd have to make a large area of this,"
+  },
+  {
+    "startTime": 67.923,
+    "endTime": 70.47500000000001,
+    "text": "so you'd have to worry about other stakeholders"
+  },
+  {
+    "startTime": 70.475,
+    "endTime": 74.667,
+    "text": "like fishermen and ships and such things, but hey,"
+  },
+  {
+    "startTime": 74.667,
+    "endTime": 76.93,
+    "text": "we're talking about biofuels,"
+  },
+  {
+    "startTime": 76.93,
+    "endTime": 79.132,
+    "text": "and we know the importance of potentially getting"
+  },
+  {
+    "startTime": 79.132,
+    "endTime": 81.611,
+    "text": "an alternative liquid fuel."
+  },
+  {
+    "startTime": 81.611,
+    "endTime": 84.292,
+    "text": "Why are we talking about microalgae?"
+  },
+  {
+    "startTime": 84.292,
+    "endTime": 87.979,
+    "text": "Here you see a graph showing you the different types"
+  },
+  {
+    "startTime": 87.979,
+    "endTime": 91.831,
+    "text": "of crops that are being considered for making biofuels,"
+  },
+  {
+    "startTime": 91.831,
+    "endTime": 94.394,
+    "text": "so you can see some things like soybean,"
+  },
+  {
+    "startTime": 94.394,
+    "endTime": 96.71100000000001,
+    "text": "which makes 50 gallons per acre per year,"
+  },
+  {
+    "startTime": 96.711,
+    "endTime": 101.768,
+    "text": "or sunflower or canola or jatropha or palm, and that"
+  },
+  {
+    "startTime": 101.768,
+    "endTime": 106.262,
+    "text": "tall graph there shows what microalgae can contribute."
+  },
+  {
+    "startTime": 106.262,
+    "endTime": 108.793,
+    "text": "That is to say, microalgae contributes between 2,000"
+  },
+  {
+    "startTime": 108.793,
+    "endTime": 111.58500000000001,
+    "text": "and 5,000 gallons per acre per year,"
+  },
+  {
+    "startTime": 111.585,
+    "endTime": 114.937,
+    "text": "compared to the 50 gallons per acre per year from soy."
+  },
+  {
+    "startTime": 114.937,
+    "endTime": 118.201,
+    "text": "So what are microalgae? Microalgae are micro --"
+  },
+  {
+    "startTime": 118.201,
+    "endTime": 120.64899999999999,
+    "text": "that is, they're extremely small, as you can see here"
+  },
+  {
+    "startTime": 120.649,
+    "endTime": 123.617,
+    "text": "a picture of those single-celled organisms"
+  },
+  {
+    "startTime": 123.617,
+    "endTime": 125.927,
+    "text": "compared to a human hair."
+  },
+  {
+    "startTime": 125.927,
+    "endTime": 128.75300000000001,
+    "text": "Those small organisms have been around"
+  },
+  {
+    "startTime": 128.753,
+    "endTime": 130.79299999999998,
+    "text": "for millions of years and there's thousands"
+  },
+  {
+    "startTime": 130.793,
+    "endTime": 133.017,
+    "text": "of different species of microalgae in the world,"
+  },
+  {
+    "startTime": 133.017,
+    "endTime": 136.041,
+    "text": "some of which are the fastest-growing plants on the planet,"
+  },
+  {
+    "startTime": 136.041,
+    "endTime": 139.233,
+    "text": "and produce, as I just showed you, lots and lots of oil."
+  },
+  {
+    "startTime": 139.233,
+    "endTime": 142.52100000000002,
+    "text": "Now, why do we want to do this offshore?"
+  },
+  {
+    "startTime": 142.521,
+    "endTime": 145.369,
+    "text": "Well, the reason we're doing this offshore is because"
+  },
+  {
+    "startTime": 145.369,
+    "endTime": 149.965,
+    "text": "if you look at our coastal cities, there isn't a choice,"
+  },
+  {
+    "startTime": 149.965,
+    "endTime": 152.764,
+    "text": "because we're going to use waste water, as I suggested,"
+  },
+  {
+    "startTime": 152.764,
+    "endTime": 154.675,
+    "text": "and if you look at where most of the waste water"
+  },
+  {
+    "startTime": 154.675,
+    "endTime": 158.244,
+    "text": "treatment plants are, they're embedded in the cities."
+  },
+  {
+    "startTime": 158.244,
+    "endTime": 161.927,
+    "text": "This is the city of San Francisco, which has 900 miles"
+  },
+  {
+    "startTime": 161.927,
+    "endTime": 164.582,
+    "text": "of sewer pipes under the city already,"
+  },
+  {
+    "startTime": 164.582,
+    "endTime": 168.558,
+    "text": "and it releases its waste water offshore."
+  },
+  {
+    "startTime": 168.558,
+    "endTime": 172.47,
+    "text": "So different cities around the world treat their waste water"
+  },
+  {
+    "startTime": 172.47,
+    "endTime": 174.838,
+    "text": "differently. Some cities process it."
+  },
+  {
+    "startTime": 174.838,
+    "endTime": 176.48399999999998,
+    "text": "Some cities just release the water."
+  },
+  {
+    "startTime": 176.484,
+    "endTime": 179.142,
+    "text": "But in all cases, the water that's released is"
+  },
+  {
+    "startTime": 179.142,
+    "endTime": 182.102,
+    "text": "perfectly adequate for growing microalgae."
+  },
+  {
+    "startTime": 182.102,
+    "endTime": 183.767,
+    "text": "So let's envision what the system might look like."
+  },
+  {
+    "startTime": 183.767,
+    "endTime": 185.869,
+    "text": "We call it OMEGA, which is an acronym for"
+  },
+  {
+    "startTime": 185.869,
+    "endTime": 190.3,
+    "text": "Offshore Membrane Enclosures for Growing Algae."
+  },
+  {
+    "startTime": 190.3,
+    "endTime": 192.852,
+    "text": "At NASA, you have to have good acronyms."
+  },
+  {
+    "startTime": 192.852,
+    "endTime": 195.695,
+    "text": "So how does it work? I sort of showed you how it works already."
+  },
+  {
+    "startTime": 195.695,
+    "endTime": 199.415,
+    "text": "We put waste water and some source of CO2"
+  },
+  {
+    "startTime": 199.415,
+    "endTime": 202.462,
+    "text": "into our floating structure,"
+  },
+  {
+    "startTime": 202.462,
+    "endTime": 206.10299999999998,
+    "text": "and the waste water provides nutrients for the algae to grow,"
+  },
+  {
+    "startTime": 206.103,
+    "endTime": 208.821,
+    "text": "and they sequester CO2 that would otherwise go off"
+  },
+  {
+    "startTime": 208.821,
+    "endTime": 211.431,
+    "text": "into the atmosphere as a greenhouse gas."
+  },
+  {
+    "startTime": 211.431,
+    "endTime": 213.75900000000001,
+    "text": "They of course use solar energy to grow,"
+  },
+  {
+    "startTime": 213.759,
+    "endTime": 216.30999999999997,
+    "text": "and the wave energy on the surface provides energy"
+  },
+  {
+    "startTime": 216.31,
+    "endTime": 218.614,
+    "text": "for mixing the algae, and the temperature"
+  },
+  {
+    "startTime": 218.614,
+    "endTime": 221.174,
+    "text": "is controlled by the surrounding water temperature."
+  },
+  {
+    "startTime": 221.174,
+    "endTime": 224.52800000000002,
+    "text": "The algae that grow produce oxygen, as I've mentioned,"
+  },
+  {
+    "startTime": 224.528,
+    "endTime": 227.816,
+    "text": "and they also produce biofuels and fertilizer and food and"
+  },
+  {
+    "startTime": 227.816,
+    "endTime": 231.257,
+    "text": "other bi-algal products of interest."
+  },
+  {
+    "startTime": 231.257,
+    "endTime": 234.674,
+    "text": "And the system is contained. What do I mean by that?"
+  },
+  {
+    "startTime": 234.674,
+    "endTime": 236.8,
+    "text": "It's modular. Let's say something happens that's"
+  },
+  {
+    "startTime": 236.8,
+    "endTime": 238.994,
+    "text": "totally unexpected to one of the modules."
+  },
+  {
+    "startTime": 238.994,
+    "endTime": 241.193,
+    "text": "It leaks. It's struck by lightning."
+  },
+  {
+    "startTime": 241.193,
+    "endTime": 243.80200000000002,
+    "text": "The waste water that leaks out is water that already now"
+  },
+  {
+    "startTime": 243.802,
+    "endTime": 246.19,
+    "text": "goes into that coastal environment, and"
+  },
+  {
+    "startTime": 246.19,
+    "endTime": 248.438,
+    "text": "the algae that leak out are biodegradable,"
+  },
+  {
+    "startTime": 248.438,
+    "endTime": 249.524,
+    "text": "and because they're living in waste water,"
+  },
+  {
+    "startTime": 249.524,
+    "endTime": 252.593,
+    "text": "they're fresh water algae, which means they can't"
+  },
+  {
+    "startTime": 252.593,
+    "endTime": 254.39,
+    "text": "live in salt water, so they die."
+  },
+  {
+    "startTime": 254.39,
+    "endTime": 256.55,
+    "text": "The plastic we'll build it out of is some kind of"
+  },
+  {
+    "startTime": 256.55,
+    "endTime": 259.182,
+    "text": "well-known plastic that we have good experience with, and"
+  },
+  {
+    "startTime": 259.182,
+    "endTime": 264.033,
+    "text": "we'll rebuild our modules to be able to reuse them again."
+  },
+  {
+    "startTime": 264.033,
+    "endTime": 267.605,
+    "text": "So we may be able to go beyond that when thinking about"
+  },
+  {
+    "startTime": 267.605,
+    "endTime": 270.082,
+    "text": "this system that I'm showing you, and that is to say"
+  },
+  {
+    "startTime": 270.082,
+    "endTime": 272.916,
+    "text": "we need to think in terms of the water, the fresh water,"
+  },
+  {
+    "startTime": 272.916,
+    "endTime": 275.282,
+    "text": "which is also going to be an issue in the future,"
+  },
+  {
+    "startTime": 275.282,
+    "endTime": 277.11899999999997,
+    "text": "and we're working on methods now"
+  },
+  {
+    "startTime": 277.119,
+    "endTime": 279.641,
+    "text": "for recovering the waste water."
+  },
+  {
+    "startTime": 279.641,
+    "endTime": 282.433,
+    "text": "The other thing to consider is the structure itself."
+  },
+  {
+    "startTime": 282.433,
+    "endTime": 285.484,
+    "text": "It provides a surface for things in the ocean,"
+  },
+  {
+    "startTime": 285.484,
+    "endTime": 288.727,
+    "text": "and this surface, which is covered by seaweeds"
+  },
+  {
+    "startTime": 288.727,
+    "endTime": 291.221,
+    "text": "and other organisms in the ocean,"
+  },
+  {
+    "startTime": 291.221,
+    "endTime": 295.208,
+    "text": "will become enhanced marine habitat"
+  },
+  {
+    "startTime": 295.208,
+    "endTime": 296.87100000000004,
+    "text": "so it increases biodiversity."
+  },
+  {
+    "startTime": 296.871,
+    "endTime": 298.871,
+    "text": "And finally, because it's an offshore structure,"
+  },
+  {
+    "startTime": 298.871,
+    "endTime": 301.77299999999997,
+    "text": "we can think in terms of how it might contribute"
+  },
+  {
+    "startTime": 301.773,
+    "endTime": 305.52700000000004,
+    "text": "to an aquaculture activity offshore."
+  },
+  {
+    "startTime": 305.527,
+    "endTime": 307.116,
+    "text": "So you're probably thinking, \"Gee, this sounds"
+  },
+  {
+    "startTime": 307.116,
+    "endTime": 311.687,
+    "text": "like a good idea. What can we do to try to see if it's real?\""
+  },
+  {
+    "startTime": 311.687,
+    "endTime": 315.502,
+    "text": "Well, I set up laboratories in Santa Cruz"
+  },
+  {
+    "startTime": 315.502,
+    "endTime": 318.664,
+    "text": "at the California Fish and Game facility,"
+  },
+  {
+    "startTime": 318.664,
+    "endTime": 321.71299999999997,
+    "text": "and that facility allowed us to have big seawater tanks"
+  },
+  {
+    "startTime": 321.713,
+    "endTime": 323.43600000000004,
+    "text": "to test some of these ideas."
+  },
+  {
+    "startTime": 323.436,
+    "endTime": 326.058,
+    "text": "We also set up experiments in San Francisco"
+  },
+  {
+    "startTime": 326.058,
+    "endTime": 328.889,
+    "text": "at one of the three waste water treatment plants,"
+  },
+  {
+    "startTime": 328.889,
+    "endTime": 331.385,
+    "text": "again a facility to test ideas."
+  },
+  {
+    "startTime": 331.385,
+    "endTime": 334.68899999999996,
+    "text": "And finally, we wanted to see where we could look at"
+  },
+  {
+    "startTime": 334.689,
+    "endTime": 337.39300000000003,
+    "text": "what the impact of this structure would be"
+  },
+  {
+    "startTime": 337.393,
+    "endTime": 341.04999999999995,
+    "text": "in the marine environment, and we set up a field site"
+  },
+  {
+    "startTime": 341.05,
+    "endTime": 343.51300000000003,
+    "text": "at a place called Moss Landing Marine Lab"
+  },
+  {
+    "startTime": 343.513,
+    "endTime": 345.873,
+    "text": "in Monterey Bay, where we worked in a harbor"
+  },
+  {
+    "startTime": 345.873,
+    "endTime": 350.719,
+    "text": "to see what impact this would have on marine organisms."
+  },
+  {
+    "startTime": 350.719,
+    "endTime": 353.80899999999997,
+    "text": "The laboratory that we set up in Santa Cruz was our skunkworks."
+  },
+  {
+    "startTime": 353.809,
+    "endTime": 356.70700000000005,
+    "text": "It was a place where we were growing algae"
+  },
+  {
+    "startTime": 356.707,
+    "endTime": 359.372,
+    "text": "and welding plastic and building tools"
+  },
+  {
+    "startTime": 359.372,
+    "endTime": 360.89500000000004,
+    "text": "and making a lot of mistakes,"
+  },
+  {
+    "startTime": 360.895,
+    "endTime": 362.82599999999996,
+    "text": "or, as Edison said, we were"
+  },
+  {
+    "startTime": 362.826,
+    "endTime": 366.276,
+    "text": "finding the 10,000 ways that the system wouldn't work."
+  },
+  {
+    "startTime": 366.276,
+    "endTime": 370.522,
+    "text": "Now, we grew algae in waste water, and we built tools"
+  },
+  {
+    "startTime": 370.522,
+    "endTime": 373.954,
+    "text": "that allowed us to get into the lives of algae"
+  },
+  {
+    "startTime": 373.954,
+    "endTime": 375.676,
+    "text": "so that we could monitor the way they grow,"
+  },
+  {
+    "startTime": 375.676,
+    "endTime": 378.378,
+    "text": "what makes them happy, how do we make sure that"
+  },
+  {
+    "startTime": 378.378,
+    "endTime": 382.28,
+    "text": "we're going to have a culture that will survive and thrive."
+  },
+  {
+    "startTime": 382.28,
+    "endTime": 385.36899999999997,
+    "text": "So the most important feature that we needed to develop were these"
+  },
+  {
+    "startTime": 385.369,
+    "endTime": 388.09700000000004,
+    "text": "so-called photobioreactors, or PBRs."
+  },
+  {
+    "startTime": 388.097,
+    "endTime": 389.44,
+    "text": "These were the structures that would be floating at the"
+  },
+  {
+    "startTime": 389.44,
+    "endTime": 392.865,
+    "text": "surface made out of some inexpensive plastic material"
+  },
+  {
+    "startTime": 392.865,
+    "endTime": 395.522,
+    "text": "that'll allow the algae to grow, and we had built lots and lots"
+  },
+  {
+    "startTime": 395.522,
+    "endTime": 398.651,
+    "text": "of designs, most of which were horrible failures,"
+  },
+  {
+    "startTime": 398.651,
+    "endTime": 400.986,
+    "text": "and when we finally got to a design that worked,"
+  },
+  {
+    "startTime": 400.986,
+    "endTime": 403.27299999999997,
+    "text": "at about 30 gallons, we scaled it up"
+  },
+  {
+    "startTime": 403.273,
+    "endTime": 406.889,
+    "text": "to 450 gallons in San Francisco."
+  },
+  {
+    "startTime": 406.889,
+    "endTime": 409.083,
+    "text": "So let me show you how the system works."
+  },
+  {
+    "startTime": 409.083,
+    "endTime": 412.795,
+    "text": "We basically take waste water with algae of our choice in it,"
+  },
+  {
+    "startTime": 412.795,
+    "endTime": 415.50100000000003,
+    "text": "and we circulate it through this floating structure,"
+  },
+  {
+    "startTime": 415.501,
+    "endTime": 418.233,
+    "text": "this tubular, flexible plastic structure,"
+  },
+  {
+    "startTime": 418.233,
+    "endTime": 419.726,
+    "text": "and it circulates through this thing,"
+  },
+  {
+    "startTime": 419.726,
+    "endTime": 422.438,
+    "text": "and there's sunlight of course, it's at the surface,"
+  },
+  {
+    "startTime": 422.438,
+    "endTime": 424.84299999999996,
+    "text": "and the algae grow on the nutrients."
+  },
+  {
+    "startTime": 424.843,
+    "endTime": 427.26500000000004,
+    "text": "But this is a bit like putting your head in a plastic bag."
+  },
+  {
+    "startTime": 427.265,
+    "endTime": 430.522,
+    "text": "The algae are not going to suffocate because of CO2,"
+  },
+  {
+    "startTime": 430.522,
+    "endTime": 431.361,
+    "text": "as we would."
+  },
+  {
+    "startTime": 431.361,
+    "endTime": 434.02,
+    "text": "They suffocate because they produce oxygen, and they"
+  },
+  {
+    "startTime": 434.02,
+    "endTime": 436.19599999999997,
+    "text": "don't really suffocate, but the oxygen that they produce"
+  },
+  {
+    "startTime": 436.196,
+    "endTime": 439.3,
+    "text": "is problematic, and they use up all the CO2."
+  },
+  {
+    "startTime": 439.3,
+    "endTime": 441.732,
+    "text": "So the next thing we had to figure out was how we could"
+  },
+  {
+    "startTime": 441.732,
+    "endTime": 444.961,
+    "text": "remove the oxygen, which we did by building this column"
+  },
+  {
+    "startTime": 444.961,
+    "endTime": 446.438,
+    "text": "which circulated some of the water,"
+  },
+  {
+    "startTime": 446.438,
+    "endTime": 449.808,
+    "text": "and put back CO2, which we did by bubbling the system"
+  },
+  {
+    "startTime": 449.808,
+    "endTime": 452.26,
+    "text": "before we recirculated the water."
+  },
+  {
+    "startTime": 452.26,
+    "endTime": 453.964,
+    "text": "And what you see here is the prototype,"
+  },
+  {
+    "startTime": 453.964,
+    "endTime": 457.762,
+    "text": "which was the first attempt at building this type of column."
+  },
+  {
+    "startTime": 457.762,
+    "endTime": 460.202,
+    "text": "The larger column that we then installed in San Francisco"
+  },
+  {
+    "startTime": 460.202,
+    "endTime": 461.83,
+    "text": "in the installed system."
+  },
+  {
+    "startTime": 461.83,
+    "endTime": 465.228,
+    "text": "So the column actually had another very nice feature,"
+  },
+  {
+    "startTime": 465.228,
+    "endTime": 468.345,
+    "text": "and that is the algae settle in the column,"
+  },
+  {
+    "startTime": 468.345,
+    "endTime": 471.91900000000004,
+    "text": "and this allowed us to accumulate the algal biomass"
+  },
+  {
+    "startTime": 471.919,
+    "endTime": 474.88599999999997,
+    "text": "in a context where we could easily harvest it."
+  },
+  {
+    "startTime": 474.886,
+    "endTime": 477.661,
+    "text": "So we would remove the algaes that concentrated"
+  },
+  {
+    "startTime": 477.661,
+    "endTime": 480.229,
+    "text": "in the bottom of this column, and then we could"
+  },
+  {
+    "startTime": 480.229,
+    "endTime": 484.05199999999996,
+    "text": "harvest that by a procedure where you float the algae"
+  },
+  {
+    "startTime": 484.052,
+    "endTime": 487.94800000000004,
+    "text": "to the surface and can skim it off with a net."
+  },
+  {
+    "startTime": 487.948,
+    "endTime": 491.585,
+    "text": "So we wanted to also investigate what would be the impact"
+  },
+  {
+    "startTime": 491.585,
+    "endTime": 494.51599999999996,
+    "text": "of this system in the marine environment,"
+  },
+  {
+    "startTime": 494.516,
+    "endTime": 497.99600000000004,
+    "text": "and I mentioned we set up this experiment at a field site"
+  },
+  {
+    "startTime": 497.996,
+    "endTime": 500.236,
+    "text": "in Moss Landing Marine Lab."
+  },
+  {
+    "startTime": 500.236,
+    "endTime": 503.07599999999996,
+    "text": "Well, we found of course that this material became"
+  },
+  {
+    "startTime": 503.076,
+    "endTime": 505.988,
+    "text": "overgrown with algae, and we needed then to develop"
+  },
+  {
+    "startTime": 505.988,
+    "endTime": 508.396,
+    "text": "a cleaning procedure, and we also looked at how"
+  },
+  {
+    "startTime": 508.396,
+    "endTime": 511.333,
+    "text": "seabirds and marine mammals interacted, and in fact you"
+  },
+  {
+    "startTime": 511.333,
+    "endTime": 514.356,
+    "text": "see here a sea otter that found this incredibly interesting,"
+  },
+  {
+    "startTime": 514.356,
+    "endTime": 517.46,
+    "text": "and would periodically work its way across this little"
+  },
+  {
+    "startTime": 517.46,
+    "endTime": 520.3480000000001,
+    "text": "floating water bed, and we wanted to hire this guy"
+  },
+  {
+    "startTime": 520.348,
+    "endTime": 522.437,
+    "text": "or train him to be able to clean the surface"
+  },
+  {
+    "startTime": 522.437,
+    "endTime": 524.844,
+    "text": "of these things, but that's for the future."
+  },
+  {
+    "startTime": 524.844,
+    "endTime": 526.1650000000001,
+    "text": "Now really what we were doing,"
+  },
+  {
+    "startTime": 526.165,
+    "endTime": 527.937,
+    "text": "we were working in four areas."
+  },
+  {
+    "startTime": 527.937,
+    "endTime": 530.82,
+    "text": "Our research covered the biology of the system,"
+  },
+  {
+    "startTime": 530.82,
+    "endTime": 532.988,
+    "text": "which included studying the way algae grew,"
+  },
+  {
+    "startTime": 532.988,
+    "endTime": 536.6370000000001,
+    "text": "but also what eats the algae, and what kills the algae."
+  },
+  {
+    "startTime": 536.637,
+    "endTime": 538.8159999999999,
+    "text": "We did engineering to understand what we would need"
+  },
+  {
+    "startTime": 538.816,
+    "endTime": 541.109,
+    "text": "to be able to do to build this structure,"
+  },
+  {
+    "startTime": 541.109,
+    "endTime": 543.812,
+    "text": "not only on the small scale, but how we would build it"
+  },
+  {
+    "startTime": 543.812,
+    "endTime": 547.128,
+    "text": "on this enormous scale that will ultimately be required."
+  },
+  {
+    "startTime": 547.128,
+    "endTime": 550.3280000000001,
+    "text": "I mentioned we looked at birds and marine mammals"
+  },
+  {
+    "startTime": 550.328,
+    "endTime": 552.857,
+    "text": "and looked at basically the environmental impact"
+  },
+  {
+    "startTime": 552.857,
+    "endTime": 556.0079999999999,
+    "text": "of the system, and finally we looked at the economics,"
+  },
+  {
+    "startTime": 556.008,
+    "endTime": 557.6550000000001,
+    "text": "and what I mean by economics is,"
+  },
+  {
+    "startTime": 557.655,
+    "endTime": 560.76,
+    "text": "what is the energy required to run the system?"
+  },
+  {
+    "startTime": 560.76,
+    "endTime": 562.182,
+    "text": "Do you get more energy out of the system"
+  },
+  {
+    "startTime": 562.182,
+    "endTime": 563.763,
+    "text": "than you have to put into the system"
+  },
+  {
+    "startTime": 563.763,
+    "endTime": 565.7760000000001,
+    "text": "to be able to make the system run?"
+  },
+  {
+    "startTime": 565.776,
+    "endTime": 567.5219999999999,
+    "text": "And what about operating costs?"
+  },
+  {
+    "startTime": 567.522,
+    "endTime": 569.58,
+    "text": "And what about capital costs?"
+  },
+  {
+    "startTime": 569.58,
+    "endTime": 573.738,
+    "text": "And what about, just, the whole economic structure?"
+  },
+  {
+    "startTime": 573.738,
+    "endTime": 576.456,
+    "text": "So let me tell you that it's not going to be easy,"
+  },
+  {
+    "startTime": 576.456,
+    "endTime": 579.016,
+    "text": "and there's lots more work to do in all four"
+  },
+  {
+    "startTime": 579.016,
+    "endTime": 582.608,
+    "text": "of those areas to be able to really make the system work."
+  },
+  {
+    "startTime": 582.608,
+    "endTime": 585.5279999999999,
+    "text": "But we don't have a lot of time, and I'd like to show you"
+  },
+  {
+    "startTime": 585.528,
+    "endTime": 589.03,
+    "text": "the artist's conception of how this system might look"
+  },
+  {
+    "startTime": 589.03,
+    "endTime": 591.7099999999999,
+    "text": "if we find ourselves in a protected bay"
+  },
+  {
+    "startTime": 591.71,
+    "endTime": 594.894,
+    "text": "somewhere in the world, and we have in the background"
+  },
+  {
+    "startTime": 594.894,
+    "endTime": 597.662,
+    "text": "in this image, the waste water treatment plant"
+  },
+  {
+    "startTime": 597.662,
+    "endTime": 600.5350000000001,
+    "text": "and a source of flue gas for the CO2,"
+  },
+  {
+    "startTime": 600.535,
+    "endTime": 603.27,
+    "text": "but when you do the economics of this system,"
+  },
+  {
+    "startTime": 603.27,
+    "endTime": 606.342,
+    "text": "you find that in fact it will be difficult to make it work."
+  },
+  {
+    "startTime": 606.342,
+    "endTime": 610.912,
+    "text": "Unless you look at the system as a way to treat waste water,"
+  },
+  {
+    "startTime": 610.912,
+    "endTime": 614.64,
+    "text": "sequester carbon, and potentially for photovoltaic panels"
+  },
+  {
+    "startTime": 614.64,
+    "endTime": 618.12,
+    "text": "or wave energy or even wind energy,"
+  },
+  {
+    "startTime": 618.12,
+    "endTime": 619.391,
+    "text": "and if you start thinking in terms of"
+  },
+  {
+    "startTime": 619.391,
+    "endTime": 622.432,
+    "text": "integrating all of these different activities,"
+  },
+  {
+    "startTime": 622.432,
+    "endTime": 627.0790000000001,
+    "text": "you could also include in such a facility aquaculture."
+  },
+  {
+    "startTime": 627.079,
+    "endTime": 630.007,
+    "text": "So we would have under this system a shellfish aquaculture"
+  },
+  {
+    "startTime": 630.007,
+    "endTime": 632.101,
+    "text": "where we're growing mussels or scallops."
+  },
+  {
+    "startTime": 632.101,
+    "endTime": 635.093,
+    "text": "We'd be growing oysters and things"
+  },
+  {
+    "startTime": 635.093,
+    "endTime": 637.9309999999999,
+    "text": "that would be producing high value products and food,"
+  },
+  {
+    "startTime": 637.931,
+    "endTime": 640.701,
+    "text": "and this would be a market driver as we build the system"
+  },
+  {
+    "startTime": 640.701,
+    "endTime": 644.015,
+    "text": "to larger and larger scales so that it becomes, ultimately,"
+  },
+  {
+    "startTime": 644.015,
+    "endTime": 649.816,
+    "text": "competitive with the idea of doing it for fuels."
+  },
+  {
+    "startTime": 649.816,
+    "endTime": 652.513,
+    "text": "So there's always a big question that comes up,"
+  },
+  {
+    "startTime": 652.513,
+    "endTime": 655.8570000000001,
+    "text": "because plastic in the ocean has got a really bad reputation"
+  },
+  {
+    "startTime": 655.857,
+    "endTime": 658.846,
+    "text": "right now, and so we've been thinking cradle to cradle."
+  },
+  {
+    "startTime": 658.846,
+    "endTime": 661.563,
+    "text": "What are we going to do with all this plastic that we're"
+  },
+  {
+    "startTime": 661.563,
+    "endTime": 664.304,
+    "text": "going to need to use in our marine environment?"
+  },
+  {
+    "startTime": 664.304,
+    "endTime": 665.822,
+    "text": "Well, I don't know if you know about this,"
+  },
+  {
+    "startTime": 665.822,
+    "endTime": 668.584,
+    "text": "but in California, there's a huge amount of plastic"
+  },
+  {
+    "startTime": 668.584,
+    "endTime": 671.929,
+    "text": "that's used in fields right now as plastic mulch,"
+  },
+  {
+    "startTime": 671.929,
+    "endTime": 675.153,
+    "text": "and this is plastic that's making these tiny little greenhouses"
+  },
+  {
+    "startTime": 675.153,
+    "endTime": 677.904,
+    "text": "right along the surface of the soil, and this provides"
+  },
+  {
+    "startTime": 677.904,
+    "endTime": 681.162,
+    "text": "warming the soil to increase the growing season,"
+  },
+  {
+    "startTime": 681.162,
+    "endTime": 683.705,
+    "text": "it allows us to control weeds,"
+  },
+  {
+    "startTime": 683.705,
+    "endTime": 687.297,
+    "text": "and, of course, it makes the watering much more efficient."
+  },
+  {
+    "startTime": 687.297,
+    "endTime": 689.61,
+    "text": "So the OMEGA system will be part"
+  },
+  {
+    "startTime": 689.61,
+    "endTime": 692.689,
+    "text": "of this type of an outcome, and that when we're finished"
+  },
+  {
+    "startTime": 692.689,
+    "endTime": 695.3779999999999,
+    "text": "using it in the marine environment, we'll be using it,"
+  },
+  {
+    "startTime": 695.378,
+    "endTime": 697.931,
+    "text": "hopefully, on fields."
+  },
+  {
+    "startTime": 697.931,
+    "endTime": 699.2510000000001,
+    "text": "Where are we going to put this,"
+  },
+  {
+    "startTime": 699.251,
+    "endTime": 701.762,
+    "text": "and what will it look like offshore?"
+  },
+  {
+    "startTime": 701.762,
+    "endTime": 704.7529999999999,
+    "text": "Here's an image of what we could do in San Francisco Bay."
+  },
+  {
+    "startTime": 704.753,
+    "endTime": 707.433,
+    "text": "San Francisco produces 65 million gallons a day"
+  },
+  {
+    "startTime": 707.433,
+    "endTime": 710.193,
+    "text": "of waste water. If we imagine a five-day retention time"
+  },
+  {
+    "startTime": 710.193,
+    "endTime": 712.562,
+    "text": "for this system, we'd need 325 million gallons"
+  },
+  {
+    "startTime": 712.562,
+    "endTime": 716.588,
+    "text": "to accomodate, and that would be about 1,280 acres"
+  },
+  {
+    "startTime": 716.588,
+    "endTime": 720.207,
+    "text": "of these OMEGA modules floating in San Francisco Bay."
+  },
+  {
+    "startTime": 720.207,
+    "endTime": 722.001,
+    "text": "Well, that's less than one percent"
+  },
+  {
+    "startTime": 722.001,
+    "endTime": 723.752,
+    "text": "of the surface area of the bay."
+  },
+  {
+    "startTime": 723.752,
+    "endTime": 727.4939999999999,
+    "text": "It would produce, at 2,000 gallons per acre per year,"
+  },
+  {
+    "startTime": 727.494,
+    "endTime": 730.49,
+    "text": "it would produce over 2 million gallons of fuel,"
+  },
+  {
+    "startTime": 730.49,
+    "endTime": 732.69,
+    "text": "which is about 20 percent of the biodiesel,"
+  },
+  {
+    "startTime": 732.69,
+    "endTime": 735.6980000000001,
+    "text": "or of the diesel that would be required in San Francisco,"
+  },
+  {
+    "startTime": 735.698,
+    "endTime": 738.888,
+    "text": "and that's without doing anything about efficiency."
+  },
+  {
+    "startTime": 738.888,
+    "endTime": 741.8580000000001,
+    "text": "Where else could we potentially put this system?"
+  },
+  {
+    "startTime": 741.858,
+    "endTime": 744.7579999999999,
+    "text": "There's lots of possibilities."
+  },
+  {
+    "startTime": 744.758,
+    "endTime": 746.8100000000001,
+    "text": "There's, of course, San Francisco Bay, as I mentioned."
+  },
+  {
+    "startTime": 746.81,
+    "endTime": 748.626,
+    "text": "San Diego Bay is another example,"
+  },
+  {
+    "startTime": 748.626,
+    "endTime": 751.539,
+    "text": "Mobile Bay or Chesapeake Bay, but the reality is,"
+  },
+  {
+    "startTime": 751.539,
+    "endTime": 753.631,
+    "text": "as sea level rises, there's going to be lots and lots"
+  },
+  {
+    "startTime": 753.631,
+    "endTime": 757.538,
+    "text": "of new opportunities to consider. (Laughter)"
+  },
+  {
+    "startTime": 757.538,
+    "endTime": 761.106,
+    "text": "So what I'm telling you about is a system"
+  },
+  {
+    "startTime": 761.106,
+    "endTime": 764.7379999999999,
+    "text": "of integrated activities."
+  },
+  {
+    "startTime": 764.738,
+    "endTime": 767.3480000000001,
+    "text": "Biofuels production is integrated with alternative energy"
+  },
+  {
+    "startTime": 767.348,
+    "endTime": 770.15,
+    "text": "is integrated with aquaculture."
+  },
+  {
+    "startTime": 770.15,
+    "endTime": 774.074,
+    "text": "I set out to find a pathway"
+  },
+  {
+    "startTime": 774.074,
+    "endTime": 779.7199999999999,
+    "text": "to innovative production of sustainable biofuels,"
+  },
+  {
+    "startTime": 779.72,
+    "endTime": 782.9680000000001,
+    "text": "and en route I discovered that what's really required"
+  },
+  {
+    "startTime": 782.968,
+    "endTime": 790.245,
+    "text": "for sustainability is integration more than innovation."
+  },
+  {
+    "startTime": 790.245,
+    "endTime": 793.675,
+    "text": "Long term, I have great faith"
+  },
+  {
+    "startTime": 793.675,
+    "endTime": 798.8199999999999,
+    "text": "in our collective and connected ingenuity."
+  },
+  {
+    "startTime": 798.82,
+    "endTime": 803.1360000000001,
+    "text": "I think there is almost no limit to what we can accomplish"
+  },
+  {
+    "startTime": 803.136,
+    "endTime": 805.338,
+    "text": "if we are radically open"
+  },
+  {
+    "startTime": 805.338,
+    "endTime": 809.068,
+    "text": "and we don't care who gets the credit."
+  },
+  {
+    "startTime": 809.068,
+    "endTime": 813.284,
+    "text": "Sustainable solutions for our future problems"
+  },
+  {
+    "startTime": 813.284,
+    "endTime": 815.684,
+    "text": "are going to be diverse"
+  },
+  {
+    "startTime": 815.684,
+    "endTime": 818.149,
+    "text": "and are going to be many."
+  },
+  {
+    "startTime": 818.149,
+    "endTime": 820.94,
+    "text": "I think we need to consider everything,"
+  },
+  {
+    "startTime": 820.94,
+    "endTime": 823.9720000000001,
+    "text": "everything from alpha to OMEGA."
+  },
+  {
+    "startTime": 823.972,
+    "endTime": 826.852,
+    "text": "Thank you. (Applause)"
+  },
+  {
+    "startTime": 826.852,
+    "endTime": 832.607,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 832.607,
+    "endTime": 835.819,
+    "text": "Chris Anderson: Just a quick question for you, Jonathan."
+  },
+  {
+    "startTime": 835.819,
+    "endTime": 838.0269999999999,
+    "text": "Can this project continue to move forward within"
+  },
+  {
+    "startTime": 838.027,
+    "endTime": 841.9920000000001,
+    "text": "NASA or do you need some very ambitious"
+  },
+  {
+    "startTime": 841.992,
+    "endTime": 846.068,
+    "text": "green energy fund to come and take it by the throat?"
+  },
+  {
+    "startTime": 846.068,
+    "endTime": 847.371,
+    "text": "Jonathan Trent: So it's really gotten to a stage now"
+  },
+  {
+    "startTime": 847.371,
+    "endTime": 850.385,
+    "text": "in NASA where they would like to spin it out into something"
+  },
+  {
+    "startTime": 850.385,
+    "endTime": 852.776,
+    "text": "which would go offshore, and there are a lot of issues"
+  },
+  {
+    "startTime": 852.776,
+    "endTime": 855.0029999999999,
+    "text": "with doing it in the United States because of limited"
+  },
+  {
+    "startTime": 855.003,
+    "endTime": 857.4970000000001,
+    "text": "permitting issues and the time required to get permits"
+  },
+  {
+    "startTime": 857.497,
+    "endTime": 859.011,
+    "text": "to do things offshore."
+  },
+  {
+    "startTime": 859.011,
+    "endTime": 861.809,
+    "text": "It really requires, at this point, people on the outside,"
+  },
+  {
+    "startTime": 861.809,
+    "endTime": 864.1129999999999,
+    "text": "and we're being radically open with this technology"
+  },
+  {
+    "startTime": 864.113,
+    "endTime": 865.825,
+    "text": "in which we're going to launch it out there"
+  },
+  {
+    "startTime": 865.825,
+    "endTime": 868.101,
+    "text": "for anybody and everybody who's interested"
+  },
+  {
+    "startTime": 868.101,
+    "endTime": 869.941,
+    "text": "to take it on and try to make it real."
+  },
+  {
+    "startTime": 869.941,
+    "endTime": 872.418,
+    "text": "CA: So that's interesting. You're not patenting it."
+  },
+  {
+    "startTime": 872.418,
+    "endTime": 874.093,
+    "text": "You're publishing it."
+  },
+  {
+    "startTime": 874.093,
+    "endTime": 874.856,
+    "text": "JT: Absolutely."
+  },
+  {
+    "startTime": 874.856,
+    "endTime": 876.747,
+    "text": "CA: All right. Thank you so much."
+  },
+  {
+    "startTime": 876.747,
+    "endTime": 886.747,
+    "text": "JT: Thank you. (Applause)"
+  }
+]
