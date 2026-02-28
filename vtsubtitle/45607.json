@@ -1,0 +1,392 @@
+[
+  {
+    "startTime": 6.534,
+    "endTime": 10.094,
+    "text": "As a wildfire rages through the grasslands,"
+  },
+  {
+    "startTime": 10.094,
+    "endTime": 14.094999999999999,
+    "text": "three lions and three wildebeest flee for their lives."
+  },
+  {
+    "startTime": 14.095,
+    "endTime": 15.725000000000001,
+    "text": "To escape the inferno,"
+  },
+  {
+    "startTime": 15.725,
+    "endTime": 21.124,
+    "text": "they must cross over to the left bank of a crocodile-infested river."
+  },
+  {
+    "startTime": 21.124,
+    "endTime": 24.31,
+    "text": "Fortunately, there happens to be a raft nearby."
+  },
+  {
+    "startTime": 24.31,
+    "endTime": 27.188,
+    "text": "It can carry up to  two animals at a time,"
+  },
+  {
+    "startTime": 27.188,
+    "endTime": 33.295,
+    "text": "and needs at least one lion or wildebeest on board to row it across the river."
+  },
+  {
+    "startTime": 33.351,
+    "endTime": 35.074,
+    "text": "There's just one problem."
+  },
+  {
+    "startTime": 35.074,
+    "endTime": 39.605999999999995,
+    "text": "If the lions ever outnumber the wildebeest on either side of the river,"
+  },
+  {
+    "startTime": 39.606,
+    "endTime": 45.144000000000005,
+    "text": "even for a moment, their instincts will kick in, and the results won't be pretty."
+  },
+  {
+    "startTime": 45.126,
+    "endTime": 50.074999999999996,
+    "text": "That includes the animals in the boat when it's on a given side of the river."
+  },
+  {
+    "startTime": 50.075,
+    "endTime": 58.05500000000001,
+    "text": "What's the fastest way for all six animals to get across without the lions stopping for dinner?"
+  },
+  {
+    "startTime": 57.974,
+    "endTime": 61.555,
+    "text": "Pause here if you want  to figure it out for yourself."
+  },
+  {
+    "startTime": 61.555,
+    "endTime": 62.615,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 62.615,
+    "endTime": 63.145,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 63.345,
+    "endTime": 64.29599999999999,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 64.096,
+    "endTime": 66.711,
+    "text": "If you feel stuck on a problem like this,"
+  },
+  {
+    "startTime": 66.911,
+    "endTime": 70.316,
+    "text": "try listing all the decisions you can make at each point,"
+  },
+  {
+    "startTime": 70.316,
+    "endTime": 73.495,
+    "text": "and the consequences each choice leads to."
+  },
+  {
+    "startTime": 73.495,
+    "endTime": 77.80600000000001,
+    "text": "For instance, there are five options for who goes across first:"
+  },
+  {
+    "startTime": 77.806,
+    "endTime": 78.886,
+    "text": "one wildebeest,"
+  },
+  {
+    "startTime": 78.886,
+    "endTime": 79.886,
+    "text": "one lion,"
+  },
+  {
+    "startTime": 79.886,
+    "endTime": 80.886,
+    "text": "two wildebeest,"
+  },
+  {
+    "startTime": 80.886,
+    "endTime": 81.975,
+    "text": "two lions,"
+  },
+  {
+    "startTime": 81.975,
+    "endTime": 83.536,
+    "text": "or one of each."
+  },
+  {
+    "startTime": 83.536,
+    "endTime": 84.94500000000001,
+    "text": "If one animal goes alone,"
+  },
+  {
+    "startTime": 84.945,
+    "endTime": 87.28699999999999,
+    "text": "it'll just have to come straight back."
+  },
+  {
+    "startTime": 87.287,
+    "endTime": 89.275,
+    "text": "And if two wildebeest cross first,"
+  },
+  {
+    "startTime": 89.275,
+    "endTime": 92.156,
+    "text": "the remaining one will immediately get eaten."
+  },
+  {
+    "startTime": 92.156,
+    "endTime": 94.676,
+    "text": "So those options are all out."
+  },
+  {
+    "startTime": 94.676,
+    "endTime": 96.297,
+    "text": "Sending two lions,"
+  },
+  {
+    "startTime": 96.297,
+    "endTime": 98.067,
+    "text": "or one of each animal,"
+  },
+  {
+    "startTime": 98.067,
+    "endTime": 102.506,
+    "text": "can actually both lead to solutions in the same number of moves."
+  },
+  {
+    "startTime": 102.506,
+    "endTime": 105.372,
+    "text": "For the sake of time, we'll focus on the second one."
+  },
+  {
+    "startTime": 105.372,
+    "endTime": 107.637,
+    "text": "One of each animal crosses."
+  },
+  {
+    "startTime": 107.637,
+    "endTime": 110.782,
+    "text": "Now, if the wildebeest stays  and the lion returns,"
+  },
+  {
+    "startTime": 110.782,
+    "endTime": 113.237,
+    "text": "there will be three lions on the right bank."
+  },
+  {
+    "startTime": 113.237,
+    "endTime": 116.05699999999999,
+    "text": "Bad news for the two remaining wildebeest."
+  },
+  {
+    "startTime": 116.057,
+    "endTime": 118.95,
+    "text": "So we need to have the lion stay on the left bank"
+  },
+  {
+    "startTime": 118.95,
+    "endTime": 121.63900000000001,
+    "text": "and the wildebeest go back to the right."
+  },
+  {
+    "startTime": 121.639,
+    "endTime": 123.687,
+    "text": "Now we have the same five options,"
+  },
+  {
+    "startTime": 123.687,
+    "endTime": 126.637,
+    "text": "but with one lion already on the left bank."
+  },
+  {
+    "startTime": 126.637,
+    "endTime": 130.298,
+    "text": "If two wildebeest go, the one that stays will get eaten,"
+  },
+  {
+    "startTime": 130.298,
+    "endTime": 132.117,
+    "text": "and if one of each animal goes,"
+  },
+  {
+    "startTime": 132.117,
+    "endTime": 137.477,
+    "text": "the wildebeest on the raft will be outnumbered as soon as it reaches the other side."
+  },
+  {
+    "startTime": 137.428,
+    "endTime": 138.678,
+    "text": "So that's a dead end,"
+  },
+  {
+    "startTime": 138.678,
+    "endTime": 140.678,
+    "text": "which means that at the third crossing,"
+  },
+  {
+    "startTime": 140.778,
+    "endTime": 143.346,
+    "text": "only the two lions can go."
+  },
+  {
+    "startTime": 143.346,
+    "endTime": 144.667,
+    "text": "One gets dropped off,"
+  },
+  {
+    "startTime": 144.667,
+    "endTime": 146.957,
+    "text": "leaving two lions on the left bank."
+  },
+  {
+    "startTime": 146.957,
+    "endTime": 150.457,
+    "text": "The third lion takes the raft back to the right bank"
+  },
+  {
+    "startTime": 150.457,
+    "endTime": 152.518,
+    "text": "where the wildebeest are waiting."
+  },
+  {
+    "startTime": 152.518,
+    "endTime": 153.838,
+    "text": "What now?"
+  },
+  {
+    "startTime": 153.838,
+    "endTime": 157.09699999999998,
+    "text": "Well, since we've got two lions waiting on the left bank,"
+  },
+  {
+    "startTime": 157.097,
+    "endTime": 160.77700000000002,
+    "text": "the only option is for two wildebeest to cross."
+  },
+  {
+    "startTime": 160.777,
+    "endTime": 164.267,
+    "text": "Next, there's no sense in two wildebeest going back,"
+  },
+  {
+    "startTime": 164.267,
+    "endTime": 166.939,
+    "text": "since that just reverses the last step."
+  },
+  {
+    "startTime": 166.939,
+    "endTime": 168.909,
+    "text": "And if two lions go back,"
+  },
+  {
+    "startTime": 168.909,
+    "endTime": 171.41899999999998,
+    "text": "they'll outnumber the wildebeest on the right bank."
+  },
+  {
+    "startTime": 171.419,
+    "endTime": 175.448,
+    "text": "So one lion and one wildebeest take the raft back"
+  },
+  {
+    "startTime": 175.448,
+    "endTime": 178.5,
+    "text": "leaving us with one of each animal on the left bank"
+  },
+  {
+    "startTime": 178.5,
+    "endTime": 180.459,
+    "text": "and two of each on the right."
+  },
+  {
+    "startTime": 180.559,
+    "endTime": 184.749,
+    "text": "Again, there's no point in sending  the lion-wildebeest pair back,"
+  },
+  {
+    "startTime": 184.749,
+    "endTime": 187.781,
+    "text": "so the next trip should be either a pair of lions"
+  },
+  {
+    "startTime": 187.781,
+    "endTime": 189.698,
+    "text": "or a pair of wildebeest."
+  },
+  {
+    "startTime": 189.698,
+    "endTime": 193.489,
+    "text": "If the lions go, they'd eat the wildebeest on the left, so they stay,"
+  },
+  {
+    "startTime": 193.489,
+    "endTime": 196.36,
+    "text": "and the two wildebeest cross instead."
+  },
+  {
+    "startTime": 196.36,
+    "endTime": 202.44000000000003,
+    "text": "Now we're quite close because the wildebeest are all where they need to be with safety in numbers."
+  },
+  {
+    "startTime": 202.47,
+    "endTime": 205.677,
+    "text": "All that's left is for that one lion to raft back"
+  },
+  {
+    "startTime": 205.677,
+    "endTime": 209.09,
+    "text": "and bring his fellow lions over one by one."
+  },
+  {
+    "startTime": 209.09,
+    "endTime": 211.28900000000002,
+    "text": "That makes eleven trips total,"
+  },
+  {
+    "startTime": 211.289,
+    "endTime": 214.95999999999998,
+    "text": "the smallest number needed to get everyone across safely."
+  },
+  {
+    "startTime": 214.96,
+    "endTime": 219.662,
+    "text": "The solution that involves sending both lions on the first step works similarly,"
+  },
+  {
+    "startTime": 219.662,
+    "endTime": 223.119,
+    "text": "and also takes eleven crossings."
+  },
+  {
+    "startTime": 223.119,
+    "endTime": 227.331,
+    "text": "The six animals escape unharmed from the fire just in time"
+  },
+  {
+    "startTime": 227.331,
+    "endTime": 230.04899999999998,
+    "text": "and begin their new lives  across the river."
+  },
+  {
+    "startTime": 230.049,
+    "endTime": 232.479,
+    "text": "Of course, now that the danger's passed,"
+  },
+  {
+    "startTime": 232.479,
+    "endTime": 242.679,
+    "text": "it remains to be seen how long their unlikely alliance will last."
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "startTime": 6.911,
+    "endTime": 9.177,
+    "text": "You work at the college library."
+  },
+  {
+    "startTime": 9.177,
+    "endTime": 11.397,
+    "text": "You're in the middle of a quiet afternoon"
+  },
+  {
+    "startTime": 11.397,
+    "endTime": 18.011,
+    "text": "when suddenly a shipment of 1,280 different books arrives."
+  },
+  {
+    "startTime": 18.011,
+    "endTime": 21.689999999999998,
+    "text": "The books have been dropped off in one long straight line,"
+  },
+  {
+    "startTime": 21.69,
+    "endTime": 23.288,
+    "text": "but they're all out of order,"
+  },
+  {
+    "startTime": 23.288,
+    "endTime": 27.031,
+    "text": "and the automatic sorting system is broken."
+  },
+  {
+    "startTime": 27.031,
+    "endTime": 29.666999999999998,
+    "text": "To make matters worse, classes start tomorrow,"
+  },
+  {
+    "startTime": 29.667,
+    "endTime": 32.005,
+    "text": "which means that first thing in the morning,"
+  },
+  {
+    "startTime": 32.005,
+    "endTime": 36.557,
+    "text": "students will show up in droves looking for these books."
+  },
+  {
+    "startTime": 36.557,
+    "endTime": 39.493,
+    "text": "How can you get them all sorted in time?"
+  },
+  {
+    "startTime": 39.493,
+    "endTime": 44.779,
+    "text": "One way would be to start at one end of the line with the first pair of books."
+  },
+  {
+    "startTime": 44.779,
+    "endTime": 48.626000000000005,
+    "text": "If the first two books are in order, then leave them as they are."
+  },
+  {
+    "startTime": 48.626,
+    "endTime": 50.919999999999995,
+    "text": "Otherwise, swap them."
+  },
+  {
+    "startTime": 50.92,
+    "endTime": 53.216,
+    "text": "Then, look at the second and third books,"
+  },
+  {
+    "startTime": 53.216,
+    "endTime": 54.879,
+    "text": "repeat the process,"
+  },
+  {
+    "startTime": 54.879,
+    "endTime": 57.934999999999995,
+    "text": "and continue until you reach the end of the line."
+  },
+  {
+    "startTime": 57.935,
+    "endTime": 61.185,
+    "text": "At some point, you'll come across the book that should be last,"
+  },
+  {
+    "startTime": 61.185,
+    "endTime": 64.71000000000001,
+    "text": "and keep swapping it with every subsequent book,"
+  },
+  {
+    "startTime": 64.71,
+    "endTime": 69.28,
+    "text": "moving it down the line until it reaches the end where it belongs."
+  },
+  {
+    "startTime": 69.28,
+    "endTime": 72.225,
+    "text": "Then, start from the beginning and repeat the process"
+  },
+  {
+    "startTime": 72.225,
+    "endTime": 75.50999999999999,
+    "text": "to get the second to last book in its proper place,"
+  },
+  {
+    "startTime": 75.51,
+    "endTime": 78.821,
+    "text": "and keep going until all books are sorted."
+  },
+  {
+    "startTime": 78.821,
+    "endTime": 81.862,
+    "text": "This approach is called \"Bubble Sort.\""
+  },
+  {
+    "startTime": 81.862,
+    "endTime": 84.15599999999999,
+    "text": "It's simple but slow."
+  },
+  {
+    "startTime": 84.156,
+    "endTime": 89.331,
+    "text": "You'd make 1,279 comparisons in the first round,"
+  },
+  {
+    "startTime": 89.331,
+    "endTime": 93.623,
+    "text": "then 1,278, and so on,"
+  },
+  {
+    "startTime": 93.623,
+    "endTime": 98.542,
+    "text": "adding up to 818,560 comparisons."
+  },
+  {
+    "startTime": 98.542,
+    "endTime": 104.273,
+    "text": "If each took just one second, the process would take over nine days."
+  },
+  {
+    "startTime": 104.273,
+    "endTime": 108.569,
+    "text": "A second strategy would be to start by sorting just the first two books."
+  },
+  {
+    "startTime": 108.569,
+    "endTime": 113.733,
+    "text": "Then, take the third book and compare it with the book in the second spot."
+  },
+  {
+    "startTime": 113.733,
+    "endTime": 117.173,
+    "text": "If it belongs before the second book, swap them,"
+  },
+  {
+    "startTime": 117.173,
+    "endTime": 119.641,
+    "text": "then compare it  with the book in the first spot,"
+  },
+  {
+    "startTime": 119.641,
+    "endTime": 121.682,
+    "text": "and swap again if needed."
+  },
+  {
+    "startTime": 121.682,
+    "endTime": 123.88,
+    "text": "Now you've sorted the first three books."
+  },
+  {
+    "startTime": 123.88,
+    "endTime": 127.732,
+    "text": "Keep adding one book at a time to the sorted sub-line,"
+  },
+  {
+    "startTime": 127.732,
+    "endTime": 131.809,
+    "text": "comparing and swapping the new book with the one before it"
+  },
+  {
+    "startTime": 131.809,
+    "endTime": 136.004,
+    "text": "until it's correctly placed among the books sorted so far."
+  },
+  {
+    "startTime": 136.004,
+    "endTime": 138.213,
+    "text": "This is called \"Insertion Sort.\""
+  },
+  {
+    "startTime": 138.213,
+    "endTime": 142.944,
+    "text": "Unlike Bubble Sort, it usually doesn't require comparing every pair of books."
+  },
+  {
+    "startTime": 142.944,
+    "endTime": 146.95399999999998,
+    "text": "On average, we'd expect to only need to compare each book to half of the books that came before it."
+  },
+  {
+    "startTime": 149.414,
+    "endTime": 152.123,
+    "text": "In that case, the total  number of comparisons"
+  },
+  {
+    "startTime": 152.123,
+    "endTime": 155.983,
+    "text": "would be 409,280,"
+  },
+  {
+    "startTime": 155.983,
+    "endTime": 158.135,
+    "text": "taking almost five days."
+  },
+  {
+    "startTime": 158.135,
+    "endTime": 160.624,
+    "text": "You're still doing way too many comparisons."
+  },
+  {
+    "startTime": 160.624,
+    "endTime": 162.515,
+    "text": "Here's a better idea."
+  },
+  {
+    "startTime": 162.515,
+    "endTime": 164.885,
+    "text": "First, pick a random book."
+  },
+  {
+    "startTime": 164.885,
+    "endTime": 169.606,
+    "text": "Call it the partition and compare it to every other book."
+  },
+  {
+    "startTime": 169.606,
+    "endTime": 171.515,
+    "text": "Then, divide the line"
+  },
+  {
+    "startTime": 171.515,
+    "endTime": 175.666,
+    "text": "by placing all the books  that come before the partition on its left"
+  },
+  {
+    "startTime": 175.666,
+    "endTime": 178.825,
+    "text": "and all the ones that come after it on its right."
+  },
+  {
+    "startTime": 178.825,
+    "endTime": 180.415,
+    "text": "You've just saved loads of time"
+  },
+  {
+    "startTime": 180.415,
+    "endTime": 183.845,
+    "text": "by not having to compare any of the books on the left"
+  },
+  {
+    "startTime": 183.845,
+    "endTime": 187.245,
+    "text": "to any of the ones on the right ever again."
+  },
+  {
+    "startTime": 187.245,
+    "endTime": 189.665,
+    "text": "Now, looking only  at the books on the left,"
+  },
+  {
+    "startTime": 189.665,
+    "endTime": 192.542,
+    "text": "you can again pick a random partition book"
+  },
+  {
+    "startTime": 192.542,
+    "endTime": 197.266,
+    "text": "and separate those books that come before it from those that come after it."
+  },
+  {
+    "startTime": 197.266,
+    "endTime": 199.736,
+    "text": "You can keep creating  sub-partitions like this"
+  },
+  {
+    "startTime": 199.736,
+    "endTime": 202.384,
+    "text": "until you have a bunch of small sub-lines,"
+  },
+  {
+    "startTime": 202.384,
+    "endTime": 207.76399999999998,
+    "text": "each of which you'd sort quickly using another strategy, like Insertion Sort."
+  },
+  {
+    "startTime": 207.764,
+    "endTime": 212.92600000000002,
+    "text": "Each round of partitioning requires about 1,280 comparisons."
+  },
+  {
+    "startTime": 212.926,
+    "endTime": 215.46599999999998,
+    "text": "If your partitions are pretty balanced,"
+  },
+  {
+    "startTime": 215.466,
+    "endTime": 221.256,
+    "text": "dividing the books into 128 sub-lines of ten would take about seven rounds,"
+  },
+  {
+    "startTime": 221.256,
+    "endTime": 223.947,
+    "text": "or 8,960 seconds."
+  },
+  {
+    "startTime": 223.947,
+    "endTime": 228.736,
+    "text": "Sorting these sub-lines would add about 22 seconds each."
+  },
+  {
+    "startTime": 228.736,
+    "endTime": 231.81699999999998,
+    "text": "All in all, this method  known as QuickSort"
+  },
+  {
+    "startTime": 231.817,
+    "endTime": 234.883,
+    "text": "could sort the books  in under three and a half hours."
+  },
+  {
+    "startTime": 234.883,
+    "endTime": 235.997,
+    "text": "But there's a catch."
+  },
+  {
+    "startTime": 235.997,
+    "endTime": 239.57500000000002,
+    "text": "Your partitions could end up lopsided, saving no time at all."
+  },
+  {
+    "startTime": 239.575,
+    "endTime": 241.47699999999998,
+    "text": "Luckily, this rarely happens."
+  },
+  {
+    "startTime": 241.477,
+    "endTime": 244.91,
+    "text": "That's why QuickSort is one of the most efficient strategies"
+  },
+  {
+    "startTime": 244.91,
+    "endTime": 246.916,
+    "text": "used by programmers today."
+  },
+  {
+    "startTime": 246.916,
+    "endTime": 250.847,
+    "text": "They use it for things like sorting items in an online store by price,"
+  },
+  {
+    "startTime": 250.847,
+    "endTime": 254.858,
+    "text": "or creating a list of all the gas stations close to a given location sorted by distance."
+  },
+  {
+    "startTime": 256.379,
+    "endTime": 260.40700000000004,
+    "text": "In your case, you're done quick sorting with time to spare."
+  },
+  {
+    "startTime": 260.407,
+    "endTime": 270.407,
+    "text": "Just another high-stakes day in the library."
+  }
+]
