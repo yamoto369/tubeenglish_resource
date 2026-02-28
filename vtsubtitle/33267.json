@@ -1,0 +1,532 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 20.0,
+    "text": "Many believe driving is an activity solely reserved for those who can see."
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 26.700000000000003,
+    "text": "A blind person driving a vehicle safely and independently was thought to be an impossible task, until now."
+  },
+  {
+    "startTime": 27.5,
+    "endTime": 28.15,
+    "text": "Hello, my name is Dennis Hong,"
+  },
+  {
+    "startTime": 28.7,
+    "endTime": 33.2,
+    "text": "and we're bringing freedom and independence to the blind by building a vehicle for the visually impaired."
+  },
+  {
+    "startTime": 33.26,
+    "endTime": 38.71,
+    "text": "So before I talk about this car for the blind, let me briefly tell you about another project that I worked on"
+  },
+  {
+    "startTime": 39.2,
+    "endTime": 40.5,
+    "text": "called the DARPA Urban Challenge."
+  },
+  {
+    "startTime": 40.7,
+    "endTime": 44.6,
+    "text": "Now this was about building a robotic car that can drive itself."
+  },
+  {
+    "startTime": 44.9,
+    "endTime": 48.8,
+    "text": "You press start, nobody touches anything, and it can reach its destination fully autonomously."
+  },
+  {
+    "startTime": 49.0,
+    "endTime": 54.0,
+    "text": "So in 2007, our team won half a million dollars by placing third place in this competition."
+  },
+  {
+    "startTime": 54.4,
+    "endTime": 60.199999999999996,
+    "text": "So about that time, the National Federation of the Blind, or NFB, challenged the research committee about"
+  },
+  {
+    "startTime": 61.0,
+    "endTime": 64.6,
+    "text": "who can develop a car that lets a blind person drive safely and independently."
+  },
+  {
+    "startTime": 64.95,
+    "endTime": 68.205,
+    "text": "We decided to give it a try, because we thought, \"Hey, how hard could it be?\""
+  },
+  {
+    "startTime": 68.6,
+    "endTime": 74.0,
+    "text": "We have already an autonomous vehicle. We just put a blind person in it and we're done, right?"
+  },
+  {
+    "startTime": 74.26,
+    "endTime": 76.26,
+    "text": "We couldn't have been more wrong."
+  },
+  {
+    "startTime": 76.6,
+    "endTime": 84.5,
+    "text": "What NFB wanted was not a vehicle that can drive a blind person around, but a vehicle where a blind person can make active decisions and drive."
+  },
+  {
+    "startTime": 84.9,
+    "endTime": 87.60000000000001,
+    "text": "So we had to throw everything out the window and start from scratch."
+  },
+  {
+    "startTime": 88.2,
+    "endTime": 94.0,
+    "text": "So to test this crazy idea, we developed a small dune buggy prototype vehicle to test the feasibility."
+  },
+  {
+    "startTime": 94.8,
+    "endTime": 101.39999999999999,
+    "text": "And in the summer of 2009, we invited dozens of blind youth from all over the country and gave them a chance to take it for a spin."
+  },
+  {
+    "startTime": 101.6,
+    "endTime": 103.5,
+    "text": "It was an absolutely amazing experience."
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 112.7,
+    "text": "But the problem with this car was it was designed to only be driven in a very controlled environment, in a flat, closed-off parking lot -- even the lanes defined by red traffic cones."
+  },
+  {
+    "startTime": 112.9,
+    "endTime": 119.26,
+    "text": "So with this success, we decided to take the next big step, to develop a real car that can be driven on real roads."
+  },
+  {
+    "startTime": 119.8,
+    "endTime": 120.35,
+    "text": "So how does it work?"
+  },
+  {
+    "startTime": 120.8,
+    "endTime": 125.6,
+    "text": "Well, it's a rather complex system, but let me try to explain it, make it simplified."
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 127.6,
+    "text": "So we have three steps."
+  },
+  {
+    "startTime": 128.26,
+    "endTime": 132.39999999999998,
+    "text": "We have perception, computation and non-visual interfaces."
+  },
+  {
+    "startTime": 132.9,
+    "endTime": 138.4,
+    "text": "Now obviously the driver cannot see, so the system needs to perceive the environment and gather information for the driver."
+  },
+  {
+    "startTime": 138.9,
+    "endTime": 144.8,
+    "text": "For that, we use an initial measurement unit. So it measures acceleration, angular acceleration -- like a human ear, inner ear."
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 150.0,
+    "text": "We fuse that information with a GPS unit to get an estimate of the location of the car."
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 153.26,
+    "text": "We also use two cameras to detect the lanes of the road."
+  },
+  {
+    "startTime": 153.6,
+    "endTime": 155.6,
+    "text": "And we also use three laser range finders."
+  },
+  {
+    "startTime": 155.9,
+    "endTime": 163.0,
+    "text": "The lasers scan the environment to detect obstacles -- a car approaching from the front, the back and also any obstacles that run into the roads,"
+  },
+  {
+    "startTime": 163.4,
+    "endTime": 165.1,
+    "text": "any obstacles around the vehicle."
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 170.29999999999998,
+    "text": "So all this vast amount of information is then fed into the computer, and the computer can do two things."
+  },
+  {
+    "startTime": 170.5,
+    "endTime": 180.1,
+    "text": "One is, first of all, process this information to have an understanding of the environment -- these are the lanes of the road, there's the obstacles -- and convey this information to the driver."
+  },
+  {
+    "startTime": 180.5,
+    "endTime": 183.95,
+    "text": "The system is also smart enough to figure out the safest way to operate the car."
+  },
+  {
+    "startTime": 184.26,
+    "endTime": 188.11499999999998,
+    "text": "So we can also generate instructions on how to operate the controls of the vehicle."
+  },
+  {
+    "startTime": 188.555,
+    "endTime": 197.26000000000002,
+    "text": "But the problem is this: How do we convey this information and instructions to a person who cannot see fast enough and accurate enough so he can drive?"
+  },
+  {
+    "startTime": 197.6,
+    "endTime": 201.79999999999998,
+    "text": "So for this, we developed many different types of non-visual user interface technologies."
+  },
+  {
+    "startTime": 202.26,
+    "endTime": 206.79999999999998,
+    "text": "So starting from a three-dimensional ping sound system, a vibrating vest,"
+  },
+  {
+    "startTime": 207.3,
+    "endTime": 211.8,
+    "text": "a click wheel with voice commands, a leg strip, even a shoe that applies pressure to the foot."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 215.8,
+    "text": "But today we're going to talk about three of these non-visual user interfaces."
+  },
+  {
+    "startTime": 216.0,
+    "endTime": 218.22,
+    "text": "Now the first interface is called a DriveGrip."
+  },
+  {
+    "startTime": 218.6,
+    "endTime": 227.26,
+    "text": "So these are a pair of gloves, and it has vibrating elements on the knuckle part so you can convey instructions about how to steer, and the direction and the intensity."
+  },
+  {
+    "startTime": 227.5,
+    "endTime": 229.4,
+    "text": "Another device is called SpeedStrip."
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 232.6,
+    "text": "So this is a chair -- as a matter of fact, it's actually a massage chair."
+  },
+  {
+    "startTime": 232.8,
+    "endTime": 242.26000000000002,
+    "text": "We gut it out, and we rearrange these vibrating elements in different patterns, and we actuate them to convey information about the speed, and also instructions how to use the gas and the brake pedal."
+  },
+  {
+    "startTime": 242.5,
+    "endTime": 251.12,
+    "text": "So over here, you can see how the computer understands the environment, and because you cannot see the vibration, we actually put red LED's on the driver so that you can see what's happening."
+  },
+  {
+    "startTime": 251.4,
+    "endTime": 256.0,
+    "text": "This is the sensory data, and that data is transferred to the devices through the computer."
+  },
+  {
+    "startTime": 256.26,
+    "endTime": 260.4,
+    "text": "So these two devices, DriveGrip and SpeedStrip, are very effective."
+  },
+  {
+    "startTime": 260.8,
+    "endTime": 264.3,
+    "text": "But the problem is these are instructional cue devices."
+  },
+  {
+    "startTime": 264.7,
+    "endTime": 266.34999999999997,
+    "text": "So this is not really freedom, right?"
+  },
+  {
+    "startTime": 266.7,
+    "endTime": 270.0,
+    "text": "The computer tells you how to drive -- turn left, turn right, speed up, stop."
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 272.3,
+    "text": "We call this the \"backseat-driver problem.\""
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 279.0,
+    "text": "So we're moving away from the instructional cue devices, and we're now focusing more on the informational devices."
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 283.7,
+    "text": "A good example for this informational non-visual user interface is called AirPix."
+  },
+  {
+    "startTime": 283.9,
+    "endTime": 285.9,
+    "text": "So think of it as a monitor for the blind."
+  },
+  {
+    "startTime": 286.26,
+    "endTime": 291.2,
+    "text": "So it's a small tablet, has many holes in it, and compressed air comes out, so it can actually draw images."
+  },
+  {
+    "startTime": 291.5,
+    "endTime": 295.2,
+    "text": "So even though you are blind, you can put your hand over it, you can see the lanes of the road and obstacles."
+  },
+  {
+    "startTime": 295.5,
+    "endTime": 299.7,
+    "text": "Actually, you can also change the frequency of the air coming out and possibly the temperature."
+  },
+  {
+    "startTime": 299.99,
+    "endTime": 302.99,
+    "text": "So it's actually a multi-dimensional user interface."
+  },
+  {
+    "startTime": 303.0,
+    "endTime": 309.5,
+    "text": "So here you can see the left camera, the right camera from the vehicle and how the computer interprets that and sends that information to the AirPix."
+  },
+  {
+    "startTime": 309.89,
+    "endTime": 314.0,
+    "text": "For this, we're showing a simulator, a blind person driving using the AirPix."
+  },
+  {
+    "startTime": 314.26,
+    "endTime": 321.4,
+    "text": "This simulator was also very useful for training the blind drivers and also quickly testing different types of ideas for different types of non-visual user interfaces."
+  },
+  {
+    "startTime": 321.7,
+    "endTime": 323.25,
+    "text": "So basically that's how it works."
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 326.5,
+    "text": "So just a month ago, on January 29th,"
+  },
+  {
+    "startTime": 327.45,
+    "endTime": 334.26,
+    "text": "we unveiled this vehicle for the very first time to the public at the world-famous Daytona International Speedway during the Rolex 24 racing event."
+  },
+  {
+    "startTime": 334.4,
+    "endTime": 337.26,
+    "text": "We also had some surprises. Let's take a look."
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 351.26,
+    "text": "(Video) Announcer: This is an historic day in January."
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 355.26,
+    "text": "He's coming up to the grandstand, fellow Federationists."
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 361.26,
+    "text": "(Cheering)"
+  },
+  {
+    "startTime": 361.26,
+    "endTime": 364.26,
+    "text": "(Honking)"
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 366.26,
+    "text": "There's the grandstand now."
+  },
+  {
+    "startTime": 366.7,
+    "endTime": 370.65,
+    "text": "And he's [unclear] following that van that's out in front of him."
+  },
+  {
+    "startTime": 370.9,
+    "endTime": 375.15,
+    "text": "Well there comes the first box. Now let's see if Mark avoids it."
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 380.0,
+    "text": "He does. He passes it on the right."
+  },
+  {
+    "startTime": 380.26,
+    "endTime": 383.26,
+    "text": "Third box is out. The fourth box is out."
+  },
+  {
+    "startTime": 383.26,
+    "endTime": 386.26,
+    "text": "And he's perfectly making his way between the two."
+  },
+  {
+    "startTime": 386.26,
+    "endTime": 392.0,
+    "text": "He's closing in on the van to make the moving pass."
+  },
+  {
+    "startTime": 392.26,
+    "endTime": 399.26,
+    "text": "Well this is what it's all about, this kind of dynamic display of audacity and ingenuity."
+  },
+  {
+    "startTime": 399.26,
+    "endTime": 407.0,
+    "text": "He's approaching the end of the run, makes his way between the barrels that are set up there."
+  },
+  {
+    "startTime": 407.26,
+    "endTime": 410.26,
+    "text": "(Honking)"
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 416.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 416.26,
+    "endTime": 418.0,
+    "text": "Dennis Hong: I'm so happy for you."
+  },
+  {
+    "startTime": 418.26,
+    "endTime": 422.26,
+    "text": "Mark's going to give me a ride back to the hotel. -Yes."
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 441.09999999999997,
+    "text": "DH: So since we started this project, we've been getting hundreds of letters, emails, phone calls from people from all around the world."
+  },
+  {
+    "startTime": 441.26,
+    "endTime": 444.26,
+    "text": "Letters thanking us, but sometimes you also get funny letters like this one:"
+  },
+  {
+    "startTime": 444.5,
+    "endTime": 448.23,
+    "text": "\"Now I understand why there is Braille on a drive-up ATM machine.\""
+  },
+  {
+    "startTime": 450.26,
+    "endTime": 452.26,
+    "text": "But sometimes --"
+  },
+  {
+    "startTime": 454.26,
+    "endTime": 458.26,
+    "text": "But sometimes I also do get, you know I wouldn't call it hate mail,"
+  },
+  {
+    "startTime": 458.6,
+    "endTime": 460.40000000000003,
+    "text": "but letters of really strong concern:"
+  },
+  {
+    "startTime": 461.0,
+    "endTime": 466.0,
+    "text": "\"Dr. Hong, are you insane, trying to put blind people on the road? You must be out of your mind.\""
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 472.679,
+    "text": "But this vehicle is a prototype vehicle, and it's not going to be on the road until it's proven as safe as, or safer than, today's vehicle."
+  },
+  {
+    "startTime": 472.9,
+    "endTime": 474.5,
+    "text": "And I truly believe that this can happen."
+  },
+  {
+    "startTime": 475.26,
+    "endTime": 479.3,
+    "text": "But still, will the society, would they accept such a radical idea?"
+  },
+  {
+    "startTime": 479.7,
+    "endTime": 483.26,
+    "text": "How are we going to handle insurance? How are we going to issue driver's licenses?"
+  },
+  {
+    "startTime": 483.4,
+    "endTime": 489.2,
+    "text": "There's many of these different kinds of hurdles besides technology challenges that we need to address before this becomes a reality."
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 492.46999999999997,
+    "text": "Of course, the main goal of this project is to develop a car for the blind."
+  },
+  {
+    "startTime": 493.0,
+    "endTime": 500.3,
+    "text": "But potentially more important than this is the tremendous value of the spin-off technology that can come from this project."
+  },
+  {
+    "startTime": 500.6,
+    "endTime": 504.0,
+    "text": "The sensors that are used can see through the dark, the fog and rain."
+  },
+  {
+    "startTime": 504.26,
+    "endTime": 510.26,
+    "text": "And together with this new type of interfaces, we can use these technologies and apply them to safer cars for sighted people."
+  },
+  {
+    "startTime": 510.5,
+    "endTime": 515.26,
+    "text": "Or for the blind, everyday home appliances -- in the educational setting, in the office setting."
+  },
+  {
+    "startTime": 515.26,
+    "endTime": 523.26,
+    "text": "Just imagine, in a classroom a teacher writes on the blackboard and a blind student can see what's written and read using these non-visual interfaces."
+  },
+  {
+    "startTime": 523.5,
+    "endTime": 526.26,
+    "text": "This is priceless."
+  },
+  {
+    "startTime": 526.26,
+    "endTime": 529.8,
+    "text": "So today, the things I've showed you today, is just the beginning."
+  },
+  {
+    "startTime": 530.0,
+    "endTime": 531.26,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 531.26,
+    "endTime": 541.26,
+    "text": "(Applause)"
+  }
+]
