@@ -1,0 +1,1497 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 13.527,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 13.527,
+    "endTime": 16.314999999999998,
+    "text": "Something happened in the early morning hours"
+  },
+  {
+    "startTime": 16.315,
+    "endTime": 19.900000000000002,
+    "text": "of May 2nd, 2000, that had a profound effect"
+  },
+  {
+    "startTime": 19.9,
+    "endTime": 22.206,
+    "text": "on the way our society operates."
+  },
+  {
+    "startTime": 22.206,
+    "endTime": 25.483999999999998,
+    "text": "Ironically, hardly anyone noticed at the time."
+  },
+  {
+    "startTime": 25.484,
+    "endTime": 28.144000000000002,
+    "text": "The change was silent, imperceptible,"
+  },
+  {
+    "startTime": 28.144,
+    "endTime": 30.988999999999997,
+    "text": "unless you knew exactly what to look for."
+  },
+  {
+    "startTime": 30.989,
+    "endTime": 33.34,
+    "text": "On that morning, U.S. President Bill Clinton"
+  },
+  {
+    "startTime": 33.34,
+    "endTime": 35.612,
+    "text": "ordered that a special switch be thrown"
+  },
+  {
+    "startTime": 35.612,
+    "endTime": 39.045,
+    "text": "in the orbiting satellites of the Global Positioning System."
+  },
+  {
+    "startTime": 39.045,
+    "endTime": 42.909,
+    "text": "Instantaneously, every civilian GPS receiver"
+  },
+  {
+    "startTime": 42.909,
+    "endTime": 47.471,
+    "text": "around the globe went from errors the size of a football field"
+  },
+  {
+    "startTime": 47.471,
+    "endTime": 54.31399999999999,
+    "text": "to errors the size of a small room."
+  },
+  {
+    "startTime": 54.314,
+    "endTime": 58.105,
+    "text": "It's hard to overstate the effect that this change"
+  },
+  {
+    "startTime": 58.105,
+    "endTime": 60.657,
+    "text": "in accuracy has had on us."
+  },
+  {
+    "startTime": 60.657,
+    "endTime": 62.903999999999996,
+    "text": "Before this switch was thrown, we didn't have"
+  },
+  {
+    "startTime": 62.904,
+    "endTime": 65.163,
+    "text": "in-car navigation systems giving turn-by-turn"
+  },
+  {
+    "startTime": 65.163,
+    "endTime": 67.755,
+    "text": "directions, because back then, GPS couldn't tell you"
+  },
+  {
+    "startTime": 67.755,
+    "endTime": 70.449,
+    "text": "what block you were on, let alone what street."
+  },
+  {
+    "startTime": 70.449,
+    "endTime": 73.697,
+    "text": "For geolocation, accuracy matters,"
+  },
+  {
+    "startTime": 73.697,
+    "endTime": 76.955,
+    "text": "and things have only improved over the last 10 years."
+  },
+  {
+    "startTime": 76.955,
+    "endTime": 79.074,
+    "text": "With more base stations, more ground stations,"
+  },
+  {
+    "startTime": 79.074,
+    "endTime": 82.04299999999999,
+    "text": "better receivers and better algorithms,"
+  },
+  {
+    "startTime": 82.043,
+    "endTime": 85.10600000000001,
+    "text": "GPS can now not only tell you what street you are on,"
+  },
+  {
+    "startTime": 85.106,
+    "endTime": 89.60799999999999,
+    "text": "but what part of the street."
+  },
+  {
+    "startTime": 89.608,
+    "endTime": 91.854,
+    "text": "This level of accuracy"
+  },
+  {
+    "startTime": 91.854,
+    "endTime": 94.78,
+    "text": "has unleashed a firestorm of innovation."
+  },
+  {
+    "startTime": 94.78,
+    "endTime": 97.45100000000001,
+    "text": "In fact, many of you navigated here today"
+  },
+  {
+    "startTime": 97.451,
+    "endTime": 101.044,
+    "text": "with the help of your TomTom or your smartphone."
+  },
+  {
+    "startTime": 101.044,
+    "endTime": 104.26899999999999,
+    "text": "Paper maps are becoming obsolete."
+  },
+  {
+    "startTime": 104.269,
+    "endTime": 108.408,
+    "text": "But we now stand on the verge of another revolution"
+  },
+  {
+    "startTime": 108.408,
+    "endTime": 110.403,
+    "text": "in geolocation accuracy."
+  },
+  {
+    "startTime": 110.403,
+    "endTime": 113.13600000000001,
+    "text": "What if I told you that the two-meter positioning"
+  },
+  {
+    "startTime": 113.136,
+    "endTime": 116.567,
+    "text": "that our current cell phones and our TomToms give us"
+  },
+  {
+    "startTime": 116.567,
+    "endTime": 120.464,
+    "text": "is pathetic compared to what we could be getting?"
+  },
+  {
+    "startTime": 120.464,
+    "endTime": 123.297,
+    "text": "For some time now, it's been known that if you pay attention"
+  },
+  {
+    "startTime": 123.297,
+    "endTime": 125.832,
+    "text": "to the carrier phase of the GPS signal,"
+  },
+  {
+    "startTime": 125.832,
+    "endTime": 128.313,
+    "text": "and if you have an Internet connection,"
+  },
+  {
+    "startTime": 128.313,
+    "endTime": 131.129,
+    "text": "then you can go from meter level to centimeter level,"
+  },
+  {
+    "startTime": 131.129,
+    "endTime": 134.096,
+    "text": "even millimeter-level positioning."
+  },
+  {
+    "startTime": 134.096,
+    "endTime": 137.376,
+    "text": "So why don't we have this capability on our phones?"
+  },
+  {
+    "startTime": 137.376,
+    "endTime": 141.746,
+    "text": "Only, I believe, for a lack of imagination."
+  },
+  {
+    "startTime": 141.746,
+    "endTime": 144.913,
+    "text": "Manufacturers haven't built this carrier phase technique"
+  },
+  {
+    "startTime": 144.913,
+    "endTime": 147.019,
+    "text": "into their cheap GPS chips"
+  },
+  {
+    "startTime": 147.019,
+    "endTime": 149.173,
+    "text": "because they're not sure what the general public would do"
+  },
+  {
+    "startTime": 149.173,
+    "endTime": 152.749,
+    "text": "with geolocation so accurate that you could pinpoint"
+  },
+  {
+    "startTime": 152.749,
+    "endTime": 156.587,
+    "text": "the wrinkles in the palm of your hand."
+  },
+  {
+    "startTime": 156.587,
+    "endTime": 158.974,
+    "text": "But you and I and other innovators,"
+  },
+  {
+    "startTime": 158.974,
+    "endTime": 163.01399999999998,
+    "text": "we can see the potential in this next leap in accuracy."
+  },
+  {
+    "startTime": 163.014,
+    "endTime": 165.726,
+    "text": "Imagine, for example, an augmented reality app"
+  },
+  {
+    "startTime": 165.726,
+    "endTime": 169.263,
+    "text": "that overlays a virtual world to millimeter-level precision"
+  },
+  {
+    "startTime": 169.263,
+    "endTime": 171.27100000000002,
+    "text": "on top of the physical world."
+  },
+  {
+    "startTime": 171.271,
+    "endTime": 174.158,
+    "text": "I could build for you a structure up here in 3D,"
+  },
+  {
+    "startTime": 174.158,
+    "endTime": 176.52599999999998,
+    "text": "millimeter accurate, that only you could see,"
+  },
+  {
+    "startTime": 176.526,
+    "endTime": 179.419,
+    "text": "or my friends at home."
+  },
+  {
+    "startTime": 179.419,
+    "endTime": 183.934,
+    "text": "So this level of positioning, this is what we're looking for,"
+  },
+  {
+    "startTime": 183.934,
+    "endTime": 187.858,
+    "text": "and I believe that, within the next few years, I predict,"
+  },
+  {
+    "startTime": 187.858,
+    "endTime": 192.841,
+    "text": "that this kind of hyper-precise, carrier phase-based positioning"
+  },
+  {
+    "startTime": 192.841,
+    "endTime": 196.065,
+    "text": "will become cheap and ubiquitous,"
+  },
+  {
+    "startTime": 196.065,
+    "endTime": 198.60999999999999,
+    "text": "and the consequences will be fantastic."
+  },
+  {
+    "startTime": 198.61,
+    "endTime": 203.26600000000002,
+    "text": "The Holy Grail, of course, is the GPS dot."
+  },
+  {
+    "startTime": 203.266,
+    "endTime": 205.946,
+    "text": "Do you remember the movie \"The Da Vinci Code?\""
+  },
+  {
+    "startTime": 205.946,
+    "endTime": 209.394,
+    "text": "Here's Professor Langdon examining a GPS dot,"
+  },
+  {
+    "startTime": 209.394,
+    "endTime": 212.77100000000002,
+    "text": "which his accomplice tells him is a tracking device"
+  },
+  {
+    "startTime": 212.771,
+    "endTime": 215.832,
+    "text": "accurate within two feet anywhere on the globe,"
+  },
+  {
+    "startTime": 215.832,
+    "endTime": 218.738,
+    "text": "but we know that in the world of nonfiction,"
+  },
+  {
+    "startTime": 218.738,
+    "endTime": 221.602,
+    "text": "the GPS dot is impossible, right?"
+  },
+  {
+    "startTime": 221.602,
+    "endTime": 224.226,
+    "text": "For one thing, GPS doesn't work indoors,"
+  },
+  {
+    "startTime": 224.226,
+    "endTime": 227.41,
+    "text": "and for another, they don't make devices quite this small,"
+  },
+  {
+    "startTime": 227.41,
+    "endTime": 229.738,
+    "text": "especially when those devices have to relay"
+  },
+  {
+    "startTime": 229.738,
+    "endTime": 232.713,
+    "text": "their measurements back over a network."
+  },
+  {
+    "startTime": 232.713,
+    "endTime": 235.051,
+    "text": "Well, these objections were perfectly reasonable"
+  },
+  {
+    "startTime": 235.051,
+    "endTime": 238.065,
+    "text": "a few years ago, but things have changed."
+  },
+  {
+    "startTime": 238.065,
+    "endTime": 240.921,
+    "text": "There's been a strong trend toward miniaturization,"
+  },
+  {
+    "startTime": 240.921,
+    "endTime": 244.64,
+    "text": "better sensitivity, so much so that, a few years ago,"
+  },
+  {
+    "startTime": 244.64,
+    "endTime": 247.344,
+    "text": "a GPS tracking device looked like this clunky box"
+  },
+  {
+    "startTime": 247.344,
+    "endTime": 249.51999999999998,
+    "text": "to the left of the keys."
+  },
+  {
+    "startTime": 249.52,
+    "endTime": 252.17100000000002,
+    "text": "Compare that with the device released just months ago"
+  },
+  {
+    "startTime": 252.171,
+    "endTime": 255.963,
+    "text": "that's now packaged into something the size of a key fob,"
+  },
+  {
+    "startTime": 255.963,
+    "endTime": 258.516,
+    "text": "and if you take a look at the state of the art"
+  },
+  {
+    "startTime": 258.516,
+    "endTime": 261.262,
+    "text": "for a complete GPS receiver, which is only a centimeter"
+  },
+  {
+    "startTime": 261.262,
+    "endTime": 263.349,
+    "text": "on a side and more sensitive than ever,"
+  },
+  {
+    "startTime": 263.349,
+    "endTime": 266.858,
+    "text": "you realize that the GPS dot will soon move"
+  },
+  {
+    "startTime": 266.858,
+    "endTime": 271.257,
+    "text": "from fiction to nonfiction."
+  },
+  {
+    "startTime": 271.257,
+    "endTime": 275.499,
+    "text": "Imagine what we could do with a world full of GPS dots."
+  },
+  {
+    "startTime": 275.499,
+    "endTime": 278.40500000000003,
+    "text": "It's not just that you'll never lose your wallet or your keys"
+  },
+  {
+    "startTime": 278.405,
+    "endTime": 282.976,
+    "text": "anymore, or your child when you're at Disneyland."
+  },
+  {
+    "startTime": 282.976,
+    "endTime": 286.757,
+    "text": "You'll buy GPS dots in bulk, and you'll stick them on"
+  },
+  {
+    "startTime": 286.757,
+    "endTime": 290.724,
+    "text": "everything you own worth more than a few tens of dollars."
+  },
+  {
+    "startTime": 290.724,
+    "endTime": 293.19599999999997,
+    "text": "I couldn't find my shoes one recent morning,"
+  },
+  {
+    "startTime": 293.196,
+    "endTime": 296.564,
+    "text": "and, as usual, had to ask my wife if she had seen them."
+  },
+  {
+    "startTime": 296.564,
+    "endTime": 300.356,
+    "text": "But I shouldn't have to bother my wife with that kind of triviality."
+  },
+  {
+    "startTime": 300.356,
+    "endTime": 302.967,
+    "text": "I should be able to ask my house where my shoes are."
+  },
+  {
+    "startTime": 302.967,
+    "endTime": 305.106,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 305.106,
+    "endTime": 308.614,
+    "text": "Those of you who have made the switch to Gmail,"
+  },
+  {
+    "startTime": 308.614,
+    "endTime": 311.49199999999996,
+    "text": "remember how refreshing it was to go from"
+  },
+  {
+    "startTime": 311.492,
+    "endTime": 315.636,
+    "text": "organizing all of your email to simply searching it."
+  },
+  {
+    "startTime": 315.636,
+    "endTime": 320.13800000000003,
+    "text": "The GPS dot will do the same for our possessions."
+  },
+  {
+    "startTime": 320.138,
+    "endTime": 324.82399999999996,
+    "text": "Now, of course, there is a flip side to the GPS dot."
+  },
+  {
+    "startTime": 324.824,
+    "endTime": 327.213,
+    "text": "I was in my office some months back"
+  },
+  {
+    "startTime": 327.213,
+    "endTime": 329.75600000000003,
+    "text": "and got a telephone call."
+  },
+  {
+    "startTime": 329.756,
+    "endTime": 333.37699999999995,
+    "text": "The woman on the other end of the line, we'll call her Carol,"
+  },
+  {
+    "startTime": 333.377,
+    "endTime": 335.456,
+    "text": "was panicked."
+  },
+  {
+    "startTime": 335.456,
+    "endTime": 338.249,
+    "text": "Apparently, an ex-boyfriend of Carol's from California"
+  },
+  {
+    "startTime": 338.249,
+    "endTime": 341.564,
+    "text": "had found her in Texas and was following her around."
+  },
+  {
+    "startTime": 341.564,
+    "endTime": 345.401,
+    "text": "So you might ask at this point why she's calling you."
+  },
+  {
+    "startTime": 345.401,
+    "endTime": 346.8,
+    "text": "Well, so did I."
+  },
+  {
+    "startTime": 346.8,
+    "endTime": 350.791,
+    "text": "But it turned out there was a technical twist to Carol's case."
+  },
+  {
+    "startTime": 350.791,
+    "endTime": 353.525,
+    "text": "Every time her ex-boyfriend would show up,"
+  },
+  {
+    "startTime": 353.525,
+    "endTime": 357.875,
+    "text": "at the most improbable times and the most improbable locations,"
+  },
+  {
+    "startTime": 357.875,
+    "endTime": 360.571,
+    "text": "he was carrying an open laptop,"
+  },
+  {
+    "startTime": 360.571,
+    "endTime": 363.41400000000004,
+    "text": "and over time Carol realized that he had planted"
+  },
+  {
+    "startTime": 363.414,
+    "endTime": 365.962,
+    "text": "a GPS tracking device on her car,"
+  },
+  {
+    "startTime": 365.962,
+    "endTime": 368.871,
+    "text": "so she was calling me for help to disable it."
+  },
+  {
+    "startTime": 368.871,
+    "endTime": 370.859,
+    "text": "\"Well, you should go to a good mechanic"
+  },
+  {
+    "startTime": 370.859,
+    "endTime": 374.143,
+    "text": "and have him look at your car,\" I said."
+  },
+  {
+    "startTime": 374.143,
+    "endTime": 376.847,
+    "text": "\"I already have,\" she told me."
+  },
+  {
+    "startTime": 376.847,
+    "endTime": 378.991,
+    "text": "\"He didn't see anything obvious,"
+  },
+  {
+    "startTime": 378.991,
+    "endTime": 382.52799999999996,
+    "text": "and he said he'd have to take the car apart piece by piece.\""
+  },
+  {
+    "startTime": 382.528,
+    "endTime": 385.84900000000005,
+    "text": "\"Well then, you'd better go to the police,\" I said."
+  },
+  {
+    "startTime": 385.849,
+    "endTime": 388.953,
+    "text": "\"I already have,\" she replied."
+  },
+  {
+    "startTime": 388.953,
+    "endTime": 391.399,
+    "text": "\"They're not sure this rises to the level of harassment,"
+  },
+  {
+    "startTime": 391.399,
+    "endTime": 395.152,
+    "text": "and they're not set up technically to find the device.\""
+  },
+  {
+    "startTime": 395.152,
+    "endTime": 396.65799999999996,
+    "text": "\"Okay, what about the FBI?\""
+  },
+  {
+    "startTime": 396.658,
+    "endTime": 400.821,
+    "text": "\"I've talked to them too, and same story.\""
+  },
+  {
+    "startTime": 400.821,
+    "endTime": 402.49100000000004,
+    "text": "We then talked about her coming to my lab"
+  },
+  {
+    "startTime": 402.491,
+    "endTime": 405.039,
+    "text": "and us performing a radio sweep of her car,"
+  },
+  {
+    "startTime": 405.039,
+    "endTime": 407.538,
+    "text": "but I wasn't even sure that would work,"
+  },
+  {
+    "startTime": 407.538,
+    "endTime": 409.589,
+    "text": "given that some of these devices are configured"
+  },
+  {
+    "startTime": 409.589,
+    "endTime": 411.823,
+    "text": "to only transmit when they're inside safe zones"
+  },
+  {
+    "startTime": 411.823,
+    "endTime": 415.12699999999995,
+    "text": "or when the car is moving."
+  },
+  {
+    "startTime": 415.127,
+    "endTime": 416.62100000000004,
+    "text": "So, there we were."
+  },
+  {
+    "startTime": 416.621,
+    "endTime": 419.59,
+    "text": "Carol isn't the first, and certainly won't be the last,"
+  },
+  {
+    "startTime": 419.59,
+    "endTime": 424.525,
+    "text": "to find herself in this kind of fearsome environment,"
+  },
+  {
+    "startTime": 424.525,
+    "endTime": 430.40999999999997,
+    "text": "worrisome situation caused by GPS tracking."
+  },
+  {
+    "startTime": 430.41,
+    "endTime": 432.213,
+    "text": "In fact, as I looked into her case,"
+  },
+  {
+    "startTime": 432.213,
+    "endTime": 435.675,
+    "text": "I discovered to my surprise that it's not clearly illegal"
+  },
+  {
+    "startTime": 435.675,
+    "endTime": 440.108,
+    "text": "for you or me to put a tracking device on someone else's car."
+  },
+  {
+    "startTime": 440.108,
+    "endTime": 443.988,
+    "text": "The Supreme Court ruled last month that a policeman"
+  },
+  {
+    "startTime": 443.988,
+    "endTime": 448.32,
+    "text": "has to get a warrant if he wants to do prolonged tracking,"
+  },
+  {
+    "startTime": 448.32,
+    "endTime": 451.836,
+    "text": "but the law isn't clear about civilians doing this to one another,"
+  },
+  {
+    "startTime": 451.836,
+    "endTime": 454.466,
+    "text": "so it's not just Big Brother we have to worry about,"
+  },
+  {
+    "startTime": 454.466,
+    "endTime": 457.737,
+    "text": "but Big Neighbor. (Laughter)"
+  },
+  {
+    "startTime": 457.737,
+    "endTime": 462.38500000000005,
+    "text": "There is one alternative that Carol could have taken,"
+  },
+  {
+    "startTime": 462.385,
+    "endTime": 468.08799999999997,
+    "text": "very effective. It's called the Wave Bubble."
+  },
+  {
+    "startTime": 468.088,
+    "endTime": 471.023,
+    "text": "It's an open-source GPS jammer,"
+  },
+  {
+    "startTime": 471.023,
+    "endTime": 473.57800000000003,
+    "text": "developed by Limor Fried,"
+  },
+  {
+    "startTime": 473.578,
+    "endTime": 477.371,
+    "text": "a graduate student at MIT, and Limor calls it"
+  },
+  {
+    "startTime": 477.371,
+    "endTime": 481.256,
+    "text": "\"a tool for reclaiming our personal space.\""
+  },
+  {
+    "startTime": 481.256,
+    "endTime": 483.52099999999996,
+    "text": "With a flip of the switch you create a bubble around you"
+  },
+  {
+    "startTime": 483.521,
+    "endTime": 485.76800000000003,
+    "text": "within which GPS signals can't reside."
+  },
+  {
+    "startTime": 485.768,
+    "endTime": 488.12399999999997,
+    "text": "They get drowned out by the bubble."
+  },
+  {
+    "startTime": 488.124,
+    "endTime": 491.771,
+    "text": "And Limor designed this, in part, because, like Carol,"
+  },
+  {
+    "startTime": 491.771,
+    "endTime": 494.41700000000003,
+    "text": "she felt threatened by GPS tracking."
+  },
+  {
+    "startTime": 494.417,
+    "endTime": 496.993,
+    "text": "Then she posted her design to the web,"
+  },
+  {
+    "startTime": 496.993,
+    "endTime": 500.735,
+    "text": "and if you don't have time to build your own,"
+  },
+  {
+    "startTime": 500.735,
+    "endTime": 501.509,
+    "text": "you can buy one."
+  },
+  {
+    "startTime": 501.509,
+    "endTime": 503.567,
+    "text": "Chinese manufacturers now sell thousands"
+  },
+  {
+    "startTime": 503.567,
+    "endTime": 507.34000000000003,
+    "text": "of nearly identical devices on the Internet."
+  },
+  {
+    "startTime": 507.34,
+    "endTime": 511.49199999999996,
+    "text": "So you might be thinking, the Wave Bubble sounds great."
+  },
+  {
+    "startTime": 511.492,
+    "endTime": 515.145,
+    "text": "I should have one. Might come in handy if somebody ever puts a tracking device on my car."
+  },
+  {
+    "startTime": 515.145,
+    "endTime": 518.927,
+    "text": "But you should be aware that its use is very much illegal"
+  },
+  {
+    "startTime": 518.927,
+    "endTime": 520.726,
+    "text": "in the United States."
+  },
+  {
+    "startTime": 520.726,
+    "endTime": 521.473,
+    "text": "And why is that?"
+  },
+  {
+    "startTime": 521.473,
+    "endTime": 524.5659999999999,
+    "text": "Well, because it's not a bubble at all."
+  },
+  {
+    "startTime": 524.566,
+    "endTime": 526.965,
+    "text": "Its jamming signals don't stop at the edge"
+  },
+  {
+    "startTime": 526.965,
+    "endTime": 529.437,
+    "text": "of your personal space or at the edge of your car."
+  },
+  {
+    "startTime": 529.437,
+    "endTime": 535.673,
+    "text": "They go on to jam innocent GPS receivers for miles around you. (Laughter)"
+  },
+  {
+    "startTime": 535.673,
+    "endTime": 538.424,
+    "text": "Now, if you're Carol or Limor,"
+  },
+  {
+    "startTime": 538.424,
+    "endTime": 541.049,
+    "text": "or someone who feels threatened by GPS tracking,"
+  },
+  {
+    "startTime": 541.049,
+    "endTime": 544.824,
+    "text": "it might not feel wrong to turn on a Wave Bubble,"
+  },
+  {
+    "startTime": 544.824,
+    "endTime": 548.804,
+    "text": "but in fact, the results can be disastrous."
+  },
+  {
+    "startTime": 548.804,
+    "endTime": 551.524,
+    "text": "Imagine, for example, you're the captain of a cruise ship"
+  },
+  {
+    "startTime": 551.524,
+    "endTime": 554.043,
+    "text": "trying to make your way through a thick fog"
+  },
+  {
+    "startTime": 554.043,
+    "endTime": 557.883,
+    "text": "and some passenger in the back turns on a Wave Bubble."
+  },
+  {
+    "startTime": 557.883,
+    "endTime": 560.5980000000001,
+    "text": "All of a sudden your GPS readout goes blank,"
+  },
+  {
+    "startTime": 560.598,
+    "endTime": 563.8839999999999,
+    "text": "and now it's just you and the fog"
+  },
+  {
+    "startTime": 563.884,
+    "endTime": 566.484,
+    "text": "and whatever you can pull off the radar system"
+  },
+  {
+    "startTime": 566.484,
+    "endTime": 569.6080000000001,
+    "text": "if you remember how to work it."
+  },
+  {
+    "startTime": 569.608,
+    "endTime": 575.544,
+    "text": "They -- in fact, they don't update or upkeep lighthouses"
+  },
+  {
+    "startTime": 575.544,
+    "endTime": 580.197,
+    "text": "anymore, and LORAN, the only backup to GPS,"
+  },
+  {
+    "startTime": 580.197,
+    "endTime": 582.617,
+    "text": "was discontinued last year."
+  },
+  {
+    "startTime": 582.617,
+    "endTime": 587.53,
+    "text": "Our modern society has a special relationship with GPS."
+  },
+  {
+    "startTime": 587.53,
+    "endTime": 589.8,
+    "text": "We're almost blindly reliant on it."
+  },
+  {
+    "startTime": 589.8,
+    "endTime": 593.4509999999999,
+    "text": "It's built deeply into our systems and infrastructure."
+  },
+  {
+    "startTime": 593.451,
+    "endTime": 597.0790000000001,
+    "text": "Some call it \"the invisible utility.\""
+  },
+  {
+    "startTime": 597.079,
+    "endTime": 600.8009999999999,
+    "text": "So, turning on a Wave Bubble might not just cause inconvenience."
+  },
+  {
+    "startTime": 600.801,
+    "endTime": 605.171,
+    "text": "It might be deadly."
+  },
+  {
+    "startTime": 605.171,
+    "endTime": 609.379,
+    "text": "But as it turns out, for purposes of protecting your privacy"
+  },
+  {
+    "startTime": 609.379,
+    "endTime": 612.868,
+    "text": "at the expense of general GPS reliability,"
+  },
+  {
+    "startTime": 612.868,
+    "endTime": 615.028,
+    "text": "there's something even more potent"
+  },
+  {
+    "startTime": 615.028,
+    "endTime": 618.82,
+    "text": "and more subversive than a Wave Bubble,"
+  },
+  {
+    "startTime": 618.82,
+    "endTime": 622.2090000000001,
+    "text": "and that is a GPS spoofer."
+  },
+  {
+    "startTime": 622.209,
+    "endTime": 625.034,
+    "text": "The idea behind the GPS spoofer is simple."
+  },
+  {
+    "startTime": 625.034,
+    "endTime": 629.011,
+    "text": "Instead of jamming the GPS signals, you fake them."
+  },
+  {
+    "startTime": 629.011,
+    "endTime": 632.129,
+    "text": "You imitate them, and if you do it right, the device"
+  },
+  {
+    "startTime": 632.129,
+    "endTime": 635.296,
+    "text": "you're attacking doesn't even know it's being spoofed."
+  },
+  {
+    "startTime": 635.296,
+    "endTime": 636.928,
+    "text": "So let me show you how this works."
+  },
+  {
+    "startTime": 636.928,
+    "endTime": 639.653,
+    "text": "In any GPS receiver, there's a peak inside"
+  },
+  {
+    "startTime": 639.653,
+    "endTime": 642.288,
+    "text": "that corresponds to the authentic signals."
+  },
+  {
+    "startTime": 642.288,
+    "endTime": 645.1030000000001,
+    "text": "These three red dots represent the tracking points"
+  },
+  {
+    "startTime": 645.103,
+    "endTime": 647.982,
+    "text": "that try to keep themselves centered on that peak."
+  },
+  {
+    "startTime": 647.982,
+    "endTime": 651.047,
+    "text": "But if you send in a fake GPS signal,"
+  },
+  {
+    "startTime": 651.047,
+    "endTime": 655.513,
+    "text": "another peak pops up, and if you can get these two peaks"
+  },
+  {
+    "startTime": 655.513,
+    "endTime": 660.231,
+    "text": "perfectly aligned, the tracking points can't tell the difference,"
+  },
+  {
+    "startTime": 660.231,
+    "endTime": 663.542,
+    "text": "and they get hijacked by the stronger counterfeit signal,"
+  },
+  {
+    "startTime": 663.542,
+    "endTime": 667.5020000000001,
+    "text": "with the authentic peak getting forced off."
+  },
+  {
+    "startTime": 667.502,
+    "endTime": 669.669,
+    "text": "At this point, the game is over."
+  },
+  {
+    "startTime": 669.669,
+    "endTime": 673.406,
+    "text": "The fake signals now completely control this GPS receiver."
+  },
+  {
+    "startTime": 673.406,
+    "endTime": 674.901,
+    "text": "So is this really possible?"
+  },
+  {
+    "startTime": 674.901,
+    "endTime": 676.6239999999999,
+    "text": "Can someone really manipulate"
+  },
+  {
+    "startTime": 676.624,
+    "endTime": 678.606,
+    "text": "the timing and positioning of a GPS receiver"
+  },
+  {
+    "startTime": 678.606,
+    "endTime": 681.485,
+    "text": "just like that, with a spoofer?"
+  },
+  {
+    "startTime": 681.485,
+    "endTime": 683.5,
+    "text": "Well, the short answer is yes."
+  },
+  {
+    "startTime": 683.5,
+    "endTime": 686.304,
+    "text": "The key is that civil GPS signals"
+  },
+  {
+    "startTime": 686.304,
+    "endTime": 687.406,
+    "text": "are completely open."
+  },
+  {
+    "startTime": 687.406,
+    "endTime": 691.3969999999999,
+    "text": "They have no encryption. They have no authentication."
+  },
+  {
+    "startTime": 691.397,
+    "endTime": 694.892,
+    "text": "They're wide open, vulnerable to a kind of spoofing attack."
+  },
+  {
+    "startTime": 694.892,
+    "endTime": 697.4670000000001,
+    "text": "Even so, up until very recently,"
+  },
+  {
+    "startTime": 697.467,
+    "endTime": 699.859,
+    "text": "nobody worried about GPS spoofers."
+  },
+  {
+    "startTime": 699.859,
+    "endTime": 701.837,
+    "text": "People figured that it would be too complex"
+  },
+  {
+    "startTime": 701.837,
+    "endTime": 704.652,
+    "text": "or too expensive for some hacker to build one."
+  },
+  {
+    "startTime": 704.652,
+    "endTime": 708.604,
+    "text": "But I, and a friend of mine from graduate school,"
+  },
+  {
+    "startTime": 708.604,
+    "endTime": 710.7560000000001,
+    "text": "we didn't see it that way."
+  },
+  {
+    "startTime": 710.756,
+    "endTime": 713.2289999999999,
+    "text": "We knew it wasn't going to be so hard,"
+  },
+  {
+    "startTime": 713.229,
+    "endTime": 715.157,
+    "text": "and we wanted to be the first to build one"
+  },
+  {
+    "startTime": 715.157,
+    "endTime": 717.2370000000001,
+    "text": "so we could get out in front of the problem"
+  },
+  {
+    "startTime": 717.237,
+    "endTime": 721.343,
+    "text": "and help protect against GPS spoofing."
+  },
+  {
+    "startTime": 721.343,
+    "endTime": 724.688,
+    "text": "I remember vividly the week it all came together."
+  },
+  {
+    "startTime": 724.688,
+    "endTime": 728.137,
+    "text": "We built it at my home, which means that"
+  },
+  {
+    "startTime": 728.137,
+    "endTime": 732.526,
+    "text": "I got a little extra help from my three-year-old son Ramon."
+  },
+  {
+    "startTime": 732.526,
+    "endTime": 734.944,
+    "text": "Here's Ramon — (Laughter) —"
+  },
+  {
+    "startTime": 734.944,
+    "endTime": 738.6289999999999,
+    "text": "looking for a little attention from Dad that week."
+  },
+  {
+    "startTime": 738.629,
+    "endTime": 740.899,
+    "text": "At first, the spoofer was just a jumble of cables"
+  },
+  {
+    "startTime": 740.899,
+    "endTime": 743.781,
+    "text": "and computers, though we eventually got it packaged"
+  },
+  {
+    "startTime": 743.781,
+    "endTime": 745.453,
+    "text": "into a small box."
+  },
+  {
+    "startTime": 745.453,
+    "endTime": 748.262,
+    "text": "Now, the Dr. Frankenstein moment,"
+  },
+  {
+    "startTime": 748.262,
+    "endTime": 750.9889999999999,
+    "text": "when the spoofer finally came alive"
+  },
+  {
+    "startTime": 750.989,
+    "endTime": 753.59,
+    "text": "and I glimpsed its awful potential,"
+  },
+  {
+    "startTime": 753.59,
+    "endTime": 756.326,
+    "text": "came late one night when I tested the spoofer"
+  },
+  {
+    "startTime": 756.326,
+    "endTime": 758.412,
+    "text": "against my iPhone."
+  },
+  {
+    "startTime": 758.412,
+    "endTime": 760.029,
+    "text": "Let me show you some actual footage from that"
+  },
+  {
+    "startTime": 760.029,
+    "endTime": 761.965,
+    "text": "very first experiment."
+  },
+  {
+    "startTime": 761.965,
+    "endTime": 765.5590000000001,
+    "text": "I had come to completely trust this little blue dot"
+  },
+  {
+    "startTime": 765.559,
+    "endTime": 767.194,
+    "text": "and its reassuring blue halo."
+  },
+  {
+    "startTime": 767.194,
+    "endTime": 768.269,
+    "text": "They seemed to speak to me."
+  },
+  {
+    "startTime": 768.269,
+    "endTime": 772.929,
+    "text": "They'd say, \"Here you are. Here you are.\" (Laughter)"
+  },
+  {
+    "startTime": 772.929,
+    "endTime": 775.799,
+    "text": "And \"you can trust us.\""
+  },
+  {
+    "startTime": 775.799,
+    "endTime": 780.917,
+    "text": "So something felt very wrong about the world."
+  },
+  {
+    "startTime": 780.917,
+    "endTime": 783.5,
+    "text": "It was a sense, almost, of betrayal,"
+  },
+  {
+    "startTime": 783.5,
+    "endTime": 787.691,
+    "text": "when this little blue dot started at my house,"
+  },
+  {
+    "startTime": 787.691,
+    "endTime": 789.303,
+    "text": "and went running off toward the north"
+  },
+  {
+    "startTime": 789.303,
+    "endTime": 793.198,
+    "text": "leaving me behind. I wasn't moving."
+  },
+  {
+    "startTime": 793.198,
+    "endTime": 797.4309999999999,
+    "text": "What I then saw in this little moving blue dot"
+  },
+  {
+    "startTime": 797.431,
+    "endTime": 800.149,
+    "text": "was the potential for chaos."
+  },
+  {
+    "startTime": 800.149,
+    "endTime": 804.291,
+    "text": "I saw airplanes and ships veering off course, with the captain"
+  },
+  {
+    "startTime": 804.291,
+    "endTime": 808.565,
+    "text": "learning only too late that something was wrong."
+  },
+  {
+    "startTime": 808.565,
+    "endTime": 811.065,
+    "text": "I saw the GPS-derived timing"
+  },
+  {
+    "startTime": 811.065,
+    "endTime": 812.796,
+    "text": "of the New York Stock Exchange"
+  },
+  {
+    "startTime": 812.796,
+    "endTime": 814.7460000000001,
+    "text": "being manipulated by hackers."
+  },
+  {
+    "startTime": 814.746,
+    "endTime": 817.7139999999999,
+    "text": "You can scarcely imagine the kind of havoc"
+  },
+  {
+    "startTime": 817.714,
+    "endTime": 820.364,
+    "text": "you could cause if you knew what you were doing"
+  },
+  {
+    "startTime": 820.364,
+    "endTime": 823.717,
+    "text": "with a GPS spoofer."
+  },
+  {
+    "startTime": 823.717,
+    "endTime": 828.861,
+    "text": "There is, though, one redeeming feature"
+  },
+  {
+    "startTime": 828.861,
+    "endTime": 831.317,
+    "text": "of the GPS spoofer."
+  },
+  {
+    "startTime": 831.317,
+    "endTime": 835.918,
+    "text": "It's the ultimate weapon against an invasion of GPS dots."
+  },
+  {
+    "startTime": 835.918,
+    "endTime": 839.005,
+    "text": "Imagine, for example, you're being tracked."
+  },
+  {
+    "startTime": 839.005,
+    "endTime": 841.529,
+    "text": "Well, you can play the tracker for a fool,"
+  },
+  {
+    "startTime": 841.529,
+    "endTime": 844.49,
+    "text": "pretending to be at work when you're really on vacation."
+  },
+  {
+    "startTime": 844.49,
+    "endTime": 847.205,
+    "text": "Or, if you're Carol, you could lure your ex-boyfriend"
+  },
+  {
+    "startTime": 847.205,
+    "endTime": 848.522,
+    "text": "into some empty parking lot"
+  },
+  {
+    "startTime": 848.522,
+    "endTime": 850.8230000000001,
+    "text": "where the police are waiting for him."
+  },
+  {
+    "startTime": 850.823,
+    "endTime": 856.026,
+    "text": "So I'm fascinated by this conflict, a looming conflict,"
+  },
+  {
+    "startTime": 856.026,
+    "endTime": 858.6909999999999,
+    "text": "between privacy on the one hand"
+  },
+  {
+    "startTime": 858.691,
+    "endTime": 862.89,
+    "text": "and the need for a clean radio spectrum on the other."
+  },
+  {
+    "startTime": 862.89,
+    "endTime": 865.935,
+    "text": "We simply cannot tolerate GPS jammers and spoofers,"
+  },
+  {
+    "startTime": 865.935,
+    "endTime": 869.6709999999999,
+    "text": "and yet, given the lack of effective legal means"
+  },
+  {
+    "startTime": 869.671,
+    "endTime": 873.7700000000001,
+    "text": "for protecting our privacy from the GPS dot,"
+  },
+  {
+    "startTime": 873.77,
+    "endTime": 875.6419999999999,
+    "text": "can you really blame people for wanting to turn them on,"
+  },
+  {
+    "startTime": 875.642,
+    "endTime": 878.0580000000001,
+    "text": "for wanting to use them?"
+  },
+  {
+    "startTime": 878.058,
+    "endTime": 881.111,
+    "text": "I hold out hope that we'll be able to reconcile"
+  },
+  {
+    "startTime": 881.111,
+    "endTime": 884.297,
+    "text": "this conflict with some sort of,"
+  },
+  {
+    "startTime": 884.297,
+    "endTime": 889.727,
+    "text": "some yet uninvented technology."
+  },
+  {
+    "startTime": 889.727,
+    "endTime": 892.853,
+    "text": "But meanwhile, grab some popcorn,"
+  },
+  {
+    "startTime": 892.853,
+    "endTime": 894.9799999999999,
+    "text": "because things are going to get interesting."
+  },
+  {
+    "startTime": 894.98,
+    "endTime": 896.32,
+    "text": "Within the next few years,"
+  },
+  {
+    "startTime": 896.32,
+    "endTime": 900.5740000000001,
+    "text": "many of you will be the proud owner of a GPS dot."
+  },
+  {
+    "startTime": 900.574,
+    "endTime": 902.9219999999999,
+    "text": "Maybe you'll have a whole bag full of them."
+  },
+  {
+    "startTime": 902.922,
+    "endTime": 906.374,
+    "text": "You'll never lose track of your things again."
+  },
+  {
+    "startTime": 906.374,
+    "endTime": 910.403,
+    "text": "The GPS dot will fundamentally reorder your life."
+  },
+  {
+    "startTime": 910.403,
+    "endTime": 913.085,
+    "text": "But will you be able to resist the temptation"
+  },
+  {
+    "startTime": 913.085,
+    "endTime": 916.077,
+    "text": "to track your fellow man?"
+  },
+  {
+    "startTime": 916.077,
+    "endTime": 917.909,
+    "text": "Or will you be able to resist the temptation"
+  },
+  {
+    "startTime": 917.909,
+    "endTime": 921.204,
+    "text": "to turn on a GPS spoofer or a Wave Bubble"
+  },
+  {
+    "startTime": 921.204,
+    "endTime": 923.972,
+    "text": "to protect your own privacy?"
+  },
+  {
+    "startTime": 923.972,
+    "endTime": 927.6039999999999,
+    "text": "So, as usual, what we see just beyond the horizon"
+  },
+  {
+    "startTime": 927.604,
+    "endTime": 930.9440000000001,
+    "text": "is full of promise and peril."
+  },
+  {
+    "startTime": 930.944,
+    "endTime": 934.132,
+    "text": "It'll be fascinating to see how this all turns out."
+  },
+  {
+    "startTime": 934.132,
+    "endTime": 944.132,
+    "text": "Thanks. (Applause)"
+  }
+]
