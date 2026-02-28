@@ -1,0 +1,837 @@
+[
+  {
+    "startTime": 2.94,
+    "endTime": 8.48,
+    "text": "Hey, Phil Plait here. Welcome to episode 2 of Crash Course Astronomy: Naked Eye Observations."
+  },
+  {
+    "startTime": 8.48,
+    "endTime": 12.139,
+    "text": "Despite the salacious title, nudity is not required."
+  },
+  {
+    "startTime": 12.139,
+    "endTime": 17.2,
+    "text": "In fact, given that a lot of astronomical observations are done at night, you may want to bundle up."
+  },
+  {
+    "startTime": 17.2,
+    "endTime": 26.78,
+    "text": "[Theme Music] \"One giant leap for mankind\""
+  },
+  {
+    "startTime": 26.78,
+    "endTime": 31.84,
+    "text": "As it relates to astronomy, “naked eye” means no binoculars, no telescope."
+  },
+  {
+    "startTime": 31.84,
+    "endTime": 35.79,
+    "text": "Just you, your eyeballs, and a nice, dark site from which to view the heavens."
+  },
+  {
+    "startTime": 35.79,
+    "endTime": 38.46,
+    "text": "After all, that’s how we did astronomy for thousands of years,"
+  },
+  {
+    "startTime": 38.46,
+    "endTime": 42.94,
+    "text": "and it’s actually pretty amazing what you can figure out about the Universe just by looking at it."
+  },
+  {
+    "startTime": 42.94,
+    "endTime": 48.94,
+    "text": "Imagine you’re somewhere far away from city lights, where you have an unobstructed view of the cloudless sky."
+  },
+  {
+    "startTime": 48.94,
+    "endTime": 53.059999999999995,
+    "text": "The Sun sets, and for a few minutes you just watch as the sky darkens."
+  },
+  {
+    "startTime": 53.06,
+    "endTime": 56.5,
+    "text": "Then, you notice a star appear in the east, just over a tree."
+  },
+  {
+    "startTime": 56.5,
+    "endTime": 62.14,
+    "text": "Then another, and another, and within an hour or so you are standing beneath an incredible display,"
+  },
+  {
+    "startTime": 62.14,
+    "endTime": 63.83,
+    "text": "the sky spangled with stars."
+  },
+  {
+    "startTime": 63.83,
+    "endTime": 67.05,
+    "text": "What do you notice right away? First, there are a lot of stars."
+  },
+  {
+    "startTime": 67.05,
+    "endTime": 72.179,
+    "text": "People with normal vision can see a few thousand stars at any given time, and if you want a round number,"
+  },
+  {
+    "startTime": 72.179,
+    "endTime": 77.86,
+    "text": "there are very roughly six to ten thousand stars in total that are bright enough to detect by eye alone,"
+  },
+  {
+    "startTime": 77.86,
+    "endTime": 79.35,
+    "text": "depending on how good your sight is."
+  },
+  {
+    "startTime": 79.35,
+    "endTime": 82.29899999999999,
+    "text": "The next thing you’ll notice is that they’re not all the same brightness."
+  },
+  {
+    "startTime": 82.299,
+    "endTime": 87.619,
+    "text": "A handful are very bright, a few more are a bit fainter but still pretty bright, and so on."
+  },
+  {
+    "startTime": 87.619,
+    "endTime": 91.44,
+    "text": "The faintest stars you can see are the most abundant, vastly outnumbering the bright ones."
+  },
+  {
+    "startTime": 91.44,
+    "endTime": 93.39999999999999,
+    "text": "This is due to a combination of two effects."
+  },
+  {
+    "startTime": 93.4,
+    "endTime": 97.10000000000001,
+    "text": "One is that stars aren’t all the same intrinsic, physical brightness."
+  },
+  {
+    "startTime": 97.1,
+    "endTime": 104.009,
+    "text": "Some are dim bulbs, while others are monsters, blasting out as much light in one second as the Sun does in a day."
+  },
+  {
+    "startTime": 104.009,
+    "endTime": 107.729,
+    "text": "The second factor is that not all stars are the same distance from us."
+  },
+  {
+    "startTime": 107.729,
+    "endTime": 110.53,
+    "text": "The farther away a star is, the fainter it is."
+  },
+  {
+    "startTime": 110.53,
+    "endTime": 115.92,
+    "text": "Interestingly, of the two dozen or so brightest stars in the sky, half are bright because they’re close to Earth,"
+  },
+  {
+    "startTime": 115.92,
+    "endTime": 120.72,
+    "text": "and half are much farther away but incredibly luminous, so they still appear bright to us."
+  },
+  {
+    "startTime": 120.72,
+    "endTime": 123.82,
+    "text": "This is a running theme in astronomy, and science in general."
+  },
+  {
+    "startTime": 123.82,
+    "endTime": 126.52,
+    "text": "Some effects you see have more than one cause."
+  },
+  {
+    "startTime": 126.52,
+    "endTime": 128.81,
+    "text": "Things aren’t always as simple as they seem."
+  },
+  {
+    "startTime": 128.81,
+    "endTime": 134.33,
+    "text": "The ancient Greek astronomer Hipparchus is generally credited for creating the first catalog of stars,"
+  },
+  {
+    "startTime": 134.33,
+    "endTime": 135.79000000000002,
+    "text": "ranking them by brightness."
+  },
+  {
+    "startTime": 135.79,
+    "endTime": 140.67,
+    "text": "He came up with a system called magnitudes, where the brightest stars were 1st magnitude,"
+  },
+  {
+    "startTime": 140.67,
+    "endTime": 144.20999999999998,
+    "text": "the next brightest were 2nd magnitude, down to 6th magnitude."
+  },
+  {
+    "startTime": 144.21,
+    "endTime": 147.51000000000002,
+    "text": "We still use a variation of this system today, thousands of years later."
+  },
+  {
+    "startTime": 147.51,
+    "endTime": 152.98999999999998,
+    "text": "The faintest stars ever seen (using Hubble Space Telescope) are about magnitude 31 –"
+  },
+  {
+    "startTime": 152.99,
+    "endTime": 157.25,
+    "text": "the faintest star you can see with your eye is about 10 billion times brighter!"
+  },
+  {
+    "startTime": 157.25,
+    "endTime": 161.11,
+    "text": "The brightest star in the night sky — called Sirius, the Dog Star —"
+  },
+  {
+    "startTime": 161.11,
+    "endTime": 164.78,
+    "text": "is about 1000 times brighter than the faintest star you can see."
+  },
+  {
+    "startTime": 164.78,
+    "endTime": 168.72,
+    "text": "Let’s take a closer look at some of those bright stars, like, say, Vega."
+  },
+  {
+    "startTime": 168.72,
+    "endTime": 173.02,
+    "text": "Notice anything about it? Yeah, it looks blue. And Betelgeuse looks red."
+  },
+  {
+    "startTime": 173.02,
+    "endTime": 177.56,
+    "text": "Arcturus is orange, Capella yellow. Those stars really are those colors."
+  },
+  {
+    "startTime": 177.56,
+    "endTime": 182.88,
+    "text": "By eye, only the brightest stars seem have color, while the fainter ones all just look white."
+  },
+  {
+    "startTime": 182.88,
+    "endTime": 186.72,
+    "text": "That’s because the color receptors in your eye aren’t very light-sensitive,"
+  },
+  {
+    "startTime": 186.72,
+    "endTime": 188.73,
+    "text": "and only the brightest stars can trigger them."
+  },
+  {
+    "startTime": 188.73,
+    "endTime": 193.04,
+    "text": "Another thing you’ll notice is that stars aren’t scattered evenly across the sky."
+  },
+  {
+    "startTime": 193.04,
+    "endTime": 194.76999999999998,
+    "text": "They form patterns, shapes."
+  },
+  {
+    "startTime": 194.77,
+    "endTime": 198.68,
+    "text": "This is mostly coincidence, but humans are pattern-recognizing animals,"
+  },
+  {
+    "startTime": 198.68,
+    "endTime": 203.21,
+    "text": "so it’s totally understandable that ancient astronomers divided the skies up into constellations"
+  },
+  {
+    "startTime": 203.21,
+    "endTime": 207.43,
+    "text": "(literally sets or groups of stars), and named them after familiar objects."
+  },
+  {
+    "startTime": 207.43,
+    "endTime": 210.32,
+    "text": "Orion is probably the most famous constellation;"
+  },
+  {
+    "startTime": 210.32,
+    "endTime": 214.54999999999998,
+    "text": "it really does look like a person, arms raised up, and most civilizations saw it that way."
+  },
+  {
+    "startTime": 214.55,
+    "endTime": 220.21,
+    "text": "There’s also tiny Delphinus; it’s only 5 stars, but it’s easy to see it as a dolphin jumping out of the water."
+  },
+  {
+    "startTime": 220.21,
+    "endTime": 223.81,
+    "text": "And Scorpius, which isn’t hard to imagine as a venomous arthropod."
+  },
+  {
+    "startTime": 223.81,
+    "endTime": 232.08,
+    "text": "Others, well, not so much. Pisces is a fish? Yeah, OK. Cancer is a crab? If you say so."
+  },
+  {
+    "startTime": 232.08,
+    "endTime": 238.48000000000002,
+    "text": "Although they were rather arbitrarily defined in ancient times, today we recognize 88 official constellations,"
+  },
+  {
+    "startTime": 238.48,
+    "endTime": 241.42999999999998,
+    "text": "and their boundaries are carefully delineated on the sky."
+  },
+  {
+    "startTime": 241.43,
+    "endTime": 243.97,
+    "text": "When we say a star is in the constellation of Ophiuchus,"
+  },
+  {
+    "startTime": 243.97,
+    "endTime": 248.37,
+    "text": "it’s because the location of the star puts it inside that constellation’s boundaries."
+  },
+  {
+    "startTime": 248.37,
+    "endTime": 250.32,
+    "text": "Think of them like states in the US:"
+  },
+  {
+    "startTime": 250.32,
+    "endTime": 255.16,
+    "text": "the state lines are decided upon by mutual agreement, and a city can be in one state or the other."
+  },
+  {
+    "startTime": 255.16,
+    "endTime": 258.919,
+    "text": "Mind you, not every group of stars makes a constellation."
+  },
+  {
+    "startTime": 258.919,
+    "endTime": 264.44,
+    "text": "The Big Dipper, for example, is only one part of the constellation of Ursa Major, the Big Bear."
+  },
+  {
+    "startTime": 264.44,
+    "endTime": 267.96,
+    "text": "The bowl of the dipper is the bear’s haunches, and the handle is its tail."
+  },
+  {
+    "startTime": 267.96,
+    "endTime": 269.9,
+    "text": "But! Bears don't have tails!"
+  },
+  {
+    "startTime": 269.9,
+    "endTime": 274.82,
+    "text": "So astronomers might be great at pattern recognition, but they're terrible at zoology."
+  },
+  {
+    "startTime": 274.82,
+    "endTime": 277.8,
+    "text": "Most of the brightest stars have proper names, usually Arabic."
+  },
+  {
+    "startTime": 277.8,
+    "endTime": 281.349,
+    "text": "During the Dark Ages, when Europe wasn’t so scientifically minded,"
+  },
+  {
+    "startTime": 281.349,
+    "endTime": 287.789,
+    "text": "it was the Persian astronomer Abd al-Rahman al-Sufi who translated ancient Greek astronomy texts into Arabic,"
+  },
+  {
+    "startTime": 287.789,
+    "endTime": 289.83,
+    "text": "and those names have stuck with us ever since."
+  },
+  {
+    "startTime": 289.83,
+    "endTime": 295.40999999999997,
+    "text": "However there are a lot more stars than there are proper names, so astronomers use other designations for them."
+  },
+  {
+    "startTime": 295.41,
+    "endTime": 299.819,
+    "text": "The stars in any constellation are given Greek letters in order of their brightness,"
+  },
+  {
+    "startTime": 299.819,
+    "endTime": 304.449,
+    "text": "so we have Alpha Orionis, the brightest star in Orion, then Beta, and so."
+  },
+  {
+    "startTime": 304.449,
+    "endTime": 309.069,
+    "text": "Of course, you run out of letters quickly, too, so most modern catalogs just use numbers;"
+  },
+  {
+    "startTime": 309.069,
+    "endTime": 310.90000000000003,
+    "text": "it’s a lot harder to run out of those."
+  },
+  {
+    "startTime": 310.9,
+    "endTime": 315.85999999999996,
+    "text": "Of course, just seeing all those faint stars can be tough, which brings us to this week’s “Focus On.”"
+  },
+  {
+    "startTime": 315.86,
+    "endTime": 319.349,
+    "text": "Light pollution is a serious problem for astronomers."
+  },
+  {
+    "startTime": 319.349,
+    "endTime": 322.74,
+    "text": "This is light from street lamps, shopping centers, or wherever,"
+  },
+  {
+    "startTime": 322.74,
+    "endTime": 326.699,
+    "text": "where the light gets blasted up into the sky instead of toward the ground."
+  },
+  {
+    "startTime": 326.699,
+    "endTime": 330.289,
+    "text": "This lights the up the sky, making fainter objects much more difficult to see."
+  },
+  {
+    "startTime": 330.289,
+    "endTime": 335.919,
+    "text": "That’s why observatories tend to be built in remote areas, as far from cities as possible."
+  },
+  {
+    "startTime": 335.919,
+    "endTime": 339.87,
+    "text": "Trying to observe faint galaxies under bright sky conditions is like trying to listen to"
+  },
+  {
+    "startTime": 339.87,
+    "endTime": 342.999,
+    "text": "someone 50 feet away whispering at you at a rock concert."
+  },
+  {
+    "startTime": 342.999,
+    "endTime": 344.8,
+    "text": "This affects the sky you see as well."
+  },
+  {
+    "startTime": 344.8,
+    "endTime": 348.40000000000003,
+    "text": "From within a big city, it's impossible to see the Milky Way,"
+  },
+  {
+    "startTime": 348.4,
+    "endTime": 353.349,
+    "text": "the faint streak of across the sky that’s actually the combined light of billions of stars."
+  },
+  {
+    "startTime": 353.349,
+    "endTime": 355.759,
+    "text": "It gets washed out with even mild light pollution."
+  },
+  {
+    "startTime": 355.759,
+    "endTime": 358.26,
+    "text": "Your view of Orion probably looks like this:"
+  },
+  {
+    "startTime": 358.26,
+    "endTime": 360.9,
+    "text": "When from a dark site it looks like this:"
+  },
+  {
+    "startTime": 360.9,
+    "endTime": 363.67999999999995,
+    "text": "It’s not just people who are affected by this, either."
+  },
+  {
+    "startTime": 363.68,
+    "endTime": 367.939,
+    "text": "Light pollution affects the way nocturnal animals hunt, how insects breed,"
+  },
+  {
+    "startTime": 367.939,
+    "endTime": 370.779,
+    "text": "and more, by disrupting their normal daily cycles."
+  },
+  {
+    "startTime": 370.779,
+    "endTime": 375.26,
+    "text": "Cutting back light pollution is mostly just a matter of using the right kind of light fixtures outside,"
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 377.28,
+    "text": "directing the light down to the ground."
+  },
+  {
+    "startTime": 377.28,
+    "endTime": 381.32,
+    "text": "A lot of towns have worked to use better lighting, and have met with success."
+  },
+  {
+    "startTime": 381.32,
+    "endTime": 387.979,
+    "text": "This is due in large part to groups like the International Dark-Sky Association, GLOBE at Night, The World at Night,"
+  },
+  {
+    "startTime": 387.979,
+    "endTime": 393.37,
+    "text": "and many more, who advocate using more intelligent lighting, and to help preserve our night sky."
+  },
+  {
+    "startTime": 393.37,
+    "endTime": 399.0,
+    "text": "The sky belongs to everyone, and we should do what we can to make sure it’s the best possible sky we can see."
+  },
+  {
+    "startTime": 399.0,
+    "endTime": 403.11,
+    "text": "Even if you don’t have dark skies, there’s another thing you can notice when you look up."
+  },
+  {
+    "startTime": 403.11,
+    "endTime": 407.61,
+    "text": "If you look carefully, you might see that a couple of the brightest stars look different than the others."
+  },
+  {
+    "startTime": 407.61,
+    "endTime": 411.339,
+    "text": "They don’t twinkle! That’s because they aren’t stars, they’re planets."
+  },
+  {
+    "startTime": 411.339,
+    "endTime": 414.879,
+    "text": "Twinkling happens because the air over our heads is turbulent,"
+  },
+  {
+    "startTime": 414.879,
+    "endTime": 418.689,
+    "text": "and as it blows past, it distorts the incoming light from stars,"
+  },
+  {
+    "startTime": 418.689,
+    "endTime": 422.78900000000004,
+    "text": "making them appear to slightly shift position and brightness several times per second."
+  },
+  {
+    "startTime": 422.789,
+    "endTime": 427.65999999999997,
+    "text": "But planets are much closer to us, and appear bigger, so the distortion doesn’t affect them as much."
+  },
+  {
+    "startTime": 427.66,
+    "endTime": 433.62,
+    "text": "There are five naked eye planets (not counting Earth): Mercury, Venus, Mars, Jupiter, and Saturn."
+  },
+  {
+    "startTime": 433.62,
+    "endTime": 438.56,
+    "text": "Uranus is right on the edge of visibility, and people with keen eyesight might be able to spot it."
+  },
+  {
+    "startTime": 438.56,
+    "endTime": 442.569,
+    "text": "Venus is actually the third brightest natural object in the sky, after the Sun and Moon."
+  },
+  {
+    "startTime": 442.569,
+    "endTime": 445.639,
+    "text": "Jupiter and Mars are frequently brighter than the brightest stars, too."
+  },
+  {
+    "startTime": 445.639,
+    "endTime": 449.819,
+    "text": "If you stay outside for an hour or two, you’ll notice something else that’s pretty obvious:"
+  },
+  {
+    "startTime": 449.819,
+    "endTime": 455.06,
+    "text": "the stars move, like the sky is a gigantic sphere wheeling around you over the course of the night."
+  },
+  {
+    "startTime": 455.06,
+    "endTime": 457.569,
+    "text": "In fact, that’s how the ancients thought of it."
+  },
+  {
+    "startTime": 457.569,
+    "endTime": 462.009,
+    "text": "If you could measure it, you’d find this celestial sphere spins once every day."
+  },
+  {
+    "startTime": 462.009,
+    "endTime": 466.129,
+    "text": "Stars toward the east are rising over the horizon, and stars in the west are setting,"
+  },
+  {
+    "startTime": 466.129,
+    "endTime": 469.659,
+    "text": "making a big circle over the course of the night (and presumably, day)."
+  },
+  {
+    "startTime": 469.659,
+    "endTime": 472.409,
+    "text": "This is really just a reflection of the Earth spinning, of course."
+  },
+  {
+    "startTime": 472.409,
+    "endTime": 475.319,
+    "text": "The Earth rotates once a day, and we’re stuck to it,"
+  },
+  {
+    "startTime": 475.319,
+    "endTime": 478.689,
+    "text": "so it looks like the sky is spinning around us in the opposite direction."
+  },
+  {
+    "startTime": 478.689,
+    "endTime": 481.969,
+    "text": "There’s an interesting thing that happens because of this. Look at a spinning globe."
+  },
+  {
+    "startTime": 481.969,
+    "endTime": 486.3,
+    "text": "It rotates on an axis that goes through the poles, and halfway between them is the Equator."
+  },
+  {
+    "startTime": 486.3,
+    "endTime": 490.58,
+    "text": "If you stand on the Equator, you make a big circle around the center of the Earth over a day."
+  },
+  {
+    "startTime": 490.58,
+    "endTime": 495.18899999999996,
+    "text": "But if you move north or south, toward one pole or the other, that circle gets smaller."
+  },
+  {
+    "startTime": 495.189,
+    "endTime": 499.869,
+    "text": "When you stand on the pole, you don’t make a circle at all; you just spin around in the same spot."
+  },
+  {
+    "startTime": 499.869,
+    "endTime": 501.65900000000005,
+    "text": "It’s the same thing with the sky."
+  },
+  {
+    "startTime": 501.659,
+    "endTime": 505.969,
+    "text": "As the sky spins over us, just like with the Earth, it has two poles and an Equator."
+  },
+  {
+    "startTime": 505.969,
+    "endTime": 511.909,
+    "text": "A star on the celestial Equator makes a big circle around the sky, and stars to the north or south make smaller ones."
+  },
+  {
+    "startTime": 511.909,
+    "endTime": 516.2189999999999,
+    "text": "A star right on the celestial pole wouldn’t appear to move at all, and would just hang there,"
+  },
+  {
+    "startTime": 516.219,
+    "endTime": 518.5600000000001,
+    "text": "like it was nailed to that spot, all night long."
+  },
+  {
+    "startTime": 518.56,
+    "endTime": 521.93,
+    "text": "And this is just what we see! Photographic time exposures show it best."
+  },
+  {
+    "startTime": 521.93,
+    "endTime": 524.5889999999999,
+    "text": "The motions of the stars show up as streaks."
+  },
+  {
+    "startTime": 524.589,
+    "endTime": 530.35,
+    "text": "The longer the exposure, the longer the streaks as the stars rise and set, making their circular arcs in the sky."
+  },
+  {
+    "startTime": 530.35,
+    "endTime": 533.75,
+    "text": "You can see stars near the celestial equator making their big circles."
+  },
+  {
+    "startTime": 533.75,
+    "endTime": 539.089,
+    "text": "And, by coincidence, there’s also a middling-bright star that sits very close to the north celestial pole."
+  },
+  {
+    "startTime": 539.089,
+    "endTime": 541.75,
+    "text": "That’s called Polaris, the north or pole star."
+  },
+  {
+    "startTime": 541.75,
+    "endTime": 546.089,
+    "text": "Because of that, it doesn’t appear to rise or set, and is always to the north, motionless."
+  },
+  {
+    "startTime": 546.089,
+    "endTime": 550.5500000000001,
+    "text": "It really is coincidence; there’s no southern pole star, unless you count Sigma Octans,"
+  },
+  {
+    "startTime": 550.55,
+    "endTime": 554.9799999999999,
+    "text": "a dim bulb barley visible by eye that’s not all that close to the south pole of the sky anyway."
+  },
+  {
+    "startTime": 554.98,
+    "endTime": 559.1,
+    "text": "But even Polaris isn’t exactly on the pole -- it’s offset a teeny bit."
+  },
+  {
+    "startTime": 559.1,
+    "endTime": 562.6800000000001,
+    "text": "So it does make a circle in the sky, but one so small you’d never notice."
+  },
+  {
+    "startTime": 562.68,
+    "endTime": 568.769,
+    "text": "By eye, night after night, Polaris is the constant in the sky, always there, never moving."
+  },
+  {
+    "startTime": 568.769,
+    "endTime": 572.35,
+    "text": "Remember, the sky’s motion is a reflection of the Earth’s motion."
+  },
+  {
+    "startTime": 572.35,
+    "endTime": 576.88,
+    "text": "If you were standing on the north pole of the Earth, you’d see Polaris at the sky’s zenith"
+  },
+  {
+    "startTime": 576.88,
+    "endTime": 579.9399999999999,
+    "text": "— that is, straight overhead — fixed and unmoving."
+  },
+  {
+    "startTime": 579.94,
+    "endTime": 584.0790000000001,
+    "text": "Stars on the celestial equator would appear to circle the horizon once per day."
+  },
+  {
+    "startTime": 584.079,
+    "endTime": 589.4699999999999,
+    "text": "But this also means that stars south of the celestial equator can’t be seen from the Earth’s north pole!"
+  },
+  {
+    "startTime": 589.47,
+    "endTime": 591.639,
+    "text": "They’re always below the horizon."
+  },
+  {
+    "startTime": 591.639,
+    "endTime": 596.44,
+    "text": "So this in turn means that which stars you see depends on where you are on Earth."
+  },
+  {
+    "startTime": 596.44,
+    "endTime": 599.899,
+    "text": "At the north pole, you only see stars north of the celestial equator."
+  },
+  {
+    "startTime": 599.899,
+    "endTime": 603.5,
+    "text": "At the Earth’s south pole, you only see stars south of the celestial equator."
+  },
+  {
+    "startTime": 603.5,
+    "endTime": 606.28,
+    "text": "From Antarctica, Polaris is forever hidden from view."
+  },
+  {
+    "startTime": 606.28,
+    "endTime": 610.79,
+    "text": "Standing on the Earth’s equator, you’d see Polaris on the horizon to the north,"
+  },
+  {
+    "startTime": 610.79,
+    "endTime": 613.579,
+    "text": "and Sigma Octans on the horizon to the south,"
+  },
+  {
+    "startTime": 613.579,
+    "endTime": 617.28,
+    "text": "and over the course of the day the entire celestial sphere would spin around you;"
+  },
+  {
+    "startTime": 617.28,
+    "endTime": 619.509,
+    "text": "every star in the sky is eventually visible."
+  },
+  {
+    "startTime": 619.509,
+    "endTime": 622.4300000000001,
+    "text": "While Polaris may be constant, not everything is."
+  },
+  {
+    "startTime": 622.43,
+    "endTime": 624.9699999999999,
+    "text": "Sometimes you just have to wait a while to notice."
+  },
+  {
+    "startTime": 624.97,
+    "endTime": 628.1700000000001,
+    "text": "And to that point, you’ll have to wait a while to find out what I mean by this,"
+  },
+  {
+    "startTime": 628.17,
+    "endTime": 630.62,
+    "text": "because we’ll be covering that in next week’s episode."
+  },
+  {
+    "startTime": 630.62,
+    "endTime": 634.87,
+    "text": "Today we talked about what you can see on a clear dark night with just your eyes:"
+  },
+  {
+    "startTime": 634.87,
+    "endTime": 640.11,
+    "text": "thousands of stars, some brighter than others, arranged into patterns called constellations."
+  },
+  {
+    "startTime": 640.11,
+    "endTime": 645.5790000000001,
+    "text": "Stars have colors, even if we can’t see them with our eyes alone, and they rise and set as the Earth spins."
+  },
+  {
+    "startTime": 645.579,
+    "endTime": 648.4699999999999,
+    "text": "You can see different stars depending on where you are on Earth,"
+  },
+  {
+    "startTime": 648.47,
+    "endTime": 652.019,
+    "text": "and if you’re in the northern hemisphere, Polaris will always point you toward north."
+  },
+  {
+    "startTime": 652.019,
+    "endTime": 655.699,
+    "text": "Crash Course is produced in association with PBS Digital Studios."
+  },
+  {
+    "startTime": 655.699,
+    "endTime": 657.8389999999999,
+    "text": "This episode was written by me, Phil Plait."
+  },
+  {
+    "startTime": 657.839,
+    "endTime": 661.6400000000001,
+    "text": "The script was edited by Blake de Pastino, and our consultant is Dr. Michelle Thaller."
+  },
+  {
+    "startTime": 661.64,
+    "endTime": 671.64,
+    "text": "It was co-directed by Nicholas Jenkins and Michael Aranda, and the graphics team is Thought Café."
+  }
+]
