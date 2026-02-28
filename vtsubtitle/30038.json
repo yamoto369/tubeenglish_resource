@@ -1,0 +1,562 @@
+[
+  {
+    "startTime": 19.608,
+    "endTime": 23.853,
+    "text": "So, as researchers, something that we often do is use immense resources"
+  },
+  {
+    "startTime": 23.853,
+    "endTime": 27.156000000000002,
+    "text": "to achieve certain capabilities, or achieve certain goals."
+  },
+  {
+    "startTime": 27.156,
+    "endTime": 29.715,
+    "text": "And this is essential to the progress of science,"
+  },
+  {
+    "startTime": 29.715,
+    "endTime": 32.064,
+    "text": "or exploration of what is possible."
+  },
+  {
+    "startTime": 32.064,
+    "endTime": 34.096000000000004,
+    "text": "But it creates this unfortunate situation"
+  },
+  {
+    "startTime": 34.096,
+    "endTime": 36.135999999999996,
+    "text": "where a tiny, tiny fraction of the world"
+  },
+  {
+    "startTime": 36.136,
+    "endTime": 38.256,
+    "text": "can actually participate in this exploration"
+  },
+  {
+    "startTime": 38.256,
+    "endTime": 40.101,
+    "text": "or can benefit from that technology."
+  },
+  {
+    "startTime": 40.101,
+    "endTime": 41.53,
+    "text": "Something that motivates me,"
+  },
+  {
+    "startTime": 41.53,
+    "endTime": 43.767,
+    "text": "and gets me really excited about my research,"
+  },
+  {
+    "startTime": 43.767,
+    "endTime": 45.497,
+    "text": "is when I see simple opportunities"
+  },
+  {
+    "startTime": 45.497,
+    "endTime": 49.321,
+    "text": "to drastically change that distribution and make the technology accessible"
+  },
+  {
+    "startTime": 49.321,
+    "endTime": 51.454,
+    "text": "to a much wider percentage of the population."
+  },
+  {
+    "startTime": 51.454,
+    "endTime": 55.01,
+    "text": "I'm going to show you two videos that have gotten a lot of attention"
+  },
+  {
+    "startTime": 55.01,
+    "endTime": 56.803999999999995,
+    "text": "that I think embody this philosophy."
+  },
+  {
+    "startTime": 56.804,
+    "endTime": 59.261,
+    "text": "And they actually use the Nintendo Wii Remote."
+  },
+  {
+    "startTime": 59.261,
+    "endTime": 61.826,
+    "text": "For those of you who aren't familiar with this device,"
+  },
+  {
+    "startTime": 61.826,
+    "endTime": 64.547,
+    "text": "it's a $40 video game controller."
+  },
+  {
+    "startTime": 64.547,
+    "endTime": 67.716,
+    "text": "And it's mostly advertised for its motion-sensing capabilities:"
+  },
+  {
+    "startTime": 67.716,
+    "endTime": 70.38199999999999,
+    "text": "so you can swing a tennis racket, or hit a baseball bat."
+  },
+  {
+    "startTime": 70.382,
+    "endTime": 72.76400000000001,
+    "text": "But what actually interests me a lot more"
+  },
+  {
+    "startTime": 72.764,
+    "endTime": 74.946,
+    "text": "is the fact that in the tip of each controller"
+  },
+  {
+    "startTime": 74.946,
+    "endTime": 77.75999999999999,
+    "text": "is a relatively high-performing infrared camera."
+  },
+  {
+    "startTime": 77.76,
+    "endTime": 82.24300000000001,
+    "text": "And I'm going to show you two demos of why this is useful."
+  },
+  {
+    "startTime": 82.243,
+    "endTime": 85.17099999999999,
+    "text": "So here, I have my computer set up with the projector,"
+  },
+  {
+    "startTime": 85.171,
+    "endTime": 87.552,
+    "text": "and I have a Wii Remote sitting on top of it."
+  },
+  {
+    "startTime": 87.552,
+    "endTime": 91.43400000000001,
+    "text": "And, for example, if you're in a school that doesn't have a lot money,"
+  },
+  {
+    "startTime": 91.434,
+    "endTime": 92.88499999999999,
+    "text": "probably a lot of schools,"
+  },
+  {
+    "startTime": 92.885,
+    "endTime": 96.59100000000001,
+    "text": "or if you're in an office environment, and you want an interactive whiteboard,"
+  },
+  {
+    "startTime": 96.591,
+    "endTime": 99.265,
+    "text": "normally these cost about two to three thousand dollars."
+  },
+  {
+    "startTime": 99.265,
+    "endTime": 103.397,
+    "text": "So I'm going to show you how to create one with a Wii Remote."
+  },
+  {
+    "startTime": 103.397,
+    "endTime": 107.00500000000001,
+    "text": "Now, this requires another piece of hardware,"
+  },
+  {
+    "startTime": 107.005,
+    "endTime": 108.597,
+    "text": "which is this infrared pen."
+  },
+  {
+    "startTime": 108.597,
+    "endTime": 111.431,
+    "text": "You can probably make this yourself for about five dollars"
+  },
+  {
+    "startTime": 111.431,
+    "endTime": 113.28699999999999,
+    "text": "with a quick trip to the Radio Shack."
+  },
+  {
+    "startTime": 113.287,
+    "endTime": 115.869,
+    "text": "It's got a battery, a button and an infrared LED --"
+  },
+  {
+    "startTime": 115.869,
+    "endTime": 117.051,
+    "text": "you guys can't see it --"
+  },
+  {
+    "startTime": 117.051,
+    "endTime": 119.306,
+    "text": "but it turns on whenever I push the button."
+  },
+  {
+    "startTime": 119.306,
+    "endTime": 123.868,
+    "text": "Now, what this means is that if I run this piece of software,"
+  },
+  {
+    "startTime": 123.868,
+    "endTime": 128.305,
+    "text": "the camera sees the infrared dot,"
+  },
+  {
+    "startTime": 128.305,
+    "endTime": 132.514,
+    "text": "and I can register the location of the camera pixels"
+  },
+  {
+    "startTime": 132.514,
+    "endTime": 133.681,
+    "text": "to the projector pixels."
+  },
+  {
+    "startTime": 133.681,
+    "endTime": 136.387,
+    "text": "And now this is like an interactive whiteboard surface."
+  },
+  {
+    "startTime": 136.387,
+    "endTime": 138.133,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 138.133,
+    "endTime": 142.04600000000002,
+    "text": "So for about $50 of hardware, you can have your own whiteboard."
+  },
+  {
+    "startTime": 142.046,
+    "endTime": 144.253,
+    "text": "This is Adobe Photoshop."
+  },
+  {
+    "startTime": 144.253,
+    "endTime": 149.94199999999998,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 149.942,
+    "endTime": 151.02200000000002,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 151.022,
+    "endTime": 152.679,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 152.679,
+    "endTime": 155.314,
+    "text": "The software for this I've actually put on my website"
+  },
+  {
+    "startTime": 155.314,
+    "endTime": 157.345,
+    "text": "and have let people download it for free."
+  },
+  {
+    "startTime": 157.345,
+    "endTime": 159.74,
+    "text": "In the three months this project has been public,"
+  },
+  {
+    "startTime": 159.74,
+    "endTime": 162.032,
+    "text": "it's been downloaded over half a million times."
+  },
+  {
+    "startTime": 162.032,
+    "endTime": 164.297,
+    "text": "So teachers and students all around the world"
+  },
+  {
+    "startTime": 164.297,
+    "endTime": 165.667,
+    "text": "are already using this."
+  },
+  {
+    "startTime": 165.667,
+    "endTime": 171.09,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 171.09,
+    "endTime": 173.407,
+    "text": "Although it does do it for 50 dollars,"
+  },
+  {
+    "startTime": 173.407,
+    "endTime": 175.488,
+    "text": "there are some limitations of this approach."
+  },
+  {
+    "startTime": 175.488,
+    "endTime": 178.914,
+    "text": "You get about 80 percent of the way there, for one percent of the cost."
+  },
+  {
+    "startTime": 178.914,
+    "endTime": 181.71599999999998,
+    "text": "Another nice thing is that a camera can see multiple dots,"
+  },
+  {
+    "startTime": 181.716,
+    "endTime": 185.203,
+    "text": "so this is actually a multi-touch, interactive whiteboard system as well."
+  },
+  {
+    "startTime": 185.203,
+    "endTime": 187.425,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 187.425,
+    "endTime": 188.577,
+    "text": "For the second demo,"
+  },
+  {
+    "startTime": 188.577,
+    "endTime": 191.225,
+    "text": "I have this Wii Remote that's actually next to the TV."
+  },
+  {
+    "startTime": 191.225,
+    "endTime": 195.44899999999998,
+    "text": "So it's pointing away from the display, rather than pointing at the display."
+  },
+  {
+    "startTime": 195.449,
+    "endTime": 197.73600000000002,
+    "text": "And why this is interesting"
+  },
+  {
+    "startTime": 197.736,
+    "endTime": 201.474,
+    "text": "is that if you put on, say, a pair of safety glasses,"
+  },
+  {
+    "startTime": 201.474,
+    "endTime": 203.31199999999998,
+    "text": "that have two infrared dots in them,"
+  },
+  {
+    "startTime": 203.312,
+    "endTime": 208.589,
+    "text": "they are going to give the computer an approximation of your head location."
+  },
+  {
+    "startTime": 208.589,
+    "endTime": 209.915,
+    "text": "And why this is interesting"
+  },
+  {
+    "startTime": 209.915,
+    "endTime": 213.082,
+    "text": "is I have this sort of application running on the computer monitor,"
+  },
+  {
+    "startTime": 213.082,
+    "endTime": 215.638,
+    "text": "which has a 3D room, with some targets floating in it."
+  },
+  {
+    "startTime": 215.638,
+    "endTime": 217.901,
+    "text": "And you can see that it looks like a 3D room."
+  },
+  {
+    "startTime": 217.901,
+    "endTime": 221.27200000000002,
+    "text": "kind of like a video game, it sort of looks 3D,"
+  },
+  {
+    "startTime": 221.272,
+    "endTime": 223.763,
+    "text": "but for the most part, the image looks pretty flat,"
+  },
+  {
+    "startTime": 223.763,
+    "endTime": 225.645,
+    "text": "and bound to the surface of the screen."
+  },
+  {
+    "startTime": 225.645,
+    "endTime": 231.05,
+    "text": "But if we turn on head tracking --"
+  },
+  {
+    "startTime": 231.05,
+    "endTime": 233.859,
+    "text": "the computer can change the image that's on the screen"
+  },
+  {
+    "startTime": 233.859,
+    "endTime": 235.899,
+    "text": "and make it respond to the head movements."
+  },
+  {
+    "startTime": 235.899,
+    "endTime": 237.304,
+    "text": "So let's switch back to that."
+  },
+  {
+    "startTime": 237.304,
+    "endTime": 240.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 240.33,
+    "endTime": 250.97500000000002,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 250.975,
+    "endTime": 254.218,
+    "text": "So this has actually been a little bit startling"
+  },
+  {
+    "startTime": 254.218,
+    "endTime": 255.87599999999998,
+    "text": "to the game-development community."
+  },
+  {
+    "startTime": 255.876,
+    "endTime": 257.722,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 257.722,
+    "endTime": 260.602,
+    "text": "Because this is about 10 dollars of additional hardware"
+  },
+  {
+    "startTime": 260.602,
+    "endTime": 262.48499999999996,
+    "text": "if you already have a Nintendo Wii."
+  },
+  {
+    "startTime": 262.485,
+    "endTime": 264.79400000000004,
+    "text": "So I'm looking forward to seeing some games,"
+  },
+  {
+    "startTime": 264.794,
+    "endTime": 267.313,
+    "text": "and actually Louis Castle, that's him down there,"
+  },
+  {
+    "startTime": 267.313,
+    "endTime": 270.976,
+    "text": "last week announced that Electronic Arts, one of the largest game publishers,"
+  },
+  {
+    "startTime": 270.976,
+    "endTime": 274.001,
+    "text": "is releasing a game in May that has a little Easter egg feature"
+  },
+  {
+    "startTime": 274.001,
+    "endTime": 276.318,
+    "text": "for supporting this type of head tracking."
+  },
+  {
+    "startTime": 276.318,
+    "endTime": 278.268,
+    "text": "And that's from less than five months"
+  },
+  {
+    "startTime": 278.268,
+    "endTime": 281.41799999999995,
+    "text": "from a prototype in my lab to a major commercial product."
+  },
+  {
+    "startTime": 281.418,
+    "endTime": 286.935,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 286.935,
+    "endTime": 288.188,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 288.188,
+    "endTime": 290.45099999999996,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 290.451,
+    "endTime": 292.874,
+    "text": "But actually, to me, what's almost more interesting"
+  },
+  {
+    "startTime": 292.874,
+    "endTime": 294.47,
+    "text": "than either of these two projects"
+  },
+  {
+    "startTime": 294.47,
+    "endTime": 296.78900000000004,
+    "text": "is how people actually found out about them."
+  },
+  {
+    "startTime": 296.789,
+    "endTime": 300.353,
+    "text": "YouTube has really changed the way, or changed the speed,"
+  },
+  {
+    "startTime": 300.353,
+    "endTime": 301.711,
+    "text": "in which a single individual"
+  },
+  {
+    "startTime": 301.711,
+    "endTime": 303.962,
+    "text": "can actually spread an idea around the world."
+  },
+  {
+    "startTime": 303.962,
+    "endTime": 306.986,
+    "text": "I'm doing some research in my lab with a video camera,"
+  },
+  {
+    "startTime": 306.986,
+    "endTime": 309.96299999999997,
+    "text": "and within the first week, a million people had seen this work,"
+  },
+  {
+    "startTime": 309.963,
+    "endTime": 313.57800000000003,
+    "text": "and literally within days, engineers, teachers and students"
+  },
+  {
+    "startTime": 313.578,
+    "endTime": 316.79299999999995,
+    "text": "from around the world were already posting their own YouTube videos"
+  },
+  {
+    "startTime": 316.793,
+    "endTime": 320.177,
+    "text": "of them using my system or derivatives of this work."
+  },
+  {
+    "startTime": 320.177,
+    "endTime": 322.74100000000004,
+    "text": "So I hope to see more of that in the future,"
+  },
+  {
+    "startTime": 322.741,
+    "endTime": 326.337,
+    "text": "and hope online video distribution to be embraced by the research community."
+  },
+  {
+    "startTime": 326.337,
+    "endTime": 327.614,
+    "text": "So thank you very much."
+  },
+  {
+    "startTime": 327.614,
+    "endTime": 337.614,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,1837 @@
+[
+  {
+    "startTime": 2.61,
+    "endTime": 12.29,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 12.29,
+    "endTime": 20.5,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 20.64,
+    "endTime": 21.96,
+    "text": "good"
+  },
+  {
+    "startTime": 21.96,
+    "endTime": 24.199,
+    "text": "morning I'm here today to talk about"
+  },
+  {
+    "startTime": 24.199,
+    "endTime": 29.24,
+    "text": "autonomous flying beach balls no agile"
+  },
+  {
+    "startTime": 29.24,
+    "endTime": 32.119,
+    "text": "aerial robots like this one I'd like to"
+  },
+  {
+    "startTime": 32.119,
+    "endTime": 33.12,
+    "text": "tell you a little bit about the"
+  },
+  {
+    "startTime": 33.12,
+    "endTime": 34.96,
+    "text": "challenges in building these and some of"
+  },
+  {
+    "startTime": 34.96,
+    "endTime": 37.48,
+    "text": "the terrific opportunities for applying"
+  },
+  {
+    "startTime": 37.48,
+    "endTime": 40.36,
+    "text": "this technology so these robots are"
+  },
+  {
+    "startTime": 40.36,
+    "endTime": 43.36,
+    "text": "related to unmanned aerial"
+  },
+  {
+    "startTime": 43.36,
+    "endTime": 45.559,
+    "text": "Vehicles however the vehicles you see"
+  },
+  {
+    "startTime": 45.559,
+    "endTime": 48.36,
+    "text": "here are big they weigh thousands of"
+  },
+  {
+    "startTime": 48.36,
+    "endTime": 50.68,
+    "text": "pounds are not by any means agile"
+  },
+  {
+    "startTime": 50.68,
+    "endTime": 52.079,
+    "text": "they're not even"
+  },
+  {
+    "startTime": 52.079,
+    "endTime": 54.399,
+    "text": "autonomous in fact many of these"
+  },
+  {
+    "startTime": 54.399,
+    "endTime": 57.16,
+    "text": "vehicles are operated by flight Crews"
+  },
+  {
+    "startTime": 57.16,
+    "endTime": 58.92,
+    "text": "that can include multiple"
+  },
+  {
+    "startTime": 58.92,
+    "endTime": 60.96,
+    "text": "Pilots operators of"
+  },
+  {
+    "startTime": 60.96,
+    "endTime": 63.04,
+    "text": "sensors and Mission"
+  },
+  {
+    "startTime": 63.04,
+    "endTime": 65.158,
+    "text": "coordinators what we're interested in is"
+  },
+  {
+    "startTime": 65.159,
+    "endTime": 67.119,
+    "text": "developing robots like this and here are"
+  },
+  {
+    "startTime": 67.119,
+    "endTime": 69.24,
+    "text": "two other pictures of robots that you"
+  },
+  {
+    "startTime": 69.24,
+    "endTime": 71.68,
+    "text": "can buy off the shelf so these are"
+  },
+  {
+    "startTime": 71.68,
+    "endTime": 73.52,
+    "text": "helicopters with four"
+  },
+  {
+    "startTime": 73.52,
+    "endTime": 76.6,
+    "text": "rotors and they're roughly a meter or so"
+  },
+  {
+    "startTime": 76.6,
+    "endTime": 80.32,
+    "text": "in scale and weigh several pounds and so"
+  },
+  {
+    "startTime": 80.32,
+    "endTime": 82.64,
+    "text": "we retrofit these with sensors and"
+  },
+  {
+    "startTime": 82.64,
+    "endTime": 84.84,
+    "text": "processors and these robots can fly"
+  },
+  {
+    "startTime": 84.84,
+    "endTime": 88.04,
+    "text": "indoors without GPS the robot I'm"
+  },
+  {
+    "startTime": 88.04,
+    "endTime": 92.119,
+    "text": "holding in my hand is this one and it's"
+  },
+  {
+    "startTime": 92.119,
+    "endTime": 95.52,
+    "text": "been created by two students Alex and"
+  },
+  {
+    "startTime": 95.52,
+    "endTime": 98.52,
+    "text": "Daniel so this weighs a little more than"
+  },
+  {
+    "startTime": 98.52,
+    "endTime": 101.0,
+    "text": "a tenth of a pound it consumes about 15"
+  },
+  {
+    "startTime": 101.0,
+    "endTime": 103.159,
+    "text": "watts of power and as you can see it's"
+  },
+  {
+    "startTime": 103.159,
+    "endTime": 105.36,
+    "text": "about 8 in in"
+  },
+  {
+    "startTime": 105.36,
+    "endTime": 107.92,
+    "text": "diameter so let me give you just a very"
+  },
+  {
+    "startTime": 107.92,
+    "endTime": 111.04,
+    "text": "quick tutorial on how these robots work"
+  },
+  {
+    "startTime": 111.04,
+    "endTime": 113.079,
+    "text": "so it has four rotors if you spin these"
+  },
+  {
+    "startTime": 113.079,
+    "endTime": 115.52,
+    "text": "rotors at the same speed the robot"
+  },
+  {
+    "startTime": 115.52,
+    "endTime": 118.439,
+    "text": "hovers if you increase the speed of each"
+  },
+  {
+    "startTime": 118.439,
+    "endTime": 121.32,
+    "text": "of these rotors then the robot flies up"
+  },
+  {
+    "startTime": 121.32,
+    "endTime": 123.799,
+    "text": "it accelerates up of course if the robot"
+  },
+  {
+    "startTime": 123.799,
+    "endTime": 126.479,
+    "text": "were tilted inclined to the horizontal"
+  },
+  {
+    "startTime": 126.479,
+    "endTime": 128.679,
+    "text": "then it would accelerate in this"
+  },
+  {
+    "startTime": 128.679,
+    "endTime": 131.319,
+    "text": "direction so to get it to tilt there's"
+  },
+  {
+    "startTime": 131.319,
+    "endTime": 133.84,
+    "text": "one of two ways of doing it so in this"
+  },
+  {
+    "startTime": 133.84,
+    "endTime": 135.599,
+    "text": "picture you see that Roto four is"
+  },
+  {
+    "startTime": 135.599,
+    "endTime": 138.16,
+    "text": "spinning faster and rotor to is spinning"
+  },
+  {
+    "startTime": 138.16,
+    "endTime": 140.879,
+    "text": "slower and when that happens there's a"
+  },
+  {
+    "startTime": 140.879,
+    "endTime": 143.64,
+    "text": "moment that causes this robot to"
+  },
+  {
+    "startTime": 143.64,
+    "endTime": 146.56,
+    "text": "roll and the other way around if you"
+  },
+  {
+    "startTime": 146.56,
+    "endTime": 149.08,
+    "text": "increase the speed of rotor 3 and"
+  },
+  {
+    "startTime": 149.08,
+    "endTime": 151.72,
+    "text": "decrease the speed of rotor one then the"
+  },
+  {
+    "startTime": 151.72,
+    "endTime": 154.92,
+    "text": "robot pitches forward and then finally"
+  },
+  {
+    "startTime": 154.92,
+    "endTime": 158.04,
+    "text": "if you spin opposite pairs of rotors"
+  },
+  {
+    "startTime": 158.04,
+    "endTime": 160.0,
+    "text": "faster than the other pair then the"
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 162.72,
+    "text": "robot yaws about the vertical axis so an"
+  },
+  {
+    "startTime": 162.72,
+    "endTime": 165.4,
+    "text": "onboard processor essentially looks at"
+  },
+  {
+    "startTime": 165.4,
+    "endTime": 167.48,
+    "text": "what motions need to be executed and"
+  },
+  {
+    "startTime": 167.48,
+    "endTime": 170.08,
+    "text": "combines these motions and figures out"
+  },
+  {
+    "startTime": 170.08,
+    "endTime": 172.84,
+    "text": "what commands to send to the motors 600"
+  },
+  {
+    "startTime": 172.84,
+    "endTime": 174.68,
+    "text": "times a second and that's basically how"
+  },
+  {
+    "startTime": 174.68,
+    "endTime": 176.879,
+    "text": "this thing operates so one of the"
+  },
+  {
+    "startTime": 176.879,
+    "endTime": 178.92,
+    "text": "advantages of this design is when you"
+  },
+  {
+    "startTime": 178.92,
+    "endTime": 181.0,
+    "text": "scale things down down the robot"
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 185.68,
+    "text": "naturally becomes agile so here R is the"
+  },
+  {
+    "startTime": 185.68,
+    "endTime": 187.519,
+    "text": "characteristic length of the robot it's"
+  },
+  {
+    "startTime": 187.519,
+    "endTime": 190.04,
+    "text": "actually half the diameter and there are"
+  },
+  {
+    "startTime": 190.04,
+    "endTime": 192.68,
+    "text": "lots of physical parameters that change"
+  },
+  {
+    "startTime": 192.68,
+    "endTime": 194.04,
+    "text": "as you reduce"
+  },
+  {
+    "startTime": 194.04,
+    "endTime": 197.08,
+    "text": "R the one that's the most important is"
+  },
+  {
+    "startTime": 197.08,
+    "endTime": 199.599,
+    "text": "the inertia or the resistance to motion"
+  },
+  {
+    "startTime": 199.599,
+    "endTime": 202.319,
+    "text": "so it turns out the inertia which"
+  },
+  {
+    "startTime": 202.319,
+    "endTime": 205.4,
+    "text": "governs angular motion scales as a fifth"
+  },
+  {
+    "startTime": 205.4,
+    "endTime": 208.959,
+    "text": "power of R so the smaller you make R the"
+  },
+  {
+    "startTime": 208.959,
+    "endTime": 211.04,
+    "text": "more dramatically the inertia"
+  },
+  {
+    "startTime": 211.04,
+    "endTime": 214.04,
+    "text": "reduces so as a result the angular"
+  },
+  {
+    "startTime": 214.04,
+    "endTime": 216.12,
+    "text": "acceleration denoted by Greek letter"
+  },
+  {
+    "startTime": 216.12,
+    "endTime": 218.879,
+    "text": "Alpha here goes as one over R it's"
+  },
+  {
+    "startTime": 218.879,
+    "endTime": 221.08,
+    "text": "inversely proportional to R the smaller"
+  },
+  {
+    "startTime": 221.08,
+    "endTime": 223.28,
+    "text": "you make it the more quickly you can"
+  },
+  {
+    "startTime": 223.28,
+    "endTime": 225.519,
+    "text": "turn so this should be clear in these"
+  },
+  {
+    "startTime": 225.519,
+    "endTime": 227.68,
+    "text": "videos on the bottom right you see a"
+  },
+  {
+    "startTime": 227.68,
+    "endTime": 231.12,
+    "text": "robot performing a 360° flip in less"
+  },
+  {
+    "startTime": 231.12,
+    "endTime": 234.04,
+    "text": "than half a second multiple flips a"
+  },
+  {
+    "startTime": 234.04,
+    "endTime": 235.439,
+    "text": "little more"
+  },
+  {
+    "startTime": 235.439,
+    "endTime": 238.439,
+    "text": "time so here the processes on board are"
+  },
+  {
+    "startTime": 238.439,
+    "endTime": 240.36,
+    "text": "getting feedback from acceler omers and"
+  },
+  {
+    "startTime": 240.36,
+    "endTime": 242.599,
+    "text": "Gyros on board and calculating like I"
+  },
+  {
+    "startTime": 242.599,
+    "endTime": 245.28,
+    "text": "said before commands at 600 times a"
+  },
+  {
+    "startTime": 245.28,
+    "endTime": 248.079,
+    "text": "second to stabilize this robot so on the"
+  },
+  {
+    "startTime": 248.079,
+    "endTime": 250.0,
+    "text": "left you see Daniel throwing this robot"
+  },
+  {
+    "startTime": 250.0,
+    "endTime": 251.84,
+    "text": "up into the air and it shows you how"
+  },
+  {
+    "startTime": 251.84,
+    "endTime": 253.76,
+    "text": "robust the control is no matter how you"
+  },
+  {
+    "startTime": 253.76,
+    "endTime": 256.479,
+    "text": "throw it the robot recovers and comes"
+  },
+  {
+    "startTime": 256.479,
+    "endTime": 257.919,
+    "text": "back to"
+  },
+  {
+    "startTime": 257.919,
+    "endTime": 261.44,
+    "text": "him so why build robots like this Well"
+  },
+  {
+    "startTime": 261.44,
+    "endTime": 263.28,
+    "text": "robots like this have many"
+  },
+  {
+    "startTime": 263.28,
+    "endTime": 265.44,
+    "text": "applications you can send them inside"
+  },
+  {
+    "startTime": 265.44,
+    "endTime": 268.8,
+    "text": "buildings like this as First Responders"
+  },
+  {
+    "startTime": 268.8,
+    "endTime": 271.96,
+    "text": "to look for in scers maybe look for"
+  },
+  {
+    "startTime": 271.96,
+    "endTime": 275.479,
+    "text": "biochemical leaks gaseous leaks you can"
+  },
+  {
+    "startTime": 275.479,
+    "endTime": 278.199,
+    "text": "also use them for applications like"
+  },
+  {
+    "startTime": 278.199,
+    "endTime": 280.32,
+    "text": "construction so here our robots are"
+  },
+  {
+    "startTime": 280.32,
+    "endTime": 284.36,
+    "text": "carrying beam columns and assembling"
+  },
+  {
+    "startTime": 284.36,
+    "endTime": 285.88,
+    "text": "Cube like structures I'll tell you a"
+  },
+  {
+    "startTime": 285.88,
+    "endTime": 287.68,
+    "text": "little bit more about"
+  },
+  {
+    "startTime": 287.68,
+    "endTime": 289.8,
+    "text": "this the robots can be used for"
+  },
+  {
+    "startTime": 289.8,
+    "endTime": 292.199,
+    "text": "transporting cargo so one of the"
+  },
+  {
+    "startTime": 292.199,
+    "endTime": 294.88,
+    "text": "problems with these small robots is"
+  },
+  {
+    "startTime": 294.88,
+    "endTime": 297.08,
+    "text": "their payload carrying capacity so you"
+  },
+  {
+    "startTime": 297.08,
+    "endTime": 298.96,
+    "text": "might want to have multiple robots carry"
+  },
+  {
+    "startTime": 298.96,
+    "endTime": 300.84,
+    "text": "payloads"
+  },
+  {
+    "startTime": 300.84,
+    "endTime": 302.68,
+    "text": "this is a picture of a recent experiment"
+  },
+  {
+    "startTime": 302.68,
+    "endTime": 304.919,
+    "text": "we did actually not so recent anymore in"
+  },
+  {
+    "startTime": 304.919,
+    "endTime": 308.16,
+    "text": "Sendai shortly after the earthquake so"
+  },
+  {
+    "startTime": 308.16,
+    "endTime": 310.16,
+    "text": "robots like this could be sent into"
+  },
+  {
+    "startTime": 310.16,
+    "endTime": 312.24,
+    "text": "collapsed buildings to assess the damage"
+  },
+  {
+    "startTime": 312.24,
+    "endTime": 314.88,
+    "text": "after natural disasters or sent into"
+  },
+  {
+    "startTime": 314.88,
+    "endTime": 318.68,
+    "text": "reactor buildings to map radiation"
+  },
+  {
+    "startTime": 318.68,
+    "endTime": 322.039,
+    "text": "levels so one fundamental problem that"
+  },
+  {
+    "startTime": 322.039,
+    "endTime": 323.759,
+    "text": "the robots have to solve if they are to"
+  },
+  {
+    "startTime": 323.759,
+    "endTime": 326.12,
+    "text": "be autonomous is essentially figure out"
+  },
+  {
+    "startTime": 326.12,
+    "endTime": 329.12,
+    "text": "how to get from point A to point B so"
+  },
+  {
+    "startTime": 329.12,
+    "endTime": 330.919,
+    "text": "this gets a little challenging because"
+  },
+  {
+    "startTime": 330.919,
+    "endTime": 333.12,
+    "text": "the Dynamics of this robot are quite"
+  },
+  {
+    "startTime": 333.12,
+    "endTime": 334.72,
+    "text": "complicated in fact they live in a"
+  },
+  {
+    "startTime": 334.72,
+    "endTime": 337.52,
+    "text": "12-dimensional space so we use a little"
+  },
+  {
+    "startTime": 337.52,
+    "endTime": 340.56,
+    "text": "trick we take this curved 12-dimensional"
+  },
+  {
+    "startTime": 340.56,
+    "endTime": 344.28,
+    "text": "space and transform it into a flat"
+  },
+  {
+    "startTime": 344.28,
+    "endTime": 345.68,
+    "text": "four-dimensional space and that"
+  },
+  {
+    "startTime": 345.68,
+    "endTime": 348.52,
+    "text": "four-dimensional space consists of XYZ"
+  },
+  {
+    "startTime": 348.52,
+    "endTime": 350.56,
+    "text": "and then the Y angle and so what the"
+  },
+  {
+    "startTime": 350.56,
+    "endTime": 353.6,
+    "text": "robot does is it plans what we call a"
+  },
+  {
+    "startTime": 353.6,
+    "endTime": 355.199,
+    "text": "minimum snap"
+  },
+  {
+    "startTime": 355.199,
+    "endTime": 357.6,
+    "text": "trajectory so to remind you of physics"
+  },
+  {
+    "startTime": 357.6,
+    "endTime": 359.88,
+    "text": "you have position derivative velocity"
+  },
+  {
+    "startTime": 359.88,
+    "endTime": 360.72,
+    "text": "then"
+  },
+  {
+    "startTime": 360.72,
+    "endTime": 364.0,
+    "text": "acceleration and then comes jerk and"
+  },
+  {
+    "startTime": 364.0,
+    "endTime": 367.84,
+    "text": "then comes snap so this robot minimizes"
+  },
+  {
+    "startTime": 367.84,
+    "endTime": 370.44,
+    "text": "snap so what that effectively does is"
+  },
+  {
+    "startTime": 370.44,
+    "endTime": 373.039,
+    "text": "produces a smooth and graceful motion"
+  },
+  {
+    "startTime": 373.039,
+    "endTime": 376.52,
+    "text": "and it does that avoiding obstacles so"
+  },
+  {
+    "startTime": 376.52,
+    "endTime": 378.28,
+    "text": "these minimum snap trajectories in this"
+  },
+  {
+    "startTime": 378.28,
+    "endTime": 380.919,
+    "text": "flat space are then transformed back"
+  },
+  {
+    "startTime": 380.919,
+    "endTime": 382.319,
+    "text": "into this complicated 12-dimensional"
+  },
+  {
+    "startTime": 382.319,
+    "endTime": 384.56,
+    "text": "space which the robot must do for"
+  },
+  {
+    "startTime": 384.56,
+    "endTime": 385.84,
+    "text": "control and then"
+  },
+  {
+    "startTime": 385.84,
+    "endTime": 387.84,
+    "text": "execution so let me show you some"
+  },
+  {
+    "startTime": 387.84,
+    "endTime": 389.639,
+    "text": "examples of what these minimum snap"
+  },
+  {
+    "startTime": 389.639,
+    "endTime": 392.0,
+    "text": "trajectories look like and in the first"
+  },
+  {
+    "startTime": 392.0,
+    "endTime": 393.72,
+    "text": "video you'll see the robot going from"
+  },
+  {
+    "startTime": 393.72,
+    "endTime": 395.4,
+    "text": "point A to point B through an"
+  },
+  {
+    "startTime": 395.4,
+    "endTime": 398.039,
+    "text": "intermediate"
+  },
+  {
+    "startTime": 402.36,
+    "endTime": 404.96,
+    "text": "point so the robot is obviously capable"
+  },
+  {
+    "startTime": 404.96,
+    "endTime": 407.199,
+    "text": "of executing any curved trajectory so"
+  },
+  {
+    "startTime": 407.199,
+    "endTime": 408.639,
+    "text": "these are circular trajectories where"
+  },
+  {
+    "startTime": 408.639,
+    "endTime": 411.96,
+    "text": "the robot pulls about 2"
+  },
+  {
+    "startTime": 411.96,
+    "endTime": 414.96,
+    "text": "G's here you have overhead motion"
+  },
+  {
+    "startTime": 414.96,
+    "endTime": 417.24,
+    "text": "capture cameras on the top that tell the"
+  },
+  {
+    "startTime": 417.24,
+    "endTime": 419.44,
+    "text": "robot where it is 100 times a second"
+  },
+  {
+    "startTime": 419.44,
+    "endTime": 421.12,
+    "text": "second it also tells the robot where"
+  },
+  {
+    "startTime": 421.12,
+    "endTime": 424.08,
+    "text": "these obstacles are and the obstacles"
+  },
+  {
+    "startTime": 424.08,
+    "endTime": 425.919,
+    "text": "can be moving and here you'll see Daniel"
+  },
+  {
+    "startTime": 425.919,
+    "endTime": 428.24,
+    "text": "throw this hoop into the air well the"
+  },
+  {
+    "startTime": 428.24,
+    "endTime": 429.96,
+    "text": "robot is calculating the position of the"
+  },
+  {
+    "startTime": 429.96,
+    "endTime": 431.72,
+    "text": "hoop and trying to figure out how to"
+  },
+  {
+    "startTime": 431.72,
+    "endTime": 434.52,
+    "text": "best go through the hoop so as an"
+  },
+  {
+    "startTime": 434.52,
+    "endTime": 436.56,
+    "text": "academic we're always trained to be able"
+  },
+  {
+    "startTime": 436.56,
+    "endTime": 438.08,
+    "text": "to jump through hoops to raise funding"
+  },
+  {
+    "startTime": 438.08,
+    "endTime": 442.4,
+    "text": "for our labs and we get our robots to do"
+  },
+  {
+    "startTime": 447.52,
+    "endTime": 450.24,
+    "text": "that so another thing the robot can do"
+  },
+  {
+    "startTime": 450.24,
+    "endTime": 452.44,
+    "text": "is it remembers pieces of trajectory"
+  },
+  {
+    "startTime": 452.44,
+    "endTime": 455.8,
+    "text": "that it learns or is pre-programmed so"
+  },
+  {
+    "startTime": 455.8,
+    "endTime": 458.16,
+    "text": "here you see the robot combining a"
+  },
+  {
+    "startTime": 458.16,
+    "endTime": 460.599,
+    "text": "motion that builds up momentum and then"
+  },
+  {
+    "startTime": 460.599,
+    "endTime": 463.0,
+    "text": "changes its orientation and then"
+  },
+  {
+    "startTime": 463.0,
+    "endTime": 465.56,
+    "text": "recovers so it has to do this because"
+  },
+  {
+    "startTime": 465.56,
+    "endTime": 468.08,
+    "text": "this Gap in the window is only slightly"
+  },
+  {
+    "startTime": 468.08,
+    "endTime": 471.28,
+    "text": "larger than the width of the robot so"
+  },
+  {
+    "startTime": 471.28,
+    "endTime": 473.36,
+    "text": "just like a diver stands on a"
+  },
+  {
+    "startTime": 473.36,
+    "endTime": 475.159,
+    "text": "springboard and then jumps off it to"
+  },
+  {
+    "startTime": 475.159,
+    "endTime": 477.759,
+    "text": "gain momentum and then does this pouette"
+  },
+  {
+    "startTime": 477.759,
+    "endTime": 479.599,
+    "text": "this 2 and a half somol to and and then"
+  },
+  {
+    "startTime": 479.599,
+    "endTime": 481.52,
+    "text": "gracefully recovers this robot is"
+  },
+  {
+    "startTime": 481.52,
+    "endTime": 483.319,
+    "text": "basically doing that so it knows how to"
+  },
+  {
+    "startTime": 483.319,
+    "endTime": 484.8,
+    "text": "combine little bits and pieces of"
+  },
+  {
+    "startTime": 484.8,
+    "endTime": 487.599,
+    "text": "trajectories to do these fairly"
+  },
+  {
+    "startTime": 487.599,
+    "endTime": 489.039,
+    "text": "difficult"
+  },
+  {
+    "startTime": 489.039,
+    "endTime": 491.84,
+    "text": "tasks so I want to change gears so one"
+  },
+  {
+    "startTime": 491.84,
+    "endTime": 493.44,
+    "text": "of the disadvantages with these small"
+  },
+  {
+    "startTime": 493.44,
+    "endTime": 496.479,
+    "text": "robots is its size and I told you"
+  },
+  {
+    "startTime": 496.479,
+    "endTime": 498.199,
+    "text": "earlier that we may want to employ lots"
+  },
+  {
+    "startTime": 498.199,
+    "endTime": 499.919,
+    "text": "and lots of robots to overcome the"
+  },
+  {
+    "startTime": 499.919,
+    "endTime": 504.039,
+    "text": "limitations of size so one difficulty is"
+  },
+  {
+    "startTime": 504.039,
+    "endTime": 505.639,
+    "text": "how do you coordinate lots of these"
+  },
+  {
+    "startTime": 505.639,
+    "endTime": 508.72,
+    "text": "robots and so here we look to Nature so"
+  },
+  {
+    "startTime": 508.72,
+    "endTime": 512.159,
+    "text": "I want to show you a clip of phaster"
+  },
+  {
+    "startTime": 512.159,
+    "endTime": 514.76,
+    "text": "desert ants in Professor Steven Pratt's"
+  },
+  {
+    "startTime": 514.76,
+    "endTime": 517.0,
+    "text": "lab carrying an object so this is"
+  },
+  {
+    "startTime": 517.0,
+    "endTime": 518.44,
+    "text": "actually a piece of fig actually you"
+  },
+  {
+    "startTime": 518.44,
+    "endTime": 520.32,
+    "text": "take any object coated with fig juice"
+  },
+  {
+    "startTime": 520.32,
+    "endTime": 521.919,
+    "text": "and the Ants will carry them back to the"
+  },
+  {
+    "startTime": 521.919,
+    "endTime": 524.88,
+    "text": "nest so these ants don't have any"
+  },
+  {
+    "startTime": 524.88,
+    "endTime": 527.32,
+    "text": "Central coordinator they sense their"
+  },
+  {
+    "startTime": 527.32,
+    "endTime": 529.519,
+    "text": "neighbors there's no explicit"
+  },
+  {
+    "startTime": 529.519,
+    "endTime": 531.6,
+    "text": "communication but because they sense the"
+  },
+  {
+    "startTime": 531.6,
+    "endTime": 533.04,
+    "text": "neighbors and because they sense the"
+  },
+  {
+    "startTime": 533.04,
+    "endTime": 535.76,
+    "text": "object they have implicit coordination"
+  },
+  {
+    "startTime": 535.76,
+    "endTime": 538.56,
+    "text": "across the group so this is the kind of"
+  },
+  {
+    "startTime": 538.56,
+    "endTime": 541.68,
+    "text": "coordination we want our robots to have"
+  },
+  {
+    "startTime": 541.68,
+    "endTime": 545.16,
+    "text": "so when we have a robot which is"
+  },
+  {
+    "startTime": 545.16,
+    "endTime": 546.88,
+    "text": "surrounded by neighbors and let's look"
+  },
+  {
+    "startTime": 546.88,
+    "endTime": 549.48,
+    "text": "at robot I and robot J what we want the"
+  },
+  {
+    "startTime": 549.48,
+    "endTime": 551.16,
+    "text": "robots to do is to monitor the"
+  },
+  {
+    "startTime": 551.16,
+    "endTime": 553.519,
+    "text": "separation between them as they fly in"
+  },
+  {
+    "startTime": 553.519,
+    "endTime": 555.959,
+    "text": "formation and then you want to make sure"
+  },
+  {
+    "startTime": 555.959,
+    "endTime": 557.8,
+    "text": "that this separation is within"
+  },
+  {
+    "startTime": 557.8,
+    "endTime": 560.36,
+    "text": "acceptable levels so again the robots"
+  },
+  {
+    "startTime": 560.36,
+    "endTime": 563.36,
+    "text": "monitor this error and calculate the"
+  },
+  {
+    "startTime": 563.36,
+    "endTime": 566.079,
+    "text": "control commands 100 times a second"
+  },
+  {
+    "startTime": 566.079,
+    "endTime": 567.399,
+    "text": "which then translates into motor"
+  },
+  {
+    "startTime": 567.399,
+    "endTime": 570.24,
+    "text": "commands 600 times a second so this also"
+  },
+  {
+    "startTime": 570.24,
+    "endTime": 572.959,
+    "text": "has to be done in a decentralized way"
+  },
+  {
+    "startTime": 572.959,
+    "endTime": 574.8,
+    "text": "again if you have lots and lots of"
+  },
+  {
+    "startTime": 574.8,
+    "endTime": 576.6,
+    "text": "robots it's impossible to coordinate all"
+  },
+  {
+    "startTime": 576.6,
+    "endTime": 579.16,
+    "text": "this information centrally fast enough"
+  },
+  {
+    "startTime": 579.16,
+    "endTime": 580.839,
+    "text": "in order for the robots to accomplish"
+  },
+  {
+    "startTime": 580.839,
+    "endTime": 583.48,
+    "text": "the task plus the robots have to base"
+  },
+  {
+    "startTime": 583.48,
+    "endTime": 586.079,
+    "text": "their actions only on local information"
+  },
+  {
+    "startTime": 586.079,
+    "endTime": 588.44,
+    "text": "what they sense from their neighbors and"
+  },
+  {
+    "startTime": 588.44,
+    "endTime": 591.12,
+    "text": "then finally we insist that the robots"
+  },
+  {
+    "startTime": 591.12,
+    "endTime": 593.72,
+    "text": "be agnostic to who their neighbors are"
+  },
+  {
+    "startTime": 593.72,
+    "endTime": 596.279,
+    "text": "so this is what we call"
+  },
+  {
+    "startTime": 596.279,
+    "endTime": 598.36,
+    "text": "anonymity so what I want to show you"
+  },
+  {
+    "startTime": 598.36,
+    "endTime": 602.72,
+    "text": "next is a video of 20 of these little"
+  },
+  {
+    "startTime": 602.72,
+    "endTime": 605.24,
+    "text": "robots flying in"
+  },
+  {
+    "startTime": 605.24,
+    "endTime": 608.079,
+    "text": "formation they're monitoring their"
+  },
+  {
+    "startTime": 608.079,
+    "endTime": 610.16,
+    "text": "neighbors's position they're maintaining"
+  },
+  {
+    "startTime": 610.16,
+    "endTime": 613.04,
+    "text": "formation the formations can change they"
+  },
+  {
+    "startTime": 613.04,
+    "endTime": 614.88,
+    "text": "can be planar formations they can be"
+  },
+  {
+    "startTime": 614.88,
+    "endTime": 616.48,
+    "text": "thre dimensional"
+  },
+  {
+    "startTime": 616.48,
+    "endTime": 618.92,
+    "text": "formations as you can see here they"
+  },
+  {
+    "startTime": 618.92,
+    "endTime": 620.12,
+    "text": "collapse from a threedimensional"
+  },
+  {
+    "startTime": 620.12,
+    "endTime": 622.76,
+    "text": "formation into planar formation and to"
+  },
+  {
+    "startTime": 622.76,
+    "endTime": 625.0,
+    "text": "fly through obstacles they can adapt the"
+  },
+  {
+    "startTime": 625.0,
+    "endTime": 627.079,
+    "text": "formations in the on the"
+  },
+  {
+    "startTime": 627.079,
+    "endTime": 629.959,
+    "text": "fly so again these robots come really"
+  },
+  {
+    "startTime": 629.959,
+    "endTime": 631.56,
+    "text": "close together as you can see in this"
+  },
+  {
+    "startTime": 631.56,
+    "endTime": 633.76,
+    "text": "figure eight flight they come within"
+  },
+  {
+    "startTime": 633.76,
+    "endTime": 636.88,
+    "text": "inches of each other and despite the"
+  },
+  {
+    "startTime": 636.88,
+    "endTime": 638.68,
+    "text": "aerodynamic interactions with these"
+  },
+  {
+    "startTime": 638.68,
+    "endTime": 640.32,
+    "text": "propeller blades they're able to"
+  },
+  {
+    "startTime": 640.32,
+    "endTime": 643.16,
+    "text": "maintain stable"
+  },
+  {
+    "startTime": 648.24,
+    "endTime": 650.56,
+    "text": "flight so once you know how to fly in"
+  },
+  {
+    "startTime": 650.56,
+    "endTime": 652.12,
+    "text": "formation you can actually pick up"
+  },
+  {
+    "startTime": 652.12,
+    "endTime": 654.72,
+    "text": "objects cooperatively so this just shows"
+  },
+  {
+    "startTime": 654.72,
+    "endTime": 658.36,
+    "text": "that we can double triple quadruple the"
+  },
+  {
+    "startTime": 658.36,
+    "endTime": 660.0,
+    "text": "robot strength by just getting them to"
+  },
+  {
+    "startTime": 660.0,
+    "endTime": 662.399,
+    "text": "team with neighbors as you can see here"
+  },
+  {
+    "startTime": 662.399,
+    "endTime": 664.8,
+    "text": "one of the disadvantages of doing that"
+  },
+  {
+    "startTime": 664.8,
+    "endTime": 667.079,
+    "text": "is as you scale things up so if you have"
+  },
+  {
+    "startTime": 667.079,
+    "endTime": 668.8,
+    "text": "lots of robots carrying the same thing"
+  },
+  {
+    "startTime": 668.8,
+    "endTime": 670.36,
+    "text": "you're essentially effectively"
+  },
+  {
+    "startTime": 670.36,
+    "endTime": 672.6,
+    "text": "increasing the inertia and therefore you"
+  },
+  {
+    "startTime": 672.6,
+    "endTime": 675.32,
+    "text": "pay a price they're not as agile but you"
+  },
+  {
+    "startTime": 675.32,
+    "endTime": 677.279,
+    "text": "do gain in terms of payload carrying"
+  },
+  {
+    "startTime": 677.279,
+    "endTime": 679.44,
+    "text": "capacity another application I want to"
+  },
+  {
+    "startTime": 679.44,
+    "endTime": 681.279,
+    "text": "show you again this is in our lab this"
+  },
+  {
+    "startTime": 681.279,
+    "endTime": 683.36,
+    "text": "is work done by Quinton lindsy who's a"
+  },
+  {
+    "startTime": 683.36,
+    "endTime": 685.68,
+    "text": "graduate student so his algorithm"
+  },
+  {
+    "startTime": 685.68,
+    "endTime": 687.839,
+    "text": "essentially tells these robots how to"
+  },
+  {
+    "startTime": 687.839,
+    "endTime": 689.76,
+    "text": "autonomously build"
+  },
+  {
+    "startTime": 689.76,
+    "endTime": 693.48,
+    "text": "cubic structures from trust likee"
+  },
+  {
+    "startTime": 693.48,
+    "endTime": 696.76,
+    "text": "elements so his algorithm tells a robot"
+  },
+  {
+    "startTime": 696.76,
+    "endTime": 699.56,
+    "text": "what part to pick up when and where to"
+  },
+  {
+    "startTime": 699.56,
+    "endTime": 701.839,
+    "text": "place it so in this video you see and"
+  },
+  {
+    "startTime": 701.839,
+    "endTime": 705.12,
+    "text": "it's sped up 10 14 times you see three"
+  },
+  {
+    "startTime": 705.12,
+    "endTime": 706.68,
+    "text": "different structures being built by"
+  },
+  {
+    "startTime": 706.68,
+    "endTime": 708.32,
+    "text": "these robots and again everything is"
+  },
+  {
+    "startTime": 708.32,
+    "endTime": 710.48,
+    "text": "autonomous and all Quenton has to do is"
+  },
+  {
+    "startTime": 710.48,
+    "endTime": 713.079,
+    "text": "to give them a blueprint of the design"
+  },
+  {
+    "startTime": 713.079,
+    "endTime": 715.72,
+    "text": "that he wants to"
+  },
+  {
+    "startTime": 716.079,
+    "endTime": 719.16,
+    "text": "build so all these experiments you've"
+  },
+  {
+    "startTime": 719.16,
+    "endTime": 721.2,
+    "text": "seen thus far all these demonstrations"
+  },
+  {
+    "startTime": 721.2,
+    "endTime": 723.2,
+    "text": "have been done with the help of motion"
+  },
+  {
+    "startTime": 723.2,
+    "endTime": 724.12,
+    "text": "capture"
+  },
+  {
+    "startTime": 724.12,
+    "endTime": 727.04,
+    "text": "systems so what happens when you leave"
+  },
+  {
+    "startTime": 727.04,
+    "endTime": 728.76,
+    "text": "your lab and you go outside into the"
+  },
+  {
+    "startTime": 728.76,
+    "endTime": 731.839,
+    "text": "real world and what if there's no"
+  },
+  {
+    "startTime": 731.839,
+    "endTime": 735.32,
+    "text": "GPS so this robot is actually equipped"
+  },
+  {
+    "startTime": 735.32,
+    "endTime": 738.519,
+    "text": "with a camera and a laser range finder"
+  },
+  {
+    "startTime": 738.519,
+    "endTime": 742.0,
+    "text": "laser scanner and it uses these sensors"
+  },
+  {
+    "startTime": 742.0,
+    "endTime": 744.519,
+    "text": "to build a map of the environment what"
+  },
+  {
+    "startTime": 744.519,
+    "endTime": 747.88,
+    "text": "that map consists of are features like"
+  },
+  {
+    "startTime": 747.88,
+    "endTime": 751.72,
+    "text": "doorways Windows people furniture and it"
+  },
+  {
+    "startTime": 751.72,
+    "endTime": 753.48,
+    "text": "then figures out where its position is"
+  },
+  {
+    "startTime": 753.48,
+    "endTime": 755.079,
+    "text": "with respect to the features so there is"
+  },
+  {
+    "startTime": 755.079,
+    "endTime": 757.279,
+    "text": "no Global coordinate system the"
+  },
+  {
+    "startTime": 757.279,
+    "endTime": 759.12,
+    "text": "coordinate system is defined based on"
+  },
+  {
+    "startTime": 759.12,
+    "endTime": 760.8,
+    "text": "the robot where it is and what it's"
+  },
+  {
+    "startTime": 760.8,
+    "endTime": 761.639,
+    "text": "looking"
+  },
+  {
+    "startTime": 761.639,
+    "endTime": 764.48,
+    "text": "at and it navigates with respect to"
+  },
+  {
+    "startTime": 764.48,
+    "endTime": 765.32,
+    "text": "those"
+  },
+  {
+    "startTime": 765.32,
+    "endTime": 767.88,
+    "text": "features so I want to show you a clip of"
+  },
+  {
+    "startTime": 767.88,
+    "endTime": 770.279,
+    "text": "algorithms developed by Frank Shen and"
+  },
+  {
+    "startTime": 770.279,
+    "endTime": 772.56,
+    "text": "Professor Nathan Michael that shows this"
+  },
+  {
+    "startTime": 772.56,
+    "endTime": 774.68,
+    "text": "robot entering a building for the very"
+  },
+  {
+    "startTime": 774.68,
+    "endTime": 777.56,
+    "text": "first time and creating this map on the"
+  },
+  {
+    "startTime": 777.56,
+    "endTime": 781.079,
+    "text": "fly so the robot then figures out what"
+  },
+  {
+    "startTime": 781.079,
+    "endTime": 782.8,
+    "text": "the features are it builds the map it"
+  },
+  {
+    "startTime": 782.8,
+    "endTime": 785.0,
+    "text": "figures out where it is with respect to"
+  },
+  {
+    "startTime": 785.0,
+    "endTime": 787.72,
+    "text": "the features and then estimates this"
+  },
+  {
+    "startTime": 787.72,
+    "endTime": 790.639,
+    "text": "position 100 times a second allowing us"
+  },
+  {
+    "startTime": 790.639,
+    "endTime": 792.24,
+    "text": "to use the control algorithms that I"
+  },
+  {
+    "startTime": 792.24,
+    "endTime": 794.6,
+    "text": "described to you earlier so this robot"
+  },
+  {
+    "startTime": 794.6,
+    "endTime": 797.36,
+    "text": "is actually being commanded remotely by"
+  },
+  {
+    "startTime": 797.36,
+    "endTime": 800.16,
+    "text": "Frank but the robot can also figure out"
+  },
+  {
+    "startTime": 800.16,
+    "endTime": 803.04,
+    "text": "where to go on its own so suppose I were"
+  },
+  {
+    "startTime": 803.04,
+    "endTime": 804.639,
+    "text": "to send this into a building and I had"
+  },
+  {
+    "startTime": 804.639,
+    "endTime": 806.519,
+    "text": "no idea what this building looked like I"
+  },
+  {
+    "startTime": 806.519,
+    "endTime": 809.199,
+    "text": "can ask this robot to go in create a map"
+  },
+  {
+    "startTime": 809.199,
+    "endTime": 811.399,
+    "text": "app and then come back and tell me what"
+  },
+  {
+    "startTime": 811.399,
+    "endTime": 814.199,
+    "text": "the building looks like so here the"
+  },
+  {
+    "startTime": 814.199,
+    "endTime": 816.24,
+    "text": "robot is not only solving the problem"
+  },
+  {
+    "startTime": 816.24,
+    "endTime": 817.959,
+    "text": "how to go from point A to point B in"
+  },
+  {
+    "startTime": 817.959,
+    "endTime": 821.04,
+    "text": "this map but it's figuring out what the"
+  },
+  {
+    "startTime": 821.04,
+    "endTime": 823.48,
+    "text": "best point B is at every time so"
+  },
+  {
+    "startTime": 823.48,
+    "endTime": 825.639,
+    "text": "essentially it knows where to go to look"
+  },
+  {
+    "startTime": 825.639,
+    "endTime": 827.6,
+    "text": "for places that have the least"
+  },
+  {
+    "startTime": 827.6,
+    "endTime": 829.44,
+    "text": "information and that's how it populates"
+  },
+  {
+    "startTime": 829.44,
+    "endTime": 832.68,
+    "text": "this map so I want to leave you with one"
+  },
+  {
+    "startTime": 832.68,
+    "endTime": 834.04,
+    "text": "last"
+  },
+  {
+    "startTime": 834.04,
+    "endTime": 835.72,
+    "text": "application and there are many"
+  },
+  {
+    "startTime": 835.72,
+    "endTime": 838.24,
+    "text": "applications of this technology I'm a"
+  },
+  {
+    "startTime": 838.24,
+    "endTime": 839.6,
+    "text": "professor we're passionate about"
+  },
+  {
+    "startTime": 839.6,
+    "endTime": 841.36,
+    "text": "education robots like this can really"
+  },
+  {
+    "startTime": 841.36,
+    "endTime": 843.48,
+    "text": "change the way we do K through2"
+  },
+  {
+    "startTime": 843.48,
+    "endTime": 845.44,
+    "text": "education but we're in Southern"
+  },
+  {
+    "startTime": 845.44,
+    "endTime": 848.44,
+    "text": "California close to Los Angeles so I"
+  },
+  {
+    "startTime": 848.44,
+    "endTime": 850.199,
+    "text": "have to conclude with something focused"
+  },
+  {
+    "startTime": 850.199,
+    "endTime": 851.48,
+    "text": "on"
+  },
+  {
+    "startTime": 851.48,
+    "endTime": 853.399,
+    "text": "entertainment I want to conclude with a"
+  },
+  {
+    "startTime": 853.399,
+    "endTime": 855.12,
+    "text": "music video I want to introduce the"
+  },
+  {
+    "startTime": 855.12,
+    "endTime": 857.839,
+    "text": "creators Alex and Daniel who created"
+  },
+  {
+    "startTime": 857.839,
+    "endTime": 860.04,
+    "text": "this"
+  },
+  {
+    "startTime": 864.92,
+    "endTime": 867.48,
+    "text": "video so before I play this video I want"
+  },
+  {
+    "startTime": 867.48,
+    "endTime": 869.04,
+    "text": "to tell you that they created it in the"
+  },
+  {
+    "startTime": 869.04,
+    "endTime": 871.88,
+    "text": "last 3 days after getting a call from"
+  },
+  {
+    "startTime": 871.88,
+    "endTime": 875.0,
+    "text": "Chris and the robots that play the video"
+  },
+  {
+    "startTime": 875.0,
+    "endTime": 877.199,
+    "text": "are completely autonomous you will see"
+  },
+  {
+    "startTime": 877.199,
+    "endTime": 879.839,
+    "text": "nine robots play six different"
+  },
+  {
+    "startTime": 879.839,
+    "endTime": 881.759,
+    "text": "instruments and of course it's made"
+  },
+  {
+    "startTime": 881.759,
+    "endTime": 883.639,
+    "text": "exclusively for Ted"
+  },
+  {
+    "startTime": 883.639,
+    "endTime": 886.959,
+    "text": "2012 let's"
+  },
+  {
+    "startTime": 893.55,
+    "endTime": 897.68,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 897.68,
+    "endTime": 900.68,
+    "text": "watch"
+  },
+  {
+    "startTime": 903.84,
+    "endTime": 910.07,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 919.67,
+    "endTime": 927.6,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 927.6,
+    "endTime": 930.6,
+    "text": "a"
+  },
+  {
+    "startTime": 938.04,
+    "endTime": 957.6,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 957.6,
+    "endTime": 959.37,
+    "text": "a"
+  },
+  {
+    "startTime": 959.37,
+    "endTime": 981.949,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 987.519,
+    "endTime": 990.519,
+    "text": "a"
+  },
+  {
+    "startTime": 991.0,
+    "endTime": 994.279,
+    "text": "W thank"
+  },
+  {
+    "startTime": 1005.68,
+    "endTime": 1008.68,
+    "text": "you"
+  }
+]
