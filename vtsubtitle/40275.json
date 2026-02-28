@@ -1,0 +1,962 @@
+[
+  {
+    "startTime": 12.838,
+    "endTime": 15.044999999999998,
+    "text": "Cancer affects all of us --"
+  },
+  {
+    "startTime": 15.045,
+    "endTime": 18.436,
+    "text": "especially the ones that come back over and over again,"
+  },
+  {
+    "startTime": 18.436,
+    "endTime": 21.456,
+    "text": "the highly invasive and drug-resistant ones,"
+  },
+  {
+    "startTime": 21.456,
+    "endTime": 23.858999999999998,
+    "text": "the ones that defy medical treatment,"
+  },
+  {
+    "startTime": 23.859,
+    "endTime": 27.247,
+    "text": "even when we throw our best drugs at them."
+  },
+  {
+    "startTime": 27.247,
+    "endTime": 30.191,
+    "text": "Engineering at the molecular level,"
+  },
+  {
+    "startTime": 30.191,
+    "endTime": 32.863,
+    "text": "working at the smallest of scales,"
+  },
+  {
+    "startTime": 32.863,
+    "endTime": 35.41,
+    "text": "can provide exciting new ways"
+  },
+  {
+    "startTime": 35.41,
+    "endTime": 39.26,
+    "text": "to fight the most aggressive forms of cancer."
+  },
+  {
+    "startTime": 39.26,
+    "endTime": 42.346,
+    "text": "Cancer is a very clever disease."
+  },
+  {
+    "startTime": 42.346,
+    "endTime": 43.946999999999996,
+    "text": "There are some forms of cancer,"
+  },
+  {
+    "startTime": 43.947,
+    "endTime": 48.706,
+    "text": "which, fortunately, we've learned how to address relatively well"
+  },
+  {
+    "startTime": 48.706,
+    "endTime": 52.627,
+    "text": "with known and established drugs and surgery."
+  },
+  {
+    "startTime": 52.627,
+    "endTime": 54.628,
+    "text": "But there are some forms of cancer"
+  },
+  {
+    "startTime": 54.628,
+    "endTime": 56.884,
+    "text": "that don't respond to these approaches,"
+  },
+  {
+    "startTime": 56.884,
+    "endTime": 59.536,
+    "text": "and the tumor survives or comes back,"
+  },
+  {
+    "startTime": 59.536,
+    "endTime": 62.053000000000004,
+    "text": "even after an onslaught of drugs."
+  },
+  {
+    "startTime": 62.053,
+    "endTime": 66.071,
+    "text": "We can think of these very aggressive forms of cancer"
+  },
+  {
+    "startTime": 66.071,
+    "endTime": 69.455,
+    "text": "as kind of supervillains in a comic book."
+  },
+  {
+    "startTime": 69.455,
+    "endTime": 72.184,
+    "text": "They're clever, they're adaptable,"
+  },
+  {
+    "startTime": 72.184,
+    "endTime": 75.744,
+    "text": "and they're very good at staying alive."
+  },
+  {
+    "startTime": 75.744,
+    "endTime": 78.996,
+    "text": "And, like most supervillains these days,"
+  },
+  {
+    "startTime": 78.996,
+    "endTime": 84.74,
+    "text": "their superpowers come from a genetic mutation."
+  },
+  {
+    "startTime": 84.74,
+    "endTime": 87.70599999999999,
+    "text": "The genes that are modified inside these tumor cells"
+  },
+  {
+    "startTime": 87.706,
+    "endTime": 92.997,
+    "text": "can enable and encode for new and unimagined modes of survival,"
+  },
+  {
+    "startTime": 92.997,
+    "endTime": 95.496,
+    "text": "allowing the cancer cell to live through"
+  },
+  {
+    "startTime": 95.496,
+    "endTime": 98.789,
+    "text": "even our best chemotherapy treatments."
+  },
+  {
+    "startTime": 98.789,
+    "endTime": 103.32000000000001,
+    "text": "One example is a trick in which a gene allows a cell,"
+  },
+  {
+    "startTime": 103.32,
+    "endTime": 106.38999999999999,
+    "text": "even as the drug approaches the cell,"
+  },
+  {
+    "startTime": 106.39,
+    "endTime": 109.85,
+    "text": "to push the drug out,"
+  },
+  {
+    "startTime": 109.85,
+    "endTime": 112.047,
+    "text": "before the drug can have any effect."
+  },
+  {
+    "startTime": 112.047,
+    "endTime": 116.393,
+    "text": "Imagine -- the cell effectively spits out the drug."
+  },
+  {
+    "startTime": 116.393,
+    "endTime": 119.347,
+    "text": "This is just one example of the many genetic tricks"
+  },
+  {
+    "startTime": 119.347,
+    "endTime": 121.97099999999999,
+    "text": "in the bag of our supervillain, cancer."
+  },
+  {
+    "startTime": 121.971,
+    "endTime": 124.717,
+    "text": "All due to mutant genes."
+  },
+  {
+    "startTime": 124.717,
+    "endTime": 129.462,
+    "text": "So, we have a supervillain with incredible superpowers."
+  },
+  {
+    "startTime": 129.462,
+    "endTime": 133.70399999999998,
+    "text": "And we need a new and powerful mode of attack."
+  },
+  {
+    "startTime": 133.704,
+    "endTime": 137.328,
+    "text": "Actually, we can turn off a gene."
+  },
+  {
+    "startTime": 137.328,
+    "endTime": 141.143,
+    "text": "The key is a set of molecules known as siRNA."
+  },
+  {
+    "startTime": 141.143,
+    "endTime": 145.25300000000001,
+    "text": "siRNA are short sequences of genetic code"
+  },
+  {
+    "startTime": 145.253,
+    "endTime": 148.982,
+    "text": "that guide a cell to block a certain gene."
+  },
+  {
+    "startTime": 148.982,
+    "endTime": 152.581,
+    "text": "Each siRNA molecule can turn off a specific gene"
+  },
+  {
+    "startTime": 152.581,
+    "endTime": 155.292,
+    "text": "inside the cell."
+  },
+  {
+    "startTime": 155.292,
+    "endTime": 157.337,
+    "text": "For many years since its discovery,"
+  },
+  {
+    "startTime": 157.337,
+    "endTime": 159.31099999999998,
+    "text": "scientists have been very excited"
+  },
+  {
+    "startTime": 159.311,
+    "endTime": 163.216,
+    "text": "about how we can apply these gene blockers in medicine."
+  },
+  {
+    "startTime": 163.216,
+    "endTime": 164.958,
+    "text": "But, there is a problem."
+  },
+  {
+    "startTime": 164.958,
+    "endTime": 167.85399999999998,
+    "text": "siRNA works well inside the cell."
+  },
+  {
+    "startTime": 167.854,
+    "endTime": 170.872,
+    "text": "But if it gets exposed to the enzymes"
+  },
+  {
+    "startTime": 170.872,
+    "endTime": 173.39600000000002,
+    "text": "that reside in our bloodstream or our tissues,"
+  },
+  {
+    "startTime": 173.396,
+    "endTime": 175.76899999999998,
+    "text": "it degrades within seconds."
+  },
+  {
+    "startTime": 175.769,
+    "endTime": 180.109,
+    "text": "It has to be packaged, protected through its journey through the body"
+  },
+  {
+    "startTime": 180.109,
+    "endTime": 183.74,
+    "text": "on its way to the final target inside the cancer cell."
+  },
+  {
+    "startTime": 183.74,
+    "endTime": 186.46800000000002,
+    "text": "So, here's our strategy."
+  },
+  {
+    "startTime": 186.468,
+    "endTime": 190.295,
+    "text": "First, we'll dose the cancer cell with siRNA, the gene blocker,"
+  },
+  {
+    "startTime": 190.295,
+    "endTime": 191.915,
+    "text": "and silence those survival genes,"
+  },
+  {
+    "startTime": 191.915,
+    "endTime": 194.501,
+    "text": "and then we'll whop it with a chemo drug."
+  },
+  {
+    "startTime": 194.501,
+    "endTime": 196.764,
+    "text": "But how do we carry that out?"
+  },
+  {
+    "startTime": 196.764,
+    "endTime": 199.705,
+    "text": "Using molecular engineering,"
+  },
+  {
+    "startTime": 199.705,
+    "endTime": 203.64800000000002,
+    "text": "we can actually design a superweapon"
+  },
+  {
+    "startTime": 203.648,
+    "endTime": 205.923,
+    "text": "that can travel through the bloodstream."
+  },
+  {
+    "startTime": 205.923,
+    "endTime": 208.943,
+    "text": "It has to be tiny enough to get through the bloodstream,"
+  },
+  {
+    "startTime": 208.943,
+    "endTime": 212.36800000000002,
+    "text": "it's got to be small enough to penetrate the tumor tissue,"
+  },
+  {
+    "startTime": 212.368,
+    "endTime": 217.049,
+    "text": "and it's got to be tiny enough to be taken up inside the cancer cell."
+  },
+  {
+    "startTime": 217.049,
+    "endTime": 218.675,
+    "text": "To do this job well,"
+  },
+  {
+    "startTime": 218.675,
+    "endTime": 224.22400000000002,
+    "text": "it has to be about one one-hundredth the size of a human hair."
+  },
+  {
+    "startTime": 224.224,
+    "endTime": 229.146,
+    "text": "Let's take a closer look at how we can build this nanoparticle."
+  },
+  {
+    "startTime": 229.146,
+    "endTime": 231.56699999999998,
+    "text": "First, let's start with the nanoparticle core."
+  },
+  {
+    "startTime": 231.567,
+    "endTime": 236.089,
+    "text": "It's a tiny capsule that contains the chemotherapy drug."
+  },
+  {
+    "startTime": 236.089,
+    "endTime": 240.152,
+    "text": "This is the poison that will actually end the tumor cell's life."
+  },
+  {
+    "startTime": 240.152,
+    "endTime": 243.96099999999998,
+    "text": "Around this core, we'll wrap a very thin,"
+  },
+  {
+    "startTime": 243.961,
+    "endTime": 246.818,
+    "text": "nanometers-thin blanket of siRNA."
+  },
+  {
+    "startTime": 246.818,
+    "endTime": 249.09300000000002,
+    "text": "This is our gene blocker."
+  },
+  {
+    "startTime": 249.093,
+    "endTime": 252.706,
+    "text": "Because siRNA is strongly negatively charged,"
+  },
+  {
+    "startTime": 252.706,
+    "endTime": 254.28699999999998,
+    "text": "we can protect it"
+  },
+  {
+    "startTime": 254.287,
+    "endTime": 259.503,
+    "text": "with a nice, protective layer of positively charged polymer."
+  },
+  {
+    "startTime": 259.503,
+    "endTime": 262.784,
+    "text": "The two oppositely charged molecules stick together"
+  },
+  {
+    "startTime": 262.784,
+    "endTime": 264.24399999999997,
+    "text": "through charge attraction,"
+  },
+  {
+    "startTime": 264.244,
+    "endTime": 266.40200000000004,
+    "text": "and that provides us with a protective layer"
+  },
+  {
+    "startTime": 266.402,
+    "endTime": 270.106,
+    "text": "that prevents the siRNA from degrading in the bloodstream."
+  },
+  {
+    "startTime": 270.106,
+    "endTime": 271.43,
+    "text": "We're almost done."
+  },
+  {
+    "startTime": 271.43,
+    "endTime": 272.914,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 272.914,
+    "endTime": 277.01599999999996,
+    "text": "But there is one more big obstacle we have to think about."
+  },
+  {
+    "startTime": 277.016,
+    "endTime": 279.432,
+    "text": "In fact, it may be the biggest obstacle of all."
+  },
+  {
+    "startTime": 279.432,
+    "endTime": 281.43,
+    "text": "How do we deploy this superweapon?"
+  },
+  {
+    "startTime": 281.43,
+    "endTime": 284.008,
+    "text": "I mean, every good weapon needs to be targeted,"
+  },
+  {
+    "startTime": 284.008,
+    "endTime": 288.097,
+    "text": "we have to target this superweapon to the supervillain cells"
+  },
+  {
+    "startTime": 288.097,
+    "endTime": 290.07099999999997,
+    "text": "that reside in the tumor."
+  },
+  {
+    "startTime": 290.071,
+    "endTime": 293.91600000000005,
+    "text": "But our bodies have a natural immune-defense system:"
+  },
+  {
+    "startTime": 293.916,
+    "endTime": 295.891,
+    "text": "cells that reside in the bloodstream"
+  },
+  {
+    "startTime": 295.891,
+    "endTime": 298.26000000000005,
+    "text": "and pick out things that don't belong,"
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.58299999999997,
+    "text": "so that it can destroy or eliminate them."
+  },
+  {
+    "startTime": 300.583,
+    "endTime": 305.718,
+    "text": "And guess what? Our nanoparticle is considered a foreign object."
+  },
+  {
+    "startTime": 305.718,
+    "endTime": 309.841,
+    "text": "We have to sneak our nanoparticle past the tumor defense system."
+  },
+  {
+    "startTime": 309.841,
+    "endTime": 316.119,
+    "text": "We have to get it past this mechanism of getting rid of the foreign object"
+  },
+  {
+    "startTime": 316.119,
+    "endTime": 317.56300000000005,
+    "text": "by disguising it."
+  },
+  {
+    "startTime": 317.563,
+    "endTime": 321.932,
+    "text": "So we add one more negatively charged layer"
+  },
+  {
+    "startTime": 321.932,
+    "endTime": 323.28000000000003,
+    "text": "around this nanoparticle,"
+  },
+  {
+    "startTime": 323.28,
+    "endTime": 325.14,
+    "text": "which serves two purposes."
+  },
+  {
+    "startTime": 325.14,
+    "endTime": 329.132,
+    "text": "First, this outer layer is one of the naturally charged,"
+  },
+  {
+    "startTime": 329.132,
+    "endTime": 333.456,
+    "text": "highly hydrated polysaccharides that resides in our body."
+  },
+  {
+    "startTime": 333.456,
+    "endTime": 338.31300000000005,
+    "text": "It creates a cloud of water molecules around the nanoparticle"
+  },
+  {
+    "startTime": 338.313,
+    "endTime": 342.257,
+    "text": "that gives us an invisibility cloaking effect."
+  },
+  {
+    "startTime": 342.257,
+    "endTime": 344.998,
+    "text": "This invisibility cloak allows the nanoparticle"
+  },
+  {
+    "startTime": 344.998,
+    "endTime": 346.628,
+    "text": "to travel through the bloodstream"
+  },
+  {
+    "startTime": 346.628,
+    "endTime": 349.417,
+    "text": "long and far enough to reach the tumor,"
+  },
+  {
+    "startTime": 349.417,
+    "endTime": 352.121,
+    "text": "without getting eliminated by the body."
+  },
+  {
+    "startTime": 352.121,
+    "endTime": 356.537,
+    "text": "Second, this layer contains molecules"
+  },
+  {
+    "startTime": 356.537,
+    "endTime": 360.19,
+    "text": "which bind specifically to our tumor cell."
+  },
+  {
+    "startTime": 360.19,
+    "endTime": 364.734,
+    "text": "Once bound, the cancer cell takes up the nanoparticle,"
+  },
+  {
+    "startTime": 364.734,
+    "endTime": 369.132,
+    "text": "and now we have our nanoparticle inside the cancer cell"
+  },
+  {
+    "startTime": 369.132,
+    "endTime": 371.30400000000003,
+    "text": "and ready to deploy."
+  },
+  {
+    "startTime": 371.304,
+    "endTime": 373.565,
+    "text": "Alright! I feel the same way. Let's go!"
+  },
+  {
+    "startTime": 373.565,
+    "endTime": 380.057,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 380.057,
+    "endTime": 384.28700000000003,
+    "text": "The siRNA is deployed first."
+  },
+  {
+    "startTime": 384.287,
+    "endTime": 385.93699999999995,
+    "text": "It acts for hours,"
+  },
+  {
+    "startTime": 385.937,
+    "endTime": 391.398,
+    "text": "giving enough time to silence and block those survival genes."
+  },
+  {
+    "startTime": 391.398,
+    "endTime": 395.725,
+    "text": "We have now disabled those genetic superpowers."
+  },
+  {
+    "startTime": 395.725,
+    "endTime": 398.978,
+    "text": "What remains is a cancer cell with no special defenses."
+  },
+  {
+    "startTime": 398.978,
+    "endTime": 401.904,
+    "text": "Then, the chemotherapy drug comes out of the core"
+  },
+  {
+    "startTime": 401.904,
+    "endTime": 406.228,
+    "text": "and destroys the tumor cell cleanly and efficiently."
+  },
+  {
+    "startTime": 406.228,
+    "endTime": 408.589,
+    "text": "With sufficient gene blockers,"
+  },
+  {
+    "startTime": 408.589,
+    "endTime": 411.823,
+    "text": "we can address many different kinds of mutations,"
+  },
+  {
+    "startTime": 411.823,
+    "endTime": 414.20799999999997,
+    "text": "allowing the chance to sweep out tumors,"
+  },
+  {
+    "startTime": 414.208,
+    "endTime": 416.81100000000004,
+    "text": "without leaving behind any bad guys."
+  },
+  {
+    "startTime": 416.811,
+    "endTime": 421.543,
+    "text": "So, how does our strategy work?"
+  },
+  {
+    "startTime": 421.543,
+    "endTime": 425.528,
+    "text": "We've tested these nanostructure particles in animals"
+  },
+  {
+    "startTime": 425.528,
+    "endTime": 429.13500000000005,
+    "text": "using a highly aggressive form of triple-negative breast cancer."
+  },
+  {
+    "startTime": 429.135,
+    "endTime": 431.714,
+    "text": "This triple-negative breast cancer exhibits the gene"
+  },
+  {
+    "startTime": 431.714,
+    "endTime": 435.742,
+    "text": "that spits out cancer drug as soon as it is delivered."
+  },
+  {
+    "startTime": 435.742,
+    "endTime": 440.937,
+    "text": "Usually, doxorubicin -- let's call it \"dox\" -- is the cancer drug"
+  },
+  {
+    "startTime": 440.937,
+    "endTime": 444.178,
+    "text": "that is the first line of treatment for breast cancer."
+  },
+  {
+    "startTime": 444.178,
+    "endTime": 450.661,
+    "text": "So, we first treated our animals with a dox core, dox only."
+  },
+  {
+    "startTime": 450.661,
+    "endTime": 452.892,
+    "text": "The tumor slowed their rate of growth,"
+  },
+  {
+    "startTime": 452.892,
+    "endTime": 454.356,
+    "text": "but they still grew rapidly,"
+  },
+  {
+    "startTime": 454.356,
+    "endTime": 457.29699999999997,
+    "text": "doubling in size over a period of two weeks."
+  },
+  {
+    "startTime": 457.297,
+    "endTime": 461.415,
+    "text": "Then, we tried our combination superweapon."
+  },
+  {
+    "startTime": 461.415,
+    "endTime": 465.851,
+    "text": "A nanolayer particle with siRNA against the chemo pump,"
+  },
+  {
+    "startTime": 465.851,
+    "endTime": 468.87,
+    "text": "plus, we have the dox in the core."
+  },
+  {
+    "startTime": 468.87,
+    "endTime": 473.209,
+    "text": "And look -- we found that not only did the tumors stop growing,"
+  },
+  {
+    "startTime": 473.209,
+    "endTime": 475.749,
+    "text": "they actually decreased in size"
+  },
+  {
+    "startTime": 475.749,
+    "endTime": 478.18800000000005,
+    "text": "and were eliminated in some cases."
+  },
+  {
+    "startTime": 478.188,
+    "endTime": 481.859,
+    "text": "The tumors were actually regressing."
+  },
+  {
+    "startTime": 481.859,
+    "endTime": 489.82,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 489.82,
+    "endTime": 493.652,
+    "text": "What's great about this approach is that it can be personalized."
+  },
+  {
+    "startTime": 493.652,
+    "endTime": 496.512,
+    "text": "We can add many different layers of siRNA"
+  },
+  {
+    "startTime": 496.512,
+    "endTime": 500.094,
+    "text": "to address different mutations and tumor defense mechanisms."
+  },
+  {
+    "startTime": 500.094,
+    "endTime": 503.94599999999997,
+    "text": "And we can put different drugs into the nanoparticle core."
+  },
+  {
+    "startTime": 503.946,
+    "endTime": 507.177,
+    "text": "As doctors learn how to test patients"
+  },
+  {
+    "startTime": 507.177,
+    "endTime": 510.975,
+    "text": "and understand certain tumor genetic types,"
+  },
+  {
+    "startTime": 510.975,
+    "endTime": 514.741,
+    "text": "they can help us determine which patients can benefit from this strategy"
+  },
+  {
+    "startTime": 514.741,
+    "endTime": 518.41,
+    "text": "and which gene blockers we can use."
+  },
+  {
+    "startTime": 518.41,
+    "endTime": 521.337,
+    "text": "Ovarian cancer strikes a special chord with me."
+  },
+  {
+    "startTime": 521.337,
+    "endTime": 523.334,
+    "text": "It is a very aggressive cancer,"
+  },
+  {
+    "startTime": 523.334,
+    "endTime": 526.2429999999999,
+    "text": "in part because it's discovered at very late stages,"
+  },
+  {
+    "startTime": 526.243,
+    "endTime": 527.714,
+    "text": "when it's highly advanced"
+  },
+  {
+    "startTime": 527.714,
+    "endTime": 530.566,
+    "text": "and there are a number of genetic mutations."
+  },
+  {
+    "startTime": 530.566,
+    "endTime": 533.5790000000001,
+    "text": "After the first round of chemotherapy,"
+  },
+  {
+    "startTime": 533.579,
+    "endTime": 538.333,
+    "text": "this cancer comes back for 75 percent of patients."
+  },
+  {
+    "startTime": 538.333,
+    "endTime": 542.2149999999999,
+    "text": "And it usually comes back in a drug-resistant form."
+  },
+  {
+    "startTime": 542.215,
+    "endTime": 543.933,
+    "text": "High-grade ovarian cancer"
+  },
+  {
+    "startTime": 543.933,
+    "endTime": 546.124,
+    "text": "is one of the biggest supervillains out there."
+  },
+  {
+    "startTime": 546.124,
+    "endTime": 548.0600000000001,
+    "text": "And we're now directing our superweapon"
+  },
+  {
+    "startTime": 548.06,
+    "endTime": 551.375,
+    "text": "toward its defeat."
+  },
+  {
+    "startTime": 551.375,
+    "endTime": 552.661,
+    "text": "As a researcher,"
+  },
+  {
+    "startTime": 552.661,
+    "endTime": 556.164,
+    "text": "I usually don't get to work with patients."
+  },
+  {
+    "startTime": 556.164,
+    "endTime": 558.605,
+    "text": "But I recently met a mother"
+  },
+  {
+    "startTime": 558.605,
+    "endTime": 564.2570000000001,
+    "text": "who is an ovarian cancer survivor, Mimi, and her daughter, Paige."
+  },
+  {
+    "startTime": 564.257,
+    "endTime": 568.385,
+    "text": "I was deeply inspired by the optimism and strength"
+  },
+  {
+    "startTime": 568.385,
+    "endTime": 571.495,
+    "text": "that both mother and daughter displayed"
+  },
+  {
+    "startTime": 571.495,
+    "endTime": 575.119,
+    "text": "and by their story of courage and support."
+  },
+  {
+    "startTime": 575.119,
+    "endTime": 578.546,
+    "text": "At this event, we spoke about the different technologies"
+  },
+  {
+    "startTime": 578.546,
+    "endTime": 580.355,
+    "text": "directed at cancer."
+  },
+  {
+    "startTime": 580.355,
+    "endTime": 581.688,
+    "text": "And Mimi was in tears"
+  },
+  {
+    "startTime": 581.688,
+    "endTime": 584.539,
+    "text": "as she explained how learning about these efforts"
+  },
+  {
+    "startTime": 584.539,
+    "endTime": 586.773,
+    "text": "gives her hope for future generations,"
+  },
+  {
+    "startTime": 586.773,
+    "endTime": 589.4490000000001,
+    "text": "including her own daughter."
+  },
+  {
+    "startTime": 589.449,
+    "endTime": 591.524,
+    "text": "This really touched me."
+  },
+  {
+    "startTime": 591.524,
+    "endTime": 595.14,
+    "text": "It's not just about building really elegant science."
+  },
+  {
+    "startTime": 595.14,
+    "endTime": 598.33,
+    "text": "It's about changing people's lives."
+  },
+  {
+    "startTime": 598.33,
+    "endTime": 601.565,
+    "text": "It's about understanding the power of engineering"
+  },
+  {
+    "startTime": 601.565,
+    "endTime": 603.47,
+    "text": "on the scale of molecules."
+  },
+  {
+    "startTime": 603.47,
+    "endTime": 607.577,
+    "text": "I know that as students like Paige move forward in their careers,"
+  },
+  {
+    "startTime": 607.577,
+    "endTime": 609.041,
+    "text": "they'll open new possibilities"
+  },
+  {
+    "startTime": 609.041,
+    "endTime": 612.455,
+    "text": "in addressing some of the big health problems in the world --"
+  },
+  {
+    "startTime": 612.455,
+    "endTime": 618.104,
+    "text": "including ovarian cancer, neurological disorders, infectious disease --"
+  },
+  {
+    "startTime": 618.104,
+    "endTime": 622.437,
+    "text": "just as chemical engineering has found a way to open doors for me,"
+  },
+  {
+    "startTime": 622.437,
+    "endTime": 625.095,
+    "text": "and has provided a way of engineering"
+  },
+  {
+    "startTime": 625.095,
+    "endTime": 628.6510000000001,
+    "text": "on the tiniest scale, that of molecules,"
+  },
+  {
+    "startTime": 628.651,
+    "endTime": 631.7969999999999,
+    "text": "to heal on the human scale."
+  },
+  {
+    "startTime": 631.797,
+    "endTime": 632.979,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 632.979,
+    "endTime": 642.979,
+    "text": "(Applause)"
+  }
+]

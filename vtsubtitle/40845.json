@@ -1,0 +1,447 @@
+[
+  {
+    "startTime": 6.879,
+    "endTime": 10.03,
+    "text": "In many ways,  our memories make us who we are,"
+  },
+  {
+    "startTime": 10.03,
+    "endTime": 12.059,
+    "text": "helping us remember our past,"
+  },
+  {
+    "startTime": 12.059,
+    "endTime": 13.988999999999999,
+    "text": "learn and retain skills,"
+  },
+  {
+    "startTime": 13.989,
+    "endTime": 16.273,
+    "text": "and plan for the future."
+  },
+  {
+    "startTime": 16.273,
+    "endTime": 19.916,
+    "text": "And for the computers that often act as extensions of ourselves,"
+  },
+  {
+    "startTime": 19.916,
+    "endTime": 22.126,
+    "text": "memory plays much the same role,"
+  },
+  {
+    "startTime": 22.126,
+    "endTime": 23.711000000000002,
+    "text": "whether it's a two-hour movie,"
+  },
+  {
+    "startTime": 23.711,
+    "endTime": 25.282999999999998,
+    "text": "a two-word text file,"
+  },
+  {
+    "startTime": 25.283,
+    "endTime": 27.833000000000002,
+    "text": "or the instructions for opening either,"
+  },
+  {
+    "startTime": 27.833,
+    "endTime": 33.372,
+    "text": "everything in a computer's memory takes the form of basic units called bits,"
+  },
+  {
+    "startTime": 33.372,
+    "endTime": 35.846000000000004,
+    "text": "or binary digits."
+  },
+  {
+    "startTime": 35.846,
+    "endTime": 38.38699999999999,
+    "text": "Each of these is stored in a memory cell"
+  },
+  {
+    "startTime": 38.387,
+    "endTime": 42.185,
+    "text": "that can switch between two states for two possible values,"
+  },
+  {
+    "startTime": 42.185,
+    "endTime": 44.057,
+    "text": "0 and 1."
+  },
+  {
+    "startTime": 44.057,
+    "endTime": 47.177,
+    "text": "Files and programs consist of millions of these bits,"
+  },
+  {
+    "startTime": 47.177,
+    "endTime": 50.428,
+    "text": "all processed in  the central processing unit,"
+  },
+  {
+    "startTime": 50.428,
+    "endTime": 51.745999999999995,
+    "text": "or CPU,"
+  },
+  {
+    "startTime": 51.746,
+    "endTime": 54.096000000000004,
+    "text": "that acts as the computer's brain."
+  },
+  {
+    "startTime": 54.096,
+    "endTime": 58.671,
+    "text": "And as the number of bits needing to be processed grows exponentially,"
+  },
+  {
+    "startTime": 58.671,
+    "endTime": 61.532,
+    "text": "computer designers face  a constant struggle"
+  },
+  {
+    "startTime": 61.532,
+    "endTime": 65.295,
+    "text": "between size, cost, and speed."
+  },
+  {
+    "startTime": 65.295,
+    "endTime": 70.126,
+    "text": "Like us, computers have short-term memory for immediate tasks,"
+  },
+  {
+    "startTime": 70.126,
+    "endTime": 73.40700000000001,
+    "text": "and long-term memory  for more permanent storage."
+  },
+  {
+    "startTime": 73.407,
+    "endTime": 75.277,
+    "text": "When you run a program,"
+  },
+  {
+    "startTime": 75.277,
+    "endTime": 78.95,
+    "text": "your operating system allocates area within the short-term memory"
+  },
+  {
+    "startTime": 78.95,
+    "endTime": 80.845,
+    "text": "for performing those instructions."
+  },
+  {
+    "startTime": 80.845,
+    "endTime": 84.392,
+    "text": "For example, when you press a key in a word processor,"
+  },
+  {
+    "startTime": 84.392,
+    "endTime": 89.536,
+    "text": "the CPU will access one of these locations to retrieve bits of data."
+  },
+  {
+    "startTime": 89.536,
+    "endTime": 93.861,
+    "text": "It could also modify them, or create new ones."
+  },
+  {
+    "startTime": 93.861,
+    "endTime": 98.25800000000001,
+    "text": "The time this takes is known  as the memory's latency."
+  },
+  {
+    "startTime": 98.258,
+    "endTime": 103.801,
+    "text": "And because program instructions must be processed quickly and continuously,"
+  },
+  {
+    "startTime": 103.801,
+    "endTime": 108.563,
+    "text": "all locations within the short-term memory can be accessed in any order,"
+  },
+  {
+    "startTime": 108.563,
+    "endTime": 111.714,
+    "text": "hence the name random access memory."
+  },
+  {
+    "startTime": 111.714,
+    "endTime": 115.9,
+    "text": "The most common type of RAM  is dynamic RAM, or DRAM."
+  },
+  {
+    "startTime": 115.9,
+    "endTime": 120.989,
+    "text": "There, each memory cell consists of a tiny transistor and a capacitor"
+  },
+  {
+    "startTime": 120.989,
+    "endTime": 122.98700000000001,
+    "text": "that store electrical charges,"
+  },
+  {
+    "startTime": 122.987,
+    "endTime": 127.55499999999999,
+    "text": "a 0 when there's no charge, or a 1 when charged."
+  },
+  {
+    "startTime": 127.555,
+    "endTime": 129.167,
+    "text": "Such memory is called dynamic"
+  },
+  {
+    "startTime": 129.167,
+    "endTime": 133.38,
+    "text": "because it only holds charges briefly before they leak away,"
+  },
+  {
+    "startTime": 133.38,
+    "endTime": 136.759,
+    "text": "requiring periodic recharging to retain data."
+  },
+  {
+    "startTime": 136.759,
+    "endTime": 140.00599999999997,
+    "text": "But even its low latency  of 100 nanoseconds"
+  },
+  {
+    "startTime": 140.006,
+    "endTime": 142.651,
+    "text": "is too long for modern CPUs,"
+  },
+  {
+    "startTime": 142.651,
+    "endTime": 146.56300000000002,
+    "text": "so there's also a small,  high-speed internal memory cache"
+  },
+  {
+    "startTime": 146.563,
+    "endTime": 148.51299999999998,
+    "text": "made from static RAM."
+  },
+  {
+    "startTime": 148.513,
+    "endTime": 151.722,
+    "text": "That's usually made up  of six interlocked transistors"
+  },
+  {
+    "startTime": 151.722,
+    "endTime": 153.624,
+    "text": "which don't need refreshing."
+  },
+  {
+    "startTime": 153.624,
+    "endTime": 156.779,
+    "text": "SRAM is the fastest memory  in a computer system,"
+  },
+  {
+    "startTime": 156.779,
+    "endTime": 158.68,
+    "text": "but also the most expensive,"
+  },
+  {
+    "startTime": 158.68,
+    "endTime": 162.41400000000002,
+    "text": "and takes up three times  more space than DRAM."
+  },
+  {
+    "startTime": 162.414,
+    "endTime": 166.59699999999998,
+    "text": "But RAM and cache can only hold data as long as they're powered."
+  },
+  {
+    "startTime": 166.597,
+    "endTime": 169.625,
+    "text": "For data to remain once the device is turned off,"
+  },
+  {
+    "startTime": 169.625,
+    "endTime": 173.005,
+    "text": "it must be transferred  into a long-term storage device,"
+  },
+  {
+    "startTime": 173.005,
+    "endTime": 175.291,
+    "text": "which comes in three major types."
+  },
+  {
+    "startTime": 175.291,
+    "endTime": 177.739,
+    "text": "In magnetic storage,  which is the cheapest,"
+  },
+  {
+    "startTime": 177.739,
+    "endTime": 183.56,
+    "text": "data is stored as a magnetic pattern on a spinning disc coated with magnetic film."
+  },
+  {
+    "startTime": 183.56,
+    "endTime": 187.203,
+    "text": "But because the disc must rotate  to where the data is located"
+  },
+  {
+    "startTime": 187.203,
+    "endTime": 188.621,
+    "text": "in order to be read,"
+  },
+  {
+    "startTime": 188.621,
+    "endTime": 194.51000000000002,
+    "text": "the latency for such drives is 100,000  times slower than that of DRAM."
+  },
+  {
+    "startTime": 194.51,
+    "endTime": 198.62599999999998,
+    "text": "On the other hand, optical-based storage like DVD and Blu-ray"
+  },
+  {
+    "startTime": 198.626,
+    "endTime": 200.621,
+    "text": "also uses spinning discs,"
+  },
+  {
+    "startTime": 200.621,
+    "endTime": 202.81300000000002,
+    "text": "but with a reflective coating."
+  },
+  {
+    "startTime": 202.813,
+    "endTime": 208.029,
+    "text": "Bits are encoded as light and dark spots using a dye that can be read by a laser."
+  },
+  {
+    "startTime": 208.029,
+    "endTime": 211.151,
+    "text": "While optical storage media are cheap and removable,"
+  },
+  {
+    "startTime": 211.151,
+    "endTime": 214.87800000000001,
+    "text": "they have even slower latencies  than magnetic storage"
+  },
+  {
+    "startTime": 214.878,
+    "endTime": 217.236,
+    "text": "and lower capacity as well."
+  },
+  {
+    "startTime": 217.236,
+    "endTime": 222.87099999999998,
+    "text": "Finally, the newest and fastest types of long-term storage are solid-state drives,"
+  },
+  {
+    "startTime": 222.871,
+    "endTime": 224.025,
+    "text": "like flash sticks."
+  },
+  {
+    "startTime": 224.025,
+    "endTime": 225.957,
+    "text": "These have no moving parts,"
+  },
+  {
+    "startTime": 225.957,
+    "endTime": 228.62699999999998,
+    "text": "instead using floating gate transistors"
+  },
+  {
+    "startTime": 228.627,
+    "endTime": 233.13400000000001,
+    "text": "that store bits by trapping  or removing electrical charges"
+  },
+  {
+    "startTime": 233.134,
+    "endTime": 236.45299999999997,
+    "text": "within their specially designed  internal structures."
+  },
+  {
+    "startTime": 236.453,
+    "endTime": 239.739,
+    "text": "So how reliable  are these billions of bits?"
+  },
+  {
+    "startTime": 239.739,
+    "endTime": 243.463,
+    "text": "We tend to think of computer memory as stable and permanent,"
+  },
+  {
+    "startTime": 243.463,
+    "endTime": 246.363,
+    "text": "but it actually degrades fairly quickly."
+  },
+  {
+    "startTime": 246.363,
+    "endTime": 249.0,
+    "text": "The heat generated from a device and its environment"
+  },
+  {
+    "startTime": 249.0,
+    "endTime": 251.739,
+    "text": "will eventually demagnetize hard drives,"
+  },
+  {
+    "startTime": 251.739,
+    "endTime": 253.991,
+    "text": "degrade the dye in optical media,"
+  },
+  {
+    "startTime": 253.991,
+    "endTime": 257.115,
+    "text": "and cause charge leakage  in floating gates."
+  },
+  {
+    "startTime": 257.115,
+    "endTime": 260.081,
+    "text": "Solid-state drives  also have an additional weakness."
+  },
+  {
+    "startTime": 260.081,
+    "endTime": 264.095,
+    "text": "Repeatedly writing to floating gate  transistors corrodes them,"
+  },
+  {
+    "startTime": 264.095,
+    "endTime": 266.70500000000004,
+    "text": "eventually rendering them useless."
+  },
+  {
+    "startTime": 266.705,
+    "endTime": 269.215,
+    "text": "With data on most current storage media"
+  },
+  {
+    "startTime": 269.215,
+    "endTime": 271.95799999999997,
+    "text": "having less than  a ten-year life expectancy,"
+  },
+  {
+    "startTime": 271.958,
+    "endTime": 276.333,
+    "text": "scientists are working to exploit the physical properties of materials"
+  },
+  {
+    "startTime": 276.333,
+    "endTime": 278.649,
+    "text": "down to the quantum level"
+  },
+  {
+    "startTime": 278.649,
+    "endTime": 280.998,
+    "text": "in the hopes of making  memory devices faster,"
+  },
+  {
+    "startTime": 280.998,
+    "endTime": 282.063,
+    "text": "smaller,"
+  },
+  {
+    "startTime": 282.063,
+    "endTime": 283.609,
+    "text": "and more durable."
+  },
+  {
+    "startTime": 283.609,
+    "endTime": 293.609,
+    "text": "For now, immortality remains out of reach, for humans and computers alike."
+  }
+]
