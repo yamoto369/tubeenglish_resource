@@ -1,0 +1,337 @@
+[
+  {
+    "startTime": 7.076,
+    "endTime": 11.433,
+    "text": "For most of us, two degrees Celsius is a tiny difference in temperature,"
+  },
+  {
+    "startTime": 11.433,
+    "endTime": 14.36,
+    "text": "not even enough to make  you crack a window."
+  },
+  {
+    "startTime": 14.36,
+    "endTime": 18.657,
+    "text": "But scientists have warned that as CO2 levels in the atmosphere rise,"
+  },
+  {
+    "startTime": 18.657,
+    "endTime": 22.473,
+    "text": "an increase in the Earth's temperature by even this amount"
+  },
+  {
+    "startTime": 22.473,
+    "endTime": 26.189999999999998,
+    "text": "can lead to catastrophic effects all over the world."
+  },
+  {
+    "startTime": 26.19,
+    "endTime": 29.926000000000002,
+    "text": "How can such a small measurable  change in one factor"
+  },
+  {
+    "startTime": 29.926,
+    "endTime": 34.571999999999996,
+    "text": "lead to massive and unpredictable  changes in other factors?"
+  },
+  {
+    "startTime": 34.572,
+    "endTime": 38.413000000000004,
+    "text": "The answer lies in the concept of a  mathematical tipping point,"
+  },
+  {
+    "startTime": 38.413,
+    "endTime": 42.346,
+    "text": "which we can understand through the familiar game of billiards."
+  },
+  {
+    "startTime": 42.346,
+    "endTime": 44.43,
+    "text": "The basic rule of billiard motion is"
+  },
+  {
+    "startTime": 44.43,
+    "endTime": 47.312,
+    "text": "that a ball will go straight  until it hits a wall,"
+  },
+  {
+    "startTime": 47.312,
+    "endTime": 51.129999999999995,
+    "text": "then bounce off at an angle equal to its incoming angle."
+  },
+  {
+    "startTime": 51.13,
+    "endTime": 54.040000000000006,
+    "text": "For simplicity's sake, we'll assume that there is no friction,"
+  },
+  {
+    "startTime": 54.04,
+    "endTime": 56.952999999999996,
+    "text": "so balls can keep moving indefinitely."
+  },
+  {
+    "startTime": 56.953,
+    "endTime": 58.994,
+    "text": "And to simplify the situation further,"
+  },
+  {
+    "startTime": 58.994,
+    "endTime": 64.062,
+    "text": "let's look at what happens with only  one ball on a perfectly circular table."
+  },
+  {
+    "startTime": 64.062,
+    "endTime": 67.357,
+    "text": "As the ball is struck and begins to move according to the rules,"
+  },
+  {
+    "startTime": 67.357,
+    "endTime": 70.502,
+    "text": "it follows a neat star-shaped pattern."
+  },
+  {
+    "startTime": 70.502,
+    "endTime": 72.667,
+    "text": "If we start the ball at different locations,"
+  },
+  {
+    "startTime": 72.667,
+    "endTime": 76.418,
+    "text": "or strike it at different angles,  some details of the pattern change,"
+  },
+  {
+    "startTime": 76.418,
+    "endTime": 79.685,
+    "text": "but its overall form remains the same."
+  },
+  {
+    "startTime": 79.685,
+    "endTime": 82.747,
+    "text": "With a few test runs, and some basic mathematical modeling,"
+  },
+  {
+    "startTime": 82.747,
+    "endTime": 86.321,
+    "text": "we can even predict a ball's path before it starts moving,"
+  },
+  {
+    "startTime": 86.321,
+    "endTime": 88.976,
+    "text": "simply based on its starting conditions."
+  },
+  {
+    "startTime": 88.976,
+    "endTime": 91.374,
+    "text": "But what would happen  if we made a minor change"
+  },
+  {
+    "startTime": 91.374,
+    "endTime": 94.625,
+    "text": "in the table's shape  by pulling it apart a bit,"
+  },
+  {
+    "startTime": 94.625,
+    "endTime": 99.411,
+    "text": "and inserting two small straight edges  along the top and bottom?"
+  },
+  {
+    "startTime": 99.411,
+    "endTime": 102.057,
+    "text": "We can see that as the ball bounces  off the flat sides,"
+  },
+  {
+    "startTime": 102.057,
+    "endTime": 104.58,
+    "text": "it begins to move all over the table."
+  },
+  {
+    "startTime": 104.58,
+    "endTime": 108.02499999999999,
+    "text": "The ball is still obeying the same rules of billiard motion,"
+  },
+  {
+    "startTime": 108.025,
+    "endTime": 112.94300000000001,
+    "text": "but the resulting movement no longer follows any recognizable pattern."
+  },
+  {
+    "startTime": 112.943,
+    "endTime": 115.3,
+    "text": "With only a small change to the constraints"
+  },
+  {
+    "startTime": 115.3,
+    "endTime": 117.075,
+    "text": "under which the system operates,"
+  },
+  {
+    "startTime": 117.075,
+    "endTime": 118.622,
+    "text": "we have shifted the billiard motion"
+  },
+  {
+    "startTime": 118.622,
+    "endTime": 121.75,
+    "text": "from behaving in a stable and predictable fashion,"
+  },
+  {
+    "startTime": 121.75,
+    "endTime": 123.983,
+    "text": "to fluctuating wildly,"
+  },
+  {
+    "startTime": 123.983,
+    "endTime": 128.144,
+    "text": "thus creating what mathematicians call chaotic motion."
+  },
+  {
+    "startTime": 128.144,
+    "endTime": 131.76500000000001,
+    "text": "Inserting the straight edges into the table acts as a tipping point,"
+  },
+  {
+    "startTime": 131.765,
+    "endTime": 136.09799999999998,
+    "text": "switching the systems behavior from one type of behavior (regular),"
+  },
+  {
+    "startTime": 136.098,
+    "endTime": 140.20000000000002,
+    "text": "to another type of behavior (chaotic)."
+  },
+  {
+    "startTime": 140.2,
+    "endTime": 144.249,
+    "text": "So what implications does this simple example have for the much more complicated"
+  },
+  {
+    "startTime": 144.249,
+    "endTime": 146.91899999999998,
+    "text": "reality of the Earth's climate?"
+  },
+  {
+    "startTime": 146.919,
+    "endTime": 150.53,
+    "text": "We can think of the shape of the table as  being analogous to the CO2 level"
+  },
+  {
+    "startTime": 150.53,
+    "endTime": 152.821,
+    "text": "and Earth's average temperature:"
+  },
+  {
+    "startTime": 152.821,
+    "endTime": 155.117,
+    "text": "Constraints that impact the  system's performance"
+  },
+  {
+    "startTime": 155.117,
+    "endTime": 158.893,
+    "text": "in the form of the ball's motion  or the climate's behavior."
+  },
+  {
+    "startTime": 158.893,
+    "endTime": 161.053,
+    "text": "During the past 10,000 years,"
+  },
+  {
+    "startTime": 161.053,
+    "endTime": 164.533,
+    "text": "the fairly constant CO2 atmospheric  concentration of"
+  },
+  {
+    "startTime": 164.533,
+    "endTime": 170.594,
+    "text": "270 parts per million kept the climate within a self-stabilizing pattern,"
+  },
+  {
+    "startTime": 170.594,
+    "endTime": 173.505,
+    "text": "fairly regular and hospitable  to human life."
+  },
+  {
+    "startTime": 173.505,
+    "endTime": 177.071,
+    "text": "But with CO2 levels now at 400 parts per million,"
+  },
+  {
+    "startTime": 177.071,
+    "endTime": 181.031,
+    "text": "and predicted to rise to between 500 and 800 parts per million"
+  },
+  {
+    "startTime": 181.031,
+    "endTime": 184.14000000000001,
+    "text": "over the coming century, we may reach a tipping point where"
+  },
+  {
+    "startTime": 184.14,
+    "endTime": 187.736,
+    "text": "even a small additional change  in the global average temperature"
+  },
+  {
+    "startTime": 187.736,
+    "endTime": 191.44799999999998,
+    "text": "would have the same effect as changing the shape of the table,"
+  },
+  {
+    "startTime": 191.448,
+    "endTime": 194.275,
+    "text": "leading to a dangerous shift in the climate's behavior,"
+  },
+  {
+    "startTime": 194.275,
+    "endTime": 196.41400000000002,
+    "text": "with more extreme and intense  weather events,"
+  },
+  {
+    "startTime": 196.414,
+    "endTime": 201.672,
+    "text": "less predictability, and most importantly, less hospitably to human life."
+  },
+  {
+    "startTime": 201.672,
+    "endTime": 205.433,
+    "text": "The hypothetical models that  mathematicians study in detail"
+  },
+  {
+    "startTime": 205.433,
+    "endTime": 208.165,
+    "text": "may not always look like  actual situations,"
+  },
+  {
+    "startTime": 208.165,
+    "endTime": 211.064,
+    "text": "but they can provide a framework and a way of thinking"
+  },
+  {
+    "startTime": 211.064,
+    "endTime": 216.159,
+    "text": "that can be applied to help understand the more complex problems of the real world."
+  },
+  {
+    "startTime": 216.159,
+    "endTime": 218.993,
+    "text": "In this case, understanding  how slight changes"
+  },
+  {
+    "startTime": 218.993,
+    "endTime": 222.415,
+    "text": "in the constraints impacting a system can have massive impacts"
+  },
+  {
+    "startTime": 222.415,
+    "endTime": 226.29399999999998,
+    "text": "gives us a greater appreciation for predicting the dangers"
+  },
+  {
+    "startTime": 226.294,
+    "endTime": 229.739,
+    "text": "that we cannot immediately perceive  with our own senses."
+  },
+  {
+    "startTime": 229.739,
+    "endTime": 239.739,
+    "text": "Because once the results do become visible, it may already be too late."
+  }
+]

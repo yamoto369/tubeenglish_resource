@@ -1,0 +1,1977 @@
+[
+  {
+    "startTime": 12.96,
+    "endTime": 15.92,
+    "text": "So most of us think of motion as a very"
+  },
+  {
+    "startTime": 15.92,
+    "endTime": 17.0,
+    "text": "visual"
+  },
+  {
+    "startTime": 17.0,
+    "endTime": 20.4,
+    "text": "thing. If I walk across this stage or"
+  },
+  {
+    "startTime": 20.4,
+    "endTime": 22.88,
+    "text": "gesture with my hands while I speak,"
+  },
+  {
+    "startTime": 22.88,
+    "endTime": 24.8,
+    "text": "that motion is something that you can"
+  },
+  {
+    "startTime": 24.8,
+    "endTime": 26.48,
+    "text": "see."
+  },
+  {
+    "startTime": 26.48,
+    "endTime": 29.119,
+    "text": "But there's a world of important motion"
+  },
+  {
+    "startTime": 29.119,
+    "endTime": 32.0,
+    "text": "that's too subtle for the human eye. And"
+  },
+  {
+    "startTime": 32.0,
+    "endTime": 34.16,
+    "text": "over the past few years, we've started"
+  },
+  {
+    "startTime": 34.16,
+    "endTime": 36.8,
+    "text": "to find that cameras can often see this"
+  },
+  {
+    "startTime": 36.8,
+    "endTime": 39.32,
+    "text": "motion even when humans"
+  },
+  {
+    "startTime": 39.32,
+    "endTime": 42.559,
+    "text": "can't. So, let me show you what I mean."
+  },
+  {
+    "startTime": 42.559,
+    "endTime": 44.48,
+    "text": "On the left here, you see video of a"
+  },
+  {
+    "startTime": 44.48,
+    "endTime": 47.28,
+    "text": "person's wrist. And on the right, you"
+  },
+  {
+    "startTime": 47.28,
+    "endTime": 50.239,
+    "text": "see video of a sleeping infant. But if I"
+  },
+  {
+    "startTime": 50.239,
+    "endTime": 52.399,
+    "text": "didn't tell you that these were videos,"
+  },
+  {
+    "startTime": 52.399,
+    "endTime": 53.76,
+    "text": "you might assume that you were looking"
+  },
+  {
+    "startTime": 53.76,
+    "endTime": 56.96,
+    "text": "at two regular images. Because in both"
+  },
+  {
+    "startTime": 56.96,
+    "endTime": 59.92,
+    "text": "cases, these videos appear to be almost"
+  },
+  {
+    "startTime": 59.92,
+    "endTime": 61.16,
+    "text": "completely"
+  },
+  {
+    "startTime": 61.16,
+    "endTime": 63.68,
+    "text": "still, but there's actually a lot of"
+  },
+  {
+    "startTime": 63.68,
+    "endTime": 66.24,
+    "text": "subtle motion going on here. And if you"
+  },
+  {
+    "startTime": 66.24,
+    "endTime": 68.479,
+    "text": "were to touch the wrist on the left, you"
+  },
+  {
+    "startTime": 68.479,
+    "endTime": 70.88,
+    "text": "would feel a pulse. And if you were to"
+  },
+  {
+    "startTime": 70.88,
+    "endTime": 73.2,
+    "text": "hold the infant on the right, you would"
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 75.28,
+    "text": "feel the rise and fall of her chest as"
+  },
+  {
+    "startTime": 75.28,
+    "endTime": 76.759,
+    "text": "she took each"
+  },
+  {
+    "startTime": 76.759,
+    "endTime": 80.2,
+    "text": "breath. And these motions carry a lot of"
+  },
+  {
+    "startTime": 80.2,
+    "endTime": 82.32,
+    "text": "significance, but they're usually too"
+  },
+  {
+    "startTime": 82.32,
+    "endTime": 84.56,
+    "text": "subtle for us to see."
+  },
+  {
+    "startTime": 84.56,
+    "endTime": 86.799,
+    "text": "So instead we have to observe them"
+  },
+  {
+    "startTime": 86.799,
+    "endTime": 90.04,
+    "text": "through direct contact through"
+  },
+  {
+    "startTime": 90.04,
+    "endTime": 93.04,
+    "text": "touch. But a few years ago my colleagues"
+  },
+  {
+    "startTime": 93.04,
+    "endTime": 95.88,
+    "text": "at MIT developed what they call a motion"
+  },
+  {
+    "startTime": 95.88,
+    "endTime": 98.72,
+    "text": "microscope which is software that finds"
+  },
+  {
+    "startTime": 98.72,
+    "endTime": 101.28,
+    "text": "these subtle motions in video and"
+  },
+  {
+    "startTime": 101.28,
+    "endTime": 103.28,
+    "text": "amplifies them so that they become large"
+  },
+  {
+    "startTime": 103.28,
+    "endTime": 106.159,
+    "text": "enough for us to see. And so if we use"
+  },
+  {
+    "startTime": 106.159,
+    "endTime": 108.04,
+    "text": "their software on the left"
+  },
+  {
+    "startTime": 108.04,
+    "endTime": 110.88,
+    "text": "video, it lets us see the pulse in this"
+  },
+  {
+    "startTime": 110.88,
+    "endTime": 112.96,
+    "text": "wrist. And if we were to count that"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 114.88,
+    "text": "pulse, we can even figure out this"
+  },
+  {
+    "startTime": 114.88,
+    "endTime": 115.96,
+    "text": "person's heart"
+  },
+  {
+    "startTime": 115.96,
+    "endTime": 118.64,
+    "text": "rate. And if we use the same software on"
+  },
+  {
+    "startTime": 118.64,
+    "endTime": 121.2,
+    "text": "the right video, it lets us see each"
+  },
+  {
+    "startTime": 121.2,
+    "endTime": 123.759,
+    "text": "breath that this infant takes. And we"
+  },
+  {
+    "startTime": 123.759,
+    "endTime": 126.479,
+    "text": "can use this as a contactfree way to"
+  },
+  {
+    "startTime": 126.479,
+    "endTime": 127.879,
+    "text": "monitor her"
+  },
+  {
+    "startTime": 127.879,
+    "endTime": 130.479,
+    "text": "breathing. And so this technology is"
+  },
+  {
+    "startTime": 130.479,
+    "endTime": 132.879,
+    "text": "really powerful because it takes these"
+  },
+  {
+    "startTime": 132.879,
+    "endTime": 134.72,
+    "text": "phenomena that we normally have to"
+  },
+  {
+    "startTime": 134.72,
+    "endTime": 136.959,
+    "text": "experience through touch and it lets us"
+  },
+  {
+    "startTime": 136.959,
+    "endTime": 140.879,
+    "text": "capture them visually and noninvasively."
+  },
+  {
+    "startTime": 140.879,
+    "endTime": 142.72,
+    "text": "So, a couple years ago, I started"
+  },
+  {
+    "startTime": 142.72,
+    "endTime": 144.319,
+    "text": "working with the folks that created that"
+  },
+  {
+    "startTime": 144.319,
+    "endTime": 147.04,
+    "text": "software, and we decided to pursue a"
+  },
+  {
+    "startTime": 147.04,
+    "endTime": 149.92,
+    "text": "crazy idea. We thought, you know, it's"
+  },
+  {
+    "startTime": 149.92,
+    "endTime": 152.0,
+    "text": "cool that we can use software to"
+  },
+  {
+    "startTime": 152.0,
+    "endTime": 154.56,
+    "text": "visualize tiny motions like this. And"
+  },
+  {
+    "startTime": 154.56,
+    "endTime": 156.4,
+    "text": "you can almost think of it as a way to"
+  },
+  {
+    "startTime": 156.4,
+    "endTime": 158.36,
+    "text": "extend our sense of"
+  },
+  {
+    "startTime": 158.36,
+    "endTime": 160.959,
+    "text": "touch. But what if we could do the same"
+  },
+  {
+    "startTime": 160.959,
+    "endTime": 163.239,
+    "text": "thing with our ability to"
+  },
+  {
+    "startTime": 163.239,
+    "endTime": 166.08,
+    "text": "hear? What if we could use video to"
+  },
+  {
+    "startTime": 166.08,
+    "endTime": 168.36,
+    "text": "capture the vibrations of"
+  },
+  {
+    "startTime": 168.36,
+    "endTime": 171.0,
+    "text": "sound which are just another kind of"
+  },
+  {
+    "startTime": 171.0,
+    "endTime": 174.08,
+    "text": "motion and turn everything that we see"
+  },
+  {
+    "startTime": 174.08,
+    "endTime": 175.239,
+    "text": "into a"
+  },
+  {
+    "startTime": 175.239,
+    "endTime": 177.28,
+    "text": "microphone. Now this is a bit of a"
+  },
+  {
+    "startTime": 177.28,
+    "endTime": 179.519,
+    "text": "strange idea. So let me try to put it in"
+  },
+  {
+    "startTime": 179.519,
+    "endTime": 180.68,
+    "text": "perspective for"
+  },
+  {
+    "startTime": 180.68,
+    "endTime": 183.68,
+    "text": "you. Traditional microphones work by"
+  },
+  {
+    "startTime": 183.68,
+    "endTime": 185.599,
+    "text": "converting the motion of an internal"
+  },
+  {
+    "startTime": 185.599,
+    "endTime": 188.8,
+    "text": "diaphragm into an electrical signal. And"
+  },
+  {
+    "startTime": 188.8,
+    "endTime": 191.04,
+    "text": "that diaphragm is designed to move"
+  },
+  {
+    "startTime": 191.04,
+    "endTime": 194.08,
+    "text": "readily with sound so that its motion"
+  },
+  {
+    "startTime": 194.08,
+    "endTime": 196.599,
+    "text": "can be recorded and interpreted as"
+  },
+  {
+    "startTime": 196.599,
+    "endTime": 200.2,
+    "text": "audio. But sound causes all objects to"
+  },
+  {
+    "startTime": 200.2,
+    "endTime": 202.72,
+    "text": "vibrate. Those vibrations are just"
+  },
+  {
+    "startTime": 202.72,
+    "endTime": 205.2,
+    "text": "usually too subtle and too fast for us"
+  },
+  {
+    "startTime": 205.2,
+    "endTime": 206.959,
+    "text": "to see."
+  },
+  {
+    "startTime": 206.959,
+    "endTime": 208.72,
+    "text": "So, what if we record them with a"
+  },
+  {
+    "startTime": 208.72,
+    "endTime": 211.92,
+    "text": "high-speed camera and then use software"
+  },
+  {
+    "startTime": 211.92,
+    "endTime": 214.4,
+    "text": "to extract tiny motions from our"
+  },
+  {
+    "startTime": 214.4,
+    "endTime": 217.36,
+    "text": "high-speed video and analyze those"
+  },
+  {
+    "startTime": 217.36,
+    "endTime": 219.599,
+    "text": "motions to figure out what sounds"
+  },
+  {
+    "startTime": 219.599,
+    "endTime": 220.76,
+    "text": "created"
+  },
+  {
+    "startTime": 220.76,
+    "endTime": 223.64,
+    "text": "them? This would let us turn visible"
+  },
+  {
+    "startTime": 223.64,
+    "endTime": 228.12,
+    "text": "objects into visual microphones from a"
+  },
+  {
+    "startTime": 228.12,
+    "endTime": 231.2,
+    "text": "distance. And so, we tried this out. And"
+  },
+  {
+    "startTime": 231.2,
+    "endTime": 233.12,
+    "text": "here's one of our experiments where we"
+  },
+  {
+    "startTime": 233.12,
+    "endTime": 235.12,
+    "text": "took this potted plant that you see on"
+  },
+  {
+    "startTime": 235.12,
+    "endTime": 237.04,
+    "text": "the right and we filmed it with a"
+  },
+  {
+    "startTime": 237.04,
+    "endTime": 239.04,
+    "text": "high-speed camera while a nearby"
+  },
+  {
+    "startTime": 239.04,
+    "endTime": 242.56,
+    "text": "loudspeaker played this"
+  },
+  {
+    "startTime": 242.83,
+    "endTime": 250.84,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 250.84,
+    "endTime": 253.439,
+    "text": "sound. And so here's the video that we"
+  },
+  {
+    "startTime": 253.439,
+    "endTime": 256.56,
+    "text": "recorded and we recorded it at thousands"
+  },
+  {
+    "startTime": 256.56,
+    "endTime": 258.959,
+    "text": "of frames per second. But even if you"
+  },
+  {
+    "startTime": 258.959,
+    "endTime": 261.6,
+    "text": "look very closely, all you'll see are"
+  },
+  {
+    "startTime": 261.6,
+    "endTime": 263.52,
+    "text": "some leaves that are pretty much just"
+  },
+  {
+    "startTime": 263.52,
+    "endTime": 265.479,
+    "text": "sitting there doing"
+  },
+  {
+    "startTime": 265.479,
+    "endTime": 268.32,
+    "text": "nothing. Because our sound only moved"
+  },
+  {
+    "startTime": 268.32,
+    "endTime": 271.199,
+    "text": "those leaves by about a micrometer."
+  },
+  {
+    "startTime": 271.199,
+    "endTime": 274.199,
+    "text": "That's 10,000th of a"
+  },
+  {
+    "startTime": 274.199,
+    "endTime": 277.36,
+    "text": "cime, which spans somewhere between"
+  },
+  {
+    "startTime": 277.36,
+    "endTime": 280.08,
+    "text": "100th and a thousandth of a pixel in"
+  },
+  {
+    "startTime": 280.08,
+    "endTime": 281.919,
+    "text": "this image."
+  },
+  {
+    "startTime": 281.919,
+    "endTime": 284.8,
+    "text": "So, you can squint all you want, but"
+  },
+  {
+    "startTime": 284.8,
+    "endTime": 286.56,
+    "text": "motion that small is pretty much"
+  },
+  {
+    "startTime": 286.56,
+    "endTime": 288.6,
+    "text": "perceptually"
+  },
+  {
+    "startTime": 288.6,
+    "endTime": 291.04,
+    "text": "invisible. But it turns out that"
+  },
+  {
+    "startTime": 291.04,
+    "endTime": 293.68,
+    "text": "something can be perceptually invisible"
+  },
+  {
+    "startTime": 293.68,
+    "endTime": 296.479,
+    "text": "and still be numerically significant."
+  },
+  {
+    "startTime": 296.479,
+    "endTime": 298.639,
+    "text": "Because with the right algorithms, we"
+  },
+  {
+    "startTime": 298.639,
+    "endTime": 301.04,
+    "text": "can take this silent, seemingly still"
+  },
+  {
+    "startTime": 301.04,
+    "endTime": 306.12,
+    "text": "video and we can recover this sound."
+  },
+  {
+    "startTime": 306.79,
+    "endTime": 311.56,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 311.56,
+    "endTime": 312.49,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 312.49,
+    "endTime": 317.22,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 317.22,
+    "endTime": 318.88,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 318.88,
+    "endTime": 322.0,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 322.0,
+    "endTime": 324.8,
+    "text": "So, how is this possible? How can we get"
+  },
+  {
+    "startTime": 324.8,
+    "endTime": 327.56,
+    "text": "so much information out of so little"
+  },
+  {
+    "startTime": 327.56,
+    "endTime": 330.639,
+    "text": "motion? Well, let's say that those"
+  },
+  {
+    "startTime": 330.639,
+    "endTime": 334.0,
+    "text": "leaves move by just a single micrometer."
+  },
+  {
+    "startTime": 334.0,
+    "endTime": 336.0,
+    "text": "And let's say that that shifts our image"
+  },
+  {
+    "startTime": 336.0,
+    "endTime": 338.44,
+    "text": "by just a thousandth of a"
+  },
+  {
+    "startTime": 338.44,
+    "endTime": 341.759,
+    "text": "pixel. That may not seem like much, but"
+  },
+  {
+    "startTime": 341.759,
+    "endTime": 344.08,
+    "text": "a single frame of video may have"
+  },
+  {
+    "startTime": 344.08,
+    "endTime": 347.039,
+    "text": "hundreds of thousands of pixels in it."
+  },
+  {
+    "startTime": 347.039,
+    "endTime": 349.36,
+    "text": "And so if we combine all of the tiny"
+  },
+  {
+    "startTime": 349.36,
+    "endTime": 351.36,
+    "text": "motions that we see from across that"
+  },
+  {
+    "startTime": 351.36,
+    "endTime": 354.56,
+    "text": "entire image, then suddenly a thousandth"
+  },
+  {
+    "startTime": 354.56,
+    "endTime": 356.8,
+    "text": "of a pixel can start to add up to"
+  },
+  {
+    "startTime": 356.8,
+    "endTime": 357.96,
+    "text": "something pretty"
+  },
+  {
+    "startTime": 357.96,
+    "endTime": 360.4,
+    "text": "significant. On a personal note, we were"
+  },
+  {
+    "startTime": 360.4,
+    "endTime": 364.6,
+    "text": "pretty psyched when we figured this out."
+  },
+  {
+    "startTime": 365.08,
+    "endTime": 368.16,
+    "text": "But even with the right algorithm, we"
+  },
+  {
+    "startTime": 368.16,
+    "endTime": 369.84,
+    "text": "were still missing a pretty important"
+  },
+  {
+    "startTime": 369.84,
+    "endTime": 372.56,
+    "text": "piece of the puzzle. You see, there are"
+  },
+  {
+    "startTime": 372.56,
+    "endTime": 374.72,
+    "text": "a lot of factors that affect when and"
+  },
+  {
+    "startTime": 374.72,
+    "endTime": 377.199,
+    "text": "how well this technique will work."
+  },
+  {
+    "startTime": 377.199,
+    "endTime": 379.4,
+    "text": "There's the object and how far away it"
+  },
+  {
+    "startTime": 379.4,
+    "endTime": 381.84,
+    "text": "is. There's the camera and the lens that"
+  },
+  {
+    "startTime": 381.84,
+    "endTime": 384.479,
+    "text": "you use, how much light is shining on"
+  },
+  {
+    "startTime": 384.479,
+    "endTime": 388.24,
+    "text": "the object, and how loud your sound is."
+  },
+  {
+    "startTime": 388.24,
+    "endTime": 390.28,
+    "text": "And even with the right"
+  },
+  {
+    "startTime": 390.28,
+    "endTime": 392.8,
+    "text": "algorithm, we had to be very careful"
+  },
+  {
+    "startTime": 392.8,
+    "endTime": 395.039,
+    "text": "with our early experiments because if we"
+  },
+  {
+    "startTime": 395.039,
+    "endTime": 397.28,
+    "text": "got any of these factors wrong, there"
+  },
+  {
+    "startTime": 397.28,
+    "endTime": 399.44,
+    "text": "was no way to tell what the problem was."
+  },
+  {
+    "startTime": 399.44,
+    "endTime": 402.319,
+    "text": "We would just get noise back. And so a"
+  },
+  {
+    "startTime": 402.319,
+    "endTime": 404.28,
+    "text": "lot of our early experiments looked like"
+  },
+  {
+    "startTime": 404.28,
+    "endTime": 408.72,
+    "text": "this. And so here I am. And on the"
+  },
+  {
+    "startTime": 408.72,
+    "endTime": 410.24,
+    "text": "bottom left, you can kind of see our"
+  },
+  {
+    "startTime": 410.24,
+    "endTime": 412.4,
+    "text": "high-speed camera, which is pointed at a"
+  },
+  {
+    "startTime": 412.4,
+    "endTime": 414.88,
+    "text": "bag of chips. And the whole thing is lit"
+  },
+  {
+    "startTime": 414.88,
+    "endTime": 417.039,
+    "text": "by these bright lamps."
+  },
+  {
+    "startTime": 417.039,
+    "endTime": 419.199,
+    "text": "And like I said, we had to be very"
+  },
+  {
+    "startTime": 419.199,
+    "endTime": 421.599,
+    "text": "careful in these early experiments. So"
+  },
+  {
+    "startTime": 421.599,
+    "endTime": 424.16,
+    "text": "this is how it went down."
+  },
+  {
+    "startTime": 424.16,
+    "endTime": 430.479,
+    "text": "3 2 1 go. Mary had a little lamb. Little"
+  },
+  {
+    "startTime": 430.479,
+    "endTime": 433.759,
+    "text": "lamb. Little"
+  },
+  {
+    "startTime": 436.44,
+    "endTime": 438.88,
+    "text": "lamb. So this experiment looks"
+  },
+  {
+    "startTime": 438.88,
+    "endTime": 442.16,
+    "text": "completely ridiculous."
+  },
+  {
+    "startTime": 442.16,
+    "endTime": 444.759,
+    "text": "I mean, I'm screaming at a bag of"
+  },
+  {
+    "startTime": 444.759,
+    "endTime": 447.28,
+    "text": "chips and we're blasting it with so much"
+  },
+  {
+    "startTime": 447.28,
+    "endTime": 449.36,
+    "text": "light, we literally melted the first bag"
+  },
+  {
+    "startTime": 449.36,
+    "endTime": 451.639,
+    "text": "we tried this"
+  },
+  {
+    "startTime": 451.639,
+    "endTime": 454.599,
+    "text": "on. But ridiculous as this experiment"
+  },
+  {
+    "startTime": 454.599,
+    "endTime": 457.28,
+    "text": "looks, it was actually really important"
+  },
+  {
+    "startTime": 457.28,
+    "endTime": 459.12,
+    "text": "because we were able to recover this"
+  },
+  {
+    "startTime": 459.12,
+    "endTime": 462.12,
+    "text": "sound."
+  },
+  {
+    "startTime": 469.199,
+    "endTime": 471.28,
+    "text": "And this was really significant because"
+  },
+  {
+    "startTime": 471.28,
+    "endTime": 473.84,
+    "text": "it was the first time we recovered"
+  },
+  {
+    "startTime": 473.84,
+    "endTime": 476.16,
+    "text": "intelligible human speech from silent"
+  },
+  {
+    "startTime": 476.16,
+    "endTime": 478.72,
+    "text": "video of an object. And so it gave us"
+  },
+  {
+    "startTime": 478.72,
+    "endTime": 481.52,
+    "text": "this point of reference and gradually we"
+  },
+  {
+    "startTime": 481.52,
+    "endTime": 484.24,
+    "text": "could start to modify the experiment"
+  },
+  {
+    "startTime": 484.24,
+    "endTime": 486.24,
+    "text": "using different objects or moving the"
+  },
+  {
+    "startTime": 486.24,
+    "endTime": 489.36,
+    "text": "object further away using less light or"
+  },
+  {
+    "startTime": 489.36,
+    "endTime": 491.919,
+    "text": "quieter sounds."
+  },
+  {
+    "startTime": 491.919,
+    "endTime": 494.8,
+    "text": "And we analyzed all of these experiments"
+  },
+  {
+    "startTime": 494.8,
+    "endTime": 496.8,
+    "text": "until we really understood the limits of"
+  },
+  {
+    "startTime": 496.8,
+    "endTime": 499.28,
+    "text": "our technique because once we understood"
+  },
+  {
+    "startTime": 499.28,
+    "endTime": 501.28,
+    "text": "those limits, we could figure out how to"
+  },
+  {
+    "startTime": 501.28,
+    "endTime": 503.919,
+    "text": "push them. And that led to experiments"
+  },
+  {
+    "startTime": 503.919,
+    "endTime": 506.8,
+    "text": "like this one where again I'm going to"
+  },
+  {
+    "startTime": 506.8,
+    "endTime": 509.759,
+    "text": "speak to a bag of chips. But this time,"
+  },
+  {
+    "startTime": 509.759,
+    "endTime": 513.36,
+    "text": "we've moved our camera about 15 ft away"
+  },
+  {
+    "startTime": 513.36,
+    "endTime": 516.399,
+    "text": "outside behind a soundproof window. And"
+  },
+  {
+    "startTime": 516.399,
+    "endTime": 518.56,
+    "text": "the whole thing is lit by only natural"
+  },
+  {
+    "startTime": 518.56,
+    "endTime": 520.56,
+    "text": "sunlight."
+  },
+  {
+    "startTime": 520.56,
+    "endTime": 523.32,
+    "text": "And so here's the video that we"
+  },
+  {
+    "startTime": 523.32,
+    "endTime": 525.279,
+    "text": "captured. And this is what things"
+  },
+  {
+    "startTime": 525.279,
+    "endTime": 527.519,
+    "text": "sounded like from inside next to the bag"
+  },
+  {
+    "startTime": 527.519,
+    "endTime": 529.279,
+    "text": "of chips."
+  },
+  {
+    "startTime": 529.279,
+    "endTime": 532.24,
+    "text": "Mary had a little lamb whose fleece was"
+  },
+  {
+    "startTime": 532.24,
+    "endTime": 535.68,
+    "text": "white as snow. And everywhere that Mary"
+  },
+  {
+    "startTime": 535.68,
+    "endTime": 539.68,
+    "text": "went, that lamb was sure to go."
+  },
+  {
+    "startTime": 539.68,
+    "endTime": 541.76,
+    "text": "And here's what we were able to recover"
+  },
+  {
+    "startTime": 541.76,
+    "endTime": 544.24,
+    "text": "from our silent video captured outside"
+  },
+  {
+    "startTime": 544.24,
+    "endTime": 547.8,
+    "text": "behind that window."
+  },
+  {
+    "startTime": 550.48,
+    "endTime": 553.76,
+    "text": "And everywhere that Mary went, that man"
+  },
+  {
+    "startTime": 553.76,
+    "endTime": 556.56,
+    "text": "will"
+  },
+  {
+    "startTime": 557.61,
+    "endTime": 560.959,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 561.24,
+    "endTime": 563.839,
+    "text": "go. And there are other ways that we can"
+  },
+  {
+    "startTime": 563.839,
+    "endTime": 566.48,
+    "text": "push these limits as well. So here's a"
+  },
+  {
+    "startTime": 566.48,
+    "endTime": 568.959,
+    "text": "quieter experiment where we filmed some"
+  },
+  {
+    "startTime": 568.959,
+    "endTime": 570.8,
+    "text": "earphones plugged into a laptop"
+  },
+  {
+    "startTime": 570.8,
+    "endTime": 573.2,
+    "text": "computer. And in this case, our goal was"
+  },
+  {
+    "startTime": 573.2,
+    "endTime": 575.12,
+    "text": "to recover the music that was playing on"
+  },
+  {
+    "startTime": 575.12,
+    "endTime": 578.24,
+    "text": "that laptop from just silent video of"
+  },
+  {
+    "startTime": 578.24,
+    "endTime": 580.72,
+    "text": "these two little plastic earphones. And"
+  },
+  {
+    "startTime": 580.72,
+    "endTime": 583.36,
+    "text": "we were able to do this so well that I"
+  },
+  {
+    "startTime": 583.36,
+    "endTime": 587.72,
+    "text": "could even Shazam our results."
+  },
+  {
+    "startTime": 589.19,
+    "endTime": 592.43,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 592.43,
+    "endTime": 601.02,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 601.02,
+    "endTime": 601.51,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 601.51,
+    "endTime": 603.53,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 603.53,
+    "endTime": 606.72,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 606.72,
+    "endTime": 609.2,
+    "text": "And we can also push things by changing"
+  },
+  {
+    "startTime": 609.2,
+    "endTime": 611.6,
+    "text": "the hardware that we use because the"
+  },
+  {
+    "startTime": 611.6,
+    "endTime": 613.6,
+    "text": "experiments I've shown you so far were"
+  },
+  {
+    "startTime": 613.6,
+    "endTime": 615.839,
+    "text": "done with a camera, a high-speed camera"
+  },
+  {
+    "startTime": 615.839,
+    "endTime": 618.32,
+    "text": "that can record video about a 100 times"
+  },
+  {
+    "startTime": 618.32,
+    "endTime": 621.2,
+    "text": "faster than most cell phones. But we've"
+  },
+  {
+    "startTime": 621.2,
+    "endTime": 623.36,
+    "text": "also found a way to use this technique"
+  },
+  {
+    "startTime": 623.36,
+    "endTime": 626.079,
+    "text": "with more regular cameras. And we do"
+  },
+  {
+    "startTime": 626.079,
+    "endTime": 627.76,
+    "text": "that by taking advantage of what's"
+  },
+  {
+    "startTime": 627.76,
+    "endTime": 631.12,
+    "text": "called a rolling shutter. You see, most"
+  },
+  {
+    "startTime": 631.12,
+    "endTime": 634.72,
+    "text": "cameras record images one row at a time."
+  },
+  {
+    "startTime": 634.72,
+    "endTime": 638.56,
+    "text": "And so if an object moves during the"
+  },
+  {
+    "startTime": 638.56,
+    "endTime": 640.64,
+    "text": "recording of a single image, there's a"
+  },
+  {
+    "startTime": 640.64,
+    "endTime": 643.279,
+    "text": "slight time delay between each row. And"
+  },
+  {
+    "startTime": 643.279,
+    "endTime": 646.48,
+    "text": "this causes slight artifacts that get"
+  },
+  {
+    "startTime": 646.48,
+    "endTime": 649.519,
+    "text": "coded into each frame of a video."
+  },
+  {
+    "startTime": 649.519,
+    "endTime": 651.76,
+    "text": "And so what we found is that by"
+  },
+  {
+    "startTime": 651.76,
+    "endTime": 654.079,
+    "text": "analyzing these artifacts, we could"
+  },
+  {
+    "startTime": 654.079,
+    "endTime": 656.64,
+    "text": "actually recover sound using a modified"
+  },
+  {
+    "startTime": 656.64,
+    "endTime": 658.8,
+    "text": "version of our algorithm. So here's an"
+  },
+  {
+    "startTime": 658.8,
+    "endTime": 660.64,
+    "text": "experiment we did where we filmed the"
+  },
+  {
+    "startTime": 660.64,
+    "endTime": 663.2,
+    "text": "bag of candy while a nearby loudspeaker"
+  },
+  {
+    "startTime": 663.2,
+    "endTime": 664.959,
+    "text": "played the same Mary had a little lamb"
+  },
+  {
+    "startTime": 664.959,
+    "endTime": 667.76,
+    "text": "music from before, but this time we used"
+  },
+  {
+    "startTime": 667.76,
+    "endTime": 670.56,
+    "text": "just a regular store-bought camera. And"
+  },
+  {
+    "startTime": 670.56,
+    "endTime": 672.0,
+    "text": "so in a second, I'll play for you the"
+  },
+  {
+    "startTime": 672.0,
+    "endTime": 673.839,
+    "text": "sound that we recovered. And it's going"
+  },
+  {
+    "startTime": 673.839,
+    "endTime": 676.48,
+    "text": "to sound distorted this time, but listen"
+  },
+  {
+    "startTime": 676.48,
+    "endTime": 678.24,
+    "text": "and see if you can still recognize the"
+  },
+  {
+    "startTime": 678.24,
+    "endTime": 681.24,
+    "text": "music."
+  },
+  {
+    "startTime": 683.45,
+    "endTime": 690.44,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 692.48,
+    "endTime": 696.899,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 697.6,
+    "endTime": 701.76,
+    "text": "And so again, that sounds distorted, but"
+  },
+  {
+    "startTime": 701.76,
+    "endTime": 704.48,
+    "text": "what's really amazing here is that we"
+  },
+  {
+    "startTime": 704.48,
+    "endTime": 706.48,
+    "text": "were able to do this with something that"
+  },
+  {
+    "startTime": 706.48,
+    "endTime": 708.399,
+    "text": "you could literally run out and pick up"
+  },
+  {
+    "startTime": 708.399,
+    "endTime": 710.2,
+    "text": "at a Best"
+  },
+  {
+    "startTime": 710.2,
+    "endTime": 713.44,
+    "text": "Buy. So at this point, a lot of people"
+  },
+  {
+    "startTime": 713.44,
+    "endTime": 715.44,
+    "text": "see this work and they immediately think"
+  },
+  {
+    "startTime": 715.44,
+    "endTime": 716.68,
+    "text": "about"
+  },
+  {
+    "startTime": 716.68,
+    "endTime": 720.16,
+    "text": "surveillance. And you know, to be fair,"
+  },
+  {
+    "startTime": 720.16,
+    "endTime": 721.92,
+    "text": "it's not hard to imagine how you might"
+  },
+  {
+    "startTime": 721.92,
+    "endTime": 724.32,
+    "text": "use this technology to spy on someone."
+  },
+  {
+    "startTime": 724.32,
+    "endTime": 726.72,
+    "text": "But keep in mind that there's already a"
+  },
+  {
+    "startTime": 726.72,
+    "endTime": 728.72,
+    "text": "lot of very mature technology out there"
+  },
+  {
+    "startTime": 728.72,
+    "endTime": 730.88,
+    "text": "for surveillance. In fact, people have"
+  },
+  {
+    "startTime": 730.88,
+    "endTime": 733.04,
+    "text": "been using lasers to eaves drop on"
+  },
+  {
+    "startTime": 733.04,
+    "endTime": 735.079,
+    "text": "objects from a distance for"
+  },
+  {
+    "startTime": 735.079,
+    "endTime": 737.92,
+    "text": "decades. But what's really new here,"
+  },
+  {
+    "startTime": 737.92,
+    "endTime": 740.24,
+    "text": "what's really different is that now we"
+  },
+  {
+    "startTime": 740.24,
+    "endTime": 742.399,
+    "text": "have a way to picture the vibrations of"
+  },
+  {
+    "startTime": 742.399,
+    "endTime": 744.959,
+    "text": "an object, which gives us a new lens"
+  },
+  {
+    "startTime": 744.959,
+    "endTime": 747.2,
+    "text": "through which to look at the world. And"
+  },
+  {
+    "startTime": 747.2,
+    "endTime": 749.6,
+    "text": "we can use that lens to learn not just"
+  },
+  {
+    "startTime": 749.6,
+    "endTime": 752.079,
+    "text": "about forces like sound that cause an"
+  },
+  {
+    "startTime": 752.079,
+    "endTime": 754.56,
+    "text": "object to vibrate, but also about the"
+  },
+  {
+    "startTime": 754.56,
+    "endTime": 756.04,
+    "text": "object"
+  },
+  {
+    "startTime": 756.04,
+    "endTime": 758.399,
+    "text": "itself. And so I want to take a step"
+  },
+  {
+    "startTime": 758.399,
+    "endTime": 760.16,
+    "text": "back and and think about how that might"
+  },
+  {
+    "startTime": 760.16,
+    "endTime": 762.8,
+    "text": "change the ways that we use video"
+  },
+  {
+    "startTime": 762.8,
+    "endTime": 765.399,
+    "text": "because we usually use video to look at"
+  },
+  {
+    "startTime": 765.399,
+    "endTime": 768.24,
+    "text": "things. And I've just shown you how we"
+  },
+  {
+    "startTime": 768.24,
+    "endTime": 770.72,
+    "text": "can use it to listen to things. But"
+  },
+  {
+    "startTime": 770.72,
+    "endTime": 772.48,
+    "text": "there's another important way that we"
+  },
+  {
+    "startTime": 772.48,
+    "endTime": 774.959,
+    "text": "learn about the world. That's by"
+  },
+  {
+    "startTime": 774.959,
+    "endTime": 778.24,
+    "text": "interacting with it. We push and pull"
+  },
+  {
+    "startTime": 778.24,
+    "endTime": 780.72,
+    "text": "and poke and prod things. We shake"
+  },
+  {
+    "startTime": 780.72,
+    "endTime": 783.6,
+    "text": "things and see what happens. And that's"
+  },
+  {
+    "startTime": 783.6,
+    "endTime": 786.36,
+    "text": "something that video still won't let us"
+  },
+  {
+    "startTime": 786.36,
+    "endTime": 788.6,
+    "text": "do, at least not"
+  },
+  {
+    "startTime": 788.6,
+    "endTime": 790.32,
+    "text": "traditionally. So, I want to show you"
+  },
+  {
+    "startTime": 790.32,
+    "endTime": 792.56,
+    "text": "some new work. And this is based on an"
+  },
+  {
+    "startTime": 792.56,
+    "endTime": 794.399,
+    "text": "idea I had just a few months ago. So,"
+  },
+  {
+    "startTime": 794.399,
+    "endTime": 795.6,
+    "text": "this is actually the first time I've"
+  },
+  {
+    "startTime": 795.6,
+    "endTime": 798.48,
+    "text": "shown it to a public audience. And the"
+  },
+  {
+    "startTime": 798.48,
+    "endTime": 800.56,
+    "text": "basic idea is that we're going to use"
+  },
+  {
+    "startTime": 800.56,
+    "endTime": 803.839,
+    "text": "the vibrations in a video to capture"
+  },
+  {
+    "startTime": 803.839,
+    "endTime": 805.92,
+    "text": "objects in a way that will let us"
+  },
+  {
+    "startTime": 805.92,
+    "endTime": 808.399,
+    "text": "interact with them and see how they"
+  },
+  {
+    "startTime": 808.399,
+    "endTime": 810.279,
+    "text": "react to"
+  },
+  {
+    "startTime": 810.279,
+    "endTime": 813.68,
+    "text": "us. So here's an object and in this case"
+  },
+  {
+    "startTime": 813.68,
+    "endTime": 815.519,
+    "text": "it's a wire figure in the shape of a"
+  },
+  {
+    "startTime": 815.519,
+    "endTime": 817.519,
+    "text": "human and we're going to film that"
+  },
+  {
+    "startTime": 817.519,
+    "endTime": 819.76,
+    "text": "object with just a regular camera. So"
+  },
+  {
+    "startTime": 819.76,
+    "endTime": 821.04,
+    "text": "there's nothing special about this"
+  },
+  {
+    "startTime": 821.04,
+    "endTime": 822.72,
+    "text": "camera. In fact, I've actually done this"
+  },
+  {
+    "startTime": 822.72,
+    "endTime": 825.279,
+    "text": "with my cell phone before. But we do"
+  },
+  {
+    "startTime": 825.279,
+    "endTime": 827.44,
+    "text": "want to see the object vibrate. So to"
+  },
+  {
+    "startTime": 827.44,
+    "endTime": 828.88,
+    "text": "make that happen, we're just going to"
+  },
+  {
+    "startTime": 828.88,
+    "endTime": 830.639,
+    "text": "bang a little bit on the surface where"
+  },
+  {
+    "startTime": 830.639,
+    "endTime": 834.32,
+    "text": "it's resting while we record this"
+  },
+  {
+    "startTime": 838.04,
+    "endTime": 841.76,
+    "text": "video. And so that's it. Just 5 seconds"
+  },
+  {
+    "startTime": 841.76,
+    "endTime": 844.12,
+    "text": "of regular video while we bang on this"
+  },
+  {
+    "startTime": 844.12,
+    "endTime": 846.399,
+    "text": "surface. And we're going to use the"
+  },
+  {
+    "startTime": 846.399,
+    "endTime": 849.519,
+    "text": "vibrations in that video to learn about"
+  },
+  {
+    "startTime": 849.519,
+    "endTime": 851.68,
+    "text": "the structural and material properties"
+  },
+  {
+    "startTime": 851.68,
+    "endTime": 853.76,
+    "text": "of our object. And we're going to use"
+  },
+  {
+    "startTime": 853.76,
+    "endTime": 856.16,
+    "text": "that information to create something"
+  },
+  {
+    "startTime": 856.16,
+    "endTime": 858.8,
+    "text": "new. and"
+  },
+  {
+    "startTime": 863.959,
+    "endTime": 866.6,
+    "text": "interactive. And so here's what we've"
+  },
+  {
+    "startTime": 866.6,
+    "endTime": 869.04,
+    "text": "created. And it looks like a regular"
+  },
+  {
+    "startTime": 869.04,
+    "endTime": 871.76,
+    "text": "image, but this isn't an image and it's"
+  },
+  {
+    "startTime": 871.76,
+    "endTime": 874.399,
+    "text": "not a video because now I can take my"
+  },
+  {
+    "startTime": 874.399,
+    "endTime": 876.959,
+    "text": "mouse and I can start interacting with"
+  },
+  {
+    "startTime": 876.959,
+    "endTime": 880.199,
+    "text": "the object."
+  },
+  {
+    "startTime": 885.12,
+    "endTime": 888.56,
+    "text": "And so what you see here is a simulation"
+  },
+  {
+    "startTime": 888.56,
+    "endTime": 890.959,
+    "text": "of how this object would respond to new"
+  },
+  {
+    "startTime": 890.959,
+    "endTime": 894.16,
+    "text": "forces that we've never seen before. And"
+  },
+  {
+    "startTime": 894.16,
+    "endTime": 896.72,
+    "text": "we created it from just 5 seconds of"
+  },
+  {
+    "startTime": 896.72,
+    "endTime": 899.47,
+    "text": "regular video."
+  },
+  {
+    "startTime": 899.47,
+    "endTime": 904.57,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 904.57,
+    "endTime": 907.739,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 909.36,
+    "endTime": 911.44,
+    "text": "And so this is a really powerful way to"
+  },
+  {
+    "startTime": 911.44,
+    "endTime": 913.519,
+    "text": "look at the world because it lets us"
+  },
+  {
+    "startTime": 913.519,
+    "endTime": 916.519,
+    "text": "predict how objects will respond to new"
+  },
+  {
+    "startTime": 916.519,
+    "endTime": 918.639,
+    "text": "situations. And you could imagine for"
+  },
+  {
+    "startTime": 918.639,
+    "endTime": 921.519,
+    "text": "instance looking at an old bridge and"
+  },
+  {
+    "startTime": 921.519,
+    "endTime": 923.68,
+    "text": "wondering what would happen, how would"
+  },
+  {
+    "startTime": 923.68,
+    "endTime": 925.519,
+    "text": "that bridge hold up if I were to drive"
+  },
+  {
+    "startTime": 925.519,
+    "endTime": 928.399,
+    "text": "my car across it? And you know that's a"
+  },
+  {
+    "startTime": 928.399,
+    "endTime": 929.839,
+    "text": "question that you probably want to"
+  },
+  {
+    "startTime": 929.839,
+    "endTime": 931.76,
+    "text": "answer before you start driving across"
+  },
+  {
+    "startTime": 931.76,
+    "endTime": 934.16,
+    "text": "that bridge."
+  },
+  {
+    "startTime": 934.16,
+    "endTime": 935.6,
+    "text": "And of course, there are going to be"
+  },
+  {
+    "startTime": 935.6,
+    "endTime": 937.36,
+    "text": "limitations to this technique, just like"
+  },
+  {
+    "startTime": 937.36,
+    "endTime": 939.519,
+    "text": "there were with the visual microphone."
+  },
+  {
+    "startTime": 939.519,
+    "endTime": 941.92,
+    "text": "But we found that it works in a lot of"
+  },
+  {
+    "startTime": 941.92,
+    "endTime": 944.8,
+    "text": "situations that you might not expect,"
+  },
+  {
+    "startTime": 944.8,
+    "endTime": 947.199,
+    "text": "especially if you give it longer videos."
+  },
+  {
+    "startTime": 947.199,
+    "endTime": 949.519,
+    "text": "So, for example, here's a video that I"
+  },
+  {
+    "startTime": 949.519,
+    "endTime": 951.199,
+    "text": "captured of a bush outside of my"
+  },
+  {
+    "startTime": 951.199,
+    "endTime": 953.759,
+    "text": "apartment. And I didn't do anything to"
+  },
+  {
+    "startTime": 953.759,
+    "endTime": 956.56,
+    "text": "this bush. But by capturing a minute"
+  },
+  {
+    "startTime": 956.56,
+    "endTime": 960.079,
+    "text": "long video, a gentle breeze caused"
+  },
+  {
+    "startTime": 960.079,
+    "endTime": 962.48,
+    "text": "enough vibrations that we could learn"
+  },
+  {
+    "startTime": 962.48,
+    "endTime": 964.32,
+    "text": "enough about this bush to create this"
+  },
+  {
+    "startTime": 964.32,
+    "endTime": 967.32,
+    "text": "simulation."
+  },
+  {
+    "startTime": 973.12,
+    "endTime": 975.199,
+    "text": "And so you could imagine giving this to"
+  },
+  {
+    "startTime": 975.199,
+    "endTime": 977.759,
+    "text": "a film director and letting him control,"
+  },
+  {
+    "startTime": 977.759,
+    "endTime": 980.399,
+    "text": "say, the strength and direction of wind"
+  },
+  {
+    "startTime": 980.399,
+    "endTime": 983.8,
+    "text": "in a shot after it's been"
+  },
+  {
+    "startTime": 983.8,
+    "endTime": 986.959,
+    "text": "recorded. Or in this case, we pointed"
+  },
+  {
+    "startTime": 986.959,
+    "endTime": 990.16,
+    "text": "our camera at a hanging curtain. And you"
+  },
+  {
+    "startTime": 990.16,
+    "endTime": 993.279,
+    "text": "can't even see any motion in this video."
+  },
+  {
+    "startTime": 993.279,
+    "endTime": 996.399,
+    "text": "But by recording a 2-minute long video,"
+  },
+  {
+    "startTime": 996.399,
+    "endTime": 998.88,
+    "text": "natural air currents in this room"
+  },
+  {
+    "startTime": 998.88,
+    "endTime": 1001.199,
+    "text": "created enough subtle imperceptible"
+  },
+  {
+    "startTime": 1001.199,
+    "endTime": 1003.68,
+    "text": "motions and vibrations that we could"
+  },
+  {
+    "startTime": 1003.68,
+    "endTime": 1006.8,
+    "text": "learn enough to create this"
+  },
+  {
+    "startTime": 1007.32,
+    "endTime": 1010.959,
+    "text": "simulation. And you know, ironically,"
+  },
+  {
+    "startTime": 1010.959,
+    "endTime": 1012.48,
+    "text": "we're kind of used to having this kind"
+  },
+  {
+    "startTime": 1012.48,
+    "endTime": 1014.56,
+    "text": "of interactivity when it comes to"
+  },
+  {
+    "startTime": 1014.56,
+    "endTime": 1017.44,
+    "text": "virtual objects, when it comes to video"
+  },
+  {
+    "startTime": 1017.44,
+    "endTime": 1020.32,
+    "text": "games and 3D models. But to be able to"
+  },
+  {
+    "startTime": 1020.32,
+    "endTime": 1022.399,
+    "text": "capture this information for real"
+  },
+  {
+    "startTime": 1022.399,
+    "endTime": 1024.88,
+    "text": "objects in the real world using just"
+  },
+  {
+    "startTime": 1024.88,
+    "endTime": 1027.36,
+    "text": "simple regular video is something new"
+  },
+  {
+    "startTime": 1027.36,
+    "endTime": 1029.48,
+    "text": "that has a lot of"
+  },
+  {
+    "startTime": 1029.48,
+    "endTime": 1032.64,
+    "text": "potential. So here are the amazing"
+  },
+  {
+    "startTime": 1032.64,
+    "endTime": 1034.24,
+    "text": "people who worked with me on these"
+  },
+  {
+    "startTime": 1034.24,
+    "endTime": 1035.619,
+    "text": "projects."
+  },
+  {
+    "startTime": 1035.619,
+    "endTime": 1037.24,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 1037.24,
+    "endTime": 1040.509,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 1043.24,
+    "endTime": 1046.64,
+    "text": "And and what I'll show you today is only"
+  },
+  {
+    "startTime": 1046.64,
+    "endTime": 1048.799,
+    "text": "the beginning. We've just started to"
+  },
+  {
+    "startTime": 1048.799,
+    "endTime": 1050.72,
+    "text": "scratch the surface of what you can do"
+  },
+  {
+    "startTime": 1050.72,
+    "endTime": 1053.52,
+    "text": "with this kind of imaging because it"
+  },
+  {
+    "startTime": 1053.52,
+    "endTime": 1056.32,
+    "text": "gives us a new way to capture our"
+  },
+  {
+    "startTime": 1056.32,
+    "endTime": 1058.919,
+    "text": "surroundings with common accessible"
+  },
+  {
+    "startTime": 1058.919,
+    "endTime": 1061.2,
+    "text": "technology. And so looking to the"
+  },
+  {
+    "startTime": 1061.2,
+    "endTime": 1063.28,
+    "text": "future, it's going to be really exciting"
+  },
+  {
+    "startTime": 1063.28,
+    "endTime": 1065.12,
+    "text": "to explore what this can tell us about"
+  },
+  {
+    "startTime": 1065.12,
+    "endTime": 1069.72,
+    "text": "the world. Thank you."
+  }
+]

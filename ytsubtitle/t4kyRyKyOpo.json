@@ -1,0 +1,2662 @@
+[
+  {
+    "startTime": 9.42,
+    "endTime": 13.04,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 13.04,
+    "endTime": 14.799,
+    "text": "Well, it used to be that if you wanted"
+  },
+  {
+    "startTime": 14.799,
+    "endTime": 16.88,
+    "text": "to get a computer to do something new,"
+  },
+  {
+    "startTime": 16.88,
+    "endTime": 19.039,
+    "text": "you would have to program it. Now,"
+  },
+  {
+    "startTime": 19.039,
+    "endTime": 20.56,
+    "text": "programming for those of you who that"
+  },
+  {
+    "startTime": 20.56,
+    "endTime": 23.279,
+    "text": "haven't done it yourself requires laying"
+  },
+  {
+    "startTime": 23.279,
+    "endTime": 26.08,
+    "text": "out in excruciating detail every single"
+  },
+  {
+    "startTime": 26.08,
+    "endTime": 27.68,
+    "text": "step that you want the computer to"
+  },
+  {
+    "startTime": 27.68,
+    "endTime": 30.439,
+    "text": "achieve to do in order to achieve your"
+  },
+  {
+    "startTime": 30.439,
+    "endTime": 32.96,
+    "text": "goal. Now, if you want to do something"
+  },
+  {
+    "startTime": 32.96,
+    "endTime": 34.719,
+    "text": "that you don't know how to do yourself,"
+  },
+  {
+    "startTime": 34.719,
+    "endTime": 35.92,
+    "text": "then this is going to be a great"
+  },
+  {
+    "startTime": 35.92,
+    "endTime": 37.92,
+    "text": "challenge. So, this was the challenge"
+  },
+  {
+    "startTime": 37.92,
+    "endTime": 41.76,
+    "text": "faced by this man Arthur Samuel in 1956."
+  },
+  {
+    "startTime": 41.76,
+    "endTime": 44.8,
+    "text": "He wanted to get this computer to be"
+  },
+  {
+    "startTime": 44.8,
+    "endTime": 46.8,
+    "text": "able to beat him at checkers. How can"
+  },
+  {
+    "startTime": 46.8,
+    "endTime": 49.12,
+    "text": "you write a program lay out in"
+  },
+  {
+    "startTime": 49.12,
+    "endTime": 51.28,
+    "text": "excruciating detail how to be better"
+  },
+  {
+    "startTime": 51.28,
+    "endTime": 53.36,
+    "text": "than you at checkers? So he came up with"
+  },
+  {
+    "startTime": 53.36,
+    "endTime": 55.36,
+    "text": "an idea. He had the computer play"
+  },
+  {
+    "startTime": 55.36,
+    "endTime": 58.64,
+    "text": "against itself thousands of times and"
+  },
+  {
+    "startTime": 58.64,
+    "endTime": 61.6,
+    "text": "learn how to play checkers. And indeed"
+  },
+  {
+    "startTime": 61.6,
+    "endTime": 63.92,
+    "text": "it worked. And in fact by 1962 this"
+  },
+  {
+    "startTime": 63.92,
+    "endTime": 65.36,
+    "text": "computer had beaten the Connecticut"
+  },
+  {
+    "startTime": 65.36,
+    "endTime": 66.52,
+    "text": "state"
+  },
+  {
+    "startTime": 66.52,
+    "endTime": 69.28,
+    "text": "champion. So Arthur Samuel was the"
+  },
+  {
+    "startTime": 69.28,
+    "endTime": 71.04,
+    "text": "father of machine learning. And I have a"
+  },
+  {
+    "startTime": 71.04,
+    "endTime": 73.04,
+    "text": "great debt to him because I am a machine"
+  },
+  {
+    "startTime": 73.04,
+    "endTime": 75.52,
+    "text": "learning practitioner. Uh, I was the"
+  },
+  {
+    "startTime": 75.52,
+    "endTime": 77.36,
+    "text": "president of Kaggle, a community of over"
+  },
+  {
+    "startTime": 77.36,
+    "endTime": 80.32,
+    "text": "200,000 machine learning practitioners."
+  },
+  {
+    "startTime": 80.32,
+    "endTime": 83.04,
+    "text": "Kaggle puts up competitions to try and"
+  },
+  {
+    "startTime": 83.04,
+    "endTime": 85.119,
+    "text": "get them to solve previously unsolved"
+  },
+  {
+    "startTime": 85.119,
+    "endTime": 87.28,
+    "text": "problems and has been successful"
+  },
+  {
+    "startTime": 87.28,
+    "endTime": 88.52,
+    "text": "hundreds of"
+  },
+  {
+    "startTime": 88.52,
+    "endTime": 91.2,
+    "text": "times. So from this vantage point, I was"
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 92.88,
+    "text": "able to find out a lot about what"
+  },
+  {
+    "startTime": 92.88,
+    "endTime": 95.119,
+    "text": "machine learning can do in the past, can"
+  },
+  {
+    "startTime": 95.119,
+    "endTime": 97.32,
+    "text": "do today, and what it could do in the"
+  },
+  {
+    "startTime": 97.32,
+    "endTime": 100.56,
+    "text": "future. Perhaps the first big success of"
+  },
+  {
+    "startTime": 100.56,
+    "endTime": 102.079,
+    "text": "machine learning commercially was"
+  },
+  {
+    "startTime": 102.079,
+    "endTime": 103.92,
+    "text": "Google. Google showed that it is"
+  },
+  {
+    "startTime": 103.92,
+    "endTime": 106.88,
+    "text": "possible to find information by using a"
+  },
+  {
+    "startTime": 106.88,
+    "endTime": 108.72,
+    "text": "computer algorithm. And this algorithm"
+  },
+  {
+    "startTime": 108.72,
+    "endTime": 111.36,
+    "text": "is based on machine learning. Since that"
+  },
+  {
+    "startTime": 111.36,
+    "endTime": 112.96,
+    "text": "time, there has been many commercial"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 114.799,
+    "text": "successes of machine learning. Companies"
+  },
+  {
+    "startTime": 114.799,
+    "endTime": 117.2,
+    "text": "like Amazon and Netflix use machine"
+  },
+  {
+    "startTime": 117.2,
+    "endTime": 118.88,
+    "text": "learning to suggest products that you"
+  },
+  {
+    "startTime": 118.88,
+    "endTime": 120.799,
+    "text": "might like to buy, movies that you might"
+  },
+  {
+    "startTime": 120.799,
+    "endTime": 123.04,
+    "text": "like to watch. Sometimes it's almost"
+  },
+  {
+    "startTime": 123.04,
+    "endTime": 125.28,
+    "text": "creepy. Companies like LinkedIn and"
+  },
+  {
+    "startTime": 125.28,
+    "endTime": 126.88,
+    "text": "Facebook sometimes will tell you about"
+  },
+  {
+    "startTime": 126.88,
+    "endTime": 128.8,
+    "text": "who your friends might be, and you have"
+  },
+  {
+    "startTime": 128.8,
+    "endTime": 130.8,
+    "text": "no idea how it did it. And this is"
+  },
+  {
+    "startTime": 130.8,
+    "endTime": 132.56,
+    "text": "because it's using the power of machine"
+  },
+  {
+    "startTime": 132.56,
+    "endTime": 134.56,
+    "text": "learning. These are algorithms that have"
+  },
+  {
+    "startTime": 134.56,
+    "endTime": 136.959,
+    "text": "learned how to do this from data rather"
+  },
+  {
+    "startTime": 136.959,
+    "endTime": 140.0,
+    "text": "than being programmed by hand. This is"
+  },
+  {
+    "startTime": 140.0,
+    "endTime": 142.72,
+    "text": "also how IBM was successful in getting"
+  },
+  {
+    "startTime": 142.72,
+    "endTime": 144.8,
+    "text": "Watson to beat the two world champions"
+  },
+  {
+    "startTime": 144.8,
+    "endTime": 147.44,
+    "text": "of Jeopardy, answering incredibly subtle"
+  },
+  {
+    "startTime": 147.44,
+    "endTime": 150.68,
+    "text": "and complex questions like this"
+  },
+  {
+    "startTime": 150.68,
+    "endTime": 153.519,
+    "text": "one. This is also why we are now able to"
+  },
+  {
+    "startTime": 153.519,
+    "endTime": 155.84,
+    "text": "see the first self-driving cars. If you"
+  },
+  {
+    "startTime": 155.84,
+    "endTime": 157.04,
+    "text": "want to be able to tell the difference"
+  },
+  {
+    "startTime": 157.04,
+    "endTime": 159.36,
+    "text": "between, say, a tree and a pedestrian,"
+  },
+  {
+    "startTime": 159.36,
+    "endTime": 161.2,
+    "text": "well, that's pretty important. We don't"
+  },
+  {
+    "startTime": 161.2,
+    "endTime": 162.959,
+    "text": "know how to write those programs by"
+  },
+  {
+    "startTime": 162.959,
+    "endTime": 165.12,
+    "text": "hand, but with machine learning, this is"
+  },
+  {
+    "startTime": 165.12,
+    "endTime": 167.599,
+    "text": "now possible. And in fact, this car has"
+  },
+  {
+    "startTime": 167.599,
+    "endTime": 169.519,
+    "text": "driven over a million miles without any"
+  },
+  {
+    "startTime": 169.519,
+    "endTime": 171.72,
+    "text": "accidents on regular"
+  },
+  {
+    "startTime": 171.72,
+    "endTime": 174.64,
+    "text": "roads. So, we know now know that"
+  },
+  {
+    "startTime": 174.64,
+    "endTime": 177.28,
+    "text": "computers can learn and computers can"
+  },
+  {
+    "startTime": 177.28,
+    "endTime": 179.04,
+    "text": "learn to do things that we actually"
+  },
+  {
+    "startTime": 179.04,
+    "endTime": 181.04,
+    "text": "sometimes don't know how to do ourselves"
+  },
+  {
+    "startTime": 181.04,
+    "endTime": 183.92,
+    "text": "or maybe can do them better than us."
+  },
+  {
+    "startTime": 183.92,
+    "endTime": 186.159,
+    "text": "One of the most amazing examples I've"
+  },
+  {
+    "startTime": 186.159,
+    "endTime": 188.64,
+    "text": "seen of machine learning happened on a"
+  },
+  {
+    "startTime": 188.64,
+    "endTime": 191.28,
+    "text": "project that I ran at Kaggle where a"
+  },
+  {
+    "startTime": 191.28,
+    "endTime": 193.76,
+    "text": "team run uh by a guy called Jeffrey"
+  },
+  {
+    "startTime": 193.76,
+    "endTime": 195.599,
+    "text": "Hinton from the University of Toronto"
+  },
+  {
+    "startTime": 195.599,
+    "endTime": 197.44,
+    "text": "won a competition for automatic drug"
+  },
+  {
+    "startTime": 197.44,
+    "endTime": 199.44,
+    "text": "discovery. Now what was extraordinary"
+  },
+  {
+    "startTime": 199.44,
+    "endTime": 201.28,
+    "text": "here is not just that they beat all of"
+  },
+  {
+    "startTime": 201.28,
+    "endTime": 203.28,
+    "text": "the algorithms developed by Merc or the"
+  },
+  {
+    "startTime": 203.28,
+    "endTime": 205.36,
+    "text": "international academic community but"
+  },
+  {
+    "startTime": 205.36,
+    "endTime": 207.92,
+    "text": "nobody on the team had any background in"
+  },
+  {
+    "startTime": 207.92,
+    "endTime": 210.159,
+    "text": "chemistry or biology or life sciences"
+  },
+  {
+    "startTime": 210.159,
+    "endTime": 212.959,
+    "text": "and they did it in two weeks. How did"
+  },
+  {
+    "startTime": 212.959,
+    "endTime": 215.68,
+    "text": "they do this? They used an extraordinary"
+  },
+  {
+    "startTime": 215.68,
+    "endTime": 218.0,
+    "text": "algorithm called deep learning. Uh so"
+  },
+  {
+    "startTime": 218.0,
+    "endTime": 219.599,
+    "text": "important was this that in fact this"
+  },
+  {
+    "startTime": 219.599,
+    "endTime": 221.04,
+    "text": "success was covered in the New York"
+  },
+  {
+    "startTime": 221.04,
+    "endTime": 222.799,
+    "text": "Times in a front page article a few"
+  },
+  {
+    "startTime": 222.799,
+    "endTime": 224.64,
+    "text": "weeks later. This is Jeffrey Hinton here"
+  },
+  {
+    "startTime": 224.64,
+    "endTime": 227.36,
+    "text": "on the lefth hand side. Deep learning is"
+  },
+  {
+    "startTime": 227.36,
+    "endTime": 229.519,
+    "text": "an algorithm inspired by how the human"
+  },
+  {
+    "startTime": 229.519,
+    "endTime": 231.68,
+    "text": "brain works and as a result it's an"
+  },
+  {
+    "startTime": 231.68,
+    "endTime": 233.68,
+    "text": "algorithm which has no theoretical"
+  },
+  {
+    "startTime": 233.68,
+    "endTime": 236.319,
+    "text": "limitations on what it can do. The more"
+  },
+  {
+    "startTime": 236.319,
+    "endTime": 237.519,
+    "text": "data you give it and the more"
+  },
+  {
+    "startTime": 237.519,
+    "endTime": 239.28,
+    "text": "computation time you give it the better"
+  },
+  {
+    "startTime": 239.28,
+    "endTime": 242.0,
+    "text": "it gets. The New York Times also showed"
+  },
+  {
+    "startTime": 242.0,
+    "endTime": 243.599,
+    "text": "in this article another extraordinary"
+  },
+  {
+    "startTime": 243.599,
+    "endTime": 245.439,
+    "text": "result of deep learning which I'm going"
+  },
+  {
+    "startTime": 245.439,
+    "endTime": 247.08,
+    "text": "to show you"
+  },
+  {
+    "startTime": 247.08,
+    "endTime": 250.56,
+    "text": "now. It shows that computers can listen"
+  },
+  {
+    "startTime": 250.56,
+    "endTime": 251.72,
+    "text": "and"
+  },
+  {
+    "startTime": 251.72,
+    "endTime": 256.079,
+    "text": "understand. Now the last step that I"
+  },
+  {
+    "startTime": 256.079,
+    "endTime": 258.639,
+    "text": "want to be able to take in this process"
+  },
+  {
+    "startTime": 258.639,
+    "endTime": 263.72,
+    "text": "is to actually speak to you in Chinese."
+  },
+  {
+    "startTime": 263.759,
+    "endTime": 266.0,
+    "text": "Now the key thing there is we've been"
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 267.72,
+    "text": "able to take a large amount of"
+  },
+  {
+    "startTime": 267.72,
+    "endTime": 270.72,
+    "text": "information from many Chinese speakers"
+  },
+  {
+    "startTime": 270.72,
+    "endTime": 273.68,
+    "text": "and produce a texttospech system that"
+  },
+  {
+    "startTime": 273.68,
+    "endTime": 276.56,
+    "text": "takes Chinese text and converts it into"
+  },
+  {
+    "startTime": 276.56,
+    "endTime": 277.96,
+    "text": "Chinese"
+  },
+  {
+    "startTime": 277.96,
+    "endTime": 280.56,
+    "text": "language and then we've taken an hour or"
+  },
+  {
+    "startTime": 280.56,
+    "endTime": 283.28,
+    "text": "so of my own voice and we've used that"
+  },
+  {
+    "startTime": 283.28,
+    "endTime": 285.919,
+    "text": "to modulate the standard text to speech"
+  },
+  {
+    "startTime": 285.919,
+    "endTime": 287.88,
+    "text": "system so that it would sound like"
+  },
+  {
+    "startTime": 287.88,
+    "endTime": 291.759,
+    "text": "me. Again the results are not perfect."
+  },
+  {
+    "startTime": 291.759,
+    "endTime": 294.88,
+    "text": "There are in fact quite a few"
+  },
+  {
+    "startTime": 296.97,
+    "endTime": 300.52,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 300.52,
+    "endTime": 303.04,
+    "text": "errors. There's much work to be done in"
+  },
+  {
+    "startTime": 303.04,
+    "endTime": 305.199,
+    "text": "this"
+  },
+  {
+    "startTime": 312.52,
+    "endTime": 314.72,
+    "text": "area. Well, that was at a machine"
+  },
+  {
+    "startTime": 314.72,
+    "endTime": 317.039,
+    "text": "learning conference in China. Uh it's"
+  },
+  {
+    "startTime": 317.039,
+    "endTime": 318.32,
+    "text": "not often actually at academic"
+  },
+  {
+    "startTime": 318.32,
+    "endTime": 320.24,
+    "text": "conferences that you do hear spontaneous"
+  },
+  {
+    "startTime": 320.24,
+    "endTime": 321.84,
+    "text": "applause. Uh although of course"
+  },
+  {
+    "startTime": 321.84,
+    "endTime": 323.6,
+    "text": "sometimes at TEDex conferences feel"
+  },
+  {
+    "startTime": 323.6,
+    "endTime": 326.16,
+    "text": "free. Uh everything you saw there was"
+  },
+  {
+    "startTime": 326.16,
+    "endTime": 328.479,
+    "text": "happening with deep learning. Thank you."
+  },
+  {
+    "startTime": 328.479,
+    "endTime": 330.8,
+    "text": "Uh the transcription in English was deep"
+  },
+  {
+    "startTime": 330.8,
+    "endTime": 332.639,
+    "text": "learning. The translation to Chinese and"
+  },
+  {
+    "startTime": 332.639,
+    "endTime": 334.32,
+    "text": "the text in the top right deep learning"
+  },
+  {
+    "startTime": 334.32,
+    "endTime": 336.0,
+    "text": "and the construction of the voice was"
+  },
+  {
+    "startTime": 336.0,
+    "endTime": 339.68,
+    "text": "deep learning as well. Um so deep"
+  },
+  {
+    "startTime": 339.68,
+    "endTime": 341.44,
+    "text": "learning is this extraordinary thing."
+  },
+  {
+    "startTime": 341.44,
+    "endTime": 343.28,
+    "text": "It's a single algorithm that can seem to"
+  },
+  {
+    "startTime": 343.28,
+    "endTime": 345.039,
+    "text": "do almost anything. And I discovered"
+  },
+  {
+    "startTime": 345.039,
+    "endTime": 346.96,
+    "text": "that a year earlier it had also learned"
+  },
+  {
+    "startTime": 346.96,
+    "endTime": 349.44,
+    "text": "to see. In this obscure competition from"
+  },
+  {
+    "startTime": 349.44,
+    "endTime": 351.12,
+    "text": "Germany called the German traffic sign"
+  },
+  {
+    "startTime": 351.12,
+    "endTime": 353.36,
+    "text": "benchmark, deep learning had learned to"
+  },
+  {
+    "startTime": 353.36,
+    "endTime": 355.919,
+    "text": "recognize traffic signs like this one."
+  },
+  {
+    "startTime": 355.919,
+    "endTime": 357.52,
+    "text": "Not only could it recognize the traffic"
+  },
+  {
+    "startTime": 357.52,
+    "endTime": 359.28,
+    "text": "signs better than any other algorithm,"
+  },
+  {
+    "startTime": 359.28,
+    "endTime": 361.039,
+    "text": "the leaderboard actually showed it was"
+  },
+  {
+    "startTime": 361.039,
+    "endTime": 363.28,
+    "text": "better than people, about twice as good"
+  },
+  {
+    "startTime": 363.28,
+    "endTime": 366.08,
+    "text": "as people. So by 2011, we had the first"
+  },
+  {
+    "startTime": 366.08,
+    "endTime": 368.56,
+    "text": "example of computers that can see better"
+  },
+  {
+    "startTime": 368.56,
+    "endTime": 371.039,
+    "text": "than people. Since that time, a lot has"
+  },
+  {
+    "startTime": 371.039,
+    "endTime": 373.6,
+    "text": "happened. In 2012, Google announced that"
+  },
+  {
+    "startTime": 373.6,
+    "endTime": 375.36,
+    "text": "they had a deep learning algorithm watch"
+  },
+  {
+    "startTime": 375.36,
+    "endTime": 377.68,
+    "text": "YouTube videos and crunched the data on"
+  },
+  {
+    "startTime": 377.68,
+    "endTime": 380.16,
+    "text": "16,000 computers for a month. And the"
+  },
+  {
+    "startTime": 380.16,
+    "endTime": 381.84,
+    "text": "computer independently learned about"
+  },
+  {
+    "startTime": 381.84,
+    "endTime": 384.96,
+    "text": "concepts such as people and cats just by"
+  },
+  {
+    "startTime": 384.96,
+    "endTime": 386.8,
+    "text": "watching the videos. This is much like"
+  },
+  {
+    "startTime": 386.8,
+    "endTime": 388.96,
+    "text": "the way that humans learn. Humans don't"
+  },
+  {
+    "startTime": 388.96,
+    "endTime": 391.36,
+    "text": "learn by being told what they see, but"
+  },
+  {
+    "startTime": 391.36,
+    "endTime": 392.96,
+    "text": "by learning for themselves what these"
+  },
+  {
+    "startTime": 392.96,
+    "endTime": 394.639,
+    "text": "things are."
+  },
+  {
+    "startTime": 394.639,
+    "endTime": 397.199,
+    "text": "Also in 2012, Jeffrey Hinton, who we saw"
+  },
+  {
+    "startTime": 397.199,
+    "endTime": 399.68,
+    "text": "earlier, uh, won the very popular"
+  },
+  {
+    "startTime": 399.68,
+    "endTime": 402.56,
+    "text": "imageet competition looking to try to"
+  },
+  {
+    "startTime": 402.56,
+    "endTime": 404.319,
+    "text": "figure out from one and a half million"
+  },
+  {
+    "startTime": 404.319,
+    "endTime": 406.96,
+    "text": "images what they're pictures of. As of"
+  },
+  {
+    "startTime": 406.96,
+    "endTime": 409.84,
+    "text": "2014, we're now down to a 6% error rate"
+  },
+  {
+    "startTime": 409.84,
+    "endTime": 411.919,
+    "text": "in image recognition. This is better"
+  },
+  {
+    "startTime": 411.919,
+    "endTime": 414.639,
+    "text": "than people again. So machines really"
+  },
+  {
+    "startTime": 414.639,
+    "endTime": 417.039,
+    "text": "are doing extraordinary good job of this"
+  },
+  {
+    "startTime": 417.039,
+    "endTime": 419.28,
+    "text": "and it is now being used in industry."
+  },
+  {
+    "startTime": 419.28,
+    "endTime": 421.919,
+    "text": "For example, Google announced it last"
+  },
+  {
+    "startTime": 421.919,
+    "endTime": 424.08,
+    "text": "year that they had mapped every single"
+  },
+  {
+    "startTime": 424.08,
+    "endTime": 427.44,
+    "text": "location in France in two hours. And the"
+  },
+  {
+    "startTime": 427.44,
+    "endTime": 429.68,
+    "text": "way they did it was that they fed street"
+  },
+  {
+    "startTime": 429.68,
+    "endTime": 431.52,
+    "text": "view images into a deep learning"
+  },
+  {
+    "startTime": 431.52,
+    "endTime": 434.16,
+    "text": "algorithm to recognize and read street"
+  },
+  {
+    "startTime": 434.16,
+    "endTime": 436.08,
+    "text": "numbers. Imagine how long it would have"
+  },
+  {
+    "startTime": 436.08,
+    "endTime": 439.8,
+    "text": "taken before dozens of people many"
+  },
+  {
+    "startTime": 439.8,
+    "endTime": 442.4,
+    "text": "years. This is also happening in China."
+  },
+  {
+    "startTime": 442.4,
+    "endTime": 446.08,
+    "text": "BYU is kind of the the Chinese Google I"
+  },
+  {
+    "startTime": 446.08,
+    "endTime": 448.4,
+    "text": "guess. And what you see here in the top"
+  },
+  {
+    "startTime": 448.4,
+    "endTime": 450.479,
+    "text": "left is an example of a picture that I"
+  },
+  {
+    "startTime": 450.479,
+    "endTime": 452.88,
+    "text": "uploaded to BU's deep learning system."
+  },
+  {
+    "startTime": 452.88,
+    "endTime": 454.4,
+    "text": "And underneath you can see that the"
+  },
+  {
+    "startTime": 454.4,
+    "endTime": 456.08,
+    "text": "system has understood what that picture"
+  },
+  {
+    "startTime": 456.08,
+    "endTime": 459.28,
+    "text": "is and found similar images. The similar"
+  },
+  {
+    "startTime": 459.28,
+    "endTime": 460.56,
+    "text": "images actually have similar"
+  },
+  {
+    "startTime": 460.56,
+    "endTime": 462.4,
+    "text": "backgrounds, similar directions of the"
+  },
+  {
+    "startTime": 462.4,
+    "endTime": 464.319,
+    "text": "faces, uh even some with their tongue"
+  },
+  {
+    "startTime": 464.319,
+    "endTime": 466.72,
+    "text": "out. This is not clearly looking at the"
+  },
+  {
+    "startTime": 466.72,
+    "endTime": 468.56,
+    "text": "text of a web page. All I uploaded was"
+  },
+  {
+    "startTime": 468.56,
+    "endTime": 471.199,
+    "text": "an image. So we now have computers which"
+  },
+  {
+    "startTime": 471.199,
+    "endTime": 473.36,
+    "text": "really understand what they see and can"
+  },
+  {
+    "startTime": 473.36,
+    "endTime": 475.36,
+    "text": "therefore search databases of hundreds"
+  },
+  {
+    "startTime": 475.36,
+    "endTime": 478.4,
+    "text": "of millions of images in real time. So"
+  },
+  {
+    "startTime": 478.4,
+    "endTime": 480.599,
+    "text": "what does it mean now that computers can"
+  },
+  {
+    "startTime": 480.599,
+    "endTime": 482.96,
+    "text": "see? Well, it's not just computers can"
+  },
+  {
+    "startTime": 482.96,
+    "endTime": 484.96,
+    "text": "see. In fact, deep learning has done"
+  },
+  {
+    "startTime": 484.96,
+    "endTime": 487.84,
+    "text": "more than that. Complex nuance sentences"
+  },
+  {
+    "startTime": 487.84,
+    "endTime": 489.919,
+    "text": "like this one are now understandable"
+  },
+  {
+    "startTime": 489.919,
+    "endTime": 492.0,
+    "text": "with deep learning algorithms. As you"
+  },
+  {
+    "startTime": 492.0,
+    "endTime": 494.24,
+    "text": "can see here, this Stanford-based system"
+  },
+  {
+    "startTime": 494.24,
+    "endTime": 496.24,
+    "text": "showing the red dot at the top has"
+  },
+  {
+    "startTime": 496.24,
+    "endTime": 497.759,
+    "text": "figured out that this sentence is"
+  },
+  {
+    "startTime": 497.759,
+    "endTime": 499.919,
+    "text": "expressing negative sentiment. Deep"
+  },
+  {
+    "startTime": 499.919,
+    "endTime": 502.0,
+    "text": "learning now, in fact, is near human"
+  },
+  {
+    "startTime": 502.0,
+    "endTime": 503.599,
+    "text": "performance at understanding what"
+  },
+  {
+    "startTime": 503.599,
+    "endTime": 505.44,
+    "text": "sentences are about and what it is"
+  },
+  {
+    "startTime": 505.44,
+    "endTime": 507.56,
+    "text": "saying about those"
+  },
+  {
+    "startTime": 507.56,
+    "endTime": 509.84,
+    "text": "things. Also, deep learning has been"
+  },
+  {
+    "startTime": 509.84,
+    "endTime": 512.08,
+    "text": "used to read Chinese again at about"
+  },
+  {
+    "startTime": 512.08,
+    "endTime": 514.479,
+    "text": "native Chinese speaker level. Uh, this"
+  },
+  {
+    "startTime": 514.479,
+    "endTime": 516.24,
+    "text": "algorithm developed out of Switzerland"
+  },
+  {
+    "startTime": 516.24,
+    "endTime": 518.159,
+    "text": "by people none of whom speak or"
+  },
+  {
+    "startTime": 518.159,
+    "endTime": 520.959,
+    "text": "understand any Chinese. As I say, using"
+  },
+  {
+    "startTime": 520.959,
+    "endTime": 522.88,
+    "text": "deep learning is about the best system"
+  },
+  {
+    "startTime": 522.88,
+    "endTime": 525.44,
+    "text": "in the world for this uh even compared"
+  },
+  {
+    "startTime": 525.44,
+    "endTime": 528.279,
+    "text": "to native human"
+  },
+  {
+    "startTime": 528.279,
+    "endTime": 530.399,
+    "text": "understanding. This is a system that we"
+  },
+  {
+    "startTime": 530.399,
+    "endTime": 532.399,
+    "text": "put together at my company which shows"
+  },
+  {
+    "startTime": 532.399,
+    "endTime": 534.16,
+    "text": "putting all this stuff together. These"
+  },
+  {
+    "startTime": 534.16,
+    "endTime": 535.76,
+    "text": "are pictures which have no text"
+  },
+  {
+    "startTime": 535.76,
+    "endTime": 538.16,
+    "text": "attached. And as I'm typing in here"
+  },
+  {
+    "startTime": 538.16,
+    "endTime": 540.0,
+    "text": "sentences in real time, it's"
+  },
+  {
+    "startTime": 540.0,
+    "endTime": 541.92,
+    "text": "understanding these pictures and"
+  },
+  {
+    "startTime": 541.92,
+    "endTime": 543.36,
+    "text": "figuring out what they're about and"
+  },
+  {
+    "startTime": 543.36,
+    "endTime": 545.12,
+    "text": "finding pictures that are similar to the"
+  },
+  {
+    "startTime": 545.12,
+    "endTime": 546.88,
+    "text": "text that I'm writing. So you can see"
+  },
+  {
+    "startTime": 546.88,
+    "endTime": 548.8,
+    "text": "it's actually understanding my sentences"
+  },
+  {
+    "startTime": 548.8,
+    "endTime": 550.6,
+    "text": "and actually understanding these"
+  },
+  {
+    "startTime": 550.6,
+    "endTime": 552.56,
+    "text": "pictures. I know that you've seen"
+  },
+  {
+    "startTime": 552.56,
+    "endTime": 554.32,
+    "text": "something like this on Google where you"
+  },
+  {
+    "startTime": 554.32,
+    "endTime": 556.32,
+    "text": "can type in things and it'll show you"
+  },
+  {
+    "startTime": 556.32,
+    "endTime": 557.92,
+    "text": "pictures. But actually what it's doing"
+  },
+  {
+    "startTime": 557.92,
+    "endTime": 559.839,
+    "text": "is it's searching the web page for the"
+  },
+  {
+    "startTime": 559.839,
+    "endTime": 561.6,
+    "text": "text. This is very different to actually"
+  },
+  {
+    "startTime": 561.6,
+    "endTime": 563.2,
+    "text": "understanding the images. This is"
+  },
+  {
+    "startTime": 563.2,
+    "endTime": 564.72,
+    "text": "something that computers have only been"
+  },
+  {
+    "startTime": 564.72,
+    "endTime": 566.64,
+    "text": "able to do for the first time in the"
+  },
+  {
+    "startTime": 566.64,
+    "endTime": 568.519,
+    "text": "last few"
+  },
+  {
+    "startTime": 568.519,
+    "endTime": 570.959,
+    "text": "months. So we can see now that computers"
+  },
+  {
+    "startTime": 570.959,
+    "endTime": 573.36,
+    "text": "can not only see but they can also read."
+  },
+  {
+    "startTime": 573.36,
+    "endTime": 574.8,
+    "text": "And of course, we've shown that they can"
+  },
+  {
+    "startTime": 574.8,
+    "endTime": 577.44,
+    "text": "understand what they hear. Perhaps not"
+  },
+  {
+    "startTime": 577.44,
+    "endTime": 578.72,
+    "text": "surprising now that I'm going to tell"
+  },
+  {
+    "startTime": 578.72,
+    "endTime": 581.2,
+    "text": "you they can write. Uh here is some text"
+  },
+  {
+    "startTime": 581.2,
+    "endTime": 582.959,
+    "text": "that I generated using a deep learning"
+  },
+  {
+    "startTime": 582.959,
+    "endTime": 585.0,
+    "text": "algorithm"
+  },
+  {
+    "startTime": 585.0,
+    "endTime": 587.36,
+    "text": "yesterday. And here is some text that an"
+  },
+  {
+    "startTime": 587.36,
+    "endTime": 589.36,
+    "text": "algorithm out of Stanford generated."
+  },
+  {
+    "startTime": 589.36,
+    "endTime": 591.519,
+    "text": "Each of these sentences was generated by"
+  },
+  {
+    "startTime": 591.519,
+    "endTime": 593.6,
+    "text": "a deep learning algorithm to describe"
+  },
+  {
+    "startTime": 593.6,
+    "endTime": 596.0,
+    "text": "each of those pictures. This algorithm"
+  },
+  {
+    "startTime": 596.0,
+    "endTime": 598.24,
+    "text": "before has never seen a man in a black"
+  },
+  {
+    "startTime": 598.24,
+    "endTime": 600.64,
+    "text": "shirt playing a guitar. It's seen a man"
+  },
+  {
+    "startTime": 600.64,
+    "endTime": 602.24,
+    "text": "before. It's seen black before. It's"
+  },
+  {
+    "startTime": 602.24,
+    "endTime": 604.0,
+    "text": "seen a guitar before, but it has"
+  },
+  {
+    "startTime": 604.0,
+    "endTime": 606.08,
+    "text": "independently generated this novel"
+  },
+  {
+    "startTime": 606.08,
+    "endTime": 608.8,
+    "text": "description of this picture. We're still"
+  },
+  {
+    "startTime": 608.8,
+    "endTime": 610.48,
+    "text": "not quite at human performance here, but"
+  },
+  {
+    "startTime": 610.48,
+    "endTime": 613.68,
+    "text": "we're close. In tests, humans prefer the"
+  },
+  {
+    "startTime": 613.68,
+    "endTime": 616.04,
+    "text": "computerenerated caption one out of four"
+  },
+  {
+    "startTime": 616.04,
+    "endTime": 618.56,
+    "text": "times. This system is now only two weeks"
+  },
+  {
+    "startTime": 618.56,
+    "endTime": 620.56,
+    "text": "old, so probably within the next year,"
+  },
+  {
+    "startTime": 620.56,
+    "endTime": 622.48,
+    "text": "the computer algorithm will be well past"
+  },
+  {
+    "startTime": 622.48,
+    "endTime": 625.0,
+    "text": "human performance at the rate things are"
+  },
+  {
+    "startTime": 625.0,
+    "endTime": 628.88,
+    "text": "going. So, computers can also write. So"
+  },
+  {
+    "startTime": 628.88,
+    "endTime": 630.48,
+    "text": "we put all this together and it leads to"
+  },
+  {
+    "startTime": 630.48,
+    "endTime": 631.839,
+    "text": "very exciting opportunities. For"
+  },
+  {
+    "startTime": 631.839,
+    "endTime": 634.48,
+    "text": "example, in medicine uh a team in Boston"
+  },
+  {
+    "startTime": 634.48,
+    "endTime": 636.56,
+    "text": "announced that they had discovered uh"
+  },
+  {
+    "startTime": 636.56,
+    "endTime": 638.32,
+    "text": "dozens of new clinically relevant"
+  },
+  {
+    "startTime": 638.32,
+    "endTime": 641.12,
+    "text": "features of tumors which help doctors"
+  },
+  {
+    "startTime": 641.12,
+    "endTime": 644.0,
+    "text": "make a prognosis of a cancer."
+  },
+  {
+    "startTime": 644.0,
+    "endTime": 647.04,
+    "text": "Uh very similarly uh in Stanford a group"
+  },
+  {
+    "startTime": 647.04,
+    "endTime": 648.959,
+    "text": "there announced that looking at tissues"
+  },
+  {
+    "startTime": 648.959,
+    "endTime": 651.279,
+    "text": "under magnification they've developed a"
+  },
+  {
+    "startTime": 651.279,
+    "endTime": 653.04,
+    "text": "machine learning based system which in"
+  },
+  {
+    "startTime": 653.04,
+    "endTime": 655.279,
+    "text": "fact is better than human pathologists"
+  },
+  {
+    "startTime": 655.279,
+    "endTime": 657.76,
+    "text": "at predicting uh survival rates for"
+  },
+  {
+    "startTime": 657.76,
+    "endTime": 660.64,
+    "text": "cancer sufferers. In both of these cases"
+  },
+  {
+    "startTime": 660.64,
+    "endTime": 662.399,
+    "text": "not only were predictions more accurate"
+  },
+  {
+    "startTime": 662.399,
+    "endTime": 664.48,
+    "text": "but they generated new insightful"
+  },
+  {
+    "startTime": 664.48,
+    "endTime": 667.36,
+    "text": "science. In the radiology case they were"
+  },
+  {
+    "startTime": 667.36,
+    "endTime": 669.279,
+    "text": "new clinical indicators that humans can"
+  },
+  {
+    "startTime": 669.279,
+    "endTime": 672.079,
+    "text": "understand. In this pathology case, it"
+  },
+  {
+    "startTime": 672.079,
+    "endTime": 673.76,
+    "text": "actually discovered the computer system"
+  },
+  {
+    "startTime": 673.76,
+    "endTime": 675.92,
+    "text": "discovered that the cells around the"
+  },
+  {
+    "startTime": 675.92,
+    "endTime": 678.399,
+    "text": "cancer are as important as the cell"
+  },
+  {
+    "startTime": 678.399,
+    "endTime": 680.6,
+    "text": "cancer cells themselves in making a"
+  },
+  {
+    "startTime": 680.6,
+    "endTime": 683.04,
+    "text": "diagnosis. This is the opposite of what"
+  },
+  {
+    "startTime": 683.04,
+    "endTime": 686.519,
+    "text": "pathologists had been taught for"
+  },
+  {
+    "startTime": 686.519,
+    "endTime": 688.88,
+    "text": "decades. In each of those two cases,"
+  },
+  {
+    "startTime": 688.88,
+    "endTime": 690.32,
+    "text": "they were systems developed by a"
+  },
+  {
+    "startTime": 690.32,
+    "endTime": 692.24,
+    "text": "combination of medical experts and"
+  },
+  {
+    "startTime": 692.24,
+    "endTime": 694.399,
+    "text": "machine learning experts. But as of last"
+  },
+  {
+    "startTime": 694.399,
+    "endTime": 696.48,
+    "text": "year, we're now beyond that, too. This"
+  },
+  {
+    "startTime": 696.48,
+    "endTime": 698.88,
+    "text": "is an example of identifying cancerous"
+  },
+  {
+    "startTime": 698.88,
+    "endTime": 701.68,
+    "text": "areas under um of human tissue under a"
+  },
+  {
+    "startTime": 701.68,
+    "endTime": 704.0,
+    "text": "microscope. Uh the system being shown"
+  },
+  {
+    "startTime": 704.0,
+    "endTime": 706.24,
+    "text": "here can identify those areas more"
+  },
+  {
+    "startTime": 706.24,
+    "endTime": 708.32,
+    "text": "accurately or about as accurately as"
+  },
+  {
+    "startTime": 708.32,
+    "endTime": 710.32,
+    "text": "human pathologists but was built"
+  },
+  {
+    "startTime": 710.32,
+    "endTime": 712.32,
+    "text": "entirely with deep learning using no"
+  },
+  {
+    "startTime": 712.32,
+    "endTime": 714.48,
+    "text": "medical expertise by people who have no"
+  },
+  {
+    "startTime": 714.48,
+    "endTime": 716.8,
+    "text": "background in the field."
+  },
+  {
+    "startTime": 716.8,
+    "endTime": 719.44,
+    "text": "Similarly here this neuron segmentation"
+  },
+  {
+    "startTime": 719.44,
+    "endTime": 721.36,
+    "text": "um we can now segment neurons about as"
+  },
+  {
+    "startTime": 721.36,
+    "endTime": 723.519,
+    "text": "accurately as humans can but this system"
+  },
+  {
+    "startTime": 723.519,
+    "endTime": 725.36,
+    "text": "was developed with deep learning using"
+  },
+  {
+    "startTime": 725.36,
+    "endTime": 728.2,
+    "text": "people with no previous background in"
+  },
+  {
+    "startTime": 728.2,
+    "endTime": 730.88,
+    "text": "medicine. So myself as somebody with no"
+  },
+  {
+    "startTime": 730.88,
+    "endTime": 732.56,
+    "text": "previous background in medicine I seem"
+  },
+  {
+    "startTime": 732.56,
+    "endTime": 734.639,
+    "text": "to be entirely wellqualified to start a"
+  },
+  {
+    "startTime": 734.639,
+    "endTime": 738.24,
+    "text": "new medical company uh which I did. um"
+  },
+  {
+    "startTime": 738.24,
+    "endTime": 740.079,
+    "text": "uh I was kind of terrified of doing it"
+  },
+  {
+    "startTime": 740.079,
+    "endTime": 741.92,
+    "text": "but the theory seemed to suggest that it"
+  },
+  {
+    "startTime": 741.92,
+    "endTime": 744.24,
+    "text": "ought to be possible to do very useful"
+  },
+  {
+    "startTime": 744.24,
+    "endTime": 746.8,
+    "text": "medicine with uh using just these data"
+  },
+  {
+    "startTime": 746.8,
+    "endTime": 749.36,
+    "text": "analytic techniques and thankfully the"
+  },
+  {
+    "startTime": 749.36,
+    "endTime": 751.04,
+    "text": "feedback has been fantastic not just"
+  },
+  {
+    "startTime": 751.04,
+    "endTime": 752.639,
+    "text": "from the media but from the medical"
+  },
+  {
+    "startTime": 752.639,
+    "endTime": 755.2,
+    "text": "community who have been very supportive."
+  },
+  {
+    "startTime": 755.2,
+    "endTime": 756.959,
+    "text": "The theory is that we can take the"
+  },
+  {
+    "startTime": 756.959,
+    "endTime": 759.6,
+    "text": "middle part of the medical process and"
+  },
+  {
+    "startTime": 759.6,
+    "endTime": 761.68,
+    "text": "turn that into data analysis as much as"
+  },
+  {
+    "startTime": 761.68,
+    "endTime": 763.92,
+    "text": "possible leaving doctors to do what"
+  },
+  {
+    "startTime": 763.92,
+    "endTime": 766.24,
+    "text": "they're best at. I want to give you an"
+  },
+  {
+    "startTime": 766.24,
+    "endTime": 768.88,
+    "text": "example. It now takes us about 15"
+  },
+  {
+    "startTime": 768.88,
+    "endTime": 771.2,
+    "text": "minutes to generate a new medical"
+  },
+  {
+    "startTime": 771.2,
+    "endTime": 773.279,
+    "text": "diagnostic test. And I'll show you that"
+  },
+  {
+    "startTime": 773.279,
+    "endTime": 774.88,
+    "text": "in real time now, but I've compressed it"
+  },
+  {
+    "startTime": 774.88,
+    "endTime": 776.399,
+    "text": "down to three minutes by cutting some"
+  },
+  {
+    "startTime": 776.399,
+    "endTime": 778.639,
+    "text": "pieces out. Rather than showing uh"
+  },
+  {
+    "startTime": 778.639,
+    "endTime": 779.76,
+    "text": "showing you creating a medical"
+  },
+  {
+    "startTime": 779.76,
+    "endTime": 782.0,
+    "text": "diagnostic test, I'm going to show you a"
+  },
+  {
+    "startTime": 782.0,
+    "endTime": 784.32,
+    "text": "diagnostic test of car images because"
+  },
+  {
+    "startTime": 784.32,
+    "endTime": 786.399,
+    "text": "that's something we can all understand."
+  },
+  {
+    "startTime": 786.399,
+    "endTime": 788.0,
+    "text": "So here we're starting with about one"
+  },
+  {
+    "startTime": 788.0,
+    "endTime": 789.839,
+    "text": "and a half million car images. And I"
+  },
+  {
+    "startTime": 789.839,
+    "endTime": 791.44,
+    "text": "want to create something that can split"
+  },
+  {
+    "startTime": 791.44,
+    "endTime": 793.92,
+    "text": "them into the angle of the photo that's"
+  },
+  {
+    "startTime": 793.92,
+    "endTime": 795.76,
+    "text": "being taken. So these images are"
+  },
+  {
+    "startTime": 795.76,
+    "endTime": 797.839,
+    "text": "entirely unlabeled. So I have to start"
+  },
+  {
+    "startTime": 797.839,
+    "endTime": 800.079,
+    "text": "from scratch. With our deep learning"
+  },
+  {
+    "startTime": 800.079,
+    "endTime": 802.079,
+    "text": "algorithm, it can automatically identify"
+  },
+  {
+    "startTime": 802.079,
+    "endTime": 804.399,
+    "text": "areas of structure in these images. So"
+  },
+  {
+    "startTime": 804.399,
+    "endTime": 806.48,
+    "text": "the nice thing is that the human and the"
+  },
+  {
+    "startTime": 806.48,
+    "endTime": 808.399,
+    "text": "computer can now work together. So the"
+  },
+  {
+    "startTime": 808.399,
+    "endTime": 810.88,
+    "text": "human as you can see here is telling the"
+  },
+  {
+    "startTime": 810.88,
+    "endTime": 813.279,
+    "text": "computer about areas of interest which"
+  },
+  {
+    "startTime": 813.279,
+    "endTime": 815.68,
+    "text": "it it wants the computer then to try and"
+  },
+  {
+    "startTime": 815.68,
+    "endTime": 818.48,
+    "text": "use to improve its algorithm. Now these"
+  },
+  {
+    "startTime": 818.48,
+    "endTime": 820.16,
+    "text": "deep learning systems actually are in"
+  },
+  {
+    "startTime": 820.16,
+    "endTime": 822.32,
+    "text": "16,000 dimensional space. So you can see"
+  },
+  {
+    "startTime": 822.32,
+    "endTime": 824.48,
+    "text": "here the computer rotating this through"
+  },
+  {
+    "startTime": 824.48,
+    "endTime": 826.48,
+    "text": "that space trying to find new areas of"
+  },
+  {
+    "startTime": 826.48,
+    "endTime": 828.16,
+    "text": "structure and when it does so"
+  },
+  {
+    "startTime": 828.16,
+    "endTime": 830.399,
+    "text": "successfully the human who's driving it"
+  },
+  {
+    "startTime": 830.399,
+    "endTime": 832.32,
+    "text": "can then point out the areas that are"
+  },
+  {
+    "startTime": 832.32,
+    "endTime": 834.079,
+    "text": "interesting. So here the computer has"
+  },
+  {
+    "startTime": 834.079,
+    "endTime": 836.399,
+    "text": "successfully found areas of for example"
+  },
+  {
+    "startTime": 836.399,
+    "endTime": 839.199,
+    "text": "um um angles. So as we go through this"
+  },
+  {
+    "startTime": 839.199,
+    "endTime": 840.56,
+    "text": "process we're gradually telling the"
+  },
+  {
+    "startTime": 840.56,
+    "endTime": 842.24,
+    "text": "computer more and more about the kinds"
+  },
+  {
+    "startTime": 842.24,
+    "endTime": 844.399,
+    "text": "of structures we're looking for. You can"
+  },
+  {
+    "startTime": 844.399,
+    "endTime": 846.079,
+    "text": "imagine in a diagnostic test, this would"
+  },
+  {
+    "startTime": 846.079,
+    "endTime": 848.079,
+    "text": "be a pathologist identifying areas of"
+  },
+  {
+    "startTime": 848.079,
+    "endTime": 850.959,
+    "text": "mitosis, for example, or a radiologist"
+  },
+  {
+    "startTime": 850.959,
+    "endTime": 852.959,
+    "text": "uh indicating um potentially uh"
+  },
+  {
+    "startTime": 852.959,
+    "endTime": 855.839,
+    "text": "troublesome nodules. And sometimes it"
+  },
+  {
+    "startTime": 855.839,
+    "endTime": 857.36,
+    "text": "can be difficult for the algorithm. In"
+  },
+  {
+    "startTime": 857.36,
+    "endTime": 858.88,
+    "text": "this case, it's got kind of confused."
+  },
+  {
+    "startTime": 858.88,
+    "endTime": 860.24,
+    "text": "The fronts and the backs of the cards"
+  },
+  {
+    "startTime": 860.24,
+    "endTime": 862.16,
+    "text": "are all mixed up. So here we have to be"
+  },
+  {
+    "startTime": 862.16,
+    "endTime": 864.56,
+    "text": "a bit more careful manually selecting"
+  },
+  {
+    "startTime": 864.56,
+    "endTime": 866.72,
+    "text": "these uh fronts as opposed to the backs"
+  },
+  {
+    "startTime": 866.72,
+    "endTime": 869.36,
+    "text": "and then telling the computer that this"
+  },
+  {
+    "startTime": 869.36,
+    "endTime": 872.399,
+    "text": "is a type of uh uh group that we're"
+  },
+  {
+    "startTime": 872.399,
+    "endTime": 874.72,
+    "text": "interested in. So we do that for a"
+  },
+  {
+    "startTime": 874.72,
+    "endTime": 876.32,
+    "text": "while. We skip over a little bit and"
+  },
+  {
+    "startTime": 876.32,
+    "endTime": 877.68,
+    "text": "then we train a machine learning"
+  },
+  {
+    "startTime": 877.68,
+    "endTime": 880.0,
+    "text": "algorithm based on these couple of"
+  },
+  {
+    "startTime": 880.0,
+    "endTime": 881.519,
+    "text": "hundred things and we hope that it's got"
+  },
+  {
+    "startTime": 881.519,
+    "endTime": 883.04,
+    "text": "a lot better. You can see it's now"
+  },
+  {
+    "startTime": 883.04,
+    "endTime": 884.48,
+    "text": "started to fade some of these pictures"
+  },
+  {
+    "startTime": 884.48,
+    "endTime": 886.8,
+    "text": "out showing us that it already is"
+  },
+  {
+    "startTime": 886.8,
+    "endTime": 888.88,
+    "text": "recognizing how to understand some of"
+  },
+  {
+    "startTime": 888.88,
+    "endTime": 891.199,
+    "text": "these itself. We can then use this"
+  },
+  {
+    "startTime": 891.199,
+    "endTime": 894.0,
+    "text": "concept of similar images and using"
+  },
+  {
+    "startTime": 894.0,
+    "endTime": 895.519,
+    "text": "similar images you can now see the"
+  },
+  {
+    "startTime": 895.519,
+    "endTime": 896.8,
+    "text": "computer at this point is able to"
+  },
+  {
+    "startTime": 896.8,
+    "endTime": 899.199,
+    "text": "entirely find just the fronts of cars."
+  },
+  {
+    "startTime": 899.199,
+    "endTime": 900.959,
+    "text": "Uh and so at this point the human can"
+  },
+  {
+    "startTime": 900.959,
+    "endTime": 903.12,
+    "text": "tell the the computer okay yes you've"
+  },
+  {
+    "startTime": 903.12,
+    "endTime": 906.959,
+    "text": "done a good job of that. Um sometimes of"
+  },
+  {
+    "startTime": 906.959,
+    "endTime": 908.399,
+    "text": "course even at this point it's still"
+  },
+  {
+    "startTime": 908.399,
+    "endTime": 911.92,
+    "text": "difficult to separate out groups. Uh in"
+  },
+  {
+    "startTime": 911.92,
+    "endTime": 914.32,
+    "text": "this case even after we let the computer"
+  },
+  {
+    "startTime": 914.32,
+    "endTime": 916.399,
+    "text": "try and rotate this for a while we still"
+  },
+  {
+    "startTime": 916.399,
+    "endTime": 917.92,
+    "text": "find that the left sides and the right"
+  },
+  {
+    "startTime": 917.92,
+    "endTime": 919.36,
+    "text": "sides pictures are all mixed up"
+  },
+  {
+    "startTime": 919.36,
+    "endTime": 921.519,
+    "text": "together. So we can again give the"
+  },
+  {
+    "startTime": 921.519,
+    "endTime": 923.199,
+    "text": "computer some hints and we say okay try"
+  },
+  {
+    "startTime": 923.199,
+    "endTime": 925.12,
+    "text": "and find a projection that separates out"
+  },
+  {
+    "startTime": 925.12,
+    "endTime": 927.04,
+    "text": "the left sides and the right sides as"
+  },
+  {
+    "startTime": 927.04,
+    "endTime": 928.639,
+    "text": "much as possible using this deep"
+  },
+  {
+    "startTime": 928.639,
+    "endTime": 930.8,
+    "text": "learning algorithm and giving it that"
+  },
+  {
+    "startTime": 930.8,
+    "endTime": 933.199,
+    "text": "hint ah okay it's been successful it's"
+  },
+  {
+    "startTime": 933.199,
+    "endTime": 934.959,
+    "text": "managed to find a way of thinking about"
+  },
+  {
+    "startTime": 934.959,
+    "endTime": 937.079,
+    "text": "these objects that separated out these"
+  },
+  {
+    "startTime": 937.079,
+    "endTime": 940.92,
+    "text": "together so you get the idea here"
+  },
+  {
+    "startTime": 940.92,
+    "endTime": 944.079,
+    "text": "um this is a case not where the computer"
+  },
+  {
+    "startTime": 944.079,
+    "endTime": 946.079,
+    "text": "is being replaced by a machine uh sorry"
+  },
+  {
+    "startTime": 946.079,
+    "endTime": 947.92,
+    "text": "the computer is the human is being"
+  },
+  {
+    "startTime": 947.92,
+    "endTime": 950.48,
+    "text": "replaced by a computer But we're there"
+  },
+  {
+    "startTime": 950.48,
+    "endTime": 952.399,
+    "text": "working together. Uh what we're doing"
+  },
+  {
+    "startTime": 952.399,
+    "endTime": 953.92,
+    "text": "here is we're replacing something that"
+  },
+  {
+    "startTime": 953.92,
+    "endTime": 955.519,
+    "text": "used to take a team of five or six"
+  },
+  {
+    "startTime": 955.519,
+    "endTime": 957.519,
+    "text": "people about seven years. Uh and"
+  },
+  {
+    "startTime": 957.519,
+    "endTime": 959.12,
+    "text": "replacing it with something that takes"
+  },
+  {
+    "startTime": 959.12,
+    "endTime": 961.639,
+    "text": "15 minutes for one person acting"
+  },
+  {
+    "startTime": 961.639,
+    "endTime": 965.199,
+    "text": "alone. So this process takes about four"
+  },
+  {
+    "startTime": 965.199,
+    "endTime": 966.959,
+    "text": "or five iterations. You can see we now"
+  },
+  {
+    "startTime": 966.959,
+    "endTime": 969.199,
+    "text": "have 62% of our one and a half million"
+  },
+  {
+    "startTime": 969.199,
+    "endTime": 971.519,
+    "text": "images classified correctly. And at this"
+  },
+  {
+    "startTime": 971.519,
+    "endTime": 973.68,
+    "text": "point we can start to quite quickly grab"
+  },
+  {
+    "startTime": 973.68,
+    "endTime": 975.839,
+    "text": "whole big sections uh check through them"
+  },
+  {
+    "startTime": 975.839,
+    "endTime": 977.36,
+    "text": "to make sure that there's no mistakes."
+  },
+  {
+    "startTime": 977.36,
+    "endTime": 978.88,
+    "text": "where there are mistakes, we can let the"
+  },
+  {
+    "startTime": 978.88,
+    "endTime": 982.32,
+    "text": "computer know about them. Um, and using"
+  },
+  {
+    "startTime": 982.32,
+    "endTime": 983.92,
+    "text": "this kind of process for each of the"
+  },
+  {
+    "startTime": 983.92,
+    "endTime": 986.24,
+    "text": "different groups, we now up to an 80%"
+  },
+  {
+    "startTime": 986.24,
+    "endTime": 988.0,
+    "text": "success rate in classifying the one and"
+  },
+  {
+    "startTime": 988.0,
+    "endTime": 990.88,
+    "text": "a half million images. Um, and at this"
+  },
+  {
+    "startTime": 990.88,
+    "endTime": 993.12,
+    "text": "point, it's just a case of finding the"
+  },
+  {
+    "startTime": 993.12,
+    "endTime": 994.639,
+    "text": "small number that aren't classified"
+  },
+  {
+    "startTime": 994.639,
+    "endTime": 997.199,
+    "text": "correctly and trying to understand uh"
+  },
+  {
+    "startTime": 997.199,
+    "endTime": 1000.24,
+    "text": "why. Uh, and using that approach uh by"
+  },
+  {
+    "startTime": 1000.24,
+    "endTime": 1002.32,
+    "text": "15 minutes, we get to net 97%"
+  },
+  {
+    "startTime": 1002.32,
+    "endTime": 1005.6,
+    "text": "classification rates. So this kind of"
+  },
+  {
+    "startTime": 1005.6,
+    "endTime": 1008.0,
+    "text": "technique could allow us to fix a major"
+  },
+  {
+    "startTime": 1008.0,
+    "endTime": 1009.759,
+    "text": "problem which is that there's a lack of"
+  },
+  {
+    "startTime": 1009.759,
+    "endTime": 1011.6,
+    "text": "medical expertise in the world. The"
+  },
+  {
+    "startTime": 1011.6,
+    "endTime": 1013.519,
+    "text": "World Economic Forum uh says that"
+  },
+  {
+    "startTime": 1013.519,
+    "endTime": 1015.759,
+    "text": "there's between a 10x and a 20x shortage"
+  },
+  {
+    "startTime": 1015.759,
+    "endTime": 1017.44,
+    "text": "of physicians in the developing world"
+  },
+  {
+    "startTime": 1017.44,
+    "endTime": 1020.16,
+    "text": "and it would take about 300 years to"
+  },
+  {
+    "startTime": 1020.16,
+    "endTime": 1022.24,
+    "text": "train enough people um to fix that"
+  },
+  {
+    "startTime": 1022.24,
+    "endTime": 1024.798,
+    "text": "problem. So imagine if we can help uh"
+  },
+  {
+    "startTime": 1024.799,
+    "endTime": 1026.72,
+    "text": "enhance their efficiency using these"
+  },
+  {
+    "startTime": 1026.72,
+    "endTime": 1027.798,
+    "text": "deep learning"
+  },
+  {
+    "startTime": 1027.799,
+    "endTime": 1029.76,
+    "text": "approaches. So I'm very excited about"
+  },
+  {
+    "startTime": 1029.76,
+    "endTime": 1031.839,
+    "text": "the opportunities. I'm also concerned"
+  },
+  {
+    "startTime": 1031.839,
+    "endTime": 1034.0,
+    "text": "about the problems. Uh the problem here"
+  },
+  {
+    "startTime": 1034.0,
+    "endTime": 1036.48,
+    "text": "is that every area in blue on this map"
+  },
+  {
+    "startTime": 1036.48,
+    "endTime": 1039.12,
+    "text": "is somewhere where services are over 80%"
+  },
+  {
+    "startTime": 1039.12,
+    "endTime": 1041.079,
+    "text": "of employment. What are"
+  },
+  {
+    "startTime": 1041.079,
+    "endTime": 1044.319,
+    "text": "services? These are services. These are"
+  },
+  {
+    "startTime": 1044.319,
+    "endTime": 1045.918,
+    "text": "also the exact things that computers"
+  },
+  {
+    "startTime": 1045.919,
+    "endTime": 1049.679,
+    "text": "have just learned how to do. So 80% of"
+  },
+  {
+    "startTime": 1049.679,
+    "endTime": 1051.28,
+    "text": "the world's employment in the developed"
+  },
+  {
+    "startTime": 1051.28,
+    "endTime": 1052.799,
+    "text": "world is stuff that computers have just"
+  },
+  {
+    "startTime": 1052.799,
+    "endTime": 1055.44,
+    "text": "learned how to do. What does that mean?"
+  },
+  {
+    "startTime": 1055.44,
+    "endTime": 1057.12,
+    "text": "Well, it'll be fine. It'll be replaced"
+  },
+  {
+    "startTime": 1057.12,
+    "endTime": 1058.64,
+    "text": "by other jobs. For example, there'll be"
+  },
+  {
+    "startTime": 1058.64,
+    "endTime": 1060.96,
+    "text": "more jobs for data scientists. Well, not"
+  },
+  {
+    "startTime": 1060.96,
+    "endTime": 1062.799,
+    "text": "really. It doesn't take data scientists"
+  },
+  {
+    "startTime": 1062.799,
+    "endTime": 1064.24,
+    "text": "very long to build these things. For"
+  },
+  {
+    "startTime": 1064.24,
+    "endTime": 1065.919,
+    "text": "example, these four algorithms were all"
+  },
+  {
+    "startTime": 1065.919,
+    "endTime": 1069.2,
+    "text": "built by the same guy. So if you think,"
+  },
+  {
+    "startTime": 1069.2,
+    "endTime": 1070.96,
+    "text": "oh, it's all happened before. You know,"
+  },
+  {
+    "startTime": 1070.96,
+    "endTime": 1073.2,
+    "text": "we've seen the results in the past of"
+  },
+  {
+    "startTime": 1073.2,
+    "endTime": 1074.72,
+    "text": "when new things come along and they get"
+  },
+  {
+    "startTime": 1074.72,
+    "endTime": 1076.799,
+    "text": "replaced by new jobs. What are these new"
+  },
+  {
+    "startTime": 1076.799,
+    "endTime": 1079.52,
+    "text": "jobs going to be? It's very hard for us"
+  },
+  {
+    "startTime": 1079.52,
+    "endTime": 1081.039,
+    "text": "to estimate this because human"
+  },
+  {
+    "startTime": 1081.039,
+    "endTime": 1083.36,
+    "text": "performance grows at this gradual rate."
+  },
+  {
+    "startTime": 1083.36,
+    "endTime": 1085.6,
+    "text": "But we now have a system, deep learning,"
+  },
+  {
+    "startTime": 1085.6,
+    "endTime": 1087.039,
+    "text": "that we know actually grows in"
+  },
+  {
+    "startTime": 1087.039,
+    "endTime": 1089.6,
+    "text": "capability exponentially. And we're"
+  },
+  {
+    "startTime": 1089.6,
+    "endTime": 1091.919,
+    "text": "here. So currently we see the things"
+  },
+  {
+    "startTime": 1091.919,
+    "endTime": 1093.6,
+    "text": "around us and we say oh computers are"
+  },
+  {
+    "startTime": 1093.6,
+    "endTime": 1095.679,
+    "text": "still pretty dumb right but in five"
+  },
+  {
+    "startTime": 1095.679,
+    "endTime": 1097.799,
+    "text": "years time computers will be off this"
+  },
+  {
+    "startTime": 1097.799,
+    "endTime": 1100.0,
+    "text": "chart. So we need to be starting to"
+  },
+  {
+    "startTime": 1100.0,
+    "endTime": 1102.48,
+    "text": "think about this capability right now."
+  },
+  {
+    "startTime": 1102.48,
+    "endTime": 1104.24,
+    "text": "We have seen this once before of course"
+  },
+  {
+    "startTime": 1104.24,
+    "endTime": 1106.4,
+    "text": "in the industrial revolution we saw a"
+  },
+  {
+    "startTime": 1106.4,
+    "endTime": 1109.0,
+    "text": "step change in capability thanks to"
+  },
+  {
+    "startTime": 1109.0,
+    "endTime": 1111.28,
+    "text": "engines. The thing is though that after"
+  },
+  {
+    "startTime": 1111.28,
+    "endTime": 1113.44,
+    "text": "a while things flattened out. There was"
+  },
+  {
+    "startTime": 1113.44,
+    "endTime": 1115.52,
+    "text": "social disruption but once engines were"
+  },
+  {
+    "startTime": 1115.52,
+    "endTime": 1117.2,
+    "text": "used to generate power in all the"
+  },
+  {
+    "startTime": 1117.2,
+    "endTime": 1120.559,
+    "text": "situations things really settled down."
+  },
+  {
+    "startTime": 1120.559,
+    "endTime": 1122.16,
+    "text": "The machine learning revolution is going"
+  },
+  {
+    "startTime": 1122.16,
+    "endTime": 1123.6,
+    "text": "to be very different to the industrial"
+  },
+  {
+    "startTime": 1123.6,
+    "endTime": 1125.44,
+    "text": "revolution because the machine learning"
+  },
+  {
+    "startTime": 1125.44,
+    "endTime": 1127.84,
+    "text": "revolution it never settles down. The"
+  },
+  {
+    "startTime": 1127.84,
+    "endTime": 1130.08,
+    "text": "better computers get at intellectual"
+  },
+  {
+    "startTime": 1130.08,
+    "endTime": 1131.6,
+    "text": "activities, the more they can build"
+  },
+  {
+    "startTime": 1131.6,
+    "endTime": 1133.28,
+    "text": "better computers to be better at"
+  },
+  {
+    "startTime": 1133.28,
+    "endTime": 1135.84,
+    "text": "intellectual capabilities. So this is"
+  },
+  {
+    "startTime": 1135.84,
+    "endTime": 1137.36,
+    "text": "going to be a kind of change that the"
+  },
+  {
+    "startTime": 1137.36,
+    "endTime": 1138.72,
+    "text": "world has actually never experienced"
+  },
+  {
+    "startTime": 1138.72,
+    "endTime": 1140.64,
+    "text": "before. So your previous understanding"
+  },
+  {
+    "startTime": 1140.64,
+    "endTime": 1143.52,
+    "text": "of what's possible is different. This is"
+  },
+  {
+    "startTime": 1143.52,
+    "endTime": 1145.84,
+    "text": "already impacting us. In the last 25"
+  },
+  {
+    "startTime": 1145.84,
+    "endTime": 1148.0,
+    "text": "years, as as capital productivity has"
+  },
+  {
+    "startTime": 1148.0,
+    "endTime": 1149.919,
+    "text": "increased, labor productivity has been"
+  },
+  {
+    "startTime": 1149.919,
+    "endTime": 1152.679,
+    "text": "flat. In fact, even a little bit"
+  },
+  {
+    "startTime": 1152.679,
+    "endTime": 1155.6,
+    "text": "down. So, I want us to start having this"
+  },
+  {
+    "startTime": 1155.6,
+    "endTime": 1157.2,
+    "text": "discussion. Now, I know that when I"
+  },
+  {
+    "startTime": 1157.2,
+    "endTime": 1159.12,
+    "text": "often tell people about this situation,"
+  },
+  {
+    "startTime": 1159.12,
+    "endTime": 1161.12,
+    "text": "people can be quite dismissive. Well,"
+  },
+  {
+    "startTime": 1161.12,
+    "endTime": 1162.88,
+    "text": "computers can't really think. They don't"
+  },
+  {
+    "startTime": 1162.88,
+    "endTime": 1165.6,
+    "text": "emote. They don't understand poetry. We"
+  },
+  {
+    "startTime": 1165.6,
+    "endTime": 1167.919,
+    "text": "don't really understand how they work."
+  },
+  {
+    "startTime": 1167.919,
+    "endTime": 1170.88,
+    "text": "So, what computers right now can do the"
+  },
+  {
+    "startTime": 1170.88,
+    "endTime": 1172.72,
+    "text": "things that humans spend most of their"
+  },
+  {
+    "startTime": 1172.72,
+    "endTime": 1174.88,
+    "text": "time being paid to do. So now's the time"
+  },
+  {
+    "startTime": 1174.88,
+    "endTime": 1177.039,
+    "text": "to start thinking about how we're going"
+  },
+  {
+    "startTime": 1177.039,
+    "endTime": 1179.36,
+    "text": "to adjust our social structures and our"
+  },
+  {
+    "startTime": 1179.36,
+    "endTime": 1181.36,
+    "text": "economic structures to be aware of this"
+  },
+  {
+    "startTime": 1181.36,
+    "endTime": 1185.559,
+    "text": "new reality. Thank you."
+  }
+]
