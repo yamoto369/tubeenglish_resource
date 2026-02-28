@@ -1,0 +1,1017 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 0.0,
+    "text": "translator: Aaron Shoo, reviewer: Yi-Fan Yu"
+  },
+  {
+    "startTime": 12.85,
+    "endTime": 15.883,
+    "text": "So, has everybody heard of CRISPR?"
+  },
+  {
+    "startTime": 15.883,
+    "endTime": 18.509,
+    "text": "I would be shocked if you hadn't."
+  },
+  {
+    "startTime": 18.509,
+    "endTime": 21.735,
+    "text": "This is a technology -- it's for genome editing --"
+  },
+  {
+    "startTime": 21.735,
+    "endTime": 24.593,
+    "text": "and it's so versatile and so controversial"
+  },
+  {
+    "startTime": 24.593,
+    "endTime": 28.631,
+    "text": "that it's sparking all sorts of really interesting conversations."
+  },
+  {
+    "startTime": 28.631,
+    "endTime": 31.281,
+    "text": "Should we bring back the woolly mammoth?"
+  },
+  {
+    "startTime": 31.281,
+    "endTime": 34.041,
+    "text": "Should we edit a human embryo?"
+  },
+  {
+    "startTime": 34.041,
+    "endTime": 36.997,
+    "text": "And my personal favorite:"
+  },
+  {
+    "startTime": 36.997,
+    "endTime": 40.672,
+    "text": "How can we justify wiping out an entire species"
+  },
+  {
+    "startTime": 40.672,
+    "endTime": 43.14,
+    "text": "that we consider harmful to humans"
+  },
+  {
+    "startTime": 43.14,
+    "endTime": 44.466,
+    "text": "off the face of the Earth,"
+  },
+  {
+    "startTime": 44.466,
+    "endTime": 47.165,
+    "text": "using this technology?"
+  },
+  {
+    "startTime": 47.165,
+    "endTime": 50.472,
+    "text": "This type of science is moving much faster"
+  },
+  {
+    "startTime": 50.472,
+    "endTime": 53.34,
+    "text": "than the regulatory mechanisms that govern it."
+  },
+  {
+    "startTime": 53.34,
+    "endTime": 55.431000000000004,
+    "text": "And so, for the past six years,"
+  },
+  {
+    "startTime": 55.431,
+    "endTime": 57.863,
+    "text": "I've made it my personal mission"
+  },
+  {
+    "startTime": 57.863,
+    "endTime": 60.897,
+    "text": "to make sure that as many people as possible understand"
+  },
+  {
+    "startTime": 60.897,
+    "endTime": 64.021,
+    "text": "these types of technologies and their implications."
+  },
+  {
+    "startTime": 64.021,
+    "endTime": 69.089,
+    "text": "Now, CRISPR has been the subject of a huge media hype,"
+  },
+  {
+    "startTime": 69.089,
+    "endTime": 74.337,
+    "text": "and the words that are used most often are \"easy\" and \"cheap.\""
+  },
+  {
+    "startTime": 74.337,
+    "endTime": 77.5,
+    "text": "So what I want to do is drill down a little bit deeper"
+  },
+  {
+    "startTime": 77.5,
+    "endTime": 82.954,
+    "text": "and look into some of the myths and the realities around CRISPR."
+  },
+  {
+    "startTime": 82.954,
+    "endTime": 85.594,
+    "text": "If you're trying to CRISPR a genome,"
+  },
+  {
+    "startTime": 85.594,
+    "endTime": 89.098,
+    "text": "the first thing that you have to do is damage the DNA."
+  },
+  {
+    "startTime": 89.098,
+    "endTime": 92.164,
+    "text": "The damage comes in the form of a double-strand break"
+  },
+  {
+    "startTime": 92.164,
+    "endTime": 93.752,
+    "text": "through the double helix."
+  },
+  {
+    "startTime": 93.752,
+    "endTime": 97.088,
+    "text": "And then the cellular repair processes kick in,"
+  },
+  {
+    "startTime": 97.088,
+    "endTime": 99.75099999999999,
+    "text": "and then we convince those repair processes"
+  },
+  {
+    "startTime": 99.751,
+    "endTime": 102.054,
+    "text": "to make the edit that we want,"
+  },
+  {
+    "startTime": 102.054,
+    "endTime": 103.62,
+    "text": "and not a natural edit."
+  },
+  {
+    "startTime": 103.62,
+    "endTime": 105.929,
+    "text": "That's how it works."
+  },
+  {
+    "startTime": 105.929,
+    "endTime": 107.676,
+    "text": "It's a two-part system."
+  },
+  {
+    "startTime": 107.676,
+    "endTime": 111.071,
+    "text": "You've got a Cas9 protein and something called a guide RNA."
+  },
+  {
+    "startTime": 111.071,
+    "endTime": 113.557,
+    "text": "I like to think of it as a guided missile."
+  },
+  {
+    "startTime": 113.557,
+    "endTime": 116.227,
+    "text": "So the Cas9 -- I love to anthropomorphize --"
+  },
+  {
+    "startTime": 116.227,
+    "endTime": 119.48100000000001,
+    "text": "so the Cas9 is kind of this Pac-Man thing"
+  },
+  {
+    "startTime": 119.481,
+    "endTime": 121.05,
+    "text": "that wants to chew DNA,"
+  },
+  {
+    "startTime": 121.05,
+    "endTime": 125.22999999999999,
+    "text": "and the guide RNA is the leash that's keeping it out of the genome"
+  },
+  {
+    "startTime": 125.23,
+    "endTime": 128.912,
+    "text": "until it finds the exact spot where it matches."
+  },
+  {
+    "startTime": 128.912,
+    "endTime": 131.83,
+    "text": "And the combination of those two is called CRISPR."
+  },
+  {
+    "startTime": 131.83,
+    "endTime": 133.42200000000003,
+    "text": "It's a system that we stole"
+  },
+  {
+    "startTime": 133.422,
+    "endTime": 137.469,
+    "text": "from an ancient, ancient bacterial immune system."
+  },
+  {
+    "startTime": 137.469,
+    "endTime": 142.041,
+    "text": "The part that's amazing about it is that the guide RNA,"
+  },
+  {
+    "startTime": 142.041,
+    "endTime": 143.956,
+    "text": "only 20 letters of it,"
+  },
+  {
+    "startTime": 143.956,
+    "endTime": 146.57,
+    "text": "are what target the system."
+  },
+  {
+    "startTime": 146.57,
+    "endTime": 148.737,
+    "text": "This is really easy to design,"
+  },
+  {
+    "startTime": 148.737,
+    "endTime": 150.98499999999999,
+    "text": "and it's really cheap to buy."
+  },
+  {
+    "startTime": 150.985,
+    "endTime": 155.014,
+    "text": "So that's the part that is modular in the system;"
+  },
+  {
+    "startTime": 155.014,
+    "endTime": 157.48100000000002,
+    "text": "everything else stays the same."
+  },
+  {
+    "startTime": 157.481,
+    "endTime": 162.047,
+    "text": "This makes it a remarkably easy and powerful system to use."
+  },
+  {
+    "startTime": 162.047,
+    "endTime": 166.311,
+    "text": "The guide RNA and the Cas9 protein complex together"
+  },
+  {
+    "startTime": 166.311,
+    "endTime": 168.267,
+    "text": "go bouncing along the genome,"
+  },
+  {
+    "startTime": 168.267,
+    "endTime": 171.784,
+    "text": "and when they find a spot where the guide RNA matches,"
+  },
+  {
+    "startTime": 171.784,
+    "endTime": 174.66299999999998,
+    "text": "then it inserts between the two strands of the double helix,"
+  },
+  {
+    "startTime": 174.663,
+    "endTime": 176.692,
+    "text": "it rips them apart,"
+  },
+  {
+    "startTime": 176.692,
+    "endTime": 179.96200000000002,
+    "text": "that triggers the Cas9 protein to cut,"
+  },
+  {
+    "startTime": 179.962,
+    "endTime": 181.816,
+    "text": "and all of a sudden,"
+  },
+  {
+    "startTime": 181.816,
+    "endTime": 183.74,
+    "text": "you've got a cell that's in total panic"
+  },
+  {
+    "startTime": 183.74,
+    "endTime": 187.0,
+    "text": "because now it's got a piece of DNA that's broken."
+  },
+  {
+    "startTime": 187.0,
+    "endTime": 188.32,
+    "text": "What does it do?"
+  },
+  {
+    "startTime": 188.32,
+    "endTime": 190.959,
+    "text": "It calls its first responders."
+  },
+  {
+    "startTime": 190.959,
+    "endTime": 193.605,
+    "text": "There are two major repair pathways."
+  },
+  {
+    "startTime": 193.605,
+    "endTime": 198.69799999999998,
+    "text": "The first just takes the DNA and shoves the two pieces back together."
+  },
+  {
+    "startTime": 198.698,
+    "endTime": 200.82,
+    "text": "This isn't a very efficient system,"
+  },
+  {
+    "startTime": 200.82,
+    "endTime": 203.57299999999998,
+    "text": "because what happens is sometimes a base drops out"
+  },
+  {
+    "startTime": 203.573,
+    "endTime": 205.024,
+    "text": "or a base is added."
+  },
+  {
+    "startTime": 205.024,
+    "endTime": 208.841,
+    "text": "It's an OK way to maybe, like, knock out a gene,"
+  },
+  {
+    "startTime": 208.841,
+    "endTime": 212.098,
+    "text": "but it's not the way that we really want to do genome editing."
+  },
+  {
+    "startTime": 212.098,
+    "endTime": 215.01700000000002,
+    "text": "The second repair pathway is a lot more interesting."
+  },
+  {
+    "startTime": 215.017,
+    "endTime": 216.677,
+    "text": "In this repair pathway,"
+  },
+  {
+    "startTime": 216.677,
+    "endTime": 219.382,
+    "text": "it takes a homologous piece of DNA."
+  },
+  {
+    "startTime": 219.382,
+    "endTime": 222.046,
+    "text": "And now mind you, in a diploid organism like people,"
+  },
+  {
+    "startTime": 222.046,
+    "endTime": 226.31799999999998,
+    "text": "we've got one copy of our genome from our mom and one from our dad,"
+  },
+  {
+    "startTime": 226.318,
+    "endTime": 227.61700000000002,
+    "text": "so if one gets damaged,"
+  },
+  {
+    "startTime": 227.617,
+    "endTime": 230.036,
+    "text": "it can use the other chromosome to repair it."
+  },
+  {
+    "startTime": 230.036,
+    "endTime": 232.518,
+    "text": "So that's where this comes from."
+  },
+  {
+    "startTime": 232.518,
+    "endTime": 234.006,
+    "text": "The repair is made,"
+  },
+  {
+    "startTime": 234.006,
+    "endTime": 236.616,
+    "text": "and now the genome is safe again."
+  },
+  {
+    "startTime": 236.616,
+    "endTime": 238.497,
+    "text": "The way that we can hijack this"
+  },
+  {
+    "startTime": 238.497,
+    "endTime": 242.229,
+    "text": "is we can feed it a false piece of DNA,"
+  },
+  {
+    "startTime": 242.229,
+    "endTime": 244.39700000000002,
+    "text": "a piece that has homology on both ends"
+  },
+  {
+    "startTime": 244.397,
+    "endTime": 246.12,
+    "text": "but is different in the middle."
+  },
+  {
+    "startTime": 246.12,
+    "endTime": 248.61100000000002,
+    "text": "So now, you can put whatever you want in the center"
+  },
+  {
+    "startTime": 248.611,
+    "endTime": 250.14999999999998,
+    "text": "and the cell gets fooled."
+  },
+  {
+    "startTime": 250.15,
+    "endTime": 252.293,
+    "text": "So you can change a letter,"
+  },
+  {
+    "startTime": 252.293,
+    "endTime": 253.582,
+    "text": "you can take letters out,"
+  },
+  {
+    "startTime": 253.582,
+    "endTime": 256.53,
+    "text": "but most importantly, you can stuff new DNA in,"
+  },
+  {
+    "startTime": 256.53,
+    "endTime": 259.089,
+    "text": "kind of like a Trojan horse."
+  },
+  {
+    "startTime": 259.089,
+    "endTime": 261.298,
+    "text": "CRISPR is going to be amazing,"
+  },
+  {
+    "startTime": 261.298,
+    "endTime": 264.94,
+    "text": "in terms of the number of different scientific advances"
+  },
+  {
+    "startTime": 264.94,
+    "endTime": 266.621,
+    "text": "that it's going to catalyze."
+  },
+  {
+    "startTime": 266.621,
+    "endTime": 269.866,
+    "text": "The thing that's special about it is this modular targeting system."
+  },
+  {
+    "startTime": 269.866,
+    "endTime": 273.657,
+    "text": "I mean, we've been shoving DNA into organisms for years, right?"
+  },
+  {
+    "startTime": 273.657,
+    "endTime": 275.808,
+    "text": "But because of the modular targeting system,"
+  },
+  {
+    "startTime": 275.808,
+    "endTime": 279.423,
+    "text": "we can actually put it exactly where we want it."
+  },
+  {
+    "startTime": 279.423,
+    "endTime": 285.116,
+    "text": "The thing is that there's a lot of talk about it being cheap"
+  },
+  {
+    "startTime": 285.116,
+    "endTime": 286.882,
+    "text": "and it being easy."
+  },
+  {
+    "startTime": 286.882,
+    "endTime": 290.242,
+    "text": "And I run a community lab."
+  },
+  {
+    "startTime": 290.242,
+    "endTime": 293.822,
+    "text": "I'm starting to get emails from people that say stuff like,"
+  },
+  {
+    "startTime": 293.822,
+    "endTime": 296.243,
+    "text": "\"Hey, can I come to your open night"
+  },
+  {
+    "startTime": 296.243,
+    "endTime": 299.884,
+    "text": "and, like, maybe use CRISPR and engineer my genome?\""
+  },
+  {
+    "startTime": 299.884,
+    "endTime": 301.01800000000003,
+    "text": "(Laugher)"
+  },
+  {
+    "startTime": 301.018,
+    "endTime": 303.376,
+    "text": "Like, seriously."
+  },
+  {
+    "startTime": 303.376,
+    "endTime": 305.203,
+    "text": "I'm, \"No, you can't.\""
+  },
+  {
+    "startTime": 305.203,
+    "endTime": 306.23699999999997,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 306.237,
+    "endTime": 308.61600000000004,
+    "text": "\"But I've heard it's cheap. I've heard it's easy.\""
+  },
+  {
+    "startTime": 308.616,
+    "endTime": 310.823,
+    "text": "We're going to explore that a little bit."
+  },
+  {
+    "startTime": 310.823,
+    "endTime": 312.796,
+    "text": "So, how cheap is it?"
+  },
+  {
+    "startTime": 312.796,
+    "endTime": 315.665,
+    "text": "Yeah, it is cheap in comparison."
+  },
+  {
+    "startTime": 315.665,
+    "endTime": 319.308,
+    "text": "It's going to take the cost of the average materials for an experiment"
+  },
+  {
+    "startTime": 319.308,
+    "endTime": 321.864,
+    "text": "from thousands of dollars to hundreds of dollars,"
+  },
+  {
+    "startTime": 321.864,
+    "endTime": 323.82399999999996,
+    "text": "and it cuts the time a lot, too."
+  },
+  {
+    "startTime": 323.824,
+    "endTime": 326.24600000000004,
+    "text": "It can cut it from weeks to days."
+  },
+  {
+    "startTime": 326.246,
+    "endTime": 327.762,
+    "text": "That's great."
+  },
+  {
+    "startTime": 327.762,
+    "endTime": 330.476,
+    "text": "You still need a professional lab to do the work in;"
+  },
+  {
+    "startTime": 330.476,
+    "endTime": 334.012,
+    "text": "you're not going to do anything meaningful outside of a professional lab."
+  },
+  {
+    "startTime": 334.012,
+    "endTime": 336.04,
+    "text": "I mean, don't listen to anyone who says"
+  },
+  {
+    "startTime": 336.04,
+    "endTime": 339.421,
+    "text": "you can do this sort of stuff on your kitchen table."
+  },
+  {
+    "startTime": 339.421,
+    "endTime": 343.953,
+    "text": "It's really not easy to do this kind of work."
+  },
+  {
+    "startTime": 343.953,
+    "endTime": 346.28499999999997,
+    "text": "Not to mention, there's a patent battle going on,"
+  },
+  {
+    "startTime": 346.285,
+    "endTime": 348.13500000000005,
+    "text": "so even if you do invent something,"
+  },
+  {
+    "startTime": 348.135,
+    "endTime": 354.795,
+    "text": "the Broad Institute and UC Berkeley are in this incredible patent battle."
+  },
+  {
+    "startTime": 354.795,
+    "endTime": 357.207,
+    "text": "It's really fascinating to watch it happen,"
+  },
+  {
+    "startTime": 357.207,
+    "endTime": 360.479,
+    "text": "because they're accusing each other of fraudulent claims"
+  },
+  {
+    "startTime": 360.479,
+    "endTime": 362.234,
+    "text": "and then they've got people saying,"
+  },
+  {
+    "startTime": 362.234,
+    "endTime": 365.042,
+    "text": "\"Oh, well, I signed my notebook here or there.\""
+  },
+  {
+    "startTime": 365.042,
+    "endTime": 367.167,
+    "text": "This isn't going to be settled for years."
+  },
+  {
+    "startTime": 367.167,
+    "endTime": 368.351,
+    "text": "And when it is,"
+  },
+  {
+    "startTime": 368.351,
+    "endTime": 371.66,
+    "text": "you can bet you're going to pay someone a really hefty licensing fee"
+  },
+  {
+    "startTime": 371.66,
+    "endTime": 373.343,
+    "text": "in order to use this stuff."
+  },
+  {
+    "startTime": 373.343,
+    "endTime": 375.148,
+    "text": "So, is it really cheap?"
+  },
+  {
+    "startTime": 375.148,
+    "endTime": 381.22,
+    "text": "Well, it's cheap if you're doing basic research and you've got a lab."
+  },
+  {
+    "startTime": 381.22,
+    "endTime": 384.41700000000003,
+    "text": "How about easy? Let's look at that claim."
+  },
+  {
+    "startTime": 384.417,
+    "endTime": 387.881,
+    "text": "The devil is always in the details."
+  },
+  {
+    "startTime": 387.881,
+    "endTime": 391.03599999999994,
+    "text": "We don't really know that much about cells."
+  },
+  {
+    "startTime": 391.036,
+    "endTime": 392.73,
+    "text": "They're still kind of black boxes."
+  },
+  {
+    "startTime": 392.73,
+    "endTime": 397.61400000000003,
+    "text": "For example, we don't know why some guide RNAs work really well"
+  },
+  {
+    "startTime": 397.614,
+    "endTime": 399.70099999999996,
+    "text": "and some guide RNAs don't."
+  },
+  {
+    "startTime": 399.701,
+    "endTime": 403.19300000000004,
+    "text": "We don't know why some cells want to do one repair pathway"
+  },
+  {
+    "startTime": 403.193,
+    "endTime": 406.27,
+    "text": "and some cells would rather do the other."
+  },
+  {
+    "startTime": 406.27,
+    "endTime": 407.578,
+    "text": "And besides that,"
+  },
+  {
+    "startTime": 407.578,
+    "endTime": 410.47099999999995,
+    "text": "there's the whole problem of getting the system into the cell"
+  },
+  {
+    "startTime": 410.471,
+    "endTime": 411.759,
+    "text": "in the first place."
+  },
+  {
+    "startTime": 411.759,
+    "endTime": 413.785,
+    "text": "In a petri dish, that's not that hard,"
+  },
+  {
+    "startTime": 413.785,
+    "endTime": 416.254,
+    "text": "but if you're trying to do it on a whole organism,"
+  },
+  {
+    "startTime": 416.254,
+    "endTime": 418.22400000000005,
+    "text": "it gets really tricky."
+  },
+  {
+    "startTime": 418.224,
+    "endTime": 421.43399999999997,
+    "text": "It's OK if you use something like blood or bone marrow --"
+  },
+  {
+    "startTime": 421.434,
+    "endTime": 423.685,
+    "text": "those are the targets of a lot of research now."
+  },
+  {
+    "startTime": 423.685,
+    "endTime": 425.96,
+    "text": "There was a great story of some little girl"
+  },
+  {
+    "startTime": 425.96,
+    "endTime": 427.63599999999997,
+    "text": "who they saved from leukemia"
+  },
+  {
+    "startTime": 427.636,
+    "endTime": 430.334,
+    "text": "by taking the blood out, editing it, and putting it back"
+  },
+  {
+    "startTime": 430.334,
+    "endTime": 432.869,
+    "text": "with a precursor of CRISPR."
+  },
+  {
+    "startTime": 432.869,
+    "endTime": 435.689,
+    "text": "And this is a line of research that people are going to do."
+  },
+  {
+    "startTime": 435.689,
+    "endTime": 438.266,
+    "text": "But right now, if you want to get into the whole body,"
+  },
+  {
+    "startTime": 438.266,
+    "endTime": 440.434,
+    "text": "you're probably going to have to use a virus."
+  },
+  {
+    "startTime": 440.434,
+    "endTime": 442.831,
+    "text": "So you take the virus, you put the CRISPR into it,"
+  },
+  {
+    "startTime": 442.831,
+    "endTime": 444.56100000000004,
+    "text": "you let the virus infect the cell."
+  },
+  {
+    "startTime": 444.561,
+    "endTime": 446.72799999999995,
+    "text": "But now you've got this virus in there,"
+  },
+  {
+    "startTime": 446.728,
+    "endTime": 449.44,
+    "text": "and we don't know what the long-term effects of that are."
+  },
+  {
+    "startTime": 449.44,
+    "endTime": 451.73199999999997,
+    "text": "Plus, CRISPR has some off-target effects,"
+  },
+  {
+    "startTime": 451.732,
+    "endTime": 454.71700000000004,
+    "text": "a very small percentage, but they're still there."
+  },
+  {
+    "startTime": 454.717,
+    "endTime": 458.039,
+    "text": "What's going to happen over time with that?"
+  },
+  {
+    "startTime": 458.039,
+    "endTime": 460.275,
+    "text": "These are not trivial questions,"
+  },
+  {
+    "startTime": 460.275,
+    "endTime": 462.93899999999996,
+    "text": "and there are scientists that are trying to solve them,"
+  },
+  {
+    "startTime": 462.939,
+    "endTime": 465.249,
+    "text": "and they will eventually, hopefully, be solved."
+  },
+  {
+    "startTime": 465.249,
+    "endTime": 468.90700000000004,
+    "text": "But it ain't plug-and-play, not by a long shot."
+  },
+  {
+    "startTime": 468.907,
+    "endTime": 471.032,
+    "text": "So: Is it really easy?"
+  },
+  {
+    "startTime": 471.032,
+    "endTime": 475.389,
+    "text": "Well, if you spend a few years working it out in your particular system,"
+  },
+  {
+    "startTime": 475.389,
+    "endTime": 477.426,
+    "text": "yes, it is."
+  },
+  {
+    "startTime": 477.426,
+    "endTime": 479.534,
+    "text": "Now the other thing is,"
+  },
+  {
+    "startTime": 479.534,
+    "endTime": 485.917,
+    "text": "we don't really know that much about how to make a particular thing happen"
+  },
+  {
+    "startTime": 485.917,
+    "endTime": 489.306,
+    "text": "by changing particular spots in the genome."
+  },
+  {
+    "startTime": 489.306,
+    "endTime": 491.49699999999996,
+    "text": "We're a long way away from figuring out"
+  },
+  {
+    "startTime": 491.497,
+    "endTime": 494.36400000000003,
+    "text": "how to give a pig wings, for example."
+  },
+  {
+    "startTime": 494.364,
+    "endTime": 497.25199999999995,
+    "text": "Or even an extra leg -- I'd settle for an extra leg."
+  },
+  {
+    "startTime": 497.252,
+    "endTime": 498.922,
+    "text": "That would be kind of cool, right?"
+  },
+  {
+    "startTime": 498.922,
+    "endTime": 500.482,
+    "text": "But what is happening"
+  },
+  {
+    "startTime": 500.482,
+    "endTime": 504.85600000000005,
+    "text": "is that CRISPR is being used by thousands and thousands of scientists"
+  },
+  {
+    "startTime": 504.856,
+    "endTime": 507.252,
+    "text": "to do really, really important work,"
+  },
+  {
+    "startTime": 507.252,
+    "endTime": 512.72,
+    "text": "like making better models of diseases in animals, for example,"
+  },
+  {
+    "startTime": 512.72,
+    "endTime": 517.726,
+    "text": "or for taking pathways that produce valuable chemicals"
+  },
+  {
+    "startTime": 517.726,
+    "endTime": 522.021,
+    "text": "and getting them into industrial production in fermentation vats,"
+  },
+  {
+    "startTime": 522.021,
+    "endTime": 526.0219999999999,
+    "text": "or even doing really basic research on what genes do."
+  },
+  {
+    "startTime": 526.022,
+    "endTime": 528.975,
+    "text": "This is the story of CRISPR we should be telling,"
+  },
+  {
+    "startTime": 528.975,
+    "endTime": 532.4630000000001,
+    "text": "and I don't like it that the flashier aspects of it"
+  },
+  {
+    "startTime": 532.463,
+    "endTime": 534.2429999999999,
+    "text": "are drowning all of this out."
+  },
+  {
+    "startTime": 534.243,
+    "endTime": 538.841,
+    "text": "Lots of scientists did a lot of work to make CRISPR happen,"
+  },
+  {
+    "startTime": 538.841,
+    "endTime": 540.484,
+    "text": "and what's interesting to me"
+  },
+  {
+    "startTime": 540.484,
+    "endTime": 545.423,
+    "text": "is that these scientists are being supported by our society."
+  },
+  {
+    "startTime": 545.423,
+    "endTime": 546.606,
+    "text": "Think about it."
+  },
+  {
+    "startTime": 546.606,
+    "endTime": 550.983,
+    "text": "We've got an infrastructure that allows a certain percentage of people"
+  },
+  {
+    "startTime": 550.983,
+    "endTime": 554.9839999999999,
+    "text": "to spend all their time doing research."
+  },
+  {
+    "startTime": 554.984,
+    "endTime": 558.998,
+    "text": "That makes us all the inventors of CRISPR,"
+  },
+  {
+    "startTime": 558.998,
+    "endTime": 563.49,
+    "text": "and I would say that makes us all the shepherds of CRISPR."
+  },
+  {
+    "startTime": 563.49,
+    "endTime": 565.749,
+    "text": "We all have a responsibility."
+  },
+  {
+    "startTime": 565.749,
+    "endTime": 570.01,
+    "text": "So I would urge you to really learn about these types of technologies,"
+  },
+  {
+    "startTime": 570.01,
+    "endTime": 572.415,
+    "text": "because, really, only in that way"
+  },
+  {
+    "startTime": 572.415,
+    "endTime": 576.7909999999999,
+    "text": "are we going to be able to guide the development of these technologies,"
+  },
+  {
+    "startTime": 576.791,
+    "endTime": 578.7470000000001,
+    "text": "the use of these technologies"
+  },
+  {
+    "startTime": 578.747,
+    "endTime": 583.034,
+    "text": "and make sure that, in the end, it's a positive outcome --"
+  },
+  {
+    "startTime": 583.034,
+    "endTime": 586.698,
+    "text": "for both the planet and for us."
+  },
+  {
+    "startTime": 586.698,
+    "endTime": 587.914,
+    "text": "Thanks."
+  }
+]
