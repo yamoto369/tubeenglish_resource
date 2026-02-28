@@ -1,0 +1,302 @@
+[
+  {
+    "startTime": 12.62,
+    "endTime": 15.559999999999999,
+    "text": "So why do we learn mathematics?"
+  },
+  {
+    "startTime": 15.56,
+    "endTime": 28.33,
+    "text": "Essentially, for three reasons: calculation, application, and last, and unfortunately least in terms of the time we give it, inspiration."
+  },
+  {
+    "startTime": 28.33,
+    "endTime": 36.44,
+    "text": "Mathematics is the science of patterns, and we study it to learn how to think logically, critically and creatively."
+  },
+  {
+    "startTime": 36.44,
+    "endTime": 50.17,
+    "text": "But too much of the mathematics that we learn in school is not effectively motivated, and when our students ask, \"Why are we learning this?\",  then they often hear that they'll need it in an upcoming math class or on a future test."
+  },
+  {
+    "startTime": 50.17,
+    "endTime": 59.730000000000004,
+    "text": "But wouldn't it be great if every once in a while we did mathematics simply because it was fun or beautiful or because it excited the mind?"
+  },
+  {
+    "startTime": 59.73,
+    "endTime": 70.38,
+    "text": "Now, I know many people have not had the opportunity to see how this can happen, so let me give you a quick example with my favorite collection of numbers, the Fibonacci numbers."
+  },
+  {
+    "startTime": 70.38,
+    "endTime": 73.81,
+    "text": "Yeah! I already have Fibonacci fans here. That's great!"
+  },
+  {
+    "startTime": 73.81,
+    "endTime": 77.63,
+    "text": "Now these numbers can be appreciated in many different ways."
+  },
+  {
+    "startTime": 77.63,
+    "endTime": 84.67999999999999,
+    "text": "From the standpoint of calculation, they're as easy to understand as one plus one, which is two."
+  },
+  {
+    "startTime": 84.68,
+    "endTime": 91.32000000000001,
+    "text": "Then one plus two is three, two plus three is five, three plus five is eight, and so on."
+  },
+  {
+    "startTime": 91.32,
+    "endTime": 104.08999999999999,
+    "text": "Indeed, the person we call Fibonacci was actually named Leonardo of Pisa, and these numbers appear in his book \"Liber Abaci,\" which taught the Western world the methods of arithmetic that we use today."
+  },
+  {
+    "startTime": 104.09,
+    "endTime": 109.78,
+    "text": "In terms of applications, Fibonacci numbers appear in nature surprisingly often."
+  },
+  {
+    "startTime": 109.78,
+    "endTime": 120.04,
+    "text": "The number of petals on a flower is typically a Fibonacci number, or the number of spirals on a sunflower or a pineapple tends to be a Fibonacci number as well."
+  },
+  {
+    "startTime": 120.04,
+    "endTime": 128.94,
+    "text": "In fact, there are many more applications of Fibonacci numbers, but what I find most inspirational about them are the beautiful number patterns they display."
+  },
+  {
+    "startTime": 128.94,
+    "endTime": 131.10999999999999,
+    "text": "Let me show you one of my favorites."
+  },
+  {
+    "startTime": 131.11,
+    "endTime": 136.04000000000002,
+    "text": "Suppose you like to square numbers, and frankly, who doesn't?"
+  },
+  {
+    "startTime": 136.04,
+    "endTime": 140.2,
+    "text": "Let me show — let's look at the squares of the first few Fibonacci numbers, ok?"
+  },
+  {
+    "startTime": 140.42,
+    "endTime": 147.97,
+    "text": "So one squared is one, two squared is four, three squared is nine, five squared is 25, and so on, alright?"
+  },
+  {
+    "startTime": 147.97,
+    "endTime": 154.41,
+    "text": "Now, it's no surprise that when you add consecutive Fibonacci numbers, you get the next Fibonacci number. Right?"
+  },
+  {
+    "startTime": 154.41,
+    "endTime": 155.74,
+    "text": "That's how they're created."
+  },
+  {
+    "startTime": 155.74,
+    "endTime": 160.54000000000002,
+    "text": "But you wouldn't expect anything special to happen when you add the squares together."
+  },
+  {
+    "startTime": 160.54,
+    "endTime": 161.87,
+    "text": "But check this out."
+  },
+  {
+    "startTime": 161.87,
+    "endTime": 166.67000000000002,
+    "text": "One plus one gives us two, and one plus four gives us five."
+  },
+  {
+    "startTime": 166.67,
+    "endTime": 174.72,
+    "text": "And four plus nine is 13, nine plus 25 is 34, and yes, the pattern continues."
+  },
+  {
+    "startTime": 174.72,
+    "endTime": 176.27,
+    "text": "In fact, here's another one."
+  },
+  {
+    "startTime": 176.27,
+    "endTime": 180.65,
+    "text": "Suppose you wanted to look at adding the squares of the first few Fibonacci numbers."
+  },
+  {
+    "startTime": 180.65,
+    "endTime": 182.07,
+    "text": "Let's see what we get there."
+  },
+  {
+    "startTime": 182.07,
+    "endTime": 184.54,
+    "text": "So one plus one plus four is six."
+  },
+  {
+    "startTime": 184.54,
+    "endTime": 187.47,
+    "text": "Add nine to that, we get 15."
+  },
+  {
+    "startTime": 187.47,
+    "endTime": 189.76,
+    "text": "Add 25, we get 40."
+  },
+  {
+    "startTime": 189.76,
+    "endTime": 192.70999999999998,
+    "text": "Add 64, we get 104."
+  },
+  {
+    "startTime": 192.71,
+    "endTime": 194.23000000000002,
+    "text": "Now look at those numbers."
+  },
+  {
+    "startTime": 194.23,
+    "endTime": 202.32,
+    "text": "Those are not Fibonacci numbers, but if you look at them closely, you'll see the Fibonacci numbers buried inside of them."
+  },
+  {
+    "startTime": 202.32,
+    "endTime": 204.51,
+    "text": "You see it? I'll show it to you."
+  },
+  {
+    "startTime": 204.51,
+    "endTime": 214.51,
+    "text": "Six is two times three, 15 is three times five, 40 is five times eight. Two, three, five, eight, who do we appreciate?"
+  },
+  {
+    "startTime": 214.51,
+    "endTime": 216.76,
+    "text": "Fibonacci! Of course."
+  },
+  {
+    "startTime": 216.76,
+    "endTime": 224.78,
+    "text": "Now, as much fun as it is to discover these patterns, it's even more satisfying to understand why they are true."
+  },
+  {
+    "startTime": 224.78,
+    "endTime": 226.57,
+    "text": "Let's look at that last equation."
+  },
+  {
+    "startTime": 226.57,
+    "endTime": 233.18,
+    "text": "Why should the squares of one, one, two, three, five and eight add up to eight times 13?"
+  },
+  {
+    "startTime": 233.18,
+    "endTime": 236.14000000000001,
+    "text": "I'll show you by drawing a simple picture."
+  },
+  {
+    "startTime": 236.14,
+    "endTime": 242.97,
+    "text": "Alright? We'll start with a one-by-one square, and next to that put another one-by-one square."
+  },
+  {
+    "startTime": 242.97,
+    "endTime": 246.37,
+    "text": "Together, they form a one-by-two rectangle."
+  },
+  {
+    "startTime": 246.37,
+    "endTime": 258.26,
+    "text": "Beneath that, I'll put a two-by-two square, and next to that, a three-by-three square, beneath that, a five-by-five square, and then an eight-by-eight square, creating one giant rectangle, right?"
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 263.88,
+    "text": "Now let me ask you a simple question: what is the area of the rectangle?"
+  },
+  {
+    "startTime": 263.88,
+    "endTime": 270.18,
+    "text": "Well, on the one hand, it's the sum of the areas of the squares inside it, right?"
+  },
+  {
+    "startTime": 270.18,
+    "endTime": 271.34000000000003,
+    "text": "Just as we created it."
+  },
+  {
+    "startTime": 271.34,
+    "endTime": 278.53999999999996,
+    "text": "It's one squared plus one squared, plus two squared, plus three squared, plus five squared, plus eight squared. Right?"
+  },
+  {
+    "startTime": 278.54,
+    "endTime": 280.21000000000004,
+    "text": "That's the area."
+  },
+  {
+    "startTime": 280.21,
+    "endTime": 295.18,
+    "text": "On the other hand, because it's a rectangle, the area is equal to its height times its base, and the height is clearly eight, and the base is five plus eight, which is the next Fibonacci number, 13. Right?"
+  },
+  {
+    "startTime": 295.18,
+    "endTime": 298.56,
+    "text": "So the area is also eight times 13."
+  },
+  {
+    "startTime": 298.56,
+    "endTime": 310.43,
+    "text": "Since we've correctly calculated the area two different ways, they have to be the same number, and that's why the squares of one, one, two, three, five and eight add up to eight times 13."
+  },
+  {
+    "startTime": 310.43,
+    "endTime": 319.39,
+    "text": "Now, if we continue this process, we'll generate rectangles of the form 13 by 21, 21 by 34, and so on."
+  },
+  {
+    "startTime": 319.39,
+    "endTime": 320.58,
+    "text": "Now check this out."
+  },
+  {
+    "startTime": 320.58,
+    "endTime": 324.90999999999997,
+    "text": "If you divide 13 by eight, you get 1.625."
+  },
+  {
+    "startTime": 324.91,
+    "endTime": 342.93,
+    "text": "And if you divide the larger number by the smaller number, then these ratios get closer and closer to about 1.618, known to many people as the Golden Ratio, a number which has fascinated mathematicians, scientists and artists for centuries."
+  },
+  {
+    "startTime": 342.93,
+    "endTime": 352.56,
+    "text": "Now, I show all this to you because, like so much of mathematics, there's a beautiful side to it that I fear does not get enough attention in our schools."
+  },
+  {
+    "startTime": 352.56,
+    "endTime": 363.84,
+    "text": "We spend lots of time learning about calculation, but let's not forget about application, including, perhaps, the most important application of all, learning how to think."
+  },
+  {
+    "startTime": 363.84,
+    "endTime": 367.25,
+    "text": "If I could summarize this in one sentence, it would be this:"
+  },
+  {
+    "startTime": 367.25,
+    "endTime": 373.63,
+    "text": "Mathematics is not just solving for X, it's also figuring out why."
+  },
+  {
+    "startTime": 373.63,
+    "endTime": 375.83,
+    "text": "Thank you very much."
+  }
+]

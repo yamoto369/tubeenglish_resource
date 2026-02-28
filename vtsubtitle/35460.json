@@ -1,0 +1,207 @@
+[
+  {
+    "startTime": 7.24,
+    "endTime": 13.21,
+    "text": "So you're stranded in a huge rainforest, and you've eaten a poisonous mushroom."
+  },
+  {
+    "startTime": 13.21,
+    "endTime": 18.8,
+    "text": "To save your life, you need the antidote excreted by a certain species of frog."
+  },
+  {
+    "startTime": 18.86,
+    "endTime": 36.129999999999995,
+    "text": "Unfortunately, only the female  of the species produces the antidote, and to make matters worse, the male and female occur in equal numbers and look identical, with no way for you to tell them apart, except that the male has a distinctive croak."
+  },
+  {
+    "startTime": 36.13,
+    "endTime": 38.07,
+    "text": "And it may just be your lucky day."
+  },
+  {
+    "startTime": 38.07,
+    "endTime": 49.28,
+    "text": "To your left, you've spotted a frog on a tree stump, but before you start running to it, you're startled by the croak of a male frog coming from a clearing  in the opposite direction."
+  },
+  {
+    "startTime": 49.28,
+    "endTime": 54.13,
+    "text": "There, you see two frogs, but you can't tell which one  made the sound."
+  },
+  {
+    "startTime": 54.13,
+    "endTime": 62.34,
+    "text": "You feel yourself starting to lose consciousness, and realize you only have time to go in one direction before you collapse."
+  },
+  {
+    "startTime": 62.34,
+    "endTime": 68.18,
+    "text": "What are your chances of survival if you head for the clearing and lick both of the frogs there?"
+  },
+  {
+    "startTime": 68.18,
+    "endTime": 70.37,
+    "text": "What about if you go to the tree stump?"
+  },
+  {
+    "startTime": 70.37,
+    "endTime": 72.47,
+    "text": "Which way should you go?"
+  },
+  {
+    "startTime": 72.47,
+    "endTime": 75.28,
+    "text": "[Press pause now to calculate odds yourself.]"
+  },
+  {
+    "startTime": 75.28,
+    "endTime": 77.7,
+    "text": "3, 2 ,1."
+  },
+  {
+    "startTime": 77.74,
+    "endTime": 83.83999999999999,
+    "text": "If you chose to go to the clearing, you're right, but the hard part is correctly  calculating your odds."
+  },
+  {
+    "startTime": 83.84,
+    "endTime": 88.24000000000001,
+    "text": "There are two common incorrect ways of solving this problem."
+  },
+  {
+    "startTime": 88.24,
+    "endTime": 89.80999999999999,
+    "text": "Wrong answer number one:"
+  },
+  {
+    "startTime": 89.81,
+    "endTime": 101.11,
+    "text": "Assuming there's a roughly equal number of males and females, the probability of any one frog being either sex is one in two, which is 0.5, or 50%."
+  },
+  {
+    "startTime": 101.11,
+    "endTime": 109.24,
+    "text": "And since all frogs are independent of each other, the chance of any one of them being female should still be 50% each time you choose."
+  },
+  {
+    "startTime": 109.24,
+    "endTime": 114.03999999999999,
+    "text": "This logic actually is correct  for the tree stump, but not for the clearing."
+  },
+  {
+    "startTime": 114.04,
+    "endTime": 115.34,
+    "text": "Wrong answer two:"
+  },
+  {
+    "startTime": 115.34,
+    "endTime": 117.74000000000001,
+    "text": "First, you saw two frogs in the clearing."
+  },
+  {
+    "startTime": 117.74,
+    "endTime": 123.03,
+    "text": "Now you've learned that at least one of them is male, but what are the chances that both are?"
+  },
+  {
+    "startTime": 123.03,
+    "endTime": 134.67000000000002,
+    "text": "If the probability of each individual frog being male is 0.5, then multiplying the two together will give you 0.25, which is one in four, or 25%."
+  },
+  {
+    "startTime": 134.67,
+    "endTime": 141.28,
+    "text": "So, you have a 75% chance  of getting at least one female and receiving the antidote."
+  },
+  {
+    "startTime": 141.28,
+    "endTime": 143.24,
+    "text": "So here's the right answer."
+  },
+  {
+    "startTime": 143.24,
+    "endTime": 149.75,
+    "text": "Going for the clearing gives you a two in three chance of survival, or about 67%."
+  },
+  {
+    "startTime": 149.75,
+    "endTime": 155.41,
+    "text": "If you're wondering how this  could possibly be right, it's because of something called conditional probability."
+  },
+  {
+    "startTime": 155.41,
+    "endTime": 157.41,
+    "text": "Let's see how it unfolds."
+  },
+  {
+    "startTime": 157.41,
+    "endTime": 162.74,
+    "text": "When we first see the two frogs, there are several possible combinations of male and female."
+  },
+  {
+    "startTime": 162.74,
+    "endTime": 173.84,
+    "text": "If we write out the full list, we have what mathematicians call the sample space, and as we can see, out of the four possible combinations, only one has two males."
+  },
+  {
+    "startTime": 173.84,
+    "endTime": 177.04,
+    "text": "So why was the answer of 75% wrong?"
+  },
+  {
+    "startTime": 177.04,
+    "endTime": 180.23999999999998,
+    "text": "Because the croak gives  us additional information."
+  },
+  {
+    "startTime": 180.24,
+    "endTime": 192.87,
+    "text": "As soon as we know  that one of the frogs is male, that tells us there can't be a pair of females, which means we can eliminate that possibility from the sample space, leaving us with  three possible combinations."
+  },
+  {
+    "startTime": 192.87,
+    "endTime": 201.76,
+    "text": "Of them, one still has two males, giving us our two in three, or 67% chance of getting a female."
+  },
+  {
+    "startTime": 201.76,
+    "endTime": 204.35,
+    "text": "This is how conditional probability works."
+  },
+  {
+    "startTime": 204.35,
+    "endTime": 208.71,
+    "text": "You start off with a large sample space that includes every possibility."
+  },
+  {
+    "startTime": 208.71,
+    "endTime": 219.41,
+    "text": "But every additional piece of information allows you to eliminate possibilities, shrinking the sample space and increasing the probability  of getting a particular combination."
+  },
+  {
+    "startTime": 219.41,
+    "endTime": 223.32999999999998,
+    "text": "The point is that information affects probability."
+  },
+  {
+    "startTime": 223.33,
+    "endTime": 228.04000000000002,
+    "text": "And conditional probability isn't just the stuff of abstract mathematical games."
+  },
+  {
+    "startTime": 228.04,
+    "endTime": 230.32999999999998,
+    "text": "It pops up in the real world, as well."
+  },
+  {
+    "startTime": 230.33,
+    "endTime": 240.47000000000003,
+    "text": "Computers and other devices use conditional probability to detect likely errors in the strings of 1's and 0's that all our data consists of."
+  },
+  {
+    "startTime": 240.47,
+    "endTime": 254.5,
+    "text": "And in many of our own life decisions, we use information gained from past experience and our surroundings to narrow down our choices to the best options so that maybe next time, we can avoid eating that poisonous  mushroom in the first place."
+  }
+]
