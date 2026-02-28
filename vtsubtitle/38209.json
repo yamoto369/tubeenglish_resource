@@ -1,0 +1,197 @@
+[
+  {
+    "startTime": 6.681,
+    "endTime": 8.873000000000001,
+    "text": "Let's say you're on a game show."
+  },
+  {
+    "startTime": 8.873,
+    "endTime": 14.850999999999999,
+    "text": "You've already earned $1000 in the first round when you land on the bonus space."
+  },
+  {
+    "startTime": 14.851,
+    "endTime": 16.657,
+    "text": "Now, you have a choice."
+  },
+  {
+    "startTime": 16.657,
+    "endTime": 22.537,
+    "text": "You can either take a $500 bonus guaranteed or you can flip a coin."
+  },
+  {
+    "startTime": 22.537,
+    "endTime": 25.857,
+    "text": "If it's heads, you win $1000 bonus."
+  },
+  {
+    "startTime": 25.857,
+    "endTime": 29.246,
+    "text": "If it's tails, you get no bonus at all."
+  },
+  {
+    "startTime": 29.246,
+    "endTime": 34.269,
+    "text": "In the second round, you've earned $2000 when you land on the penalty space."
+  },
+  {
+    "startTime": 34.269,
+    "endTime": 36.384,
+    "text": "Now you have another choice."
+  },
+  {
+    "startTime": 36.384,
+    "endTime": 42.171,
+    "text": "You can either take a $500 loss, or try your luck at the coin flip."
+  },
+  {
+    "startTime": 42.171,
+    "endTime": 40.069,
+    "text": "If it's heads, you lose nothing, but if it's tails, you lose $1000 instead."
+  },
+  {
+    "startTime": 49.069,
+    "endTime": 57.254000000000005,
+    "text": "If you're like most people, you probably chose to take the guaranteed bonus in the first round and flip the coin in the second round."
+  },
+  {
+    "startTime": 57.254,
+    "endTime": 60.113,
+    "text": "But if you think about it, this makes no sense."
+  },
+  {
+    "startTime": 60.113,
+    "endTime": 64.205,
+    "text": "The odds and outcomes in both rounds are exactly the same."
+  },
+  {
+    "startTime": 64.205,
+    "endTime": 68.704,
+    "text": "So why does the second round seem much scarier?"
+  },
+  {
+    "startTime": 68.704,
+    "endTime": 73.214,
+    "text": "The answer lies in a phenomenon known as loss aversion."
+  },
+  {
+    "startTime": 73.214,
+    "endTime": 83.05499999999999,
+    "text": "Under rational economic theory, our decisions should follow a simple mathematical equation that weighs the level of risk against the amount at stake."
+  },
+  {
+    "startTime": 83.055,
+    "endTime": 94.97200000000001,
+    "text": "But studies have found that for many people, the negative psychological impact we feel from losing something is about twice as strong as the positive impact of gaining the same thing."
+  },
+  {
+    "startTime": 94.972,
+    "endTime": 106.529,
+    "text": "Loss aversion is one cognitive bias that arises from heuristics, problem-solving approaches based on previous experience and intuition rather than careful analysis."
+  },
+  {
+    "startTime": 106.529,
+    "endTime": 117.834,
+    "text": "And these mental shortcuts can lead to irrational decisions, not like falling in love or bungee jumping off a cliff, but logical fallacies that can easily be proven wrong."
+  },
+  {
+    "startTime": 117.834,
+    "endTime": 123.59100000000001,
+    "text": "Situations involving probability are notoriously bad for applying heuristics."
+  },
+  {
+    "startTime": 123.591,
+    "endTime": 130.736,
+    "text": "For instance, say you were to roll a dice with four green faces and two red faces twenty times."
+  },
+  {
+    "startTime": 130.736,
+    "endTime": 137.018,
+    "text": "You can choose one of the following sequences of rolls, and if it shows up,  you'll win $25."
+  },
+  {
+    "startTime": 137.018,
+    "endTime": 138.909,
+    "text": "Which would you pick?"
+  },
+  {
+    "startTime": 138.909,
+    "endTime": 151.884,
+    "text": "In one study, 65% of the participants who were all college students chose sequence B even though A is shorter and contained within B, in other words, more likely."
+  },
+  {
+    "startTime": 151.884,
+    "endTime": 155.13199999999998,
+    "text": "This is what's called a conjunction fallacy."
+  },
+  {
+    "startTime": 155.132,
+    "endTime": 161.607,
+    "text": "Here, we expect to see more green rolls, so our brains can trick us into picking the less likely option."
+  },
+  {
+    "startTime": 161.607,
+    "endTime": 165.822,
+    "text": "Heuristics are also terrible at dealing with numbers in general."
+  },
+  {
+    "startTime": 165.822,
+    "endTime": 169.393,
+    "text": "In one example, students were split into two groups."
+  },
+  {
+    "startTime": 169.393,
+    "endTime": 180.279,
+    "text": "The first group was asked whether Mahatma Gandhi died before or after age 9, while the second was asked whether he died before or after age 140."
+  },
+  {
+    "startTime": 180.279,
+    "endTime": 193.536,
+    "text": "Both numbers were obviously way off, but when the students were then asked to guess the actual age at which he died, the first group's answers averaged to 50 while the second group's averaged to 67."
+  },
+  {
+    "startTime": 193.536,
+    "endTime": 201.746,
+    "text": "Even though the clearly wrong information in the initial questions should have been irrelevant, it still affected the students' estimates."
+  },
+  {
+    "startTime": 201.746,
+    "endTime": 211.11100000000002,
+    "text": "This is an example of the anchoring effect, and it's often used in marketing and negotiations to raise the prices that people are willing to pay."
+  },
+  {
+    "startTime": 211.111,
+    "endTime": 216.998,
+    "text": "So, if heuristics lead to all these wrong decisions, why do we even have them?"
+  },
+  {
+    "startTime": 216.998,
+    "endTime": 219.772,
+    "text": "Well, because they can be quite effective."
+  },
+  {
+    "startTime": 219.772,
+    "endTime": 225.724,
+    "text": "For most of human history, survival depended on making quick decisions with limited information."
+  },
+  {
+    "startTime": 225.724,
+    "endTime": 232.77499999999998,
+    "text": "When there's no time to logically analyze all the possibilities, heuristics can sometimes save our lives."
+  },
+  {
+    "startTime": 232.775,
+    "endTime": 246.172,
+    "text": "But today's environment requires far more complex decision-making, and these decisions are more biased by unconscious factors than we think, affecting everything from health and education to finance and criminal justice."
+  },
+  {
+    "startTime": 246.172,
+    "endTime": 251.18699999999998,
+    "text": "We can't just shut off our brain's heuristics, but we can learn to be aware of them."
+  },
+  {
+    "startTime": 251.187,
+    "endTime": 268.04,
+    "text": "When you come to a situation involving numbers, probability, or multiple details, pause for a second and consider that the intuitive answer might not be the right one after all."
+  }
+]

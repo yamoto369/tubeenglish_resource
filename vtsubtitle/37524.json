@@ -1,0 +1,182 @@
+[
+  {
+    "startTime": 6.7,
+    "endTime": 8.6,
+    "text": "What is consciousness?"
+  },
+  {
+    "startTime": 8.8,
+    "endTime": 11.5,
+    "text": "Can an artificial machine really think?"
+  },
+  {
+    "startTime": 11.7,
+    "endTime": 18.6,
+    "text": "Does the mind just consist of neurons in the brain, or is there some intangible spark at its core?"
+  },
+  {
+    "startTime": 18.6,
+    "endTime": 23.900000000000002,
+    "text": "For many, these have been vital considerations for the future of artificial intelligence."
+  },
+  {
+    "startTime": 24.1,
+    "endTime": 35.0,
+    "text": "But British computer scientist Alan Turing decided to disregard all these questions in favor of a much simpler one: Can a computer talk like a human?"
+  },
+  {
+    "startTime": 35.1,
+    "endTime": 42.9,
+    "text": "This question led to an idea for measuring aritificial intelligence that would famously come to be known as the Turing test."
+  },
+  {
+    "startTime": 43.1,
+    "endTime": 49.5,
+    "text": "In the 1950 paper, \"Computing Machinery and Intelligence,\" Turing proposed the following game."
+  },
+  {
+    "startTime": 49.6,
+    "endTime": 56.300000000000004,
+    "text": "A human judge has a text conversation with unseen players and evaluates their responses."
+  },
+  {
+    "startTime": 56.382,
+    "endTime": 63.5,
+    "text": "To pass the test, a computer must be able to replace one of the players without substantially changing the results."
+  },
+  {
+    "startTime": 63.7,
+    "endTime": 72.3,
+    "text": "In other words, a computer would be considered intelligent if its conversation couldn't be easily distinguished from a human's."
+  },
+  {
+    "startTime": 72.4,
+    "endTime": 80.60000000000001,
+    "text": "Turing predicted that by the year 2000, machines with 100 megabytes of memory would be able to easily pass his test."
+  },
+  {
+    "startTime": 80.622,
+    "endTime": 82.5,
+    "text": "But he may have jumped the gun."
+  },
+  {
+    "startTime": 82.6,
+    "endTime": 87.6,
+    "text": "Even though today's computers have far more memory than that, few have succeeded,"
+  },
+  {
+    "startTime": 87.643,
+    "endTime": 96.0,
+    "text": "and those that have done well focused more on finding clever ways to fool judges than using overwhelming computing power."
+  },
+  {
+    "startTime": 96.5,
+    "endTime": 103.5,
+    "text": "Though it was never subjected to a real test, the first program with some claim to success was called ELIZA."
+  },
+  {
+    "startTime": 103.7,
+    "endTime": 110.4,
+    "text": "With only a fairly short and simple script, it managed to mislead many people by mimicking a psychologist,"
+  },
+  {
+    "startTime": 110.434,
+    "endTime": 115.39999999999999,
+    "text": "encouraging them to talk more and reflecting their own questions back at them."
+  },
+  {
+    "startTime": 115.6,
+    "endTime": 127.89999999999999,
+    "text": "Another early script PARRY took the opposite approach by imitating a paranoid schizophrenic who kept steering the conversation back to his own preprogrammed obsessions."
+  },
+  {
+    "startTime": 127.939,
+    "endTime": 132.803,
+    "text": "Their success in fooling people highlighted one weakness of the test."
+  },
+  {
+    "startTime": 132.803,
+    "endTime": 140.6,
+    "text": "Humans regularly attribute intelligence to a whole range of things that are not actually intelligent."
+  },
+  {
+    "startTime": 140.8,
+    "endTime": 151.60000000000002,
+    "text": "Nonetheless, annual competitions like the Loebner Prize, have made the test more formal with judges knowing ahead of time that some of their conversation partners are machines."
+  },
+  {
+    "startTime": 151.8,
+    "endTime": 159.0,
+    "text": "But while the quality has improved, many chatbot programmers have used similar strategies to ELIZA and PARRY."
+  },
+  {
+    "startTime": 159.096,
+    "endTime": 168.9,
+    "text": "1997's winner Catherine could carry on amazingly focused and intelligent conversation, but mostly if the judge wanted to talk about Bill Clinton."
+  },
+  {
+    "startTime": 169.0,
+    "endTime": 171.813,
+    "text": "And the more recent winner Eugene Goostman was given the persona of a 13-year-old Ukrainian boy,"
+  },
+  {
+    "startTime": 175.549,
+    "endTime": 182.6,
+    "text": "so judges interpreted its nonsequiturs and awkward grammar as language and culture barriers."
+  },
+  {
+    "startTime": 182.7,
+    "endTime": 194.0,
+    "text": "Meanwhile, other programs like Cleverbot have taken a different approach by statistically analyzing huge databases of real conversations to determine the best responses."
+  },
+  {
+    "startTime": 194.1,
+    "endTime": 200.6,
+    "text": "Some also store memories of previous conversations in order to improve over time."
+  },
+  {
+    "startTime": 200.7,
+    "endTime": 212.6,
+    "text": "But while Cleverbot's individual responses can sound incredibly human, its lack of a consistent personality and inability to deal with brand new topics are a dead giveaway."
+  },
+  {
+    "startTime": 212.7,
+    "endTime": 218.29999999999998,
+    "text": "Who in Turing's day could have predicted that today's computers would be able to pilot spacecraft,"
+  },
+  {
+    "startTime": 218.4,
+    "endTime": 226.0,
+    "text": "perform delicate surgeries and solve massive equations, but still struggle with the most basic small talk?"
+  },
+  {
+    "startTime": 226.1,
+    "endTime": 233.2,
+    "text": "Human language turns out to be an amazingly complex phenomenon that can't be captured by even the largest dictionary."
+  },
+  {
+    "startTime": 233.3,
+    "endTime": 240.4,
+    "text": "Chatbots can be baffled by simple pauses, like \"umm...\" or questions with no correct answer."
+  },
+  {
+    "startTime": 240.415,
+    "endTime": 247.4,
+    "text": "And a simple conversational sentence, like, \"I took the juice out of the fridge and gave it to him, but forgot to check the date,\""
+  },
+  {
+    "startTime": 247.406,
+    "endTime": 252.5,
+    "text": "requires a wealth of underlying knowledge and intuition to parse."
+  },
+  {
+    "startTime": 252.7,
+    "endTime": 259.11199999999997,
+    "text": "It turns out that simulating a human conversation takes more than just increasing memory and processing power,"
+  },
+  {
+    "startTime": 259.112,
+    "endTime": 271.62300000000005,
+    "text": "and as we get closer to Turing's goal, we may have to deal with all those big questions about consciousness after all."
+  }
+]
