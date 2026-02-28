@@ -1,0 +1,3402 @@
+[
+  {
+    "startTime": 18.33,
+    "endTime": 20.33,
+    "text": "We all make decisions every day; we want to know"
+  },
+  {
+    "startTime": 20.33,
+    "endTime": 23.33,
+    "text": "what the right thing is to do -- in domains from the financial"
+  },
+  {
+    "startTime": 23.33,
+    "endTime": 27.33,
+    "text": "to the gastronomic to the professional to the romantic."
+  },
+  {
+    "startTime": 27.33,
+    "endTime": 30.33,
+    "text": "And surely, if somebody could really tell us how to do"
+  },
+  {
+    "startTime": 30.33,
+    "endTime": 33.33,
+    "text": "exactly the right thing at all possible times,"
+  },
+  {
+    "startTime": 33.33,
+    "endTime": 36.33,
+    "text": "that would be a tremendous gift."
+  },
+  {
+    "startTime": 36.33,
+    "endTime": 41.33,
+    "text": "It turns out that, in fact, the world was given this gift in 1738"
+  },
+  {
+    "startTime": 41.33,
+    "endTime": 44.33,
+    "text": "by a Dutch polymath named Daniel Bernoulli."
+  },
+  {
+    "startTime": 44.33,
+    "endTime": 47.33,
+    "text": "And what I want to talk to you about today is what that gift is,"
+  },
+  {
+    "startTime": 47.33,
+    "endTime": 50.33,
+    "text": "and I also want to explain to you why it is"
+  },
+  {
+    "startTime": 50.33,
+    "endTime": 53.33,
+    "text": "that it hasn't made a damn bit of difference."
+  },
+  {
+    "startTime": 53.33,
+    "endTime": 58.33,
+    "text": "Now, this is Bernoulli's gift. This is a direct quote."
+  },
+  {
+    "startTime": 58.33,
+    "endTime": 62.33,
+    "text": "And if it looks like Greek to you, it's because, well, it's Greek."
+  },
+  {
+    "startTime": 62.33,
+    "endTime": 66.33,
+    "text": "But the simple English translation -- much less precise,"
+  },
+  {
+    "startTime": 66.33,
+    "endTime": 70.33,
+    "text": "but it captures the gist of what Bernoulli had to say -- was this:"
+  },
+  {
+    "startTime": 70.33,
+    "endTime": 72.33,
+    "text": "The expected value of any of our actions --"
+  },
+  {
+    "startTime": 72.33,
+    "endTime": 76.33,
+    "text": "that is, the goodness that we can count on getting --"
+  },
+  {
+    "startTime": 76.33,
+    "endTime": 78.33,
+    "text": "is the product of two simple things:"
+  },
+  {
+    "startTime": 78.33,
+    "endTime": 82.33,
+    "text": "the odds that this action will allow us to gain something,"
+  },
+  {
+    "startTime": 82.33,
+    "endTime": 85.33,
+    "text": "and the value of that gain to us."
+  },
+  {
+    "startTime": 85.33,
+    "endTime": 87.33,
+    "text": "In a sense, what Bernoulli was saying is,"
+  },
+  {
+    "startTime": 87.33,
+    "endTime": 90.33,
+    "text": "if we can estimate and multiply these two things,"
+  },
+  {
+    "startTime": 90.33,
+    "endTime": 93.33,
+    "text": "we will always know precisely how we should behave."
+  },
+  {
+    "startTime": 93.33,
+    "endTime": 96.33,
+    "text": "Now, this simple equation, even for those of you"
+  },
+  {
+    "startTime": 96.33,
+    "endTime": 99.33,
+    "text": "who don't like equations, is something that you're quite used to."
+  },
+  {
+    "startTime": 99.33,
+    "endTime": 102.33,
+    "text": "Here's an example: if I were to tell you, let's play"
+  },
+  {
+    "startTime": 102.33,
+    "endTime": 105.33,
+    "text": "a little coin toss game, and I'm going to flip a coin,"
+  },
+  {
+    "startTime": 105.33,
+    "endTime": 108.33,
+    "text": "and if it comes up heads, I'm going to pay you 10 dollars,"
+  },
+  {
+    "startTime": 108.33,
+    "endTime": 112.33,
+    "text": "but you have to pay four dollars for the privilege of playing with me,"
+  },
+  {
+    "startTime": 112.33,
+    "endTime": 115.33,
+    "text": "most of you would say, sure, I'll take that bet. Because you know"
+  },
+  {
+    "startTime": 115.33,
+    "endTime": 120.33,
+    "text": "that the odds of you winning are one half, the gain if you do is 10 dollars,"
+  },
+  {
+    "startTime": 120.33,
+    "endTime": 122.33,
+    "text": "that multiplies to five, and that's more"
+  },
+  {
+    "startTime": 122.33,
+    "endTime": 126.33,
+    "text": "than I'm charging you to play. So, the answer is, yes."
+  },
+  {
+    "startTime": 126.33,
+    "endTime": 130.32999999999998,
+    "text": "This is what statisticians technically call a damn fine bet."
+  },
+  {
+    "startTime": 130.33,
+    "endTime": 133.33,
+    "text": "Now, the idea is simple when we're applying it to coin tosses,"
+  },
+  {
+    "startTime": 133.33,
+    "endTime": 137.33,
+    "text": "but in fact, it's not very simple in everyday life."
+  },
+  {
+    "startTime": 137.33,
+    "endTime": 141.33,
+    "text": "People are horrible at estimating both of these things,"
+  },
+  {
+    "startTime": 141.33,
+    "endTime": 143.33,
+    "text": "and that's what I want to talk to you about today."
+  },
+  {
+    "startTime": 143.33,
+    "endTime": 146.33,
+    "text": "There are two kinds of errors people make when trying to decide"
+  },
+  {
+    "startTime": 146.33,
+    "endTime": 148.33,
+    "text": "what the right thing is to do, and those are"
+  },
+  {
+    "startTime": 148.33,
+    "endTime": 151.33,
+    "text": "errors in estimating the odds that they're going to succeed,"
+  },
+  {
+    "startTime": 151.33,
+    "endTime": 155.33,
+    "text": "and errors in estimating the value of their own success."
+  },
+  {
+    "startTime": 155.33,
+    "endTime": 159.33,
+    "text": "Now, let me talk about the first one first."
+  },
+  {
+    "startTime": 159.33,
+    "endTime": 161.33,
+    "text": "Calculating odds would seem to be something rather easy:"
+  },
+  {
+    "startTime": 161.33,
+    "endTime": 165.33,
+    "text": "there are six sides to a die, two sides to a coin, 52 cards in a deck."
+  },
+  {
+    "startTime": 165.33,
+    "endTime": 169.33,
+    "text": "You all know what the likelihood is of pulling the ace of spades"
+  },
+  {
+    "startTime": 169.33,
+    "endTime": 170.33,
+    "text": "or of flipping a heads."
+  },
+  {
+    "startTime": 170.33,
+    "endTime": 175.33,
+    "text": "But as it turns out, this is not a very easy idea to apply"
+  },
+  {
+    "startTime": 175.33,
+    "endTime": 178.33,
+    "text": "in everyday life. That's why Americans spend more --"
+  },
+  {
+    "startTime": 178.33,
+    "endTime": 181.33,
+    "text": "I should say, lose more -- gambling"
+  },
+  {
+    "startTime": 181.33,
+    "endTime": 186.33,
+    "text": "than on all other forms of entertainment combined."
+  },
+  {
+    "startTime": 186.33,
+    "endTime": 189.33,
+    "text": "The reason is, this isn't how people do odds."
+  },
+  {
+    "startTime": 189.33,
+    "endTime": 190.33,
+    "text": "The way people figure odds"
+  },
+  {
+    "startTime": 190.33,
+    "endTime": 193.33,
+    "text": "requires that we first talk a bit about pigs."
+  },
+  {
+    "startTime": 193.33,
+    "endTime": 195.33,
+    "text": "Now, the question I'm going to put to you is whether you think"
+  },
+  {
+    "startTime": 195.33,
+    "endTime": 198.33,
+    "text": "there are more dogs or pigs on leashes"
+  },
+  {
+    "startTime": 198.33,
+    "endTime": 201.33,
+    "text": "observed in any particular day in Oxford."
+  },
+  {
+    "startTime": 201.33,
+    "endTime": 203.33,
+    "text": "And of course, you all know that the answer is dogs."
+  },
+  {
+    "startTime": 203.33,
+    "endTime": 206.33,
+    "text": "And the way that you know that the answer is dogs is"
+  },
+  {
+    "startTime": 206.33,
+    "endTime": 208.33,
+    "text": "you quickly reviewed in memory the times"
+  },
+  {
+    "startTime": 208.33,
+    "endTime": 210.33,
+    "text": "you've seen dogs and pigs on leashes."
+  },
+  {
+    "startTime": 210.33,
+    "endTime": 213.33,
+    "text": "It was very easy to remember seeing dogs,"
+  },
+  {
+    "startTime": 213.33,
+    "endTime": 216.33,
+    "text": "not so easy to remember pigs. And each one of you assumed"
+  },
+  {
+    "startTime": 216.33,
+    "endTime": 220.33,
+    "text": "that if dogs on leashes came more quickly to your mind,"
+  },
+  {
+    "startTime": 220.33,
+    "endTime": 222.33,
+    "text": "then dogs on leashes are more probable."
+  },
+  {
+    "startTime": 222.33,
+    "endTime": 227.33,
+    "text": "That's not a bad rule of thumb, except when it is."
+  },
+  {
+    "startTime": 227.33,
+    "endTime": 229.33,
+    "text": "So, for example, here's a word puzzle."
+  },
+  {
+    "startTime": 229.33,
+    "endTime": 231.33,
+    "text": "Are there more four-letter English words"
+  },
+  {
+    "startTime": 231.33,
+    "endTime": 235.33,
+    "text": "with R in the third place or R in the first place?"
+  },
+  {
+    "startTime": 235.33,
+    "endTime": 238.33,
+    "text": "Well, you check memory very briefly, make a quick scan,"
+  },
+  {
+    "startTime": 238.33,
+    "endTime": 241.33,
+    "text": "and it's awfully easy to say to yourself, Ring, Rang, Rung,"
+  },
+  {
+    "startTime": 241.33,
+    "endTime": 248.33,
+    "text": "and very hard to say to yourself, Pare, Park: they come more slowly."
+  },
+  {
+    "startTime": 248.33,
+    "endTime": 250.33,
+    "text": "But in fact, there are many more words in the English language"
+  },
+  {
+    "startTime": 250.33,
+    "endTime": 253.33,
+    "text": "with R in the third than the first place."
+  },
+  {
+    "startTime": 253.33,
+    "endTime": 257.33000000000004,
+    "text": "The reason words with R in the third place come slowly to your mind"
+  },
+  {
+    "startTime": 257.33,
+    "endTime": 260.33,
+    "text": "isn't because they're improbable, unlikely or infrequent."
+  },
+  {
+    "startTime": 260.33,
+    "endTime": 264.33,
+    "text": "It's because the mind recalls words by their first letter."
+  },
+  {
+    "startTime": 264.33,
+    "endTime": 267.33,
+    "text": "You kind of shout out the sound, S -- and the word comes."
+  },
+  {
+    "startTime": 267.33,
+    "endTime": 268.33,
+    "text": "It's like the dictionary;"
+  },
+  {
+    "startTime": 268.33,
+    "endTime": 271.33,
+    "text": "it's hard to look things up by the third letter."
+  },
+  {
+    "startTime": 271.33,
+    "endTime": 273.33,
+    "text": "So, this is an example of how this idea that"
+  },
+  {
+    "startTime": 273.33,
+    "endTime": 275.33,
+    "text": "the quickness with which things come to mind"
+  },
+  {
+    "startTime": 275.33,
+    "endTime": 277.33,
+    "text": "can give you a sense of their probability --"
+  },
+  {
+    "startTime": 277.33,
+    "endTime": 281.33,
+    "text": "how this idea could lead you astray. It's not just puzzles, though."
+  },
+  {
+    "startTime": 281.33,
+    "endTime": 284.33,
+    "text": "For example, when Americans are asked to estimate the odds"
+  },
+  {
+    "startTime": 284.33,
+    "endTime": 287.33,
+    "text": "that they will die in a variety of interesting ways --"
+  },
+  {
+    "startTime": 287.33,
+    "endTime": 290.33,
+    "text": "these are estimates of number of deaths per year"
+  },
+  {
+    "startTime": 290.33,
+    "endTime": 292.33,
+    "text": "per 200 million U.S. citizens."
+  },
+  {
+    "startTime": 292.33,
+    "endTime": 294.33,
+    "text": "And these are just ordinary people like yourselves who are asked"
+  },
+  {
+    "startTime": 294.33,
+    "endTime": 298.33,
+    "text": "to guess how many people die from tornado, fireworks, asthma, drowning, etc."
+  },
+  {
+    "startTime": 298.33,
+    "endTime": 301.33,
+    "text": "Compare these to the actual numbers."
+  },
+  {
+    "startTime": 301.33,
+    "endTime": 304.33,
+    "text": "Now, you see a very interesting pattern here, which is first of all,"
+  },
+  {
+    "startTime": 304.33,
+    "endTime": 309.33,
+    "text": "two things are vastly over-estimated, namely tornadoes and fireworks."
+  },
+  {
+    "startTime": 309.33,
+    "endTime": 311.33,
+    "text": "Two things are vastly underestimated:"
+  },
+  {
+    "startTime": 311.33,
+    "endTime": 314.33,
+    "text": "dying by drowning and dying by asthma. Why?"
+  },
+  {
+    "startTime": 314.33,
+    "endTime": 317.33,
+    "text": "When was the last time that you picked up a newspaper"
+  },
+  {
+    "startTime": 317.33,
+    "endTime": 320.33,
+    "text": "and the headline was, \"Boy dies of Asthma?\""
+  },
+  {
+    "startTime": 320.33,
+    "endTime": 323.33,
+    "text": "It's not interesting because it's so common."
+  },
+  {
+    "startTime": 323.33,
+    "endTime": 327.33,
+    "text": "It's very easy for all of us to bring to mind instances"
+  },
+  {
+    "startTime": 327.33,
+    "endTime": 330.33,
+    "text": "of news stories or newsreels where we've seen"
+  },
+  {
+    "startTime": 330.33,
+    "endTime": 332.33,
+    "text": "tornadoes devastating cities, or some poor schmuck"
+  },
+  {
+    "startTime": 332.33,
+    "endTime": 336.33,
+    "text": "who's blown his hands off with a firework on the Fourth of July."
+  },
+  {
+    "startTime": 336.33,
+    "endTime": 339.33,
+    "text": "Drownings and asthma deaths don't get much coverage."
+  },
+  {
+    "startTime": 339.33,
+    "endTime": 341.33,
+    "text": "They don't come quickly to mind, and as a result,"
+  },
+  {
+    "startTime": 341.33,
+    "endTime": 343.33,
+    "text": "we vastly underestimate them."
+  },
+  {
+    "startTime": 343.33,
+    "endTime": 345.33,
+    "text": "Indeed, this is kind of like the Sesame Street game"
+  },
+  {
+    "startTime": 345.33,
+    "endTime": 349.33,
+    "text": "of \"Which thing doesn't belong?\" And you're right to say"
+  },
+  {
+    "startTime": 349.33,
+    "endTime": 352.33,
+    "text": "it's the swimming pool that doesn't belong, because the swimming pool"
+  },
+  {
+    "startTime": 352.33,
+    "endTime": 356.33,
+    "text": "is the only thing on this slide that's actually very dangerous."
+  },
+  {
+    "startTime": 356.33,
+    "endTime": 358.33,
+    "text": "The way that more of you are likely to die than the combination"
+  },
+  {
+    "startTime": 358.33,
+    "endTime": 362.33,
+    "text": "of all three of the others that you see on the slide."
+  },
+  {
+    "startTime": 362.33,
+    "endTime": 366.33,
+    "text": "The lottery is an excellent example, of course -- an excellent test-case"
+  },
+  {
+    "startTime": 366.33,
+    "endTime": 369.33,
+    "text": "of people's ability to compute probabilities."
+  },
+  {
+    "startTime": 369.33,
+    "endTime": 372.33,
+    "text": "And economists -- forgive me, for those of you who play the lottery --"
+  },
+  {
+    "startTime": 372.33,
+    "endTime": 375.33,
+    "text": "but economists, at least among themselves, refer to the lottery"
+  },
+  {
+    "startTime": 375.33,
+    "endTime": 380.33,
+    "text": "as a stupidity tax, because the odds of getting any payoff"
+  },
+  {
+    "startTime": 380.33,
+    "endTime": 382.33,
+    "text": "by investing your money in a lottery ticket"
+  },
+  {
+    "startTime": 382.33,
+    "endTime": 384.33,
+    "text": "are approximately equivalent to flushing the money"
+  },
+  {
+    "startTime": 384.33,
+    "endTime": 386.33,
+    "text": "directly down the toilet -- which, by the way,"
+  },
+  {
+    "startTime": 386.33,
+    "endTime": 390.33,
+    "text": "doesn't require that you actually go to the store and buy anything."
+  },
+  {
+    "startTime": 390.33,
+    "endTime": 393.33,
+    "text": "Why in the world would anybody ever play the lottery?"
+  },
+  {
+    "startTime": 393.33,
+    "endTime": 396.33,
+    "text": "Well, there are many answers, but one answer surely is,"
+  },
+  {
+    "startTime": 396.33,
+    "endTime": 400.33,
+    "text": "we see a lot of winners. Right? When this couple wins the lottery,"
+  },
+  {
+    "startTime": 400.33,
+    "endTime": 403.33,
+    "text": "or Ed McMahon shows up at your door with this giant check --"
+  },
+  {
+    "startTime": 403.33,
+    "endTime": 406.33,
+    "text": "how the hell do you cash things that size, I don't know."
+  },
+  {
+    "startTime": 406.33,
+    "endTime": 409.33,
+    "text": "We see this on TV; we read about it in the paper."
+  },
+  {
+    "startTime": 409.33,
+    "endTime": 412.33,
+    "text": "When was the last time that you saw extensive interviews"
+  },
+  {
+    "startTime": 412.33,
+    "endTime": 414.33,
+    "text": "with everybody who lost?"
+  },
+  {
+    "startTime": 414.33,
+    "endTime": 417.33,
+    "text": "Indeed, if we required that television stations run"
+  },
+  {
+    "startTime": 417.33,
+    "endTime": 419.33,
+    "text": "a 30-second interview with each loser"
+  },
+  {
+    "startTime": 419.33,
+    "endTime": 423.33,
+    "text": "every time they interview a winner, the 100 million losers"
+  },
+  {
+    "startTime": 423.33,
+    "endTime": 426.33,
+    "text": "in the last lottery would require nine-and-a-half years"
+  },
+  {
+    "startTime": 426.33,
+    "endTime": 429.33,
+    "text": "of your undivided attention just to watch them say,"
+  },
+  {
+    "startTime": 429.33,
+    "endTime": 432.33,
+    "text": "\"Me? I lost.\" \"Me? I lost.\""
+  },
+  {
+    "startTime": 432.33,
+    "endTime": 434.33,
+    "text": "Now, if you watch nine-and-a-half years of television --"
+  },
+  {
+    "startTime": 434.33,
+    "endTime": 439.33,
+    "text": "no sleep, no potty breaks -- and you saw loss after loss after loss,"
+  },
+  {
+    "startTime": 439.33,
+    "endTime": 441.33,
+    "text": "and then at the end there's 30 seconds of, \"and I won,\""
+  },
+  {
+    "startTime": 441.33,
+    "endTime": 444.33,
+    "text": "the likelihood that you would play the lottery is very small."
+  },
+  {
+    "startTime": 444.33,
+    "endTime": 447.33,
+    "text": "Look, I can prove this to you: here's a little lottery."
+  },
+  {
+    "startTime": 447.33,
+    "endTime": 449.33,
+    "text": "There's 10 tickets in this lottery."
+  },
+  {
+    "startTime": 449.33,
+    "endTime": 452.33,
+    "text": "Nine of them have been sold to these individuals."
+  },
+  {
+    "startTime": 452.33,
+    "endTime": 455.33,
+    "text": "It costs you a dollar to buy the ticket and, if you win,"
+  },
+  {
+    "startTime": 455.33,
+    "endTime": 457.33,
+    "text": "you get 20 bucks. Is this a good bet?"
+  },
+  {
+    "startTime": 457.33,
+    "endTime": 458.33,
+    "text": "Well, Bernoulli tells us it is."
+  },
+  {
+    "startTime": 458.33,
+    "endTime": 461.33,
+    "text": "The expected value of this lottery is two dollars;"
+  },
+  {
+    "startTime": 461.33,
+    "endTime": 464.33,
+    "text": "this is a lottery in which you should invest your money."
+  },
+  {
+    "startTime": 464.33,
+    "endTime": 466.33,
+    "text": "And most people say, \"OK, I'll play.\""
+  },
+  {
+    "startTime": 466.33,
+    "endTime": 469.33,
+    "text": "Now, a slightly different version of this lottery:"
+  },
+  {
+    "startTime": 469.33,
+    "endTime": 471.33,
+    "text": "imagine that the nine tickets are all owned"
+  },
+  {
+    "startTime": 471.33,
+    "endTime": 473.33,
+    "text": "by one fat guy named Leroy."
+  },
+  {
+    "startTime": 473.33,
+    "endTime": 475.33,
+    "text": "Leroy has nine tickets; there's one left."
+  },
+  {
+    "startTime": 475.33,
+    "endTime": 478.33,
+    "text": "Do you want it? Most people won't play this lottery."
+  },
+  {
+    "startTime": 478.33,
+    "endTime": 480.33,
+    "text": "Now, you can see the odds of winning haven't changed,"
+  },
+  {
+    "startTime": 480.33,
+    "endTime": 485.33,
+    "text": "but it's now fantastically easy to imagine who's going to win."
+  },
+  {
+    "startTime": 485.33,
+    "endTime": 488.33,
+    "text": "It's easy to see Leroy getting the check, right?"
+  },
+  {
+    "startTime": 488.33,
+    "endTime": 490.33,
+    "text": "You can't say to yourself, \"I'm as likely to win as anybody,\""
+  },
+  {
+    "startTime": 490.33,
+    "endTime": 493.33,
+    "text": "because you're not as likely to win as Leroy."
+  },
+  {
+    "startTime": 493.33,
+    "endTime": 495.33,
+    "text": "The fact that all those tickets are owned by one guy"
+  },
+  {
+    "startTime": 495.33,
+    "endTime": 497.33,
+    "text": "changes your decision to play,"
+  },
+  {
+    "startTime": 497.33,
+    "endTime": 500.33,
+    "text": "even though it does nothing whatsoever to the odds."
+  },
+  {
+    "startTime": 500.33,
+    "endTime": 505.33,
+    "text": "Now, estimating odds, as difficult as it may seem, is a piece of cake"
+  },
+  {
+    "startTime": 505.33,
+    "endTime": 507.33,
+    "text": "compared to trying to estimate value:"
+  },
+  {
+    "startTime": 507.33,
+    "endTime": 510.33,
+    "text": "trying to say what something is worth, how much we'll enjoy it,"
+  },
+  {
+    "startTime": 510.33,
+    "endTime": 513.3299999999999,
+    "text": "how much pleasure it will give us."
+  },
+  {
+    "startTime": 513.33,
+    "endTime": 515.33,
+    "text": "I want to talk now about errors in value."
+  },
+  {
+    "startTime": 515.33,
+    "endTime": 519.33,
+    "text": "How much is this Big Mac worth? Is it worth 25 dollars?"
+  },
+  {
+    "startTime": 519.33,
+    "endTime": 522.33,
+    "text": "Most of you have the intuition that it's not --"
+  },
+  {
+    "startTime": 522.33,
+    "endTime": 524.33,
+    "text": "you wouldn't pay that for it."
+  },
+  {
+    "startTime": 524.33,
+    "endTime": 528.33,
+    "text": "But in fact, to decide whether a Big Mac is worth 25 dollars requires"
+  },
+  {
+    "startTime": 528.33,
+    "endTime": 531.33,
+    "text": "that you ask one, and only one question, which is:"
+  },
+  {
+    "startTime": 531.33,
+    "endTime": 533.33,
+    "text": "What else can I do with 25 dollars?"
+  },
+  {
+    "startTime": 533.33,
+    "endTime": 537.33,
+    "text": "If you've ever gotten on one of those long-haul flights to Australia"
+  },
+  {
+    "startTime": 537.33,
+    "endTime": 540.33,
+    "text": "and realized that they're not going to serve you any food,"
+  },
+  {
+    "startTime": 540.33,
+    "endTime": 542.33,
+    "text": "but somebody in the row in front of you has just opened"
+  },
+  {
+    "startTime": 542.33,
+    "endTime": 545.33,
+    "text": "the McDonald's bag, and the smell of golden arches"
+  },
+  {
+    "startTime": 545.33,
+    "endTime": 548.33,
+    "text": "is wafting over the seat, you think,"
+  },
+  {
+    "startTime": 548.33,
+    "endTime": 551.33,
+    "text": "I can't do anything else with this 25 dollars for 16 hours."
+  },
+  {
+    "startTime": 551.33,
+    "endTime": 554.33,
+    "text": "I can't even set it on fire -- they took my cigarette lighter!"
+  },
+  {
+    "startTime": 554.33,
+    "endTime": 557.33,
+    "text": "Suddenly, 25 dollars for a Big Mac might be a good deal."
+  },
+  {
+    "startTime": 557.33,
+    "endTime": 559.33,
+    "text": "On the other hand, if you're visiting an underdeveloped country,"
+  },
+  {
+    "startTime": 559.33,
+    "endTime": 563.33,
+    "text": "and 25 dollars buys you a gourmet meal, it's exorbitant for a Big Mac."
+  },
+  {
+    "startTime": 563.33,
+    "endTime": 566.33,
+    "text": "Why were you all sure that the answer to the question was no,"
+  },
+  {
+    "startTime": 566.33,
+    "endTime": 569.33,
+    "text": "before I'd even told you anything about the context?"
+  },
+  {
+    "startTime": 569.33,
+    "endTime": 573.33,
+    "text": "Because most of you compared the price of this Big Mac"
+  },
+  {
+    "startTime": 573.33,
+    "endTime": 576.33,
+    "text": "to the price you're used to paying. Rather than asking,"
+  },
+  {
+    "startTime": 576.33,
+    "endTime": 579.33,
+    "text": "\"What else can I do with my money,\" comparing this investment"
+  },
+  {
+    "startTime": 579.33,
+    "endTime": 583.33,
+    "text": "to other possible investments, you compared to the past."
+  },
+  {
+    "startTime": 583.33,
+    "endTime": 585.33,
+    "text": "And this is a systematic error people make."
+  },
+  {
+    "startTime": 585.33,
+    "endTime": 590.33,
+    "text": "What you knew is, you paid three dollars in the past; 25 is outrageous."
+  },
+  {
+    "startTime": 590.33,
+    "endTime": 592.33,
+    "text": "This is an error, and I can prove it to you by showing"
+  },
+  {
+    "startTime": 592.33,
+    "endTime": 594.33,
+    "text": "the kinds of irrationalities to which it leads."
+  },
+  {
+    "startTime": 594.33,
+    "endTime": 597.33,
+    "text": "For example, this is, of course,"
+  },
+  {
+    "startTime": 597.33,
+    "endTime": 599.33,
+    "text": "one of the most delicious tricks in marketing,"
+  },
+  {
+    "startTime": 599.33,
+    "endTime": 601.33,
+    "text": "is to say something used to be higher,"
+  },
+  {
+    "startTime": 601.33,
+    "endTime": 604.33,
+    "text": "and suddenly it seems like a very good deal."
+  },
+  {
+    "startTime": 604.33,
+    "endTime": 607.33,
+    "text": "When people are asked about these two different jobs:"
+  },
+  {
+    "startTime": 607.33,
+    "endTime": 610.33,
+    "text": "a job where you make 60K, then 50K, then 40K,"
+  },
+  {
+    "startTime": 610.33,
+    "endTime": 612.33,
+    "text": "a job where you're getting a salary cut each year,"
+  },
+  {
+    "startTime": 612.33,
+    "endTime": 614.33,
+    "text": "and one in which you're getting a salary increase,"
+  },
+  {
+    "startTime": 614.33,
+    "endTime": 618.33,
+    "text": "people like the second job better than the first, despite the fact"
+  },
+  {
+    "startTime": 618.33,
+    "endTime": 621.33,
+    "text": "they're all told they make much less money. Why?"
+  },
+  {
+    "startTime": 621.33,
+    "endTime": 625.33,
+    "text": "Because they had the sense that declining wages are worse"
+  },
+  {
+    "startTime": 625.33,
+    "endTime": 629.33,
+    "text": "than rising wages, even when the total amount of wages is higher"
+  },
+  {
+    "startTime": 629.33,
+    "endTime": 633.33,
+    "text": "in the declining period. Here's another nice example."
+  },
+  {
+    "startTime": 633.33,
+    "endTime": 638.33,
+    "text": "Here's a $2,000 Hawaiian vacation package; it's now on sale for 1,600."
+  },
+  {
+    "startTime": 638.33,
+    "endTime": 641.33,
+    "text": "Assuming you wanted to go to Hawaii, would you buy this package?"
+  },
+  {
+    "startTime": 641.33,
+    "endTime": 645.33,
+    "text": "Most people say they would. Here's a slightly different story:"
+  },
+  {
+    "startTime": 645.33,
+    "endTime": 649.33,
+    "text": "$2,000 Hawaiian vacation package is now on sale for 700 dollars,"
+  },
+  {
+    "startTime": 649.33,
+    "endTime": 651.33,
+    "text": "so you decide to mull it over for a week."
+  },
+  {
+    "startTime": 651.33,
+    "endTime": 653.33,
+    "text": "By the time you get to the ticket agency, the best fares are gone --"
+  },
+  {
+    "startTime": 653.33,
+    "endTime": 658.33,
+    "text": "the package now costs 1,500. Would you buy it? Most people say, no."
+  },
+  {
+    "startTime": 658.33,
+    "endTime": 662.33,
+    "text": "Why? Because it used to cost 700, and there's no way I'm paying 1,500"
+  },
+  {
+    "startTime": 662.33,
+    "endTime": 665.33,
+    "text": "for something that was 700 last week."
+  },
+  {
+    "startTime": 665.33,
+    "endTime": 667.33,
+    "text": "This tendency to compare to the past"
+  },
+  {
+    "startTime": 667.33,
+    "endTime": 671.33,
+    "text": "is causing people to pass up the better deal. In other words,"
+  },
+  {
+    "startTime": 671.33,
+    "endTime": 674.33,
+    "text": "a good deal that used to be a great deal is not nearly as good"
+  },
+  {
+    "startTime": 674.33,
+    "endTime": 678.33,
+    "text": "as an awful deal that was once a horrible deal."
+  },
+  {
+    "startTime": 678.33,
+    "endTime": 680.33,
+    "text": "Here's another example of how comparing to the past"
+  },
+  {
+    "startTime": 680.33,
+    "endTime": 684.33,
+    "text": "can befuddle our decisions."
+  },
+  {
+    "startTime": 684.33,
+    "endTime": 686.33,
+    "text": "Imagine that you're going to the theater."
+  },
+  {
+    "startTime": 686.33,
+    "endTime": 687.33,
+    "text": "You're on your way to the theater."
+  },
+  {
+    "startTime": 687.33,
+    "endTime": 689.33,
+    "text": "In your wallet you have a ticket, for which you paid 20 dollars."
+  },
+  {
+    "startTime": 689.33,
+    "endTime": 691.33,
+    "text": "You also have a 20-dollar bill."
+  },
+  {
+    "startTime": 691.33,
+    "endTime": 693.33,
+    "text": "When you arrive at the theater,"
+  },
+  {
+    "startTime": 693.33,
+    "endTime": 696.33,
+    "text": "you discover that somewhere along the way you've lost the ticket."
+  },
+  {
+    "startTime": 696.33,
+    "endTime": 699.33,
+    "text": "Would you spend your remaining money on replacing it?"
+  },
+  {
+    "startTime": 699.33,
+    "endTime": 702.33,
+    "text": "Most people answer, no."
+  },
+  {
+    "startTime": 702.33,
+    "endTime": 705.33,
+    "text": "Now, let's just change one thing in this scenario."
+  },
+  {
+    "startTime": 705.33,
+    "endTime": 706.33,
+    "text": "You're on your way to the theater,"
+  },
+  {
+    "startTime": 706.33,
+    "endTime": 708.33,
+    "text": "and in your wallet you have two 20-dollar bills."
+  },
+  {
+    "startTime": 708.33,
+    "endTime": 710.33,
+    "text": "When you arrive you discover you've lost one of them."
+  },
+  {
+    "startTime": 710.33,
+    "endTime": 712.33,
+    "text": "Would you spend your remaining 20 dollars on a ticket?"
+  },
+  {
+    "startTime": 712.33,
+    "endTime": 715.33,
+    "text": "Well, of course, I went to the theater to see the play."
+  },
+  {
+    "startTime": 715.33,
+    "endTime": 718.33,
+    "text": "What does the loss of 20 dollars along the way have to do?"
+  },
+  {
+    "startTime": 718.33,
+    "endTime": 721.33,
+    "text": "Now, just in case you're not getting it,"
+  },
+  {
+    "startTime": 721.33,
+    "endTime": 723.33,
+    "text": "here's a schematic of what happened, OK?"
+  },
+  {
+    "startTime": 723.33,
+    "endTime": 724.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 724.33,
+    "endTime": 726.33,
+    "text": "Along the way, you lost something."
+  },
+  {
+    "startTime": 726.33,
+    "endTime": 728.33,
+    "text": "In both cases, it was a piece of paper."
+  },
+  {
+    "startTime": 728.33,
+    "endTime": 732.33,
+    "text": "In one case, it had a U.S. president on it; in the other case it didn't."
+  },
+  {
+    "startTime": 732.33,
+    "endTime": 734.33,
+    "text": "What the hell difference should it make?"
+  },
+  {
+    "startTime": 734.33,
+    "endTime": 737.33,
+    "text": "The difference is that when you lost the ticket you say to yourself,"
+  },
+  {
+    "startTime": 737.33,
+    "endTime": 739.33,
+    "text": "I'm not paying twice for the same thing."
+  },
+  {
+    "startTime": 739.33,
+    "endTime": 742.33,
+    "text": "You compare the cost of the play now -- 40 dollars --"
+  },
+  {
+    "startTime": 742.33,
+    "endTime": 747.33,
+    "text": "to the cost that it used to have -- 20 dollars -- and you say it's a bad deal."
+  },
+  {
+    "startTime": 747.33,
+    "endTime": 751.33,
+    "text": "Comparing with the past causes many of the problems"
+  },
+  {
+    "startTime": 751.33,
+    "endTime": 754.33,
+    "text": "that behavioral economists and psychologists identify"
+  },
+  {
+    "startTime": 754.33,
+    "endTime": 756.33,
+    "text": "in people's attempts to assign value."
+  },
+  {
+    "startTime": 756.33,
+    "endTime": 761.33,
+    "text": "But even when we compare with the possible, instead of the past,"
+  },
+  {
+    "startTime": 761.33,
+    "endTime": 763.33,
+    "text": "we still make certain kinds of mistakes."
+  },
+  {
+    "startTime": 763.33,
+    "endTime": 765.33,
+    "text": "And I'm going to show you one or two of them."
+  },
+  {
+    "startTime": 765.33,
+    "endTime": 768.33,
+    "text": "One of the things we know about comparison:"
+  },
+  {
+    "startTime": 768.33,
+    "endTime": 771.33,
+    "text": "that when we compare one thing to the other, it changes its value."
+  },
+  {
+    "startTime": 771.33,
+    "endTime": 775.33,
+    "text": "So in 1992, this fellow, George Bush, for those of us who were"
+  },
+  {
+    "startTime": 775.33,
+    "endTime": 778.33,
+    "text": "kind of on the liberal side of the political spectrum,"
+  },
+  {
+    "startTime": 778.33,
+    "endTime": 780.33,
+    "text": "didn't seem like such a great guy."
+  },
+  {
+    "startTime": 780.33,
+    "endTime": 784.33,
+    "text": "Suddenly, we're almost longing for him to return."
+  },
+  {
+    "startTime": 784.33,
+    "endTime": 787.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 787.33,
+    "endTime": 790.33,
+    "text": "The comparison changes how we evaluate him."
+  },
+  {
+    "startTime": 790.33,
+    "endTime": 794.33,
+    "text": "Now, retailers knew this long before anybody else did, of course,"
+  },
+  {
+    "startTime": 794.33,
+    "endTime": 796.33,
+    "text": "and they use this wisdom to help you --"
+  },
+  {
+    "startTime": 796.33,
+    "endTime": 798.33,
+    "text": "spare you the undue burden of money."
+  },
+  {
+    "startTime": 798.33,
+    "endTime": 801.33,
+    "text": "And so a retailer, if you were to go into a wine shop"
+  },
+  {
+    "startTime": 801.33,
+    "endTime": 802.33,
+    "text": "and you had to buy a bottle of wine,"
+  },
+  {
+    "startTime": 802.33,
+    "endTime": 806.33,
+    "text": "and you see them here for eight, 27 and 33 dollars, what would you do?"
+  },
+  {
+    "startTime": 806.33,
+    "endTime": 808.33,
+    "text": "Most people don't want the most expensive,"
+  },
+  {
+    "startTime": 808.33,
+    "endTime": 810.33,
+    "text": "they don't want the least expensive."
+  },
+  {
+    "startTime": 810.33,
+    "endTime": 812.33,
+    "text": "So, they will opt for the item in the middle."
+  },
+  {
+    "startTime": 812.33,
+    "endTime": 815.33,
+    "text": "If you're a smart retailer, then, you will put a very expensive item"
+  },
+  {
+    "startTime": 815.33,
+    "endTime": 817.33,
+    "text": "that nobody will ever buy on the shelf,"
+  },
+  {
+    "startTime": 817.33,
+    "endTime": 823.33,
+    "text": "because suddenly the $33 wine doesn't look as expensive in comparison."
+  },
+  {
+    "startTime": 823.33,
+    "endTime": 824.33,
+    "text": "So I'm telling you something you already knew:"
+  },
+  {
+    "startTime": 824.33,
+    "endTime": 828.33,
+    "text": "namely, that comparison changes the value of things."
+  },
+  {
+    "startTime": 828.33,
+    "endTime": 829.33,
+    "text": "Here's why that's a problem:"
+  },
+  {
+    "startTime": 829.33,
+    "endTime": 835.33,
+    "text": "the problem is that when you get that $33 bottle of wine home,"
+  },
+  {
+    "startTime": 835.33,
+    "endTime": 839.33,
+    "text": "it won't matter what it used to be sitting on the shelf next to."
+  },
+  {
+    "startTime": 839.33,
+    "endTime": 844.33,
+    "text": "The comparisons we make when we are appraising value,"
+  },
+  {
+    "startTime": 844.33,
+    "endTime": 848.33,
+    "text": "where we're trying to estimate how much we'll like things,"
+  },
+  {
+    "startTime": 848.33,
+    "endTime": 851.33,
+    "text": "are not the same comparisons we'll be making when we consume them."
+  },
+  {
+    "startTime": 851.33,
+    "endTime": 855.33,
+    "text": "This problem of shifting comparisons can bedevil"
+  },
+  {
+    "startTime": 855.33,
+    "endTime": 858.33,
+    "text": "our attempts to make rational decisions."
+  },
+  {
+    "startTime": 858.33,
+    "endTime": 859.33,
+    "text": "Let me just give you an example."
+  },
+  {
+    "startTime": 859.33,
+    "endTime": 863.33,
+    "text": "I have to show you something from my own lab, so let me sneak this in."
+  },
+  {
+    "startTime": 863.33,
+    "endTime": 865.33,
+    "text": "These are subjects coming to an experiment to be asked"
+  },
+  {
+    "startTime": 865.33,
+    "endTime": 867.33,
+    "text": "the simplest of all questions:"
+  },
+  {
+    "startTime": 867.33,
+    "endTime": 871.33,
+    "text": "How much will you enjoy eating potato chips one minute from now?"
+  },
+  {
+    "startTime": 871.33,
+    "endTime": 874.33,
+    "text": "They're sitting in a room with potato chips in front of them."
+  },
+  {
+    "startTime": 874.33,
+    "endTime": 877.33,
+    "text": "For some of the subjects, sitting in the far corner of a room"
+  },
+  {
+    "startTime": 877.33,
+    "endTime": 882.33,
+    "text": "is a box of Godiva chocolates, and for others is a can of Spam."
+  },
+  {
+    "startTime": 882.33,
+    "endTime": 886.33,
+    "text": "In fact, these items that are sitting in the room change"
+  },
+  {
+    "startTime": 886.33,
+    "endTime": 889.33,
+    "text": "how much the subjects think they're going to enjoy the potato chips."
+  },
+  {
+    "startTime": 889.33,
+    "endTime": 891.33,
+    "text": "Namely, those who are looking at Spam"
+  },
+  {
+    "startTime": 891.33,
+    "endTime": 893.33,
+    "text": "think potato chips are going to be quite tasty;"
+  },
+  {
+    "startTime": 893.33,
+    "endTime": 895.33,
+    "text": "those who are looking at Godiva chocolate"
+  },
+  {
+    "startTime": 895.33,
+    "endTime": 897.33,
+    "text": "think they won't be nearly so tasty."
+  },
+  {
+    "startTime": 897.33,
+    "endTime": 899.33,
+    "text": "Of course, what happens when they eat the potato chips?"
+  },
+  {
+    "startTime": 899.33,
+    "endTime": 902.33,
+    "text": "Well, look, you didn't need a psychologist to tell you that"
+  },
+  {
+    "startTime": 902.33,
+    "endTime": 906.33,
+    "text": "when you have a mouthful of greasy, salty, crispy, delicious snacks,"
+  },
+  {
+    "startTime": 906.33,
+    "endTime": 907.33,
+    "text": "what's sitting in the corner of the room"
+  },
+  {
+    "startTime": 907.33,
+    "endTime": 912.33,
+    "text": "makes not a damn bit of difference to your gustatory experience."
+  },
+  {
+    "startTime": 912.33,
+    "endTime": 916.33,
+    "text": "Nonetheless, their predictions are perverted by a comparison"
+  },
+  {
+    "startTime": 916.33,
+    "endTime": 920.33,
+    "text": "that then does not carry through and change their experience."
+  },
+  {
+    "startTime": 920.33,
+    "endTime": 922.33,
+    "text": "You've all experienced this yourself, even if you've never come"
+  },
+  {
+    "startTime": 922.33,
+    "endTime": 925.33,
+    "text": "into our lab to eat potato chips. So here's a question:"
+  },
+  {
+    "startTime": 925.33,
+    "endTime": 927.33,
+    "text": "You want to buy a car stereo."
+  },
+  {
+    "startTime": 927.33,
+    "endTime": 932.33,
+    "text": "The dealer near your house sells this particular stereo for 200 dollars,"
+  },
+  {
+    "startTime": 932.33,
+    "endTime": 935.33,
+    "text": "but if you drive across town, you can get it for 100 bucks."
+  },
+  {
+    "startTime": 935.33,
+    "endTime": 938.33,
+    "text": "So would you drive to get 50 percent off, saving 100 dollars?"
+  },
+  {
+    "startTime": 938.33,
+    "endTime": 940.33,
+    "text": "Most people say they would."
+  },
+  {
+    "startTime": 940.33,
+    "endTime": 942.33,
+    "text": "They can't imagine buying it for twice the price"
+  },
+  {
+    "startTime": 942.33,
+    "endTime": 946.33,
+    "text": "when, with one trip across town, they can get it for half off."
+  },
+  {
+    "startTime": 946.33,
+    "endTime": 950.33,
+    "text": "Now, let's imagine instead you wanted to buy a car that had a stereo,"
+  },
+  {
+    "startTime": 950.33,
+    "endTime": 952.33,
+    "text": "and the dealer near your house had it for 31,000."
+  },
+  {
+    "startTime": 952.33,
+    "endTime": 957.33,
+    "text": "But if you drove across town, you could get it for 30,900."
+  },
+  {
+    "startTime": 957.33,
+    "endTime": 961.33,
+    "text": "Would you drive to get it? At this point, 0.003 savings -- the 100 dollars."
+  },
+  {
+    "startTime": 961.33,
+    "endTime": 963.33,
+    "text": "Most people say, no, I'm going to schlep across town"
+  },
+  {
+    "startTime": 963.33,
+    "endTime": 966.33,
+    "text": "to save 100 bucks on the purchase of a car?"
+  },
+  {
+    "startTime": 966.33,
+    "endTime": 970.33,
+    "text": "This kind of thinking drives economists crazy, and it should."
+  },
+  {
+    "startTime": 970.33,
+    "endTime": 974.33,
+    "text": "Because this 100 dollars that you save -- hello! --"
+  },
+  {
+    "startTime": 974.33,
+    "endTime": 976.33,
+    "text": "doesn't know where it came from."
+  },
+  {
+    "startTime": 976.33,
+    "endTime": 978.33,
+    "text": "It doesn't know what you saved it on."
+  },
+  {
+    "startTime": 978.33,
+    "endTime": 980.33,
+    "text": "When you go to buy groceries with it, it doesn't go,"
+  },
+  {
+    "startTime": 980.33,
+    "endTime": 983.33,
+    "text": "I'm the money saved on the car stereo, or,"
+  },
+  {
+    "startTime": 983.33,
+    "endTime": 987.33,
+    "text": "I'm the dumb money saved on the car. It's money."
+  },
+  {
+    "startTime": 987.33,
+    "endTime": 990.33,
+    "text": "And if a drive across town is worth 100 bucks, it's worth 100 bucks"
+  },
+  {
+    "startTime": 990.33,
+    "endTime": 993.33,
+    "text": "no matter what you're saving it on. People don't think that way."
+  },
+  {
+    "startTime": 993.33,
+    "endTime": 995.33,
+    "text": "That's why they don't know whether their mutual fund manager"
+  },
+  {
+    "startTime": 995.33,
+    "endTime": 1000.33,
+    "text": "is taking 0.1 percent or 0.15 percent of their investment,"
+  },
+  {
+    "startTime": 1000.33,
+    "endTime": 1003.33,
+    "text": "but they clip coupons to save one dollar off of toothpaste."
+  },
+  {
+    "startTime": 1003.33,
+    "endTime": 1006.33,
+    "text": "Now, you can see, this is the problem of shifting comparisons,"
+  },
+  {
+    "startTime": 1006.33,
+    "endTime": 1009.33,
+    "text": "because what you're doing is, you're comparing the 100 bucks"
+  },
+  {
+    "startTime": 1009.33,
+    "endTime": 1011.33,
+    "text": "to the purchase that you're making,"
+  },
+  {
+    "startTime": 1011.33,
+    "endTime": 1015.33,
+    "text": "but when you go to spend that money you won't be making that comparison."
+  },
+  {
+    "startTime": 1015.33,
+    "endTime": 1017.33,
+    "text": "You've all had this experience."
+  },
+  {
+    "startTime": 1017.33,
+    "endTime": 1021.33,
+    "text": "If you're an American, for example, you've probably traveled in France."
+  },
+  {
+    "startTime": 1021.33,
+    "endTime": 1023.33,
+    "text": "And at some point you may have met a couple"
+  },
+  {
+    "startTime": 1023.33,
+    "endTime": 1024.33,
+    "text": "from your own hometown, and you thought,"
+  },
+  {
+    "startTime": 1024.33,
+    "endTime": 1029.33,
+    "text": "\"Oh, my God, these people are so warm. They're so nice to me."
+  },
+  {
+    "startTime": 1029.33,
+    "endTime": 1031.33,
+    "text": "I mean, compared to all these people who hate me"
+  },
+  {
+    "startTime": 1031.33,
+    "endTime": 1034.33,
+    "text": "when I try to speak their language and hate me more when I don't,"
+  },
+  {
+    "startTime": 1034.33,
+    "endTime": 1037.33,
+    "text": "these people are just wonderful.\" And so you tour France with them,"
+  },
+  {
+    "startTime": 1037.33,
+    "endTime": 1039.33,
+    "text": "and then you get home and you invite them over for dinner,"
+  },
+  {
+    "startTime": 1039.33,
+    "endTime": 1040.33,
+    "text": "and what do you find?"
+  },
+  {
+    "startTime": 1040.33,
+    "endTime": 1042.33,
+    "text": "Compared to your regular friends,"
+  },
+  {
+    "startTime": 1042.33,
+    "endTime": 1046.33,
+    "text": "they are boring and dull, right? Because in this new context,"
+  },
+  {
+    "startTime": 1046.33,
+    "endTime": 1050.33,
+    "text": "the comparison is very, very different. In fact, you find yourself"
+  },
+  {
+    "startTime": 1050.33,
+    "endTime": 1054.33,
+    "text": "disliking them enough almost to qualify for French citizenship."
+  },
+  {
+    "startTime": 1054.33,
+    "endTime": 1057.33,
+    "text": "Now, you have exactly the same problem when you shop for a stereo."
+  },
+  {
+    "startTime": 1057.33,
+    "endTime": 1060.33,
+    "text": "You go to the stereo store, you see two sets of speakers --"
+  },
+  {
+    "startTime": 1060.33,
+    "endTime": 1064.33,
+    "text": "these big, boxy, monoliths, and these little, sleek speakers,"
+  },
+  {
+    "startTime": 1064.33,
+    "endTime": 1066.33,
+    "text": "and you play them, and you go, you know, I do hear a difference:"
+  },
+  {
+    "startTime": 1066.33,
+    "endTime": 1068.33,
+    "text": "the big ones sound a little better."
+  },
+  {
+    "startTime": 1068.33,
+    "endTime": 1070.33,
+    "text": "And so you buy them, and you bring them home,"
+  },
+  {
+    "startTime": 1070.33,
+    "endTime": 1073.33,
+    "text": "and you entirely violate the décor of your house."
+  },
+  {
+    "startTime": 1073.33,
+    "endTime": 1077.33,
+    "text": "And the problem, of course, is that this comparison you made in the store"
+  },
+  {
+    "startTime": 1077.33,
+    "endTime": 1079.33,
+    "text": "is a comparison you'll never make again."
+  },
+  {
+    "startTime": 1079.33,
+    "endTime": 1081.33,
+    "text": "What are the odds that years later you'll turn on the stereo and go,"
+  },
+  {
+    "startTime": 1081.33,
+    "endTime": 1084.33,
+    "text": "\"Sounds so much better than those little ones,\""
+  },
+  {
+    "startTime": 1084.33,
+    "endTime": 1086.33,
+    "text": "which you can't even remember hearing."
+  },
+  {
+    "startTime": 1086.33,
+    "endTime": 1089.33,
+    "text": "The problem of shifting comparisons is even more difficult"
+  },
+  {
+    "startTime": 1089.33,
+    "endTime": 1092.33,
+    "text": "when these choices are arrayed over time."
+  },
+  {
+    "startTime": 1092.33,
+    "endTime": 1095.33,
+    "text": "People have a lot of trouble making decisions"
+  },
+  {
+    "startTime": 1095.33,
+    "endTime": 1098.33,
+    "text": "about things that will happen at different points in time."
+  },
+  {
+    "startTime": 1098.33,
+    "endTime": 1100.33,
+    "text": "And what psychologists and behavioral economists have discovered"
+  },
+  {
+    "startTime": 1100.33,
+    "endTime": 1103.33,
+    "text": "is that by and large people use two simple rules."
+  },
+  {
+    "startTime": 1103.33,
+    "endTime": 1107.33,
+    "text": "So let me give you one very easy problem, a second very easy problem"
+  },
+  {
+    "startTime": 1107.33,
+    "endTime": 1108.33,
+    "text": "and then a third, hard, problem."
+  },
+  {
+    "startTime": 1108.33,
+    "endTime": 1111.33,
+    "text": "Here's the first easy problem:"
+  },
+  {
+    "startTime": 1111.33,
+    "endTime": 1114.33,
+    "text": "You can have 60 dollars now or 50 dollars now. Which would you prefer?"
+  },
+  {
+    "startTime": 1114.33,
+    "endTime": 1117.33,
+    "text": "This is what we call a one-item IQ test, OK?"
+  },
+  {
+    "startTime": 1117.33,
+    "endTime": 1120.33,
+    "text": "All of us, I hope, prefer more money, and the reason is,"
+  },
+  {
+    "startTime": 1120.33,
+    "endTime": 1123.33,
+    "text": "we believe more is better than less."
+  },
+  {
+    "startTime": 1123.33,
+    "endTime": 1124.33,
+    "text": "Here's the second problem:"
+  },
+  {
+    "startTime": 1124.33,
+    "endTime": 1128.33,
+    "text": "You can have 60 dollars today or 60 dollars in a month. Which would you prefer?"
+  },
+  {
+    "startTime": 1128.33,
+    "endTime": 1130.33,
+    "text": "Again, an easy decision,"
+  },
+  {
+    "startTime": 1130.33,
+    "endTime": 1134.33,
+    "text": "because we all know that now is better than later."
+  },
+  {
+    "startTime": 1134.33,
+    "endTime": 1137.33,
+    "text": "What's hard in our decision-making is when these two rules conflict."
+  },
+  {
+    "startTime": 1137.33,
+    "endTime": 1141.33,
+    "text": "For example, when you're offered 50 dollars now or 60 dollars in a month."
+  },
+  {
+    "startTime": 1141.33,
+    "endTime": 1144.33,
+    "text": "This typifies a lot of situations in life in which you will gain"
+  },
+  {
+    "startTime": 1144.33,
+    "endTime": 1147.33,
+    "text": "by waiting, but you have to be patient."
+  },
+  {
+    "startTime": 1147.33,
+    "endTime": 1150.33,
+    "text": "What do we know? What do people do in these kinds of situations?"
+  },
+  {
+    "startTime": 1150.33,
+    "endTime": 1154.33,
+    "text": "Well, by and large people are enormously impatient."
+  },
+  {
+    "startTime": 1154.33,
+    "endTime": 1157.33,
+    "text": "That is, they require interest rates in the hundred"
+  },
+  {
+    "startTime": 1157.33,
+    "endTime": 1161.33,
+    "text": "or thousands of percents in order to delay gratification"
+  },
+  {
+    "startTime": 1161.33,
+    "endTime": 1165.33,
+    "text": "and wait until next month for the extra 10 dollars."
+  },
+  {
+    "startTime": 1165.33,
+    "endTime": 1168.33,
+    "text": "Maybe that isn't so remarkable, but what is remarkable is"
+  },
+  {
+    "startTime": 1168.33,
+    "endTime": 1172.33,
+    "text": "how easy it is to make this impatience go away by simply changing"
+  },
+  {
+    "startTime": 1172.33,
+    "endTime": 1176.33,
+    "text": "when the delivery of these monetary units will happen."
+  },
+  {
+    "startTime": 1176.33,
+    "endTime": 1179.33,
+    "text": "Imagine that you can have 50 dollars in a year -- that's 12 months --"
+  },
+  {
+    "startTime": 1179.33,
+    "endTime": 1182.33,
+    "text": "or 60 dollars in 13 months."
+  },
+  {
+    "startTime": 1182.33,
+    "endTime": 1183.33,
+    "text": "What do we find now?"
+  },
+  {
+    "startTime": 1183.33,
+    "endTime": 1186.33,
+    "text": "People are gladly willing to wait: as long as they're waiting 12,"
+  },
+  {
+    "startTime": 1186.33,
+    "endTime": 1188.33,
+    "text": "they might as well wait 13."
+  },
+  {
+    "startTime": 1188.33,
+    "endTime": 1191.33,
+    "text": "What makes this dynamic inconsistency happen?"
+  },
+  {
+    "startTime": 1191.33,
+    "endTime": 1195.33,
+    "text": "Comparison. Troubling comparison. Let me show you."
+  },
+  {
+    "startTime": 1195.33,
+    "endTime": 1198.33,
+    "text": "This is just a graph showing the results that I just suggested"
+  },
+  {
+    "startTime": 1198.33,
+    "endTime": 1200.33,
+    "text": "you would show if I gave you time to respond, which is,"
+  },
+  {
+    "startTime": 1200.33,
+    "endTime": 1203.33,
+    "text": "people find that the subjective value of 50 is higher"
+  },
+  {
+    "startTime": 1203.33,
+    "endTime": 1207.33,
+    "text": "than the subjective value of 60 when they'll be delivered in now"
+  },
+  {
+    "startTime": 1207.33,
+    "endTime": 1209.33,
+    "text": "or one month, respectively -- a 30-day delay --"
+  },
+  {
+    "startTime": 1209.33,
+    "endTime": 1213.33,
+    "text": "but they show the reverse pattern when you push the entire decision"
+  },
+  {
+    "startTime": 1213.33,
+    "endTime": 1216.33,
+    "text": "off into the future a year."
+  },
+  {
+    "startTime": 1216.33,
+    "endTime": 1220.33,
+    "text": "Now, why in the world do you get this pattern of results?"
+  },
+  {
+    "startTime": 1220.33,
+    "endTime": 1221.33,
+    "text": "These guys can tell us."
+  },
+  {
+    "startTime": 1221.33,
+    "endTime": 1224.33,
+    "text": "What you see here are two lads,"
+  },
+  {
+    "startTime": 1224.33,
+    "endTime": 1227.33,
+    "text": "one of them larger than the other: the fireman and the fiddler."
+  },
+  {
+    "startTime": 1227.33,
+    "endTime": 1230.33,
+    "text": "They are going to recede towards the vanishing point in the horizon,"
+  },
+  {
+    "startTime": 1230.33,
+    "endTime": 1232.33,
+    "text": "and I want you to notice two things."
+  },
+  {
+    "startTime": 1232.33,
+    "endTime": 1238.33,
+    "text": "At no point will the fireman look taller than the fiddler. No point."
+  },
+  {
+    "startTime": 1238.33,
+    "endTime": 1241.33,
+    "text": "However, the difference between them seems to be getting smaller."
+  },
+  {
+    "startTime": 1241.33,
+    "endTime": 1244.33,
+    "text": "First it's an inch in your view, then it's a quarter-inch,"
+  },
+  {
+    "startTime": 1244.33,
+    "endTime": 1248.33,
+    "text": "then a half-inch, and then finally they go off the edge of the earth."
+  },
+  {
+    "startTime": 1248.33,
+    "endTime": 1251.33,
+    "text": "Here are the results of what I just showed you."
+  },
+  {
+    "startTime": 1251.33,
+    "endTime": 1253.33,
+    "text": "This is the subjective height --"
+  },
+  {
+    "startTime": 1253.33,
+    "endTime": 1256.33,
+    "text": "the height you saw of these guys at various points."
+  },
+  {
+    "startTime": 1256.33,
+    "endTime": 1258.33,
+    "text": "And I want you to see that two things are true."
+  },
+  {
+    "startTime": 1258.33,
+    "endTime": 1261.33,
+    "text": "One, the farther away they are, the smaller they look;"
+  },
+  {
+    "startTime": 1261.33,
+    "endTime": 1263.33,
+    "text": "and two, the fireman is always bigger than the fiddler."
+  },
+  {
+    "startTime": 1263.33,
+    "endTime": 1269.33,
+    "text": "But watch what happens when we make some of them disappear. Right."
+  },
+  {
+    "startTime": 1269.33,
+    "endTime": 1272.33,
+    "text": "At a very close distance, the fiddler looks taller than the fireman,"
+  },
+  {
+    "startTime": 1272.33,
+    "endTime": 1274.33,
+    "text": "but at a far distance"
+  },
+  {
+    "startTime": 1274.33,
+    "endTime": 1277.33,
+    "text": "their normal, their true, relations are preserved."
+  },
+  {
+    "startTime": 1277.33,
+    "endTime": 1282.33,
+    "text": "As Plato said, what space is to size, time is to value."
+  },
+  {
+    "startTime": 1282.33,
+    "endTime": 1287.33,
+    "text": "These are the results of the hard problem I gave you:"
+  },
+  {
+    "startTime": 1287.33,
+    "endTime": 1289.33,
+    "text": "60 now or 50 in a month?"
+  },
+  {
+    "startTime": 1289.33,
+    "endTime": 1290.33,
+    "text": "And these are subjective values,"
+  },
+  {
+    "startTime": 1290.33,
+    "endTime": 1292.33,
+    "text": "and what you can see is, our two rules are preserved."
+  },
+  {
+    "startTime": 1292.33,
+    "endTime": 1294.33,
+    "text": "People always think more is better than less:"
+  },
+  {
+    "startTime": 1294.33,
+    "endTime": 1296.33,
+    "text": "60 is always better than 50,"
+  },
+  {
+    "startTime": 1296.33,
+    "endTime": 1298.33,
+    "text": "and they always think now is better than later:"
+  },
+  {
+    "startTime": 1298.33,
+    "endTime": 1301.33,
+    "text": "the bars on this side are higher than the bars on this side."
+  },
+  {
+    "startTime": 1301.33,
+    "endTime": 1304.33,
+    "text": "Watch what happens when we drop some out."
+  },
+  {
+    "startTime": 1304.33,
+    "endTime": 1307.33,
+    "text": "Suddenly we have the dynamic inconsistency that puzzled us."
+  },
+  {
+    "startTime": 1307.33,
+    "endTime": 1311.33,
+    "text": "We have the tendency for people to go for 50 dollars now"
+  },
+  {
+    "startTime": 1311.33,
+    "endTime": 1314.33,
+    "text": "over waiting a month, but not if that decision is far in the future."
+  },
+  {
+    "startTime": 1314.33,
+    "endTime": 1318.33,
+    "text": "Notice something interesting that this implies -- namely, that"
+  },
+  {
+    "startTime": 1318.33,
+    "endTime": 1322.33,
+    "text": "when people get to the future, they will change their minds."
+  },
+  {
+    "startTime": 1322.33,
+    "endTime": 1325.33,
+    "text": "That is, as that month 12 approaches, you will say,"
+  },
+  {
+    "startTime": 1325.33,
+    "endTime": 1328.33,
+    "text": "what was I thinking, waiting an extra month for 60 dollars?"
+  },
+  {
+    "startTime": 1328.33,
+    "endTime": 1331.33,
+    "text": "I'll take the 50 dollars now."
+  },
+  {
+    "startTime": 1331.33,
+    "endTime": 1334.33,
+    "text": "Well, the question with which I'd like to end is this:"
+  },
+  {
+    "startTime": 1334.33,
+    "endTime": 1337.33,
+    "text": "If we're so damn stupid, how did we get to the moon?"
+  },
+  {
+    "startTime": 1337.33,
+    "endTime": 1340.33,
+    "text": "Because I could go on for about two hours with evidence"
+  },
+  {
+    "startTime": 1340.33,
+    "endTime": 1346.33,
+    "text": "of people's inability to estimate odds and inability to estimate value."
+  },
+  {
+    "startTime": 1346.33,
+    "endTime": 1348.33,
+    "text": "The answer to this question, I think, is an answer you've already heard"
+  },
+  {
+    "startTime": 1348.33,
+    "endTime": 1350.33,
+    "text": "in some of the talks, and I dare say you will hear again:"
+  },
+  {
+    "startTime": 1350.33,
+    "endTime": 1354.33,
+    "text": "namely, that our brains were evolved for a very different world"
+  },
+  {
+    "startTime": 1354.33,
+    "endTime": 1356.33,
+    "text": "than the one in which we are living."
+  },
+  {
+    "startTime": 1356.33,
+    "endTime": 1358.33,
+    "text": "They were evolved for a world"
+  },
+  {
+    "startTime": 1358.33,
+    "endTime": 1360.33,
+    "text": "in which people lived in very small groups,"
+  },
+  {
+    "startTime": 1360.33,
+    "endTime": 1363.33,
+    "text": "rarely met anybody who was terribly different from themselves,"
+  },
+  {
+    "startTime": 1363.33,
+    "endTime": 1366.33,
+    "text": "had rather short lives in which there were few choices"
+  },
+  {
+    "startTime": 1366.33,
+    "endTime": 1371.33,
+    "text": "and the highest priority was to eat and mate today."
+  },
+  {
+    "startTime": 1371.33,
+    "endTime": 1376.33,
+    "text": "Bernoulli's gift, Bernoulli's little formula, allows us, it tells us"
+  },
+  {
+    "startTime": 1376.33,
+    "endTime": 1381.33,
+    "text": "how we should think in a world for which nature never designed us."
+  },
+  {
+    "startTime": 1381.33,
+    "endTime": 1385.33,
+    "text": "That explains why we are so bad at using it, but it also explains"
+  },
+  {
+    "startTime": 1385.33,
+    "endTime": 1390.33,
+    "text": "why it is so terribly important that we become good, fast."
+  },
+  {
+    "startTime": 1390.33,
+    "endTime": 1392.33,
+    "text": "We are the only species on this planet"
+  },
+  {
+    "startTime": 1392.33,
+    "endTime": 1396.33,
+    "text": "that has ever held its own fate in its hands."
+  },
+  {
+    "startTime": 1396.33,
+    "endTime": 1398.33,
+    "text": "We have no significant predators,"
+  },
+  {
+    "startTime": 1398.33,
+    "endTime": 1400.33,
+    "text": "we're the masters of our physical environment;"
+  },
+  {
+    "startTime": 1400.33,
+    "endTime": 1403.33,
+    "text": "the things that normally cause species to become extinct"
+  },
+  {
+    "startTime": 1403.33,
+    "endTime": 1406.33,
+    "text": "are no longer any threat to us."
+  },
+  {
+    "startTime": 1406.33,
+    "endTime": 1411.33,
+    "text": "The only thing -- the only thing -- that can destroy us and doom us"
+  },
+  {
+    "startTime": 1411.33,
+    "endTime": 1413.33,
+    "text": "are our own decisions."
+  },
+  {
+    "startTime": 1413.33,
+    "endTime": 1417.33,
+    "text": "If we're not here in 10,000 years, it's going to be because"
+  },
+  {
+    "startTime": 1417.33,
+    "endTime": 1421.33,
+    "text": "we could not take advantage of the gift given to us"
+  },
+  {
+    "startTime": 1421.33,
+    "endTime": 1424.33,
+    "text": "by a young Dutch fellow in 1738,"
+  },
+  {
+    "startTime": 1424.33,
+    "endTime": 1428.33,
+    "text": "because we underestimated the odds of our future pains"
+  },
+  {
+    "startTime": 1428.33,
+    "endTime": 1432.33,
+    "text": "and overestimated the value of our present pleasures."
+  },
+  {
+    "startTime": 1432.33,
+    "endTime": 1433.33,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 1433.33,
+    "endTime": 1443.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1443.33,
+    "endTime": 1446.33,
+    "text": "Chris Anderson: That was remarkable."
+  },
+  {
+    "startTime": 1446.33,
+    "endTime": 1451.33,
+    "text": "We have time for some questions for Dan Gilbert. One and two."
+  },
+  {
+    "startTime": 1451.33,
+    "endTime": 1454.33,
+    "text": "Bill Lyell: Would you say that this mechanism"
+  },
+  {
+    "startTime": 1454.33,
+    "endTime": 1458.33,
+    "text": "is in part how terrorism actually works to frighten us,"
+  },
+  {
+    "startTime": 1458.33,
+    "endTime": 1462.33,
+    "text": "and is there some way that we could counteract that?"
+  },
+  {
+    "startTime": 1462.33,
+    "endTime": 1463.33,
+    "text": "Dan Gilbert: I actually was consulting recently"
+  },
+  {
+    "startTime": 1463.33,
+    "endTime": 1466.33,
+    "text": "with the Department of Homeland Security, which generally believes"
+  },
+  {
+    "startTime": 1466.33,
+    "endTime": 1470.33,
+    "text": "that American security dollars should go to making borders safer."
+  },
+  {
+    "startTime": 1470.33,
+    "endTime": 1473.33,
+    "text": "I tried to point out to them that terrorism was a name"
+  },
+  {
+    "startTime": 1473.33,
+    "endTime": 1477.33,
+    "text": "based on people's psychological reaction to a set of events,"
+  },
+  {
+    "startTime": 1477.33,
+    "endTime": 1479.33,
+    "text": "and that if they were concerned about terrorism they might ask"
+  },
+  {
+    "startTime": 1479.33,
+    "endTime": 1482.33,
+    "text": "what causes terror and how can we stop people from being terrified,"
+  },
+  {
+    "startTime": 1482.33,
+    "endTime": 1485.33,
+    "text": "rather than -- not rather than, but in addition to"
+  },
+  {
+    "startTime": 1485.33,
+    "endTime": 1488.33,
+    "text": "stopping the atrocities that we're all concerned about."
+  },
+  {
+    "startTime": 1488.33,
+    "endTime": 1494.33,
+    "text": "Surely the kinds of play that at least American media give to --"
+  },
+  {
+    "startTime": 1494.33,
+    "endTime": 1499.33,
+    "text": "and forgive me, but in raw numbers these are very tiny accidents."
+  },
+  {
+    "startTime": 1499.33,
+    "endTime": 1501.33,
+    "text": "We already know, for example, in the United States,"
+  },
+  {
+    "startTime": 1501.33,
+    "endTime": 1505.33,
+    "text": "more people have died as a result of not taking airplanes --"
+  },
+  {
+    "startTime": 1505.33,
+    "endTime": 1507.33,
+    "text": "because they were scared -- and driving on highways,"
+  },
+  {
+    "startTime": 1507.33,
+    "endTime": 1509.33,
+    "text": "than were killed in 9/11. OK?"
+  },
+  {
+    "startTime": 1509.33,
+    "endTime": 1511.33,
+    "text": "If I told you that there was a plague"
+  },
+  {
+    "startTime": 1511.33,
+    "endTime": 1514.33,
+    "text": "that was going to kill 15,000 Americans next year,"
+  },
+  {
+    "startTime": 1514.33,
+    "endTime": 1517.33,
+    "text": "you might be alarmed if you didn't find out it was the flu."
+  },
+  {
+    "startTime": 1517.33,
+    "endTime": 1520.33,
+    "text": "These are small-scale accidents, and we should be wondering"
+  },
+  {
+    "startTime": 1520.33,
+    "endTime": 1522.33,
+    "text": "whether they should get the kind of play,"
+  },
+  {
+    "startTime": 1522.33,
+    "endTime": 1524.33,
+    "text": "the kind of coverage, that they do."
+  },
+  {
+    "startTime": 1524.33,
+    "endTime": 1527.33,
+    "text": "Surely that causes people to overestimate the likelihood"
+  },
+  {
+    "startTime": 1527.33,
+    "endTime": 1529.33,
+    "text": "that they'll be hurt in these various ways,"
+  },
+  {
+    "startTime": 1529.33,
+    "endTime": 1531.33,
+    "text": "and gives power to the very people who want to frighten us."
+  },
+  {
+    "startTime": 1531.33,
+    "endTime": 1533.33,
+    "text": "CA: Dan, I'd like to hear more on this. So, you're saying"
+  },
+  {
+    "startTime": 1533.33,
+    "endTime": 1537.33,
+    "text": "that our response to terror is, I mean, it's a form of mental bug?"
+  },
+  {
+    "startTime": 1537.33,
+    "endTime": 1538.33,
+    "text": "Talk more about it."
+  },
+  {
+    "startTime": 1538.33,
+    "endTime": 1541.33,
+    "text": "DG: It's out-sized. I mean, look."
+  },
+  {
+    "startTime": 1541.33,
+    "endTime": 1543.33,
+    "text": "If Australia disappears tomorrow,"
+  },
+  {
+    "startTime": 1543.33,
+    "endTime": 1545.33,
+    "text": "terror is probably the right response."
+  },
+  {
+    "startTime": 1545.33,
+    "endTime": 1550.33,
+    "text": "That's an awful large lot of very nice people. On the other hand,"
+  },
+  {
+    "startTime": 1550.33,
+    "endTime": 1553.33,
+    "text": "when a bus blows up and 30 people are killed,"
+  },
+  {
+    "startTime": 1553.33,
+    "endTime": 1555.33,
+    "text": "more people than that were killed"
+  },
+  {
+    "startTime": 1555.33,
+    "endTime": 1558.33,
+    "text": "by not using their seatbelts in the same country."
+  },
+  {
+    "startTime": 1558.33,
+    "endTime": 1559.33,
+    "text": "Is terror the right response?"
+  },
+  {
+    "startTime": 1559.33,
+    "endTime": 1563.33,
+    "text": "CA: What causes the bug? Is it the drama of the event --"
+  },
+  {
+    "startTime": 1563.33,
+    "endTime": 1564.33,
+    "text": "that it's so spectacular?"
+  },
+  {
+    "startTime": 1564.33,
+    "endTime": 1567.33,
+    "text": "Is it the fact that it's an intentional attack by, quote, outsiders?"
+  },
+  {
+    "startTime": 1567.33,
+    "endTime": 1568.33,
+    "text": "What is it?"
+  },
+  {
+    "startTime": 1568.33,
+    "endTime": 1571.33,
+    "text": "DG: Yes. It's a number of things, and you hit on several of them."
+  },
+  {
+    "startTime": 1571.33,
+    "endTime": 1573.33,
+    "text": "First, it's a human agent trying to kill us --"
+  },
+  {
+    "startTime": 1573.33,
+    "endTime": 1576.33,
+    "text": "it's not a tree falling on us by accident."
+  },
+  {
+    "startTime": 1576.33,
+    "endTime": 1579.33,
+    "text": "Second, these are enemies who may want to strike and hurt us again."
+  },
+  {
+    "startTime": 1579.33,
+    "endTime": 1582.33,
+    "text": "People are being killed for no reason instead of good reason --"
+  },
+  {
+    "startTime": 1582.33,
+    "endTime": 1585.33,
+    "text": "as if there's good reason, but sometimes people think there are."
+  },
+  {
+    "startTime": 1585.33,
+    "endTime": 1587.33,
+    "text": "So there are a number of things that together"
+  },
+  {
+    "startTime": 1587.33,
+    "endTime": 1590.33,
+    "text": "make this seem like a fantastic event, but let's not play down"
+  },
+  {
+    "startTime": 1590.33,
+    "endTime": 1594.33,
+    "text": "the fact that newspapers sell when people see something in it"
+  },
+  {
+    "startTime": 1594.33,
+    "endTime": 1597.33,
+    "text": "they want to read. So there's a large role here played by the media,"
+  },
+  {
+    "startTime": 1597.33,
+    "endTime": 1599.33,
+    "text": "who want these things to be"
+  },
+  {
+    "startTime": 1599.33,
+    "endTime": 1603.33,
+    "text": "as spectacular as they possibly can."
+  },
+  {
+    "startTime": 1603.33,
+    "endTime": 1609.33,
+    "text": "CA: I mean, what would it take to persuade our culture to downplay it?"
+  },
+  {
+    "startTime": 1609.33,
+    "endTime": 1610.33,
+    "text": "DG: Well, go to Israel. You know,"
+  },
+  {
+    "startTime": 1610.33,
+    "endTime": 1612.33,
+    "text": "go to Israel. And a mall blows up,"
+  },
+  {
+    "startTime": 1612.33,
+    "endTime": 1615.33,
+    "text": "and then everybody's unhappy about it, and an hour-and-a-half later --"
+  },
+  {
+    "startTime": 1615.33,
+    "endTime": 1618.33,
+    "text": "at least when I was there, and I was 150 feet from the mall"
+  },
+  {
+    "startTime": 1618.33,
+    "endTime": 1620.33,
+    "text": "when it blew up -- I went back to my hotel"
+  },
+  {
+    "startTime": 1620.33,
+    "endTime": 1623.33,
+    "text": "and the wedding that was planned was still going on."
+  },
+  {
+    "startTime": 1623.33,
+    "endTime": 1624.33,
+    "text": "And as the Israeli mother said,"
+  },
+  {
+    "startTime": 1624.33,
+    "endTime": 1628.33,
+    "text": "she said, \"We never let them win by stopping weddings.\""
+  },
+  {
+    "startTime": 1628.33,
+    "endTime": 1629.33,
+    "text": "I mean, this is a society that has learned --"
+  },
+  {
+    "startTime": 1629.33,
+    "endTime": 1631.33,
+    "text": "and there are others too -- that has learned to live"
+  },
+  {
+    "startTime": 1631.33,
+    "endTime": 1636.33,
+    "text": "with a certain amount of terrorism and not be quite as upset by it,"
+  },
+  {
+    "startTime": 1636.33,
+    "endTime": 1639.33,
+    "text": "shall I say, as those of us who have not had many terror attacks."
+  },
+  {
+    "startTime": 1639.33,
+    "endTime": 1642.33,
+    "text": "CA: But is there a rational fear that actually,"
+  },
+  {
+    "startTime": 1642.33,
+    "endTime": 1645.33,
+    "text": "the reason we're frightened about this is because we think that"
+  },
+  {
+    "startTime": 1645.33,
+    "endTime": 1646.33,
+    "text": "the Big One is to come?"
+  },
+  {
+    "startTime": 1646.33,
+    "endTime": 1650.33,
+    "text": "DG: Yes, of course. So, if we knew that this was the worst attack"
+  },
+  {
+    "startTime": 1650.33,
+    "endTime": 1654.33,
+    "text": "there would ever be, there might be more and more buses of 30 people --"
+  },
+  {
+    "startTime": 1654.33,
+    "endTime": 1656.33,
+    "text": "we would probably not be nearly so frightened."
+  },
+  {
+    "startTime": 1656.33,
+    "endTime": 1658.33,
+    "text": "I don't want to say -- please, I'm going to get quoted somewhere"
+  },
+  {
+    "startTime": 1658.33,
+    "endTime": 1662.33,
+    "text": "as saying, \"Terrorism is fine and we shouldn't be so distressed.\""
+  },
+  {
+    "startTime": 1662.33,
+    "endTime": 1664.33,
+    "text": "That's not my point at all."
+  },
+  {
+    "startTime": 1664.33,
+    "endTime": 1666.33,
+    "text": "What I'm saying is that, surely, rationally,"
+  },
+  {
+    "startTime": 1666.33,
+    "endTime": 1670.33,
+    "text": "our distress about things that happen, about threats,"
+  },
+  {
+    "startTime": 1670.33,
+    "endTime": 1673.33,
+    "text": "should be roughly proportional to the size of those threats"
+  },
+  {
+    "startTime": 1673.33,
+    "endTime": 1675.33,
+    "text": "and threats to come."
+  },
+  {
+    "startTime": 1675.33,
+    "endTime": 1678.33,
+    "text": "I think in the case of terrorism, it isn't."
+  },
+  {
+    "startTime": 1678.33,
+    "endTime": 1680.33,
+    "text": "And many of the things we've heard about from our speakers today --"
+  },
+  {
+    "startTime": 1680.33,
+    "endTime": 1682.33,
+    "text": "how many people do you know got up and said,"
+  },
+  {
+    "startTime": 1682.33,
+    "endTime": 1686.33,
+    "text": "Poverty! I can't believe what poverty is doing to us."
+  },
+  {
+    "startTime": 1686.33,
+    "endTime": 1688.33,
+    "text": "People get up in the morning; they don't care about poverty."
+  },
+  {
+    "startTime": 1688.33,
+    "endTime": 1690.33,
+    "text": "It's not making headlines, it's not making news, it's not flashy."
+  },
+  {
+    "startTime": 1690.33,
+    "endTime": 1692.33,
+    "text": "There are no guns going off."
+  },
+  {
+    "startTime": 1692.33,
+    "endTime": 1694.33,
+    "text": "I mean, if you had to solve one of these problems, Chris,"
+  },
+  {
+    "startTime": 1694.33,
+    "endTime": 1696.33,
+    "text": "which would you solve? Terrorism or poverty?"
+  },
+  {
+    "startTime": 1696.33,
+    "endTime": 1700.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1700.33,
+    "endTime": 1702.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1702.33,
+    "endTime": 1704.33,
+    "text": "That's a tough one."
+  },
+  {
+    "startTime": 1704.33,
+    "endTime": 1705.33,
+    "text": "CA: There's no question."
+  },
+  {
+    "startTime": 1705.33,
+    "endTime": 1709.33,
+    "text": "Poverty, by an order of magnitude, a huge order of magnitude,"
+  },
+  {
+    "startTime": 1709.33,
+    "endTime": 1712.33,
+    "text": "unless someone can show that there's, you know,"
+  },
+  {
+    "startTime": 1712.33,
+    "endTime": 1716.33,
+    "text": "terrorists with a nuke are really likely to come."
+  },
+  {
+    "startTime": 1716.33,
+    "endTime": 1718.33,
+    "text": "The latest I've read, seen, thought"
+  },
+  {
+    "startTime": 1718.33,
+    "endTime": 1722.33,
+    "text": "is that it's incredibly hard for them to do that."
+  },
+  {
+    "startTime": 1722.33,
+    "endTime": 1724.33,
+    "text": "If that turns out to be wrong, we all look silly,"
+  },
+  {
+    "startTime": 1724.33,
+    "endTime": 1726.33,
+    "text": "but with poverty it's a bit --"
+  },
+  {
+    "startTime": 1726.33,
+    "endTime": 1733.33,
+    "text": "DG: Even if that were true, still more people die from poverty."
+  },
+  {
+    "startTime": 1733.33,
+    "endTime": 1734.33,
+    "text": "CA: We've evolved to get all excited"
+  },
+  {
+    "startTime": 1734.33,
+    "endTime": 1737.33,
+    "text": "about these dramatic attacks. Is that because in the past,"
+  },
+  {
+    "startTime": 1737.33,
+    "endTime": 1740.33,
+    "text": "in the ancient past, we just didn't understand things like disease"
+  },
+  {
+    "startTime": 1740.33,
+    "endTime": 1742.33,
+    "text": "and systems that cause poverty and so forth,"
+  },
+  {
+    "startTime": 1742.33,
+    "endTime": 1746.33,
+    "text": "and so it made no sense for us as a species to put any energy"
+  },
+  {
+    "startTime": 1746.33,
+    "endTime": 1748.33,
+    "text": "into worrying about those things?"
+  },
+  {
+    "startTime": 1748.33,
+    "endTime": 1750.33,
+    "text": "People died; so be it."
+  },
+  {
+    "startTime": 1750.33,
+    "endTime": 1752.33,
+    "text": "But if you got attacked, that was something you could do something about."
+  },
+  {
+    "startTime": 1752.33,
+    "endTime": 1754.33,
+    "text": "And so we evolved these responses."
+  },
+  {
+    "startTime": 1754.33,
+    "endTime": 1755.33,
+    "text": "Is that what happened?"
+  },
+  {
+    "startTime": 1755.33,
+    "endTime": 1758.33,
+    "text": "DG: Well, you know, the people who are most skeptical"
+  },
+  {
+    "startTime": 1758.33,
+    "endTime": 1760.33,
+    "text": "about leaping to evolutionary explanations for everything"
+  },
+  {
+    "startTime": 1760.33,
+    "endTime": 1762.33,
+    "text": "are the evolutionary psychologists themselves."
+  },
+  {
+    "startTime": 1762.33,
+    "endTime": 1765.33,
+    "text": "My guess is that there's nothing quite that specific"
+  },
+  {
+    "startTime": 1765.33,
+    "endTime": 1767.33,
+    "text": "in our evolutionary past. But rather, if you're looking for"
+  },
+  {
+    "startTime": 1767.33,
+    "endTime": 1769.33,
+    "text": "an evolutionary explanation, you might say"
+  },
+  {
+    "startTime": 1769.33,
+    "endTime": 1773.33,
+    "text": "that most organisms are neo-phobic -- that is, they're a little scared"
+  },
+  {
+    "startTime": 1773.33,
+    "endTime": 1774.33,
+    "text": "of stuff that's new and different."
+  },
+  {
+    "startTime": 1774.33,
+    "endTime": 1776.33,
+    "text": "And there's a good reason to be,"
+  },
+  {
+    "startTime": 1776.33,
+    "endTime": 1777.33,
+    "text": "because old stuff didn't eat you. Right?"
+  },
+  {
+    "startTime": 1777.33,
+    "endTime": 1780.33,
+    "text": "Any animal you see that you've seen before is less likely"
+  },
+  {
+    "startTime": 1780.33,
+    "endTime": 1783.33,
+    "text": "to be a predator than one that you've never seen before."
+  },
+  {
+    "startTime": 1783.33,
+    "endTime": 1786.33,
+    "text": "So, you know, when a school bus is blown up and we've never seen this before,"
+  },
+  {
+    "startTime": 1786.33,
+    "endTime": 1788.33,
+    "text": "our general tendency is to orient towards"
+  },
+  {
+    "startTime": 1788.33,
+    "endTime": 1793.33,
+    "text": "that which is new and novel is activated."
+  },
+  {
+    "startTime": 1793.33,
+    "endTime": 1795.33,
+    "text": "I don't think it's quite as specific a mechanism"
+  },
+  {
+    "startTime": 1795.33,
+    "endTime": 1801.33,
+    "text": "as the one you alluded to, but maybe a more fundamental one underlying it."
+  },
+  {
+    "startTime": 1801.33,
+    "endTime": 1806.33,
+    "text": "Jay Walker: You know, economists love to talk about"
+  },
+  {
+    "startTime": 1806.33,
+    "endTime": 1810.33,
+    "text": "the stupidity of people who buy lottery tickets. But I suspect"
+  },
+  {
+    "startTime": 1810.33,
+    "endTime": 1813.33,
+    "text": "you're making the exact same error you're accusing those people of,"
+  },
+  {
+    "startTime": 1813.33,
+    "endTime": 1814.33,
+    "text": "which is the error of value."
+  },
+  {
+    "startTime": 1814.33,
+    "endTime": 1815.33,
+    "text": "I know, because I've interviewed"
+  },
+  {
+    "startTime": 1815.33,
+    "endTime": 1817.33,
+    "text": "about 1,000 lottery buyers over the years."
+  },
+  {
+    "startTime": 1817.33,
+    "endTime": 1821.33,
+    "text": "It turns out that the value of buying a lottery ticket is not winning."
+  },
+  {
+    "startTime": 1821.33,
+    "endTime": 1823.33,
+    "text": "That's what you think it is. All right?"
+  },
+  {
+    "startTime": 1823.33,
+    "endTime": 1826.33,
+    "text": "The average lottery buyer buys about 150 tickets a year,"
+  },
+  {
+    "startTime": 1826.33,
+    "endTime": 1830.33,
+    "text": "so the buyer knows full well that he or she is going to lose,"
+  },
+  {
+    "startTime": 1830.33,
+    "endTime": 1833.33,
+    "text": "and yet she buys 150 tickets a year. Why is that?"
+  },
+  {
+    "startTime": 1833.33,
+    "endTime": 1837.33,
+    "text": "It's not because she is stupid or he is stupid."
+  },
+  {
+    "startTime": 1837.33,
+    "endTime": 1840.33,
+    "text": "It's because the anticipation of possibly winning"
+  },
+  {
+    "startTime": 1840.33,
+    "endTime": 1844.33,
+    "text": "releases serotonin in the brain, and actually provides a good feeling"
+  },
+  {
+    "startTime": 1844.33,
+    "endTime": 1846.33,
+    "text": "until the drawing indicates you've lost."
+  },
+  {
+    "startTime": 1846.33,
+    "endTime": 1849.33,
+    "text": "Or, to put it another way, for the dollar investment,"
+  },
+  {
+    "startTime": 1849.33,
+    "endTime": 1852.33,
+    "text": "you can have a much better feeling than flushing the money"
+  },
+  {
+    "startTime": 1852.33,
+    "endTime": 1855.33,
+    "text": "down the toilet, which you cannot have a good feeling from."
+  },
+  {
+    "startTime": 1855.33,
+    "endTime": 1857.33,
+    "text": "Now, economists tend to --"
+  },
+  {
+    "startTime": 1857.33,
+    "endTime": 1860.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1860.33,
+    "endTime": 1861.33,
+    "text": "-- economists tend to view the world"
+  },
+  {
+    "startTime": 1861.33,
+    "endTime": 1863.33,
+    "text": "through their own lenses, which is:"
+  },
+  {
+    "startTime": 1863.33,
+    "endTime": 1865.33,
+    "text": "this is just a bunch of stupid people."
+  },
+  {
+    "startTime": 1865.33,
+    "endTime": 1869.33,
+    "text": "And as a result, many people look at economists as stupid people."
+  },
+  {
+    "startTime": 1869.33,
+    "endTime": 1872.33,
+    "text": "And so fundamentally, the reason we got to the moon is,"
+  },
+  {
+    "startTime": 1872.33,
+    "endTime": 1875.33,
+    "text": "we didn't listen to the economists. Thank you very much."
+  },
+  {
+    "startTime": 1875.33,
+    "endTime": 1880.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1880.33,
+    "endTime": 1883.33,
+    "text": "DG: Well, no, it's a great point. It remains to be seen"
+  },
+  {
+    "startTime": 1883.33,
+    "endTime": 1887.33,
+    "text": "whether the joy of anticipation is exactly equaled"
+  },
+  {
+    "startTime": 1887.33,
+    "endTime": 1890.33,
+    "text": "by the amount of disappointment after the lottery. Because remember,"
+  },
+  {
+    "startTime": 1890.33,
+    "endTime": 1893.33,
+    "text": "people who didn't buy tickets don't feel awful the next day either,"
+  },
+  {
+    "startTime": 1893.33,
+    "endTime": 1895.33,
+    "text": "even though they don't feel great during the drawing."
+  },
+  {
+    "startTime": 1895.33,
+    "endTime": 1897.33,
+    "text": "I would disagree that people know they're not going to win."
+  },
+  {
+    "startTime": 1897.33,
+    "endTime": 1900.33,
+    "text": "I think they think it's unlikely, but it could happen,"
+  },
+  {
+    "startTime": 1900.33,
+    "endTime": 1903.33,
+    "text": "which is why they prefer that to the flushing."
+  },
+  {
+    "startTime": 1903.33,
+    "endTime": 1906.33,
+    "text": "But certainly I see your point: that there can be"
+  },
+  {
+    "startTime": 1906.33,
+    "endTime": 1910.33,
+    "text": "some utility to buying a lottery ticket other than winning."
+  },
+  {
+    "startTime": 1910.33,
+    "endTime": 1913.33,
+    "text": "Now, I think there's many good reasons not to listen to economists."
+  },
+  {
+    "startTime": 1913.33,
+    "endTime": 1916.33,
+    "text": "That isn't one of them, for me, but there's many others."
+  },
+  {
+    "startTime": 1916.33,
+    "endTime": 1918.33,
+    "text": "CA: Last question."
+  },
+  {
+    "startTime": 1918.33,
+    "endTime": 1921.33,
+    "text": "Aubrey de Grey: My name's Aubrey de Grey, from Cambridge."
+  },
+  {
+    "startTime": 1921.33,
+    "endTime": 1925.33,
+    "text": "I work on the thing that kills more people than anything else kills --"
+  },
+  {
+    "startTime": 1925.33,
+    "endTime": 1927.33,
+    "text": "I work on aging -- and I'm interested in doing something about it,"
+  },
+  {
+    "startTime": 1927.33,
+    "endTime": 1928.33,
+    "text": "as we'll all hear tomorrow."
+  },
+  {
+    "startTime": 1928.33,
+    "endTime": 1931.33,
+    "text": "I very much resonate with what you're saying,"
+  },
+  {
+    "startTime": 1931.33,
+    "endTime": 1933.33,
+    "text": "because it seems to me that the problem"
+  },
+  {
+    "startTime": 1933.33,
+    "endTime": 1936.33,
+    "text": "with getting people interested in doing anything about aging"
+  },
+  {
+    "startTime": 1936.33,
+    "endTime": 1939.33,
+    "text": "is that by the time aging is about to kill you it looks like cancer"
+  },
+  {
+    "startTime": 1939.33,
+    "endTime": 1942.33,
+    "text": "or heart disease or whatever. Do you have any advice?"
+  },
+  {
+    "startTime": 1942.33,
+    "endTime": 1945.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1945.33,
+    "endTime": 1946.33,
+    "text": "DG: For you or for them?"
+  },
+  {
+    "startTime": 1946.33,
+    "endTime": 1947.33,
+    "text": "AdG: In persuading them."
+  },
+  {
+    "startTime": 1947.33,
+    "endTime": 1949.33,
+    "text": "DG: Ah, for you in persuading them."
+  },
+  {
+    "startTime": 1949.33,
+    "endTime": 1952.33,
+    "text": "Well, it's notoriously difficult to get people to be farsighted."
+  },
+  {
+    "startTime": 1952.33,
+    "endTime": 1956.33,
+    "text": "But one thing that psychologists have tried that seems to work"
+  },
+  {
+    "startTime": 1956.33,
+    "endTime": 1959.33,
+    "text": "is to get people to imagine the future more vividly."
+  },
+  {
+    "startTime": 1959.33,
+    "endTime": 1962.33,
+    "text": "One of the problems with making decisions about the far future"
+  },
+  {
+    "startTime": 1962.33,
+    "endTime": 1965.33,
+    "text": "and the near future is that we imagine the near future"
+  },
+  {
+    "startTime": 1965.33,
+    "endTime": 1967.33,
+    "text": "much more vividly than the far future."
+  },
+  {
+    "startTime": 1967.33,
+    "endTime": 1971.33,
+    "text": "To the extent that you can equalize the amount of detail"
+  },
+  {
+    "startTime": 1971.33,
+    "endTime": 1973.33,
+    "text": "that people put into the mental representations"
+  },
+  {
+    "startTime": 1973.33,
+    "endTime": 1975.33,
+    "text": "of near and far future, people begin to make decisions"
+  },
+  {
+    "startTime": 1975.33,
+    "endTime": 1977.33,
+    "text": "about the two in the same way."
+  },
+  {
+    "startTime": 1977.33,
+    "endTime": 1982.33,
+    "text": "So, would you like to have an extra 100,000 dollars when you're 65"
+  },
+  {
+    "startTime": 1982.33,
+    "endTime": 1983.33,
+    "text": "is a question that's very different than,"
+  },
+  {
+    "startTime": 1983.33,
+    "endTime": 1987.33,
+    "text": "imagine who you'll be when you're 65: will you be living,"
+  },
+  {
+    "startTime": 1987.33,
+    "endTime": 1989.33,
+    "text": "what will you look like, how much hair will you have,"
+  },
+  {
+    "startTime": 1989.33,
+    "endTime": 1990.33,
+    "text": "who will you be living with."
+  },
+  {
+    "startTime": 1990.33,
+    "endTime": 1993.33,
+    "text": "Once we have all the details of that imaginary scenario,"
+  },
+  {
+    "startTime": 1993.33,
+    "endTime": 1995.33,
+    "text": "suddenly we feel like it might be important to save"
+  },
+  {
+    "startTime": 1995.33,
+    "endTime": 1998.33,
+    "text": "so that that guy has a little retirement money."
+  },
+  {
+    "startTime": 1998.33,
+    "endTime": 2000.33,
+    "text": "But these are tricks around the margins."
+  },
+  {
+    "startTime": 2000.33,
+    "endTime": 2003.33,
+    "text": "I think in general you're battling a very fundamental human tendency,"
+  },
+  {
+    "startTime": 2003.33,
+    "endTime": 2005.33,
+    "text": "which is to say, \"I'm here today,"
+  },
+  {
+    "startTime": 2005.33,
+    "endTime": 2008.33,
+    "text": "and so now is more important than later.\""
+  },
+  {
+    "startTime": 2008.33,
+    "endTime": 2010.33,
+    "text": "CA: Dan, thank you. Members of the audience,"
+  },
+  {
+    "startTime": 2010.33,
+    "endTime": 2011.33,
+    "text": "that was a fantastic session. Thank you."
+  },
+  {
+    "startTime": 2011.33,
+    "endTime": 2021.33,
+    "text": "(Applause)"
+  }
+]

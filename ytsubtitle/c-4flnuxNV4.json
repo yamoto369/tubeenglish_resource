@@ -1,0 +1,1622 @@
+[
+  {
+    "startTime": 6.8,
+    "endTime": 13.08,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 16.28,
+    "endTime": 21.92,
+    "text": "[Music] we all make decisions every day we want to know what the right thing is to do in"
+  },
+  {
+    "startTime": 21.92,
+    "endTime": 28.8,
+    "text": "domains from the financial to the gastronomic to the professional to the romantic and surely if somebody could"
+  },
+  {
+    "startTime": 28.8,
+    "endTime": 36.6,
+    "text": "really tell us how to do exactly the right thing at all possible times that would be a tremendous gift it turns out"
+  },
+  {
+    "startTime": 36.6,
+    "endTime": 43.12,
+    "text": "that in fact the world was given this gift in 1738 by a Dutch polymath named Daniel"
+  },
+  {
+    "startTime": 43.12,
+    "endTime": 49.96,
+    "text": "bernui and what I want to talk to you about today is what that gift is and I also want to explain to you why it is"
+  },
+  {
+    "startTime": 49.96,
+    "endTime": 56.32,
+    "text": "that it hasn't made a damn bit of difference now this is Bern's gift this"
+  },
+  {
+    "startTime": 56.32,
+    "endTime": 61.44,
+    "text": "is a direct quote and if it looks like Greek to you it's because well it's"
+  },
+  {
+    "startTime": 61.44,
+    "endTime": 66.96,
+    "text": "Greek but the simple English translation much less precise but it captures the"
+  },
+  {
+    "startTime": 66.96,
+    "endTime": 72.52,
+    "text": "gist of what beri had to say was this the expected value of any of our actions"
+  },
+  {
+    "startTime": 72.52,
+    "endTime": 77.6,
+    "text": "that is the goodness that we can count on getting is the product of two simple"
+  },
+  {
+    "startTime": 77.6,
+    "endTime": 83.0,
+    "text": "things the odds that this action will allow us to gain something and the value"
+  },
+  {
+    "startTime": 83.0,
+    "endTime": 88.72,
+    "text": "of that gain to us in a sense what beri was saying is if we can estimate and"
+  },
+  {
+    "startTime": 88.72,
+    "endTime": 94.36,
+    "text": "multiply these two things we will always know precisely how we should behave now"
+  },
+  {
+    "startTime": 94.36,
+    "endTime": 99.52,
+    "text": "this simple equation even for those of you who don't like equations is something that you're quite used to"
+  },
+  {
+    "startTime": 99.52,
+    "endTime": 105.36,
+    "text": "here's an example if I were to tell you let's play a little coin toss game and I'm going to flip a coin and if it comes"
+  },
+  {
+    "startTime": 105.36,
+    "endTime": 110.96,
+    "text": "up heads I'm going to uh pay you $10 but you have to pay $4 for the privilege of"
+  },
+  {
+    "startTime": 110.96,
+    "endTime": 118.28,
+    "text": "playing with me most of you would say sure I'll take that bet because you know that the odds of you winning are one2"
+  },
+  {
+    "startTime": 118.28,
+    "endTime": 124.799,
+    "text": "the gain if you do is $10 that multiplies to five and that's more than I'm charging you to play so the"
+  },
+  {
+    "startTime": 124.799,
+    "endTime": 130.44,
+    "text": "answer is yes this is what statisticians technically call a damn fine bet now the"
+  },
+  {
+    "startTime": 130.44,
+    "endTime": 135.48,
+    "text": "idea is simple when we're applying it to coin tosses but in fact it's not very"
+  },
+  {
+    "startTime": 135.48,
+    "endTime": 140.56,
+    "text": "simple in everyday life people are horrible at estimating both of these"
+  },
+  {
+    "startTime": 140.56,
+    "endTime": 146.08,
+    "text": "things and that's what I want to talk to you about today there are two kinds of Errors people make when trying to decide"
+  },
+  {
+    "startTime": 146.08,
+    "endTime": 152.08,
+    "text": "what the right thing is to do and those are errors and estimating the odds that they're going to succeed and errors in"
+  },
+  {
+    "startTime": 152.08,
+    "endTime": 160.239,
+    "text": "estimating the value of their own success now let me talk about the first one first calculating odds would seem to"
+  },
+  {
+    "startTime": 160.239,
+    "endTime": 166.12,
+    "text": "be something rather easy there are six sides to a die two sides to a coin 52 cards in a deck you all know what the"
+  },
+  {
+    "startTime": 166.12,
+    "endTime": 174.319,
+    "text": "likelihood is of pulling the Ace of Spades or of flipping ahe heads but as it turns out this is not a very easy"
+  },
+  {
+    "startTime": 174.319,
+    "endTime": 182.28,
+    "text": "idea to apply in everyday life that's why Americans spend more I should say lose more gambling than on all forms"
+  },
+  {
+    "startTime": 182.28,
+    "endTime": 187.599,
+    "text": "other forms of entertainment combined the reason is this isn't how"
+  },
+  {
+    "startTime": 187.599,
+    "endTime": 194.04,
+    "text": "people do odds the way people figure odds requires that we first talk a bit about pigs now the question I'm going to"
+  },
+  {
+    "startTime": 194.04,
+    "endTime": 201.04,
+    "text": "put to you is whether you think there are more dogs or pigs on leashes observed in any particular day in Oxford"
+  },
+  {
+    "startTime": 201.04,
+    "endTime": 206.72,
+    "text": "and of course you all know that the answer is dogs and the way you know that the answer is dogs is you quickly"
+  },
+  {
+    "startTime": 206.72,
+    "endTime": 213.56,
+    "text": "reviewed in memory the times you've seen dogs and pigs on leashes it was very easy to remember seeing dogs not so easy"
+  },
+  {
+    "startTime": 213.56,
+    "endTime": 220.879,
+    "text": "to remember pigs and each one of you assumed that if dogs on leashes came more quickly to your mind then dogs on"
+  },
+  {
+    "startTime": 220.879,
+    "endTime": 227.239,
+    "text": "leashes are more probable that's not a bad rule of thumb except when it is so"
+  },
+  {
+    "startTime": 227.239,
+    "endTime": 233.76,
+    "text": "for example here's a word puzzle are there more four-letter English words with r in the third place or R in the"
+  },
+  {
+    "startTime": 233.76,
+    "endTime": 240.799,
+    "text": "first place well you check memory very briefly make a quick scan and it's awfully easy to say to yourself ring"
+  },
+  {
+    "startTime": 240.799,
+    "endTime": 248.72,
+    "text": "rang Rong and very hard to say to yourself Bear Park they come more slowly but in"
+  },
+  {
+    "startTime": 248.72,
+    "endTime": 254.959,
+    "text": "fact there are many more words in the English language with R in the third than the first place the reason words"
+  },
+  {
+    "startTime": 254.959,
+    "endTime": 260.959,
+    "text": "with r in the third place come slowly to your mind isn't because they're improbable unlikely or infrequent it's"
+  },
+  {
+    "startTime": 260.959,
+    "endTime": 268.0,
+    "text": "because the mind recalls words by their first letter you kind of shout out the sound s and the word comes it's like the"
+  },
+  {
+    "startTime": 268.0,
+    "endTime": 273.52,
+    "text": "dictionary it's hard to look things up by the third letter so this is an example of how this idea that the"
+  },
+  {
+    "startTime": 273.52,
+    "endTime": 281.08,
+    "text": "quickness with which things come to mind can give you a sense of their probability how this idea can lead you astray it's not just puzzles though for"
+  },
+  {
+    "startTime": 281.08,
+    "endTime": 288.16,
+    "text": "example when Americans are asked to estimate the odds that they will die in a variety of interesting ways these are"
+  },
+  {
+    "startTime": 288.16,
+    "endTime": 294.24,
+    "text": "estimates of number of deaths per year per 200 million US citizens and these are just ordinary people like yourselves"
+  },
+  {
+    "startTime": 294.24,
+    "endTime": 300.84,
+    "text": "who are asked to guess how many people die from tornado fireworks asthma drowning Etc compare these to the actual"
+  },
+  {
+    "startTime": 300.84,
+    "endTime": 307.4,
+    "text": "numbers now you see a very interesting pattern here which is first of all two things are vastly overestimated namely"
+  },
+  {
+    "startTime": 307.4,
+    "endTime": 312.639,
+    "text": "tornadoes and fireworks two things are vastly underestimated Dying by drowning"
+  },
+  {
+    "startTime": 312.639,
+    "endTime": 320.36,
+    "text": "and dying by asthma why when was the last time you picked up a newspaper and the headline was boy dies of asthma it's"
+  },
+  {
+    "startTime": 320.36,
+    "endTime": 326.0,
+    "text": "not interesting because it's so common it's very easy for all of us to bring to"
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 332.68,
+    "text": "mind instances of news stories or news reels where we've seen tornadoes devastating cities or some poor schmuck"
+  },
+  {
+    "startTime": 332.68,
+    "endTime": 339.52,
+    "text": "who's blown his hands off with a firework on the 4th of July drownings and Asma deaths don't get much coverage"
+  },
+  {
+    "startTime": 339.52,
+    "endTime": 345.44,
+    "text": "they don't come quickly to mind and as a result we vastly underestimate them indeed this is kind of like the Sesame"
+  },
+  {
+    "startTime": 345.44,
+    "endTime": 350.56,
+    "text": "Street game of which thing doesn't belong and you're right to say it's the swimming pool that doesn't belong"
+  },
+  {
+    "startTime": 350.56,
+    "endTime": 357.12,
+    "text": "because the swimming pool is the only thing on this slide that's actually very dangerous the way that more of you are"
+  },
+  {
+    "startTime": 357.12,
+    "endTime": 364.16,
+    "text": "likely to die than the combination of all all three of the others you see on this Slide the lottery is an excellent"
+  },
+  {
+    "startTime": 364.16,
+    "endTime": 370.52,
+    "text": "example of course an excellent test case of people's ability to compute probabilities and economists uh I"
+  },
+  {
+    "startTime": 370.52,
+    "endTime": 376.16,
+    "text": "forgive me for those of you who play the lottery but economists at least among themselves refer to the lottery as a"
+  },
+  {
+    "startTime": 376.16,
+    "endTime": 382.4,
+    "text": "stupidity tax because the odds of getting any payoff by investing your money in a lottery ticket are"
+  },
+  {
+    "startTime": 382.4,
+    "endTime": 387.44,
+    "text": "approximately equivalent to Flushing the money directly down the toilet which by the way doesn't require that you"
+  },
+  {
+    "startTime": 387.44,
+    "endTime": 392.599,
+    "text": "actually go to the store and buy anything why in the world would anybody ever play"
+  },
+  {
+    "startTime": 392.599,
+    "endTime": 399.96,
+    "text": "the lottery well there are many answers but one answer surely is we see a lot of winners right when this couple wins the"
+  },
+  {
+    "startTime": 399.96,
+    "endTime": 405.599,
+    "text": "lottery or Ed McMahon shows up at your door with this big giant check how the hell do you cash things that size I"
+  },
+  {
+    "startTime": 405.599,
+    "endTime": 412.599,
+    "text": "don't know we see this on TV we read about it in the paper when was the last time that you saw extensive interviews"
+  },
+  {
+    "startTime": 412.599,
+    "endTime": 417.759,
+    "text": "with everybody who lost indeed if we required that television stations run a"
+  },
+  {
+    "startTime": 417.759,
+    "endTime": 424.319,
+    "text": "30-second interview with each Los loser every time they interview a winner the 100 million losers in the last lottery"
+  },
+  {
+    "startTime": 424.319,
+    "endTime": 433.319,
+    "text": "would require 9 and2 years of your undivided attention just to watch them say me I lost me I lost now if you watch"
+  },
+  {
+    "startTime": 433.319,
+    "endTime": 439.28,
+    "text": "N9 and a half years of Television no sleep no potty breaks and you saw loss after loss after loss and then at the"
+  },
+  {
+    "startTime": 439.28,
+    "endTime": 445.4,
+    "text": "end there's 30 seconds of and I won the likelihood that you would play the lottery is very small look I can prove"
+  },
+  {
+    "startTime": 445.4,
+    "endTime": 450.96,
+    "text": "this to you here's a little Lottery there's 10 tickets in this Lottery n n of them have been sold to these"
+  },
+  {
+    "startTime": 450.96,
+    "endTime": 457.96,
+    "text": "individuals it cost you a dollar to buy the ticket and if you win you get 20 bucks is this a good bet well Berle"
+  },
+  {
+    "startTime": 457.96,
+    "endTime": 464.12,
+    "text": "tells us it is the expected value of this Lottery is $2 this is a lottery in which you should invest your money and"
+  },
+  {
+    "startTime": 464.12,
+    "endTime": 470.44,
+    "text": "most people say okay I'll play now a slightly different version of this Lottery imagine that the nine tickets"
+  },
+  {
+    "startTime": 470.44,
+    "endTime": 477.879,
+    "text": "are all owned by one fat guy named Leroy Leroy has nine tickets there's one left do you want it most people won't play"
+  },
+  {
+    "startTime": 477.879,
+    "endTime": 484.28,
+    "text": "this Lottery now you can see the odds of winning haven't changed but it's now fantastically easy to imagine who's"
+  },
+  {
+    "startTime": 484.28,
+    "endTime": 490.8,
+    "text": "going to win it's easy to see Leroy getting the check right you can't say to yourself I'm as likely to win as anybody"
+  },
+  {
+    "startTime": 490.8,
+    "endTime": 497.879,
+    "text": "because you're not as likely to win as Leroy the fact that all those tickets are owned by one guy changes your decision to play even though it does"
+  },
+  {
+    "startTime": 497.879,
+    "endTime": 503.28,
+    "text": "nothing whatsoever to the odds now estimating odds as difficult as it may"
+  },
+  {
+    "startTime": 503.28,
+    "endTime": 510.039,
+    "text": "seem is a piece of cake compared to trying to estimate value trying to say what something is worth how much we'll"
+  },
+  {
+    "startTime": 510.039,
+    "endTime": 517.76,
+    "text": "enjoy it how much pleasure it will give us I want to talk now about errors in value how much is this Big Mac worth is"
+  },
+  {
+    "startTime": 517.76,
+    "endTime": 524.44,
+    "text": "it worth $25 most of you have the intuition that it's not you wouldn't pay that for it"
+  },
+  {
+    "startTime": 524.44,
+    "endTime": 529.839,
+    "text": "but in fact decide whether a Big Mac is worth $25 requires that you ask one and only"
+  },
+  {
+    "startTime": 529.839,
+    "endTime": 537.839,
+    "text": "one question which is what else can I do with $25 if you've ever gotten on one of those long hul flights to Australia and"
+  },
+  {
+    "startTime": 537.839,
+    "endTime": 545.04,
+    "text": "realized that they're not going to serve you any food but somebody in the row in front of you has just opened the McDonald's bag and the smell of golden"
+  },
+  {
+    "startTime": 545.04,
+    "endTime": 551.76,
+    "text": "arches is wafting over the seat you think I can't do anything else with this $25 for 16 hours I can't even set it on"
+  },
+  {
+    "startTime": 551.76,
+    "endTime": 556.839,
+    "text": "fire they took my cigarette lighter suddenly $25 for a Big Mac might be a"
+  },
+  {
+    "startTime": 556.839,
+    "endTime": 562.0,
+    "text": "good deal on the other hand if you're visiting an underdeveloped country and $25 buys you a gourmet meal it's"
+  },
+  {
+    "startTime": 562.0,
+    "endTime": 568.16,
+    "text": "exorbitant for a Big Mac why were you all sure that the answer to the question was no before I'd even told you anything"
+  },
+  {
+    "startTime": 568.16,
+    "endTime": 574.48,
+    "text": "about the context because most of you compared the price of this Big Mac to the price you're used"
+  },
+  {
+    "startTime": 574.48,
+    "endTime": 580.92,
+    "text": "to paying rather than asking what else can I do with my money comparing this investment to other possible Investments"
+  },
+  {
+    "startTime": 580.92,
+    "endTime": 588.88,
+    "text": "you compared to the past and this is a systematic error people make what you knew was you've paid $3 in the past 25"
+  },
+  {
+    "startTime": 588.88,
+    "endTime": 595.279,
+    "text": "is outrageous this is an error and I can prove it to you by showing the kinds of irrationalities to which it leads for"
+  },
+  {
+    "startTime": 595.279,
+    "endTime": 601.88,
+    "text": "example this is of course one of the most delicious tricks inet marketing is to say something used to be higher and"
+  },
+  {
+    "startTime": 601.88,
+    "endTime": 607.8,
+    "text": "suddenly it seems like a very good deal when people are asked about these two different jobs uh a job where you make"
+  },
+  {
+    "startTime": 607.8,
+    "endTime": 613.519,
+    "text": "60k then 50k then 40K a job where you're getting a salary cut each year and one in which you're getting a salary"
+  },
+  {
+    "startTime": 613.519,
+    "endTime": 618.72,
+    "text": "increase people like the second job better than the first despite the fact"
+  },
+  {
+    "startTime": 618.72,
+    "endTime": 625.8,
+    "text": "that all told they make much less money why because they have the sense that declining wages are worse than Rising"
+  },
+  {
+    "startTime": 625.8,
+    "endTime": 631.959,
+    "text": "wages even when the total amount of wages is higher in the declining period"
+  },
+  {
+    "startTime": 631.959,
+    "endTime": 639.24,
+    "text": "here's another nice example here's a $2,000 Hawaiian vacation package it's now on sale for 1600 assuming you wanted"
+  },
+  {
+    "startTime": 639.24,
+    "endTime": 645.839,
+    "text": "to go to Hawaii would you buy this package most people say they would here's a slightly different story $2,000"
+  },
+  {
+    "startTime": 645.839,
+    "endTime": 651.839,
+    "text": "Hawaiian vacation package is now on sale for 700 so you decide to mull it over for a week by the time you get to the"
+  },
+  {
+    "startTime": 651.839,
+    "endTime": 659.0,
+    "text": "ticket agency the best fairs are gone the package now cost, 1500 would you buy it most people say no why because it"
+  },
+  {
+    "startTime": 659.0,
+    "endTime": 664.24,
+    "text": "used to cost 700 and there's no way I'm paying 1,500 for something that was 700"
+  },
+  {
+    "startTime": 664.24,
+    "endTime": 671.44,
+    "text": "last week this tendency to compare to the past is causing people to pass up the better deal in other words a good"
+  },
+  {
+    "startTime": 671.44,
+    "endTime": 677.16,
+    "text": "deal that used to be a great deal is not nearly as good as an awful deal that was once a horrible"
+  },
+  {
+    "startTime": 677.16,
+    "endTime": 682.68,
+    "text": "deal here's another example of how comparing to the Past can befuddle our"
+  },
+  {
+    "startTime": 682.68,
+    "endTime": 688.12,
+    "text": "decisions imagine that you're going to the theater you're on your way to the theater in your wallet you have a ticket"
+  },
+  {
+    "startTime": 688.12,
+    "endTime": 693.6,
+    "text": "for which you paid $20 you also have a $20 bill when you arrive at the theater you discover that"
+  },
+  {
+    "startTime": 693.6,
+    "endTime": 701.279,
+    "text": "somewhere along the wave you've lost the ticket would you spend your remaining money on replacing it most people answer"
+  },
+  {
+    "startTime": 701.279,
+    "endTime": 707.04,
+    "text": "no now let's just change one thing in this scenario you're on your way to the theater and in your wallet you have two"
+  },
+  {
+    "startTime": 707.04,
+    "endTime": 712.88,
+    "text": "$20 bills when you arrive you discover you've lost one of them would you spend your remaining $20 on a ticket people"
+  },
+  {
+    "startTime": 712.88,
+    "endTime": 719.92,
+    "text": "say well of course I went to the theater to see the play what does the loss of $20 along the way have to do now just in"
+  },
+  {
+    "startTime": 719.92,
+    "endTime": 727.24,
+    "text": "case you're not getting it here's a schematic of what happened okay along the way you lost something in both cases"
+  },
+  {
+    "startTime": 727.24,
+    "endTime": 733.04,
+    "text": "it was a piece of paper in one case it had a US president on it in the other case it didn't what the hell difference"
+  },
+  {
+    "startTime": 733.04,
+    "endTime": 738.639,
+    "text": "should it make the difference is that when you lost the ticket you say to yourself I'm not paying twice for the"
+  },
+  {
+    "startTime": 738.639,
+    "endTime": 747.24,
+    "text": "same thing you compare the cost of the plane now $40 to the cost that it used to have $20 and you say it's a bad deal"
+  },
+  {
+    "startTime": 747.24,
+    "endTime": 752.279,
+    "text": "comparing with the past causes many of the problems that behavioral economists"
+  },
+  {
+    "startTime": 752.279,
+    "endTime": 757.48,
+    "text": "and psychologists identify in people's attempts to assign value but even when"
+  },
+  {
+    "startTime": 757.48,
+    "endTime": 762.88,
+    "text": "we compare with the possible instead of the past we still make certain kinds of"
+  },
+  {
+    "startTime": 762.88,
+    "endTime": 769.079,
+    "text": "mistakes and I'm going to show you one or two of them one of the things we know about comparison that when we compare"
+  },
+  {
+    "startTime": 769.079,
+    "endTime": 774.839,
+    "text": "one thing to the other it changes its value so in 1992 this fellow George Bush for those"
+  },
+  {
+    "startTime": 774.839,
+    "endTime": 781.199,
+    "text": "of us who were kind of on the liberal side of the political Spectrum didn't seem like such a great guy suddenly"
+  },
+  {
+    "startTime": 781.199,
+    "endTime": 789.56,
+    "text": "we're almost longing for him to return the comparison the comparison changes how we"
+  },
+  {
+    "startTime": 789.56,
+    "endTime": 796.16,
+    "text": "evaluate him now retailers knew this long before anybody else did of course and they Ed this wisdom to help you uh"
+  },
+  {
+    "startTime": 796.16,
+    "endTime": 802.0,
+    "text": "spare you the undue burden of money and uh so a retailer if you were to go into a wine shop and you had to buy a bottle"
+  },
+  {
+    "startTime": 802.0,
+    "endTime": 807.12,
+    "text": "of wine and you see them here for $827 and $33 what would you do most people"
+  },
+  {
+    "startTime": 807.12,
+    "endTime": 814.36,
+    "text": "don't want the most expensive they don't want the Le least expensive so they will opt for the item in the middle if you're a smart retailer then you will put a"
+  },
+  {
+    "startTime": 814.36,
+    "endTime": 821.959,
+    "text": "very expensive item that nobody will ever buy on the Shelf because suddenly the $33 wine doesn't look as expensive"
+  },
+  {
+    "startTime": 821.959,
+    "endTime": 827.959,
+    "text": "in comparison so I'm telling you something you already knew namely that comparison changes the value of things"
+  },
+  {
+    "startTime": 827.959,
+    "endTime": 833.639,
+    "text": "here's why that's a problem the problem is that when you get that $33 bottle of"
+  },
+  {
+    "startTime": 833.639,
+    "endTime": 839.6,
+    "text": "wine home it won't matter what it used to be sitting on the shelf next to the"
+  },
+  {
+    "startTime": 839.6,
+    "endTime": 845.12,
+    "text": "comparisons we make when we are uh apprising value when we are praising"
+  },
+  {
+    "startTime": 845.12,
+    "endTime": 850.8,
+    "text": "value when we're trying to estimate how much we'll like things are not the same comparisons we'll be making when we"
+  },
+  {
+    "startTime": 850.8,
+    "endTime": 856.839,
+    "text": "consume them this problem of Shifting comparisons can be devil our attempts to"
+  },
+  {
+    "startTime": 856.839,
+    "endTime": 862.04,
+    "text": "make rational decisions let me just give you an example I have to show you something from my own lab so let me"
+  },
+  {
+    "startTime": 862.04,
+    "endTime": 867.68,
+    "text": "sneak this in these are subjects coming to an experiment to be asked the simplest of all questions how much will"
+  },
+  {
+    "startTime": 867.68,
+    "endTime": 874.72,
+    "text": "you enjoy eating potato chips 1 minute from now they're sitting in a room with potato chips in front of them for some"
+  },
+  {
+    "startTime": 874.72,
+    "endTime": 881.519,
+    "text": "of the subjects sitting in the far corner of a room is a box of gadiva chocolates and for others is a can of"
+  },
+  {
+    "startTime": 881.519,
+    "endTime": 886.72,
+    "text": "spam in fact these items that are sitting in the room change how much the"
+  },
+  {
+    "startTime": 886.72,
+    "endTime": 892.0,
+    "text": "subjects think they're going to enjoy the potato chips namely those who are looking at spam think potato chips are"
+  },
+  {
+    "startTime": 892.0,
+    "endTime": 897.959,
+    "text": "going to be quite tasty those who are looking at gadiva chocolate think they won't be nearly so tasty of course what"
+  },
+  {
+    "startTime": 897.959,
+    "endTime": 905.04,
+    "text": "happens when they eat the potato chips well look you didn't need a psychologist to tell you that when you have a mouthful of greasy salty crispy"
+  },
+  {
+    "startTime": 905.04,
+    "endTime": 911.0,
+    "text": "delicious snacks what's sitting in the corner of the room makes not a damn bit of difference to your gustatory"
+  },
+  {
+    "startTime": 911.0,
+    "endTime": 916.56,
+    "text": "experience nonetheless their predictions are perverted by a comparison that then"
+  },
+  {
+    "startTime": 916.56,
+    "endTime": 922.759,
+    "text": "does not carry through and change their experience you've all experienced this yourself even if you've never come into"
+  },
+  {
+    "startTime": 922.759,
+    "endTime": 929.199,
+    "text": "our lab to eat potato chips so here's a question you want to buy a car stereo the dealer near your house sells this"
+  },
+  {
+    "startTime": 929.199,
+    "endTime": 934.72,
+    "text": "particular stereo for $200 but if you drive across town you can get it for a"
+  },
+  {
+    "startTime": 934.72,
+    "endTime": 941.36,
+    "text": "hundred bucks so would you drive to get 50% off saving $100 most people say they would they can't imagine buying it for"
+  },
+  {
+    "startTime": 941.36,
+    "endTime": 948.12,
+    "text": "twice the price when with one trip across town they can get it for half off now let's imagine instead you wanted to"
+  },
+  {
+    "startTime": 948.12,
+    "endTime": 954.16,
+    "text": "buy a car that had a stereo and the dealer near your house had it for 31,000 but if you drove across town you could"
+  },
+  {
+    "startTime": 954.16,
+    "endTime": 961.56,
+    "text": "get it for 30,900 would you drive to get it this point of 03 savings the $100 most people"
+  },
+  {
+    "startTime": 961.56,
+    "endTime": 967.6,
+    "text": "say no I'm going to schlep across town to save hundred bucks on the purchase of a car this kind of thinking drives"
+  },
+  {
+    "startTime": 967.6,
+    "endTime": 974.16,
+    "text": "Economist crazy and it should because this $100 that you save hello doesn't"
+  },
+  {
+    "startTime": 974.16,
+    "endTime": 980.8,
+    "text": "know where it came from it doesn't know what you saved it on when you go to buy groceries with it it doesn't go I'm the"
+  },
+  {
+    "startTime": 980.8,
+    "endTime": 986.8,
+    "text": "money saved on the car stereo or I'm the dumb money saved on the car it's money"
+  },
+  {
+    "startTime": 986.8,
+    "endTime": 992.319,
+    "text": "and if a drive across town is worth a hundred bucks it's worth 100 bucks no matter what you're saving it on people"
+  },
+  {
+    "startTime": 992.319,
+    "endTime": 998.92,
+    "text": "don't think that way that's why they don't know whether their mutual fund manager is taking 0.1 or 0.15% of their"
+  },
+  {
+    "startTime": 998.92,
+    "endTime": 1004.12,
+    "text": "investment but they clip coupons to save a dollar off of toothpaste now you can"
+  },
+  {
+    "startTime": 1004.12,
+    "endTime": 1009.92,
+    "text": "see this is the problem of Shifting comparisons because what you're doing is you're comparing the hundred bucks to"
+  },
+  {
+    "startTime": 1009.92,
+    "endTime": 1016.199,
+    "text": "the purchase that you're making but when you go to spend that money you won't be making that comparison you've all had"
+  },
+  {
+    "startTime": 1016.199,
+    "endTime": 1022.56,
+    "text": "this experience if you're an American for example you probably traveled in France and uh at some point you may have"
+  },
+  {
+    "startTime": 1022.56,
+    "endTime": 1029.319,
+    "text": "met a couple from your own Hometown and you thought oh my God these people are so warm they're so nice to me I mean"
+  },
+  {
+    "startTime": 1029.319,
+    "endTime": 1034.4,
+    "text": "compared to all these people who hate me when I try to speak their language and hate me more when I don't these people"
+  },
+  {
+    "startTime": 1034.4,
+    "endTime": 1041.038,
+    "text": "are just wonderful and so you tour France with them and then you get home and you invite them over for dinner and what do you find compared to your"
+  },
+  {
+    "startTime": 1041.039,
+    "endTime": 1046.52,
+    "text": "regular friends they are boring and dull right because in this new context the"
+  },
+  {
+    "startTime": 1046.52,
+    "endTime": 1052.4,
+    "text": "comparison is very very different in fact you find yourself disliking them enough almost to qualify for French"
+  },
+  {
+    "startTime": 1052.4,
+    "endTime": 1058.2,
+    "text": "citizenship now you have exactly the same problem when you shop for a stereo you go to the"
+  },
+  {
+    "startTime": 1058.2,
+    "endTime": 1064.6,
+    "text": "stereo store you see two sets of speakers these big boxy monoliths and these little Sleek speakers and you play"
+  },
+  {
+    "startTime": 1064.6,
+    "endTime": 1071.88,
+    "text": "them and you go you know I do hear a difference the big ones sound a little better and so you buy them and you bring them home and you entirely violate the"
+  },
+  {
+    "startTime": 1071.88,
+    "endTime": 1077.6,
+    "text": "decor of your house be and the problem of course is that this comparison you made in the store is a comparison you"
+  },
+  {
+    "startTime": 1077.6,
+    "endTime": 1083.4,
+    "text": "will never make again what are the odds that years later you'll turn on the story and go sound so much better than"
+  },
+  {
+    "startTime": 1083.4,
+    "endTime": 1089.72,
+    "text": "those little ones which you can't even remember hearing the problem of Shifting comparisons is even more difficult when"
+  },
+  {
+    "startTime": 1089.72,
+    "endTime": 1096.36,
+    "text": "these choices are arrayed over time people have a lot of trouble making decisions about things that will happen"
+  },
+  {
+    "startTime": 1096.36,
+    "endTime": 1103.799,
+    "text": "at different points in time and what psychologists and behavioral economists have discovered is that by and large people use two Simple Rules so let me"
+  },
+  {
+    "startTime": 1103.799,
+    "endTime": 1109.72,
+    "text": "give you one very easy problem a second very easy problem and then a third hard problem here's the the first easy"
+  },
+  {
+    "startTime": 1109.72,
+    "endTime": 1115.4,
+    "text": "problem you can have $60 now or $50 now which would you prefer this is what we"
+  },
+  {
+    "startTime": 1115.4,
+    "endTime": 1123.039,
+    "text": "call a one item IQ test okay all of us I hope prefer more money and the reason is we believe more is better than less"
+  },
+  {
+    "startTime": 1123.039,
+    "endTime": 1130.4,
+    "text": "here's the second problem you can have $60 today or $60 in a month which would you prefer again an easy decision"
+  },
+  {
+    "startTime": 1130.4,
+    "endTime": 1137.36,
+    "text": "because we all know that Now is better than later what's hard in our decision- making is when these two rules Conflict"
+  },
+  {
+    "startTime": 1137.36,
+    "endTime": 1144.0,
+    "text": "for example when you're offered $50 now or $60 in a month this typifies a lot of situations in life in which you will"
+  },
+  {
+    "startTime": 1144.0,
+    "endTime": 1150.72,
+    "text": "gain by waiting but you have to be patient what do we know what do people do in these kinds of situations well by"
+  },
+  {
+    "startTime": 1150.72,
+    "endTime": 1156.159,
+    "text": "and large people are enormously impatient that is they require interest"
+  },
+  {
+    "startTime": 1156.159,
+    "endTime": 1161.64,
+    "text": "rates in the hundred or thousands of percents in order to delay gratification"
+  },
+  {
+    "startTime": 1161.64,
+    "endTime": 1166.919,
+    "text": "and wait until next month for the extra $10 maybe that isn't so remarkable but"
+  },
+  {
+    "startTime": 1166.919,
+    "endTime": 1174.44,
+    "text": "what is remarkable is how easy it is is to make this impatience go away by simply changing when the delivery of"
+  },
+  {
+    "startTime": 1174.44,
+    "endTime": 1182.48,
+    "text": "these monetary units will happen imagine that you can have $50 in a year that's 12 months or $60 in 13 months what do we"
+  },
+  {
+    "startTime": 1182.48,
+    "endTime": 1189.559,
+    "text": "find now people are gladly willing to wait as long as they're waiting 12 they might as well wait 13 what makes this"
+  },
+  {
+    "startTime": 1189.559,
+    "endTime": 1195.0,
+    "text": "Dynamic inconsistency happen comparison troubling comparison let me show you"
+  },
+  {
+    "startTime": 1195.0,
+    "endTime": 1200.76,
+    "text": "this is just a graph showing the results that I just suggested you would show if I gave you time to respond which is"
+  },
+  {
+    "startTime": 1200.76,
+    "endTime": 1207.0,
+    "text": "people find that the subjective value of 50 is higher than the subjective value of 60 when they'll be delivered in now"
+  },
+  {
+    "startTime": 1207.0,
+    "endTime": 1213.919,
+    "text": "or in one month respectively a 30-day delay but they show the reverse pattern when you push the entire decision off"
+  },
+  {
+    "startTime": 1213.919,
+    "endTime": 1219.84,
+    "text": "into the future a year now why in the world you get this pattern of results"
+  },
+  {
+    "startTime": 1219.84,
+    "endTime": 1224.919,
+    "text": "these guys can tell us what you see here are two Lads one of them larger than the"
+  },
+  {
+    "startTime": 1224.919,
+    "endTime": 1230.72,
+    "text": "other the fireman and the Fiddler they are going to receive towards the vanishing point in the Horizon and I"
+  },
+  {
+    "startTime": 1230.72,
+    "endTime": 1236.08,
+    "text": "want you to notice two things at no point will the fireman look taller than the"
+  },
+  {
+    "startTime": 1236.08,
+    "endTime": 1242.12,
+    "text": "Fiddler no point however the difference between them seems to be getting smaller"
+  },
+  {
+    "startTime": 1242.12,
+    "endTime": 1247.96,
+    "text": "first it's an inch in your view then it's a quar inch then a half inch and then finally they off the edge of the"
+  },
+  {
+    "startTime": 1247.96,
+    "endTime": 1255.36,
+    "text": "Earth here are the results of what I just showed you this is the subjective height the height you saw of these guys"
+  },
+  {
+    "startTime": 1255.36,
+    "endTime": 1261.32,
+    "text": "at various points and I want you to see that two things are true one the farther away they are the smaller they look and"
+  },
+  {
+    "startTime": 1261.32,
+    "endTime": 1266.6,
+    "text": "two the fireman is always bigger than the Fiddler but watch what happens when we make some of them"
+  },
+  {
+    "startTime": 1266.6,
+    "endTime": 1271.96,
+    "text": "disappear right at a very close distance the Fiddler looks taller than the"
+  },
+  {
+    "startTime": 1271.96,
+    "endTime": 1279.679,
+    "text": "fireman but at a far distance their normal their true relations are preserved as Plato said what space is to"
+  },
+  {
+    "startTime": 1279.679,
+    "endTime": 1286.88,
+    "text": "size time is to Value these are the results of the hard problem I gave you"
+  },
+  {
+    "startTime": 1286.88,
+    "endTime": 1293.039,
+    "text": "60 now or 50 in a month these are subjective values and what you can see is our two rules are preserved people"
+  },
+  {
+    "startTime": 1293.039,
+    "endTime": 1299.0,
+    "text": "always think more is better than less 60 is always better than 50 and they always think Now is better than later the bars"
+  },
+  {
+    "startTime": 1299.0,
+    "endTime": 1304.84,
+    "text": "on this side are higher than the bars on this side watch what happens when we drop some out suddenly we have the"
+  },
+  {
+    "startTime": 1304.84,
+    "endTime": 1312.32,
+    "text": "dynamic and consistency that puzzled us we have the tendency for people to go for $50 now over waiting a month but not"
+  },
+  {
+    "startTime": 1312.32,
+    "endTime": 1319.08,
+    "text": "if that decision is far in the future notice something interesting that this implies namely that when people"
+  },
+  {
+    "startTime": 1319.08,
+    "endTime": 1326.0,
+    "text": "get to the Future they will change their minds that is as that month 12 approaches you will say what was I"
+  },
+  {
+    "startTime": 1326.0,
+    "endTime": 1332.52,
+    "text": "thinking waiting an extra month for $60 I'll take the $50 now well the question"
+  },
+  {
+    "startTime": 1332.52,
+    "endTime": 1338.36,
+    "text": "with which I'd like to end is this if we're so damn stupid how did we get to the moon because I could go on for about"
+  },
+  {
+    "startTime": 1338.36,
+    "endTime": 1343.799,
+    "text": "two hours with evidence of people's inability to uh estimate odds and"
+  },
+  {
+    "startTime": 1343.799,
+    "endTime": 1348.84,
+    "text": "inability to estimate value the answer to this question I think is an answer you've already heard in some some of the"
+  },
+  {
+    "startTime": 1348.84,
+    "endTime": 1355.24,
+    "text": "talks and I dare say you will hear again namely that our brains were evolved for a very different world than the one in"
+  },
+  {
+    "startTime": 1355.24,
+    "endTime": 1361.4,
+    "text": "which we are living they were evolved for a world in which people lived in very small groups rarely met anybody who"
+  },
+  {
+    "startTime": 1361.4,
+    "endTime": 1367.6,
+    "text": "was terribly different from themselves had rather short lives in which there were few choices and the highest"
+  },
+  {
+    "startTime": 1367.6,
+    "endTime": 1375.64,
+    "text": "priority was to eat and mate today Bern's gift Bern's little formula allows"
+  },
+  {
+    "startTime": 1375.64,
+    "endTime": 1381.48,
+    "text": "us it tells us how we should think in a world for which nature never designed us"
+  },
+  {
+    "startTime": 1381.48,
+    "endTime": 1389.559,
+    "text": "that explains why we are so bad at using it but it also explains why it is so terribly important that we become good"
+  },
+  {
+    "startTime": 1389.559,
+    "endTime": 1395.44,
+    "text": "fast we are the only species on this planet that has ever held its own fate"
+  },
+  {
+    "startTime": 1395.44,
+    "endTime": 1400.88,
+    "text": "in its hands we have no significant Predators we are the masters of our physical environment the things that"
+  },
+  {
+    "startTime": 1400.88,
+    "endTime": 1407.24,
+    "text": "normally cause species to become extinct are no longer any threat to us the only"
+  },
+  {
+    "startTime": 1407.24,
+    "endTime": 1413.64,
+    "text": "thing the only thing that can destroy us and doom us are our own decisions if"
+  },
+  {
+    "startTime": 1413.64,
+    "endTime": 1421.6,
+    "text": "we're not here in 10,000 years it's going to be because we could not take advantage of the gift given to us by a"
+  },
+  {
+    "startTime": 1421.6,
+    "endTime": 1427.919,
+    "text": "young Dutch fellow in 1738 because we underestimated the odds of our future"
+  },
+  {
+    "startTime": 1427.919,
+    "endTime": 1435.6,
+    "text": "pains and overestimated the value of our present Pleasures thank you"
+  },
+  {
+    "startTime": 1437.4,
+    "endTime": 1440.63,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 1443.32,
+    "endTime": 1449.24,
+    "text": "that was that was remarkable we had time for some questions for Dan Gilbert um"
+  },
+  {
+    "startTime": 1449.24,
+    "endTime": 1455.88,
+    "text": "one and two uh bil Le would you say that this mechanism is in part how terrorism"
+  },
+  {
+    "startTime": 1455.88,
+    "endTime": 1461.12,
+    "text": "actually works to to frighten us and is there some way that we could counteract"
+  },
+  {
+    "startTime": 1461.12,
+    "endTime": 1466.96,
+    "text": "that I actually was uh Consulting recently with the Department of Homeland Security which generally believes that"
+  },
+  {
+    "startTime": 1466.96,
+    "endTime": 1474.08,
+    "text": "uh American Security should go to making borders safer I tried to point out to them that terrorism was a name based on"
+  },
+  {
+    "startTime": 1474.08,
+    "endTime": 1479.52,
+    "text": "people's psychological reaction to a set of events and that if they were concerned about terrorism they might ask"
+  },
+  {
+    "startTime": 1479.52,
+    "endTime": 1485.679,
+    "text": "what causes Terror and how can we stop people from being terrified rather than not rather than but in addition to"
+  },
+  {
+    "startTime": 1485.679,
+    "endTime": 1493.2,
+    "text": "stopping the atrocities that we're all concerned about surely the kinds of uh of a play that at least American Media"
+  },
+  {
+    "startTime": 1493.2,
+    "endTime": 1499.12,
+    "text": "give to and forgive me but in stat in raw numbers these are very accds we"
+  },
+  {
+    "startTime": 1499.12,
+    "endTime": 1505.159,
+    "text": "already know for example in the United States that more people have died as a result of not taking airplanes cuz"
+  },
+  {
+    "startTime": 1505.159,
+    "endTime": 1511.919,
+    "text": "they're scared and driving on highways then we're killed in 911 okay if I told you that there was a plague that was"
+  },
+  {
+    "startTime": 1511.919,
+    "endTime": 1518.24,
+    "text": "going to kill 15,000 Americans next year you might be alarmed if you didn't find out it was the flu these are smallscale"
+  },
+  {
+    "startTime": 1518.24,
+    "endTime": 1525.039,
+    "text": "accidents and we should be wondering whether they should get the kind of play the kind of coverage that they do surely"
+  },
+  {
+    "startTime": 1525.039,
+    "endTime": 1530.12,
+    "text": "that causes people to overestimate the likelihood that they'll be hurt uh in these various ways and gives power to"
+  },
+  {
+    "startTime": 1530.12,
+    "endTime": 1535.919,
+    "text": "the very people who want to frighten us I'd like to hear more on this so you're saying that our response to terror is"
+  },
+  {
+    "startTime": 1535.919,
+    "endTime": 1541.84,
+    "text": "it's a form of mental bug what it's outsized I mean look if Australia"
+  },
+  {
+    "startTime": 1541.84,
+    "endTime": 1548.159,
+    "text": "disappears tomorrow terror is probably the right response that's an awful large lot of very nice"
+  },
+  {
+    "startTime": 1548.159,
+    "endTime": 1554.039,
+    "text": "people on the other hand uh when a bus blows up and 30 people are killed more"
+  },
+  {
+    "startTime": 1554.039,
+    "endTime": 1559.76,
+    "text": "people than that were killed by not using their seat belts in the same country is the right response what"
+  },
+  {
+    "startTime": 1559.76,
+    "endTime": 1566.44,
+    "text": "causes the bug is it the drama of the event that it's so spectacular is it the fact that it's an intentional attack by"
+  },
+  {
+    "startTime": 1566.44,
+    "endTime": 1573.08,
+    "text": "quote Outsiders what is it yes it it's a number of things and you hit on several of them first it's a human agent trying"
+  },
+  {
+    "startTime": 1573.08,
+    "endTime": 1579.64,
+    "text": "to kill us it's not a tree falling on us by accident uh second these are enemies who may want to strike and hurt us again"
+  },
+  {
+    "startTime": 1579.64,
+    "endTime": 1584.679,
+    "text": "uh people are being killed for no reason instead of good reason as if there's good reason but sometimes people think"
+  },
+  {
+    "startTime": 1584.679,
+    "endTime": 1590.399,
+    "text": "there are so there are a number of things that together make this seem like a fantastic event but let's not play"
+  },
+  {
+    "startTime": 1590.399,
+    "endTime": 1596.72,
+    "text": "down the fact that newspapers sell when people see something in it they want to read so there's a large role here played"
+  },
+  {
+    "startTime": 1596.72,
+    "endTime": 1603.76,
+    "text": "by the media who want who want these things to be as spectacular as they possibly can I mean what would it take"
+  },
+  {
+    "startTime": 1603.76,
+    "endTime": 1610.2,
+    "text": "to persuade our culture to downplay it well go to Israel you"
+  },
+  {
+    "startTime": 1610.2,
+    "endTime": 1615.72,
+    "text": "know go to Israel and a allall blows up and then everybody's unhappy about it and an hour and a half later at least"
+  },
+  {
+    "startTime": 1615.72,
+    "endTime": 1621.919,
+    "text": "when I was there and I was 150 ft from the mall when it blew up I went back to my hotel and uh the wedding that was"
+  },
+  {
+    "startTime": 1621.919,
+    "endTime": 1627.48,
+    "text": "planned was still going on and as the Israeli mother said she said we never let them win by stopping uh stopping"
+  },
+  {
+    "startTime": 1627.48,
+    "endTime": 1634.159,
+    "text": "weddings I mean this is a society that's learned and there are others too that has learned to live with a certain amount of terrorism and not be quite as"
+  },
+  {
+    "startTime": 1634.159,
+    "endTime": 1641.279,
+    "text": "uh uh upset by it shall I say as those of us who've not had many Terror attacks but isn't is there a rational a rational"
+  },
+  {
+    "startTime": 1641.279,
+    "endTime": 1646.799,
+    "text": "fear that actually the reason we're frightened about this is because we think that the big one is to come yes of"
+  },
+  {
+    "startTime": 1646.799,
+    "endTime": 1653.399,
+    "text": "course so uh if we if we knew that this was the worst attack there would ever be there might be more and more buses of 30"
+  },
+  {
+    "startTime": 1653.399,
+    "endTime": 1658.919,
+    "text": "people we would probably not be nearly so frightened I don't want to say please I'm going to get quoted somewhere as"
+  },
+  {
+    "startTime": 1658.919,
+    "endTime": 1665.159,
+    "text": "saying terrorism is fine and we shouldn't be so distressed that's not my point at all what I'm saying is that"
+  },
+  {
+    "startTime": 1665.159,
+    "endTime": 1672.559,
+    "text": "surely rationally our distress about things that happen about threats should be roughly proportional to the size of"
+  },
+  {
+    "startTime": 1672.559,
+    "endTime": 1677.72,
+    "text": "those threats and threats to come I think in the case of terrorism it isn't"
+  },
+  {
+    "startTime": 1677.72,
+    "endTime": 1683.6,
+    "text": "and many of the things we've heard about from our speakers today how many people do you know got up and said poverty I"
+  },
+  {
+    "startTime": 1683.6,
+    "endTime": 1690.12,
+    "text": "can't believe what poverty is doing to this people get up in the morning they don't care about poverty it's not making headlines not making news it's not"
+  },
+  {
+    "startTime": 1690.12,
+    "endTime": 1695.279,
+    "text": "flashy there are no guns going off I mean if you had to solve one of these problems Chris which would you solve"
+  },
+  {
+    "startTime": 1695.279,
+    "endTime": 1697.919,
+    "text": "terrorism or"
+  },
+  {
+    "startTime": 1701.32,
+    "endTime": 1706.399,
+    "text": "poverty that's a tough one yeah there's no question po poverty"
+  },
+  {
+    "startTime": 1706.399,
+    "endTime": 1712.0,
+    "text": "by by an order of magnitude a huge or unless someone can show that that"
+  },
+  {
+    "startTime": 1712.0,
+    "endTime": 1717.039,
+    "text": "there's you know terrorists with a nuke are are really likely to come the latest"
+  },
+  {
+    "startTime": 1717.039,
+    "endTime": 1723.159,
+    "text": "I've read seen thought is that it's incredibly right incredibly hard for them to do that if that turns out to be"
+  },
+  {
+    "startTime": 1723.159,
+    "endTime": 1730.6,
+    "text": "wrong we all look silly but poverty it's even if that were true still more people will die from"
+  },
+  {
+    "startTime": 1731.96,
+    "endTime": 1738.32,
+    "text": "poverty we have evolved to get all excited about these dramatic attacks is that because in the past in the H of"
+  },
+  {
+    "startTime": 1738.32,
+    "endTime": 1746.0,
+    "text": "past we just didn't understand things like disease and systems that cause poverty and so forth and so it made no sense for us as as as a species to put"
+  },
+  {
+    "startTime": 1746.0,
+    "endTime": 1751.519,
+    "text": "any energy into worrying about those things people died so be it but if if you got attacked that was something you"
+  },
+  {
+    "startTime": 1751.519,
+    "endTime": 1758.72,
+    "text": "could do something about and so we we evolved these responses is that what happened well you know the people who are uh most skeptical about leaping to"
+  },
+  {
+    "startTime": 1758.72,
+    "endTime": 1765.039,
+    "text": "evolutionary explanations for everything are the evolutionary psychologists themselves my guess is that there's nothing quite that specific in our"
+  },
+  {
+    "startTime": 1765.039,
+    "endTime": 1771.32,
+    "text": "evolutionary past but rather if you're looking for an evolutionary explanation you might say that uh most organisms are"
+  },
+  {
+    "startTime": 1771.32,
+    "endTime": 1777.88,
+    "text": "neophobic that is they're a little scared of stuff that's new and different and there's a good reason to be because old stuff didn't eat you right any"
+  },
+  {
+    "startTime": 1777.88,
+    "endTime": 1783.44,
+    "text": "animal you see that you've seen before it is less likely to be a predator than one that you've never seen before so you"
+  },
+  {
+    "startTime": 1783.44,
+    "endTime": 1789.279,
+    "text": "know when a school bus has blown up and we've never seen this before our general tendency to orient towards that's which"
+  },
+  {
+    "startTime": 1789.279,
+    "endTime": 1795.32,
+    "text": "that which is new and novel uh I think is uh activated I don't think it's quite as specific a mechanism as the one you"
+  },
+  {
+    "startTime": 1795.32,
+    "endTime": 1800.039,
+    "text": "alluded to but maybe a more fundamental one underlying it"
+  },
+  {
+    "startTime": 1801.2,
+    "endTime": 1807.88,
+    "text": "hi Jay Jay Walker um you know economists love to talk about the stupidity of"
+  },
+  {
+    "startTime": 1807.88,
+    "endTime": 1813.159,
+    "text": "people who buy lottery tickets but I suspect you're making the exact same era you're accusing those people of which is"
+  },
+  {
+    "startTime": 1813.159,
+    "endTime": 1818.24,
+    "text": "the error of value I know cuz I've interviewed about a thousand Lottery buyers over the years it turns out that"
+  },
+  {
+    "startTime": 1818.24,
+    "endTime": 1823.919,
+    "text": "the value of buying the lottery ticket is not winning that's what you think it is all right the average Lottery buyer"
+  },
+  {
+    "startTime": 1823.919,
+    "endTime": 1831.559,
+    "text": "buys about 150 tickets a year so the buyer knows full well that he she is going to lose and yet she buys 150"
+  },
+  {
+    "startTime": 1831.559,
+    "endTime": 1836.799,
+    "text": "tickets a year why is that it's not because she is stupid or he is stupid"
+  },
+  {
+    "startTime": 1836.799,
+    "endTime": 1843.799,
+    "text": "it's because the anticipation of possibly winning releases serotonin in the brain and actually provides a good"
+  },
+  {
+    "startTime": 1843.799,
+    "endTime": 1850.279,
+    "text": "feeling until the drawing indicates you've lost or to put it another way for the dollar investment you can have a"
+  },
+  {
+    "startTime": 1850.279,
+    "endTime": 1856.36,
+    "text": "much better feeling than flushing the money down the toilet which you cannot have a good feeling for now economists"
+  },
+  {
+    "startTime": 1856.36,
+    "endTime": 1863.519,
+    "text": "tend to economists tend to view the world through their own lenses which is this"
+  },
+  {
+    "startTime": 1863.519,
+    "endTime": 1870.0,
+    "text": "is just a bunch of stupid people and as a result many people look at economists as stupid people and so"
+  },
+  {
+    "startTime": 1870.0,
+    "endTime": 1876.518,
+    "text": "fundamentally the reason we got to the Moon is we didn't listen to the economists thank you very"
+  },
+  {
+    "startTime": 1879.36,
+    "endTime": 1885.279,
+    "text": "much well no it's a great Point uh it remains to be seen whether the uh uh Joy"
+  },
+  {
+    "startTime": 1885.279,
+    "endTime": 1890.76,
+    "text": "of anticipation is exactly equal by the amount of disappointment after the lottery remember people who didn't buy"
+  },
+  {
+    "startTime": 1890.76,
+    "endTime": 1896.96,
+    "text": "tickets don't feel awful the next day either even though they don't feel great during the drawing I would disagree that people know they're not going to win I"
+  },
+  {
+    "startTime": 1896.96,
+    "endTime": 1904.279,
+    "text": "think they think it's unlikely but it could happen which is why they prefer that to the flushing uh but certainly I"
+  },
+  {
+    "startTime": 1904.279,
+    "endTime": 1911.88,
+    "text": "see your point that there can be some utility to buying a lottery ticket other than winning now I think there's many"
+  },
+  {
+    "startTime": 1911.88,
+    "endTime": 1918.72,
+    "text": "good reasons not to listen to economists that isn't one of them for me but there's many others last question"
+  },
+  {
+    "startTime": 1918.72,
+    "endTime": 1925.36,
+    "text": "my name is OB Gray from Cambridge um I work on the thing that kills more people than anyone anything else kills I work"
+  },
+  {
+    "startTime": 1925.36,
+    "endTime": 1930.96,
+    "text": "on aging and I'm interested in doing something about it as we'll all hear tomorrow um I very much um resonate with"
+  },
+  {
+    "startTime": 1930.96,
+    "endTime": 1936.24,
+    "text": "what you're saying because it seems to me that the problem with getting people interested in doing anything about aging"
+  },
+  {
+    "startTime": 1936.24,
+    "endTime": 1943.2,
+    "text": "is that by the time aging is about to kill you it looks like cancer or heart disease or whatever uh do you have any"
+  },
+  {
+    "startTime": 1943.919,
+    "endTime": 1949.159,
+    "text": "advice for you or for them in persuading them ah you and persuading them well"
+  },
+  {
+    "startTime": 1949.159,
+    "endTime": 1955.72,
+    "text": "it's notoriously difficult to get people to be farsighted but one thing that uh psychologists have tried that seems to"
+  },
+  {
+    "startTime": 1955.72,
+    "endTime": 1962.159,
+    "text": "work is to get people to imagine the future more vividly one of the problems with uh making decisions about the far"
+  },
+  {
+    "startTime": 1962.159,
+    "endTime": 1967.399,
+    "text": "future and the near future is that we imagine the near future much more vividly than the far future to the"
+  },
+  {
+    "startTime": 1967.399,
+    "endTime": 1973.279,
+    "text": "extent that you can equalize the uh amount of detail that people put into their mental representations of near and"
+  },
+  {
+    "startTime": 1973.279,
+    "endTime": 1979.2,
+    "text": "far future people begin to make decisions about the two in the same way so would you like like to uh have an"
+  },
+  {
+    "startTime": 1979.2,
+    "endTime": 1985.72,
+    "text": "extra $100,000 when you're 65 is a question that's very different than imagine who you'll be when you're 65"
+  },
+  {
+    "startTime": 1985.72,
+    "endTime": 1992.08,
+    "text": "where you will you be living uh what will you look like how much hair will you have who will you be living with once we have all the details of that"
+  },
+  {
+    "startTime": 1992.08,
+    "endTime": 1998.159,
+    "text": "imaginary scenario suddenly we feel like it might be important to save so that that guy has a little retirement money"
+  },
+  {
+    "startTime": 1998.159,
+    "endTime": 2003.24,
+    "text": "but these are tricks around the margins I think in general you're battling a very fundamental human tendency which is"
+  },
+  {
+    "startTime": 2003.24,
+    "endTime": 2009.519,
+    "text": "to say I'm here today and so now is more important than later um thank you"
+  },
+  {
+    "startTime": 2009.519,
+    "endTime": 2014.859,
+    "text": "members of the UN that was a fantastic session thank [Applause]"
+  },
+  {
+    "startTime": 2018.91,
+    "endTime": 2025.519,
+    "text": "[Music] you it's a sports"
+  },
+  {
+    "startTime": 2025.519,
+    "endTime": 2032.12,
+    "text": "car yet a sedan"
+  },
+  {
+    "startTime": 2032.12,
+    "endTime": 2039.399,
+    "text": "powerful yet fuele efficient modern yet TI"
+  },
+  {
+    "startTime": 2039.399,
+    "endTime": 2045.2,
+    "text": "introducing the new BMW 3 Series our most advanced"
+  },
+  {
+    "startTime": 2045.2,
+    "endTime": 2050.949,
+    "text": "3 yet [Music]"
+  }
+]

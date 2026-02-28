@@ -1,0 +1,2227 @@
+[
+  {
+    "startTime": 12.8,
+    "endTime": 15.96,
+    "text": "So in 1885, Carl Benz invented the"
+  },
+  {
+    "startTime": 15.96,
+    "endTime": 18.64,
+    "text": "automobile. Later that year, he took it"
+  },
+  {
+    "startTime": 18.64,
+    "endTime": 20.72,
+    "text": "out for the first public test drive and"
+  },
+  {
+    "startTime": 20.72,
+    "endTime": 23.24,
+    "text": "true story, crashed into a"
+  },
+  {
+    "startTime": 23.24,
+    "endTime": 26.96,
+    "text": "wall. For the last 130 years, we've been"
+  },
+  {
+    "startTime": 26.96,
+    "endTime": 28.88,
+    "text": "working around that least reliable part"
+  },
+  {
+    "startTime": 28.88,
+    "endTime": 30.8,
+    "text": "of the car. or the driver. We've made"
+  },
+  {
+    "startTime": 30.8,
+    "endTime": 33.04,
+    "text": "the car stronger. We've added seat"
+  },
+  {
+    "startTime": 33.04,
+    "endTime": 35.44,
+    "text": "belts. We've added airbags. And over the"
+  },
+  {
+    "startTime": 35.44,
+    "endTime": 37.04,
+    "text": "last kind of decade, we've actually"
+  },
+  {
+    "startTime": 37.04,
+    "endTime": 38.96,
+    "text": "started trying to make the car smarter"
+  },
+  {
+    "startTime": 38.96,
+    "endTime": 42.559,
+    "text": "to fix that bug, the driver. Now, today,"
+  },
+  {
+    "startTime": 42.559,
+    "endTime": 43.92,
+    "text": "I'm going to talk to you a little bit"
+  },
+  {
+    "startTime": 43.92,
+    "endTime": 46.48,
+    "text": "about the difference between patching"
+  },
+  {
+    "startTime": 46.48,
+    "endTime": 47.76,
+    "text": "around the problem with driver"
+  },
+  {
+    "startTime": 47.76,
+    "endTime": 49.76,
+    "text": "assistance systems and actually having"
+  },
+  {
+    "startTime": 49.76,
+    "endTime": 51.92,
+    "text": "fully self-driving cars and what they"
+  },
+  {
+    "startTime": 51.92,
+    "endTime": 54.559,
+    "text": "can do for the world. I'm also going to"
+  },
+  {
+    "startTime": 54.559,
+    "endTime": 56.16,
+    "text": "talk to you a little bit about our car"
+  },
+  {
+    "startTime": 56.16,
+    "endTime": 58.0,
+    "text": "and allow you to see how it sees the"
+  },
+  {
+    "startTime": 58.0,
+    "endTime": 59.92,
+    "text": "world and how it reacts and what it"
+  },
+  {
+    "startTime": 59.92,
+    "endTime": 61.68,
+    "text": "does. But first, I'm going to talk a"
+  },
+  {
+    "startTime": 61.68,
+    "endTime": 64.239,
+    "text": "little bit about the problem. And it's a"
+  },
+  {
+    "startTime": 64.239,
+    "endTime": 66.4,
+    "text": "big problem. 1.2 million people are"
+  },
+  {
+    "startTime": 66.4,
+    "endTime": 68.4,
+    "text": "killed on the world's roads every year."
+  },
+  {
+    "startTime": 68.4,
+    "endTime": 70.96,
+    "text": "In America alone, 33,000 people are"
+  },
+  {
+    "startTime": 70.96,
+    "endTime": 73.2,
+    "text": "killed each year. To put that in"
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 75.92,
+    "text": "perspective, that's the same as a 737"
+  },
+  {
+    "startTime": 75.92,
+    "endTime": 78.28,
+    "text": "falling out of the sky every working"
+  },
+  {
+    "startTime": 78.28,
+    "endTime": 81.6,
+    "text": "day. It's kind of unbelievable."
+  },
+  {
+    "startTime": 81.6,
+    "endTime": 84.4,
+    "text": "Cars are sold to us like this. But"
+  },
+  {
+    "startTime": 84.4,
+    "endTime": 86.64,
+    "text": "really, this is what driving is like,"
+  },
+  {
+    "startTime": 86.64,
+    "endTime": 88.88,
+    "text": "right? It's not sunny, it's rainy, and"
+  },
+  {
+    "startTime": 88.88,
+    "endTime": 90.24,
+    "text": "you want to do anything other than"
+  },
+  {
+    "startTime": 90.24,
+    "endTime": 92.88,
+    "text": "drive. And the reason why is this."
+  },
+  {
+    "startTime": 92.88,
+    "endTime": 95.92,
+    "text": "Traffic is getting worse. In America,"
+  },
+  {
+    "startTime": 95.92,
+    "endTime": 99.28,
+    "text": "between 1990 and 2010, the vehicle miles"
+  },
+  {
+    "startTime": 99.28,
+    "endTime": 101.479,
+    "text": "traveled increased by"
+  },
+  {
+    "startTime": 101.479,
+    "endTime": 105.52,
+    "text": "38%. We grew by 6% of roads. So, it's"
+  },
+  {
+    "startTime": 105.52,
+    "endTime": 108.0,
+    "text": "not in your brains. traffic really is"
+  },
+  {
+    "startTime": 108.0,
+    "endTime": 110.0,
+    "text": "substantially worse than it was not very"
+  },
+  {
+    "startTime": 110.0,
+    "endTime": 112.159,
+    "text": "long ago. And all of this has a very"
+  },
+  {
+    "startTime": 112.159,
+    "endTime": 115.2,
+    "text": "human cost. So if you take the average"
+  },
+  {
+    "startTime": 115.2,
+    "endTime": 116.64,
+    "text": "commute time in America, which is about"
+  },
+  {
+    "startTime": 116.64,
+    "endTime": 119.52,
+    "text": "50 minutes, you multiply that by the 120"
+  },
+  {
+    "startTime": 119.52,
+    "endTime": 121.68,
+    "text": "million workers we have, that turns out"
+  },
+  {
+    "startTime": 121.68,
+    "endTime": 124.159,
+    "text": "to be about 6 billion minutes wasted in"
+  },
+  {
+    "startTime": 124.159,
+    "endTime": 125.92,
+    "text": "commuting every day. Now that's a big"
+  },
+  {
+    "startTime": 125.92,
+    "endTime": 127.92,
+    "text": "number. So let's put it in perspective."
+  },
+  {
+    "startTime": 127.92,
+    "endTime": 130.56,
+    "text": "You take that 6 billion minutes and you"
+  },
+  {
+    "startTime": 130.56,
+    "endTime": 132.959,
+    "text": "divide it by the average life expectancy"
+  },
+  {
+    "startTime": 132.959,
+    "endTime": 136.239,
+    "text": "of a person. That turns out to be 162"
+  },
+  {
+    "startTime": 136.239,
+    "endTime": 140.16,
+    "text": "lifetimes spent every day wasted just"
+  },
+  {
+    "startTime": 140.16,
+    "endTime": 143.0,
+    "text": "getting from A to B. It's"
+  },
+  {
+    "startTime": 143.0,
+    "endTime": 144.959,
+    "text": "unbelievable. And then there are those"
+  },
+  {
+    "startTime": 144.959,
+    "endTime": 146.8,
+    "text": "of us who don't have the privilege of"
+  },
+  {
+    "startTime": 146.8,
+    "endTime": 149.04,
+    "text": "sitting in traffic. So this is Steve."
+  },
+  {
+    "startTime": 149.04,
+    "endTime": 152.319,
+    "text": "He's an incredibly capable guy, but he"
+  },
+  {
+    "startTime": 152.319,
+    "endTime": 154.48,
+    "text": "just happens to be blind. And that means"
+  },
+  {
+    "startTime": 154.48,
+    "endTime": 156.56,
+    "text": "instead of a 30inut drive to work in the"
+  },
+  {
+    "startTime": 156.56,
+    "endTime": 159.36,
+    "text": "morning, it's a 2-hour ordeal of piecing"
+  },
+  {
+    "startTime": 159.36,
+    "endTime": 161.36,
+    "text": "together bits of public transit or"
+  },
+  {
+    "startTime": 161.36,
+    "endTime": 163.84,
+    "text": "asking friends and family for a ride. he"
+  },
+  {
+    "startTime": 163.84,
+    "endTime": 165.519,
+    "text": "doesn't have that same freedom that you"
+  },
+  {
+    "startTime": 165.519,
+    "endTime": 167.84,
+    "text": "and I have to get around. We should do"
+  },
+  {
+    "startTime": 167.84,
+    "endTime": 168.84,
+    "text": "something about"
+  },
+  {
+    "startTime": 168.84,
+    "endTime": 171.76,
+    "text": "that. Now, conventional wisdom would say"
+  },
+  {
+    "startTime": 171.76,
+    "endTime": 173.36,
+    "text": "that we'll just take these driver"
+  },
+  {
+    "startTime": 173.36,
+    "endTime": 175.36,
+    "text": "assisted systems and we'll kind of push"
+  },
+  {
+    "startTime": 175.36,
+    "endTime": 177.519,
+    "text": "them and incrementally improve them and"
+  },
+  {
+    "startTime": 177.519,
+    "endTime": 179.72,
+    "text": "over time they'll turn into self-driving"
+  },
+  {
+    "startTime": 179.72,
+    "endTime": 181.84,
+    "text": "cars. Well, I'm here to tell you that's"
+  },
+  {
+    "startTime": 181.84,
+    "endTime": 183.84,
+    "text": "like me saying that if I work really"
+  },
+  {
+    "startTime": 183.84,
+    "endTime": 186.319,
+    "text": "hard at jumping, one day I'll be able to"
+  },
+  {
+    "startTime": 186.319,
+    "endTime": 188.56,
+    "text": "fly, right? We actually need to do"
+  },
+  {
+    "startTime": 188.56,
+    "endTime": 190.159,
+    "text": "something a little different. And so I'm"
+  },
+  {
+    "startTime": 190.159,
+    "endTime": 191.2,
+    "text": "going to talk to you about three"
+  },
+  {
+    "startTime": 191.2,
+    "endTime": 193.04,
+    "text": "different ways that self-driving systems"
+  },
+  {
+    "startTime": 193.04,
+    "endTime": 195.08,
+    "text": "are different than driver assistance"
+  },
+  {
+    "startTime": 195.08,
+    "endTime": 196.959,
+    "text": "systems. I'm going to start with some of"
+  },
+  {
+    "startTime": 196.959,
+    "endTime": 200.879,
+    "text": "our own experience. So back in 2013, we"
+  },
+  {
+    "startTime": 200.879,
+    "endTime": 202.879,
+    "text": "had the first test of a self-driving car"
+  },
+  {
+    "startTime": 202.879,
+    "endTime": 204.56,
+    "text": "where we kind of let regular people use"
+  },
+  {
+    "startTime": 204.56,
+    "endTime": 206.879,
+    "text": "it. Well, almost regular. There were 100"
+  },
+  {
+    "startTime": 206.879,
+    "endTime": 208.48,
+    "text": "Googlers, but they weren't working on"
+  },
+  {
+    "startTime": 208.48,
+    "endTime": 210.4,
+    "text": "the project. And we gave them the car"
+  },
+  {
+    "startTime": 210.4,
+    "endTime": 211.68,
+    "text": "and we allowed them to use it in their"
+  },
+  {
+    "startTime": 211.68,
+    "endTime": 213.599,
+    "text": "daily lives. But unlike a real"
+  },
+  {
+    "startTime": 213.599,
+    "endTime": 215.599,
+    "text": "self-driving car, this one had a big"
+  },
+  {
+    "startTime": 215.599,
+    "endTime": 217.519,
+    "text": "asterisk with it. They had to pay"
+  },
+  {
+    "startTime": 217.519,
+    "endTime": 218.959,
+    "text": "attention because this was an"
+  },
+  {
+    "startTime": 218.959,
+    "endTime": 221.2,
+    "text": "experimental vehicle. And you know, we"
+  },
+  {
+    "startTime": 221.2,
+    "endTime": 223.64,
+    "text": "tested it a lot, but it could still"
+  },
+  {
+    "startTime": 223.64,
+    "endTime": 226.0,
+    "text": "fail. And so we gave them two hours of"
+  },
+  {
+    "startTime": 226.0,
+    "endTime": 227.599,
+    "text": "training. We put them in the car. We let"
+  },
+  {
+    "startTime": 227.599,
+    "endTime": 230.0,
+    "text": "them use it. And what we heard back was"
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 231.44,
+    "text": "something awesome, right? As someone"
+  },
+  {
+    "startTime": 231.44,
+    "endTime": 232.64,
+    "text": "trying to bring a product into the"
+  },
+  {
+    "startTime": 232.64,
+    "endTime": 234.4,
+    "text": "world. Every one of them told us they"
+  },
+  {
+    "startTime": 234.4,
+    "endTime": 236.159,
+    "text": "loved it. In fact, we had a Porsche"
+  },
+  {
+    "startTime": 236.159,
+    "endTime": 238.0,
+    "text": "driver who came in and stole this on the"
+  },
+  {
+    "startTime": 238.0,
+    "endTime": 240.08,
+    "text": "first day. This is completely stupid."
+  },
+  {
+    "startTime": 240.08,
+    "endTime": 242.4,
+    "text": "What are we thinking? Right? But at the"
+  },
+  {
+    "startTime": 242.4,
+    "endTime": 243.92,
+    "text": "end of it, he said, \"Not only should I"
+  },
+  {
+    "startTime": 243.92,
+    "endTime": 245.519,
+    "text": "have it, everyone else should have it"
+  },
+  {
+    "startTime": 245.519,
+    "endTime": 247.959,
+    "text": "because people are terrible"
+  },
+  {
+    "startTime": 247.959,
+    "endTime": 251.12,
+    "text": "drivers.\" So this was music to our ears."
+  },
+  {
+    "startTime": 251.12,
+    "endTime": 253.12,
+    "text": "But then we started to look at what the"
+  },
+  {
+    "startTime": 253.12,
+    "endTime": 255.12,
+    "text": "people inside the car were doing. And"
+  },
+  {
+    "startTime": 255.12,
+    "endTime": 256.959,
+    "text": "this was eye opening. Now, my favorite"
+  },
+  {
+    "startTime": 256.959,
+    "endTime": 259.359,
+    "text": "story is this gentleman who looks down"
+  },
+  {
+    "startTime": 259.359,
+    "endTime": 261.519,
+    "text": "at his phone and realizes that the"
+  },
+  {
+    "startTime": 261.519,
+    "endTime": 263.919,
+    "text": "battery's low. And so he turns around"
+  },
+  {
+    "startTime": 263.919,
+    "endTime": 266.24,
+    "text": "like this in the car and digs around in"
+  },
+  {
+    "startTime": 266.24,
+    "endTime": 269.12,
+    "text": "his backpack, pulls out his laptop, puts"
+  },
+  {
+    "startTime": 269.12,
+    "endTime": 272.4,
+    "text": "it on the seat, goes in the back again,"
+  },
+  {
+    "startTime": 272.4,
+    "endTime": 274.56,
+    "text": "digs around, pulls out the charging"
+  },
+  {
+    "startTime": 274.56,
+    "endTime": 276.96,
+    "text": "cable for his phone, futes around, puts"
+  },
+  {
+    "startTime": 276.96,
+    "endTime": 278.72,
+    "text": "it into the laptop, puts it in the"
+  },
+  {
+    "startTime": 278.72,
+    "endTime": 281.52,
+    "text": "phone. Sure enough, phone is charging."
+  },
+  {
+    "startTime": 281.52,
+    "endTime": 284.0,
+    "text": "All the time he's been doing 65 mph down"
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 286.68,
+    "text": "the freeway, right?"
+  },
+  {
+    "startTime": 286.68,
+    "endTime": 288.56,
+    "text": "Unbelievable. So we thought about this"
+  },
+  {
+    "startTime": 288.56,
+    "endTime": 290.479,
+    "text": "and we said, you know, and it's kind of"
+  },
+  {
+    "startTime": 290.479,
+    "endTime": 291.759,
+    "text": "obvious, right? The better the"
+  },
+  {
+    "startTime": 291.759,
+    "endTime": 294.32,
+    "text": "technology gets, the less reliable the"
+  },
+  {
+    "startTime": 294.32,
+    "endTime": 296.0,
+    "text": "driver is going to get. So, by just"
+  },
+  {
+    "startTime": 296.0,
+    "endTime": 297.84,
+    "text": "making the cars incrementally smarter,"
+  },
+  {
+    "startTime": 297.84,
+    "endTime": 299.36,
+    "text": "we're probably not going to see the wins"
+  },
+  {
+    "startTime": 299.36,
+    "endTime": 300.36,
+    "text": "we really"
+  },
+  {
+    "startTime": 300.36,
+    "endTime": 303.04,
+    "text": "need. Let me talk about something a"
+  },
+  {
+    "startTime": 303.04,
+    "endTime": 304.88,
+    "text": "little technical for a moment here. So,"
+  },
+  {
+    "startTime": 304.88,
+    "endTime": 306.16,
+    "text": "we're looking at this graph and along"
+  },
+  {
+    "startTime": 306.16,
+    "endTime": 308.16,
+    "text": "the bottom is how often does the car"
+  },
+  {
+    "startTime": 308.16,
+    "endTime": 310.0,
+    "text": "apply the brakes when it shouldn't."
+  },
+  {
+    "startTime": 310.0,
+    "endTime": 311.759,
+    "text": "Right? You can ignore most of that axis"
+  },
+  {
+    "startTime": 311.759,
+    "endTime": 312.96,
+    "text": "because if you're driving around town"
+  },
+  {
+    "startTime": 312.96,
+    "endTime": 315.36,
+    "text": "and the car starts stopping randomly,"
+  },
+  {
+    "startTime": 315.36,
+    "endTime": 317.44,
+    "text": "you're never going to buy that car. And"
+  },
+  {
+    "startTime": 317.44,
+    "endTime": 319.36,
+    "text": "the vertical axis is how often the car"
+  },
+  {
+    "startTime": 319.36,
+    "endTime": 320.88,
+    "text": "is going to apply the brakes when it's"
+  },
+  {
+    "startTime": 320.88,
+    "endTime": 322.84,
+    "text": "supposed to to help you avoid an"
+  },
+  {
+    "startTime": 322.84,
+    "endTime": 324.88,
+    "text": "accident. Now, if we look in the bottom"
+  },
+  {
+    "startTime": 324.88,
+    "endTime": 326.4,
+    "text": "left corner here, this is kind of your"
+  },
+  {
+    "startTime": 326.4,
+    "endTime": 328.639,
+    "text": "classic car. It doesn't apply the brakes"
+  },
+  {
+    "startTime": 328.639,
+    "endTime": 330.32,
+    "text": "for you. It doesn't do anything goofy,"
+  },
+  {
+    "startTime": 330.32,
+    "endTime": 332.4,
+    "text": "but it also doesn't get you out of an"
+  },
+  {
+    "startTime": 332.4,
+    "endTime": 333.759,
+    "text": "accident."
+  },
+  {
+    "startTime": 333.759,
+    "endTime": 335.039,
+    "text": "Now, if we want to bring a driver"
+  },
+  {
+    "startTime": 335.039,
+    "endTime": 336.4,
+    "text": "assistance system into a car, say it's"
+  },
+  {
+    "startTime": 336.4,
+    "endTime": 338.08,
+    "text": "collision mitigation, braking, we're"
+  },
+  {
+    "startTime": 338.08,
+    "endTime": 339.68,
+    "text": "going to put some package of technology"
+  },
+  {
+    "startTime": 339.68,
+    "endTime": 341.28,
+    "text": "on there, and that's this curve, and"
+  },
+  {
+    "startTime": 341.28,
+    "endTime": 342.479,
+    "text": "it's going to have some operating"
+  },
+  {
+    "startTime": 342.479,
+    "endTime": 344.32,
+    "text": "properties, but it's never going to"
+  },
+  {
+    "startTime": 344.32,
+    "endTime": 346.0,
+    "text": "avoid all of the accidents because it"
+  },
+  {
+    "startTime": 346.0,
+    "endTime": 347.919,
+    "text": "doesn't have that capability. But we'll"
+  },
+  {
+    "startTime": 347.919,
+    "endTime": 349.759,
+    "text": "pick some place along the curve here,"
+  },
+  {
+    "startTime": 349.759,
+    "endTime": 351.68,
+    "text": "and maybe it avoids half of accidents"
+  },
+  {
+    "startTime": 351.68,
+    "endTime": 353.68,
+    "text": "that the human driver misses. And that's"
+  },
+  {
+    "startTime": 353.68,
+    "endTime": 355.52,
+    "text": "amazing, right? We just reduced"
+  },
+  {
+    "startTime": 355.52,
+    "endTime": 358.32,
+    "text": "accidents on a road by a factor of two."
+  },
+  {
+    "startTime": 358.32,
+    "endTime": 360.479,
+    "text": "There's now 17,000 less people dying"
+  },
+  {
+    "startTime": 360.479,
+    "endTime": 362.56,
+    "text": "every year in America."
+  },
+  {
+    "startTime": 362.56,
+    "endTime": 364.88,
+    "text": "But if we want a self-driving car, we"
+  },
+  {
+    "startTime": 364.88,
+    "endTime": 366.56,
+    "text": "need a technology curve that looks like"
+  },
+  {
+    "startTime": 366.56,
+    "endTime": 367.759,
+    "text": "this. We're going to have to put more"
+  },
+  {
+    "startTime": 367.759,
+    "endTime": 369.52,
+    "text": "sensors in the vehicle. And we'll pick"
+  },
+  {
+    "startTime": 369.52,
+    "endTime": 371.44,
+    "text": "some operating point up here where it"
+  },
+  {
+    "startTime": 371.44,
+    "endTime": 373.68,
+    "text": "basically never gets into a crash. It'll"
+  },
+  {
+    "startTime": 373.68,
+    "endTime": 376.0,
+    "text": "still happen, but very low frequency."
+  },
+  {
+    "startTime": 376.0,
+    "endTime": 377.28,
+    "text": "Now, you and I could look at this and we"
+  },
+  {
+    "startTime": 377.28,
+    "endTime": 378.24,
+    "text": "could argue about whether it's"
+  },
+  {
+    "startTime": 378.24,
+    "endTime": 379.68,
+    "text": "incremental. And I could say something"
+  },
+  {
+    "startTime": 379.68,
+    "endTime": 381.759,
+    "text": "like 8020 rule and it's really hard to"
+  },
+  {
+    "startTime": 381.759,
+    "endTime": 383.919,
+    "text": "move up to that new curve. But let's"
+  },
+  {
+    "startTime": 383.919,
+    "endTime": 385.44,
+    "text": "look at it from a different direction"
+  },
+  {
+    "startTime": 385.44,
+    "endTime": 388.24,
+    "text": "for a moment. So let's look at how often"
+  },
+  {
+    "startTime": 388.24,
+    "endTime": 390.16,
+    "text": "the technology has to do the right"
+  },
+  {
+    "startTime": 390.16,
+    "endTime": 392.479,
+    "text": "thing. And so this green dot up here is"
+  },
+  {
+    "startTime": 392.479,
+    "endTime": 395.039,
+    "text": "a driver assistance system. It turns out"
+  },
+  {
+    "startTime": 395.039,
+    "endTime": 398.16,
+    "text": "that human drivers make mistakes that"
+  },
+  {
+    "startTime": 398.16,
+    "endTime": 400.72,
+    "text": "lead to traffic accidents about once"
+  },
+  {
+    "startTime": 400.72,
+    "endTime": 404.4,
+    "text": "every 100,000 m in America. In contrast,"
+  },
+  {
+    "startTime": 404.4,
+    "endTime": 406.72,
+    "text": "a self-driving system is probably making"
+  },
+  {
+    "startTime": 406.72,
+    "endTime": 409.44,
+    "text": "decisions about 10 times per second. So"
+  },
+  {
+    "startTime": 409.44,
+    "endTime": 411.68,
+    "text": "order of magnitude, that's about a"
+  },
+  {
+    "startTime": 411.68,
+    "endTime": 414.16,
+    "text": "thousand times per mile. So if you"
+  },
+  {
+    "startTime": 414.16,
+    "endTime": 416.319,
+    "text": "compare the distance between these two,"
+  },
+  {
+    "startTime": 416.319,
+    "endTime": 419.12,
+    "text": "it's about 10 to the eth, right? eight"
+  },
+  {
+    "startTime": 419.12,
+    "endTime": 421.28,
+    "text": "orders of magnitude. That's like"
+  },
+  {
+    "startTime": 421.28,
+    "endTime": 424.52,
+    "text": "comparing how fast I run to the speed of"
+  },
+  {
+    "startTime": 424.52,
+    "endTime": 427.039,
+    "text": "light, right? Doesn't matter how hard I"
+  },
+  {
+    "startTime": 427.039,
+    "endTime": 428.72,
+    "text": "train, I'm never actually going to get"
+  },
+  {
+    "startTime": 428.72,
+    "endTime": 431.08,
+    "text": "there. So, there's a pretty big gap"
+  },
+  {
+    "startTime": 431.08,
+    "endTime": 434.0,
+    "text": "there. And then finally, there's how the"
+  },
+  {
+    "startTime": 434.0,
+    "endTime": 436.4,
+    "text": "system can handle uncertainty. So, this"
+  },
+  {
+    "startTime": 436.4,
+    "endTime": 437.919,
+    "text": "pedestrian here might be stepping to the"
+  },
+  {
+    "startTime": 437.919,
+    "endTime": 440.16,
+    "text": "road, might not be. I can't tell, nor"
+  },
+  {
+    "startTime": 440.16,
+    "endTime": 443.199,
+    "text": "can any of our algorithms. But in the"
+  },
+  {
+    "startTime": 443.199,
+    "endTime": 444.8,
+    "text": "case of a driver assistance system, that"
+  },
+  {
+    "startTime": 444.8,
+    "endTime": 446.319,
+    "text": "means it can't take action. Because"
+  },
+  {
+    "startTime": 446.319,
+    "endTime": 448.199,
+    "text": "again, if it presses the brakes"
+  },
+  {
+    "startTime": 448.199,
+    "endTime": 450.039,
+    "text": "unexpectedly, that's completely"
+  },
+  {
+    "startTime": 450.039,
+    "endTime": 452.24,
+    "text": "unacceptable. Whereas a self-driving"
+  },
+  {
+    "startTime": 452.24,
+    "endTime": 454.08,
+    "text": "system can look at that pedestrian, say,"
+  },
+  {
+    "startTime": 454.08,
+    "endTime": 455.919,
+    "text": "I don't know what they're about to do."
+  },
+  {
+    "startTime": 455.919,
+    "endTime": 457.84,
+    "text": "Slow down, take a better look, and then"
+  },
+  {
+    "startTime": 457.84,
+    "endTime": 459.759,
+    "text": "react appropriately after that. So, it"
+  },
+  {
+    "startTime": 459.759,
+    "endTime": 461.199,
+    "text": "can be much safer than a driver"
+  },
+  {
+    "startTime": 461.199,
+    "endTime": 463.599,
+    "text": "assistance system can ever be. So,"
+  },
+  {
+    "startTime": 463.599,
+    "endTime": 464.72,
+    "text": "that's enough about the differences"
+  },
+  {
+    "startTime": 464.72,
+    "endTime": 466.479,
+    "text": "between the two. Let's spend some time"
+  },
+  {
+    "startTime": 466.479,
+    "endTime": 468.16,
+    "text": "talking about how the car sees the"
+  },
+  {
+    "startTime": 468.16,
+    "endTime": 470.88,
+    "text": "world. So, this is our vehicle. It"
+  },
+  {
+    "startTime": 470.88,
+    "endTime": 472.319,
+    "text": "starts by understanding where it is in"
+  },
+  {
+    "startTime": 472.319,
+    "endTime": 474.4,
+    "text": "the world by taking a map and its sensor"
+  },
+  {
+    "startTime": 474.4,
+    "endTime": 476.8,
+    "text": "data and aligning the two and then we"
+  },
+  {
+    "startTime": 476.8,
+    "endTime": 478.479,
+    "text": "layer on top of that what it sees in the"
+  },
+  {
+    "startTime": 478.479,
+    "endTime": 480.8,
+    "text": "moment. And so here all the purple boxes"
+  },
+  {
+    "startTime": 480.8,
+    "endTime": 482.319,
+    "text": "you can see are other vehicles on the"
+  },
+  {
+    "startTime": 482.319,
+    "endTime": 484.319,
+    "text": "road and the red thing on the side over"
+  },
+  {
+    "startTime": 484.319,
+    "endTime": 485.759,
+    "text": "there is a cyclist and up in the"
+  },
+  {
+    "startTime": 485.759,
+    "endTime": 487.84,
+    "text": "distance if you look really closely you"
+  },
+  {
+    "startTime": 487.84,
+    "endTime": 489.16,
+    "text": "can see some"
+  },
+  {
+    "startTime": 489.16,
+    "endTime": 491.759,
+    "text": "cones. Then we know where the cars were"
+  },
+  {
+    "startTime": 491.759,
+    "endTime": 492.879,
+    "text": "in the moment. But we have to do better"
+  },
+  {
+    "startTime": 492.879,
+    "endTime": 494.4,
+    "text": "than that. We have to predict what's"
+  },
+  {
+    "startTime": 494.4,
+    "endTime": 495.84,
+    "text": "going to happen. And so here the pickup"
+  },
+  {
+    "startTime": 495.84,
+    "endTime": 497.759,
+    "text": "truck in the top right is about to make"
+  },
+  {
+    "startTime": 497.759,
+    "endTime": 499.52,
+    "text": "a left lane change because the road in"
+  },
+  {
+    "startTime": 499.52,
+    "endTime": 501.44,
+    "text": "front of it is closed. And so it needs"
+  },
+  {
+    "startTime": 501.44,
+    "endTime": 503.52,
+    "text": "to needs to get out of the way. Knowing"
+  },
+  {
+    "startTime": 503.52,
+    "endTime": 505.44,
+    "text": "that one pickup truck is great, but we"
+  },
+  {
+    "startTime": 505.44,
+    "endTime": 507.12,
+    "text": "really need to know what everybody's"
+  },
+  {
+    "startTime": 507.12,
+    "endTime": 508.72,
+    "text": "thinking. So it becomes quite a"
+  },
+  {
+    "startTime": 508.72,
+    "endTime": 511.52,
+    "text": "complicated problem. And then given that"
+  },
+  {
+    "startTime": 511.52,
+    "endTime": 513.12,
+    "text": "we can figure out how the car should"
+  },
+  {
+    "startTime": 513.12,
+    "endTime": 515.2,
+    "text": "respond in the moment and so what"
+  },
+  {
+    "startTime": 515.2,
+    "endTime": 516.64,
+    "text": "trajectory it should follow, how quickly"
+  },
+  {
+    "startTime": 516.64,
+    "endTime": 519.039,
+    "text": "it should slow down or speed up. And"
+  },
+  {
+    "startTime": 519.039,
+    "endTime": 521.518,
+    "text": "then that all turns into just following"
+  },
+  {
+    "startTime": 521.519,
+    "endTime": 523.12,
+    "text": "a path. turning the steering wheel left"
+  },
+  {
+    "startTime": 523.12,
+    "endTime": 525.519,
+    "text": "or right, pressing the brake gas. It's"
+  },
+  {
+    "startTime": 525.519,
+    "endTime": 526.8,
+    "text": "really just two numbers at the end of"
+  },
+  {
+    "startTime": 526.8,
+    "endTime": 529.24,
+    "text": "the day. So, how hard can it really"
+  },
+  {
+    "startTime": 529.24,
+    "endTime": 532.72,
+    "text": "be? Back when we started in 2009, this"
+  },
+  {
+    "startTime": 532.72,
+    "endTime": 534.08,
+    "text": "is what our system look like. So, you"
+  },
+  {
+    "startTime": 534.08,
+    "endTime": 535.839,
+    "text": "can see our car in the middle, the other"
+  },
+  {
+    "startTime": 535.839,
+    "endTime": 537.36,
+    "text": "boxes on the road driving down the"
+  },
+  {
+    "startTime": 537.36,
+    "endTime": 539.12,
+    "text": "highway. The car needs to understand"
+  },
+  {
+    "startTime": 539.12,
+    "endTime": 540.959,
+    "text": "where it is and roughly where the other"
+  },
+  {
+    "startTime": 540.959,
+    "endTime": 542.56,
+    "text": "vehicles are. It's really a geometric"
+  },
+  {
+    "startTime": 542.56,
+    "endTime": 545.36,
+    "text": "understanding of the world. Once we"
+  },
+  {
+    "startTime": 545.36,
+    "endTime": 547.44,
+    "text": "started driving on neighborhoods and"
+  },
+  {
+    "startTime": 547.44,
+    "endTime": 549.12,
+    "text": "city streets, the problem becomes a"
+  },
+  {
+    "startTime": 549.12,
+    "endTime": 551.12,
+    "text": "whole new level of difficulty. You see"
+  },
+  {
+    "startTime": 551.12,
+    "endTime": 552.72,
+    "text": "pedestrians crossing in front of us,"
+  },
+  {
+    "startTime": 552.72,
+    "endTime": 554.64,
+    "text": "cars crossing in front of us, going"
+  },
+  {
+    "startTime": 554.64,
+    "endTime": 556.56,
+    "text": "every which way. There's traffic lights,"
+  },
+  {
+    "startTime": 556.56,
+    "endTime": 558.72,
+    "text": "crosswalks. It's incredibly complicated"
+  },
+  {
+    "startTime": 558.72,
+    "endTime": 561.12,
+    "text": "problem by comparison. And then once you"
+  },
+  {
+    "startTime": 561.12,
+    "endTime": 563.04,
+    "text": "have that problem solved, the vehicle"
+  },
+  {
+    "startTime": 563.04,
+    "endTime": 564.0,
+    "text": "has to be able to deal with"
+  },
+  {
+    "startTime": 564.0,
+    "endTime": 565.92,
+    "text": "construction. So here the cones on the"
+  },
+  {
+    "startTime": 565.92,
+    "endTime": 567.36,
+    "text": "left are forcing it to drive to the"
+  },
+  {
+    "startTime": 567.36,
+    "endTime": 569.2,
+    "text": "right, but not just construction in"
+  },
+  {
+    "startTime": 569.2,
+    "endTime": 570.959,
+    "text": "isolation. Of course, it has to deal"
+  },
+  {
+    "startTime": 570.959,
+    "endTime": 572.16,
+    "text": "with other people moving through that"
+  },
+  {
+    "startTime": 572.16,
+    "endTime": 574.16,
+    "text": "construction zones as well. And of"
+  },
+  {
+    "startTime": 574.16,
+    "endTime": 575.6,
+    "text": "course, if anyone's breaking the rules,"
+  },
+  {
+    "startTime": 575.6,
+    "endTime": 577.6,
+    "text": "the police are there. And the car has to"
+  },
+  {
+    "startTime": 577.6,
+    "endTime": 579.12,
+    "text": "understand that that flashing light on"
+  },
+  {
+    "startTime": 579.12,
+    "endTime": 580.64,
+    "text": "the top of the car means that it's not"
+  },
+  {
+    "startTime": 580.64,
+    "endTime": 582.32,
+    "text": "just a car, it's actually a police"
+  },
+  {
+    "startTime": 582.32,
+    "endTime": 584.72,
+    "text": "officer. Similarly, the orange box on"
+  },
+  {
+    "startTime": 584.72,
+    "endTime": 587.2,
+    "text": "the side here, it's a school bus. And we"
+  },
+  {
+    "startTime": 587.2,
+    "endTime": 589.64,
+    "text": "have to treat that differently as"
+  },
+  {
+    "startTime": 589.64,
+    "endTime": 592.16,
+    "text": "well. When we're out on the road, other"
+  },
+  {
+    "startTime": 592.16,
+    "endTime": 593.76,
+    "text": "people have expectations. So, when a"
+  },
+  {
+    "startTime": 593.76,
+    "endTime": 595.519,
+    "text": "cyclist puts up their arm, it means"
+  },
+  {
+    "startTime": 595.519,
+    "endTime": 597.6,
+    "text": "they're expecting the car to yield to"
+  },
+  {
+    "startTime": 597.6,
+    "endTime": 598.959,
+    "text": "them and make room for them to make a"
+  },
+  {
+    "startTime": 598.959,
+    "endTime": 600.12,
+    "text": "lane"
+  },
+  {
+    "startTime": 600.12,
+    "endTime": 602.399,
+    "text": "change. And when a police officer is"
+  },
+  {
+    "startTime": 602.399,
+    "endTime": 603.92,
+    "text": "stood in the road, our vehicle should"
+  },
+  {
+    "startTime": 603.92,
+    "endTime": 606.08,
+    "text": "understand that this means stop. And"
+  },
+  {
+    "startTime": 606.08,
+    "endTime": 608.839,
+    "text": "when they signal to go, we should"
+  },
+  {
+    "startTime": 608.839,
+    "endTime": 610.88,
+    "text": "continue. Now, the way we accomplish"
+  },
+  {
+    "startTime": 610.88,
+    "endTime": 612.56,
+    "text": "this is by sharing data between the"
+  },
+  {
+    "startTime": 612.56,
+    "endTime": 614.88,
+    "text": "vehicles. The first kind of most crude"
+  },
+  {
+    "startTime": 614.88,
+    "endTime": 616.64,
+    "text": "model of this is when one vehicle sees a"
+  },
+  {
+    "startTime": 616.64,
+    "endTime": 618.079,
+    "text": "construction zone, having another know"
+  },
+  {
+    "startTime": 618.079,
+    "endTime": 619.36,
+    "text": "about it so it can be in the correct"
+  },
+  {
+    "startTime": 619.36,
+    "endTime": 621.0,
+    "text": "lane to avoid some of the"
+  },
+  {
+    "startTime": 621.0,
+    "endTime": 623.12,
+    "text": "difficulty. But we actually have much"
+  },
+  {
+    "startTime": 623.12,
+    "endTime": 625.04,
+    "text": "deeper understanding than this. We can"
+  },
+  {
+    "startTime": 625.04,
+    "endTime": 626.72,
+    "text": "take all of the data that the cars have"
+  },
+  {
+    "startTime": 626.72,
+    "endTime": 628.079,
+    "text": "seen over time, the hundreds of"
+  },
+  {
+    "startTime": 628.079,
+    "endTime": 630.24,
+    "text": "thousands of pedestrians, cyclists, and"
+  },
+  {
+    "startTime": 630.24,
+    "endTime": 631.6,
+    "text": "vehicles that have been out there and"
+  },
+  {
+    "startTime": 631.6,
+    "endTime": 633.68,
+    "text": "understand what they look like and use"
+  },
+  {
+    "startTime": 633.68,
+    "endTime": 635.279,
+    "text": "that to infer what other vehicles should"
+  },
+  {
+    "startTime": 635.279,
+    "endTime": 636.64,
+    "text": "look like and other pedestrians should"
+  },
+  {
+    "startTime": 636.64,
+    "endTime": 639.36,
+    "text": "look like. And then even more"
+  },
+  {
+    "startTime": 639.36,
+    "endTime": 640.88,
+    "text": "importantly, we can take from that a"
+  },
+  {
+    "startTime": 640.88,
+    "endTime": 642.32,
+    "text": "model of how we expect them to move"
+  },
+  {
+    "startTime": 642.32,
+    "endTime": 643.92,
+    "text": "through the world. So here the yellow"
+  },
+  {
+    "startTime": 643.92,
+    "endTime": 645.6,
+    "text": "box is a pedestrian crossing in front of"
+  },
+  {
+    "startTime": 645.6,
+    "endTime": 647.92,
+    "text": "us. Here the blue box is a cyclist and"
+  },
+  {
+    "startTime": 647.92,
+    "endTime": 649.6,
+    "text": "we anticipate they're going to nudge out"
+  },
+  {
+    "startTime": 649.6,
+    "endTime": 652.64,
+    "text": "and around the car to the right. Here"
+  },
+  {
+    "startTime": 652.64,
+    "endTime": 654.0,
+    "text": "there's a cyclist coming down the road"
+  },
+  {
+    "startTime": 654.0,
+    "endTime": 655.279,
+    "text": "and we know they're going to continue to"
+  },
+  {
+    "startTime": 655.279,
+    "endTime": 657.36,
+    "text": "drive down the shape of the road. Here"
+  },
+  {
+    "startTime": 657.36,
+    "endTime": 659.6,
+    "text": "somebody makes a right turn and in a"
+  },
+  {
+    "startTime": 659.6,
+    "endTime": 661.12,
+    "text": "moment here somebody's going to make a"
+  },
+  {
+    "startTime": 661.12,
+    "endTime": 662.56,
+    "text": "U-turn in front of us and we can"
+  },
+  {
+    "startTime": 662.56,
+    "endTime": 664.24,
+    "text": "anticipate that behavior and respond"
+  },
+  {
+    "startTime": 664.24,
+    "endTime": 666.8,
+    "text": "safely. Now that's all well and good for"
+  },
+  {
+    "startTime": 666.8,
+    "endTime": 668.24,
+    "text": "things that we've seen. But of course"
+  },
+  {
+    "startTime": 668.24,
+    "endTime": 669.839,
+    "text": "you encounter lots of things that you"
+  },
+  {
+    "startTime": 669.839,
+    "endTime": 672.32,
+    "text": "haven't seen in the world before. And so"
+  },
+  {
+    "startTime": 672.32,
+    "endTime": 673.839,
+    "text": "just a couple of months ago our vehicles"
+  },
+  {
+    "startTime": 673.839,
+    "endTime": 675.44,
+    "text": "were driving through Mountain View and"
+  },
+  {
+    "startTime": 675.44,
+    "endTime": 677.04,
+    "text": "this is what we encountered. This is a"
+  },
+  {
+    "startTime": 677.04,
+    "endTime": 679.44,
+    "text": "woman in an electric wheelchair chasing"
+  },
+  {
+    "startTime": 679.44,
+    "endTime": 683.04,
+    "text": "a duck in circles on the road. Now, it"
+  },
+  {
+    "startTime": 683.04,
+    "endTime": 685.68,
+    "text": "turns out there is nowhere in the DMV"
+  },
+  {
+    "startTime": 685.68,
+    "endTime": 687.44,
+    "text": "handbook that tells you how to deal with"
+  },
+  {
+    "startTime": 687.44,
+    "endTime": 689.36,
+    "text": "that, but our vehicles were able to"
+  },
+  {
+    "startTime": 689.36,
+    "endTime": 691.8,
+    "text": "encounter that, slow down, and drive"
+  },
+  {
+    "startTime": 691.8,
+    "endTime": 693.76,
+    "text": "safely. Now, we don't have to deal with"
+  },
+  {
+    "startTime": 693.76,
+    "endTime": 695.6,
+    "text": "just ducks. Watch this bird fly across"
+  },
+  {
+    "startTime": 695.6,
+    "endTime": 698.24,
+    "text": "in front of us. The car reacts to that."
+  },
+  {
+    "startTime": 698.24,
+    "endTime": 699.92,
+    "text": "Here, we're dealing with a cyclist that"
+  },
+  {
+    "startTime": 699.92,
+    "endTime": 701.279,
+    "text": "you would never expect to see anywhere"
+  },
+  {
+    "startTime": 701.279,
+    "endTime": 703.76,
+    "text": "other than Mountain View. And of course,"
+  },
+  {
+    "startTime": 703.76,
+    "endTime": 706.16,
+    "text": "we have to deal with drivers, even the"
+  },
+  {
+    "startTime": 706.16,
+    "endTime": 708.639,
+    "text": "very small"
+  },
+  {
+    "startTime": 708.76,
+    "endTime": 711.04,
+    "text": "ones. Watch to the right as someone"
+  },
+  {
+    "startTime": 711.04,
+    "endTime": 713.079,
+    "text": "jumps out of this truck at"
+  },
+  {
+    "startTime": 713.079,
+    "endTime": 716.16,
+    "text": "us. And now, watch the left as the car"
+  },
+  {
+    "startTime": 716.16,
+    "endTime": 717.839,
+    "text": "with the green box decides he needs to"
+  },
+  {
+    "startTime": 717.839,
+    "endTime": 719.959,
+    "text": "make a right turn at the last possible"
+  },
+  {
+    "startTime": 719.959,
+    "endTime": 722.16,
+    "text": "moment. Here, as we make a lane change,"
+  },
+  {
+    "startTime": 722.16,
+    "endTime": 724.0,
+    "text": "the car to our left decides it wants to"
+  },
+  {
+    "startTime": 724.0,
+    "endTime": 726.16,
+    "text": "as"
+  },
+  {
+    "startTime": 726.279,
+    "endTime": 728.959,
+    "text": "well. And here, we watch a car blow"
+  },
+  {
+    "startTime": 728.959,
+    "endTime": 732.16,
+    "text": "through a red light and yield to it. And"
+  },
+  {
+    "startTime": 732.16,
+    "endTime": 734.0,
+    "text": "similarly here, a cyclist blowing"
+  },
+  {
+    "startTime": 734.0,
+    "endTime": 735.839,
+    "text": "through that light as well. And of"
+  },
+  {
+    "startTime": 735.839,
+    "endTime": 737.639,
+    "text": "course, the vehicle responds"
+  },
+  {
+    "startTime": 737.639,
+    "endTime": 739.6,
+    "text": "safely. And of course, we have people"
+  },
+  {
+    "startTime": 739.6,
+    "endTime": 741.68,
+    "text": "who do I don't know what sometimes on"
+  },
+  {
+    "startTime": 741.68,
+    "endTime": 742.88,
+    "text": "the road, like this guy pulling out"
+  },
+  {
+    "startTime": 742.88,
+    "endTime": 744.8,
+    "text": "between two self-driving cars. You have"
+  },
+  {
+    "startTime": 744.8,
+    "endTime": 747.24,
+    "text": "to ask, \"What are you"
+  },
+  {
+    "startTime": 747.24,
+    "endTime": 749.279,
+    "text": "thinking?\" Now, I just fire hosed you"
+  },
+  {
+    "startTime": 749.279,
+    "endTime": 750.32,
+    "text": "with a lot of stuff there. So, I'm going"
+  },
+  {
+    "startTime": 750.32,
+    "endTime": 751.519,
+    "text": "to break one of these down pretty"
+  },
+  {
+    "startTime": 751.519,
+    "endTime": 754.079,
+    "text": "quickly. Uh, so what we're looking at is"
+  },
+  {
+    "startTime": 754.079,
+    "endTime": 755.44,
+    "text": "that scene with the cyclist again. And"
+  },
+  {
+    "startTime": 755.44,
+    "endTime": 757.36,
+    "text": "you may notice in the bottom, we can't"
+  },
+  {
+    "startTime": 757.36,
+    "endTime": 759.519,
+    "text": "actually see the cyclist yet, but the"
+  },
+  {
+    "startTime": 759.519,
+    "endTime": 761.12,
+    "text": "car can. and it's that little blue box"
+  },
+  {
+    "startTime": 761.12,
+    "endTime": 763.04,
+    "text": "up there and that comes from the laser"
+  },
+  {
+    "startTime": 763.04,
+    "endTime": 765.12,
+    "text": "data and that's not actually really easy"
+  },
+  {
+    "startTime": 765.12,
+    "endTime": 766.48,
+    "text": "to understand. So, what I'm going to do"
+  },
+  {
+    "startTime": 766.48,
+    "endTime": 768.0,
+    "text": "is I'm going to turn that laser data and"
+  },
+  {
+    "startTime": 768.0,
+    "endTime": 769.68,
+    "text": "look at it. And if you're really good at"
+  },
+  {
+    "startTime": 769.68,
+    "endTime": 771.12,
+    "text": "looking at laser data, you can see a few"
+  },
+  {
+    "startTime": 771.12,
+    "endTime": 773.6,
+    "text": "dots on the curb there, right there. And"
+  },
+  {
+    "startTime": 773.6,
+    "endTime": 776.32,
+    "text": "that blue box is that cyclist. Now, as"
+  },
+  {
+    "startTime": 776.32,
+    "endTime": 778.88,
+    "text": "our light is red, the cyclist light has"
+  },
+  {
+    "startTime": 778.88,
+    "endTime": 780.0,
+    "text": "turned yellow already. And if you"
+  },
+  {
+    "startTime": 780.0,
+    "endTime": 782.639,
+    "text": "squint, you can see that in the imagery."
+  },
+  {
+    "startTime": 782.639,
+    "endTime": 784.24,
+    "text": "But the cyclist, we see, is going to"
+  },
+  {
+    "startTime": 784.24,
+    "endTime": 786.079,
+    "text": "proceed through the intersection. Our"
+  },
+  {
+    "startTime": 786.079,
+    "endTime": 787.92,
+    "text": "light has now turned green. His is"
+  },
+  {
+    "startTime": 787.92,
+    "endTime": 790.72,
+    "text": "solidly red. And we now anticipate that"
+  },
+  {
+    "startTime": 790.72,
+    "endTime": 792.279,
+    "text": "this bike is going to come all the way"
+  },
+  {
+    "startTime": 792.279,
+    "endTime": 794.639,
+    "text": "across. Unfortunately, the other drivers"
+  },
+  {
+    "startTime": 794.639,
+    "endTime": 796.079,
+    "text": "next to us were not paying as much"
+  },
+  {
+    "startTime": 796.079,
+    "endTime": 798.48,
+    "text": "attention. They started to pull forward."
+  },
+  {
+    "startTime": 798.48,
+    "endTime": 800.079,
+    "text": "And fortunately for everyone, the"
+  },
+  {
+    "startTime": 800.079,
+    "endTime": 802.72,
+    "text": "cyclist reacts, avoids, and makes it"
+  },
+  {
+    "startTime": 802.72,
+    "endTime": 804.12,
+    "text": "through the"
+  },
+  {
+    "startTime": 804.12,
+    "endTime": 807.519,
+    "text": "intersection. And off we go. Now, as you"
+  },
+  {
+    "startTime": 807.519,
+    "endTime": 809.2,
+    "text": "can see, we've made some pretty exciting"
+  },
+  {
+    "startTime": 809.2,
+    "endTime": 810.88,
+    "text": "progress. And at this point, we're"
+  },
+  {
+    "startTime": 810.88,
+    "endTime": 812.24,
+    "text": "pretty convinced this technology is"
+  },
+  {
+    "startTime": 812.24,
+    "endTime": 814.56,
+    "text": "going to come to market. We do 3 million"
+  },
+  {
+    "startTime": 814.56,
+    "endTime": 817.44,
+    "text": "miles of testing in our simulators every"
+  },
+  {
+    "startTime": 817.44,
+    "endTime": 819.12,
+    "text": "single day. So you can imagine the"
+  },
+  {
+    "startTime": 819.12,
+    "endTime": 822.079,
+    "text": "experience our vehicles have. We are"
+  },
+  {
+    "startTime": 822.079,
+    "endTime": 822.959,
+    "text": "looking forward to having this"
+  },
+  {
+    "startTime": 822.959,
+    "endTime": 824.88,
+    "text": "technology on the road and we think the"
+  },
+  {
+    "startTime": 824.88,
+    "endTime": 826.16,
+    "text": "right path is to go through this"
+  },
+  {
+    "startTime": 826.16,
+    "endTime": 827.6,
+    "text": "self-driving rather than driver"
+  },
+  {
+    "startTime": 827.6,
+    "endTime": 829.839,
+    "text": "assistance approach because the urgency"
+  },
+  {
+    "startTime": 829.839,
+    "endTime": 832.399,
+    "text": "is so large. You know in the time I have"
+  },
+  {
+    "startTime": 832.399,
+    "endTime": 834.88,
+    "text": "given this talk today 34 people have"
+  },
+  {
+    "startTime": 834.88,
+    "endTime": 838.0,
+    "text": "died on America's roads. How soon can we"
+  },
+  {
+    "startTime": 838.0,
+    "endTime": 840.88,
+    "text": "bring it out? Well, it's hard to say"
+  },
+  {
+    "startTime": 840.88,
+    "endTime": 842.6,
+    "text": "because it's a really complicated"
+  },
+  {
+    "startTime": 842.6,
+    "endTime": 845.36,
+    "text": "problem. But these are my two boys. My"
+  },
+  {
+    "startTime": 845.36,
+    "endTime": 847.76,
+    "text": "oldest son is 11 and that means in four"
+  },
+  {
+    "startTime": 847.76,
+    "endTime": 849.68,
+    "text": "and a half years he's going to be able"
+  },
+  {
+    "startTime": 849.68,
+    "endTime": 851.839,
+    "text": "to get his driver's license. My team and"
+  },
+  {
+    "startTime": 851.839,
+    "endTime": 853.12,
+    "text": "I are committed to making sure that"
+  },
+  {
+    "startTime": 853.12,
+    "endTime": 857.88,
+    "text": "doesn't happen. Thank you,"
+  },
+  {
+    "startTime": 860.88,
+    "endTime": 863.199,
+    "text": "Chris. I got I got a question for you."
+  },
+  {
+    "startTime": 863.199,
+    "endTime": 866.199,
+    "text": "Sure."
+  },
+  {
+    "startTime": 866.56,
+    "endTime": 868.8,
+    "text": "So certainly the mind of your cars is"
+  },
+  {
+    "startTime": 868.8,
+    "endTime": 871.72,
+    "text": "pretty mind-boggling on this debate"
+  },
+  {
+    "startTime": 871.72,
+    "endTime": 874.199,
+    "text": "between driver assisted and fully"
+  },
+  {
+    "startTime": 874.199,
+    "endTime": 876.8,
+    "text": "driverless. So there's I mean there's a"
+  },
+  {
+    "startTime": 876.8,
+    "endTime": 877.92,
+    "text": "real debate going on out there right"
+  },
+  {
+    "startTime": 877.92,
+    "endTime": 879.12,
+    "text": "now. So some of the companies for"
+  },
+  {
+    "startTime": 879.12,
+    "endTime": 881.76,
+    "text": "example Tesla are going the driver"
+  },
+  {
+    "startTime": 881.76,
+    "endTime": 884.959,
+    "text": "assisted route. Yeah. Um what you're"
+  },
+  {
+    "startTime": 884.959,
+    "endTime": 887.279,
+    "text": "saying is that that that's kind of going"
+  },
+  {
+    "startTime": 887.279,
+    "endTime": 890.72,
+    "text": "to be a dead end because you can't just"
+  },
+  {
+    "startTime": 890.72,
+    "endTime": 892.72,
+    "text": "keep improving that route and get to"
+  },
+  {
+    "startTime": 892.72,
+    "endTime": 895.36,
+    "text": "fully driverless. At some point, a mad"
+  },
+  {
+    "startTime": 895.36,
+    "endTime": 896.72,
+    "text": "driver is going to say, \"This feels"
+  },
+  {
+    "startTime": 896.72,
+    "endTime": 898.88,
+    "text": "safe. Climb into the back.\" Right. And"
+  },
+  {
+    "startTime": 898.88,
+    "endTime": 900.48,
+    "text": "something ugly will happen. No, that's"
+  },
+  {
+    "startTime": 900.48,
+    "endTime": 902.0,
+    "text": "exactly right. And it's not to say that"
+  },
+  {
+    "startTime": 902.0,
+    "endTime": 904.0,
+    "text": "the these uh driver assistance systems"
+  },
+  {
+    "startTime": 904.0,
+    "endTime": 905.279,
+    "text": "aren't going to be incredibly valuable,"
+  },
+  {
+    "startTime": 905.279,
+    "endTime": 906.48,
+    "text": "right? You know, they can save a lot of"
+  },
+  {
+    "startTime": 906.48,
+    "endTime": 908.399,
+    "text": "lives in the interim, but to see the"
+  },
+  {
+    "startTime": 908.399,
+    "endTime": 909.92,
+    "text": "transformative opportunity to help"
+  },
+  {
+    "startTime": 909.92,
+    "endTime": 911.92,
+    "text": "someone like Steve get around to really"
+  },
+  {
+    "startTime": 911.92,
+    "endTime": 914.24,
+    "text": "get to the the end case in safety, to"
+  },
+  {
+    "startTime": 914.24,
+    "endTime": 915.6,
+    "text": "have the opportunity to kind of change"
+  },
+  {
+    "startTime": 915.6,
+    "endTime": 917.36,
+    "text": "our cities and move parking out and get"
+  },
+  {
+    "startTime": 917.36,
+    "endTime": 918.88,
+    "text": "rid of these kind of urban craters that"
+  },
+  {
+    "startTime": 918.88,
+    "endTime": 920.88,
+    "text": "we call parking lots. You know, it's the"
+  },
+  {
+    "startTime": 920.88,
+    "endTime": 923.519,
+    "text": "only way to go. We will be tracking your"
+  },
+  {
+    "startTime": 923.519,
+    "endTime": 925.12,
+    "text": "progress with huge interest. Thanks so"
+  },
+  {
+    "startTime": 925.12,
+    "endTime": 927.11,
+    "text": "much, Chris. Thank you."
+  },
+  {
+    "startTime": 927.11,
+    "endTime": 930.659,
+    "text": "[Music]"
+  }
+]
