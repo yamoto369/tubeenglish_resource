@@ -1,0 +1,317 @@
+[
+  {
+    "startTime": 13.4,
+    "endTime": 17.567,
+    "text": "Pretty much everyone loves eating pizza, but it can be a messy business."
+  },
+  {
+    "startTime": 17.567,
+    "endTime": 21.385,
+    "text": "Pizza is soft and bendable, so how can you stop all that cheese from falling off?"
+  },
+  {
+    "startTime": 21.385,
+    "endTime": 22.6,
+    "text": "You might know some of the tricks:"
+  },
+  {
+    "startTime": 22.6,
+    "endTime": 28.6,
+    "text": "You can use two hands, not so classy, or you can use a paper plate and allow only the very tip of the pizza to peek out."
+  },
+  {
+    "startTime": 28.6,
+    "endTime": 33.1,
+    "text": "There is one other trick, though, holding the crust, you can sort of fold the slice down the middle."
+  },
+  {
+    "startTime": 33.1,
+    "endTime": 40.6,
+    "text": "Now the tip of the pizza isn't falling over, and you can eat it without getting tomato sauce all over yourself or accidentally biting off some of that paper plate."
+  },
+  {
+    "startTime": 40.6,
+    "endTime": 43.7,
+    "text": "But why should the tip stay up just because you bent the crust?"
+  },
+  {
+    "startTime": 43.7,
+    "endTime": 46.24,
+    "text": "To understand this, you need to know two things:"
+  },
+  {
+    "startTime": 46.24,
+    "endTime": 50.800000000000004,
+    "text": "A little bit about the math of curved shapes, and a little bit about the physics of thin sheets."
+  },
+  {
+    "startTime": 50.8,
+    "endTime": 51.599999999999994,
+    "text": "First, the math."
+  },
+  {
+    "startTime": 51.6,
+    "endTime": 54.044000000000004,
+    "text": "Suppose I have a flat sheet made out of rubber."
+  },
+  {
+    "startTime": 54.044,
+    "endTime": 57.474999999999994,
+    "text": "It's really thin and bendable, so it's easy to roll into a cylinder."
+  },
+  {
+    "startTime": 57.475,
+    "endTime": 60.300000000000004,
+    "text": "I don't need to stretch the sheet at all; just bend it."
+  },
+  {
+    "startTime": 60.3,
+    "endTime": 66.362,
+    "text": "This property where one shape can be transformed into another without stretching or crumpling is called isometry."
+  },
+  {
+    "startTime": 66.362,
+    "endTime": 70.244,
+    "text": "A mathematician would say that a flat sheet is isometric to a cylinder."
+  },
+  {
+    "startTime": 70.244,
+    "endTime": 71.995,
+    "text": "But not all shapes are isometric."
+  },
+  {
+    "startTime": 71.995,
+    "endTime": 75.9,
+    "text": "If I try to turn my flat sheet into part of a sphere, there is no way I can do it."
+  },
+  {
+    "startTime": 75.9,
+    "endTime": 81.843,
+    "text": "You can check this for yourself by trying to fit a flat sheet of paper onto a soccer ball without stretching or crumpling the paper."
+  },
+  {
+    "startTime": 81.843,
+    "endTime": 83.0,
+    "text": "It's just not possible."
+  },
+  {
+    "startTime": 83.0,
+    "endTime": 87.4,
+    "text": "So a mathematician would say that a flat sheet and a sphere aren't isometric."
+  },
+  {
+    "startTime": 87.4,
+    "endTime": 92.60000000000001,
+    "text": "There's one more familiar shape that isn't isometric to any of the shapes we have seen so far : a potato chip."
+  },
+  {
+    "startTime": 92.6,
+    "endTime": 95.496,
+    "text": "Potato chip shapes aren't isometric to flat sheets."
+  },
+  {
+    "startTime": 95.496,
+    "endTime": 102.0,
+    "text": "If you want to get a flat piece of rubber into the shape of a potato chip, you need to stretch it, not just bend it, but stretch it as well."
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 103.2,
+    "text": "So, that's the math."
+  },
+  {
+    "startTime": 103.2,
+    "endTime": 104.3,
+    "text": "Not so hard, right?"
+  },
+  {
+    "startTime": 104.3,
+    "endTime": 105.6,
+    "text": "Now for the physics."
+  },
+  {
+    "startTime": 105.6,
+    "endTime": 110.655,
+    "text": "It can be summed up in one sentence : Thin sheets are easy to bend but hard to stretch."
+  },
+  {
+    "startTime": 110.655,
+    "endTime": 112.2,
+    "text": "This is really important."
+  },
+  {
+    "startTime": 112.2,
+    "endTime": 115.2,
+    "text": "Thin sheets are easy to bend but hard to stretch."
+  },
+  {
+    "startTime": 115.2,
+    "endTime": 118.3,
+    "text": "Remember when we rolled our flat sheet of rubber into a cylinder?"
+  },
+  {
+    "startTime": 118.3,
+    "endTime": 119.813,
+    "text": "That wasn't hard, right?"
+  },
+  {
+    "startTime": 119.6,
+    "endTime": 124.008,
+    "text": "But imagine how hard you'd have pull on the sheet to increase its area by 10%."
+  },
+  {
+    "startTime": 124.008,
+    "endTime": 125.3,
+    "text": "It would be pretty difficult."
+  },
+  {
+    "startTime": 125.3,
+    "endTime": 132.73499999999999,
+    "text": "The point is that bending a thin sheet takes a relatively small amount of force, but stretching or crumpling a thin sheet is much harder."
+  },
+  {
+    "startTime": 132.735,
+    "endTime": 135.20000000000002,
+    "text": "Now, finally, we get to talk about pizza."
+  },
+  {
+    "startTime": 135.2,
+    "endTime": 138.322,
+    "text": "Suppose you go down to the pizzeria and buy yourself a slice."
+  },
+  {
+    "startTime": 138.322,
+    "endTime": 141.303,
+    "text": "You pick it up from the crust first, without doing the fold."
+  },
+  {
+    "startTime": 141.303,
+    "endTime": 144.075,
+    "text": "Because of gravity, the slice bends downwards."
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 148.305,
+    "text": "Pizza is pretty thin, after all, and we know that thin sheets are easy to bend."
+  },
+  {
+    "startTime": 148.305,
+    "endTime": 152.1,
+    "text": "You can't get it in your mouth, cheese and tomato sauce are dripping everywhere... It's a big mess!"
+  },
+  {
+    "startTime": 152.1,
+    "endTime": 153.414,
+    "text": "So you fold the crust."
+  },
+  {
+    "startTime": 153.414,
+    "endTime": 156.66,
+    "text": "When you do that, you force the pizza into something like a taco shape."
+  },
+  {
+    "startTime": 156.66,
+    "endTime": 158.109,
+    "text": "That's not hard to do."
+  },
+  {
+    "startTime": 158.109,
+    "endTime": 161.92000000000002,
+    "text": "After all, this shape is isometric to the original pizza, which was flat."
+  },
+  {
+    "startTime": 161.92,
+    "endTime": 166.2,
+    "text": "But imagine what would happen if the pizza were to droop down while you are bending it."
+  },
+  {
+    "startTime": 166.2,
+    "endTime": 168.0,
+    "text": "Now it looks like a droopy taco."
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 169.94,
+    "text": "And what does a droopy taco look like?"
+  },
+  {
+    "startTime": 169.94,
+    "endTime": 170.7,
+    "text": "A potato chip!"
+  },
+  {
+    "startTime": 170.7,
+    "endTime": 180.7,
+    "text": "But we know that potato chips are not isometric to flat pieces of rubber, or flat pizzas, and that means that in order to get into the shape it's in now, the slice of pizza had to stretch."
+  },
+  {
+    "startTime": 180.7,
+    "endTime": 186.96499999999997,
+    "text": "Since the pizza is thin, this takes a lot of force, compared to the amount of force it takes to bend the pizza in the first place."
+  },
+  {
+    "startTime": 186.965,
+    "endTime": 188.6,
+    "text": "So, what's the conclusion?"
+  },
+  {
+    "startTime": 188.6,
+    "endTime": 194.095,
+    "text": "When you fold the pizza at the crust, you make it into a shape where a lot of force is needed to bend the tip down."
+  },
+  {
+    "startTime": 194.095,
+    "endTime": 196.974,
+    "text": "Often gravity isn't strong enough to provide this force."
+  },
+  {
+    "startTime": 196.974,
+    "endTime": 200.1,
+    "text": "That was kind of a lot of information, so let's do a quick backwards recap."
+  },
+  {
+    "startTime": 200.1,
+    "endTime": 204.033,
+    "text": "When the pizza is folded at the crust, gravity isn't strong enough to bend the tip."
+  },
+  {
+    "startTime": 204.033,
+    "endTime": 204.648,
+    "text": "Why?"
+  },
+  {
+    "startTime": 204.648,
+    "endTime": 209.25,
+    "text": "Because stretching a pizza is hard, and to bend the tip downwards, the pizza would have to stretch."
+  },
+  {
+    "startTime": 209.25,
+    "endTime": 209.7,
+    "text": "Why?"
+  },
+  {
+    "startTime": 209.7,
+    "endTime": 215.20999999999998,
+    "text": "Because the shape that the pizza would be in, the droopy taco shape, isn't isometric to the original flat pizza."
+  },
+  {
+    "startTime": 215.21,
+    "endTime": 215.812,
+    "text": "Why?"
+  },
+  {
+    "startTime": 215.812,
+    "endTime": 217.0,
+    "text": "Because of math."
+  },
+  {
+    "startTime": 217.0,
+    "endTime": 222.337,
+    "text": "As the pizza example shows, we can learn a lot by looking at the mathematical properties of different shapes."
+  },
+  {
+    "startTime": 222.337,
+    "endTime": 232.337,
+    "text": "And it's especially nice when those shapes happen to be pizza slices."
+  }
+]

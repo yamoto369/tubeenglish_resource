@@ -1,0 +1,327 @@
+[
+  {
+    "startTime": 6.0,
+    "endTime": 10.9,
+    "text": "When we watch a film or a play, we know that the actors probably learned their lines from a script,"
+  },
+  {
+    "startTime": 11.0,
+    "endTime": 14.1,
+    "text": "which essentially tells them what to say and when to say it."
+  },
+  {
+    "startTime": 15.1,
+    "endTime": 18.3,
+    "text": "A piece of written music operates on exactly the same principle."
+  },
+  {
+    "startTime": 18.4,
+    "endTime": 23.299999999999997,
+    "text": "In a very basic sense, it tells a performer what to play and when to play it."
+  },
+  {
+    "startTime": 24.2,
+    "endTime": 29.4,
+    "text": "Aesthetically speaking, there's a world of difference between, say, Beethoven and Justin Bieber,"
+  },
+  {
+    "startTime": 29.5,
+    "endTime": 33.9,
+    "text": "but both artists have used the same building blocks to create their music: Notes."
+  },
+  {
+    "startTime": 34.1,
+    "endTime": 40.4,
+    "text": "And, although the end result can sound quite complicated, the logic behind musical notes is actually pretty straightforward."
+  },
+  {
+    "startTime": 40.5,
+    "endTime": 46.9,
+    "text": "Let's take a look at the foundational elements to music notation and how they interact to create a work of art."
+  },
+  {
+    "startTime": 47.6,
+    "endTime": 51.4,
+    "text": "Music is written on five parallel lines that go across the page."
+  },
+  {
+    "startTime": 51.8,
+    "endTime": 59.199999999999996,
+    "text": "These five lines are called a staff, and a staff operates on two axes⏤up and down and left to right."
+  },
+  {
+    "startTime": 59.3,
+    "endTime": 63.8,
+    "text": "The up-and-down axis tells the performer the pitch of the note or what note to play,"
+  },
+  {
+    "startTime": 64.2,
+    "endTime": 69.10000000000001,
+    "text": "and the left-to-right axis tells the performer the rhythm of the note or when to play it."
+  },
+  {
+    "startTime": 69.4,
+    "endTime": 70.5,
+    "text": "Let's start with pitch."
+  },
+  {
+    "startTime": 71.0,
+    "endTime": 76.3,
+    "text": "To help us out, we're going to use a piano, but this system works for pretty much any instrument you can think of."
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 82.1,
+    "text": "In the Western music tradition, pitches are named after the first seven letters of the alphabet:"
+  },
+  {
+    "startTime": 82.2,
+    "endTime": 86.3,
+    "text": "A, B, C, D, E, F, and G."
+  },
+  {
+    "startTime": 86.4,
+    "endTime": 88.5,
+    "text": "After that, the cycle repeats itself."
+  },
+  {
+    "startTime": 88.572,
+    "endTime": 90.7,
+    "text": "A, B, C, D, E, F, G."
+  },
+  {
+    "startTime": 90.8,
+    "endTime": 92.7,
+    "text": "A, B, C, D, E, F, G, and so on."
+  },
+  {
+    "startTime": 93.5,
+    "endTime": 95.5,
+    "text": "But how do these pitches get their names?"
+  },
+  {
+    "startTime": 96.1,
+    "endTime": 101.1,
+    "text": "Well, for example, if you played an F and then played another F higher or lower on the piano,"
+  },
+  {
+    "startTime": 101.2,
+    "endTime": 105.3,
+    "text": "you'd notice that they sound pretty similar compared to, say, a B."
+  },
+  {
+    "startTime": 105.7,
+    "endTime": 111.60000000000001,
+    "text": "Going back to the staff, every line and every space between two lines represents a separate pitch."
+  },
+  {
+    "startTime": 112.1,
+    "endTime": 117.6,
+    "text": "If we put a note on one of these lines or in one of these spaces, we're telling a performer to play that pitch."
+  },
+  {
+    "startTime": 117.7,
+    "endTime": 121.3,
+    "text": "The higher up on the staff a note is placed, the higher the pitch."
+  },
+  {
+    "startTime": 121.4,
+    "endTime": 126.5,
+    "text": "But there are obviously many, many more pitches than the nine that these lines and spaces gives us."
+  },
+  {
+    "startTime": 126.6,
+    "endTime": 129.9,
+    "text": "A grand piano, for example, can play 88 separate notes."
+  },
+  {
+    "startTime": 130.0,
+    "endTime": 133.4,
+    "text": "So, how do we condense 88 notes onto a single staff?"
+  },
+  {
+    "startTime": 133.5,
+    "endTime": 135.8,
+    "text": "We use something called a \"clef\"."
+  },
+  {
+    "startTime": 136.0,
+    "endTime": 145.4,
+    "text": "A clef is a weird-looking figure placed at the beginning of the staff, and it acts like a reference point, telling you that a particular line or space corresponds to a specific note on your instrument."
+  },
+  {
+    "startTime": 145.6,
+    "endTime": 153.0,
+    "text": "If we want to play notes that aren't on the staff, we kind of cheat and draw extra little lines called \"ledger lines\" and place the notes on them."
+  },
+  {
+    "startTime": 153.1,
+    "endTime": 158.6,
+    "text": "If we have to draw so many ledger lines that it gets confusing, then we need to change to a different clef."
+  },
+  {
+    "startTime": 159.8,
+    "endTime": 166.0,
+    "text": "As for telling a performer when to play the notes, two main elements control this⏤the beat and the rhythm."
+  },
+  {
+    "startTime": 166.5,
+    "endTime": 169.9,
+    "text": "The beat of a piece of music is, by itself, kind of boring."
+  },
+  {
+    "startTime": 170.0,
+    "endTime": 171.2,
+    "text": "It sounds like this."
+  },
+  {
+    "startTime": 174.3,
+    "endTime": 177.4,
+    "text": "Notice that it doesn't change; it just plugs along quite happily."
+  },
+  {
+    "startTime": 177.9,
+    "endTime": 183.8,
+    "text": "It can go slow or fast or whatever you like, really."
+  },
+  {
+    "startTime": 183.9,
+    "endTime": 192.0,
+    "text": "The point is that just like the second hand on a clock divides one minute into sixty seconds with each second just as long as every other second,"
+  },
+  {
+    "startTime": 192.2,
+    "endTime": 197.29999999999998,
+    "text": "the beat divides a piece of music into little fragments of time that are all the same length."
+  },
+  {
+    "startTime": 197.4,
+    "endTime": 198.4,
+    "text": "Beats."
+  },
+  {
+    "startTime": 198.8,
+    "endTime": 205.10000000000002,
+    "text": "With a steady beat as a foundation, we can start adding rhythm to our pitches, and that's when music really starts to happen."
+  },
+  {
+    "startTime": 205.5,
+    "endTime": 207.0,
+    "text": "This is a quarter note."
+  },
+  {
+    "startTime": 207.1,
+    "endTime": 210.29999999999998,
+    "text": "It's the most basic unit of rhythm, and it's worth 1 beat."
+  },
+  {
+    "startTime": 210.7,
+    "endTime": 213.1,
+    "text": "This is a half note, and it's worth 2 beats."
+  },
+  {
+    "startTime": 213.6,
+    "endTime": 215.4,
+    "text": "This whole note here is worth 4 beats."
+  },
+  {
+    "startTime": 215.5,
+    "endTime": 218.9,
+    "text": "And these little guys are eighth notes, worth half a beat each."
+  },
+  {
+    "startTime": 219.3,
+    "endTime": 221.4,
+    "text": "\"Great,\" you say, \"what does that mean?\""
+  },
+  {
+    "startTime": 222.2,
+    "endTime": 227.1,
+    "text": "You might have noticed that across the length of a staff, there are little lines dividing it into small sections."
+  },
+  {
+    "startTime": 227.2,
+    "endTime": 231.29999999999998,
+    "text": "These are bar lines, and we refer to each section as a \"bar\"."
+  },
+  {
+    "startTime": 232.0,
+    "endTime": 239.7,
+    "text": "At the beginning of a piece of music just after the clef is something called the \"time signature\", which tells a performer how many beats are in each bar."
+  },
+  {
+    "startTime": 242.3,
+    "endTime": 245.60000000000002,
+    "text": "This says there are 3, this one 4, and so on."
+  },
+  {
+    "startTime": 245.7,
+    "endTime": 250.2,
+    "text": "The bottom number tells us what kind of note is to be used as the basic unit for the beat."
+  },
+  {
+    "startTime": 250.5,
+    "endTime": 257.2,
+    "text": "1 corresponds to a whole note, 2 to a half note, 4 to a quarter note, and 8 to an eighth note, and so on."
+  },
+  {
+    "startTime": 257.6,
+    "endTime": 262.0,
+    "text": "So, this time signature here tells us that there are 4 quarter notes in each bar."
+  },
+  {
+    "startTime": 262.1,
+    "endTime": 264.1,
+    "text": "One, two, three, four."
+  },
+  {
+    "startTime": 264.2,
+    "endTime": 266.4,
+    "text": "One, two, three, four, and so on."
+  },
+  {
+    "startTime": 267.1,
+    "endTime": 271.40000000000003,
+    "text": "But like I said before, if we just stick to the beat, it gets kind of boring."
+  },
+  {
+    "startTime": 271.5,
+    "endTime": 274.1,
+    "text": "So, we'll replace some quarter notes with different rhythms."
+  },
+  {
+    "startTime": 275.0,
+    "endTime": 280.6,
+    "text": "Notice that even though the number of notes in each bar has changed, the total number of beats in each bar hasn't."
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 285.1,
+    "text": "So, what does our musical creation sound like?"
+  },
+  {
+    "startTime": 288.0,
+    "endTime": 290.7,
+    "text": "Sounds okay, but maybe a bit thin, right?"
+  },
+  {
+    "startTime": 291.3,
+    "endTime": 293.40000000000003,
+    "text": "Let's add another instrument with its own pitch and rhythm."
+  },
+  {
+    "startTime": 294.6,
+    "endTime": 296.5,
+    "text": "Now it's sounding like music."
+  },
+  {
+    "startTime": 297.9,
+    "endTime": 302.29999999999995,
+    "text": "Sure, it takes some practice to get used to reading it quickly and playing what we see on our instrument."
+  },
+  {
+    "startTime": 302.4,
+    "endTime": 308.29999999999995,
+    "text": "But, with a bit of time and patience, you could be the next Beethoven or Justin Bieber."
+  }
+]
