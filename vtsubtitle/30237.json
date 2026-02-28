@@ -1,0 +1,352 @@
+[
+  {
+    "startTime": 10.714,
+    "endTime": 13.842,
+    "text": "You and nine other individuals  have been captured"
+  },
+  {
+    "startTime": 13.842,
+    "endTime": 17.495,
+    "text": "by super intelligent alien overlords."
+  },
+  {
+    "startTime": 17.495,
+    "endTime": 20.807000000000002,
+    "text": "The aliens think humans look quite tasty,"
+  },
+  {
+    "startTime": 20.807,
+    "endTime": 26.133,
+    "text": "but their civilization forbids eating highly logical and cooperative beings."
+  },
+  {
+    "startTime": 26.133,
+    "endTime": 29.831,
+    "text": "Unfortunately, they're not sure  whether you qualify,"
+  },
+  {
+    "startTime": 29.831,
+    "endTime": 32.753,
+    "text": "so they decide to give you all a test."
+  },
+  {
+    "startTime": 32.753,
+    "endTime": 34.398,
+    "text": "Through its universal translator,"
+  },
+  {
+    "startTime": 34.398,
+    "endTime": 37.962,
+    "text": "the alien guarding you  tells you the following:"
+  },
+  {
+    "startTime": 37.962,
+    "endTime": 43.423,
+    "text": "You will be placed in a single-file line facing forward in size order"
+  },
+  {
+    "startTime": 43.423,
+    "endTime": 47.344,
+    "text": "so that each of you can see  everyone lined up ahead of you."
+  },
+  {
+    "startTime": 47.344,
+    "endTime": 51.073,
+    "text": "You will not be able to look behind you or step out of line."
+  },
+  {
+    "startTime": 51.073,
+    "endTime": 55.304,
+    "text": "Each of you will have either a black or a white hat on your head"
+  },
+  {
+    "startTime": 55.304,
+    "endTime": 57.238,
+    "text": "assigned randomly,"
+  },
+  {
+    "startTime": 57.238,
+    "endTime": 61.255,
+    "text": "and I won't tell you  how many of each color there are."
+  },
+  {
+    "startTime": 61.255,
+    "endTime": 65.074,
+    "text": "When I say to begin, each of you must guess the color of your hat"
+  },
+  {
+    "startTime": 65.074,
+    "endTime": 69.474,
+    "text": "starting with the person in the back and moving up the line."
+  },
+  {
+    "startTime": 69.474,
+    "endTime": 72.522,
+    "text": "And don't even try saying words other than black or white"
+  },
+  {
+    "startTime": 72.522,
+    "endTime": 76.98700000000001,
+    "text": "or signaling some other way, like intonation or volume;"
+  },
+  {
+    "startTime": 76.987,
+    "endTime": 79.749,
+    "text": "you'll all be eaten immediately."
+  },
+  {
+    "startTime": 79.749,
+    "endTime": 84.11699999999999,
+    "text": "If at least nine of you guess correctly, you'll all be spared."
+  },
+  {
+    "startTime": 84.117,
+    "endTime": 87.24300000000001,
+    "text": "You have five minutes to discuss and come up with a plan,"
+  },
+  {
+    "startTime": 87.243,
+    "endTime": 91.991,
+    "text": "and then I'll line you up, assign your hats, and we'll begin."
+  },
+  {
+    "startTime": 91.991,
+    "endTime": 96.042,
+    "text": "Can you think of a strategy guaranteed to save everyone?"
+  },
+  {
+    "startTime": 96.042,
+    "endTime": 99.137,
+    "text": "Pause the video now  to figure it out for yourself."
+  },
+  {
+    "startTime": 99.137,
+    "endTime": 100.154,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 100.154,
+    "endTime": 101.246,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 101.246,
+    "endTime": 103.11099999999999,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 103.111,
+    "endTime": 105.94,
+    "text": "The key is that the person  at the back of the line"
+  },
+  {
+    "startTime": 105.94,
+    "endTime": 110.494,
+    "text": "who can see everyone else's hats can use the words \"black\" or \"white\""
+  },
+  {
+    "startTime": 110.494,
+    "endTime": 113.872,
+    "text": "to communicate some coded information."
+  },
+  {
+    "startTime": 113.872,
+    "endTime": 116.54,
+    "text": "So what meaning can be  assigned to those words"
+  },
+  {
+    "startTime": 116.54,
+    "endTime": 120.742,
+    "text": "that will allow everyone else  to deduce their hat colors?"
+  },
+  {
+    "startTime": 120.742,
+    "endTime": 124.10900000000001,
+    "text": "It can't be the total number of black or white hats."
+  },
+  {
+    "startTime": 124.109,
+    "endTime": 126.872,
+    "text": "There are more than two possible values,"
+  },
+  {
+    "startTime": 126.872,
+    "endTime": 131.888,
+    "text": "but what does have two possible values is that number's parity,"
+  },
+  {
+    "startTime": 131.888,
+    "endTime": 135.192,
+    "text": "that is whether it's odd or even."
+  },
+  {
+    "startTime": 135.192,
+    "endTime": 139.008,
+    "text": "So the solution is to agree that whoever goes first will,"
+  },
+  {
+    "startTime": 139.008,
+    "endTime": 143.35500000000002,
+    "text": "for example, say \"black\" if he sees an odd number of black hats"
+  },
+  {
+    "startTime": 143.355,
+    "endTime": 147.78699999999998,
+    "text": "and \"white\" if he sees  an even number of black hats."
+  },
+  {
+    "startTime": 147.787,
+    "endTime": 152.411,
+    "text": "Let's see how it would play out if the hats were distributed like this."
+  },
+  {
+    "startTime": 152.411,
+    "endTime": 155.429,
+    "text": "The tallest captive sees three black hats in front of him,"
+  },
+  {
+    "startTime": 155.429,
+    "endTime": 160.63400000000001,
+    "text": "so he says \"black,\" telling everyone else he sees an odd number of black hats."
+  },
+  {
+    "startTime": 160.634,
+    "endTime": 164.00599999999997,
+    "text": "He gets his own hat color wrong, but that's okay"
+  },
+  {
+    "startTime": 164.006,
+    "endTime": 168.286,
+    "text": "since you're collectively allowed  to have one wrong answer."
+  },
+  {
+    "startTime": 168.286,
+    "endTime": 171.04,
+    "text": "Prisoner two also sees an odd number of black hats,"
+  },
+  {
+    "startTime": 171.04,
+    "endTime": 175.251,
+    "text": "so she knows hers is white, and answers correctly."
+  },
+  {
+    "startTime": 175.251,
+    "endTime": 178.044,
+    "text": "Prisoner three sees  an even number of black hats,"
+  },
+  {
+    "startTime": 178.044,
+    "endTime": 181.256,
+    "text": "so he knows that his must be  one of the black hats"
+  },
+  {
+    "startTime": 181.256,
+    "endTime": 183.601,
+    "text": "the first two prisoners saw."
+  },
+  {
+    "startTime": 183.601,
+    "endTime": 185.337,
+    "text": "Prisoner four hears that and knows"
+  },
+  {
+    "startTime": 185.337,
+    "endTime": 188.578,
+    "text": "that she should be looking for  an even number of black hats"
+  },
+  {
+    "startTime": 188.578,
+    "endTime": 190.51,
+    "text": "since one was behind her."
+  },
+  {
+    "startTime": 190.51,
+    "endTime": 196.165,
+    "text": "But she only sees one, so she deduces that her hat is also black."
+  },
+  {
+    "startTime": 196.165,
+    "endTime": 200.499,
+    "text": "Prisoners five through nine are each looking for an odd number of black hats,"
+  },
+  {
+    "startTime": 200.499,
+    "endTime": 205.227,
+    "text": "which they see, so they figure out that their hats are white."
+  },
+  {
+    "startTime": 205.227,
+    "endTime": 209.054,
+    "text": "Now it all comes down to you at the front of the line."
+  },
+  {
+    "startTime": 209.054,
+    "endTime": 212.235,
+    "text": "If the ninth prisoner saw  an odd number of black hats,"
+  },
+  {
+    "startTime": 212.235,
+    "endTime": 215.026,
+    "text": "that can only mean one thing."
+  },
+  {
+    "startTime": 215.026,
+    "endTime": 219.39800000000002,
+    "text": "You'll find that this strategy works for any possible arrangement of the hats."
+  },
+  {
+    "startTime": 219.398,
+    "endTime": 224.512,
+    "text": "The first prisoner has a 50% chance of giving a wrong answer about his own hat,"
+  },
+  {
+    "startTime": 224.512,
+    "endTime": 226.821,
+    "text": "but the parity information he conveys"
+  },
+  {
+    "startTime": 226.821,
+    "endTime": 232.02,
+    "text": "allows everyone else  to guess theirs with absolute certainty."
+  },
+  {
+    "startTime": 232.02,
+    "endTime": 236.035,
+    "text": "Each begins by expecting to see an odd or even number of hats"
+  },
+  {
+    "startTime": 236.035,
+    "endTime": 238.066,
+    "text": "of the specified color."
+  },
+  {
+    "startTime": 238.066,
+    "endTime": 242.502,
+    "text": "If what they count doesn't match, that means their own hat is that color."
+  },
+  {
+    "startTime": 242.502,
+    "endTime": 244.136,
+    "text": "And everytime this happens,"
+  },
+  {
+    "startTime": 244.136,
+    "endTime": 248.88299999999998,
+    "text": "the next person in line will switch the parity they expect to see."
+  },
+  {
+    "startTime": 248.883,
+    "endTime": 250.62400000000002,
+    "text": "So that's it, you're free to go."
+  },
+  {
+    "startTime": 250.624,
+    "endTime": 253.03199999999998,
+    "text": "It looks like these aliens  will have to go hungry,"
+  },
+  {
+    "startTime": 253.032,
+    "endTime": 263.03200000000004,
+    "text": "or find some less logical  organisms to abduct."
+  }
+]
