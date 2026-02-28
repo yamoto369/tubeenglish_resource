@@ -1,0 +1,372 @@
+[
+  {
+    "startTime": 0.11,
+    "endTime": 3.3,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.879,
+    "endTime": 10.88,
+    "text": "Why are most manhole covers round? Sure,"
+  },
+  {
+    "startTime": 10.88,
+    "endTime": 12.96,
+    "text": "it makes them easy to roll and slide"
+  },
+  {
+    "startTime": 12.96,
+    "endTime": 15.44,
+    "text": "into place in any alignment. But there's"
+  },
+  {
+    "startTime": 15.44,
+    "endTime": 18.32,
+    "text": "another more compelling reason involving"
+  },
+  {
+    "startTime": 18.32,
+    "endTime": 21.439,
+    "text": "a peculiar geometric property of circles"
+  },
+  {
+    "startTime": 21.439,
+    "endTime": 24.16,
+    "text": "and other shapes. Imagine a square"
+  },
+  {
+    "startTime": 24.16,
+    "endTime": 27.279,
+    "text": "separating two parallel lines. As it"
+  },
+  {
+    "startTime": 27.279,
+    "endTime": 30.08,
+    "text": "rotates, the lines first push apart,"
+  },
+  {
+    "startTime": 30.08,
+    "endTime": 32.398,
+    "text": "then come back together. But try this"
+  },
+  {
+    "startTime": 32.399,
+    "endTime": 34.559,
+    "text": "with a circle. And the lines stay"
+  },
+  {
+    "startTime": 34.559,
+    "endTime": 37.12,
+    "text": "exactly the same distance apart, the"
+  },
+  {
+    "startTime": 37.12,
+    "endTime": 39.6,
+    "text": "diameter of the circle. This makes the"
+  },
+  {
+    "startTime": 39.6,
+    "endTime": 41.84,
+    "text": "circle, unlike the square, a"
+  },
+  {
+    "startTime": 41.84,
+    "endTime": 44.559,
+    "text": "mathematical shape called a curve of"
+  },
+  {
+    "startTime": 44.559,
+    "endTime": 47.68,
+    "text": "constant width. Another shape with this"
+  },
+  {
+    "startTime": 47.68,
+    "endTime": 50.64,
+    "text": "property is the rulo triangle. To create"
+  },
+  {
+    "startTime": 50.64,
+    "endTime": 53.28,
+    "text": "one, start with an equilateral triangle."
+  },
+  {
+    "startTime": 53.28,
+    "endTime": 55.68,
+    "text": "Then make one of the vertices the center"
+  },
+  {
+    "startTime": 55.68,
+    "endTime": 58.64,
+    "text": "of a circle that touches the other two."
+  },
+  {
+    "startTime": 58.64,
+    "endTime": 61.12,
+    "text": "Draw two more circles in the same way,"
+  },
+  {
+    "startTime": 61.12,
+    "endTime": 63.68,
+    "text": "centered on the other two vertices. And"
+  },
+  {
+    "startTime": 63.68,
+    "endTime": 66.159,
+    "text": "there it is, in the space where they all"
+  },
+  {
+    "startTime": 66.159,
+    "endTime": 69.92,
+    "text": "overlap. Because ru triangles can rotate"
+  },
+  {
+    "startTime": 69.92,
+    "endTime": 72.32,
+    "text": "between parallel lines without changing"
+  },
+  {
+    "startTime": 72.32,
+    "endTime": 75.28,
+    "text": "their distance, they can work as wheels,"
+  },
+  {
+    "startTime": 75.28,
+    "endTime": 78.08,
+    "text": "provided a little creative engineering."
+  },
+  {
+    "startTime": 78.08,
+    "endTime": 80.56,
+    "text": "And if you rotate one while rolling its"
+  },
+  {
+    "startTime": 80.56,
+    "endTime": 83.439,
+    "text": "midpoint in a nearly circular path, its"
+  },
+  {
+    "startTime": 83.439,
+    "endTime": 86.32,
+    "text": "perimeter traces out a square with"
+  },
+  {
+    "startTime": 86.32,
+    "endTime": 88.96,
+    "text": "rounded corners, allowing triangular"
+  },
+  {
+    "startTime": 88.96,
+    "endTime": 92.4,
+    "text": "drill bits to carve out square holes."
+  },
+  {
+    "startTime": 92.4,
+    "endTime": 95.04,
+    "text": "Any polygon with an odd number of sides"
+  },
+  {
+    "startTime": 95.04,
+    "endTime": 97.36,
+    "text": "can be used to generate a curve of"
+  },
+  {
+    "startTime": 97.36,
+    "endTime": 99.759,
+    "text": "constant width using the same method we"
+  },
+  {
+    "startTime": 99.759,
+    "endTime": 102.0,
+    "text": "applied earlier. Though there are many"
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 104.72,
+    "text": "others that aren't made in this way. For"
+  },
+  {
+    "startTime": 104.72,
+    "endTime": 107.28,
+    "text": "example, if you roll any curve of"
+  },
+  {
+    "startTime": 107.28,
+    "endTime": 110.0,
+    "text": "constant width around another, you'll"
+  },
+  {
+    "startTime": 110.0,
+    "endTime": 112.64,
+    "text": "make a third one. This collection of"
+  },
+  {
+    "startTime": 112.64,
+    "endTime": 115.84,
+    "text": "pointy curves fascinates mathematicians."
+  },
+  {
+    "startTime": 115.84,
+    "endTime": 117.759,
+    "text": "They've given us Barbier's theorem,"
+  },
+  {
+    "startTime": 117.759,
+    "endTime": 119.68,
+    "text": "which says that the perimeter of any"
+  },
+  {
+    "startTime": 119.68,
+    "endTime": 122.24,
+    "text": "curve of constant width, not just a"
+  },
+  {
+    "startTime": 122.24,
+    "endTime": 125.52,
+    "text": "circle, equals pi * the diameter."
+  },
+  {
+    "startTime": 125.52,
+    "endTime": 127.84,
+    "text": "Another tells us that if you had a bunch"
+  },
+  {
+    "startTime": 127.84,
+    "endTime": 130.239,
+    "text": "of curves of constant width with the"
+  },
+  {
+    "startTime": 130.239,
+    "endTime": 132.8,
+    "text": "same width, they would all have the same"
+  },
+  {
+    "startTime": 132.8,
+    "endTime": 135.44,
+    "text": "perimeter. But the ruo triangle would"
+  },
+  {
+    "startTime": 135.44,
+    "endTime": 138.56,
+    "text": "have the smallest area. The circle which"
+  },
+  {
+    "startTime": 138.56,
+    "endTime": 141.12,
+    "text": "is effectively a rulo polygon with an"
+  },
+  {
+    "startTime": 141.12,
+    "endTime": 143.28,
+    "text": "infinite number of sides has the"
+  },
+  {
+    "startTime": 143.28,
+    "endTime": 146.64,
+    "text": "largest. In three dimensions we can make"
+  },
+  {
+    "startTime": 146.64,
+    "endTime": 149.44,
+    "text": "surfaces of constant width like the ruo"
+  },
+  {
+    "startTime": 149.44,
+    "endTime": 151.599,
+    "text": "tetrahedron formed by taking a"
+  },
+  {
+    "startTime": 151.599,
+    "endTime": 154.879,
+    "text": "tetrahedron expanding a sphere from each"
+  },
+  {
+    "startTime": 154.879,
+    "endTime": 157.12,
+    "text": "vertex until it touches the opposite"
+  },
+  {
+    "startTime": 157.12,
+    "endTime": 160.08,
+    "text": "vertices and throwing everything away"
+  },
+  {
+    "startTime": 160.08,
+    "endTime": 162.8,
+    "text": "except the region where they overlap."
+  },
+  {
+    "startTime": 162.8,
+    "endTime": 165.44,
+    "text": "Surfaces of constant width maintain a"
+  },
+  {
+    "startTime": 165.44,
+    "endTime": 168.08,
+    "text": "constant distance between two parallel"
+  },
+  {
+    "startTime": 168.08,
+    "endTime": 170.72,
+    "text": "planes. So you could throw a bunch of ru"
+  },
+  {
+    "startTime": 170.72,
+    "endTime": 173.44,
+    "text": "tetrahedra on the floor and slide a"
+  },
+  {
+    "startTime": 173.44,
+    "endTime": 176.16,
+    "text": "board across them as smoothly as if they"
+  },
+  {
+    "startTime": 176.16,
+    "endTime": 178.239,
+    "text": "were marvelous."
+  },
+  {
+    "startTime": 178.239,
+    "endTime": 180.879,
+    "text": "Now back to manhole covers. A square"
+  },
+  {
+    "startTime": 180.879,
+    "endTime": 183.599,
+    "text": "manhole covers short edge could line up"
+  },
+  {
+    "startTime": 183.599,
+    "endTime": 186.159,
+    "text": "with the wider part of the hole and fall"
+  },
+  {
+    "startTime": 186.159,
+    "endTime": 189.36,
+    "text": "right in. But a curve of constant width"
+  },
+  {
+    "startTime": 189.36,
+    "endTime": 192.4,
+    "text": "won't fall in any orientation. Usually"
+  },
+  {
+    "startTime": 192.4,
+    "endTime": 194.4,
+    "text": "they're circular, but keep your eyes"
+  },
+  {
+    "startTime": 194.4,
+    "endTime": 196.959,
+    "text": "open and you just might come across a"
+  },
+  {
+    "startTime": 196.959,
+    "endTime": 201.08,
+    "text": "rulo triangle manhole."
+  },
+  {
+    "startTime": 207.29,
+    "endTime": 210.418,
+    "text": "[Music]"
+  }
+]

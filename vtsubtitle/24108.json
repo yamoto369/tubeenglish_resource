@@ -1,0 +1,1827 @@
+[
+  {
+    "startTime": 12.869,
+    "endTime": 16.42,
+    "text": "Four years ago, a security researcher,"
+  },
+  {
+    "startTime": 16.422,
+    "endTime": 20.671,
+    "text": "or, as most people would call it, a hacker,"
+  },
+  {
+    "startTime": 20.671,
+    "endTime": 22.838,
+    "text": "found a way to literally"
+  },
+  {
+    "startTime": 22.838,
+    "endTime": 26.041,
+    "text": "make ATMs throw money at him."
+  },
+  {
+    "startTime": 26.041,
+    "endTime": 29.382,
+    "text": "His name was Barnaby Jack,"
+  },
+  {
+    "startTime": 29.382,
+    "endTime": 33.041000000000004,
+    "text": "and this technique was later called \"jackpotting\""
+  },
+  {
+    "startTime": 33.041,
+    "endTime": 34.949999999999996,
+    "text": "in his honor."
+  },
+  {
+    "startTime": 34.95,
+    "endTime": 36.799,
+    "text": "I'm here today because I think"
+  },
+  {
+    "startTime": 36.799,
+    "endTime": 39.85,
+    "text": "we actually need hackers."
+  },
+  {
+    "startTime": 39.85,
+    "endTime": 43.212,
+    "text": "Barnaby Jack could have easily turned"
+  },
+  {
+    "startTime": 43.199,
+    "endTime": 47.397,
+    "text": "into a career criminal or James Bond villain"
+  },
+  {
+    "startTime": 47.397,
+    "endTime": 48.893,
+    "text": "with his knowledge,"
+  },
+  {
+    "startTime": 48.893,
+    "endTime": 51.381,
+    "text": "but he chose to show the world"
+  },
+  {
+    "startTime": 51.381,
+    "endTime": 54.07,
+    "text": "his research instead."
+  },
+  {
+    "startTime": 54.07,
+    "endTime": 55.923,
+    "text": "He believed that sometimes"
+  },
+  {
+    "startTime": 55.923,
+    "endTime": 57.963,
+    "text": "you have to demo a threat"
+  },
+  {
+    "startTime": 57.963,
+    "endTime": 60.88,
+    "text": "to spark a solution,"
+  },
+  {
+    "startTime": 60.88,
+    "endTime": 62.81,
+    "text": "and I feel the same way."
+  },
+  {
+    "startTime": 62.81,
+    "endTime": 64.66,
+    "text": "That's why I'm here today."
+  },
+  {
+    "startTime": 64.66,
+    "endTime": 67.938,
+    "text": "We are often terrified and fascinated"
+  },
+  {
+    "startTime": 67.938,
+    "endTime": 71.399,
+    "text": "by the power hackers now have."
+  },
+  {
+    "startTime": 71.399,
+    "endTime": 73.131,
+    "text": "They scare us,"
+  },
+  {
+    "startTime": 73.131,
+    "endTime": 75.116,
+    "text": "but the choices they make"
+  },
+  {
+    "startTime": 75.116,
+    "endTime": 77.286,
+    "text": "have dramatic outcomes"
+  },
+  {
+    "startTime": 77.286,
+    "endTime": 80.274,
+    "text": "that influence us all."
+  },
+  {
+    "startTime": 80.274,
+    "endTime": 83.609,
+    "text": "So I am here today because I think we need hackers,"
+  },
+  {
+    "startTime": 83.609,
+    "endTime": 87.192,
+    "text": "and in fact, they just might be"
+  },
+  {
+    "startTime": 87.192,
+    "endTime": 91.532,
+    "text": "the immune system for the information age."
+  },
+  {
+    "startTime": 91.532,
+    "endTime": 93.565,
+    "text": "Sometimes they make us sick,"
+  },
+  {
+    "startTime": 93.565,
+    "endTime": 98.22,
+    "text": "but they also find those hidden threats in our world,"
+  },
+  {
+    "startTime": 98.244,
+    "endTime": 101.089,
+    "text": "and they make us fix it."
+  },
+  {
+    "startTime": 101.089,
+    "endTime": 105.447,
+    "text": "I knew that I might get hacked for giving this talk,"
+  },
+  {
+    "startTime": 105.855,
+    "endTime": 108.328,
+    "text": "so let me save you the effort."
+  },
+  {
+    "startTime": 108.328,
+    "endTime": 110.162,
+    "text": "In true TED fashion,"
+  },
+  {
+    "startTime": 110.162,
+    "endTime": 114.135,
+    "text": "here is my most embarrassing picture."
+  },
+  {
+    "startTime": 114.135,
+    "endTime": 117.00500000000001,
+    "text": "But it would be difficult for you to find me in it,"
+  },
+  {
+    "startTime": 117.005,
+    "endTime": 120.743,
+    "text": "because I'm the one who looks like a boy"
+  },
+  {
+    "startTime": 120.743,
+    "endTime": 122.548,
+    "text": "standing to the side."
+  },
+  {
+    "startTime": 122.548,
+    "endTime": 124.93,
+    "text": "I was such a nerd back then"
+  },
+  {
+    "startTime": 124.93,
+    "endTime": 127.53200000000001,
+    "text": "that even the boys on the Dungeons and Dragons team"
+  },
+  {
+    "startTime": 127.532,
+    "endTime": 129.72899999999998,
+    "text": "wouldn't let me join."
+  },
+  {
+    "startTime": 129.729,
+    "endTime": 131.71400000000003,
+    "text": "This is who I was,"
+  },
+  {
+    "startTime": 131.714,
+    "endTime": 135.829,
+    "text": "but this is who I wanted to be:"
+  },
+  {
+    "startTime": 135.829,
+    "endTime": 137.727,
+    "text": "Angelina Jolie."
+  },
+  {
+    "startTime": 137.727,
+    "endTime": 139.282,
+    "text": "She portrayed Acid Burn"
+  },
+  {
+    "startTime": 139.282,
+    "endTime": 141.776,
+    "text": "in the '95 film \"Hackers.\""
+  },
+  {
+    "startTime": 141.776,
+    "endTime": 144.954,
+    "text": "She was pretty and she could rollerblade,"
+  },
+  {
+    "startTime": 144.954,
+    "endTime": 149.06300000000002,
+    "text": "but being a hacker, that made her powerful."
+  },
+  {
+    "startTime": 149.063,
+    "endTime": 151.523,
+    "text": "And I wanted to be just like her,"
+  },
+  {
+    "startTime": 151.523,
+    "endTime": 153.889,
+    "text": "so I started spending a lot of time"
+  },
+  {
+    "startTime": 153.889,
+    "endTime": 156.774,
+    "text": "on hacker chat rooms and online forums."
+  },
+  {
+    "startTime": 156.774,
+    "endTime": 159.107,
+    "text": "I remember one late night"
+  },
+  {
+    "startTime": 159.107,
+    "endTime": 161.368,
+    "text": "I found a bit of PHP code."
+  },
+  {
+    "startTime": 161.368,
+    "endTime": 162.99,
+    "text": "I didn't really know what it did,"
+  },
+  {
+    "startTime": 162.99,
+    "endTime": 164.615,
+    "text": "but I copy-pasted it"
+  },
+  {
+    "startTime": 164.615,
+    "endTime": 166.329,
+    "text": "and used it anyway"
+  },
+  {
+    "startTime": 166.329,
+    "endTime": 168.80200000000002,
+    "text": "to get into a password-protected site"
+  },
+  {
+    "startTime": 168.802,
+    "endTime": 170.606,
+    "text": "Like that,"
+  },
+  {
+    "startTime": 170.606,
+    "endTime": 172.009,
+    "text": "Open Sesame."
+  },
+  {
+    "startTime": 172.009,
+    "endTime": 173.53099999999998,
+    "text": "It was a simple trick,"
+  },
+  {
+    "startTime": 173.531,
+    "endTime": 176.536,
+    "text": "and I was just a script kiddie back then,"
+  },
+  {
+    "startTime": 176.536,
+    "endTime": 177.974,
+    "text": "but to me, that trick,"
+  },
+  {
+    "startTime": 177.974,
+    "endTime": 180.189,
+    "text": "it felt like this,"
+  },
+  {
+    "startTime": 180.189,
+    "endTime": 182.63299999999998,
+    "text": "like I had discovered limitless potential"
+  },
+  {
+    "startTime": 182.633,
+    "endTime": 184.424,
+    "text": "at my fingertips."
+  },
+  {
+    "startTime": 184.424,
+    "endTime": 187.733,
+    "text": "This is the rush of power that hackers feel."
+  },
+  {
+    "startTime": 187.733,
+    "endTime": 190.637,
+    "text": "It's geeks just like me"
+  },
+  {
+    "startTime": 190.637,
+    "endTime": 193.869,
+    "text": "discovering they have access to superpower,"
+  },
+  {
+    "startTime": 193.869,
+    "endTime": 196.496,
+    "text": "one that requires the skill and tenacity"
+  },
+  {
+    "startTime": 196.496,
+    "endTime": 198.00400000000002,
+    "text": "of their intellect,"
+  },
+  {
+    "startTime": 198.004,
+    "endTime": 201.565,
+    "text": "but thankfully no radioactive spiders."
+  },
+  {
+    "startTime": 201.565,
+    "endTime": 205.406,
+    "text": "But with great power comes great responsibility,"
+  },
+  {
+    "startTime": 205.71,
+    "endTime": 209.374,
+    "text": "and you all like to think that if we had such powers,"
+  },
+  {
+    "startTime": 209.374,
+    "endTime": 211.653,
+    "text": "we would only use them for good."
+  },
+  {
+    "startTime": 211.653,
+    "endTime": 215.0,
+    "text": "But what if you could read your ex's emails,"
+  },
+  {
+    "startTime": 215.0,
+    "endTime": 218.112,
+    "text": "or add a couple zeros to your bank account."
+  },
+  {
+    "startTime": 218.112,
+    "endTime": 220.132,
+    "text": "What would you do then?"
+  },
+  {
+    "startTime": 220.132,
+    "endTime": 222.369,
+    "text": "Indeed, many hackers do not resist"
+  },
+  {
+    "startTime": 222.369,
+    "endTime": 224.357,
+    "text": "those temptations,"
+  },
+  {
+    "startTime": 224.357,
+    "endTime": 227.482,
+    "text": "and so they are responsible in one way or another"
+  },
+  {
+    "startTime": 227.482,
+    "endTime": 229.886,
+    "text": "to billions of dollars lost each year"
+  },
+  {
+    "startTime": 229.886,
+    "endTime": 233.147,
+    "text": "to fraud, malware or plain old identity theft,"
+  },
+  {
+    "startTime": 233.147,
+    "endTime": 235.02499999999998,
+    "text": "which is a serious issue."
+  },
+  {
+    "startTime": 235.025,
+    "endTime": 237.01000000000002,
+    "text": "But there are other hackers,"
+  },
+  {
+    "startTime": 237.01,
+    "endTime": 239.772,
+    "text": "hackers who just like to break things,"
+  },
+  {
+    "startTime": 239.772,
+    "endTime": 242.48,
+    "text": "and it is precisely those hackers"
+  },
+  {
+    "startTime": 242.48,
+    "endTime": 245.773,
+    "text": "that can find the weaker elements in our world"
+  },
+  {
+    "startTime": 245.773,
+    "endTime": 247.45,
+    "text": "and make us fix it."
+  },
+  {
+    "startTime": 247.45,
+    "endTime": 249.36999999999998,
+    "text": "This is what happened last year"
+  },
+  {
+    "startTime": 249.37,
+    "endTime": 251.379,
+    "text": "when another security researcher"
+  },
+  {
+    "startTime": 251.379,
+    "endTime": 252.944,
+    "text": "called Kyle Lovett"
+  },
+  {
+    "startTime": 252.944,
+    "endTime": 254.50099999999998,
+    "text": "discovered a gaping hole"
+  },
+  {
+    "startTime": 254.501,
+    "endTime": 257.461,
+    "text": "in the design of certain wireless routers"
+  },
+  {
+    "startTime": 257.461,
+    "endTime": 260.0,
+    "text": "like you might have in your home or office."
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 262.645,
+    "text": "He learned that anyone could remotely connect"
+  },
+  {
+    "startTime": 262.645,
+    "endTime": 264.967,
+    "text": "to these devices over the Internet"
+  },
+  {
+    "startTime": 264.967,
+    "endTime": 267.728,
+    "text": "and download documents from hard drives"
+  },
+  {
+    "startTime": 267.728,
+    "endTime": 271.803,
+    "text": "attached to those routers, no password needed."
+  },
+  {
+    "startTime": 271.75,
+    "endTime": 274.087,
+    "text": "He reported it to the company, of course,"
+  },
+  {
+    "startTime": 274.087,
+    "endTime": 276.401,
+    "text": "but they ignored his report."
+  },
+  {
+    "startTime": 276.401,
+    "endTime": 281.265,
+    "text": "Perhaps they thought universal access was a feature, not a bug."
+  },
+  {
+    "startTime": 281.25,
+    "endTime": 283.105,
+    "text": "Until two months ago,"
+  },
+  {
+    "startTime": 283.105,
+    "endTime": 284.538,
+    "text": "when a group of hackers used it"
+  },
+  {
+    "startTime": 284.538,
+    "endTime": 286.992,
+    "text": "to get into people's files."
+  },
+  {
+    "startTime": 286.992,
+    "endTime": 289.39300000000003,
+    "text": "But they didn't steal anything."
+  },
+  {
+    "startTime": 289.393,
+    "endTime": 291.40999999999997,
+    "text": "They left a note:"
+  },
+  {
+    "startTime": 291.41,
+    "endTime": 293.288,
+    "text": "Your router and your documents"
+  },
+  {
+    "startTime": 293.288,
+    "endTime": 295.447,
+    "text": "can be accessed by anyone in the world."
+  },
+  {
+    "startTime": 295.447,
+    "endTime": 297.715,
+    "text": "Here's what you should do to fix it."
+  },
+  {
+    "startTime": 297.715,
+    "endTime": 300.09299999999996,
+    "text": "We hope we helped."
+  },
+  {
+    "startTime": 300.093,
+    "endTime": 302.623,
+    "text": "By getting into people's files like that,"
+  },
+  {
+    "startTime": 302.623,
+    "endTime": 304.08299999999997,
+    "text": "yeah, they broke the law,"
+  },
+  {
+    "startTime": 304.083,
+    "endTime": 306.55100000000004,
+    "text": "but they also forced that company"
+  },
+  {
+    "startTime": 306.551,
+    "endTime": 308.532,
+    "text": "to fix their product."
+  },
+  {
+    "startTime": 308.532,
+    "endTime": 310.7,
+    "text": "Making vulnerabilities known to the public"
+  },
+  {
+    "startTime": 310.7,
+    "endTime": 313.445,
+    "text": "is a practice called full disclosure"
+  },
+  {
+    "startTime": 313.445,
+    "endTime": 315.04699999999997,
+    "text": "in the hacker community,"
+  },
+  {
+    "startTime": 315.047,
+    "endTime": 317.081,
+    "text": "and it is controversial,"
+  },
+  {
+    "startTime": 317.081,
+    "endTime": 319.613,
+    "text": "but it does make me think of how hackers"
+  },
+  {
+    "startTime": 319.613,
+    "endTime": 322.599,
+    "text": "have an evolving effect on technologies we use"
+  },
+  {
+    "startTime": 322.599,
+    "endTime": 324.09499999999997,
+    "text": "every day."
+  },
+  {
+    "startTime": 324.095,
+    "endTime": 326.37300000000005,
+    "text": "This is what Khalil did."
+  },
+  {
+    "startTime": 326.373,
+    "endTime": 328.988,
+    "text": "Khalil is a Palestinian hacker from the West Bank,"
+  },
+  {
+    "startTime": 328.988,
+    "endTime": 332.997,
+    "text": "and he found a serious privacy flaw on Facebook"
+  },
+  {
+    "startTime": 332.997,
+    "endTime": 334.84700000000004,
+    "text": "which he attempted to report"
+  },
+  {
+    "startTime": 334.847,
+    "endTime": 337.837,
+    "text": "through the company's bug bounty program."
+  },
+  {
+    "startTime": 337.837,
+    "endTime": 340.49399999999997,
+    "text": "These are usually great arrangements for companies"
+  },
+  {
+    "startTime": 340.494,
+    "endTime": 343.67100000000005,
+    "text": "to reward hackers disclosing vulnerabilities"
+  },
+  {
+    "startTime": 343.671,
+    "endTime": 345.36,
+    "text": "they find in their code."
+  },
+  {
+    "startTime": 345.36,
+    "endTime": 348.91,
+    "text": "Unfortunately, due to some miscommunications,"
+  },
+  {
+    "startTime": 348.91,
+    "endTime": 351.946,
+    "text": "his report was not acknowledged."
+  },
+  {
+    "startTime": 351.946,
+    "endTime": 353.79100000000005,
+    "text": "Frustrated with the exchange,"
+  },
+  {
+    "startTime": 353.791,
+    "endTime": 357.068,
+    "text": "he took to use his own discovery"
+  },
+  {
+    "startTime": 357.068,
+    "endTime": 360.203,
+    "text": "to post on Mark Zuckerberg's wall."
+  },
+  {
+    "startTime": 360.203,
+    "endTime": 362.96999999999997,
+    "text": "This got their attention, all right,"
+  },
+  {
+    "startTime": 362.97,
+    "endTime": 366.26500000000004,
+    "text": "and they fixed the bug,"
+  },
+  {
+    "startTime": 366.265,
+    "endTime": 369.12,
+    "text": "but because he hadn't reported it properly,"
+  },
+  {
+    "startTime": 369.12,
+    "endTime": 371.345,
+    "text": "he was denied the bounty usually paid out"
+  },
+  {
+    "startTime": 371.345,
+    "endTime": 373.34900000000005,
+    "text": "for such discoveries."
+  },
+  {
+    "startTime": 373.349,
+    "endTime": 375.33799999999997,
+    "text": "Thankfully for Khalil,"
+  },
+  {
+    "startTime": 375.338,
+    "endTime": 378.22400000000005,
+    "text": "a group of hackers were watching out for him."
+  },
+  {
+    "startTime": 378.224,
+    "endTime": 382.033,
+    "text": "In fact, they raised more than 13,000 dollars"
+  },
+  {
+    "startTime": 382.033,
+    "endTime": 384.111,
+    "text": "to reward him for this discovery,"
+  },
+  {
+    "startTime": 384.111,
+    "endTime": 387.311,
+    "text": "raising a vital discussion in the technology industry"
+  },
+  {
+    "startTime": 387.311,
+    "endTime": 390.37,
+    "text": "about how we come up with incentives"
+  },
+  {
+    "startTime": 390.37,
+    "endTime": 392.96,
+    "text": "for hackers to do the right thing."
+  },
+  {
+    "startTime": 392.96,
+    "endTime": 395.97999999999996,
+    "text": "But I think there's a greater story here still."
+  },
+  {
+    "startTime": 395.98,
+    "endTime": 398.915,
+    "text": "Even companies founded by hackers,"
+  },
+  {
+    "startTime": 398.915,
+    "endTime": 401.302,
+    "text": "like Facebook was,"
+  },
+  {
+    "startTime": 401.302,
+    "endTime": 403.88500000000005,
+    "text": "still have a complicated relationship"
+  },
+  {
+    "startTime": 403.885,
+    "endTime": 405.68899999999996,
+    "text": "when it comes to hackers."
+  },
+  {
+    "startTime": 405.689,
+    "endTime": 408.52000000000004,
+    "text": "And so for more conservative organizations,"
+  },
+  {
+    "startTime": 408.52,
+    "endTime": 412.03799999999995,
+    "text": "it is going to take time and adapting"
+  },
+  {
+    "startTime": 412.038,
+    "endTime": 414.62,
+    "text": "in order to embrace hacker culture"
+  },
+  {
+    "startTime": 414.62,
+    "endTime": 417.741,
+    "text": "and the creative chaos that it brings with it."
+  },
+  {
+    "startTime": 417.741,
+    "endTime": 420.183,
+    "text": "But I think it's worth the effort,"
+  },
+  {
+    "startTime": 420.183,
+    "endTime": 422.163,
+    "text": "because the alternative,"
+  },
+  {
+    "startTime": 422.163,
+    "endTime": 425.993,
+    "text": "to blindly fight all hackers,"
+  },
+  {
+    "startTime": 425.993,
+    "endTime": 428.581,
+    "text": "is to go against the power you cannot control"
+  },
+  {
+    "startTime": 428.581,
+    "endTime": 431.882,
+    "text": "at the cost of stifling innovation"
+  },
+  {
+    "startTime": 431.882,
+    "endTime": 434.076,
+    "text": "and regulating knowledge."
+  },
+  {
+    "startTime": 434.076,
+    "endTime": 438.37,
+    "text": "These are things that will come back and bite you."
+  },
+  {
+    "startTime": 438.37,
+    "endTime": 439.848,
+    "text": "It is even more true"
+  },
+  {
+    "startTime": 439.848,
+    "endTime": 441.927,
+    "text": "if we go after hackers"
+  },
+  {
+    "startTime": 441.927,
+    "endTime": 444.964,
+    "text": "that are willing to risk their own freedom"
+  },
+  {
+    "startTime": 444.964,
+    "endTime": 447.867,
+    "text": "for ideals like the freedom of the web,"
+  },
+  {
+    "startTime": 447.867,
+    "endTime": 451.93,
+    "text": "especially in times like this, like today even,"
+  },
+  {
+    "startTime": 451.93,
+    "endTime": 454.55,
+    "text": "as governments and corporates"
+  },
+  {
+    "startTime": 454.55,
+    "endTime": 457.776,
+    "text": "fight to control the Internet."
+  },
+  {
+    "startTime": 457.776,
+    "endTime": 460.1,
+    "text": "I find it astounding"
+  },
+  {
+    "startTime": 460.1,
+    "endTime": 463.113,
+    "text": "that someone from the shadowy corners of cyberspace"
+  },
+  {
+    "startTime": 463.113,
+    "endTime": 465.928,
+    "text": "can become its voice of opposition,"
+  },
+  {
+    "startTime": 465.928,
+    "endTime": 468.57,
+    "text": "its last line of defense even,"
+  },
+  {
+    "startTime": 468.57,
+    "endTime": 471.98699999999997,
+    "text": "perhaps someone like Anonymous,"
+  },
+  {
+    "startTime": 471.987,
+    "endTime": 475.84000000000003,
+    "text": "the leading brand of global hacktivism."
+  },
+  {
+    "startTime": 475.84,
+    "endTime": 478.09999999999997,
+    "text": "This universal hacker movement"
+  },
+  {
+    "startTime": 478.1,
+    "endTime": 479.706,
+    "text": "needs no introduction today,"
+  },
+  {
+    "startTime": 479.706,
+    "endTime": 481.809,
+    "text": "but six years ago"
+  },
+  {
+    "startTime": 481.809,
+    "endTime": 485.238,
+    "text": "they were not much more than an Internet subculture"
+  },
+  {
+    "startTime": 485.238,
+    "endTime": 488.157,
+    "text": "dedicated to sharing silly pictures of funny cats"
+  },
+  {
+    "startTime": 488.157,
+    "endTime": 491.587,
+    "text": "and Internet trolling campaigns."
+  },
+  {
+    "startTime": 491.587,
+    "endTime": 496.429,
+    "text": "Their moment of transformation was in early 2008"
+  },
+  {
+    "startTime": 496.429,
+    "endTime": 498.07899999999995,
+    "text": "when the Church of Scientology"
+  },
+  {
+    "startTime": 498.079,
+    "endTime": 501.146,
+    "text": "attempted to remove certain leaked videos"
+  },
+  {
+    "startTime": 501.146,
+    "endTime": 505.54900000000004,
+    "text": "from appearing on certain websites."
+  },
+  {
+    "startTime": 505.549,
+    "endTime": 507.989,
+    "text": "This is when Anonymous was forged"
+  },
+  {
+    "startTime": 507.989,
+    "endTime": 510.61999999999995,
+    "text": "out of the seemingly random collection"
+  },
+  {
+    "startTime": 510.62,
+    "endTime": 512.363,
+    "text": "of Internet dwellers."
+  },
+  {
+    "startTime": 512.363,
+    "endTime": 514.817,
+    "text": "It turns out,"
+  },
+  {
+    "startTime": 514.817,
+    "endTime": 516.146,
+    "text": "the Internet doesn't like it"
+  },
+  {
+    "startTime": 516.146,
+    "endTime": 518.769,
+    "text": "when you try to remove things from it,"
+  },
+  {
+    "startTime": 518.769,
+    "endTime": 521.739,
+    "text": "and it will react with cyberattacks"
+  },
+  {
+    "startTime": 521.739,
+    "endTime": 523.84,
+    "text": "and elaborate pranks"
+  },
+  {
+    "startTime": 523.84,
+    "endTime": 526.489,
+    "text": "and with a series of organized protests"
+  },
+  {
+    "startTime": 526.489,
+    "endTime": 527.8340000000001,
+    "text": "all around the world,"
+  },
+  {
+    "startTime": 527.834,
+    "endTime": 529.822,
+    "text": "from my hometown of Tel Aviv"
+  },
+  {
+    "startTime": 529.822,
+    "endTime": 532.066,
+    "text": "to Adelaide, Australia."
+  },
+  {
+    "startTime": 532.066,
+    "endTime": 535.196,
+    "text": "This proved that Anonymous and this idea"
+  },
+  {
+    "startTime": 535.196,
+    "endTime": 538.279,
+    "text": "can rally the masses from the keyboards"
+  },
+  {
+    "startTime": 538.279,
+    "endTime": 539.855,
+    "text": "to the streets,"
+  },
+  {
+    "startTime": 539.855,
+    "endTime": 541.802,
+    "text": "and it laid the foundations"
+  },
+  {
+    "startTime": 541.802,
+    "endTime": 544.02,
+    "text": "for dozens of future operations"
+  },
+  {
+    "startTime": 544.02,
+    "endTime": 545.96,
+    "text": "against perceived injustices"
+  },
+  {
+    "startTime": 545.96,
+    "endTime": 549.316,
+    "text": "to their online and offline world."
+  },
+  {
+    "startTime": 549.316,
+    "endTime": 551.341,
+    "text": "Since then, they've gone after many targets."
+  },
+  {
+    "startTime": 551.341,
+    "endTime": 554.13,
+    "text": "They've uncovered corruption, abuse."
+  },
+  {
+    "startTime": 554.13,
+    "endTime": 556.95,
+    "text": "They've hacked popes and politicians,"
+  },
+  {
+    "startTime": 556.95,
+    "endTime": 558.6270000000001,
+    "text": "and I think their effect is larger"
+  },
+  {
+    "startTime": 558.627,
+    "endTime": 561.424,
+    "text": "than simple denial of service attacks"
+  },
+  {
+    "startTime": 561.424,
+    "endTime": 562.8,
+    "text": "that take down websites"
+  },
+  {
+    "startTime": 562.8,
+    "endTime": 566.438,
+    "text": "or even leak sensitive documents."
+  },
+  {
+    "startTime": 566.438,
+    "endTime": 569.48,
+    "text": "I think that, like Robin Hood,"
+  },
+  {
+    "startTime": 569.48,
+    "endTime": 573.38,
+    "text": "they are in the business of redistribution,"
+  },
+  {
+    "startTime": 573.38,
+    "endTime": 576.112,
+    "text": "but what they are after isn't your money."
+  },
+  {
+    "startTime": 576.112,
+    "endTime": 580.842,
+    "text": "It's not your documents. It's your attention."
+  },
+  {
+    "startTime": 580.842,
+    "endTime": 585.382,
+    "text": "They grab the spotlight for causes they support,"
+  },
+  {
+    "startTime": 585.382,
+    "endTime": 588.0129999999999,
+    "text": "forcing us to take note,"
+  },
+  {
+    "startTime": 588.013,
+    "endTime": 590.4780000000001,
+    "text": "acting as a global magnifying glass"
+  },
+  {
+    "startTime": 590.478,
+    "endTime": 592.622,
+    "text": "for issues that we are not as aware of"
+  },
+  {
+    "startTime": 592.622,
+    "endTime": 594.731,
+    "text": "but perhaps we should be."
+  },
+  {
+    "startTime": 594.731,
+    "endTime": 596.584,
+    "text": "They have been called many names"
+  },
+  {
+    "startTime": 596.584,
+    "endTime": 598.3549999999999,
+    "text": "from criminals to terrorists,"
+  },
+  {
+    "startTime": 598.355,
+    "endTime": 601.801,
+    "text": "and I cannot justify their illegal means,"
+  },
+  {
+    "startTime": 601.801,
+    "endTime": 603.942,
+    "text": "but the ideas they fight for"
+  },
+  {
+    "startTime": 603.942,
+    "endTime": 607.968,
+    "text": "are ones that matter to us all."
+  },
+  {
+    "startTime": 607.968,
+    "endTime": 609.9509999999999,
+    "text": "The reality is,"
+  },
+  {
+    "startTime": 609.951,
+    "endTime": 612.756,
+    "text": "hackers can do a lot more than break things."
+  },
+  {
+    "startTime": 612.756,
+    "endTime": 615.2289999999999,
+    "text": "They can bring people together."
+  },
+  {
+    "startTime": 615.229,
+    "endTime": 617.552,
+    "text": "And if the Internet doesn't like it"
+  },
+  {
+    "startTime": 617.552,
+    "endTime": 620.1990000000001,
+    "text": "when you try to remove things from it,"
+  },
+  {
+    "startTime": 620.199,
+    "endTime": 621.0999999999999,
+    "text": "just watch what happens"
+  },
+  {
+    "startTime": 621.1,
+    "endTime": 623.929,
+    "text": "when you try to shut the Internet down."
+  },
+  {
+    "startTime": 623.929,
+    "endTime": 628.521,
+    "text": "This took place in Egypt in January 2011,"
+  },
+  {
+    "startTime": 628.521,
+    "endTime": 631.737,
+    "text": "and as President Hosni Mubarak"
+  },
+  {
+    "startTime": 631.737,
+    "endTime": 633.7909999999999,
+    "text": "attempted a desperate move"
+  },
+  {
+    "startTime": 633.791,
+    "endTime": 637.633,
+    "text": "to quash the rising revolution on the streets of Cairo,"
+  },
+  {
+    "startTime": 637.633,
+    "endTime": 639.503,
+    "text": "he sent his personal troops"
+  },
+  {
+    "startTime": 639.503,
+    "endTime": 643.1460000000001,
+    "text": "down to Egypt's Internet service providers"
+  },
+  {
+    "startTime": 643.146,
+    "endTime": 645.617,
+    "text": "and had them physically kill the switch"
+  },
+  {
+    "startTime": 645.617,
+    "endTime": 649.862,
+    "text": "on the country's connection to the world overnight."
+  },
+  {
+    "startTime": 649.862,
+    "endTime": 651.477,
+    "text": "For a government to do a thing like that"
+  },
+  {
+    "startTime": 651.477,
+    "endTime": 653.196,
+    "text": "was unprecedented,"
+  },
+  {
+    "startTime": 653.196,
+    "endTime": 656.6600000000001,
+    "text": "and for hackers, it made it personal."
+  },
+  {
+    "startTime": 656.66,
+    "endTime": 658.7479999999999,
+    "text": "Hackers like the Telecomix group"
+  },
+  {
+    "startTime": 658.748,
+    "endTime": 660.6210000000001,
+    "text": "were already active on the ground,"
+  },
+  {
+    "startTime": 660.621,
+    "endTime": 663.439,
+    "text": "helping Egyptians bypass censorship"
+  },
+  {
+    "startTime": 663.439,
+    "endTime": 665.929,
+    "text": "using clever workarounds like Morse code"
+  },
+  {
+    "startTime": 665.929,
+    "endTime": 667.957,
+    "text": "and ham radio."
+  },
+  {
+    "startTime": 667.957,
+    "endTime": 670.086,
+    "text": "It was high season for low tech,"
+  },
+  {
+    "startTime": 670.086,
+    "endTime": 672.65,
+    "text": "which the government couldn't block,"
+  },
+  {
+    "startTime": 672.65,
+    "endTime": 675.8919999999999,
+    "text": "but when the Net went completely down,"
+  },
+  {
+    "startTime": 675.892,
+    "endTime": 678.83,
+    "text": "Telecomix brought in the big guns."
+  },
+  {
+    "startTime": 678.83,
+    "endTime": 681.0010000000001,
+    "text": "They found European service providers"
+  },
+  {
+    "startTime": 681.001,
+    "endTime": 683.31,
+    "text": "that still had 20-year-old"
+  },
+  {
+    "startTime": 683.31,
+    "endTime": 685.89,
+    "text": "analog dial-up access infrastructure."
+  },
+  {
+    "startTime": 685.89,
+    "endTime": 689.292,
+    "text": "They opened up 300 of those lines"
+  },
+  {
+    "startTime": 689.292,
+    "endTime": 691.7660000000001,
+    "text": "for Egyptians to use,"
+  },
+  {
+    "startTime": 691.766,
+    "endTime": 694.603,
+    "text": "serving slow but sweet Internet connection"
+  },
+  {
+    "startTime": 694.603,
+    "endTime": 696.0039999999999,
+    "text": "for Egyptians."
+  },
+  {
+    "startTime": 696.004,
+    "endTime": 697.299,
+    "text": "This worked."
+  },
+  {
+    "startTime": 697.299,
+    "endTime": 699.092,
+    "text": "It worked so well, in fact,"
+  },
+  {
+    "startTime": 699.092,
+    "endTime": 701.372,
+    "text": "one guy even used it to download an episode"
+  },
+  {
+    "startTime": 701.372,
+    "endTime": 705.7099999999999,
+    "text": "of \"How I Met Your Mother.\""
+  },
+  {
+    "startTime": 705.71,
+    "endTime": 709.6310000000001,
+    "text": "But while Egypt's future is still uncertain,"
+  },
+  {
+    "startTime": 709.631,
+    "endTime": 712.284,
+    "text": "when the same thing happened in Syria"
+  },
+  {
+    "startTime": 712.284,
+    "endTime": 713.804,
+    "text": "just one year later,"
+  },
+  {
+    "startTime": 713.804,
+    "endTime": 717.539,
+    "text": "Telecomix were prepared with those Internet lines,"
+  },
+  {
+    "startTime": 717.539,
+    "endTime": 718.708,
+    "text": "and Anonymous,"
+  },
+  {
+    "startTime": 718.708,
+    "endTime": 720.954,
+    "text": "they were perhaps the first international group"
+  },
+  {
+    "startTime": 720.954,
+    "endTime": 722.6579999999999,
+    "text": "to officially denounce the actions"
+  },
+  {
+    "startTime": 722.658,
+    "endTime": 724.571,
+    "text": "of the Syrian military"
+  },
+  {
+    "startTime": 724.571,
+    "endTime": 727.375,
+    "text": "by defacing their website."
+  },
+  {
+    "startTime": 727.375,
+    "endTime": 730.867,
+    "text": "But with this sort of power,"
+  },
+  {
+    "startTime": 730.867,
+    "endTime": 733.213,
+    "text": "it really depends on where you stand,"
+  },
+  {
+    "startTime": 733.213,
+    "endTime": 736.722,
+    "text": "because one man's hero"
+  },
+  {
+    "startTime": 736.722,
+    "endTime": 738.9689999999999,
+    "text": "can be another's villain,"
+  },
+  {
+    "startTime": 738.969,
+    "endTime": 741.3670000000001,
+    "text": "and so the Syrian Electronic Army"
+  },
+  {
+    "startTime": 741.367,
+    "endTime": 743.838,
+    "text": "is a pro-Assad group of hackers"
+  },
+  {
+    "startTime": 743.838,
+    "endTime": 746.5029999999999,
+    "text": "who support his contentious regime."
+  },
+  {
+    "startTime": 746.503,
+    "endTime": 749.1850000000001,
+    "text": "They've taken down multiple high-profile targets"
+  },
+  {
+    "startTime": 749.185,
+    "endTime": 750.8199999999999,
+    "text": "in the past few years,"
+  },
+  {
+    "startTime": 750.82,
+    "endTime": 754.2030000000001,
+    "text": "including the Associated Press's Twitter account,"
+  },
+  {
+    "startTime": 754.203,
+    "endTime": 757.2189999999999,
+    "text": "in which they posted a message"
+  },
+  {
+    "startTime": 757.219,
+    "endTime": 759.375,
+    "text": "about an attack on the White House"
+  },
+  {
+    "startTime": 759.375,
+    "endTime": 762.638,
+    "text": "injuring President Obama."
+  },
+  {
+    "startTime": 762.638,
+    "endTime": 764.783,
+    "text": "This tweet was fake, of course,"
+  },
+  {
+    "startTime": 764.783,
+    "endTime": 767.722,
+    "text": "but the resulting drop in the Dow Jones index"
+  },
+  {
+    "startTime": 767.722,
+    "endTime": 771.0989999999999,
+    "text": "that day was most certainly not,"
+  },
+  {
+    "startTime": 771.099,
+    "endTime": 774.361,
+    "text": "and a lot of people lost a lot of money."
+  },
+  {
+    "startTime": 774.361,
+    "endTime": 778.2669999999999,
+    "text": "This sort of thing is happening all over the world right now."
+  },
+  {
+    "startTime": 778.267,
+    "endTime": 781.214,
+    "text": "In conflicts from the Crimean Peninsula"
+  },
+  {
+    "startTime": 781.214,
+    "endTime": 783.576,
+    "text": "to Latin America,"
+  },
+  {
+    "startTime": 783.576,
+    "endTime": 785.88,
+    "text": "from Europe to the United States,"
+  },
+  {
+    "startTime": 785.88,
+    "endTime": 788.937,
+    "text": "hackers are a force for social,"
+  },
+  {
+    "startTime": 788.937,
+    "endTime": 792.703,
+    "text": "political and military influence."
+  },
+  {
+    "startTime": 792.703,
+    "endTime": 794.954,
+    "text": "As individuals or in groups,"
+  },
+  {
+    "startTime": 794.954,
+    "endTime": 797.5939999999999,
+    "text": "volunteers or military conflicts,"
+  },
+  {
+    "startTime": 797.594,
+    "endTime": 800.235,
+    "text": "there are hackers everywhere."
+  },
+  {
+    "startTime": 800.235,
+    "endTime": 802.33,
+    "text": "They come from all walks of life,"
+  },
+  {
+    "startTime": 802.33,
+    "endTime": 807.254,
+    "text": "ethnicities, ideologies and genders, I might add."
+  },
+  {
+    "startTime": 807.254,
+    "endTime": 811.053,
+    "text": "They are now shaping the world's stage."
+  },
+  {
+    "startTime": 811.053,
+    "endTime": 813.898,
+    "text": "Hackers represent an exceptional force for change"
+  },
+  {
+    "startTime": 813.898,
+    "endTime": 816.062,
+    "text": "in the 21st century."
+  },
+  {
+    "startTime": 816.062,
+    "endTime": 818.599,
+    "text": "This is because access to information"
+  },
+  {
+    "startTime": 818.599,
+    "endTime": 821.912,
+    "text": "is a critical currency of power,"
+  },
+  {
+    "startTime": 821.912,
+    "endTime": 824.878,
+    "text": "one which governments would like to control,"
+  },
+  {
+    "startTime": 824.878,
+    "endTime": 827.339,
+    "text": "a thing they attempt to do by setting up"
+  },
+  {
+    "startTime": 827.339,
+    "endTime": 830.999,
+    "text": "all-you-can-eat surveillance programs,"
+  },
+  {
+    "startTime": 830.999,
+    "endTime": 833.7370000000001,
+    "text": "a thing they need hackers for, by the way."
+  },
+  {
+    "startTime": 833.737,
+    "endTime": 836.384,
+    "text": "And so the establishment has long had"
+  },
+  {
+    "startTime": 836.384,
+    "endTime": 840.091,
+    "text": "a love-hate relationship when it comes to hackers,"
+  },
+  {
+    "startTime": 840.091,
+    "endTime": 842.849,
+    "text": "because the same people who demonize hacking"
+  },
+  {
+    "startTime": 842.849,
+    "endTime": 847.931,
+    "text": "also utilize it at large."
+  },
+  {
+    "startTime": 847.931,
+    "endTime": 849.1790000000001,
+    "text": "Two years ago,"
+  },
+  {
+    "startTime": 849.179,
+    "endTime": 851.952,
+    "text": "I saw General Keith Alexander."
+  },
+  {
+    "startTime": 851.952,
+    "endTime": 856.17,
+    "text": "He's the NSA director and U.S. cyber commander,"
+  },
+  {
+    "startTime": 856.17,
+    "endTime": 859.8779999999999,
+    "text": "but instead of his four star general uniform,"
+  },
+  {
+    "startTime": 859.878,
+    "endTime": 862.1740000000001,
+    "text": "he was wearing jeans and a t-shirt."
+  },
+  {
+    "startTime": 862.174,
+    "endTime": 863.918,
+    "text": "This was at DEF CON,"
+  },
+  {
+    "startTime": 863.918,
+    "endTime": 867.023,
+    "text": "the world's largest hacker conference."
+  },
+  {
+    "startTime": 867.023,
+    "endTime": 868.95,
+    "text": "Perhaps like me, General Alexander"
+  },
+  {
+    "startTime": 868.95,
+    "endTime": 872.7700000000001,
+    "text": "didn't see 12,000 criminals that day in Vegas."
+  },
+  {
+    "startTime": 872.77,
+    "endTime": 875.881,
+    "text": "I think he saw untapped potential."
+  },
+  {
+    "startTime": 875.881,
+    "endTime": 879.254,
+    "text": "In fact, he was there to give a hiring pitch."
+  },
+  {
+    "startTime": 879.254,
+    "endTime": 881.894,
+    "text": "\"In this room right here,\" he said,"
+  },
+  {
+    "startTime": 881.894,
+    "endTime": 884.284,
+    "text": "\"is the talent our nation needs.\""
+  },
+  {
+    "startTime": 884.284,
+    "endTime": 887.664,
+    "text": "Well, hackers in the back row replied,"
+  },
+  {
+    "startTime": 887.664,
+    "endTime": 889.79,
+    "text": "\"Then stop arresting us.\""
+  },
+  {
+    "startTime": 889.79,
+    "endTime": 893.2239999999999,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 893.224,
+    "endTime": 895.803,
+    "text": "Indeed, for years,"
+  },
+  {
+    "startTime": 895.803,
+    "endTime": 898.619,
+    "text": "hackers have been on the wrong side of the fence,"
+  },
+  {
+    "startTime": 898.619,
+    "endTime": 901.527,
+    "text": "but in light of what we know now,"
+  },
+  {
+    "startTime": 901.527,
+    "endTime": 905.8000000000001,
+    "text": "who is more watchful of our online world?"
+  },
+  {
+    "startTime": 905.8,
+    "endTime": 908.8059999999999,
+    "text": "The rules of the game are not that clear anymore,"
+  },
+  {
+    "startTime": 908.806,
+    "endTime": 912.2180000000001,
+    "text": "but hackers are perhaps the only ones"
+  },
+  {
+    "startTime": 912.218,
+    "endTime": 916.101,
+    "text": "still capable of challenging overreaching governments"
+  },
+  {
+    "startTime": 916.101,
+    "endTime": 918.316,
+    "text": "and data-hoarding corporates"
+  },
+  {
+    "startTime": 918.316,
+    "endTime": 920.794,
+    "text": "on their own playing field."
+  },
+  {
+    "startTime": 920.794,
+    "endTime": 923.914,
+    "text": "To me, that represents hope."
+  },
+  {
+    "startTime": 923.914,
+    "endTime": 925.2379999999999,
+    "text": "For the past three decades,"
+  },
+  {
+    "startTime": 925.238,
+    "endTime": 926.7890000000001,
+    "text": "hackers have done a lot of things,"
+  },
+  {
+    "startTime": 926.789,
+    "endTime": 930.006,
+    "text": "but they have also impacted civil liberties,"
+  },
+  {
+    "startTime": 930.006,
+    "endTime": 932.376,
+    "text": "innovation and Internet freedom,"
+  },
+  {
+    "startTime": 932.376,
+    "endTime": 935.305,
+    "text": "so I think it's time we take a good look"
+  },
+  {
+    "startTime": 935.305,
+    "endTime": 937.435,
+    "text": "at how we choose to portray them,"
+  },
+  {
+    "startTime": 937.435,
+    "endTime": 941.0189999999999,
+    "text": "because if we keep expecting them to be the bad guys,"
+  },
+  {
+    "startTime": 941.019,
+    "endTime": 944.489,
+    "text": "how can they be the heroes too?"
+  },
+  {
+    "startTime": 944.489,
+    "endTime": 946.5,
+    "text": "My years in the hacker world"
+  },
+  {
+    "startTime": 946.5,
+    "endTime": 948.142,
+    "text": "have made me realize"
+  },
+  {
+    "startTime": 948.142,
+    "endTime": 953.875,
+    "text": "both the problem and the beauty about hackers:"
+  },
+  {
+    "startTime": 953.875,
+    "endTime": 957.033,
+    "text": "They just can't see something broken in the world"
+  },
+  {
+    "startTime": 957.033,
+    "endTime": 958.6800000000001,
+    "text": "and leave it be."
+  },
+  {
+    "startTime": 958.68,
+    "endTime": 960.3599999999999,
+    "text": "They are compelled"
+  },
+  {
+    "startTime": 960.36,
+    "endTime": 963.89,
+    "text": "to either exploit it or try and change it,"
+  },
+  {
+    "startTime": 963.89,
+    "endTime": 967.806,
+    "text": "and so they find the vulnerable aspects"
+  },
+  {
+    "startTime": 967.806,
+    "endTime": 969.94,
+    "text": "in our rapidly changing world."
+  },
+  {
+    "startTime": 969.94,
+    "endTime": 974.282,
+    "text": "They make us, they force us to fix things"
+  },
+  {
+    "startTime": 974.282,
+    "endTime": 976.0010000000001,
+    "text": "or demand something better,"
+  },
+  {
+    "startTime": 976.001,
+    "endTime": 977.995,
+    "text": "and I think we need them"
+  },
+  {
+    "startTime": 977.995,
+    "endTime": 980.201,
+    "text": "to do just that,"
+  },
+  {
+    "startTime": 980.201,
+    "endTime": 983.47,
+    "text": "because after all, it is not information"
+  },
+  {
+    "startTime": 983.47,
+    "endTime": 986.575,
+    "text": "that wants to be free, it's us."
+  },
+  {
+    "startTime": 986.575,
+    "endTime": 989.937,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 989.937,
+    "endTime": 992.295,
+    "text": "Thank you. (Applause)"
+  },
+  {
+    "startTime": 992.295,
+    "endTime": 994.18,
+    "text": "Hack the planet!"
+  }
+]

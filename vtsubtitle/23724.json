@@ -1,0 +1,267 @@
+[
+  {
+    "startTime": 7.022,
+    "endTime": 10.718,
+    "text": "Why are most manhole covers round?"
+  },
+  {
+    "startTime": 10.718,
+    "endTime": 15.049,
+    "text": "Sure, it makes them easy to roll and slide into place in any alignment"
+  },
+  {
+    "startTime": 15.049,
+    "endTime": 17.785,
+    "text": "but there's another more compelling reason"
+  },
+  {
+    "startTime": 17.785,
+    "endTime": 23.13,
+    "text": "involving a peculiar geometric property of circles and other shapes."
+  },
+  {
+    "startTime": 23.13,
+    "endTime": 26.858999999999998,
+    "text": "Imagine a square  separating two parallel lines."
+  },
+  {
+    "startTime": 26.859,
+    "endTime": 31.905,
+    "text": "As it rotates, the lines first push apart, then come back together."
+  },
+  {
+    "startTime": 31.905,
+    "endTime": 33.579,
+    "text": "But try this with a circle"
+  },
+  {
+    "startTime": 33.579,
+    "endTime": 37.042,
+    "text": "and the lines stay  exactly the same distance apart,"
+  },
+  {
+    "startTime": 37.042,
+    "endTime": 39.037,
+    "text": "the diameter of the circle."
+  },
+  {
+    "startTime": 39.037,
+    "endTime": 41.612,
+    "text": "This makes the circle unlike the square,"
+  },
+  {
+    "startTime": 41.612,
+    "endTime": 46.688,
+    "text": "a mathematical shape  called a curve of constant width."
+  },
+  {
+    "startTime": 46.688,
+    "endTime": 50.22,
+    "text": "Another shape with this property is the Reuleaux triangle."
+  },
+  {
+    "startTime": 50.22,
+    "endTime": 53.309,
+    "text": "To create one,  start with an equilateral triangle,"
+  },
+  {
+    "startTime": 53.309,
+    "endTime": 58.778999999999996,
+    "text": "then make one of the vertices the center of a circle that touches the other two."
+  },
+  {
+    "startTime": 58.779,
+    "endTime": 63.586000000000006,
+    "text": "Draw two more circles in the same way, centered on the other two vertices,"
+  },
+  {
+    "startTime": 63.586,
+    "endTime": 67.704,
+    "text": "and there it is, in the space  where they all overlap."
+  },
+  {
+    "startTime": 67.704,
+    "endTime": 71.464,
+    "text": "Because Reuleaux triangles can rotate between parallel lines"
+  },
+  {
+    "startTime": 71.464,
+    "endTime": 73.583,
+    "text": "without changing their distance,"
+  },
+  {
+    "startTime": 73.583,
+    "endTime": 78.335,
+    "text": "they can work as wheels, provided a little creative engineering."
+  },
+  {
+    "startTime": 78.335,
+    "endTime": 83.16699999999999,
+    "text": "And if you rotate one while rolling its midpoint in a nearly circular path,"
+  },
+  {
+    "startTime": 83.167,
+    "endTime": 88.01,
+    "text": "its perimeter traces out a square with rounded corners,"
+  },
+  {
+    "startTime": 88.01,
+    "endTime": 92.512,
+    "text": "allowing triangular drill bits to carve out square holes."
+  },
+  {
+    "startTime": 92.512,
+    "endTime": 94.986,
+    "text": "Any polygon with an odd number of sides"
+  },
+  {
+    "startTime": 94.986,
+    "endTime": 98.518,
+    "text": "can be used to generate  a curve of constant width"
+  },
+  {
+    "startTime": 98.518,
+    "endTime": 101.215,
+    "text": "using the same method we applied earlier,"
+  },
+  {
+    "startTime": 101.215,
+    "endTime": 104.807,
+    "text": "though there are many others that aren't made in this way."
+  },
+  {
+    "startTime": 104.807,
+    "endTime": 109.792,
+    "text": "For example, if you roll any  curve of constant width around another,"
+  },
+  {
+    "startTime": 109.792,
+    "endTime": 111.656,
+    "text": "you'll make a third one."
+  },
+  {
+    "startTime": 111.656,
+    "endTime": 115.997,
+    "text": "This collection of pointy curves fascinates mathematicians."
+  },
+  {
+    "startTime": 115.997,
+    "endTime": 117.827,
+    "text": "They've given us Barbier's theorem,"
+  },
+  {
+    "startTime": 117.827,
+    "endTime": 121.23,
+    "text": "which says that the perimeter  of any curve of constant width,"
+  },
+  {
+    "startTime": 121.23,
+    "endTime": 125.63000000000001,
+    "text": "not just a circle, equals pi times the diameter."
+  },
+  {
+    "startTime": 125.63,
+    "endTime": 129.677,
+    "text": "Another theorem tells us that if you had a bunch of curves of constant width"
+  },
+  {
+    "startTime": 129.677,
+    "endTime": 131.537,
+    "text": "with the same width,"
+  },
+  {
+    "startTime": 131.537,
+    "endTime": 133.762,
+    "text": "they would all have the same perimeter,"
+  },
+  {
+    "startTime": 133.762,
+    "endTime": 137.646,
+    "text": "but the Reuleaux triangle  would have the smallest area."
+  },
+  {
+    "startTime": 137.646,
+    "endTime": 140.826,
+    "text": "The circle, which is effectively  a Reuleaux polygon"
+  },
+  {
+    "startTime": 140.826,
+    "endTime": 144.356,
+    "text": "with an infinite number of sides, has the largest."
+  },
+  {
+    "startTime": 144.356,
+    "endTime": 148.795,
+    "text": "In three dimensions, we can make  surfaces of constant width,"
+  },
+  {
+    "startTime": 148.795,
+    "endTime": 150.68599999999998,
+    "text": "like the Reuleaux tetrahedron,"
+  },
+  {
+    "startTime": 150.686,
+    "endTime": 152.715,
+    "text": "formed by taking a tetrahedron,"
+  },
+  {
+    "startTime": 152.715,
+    "endTime": 157.953,
+    "text": "expanding a sphere from each vertex until it touches the opposite vertices,"
+  },
+  {
+    "startTime": 157.953,
+    "endTime": 162.97,
+    "text": "and throwing everything away except the region where they overlap."
+  },
+  {
+    "startTime": 162.97,
+    "endTime": 164.672,
+    "text": "Surfaces of constant width"
+  },
+  {
+    "startTime": 164.672,
+    "endTime": 169.039,
+    "text": "maintain a constant distance  between two parallel planes."
+  },
+  {
+    "startTime": 169.039,
+    "endTime": 172.37699999999998,
+    "text": "So you could throw a bunch  of Reuleaux tetrahedra on the floor,"
+  },
+  {
+    "startTime": 172.377,
+    "endTime": 177.614,
+    "text": "and slide a board across them as smoothly as if they were marbles."
+  },
+  {
+    "startTime": 177.614,
+    "endTime": 180.443,
+    "text": "Now back to manhole covers."
+  },
+  {
+    "startTime": 180.443,
+    "endTime": 182.74800000000002,
+    "text": "A square manhole cover's short edge"
+  },
+  {
+    "startTime": 182.748,
+    "endTime": 187.31099999999998,
+    "text": "could line up with the wider part  of the hole and fall right in."
+  },
+  {
+    "startTime": 187.311,
+    "endTime": 192.10500000000002,
+    "text": "But a curve of constant width won't fall in any orientation."
+  },
+  {
+    "startTime": 192.105,
+    "endTime": 194.803,
+    "text": "Usually they're circular,  but keep your eyes open,"
+  },
+  {
+    "startTime": 194.803,
+    "endTime": 204.803,
+    "text": "and you just might come across  a Reuleaux triangle manhole."
+  }
+]

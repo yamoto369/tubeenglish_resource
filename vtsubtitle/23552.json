@@ -1,0 +1,702 @@
+[
+  {
+    "startTime": 7.718,
+    "endTime": 16.785,
+    "text": "(Video Presenter): And, the winner  of the 75,000 dollar 2012 Gordon E. Moore Award"
+  },
+  {
+    "startTime": 16.785,
+    "endTime": 20.396,
+    "text": "in the category of Medicine and Health Sciences,"
+  },
+  {
+    "startTime": 20.396,
+    "endTime": 23.759,
+    "text": "(Cheers) (Applause)"
+  },
+  {
+    "startTime": 23.759,
+    "endTime": 26.16,
+    "text": "the grand prize winner, Jack Thomas Andraka."
+  },
+  {
+    "startTime": 26.16,
+    "endTime": 33.803,
+    "text": "(Cheers) (Applause)"
+  },
+  {
+    "startTime": 33.803,
+    "endTime": 52.248999999999995,
+    "text": "(Trumpets) (Applause)"
+  },
+  {
+    "startTime": 52.249,
+    "endTime": 55.023,
+    "text": "And, now, ladies and gentlemen,"
+  },
+  {
+    "startTime": 55.023,
+    "endTime": 57.291000000000004,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 57.291,
+    "endTime": 61.748999999999995,
+    "text": "it is my honor to present to you  the top award winners"
+  },
+  {
+    "startTime": 61.749,
+    "endTime": 67.381,
+    "text": "of 2012 Intel International Science and Engineering Fair (Applause)"
+  },
+  {
+    "startTime": 67.381,
+    "endTime": 70.509,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 70.509,
+    "endTime": 72.325,
+    "text": "Jack Andraka: So there I am."
+  },
+  {
+    "startTime": 72.325,
+    "endTime": 75.71900000000001,
+    "text": "No, that was the entire talk, bye."
+  },
+  {
+    "startTime": 75.719,
+    "endTime": 79.14699999999999,
+    "text": "We have been talking a lot about this thing called cancer."
+  },
+  {
+    "startTime": 79.147,
+    "endTime": 82.083,
+    "text": "It's really near and dear to all of us."
+  },
+  {
+    "startTime": 82.083,
+    "endTime": 86.155,
+    "text": "But, imagine a world without cancer."
+  },
+  {
+    "startTime": 86.155,
+    "endTime": 92.062,
+    "text": "What if there was a sensor that was like a diabetes test strip"
+  },
+  {
+    "startTime": 92.062,
+    "endTime": 97.364,
+    "text": "that could detect cancer for less than 3 cents in 5 minutes."
+  },
+  {
+    "startTime": 97.364,
+    "endTime": 103.217,
+    "text": "Imagine a 168 times faster, over 26,000 times less expensive,"
+  },
+  {
+    "startTime": 103.217,
+    "endTime": 106.309,
+    "text": "and over 400 times more sensitive."
+  },
+  {
+    "startTime": 106.309,
+    "endTime": 109.67699999999999,
+    "text": "Well, I created such a strip."
+  },
+  {
+    "startTime": 109.677,
+    "endTime": 112.31400000000001,
+    "text": "Basically, I was motivated to do this"
+  },
+  {
+    "startTime": 112.314,
+    "endTime": 117.66099999999999,
+    "text": "because I had a close family member that passed due to pancreatic cancer."
+  },
+  {
+    "startTime": 117.661,
+    "endTime": 121.488,
+    "text": "It's a really devastating disease. It's the death sentence basically."
+  },
+  {
+    "startTime": 121.488,
+    "endTime": 123.256,
+    "text": "You can see that, after 5 years,"
+  },
+  {
+    "startTime": 123.256,
+    "endTime": 128.397,
+    "text": "only 5.5 percent of people who are initially diagnosed, will survive."
+  },
+  {
+    "startTime": 128.397,
+    "endTime": 130.398,
+    "text": "That is a staggering statistics."
+  },
+  {
+    "startTime": 130.398,
+    "endTime": 133.84199999999998,
+    "text": "Why as a society that is so technologically advanced --"
+  },
+  {
+    "startTime": 133.842,
+    "endTime": 137.27900000000002,
+    "text": "should this statistic be acceptable to us."
+  },
+  {
+    "startTime": 137.279,
+    "endTime": 141.51,
+    "text": "So, then, I got really interested and I started doing a bit of research."
+  },
+  {
+    "startTime": 141.51,
+    "endTime": 144.041,
+    "text": "What I found is that there are these certain proteins."
+  },
+  {
+    "startTime": 144.041,
+    "endTime": 146.982,
+    "text": "They are found in your blood at higher concentrations"
+  },
+  {
+    "startTime": 146.982,
+    "endTime": 149.182,
+    "text": "when you have pancreatic cancer."
+  },
+  {
+    "startTime": 149.182,
+    "endTime": 151.51899999999998,
+    "text": "I was looking at one, called mesothelin."
+  },
+  {
+    "startTime": 151.519,
+    "endTime": 157.525,
+    "text": "It's highly overexpressed by pancreatic cancer as well as [at] the early stages."
+  },
+  {
+    "startTime": 157.525,
+    "endTime": 163.064,
+    "text": "Where, if you can find it in those stages, then it has close to a 100% survival rate"
+  },
+  {
+    "startTime": 163.064,
+    "endTime": 165.547,
+    "text": "rather than 5.5%."
+  },
+  {
+    "startTime": 165.547,
+    "endTime": 169.102,
+    "text": "But, also a main problem with our current diagnostic test"
+  },
+  {
+    "startTime": 169.102,
+    "endTime": 173.04,
+    "text": "for pancreatic cancer -- it's grossly inaccurate."
+  },
+  {
+    "startTime": 173.04,
+    "endTime": 176.751,
+    "text": "It diagnoses like, for example, inflamation of your pancreas."
+  },
+  {
+    "startTime": 176.751,
+    "endTime": 179.054,
+    "text": "That to me is unacceptable."
+  },
+  {
+    "startTime": 179.054,
+    "endTime": 183.183,
+    "text": "A 70% sensitivity and less than that for specificity --"
+  },
+  {
+    "startTime": 183.183,
+    "endTime": 186.636,
+    "text": "[Which] means it gives tons of false positives and false negatives."
+  },
+  {
+    "startTime": 186.636,
+    "endTime": 191.759,
+    "text": "So then, through these really cool things called carbon nanotubes --"
+  },
+  {
+    "startTime": 191.759,
+    "endTime": 194.82999999999998,
+    "text": "They are the superheros of material science."
+  },
+  {
+    "startTime": 194.83,
+    "endTime": 198.80200000000002,
+    "text": "There are these atom-thick tube of carbon and they have these fantastic properties."
+  },
+  {
+    "startTime": 198.802,
+    "endTime": 200.768,
+    "text": "So, I am super interested in that."
+  },
+  {
+    "startTime": 200.768,
+    "endTime": 206.24,
+    "text": "I began formulating an idea in unlikely place, biology class."
+  },
+  {
+    "startTime": 206.24,
+    "endTime": 210.30800000000002,
+    "text": "We were learning about antibodies which are basically lock and key molecules"
+  },
+  {
+    "startTime": 210.308,
+    "endTime": 213.154,
+    "text": "that bind specifically to a certain protein."
+  },
+  {
+    "startTime": 213.154,
+    "endTime": 216.451,
+    "text": "In this case, the cancer biomarker, mesothelin."
+  },
+  {
+    "startTime": 216.451,
+    "endTime": 218.446,
+    "text": "Then, I had an idea.  I was reading this paper"
+  },
+  {
+    "startTime": 218.446,
+    "endTime": 222.187,
+    "text": "in biology class -- about carbon nanotubes --"
+  },
+  {
+    "startTime": 222.187,
+    "endTime": 225.16500000000002,
+    "text": "I knew about this protein, mesothelin, and we were learning about antibodies."
+  },
+  {
+    "startTime": 225.165,
+    "endTime": 227.56199999999998,
+    "text": "It is kind of like a connect-the-dots puzzle where you form a draft"
+  },
+  {
+    "startTime": 227.562,
+    "endTime": 230.598,
+    "text": "where in this case it is like a sensor."
+  },
+  {
+    "startTime": 230.598,
+    "endTime": 232.77100000000002,
+    "text": "So, here is the idea I came up with."
+  },
+  {
+    "startTime": 232.771,
+    "endTime": 236.87099999999998,
+    "text": "You have a network of the single walled carbon nanotubes and antibodies."
+  },
+  {
+    "startTime": 236.871,
+    "endTime": 239.524,
+    "text": "What happens is -- when you put a blood sample"
+  },
+  {
+    "startTime": 239.524,
+    "endTime": 242.785,
+    "text": "that contains that target protein in it  on this network,"
+  },
+  {
+    "startTime": 242.785,
+    "endTime": 248.182,
+    "text": "that protein will go into the network and form a larger molecule with that antibody."
+  },
+  {
+    "startTime": 248.182,
+    "endTime": 251.594,
+    "text": "This causes an electrical change in the sensor."
+  },
+  {
+    "startTime": 251.594,
+    "endTime": 256.495,
+    "text": "I can actually measure this with a 50 dollar ohmmeter from Home Depot."
+  },
+  {
+    "startTime": 256.495,
+    "endTime": 259.561,
+    "text": "And it is really easy to produce."
+  },
+  {
+    "startTime": 259.561,
+    "endTime": 262.102,
+    "text": "All you do is to create uniform dispersion out of these."
+  },
+  {
+    "startTime": 262.102,
+    "endTime": 266.59099999999995,
+    "text": "You mix it up with these carbon nanotubes and this antibody."
+  },
+  {
+    "startTime": 266.591,
+    "endTime": 269.367,
+    "text": "You just dip stick that is like a piece of filter paper."
+  },
+  {
+    "startTime": 269.367,
+    "endTime": 271.083,
+    "text": "It's really, really simple."
+  },
+  {
+    "startTime": 271.083,
+    "endTime": 273.478,
+    "text": "Then, you dry it and you use it for a certain time."
+  },
+  {
+    "startTime": 273.478,
+    "endTime": 275.46000000000004,
+    "text": "That's not that hard."
+  },
+  {
+    "startTime": 275.46,
+    "endTime": 278.222,
+    "text": "You just measure it with this 50 dollar ohmmeter."
+  },
+  {
+    "startTime": 278.222,
+    "endTime": 281.185,
+    "text": "It requires less than a sixth of the drop of blood."
+  },
+  {
+    "startTime": 281.185,
+    "endTime": 284.086,
+    "text": "It is a tiny prick to your finger."
+  },
+  {
+    "startTime": 284.086,
+    "endTime": 288.324,
+    "text": "What you have to do for detecting a disease such as pancreatic cancer [is] --"
+  },
+  {
+    "startTime": 288.324,
+    "endTime": 291.325,
+    "text": "when a protein is overexpressed you have to set a cutoff level."
+  },
+  {
+    "startTime": 291.325,
+    "endTime": 294.53999999999996,
+    "text": "If it's above this, then, it's at an abnormally high level."
+  },
+  {
+    "startTime": 294.54,
+    "endTime": 298.29900000000004,
+    "text": "If't is below that, then, it's kind of normal and you are OK."
+  },
+  {
+    "startTime": 298.299,
+    "endTime": 300.566,
+    "text": "So, I choose mine as 10 nano grams per mL."
+  },
+  {
+    "startTime": 300.566,
+    "endTime": 303.137,
+    "text": "A nano gram is a tiny amount."
+  },
+  {
+    "startTime": 303.137,
+    "endTime": 306.192,
+    "text": "Think it of as one billionth."
+  },
+  {
+    "startTime": 306.192,
+    "endTime": 310.62,
+    "text": "So, pretty small."
+  },
+  {
+    "startTime": 310.62,
+    "endTime": 316.109,
+    "text": "Then, essentially what I did is, I had to test  whether my sensor was actualy working."
+  },
+  {
+    "startTime": 316.109,
+    "endTime": 318.61199999999997,
+    "text": "I took about 100 patients"
+  },
+  {
+    "startTime": 318.612,
+    "endTime": 323.01800000000003,
+    "text": "who had pancreatic cancer  ranging in its stage."
+  },
+  {
+    "startTime": 323.018,
+    "endTime": 325.55999999999995,
+    "text": "You can see they are all above this 20 ng."
+  },
+  {
+    "startTime": 325.56,
+    "endTime": 328.262,
+    "text": "That's well above the 10 ng per mL cutoff."
+  },
+  {
+    "startTime": 328.262,
+    "endTime": 330.966,
+    "text": "So, I had a 100 percent sensitivity."
+  },
+  {
+    "startTime": 330.966,
+    "endTime": 333.873,
+    "text": "Them, I had negative cancer samples, healthy patients."
+  },
+  {
+    "startTime": 333.873,
+    "endTime": 337.344,
+    "text": "People who did not have pancreatic cancer, maybe some other condition."
+  },
+  {
+    "startTime": 337.344,
+    "endTime": 340.14,
+    "text": "Those are all below 10 ng for mL."
+  },
+  {
+    "startTime": 340.14,
+    "endTime": 344.312,
+    "text": "That means that is not giving any false positives or any false negatives."
+  },
+  {
+    "startTime": 344.312,
+    "endTime": 347.421,
+    "text": "That means a 100% accuracy  as [its] diagnosis."
+  },
+  {
+    "startTime": 347.421,
+    "endTime": 350.091,
+    "text": "This has the potential to save thusands of lives,"
+  },
+  {
+    "startTime": 350.091,
+    "endTime": 353.618,
+    "text": "reshaping how we think of cancer diagnostics."
+  },
+  {
+    "startTime": 353.618,
+    "endTime": 358.289,
+    "text": "In addition to this, what happens is this --  also I found we could look at"
+  },
+  {
+    "startTime": 358.289,
+    "endTime": 361.195,
+    "text": "how effective a chemotherapeutic treatment or a regimen"
+  },
+  {
+    "startTime": 361.195,
+    "endTime": 363.498,
+    "text": "as well as how effective your surgery is."
+  },
+  {
+    "startTime": 363.498,
+    "endTime": 365.034,
+    "text": "You can see it here that"
+  },
+  {
+    "startTime": 365.034,
+    "endTime": 368.9,
+    "text": "for each of different chemotherapeutic drugs -- I tested five on mouse models --"
+  },
+  {
+    "startTime": 368.9,
+    "endTime": 371.93699999999995,
+    "text": "they all have different levels of mesothelin."
+  },
+  {
+    "startTime": 371.937,
+    "endTime": 375.075,
+    "text": "So, you could effectively see how effective your cancer drug treatment is."
+  },
+  {
+    "startTime": 375.075,
+    "endTime": 378.084,
+    "text": "You could look at drug resistance, for example."
+  },
+  {
+    "startTime": 378.084,
+    "endTime": 383.594,
+    "text": "With this, I have created a sensor that can detect pancreatic cancer."
+  },
+  {
+    "startTime": 383.594,
+    "endTime": 388.12399999999997,
+    "text": "It is very simple. It is very rapid  -- taking 5 minutes for 3 cents."
+  },
+  {
+    "startTime": 388.124,
+    "endTime": 391.29,
+    "text": "It's non invasible. It's sensitive and selective."
+  },
+  {
+    "startTime": 391.29,
+    "endTime": 395.46500000000003,
+    "text": "But in addition, compared to the current gold standard of pancreatic cancer detection,"
+  },
+  {
+    "startTime": 395.465,
+    "endTime": 397.46599999999995,
+    "text": "it is a 168 times faster,"
+  },
+  {
+    "startTime": 397.466,
+    "endTime": 401.50100000000003,
+    "text": "over 26,000 times less expensive and over 400 times more sensitive."
+  },
+  {
+    "startTime": 401.501,
+    "endTime": 404.905,
+    "text": "That is not actually, including -- that you need specific practice"
+  },
+  {
+    "startTime": 404.905,
+    "endTime": 408.48999999999995,
+    "text": "like a university training in order to conduct that gold standard,"
+  },
+  {
+    "startTime": 408.49,
+    "endTime": 413.587,
+    "text": "as well as it requires this expensive bulky machine to read this thing called ELISA."
+  },
+  {
+    "startTime": 413.587,
+    "endTime": 417.217,
+    "text": "Whilst mine, it's a 50 dollar ohmmeter from Home Depot."
+  },
+  {
+    "startTime": 417.217,
+    "endTime": 420.121,
+    "text": "Also, the protein I am detecting, called mesothelin,"
+  },
+  {
+    "startTime": 420.121,
+    "endTime": 422.957,
+    "text": "it is overexpressed in both ovarian and lung cancer."
+  },
+  {
+    "startTime": 422.957,
+    "endTime": 426.266,
+    "text": "Through this sensor, [that] is a generic sensor for those two cancers,"
+  },
+  {
+    "startTime": 426.266,
+    "endTime": 432.202,
+    "text": "but also implications are that certain protein is found in 40 different types of cancer."
+  },
+  {
+    "startTime": 432.202,
+    "endTime": 436.17,
+    "text": "This sensor, is detecting nearly every form of cancer."
+  },
+  {
+    "startTime": 436.17,
+    "endTime": 438.37100000000004,
+    "text": "This has limitless applications."
+  },
+  {
+    "startTime": 438.371,
+    "endTime": 441.62199999999996,
+    "text": "What happens is you just change this antibody in the sensor,"
+  },
+  {
+    "startTime": 441.622,
+    "endTime": 443.786,
+    "text": "you can detect anything, any protein."
+  },
+  {
+    "startTime": 443.786,
+    "endTime": 446.2,
+    "text": "That means other forms of cancer, other diseases"
+  },
+  {
+    "startTime": 446.2,
+    "endTime": 450.486,
+    "text": "such as E Coli, Rotavirus, Salmonella, and those HIV, AIDS."
+  },
+  {
+    "startTime": 450.486,
+    "endTime": 454.155,
+    "text": "All those cancers and diseases  are plague us."
+  },
+  {
+    "startTime": 454.155,
+    "endTime": 458.265,
+    "text": "Thusands, millions, billions of lives can be saved with this technology."
+  },
+  {
+    "startTime": 458.265,
+    "endTime": 461.207,
+    "text": "Also, it can look at how effective our treatment is."
+  },
+  {
+    "startTime": 461.207,
+    "endTime": 464.066,
+    "text": "So, this will reshape how we think of medicine."
+  },
+  {
+    "startTime": 464.066,
+    "endTime": 466.767,
+    "text": "We will now have a simple diabetic test strip"
+  },
+  {
+    "startTime": 466.767,
+    "endTime": 469.969,
+    "text": "that can detect your disease  in 5 minutes for 3 cents,"
+  },
+  {
+    "startTime": 469.969,
+    "endTime": 475.817,
+    "text": "but also tell you how to optimally cure the disease and treat it."
+  },
+  {
+    "startTime": 475.817,
+    "endTime": 481.949,
+    "text": "And, so -- Oh, two slides are missing."
+  },
+  {
+    "startTime": 481.949,
+    "endTime": 485.095,
+    "text": "My final conclusion,  what I am leaving you with,"
+  },
+  {
+    "startTime": 485.095,
+    "endTime": 488.49600000000004,
+    "text": "is that I am not the only one who can do this."
+  },
+  {
+    "startTime": 488.496,
+    "endTime": 490.037,
+    "text": "Anyone can."
+  },
+  {
+    "startTime": 490.037,
+    "endTime": 492.426,
+    "text": "It just took me 200 emails and a bunch of hardwork to do it,"
+  },
+  {
+    "startTime": 492.426,
+    "endTime": 495.062,
+    "text": "but that is a different story."
+  },
+  {
+    "startTime": 495.062,
+    "endTime": 497.27000000000004,
+    "text": "But, you just have to ask yourself."
+  },
+  {
+    "startTime": 497.27,
+    "endTime": 499.789,
+    "text": "Imagine a world -- or what if --"
+  },
+  {
+    "startTime": 499.789,
+    "endTime": 504.34299999999996,
+    "text": "you can become like me and hopefully have a very happy running up to a stage."
+  },
+  {
+    "startTime": 504.343,
+    "endTime": 505.53700000000003,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 505.537,
+    "endTime": 515.537,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "startTime": 1.17,
+    "endTime": 4.31,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 5.27,
+    "endTime": 7.759,
+    "text": "I'm a geographer at Middlebury College"
+  },
+  {
+    "startTime": 7.759,
+    "endTime": 10.61,
+    "text": "and I used digital technologies to"
+  },
+  {
+    "startTime": 10.61,
+    "endTime": 14.78,
+    "text": "reimagine the past I want to take you to"
+  },
+  {
+    "startTime": 14.78,
+    "endTime": 19.52,
+    "text": "Gettysburg Pennsylvania July 1 1863 were"
+  },
+  {
+    "startTime": 19.52,
+    "endTime": 21.01,
+    "text": "right in the middle of the Civil War"
+  },
+  {
+    "startTime": 21.01,
+    "endTime": 23.96,
+    "text": "from the Northwest the Confederate"
+  },
+  {
+    "startTime": 23.96,
+    "endTime": 26.359,
+    "text": "forces under robert e lee and from the"
+  },
+  {
+    "startTime": 26.359,
+    "endTime": 28.82,
+    "text": "southeast the Union forces under George"
+  },
+  {
+    "startTime": 28.82,
+    "endTime": 31.55,
+    "text": "Meade converge at this place more or"
+  },
+  {
+    "startTime": 31.55,
+    "endTime": 34.129,
+    "text": "less by chance they didn't plan to fight"
+  },
+  {
+    "startTime": 34.129,
+    "endTime": 37.19,
+    "text": "here but the Battle of Gettysburg turns"
+  },
+  {
+    "startTime": 37.19,
+    "endTime": 39.5,
+    "text": "out to be the turning point of the Civil"
+  },
+  {
+    "startTime": 39.5,
+    "endTime": 40.37,
+    "text": "War"
+  },
+  {
+    "startTime": 40.37,
+    "endTime": 42.92,
+    "text": "now Robert Ely is probably the most"
+  },
+  {
+    "startTime": 42.92,
+    "endTime": 46.25,
+    "text": "famous American general widely respected"
+  },
+  {
+    "startTime": 46.25,
+    "endTime": 48.979,
+    "text": "but at Gettysburg he made some crucial"
+  },
+  {
+    "startTime": 48.979,
+    "endTime": 51.47,
+    "text": "mistakes probably the most important was"
+  },
+  {
+    "startTime": 51.47,
+    "endTime": 54.44,
+    "text": "in or during Pickett's Charge I'm going"
+  },
+  {
+    "startTime": 54.44,
+    "endTime": 56.839,
+    "text": "to show you how I took a new look at"
+  },
+  {
+    "startTime": 56.839,
+    "endTime": 59.18,
+    "text": "Pickett's Charge with historical maps"
+  },
+  {
+    "startTime": 59.18,
+    "endTime": 63.14,
+    "text": "and GIS my key map was this"
+  },
+  {
+    "startTime": 63.14,
+    "endTime": 65.51,
+    "text": "extraordinary thing twelve feet by 13"
+  },
+  {
+    "startTime": 65.51,
+    "endTime": 67.76,
+    "text": "feet in the vault of treasures at the"
+  },
+  {
+    "startTime": 67.76,
+    "endTime": 69.409,
+    "text": "National Archives here are some of my"
+  },
+  {
+    "startTime": 69.409,
+    "endTime": 70.729,
+    "text": "students at Middlebury to give you a"
+  },
+  {
+    "startTime": 70.729,
+    "endTime": 74.09,
+    "text": "sense of that scale it was recompiled"
+  },
+  {
+    "startTime": 74.09,
+    "endTime": 76.399,
+    "text": "into a finished map the size of a large"
+  },
+  {
+    "startTime": 76.399,
+    "endTime": 79.159,
+    "text": "poster you can see the layout of the"
+  },
+  {
+    "startTime": 79.159,
+    "endTime": 81.049,
+    "text": "town of Gettysburg you see the"
+  },
+  {
+    "startTime": 81.049,
+    "endTime": 83.78,
+    "text": "undulating shape of the terrain if you"
+  },
+  {
+    "startTime": 83.78,
+    "endTime": 85.13,
+    "text": "look at other details you can see"
+  },
+  {
+    "startTime": 85.13,
+    "endTime": 88.009,
+    "text": "forests and orchards and streams and"
+  },
+  {
+    "startTime": 88.009,
+    "endTime": 90.829,
+    "text": "roads I want you to look at those very"
+  },
+  {
+    "startTime": 90.829,
+    "endTime": 93.469,
+    "text": "fine black lines those are called"
+  },
+  {
+    "startTime": 93.469,
+    "endTime": 96.439,
+    "text": "contour lines and they show the"
+  },
+  {
+    "startTime": 96.439,
+    "endTime": 99.469,
+    "text": "elevation at four-foot intervals the"
+  },
+  {
+    "startTime": 99.469,
+    "endTime": 102.17,
+    "text": "most detailed elevation I have ever seen"
+  },
+  {
+    "startTime": 102.17,
+    "endTime": 104.869,
+    "text": "now before I explain this image I need"
+  },
+  {
+    "startTime": 104.869,
+    "endTime": 107.509,
+    "text": "to tell you a little about GIS it stands"
+  },
+  {
+    "startTime": 107.509,
+    "endTime": 111.049,
+    "text": "for geographic information systems it's"
+  },
+  {
+    "startTime": 111.049,
+    "endTime": 112.789,
+    "text": "a kind of software that allows you to"
+  },
+  {
+    "startTime": 112.789,
+    "endTime": 115.819,
+    "text": "map almost anything you can also use it"
+  },
+  {
+    "startTime": 115.819,
+    "endTime": 118.399,
+    "text": "to do terrain analysis for example if"
+  },
+  {
+    "startTime": 118.399,
+    "endTime": 120.17,
+    "text": "you're building a ski resort and you"
+  },
+  {
+    "startTime": 120.17,
+    "endTime": 121.88,
+    "text": "want people to get off the lift and have"
+  },
+  {
+    "startTime": 121.88,
+    "endTime": 124.429,
+    "text": "the most spectacular view possible you"
+  },
+  {
+    "startTime": 124.429,
+    "endTime": 127.039,
+    "text": "use view shed analysis that shows you"
+  },
+  {
+    "startTime": 127.039,
+    "endTime": 129.11,
+    "text": "what you can see from a certain point on"
+  },
+  {
+    "startTime": 129.11,
+    "endTime": 132.49,
+    "text": "the terrain I used that to place myself"
+  },
+  {
+    "startTime": 132.49,
+    "endTime": 135.32,
+    "text": "digitally in the footsteps of robert e"
+  },
+  {
+    "startTime": 135.32,
+    "endTime": 138.08,
+    "text": "lee to ask what could he see and what"
+  },
+  {
+    "startTime": 138.08,
+    "endTime": 138.86,
+    "text": "could he"
+  },
+  {
+    "startTime": 138.86,
+    "endTime": 140.66,
+    "text": "see that might have influenced his"
+  },
+  {
+    "startTime": 140.66,
+    "endTime": 143.18,
+    "text": "command decisions now back to these"
+  },
+  {
+    "startTime": 143.18,
+    "endTime": 144.38,
+    "text": "contour lines"
+  },
+  {
+    "startTime": 144.38,
+    "endTime": 146.6,
+    "text": "this is the best elevation data that I"
+  },
+  {
+    "startTime": 146.6,
+    "endTime": 149.81,
+    "text": "could find I traced all of the lines you"
+  },
+  {
+    "startTime": 149.81,
+    "endTime": 151.49,
+    "text": "see in the black and white drawing some"
+  },
+  {
+    "startTime": 151.49,
+    "endTime": 154.46,
+    "text": "of those lines stitch them together gave"
+  },
+  {
+    "startTime": 154.46,
+    "endTime": 156.76,
+    "text": "them elevation values and then"
+  },
+  {
+    "startTime": 156.76,
+    "endTime": 159.44,
+    "text": "transformed it within the GIS program"
+  },
+  {
+    "startTime": 159.44,
+    "endTime": 162.32,
+    "text": "into a continuous terrain this is a"
+  },
+  {
+    "startTime": 162.32,
+    "endTime": 163.94,
+    "text": "simulation of the ground of the"
+  },
+  {
+    "startTime": 163.94,
+    "endTime": 166.16,
+    "text": "battlefield now I'm ready to place"
+  },
+  {
+    "startTime": 166.16,
+    "endTime": 168.95,
+    "text": "myself in these boots and ask what he"
+  },
+  {
+    "startTime": 168.95,
+    "endTime": 171.8,
+    "text": "could see the particulars I want to look"
+  },
+  {
+    "startTime": 171.8,
+    "endTime": 173.39,
+    "text": "at is that battle that I mentioned"
+  },
+  {
+    "startTime": 173.39,
+    "endTime": 177.05,
+    "text": "Pickett's Charge Lee makes a crucial"
+  },
+  {
+    "startTime": 177.05,
+    "endTime": 178.97,
+    "text": "decision on the morning of the third day"
+  },
+  {
+    "startTime": 178.97,
+    "endTime": 183.47,
+    "text": "this is July 3rd 1863 the fighting on"
+  },
+  {
+    "startTime": 183.47,
+    "endTime": 185.3,
+    "text": "the previous two days has been fierce"
+  },
+  {
+    "startTime": 185.3,
+    "endTime": 187.73,
+    "text": "it's gone back and forth neither side"
+  },
+  {
+    "startTime": 187.73,
+    "endTime": 191.27,
+    "text": "has a clear advantage Lee goes down to"
+  },
+  {
+    "startTime": 191.27,
+    "endTime": 193.31,
+    "text": "the bottom of the field we know this"
+  },
+  {
+    "startTime": 193.31,
+    "endTime": 195.65,
+    "text": "here's my gorgeous source map again and"
+  },
+  {
+    "startTime": 195.65,
+    "endTime": 198.68,
+    "text": "watch the red circle appear he goes to"
+  },
+  {
+    "startTime": 198.68,
+    "endTime": 200.48,
+    "text": "the southern end of the battlefield and"
+  },
+  {
+    "startTime": 200.48,
+    "endTime": 202.01,
+    "text": "by day two o'clock in the morning with"
+  },
+  {
+    "startTime": 202.01,
+    "endTime": 205.04,
+    "text": "his binoculars and looks through them to"
+  },
+  {
+    "startTime": 205.04,
+    "endTime": 207.14,
+    "text": "figure out where to attack the Union"
+  },
+  {
+    "startTime": 207.14,
+    "endTime": 210.38,
+    "text": "line where are they most vulnerable now"
+  },
+  {
+    "startTime": 210.38,
+    "endTime": 211.97,
+    "text": "in this next image I'm going to show you"
+  },
+  {
+    "startTime": 211.97,
+    "endTime": 215.36,
+    "text": "the GIS process called view shot"
+  },
+  {
+    "startTime": 215.36,
+    "endTime": 218.66,
+    "text": "analysis along with Lee's line of sight"
+  },
+  {
+    "startTime": 218.66,
+    "endTime": 221.75,
+    "text": "in that sort of reddish cone as the"
+  },
+  {
+    "startTime": 221.75,
+    "endTime": 223.45,
+    "text": "direction we think he was looking"
+  },
+  {
+    "startTime": 223.45,
+    "endTime": 226.22,
+    "text": "Buchanon alysus remember tells me what i"
+  },
+  {
+    "startTime": 226.22,
+    "endTime": 228.019,
+    "text": "can see and what i can't see from a"
+  },
+  {
+    "startTime": 228.019,
+    "endTime": 230.84,
+    "text": "certain point so in this map the gray"
+  },
+  {
+    "startTime": 230.84,
+    "endTime": 234.62,
+    "text": "area is what Lee couldn't see the clear"
+  },
+  {
+    "startTime": 234.62,
+    "endTime": 236.36,
+    "text": "area where you see that historic map"
+  },
+  {
+    "startTime": 236.36,
+    "endTime": 238.22,
+    "text": "coming through is what he could have"
+  },
+  {
+    "startTime": 238.22,
+    "endTime": 242.209,
+    "text": "definitely seen notice how much of the"
+  },
+  {
+    "startTime": 242.209,
+    "endTime": 245.12,
+    "text": "right side of the map is in gray now we"
+  },
+  {
+    "startTime": 245.12,
+    "endTime": 248.23,
+    "text": "add another crucial piece of information"
+  },
+  {
+    "startTime": 248.23,
+    "endTime": 251.45,
+    "text": "someone named John Bachelder a landscape"
+  },
+  {
+    "startTime": 251.45,
+    "endTime": 253.94,
+    "text": "painter from New Hampshire went down to"
+  },
+  {
+    "startTime": 253.94,
+    "endTime": 255.44,
+    "text": "the battlefield as soon as he heard"
+  },
+  {
+    "startTime": 255.44,
+    "endTime": 257.57,
+    "text": "about the fight in order to document"
+  },
+  {
+    "startTime": 257.57,
+    "endTime": 260.359,
+    "text": "where troops had been and to try to"
+  },
+  {
+    "startTime": 260.359,
+    "endTime": 262.69,
+    "text": "paint the battle he ended up getting"
+  },
+  {
+    "startTime": 262.69,
+    "endTime": 264.95,
+    "text": "$10,000 from Congress in order to"
+  },
+  {
+    "startTime": 264.95,
+    "endTime": 267.62,
+    "text": "document troop positions down to the"
+  },
+  {
+    "startTime": 267.62,
+    "endTime": 271.55,
+    "text": "half hour he produced 24 maps that we"
+  },
+  {
+    "startTime": 271.55,
+    "endTime": 272.599,
+    "text": "also did"
+  },
+  {
+    "startTime": 272.599,
+    "endTime": 275.899,
+    "text": "and brought into the GIS and this next"
+  },
+  {
+    "startTime": 275.899,
+    "endTime": 278.029,
+    "text": "map shows that troop position"
+  },
+  {
+    "startTime": 278.029,
+    "endTime": 279.8,
+    "text": "information it's crucial for"
+  },
+  {
+    "startTime": 279.8,
+    "endTime": 282.05,
+    "text": "understanding what Lee could and what he"
+  },
+  {
+    "startTime": 282.05,
+    "endTime": 284.719,
+    "text": "couldn't see now if you look closely at"
+  },
+  {
+    "startTime": 284.719,
+    "endTime": 286.339,
+    "text": "this map you might be able to see kind"
+  },
+  {
+    "startTime": 286.339,
+    "endTime": 288.8,
+    "text": "of in the middle is a black oval around"
+  },
+  {
+    "startTime": 288.8,
+    "endTime": 292.369,
+    "text": "an area that's relatively clear the blue"
+  },
+  {
+    "startTime": 292.369,
+    "endTime": 295.49,
+    "text": "markings in that black oval are Union"
+  },
+  {
+    "startTime": 295.49,
+    "endTime": 297.589,
+    "text": "troops that I'm definitely sure that Lee"
+  },
+  {
+    "startTime": 297.589,
+    "endTime": 300.229,
+    "text": "could see but if you look to the right"
+  },
+  {
+    "startTime": 300.229,
+    "endTime": 303.02,
+    "text": "of that you'll see an awful lot of blue"
+  },
+  {
+    "startTime": 303.02,
+    "endTime": 306.08,
+    "text": "markings those are Union troops in the"
+  },
+  {
+    "startTime": 306.08,
+    "endTime": 309.979,
+    "text": "shadows now we know that on the night"
+  },
+  {
+    "startTime": 309.979,
+    "endTime": 312.439,
+    "text": "before Lee's reconnaissance so the night"
+  },
+  {
+    "startTime": 312.439,
+    "endTime": 314.779,
+    "text": "of July 2nd he sent out scouts of course"
+  },
+  {
+    "startTime": 314.779,
+    "endTime": 316.189,
+    "text": "he wanted to know where the federal"
+  },
+  {
+    "startTime": 316.189,
+    "endTime": 319.309,
+    "text": "troops were but quite astonishingly we"
+  },
+  {
+    "startTime": 319.309,
+    "endTime": 320.93,
+    "text": "have no explanation for this"
+  },
+  {
+    "startTime": 320.93,
+    "endTime": 323.569,
+    "text": "the scouts came back saying don't worry"
+  },
+  {
+    "startTime": 323.569,
+    "endTime": 326.18,
+    "text": "generally we didn't see any troops to"
+  },
+  {
+    "startTime": 326.18,
+    "endTime": 329.93,
+    "text": "the east and your map to the right of"
+  },
+  {
+    "startTime": 329.93,
+    "endTime": 332.689,
+    "text": "the Round Top some really big Hills we"
+  },
+  {
+    "startTime": 332.689,
+    "endTime": 334.55,
+    "text": "don't know if they got drunk or fell"
+  },
+  {
+    "startTime": 334.55,
+    "endTime": 337.129,
+    "text": "asleep but they didn't see almost a"
+  },
+  {
+    "startTime": 337.129,
+    "endTime": 340.369,
+    "text": "third of the Union Army so Lee is blind"
+  },
+  {
+    "startTime": 340.369,
+    "endTime": 342.439,
+    "text": "from his Scouts and from his viewpoint"
+  },
+  {
+    "startTime": 342.439,
+    "endTime": 345.949,
+    "text": "he's also blind he decides to attack"
+  },
+  {
+    "startTime": 345.949,
+    "endTime": 348.289,
+    "text": "what he thinks is the weak middle of the"
+  },
+  {
+    "startTime": 348.289,
+    "endTime": 350.329,
+    "text": "Union line not knowing about where the"
+  },
+  {
+    "startTime": 350.329,
+    "endTime": 352.219,
+    "text": "rest of the troops are so if you look in"
+  },
+  {
+    "startTime": 352.219,
+    "endTime": 354.139,
+    "text": "the middle of this image there's a gap"
+  },
+  {
+    "startTime": 354.139,
+    "endTime": 356.689,
+    "text": "in the Union line from where the blue"
+  },
+  {
+    "startTime": 356.689,
+    "endTime": 358.669,
+    "text": "soldiers are at the north of the"
+  },
+  {
+    "startTime": 358.669,
+    "endTime": 360.8,
+    "text": "battlefield and of the south so let me"
+  },
+  {
+    "startTime": 360.8,
+    "endTime": 362.86,
+    "text": "now play out using these troop positions"
+  },
+  {
+    "startTime": 362.86,
+    "endTime": 366.169,
+    "text": "Pickett's charge the Confederate"
+  },
+  {
+    "startTime": 366.169,
+    "endTime": 367.999,
+    "text": "soldiers are lined up on the west side"
+  },
+  {
+    "startTime": 367.999,
+    "endTime": 369.709,
+    "text": "of the battlefield standing under the"
+  },
+  {
+    "startTime": 369.709,
+    "endTime": 374.93,
+    "text": "trees 18,000 men who first begin to walk"
+  },
+  {
+    "startTime": 374.93,
+    "endTime": 378.709,
+    "text": "and then trot and then run across open"
+  },
+  {
+    "startTime": 378.709,
+    "endTime": 381.889,
+    "text": "farm fields with their rifles leveled at"
+  },
+  {
+    "startTime": 381.889,
+    "endTime": 384.919,
+    "text": "the federal line now the Union Army has"
+  },
+  {
+    "startTime": 384.919,
+    "endTime": 387.68,
+    "text": "about 15-20 minutes to organize itself"
+  },
+  {
+    "startTime": 387.68,
+    "endTime": 389.719,
+    "text": "they see that the Confederates are"
+  },
+  {
+    "startTime": 389.719,
+    "endTime": 391.339,
+    "text": "converging on the middle of their line"
+  },
+  {
+    "startTime": 391.339,
+    "endTime": 394.309,
+    "text": "and what do they do the blue arrow here"
+  },
+  {
+    "startTime": 394.309,
+    "endTime": 395.839,
+    "text": "representing movement of the Union"
+  },
+  {
+    "startTime": 395.839,
+    "endTime": 398.599,
+    "text": "troops they pull their troops toward"
+  },
+  {
+    "startTime": 398.599,
+    "endTime": 401.389,
+    "text": "that weak center and let me show you how"
+  },
+  {
+    "startTime": 401.389,
+    "endTime": 403.069,
+    "text": "they were able to concentrate those men"
+  },
+  {
+    "startTime": 403.069,
+    "endTime": 405.499,
+    "text": "in a remarkably short period of time Lee"
+  },
+  {
+    "startTime": 405.499,
+    "endTime": 406.31,
+    "text": "didn't know"
+  },
+  {
+    "startTime": 406.31,
+    "endTime": 408.35,
+    "text": "that the union could have done this you"
+  },
+  {
+    "startTime": 408.35,
+    "endTime": 410.33,
+    "text": "see now they're standing like a wall"
+  },
+  {
+    "startTime": 410.33,
+    "endTime": 412.81,
+    "text": "ready to receive the Confederate assault"
+  },
+  {
+    "startTime": 412.81,
+    "endTime": 416.63,
+    "text": "which happens between 1:30 and about 2"
+  },
+  {
+    "startTime": 416.63,
+    "endTime": 419.15,
+    "text": "o'clock 2:30 in the afternoon there is"
+  },
+  {
+    "startTime": 419.15,
+    "endTime": 420.65,
+    "text": "tremendously fierce fighting"
+  },
+  {
+    "startTime": 420.65,
+    "endTime": 424.01,
+    "text": "hand-to-hand combat now these blue lines"
+  },
+  {
+    "startTime": 424.01,
+    "endTime": 426.139,
+    "text": "coming in between 2:00 and 2:30 in the"
+  },
+  {
+    "startTime": 426.139,
+    "endTime": 428.78,
+    "text": "afternoon are pulling more reserves more"
+  },
+  {
+    "startTime": 428.78,
+    "endTime": 431.48,
+    "text": "reinforcements to that weak center of"
+  },
+  {
+    "startTime": 431.48,
+    "endTime": 435.2,
+    "text": "the Union line what happens the Union"
+  },
+  {
+    "startTime": 435.2,
+    "endTime": 439.22,
+    "text": "soldiers drive the Confederates off Lee"
+  },
+  {
+    "startTime": 439.22,
+    "endTime": 442.25,
+    "text": "rides out among his men at 3 o'clock in"
+  },
+  {
+    "startTime": 442.25,
+    "endTime": 445.82,
+    "text": "the afternoon saying I'm sorry it's my"
+  },
+  {
+    "startTime": 445.82,
+    "endTime": 452.36,
+    "text": "fault it's my fault this story of sight"
+  },
+  {
+    "startTime": 452.36,
+    "endTime": 455.27,
+    "text": "has been a missing part of the Battle of"
+  },
+  {
+    "startTime": 455.27,
+    "endTime": 458.169,
+    "text": "Gettysburg here is their retreat"
+  },
+  {
+    "startTime": 458.169,
+    "endTime": 460.4,
+    "text": "historians had not previously been able"
+  },
+  {
+    "startTime": 460.4,
+    "endTime": 462.29,
+    "text": "to figure out what he couldn't couldn't"
+  },
+  {
+    "startTime": 462.29,
+    "endTime": 464.36,
+    "text": "see I think it helps explain his"
+  },
+  {
+    "startTime": 464.36,
+    "endTime": 467.0,
+    "text": "decision why because from Hugh's point"
+  },
+  {
+    "startTime": 467.0,
+    "endTime": 469.79,
+    "text": "of view the Federals were very weak he"
+  },
+  {
+    "startTime": 469.79,
+    "endTime": 472.34,
+    "text": "was attacking at the logical place but"
+  },
+  {
+    "startTime": 472.34,
+    "endTime": 475.04,
+    "text": "without full knowledge he set his man up"
+  },
+  {
+    "startTime": 475.04,
+    "endTime": 478.31,
+    "text": "for a dreadful defeat now there's one"
+  },
+  {
+    "startTime": 478.31,
+    "endTime": 480.74,
+    "text": "more piece to this story last summer was"
+  },
+  {
+    "startTime": 480.74,
+    "endTime": 482.69,
+    "text": "the hundred fiftieth anniversary of the"
+  },
+  {
+    "startTime": 482.69,
+    "endTime": 484.7,
+    "text": "Battle of Gettysburg and I was able to"
+  },
+  {
+    "startTime": 484.7,
+    "endTime": 486.95,
+    "text": "work with a ridi animator so we were"
+  },
+  {
+    "startTime": 486.95,
+    "endTime": 489.56,
+    "text": "able to use the GIS information to"
+  },
+  {
+    "startTime": 489.56,
+    "endTime": 491.479,
+    "text": "render the terrain as you see it here"
+  },
+  {
+    "startTime": 491.479,
+    "endTime": 493.88,
+    "text": "and my closing story is about how site"
+  },
+  {
+    "startTime": 493.88,
+    "endTime": 496.729,
+    "text": "helped the other side a federal general"
+  },
+  {
+    "startTime": 496.729,
+    "endTime": 499.16,
+    "text": "named GK Warren stood in the spot that"
+  },
+  {
+    "startTime": 499.16,
+    "endTime": 501.59,
+    "text": "this panoramic view is showing you"
+  },
+  {
+    "startTime": 501.59,
+    "endTime": 504.05,
+    "text": "looking out over the battlefield and at"
+  },
+  {
+    "startTime": 504.05,
+    "endTime": 507.35,
+    "text": "a key moment on day 2 he was able to see"
+  },
+  {
+    "startTime": 507.35,
+    "endTime": 510.229,
+    "text": "on the far horizon Confederate soldiers"
+  },
+  {
+    "startTime": 510.229,
+    "endTime": 512.15,
+    "text": "emerging out of the trees who were about"
+  },
+  {
+    "startTime": 512.15,
+    "endTime": 513.589,
+    "text": "to attack Little Round Top"
+  },
+  {
+    "startTime": 513.589,
+    "endTime": 516.02,
+    "text": "he called in reinforcements just in time"
+  },
+  {
+    "startTime": 516.02,
+    "endTime": 518.96,
+    "text": "and saved the day for the Union setting"
+  },
+  {
+    "startTime": 518.96,
+    "endTime": 521.06,
+    "text": "the stage for the Union almost victory"
+  },
+  {
+    "startTime": 521.06,
+    "endTime": 524.69,
+    "text": "on day 3 so I hope that all of you who"
+  },
+  {
+    "startTime": 524.69,
+    "endTime": 526.91,
+    "text": "are so gifted with digital technologies"
+  },
+  {
+    "startTime": 526.91,
+    "endTime": 528.92,
+    "text": "will begin to think about how you can"
+  },
+  {
+    "startTime": 528.92,
+    "endTime": 531.16,
+    "text": "use them for history it can be amazing"
+  },
+  {
+    "startTime": 531.16,
+    "endTime": 534.31,
+    "text": "thank you"
+  },
+  {
+    "startTime": 537.54,
+    "endTime": 539.6,
+    "text": "you"
+  }
+]
