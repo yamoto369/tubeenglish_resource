@@ -1,0 +1,1022 @@
+[
+  {
+    "startTime": 12.562,
+    "endTime": 15.623,
+    "text": "Eric Berlow: I'm an ecologist, and Sean's a physicist,"
+  },
+  {
+    "startTime": 15.623,
+    "endTime": 17.730999999999998,
+    "text": "and we both study complex networks."
+  },
+  {
+    "startTime": 17.731,
+    "endTime": 19.566000000000003,
+    "text": "And we met a couple years ago when we discovered"
+  },
+  {
+    "startTime": 19.566,
+    "endTime": 21.566,
+    "text": "that we had both given a short TED Talk"
+  },
+  {
+    "startTime": 21.566,
+    "endTime": 23.869,
+    "text": "about the ecology of war,"
+  },
+  {
+    "startTime": 23.869,
+    "endTime": 25.316,
+    "text": "and we realized that we were connected"
+  },
+  {
+    "startTime": 25.316,
+    "endTime": 28.134,
+    "text": "by the ideas we shared before we ever met."
+  },
+  {
+    "startTime": 28.134,
+    "endTime": 29.69,
+    "text": "And then we thought, you know, there are thousands"
+  },
+  {
+    "startTime": 29.69,
+    "endTime": 31.804000000000002,
+    "text": "of other talks out there, especially TEDx Talks,"
+  },
+  {
+    "startTime": 31.804,
+    "endTime": 34.015,
+    "text": "that are popping up all over the world."
+  },
+  {
+    "startTime": 34.015,
+    "endTime": 34.938,
+    "text": "How are they connected,"
+  },
+  {
+    "startTime": 34.938,
+    "endTime": 36.948,
+    "text": "and what does that global conversation look like?"
+  },
+  {
+    "startTime": 36.948,
+    "endTime": 39.758,
+    "text": "So Sean's going to tell you a little bit about how we did that."
+  },
+  {
+    "startTime": 39.758,
+    "endTime": 43.525000000000006,
+    "text": "Sean Gourley: Exactly. So we took 24,000 TEDx Talks"
+  },
+  {
+    "startTime": 43.525,
+    "endTime": 46.571,
+    "text": "from around the world, 147 different countries,"
+  },
+  {
+    "startTime": 46.571,
+    "endTime": 48.693999999999996,
+    "text": "and we took these talks and we wanted to find"
+  },
+  {
+    "startTime": 48.694,
+    "endTime": 50.734,
+    "text": "the mathematical structures that underly"
+  },
+  {
+    "startTime": 50.734,
+    "endTime": 52.456,
+    "text": "the ideas behind them."
+  },
+  {
+    "startTime": 52.456,
+    "endTime": 53.826,
+    "text": "And we wanted to do that so we could see how"
+  },
+  {
+    "startTime": 53.826,
+    "endTime": 55.879,
+    "text": "they connected with each other."
+  },
+  {
+    "startTime": 55.879,
+    "endTime": 57.555,
+    "text": "And so, of course, if you're going to do this kind of stuff,"
+  },
+  {
+    "startTime": 57.555,
+    "endTime": 58.511,
+    "text": "you need a lot of data."
+  },
+  {
+    "startTime": 58.511,
+    "endTime": 62.197,
+    "text": "So the data that you've got is a great thing called YouTube,"
+  },
+  {
+    "startTime": 62.197,
+    "endTime": 63.965,
+    "text": "and we can go down and basically pull"
+  },
+  {
+    "startTime": 63.965,
+    "endTime": 66.232,
+    "text": "all the open information from YouTube,"
+  },
+  {
+    "startTime": 66.232,
+    "endTime": 68.581,
+    "text": "all the comments, all the views, who's watching it,"
+  },
+  {
+    "startTime": 68.581,
+    "endTime": 71.36,
+    "text": "where are they watching it, what are they saying in the comments."
+  },
+  {
+    "startTime": 71.36,
+    "endTime": 74.652,
+    "text": "But we can also pull up, using speech-to-text translation,"
+  },
+  {
+    "startTime": 74.652,
+    "endTime": 76.78,
+    "text": "we can pull the entire transcript,"
+  },
+  {
+    "startTime": 76.78,
+    "endTime": 79.46000000000001,
+    "text": "and that works even for people with kind of funny accents like myself."
+  },
+  {
+    "startTime": 79.46,
+    "endTime": 81.56599999999999,
+    "text": "So we can take their transcript"
+  },
+  {
+    "startTime": 81.566,
+    "endTime": 83.664,
+    "text": "and actually do some pretty cool things."
+  },
+  {
+    "startTime": 83.664,
+    "endTime": 85.824,
+    "text": "We can take natural language processing algorithms"
+  },
+  {
+    "startTime": 85.824,
+    "endTime": 88.453,
+    "text": "to kind of read through with a computer, line by line,"
+  },
+  {
+    "startTime": 88.453,
+    "endTime": 90.812,
+    "text": "extracting key concepts from this."
+  },
+  {
+    "startTime": 90.812,
+    "endTime": 93.337,
+    "text": "And we take those key concepts and they sort of form"
+  },
+  {
+    "startTime": 93.337,
+    "endTime": 96.902,
+    "text": "this mathematical structure of an idea."
+  },
+  {
+    "startTime": 96.902,
+    "endTime": 98.659,
+    "text": "And we call that the meme-ome."
+  },
+  {
+    "startTime": 98.659,
+    "endTime": 100.81,
+    "text": "And the meme-ome, you know, quite simply,"
+  },
+  {
+    "startTime": 100.81,
+    "endTime": 103.236,
+    "text": "is the mathematics that underlies an idea,"
+  },
+  {
+    "startTime": 103.236,
+    "endTime": 105.168,
+    "text": "and we can do some pretty interesting analysis with it,"
+  },
+  {
+    "startTime": 105.168,
+    "endTime": 107.149,
+    "text": "which I want to share with you now."
+  },
+  {
+    "startTime": 107.149,
+    "endTime": 109.339,
+    "text": "So each idea has its own meme-ome,"
+  },
+  {
+    "startTime": 109.339,
+    "endTime": 111.28999999999999,
+    "text": "and each idea is unique with that,"
+  },
+  {
+    "startTime": 111.29,
+    "endTime": 113.778,
+    "text": "but of course, ideas, they borrow from each other,"
+  },
+  {
+    "startTime": 113.778,
+    "endTime": 114.962,
+    "text": "they kind of steal sometimes,"
+  },
+  {
+    "startTime": 114.962,
+    "endTime": 116.789,
+    "text": "and they certainly build on each other,"
+  },
+  {
+    "startTime": 116.789,
+    "endTime": 118.405,
+    "text": "and we can go through mathematically"
+  },
+  {
+    "startTime": 118.405,
+    "endTime": 120.245,
+    "text": "and take the meme-ome from one talk"
+  },
+  {
+    "startTime": 120.245,
+    "endTime": 122.699,
+    "text": "and compare it to the meme-ome from every other talk,"
+  },
+  {
+    "startTime": 122.699,
+    "endTime": 124.672,
+    "text": "and if there's a similarity between the two of them,"
+  },
+  {
+    "startTime": 124.672,
+    "endTime": 127.922,
+    "text": "we can create a link and represent that as a graph,"
+  },
+  {
+    "startTime": 127.922,
+    "endTime": 130.316,
+    "text": "just like Eric and I are connected."
+  },
+  {
+    "startTime": 130.316,
+    "endTime": 131.71,
+    "text": "So that's theory, that's great."
+  },
+  {
+    "startTime": 131.71,
+    "endTime": 134.23600000000002,
+    "text": "Let's see how it works in actual practice."
+  },
+  {
+    "startTime": 134.236,
+    "endTime": 137.024,
+    "text": "So what we've got here now is the global footprint"
+  },
+  {
+    "startTime": 137.024,
+    "endTime": 139.317,
+    "text": "of all the TEDx Talks over the last four years"
+  },
+  {
+    "startTime": 139.317,
+    "endTime": 140.86700000000002,
+    "text": "exploding out around the world"
+  },
+  {
+    "startTime": 140.867,
+    "endTime": 144.196,
+    "text": "from New York all the way down to little old New Zealand in the corner."
+  },
+  {
+    "startTime": 144.196,
+    "endTime": 148.031,
+    "text": "And what we did on this is we analyzed the top 25 percent of these,"
+  },
+  {
+    "startTime": 148.031,
+    "endTime": 150.565,
+    "text": "and we started to see where the connections occurred,"
+  },
+  {
+    "startTime": 150.565,
+    "endTime": 152.102,
+    "text": "where they connected with each other."
+  },
+  {
+    "startTime": 152.102,
+    "endTime": 153.976,
+    "text": "Cameron Russell talking about image and beauty"
+  },
+  {
+    "startTime": 153.976,
+    "endTime": 155.551,
+    "text": "connected over into Europe."
+  },
+  {
+    "startTime": 155.551,
+    "endTime": 157.963,
+    "text": "We've got a bigger conversation about Israel and Palestine"
+  },
+  {
+    "startTime": 157.963,
+    "endTime": 160.218,
+    "text": "radiating outwards from the Middle East."
+  },
+  {
+    "startTime": 160.218,
+    "endTime": 161.516,
+    "text": "And we've got something a little broader"
+  },
+  {
+    "startTime": 161.516,
+    "endTime": 163.672,
+    "text": "like big data with a truly global footprint"
+  },
+  {
+    "startTime": 163.672,
+    "endTime": 165.851,
+    "text": "reminiscent of a conversation"
+  },
+  {
+    "startTime": 165.851,
+    "endTime": 167.867,
+    "text": "that is happening everywhere."
+  },
+  {
+    "startTime": 167.867,
+    "endTime": 170.04,
+    "text": "So from this, we kind of run up against the limits"
+  },
+  {
+    "startTime": 170.04,
+    "endTime": 172.57,
+    "text": "of what we can actually do with a geographic projection,"
+  },
+  {
+    "startTime": 172.57,
+    "endTime": 174.62199999999999,
+    "text": "but luckily, computer technology allows us to go out"
+  },
+  {
+    "startTime": 174.622,
+    "endTime": 176.168,
+    "text": "into multidimensional space."
+  },
+  {
+    "startTime": 176.168,
+    "endTime": 178.043,
+    "text": "So we can take in our network projection"
+  },
+  {
+    "startTime": 178.043,
+    "endTime": 179.793,
+    "text": "and apply a physics engine to this,"
+  },
+  {
+    "startTime": 179.793,
+    "endTime": 181.678,
+    "text": "and the similar talks kind of smash together,"
+  },
+  {
+    "startTime": 181.678,
+    "endTime": 183.682,
+    "text": "and the different ones fly apart,"
+  },
+  {
+    "startTime": 183.682,
+    "endTime": 185.754,
+    "text": "and what we're left with is something quite beautiful."
+  },
+  {
+    "startTime": 185.754,
+    "endTime": 188.71099999999998,
+    "text": "EB: So I want to just point out here that every node is a talk,"
+  },
+  {
+    "startTime": 188.711,
+    "endTime": 191.3,
+    "text": "they're linked if they share similar ideas,"
+  },
+  {
+    "startTime": 191.3,
+    "endTime": 193.38400000000001,
+    "text": "and that comes from a machine reading"
+  },
+  {
+    "startTime": 193.384,
+    "endTime": 195.451,
+    "text": "of entire talk transcripts,"
+  },
+  {
+    "startTime": 195.451,
+    "endTime": 197.682,
+    "text": "and then all these topics that pop out,"
+  },
+  {
+    "startTime": 197.682,
+    "endTime": 199.47199999999998,
+    "text": "they're not from tags and keywords."
+  },
+  {
+    "startTime": 199.472,
+    "endTime": 201.197,
+    "text": "They come from the network structure"
+  },
+  {
+    "startTime": 201.197,
+    "endTime": 203.365,
+    "text": "of interconnected ideas. Keep going."
+  },
+  {
+    "startTime": 203.365,
+    "endTime": 205.387,
+    "text": "SG: Absolutely. So I got a little quick on that,"
+  },
+  {
+    "startTime": 205.387,
+    "endTime": 206.862,
+    "text": "but he's going to slow me down."
+  },
+  {
+    "startTime": 206.862,
+    "endTime": 208.896,
+    "text": "We've got education connected to storytelling"
+  },
+  {
+    "startTime": 208.896,
+    "endTime": 210.539,
+    "text": "triangulated next to social media."
+  },
+  {
+    "startTime": 210.539,
+    "endTime": 213.01399999999998,
+    "text": "You've got, of course, the human brain right next to healthcare,"
+  },
+  {
+    "startTime": 213.014,
+    "endTime": 214.4,
+    "text": "which you might expect,"
+  },
+  {
+    "startTime": 214.4,
+    "endTime": 216.79500000000002,
+    "text": "but also you've got video games, which is sort of adjacent,"
+  },
+  {
+    "startTime": 216.795,
+    "endTime": 219.535,
+    "text": "as those two spaces interface with each other."
+  },
+  {
+    "startTime": 219.535,
+    "endTime": 221.07,
+    "text": "But I want to take you into one cluster"
+  },
+  {
+    "startTime": 221.07,
+    "endTime": 223.938,
+    "text": "that's particularly important to me, and that's the environment."
+  },
+  {
+    "startTime": 223.938,
+    "endTime": 225.43099999999998,
+    "text": "And I want to kind of zoom in on that"
+  },
+  {
+    "startTime": 225.431,
+    "endTime": 227.794,
+    "text": "and see if we can get a little more resolution."
+  },
+  {
+    "startTime": 227.794,
+    "endTime": 230.14100000000002,
+    "text": "So as we go in here, what we start to see,"
+  },
+  {
+    "startTime": 230.141,
+    "endTime": 231.64499999999998,
+    "text": "apply the physics engine again,"
+  },
+  {
+    "startTime": 231.645,
+    "endTime": 233.321,
+    "text": "we see what's one conversation"
+  },
+  {
+    "startTime": 233.321,
+    "endTime": 235.881,
+    "text": "is actually composed of many smaller ones."
+  },
+  {
+    "startTime": 235.881,
+    "endTime": 237.81,
+    "text": "The structure starts to emerge"
+  },
+  {
+    "startTime": 237.81,
+    "endTime": 239.88,
+    "text": "where we see a kind of fractal behavior"
+  },
+  {
+    "startTime": 239.88,
+    "endTime": 241.499,
+    "text": "of the words and the language that we use"
+  },
+  {
+    "startTime": 241.499,
+    "endTime": 243.201,
+    "text": "to describe the things that are important to us"
+  },
+  {
+    "startTime": 243.201,
+    "endTime": 244.634,
+    "text": "all around this world."
+  },
+  {
+    "startTime": 244.634,
+    "endTime": 246.96599999999998,
+    "text": "So you've got food economy and local food at the top,"
+  },
+  {
+    "startTime": 246.966,
+    "endTime": 249.685,
+    "text": "you've got greenhouse gases, solar and nuclear waste."
+  },
+  {
+    "startTime": 249.685,
+    "endTime": 252.316,
+    "text": "What you're getting is a range of smaller conversations,"
+  },
+  {
+    "startTime": 252.316,
+    "endTime": 254.617,
+    "text": "each connected to each other through the ideas"
+  },
+  {
+    "startTime": 254.617,
+    "endTime": 255.91799999999998,
+    "text": "and the language they share,"
+  },
+  {
+    "startTime": 255.918,
+    "endTime": 258.368,
+    "text": "creating a broader concept of the environment."
+  },
+  {
+    "startTime": 258.368,
+    "endTime": 259.9,
+    "text": "And of course, from here, we can go"
+  },
+  {
+    "startTime": 259.9,
+    "endTime": 263.43399999999997,
+    "text": "and zoom in and see, well, what are young people looking at?"
+  },
+  {
+    "startTime": 263.434,
+    "endTime": 265.77900000000005,
+    "text": "And they're looking at energy technology and nuclear fusion."
+  },
+  {
+    "startTime": 265.779,
+    "endTime": 267.453,
+    "text": "This is their kind of resonance"
+  },
+  {
+    "startTime": 267.453,
+    "endTime": 269.859,
+    "text": "for the conversation around the environment."
+  },
+  {
+    "startTime": 269.859,
+    "endTime": 271.758,
+    "text": "If we split along gender lines,"
+  },
+  {
+    "startTime": 271.758,
+    "endTime": 273.745,
+    "text": "we can see females resonating heavily"
+  },
+  {
+    "startTime": 273.745,
+    "endTime": 277.39,
+    "text": "with food economy, but also out there in hope and optimism."
+  },
+  {
+    "startTime": 277.39,
+    "endTime": 279.872,
+    "text": "And so there's a lot of exciting stuff we can do here,"
+  },
+  {
+    "startTime": 279.872,
+    "endTime": 281.634,
+    "text": "and I'll throw to Eric for the next part."
+  },
+  {
+    "startTime": 281.634,
+    "endTime": 283.236,
+    "text": "EB: Yeah, I mean, just to point out here,"
+  },
+  {
+    "startTime": 283.236,
+    "endTime": 284.774,
+    "text": "you cannot get this kind of perspective"
+  },
+  {
+    "startTime": 284.774,
+    "endTime": 288.134,
+    "text": "from a simple tag search on YouTube."
+  },
+  {
+    "startTime": 288.134,
+    "endTime": 292.322,
+    "text": "Let's now zoom back out to the entire global conversation"
+  },
+  {
+    "startTime": 292.322,
+    "endTime": 294.856,
+    "text": "out of environment, and look at all the talks together."
+  },
+  {
+    "startTime": 294.856,
+    "endTime": 297.783,
+    "text": "Now often, when we're faced with this amount of content,"
+  },
+  {
+    "startTime": 297.783,
+    "endTime": 300.214,
+    "text": "we do a couple of things to simplify it."
+  },
+  {
+    "startTime": 300.214,
+    "endTime": 301.528,
+    "text": "We might just say, well,"
+  },
+  {
+    "startTime": 301.528,
+    "endTime": 304.357,
+    "text": "what are the most popular talks out there?"
+  },
+  {
+    "startTime": 304.357,
+    "endTime": 305.754,
+    "text": "And a few rise to the surface."
+  },
+  {
+    "startTime": 305.754,
+    "endTime": 307.582,
+    "text": "There's a talk about gratitude."
+  },
+  {
+    "startTime": 307.582,
+    "endTime": 310.926,
+    "text": "There's another one about personal health and nutrition."
+  },
+  {
+    "startTime": 310.926,
+    "endTime": 313.85499999999996,
+    "text": "And of course, there's got to be one about porn, right?"
+  },
+  {
+    "startTime": 313.855,
+    "endTime": 317.089,
+    "text": "And so then we might say, well, gratitude, that was last year."
+  },
+  {
+    "startTime": 317.089,
+    "endTime": 319.611,
+    "text": "What's trending now? What's the popular talk now?"
+  },
+  {
+    "startTime": 319.611,
+    "endTime": 322.932,
+    "text": "And we can see that the new, emerging, top trending topic"
+  },
+  {
+    "startTime": 322.932,
+    "endTime": 325.598,
+    "text": "is about digital privacy."
+  },
+  {
+    "startTime": 325.598,
+    "endTime": 327.291,
+    "text": "So this is great. It simplifies things."
+  },
+  {
+    "startTime": 327.291,
+    "endTime": 329.118,
+    "text": "But there's so much creative content"
+  },
+  {
+    "startTime": 329.118,
+    "endTime": 331.039,
+    "text": "that's just buried at the bottom."
+  },
+  {
+    "startTime": 331.039,
+    "endTime": 334.35699999999997,
+    "text": "And I hate that. How do we bubble stuff up to the surface"
+  },
+  {
+    "startTime": 334.357,
+    "endTime": 336.81500000000005,
+    "text": "that's maybe really creative and interesting?"
+  },
+  {
+    "startTime": 336.815,
+    "endTime": 339.746,
+    "text": "Well, we can go back to the network structure of ideas"
+  },
+  {
+    "startTime": 339.746,
+    "endTime": 341.176,
+    "text": "to do that."
+  },
+  {
+    "startTime": 341.176,
+    "endTime": 343.28999999999996,
+    "text": "Remember, it's that network structure"
+  },
+  {
+    "startTime": 343.29,
+    "endTime": 345.558,
+    "text": "that is creating these emergent topics,"
+  },
+  {
+    "startTime": 345.558,
+    "endTime": 347.073,
+    "text": "and let's say we could take two of them,"
+  },
+  {
+    "startTime": 347.073,
+    "endTime": 350.12,
+    "text": "like cities and genetics, and say, well, are there any talks"
+  },
+  {
+    "startTime": 350.12,
+    "endTime": 352.689,
+    "text": "that creatively bridge these two really different disciplines."
+  },
+  {
+    "startTime": 352.689,
+    "endTime": 354.964,
+    "text": "And that's -- Essentially, this kind of creative remix"
+  },
+  {
+    "startTime": 354.964,
+    "endTime": 356.804,
+    "text": "is one of the hallmarks of innovation."
+  },
+  {
+    "startTime": 356.804,
+    "endTime": 358.40999999999997,
+    "text": "Well here's one by Jessica Green"
+  },
+  {
+    "startTime": 358.41,
+    "endTime": 360.78900000000004,
+    "text": "about the microbial ecology of buildings."
+  },
+  {
+    "startTime": 360.789,
+    "endTime": 362.799,
+    "text": "It's literally defining a new field."
+  },
+  {
+    "startTime": 362.799,
+    "endTime": 364.902,
+    "text": "And we could go back to those topics and say, well,"
+  },
+  {
+    "startTime": 364.902,
+    "endTime": 367.66999999999996,
+    "text": "what talks are central to those conversations?"
+  },
+  {
+    "startTime": 367.67,
+    "endTime": 369.36,
+    "text": "In the cities cluster, one of the most central"
+  },
+  {
+    "startTime": 369.36,
+    "endTime": 373.312,
+    "text": "was one by Mitch Joachim about ecological cities,"
+  },
+  {
+    "startTime": 373.312,
+    "endTime": 375.03200000000004,
+    "text": "and in the genetics cluster,"
+  },
+  {
+    "startTime": 375.032,
+    "endTime": 378.22499999999997,
+    "text": "we have a talk about synthetic biology by Craig Venter."
+  },
+  {
+    "startTime": 378.225,
+    "endTime": 381.57800000000003,
+    "text": "These are talks that are linking many talks within their discipline."
+  },
+  {
+    "startTime": 381.578,
+    "endTime": 383.421,
+    "text": "We could go the other direction and say, well,"
+  },
+  {
+    "startTime": 383.421,
+    "endTime": 385.693,
+    "text": "what are talks that are broadly synthesizing"
+  },
+  {
+    "startTime": 385.693,
+    "endTime": 387.14099999999996,
+    "text": "a lot of different kinds of fields."
+  },
+  {
+    "startTime": 387.141,
+    "endTime": 389.67400000000004,
+    "text": "We used a measure of ecological diversity to get this."
+  },
+  {
+    "startTime": 389.674,
+    "endTime": 392.40999999999997,
+    "text": "Like, a talk by Steven Pinker on the history of violence,"
+  },
+  {
+    "startTime": 392.41,
+    "endTime": 393.59000000000003,
+    "text": "very synthetic."
+  },
+  {
+    "startTime": 393.59,
+    "endTime": 395.66799999999995,
+    "text": "And then, of course, there are talks that are so unique"
+  },
+  {
+    "startTime": 395.668,
+    "endTime": 398.758,
+    "text": "they're kind of out in the stratosphere, in their own special place,"
+  },
+  {
+    "startTime": 398.758,
+    "endTime": 401.272,
+    "text": "and we call that the Colleen Flanagan index."
+  },
+  {
+    "startTime": 401.272,
+    "endTime": 404.306,
+    "text": "And if you don't know Colleen, she's an artist,"
+  },
+  {
+    "startTime": 404.306,
+    "endTime": 405.849,
+    "text": "and I asked her, \"Well, what's it like out there"
+  },
+  {
+    "startTime": 405.849,
+    "endTime": 407.521,
+    "text": "in the stratosphere of our idea space?\""
+  },
+  {
+    "startTime": 407.521,
+    "endTime": 410.776,
+    "text": "And apparently it smells like bacon."
+  },
+  {
+    "startTime": 410.776,
+    "endTime": 412.567,
+    "text": "I wouldn't know."
+  },
+  {
+    "startTime": 412.567,
+    "endTime": 414.815,
+    "text": "So we're using these network motifs"
+  },
+  {
+    "startTime": 414.815,
+    "endTime": 416.001,
+    "text": "to find talks that are unique,"
+  },
+  {
+    "startTime": 416.001,
+    "endTime": 418.71099999999996,
+    "text": "ones that are creatively synthesizing a lot of different fields,"
+  },
+  {
+    "startTime": 418.711,
+    "endTime": 420.37,
+    "text": "ones that are central to their topic,"
+  },
+  {
+    "startTime": 420.37,
+    "endTime": 423.744,
+    "text": "and ones that are really creatively bridging disparate fields."
+  },
+  {
+    "startTime": 423.744,
+    "endTime": 425.846,
+    "text": "Okay? We never would have found those with our obsession"
+  },
+  {
+    "startTime": 425.846,
+    "endTime": 428.159,
+    "text": "with what's trending now."
+  },
+  {
+    "startTime": 428.159,
+    "endTime": 431.045,
+    "text": "And all of this comes from the architecture of complexity,"
+  },
+  {
+    "startTime": 431.045,
+    "endTime": 434.005,
+    "text": "or the patterns of how things are connected."
+  },
+  {
+    "startTime": 434.005,
+    "endTime": 435.63,
+    "text": "SG: So that's exactly right."
+  },
+  {
+    "startTime": 435.63,
+    "endTime": 438.109,
+    "text": "We've got ourselves in a world"
+  },
+  {
+    "startTime": 438.109,
+    "endTime": 440.15299999999996,
+    "text": "that's massively complex,"
+  },
+  {
+    "startTime": 440.153,
+    "endTime": 443.02000000000004,
+    "text": "and we've been using algorithms to kind of filter it down"
+  },
+  {
+    "startTime": 443.02,
+    "endTime": 444.806,
+    "text": "so we can navigate through it."
+  },
+  {
+    "startTime": 444.806,
+    "endTime": 447.144,
+    "text": "And those algorithms, whilst being kind of useful,"
+  },
+  {
+    "startTime": 447.144,
+    "endTime": 450.62,
+    "text": "are also very, very narrow, and we can do better than that,"
+  },
+  {
+    "startTime": 450.62,
+    "endTime": 453.186,
+    "text": "because we can realize that their complexity is not random."
+  },
+  {
+    "startTime": 453.186,
+    "endTime": 455.14,
+    "text": "It has mathematical structure,"
+  },
+  {
+    "startTime": 455.14,
+    "endTime": 456.943,
+    "text": "and we can use that mathematical structure"
+  },
+  {
+    "startTime": 456.943,
+    "endTime": 459.157,
+    "text": "to go and explore things like the world of ideas"
+  },
+  {
+    "startTime": 459.157,
+    "endTime": 462.157,
+    "text": "to see what's being said, to see what's not being said,"
+  },
+  {
+    "startTime": 462.157,
+    "endTime": 463.56399999999996,
+    "text": "and to be a little bit more human"
+  },
+  {
+    "startTime": 463.564,
+    "endTime": 465.43100000000004,
+    "text": "and, hopefully, a little smarter."
+  },
+  {
+    "startTime": 465.431,
+    "endTime": 466.397,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 466.397,
+    "endTime": 470.617,
+    "text": "(Applause)"
+  }
+]

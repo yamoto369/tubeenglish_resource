@@ -1,0 +1,432 @@
+[
+  {
+    "startTime": 10.727,
+    "endTime": 13.032,
+    "text": "How does this music make you feel?"
+  },
+  {
+    "startTime": 13.032,
+    "endTime": 14.701,
+    "text": "Do you find it beautiful?"
+  },
+  {
+    "startTime": 14.701,
+    "endTime": 16.337,
+    "text": "Is it creative?"
+  },
+  {
+    "startTime": 16.337,
+    "endTime": 18.042,
+    "text": "Now, would you change your answers"
+  },
+  {
+    "startTime": 18.042,
+    "endTime": 21.522000000000002,
+    "text": "if you learned  the composer was this robot?"
+  },
+  {
+    "startTime": 21.522,
+    "endTime": 23.500999999999998,
+    "text": "Believe it or not,"
+  },
+  {
+    "startTime": 23.501,
+    "endTime": 26.818,
+    "text": "people have been grappling with the question of artificial creativity,"
+  },
+  {
+    "startTime": 26.818,
+    "endTime": 29.825000000000003,
+    "text": "alongside the question  of artifcial intelligence,"
+  },
+  {
+    "startTime": 29.825,
+    "endTime": 32.832,
+    "text": "for over 170 years."
+  },
+  {
+    "startTime": 32.832,
+    "endTime": 35.84,
+    "text": "In 1843, Lady Ada Lovelace,"
+  },
+  {
+    "startTime": 35.84,
+    "endTime": 40.149,
+    "text": "an English mathematician considered the world's first computer programmer,"
+  },
+  {
+    "startTime": 40.149,
+    "endTime": 43.577,
+    "text": "wrote that a machine could not have human-like intelligence"
+  },
+  {
+    "startTime": 43.577,
+    "endTime": 49.007,
+    "text": "as long as it only did what humans intentionally programmed it to do."
+  },
+  {
+    "startTime": 49.007,
+    "endTime": 50.708999999999996,
+    "text": "According to Lovelace,"
+  },
+  {
+    "startTime": 50.709,
+    "endTime": 53.694,
+    "text": "a machine must be able  to create original ideas"
+  },
+  {
+    "startTime": 53.694,
+    "endTime": 57.392,
+    "text": "if it is to be considered intelligent."
+  },
+  {
+    "startTime": 57.392,
+    "endTime": 63.814,
+    "text": "The Lovelace Test, formalized in 2001, proposes a way of scrutinizing this idea."
+  },
+  {
+    "startTime": 63.814,
+    "endTime": 67.256,
+    "text": "A machine can pass this test if it can produce an outcome"
+  },
+  {
+    "startTime": 67.256,
+    "endTime": 72.26,
+    "text": "that its designers cannot explain  based on their original code."
+  },
+  {
+    "startTime": 72.26,
+    "endTime": 75.60900000000001,
+    "text": "The Lovelace Test is, by design, more of a thought experiment"
+  },
+  {
+    "startTime": 75.609,
+    "endTime": 78.02,
+    "text": "than an objective scientific test."
+  },
+  {
+    "startTime": 78.02,
+    "endTime": 80.039,
+    "text": "But it's a place to start."
+  },
+  {
+    "startTime": 80.039,
+    "endTime": 81.233,
+    "text": "At first glance,"
+  },
+  {
+    "startTime": 81.233,
+    "endTime": 85.153,
+    "text": "the idea of a machine creating  high quality, original music in this way"
+  },
+  {
+    "startTime": 85.153,
+    "endTime": 87.308,
+    "text": "might seem impossible."
+  },
+  {
+    "startTime": 87.308,
+    "endTime": 90.20200000000001,
+    "text": "We could come up with an extremely complex algorithm"
+  },
+  {
+    "startTime": 90.202,
+    "endTime": 94.343,
+    "text": "using random number generators, chaotic functions, and fuzzy logic"
+  },
+  {
+    "startTime": 94.343,
+    "endTime": 96.802,
+    "text": "to generate a sequence of musical notes"
+  },
+  {
+    "startTime": 96.802,
+    "endTime": 99.47600000000001,
+    "text": "in a way that would be  impossible to track."
+  },
+  {
+    "startTime": 99.476,
+    "endTime": 103.271,
+    "text": "But although this would yield countless original melodies never heard before,"
+  },
+  {
+    "startTime": 103.271,
+    "endTime": 107.214,
+    "text": "only a tiny fraction of them would be worth listening to."
+  },
+  {
+    "startTime": 107.214,
+    "endTime": 109.551,
+    "text": "With the computer having no way to distinguish"
+  },
+  {
+    "startTime": 109.551,
+    "endTime": 111.974,
+    "text": "between those which we would consider beautiful"
+  },
+  {
+    "startTime": 111.974,
+    "endTime": 114.611,
+    "text": "and those which we won't."
+  },
+  {
+    "startTime": 114.611,
+    "endTime": 116.248,
+    "text": "But what if we took a step back"
+  },
+  {
+    "startTime": 116.248,
+    "endTime": 121.221,
+    "text": "and tried to model a natural process that allows creativity to form?"
+  },
+  {
+    "startTime": 121.221,
+    "endTime": 123.473,
+    "text": "We happen to know of at least one such process"
+  },
+  {
+    "startTime": 123.473,
+    "endTime": 127.995,
+    "text": "that has lead to original, valuable, and even beautiful outcomes:"
+  },
+  {
+    "startTime": 127.995,
+    "endTime": 130.78300000000002,
+    "text": "the process of evolution."
+  },
+  {
+    "startTime": 130.783,
+    "endTime": 132.981,
+    "text": "And evolutionary algorithms,"
+  },
+  {
+    "startTime": 132.981,
+    "endTime": 136.23999999999998,
+    "text": "or genetic algorithms that mimic biological evolution,"
+  },
+  {
+    "startTime": 136.24,
+    "endTime": 138.543,
+    "text": "are one promising approach"
+  },
+  {
+    "startTime": 138.543,
+    "endTime": 144.56300000000002,
+    "text": "to making machines generate original and valuable artistic outcomes."
+  },
+  {
+    "startTime": 144.563,
+    "endTime": 147.554,
+    "text": "So how can evolution make  a machine musically creative?"
+  },
+  {
+    "startTime": 147.554,
+    "endTime": 149.665,
+    "text": "Well, instead of organisms,"
+  },
+  {
+    "startTime": 149.665,
+    "endTime": 161.378,
+    "text": "we can start with an initial population of musical phrases,"
+  },
+  {
+    "startTime": 161.378,
+    "endTime": 162.84099999999998,
+    "text": "and a basic algorithm"
+  },
+  {
+    "startTime": 162.841,
+    "endTime": 165.76500000000001,
+    "text": "that mimics reproduction  and random mutations"
+  },
+  {
+    "startTime": 165.765,
+    "endTime": 168.177,
+    "text": "by switching some parts,"
+  },
+  {
+    "startTime": 168.177,
+    "endTime": 169.939,
+    "text": "combining others,"
+  },
+  {
+    "startTime": 169.939,
+    "endTime": 172.35299999999998,
+    "text": "and replacing random notes."
+  },
+  {
+    "startTime": 172.353,
+    "endTime": 175.05100000000002,
+    "text": "Now that we have  a new generation of phrases,"
+  },
+  {
+    "startTime": 175.051,
+    "endTime": 180.005,
+    "text": "we can apply selection using  an operation called a fitness function."
+  },
+  {
+    "startTime": 180.005,
+    "endTime": 184.307,
+    "text": "Just as biological fitness is determined by external environmental pressures,"
+  },
+  {
+    "startTime": 184.307,
+    "endTime": 188.464,
+    "text": "our fitness function can be determined by an external melody"
+  },
+  {
+    "startTime": 188.464,
+    "endTime": 191.31,
+    "text": "chosen by human musicians, or music fans,"
+  },
+  {
+    "startTime": 191.31,
+    "endTime": 200.115,
+    "text": "to represent the ultimate  beautiful melody."
+  },
+  {
+    "startTime": 200.115,
+    "endTime": 203.30100000000002,
+    "text": "The algorithm can then compare between our musical phrases"
+  },
+  {
+    "startTime": 203.301,
+    "endTime": 205.09799999999998,
+    "text": "and that beautiful melody,"
+  },
+  {
+    "startTime": 205.098,
+    "endTime": 208.95100000000002,
+    "text": "and select only the phrases that are most similar to it."
+  },
+  {
+    "startTime": 208.951,
+    "endTime": 211.969,
+    "text": "Once the least similar sequences are weeded out,"
+  },
+  {
+    "startTime": 211.969,
+    "endTime": 216.498,
+    "text": "the algorithm can reapply mutation and recombination to what's left,"
+  },
+  {
+    "startTime": 216.498,
+    "endTime": 220.802,
+    "text": "select the most similar, or fitted ones, again from the new generation,"
+  },
+  {
+    "startTime": 220.802,
+    "endTime": 228.412,
+    "text": "and repeat for many generations."
+  },
+  {
+    "startTime": 228.412,
+    "endTime": 232.728,
+    "text": "The process that got us there has so much randomness and complexity built in"
+  },
+  {
+    "startTime": 232.728,
+    "endTime": 236.298,
+    "text": "that the result might  pass the Lovelace Test."
+  },
+  {
+    "startTime": 236.298,
+    "endTime": 240.246,
+    "text": "More importantly, thanks to the presence  of human aesthetic in the process,"
+  },
+  {
+    "startTime": 240.246,
+    "endTime": 249.327,
+    "text": "we'll theoretically generate melodies we would consider beautiful."
+  },
+  {
+    "startTime": 249.327,
+    "endTime": 253.567,
+    "text": "But does this satisfy our intuition for what is truly creative?"
+  },
+  {
+    "startTime": 253.567,
+    "endTime": 256.111,
+    "text": "Is it enough to make something original and beautiful,"
+  },
+  {
+    "startTime": 256.111,
+    "endTime": 262.397,
+    "text": "or does creativity require intention and awareness of what is being created?"
+  },
+  {
+    "startTime": 262.397,
+    "endTime": 266.193,
+    "text": "Perhaps the creativity in this case is really coming from the programmers,"
+  },
+  {
+    "startTime": 266.193,
+    "endTime": 269.018,
+    "text": "even if they don't understand the process."
+  },
+  {
+    "startTime": 269.018,
+    "endTime": 271.20399999999995,
+    "text": "What is human creativity, anyways?"
+  },
+  {
+    "startTime": 271.204,
+    "endTime": 274.039,
+    "text": "Is it something more than a system of interconnected neurons"
+  },
+  {
+    "startTime": 274.039,
+    "endTime": 277.18199999999996,
+    "text": "developed by biological  algorithmic processes"
+  },
+  {
+    "startTime": 277.182,
+    "endTime": 280.615,
+    "text": "and the random experiences  that shape our lives?"
+  },
+  {
+    "startTime": 280.615,
+    "endTime": 284.152,
+    "text": "Order and chaos, machine and human."
+  },
+  {
+    "startTime": 284.152,
+    "endTime": 288.268,
+    "text": "These are the dynamos at the heart of machine creativity initiatives"
+  },
+  {
+    "startTime": 288.268,
+    "endTime": 294.27,
+    "text": "that are currently making music,  sculptures, paintings, poetry and more."
+  },
+  {
+    "startTime": 294.27,
+    "endTime": 295.74699999999996,
+    "text": "The jury may still be out"
+  },
+  {
+    "startTime": 295.747,
+    "endTime": 300.051,
+    "text": "as to whether it's fair to call  these acts of creation creative."
+  },
+  {
+    "startTime": 300.051,
+    "endTime": 302.43199999999996,
+    "text": "But if a piece of art can make you weep,"
+  },
+  {
+    "startTime": 302.432,
+    "endTime": 303.973,
+    "text": "or blow your mind,"
+  },
+  {
+    "startTime": 303.973,
+    "endTime": 306.134,
+    "text": "or send shivers down your spine,"
+  },
+  {
+    "startTime": 306.134,
+    "endTime": 316.134,
+    "text": "does it really matter  who or what created it?"
+  }
+]

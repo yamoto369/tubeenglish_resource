@@ -1,0 +1,1762 @@
+[
+  {
+    "startTime": 13.099,
+    "endTime": 14.718,
+    "text": "I study ants"
+  },
+  {
+    "startTime": 14.718,
+    "endTime": 18.015,
+    "text": "in the desert, in the tropical forest"
+  },
+  {
+    "startTime": 18.015,
+    "endTime": 19.543,
+    "text": "and in my kitchen,"
+  },
+  {
+    "startTime": 19.543,
+    "endTime": 23.563,
+    "text": "and in the hills around Silicon Valley where I live."
+  },
+  {
+    "startTime": 23.563,
+    "endTime": 25.238999999999997,
+    "text": "I've recently realized that ants"
+  },
+  {
+    "startTime": 25.239,
+    "endTime": 27.517,
+    "text": "are using interactions differently"
+  },
+  {
+    "startTime": 27.517,
+    "endTime": 29.345,
+    "text": "in different environments,"
+  },
+  {
+    "startTime": 29.345,
+    "endTime": 31.345,
+    "text": "and that got me thinking\nthat we could learn from this"
+  },
+  {
+    "startTime": 31.345,
+    "endTime": 32.9,
+    "text": "about other systems,"
+  },
+  {
+    "startTime": 32.9,
+    "endTime": 38.488,
+    "text": "like brains and data networks that we engineer,"
+  },
+  {
+    "startTime": 38.488,
+    "endTime": 41.334,
+    "text": "and even cancer."
+  },
+  {
+    "startTime": 41.334,
+    "endTime": 43.086000000000006,
+    "text": "So what all these systems have in common"
+  },
+  {
+    "startTime": 43.086,
+    "endTime": 45.943,
+    "text": "is that there's no central control."
+  },
+  {
+    "startTime": 45.943,
+    "endTime": 49.763,
+    "text": "An ant colony consists of sterile female workers --"
+  },
+  {
+    "startTime": 49.763,
+    "endTime": 52.149,
+    "text": "those are the ants you see walking around —"
+  },
+  {
+    "startTime": 52.149,
+    "endTime": 54.305,
+    "text": "and then one or more reproductive females"
+  },
+  {
+    "startTime": 54.305,
+    "endTime": 56.408,
+    "text": "who just lay the eggs."
+  },
+  {
+    "startTime": 56.408,
+    "endTime": 58.417,
+    "text": "They don't give any instructions."
+  },
+  {
+    "startTime": 58.417,
+    "endTime": 60.401,
+    "text": "Even though they're called queens,"
+  },
+  {
+    "startTime": 60.401,
+    "endTime": 62.566,
+    "text": "they don't tell anybody what to do."
+  },
+  {
+    "startTime": 62.566,
+    "endTime": 65.842,
+    "text": "So in an ant colony, there's no one in charge,"
+  },
+  {
+    "startTime": 65.842,
+    "endTime": 68.62,
+    "text": "and all systems like this without central control"
+  },
+  {
+    "startTime": 68.62,
+    "endTime": 72.539,
+    "text": "are regulated using very simple interactions."
+  },
+  {
+    "startTime": 72.549,
+    "endTime": 75.27600000000001,
+    "text": "Ants interact using smell."
+  },
+  {
+    "startTime": 75.276,
+    "endTime": 77.463,
+    "text": "They smell with their antennae,"
+  },
+  {
+    "startTime": 77.463,
+    "endTime": 80.22399999999999,
+    "text": "and they interact with their antennae,"
+  },
+  {
+    "startTime": 80.224,
+    "endTime": 83.233,
+    "text": "so when one ant touches another with its antennae,"
+  },
+  {
+    "startTime": 83.233,
+    "endTime": 84.84,
+    "text": "it can tell, for example, if the other ant"
+  },
+  {
+    "startTime": 84.84,
+    "endTime": 86.474,
+    "text": "is a nestmate"
+  },
+  {
+    "startTime": 86.474,
+    "endTime": 90.71000000000001,
+    "text": "and what task that other ant has been doing."
+  },
+  {
+    "startTime": 90.71,
+    "endTime": 93.91,
+    "text": "So here you see a lot of ants moving around"
+  },
+  {
+    "startTime": 93.91,
+    "endTime": 95.843,
+    "text": "and interacting in a lab arena"
+  },
+  {
+    "startTime": 95.843,
+    "endTime": 99.281,
+    "text": "that's connected by tubes to two other arenas."
+  },
+  {
+    "startTime": 99.281,
+    "endTime": 101.78500000000001,
+    "text": "So when one ant meets another,"
+  },
+  {
+    "startTime": 101.785,
+    "endTime": 103.874,
+    "text": "it doesn't matter which ant it meets,"
+  },
+  {
+    "startTime": 103.874,
+    "endTime": 105.759,
+    "text": "and they're actually not transmitting"
+  },
+  {
+    "startTime": 105.759,
+    "endTime": 109.224,
+    "text": "any kind of complicated signal or message."
+  },
+  {
+    "startTime": 109.224,
+    "endTime": 111.33500000000001,
+    "text": "All that matters to the ant is the rate"
+  },
+  {
+    "startTime": 111.335,
+    "endTime": 114.15599999999999,
+    "text": "at which it meets other ants."
+  },
+  {
+    "startTime": 114.156,
+    "endTime": 116.91300000000001,
+    "text": "And all of these interactions, taken together,"
+  },
+  {
+    "startTime": 116.913,
+    "endTime": 119.41799999999999,
+    "text": "produce a network."
+  },
+  {
+    "startTime": 119.418,
+    "endTime": 121.628,
+    "text": "So this is the network of the ants"
+  },
+  {
+    "startTime": 121.628,
+    "endTime": 124.272,
+    "text": "that you just saw moving around in the arena,"
+  },
+  {
+    "startTime": 124.272,
+    "endTime": 127.55900000000001,
+    "text": "and it's this constantly shifting network"
+  },
+  {
+    "startTime": 127.559,
+    "endTime": 130.079,
+    "text": "that produces the behavior of the colony,"
+  },
+  {
+    "startTime": 130.079,
+    "endTime": 132.96,
+    "text": "like whether all the ants are hiding inside the nest,"
+  },
+  {
+    "startTime": 132.96,
+    "endTime": 135.654,
+    "text": "or how many are going out to forage."
+  },
+  {
+    "startTime": 135.654,
+    "endTime": 137.41299999999998,
+    "text": "A brain actually works in the same way,"
+  },
+  {
+    "startTime": 137.413,
+    "endTime": 138.913,
+    "text": "but what's great about ants is"
+  },
+  {
+    "startTime": 138.913,
+    "endTime": 143.78,
+    "text": "that you can see the whole network as it happens."
+  },
+  {
+    "startTime": 143.78,
+    "endTime": 146.88,
+    "text": "There are more than 12,000 species of ants,"
+  },
+  {
+    "startTime": 146.88,
+    "endTime": 149.005,
+    "text": "in every conceivable environment,"
+  },
+  {
+    "startTime": 149.005,
+    "endTime": 151.654,
+    "text": "and they're using interactions differently"
+  },
+  {
+    "startTime": 151.654,
+    "endTime": 154.422,
+    "text": "to meet different environmental challenges."
+  },
+  {
+    "startTime": 154.422,
+    "endTime": 156.727,
+    "text": "So one important environmental challenge"
+  },
+  {
+    "startTime": 156.727,
+    "endTime": 158.597,
+    "text": "that every system has to deal with"
+  },
+  {
+    "startTime": 158.597,
+    "endTime": 160.68,
+    "text": "is operating costs, just what it takes"
+  },
+  {
+    "startTime": 160.68,
+    "endTime": 162.945,
+    "text": "to run the system."
+  },
+  {
+    "startTime": 162.945,
+    "endTime": 165.493,
+    "text": "And another environmental challenge is resources,"
+  },
+  {
+    "startTime": 165.493,
+    "endTime": 167.829,
+    "text": "finding them and collecting them."
+  },
+  {
+    "startTime": 167.829,
+    "endTime": 170.612,
+    "text": "In the desert, operating costs are high"
+  },
+  {
+    "startTime": 170.612,
+    "endTime": 172.385,
+    "text": "because water is scarce,"
+  },
+  {
+    "startTime": 172.385,
+    "endTime": 174.884,
+    "text": "and the seed-eating ants that I study in the desert"
+  },
+  {
+    "startTime": 174.884,
+    "endTime": 177.784,
+    "text": "have to spend water to get water."
+  },
+  {
+    "startTime": 177.784,
+    "endTime": 179.923,
+    "text": "So an ant outside foraging,"
+  },
+  {
+    "startTime": 179.923,
+    "endTime": 181.96,
+    "text": "searching for seeds in the hot sun,"
+  },
+  {
+    "startTime": 181.96,
+    "endTime": 183.967,
+    "text": "just loses water into the air."
+  },
+  {
+    "startTime": 183.967,
+    "endTime": 185.631,
+    "text": "But the colony gets its water"
+  },
+  {
+    "startTime": 185.631,
+    "endTime": 187.397,
+    "text": "by metabolizing the fats out of the seeds"
+  },
+  {
+    "startTime": 187.397,
+    "endTime": 189.331,
+    "text": "that they eat."
+  },
+  {
+    "startTime": 189.331,
+    "endTime": 192.48999999999998,
+    "text": "So in this environment, interactions are used"
+  },
+  {
+    "startTime": 192.49,
+    "endTime": 194.03900000000002,
+    "text": "to activate foraging."
+  },
+  {
+    "startTime": 194.039,
+    "endTime": 196.303,
+    "text": "An outgoing forager doesn't go out unless"
+  },
+  {
+    "startTime": 196.303,
+    "endTime": 198.876,
+    "text": "it gets enough interactions with returning foragers,"
+  },
+  {
+    "startTime": 198.876,
+    "endTime": 200.866,
+    "text": "and what you see are the returning foragers"
+  },
+  {
+    "startTime": 200.866,
+    "endTime": 202.69000000000003,
+    "text": "going into the tunnel, into the nest,"
+  },
+  {
+    "startTime": 202.69,
+    "endTime": 205.326,
+    "text": "and meeting outgoing foragers on their way out."
+  },
+  {
+    "startTime": 205.326,
+    "endTime": 206.94899999999998,
+    "text": "This makes sense for the ant colony,"
+  },
+  {
+    "startTime": 206.949,
+    "endTime": 209.27200000000002,
+    "text": "because the more food there is out there,"
+  },
+  {
+    "startTime": 209.272,
+    "endTime": 211.123,
+    "text": "the more quickly the foragers find it,"
+  },
+  {
+    "startTime": 211.123,
+    "endTime": 212.35899999999998,
+    "text": "the faster they come back,"
+  },
+  {
+    "startTime": 212.359,
+    "endTime": 215.16,
+    "text": "and the more foragers they send out."
+  },
+  {
+    "startTime": 215.16,
+    "endTime": 217.667,
+    "text": "The system works to stay stopped,"
+  },
+  {
+    "startTime": 217.667,
+    "endTime": 219.682,
+    "text": "unless something positive happens."
+  },
+  {
+    "startTime": 219.682,
+    "endTime": 223.563,
+    "text": "So interactions function to activate foragers."
+  },
+  {
+    "startTime": 223.563,
+    "endTime": 226.47,
+    "text": "And we've been studying\nthe evolution of this system."
+  },
+  {
+    "startTime": 226.47,
+    "endTime": 227.561,
+    "text": "First of all, there's variation."
+  },
+  {
+    "startTime": 227.561,
+    "endTime": 230.04000000000002,
+    "text": "It turns out that colonies are different."
+  },
+  {
+    "startTime": 230.04,
+    "endTime": 232.736,
+    "text": "On dry days, some colonies forage less,"
+  },
+  {
+    "startTime": 232.736,
+    "endTime": 234.24099999999999,
+    "text": "so colonies are different in how"
+  },
+  {
+    "startTime": 234.241,
+    "endTime": 235.59500000000003,
+    "text": "they manage this trade-off"
+  },
+  {
+    "startTime": 235.595,
+    "endTime": 238.763,
+    "text": "between spending water to search for seeds"
+  },
+  {
+    "startTime": 238.763,
+    "endTime": 242.083,
+    "text": "and getting water back in the form of seeds."
+  },
+  {
+    "startTime": 242.083,
+    "endTime": 243.802,
+    "text": "And we're trying to understand why"
+  },
+  {
+    "startTime": 243.802,
+    "endTime": 245.94199999999998,
+    "text": "some colonies forage less than others"
+  },
+  {
+    "startTime": 245.942,
+    "endTime": 248.267,
+    "text": "by thinking about ants as neurons,"
+  },
+  {
+    "startTime": 248.267,
+    "endTime": 250.605,
+    "text": "using models from neuroscience."
+  },
+  {
+    "startTime": 250.605,
+    "endTime": 253.279,
+    "text": "So just as a neuron adds up its stimulation"
+  },
+  {
+    "startTime": 253.279,
+    "endTime": 255.285,
+    "text": "from other neurons to decide whether to fire,"
+  },
+  {
+    "startTime": 255.285,
+    "endTime": 258.17,
+    "text": "an ant adds up its stimulation from other ants"
+  },
+  {
+    "startTime": 258.17,
+    "endTime": 260.19300000000004,
+    "text": "to decide whether to forage."
+  },
+  {
+    "startTime": 260.193,
+    "endTime": 261.83,
+    "text": "And what we're looking for is whether there might be"
+  },
+  {
+    "startTime": 261.83,
+    "endTime": 263.822,
+    "text": "small differences among colonies"
+  },
+  {
+    "startTime": 263.822,
+    "endTime": 267.136,
+    "text": "in how many interactions each ant needs"
+  },
+  {
+    "startTime": 267.136,
+    "endTime": 269.062,
+    "text": "before it's willing to go out and forage,"
+  },
+  {
+    "startTime": 269.062,
+    "endTime": 272.829,
+    "text": "because a colony like that would forage less."
+  },
+  {
+    "startTime": 272.829,
+    "endTime": 275.968,
+    "text": "And this raises an analogous question about brains."
+  },
+  {
+    "startTime": 275.968,
+    "endTime": 277.38,
+    "text": "We talk about the brain,"
+  },
+  {
+    "startTime": 277.38,
+    "endTime": 280.27,
+    "text": "but of course every brain is slightly different,"
+  },
+  {
+    "startTime": 280.27,
+    "endTime": 281.649,
+    "text": "and maybe there are some individuals"
+  },
+  {
+    "startTime": 281.649,
+    "endTime": 282.968,
+    "text": "or some conditions"
+  },
+  {
+    "startTime": 282.968,
+    "endTime": 286.19,
+    "text": "in which the electrical properties of neurons are such"
+  },
+  {
+    "startTime": 286.19,
+    "endTime": 290.06,
+    "text": "that they require more stimulus to fire,"
+  },
+  {
+    "startTime": 290.06,
+    "endTime": 293.786,
+    "text": "and that would lead to differences in brain function."
+  },
+  {
+    "startTime": 293.786,
+    "endTime": 296.12,
+    "text": "So in order to ask evolutionary questions,"
+  },
+  {
+    "startTime": 296.12,
+    "endTime": 298.799,
+    "text": "we need to know about reproductive success."
+  },
+  {
+    "startTime": 298.799,
+    "endTime": 301.12399999999997,
+    "text": "This is a map of the study site"
+  },
+  {
+    "startTime": 301.124,
+    "endTime": 303.677,
+    "text": "where I have been tracking this population"
+  },
+  {
+    "startTime": 303.677,
+    "endTime": 306.97,
+    "text": "of harvester ant colonies for 28 years,"
+  },
+  {
+    "startTime": 306.97,
+    "endTime": 309.232,
+    "text": "which is about as long as a colony lives."
+  },
+  {
+    "startTime": 309.232,
+    "endTime": 311.331,
+    "text": "Each symbol is a colony,"
+  },
+  {
+    "startTime": 311.331,
+    "endTime": 314.59700000000004,
+    "text": "and the size of the symbol is\nhow many offspring it had,"
+  },
+  {
+    "startTime": 314.597,
+    "endTime": 316.51,
+    "text": "because we were able to use genetic variation"
+  },
+  {
+    "startTime": 316.51,
+    "endTime": 319.221,
+    "text": "to match up parent and offspring colonies,"
+  },
+  {
+    "startTime": 319.221,
+    "endTime": 322.51800000000003,
+    "text": "that is, to figure out which colonies"
+  },
+  {
+    "startTime": 322.518,
+    "endTime": 324.443,
+    "text": "were founded by a daughter queen"
+  },
+  {
+    "startTime": 324.443,
+    "endTime": 326.51099999999997,
+    "text": "produced by which parent colony."
+  },
+  {
+    "startTime": 326.511,
+    "endTime": 328.51300000000003,
+    "text": "And this was amazing for me, after all these years,"
+  },
+  {
+    "startTime": 328.513,
+    "endTime": 331.64099999999996,
+    "text": "to find out, for example, that colony 154,"
+  },
+  {
+    "startTime": 331.641,
+    "endTime": 333.817,
+    "text": "whom I've known well for many years,"
+  },
+  {
+    "startTime": 333.817,
+    "endTime": 335.636,
+    "text": "is a great-grandmother."
+  },
+  {
+    "startTime": 335.636,
+    "endTime": 337.37600000000003,
+    "text": "Here's her daughter colony,"
+  },
+  {
+    "startTime": 337.376,
+    "endTime": 340.06,
+    "text": "here's her granddaughter colony,"
+  },
+  {
+    "startTime": 340.06,
+    "endTime": 342.452,
+    "text": "and these are her great-granddaughter colonies."
+  },
+  {
+    "startTime": 342.452,
+    "endTime": 344.477,
+    "text": "And by doing this, I was able to learn"
+  },
+  {
+    "startTime": 344.477,
+    "endTime": 347.76,
+    "text": "that offspring colonies resemble parent colonies"
+  },
+  {
+    "startTime": 347.76,
+    "endTime": 349.977,
+    "text": "in their decisions about which days are so hot"
+  },
+  {
+    "startTime": 349.977,
+    "endTime": 351.755,
+    "text": "that they don't forage,"
+  },
+  {
+    "startTime": 351.755,
+    "endTime": 353.219,
+    "text": "and the offspring of parent colonies"
+  },
+  {
+    "startTime": 353.219,
+    "endTime": 356.125,
+    "text": "live so far from each other that the ants never meet,"
+  },
+  {
+    "startTime": 356.125,
+    "endTime": 358.414,
+    "text": "so the ants of the offspring colony"
+  },
+  {
+    "startTime": 358.414,
+    "endTime": 360.658,
+    "text": "can't be learning this from the parent colony."
+  },
+  {
+    "startTime": 360.658,
+    "endTime": 362.039,
+    "text": "And so our next step is to look"
+  },
+  {
+    "startTime": 362.039,
+    "endTime": 367.315,
+    "text": "for the genetic variation\nunderlying this resemblance."
+  },
+  {
+    "startTime": 367.315,
+    "endTime": 371.44,
+    "text": "So then I was able to ask, okay, who's doing better?"
+  },
+  {
+    "startTime": 371.44,
+    "endTime": 372.9,
+    "text": "Over the time of the study,"
+  },
+  {
+    "startTime": 372.9,
+    "endTime": 374.36499999999995,
+    "text": "and especially in the past 10 years,"
+  },
+  {
+    "startTime": 374.365,
+    "endTime": 377.673,
+    "text": "there's been a very severe and deepening drought"
+  },
+  {
+    "startTime": 377.673,
+    "endTime": 379.8,
+    "text": "in the Southwestern U.S.,"
+  },
+  {
+    "startTime": 379.8,
+    "endTime": 382.853,
+    "text": "and it turns out that the\ncolonies that conserve water,"
+  },
+  {
+    "startTime": 382.853,
+    "endTime": 387.282,
+    "text": "that stay in when it's really hot outside,"
+  },
+  {
+    "startTime": 387.282,
+    "endTime": 389.914,
+    "text": "and thus sacrifice getting as much food as possible,"
+  },
+  {
+    "startTime": 389.914,
+    "endTime": 392.859,
+    "text": "are the ones more likely to have offspring colonies."
+  },
+  {
+    "startTime": 392.859,
+    "endTime": 395.128,
+    "text": "So all this time, I thought that colony 154"
+  },
+  {
+    "startTime": 395.128,
+    "endTime": 397.798,
+    "text": "was a loser, because on really dry days,"
+  },
+  {
+    "startTime": 397.798,
+    "endTime": 399.666,
+    "text": "there'd be just this trickle of foraging,"
+  },
+  {
+    "startTime": 399.666,
+    "endTime": 401.257,
+    "text": "while the other colonies were out"
+  },
+  {
+    "startTime": 401.257,
+    "endTime": 403.374,
+    "text": "foraging, getting lots of food,"
+  },
+  {
+    "startTime": 403.374,
+    "endTime": 406.394,
+    "text": "but in fact, colony 154 is a huge success."
+  },
+  {
+    "startTime": 406.394,
+    "endTime": 407.726,
+    "text": "She's a matriarch."
+  },
+  {
+    "startTime": 407.726,
+    "endTime": 410.778,
+    "text": "She's one of the rare great-grandmothers on the site."
+  },
+  {
+    "startTime": 410.778,
+    "endTime": 413.56300000000005,
+    "text": "To my knowledge, this is the first time"
+  },
+  {
+    "startTime": 413.563,
+    "endTime": 415.202,
+    "text": "that we've been able to track"
+  },
+  {
+    "startTime": 415.202,
+    "endTime": 418.203,
+    "text": "the ongoing evolution of collective behavior"
+  },
+  {
+    "startTime": 418.203,
+    "endTime": 420.32,
+    "text": "in a natural population of animals"
+  },
+  {
+    "startTime": 420.32,
+    "endTime": 424.977,
+    "text": "and find out what's actually working best."
+  },
+  {
+    "startTime": 424.977,
+    "endTime": 427.39799999999997,
+    "text": "Now, the Internet uses an algorithm"
+  },
+  {
+    "startTime": 427.398,
+    "endTime": 430.25100000000003,
+    "text": "to regulate the flow of data"
+  },
+  {
+    "startTime": 430.251,
+    "endTime": 432.47799999999995,
+    "text": "that's very similar to the one"
+  },
+  {
+    "startTime": 432.478,
+    "endTime": 434.854,
+    "text": "that the harvester ants are using to regulate"
+  },
+  {
+    "startTime": 434.854,
+    "endTime": 436.395,
+    "text": "the flow of foragers."
+  },
+  {
+    "startTime": 436.395,
+    "endTime": 439.76099999999997,
+    "text": "And guess what we call this analogy?"
+  },
+  {
+    "startTime": 439.761,
+    "endTime": 441.279,
+    "text": "The anternet is coming."
+  },
+  {
+    "startTime": 441.279,
+    "endTime": 443.0,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 443.0,
+    "endTime": 446.454,
+    "text": "So data doesn't leave the source computer"
+  },
+  {
+    "startTime": 446.454,
+    "endTime": 449.315,
+    "text": "unless it gets a signal that there's enough bandwidth"
+  },
+  {
+    "startTime": 449.315,
+    "endTime": 452.044,
+    "text": "for it to travel on."
+  },
+  {
+    "startTime": 452.044,
+    "endTime": 453.48499999999996,
+    "text": "In the early days of the Internet,"
+  },
+  {
+    "startTime": 453.485,
+    "endTime": 455.759,
+    "text": "when operating costs were really high"
+  },
+  {
+    "startTime": 455.759,
+    "endTime": 458.986,
+    "text": "and it was really important not to lose any data,"
+  },
+  {
+    "startTime": 458.986,
+    "endTime": 461.143,
+    "text": "then the system was set up for interactions"
+  },
+  {
+    "startTime": 461.143,
+    "endTime": 464.205,
+    "text": "to activate the flow of data."
+  },
+  {
+    "startTime": 464.205,
+    "endTime": 466.59,
+    "text": "It's interesting that the ants are using an algorithm"
+  },
+  {
+    "startTime": 466.59,
+    "endTime": 470.486,
+    "text": "that's so similar to the one that we recently invented,"
+  },
+  {
+    "startTime": 470.486,
+    "endTime": 473.43899999999996,
+    "text": "but this is only one of a handful of ant algorithms"
+  },
+  {
+    "startTime": 473.439,
+    "endTime": 474.858,
+    "text": "that we know about,"
+  },
+  {
+    "startTime": 474.858,
+    "endTime": 478.051,
+    "text": "and ants have had 130 million years"
+  },
+  {
+    "startTime": 478.051,
+    "endTime": 480.077,
+    "text": "to evolve a lot of good ones,"
+  },
+  {
+    "startTime": 480.077,
+    "endTime": 481.58299999999997,
+    "text": "and I think it's very likely"
+  },
+  {
+    "startTime": 481.583,
+    "endTime": 484.14000000000004,
+    "text": "that some of the other 12,000 species"
+  },
+  {
+    "startTime": 484.14,
+    "endTime": 486.837,
+    "text": "are going to have interesting algorithms"
+  },
+  {
+    "startTime": 486.837,
+    "endTime": 487.861,
+    "text": "for data networks"
+  },
+  {
+    "startTime": 487.861,
+    "endTime": 490.558,
+    "text": "that we haven't even thought of yet."
+  },
+  {
+    "startTime": 490.558,
+    "endTime": 493.643,
+    "text": "So what happens when operating costs are low?"
+  },
+  {
+    "startTime": 493.643,
+    "endTime": 495.42999999999995,
+    "text": "Operating costs are low in the tropics,"
+  },
+  {
+    "startTime": 495.43,
+    "endTime": 497.526,
+    "text": "because it's very humid, and it's easy for the ants"
+  },
+  {
+    "startTime": 497.526,
+    "endTime": 500.35,
+    "text": "to be outside walking around."
+  },
+  {
+    "startTime": 500.35,
+    "endTime": 502.00300000000004,
+    "text": "But the ants are so abundant"
+  },
+  {
+    "startTime": 502.003,
+    "endTime": 503.82099999999997,
+    "text": "and diverse in the tropics"
+  },
+  {
+    "startTime": 503.821,
+    "endTime": 506.41900000000004,
+    "text": "that there's a lot of competition."
+  },
+  {
+    "startTime": 506.419,
+    "endTime": 508.371,
+    "text": "Whatever resource one species is using,"
+  },
+  {
+    "startTime": 508.371,
+    "endTime": 511.543,
+    "text": "another species is likely to be using that"
+  },
+  {
+    "startTime": 511.543,
+    "endTime": 513.922,
+    "text": "at the same time."
+  },
+  {
+    "startTime": 513.922,
+    "endTime": 516.53,
+    "text": "So in this environment, interactions are used"
+  },
+  {
+    "startTime": 516.53,
+    "endTime": 518.475,
+    "text": "in the opposite way."
+  },
+  {
+    "startTime": 518.475,
+    "endTime": 519.87,
+    "text": "The system keeps going"
+  },
+  {
+    "startTime": 519.87,
+    "endTime": 521.424,
+    "text": "unless something negative happens,"
+  },
+  {
+    "startTime": 521.424,
+    "endTime": 523.591,
+    "text": "and one species that I study makes circuits"
+  },
+  {
+    "startTime": 523.591,
+    "endTime": 525.75,
+    "text": "in the trees of foraging ants"
+  },
+  {
+    "startTime": 525.75,
+    "endTime": 528.731,
+    "text": "going from the nest to a food source and back,"
+  },
+  {
+    "startTime": 528.731,
+    "endTime": 530.06,
+    "text": "just round and round,"
+  },
+  {
+    "startTime": 530.06,
+    "endTime": 531.502,
+    "text": "unless something negative happens,"
+  },
+  {
+    "startTime": 531.502,
+    "endTime": 533.111,
+    "text": "like an interaction"
+  },
+  {
+    "startTime": 533.111,
+    "endTime": 535.85,
+    "text": "with ants of another species."
+  },
+  {
+    "startTime": 535.85,
+    "endTime": 538.787,
+    "text": "So here's an example of ant security."
+  },
+  {
+    "startTime": 538.787,
+    "endTime": 540.645,
+    "text": "In the middle, there's an ant"
+  },
+  {
+    "startTime": 540.645,
+    "endTime": 543.108,
+    "text": "plugging the nest entrance with its head"
+  },
+  {
+    "startTime": 543.108,
+    "endTime": 546.101,
+    "text": "in response to interactions with another species."
+  },
+  {
+    "startTime": 546.101,
+    "endTime": 547.76,
+    "text": "Those are the little ones running around"
+  },
+  {
+    "startTime": 547.76,
+    "endTime": 550.511,
+    "text": "with their abdomens up in the air."
+  },
+  {
+    "startTime": 550.511,
+    "endTime": 552.557,
+    "text": "But as soon as the threat is passed,"
+  },
+  {
+    "startTime": 552.557,
+    "endTime": 555.312,
+    "text": "the entrance is open again,"
+  },
+  {
+    "startTime": 555.312,
+    "endTime": 557.102,
+    "text": "and maybe there are situations"
+  },
+  {
+    "startTime": 557.102,
+    "endTime": 558.191,
+    "text": "in computer security"
+  },
+  {
+    "startTime": 558.191,
+    "endTime": 560.397,
+    "text": "where operating costs are low enough"
+  },
+  {
+    "startTime": 560.397,
+    "endTime": 563.772,
+    "text": "that we could just block access temporarily"
+  },
+  {
+    "startTime": 563.772,
+    "endTime": 565.965,
+    "text": "in response to an immediate threat,"
+  },
+  {
+    "startTime": 565.965,
+    "endTime": 567.991,
+    "text": "and then open it again,"
+  },
+  {
+    "startTime": 567.991,
+    "endTime": 569.26,
+    "text": "instead of trying to build"
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 573.24,
+    "text": "a permanent firewall or fortress."
+  },
+  {
+    "startTime": 573.24,
+    "endTime": 575.1800000000001,
+    "text": "So another environmental challenge"
+  },
+  {
+    "startTime": 575.18,
+    "endTime": 576.875,
+    "text": "that all systems have to deal with"
+  },
+  {
+    "startTime": 576.875,
+    "endTime": 582.327,
+    "text": "is resources, finding and collecting them."
+  },
+  {
+    "startTime": 582.327,
+    "endTime": 584.0,
+    "text": "And to do this, ants solve the problem"
+  },
+  {
+    "startTime": 584.0,
+    "endTime": 585.258,
+    "text": "of collective search,"
+  },
+  {
+    "startTime": 585.258,
+    "endTime": 586.8340000000001,
+    "text": "and this is a problem that's of great interest"
+  },
+  {
+    "startTime": 586.834,
+    "endTime": 588.318,
+    "text": "right now in robotics,"
+  },
+  {
+    "startTime": 588.318,
+    "endTime": 590.05,
+    "text": "because we've understood that,"
+  },
+  {
+    "startTime": 590.05,
+    "endTime": 591.664,
+    "text": "rather than sending a single,"
+  },
+  {
+    "startTime": 591.664,
+    "endTime": 595.159,
+    "text": "sophisticated, expensive robot out"
+  },
+  {
+    "startTime": 595.159,
+    "endTime": 596.576,
+    "text": "to explore another planet"
+  },
+  {
+    "startTime": 596.576,
+    "endTime": 599.143,
+    "text": "or to search a burning building,"
+  },
+  {
+    "startTime": 599.143,
+    "endTime": 601.743,
+    "text": "that instead, it may be more effective"
+  },
+  {
+    "startTime": 601.743,
+    "endTime": 606.12,
+    "text": "to get a group of cheaper robots"
+  },
+  {
+    "startTime": 606.12,
+    "endTime": 608.665,
+    "text": "exchanging only minimal information,"
+  },
+  {
+    "startTime": 608.665,
+    "endTime": 611.4639999999999,
+    "text": "and that's the way that ants do it."
+  },
+  {
+    "startTime": 611.464,
+    "endTime": 613.229,
+    "text": "So the invasive Argentine ant"
+  },
+  {
+    "startTime": 613.229,
+    "endTime": 615.5590000000001,
+    "text": "makes expandable search networks."
+  },
+  {
+    "startTime": 615.559,
+    "endTime": 617.832,
+    "text": "They're good at dealing with the main problem"
+  },
+  {
+    "startTime": 617.832,
+    "endTime": 619.163,
+    "text": "of collective search,"
+  },
+  {
+    "startTime": 619.163,
+    "endTime": 621.729,
+    "text": "which is the trade-off between"
+  },
+  {
+    "startTime": 621.729,
+    "endTime": 623.065,
+    "text": "searching very thoroughly"
+  },
+  {
+    "startTime": 623.065,
+    "endTime": 625.062,
+    "text": "and covering a lot of ground."
+  },
+  {
+    "startTime": 625.062,
+    "endTime": 625.957,
+    "text": "And what they do is,"
+  },
+  {
+    "startTime": 625.957,
+    "endTime": 628.3439999999999,
+    "text": "when there are many ants in a small space,"
+  },
+  {
+    "startTime": 628.344,
+    "endTime": 630.557,
+    "text": "then each one can search very thoroughly"
+  },
+  {
+    "startTime": 630.557,
+    "endTime": 632.181,
+    "text": "because there will be another ant nearby"
+  },
+  {
+    "startTime": 632.181,
+    "endTime": 633.538,
+    "text": "searching over there,"
+  },
+  {
+    "startTime": 633.538,
+    "endTime": 635.1850000000001,
+    "text": "but when there are a few ants"
+  },
+  {
+    "startTime": 635.185,
+    "endTime": 637.2399999999999,
+    "text": "in a large space,"
+  },
+  {
+    "startTime": 637.24,
+    "endTime": 639.654,
+    "text": "then they need to stretch out their paths"
+  },
+  {
+    "startTime": 639.654,
+    "endTime": 641.457,
+    "text": "to cover more ground."
+  },
+  {
+    "startTime": 641.457,
+    "endTime": 644.411,
+    "text": "I think they use interactions to assess density,"
+  },
+  {
+    "startTime": 644.411,
+    "endTime": 645.64,
+    "text": "so when they're really crowded,"
+  },
+  {
+    "startTime": 645.64,
+    "endTime": 646.742,
+    "text": "they meet more often,"
+  },
+  {
+    "startTime": 646.742,
+    "endTime": 649.207,
+    "text": "and they search more thoroughly."
+  },
+  {
+    "startTime": 649.207,
+    "endTime": 652.607,
+    "text": "Different ant species must use different algorithms,"
+  },
+  {
+    "startTime": 652.607,
+    "endTime": 655.129,
+    "text": "because they've evolved to deal with"
+  },
+  {
+    "startTime": 655.129,
+    "endTime": 656.8000000000001,
+    "text": "different resources,"
+  },
+  {
+    "startTime": 656.8,
+    "endTime": 659.3589999999999,
+    "text": "and it could be really useful to know about this,"
+  },
+  {
+    "startTime": 659.359,
+    "endTime": 661.0010000000001,
+    "text": "and so we recently asked ants"
+  },
+  {
+    "startTime": 661.001,
+    "endTime": 663.451,
+    "text": "to solve the collective search problem"
+  },
+  {
+    "startTime": 663.451,
+    "endTime": 664.8190000000001,
+    "text": "in the extreme environment"
+  },
+  {
+    "startTime": 664.819,
+    "endTime": 666.377,
+    "text": "of microgravity"
+  },
+  {
+    "startTime": 666.377,
+    "endTime": 668.353,
+    "text": "in the International Space Station."
+  },
+  {
+    "startTime": 668.353,
+    "endTime": 669.8979999999999,
+    "text": "When I first saw this picture, I thought,"
+  },
+  {
+    "startTime": 669.898,
+    "endTime": 672.755,
+    "text": "Oh no, they've mounted the habitat vertically,"
+  },
+  {
+    "startTime": 672.755,
+    "endTime": 675.373,
+    "text": "but then I realized that, of course, it doesn't matter."
+  },
+  {
+    "startTime": 675.373,
+    "endTime": 678.01,
+    "text": "So the idea here is that the ants"
+  },
+  {
+    "startTime": 678.01,
+    "endTime": 679.98,
+    "text": "are working so hard to hang on"
+  },
+  {
+    "startTime": 679.98,
+    "endTime": 683.037,
+    "text": "to the wall or the floor or whatever you call it"
+  },
+  {
+    "startTime": 683.037,
+    "endTime": 686.046,
+    "text": "that they're less likely to interact,"
+  },
+  {
+    "startTime": 686.046,
+    "endTime": 687.2900000000001,
+    "text": "and so the relationship between"
+  },
+  {
+    "startTime": 687.29,
+    "endTime": 689.41,
+    "text": "how crowded they are and how often they meet"
+  },
+  {
+    "startTime": 689.41,
+    "endTime": 691.135,
+    "text": "would be messed up."
+  },
+  {
+    "startTime": 691.135,
+    "endTime": 692.53,
+    "text": "We're still analyzing the data."
+  },
+  {
+    "startTime": 692.53,
+    "endTime": 694.494,
+    "text": "I don't have the results yet."
+  },
+  {
+    "startTime": 694.494,
+    "endTime": 696.188,
+    "text": "But it would be interesting to know"
+  },
+  {
+    "startTime": 696.188,
+    "endTime": 698.6469999999999,
+    "text": "how other species solve this problem"
+  },
+  {
+    "startTime": 698.647,
+    "endTime": 701.211,
+    "text": "in different environments on Earth,"
+  },
+  {
+    "startTime": 701.211,
+    "endTime": 702.477,
+    "text": "and so we're setting up a program"
+  },
+  {
+    "startTime": 702.477,
+    "endTime": 704.637,
+    "text": "to encourage kids around the world"
+  },
+  {
+    "startTime": 704.637,
+    "endTime": 707.1729999999999,
+    "text": "to try this experiment with different species."
+  },
+  {
+    "startTime": 707.173,
+    "endTime": 708.94,
+    "text": "It's very simple."
+  },
+  {
+    "startTime": 708.94,
+    "endTime": 711.0300000000001,
+    "text": "It can be done with cheap materials."
+  },
+  {
+    "startTime": 711.03,
+    "endTime": 713.8629999999999,
+    "text": "And that way, we could make a global map"
+  },
+  {
+    "startTime": 713.863,
+    "endTime": 717.21,
+    "text": "of ant collective search algorithms."
+  },
+  {
+    "startTime": 717.21,
+    "endTime": 719.693,
+    "text": "And I think it's pretty likely that the invasive species,"
+  },
+  {
+    "startTime": 719.693,
+    "endTime": 721.842,
+    "text": "the ones that come into our buildings,"
+  },
+  {
+    "startTime": 721.842,
+    "endTime": 723.584,
+    "text": "are going to be really good at this,"
+  },
+  {
+    "startTime": 723.584,
+    "endTime": 725.4319999999999,
+    "text": "because they're in your kitchen"
+  },
+  {
+    "startTime": 725.432,
+    "endTime": 729.339,
+    "text": "because they're really good\nat finding food and water."
+  },
+  {
+    "startTime": 729.339,
+    "endTime": 732.604,
+    "text": "So the most familiar resource for ants"
+  },
+  {
+    "startTime": 732.604,
+    "endTime": 733.9190000000001,
+    "text": "is a picnic,"
+  },
+  {
+    "startTime": 733.919,
+    "endTime": 736.064,
+    "text": "and this is a clustered resource."
+  },
+  {
+    "startTime": 736.064,
+    "endTime": 737.063,
+    "text": "When there's one piece of fruit,"
+  },
+  {
+    "startTime": 737.063,
+    "endTime": 739.578,
+    "text": "there's likely to be another piece of fruit nearby,"
+  },
+  {
+    "startTime": 739.578,
+    "endTime": 743.01,
+    "text": "and the ants that specialize on clustered resources"
+  },
+  {
+    "startTime": 743.01,
+    "endTime": 744.952,
+    "text": "use interactions for recruitment."
+  },
+  {
+    "startTime": 744.952,
+    "endTime": 746.229,
+    "text": "So when one ant meets another,"
+  },
+  {
+    "startTime": 746.229,
+    "endTime": 747.854,
+    "text": "or when it meets a chemical deposited"
+  },
+  {
+    "startTime": 747.854,
+    "endTime": 749.59,
+    "text": "on the ground by another,"
+  },
+  {
+    "startTime": 749.59,
+    "endTime": 751.423,
+    "text": "then it changes direction to follow"
+  },
+  {
+    "startTime": 751.423,
+    "endTime": 752.996,
+    "text": "in the direction of the interaction,"
+  },
+  {
+    "startTime": 752.996,
+    "endTime": 754.973,
+    "text": "and that's how you get the trail of ants"
+  },
+  {
+    "startTime": 754.973,
+    "endTime": 756.386,
+    "text": "sharing your picnic."
+  },
+  {
+    "startTime": 756.386,
+    "endTime": 758.081,
+    "text": "Now this is a place where I think we might be able"
+  },
+  {
+    "startTime": 758.081,
+    "endTime": 761.822,
+    "text": "to learn something from ants about cancer."
+  },
+  {
+    "startTime": 761.822,
+    "endTime": 763.803,
+    "text": "I mean, first, it's obvious that we could do a lot"
+  },
+  {
+    "startTime": 763.803,
+    "endTime": 765.413,
+    "text": "to prevent cancer"
+  },
+  {
+    "startTime": 765.413,
+    "endTime": 767.99,
+    "text": "by not allowing people to spread around"
+  },
+  {
+    "startTime": 767.99,
+    "endTime": 769.934,
+    "text": "or sell the toxins that promote"
+  },
+  {
+    "startTime": 769.934,
+    "endTime": 772.7139999999999,
+    "text": "the evolution of cancer in our bodies,"
+  },
+  {
+    "startTime": 772.714,
+    "endTime": 775.0600000000001,
+    "text": "but I don't think the ants can help us much with this"
+  },
+  {
+    "startTime": 775.06,
+    "endTime": 778.4179999999999,
+    "text": "because ants never poison their own colonies."
+  },
+  {
+    "startTime": 778.418,
+    "endTime": 779.75,
+    "text": "But we might be able to learn something from ants"
+  },
+  {
+    "startTime": 779.75,
+    "endTime": 781.513,
+    "text": "about treating cancer."
+  },
+  {
+    "startTime": 781.513,
+    "endTime": 783.738,
+    "text": "There are many different kinds of cancer."
+  },
+  {
+    "startTime": 783.738,
+    "endTime": 786.716,
+    "text": "Each one originates in a particular part of the body,"
+  },
+  {
+    "startTime": 786.716,
+    "endTime": 789.682,
+    "text": "and then some kinds of cancer will spread"
+  },
+  {
+    "startTime": 789.682,
+    "endTime": 792.5120000000001,
+    "text": "or metastasize to particular other tissues"
+  },
+  {
+    "startTime": 792.512,
+    "endTime": 795.3919999999999,
+    "text": "where they must be getting\nresources that they need."
+  },
+  {
+    "startTime": 795.392,
+    "endTime": 797.2,
+    "text": "So if you think from the perspective"
+  },
+  {
+    "startTime": 797.2,
+    "endTime": 799.1500000000001,
+    "text": "of early metastatic cancer cells"
+  },
+  {
+    "startTime": 799.15,
+    "endTime": 800.773,
+    "text": "as they're out searching around"
+  },
+  {
+    "startTime": 800.773,
+    "endTime": 803.09,
+    "text": "for the resources that they need,"
+  },
+  {
+    "startTime": 803.09,
+    "endTime": 805.073,
+    "text": "if those resources are clustered,"
+  },
+  {
+    "startTime": 805.073,
+    "endTime": 808.086,
+    "text": "they're likely to use interactions for recruitment,"
+  },
+  {
+    "startTime": 808.086,
+    "endTime": 811.179,
+    "text": "and if we can figure out how\ncancer cells are recruiting,"
+  },
+  {
+    "startTime": 811.179,
+    "endTime": 813.526,
+    "text": "then maybe we could set traps"
+  },
+  {
+    "startTime": 813.526,
+    "endTime": 817.5749999999999,
+    "text": "to catch them before they become established."
+  },
+  {
+    "startTime": 817.575,
+    "endTime": 820.8100000000001,
+    "text": "So ants are using interactions in different ways"
+  },
+  {
+    "startTime": 820.81,
+    "endTime": 823.4119999999999,
+    "text": "in a huge variety of environments,"
+  },
+  {
+    "startTime": 823.412,
+    "endTime": 825.2330000000001,
+    "text": "and we could learn from this"
+  },
+  {
+    "startTime": 825.233,
+    "endTime": 827.01,
+    "text": "about other systems that operate"
+  },
+  {
+    "startTime": 827.01,
+    "endTime": 829.347,
+    "text": "without central control."
+  },
+  {
+    "startTime": 829.347,
+    "endTime": 831.326,
+    "text": "Using only simple interactions,"
+  },
+  {
+    "startTime": 831.326,
+    "endTime": 833.121,
+    "text": "ant colonies have been performing"
+  },
+  {
+    "startTime": 833.121,
+    "endTime": 836.754,
+    "text": "amazing feats for more than 130 million years."
+  },
+  {
+    "startTime": 836.754,
+    "endTime": 838.894,
+    "text": "We have a lot to learn from them."
+  },
+  {
+    "startTime": 838.894,
+    "endTime": 841.6320000000001,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 841.632,
+    "endTime": 844.3649999999999,
+    "text": "(Applause)"
+  }
+]
