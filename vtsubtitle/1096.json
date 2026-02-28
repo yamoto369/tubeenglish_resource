@@ -1,0 +1,1012 @@
+[
+  {
+    "startTime": 17.602,
+    "endTime": 19.239,
+    "text": "Hello, my name is Christian Rudder,"
+  },
+  {
+    "startTime": 19.239,
+    "endTime": 21.875,
+    "text": "and I was one of the founders of OK Cupid."
+  },
+  {
+    "startTime": 21.875,
+    "endTime": 24.502,
+    "text": "It's now one of the biggest dating sites in the United States."
+  },
+  {
+    "startTime": 24.502,
+    "endTime": 25.749,
+    "text": "Like almost everyone at the site,"
+  },
+  {
+    "startTime": 25.749,
+    "endTime": 27.296,
+    "text": "I was a math major, and, as you might expect,"
+  },
+  {
+    "startTime": 27.296,
+    "endTime": 28.644,
+    "text": "we're known for the analytic approach"
+  },
+  {
+    "startTime": 28.644,
+    "endTime": 29.886999999999997,
+    "text": "we have taken to love."
+  },
+  {
+    "startTime": 29.887,
+    "endTime": 31.717,
+    "text": "We call it our matching algorithm."
+  },
+  {
+    "startTime": 31.717,
+    "endTime": 36.481,
+    "text": "Basically OK Cupid's matching algorithm helps us decide whether two people should go on a date."
+  },
+  {
+    "startTime": 36.481,
+    "endTime": 38.765,
+    "text": "We built our entire business around it."
+  },
+  {
+    "startTime": 38.765,
+    "endTime": 40.572,
+    "text": "Now, algorithm is a fancy word,"
+  },
+  {
+    "startTime": 40.572,
+    "endTime": 43.047000000000004,
+    "text": "and people like to drop it like it's this big thing,"
+  },
+  {
+    "startTime": 43.047,
+    "endTime": 45.147999999999996,
+    "text": "but, really, an algorithm is just a systematic,"
+  },
+  {
+    "startTime": 45.148,
+    "endTime": 47.817,
+    "text": "step-by-step way to solve a problem."
+  },
+  {
+    "startTime": 47.817,
+    "endTime": 49.949,
+    "text": "It doesn't have to be fancy at all."
+  },
+  {
+    "startTime": 49.949,
+    "endTime": 51.802,
+    "text": "Here, in this lesson, I'm going to explain"
+  },
+  {
+    "startTime": 51.802,
+    "endTime": 53.657,
+    "text": "how we arrived at our particular algorithm"
+  },
+  {
+    "startTime": 53.657,
+    "endTime": 55.66,
+    "text": "so you can see how it's done."
+  },
+  {
+    "startTime": 55.66,
+    "endTime": 57.57599999999999,
+    "text": "Now, why are algorithms even important?"
+  },
+  {
+    "startTime": 57.576,
+    "endTime": 59.045,
+    "text": "Why does this lesson even exist?"
+  },
+  {
+    "startTime": 59.045,
+    "endTime": 62.457,
+    "text": "Well, notice one very significant phrase I used above:"
+  },
+  {
+    "startTime": 62.457,
+    "endTime": 65.029,
+    "text": "they are a \"step-by-step\" way to solve a problem,"
+  },
+  {
+    "startTime": 65.029,
+    "endTime": 65.841,
+    "text": "and, as you probably know,"
+  },
+  {
+    "startTime": 65.841,
+    "endTime": 68.47,
+    "text": "computers excel at step-by-step processes."
+  },
+  {
+    "startTime": 68.47,
+    "endTime": 69.588,
+    "text": "A computer without an algorithm"
+  },
+  {
+    "startTime": 69.588,
+    "endTime": 72.93299999999999,
+    "text": "is basically an expensive paperweight."
+  },
+  {
+    "startTime": 72.933,
+    "endTime": 78.43,
+    "text": "And since computers are such a pervasive part of everyday life, algorithms are everywhere."
+  },
+  {
+    "startTime": 78.515,
+    "endTime": 80.267,
+    "text": "The math behind OK Cupid's matching algorithm"
+  },
+  {
+    "startTime": 80.267,
+    "endTime": 81.81099999999999,
+    "text": "is surprisingly simple."
+  },
+  {
+    "startTime": 81.811,
+    "endTime": 82.629,
+    "text": "It's just some addition,"
+  },
+  {
+    "startTime": 82.629,
+    "endTime": 83.68700000000001,
+    "text": "multiplication,"
+  },
+  {
+    "startTime": 83.687,
+    "endTime": 85.34,
+    "text": "a little bit of square roots."
+  },
+  {
+    "startTime": 85.34,
+    "endTime": 87.611,
+    "text": "The tricky part in designing it, though,"
+  },
+  {
+    "startTime": 87.611,
+    "endTime": 90.235,
+    "text": "was figuring out how to take something mysterious,"
+  },
+  {
+    "startTime": 90.235,
+    "endTime": 91.212,
+    "text": "human attraction,"
+  },
+  {
+    "startTime": 91.212,
+    "endTime": 93.81,
+    "text": "and break it into components that a computer can work with."
+  },
+  {
+    "startTime": 93.81,
+    "endTime": 96.36,
+    "text": "Well, the first thing we needed to match people up was data,"
+  },
+  {
+    "startTime": 96.36,
+    "endTime": 98.382,
+    "text": "something for the algorithm to work with."
+  },
+  {
+    "startTime": 98.382,
+    "endTime": 100.412,
+    "text": "The best way to get data quickly from people"
+  },
+  {
+    "startTime": 100.412,
+    "endTime": 101.747,
+    "text": "is to just ask for it."
+  },
+  {
+    "startTime": 101.747,
+    "endTime": 104.166,
+    "text": "So, we decided that OK Cupid should ask users questions,"
+  },
+  {
+    "startTime": 104.166,
+    "endTime": 106.834,
+    "text": "stuff like, \"Do you want to have kids one day?\""
+  },
+  {
+    "startTime": 106.834,
+    "endTime": 108.754,
+    "text": "and \"How often do you brush your teeth?\","
+  },
+  {
+    "startTime": 108.754,
+    "endTime": 110.227,
+    "text": "\"Do you like scary movies?\""
+  },
+  {
+    "startTime": 110.227,
+    "endTime": 113.51400000000001,
+    "text": "and big stuff like \"Do you believe in God?\""
+  },
+  {
+    "startTime": 113.514,
+    "endTime": 115.30799999999999,
+    "text": "Now, a lot of the questions are good"
+  },
+  {
+    "startTime": 115.308,
+    "endTime": 116.381,
+    "text": "for matching like with like,"
+  },
+  {
+    "startTime": 116.381,
+    "endTime": 119.052,
+    "text": "that is when both people answer the same way."
+  },
+  {
+    "startTime": 119.052,
+    "endTime": 125.11000000000001,
+    "text": "For example, two people who are both into scary movies are probably a better match than one person who is and one person who isn't."
+  },
+  {
+    "startTime": 125.115,
+    "endTime": 126.47999999999999,
+    "text": "But what about a question like,"
+  },
+  {
+    "startTime": 126.48,
+    "endTime": 128.189,
+    "text": "\"Do you like to be the center of attention?\""
+  },
+  {
+    "startTime": 128.189,
+    "endTime": 130.72899999999998,
+    "text": "If both people in a relationship are saying yes to this,"
+  },
+  {
+    "startTime": 130.729,
+    "endTime": 133.068,
+    "text": "then they are going to have massive problems."
+  },
+  {
+    "startTime": 133.068,
+    "endTime": 134.447,
+    "text": "We realized this early on,"
+  },
+  {
+    "startTime": 134.447,
+    "endTime": 135.614,
+    "text": "and so we decided we needed"
+  },
+  {
+    "startTime": 135.614,
+    "endTime": 137.58100000000002,
+    "text": "a bit more data from each question."
+  },
+  {
+    "startTime": 137.581,
+    "endTime": 140.332,
+    "text": "We had to ask people to specify not only their own answer,"
+  },
+  {
+    "startTime": 140.332,
+    "endTime": 143.03799999999998,
+    "text": "but the answer they wanted from someone else."
+  },
+  {
+    "startTime": 143.038,
+    "endTime": 144.20700000000002,
+    "text": "That worked really well,"
+  },
+  {
+    "startTime": 144.207,
+    "endTime": 146.291,
+    "text": "but we needed one more dimension."
+  },
+  {
+    "startTime": 146.291,
+    "endTime": 148.835,
+    "text": "Some questions tell you more about a person than others."
+  },
+  {
+    "startTime": 148.835,
+    "endTime": 151.79500000000002,
+    "text": "For example, a question about politics, something like,"
+  },
+  {
+    "startTime": 151.795,
+    "endTime": 154.589,
+    "text": "\"Which is worse: book burning or flag burning?\""
+  },
+  {
+    "startTime": 154.589,
+    "endTime": 157.207,
+    "text": "might reveal more about someone than their taste in movies."
+  },
+  {
+    "startTime": 157.207,
+    "endTime": 159.387,
+    "text": "And it doesn't make sense to weigh all things equally,"
+  },
+  {
+    "startTime": 159.387,
+    "endTime": 161.605,
+    "text": "so we added one final data point."
+  },
+  {
+    "startTime": 161.605,
+    "endTime": 163.44,
+    "text": "For everything that OK Cupid asks you,"
+  },
+  {
+    "startTime": 163.44,
+    "endTime": 164.642,
+    "text": "you have a chance to tell us"
+  },
+  {
+    "startTime": 164.642,
+    "endTime": 166.22299999999998,
+    "text": "the role it plays in your life,"
+  },
+  {
+    "startTime": 166.223,
+    "endTime": 169.08900000000003,
+    "text": "and this ranges from irrelevant to mandatory."
+  },
+  {
+    "startTime": 169.089,
+    "endTime": 170.564,
+    "text": "So now, for every question,"
+  },
+  {
+    "startTime": 170.564,
+    "endTime": 172.692,
+    "text": "we have three things for our algorithm:"
+  },
+  {
+    "startTime": 172.692,
+    "endTime": 174.068,
+    "text": "first, your answer;"
+  },
+  {
+    "startTime": 174.068,
+    "endTime": 176.36200000000002,
+    "text": "second, how you want someone else,"
+  },
+  {
+    "startTime": 176.362,
+    "endTime": 177.196,
+    "text": "your potential match,"
+  },
+  {
+    "startTime": 177.196,
+    "endTime": 178.781,
+    "text": "to answer;"
+  },
+  {
+    "startTime": 178.781,
+    "endTime": 182.327,
+    "text": "and three, how important the question is to you at all."
+  },
+  {
+    "startTime": 182.327,
+    "endTime": 183.702,
+    "text": "With all this information,"
+  },
+  {
+    "startTime": 183.702,
+    "endTime": 187.128,
+    "text": "OK Cupid can figure out how well two people will get along."
+  },
+  {
+    "startTime": 187.128,
+    "endTime": 189.458,
+    "text": "The algorithm crunches the numbers and gives us a result."
+  },
+  {
+    "startTime": 189.458,
+    "endTime": 191.262,
+    "text": "As a practical example,"
+  },
+  {
+    "startTime": 191.262,
+    "endTime": 193.712,
+    "text": "let's look at how we'd match you with another person,"
+  },
+  {
+    "startTime": 193.712,
+    "endTime": 195.581,
+    "text": "let's call him, \"B\"."
+  },
+  {
+    "startTime": 195.581,
+    "endTime": 197.47899999999998,
+    "text": "Your match percentage with B is based on"
+  },
+  {
+    "startTime": 197.479,
+    "endTime": 199.424,
+    "text": "questions you've both answered."
+  },
+  {
+    "startTime": 199.424,
+    "endTime": 201.978,
+    "text": "Let's call that set of common questions, \"s\"."
+  },
+  {
+    "startTime": 201.978,
+    "endTime": 204.93200000000002,
+    "text": "As a very simple example, we use a small set \"s\""
+  },
+  {
+    "startTime": 204.932,
+    "endTime": 206.434,
+    "text": "with just two questions in common"
+  },
+  {
+    "startTime": 206.434,
+    "endTime": 208.31,
+    "text": "and compute a match from that."
+  },
+  {
+    "startTime": 208.31,
+    "endTime": 210.144,
+    "text": "Here are our two example questions."
+  },
+  {
+    "startTime": 210.144,
+    "endTime": 212.34900000000002,
+    "text": "The first one, let's say, is, \"How messy are you?\""
+  },
+  {
+    "startTime": 212.349,
+    "endTime": 214.66899999999998,
+    "text": "and the answer possibilities are"
+  },
+  {
+    "startTime": 214.669,
+    "endTime": 215.61800000000002,
+    "text": "very messy,"
+  },
+  {
+    "startTime": 215.618,
+    "endTime": 216.398,
+    "text": "average,"
+  },
+  {
+    "startTime": 216.398,
+    "endTime": 218.172,
+    "text": "and very organized."
+  },
+  {
+    "startTime": 218.172,
+    "endTime": 219.755,
+    "text": "And let's say you answered \"very organized,\""
+  },
+  {
+    "startTime": 219.755,
+    "endTime": 222.581,
+    "text": "and you'd like someone else to answer \"very organized,\""
+  },
+  {
+    "startTime": 222.581,
+    "endTime": 225.202,
+    "text": "and the question is very important to you."
+  },
+  {
+    "startTime": 225.202,
+    "endTime": 226.498,
+    "text": "Basically you are a neat freak."
+  },
+  {
+    "startTime": 226.498,
+    "endTime": 227.212,
+    "text": "You're neat,"
+  },
+  {
+    "startTime": 227.212,
+    "endTime": 228.296,
+    "text": "you want someone else to be neat,"
+  },
+  {
+    "startTime": 228.296,
+    "endTime": 229.248,
+    "text": "and that's it."
+  },
+  {
+    "startTime": 229.248,
+    "endTime": 231.015,
+    "text": "And let's say B is a little bit different."
+  },
+  {
+    "startTime": 231.015,
+    "endTime": 233.539,
+    "text": "He answered very organized for himself,"
+  },
+  {
+    "startTime": 233.539,
+    "endTime": 235.171,
+    "text": "but average is OK with him"
+  },
+  {
+    "startTime": 235.171,
+    "endTime": 236.73999999999998,
+    "text": "as an answer from someone else,"
+  },
+  {
+    "startTime": 236.74,
+    "endTime": 238.74800000000002,
+    "text": "and the question is only a little important to him."
+  },
+  {
+    "startTime": 238.748,
+    "endTime": 240.308,
+    "text": "Let's look at the second question,"
+  },
+  {
+    "startTime": 240.308,
+    "endTime": 241.896,
+    "text": "it's the one from our previous example:"
+  },
+  {
+    "startTime": 241.896,
+    "endTime": 243.653,
+    "text": "\"Do you like to be the center of attention?\""
+  },
+  {
+    "startTime": 243.653,
+    "endTime": 245.231,
+    "text": "The answers are just yes and no."
+  },
+  {
+    "startTime": 245.231,
+    "endTime": 246.40699999999998,
+    "text": "Now you've answered \"no,\""
+  },
+  {
+    "startTime": 246.407,
+    "endTime": 248.235,
+    "text": "how you want someone else to answer is \"no,\""
+  },
+  {
+    "startTime": 248.235,
+    "endTime": 250.86200000000002,
+    "text": "and the questions is only a little important to you."
+  },
+  {
+    "startTime": 250.862,
+    "endTime": 252.41899999999998,
+    "text": "Now B, he's answered \"yes,\""
+  },
+  {
+    "startTime": 252.419,
+    "endTime": 254.08700000000002,
+    "text": "he wants someone else to answer \"no,\""
+  },
+  {
+    "startTime": 254.087,
+    "endTime": 256.332,
+    "text": "because he wants the spotlight on him,"
+  },
+  {
+    "startTime": 256.332,
+    "endTime": 259.335,
+    "text": "and the question is somewhat important to him."
+  },
+  {
+    "startTime": 259.335,
+    "endTime": 261.71599999999995,
+    "text": "So, let's try to compute all of this."
+  },
+  {
+    "startTime": 261.716,
+    "endTime": 262.855,
+    "text": "Our first step is,"
+  },
+  {
+    "startTime": 262.855,
+    "endTime": 264.37600000000003,
+    "text": "since we use computers to do this,"
+  },
+  {
+    "startTime": 264.376,
+    "endTime": 266.162,
+    "text": "we need to assign numerical values"
+  },
+  {
+    "startTime": 266.162,
+    "endTime": 269.041,
+    "text": "to ideas like \"somewhat important\" and \"very important\""
+  },
+  {
+    "startTime": 269.041,
+    "endTime": 271.335,
+    "text": "because computers need everything in numbers."
+  },
+  {
+    "startTime": 271.335,
+    "endTime": 273.52299999999997,
+    "text": "We at OK Cupid decided on the following scale:"
+  },
+  {
+    "startTime": 273.523,
+    "endTime": 275.858,
+    "text": "irrelevant is worth 0,"
+  },
+  {
+    "startTime": 275.858,
+    "endTime": 278.307,
+    "text": "a little important is worth 1,"
+  },
+  {
+    "startTime": 278.307,
+    "endTime": 280.302,
+    "text": "somewhat important is worth 10,"
+  },
+  {
+    "startTime": 280.302,
+    "endTime": 282.42600000000004,
+    "text": "very important is 50,"
+  },
+  {
+    "startTime": 282.426,
+    "endTime": 286.353,
+    "text": "and absolutely mandatory is 250."
+  },
+  {
+    "startTime": 286.353,
+    "endTime": 288.85200000000003,
+    "text": "Next, the algorithm makes two simple calculations."
+  },
+  {
+    "startTime": 288.852,
+    "endTime": 291.941,
+    "text": "The first is how much did B's answers satisfy you,"
+  },
+  {
+    "startTime": 291.941,
+    "endTime": 295.568,
+    "text": "that is, how many possible points did B score on your scale?"
+  },
+  {
+    "startTime": 295.568,
+    "endTime": 298.138,
+    "text": "Well, you indicated that B's answer"
+  },
+  {
+    "startTime": 298.138,
+    "endTime": 299.947,
+    "text": "to the first question about messiness"
+  },
+  {
+    "startTime": 299.947,
+    "endTime": 301.448,
+    "text": "was very important to you."
+  },
+  {
+    "startTime": 301.448,
+    "endTime": 304.041,
+    "text": "It's worth 50 points and B got that right."
+  },
+  {
+    "startTime": 304.041,
+    "endTime": 305.947,
+    "text": "The second question is worth only 1"
+  },
+  {
+    "startTime": 305.947,
+    "endTime": 307.558,
+    "text": "because you said it was only a little important,"
+  },
+  {
+    "startTime": 307.558,
+    "endTime": 309.036,
+    "text": "and B got that wrong."
+  },
+  {
+    "startTime": 309.036,
+    "endTime": 312.392,
+    "text": "So B's answers were 50 out of 51 possible points."
+  },
+  {
+    "startTime": 312.392,
+    "endTime": 314.02299999999997,
+    "text": "That's 98% satisfactory."
+  },
+  {
+    "startTime": 314.023,
+    "endTime": 315.22,
+    "text": "It's pretty good."
+  },
+  {
+    "startTime": 315.22,
+    "endTime": 316.83200000000005,
+    "text": "And, the second question of the algorithm looks at"
+  },
+  {
+    "startTime": 316.832,
+    "endTime": 318.918,
+    "text": "is how much did you satisfy B."
+  },
+  {
+    "startTime": 318.918,
+    "endTime": 320.76800000000003,
+    "text": "Well, B placed 1 point on your answer"
+  },
+  {
+    "startTime": 320.768,
+    "endTime": 322.35299999999995,
+    "text": "to the messiness question"
+  },
+  {
+    "startTime": 322.353,
+    "endTime": 324.745,
+    "text": "and 10 on your answer to the second."
+  },
+  {
+    "startTime": 324.745,
+    "endTime": 327.156,
+    "text": "Of those, 11, that's 1 plus 10,"
+  },
+  {
+    "startTime": 327.156,
+    "endTime": 328.324,
+    "text": "you earned 10,"
+  },
+  {
+    "startTime": 328.324,
+    "endTime": 330.617,
+    "text": "you guys satisfied each other on the second question."
+  },
+  {
+    "startTime": 330.617,
+    "endTime": 332.61100000000005,
+    "text": "So your answers were 10 out of 11"
+  },
+  {
+    "startTime": 332.611,
+    "endTime": 335.24,
+    "text": "equals 91% satisfactory to B."
+  },
+  {
+    "startTime": 335.24,
+    "endTime": 336.117,
+    "text": "That's not bad."
+  },
+  {
+    "startTime": 336.117,
+    "endTime": 338.286,
+    "text": "The final step is to take these two match percentages"
+  },
+  {
+    "startTime": 338.286,
+    "endTime": 340.454,
+    "text": "and get one number for the both of you."
+  },
+  {
+    "startTime": 340.454,
+    "endTime": 342.747,
+    "text": "To do this, the algorithm multiplies your scores,"
+  },
+  {
+    "startTime": 342.747,
+    "endTime": 344.5,
+    "text": "then takes the nth root,"
+  },
+  {
+    "startTime": 344.5,
+    "endTime": 346.792,
+    "text": "where n is the number of questions."
+  },
+  {
+    "startTime": 346.792,
+    "endTime": 349.40099999999995,
+    "text": "Because s, which is the number of questions,"
+  },
+  {
+    "startTime": 349.401,
+    "endTime": 351.507,
+    "text": "in this sample, is only 2,"
+  },
+  {
+    "startTime": 351.507,
+    "endTime": 354.093,
+    "text": "we have match percentage equals"
+  },
+  {
+    "startTime": 354.093,
+    "endTime": 358.154,
+    "text": "the square root of 98% times 91%."
+  },
+  {
+    "startTime": 358.154,
+    "endTime": 360.304,
+    "text": "That equals 94%."
+  },
+  {
+    "startTime": 360.304,
+    "endTime": 363.19399999999996,
+    "text": "That 94% is your match percentage with B."
+  },
+  {
+    "startTime": 363.194,
+    "endTime": 364.56100000000004,
+    "text": "It's a mathematical expression"
+  },
+  {
+    "startTime": 364.561,
+    "endTime": 366.405,
+    "text": "of how happy you'd be with each other"
+  },
+  {
+    "startTime": 366.405,
+    "endTime": 367.74899999999997,
+    "text": "based on what we know."
+  },
+  {
+    "startTime": 367.749,
+    "endTime": 370.13100000000003,
+    "text": "Now, why does the algorithm multiply as opposed to, say,"
+  },
+  {
+    "startTime": 370.131,
+    "endTime": 372.284,
+    "text": "average the two match scores together"
+  },
+  {
+    "startTime": 372.284,
+    "endTime": 374.53,
+    "text": "and do the square-root business?"
+  },
+  {
+    "startTime": 374.53,
+    "endTime": 376.479,
+    "text": "In general, this formula is called the geometric mean,"
+  },
+  {
+    "startTime": 376.479,
+    "endTime": 377.881,
+    "text": "which is a great way to combine values"
+  },
+  {
+    "startTime": 377.881,
+    "endTime": 379.07599999999996,
+    "text": "that have wide ranges"
+  },
+  {
+    "startTime": 379.076,
+    "endTime": 380.86100000000005,
+    "text": "and represent very different properties."
+  },
+  {
+    "startTime": 380.861,
+    "endTime": 383.164,
+    "text": "In other words, it's perfect for romantic matching."
+  },
+  {
+    "startTime": 383.164,
+    "endTime": 384.248,
+    "text": "You've got wide ranges"
+  },
+  {
+    "startTime": 384.248,
+    "endTime": 386.206,
+    "text": "and you've got tons of different data points,"
+  },
+  {
+    "startTime": 386.206,
+    "endTime": 387.156,
+    "text": "like I said, about movies,"
+  },
+  {
+    "startTime": 387.156,
+    "endTime": 388.00600000000003,
+    "text": "about politics,"
+  },
+  {
+    "startTime": 388.006,
+    "endTime": 389.20099999999996,
+    "text": "about religion,"
+  },
+  {
+    "startTime": 389.201,
+    "endTime": 390.39500000000004,
+    "text": "about everything."
+  },
+  {
+    "startTime": 390.395,
+    "endTime": 392.256,
+    "text": "Intuitively, too, this makes sense."
+  },
+  {
+    "startTime": 392.256,
+    "endTime": 394.91799999999995,
+    "text": "Two people satisfying each other 50%"
+  },
+  {
+    "startTime": 394.918,
+    "endTime": 396.052,
+    "text": "should be a better match"
+  },
+  {
+    "startTime": 396.052,
+    "endTime": 399.18,
+    "text": "than two others who satisfy 0 and 100,"
+  },
+  {
+    "startTime": 399.18,
+    "endTime": 400.847,
+    "text": "because affection needs to be mutual."
+  },
+  {
+    "startTime": 400.847,
+    "endTime": 403.147,
+    "text": "After adding a little correction for margin of error,"
+  },
+  {
+    "startTime": 403.147,
+    "endTime": 405.77,
+    "text": "in the case when we have a very small number of questions,"
+  },
+  {
+    "startTime": 405.77,
+    "endTime": 407.234,
+    "text": "like we do in this example,"
+  },
+  {
+    "startTime": 407.234,
+    "endTime": 408.811,
+    "text": "we're good to go."
+  },
+  {
+    "startTime": 408.811,
+    "endTime": 410.191,
+    "text": "Any time OK Cupid matches two people,"
+  },
+  {
+    "startTime": 410.191,
+    "endTime": 412.234,
+    "text": "it goes through the steps we just outlined."
+  },
+  {
+    "startTime": 412.234,
+    "endTime": 414.484,
+    "text": "First it collects data about your answers,"
+  },
+  {
+    "startTime": 414.484,
+    "endTime": 416.61899999999997,
+    "text": "then it compares your choices and preferences"
+  },
+  {
+    "startTime": 416.619,
+    "endTime": 419.74,
+    "text": "to other people in simple, mathematical ways."
+  },
+  {
+    "startTime": 419.74,
+    "endTime": 428.56,
+    "text": "This, the ability to take real world phenomena and make them something a microchip can understand, is, I think, the most important skill anyone can have these days."
+  },
+  {
+    "startTime": 428.565,
+    "endTime": 430.919,
+    "text": "Like you use sentences to tell a story to a person,"
+  },
+  {
+    "startTime": 430.919,
+    "endTime": 433.66499999999996,
+    "text": "you use algorithms to tell a story to a computer."
+  },
+  {
+    "startTime": 433.665,
+    "endTime": 434.921,
+    "text": "If you learn the language,"
+  },
+  {
+    "startTime": 434.921,
+    "endTime": 436.381,
+    "text": "you can go out and tell your stories."
+  },
+  {
+    "startTime": 436.381,
+    "endTime": 446.381,
+    "text": "I hope this will help you do that."
+  }
+]

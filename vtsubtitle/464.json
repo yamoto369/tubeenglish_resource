@@ -1,0 +1,182 @@
+[
+  {
+    "startTime": 15.108,
+    "endTime": 18.0,
+    "text": "Why are gas stations always built right next to other gas stations?"
+  },
+  {
+    "startTime": 19.109,
+    "endTime": 23.8,
+    "text": "Why is it that I can drive for a mile without finding a coffee shop and then stumble across three on the same corner?"
+  },
+  {
+    "startTime": 24.143,
+    "endTime": 31.0,
+    "text": "Why do grocery stores, auto repair shops and restaurants always seem to exist in groups instead of being spread evenly throughout a community?"
+  },
+  {
+    "startTime": 31.925,
+    "endTime": 42.7,
+    "text": "While there are several factors that might go into deciding where to place your business, clusters of similar companies can be explained by a very simple story, called Hotelling's Model of Spatial Competition."
+  },
+  {
+    "startTime": 42.7,
+    "endTime": 45.0,
+    "text": "Imagine that you sell ice cream at the beach."
+  },
+  {
+    "startTime": 45.0,
+    "endTime": 48.0,
+    "text": "Your beach is one mile long and you have no competition."
+  },
+  {
+    "startTime": 48.0,
+    "endTime": 50.8,
+    "text": "Where would you place your cart in order to sell the most product?"
+  },
+  {
+    "startTime": 51.0,
+    "endTime": 52.0,
+    "text": "In the middle."
+  },
+  {
+    "startTime": 52.392,
+    "endTime": 58.776,
+    "text": "The one-half-mile walk may be too far for some people at each end of the beach, but your cart serves as many people as possible."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 64.1,
+    "text": "One day you show up at work just as your cousin Teddy is arriving at the beach with his own ice cream cart."
+  },
+  {
+    "startTime": 64.1,
+    "endTime": 67.6,
+    "text": "In fact, he's selling exactly the same type of ice cream as you are."
+  },
+  {
+    "startTime": 67.6,
+    "endTime": 70.0,
+    "text": "You agree that you will split the beach in half."
+  },
+  {
+    "startTime": 70.6,
+    "endTime": 78.0,
+    "text": "In order to ensure that customer's don't have to walk too far, you set up your cart a quarter mile south of the beach center, right in the middle of your territory."
+  },
+  {
+    "startTime": 78.294,
+    "endTime": 82.2,
+    "text": "Teddy sets up a quarter mile north of the center, in the middle of Teddy territory."
+  },
+  {
+    "startTime": 82.2,
+    "endTime": 85.2,
+    "text": "With this agreement, everyone south of you buys ice cream from you."
+  },
+  {
+    "startTime": 85.293,
+    "endTime": 91.2,
+    "text": "Everyone north of Teddy buys from him, and the 50 percent of beach goers in between walk to the closest cart."
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 96.5,
+    "text": "No one walks more than a quarter of a mile, and both vendors sell to half of the beach goers."
+  },
+  {
+    "startTime": 96.5,
+    "endTime": 100.0,
+    "text": "Game theorists consider this a socially optimal solution."
+  },
+  {
+    "startTime": 100.7,
+    "endTime": 105.8,
+    "text": "It minimizes the maximum number of steps any visitor must take in order to reach an ice cream cart."
+  },
+  {
+    "startTime": 106.2,
+    "endTime": 110.0,
+    "text": "The next day, when you arrive at work, Teddy has set up his cart in the middle of the beach."
+  },
+  {
+    "startTime": 111.05,
+    "endTime": 116.5,
+    "text": "You return to your location a quarter mile south of center and get the 25 percent of customers to the south of you."
+  },
+  {
+    "startTime": 117.09,
+    "endTime": 124.0,
+    "text": "Teddy still gets all of the customers north in Teddy territory, but now you split the 25 percent of people in between the two carts."
+  },
+  {
+    "startTime": 124.726,
+    "endTime": 136.5,
+    "text": "Day three of the ice cream wars, you get to the beach early, and set up right in the center of Teddy territory, assuming you'll serve the 75 percent of beach-goers to your south, leaving your cousin to sell to the 25 percent of customers to the north."
+  },
+  {
+    "startTime": 137.0,
+    "endTime": 144.0,
+    "text": "When Teddy arrives, he sets up just south of you stealing all of the southerly customers, and leaving you with a small group of people to the north."
+  },
+  {
+    "startTime": 144.85,
+    "endTime": 149.0,
+    "text": "Not to be outdone, you move ten paces south of Teddy to regain your customers."
+  },
+  {
+    "startTime": 149.33,
+    "endTime": 156.0,
+    "text": "When you take a mid-day break, Teddy shuffles ten paces south of you, and again, steals back all the customers to the far end of the beach."
+  },
+  {
+    "startTime": 156.53,
+    "endTime": 169.1,
+    "text": "Throughout the course of the day, both of you continue to periodically move south towards the bulk of the ice cream buyers, until both of you eventually end up at the center of the beach, back to back, each serving 50 percent of the ice-cream-hungry beach-goers."
+  },
+  {
+    "startTime": 169.743,
+    "endTime": 179.2,
+    "text": "At this point, you and your competitive cousin have reached what game theorists call a Nash Equilibrium - the point where neither of you can improve your position by deviating from your current strategy."
+  },
+  {
+    "startTime": 179.9,
+    "endTime": 186.5,
+    "text": "Your original strategy, where you were each a quarter mile from the middle of the beach, didn't last, because it wasn't a Nash Equilibrium."
+  },
+  {
+    "startTime": 187.11,
+    "endTime": 190.0,
+    "text": "Either of you could move your cart toward the other to sell more ice cream."
+  },
+  {
+    "startTime": 190.2,
+    "endTime": 198.7,
+    "text": "With both of you now in the center of the beach, you can't reposition your cart closer to your furthest customers without making your current customers worse off."
+  },
+  {
+    "startTime": 199.193,
+    "endTime": 207.4,
+    "text": "However, you no longer have a socially optimal solution, since customers at either end of the beach have to walk further than necessary to get a sweet treat."
+  },
+  {
+    "startTime": 207.626,
+    "endTime": 212.0,
+    "text": "Think about all the fast food chains, clothing boutiques, or mobile phone kiosks at the mall."
+  },
+  {
+    "startTime": 212.2,
+    "endTime": 218.7,
+    "text": "Customers may be better served by distributing services throughout a community, but this leaves businesses vulnerable to aggressive competition."
+  },
+  {
+    "startTime": 219.54,
+    "endTime": 228.0,
+    "text": "In the real world, customers come from more than one direction, and businesses are free to compete with marketing strategies, by differentiating their product line, and with price cuts."
+  },
+  {
+    "startTime": 228.0,
+    "endTime": 235.942,
+    "text": "But at the heart of their strategy, companies like to keep their competition as close as possible."
+  }
+]
