@@ -1,0 +1,1402 @@
+[
+  {
+    "startTime": 13.303,
+    "endTime": 14.487,
+    "text": "A few years ago,"
+  },
+  {
+    "startTime": 14.487,
+    "endTime": 17.281,
+    "text": "with my colleague, Emmanuelle Charpentier,"
+  },
+  {
+    "startTime": 17.281,
+    "endTime": 21.093,
+    "text": "I invented a new technology for editing genomes."
+  },
+  {
+    "startTime": 21.093,
+    "endTime": 23.87,
+    "text": "It's called CRISPR-Cas9."
+  },
+  {
+    "startTime": 23.87,
+    "endTime": 27.470000000000002,
+    "text": "The CRISPR technology allows scientists to make changes"
+  },
+  {
+    "startTime": 27.47,
+    "endTime": 29.349,
+    "text": "to the DNA in cells"
+  },
+  {
+    "startTime": 29.349,
+    "endTime": 33.196,
+    "text": "that could allow us to cure genetic disease."
+  },
+  {
+    "startTime": 33.196,
+    "endTime": 34.711999999999996,
+    "text": "You might be interested to know"
+  },
+  {
+    "startTime": 34.712,
+    "endTime": 38.52,
+    "text": "that the CRISPR technology came about through a basic research project"
+  },
+  {
+    "startTime": 38.52,
+    "endTime": 43.34,
+    "text": "that was aimed at discovering how bacteria fight viral infections."
+  },
+  {
+    "startTime": 43.34,
+    "endTime": 46.236000000000004,
+    "text": "Bacteria have to deal with viruses in their environment,"
+  },
+  {
+    "startTime": 46.236,
+    "endTime": 49.924,
+    "text": "and we can think about a viral infection like a ticking time bomb --"
+  },
+  {
+    "startTime": 49.924,
+    "endTime": 53.306,
+    "text": "a bacterium has only a few minutes to defuse the bomb"
+  },
+  {
+    "startTime": 53.306,
+    "endTime": 55.284,
+    "text": "before it gets destroyed."
+  },
+  {
+    "startTime": 55.284,
+    "endTime": 60.698,
+    "text": "So, many bacteria have in their cells an adaptive immune system called CRISPR,"
+  },
+  {
+    "startTime": 60.698,
+    "endTime": 65.148,
+    "text": "that allows them to detect viral DNA and destroy it."
+  },
+  {
+    "startTime": 65.148,
+    "endTime": 69.14,
+    "text": "Part of the CRISPR system is a protein called Cas9,"
+  },
+  {
+    "startTime": 69.14,
+    "endTime": 75.113,
+    "text": "that's able to seek out, cut and eventually degrade viral DNA"
+  },
+  {
+    "startTime": 75.113,
+    "endTime": 77.054,
+    "text": "in a specific way."
+  },
+  {
+    "startTime": 77.054,
+    "endTime": 78.58,
+    "text": "And it was through our research"
+  },
+  {
+    "startTime": 78.58,
+    "endTime": 82.261,
+    "text": "to understand the activity of this protein, Cas9,"
+  },
+  {
+    "startTime": 82.261,
+    "endTime": 85.116,
+    "text": "that we realized that we could harness its function"
+  },
+  {
+    "startTime": 85.116,
+    "endTime": 88.546,
+    "text": "as a genetic engineering technology --"
+  },
+  {
+    "startTime": 88.546,
+    "endTime": 95.521,
+    "text": "a way for scientists to delete or insert specific bits of DNA into cells"
+  },
+  {
+    "startTime": 95.521,
+    "endTime": 97.57600000000001,
+    "text": "with incredible precision --"
+  },
+  {
+    "startTime": 97.576,
+    "endTime": 99.267,
+    "text": "that would offer opportunities"
+  },
+  {
+    "startTime": 99.267,
+    "endTime": 103.184,
+    "text": "to do things that really haven't been possible in the past."
+  },
+  {
+    "startTime": 103.184,
+    "endTime": 105.27,
+    "text": "The CRISPR technology has already been used"
+  },
+  {
+    "startTime": 105.27,
+    "endTime": 110.378,
+    "text": "to change the DNA in the cells of mice and monkeys,"
+  },
+  {
+    "startTime": 110.378,
+    "endTime": 112.527,
+    "text": "other organisms as well."
+  },
+  {
+    "startTime": 112.527,
+    "endTime": 114.306,
+    "text": "Chinese scientists showed recently"
+  },
+  {
+    "startTime": 114.306,
+    "endTime": 116.489,
+    "text": "that they could even use the CRISPR technology"
+  },
+  {
+    "startTime": 116.489,
+    "endTime": 119.14200000000001,
+    "text": "to change genes in human embryos."
+  },
+  {
+    "startTime": 119.142,
+    "endTime": 122.309,
+    "text": "And scientists in Philadelphia showed they could use CRISPR"
+  },
+  {
+    "startTime": 122.309,
+    "endTime": 127.176,
+    "text": "to remove the DNA of an integrated HIV virus"
+  },
+  {
+    "startTime": 127.176,
+    "endTime": 130.217,
+    "text": "from infected human cells."
+  },
+  {
+    "startTime": 130.217,
+    "endTime": 133.372,
+    "text": "The opportunity to do this kind of genome editing"
+  },
+  {
+    "startTime": 133.372,
+    "endTime": 136.679,
+    "text": "also raises various ethical issues that we have to consider,"
+  },
+  {
+    "startTime": 136.679,
+    "endTime": 140.671,
+    "text": "because this technology can be employed not only in adult cells,"
+  },
+  {
+    "startTime": 140.671,
+    "endTime": 143.298,
+    "text": "but also in the embryos of organisms,"
+  },
+  {
+    "startTime": 143.298,
+    "endTime": 146.767,
+    "text": "including our own species."
+  },
+  {
+    "startTime": 146.767,
+    "endTime": 148.789,
+    "text": "And so, together with my colleagues,"
+  },
+  {
+    "startTime": 148.789,
+    "endTime": 153.301,
+    "text": "I've called for a global conversation about the technology that I co-invented,"
+  },
+  {
+    "startTime": 153.301,
+    "endTime": 157.86499999999998,
+    "text": "so that we can consider all of the ethical and societal implications"
+  },
+  {
+    "startTime": 157.865,
+    "endTime": 160.056,
+    "text": "of a technology like this."
+  },
+  {
+    "startTime": 160.056,
+    "endTime": 165.019,
+    "text": "What I want to do now is tell you what the CRISPR technology is,"
+  },
+  {
+    "startTime": 165.019,
+    "endTime": 166.497,
+    "text": "what it can do,"
+  },
+  {
+    "startTime": 166.497,
+    "endTime": 167.76600000000002,
+    "text": "where we are today"
+  },
+  {
+    "startTime": 167.766,
+    "endTime": 170.81199999999998,
+    "text": "and why I think we need to take a prudent path forward"
+  },
+  {
+    "startTime": 170.812,
+    "endTime": 175.085,
+    "text": "in the way that we employ this technology."
+  },
+  {
+    "startTime": 175.085,
+    "endTime": 179.363,
+    "text": "When viruses infect a cell, they inject their DNA."
+  },
+  {
+    "startTime": 179.363,
+    "endTime": 180.863,
+    "text": "And in a bacterium,"
+  },
+  {
+    "startTime": 180.863,
+    "endTime": 185.752,
+    "text": "the CRISPR system allows that DNA to be plucked out of the virus,"
+  },
+  {
+    "startTime": 185.752,
+    "endTime": 189.621,
+    "text": "and inserted in little bits into the chromosome --"
+  },
+  {
+    "startTime": 189.621,
+    "endTime": 191.937,
+    "text": "the DNA of the bacterium."
+  },
+  {
+    "startTime": 191.937,
+    "endTime": 198.032,
+    "text": "And these integrated bits of viral DNA get inserted at a site called CRISPR."
+  },
+  {
+    "startTime": 198.032,
+    "endTime": 204.05100000000002,
+    "text": "CRISPR stands for clustered regularly interspaced short palindromic repeats."
+  },
+  {
+    "startTime": 204.051,
+    "endTime": 205.076,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 205.076,
+    "endTime": 208.89,
+    "text": "A big mouthful -- you can see why we use the acronym CRISPR."
+  },
+  {
+    "startTime": 208.89,
+    "endTime": 212.902,
+    "text": "It's a mechanism that allows cells to record, over time,"
+  },
+  {
+    "startTime": 212.902,
+    "endTime": 215.60799999999998,
+    "text": "the viruses they have been exposed to."
+  },
+  {
+    "startTime": 215.608,
+    "endTime": 220.315,
+    "text": "And importantly, those bits of DNA are passed on to the cells' progeny,"
+  },
+  {
+    "startTime": 220.315,
+    "endTime": 224.87199999999999,
+    "text": "so cells are protected from viruses not only in one generation,"
+  },
+  {
+    "startTime": 224.872,
+    "endTime": 227.245,
+    "text": "but over many generations of cells."
+  },
+  {
+    "startTime": 227.245,
+    "endTime": 231.554,
+    "text": "This allows the cells to keep a record of infection,"
+  },
+  {
+    "startTime": 231.554,
+    "endTime": 234.517,
+    "text": "and as my colleague, Blake Wiedenheft, likes to say,"
+  },
+  {
+    "startTime": 234.517,
+    "endTime": 240.572,
+    "text": "the CRISPR locus is effectively a genetic vaccination card in cells."
+  },
+  {
+    "startTime": 240.572,
+    "endTime": 245.094,
+    "text": "Once those bits of DNA have been inserted into the bacterial chromosome,"
+  },
+  {
+    "startTime": 245.094,
+    "endTime": 249.317,
+    "text": "the cell then makes a little copy of a molecule called RNA,"
+  },
+  {
+    "startTime": 249.317,
+    "endTime": 251.356,
+    "text": "which is orange in this picture,"
+  },
+  {
+    "startTime": 251.356,
+    "endTime": 256.502,
+    "text": "that is an exact replicate of the viral DNA."
+  },
+  {
+    "startTime": 256.502,
+    "endTime": 258.862,
+    "text": "RNA is a chemical cousin of DNA,"
+  },
+  {
+    "startTime": 258.862,
+    "endTime": 262.839,
+    "text": "and it allows interaction with DNA molecules"
+  },
+  {
+    "startTime": 262.839,
+    "endTime": 265.258,
+    "text": "that have a matching sequence."
+  },
+  {
+    "startTime": 265.258,
+    "endTime": 269.191,
+    "text": "So those little bits of RNA from the CRISPR locus"
+  },
+  {
+    "startTime": 269.191,
+    "endTime": 273.00399999999996,
+    "text": "associate -- they bind -- to protein called Cas9,"
+  },
+  {
+    "startTime": 273.004,
+    "endTime": 274.963,
+    "text": "which is white in the picture,"
+  },
+  {
+    "startTime": 274.963,
+    "endTime": 279.206,
+    "text": "and form a complex that functions like a sentinel in the cell."
+  },
+  {
+    "startTime": 279.206,
+    "endTime": 282.644,
+    "text": "It searches through all of the DNA in the cell,"
+  },
+  {
+    "startTime": 282.644,
+    "endTime": 286.92,
+    "text": "to find sites that match the sequences in the bound RNAs."
+  },
+  {
+    "startTime": 286.92,
+    "endTime": 288.579,
+    "text": "And when those sites are found --"
+  },
+  {
+    "startTime": 288.579,
+    "endTime": 292.07300000000004,
+    "text": "as you can see here, the blue molecule is DNA --"
+  },
+  {
+    "startTime": 292.073,
+    "endTime": 294.94599999999997,
+    "text": "this complex associates with that DNA"
+  },
+  {
+    "startTime": 294.946,
+    "endTime": 300.27200000000005,
+    "text": "and allows the Cas9 cleaver to cut up the viral DNA."
+  },
+  {
+    "startTime": 300.272,
+    "endTime": 304.096,
+    "text": "It makes a very precise break."
+  },
+  {
+    "startTime": 304.096,
+    "endTime": 308.52,
+    "text": "So we can think of the Cas9 RNA sentinel complex"
+  },
+  {
+    "startTime": 308.52,
+    "endTime": 311.72499999999997,
+    "text": "like a pair of scissors that can cut DNA --"
+  },
+  {
+    "startTime": 311.725,
+    "endTime": 314.985,
+    "text": "it makes a double-stranded break in the DNA helix."
+  },
+  {
+    "startTime": 314.985,
+    "endTime": 318.991,
+    "text": "And importantly, this complex is programmable,"
+  },
+  {
+    "startTime": 318.991,
+    "endTime": 324.215,
+    "text": "so it can be programmed to recognize particular DNA sequences,"
+  },
+  {
+    "startTime": 324.215,
+    "endTime": 327.928,
+    "text": "and make a break in the DNA at that site."
+  },
+  {
+    "startTime": 327.928,
+    "endTime": 329.532,
+    "text": "As I'm going to tell you now,"
+  },
+  {
+    "startTime": 329.532,
+    "endTime": 334.332,
+    "text": "we recognized that that activity could be harnessed for genome engineering,"
+  },
+  {
+    "startTime": 334.332,
+    "endTime": 338.58299999999997,
+    "text": "to allow cells to make a very precise change to the DNA"
+  },
+  {
+    "startTime": 338.583,
+    "endTime": 341.55800000000005,
+    "text": "at the site where this break was introduced."
+  },
+  {
+    "startTime": 341.558,
+    "endTime": 342.79699999999997,
+    "text": "That's sort of analogous"
+  },
+  {
+    "startTime": 342.797,
+    "endTime": 345.52900000000005,
+    "text": "to the way that we use a word-processing program"
+  },
+  {
+    "startTime": 345.529,
+    "endTime": 349.541,
+    "text": "to fix a typo in a document."
+  },
+  {
+    "startTime": 349.541,
+    "endTime": 354.383,
+    "text": "The reason we envisioned using the CRISPR system for genome engineering"
+  },
+  {
+    "startTime": 354.383,
+    "endTime": 358.02599999999995,
+    "text": "is because cells have the ability to detect broken DNA"
+  },
+  {
+    "startTime": 358.026,
+    "endTime": 359.78000000000003,
+    "text": "and repair it."
+  },
+  {
+    "startTime": 359.78,
+    "endTime": 364.73499999999996,
+    "text": "So when a plant or an animal cell detects a double-stranded break in its DNA,"
+  },
+  {
+    "startTime": 364.735,
+    "endTime": 366.356,
+    "text": "it can fix that break,"
+  },
+  {
+    "startTime": 366.356,
+    "endTime": 369.907,
+    "text": "either by pasting together the ends of the broken DNA"
+  },
+  {
+    "startTime": 369.907,
+    "endTime": 374.041,
+    "text": "with a little, tiny change in the sequence of that position,"
+  },
+  {
+    "startTime": 374.041,
+    "endTime": 381.054,
+    "text": "or it can repair the break by integrating a new piece of DNA at the site of the cut."
+  },
+  {
+    "startTime": 381.054,
+    "endTime": 386.051,
+    "text": "So if we have a way to introduce double-stranded breaks into DNA"
+  },
+  {
+    "startTime": 386.051,
+    "endTime": 387.655,
+    "text": "at precise places,"
+  },
+  {
+    "startTime": 387.655,
+    "endTime": 390.488,
+    "text": "we can trigger cells to repair those breaks,"
+  },
+  {
+    "startTime": 390.488,
+    "endTime": 395.936,
+    "text": "by either the disruption or incorporation of new genetic information."
+  },
+  {
+    "startTime": 395.936,
+    "endTime": 399.202,
+    "text": "So if we were able to program the CRISPR technology"
+  },
+  {
+    "startTime": 399.202,
+    "endTime": 401.549,
+    "text": "to make a break in DNA"
+  },
+  {
+    "startTime": 401.549,
+    "endTime": 407.842,
+    "text": "at the position at or near a mutation causing cystic fibrosis, for example,"
+  },
+  {
+    "startTime": 407.842,
+    "endTime": 412.464,
+    "text": "we could trigger cells to repair that mutation."
+  },
+  {
+    "startTime": 412.464,
+    "endTime": 417.591,
+    "text": "Genome engineering is actually not new, it's been in development since the 1970s."
+  },
+  {
+    "startTime": 417.591,
+    "endTime": 420.366,
+    "text": "We've had technologies for sequencing DNA,"
+  },
+  {
+    "startTime": 420.366,
+    "endTime": 421.985,
+    "text": "for copying DNA,"
+  },
+  {
+    "startTime": 421.985,
+    "endTime": 424.969,
+    "text": "and even for manipulating DNA."
+  },
+  {
+    "startTime": 424.969,
+    "endTime": 428.129,
+    "text": "And these technologies were very promising,"
+  },
+  {
+    "startTime": 428.129,
+    "endTime": 432.559,
+    "text": "but the problem was that they were either inefficient,"
+  },
+  {
+    "startTime": 432.559,
+    "endTime": 434.91600000000005,
+    "text": "or they were difficult enough to use"
+  },
+  {
+    "startTime": 434.916,
+    "endTime": 439.742,
+    "text": "that most scientists had not adopted them for use in their own laboratories,"
+  },
+  {
+    "startTime": 439.742,
+    "endTime": 444.72200000000004,
+    "text": "or certainly for many clinical applications."
+  },
+  {
+    "startTime": 444.722,
+    "endTime": 452.101,
+    "text": "So, the opportunity to take a technology like CRISPR and utilize it has appeal,"
+  },
+  {
+    "startTime": 452.101,
+    "endTime": 455.126,
+    "text": "because of its relative simplicity."
+  },
+  {
+    "startTime": 455.126,
+    "endTime": 458.919,
+    "text": "We can think of older genome engineering technologies"
+  },
+  {
+    "startTime": 458.919,
+    "endTime": 462.602,
+    "text": "as similar to having to rewire your computer"
+  },
+  {
+    "startTime": 462.602,
+    "endTime": 466.39599999999996,
+    "text": "each time you want to run a new piece of software,"
+  },
+  {
+    "startTime": 466.396,
+    "endTime": 470.184,
+    "text": "whereas the CRISPR technology is like software for the genome,"
+  },
+  {
+    "startTime": 470.184,
+    "endTime": 474.658,
+    "text": "we can program it easily, using these little bits of RNA."
+  },
+  {
+    "startTime": 474.658,
+    "endTime": 477.77500000000003,
+    "text": "So once a double-stranded break is made in DNA,"
+  },
+  {
+    "startTime": 477.775,
+    "endTime": 479.88599999999997,
+    "text": "we can induce repair,"
+  },
+  {
+    "startTime": 479.886,
+    "endTime": 483.35600000000005,
+    "text": "and thereby potentially achieve astounding things,"
+  },
+  {
+    "startTime": 483.356,
+    "endTime": 487.539,
+    "text": "like being able to correct mutations that cause sickle cell anemia"
+  },
+  {
+    "startTime": 487.539,
+    "endTime": 489.914,
+    "text": "or cause Huntington's Disease."
+  },
+  {
+    "startTime": 489.914,
+    "endTime": 493.399,
+    "text": "I actually think that the first applications of the CRISPR technology"
+  },
+  {
+    "startTime": 493.399,
+    "endTime": 495.692,
+    "text": "are going to happen in the blood,"
+  },
+  {
+    "startTime": 495.692,
+    "endTime": 500.469,
+    "text": "where it's relatively easier to deliver this tool into cells,"
+  },
+  {
+    "startTime": 500.469,
+    "endTime": 503.905,
+    "text": "compared to solid tissues."
+  },
+  {
+    "startTime": 503.905,
+    "endTime": 506.33299999999997,
+    "text": "Right now, a lot of the work that's going on"
+  },
+  {
+    "startTime": 506.333,
+    "endTime": 510.326,
+    "text": "applies to animal models of human disease, such as mice."
+  },
+  {
+    "startTime": 510.326,
+    "endTime": 513.619,
+    "text": "The technology is being used to make very precise changes"
+  },
+  {
+    "startTime": 513.619,
+    "endTime": 518.8140000000001,
+    "text": "that allow us to study the way that these changes in the cell's DNA"
+  },
+  {
+    "startTime": 518.814,
+    "endTime": 523.515,
+    "text": "affect either a tissue or, in this case, an entire organism."
+  },
+  {
+    "startTime": 523.515,
+    "endTime": 524.746,
+    "text": "Now in this example,"
+  },
+  {
+    "startTime": 524.746,
+    "endTime": 528.563,
+    "text": "the CRISPR technology was used to disrupt a gene"
+  },
+  {
+    "startTime": 528.563,
+    "endTime": 531.354,
+    "text": "by making a tiny change in the DNA"
+  },
+  {
+    "startTime": 531.354,
+    "endTime": 536.219,
+    "text": "in a gene that is responsible for the black coat color of these mice."
+  },
+  {
+    "startTime": 536.219,
+    "endTime": 541.2610000000001,
+    "text": "Imagine that these white mice differ from their pigmented litter-mates"
+  },
+  {
+    "startTime": 541.261,
+    "endTime": 545.952,
+    "text": "by just a tiny change at one gene in the entire genome,"
+  },
+  {
+    "startTime": 545.952,
+    "endTime": 547.966,
+    "text": "and they're otherwise completely normal."
+  },
+  {
+    "startTime": 547.966,
+    "endTime": 550.881,
+    "text": "And when we sequence the DNA from these animals,"
+  },
+  {
+    "startTime": 550.881,
+    "endTime": 553.531,
+    "text": "we find that the change in the DNA"
+  },
+  {
+    "startTime": 553.531,
+    "endTime": 556.697,
+    "text": "has occurred at exactly the place where we induced it,"
+  },
+  {
+    "startTime": 556.697,
+    "endTime": 559.662,
+    "text": "using the CRISPR technology."
+  },
+  {
+    "startTime": 559.662,
+    "endTime": 562.4100000000001,
+    "text": "Additional experiments are going on in other animals"
+  },
+  {
+    "startTime": 562.41,
+    "endTime": 566.529,
+    "text": "that are useful for creating models for human disease,"
+  },
+  {
+    "startTime": 566.529,
+    "endTime": 568.156,
+    "text": "such as monkeys."
+  },
+  {
+    "startTime": 568.156,
+    "endTime": 571.406,
+    "text": "And here we find that we can use these systems"
+  },
+  {
+    "startTime": 571.406,
+    "endTime": 575.232,
+    "text": "to test the application of this technology in particular tissues,"
+  },
+  {
+    "startTime": 575.232,
+    "endTime": 580.329,
+    "text": "for example, figuring out how to deliver the CRISPR tool into cells."
+  },
+  {
+    "startTime": 580.329,
+    "endTime": 582.501,
+    "text": "We also want to understand better"
+  },
+  {
+    "startTime": 582.501,
+    "endTime": 586.1519999999999,
+    "text": "how to control the way that DNA is repaired after it's cut,"
+  },
+  {
+    "startTime": 586.152,
+    "endTime": 591.8570000000001,
+    "text": "and also to figure out how to control and limit any kind of off-target,"
+  },
+  {
+    "startTime": 591.857,
+    "endTime": 596.356,
+    "text": "or unintended effects of using the technology."
+  },
+  {
+    "startTime": 596.356,
+    "endTime": 602.53,
+    "text": "I think that we will see clinical application of this technology,"
+  },
+  {
+    "startTime": 602.53,
+    "endTime": 604.0659999999999,
+    "text": "certainly in adults,"
+  },
+  {
+    "startTime": 604.066,
+    "endTime": 605.693,
+    "text": "within the next 10 years."
+  },
+  {
+    "startTime": 605.693,
+    "endTime": 608.851,
+    "text": "I think that it's likely that we will see clinical trials"
+  },
+  {
+    "startTime": 608.851,
+    "endTime": 612.304,
+    "text": "and possibly even approved therapies within that time,"
+  },
+  {
+    "startTime": 612.304,
+    "endTime": 615.0409999999999,
+    "text": "which is a very exciting thing to think about."
+  },
+  {
+    "startTime": 615.041,
+    "endTime": 617.566,
+    "text": "And because of the excitement around this technology,"
+  },
+  {
+    "startTime": 617.566,
+    "endTime": 620.883,
+    "text": "there's a lot of interest in start-up companies"
+  },
+  {
+    "startTime": 620.883,
+    "endTime": 625.669,
+    "text": "that have been founded to commercialize the CRISPR technology,"
+  },
+  {
+    "startTime": 625.669,
+    "endTime": 627.182,
+    "text": "and lots of venture capitalists"
+  },
+  {
+    "startTime": 627.182,
+    "endTime": 631.242,
+    "text": "that have been investing in these companies."
+  },
+  {
+    "startTime": 631.242,
+    "endTime": 632.8389999999999,
+    "text": "But we have to also consider"
+  },
+  {
+    "startTime": 632.839,
+    "endTime": 636.485,
+    "text": "that the CRISPR technology can be used for things like enhancement."
+  },
+  {
+    "startTime": 636.485,
+    "endTime": 639.553,
+    "text": "Imagine that we could try to engineer humans"
+  },
+  {
+    "startTime": 639.553,
+    "endTime": 644.012,
+    "text": "that have enhanced properties, such as stronger bones,"
+  },
+  {
+    "startTime": 644.012,
+    "endTime": 648.107,
+    "text": "or less susceptibility to cardiovascular disease"
+  },
+  {
+    "startTime": 648.107,
+    "endTime": 649.6419999999999,
+    "text": "or even to have properties"
+  },
+  {
+    "startTime": 649.642,
+    "endTime": 652.065,
+    "text": "that we would consider maybe to be desirable,"
+  },
+  {
+    "startTime": 652.065,
+    "endTime": 657.942,
+    "text": "like a different eye color or to be taller, things like that."
+  },
+  {
+    "startTime": 657.942,
+    "endTime": 660.78,
+    "text": "\"Designer humans,\" if you will."
+  },
+  {
+    "startTime": 660.78,
+    "endTime": 663.194,
+    "text": "Right now, the genetic information"
+  },
+  {
+    "startTime": 663.194,
+    "endTime": 667.711,
+    "text": "to understand what types of genes would give rise to these traits"
+  },
+  {
+    "startTime": 667.711,
+    "endTime": 669.468,
+    "text": "is mostly not known."
+  },
+  {
+    "startTime": 669.468,
+    "endTime": 670.7379999999999,
+    "text": "But it's important to know"
+  },
+  {
+    "startTime": 670.738,
+    "endTime": 675.047,
+    "text": "that the CRISPR technology gives us a tool to make such changes,"
+  },
+  {
+    "startTime": 675.047,
+    "endTime": 678.6510000000001,
+    "text": "once that knowledge becomes available."
+  },
+  {
+    "startTime": 678.651,
+    "endTime": 682.786,
+    "text": "This raises a number of ethical questions that we have to carefully consider,"
+  },
+  {
+    "startTime": 682.786,
+    "endTime": 687.025,
+    "text": "and this is why I and my colleagues have called for a global pause"
+  },
+  {
+    "startTime": 687.025,
+    "endTime": 691.795,
+    "text": "in any clinical application of the CRISPR technology in human embryos,"
+  },
+  {
+    "startTime": 691.795,
+    "endTime": 692.9699999999999,
+    "text": "to give us time"
+  },
+  {
+    "startTime": 692.97,
+    "endTime": 697.743,
+    "text": "to really consider all of the various implications of doing so."
+  },
+  {
+    "startTime": 697.743,
+    "endTime": 701.61,
+    "text": "And actually, there is an important precedent for such a pause"
+  },
+  {
+    "startTime": 701.61,
+    "endTime": 702.953,
+    "text": "from the 1970s,"
+  },
+  {
+    "startTime": 702.953,
+    "endTime": 704.841,
+    "text": "when scientists got together"
+  },
+  {
+    "startTime": 704.841,
+    "endTime": 708.695,
+    "text": "to call for a moratorium on the use of molecular cloning,"
+  },
+  {
+    "startTime": 708.695,
+    "endTime": 715.5060000000001,
+    "text": "until the safety of that technology could be tested carefully and validated."
+  },
+  {
+    "startTime": 715.506,
+    "endTime": 720.67,
+    "text": "So, genome-engineered humans are not with us yet,"
+  },
+  {
+    "startTime": 720.67,
+    "endTime": 724.179,
+    "text": "but this is no longer science fiction."
+  },
+  {
+    "startTime": 724.179,
+    "endTime": 729.069,
+    "text": "Genome-engineered animals and plants are happening right now."
+  },
+  {
+    "startTime": 729.069,
+    "endTime": 733.146,
+    "text": "And this puts in front of all of us a huge responsibility,"
+  },
+  {
+    "startTime": 733.146,
+    "endTime": 737.747,
+    "text": "to consider carefully both the unintended consequences"
+  },
+  {
+    "startTime": 737.747,
+    "endTime": 742.1899999999999,
+    "text": "as well as the intended impacts of a scientific breakthrough."
+  },
+  {
+    "startTime": 742.19,
+    "endTime": 743.3660000000001,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 743.366,
+    "endTime": 751.572,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 751.572,
+    "endTime": 753.535,
+    "text": "(Applause ends)"
+  },
+  {
+    "startTime": 753.535,
+    "endTime": 757.453,
+    "text": "Bruno Giussani: Jennifer, this is a technology with huge consequences,"
+  },
+  {
+    "startTime": 757.453,
+    "endTime": 758.6279999999999,
+    "text": "as you pointed out."
+  },
+  {
+    "startTime": 758.628,
+    "endTime": 763.8240000000001,
+    "text": "Your attitude about asking for a pause or a moratorium or a quarantine"
+  },
+  {
+    "startTime": 763.824,
+    "endTime": 766.733,
+    "text": "is incredibly responsible."
+  },
+  {
+    "startTime": 766.733,
+    "endTime": 769.305,
+    "text": "There are, of course, the therapeutic results of this,"
+  },
+  {
+    "startTime": 769.305,
+    "endTime": 771.4789999999999,
+    "text": "but then there are the un-therapeutic ones"
+  },
+  {
+    "startTime": 771.479,
+    "endTime": 773.683,
+    "text": "and they seem to be the ones gaining traction,"
+  },
+  {
+    "startTime": 773.683,
+    "endTime": 774.953,
+    "text": "particularly in the media."
+  },
+  {
+    "startTime": 774.953,
+    "endTime": 779.143,
+    "text": "This is one of the latest issues of The Economist -- \"Editing humanity.\""
+  },
+  {
+    "startTime": 779.143,
+    "endTime": 783.541,
+    "text": "It's all about genetic enhancement, it's not about therapeutics."
+  },
+  {
+    "startTime": 783.541,
+    "endTime": 785.8470000000001,
+    "text": "What kind of reactions did you get back in March"
+  },
+  {
+    "startTime": 785.847,
+    "endTime": 787.888,
+    "text": "from your colleagues in the science world,"
+  },
+  {
+    "startTime": 787.888,
+    "endTime": 789.27,
+    "text": "when you asked or suggested"
+  },
+  {
+    "startTime": 789.27,
+    "endTime": 793.054,
+    "text": "that we should actually pause this for a moment and think about it?"
+  },
+  {
+    "startTime": 793.054,
+    "endTime": 796.079,
+    "text": "Jennifer Doudna: My colleagues were actually, I think, delighted"
+  },
+  {
+    "startTime": 796.079,
+    "endTime": 798.348,
+    "text": "to have the opportunity to discuss this openly."
+  },
+  {
+    "startTime": 798.348,
+    "endTime": 800.718,
+    "text": "It's interesting that as I talk to people,"
+  },
+  {
+    "startTime": 800.718,
+    "endTime": 803.2099999999999,
+    "text": "my scientific colleagues as well as others,"
+  },
+  {
+    "startTime": 803.21,
+    "endTime": 805.544,
+    "text": "there's a wide variety of viewpoints about this."
+  },
+  {
+    "startTime": 805.544,
+    "endTime": 809.242,
+    "text": "So clearly it's a topic that needs careful consideration and discussion."
+  },
+  {
+    "startTime": 809.242,
+    "endTime": 811.481,
+    "text": "BG: There's a big meeting happening in December"
+  },
+  {
+    "startTime": 811.481,
+    "endTime": 813.481,
+    "text": "that you and your colleagues are calling,"
+  },
+  {
+    "startTime": 813.481,
+    "endTime": 816.272,
+    "text": "together with the National Academy of Sciences and others,"
+  },
+  {
+    "startTime": 816.272,
+    "endTime": 819.5880000000001,
+    "text": "what do you hope will come out of the meeting, practically?"
+  },
+  {
+    "startTime": 819.588,
+    "endTime": 821.978,
+    "text": "JD: Well, I hope that we can air the views"
+  },
+  {
+    "startTime": 821.978,
+    "endTime": 825.602,
+    "text": "of many different individuals and stakeholders"
+  },
+  {
+    "startTime": 825.602,
+    "endTime": 829.918,
+    "text": "who want to think about how to use this technology responsibly."
+  },
+  {
+    "startTime": 829.918,
+    "endTime": 833.044,
+    "text": "It may not be possible to come up with a consensus point of view,"
+  },
+  {
+    "startTime": 833.044,
+    "endTime": 835.061,
+    "text": "but I think we should at least understand"
+  },
+  {
+    "startTime": 835.061,
+    "endTime": 837.057,
+    "text": "what all the issues are as we go forward."
+  },
+  {
+    "startTime": 837.057,
+    "endTime": 838.487,
+    "text": "BG: Now, colleagues of yours,"
+  },
+  {
+    "startTime": 838.487,
+    "endTime": 840.5899999999999,
+    "text": "like George Church, for example, at Harvard,"
+  },
+  {
+    "startTime": 840.59,
+    "endTime": 844.0500000000001,
+    "text": "they say, \"Yeah, ethical issues basically are just a question of safety."
+  },
+  {
+    "startTime": 844.05,
+    "endTime": 846.728,
+    "text": "We test and test and test again, in animals and in labs,"
+  },
+  {
+    "startTime": 846.728,
+    "endTime": 850.668,
+    "text": "and then once we feel it's safe enough, we move on to humans.\""
+  },
+  {
+    "startTime": 850.668,
+    "endTime": 853.273,
+    "text": "So that's kind of the other school of thought,"
+  },
+  {
+    "startTime": 853.273,
+    "endTime": 856.445,
+    "text": "that we should actually use this opportunity and really go for it."
+  },
+  {
+    "startTime": 856.445,
+    "endTime": 860.2470000000001,
+    "text": "Is there a possible split happening in the science community about this?"
+  },
+  {
+    "startTime": 860.247,
+    "endTime": 862.731,
+    "text": "I mean, are we going to see some people holding back"
+  },
+  {
+    "startTime": 862.731,
+    "endTime": 864.549,
+    "text": "because they have ethical concerns,"
+  },
+  {
+    "startTime": 864.549,
+    "endTime": 866.26,
+    "text": "and some others just going forward"
+  },
+  {
+    "startTime": 866.26,
+    "endTime": 869.58,
+    "text": "because some countries under-regulate or don't regulate at all?"
+  },
+  {
+    "startTime": 869.58,
+    "endTime": 873.4490000000001,
+    "text": "JD: Well, I think with any new technology, especially something like this,"
+  },
+  {
+    "startTime": 873.449,
+    "endTime": 876.2579999999999,
+    "text": "there are going to be a variety of viewpoints,"
+  },
+  {
+    "startTime": 876.258,
+    "endTime": 879.623,
+    "text": "and I think that's perfectly understandable."
+  },
+  {
+    "startTime": 879.623,
+    "endTime": 881.159,
+    "text": "I think that in the end,"
+  },
+  {
+    "startTime": 881.159,
+    "endTime": 886.134,
+    "text": "this technology will be used for human genome engineering,"
+  },
+  {
+    "startTime": 886.134,
+    "endTime": 890.475,
+    "text": "but I think to do that without careful consideration and discussion"
+  },
+  {
+    "startTime": 890.475,
+    "endTime": 893.436,
+    "text": "of the risks and potential complications"
+  },
+  {
+    "startTime": 893.436,
+    "endTime": 894.999,
+    "text": "would not be responsible."
+  },
+  {
+    "startTime": 894.999,
+    "endTime": 898.0020000000001,
+    "text": "BG: There are a lot of technologies and other fields of science"
+  },
+  {
+    "startTime": 898.002,
+    "endTime": 900.7969999999999,
+    "text": "that are developing exponentially, pretty much like yours."
+  },
+  {
+    "startTime": 900.797,
+    "endTime": 905.1990000000001,
+    "text": "I'm thinking about artificial intelligence, autonomous robots and so on."
+  },
+  {
+    "startTime": 905.199,
+    "endTime": 906.39,
+    "text": "No one seems --"
+  },
+  {
+    "startTime": 906.39,
+    "endTime": 908.922,
+    "text": "aside from autonomous warfare robots --"
+  },
+  {
+    "startTime": 908.922,
+    "endTime": 913.6510000000001,
+    "text": "nobody seems to have launched a similar discussion in those fields,"
+  },
+  {
+    "startTime": 913.651,
+    "endTime": 915.0849999999999,
+    "text": "in calling for a moratorium."
+  },
+  {
+    "startTime": 915.085,
+    "endTime": 919.1800000000001,
+    "text": "Do you think that your discussion may serve as a blueprint for other fields?"
+  },
+  {
+    "startTime": 919.18,
+    "endTime": 922.723,
+    "text": "JD: Well, I think it's hard for scientists to get out of the laboratory."
+  },
+  {
+    "startTime": 922.723,
+    "endTime": 923.9,
+    "text": "Speaking for myself,"
+  },
+  {
+    "startTime": 923.9,
+    "endTime": 926.54,
+    "text": "it's a little bit uncomfortable to do that."
+  },
+  {
+    "startTime": 926.54,
+    "endTime": 930.478,
+    "text": "But I do think that being involved in the genesis of this"
+  },
+  {
+    "startTime": 930.478,
+    "endTime": 934.358,
+    "text": "really puts me and my colleagues in a position of responsibility."
+  },
+  {
+    "startTime": 934.358,
+    "endTime": 937.8119999999999,
+    "text": "And I would say that I certainly hope that other technologies"
+  },
+  {
+    "startTime": 937.812,
+    "endTime": 940.482,
+    "text": "will be considered in the same way,"
+  },
+  {
+    "startTime": 940.482,
+    "endTime": 943.904,
+    "text": "just as we would want to consider something that could have implications"
+  },
+  {
+    "startTime": 943.904,
+    "endTime": 945.855,
+    "text": "in other fields besides biology."
+  },
+  {
+    "startTime": 945.855,
+    "endTime": 947.831,
+    "text": "BG: Jennifer, thanks for coming to TED."
+  },
+  {
+    "startTime": 947.831,
+    "endTime": 949.116,
+    "text": "JD: Thank you."
+  },
+  {
+    "startTime": 949.116,
+    "endTime": 959.116,
+    "text": "(Applause)"
+  }
+]

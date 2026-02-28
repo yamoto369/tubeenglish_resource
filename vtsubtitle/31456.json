@@ -1,0 +1,802 @@
+[
+  {
+    "startTime": 3.0,
+    "endTime": 6.640000000000001,
+    "text": "Hello, and welcome to Crash Course Astronomy! I’m your host, Phil Plait, and I’ll be"
+  },
+  {
+    "startTime": 6.64,
+    "endTime": 21.78,
+    "text": "taking you on a guided tour of the entire Universe. You might want to pack a lunch."
+  },
+  {
+    "startTime": 21.78,
+    "endTime": 27.67,
+    "text": "Over the course of this series we’ll explore planets, stars, black holes, galaxies, subatomic"
+  },
+  {
+    "startTime": 27.67,
+    "endTime": 31.490000000000002,
+    "text": "particles, and even the eventual fate of the Universe itself."
+  },
+  {
+    "startTime": 31.49,
+    "endTime": 36.75,
+    "text": "But before we step into space, let’s take a step back. I wanna talk to you about science."
+  },
+  {
+    "startTime": 36.75,
+    "endTime": 40.16,
+    "text": "There are lots of definitions of science, but I’ll say that it’s a body of knowledge,"
+  },
+  {
+    "startTime": 40.16,
+    "endTime": 42.48,
+    "text": "and a method of how we learned that knowledge."
+  },
+  {
+    "startTime": 42.48,
+    "endTime": 47.89,
+    "text": "Science tells us that stuff we know may not be perfectly known; it may be partly or entirely"
+  },
+  {
+    "startTime": 47.89,
+    "endTime": 53.17,
+    "text": "wrong. We need to watch the Universe, see how it behaves, make guesses about why it’s"
+  },
+  {
+    "startTime": 53.17,
+    "endTime": 57.870000000000005,
+    "text": "doing what it’s doing, and then try to think of ways to support or disprove those ideas."
+  },
+  {
+    "startTime": 57.87,
+    "endTime": 63.669999999999995,
+    "text": "That last part is important. Science must be, above all else, honest if we really want"
+  },
+  {
+    "startTime": 63.67,
+    "endTime": 65.25,
+    "text": "to get to the bottom of things."
+  },
+  {
+    "startTime": 65.25,
+    "endTime": 69.76,
+    "text": "Understanding that our understanding might be wrong is essential, and trying to figure"
+  },
+  {
+    "startTime": 69.76,
+    "endTime": 74.07000000000001,
+    "text": "out the ways we may be mistaken is the only way that science can help us find our way"
+  },
+  {
+    "startTime": 74.07,
+    "endTime": 77.36999999999999,
+    "text": "to the truth, or at least the nearest approximation to it."
+  },
+  {
+    "startTime": 77.37,
+    "endTime": 83.47,
+    "text": "Science learns. We meander a bit as we use it, but in the long run we get closer and closer"
+  },
+  {
+    "startTime": 83.47,
+    "endTime": 88.42,
+    "text": "to understanding reality, and that is the strength of science. And it’s all around us!"
+  },
+  {
+    "startTime": 88.42,
+    "endTime": 91.24,
+    "text": "Whether you know it or not, you’re soaking in science."
+  },
+  {
+    "startTime": 91.24,
+    "endTime": 94.35,
+    "text": "You’re a primate.(anthropology) You have mass.(physics) Mitochondria"
+  },
+  {
+    "startTime": 94.35,
+    "endTime": 98.14999999999999,
+    "text": "in your cells are generating energy.(biology) Presumably, you’re breathing oxygen.(chemistry)"
+  },
+  {
+    "startTime": 98.15,
+    "endTime": 103.43,
+    "text": "But astronomy is different. It’s still science, of course, but astronomy puts you in your place."
+  },
+  {
+    "startTime": 103.43,
+    "endTime": 108.35000000000001,
+    "text": "Because of astronomy, I know we’re standing on a sphere of mostly molten rock and metal"
+  },
+  {
+    "startTime": 108.35,
+    "endTime": 114.57,
+    "text": "13,000 kilometers across, with a fuzzy atmosphere about 100 km high, surrounded by a magnetic"
+  },
+  {
+    "startTime": 114.57,
+    "endTime": 120.21,
+    "text": "field that protects us from the onslaught of subatomic particles from the Sun 150 million"
+  },
+  {
+    "startTime": 120.21,
+    "endTime": 125.33,
+    "text": "km away, which is also flooding space with light that reaches across space, to illuminate"
+  },
+  {
+    "startTime": 125.33,
+    "endTime": 130.21,
+    "text": "the planets, asteroids, dust, and comets, racing out past the Kuiper Belt, through the"
+  },
+  {
+    "startTime": 130.21,
+    "endTime": 134.75,
+    "text": "Oort Cloud, into interstellar space, past the nearest stars, which orbit along with"
+  },
+  {
+    "startTime": 134.75,
+    "endTime": 140.46,
+    "text": "gas clouds and dust lanes in a gigantic spiral galaxy we call the Milky Way that has a supermassive"
+  },
+  {
+    "startTime": 140.46,
+    "endTime": 145.18,
+    "text": "black hole in its center, and is surrounded by 150 globular clusters and a halo of dark"
+  },
+  {
+    "startTime": 145.18,
+    "endTime": 149.56,
+    "text": "matter and dwarf galaxies, some of which it’s eating, all of which can be seen by other"
+  },
+  {
+    "startTime": 149.56,
+    "endTime": 154.29,
+    "text": "galaxies in our Local Group like Andromeda and Triangulum, and our group is on the outskirts"
+  },
+  {
+    "startTime": 154.29,
+    "endTime": 158.89,
+    "text": "of the Virgo galaxy cluster, which is part of the Virgo supercluster, which is just one"
+  },
+  {
+    "startTime": 158.89,
+    "endTime": 163.51999999999998,
+    "text": "of many other gigantic structures that stretch most of the way across the visible Universe,"
+  },
+  {
+    "startTime": 163.52,
+    "endTime": 168.51000000000002,
+    "text": "which is 90-billion light years across and expanding every day, even faster today than"
+  },
+  {
+    "startTime": 168.51,
+    "endTime": 173.32,
+    "text": "yesterday due to mysterious dark energy, and even all that might be part of an infinitely"
+  },
+  {
+    "startTime": 173.32,
+    "endTime": 177.32,
+    "text": "larger multiverse that extends forever both in time and space."
+  },
+  {
+    "startTime": 177.32,
+    "endTime": 180.16,
+    "text": "See? Astronomy puts you in your place."
+  },
+  {
+    "startTime": 180.16,
+    "endTime": 184.94,
+    "text": "But what exactly is astronomy? This isn’t necessarily an obvious thing to ask. When"
+  },
+  {
+    "startTime": 184.94,
+    "endTime": 190.82,
+    "text": "I was a kid, it was easy: Astronomy is the study of things in the sky. The sun, moon,"
+  },
+  {
+    "startTime": 190.82,
+    "endTime": 195.069,
+    "text": "stars, galaxies, and stuff like that. But it’s not so easy to pigeonhole these days."
+  },
+  {
+    "startTime": 195.069,
+    "endTime": 200.06,
+    "text": "Take, for example, Mars. When I haul my ‘scope out to the end of my driveway and look at"
+  },
+  {
+    "startTime": 200.06,
+    "endTime": 205.68,
+    "text": "Mars, that’s astronomy, right? Of course! But what about the rovers there? Those machines"
+  },
+  {
+    "startTime": 205.68,
+    "endTime": 210.58,
+    "text": "aren’t doing astronomy, surely. They’re doing chemistry, geology, hydrology, petrology…"
+  },
+  {
+    "startTime": 210.58,
+    "endTime": 212.04000000000002,
+    "text": "everything but astronomy!"
+  },
+  {
+    "startTime": 212.04,
+    "endTime": 216.84,
+    "text": "So nowadays, what’s astronomy? I’d say it’s still studying stuff in the sky, but"
+  },
+  {
+    "startTime": 216.84,
+    "endTime": 221.02,
+    "text": "it’s branched out quite a bit from there. Borders between it and other fields of science"
+  },
+  {
+    "startTime": 221.02,
+    "endTime": 225.23000000000002,
+    "text": "are fuzzy… a theme I’ll be hitting on several times over this series. Humans might"
+  },
+  {
+    "startTime": 225.23,
+    "endTime": 229.319,
+    "text": "like firm, delineated boundaries between things, but nature isn’t so picky."
+  },
+  {
+    "startTime": 229.319,
+    "endTime": 232.28,
+    "text": "And that brings us to our first edition of “Focus On…”"
+  },
+  {
+    "startTime": 232.28,
+    "endTime": 235.47,
+    "text": "This week’s topic: Astronomers! Who are we? What do we do?"
+  },
+  {
+    "startTime": 235.47,
+    "endTime": 239.55,
+    "text": "I used to look through telescopes for a living, or at least study the data that came from"
+  },
+  {
+    "startTime": 239.55,
+    "endTime": 245.25,
+    "text": "detectors strapped onto them. But now I talk and write (and make videos) about astronomy,"
+  },
+  {
+    "startTime": 245.25,
+    "endTime": 250.43,
+    "text": "and relegate my viewing to my personal backyard telescope. But I still consider myself an"
+  },
+  {
+    "startTime": 250.43,
+    "endTime": 254.19,
+    "text": "astronomer, so that should give you an idea that there’s a lot of wiggle room in the profession."
+  },
+  {
+    "startTime": 254.19,
+    "endTime": 259.329,
+    "text": "In fact, when I worked on Hubble Space Telescope, I was actually hired as... a programmer!"
+  },
+  {
+    "startTime": 259.329,
+    "endTime": 264.04,
+    "text": "I coded in the language used by the folks helping to build and calibrate a camera that"
+  },
+  {
+    "startTime": 264.04,
+    "endTime": 267.34000000000003,
+    "text": "was due to launch into space and be installed onto Hubble by an astronaut."
+  },
+  {
+    "startTime": 267.34,
+    "endTime": 271.28999999999996,
+    "text": "Once the data from that camera are taken and analyzed, you have to know what to do with"
+  },
+  {
+    "startTime": 271.29,
+    "endTime": 276.05,
+    "text": "them. Do the observations fit the physical model of how stars blow up, or how galaxies"
+  },
+  {
+    "startTime": 276.05,
+    "endTime": 280.37,
+    "text": "form, or the way gas flows through space? Well, you'd better know your math and physics,"
+  },
+  {
+    "startTime": 280.37,
+    "endTime": 285.11,
+    "text": "because that’s how we test our hypotheses. And someone who does that is generally called"
+  },
+  {
+    "startTime": 285.11,
+    "endTime": 286.38,
+    "text": "an astrophysicist."
+  },
+  {
+    "startTime": 286.38,
+    "endTime": 290.79,
+    "text": "Of course, those telescopes and detectors don’t create themselves. We need engineers"
+  },
+  {
+    "startTime": 290.79,
+    "endTime": 293.59000000000003,
+    "text": "to design and build them and technicians to use them."
+  },
+  {
+    "startTime": 293.59,
+    "endTime": 297.63,
+    "text": "Most astronomers don’t actually use the telescopes themselves anymore; someone who’s"
+  },
+  {
+    "startTime": 297.63,
+    "endTime": 300.13,
+    "text": "trained in their specific use does that for them."
+  },
+  {
+    "startTime": 300.13,
+    "endTime": 305.15999999999997,
+    "text": "Some of those instruments go into space, and some go to other worlds, like the moon and Mars."
+  },
+  {
+    "startTime": 305.16,
+    "endTime": 309.40000000000003,
+    "text": "We need astronomers and engineers and software programmers who can build those, too."
+  },
+  {
+    "startTime": 309.4,
+    "endTime": 314.03999999999996,
+    "text": "And then, at the end of all this, we need people to tell you all about it. Teachers,"
+  },
+  {
+    "startTime": 314.04,
+    "endTime": 316.81,
+    "text": "professors, writers, video makers, even artists."
+  },
+  {
+    "startTime": 316.81,
+    "endTime": 321.08,
+    "text": "So I’ll tell you what: If you have an interest in the Universe, if you love to look up at"
+  },
+  {
+    "startTime": 321.08,
+    "endTime": 326.21999999999997,
+    "text": "the stars, if you crave to understand what’s going on literally over your head, then who"
+  },
+  {
+    "startTime": 326.22,
+    "endTime": 327.99,
+    "text": "am I to say you’re not an astronomer?"
+  },
+  {
+    "startTime": 327.99,
+    "endTime": 331.71000000000004,
+    "text": "However you define astronomy, humans have been looking up at the sky for as long as"
+  },
+  {
+    "startTime": 331.71,
+    "endTime": 335.52,
+    "text": "we’ve been humans. Certainly ancient people noticed the big glowy"
+  },
+  {
+    "startTime": 335.52,
+    "endTime": 339.96999999999997,
+    "text": "ball in the sky, and how it lit everything up while it was up, and how it got dark when"
+  },
+  {
+    "startTime": 339.97,
+    "endTime": 344.48,
+    "text": "it was gone. The other, fainter glowy thing tried, but wasn’t quite as good as lighting"
+  },
+  {
+    "startTime": 344.48,
+    "endTime": 348.90000000000003,
+    "text": "up the night. They probably took that sort of thing pretty seriously. They probably also"
+  },
+  {
+    "startTime": 348.9,
+    "endTime": 352.92999999999995,
+    "text": "noticed that when certain stars appeared in the sky, the weather started getting warmer"
+  },
+  {
+    "startTime": 352.93,
+    "endTime": 357.28000000000003,
+    "text": "and the days longer, and when other stars were seen, the weather would get colder and"
+  },
+  {
+    "startTime": 357.28,
+    "endTime": 358.35999999999996,
+    "text": "daytime shorten."
+  },
+  {
+    "startTime": 358.36,
+    "endTime": 363.46000000000004,
+    "text": "And when humans settled down, discovered agriculture, and started farming, noticing those patterns"
+  },
+  {
+    "startTime": 363.46,
+    "endTime": 367.82,
+    "text": "in the sky would have had an even greater impact. It told them when to plant seeds,"
+  },
+  {
+    "startTime": 367.82,
+    "endTime": 368.76,
+    "text": "and when to harvest."
+  },
+  {
+    "startTime": 368.76,
+    "endTime": 373.51,
+    "text": "The cycles in the sky became pretty important. So important that it wasn’t hard to imagine"
+  },
+  {
+    "startTime": 373.51,
+    "endTime": 378.81,
+    "text": "gods up there, looking down on us weak and ridiculous humans, interfering with our lives."
+  },
+  {
+    "startTime": 378.81,
+    "endTime": 382.75,
+    "text": "Surely if the stars tell us when to plant, and control the weather, seasons, and the"
+  },
+  {
+    "startTime": 382.75,
+    "endTime": 387.67,
+    "text": "length of the day, they control our lives too… and astrology was born."
+  },
+  {
+    "startTime": 387.67,
+    "endTime": 392.88,
+    "text": "Astrology literally means “study of the stars”; as a word it’s been used before"
+  },
+  {
+    "startTime": 392.88,
+    "endTime": 397.69,
+    "text": "science became a formal method of studying nature. It irks me a bit, since it got the"
+  },
+  {
+    "startTime": 397.69,
+    "endTime": 402.85,
+    "text": "good name, and now we’re stuck with “astronomy,” which means “law or culture of the stars.\""
+  },
+  {
+    "startTime": 402.85,
+    "endTime": 407.15000000000003,
+    "text": "That’s not really what we do! But what the heck. Words change meaning over time, and"
+  },
+  {
+    "startTime": 407.15,
+    "endTime": 413.0,
+    "text": "now it’s pretty well understood that astronomy is science, and astrology… isn’t."
+  },
+  {
+    "startTime": 413.0,
+    "endTime": 418.419,
+    "text": "Millennia ago, astrology was as close to science as you got. It had some of the flavors of"
+  },
+  {
+    "startTime": 418.419,
+    "endTime": 423.32,
+    "text": "science: astrologers observed the skies, made predictions about how it would affect people,"
+  },
+  {
+    "startTime": 423.32,
+    "endTime": 427.49,
+    "text": "and then those people would provide evidence for it by swearing up and down it worked."
+  },
+  {
+    "startTime": 427.49,
+    "endTime": 433.43,
+    "text": "The thing is, it really didn’t; the fault of astrology lies in ourselves and not our"
+  },
+  {
+    "startTime": 433.43,
+    "endTime": 437.74,
+    "text": "stars. People tend to remember the hits and forget the misses when predictions are made,"
+  },
+  {
+    "startTime": 437.74,
+    "endTime": 442.09000000000003,
+    "text": "which is why they sometimes sit in casinos pumping nickels into machines that are"
+  },
+  {
+    "startTime": 442.09,
+    "endTime": 446.46,
+    "text": "proven to be nothing more than a method for reducing the number of nickels you have."
+  },
+  {
+    "startTime": 446.46,
+    "endTime": 451.13,
+    "text": "But astrology led to people to really study the sky, and find the patterns there, which"
+  },
+  {
+    "startTime": 451.13,
+    "endTime": 455.63,
+    "text": "led to a more rigorous understanding of how things worked in the heavenly vault."
+  },
+  {
+    "startTime": 455.63,
+    "endTime": 460.74,
+    "text": "It wasn’t overnight, of course. This took centuries. Before the invention of the telescope,"
+  },
+  {
+    "startTime": 460.74,
+    "endTime": 465.44,
+    "text": "keen observers built all sorts of odd and wonderful devices to measure the heavens,"
+  },
+  {
+    "startTime": 465.44,
+    "endTime": 470.68,
+    "text": "and in fact it was before the telescope was first turned to the sky that a huge revolution"
+  },
+  {
+    "startTime": 470.68,
+    "endTime": 471.84000000000003,
+    "text": "in astronomy took place."
+  },
+  {
+    "startTime": 471.84,
+    "endTime": 477.32,
+    "text": "It is patently obvious that the ground you stand on is fixed, rooted if you will, and"
+  },
+  {
+    "startTime": 477.32,
+    "endTime": 483.31,
+    "text": "the skies turn above us. The sun rises, the sun sets. The moon rises and sets, the stars"
+  },
+  {
+    "startTime": 483.31,
+    "endTime": 488.22,
+    "text": "themselves wheel around the sky at night. Clearly, the Earth is motionless, and the"
+  },
+  {
+    "startTime": 488.22,
+    "endTime": 492.96000000000004,
+    "text": "sky is what is actually moving. In fact, if you think about it, geocentrism"
+  },
+  {
+    "startTime": 492.96,
+    "endTime": 497.58,
+    "text": "makes perfect sense that all the objects in the sky revolve about the Earth, and are fixed"
+  },
+  {
+    "startTime": 497.58,
+    "endTime": 502.889,
+    "text": "to a series of nested spheres, some of which are transparent, maybe made of crystal, which"
+  },
+  {
+    "startTime": 502.889,
+    "endTime": 508.91,
+    "text": "spin once per day. The stars may just be holes in the otherwise opaque sphere, letting sunlight through."
+  },
+  {
+    "startTime": 508.91,
+    "endTime": 510.71000000000004,
+    "text": "Sounds silly to you, doesn’t it?"
+  },
+  {
+    "startTime": 510.71,
+    "endTime": 514.149,
+    "text": "Well, here’s the thing: If you don’t have today’s modern understanding of how the"
+  },
+  {
+    "startTime": 514.149,
+    "endTime": 521.029,
+    "text": "cosmos works, this whole multiple-shells-of-things-in- the-sky thing actually does make sense. It explains"
+  },
+  {
+    "startTime": 521.029,
+    "endTime": 525.41,
+    "text": "a lot of what’s going on over your head, and if it was good enough for Plato, Aristotle,"
+  },
+  {
+    "startTime": 525.41,
+    "endTime": 530.399,
+    "text": "and Ptolemy, then by god it was good enough for you. And speaking of which, it was endorsed"
+  },
+  {
+    "startTime": 530.399,
+    "endTime": 535.29,
+    "text": "by the major religions of the time, so maybe it’s better if you just nod and agree and"
+  },
+  {
+    "startTime": 535.29,
+    "endTime": 536.49,
+    "text": "don’t think about it too hard."
+  },
+  {
+    "startTime": 536.49,
+    "endTime": 541.91,
+    "text": "But a few centuries ago things changed. Although he wasn’t the first, the Polish mathematician"
+  },
+  {
+    "startTime": 541.91,
+    "endTime": 546.55,
+    "text": "and astronomer Copernicus came up with the idea that the sun was the center of the solar"
+  },
+  {
+    "startTime": 546.55,
+    "endTime": 551.529,
+    "text": "system, not the Earth. His ideas had problems, which we’ll get to in a later episode, but"
+  },
+  {
+    "startTime": 551.529,
+    "endTime": 554.079,
+    "text": "it did an incrementally better job than geocentrism."
+  },
+  {
+    "startTime": 554.079,
+    "endTime": 559.3889999999999,
+    "text": "And then along came Tycho Brahe and Johannes Kepler, who modified that system, making it"
+  },
+  {
+    "startTime": 559.389,
+    "endTime": 566.29,
+    "text": "even better. Then Isaac Newton - oh, Newton - he invented calculus partly to help him"
+  },
+  {
+    "startTime": 566.29,
+    "endTime": 571.24,
+    "text": "understand the way objects moved in space. Over time, our math got better, our physics"
+  },
+  {
+    "startTime": 571.24,
+    "endTime": 577.16,
+    "text": "got better, and our understanding grew. Applied math was a revolution in astronomy, and then"
+  },
+  {
+    "startTime": 577.16,
+    "endTime": 580.86,
+    "text": "the use of telescopes was another. Galileo didn’t invent the telescope, by"
+  },
+  {
+    "startTime": 580.86,
+    "endTime": 586.129,
+    "text": "the way, but made them better; Newton invented a new kind that was even better than that,"
+  },
+  {
+    "startTime": 586.129,
+    "endTime": 587.839,
+    "text": "and we’ve run with the idea from there."
+  },
+  {
+    "startTime": 587.839,
+    "endTime": 593.4290000000001,
+    "text": "Then, about a century or so ago, came another revolution: photography. We could capture"
+  },
+  {
+    "startTime": 593.429,
+    "endTime": 598.189,
+    "text": "much fainter objects on glass plates sprayed with light-sensitive chemicals, which revealed"
+  },
+  {
+    "startTime": 598.189,
+    "endTime": 604.5999999999999,
+    "text": "stars otherwise invisible to us, details in galaxies, beautiful clouds of gas and dust in space."
+  },
+  {
+    "startTime": 604.6,
+    "endTime": 609.47,
+    "text": "And then in the latter half of the last century, digital detectors were invented, which were"
+  },
+  {
+    "startTime": 609.47,
+    "endTime": 614.7090000000001,
+    "text": "even more sensitive than film. We could use computers to directly analyze observations,"
+  },
+  {
+    "startTime": 614.709,
+    "endTime": 619.0189999999999,
+    "text": "and our knowledge leaped again. When these were coupled with telescopes sent in orbit"
+  },
+  {
+    "startTime": 619.019,
+    "endTime": 623.41,
+    "text": "around the Earth - where our roiling and boiling atmosphere doesn’t blur out observations"
+  },
+  {
+    "startTime": 623.41,
+    "endTime": 626.199,
+    "text": "- we began yet another revolution."
+  },
+  {
+    "startTime": 626.199,
+    "endTime": 627.3389999999999,
+    "text": "And where are we now?"
+  },
+  {
+    "startTime": 627.339,
+    "endTime": 632.649,
+    "text": "We’ve come such a long way! What questions can we routinely ask that our ancestors would"
+  },
+  {
+    "startTime": 632.649,
+    "endTime": 636.749,
+    "text": "not have dared, what statements made with a pretty good degree of certainty?"
+  },
+  {
+    "startTime": 636.749,
+    "endTime": 643.149,
+    "text": "Think on this: The lights in the sky are stars! There are other worlds. We take the idea of"
+  },
+  {
+    "startTime": 643.149,
+    "endTime": 648.629,
+    "text": "looking for life on alien planets seriously, and spend billions of dollars doing it. Our"
+  },
+  {
+    "startTime": 648.629,
+    "endTime": 655.4490000000001,
+    "text": "galaxy is one of a hundred billion others. We can only directly see 4% of the Universe."
+  },
+  {
+    "startTime": 655.449,
+    "endTime": 660.8689999999999,
+    "text": "Stars explode, and when they do they create the stuff of life: the iron in our blood,"
+  },
+  {
+    "startTime": 660.869,
+    "endTime": 666.119,
+    "text": "the calcium in our bones, the phosphorus that is the backbone of our DNA. The most common"
+  },
+  {
+    "startTime": 666.119,
+    "endTime": 670.98,
+    "text": "kind of star in the Universe is so faint you can’t see it without a telescope. Our solar"
+  },
+  {
+    "startTime": 670.98,
+    "endTime": 676.0500000000001,
+    "text": "system is filled to overflowing with worlds more bizarre than we could have dreamed."
+  },
+  {
+    "startTime": 676.05,
+    "endTime": 681.309,
+    "text": "Nature has more imagination than we do. It comes up with some nutty stuff. We’re clever"
+  },
+  {
+    "startTime": 681.309,
+    "endTime": 686.0889999999999,
+    "text": "too, we big-brained apes. We’ve learned a lot… but there’s still a long way to go."
+  },
+  {
+    "startTime": 686.089,
+    "endTime": 689.6700000000001,
+    "text": "So, with that, I think we’re ready. Let’s explore the universe."
+  },
+  {
+    "startTime": 689.67,
+    "endTime": 693.699,
+    "text": "Today you learned what astronomy is, and that astronomers aren’t just people who operate"
+  },
+  {
+    "startTime": 693.699,
+    "endTime": 699.9989999999999,
+    "text": "telescopes, but include mathematicians, engineers, technicians, programmers, and even artists."
+  },
+  {
+    "startTime": 699.999,
+    "endTime": 703.759,
+    "text": "We also wrapped up with a quick history of the origins and development of astronomy,"
+  },
+  {
+    "startTime": 703.759,
+    "endTime": 706.34,
+    "text": "from ancient observers to the Hubble Space Telescope."
+  },
+  {
+    "startTime": 706.34,
+    "endTime": 710.2,
+    "text": "Crash Course is produced in association with PBS Digital Studios."
+  },
+  {
+    "startTime": 710.2,
+    "endTime": 714.9290000000001,
+    "text": "This episode was written by me, Phil Plait. The script was edited by Blake de Pastino,"
+  },
+  {
+    "startTime": 714.929,
+    "endTime": 718.929,
+    "text": "and our consultant is Dr. Michelle Thaller. It was co-directed by Nicholas Jenkins and"
+  },
+  {
+    "startTime": 718.929,
+    "endTime": 728.929,
+    "text": "Michael Aranda, and the graphics team is Thought Café."
+  }
+]
