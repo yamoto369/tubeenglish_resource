@@ -1,0 +1,367 @@
+[
+  {
+    "startTime": 7.188,
+    "endTime": 11.6,
+    "text": "Norman McLaren, the great 20th century pioneer of animation technique, once said,"
+  },
+  {
+    "startTime": 11.7,
+    "endTime": 20.9,
+    "text": "\"Animation is not the art of drawings that move, but the art of movements that are drawn. What happens between each frame is more important than what exists on each frame.\""
+  },
+  {
+    "startTime": 20.9,
+    "endTime": 22.52,
+    "text": "What did he mean?"
+  },
+  {
+    "startTime": 22.52,
+    "endTime": 27.3,
+    "text": "Well, for an object to appear in motion, it necessarily has to change in position over time."
+  },
+  {
+    "startTime": 27.354,
+    "endTime": 32.3,
+    "text": "If time passes and no change in position occurs, the object will appear to be still."
+  },
+  {
+    "startTime": 32.352,
+    "endTime": 42.9,
+    "text": "This relationship between the passage of time and the amount of change that occurs in that time is at the heart of every time-based art form, be it music, dance, or motion pictures."
+  },
+  {
+    "startTime": 43.0,
+    "endTime": 51.0,
+    "text": "Manipulating the speed and amount of change between the frames is the secret alchemy that gives animation the ability to convey the illusion of life."
+  },
+  {
+    "startTime": 51.1,
+    "endTime": 57.2,
+    "text": "In animation, there are two fundamental principles we use to do this: timing and spacing."
+  },
+  {
+    "startTime": 57.3,
+    "endTime": 62.8,
+    "text": "To illustrate the relationship between them, we'll use a timeless example: the bouncing ball."
+  },
+  {
+    "startTime": 62.9,
+    "endTime": 68.6,
+    "text": "One way to think about timing is that it's the speed, or tempo, at which an action takes place."
+  },
+  {
+    "startTime": 68.639,
+    "endTime": 73.5,
+    "text": "We determine the speed of an action by how many pictures, or frames, it takes to happen."
+  },
+  {
+    "startTime": 73.602,
+    "endTime": 75.52000000000001,
+    "text": "The more frames something takes to happen, the more time it spends on screen, so the slower the action will be."
+  },
+  {
+    "startTime": 80.696,
+    "endTime": 88.6,
+    "text": "The fewer frames something takes to happen, the less screen time it takes, which gives us faster action."
+  },
+  {
+    "startTime": 88.687,
+    "endTime": 92.39999999999999,
+    "text": "The timing is about more than just speed, it's also about rhythm."
+  },
+  {
+    "startTime": 92.6,
+    "endTime": 99.3,
+    "text": "Like a drumbeat or melody only exists when a song is being played, the timing of an action only exists while it's happening."
+  },
+  {
+    "startTime": 99.3,
+    "endTime": 104.89999999999999,
+    "text": "You can describe it in words, say, something will take 6 frames, 18 frames, or so on."
+  },
+  {
+    "startTime": 104.966,
+    "endTime": 111.19999999999999,
+    "text": "But to really get a sense of it, you need to act it out or experience it as it would happen in, well, real-time."
+  },
+  {
+    "startTime": 111.3,
+    "endTime": 116.6,
+    "text": "Now, the timing of an action all depends on the context of the scene and what you're trying to communicate."
+  },
+  {
+    "startTime": 116.688,
+    "endTime": 119.441,
+    "text": "What is doing the acting, and why?"
+  },
+  {
+    "startTime": 119.441,
+    "endTime": 121.0,
+    "text": "Let's take our example."
+  },
+  {
+    "startTime": 121.1,
+    "endTime": 123.1,
+    "text": "What makes a ball bounce?"
+  },
+  {
+    "startTime": 123.153,
+    "endTime": 133.8,
+    "text": "The action we're talking about here is a result of interacting physical forces, a moving ball's tendency to stay in motion, or its force of momentum vs. the constant force of gravity bringing it back down Earth."
+  },
+  {
+    "startTime": 133.8,
+    "endTime": 141.5,
+    "text": "The degree to which these invisible forces apply, and the reason why the ball behaves the way it does, all depends on the physical properties of the ball."
+  },
+  {
+    "startTime": 141.6,
+    "endTime": 146.25199999999998,
+    "text": "A golf ball is small, hard and light."
+  },
+  {
+    "startTime": 146.252,
+    "endTime": 151.0,
+    "text": "A rubber ball is small, soft and lighter."
+  },
+  {
+    "startTime": 151.1,
+    "endTime": 155.29999999999998,
+    "text": "A beach ball is large, soft and light."
+  },
+  {
+    "startTime": 155.4,
+    "endTime": 159.5,
+    "text": "And a bowling ball is large, hard and heavy."
+  },
+  {
+    "startTime": 159.6,
+    "endTime": 163.7,
+    "text": "So, each ball behaves very differently, according to its properties."
+  },
+  {
+    "startTime": 164.0,
+    "endTime": 169.7,
+    "text": "Let's get a sense of the visual rhythm of each."
+  },
+  {
+    "startTime": 169.8,
+    "endTime": 185.4,
+    "text": "Each ball plays its own beat and tells us something about itself and the time it takes to travel across the screen."
+  },
+  {
+    "startTime": 185.5,
+    "endTime": 189.4,
+    "text": "The visual rhythm of these hits is the timing."
+  },
+  {
+    "startTime": 189.5,
+    "endTime": 194.1,
+    "text": "Okay, let's start animating our ball, bouncing up and down with a simple cycle of drawings."
+  },
+  {
+    "startTime": 194.2,
+    "endTime": 198.0,
+    "text": "We'll draw a circle here, call it point A, our starting point."
+  },
+  {
+    "startTime": 198.1,
+    "endTime": 201.7,
+    "text": "We'll have it hit the ground here, point B."
+  },
+  {
+    "startTime": 201.8,
+    "endTime": 205.8,
+    "text": "Let's say it takes about a second to hit the ground and come back up again."
+  },
+  {
+    "startTime": 205.8,
+    "endTime": 208.70000000000002,
+    "text": "This is our timing."
+  },
+  {
+    "startTime": 208.8,
+    "endTime": 213.60000000000002,
+    "text": "Our spacing is where we position the circle in the frames between point A and B."
+  },
+  {
+    "startTime": 213.6,
+    "endTime": 218.2,
+    "text": "If we were to move our ball in evenly-spaced increments, we'd get something like this."
+  },
+  {
+    "startTime": 218.3,
+    "endTime": 221.3,
+    "text": "It's not really telling us anything about itself."
+  },
+  {
+    "startTime": 221.4,
+    "endTime": 224.70000000000002,
+    "text": "Is it a bouncing ball or a circle on an elevator?"
+  },
+  {
+    "startTime": 224.8,
+    "endTime": 229.9,
+    "text": "Let's look at our footage again and think about what's going on as each ball bounces."
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 235.4,
+    "text": "Following each impact with the ground, the ball's upward momentum is eventually overcome by gravity."
+  },
+  {
+    "startTime": 235.5,
+    "endTime": 237.5,
+    "text": "This happens at the peak of each arc."
+  },
+  {
+    "startTime": 237.6,
+    "endTime": 240.7,
+    "text": "As things change direction, the motion is slowest."
+  },
+  {
+    "startTime": 240.8,
+    "endTime": 244.5,
+    "text": "We see here the successive positions of the ball are close together."
+  },
+  {
+    "startTime": 244.6,
+    "endTime": 250.1,
+    "text": "The ball then speeds up as it falls, and is at its fastest when it's approaching and hitting the ground."
+  },
+  {
+    "startTime": 250.112,
+    "endTime": 253.0,
+    "text": "We can see here each position is further apart."
+  },
+  {
+    "startTime": 253.1,
+    "endTime": 256.3,
+    "text": "The change in position between frames is the spacing."
+  },
+  {
+    "startTime": 256.4,
+    "endTime": 261.2,
+    "text": "The smaller the change, the slower the action will appear."
+  },
+  {
+    "startTime": 261.3,
+    "endTime": 266.7,
+    "text": "The greater the change, the faster it will appear."
+  },
+  {
+    "startTime": 266.8,
+    "endTime": 273.0,
+    "text": "For an action to decelerate, each change in position must be less than the change before it."
+  },
+  {
+    "startTime": 273.1,
+    "endTime": 279.5,
+    "text": "Likewise, for an action to speed up, or accelerate, each successive change must be greater."
+  },
+  {
+    "startTime": 279.6,
+    "endTime": 285.8,
+    "text": "Let's change the mechanical spacing of our animated bounce to reflect what we observed in the footage."
+  },
+  {
+    "startTime": 285.82,
+    "endTime": 290.96,
+    "text": "Slow at the top, fast when it's hitting the ground."
+  },
+  {
+    "startTime": 290.96,
+    "endTime": 299.79999999999995,
+    "text": "Simply by adjusting the spacing, we've succeeded in suggesting the forces of momentum and gravity at play and achieved a much more realistic motion."
+  },
+  {
+    "startTime": 299.9,
+    "endTime": 305.5,
+    "text": "Same timing but different spacing gives us vastly different results."
+  },
+  {
+    "startTime": 305.8,
+    "endTime": 312.5,
+    "text": "And in reality, as a ball bounces, the physics of gravity eventually defeat the tendency of the ball to stay in motion."
+  },
+  {
+    "startTime": 312.549,
+    "endTime": 316.5,
+    "text": "You can see this here in the decreasing height of each successive bounce."
+  },
+  {
+    "startTime": 316.555,
+    "endTime": 320.5,
+    "text": "However, again, this decrease varies according to the properties of the ball."
+  },
+  {
+    "startTime": 320.6,
+    "endTime": 330.1,
+    "text": "Even though these circles are the same size here, they're each telling us a different story about themselves, purely in how they move."
+  },
+  {
+    "startTime": 330.152,
+    "endTime": 340.2,
+    "text": "The relationship between these principles of timing and spacing can be applied in countless ways and used to animate all types of action:"
+  },
+  {
+    "startTime": 340.2,
+    "endTime": 343.7,
+    "text": "a yo-yo,"
+  },
+  {
+    "startTime": 343.7,
+    "endTime": 346.09999999999997,
+    "text": "a punch,"
+  },
+  {
+    "startTime": 346.3,
+    "endTime": 349.1,
+    "text": "a gentle tap,"
+  },
+  {
+    "startTime": 349.2,
+    "endTime": 352.59999999999997,
+    "text": "a push,"
+  },
+  {
+    "startTime": 352.7,
+    "endTime": 356.8,
+    "text": "a saw,"
+  },
+  {
+    "startTime": 356.9,
+    "endTime": 362.59999999999997,
+    "text": "the Sun traveling across the sky,"
+  },
+  {
+    "startTime": 362.7,
+    "endTime": 365.72999999999996,
+    "text": "a pendulum."
+  },
+  {
+    "startTime": 365.73,
+    "endTime": 367.8,
+    "text": "Animation is a time-based art form."
+  },
+  {
+    "startTime": 367.9,
+    "endTime": 372.851,
+    "text": "It may incorporate the aesthetic elements of other graphic arts, like illustration or painting,"
+  },
+  {
+    "startTime": 372.851,
+    "endTime": 378.4,
+    "text": "but what sets animation apart is that, here, what you see is less important that what you don't see."
+  },
+  {
+    "startTime": 378.6,
+    "endTime": 382.3,
+    "text": "An object's superficial appearance only tells us so much about itself."
+  },
+  {
+    "startTime": 382.4,
+    "endTime": 393.95399999999995,
+    "text": "It's only when it's in motion that we really understand its nature."
+  }
+]
