@@ -1,0 +1,287 @@
+[
+  {
+    "startTime": 15.5,
+    "endTime": 16.5,
+    "text": "What is proof?"
+  },
+  {
+    "startTime": 17.0,
+    "endTime": 19.4,
+    "text": "And why is it so important in mathematics?"
+  },
+  {
+    "startTime": 20.5,
+    "endTime": 30.9,
+    "text": "Proofs provide a solid foundation for mathematicians, logicians, statisticians, economists, architects, engineers, and many others to build and test their theories on."
+  },
+  {
+    "startTime": 31.5,
+    "endTime": 33.2,
+    "text": "And they're just plain awesome!"
+  },
+  {
+    "startTime": 34.2,
+    "endTime": 35.400000000000006,
+    "text": "Let me start at the beginning."
+  },
+  {
+    "startTime": 35.9,
+    "endTime": 41.1,
+    "text": "I'll introduce you to a fellow named Euclid, as in, \"Here's looking at you, Clid.\""
+  },
+  {
+    "startTime": 41.9,
+    "endTime": 48.4,
+    "text": "He lived in Greece about 2,300 years ago, and he's considered by many to be the father of geometry."
+  },
+  {
+    "startTime": 48.9,
+    "endTime": 55.0,
+    "text": "So, if you've been wondering where to send your geometry fan mail, Euclid of Alexandria is the guy to thank for proofs."
+  },
+  {
+    "startTime": 56.5,
+    "endTime": 64.9,
+    "text": "Euclid is not really known for inventing or discovering a lot of mathematics, but he revolutionized the way in which it is written, presented, and thought about."
+  },
+  {
+    "startTime": 65.6,
+    "endTime": 70.0,
+    "text": "Euclid set out to formalize mathematics by establishing the rules of the game."
+  },
+  {
+    "startTime": 70.8,
+    "endTime": 73.6,
+    "text": "These rules of the game are called axioms."
+  },
+  {
+    "startTime": 74.3,
+    "endTime": 79.0,
+    "text": "Once you have the rules, Euclid says you have to use them to prove what you think is true."
+  },
+  {
+    "startTime": 79.6,
+    "endTime": 83.0,
+    "text": "If you can't, then your theorem or idea might be false."
+  },
+  {
+    "startTime": 83.5,
+    "endTime": 88.8,
+    "text": "And if your theorem is false, then any theorems that come after it and use it might be false, too."
+  },
+  {
+    "startTime": 89.3,
+    "endTime": 92.3,
+    "text": "Like how one misplaced beam can bring down the whole house."
+  },
+  {
+    "startTime": 93.3,
+    "endTime": 94.7,
+    "text": "So, that's all that proofs are:"
+  },
+  {
+    "startTime": 94.8,
+    "endTime": 99.2,
+    "text": "Using well-established rules to prove beyond a doubt that some theorem is true."
+  },
+  {
+    "startTime": 100.2,
+    "endTime": 104.10000000000001,
+    "text": "Then, you use those theorems like blocks to build mathematics."
+  },
+  {
+    "startTime": 104.6,
+    "endTime": 106.0,
+    "text": "Let's check out an example."
+  },
+  {
+    "startTime": 106.5,
+    "endTime": 110.0,
+    "text": "Say I want to prove that these two triangles are the same size and shape."
+  },
+  {
+    "startTime": 110.7,
+    "endTime": 112.60000000000001,
+    "text": "In other words, they are congruent."
+  },
+  {
+    "startTime": 113.3,
+    "endTime": 121.0,
+    "text": "Well, one way to do that is to write a proof that shows that all three sides of one triangle are congruent to all three sides of the other triangle."
+  },
+  {
+    "startTime": 121.7,
+    "endTime": 123.2,
+    "text": "So, how do we prove it?"
+  },
+  {
+    "startTime": 124.3,
+    "endTime": 125.89999999999999,
+    "text": "First, I'll write down what we know."
+  },
+  {
+    "startTime": 126.2,
+    "endTime": 129.0,
+    "text": "We know that point M is the midpoint of AB."
+  },
+  {
+    "startTime": 129.1,
+    "endTime": 133.29999999999998,
+    "text": "We also know that sides AC and BC are already congruent."
+  },
+  {
+    "startTime": 133.8,
+    "endTime": 137.0,
+    "text": "Now, let's see, what does the midpoint tell us?"
+  },
+  {
+    "startTime": 137.6,
+    "endTime": 139.79999999999998,
+    "text": "Luckily, I know the definition of midpoint."
+  },
+  {
+    "startTime": 140.2,
+    "endTime": 142.29999999999998,
+    "text": "It is basically the point in the middle."
+  },
+  {
+    "startTime": 142.9,
+    "endTime": 149.0,
+    "text": "What this means is that AM and BM are the same length, since M is the exact middle of AB."
+  },
+  {
+    "startTime": 149.5,
+    "endTime": 152.9,
+    "text": "In other words, the bottom side of each of our triangles are congruent."
+  },
+  {
+    "startTime": 153.2,
+    "endTime": 154.5,
+    "text": "I'll put that as step two."
+  },
+  {
+    "startTime": 155.3,
+    "endTime": 158.70000000000002,
+    "text": "Great! So far, I have two pairs of sides that are congruent."
+  },
+  {
+    "startTime": 159.4,
+    "endTime": 160.6,
+    "text": "The last one is easy."
+  },
+  {
+    "startTime": 161.0,
+    "endTime": 168.6,
+    "text": "The third side of the left triangle is CM, and the third side of the right triangle is, well, also CM."
+  },
+  {
+    "startTime": 168.7,
+    "endTime": 172.5,
+    "text": "They share the same side; of course it's congruent to itself!"
+  },
+  {
+    "startTime": 172.8,
+    "endTime": 176.70000000000002,
+    "text": "This is called the reflexive property⏤everything is congruent to itself."
+  },
+  {
+    "startTime": 177.3,
+    "endTime": 178.5,
+    "text": "I'll put this as step three."
+  },
+  {
+    "startTime": 179.0,
+    "endTime": 185.1,
+    "text": "Ta-da! You've just proven that all three sides of the left triangle are congruent to all three sides of the right triangle."
+  },
+  {
+    "startTime": 185.3,
+    "endTime": 190.5,
+    "text": "Plus, the two triangles are congruent because of the side-side-side congruence theorem for triangles."
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 193.5,
+    "text": "When finished with a proof, I like to do what Euclid did."
+  },
+  {
+    "startTime": 194.0,
+    "endTime": 197.2,
+    "text": "He marked the end of a proof with the letters QED."
+  },
+  {
+    "startTime": 197.5,
+    "endTime": 203.5,
+    "text": "It's Latin for \"quod erat demonstrandum\", which translates literally to \"what was to be proven\"."
+  },
+  {
+    "startTime": 203.9,
+    "endTime": 206.70000000000002,
+    "text": "But I just think of it as \"look what I just did!\""
+  },
+  {
+    "startTime": 207.4,
+    "endTime": 208.70000000000002,
+    "text": "I can hear what you're thinking,"
+  },
+  {
+    "startTime": 208.9,
+    "endTime": 210.4,
+    "text": "\"Why should I study proofs?\""
+  },
+  {
+    "startTime": 210.9,
+    "endTime": 214.0,
+    "text": "One reason is that they could allow you to win any argument."
+  },
+  {
+    "startTime": 214.4,
+    "endTime": 221.70000000000002,
+    "text": "Abraham Lincoln, one of our nation's greatest leaders of all time used to keep a copy of Euclid's \"Elements\" on his bedside table to keep his mind in shape."
+  },
+  {
+    "startTime": 222.7,
+    "endTime": 224.7,
+    "text": "Another reason is, you can make a million dollars."
+  },
+  {
+    "startTime": 225.6,
+    "endTime": 227.79999999999998,
+    "text": "You heard me, one million dollars."
+  },
+  {
+    "startTime": 228.0,
+    "endTime": 237.9,
+    "text": "That's the price that the Clay Mathematics Institute in Massachusetts is willing to pay anyone who proves one of the many unproven theories that it calls \"the millennium problems\"."
+  },
+  {
+    "startTime": 238.5,
+    "endTime": 241.0,
+    "text": "A couple of these have been solved in the '90s and 2000s."
+  },
+  {
+    "startTime": 241.5,
+    "endTime": 244.5,
+    "text": "But beyond money and arguments, proofs are everywhere."
+  },
+  {
+    "startTime": 244.6,
+    "endTime": 249.29999999999998,
+    "text": "They underly architecture, art, computer programming, and internet security."
+  },
+  {
+    "startTime": 249.9,
+    "endTime": 255.0,
+    "text": "If no one understood or could generate a proof, we could not advance these essential parts of our world."
+  },
+  {
+    "startTime": 255.9,
+    "endTime": 258.9,
+    "text": "Finally, we all know that the proof is in the pudding."
+  },
+  {
+    "startTime": 259.0,
+    "endTime": 263.5,
+    "text": "And pudding is delicious. QED."
+  }
+]
