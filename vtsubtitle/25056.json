@@ -1,0 +1,1447 @@
+[
+  {
+    "startTime": 14.366,
+    "endTime": 18.104,
+    "text": "Let me show you something."
+  },
+  {
+    "startTime": 18.104,
+    "endTime": 22.259999999999998,
+    "text": "(Video) Girl: Okay, that's a cat\nsitting in a bed."
+  },
+  {
+    "startTime": 22.26,
+    "endTime": 26.3,
+    "text": "The boy is petting the elephant."
+  },
+  {
+    "startTime": 26.3,
+    "endTime": 30.654,
+    "text": "Those are people\nthat are going on an airplane."
+  },
+  {
+    "startTime": 30.654,
+    "endTime": 33.464,
+    "text": "That's a big airplane."
+  },
+  {
+    "startTime": 33.464,
+    "endTime": 35.67,
+    "text": "Fei-Fei Li: This is\na three-year-old child"
+  },
+  {
+    "startTime": 35.67,
+    "endTime": 39.349000000000004,
+    "text": "describing what she sees\nin a series of photos."
+  },
+  {
+    "startTime": 39.349,
+    "endTime": 42.193999999999996,
+    "text": "She might still have a lot\nto learn about this world,"
+  },
+  {
+    "startTime": 42.194,
+    "endTime": 46.743,
+    "text": "but she's already an expert\nat one very important task:"
+  },
+  {
+    "startTime": 46.743,
+    "endTime": 49.589,
+    "text": "to make sense of what she sees."
+  },
+  {
+    "startTime": 50.229,
+    "endTime": 54.455,
+    "text": "Our society is more\ntechnologically advanced than ever."
+  },
+  {
+    "startTime": 54.455,
+    "endTime": 58.083999999999996,
+    "text": "We send people to the moon,\nwe make phones that talk to us"
+  },
+  {
+    "startTime": 58.084,
+    "endTime": 63.03,
+    "text": "or customize radio stations\nthat can play only music we like."
+  },
+  {
+    "startTime": 63.03,
+    "endTime": 67.08500000000001,
+    "text": "Yet, our most advanced\nmachines and computers"
+  },
+  {
+    "startTime": 67.085,
+    "endTime": 69.988,
+    "text": "still struggle at this task."
+  },
+  {
+    "startTime": 69.988,
+    "endTime": 73.447,
+    "text": "So I'm here today\nto give you a progress report"
+  },
+  {
+    "startTime": 73.447,
+    "endTime": 77.494,
+    "text": "on the latest advances\nin our research in computer vision,"
+  },
+  {
+    "startTime": 77.494,
+    "endTime": 81.655,
+    "text": "one of the most frontier\nand potentially revolutionary"
+  },
+  {
+    "startTime": 81.655,
+    "endTime": 84.861,
+    "text": "technologies in computer science."
+  },
+  {
+    "startTime": 84.861,
+    "endTime": 89.412,
+    "text": "Yes, we have prototyped cars\nthat can drive by themselves,"
+  },
+  {
+    "startTime": 89.412,
+    "endTime": 93.265,
+    "text": "but without smart vision,\nthey cannot really tell the difference"
+  },
+  {
+    "startTime": 93.265,
+    "endTime": 97.235,
+    "text": "between a crumpled paper bag\non the road, which can be run over,"
+  },
+  {
+    "startTime": 97.235,
+    "endTime": 100.575,
+    "text": "and a rock that size,\nwhich should be avoided."
+  },
+  {
+    "startTime": 101.415,
+    "endTime": 104.805,
+    "text": "We have made fabulous megapixel cameras,"
+  },
+  {
+    "startTime": 104.805,
+    "endTime": 107.94000000000001,
+    "text": "but we have not delivered\nsight to the blind."
+  },
+  {
+    "startTime": 108.42,
+    "endTime": 111.72500000000001,
+    "text": "Drones can fly over massive land,"
+  },
+  {
+    "startTime": 111.725,
+    "endTime": 113.859,
+    "text": "but don't have enough vision technology"
+  },
+  {
+    "startTime": 113.859,
+    "endTime": 117.32,
+    "text": "to help us to track\nthe changes of the rainforests."
+  },
+  {
+    "startTime": 117.32,
+    "endTime": 120.27,
+    "text": "Security cameras are everywhere,"
+  },
+  {
+    "startTime": 120.27,
+    "endTime": 125.33699999999999,
+    "text": "but they do not alert us when a child\nis drowning in a swimming pool."
+  },
+  {
+    "startTime": 126.167,
+    "endTime": 131.762,
+    "text": "Photos and videos are becoming\nan integral part of global life."
+  },
+  {
+    "startTime": 131.762,
+    "endTime": 135.849,
+    "text": "They're being generated at a pace\nthat's far beyond what any human,"
+  },
+  {
+    "startTime": 135.849,
+    "endTime": 138.63199999999998,
+    "text": "or teams of humans, could hope to view,"
+  },
+  {
+    "startTime": 138.632,
+    "endTime": 142.553,
+    "text": "and you and I are contributing\nto that at this TED."
+  },
+  {
+    "startTime": 142.553,
+    "endTime": 147.785,
+    "text": "Yet our most advanced software\nis still struggling at understanding"
+  },
+  {
+    "startTime": 147.785,
+    "endTime": 151.661,
+    "text": "and managing this enormous content."
+  },
+  {
+    "startTime": 151.661,
+    "endTime": 156.933,
+    "text": "So in other words,\ncollectively as a society,"
+  },
+  {
+    "startTime": 156.933,
+    "endTime": 158.679,
+    "text": "we're very much blind,"
+  },
+  {
+    "startTime": 158.679,
+    "endTime": 162.066,
+    "text": "because our smartest \nmachines are still blind."
+  },
+  {
+    "startTime": 163.526,
+    "endTime": 166.452,
+    "text": "\"Why is this so hard?\" you may ask."
+  },
+  {
+    "startTime": 166.452,
+    "endTime": 169.145,
+    "text": "Cameras can take pictures like this one"
+  },
+  {
+    "startTime": 169.145,
+    "endTime": 173.139,
+    "text": "by converting lights into\na two-dimensional array of numbers"
+  },
+  {
+    "startTime": 173.139,
+    "endTime": 174.78900000000002,
+    "text": "known as pixels,"
+  },
+  {
+    "startTime": 174.789,
+    "endTime": 177.04,
+    "text": "but these are just lifeless numbers."
+  },
+  {
+    "startTime": 177.04,
+    "endTime": 180.15099999999998,
+    "text": "They do not carry meaning in themselves."
+  },
+  {
+    "startTime": 180.151,
+    "endTime": 184.494,
+    "text": "Just like to hear is not\nthe same as to listen,"
+  },
+  {
+    "startTime": 184.494,
+    "endTime": 188.534,
+    "text": "to take pictures is not\nthe same as to see,"
+  },
+  {
+    "startTime": 188.534,
+    "endTime": 192.363,
+    "text": "and by seeing,\nwe really mean understanding."
+  },
+  {
+    "startTime": 193.293,
+    "endTime": 199.47,
+    "text": "In fact, it took Mother Nature\n540 million years of hard work"
+  },
+  {
+    "startTime": 199.47,
+    "endTime": 201.443,
+    "text": "to do this task,"
+  },
+  {
+    "startTime": 201.443,
+    "endTime": 203.324,
+    "text": "and much of that effort"
+  },
+  {
+    "startTime": 203.324,
+    "endTime": 208.595,
+    "text": "went into developing the visual\nprocessing apparatus of our brains,"
+  },
+  {
+    "startTime": 208.595,
+    "endTime": 211.242,
+    "text": "not the eyes themselves."
+  },
+  {
+    "startTime": 211.242,
+    "endTime": 213.98899999999998,
+    "text": "So vision begins with the eyes,"
+  },
+  {
+    "startTime": 213.989,
+    "endTime": 217.507,
+    "text": "but it truly takes place in the brain."
+  },
+  {
+    "startTime": 218.287,
+    "endTime": 223.347,
+    "text": "So for 15 years now, starting\nfrom my Ph.D. at Caltech"
+  },
+  {
+    "startTime": 223.347,
+    "endTime": 226.273,
+    "text": "and then leading Stanford's Vision Lab,"
+  },
+  {
+    "startTime": 226.273,
+    "endTime": 230.66899999999998,
+    "text": "I've been working with my mentors,\ncollaborators and students"
+  },
+  {
+    "startTime": 230.669,
+    "endTime": 233.55800000000002,
+    "text": "to teach computers to see."
+  },
+  {
+    "startTime": 234.658,
+    "endTime": 237.952,
+    "text": "Our research field is called\ncomputer vision and machine learning."
+  },
+  {
+    "startTime": 237.952,
+    "endTime": 241.82999999999998,
+    "text": "It's part of the general field\nof artificial intelligence."
+  },
+  {
+    "startTime": 243.0,
+    "endTime": 248.493,
+    "text": "So ultimately, we want to teach\nthe machines to see just like we do:"
+  },
+  {
+    "startTime": 248.493,
+    "endTime": 253.88,
+    "text": "naming objects, identifying people,\ninferring 3D geometry of things,"
+  },
+  {
+    "startTime": 253.88,
+    "endTime": 259.568,
+    "text": "understanding relations, emotions,\nactions and intentions."
+  },
+  {
+    "startTime": 259.568,
+    "endTime": 265.721,
+    "text": "You and I weave together entire stories\nof people, places and things"
+  },
+  {
+    "startTime": 265.721,
+    "endTime": 267.885,
+    "text": "the moment we lay our gaze on them."
+  },
+  {
+    "startTime": 268.955,
+    "endTime": 274.538,
+    "text": "The first step towards this goal\nis to teach a computer to see objects,"
+  },
+  {
+    "startTime": 274.538,
+    "endTime": 277.906,
+    "text": "the building block of the visual world."
+  },
+  {
+    "startTime": 277.906,
+    "endTime": 282.34000000000003,
+    "text": "In its simplest terms,\nimagine this teaching process"
+  },
+  {
+    "startTime": 282.34,
+    "endTime": 285.335,
+    "text": "as showing the computers\nsome training images"
+  },
+  {
+    "startTime": 285.335,
+    "endTime": 288.656,
+    "text": "of a particular object, let's say cats,"
+  },
+  {
+    "startTime": 288.656,
+    "endTime": 293.39300000000003,
+    "text": "and designing a model that learns\nfrom these training images."
+  },
+  {
+    "startTime": 293.393,
+    "endTime": 295.43699999999995,
+    "text": "How hard can this be?"
+  },
+  {
+    "startTime": 295.437,
+    "endTime": 299.48900000000003,
+    "text": "After all, a cat is just\na collection of shapes and colors,"
+  },
+  {
+    "startTime": 299.489,
+    "endTime": 303.575,
+    "text": "and this is what we did\nin the early days of object modeling."
+  },
+  {
+    "startTime": 303.575,
+    "endTime": 307.197,
+    "text": "We'd tell the computer algorithm\nin a mathematical language"
+  },
+  {
+    "startTime": 307.197,
+    "endTime": 310.54,
+    "text": "that a cat has a round face,\na chubby body,"
+  },
+  {
+    "startTime": 310.54,
+    "endTime": 312.839,
+    "text": "two pointy ears, and a long tail,"
+  },
+  {
+    "startTime": 312.839,
+    "endTime": 314.249,
+    "text": "and that looked all fine."
+  },
+  {
+    "startTime": 314.859,
+    "endTime": 316.972,
+    "text": "But what about this cat?"
+  },
+  {
+    "startTime": 316.972,
+    "endTime": 318.063,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 318.063,
+    "endTime": 319.68899999999996,
+    "text": "It's all curled up."
+  },
+  {
+    "startTime": 319.689,
+    "endTime": 324.408,
+    "text": "Now you have to add another shape\nand viewpoint to the object model."
+  },
+  {
+    "startTime": 324.408,
+    "endTime": 326.123,
+    "text": "But what if cats are hidden?"
+  },
+  {
+    "startTime": 327.143,
+    "endTime": 329.36199999999997,
+    "text": "What about these silly cats?"
+  },
+  {
+    "startTime": 331.112,
+    "endTime": 333.529,
+    "text": "Now you get my point."
+  },
+  {
+    "startTime": 333.529,
+    "endTime": 336.896,
+    "text": "Even something as simple\nas a household pet"
+  },
+  {
+    "startTime": 336.896,
+    "endTime": 341.40000000000003,
+    "text": "can present an infinite number\nof variations to the object model,"
+  },
+  {
+    "startTime": 341.4,
+    "endTime": 343.633,
+    "text": "and that's just one object."
+  },
+  {
+    "startTime": 344.573,
+    "endTime": 347.065,
+    "text": "So about eight years ago,"
+  },
+  {
+    "startTime": 347.065,
+    "endTime": 352.09499999999997,
+    "text": "a very simple and profound observation\nchanged my thinking."
+  },
+  {
+    "startTime": 353.425,
+    "endTime": 356.11,
+    "text": "No one tells a child how to see,"
+  },
+  {
+    "startTime": 356.11,
+    "endTime": 358.37100000000004,
+    "text": "especially in the early years."
+  },
+  {
+    "startTime": 358.371,
+    "endTime": 363.371,
+    "text": "They learn this through\nreal-world experiences and examples."
+  },
+  {
+    "startTime": 363.371,
+    "endTime": 366.111,
+    "text": "If you consider a child's eyes"
+  },
+  {
+    "startTime": 366.111,
+    "endTime": 368.66499999999996,
+    "text": "as a pair of biological cameras,"
+  },
+  {
+    "startTime": 368.665,
+    "endTime": 372.845,
+    "text": "they take one picture\nabout every 200 milliseconds,"
+  },
+  {
+    "startTime": 372.845,
+    "endTime": 375.97900000000004,
+    "text": "the average time an eye movement is made."
+  },
+  {
+    "startTime": 375.979,
+    "endTime": 381.529,
+    "text": "So by age three, a child would have seen\nhundreds of millions of pictures"
+  },
+  {
+    "startTime": 381.529,
+    "endTime": 383.363,
+    "text": "of the real world."
+  },
+  {
+    "startTime": 383.363,
+    "endTime": 385.643,
+    "text": "That's a lot of training examples."
+  },
+  {
+    "startTime": 386.383,
+    "endTime": 392.37199999999996,
+    "text": "So instead of focusing solely\non better and better algorithms,"
+  },
+  {
+    "startTime": 392.372,
+    "endTime": 397.644,
+    "text": "my insight was to give the algorithms\nthe kind of training data"
+  },
+  {
+    "startTime": 397.644,
+    "endTime": 400.963,
+    "text": "that a child was given through experiences"
+  },
+  {
+    "startTime": 400.963,
+    "endTime": 404.841,
+    "text": "in both quantity and quality."
+  },
+  {
+    "startTime": 404.841,
+    "endTime": 406.699,
+    "text": "Once we know this,"
+  },
+  {
+    "startTime": 406.699,
+    "endTime": 409.67,
+    "text": "we knew we needed to collect a data set"
+  },
+  {
+    "startTime": 409.67,
+    "endTime": 414.129,
+    "text": "that has far more images\nthan we have ever had before,"
+  },
+  {
+    "startTime": 414.129,
+    "endTime": 416.706,
+    "text": "perhaps thousands of times more,"
+  },
+  {
+    "startTime": 416.706,
+    "endTime": 420.817,
+    "text": "and together with Professor\nKai Li at Princeton University,"
+  },
+  {
+    "startTime": 420.817,
+    "endTime": 425.569,
+    "text": "we launched the ImageNet project in 2007."
+  },
+  {
+    "startTime": 425.569,
+    "endTime": 429.40700000000004,
+    "text": "Luckily, we didn't have to mount\na camera on our head"
+  },
+  {
+    "startTime": 429.407,
+    "endTime": 431.171,
+    "text": "and wait for many years."
+  },
+  {
+    "startTime": 431.171,
+    "endTime": 432.634,
+    "text": "We went to the Internet,"
+  },
+  {
+    "startTime": 432.634,
+    "endTime": 437.07,
+    "text": "the biggest treasure trove of pictures\nthat humans have ever created."
+  },
+  {
+    "startTime": 437.07,
+    "endTime": 440.111,
+    "text": "We downloaded nearly a billion images"
+  },
+  {
+    "startTime": 440.111,
+    "endTime": 445.991,
+    "text": "and used crowdsourcing technology\nlike the Amazon Mechanical Turk platform"
+  },
+  {
+    "startTime": 445.991,
+    "endTime": 448.33,
+    "text": "to help us to label these images."
+  },
+  {
+    "startTime": 448.33,
+    "endTime": 453.22999999999996,
+    "text": "At its peak, ImageNet was one of\nthe biggest employers"
+  },
+  {
+    "startTime": 453.23,
+    "endTime": 456.226,
+    "text": "of the Amazon Mechanical Turk workers:"
+  },
+  {
+    "startTime": 456.226,
+    "endTime": 460.08,
+    "text": "together, almost 50,000 workers"
+  },
+  {
+    "startTime": 460.08,
+    "endTime": 464.12,
+    "text": "from 167 countries around the world"
+  },
+  {
+    "startTime": 464.12,
+    "endTime": 468.067,
+    "text": "helped us to clean, sort and label"
+  },
+  {
+    "startTime": 468.067,
+    "endTime": 471.642,
+    "text": "nearly a billion candidate images."
+  },
+  {
+    "startTime": 472.612,
+    "endTime": 475.26500000000004,
+    "text": "That was how much effort it took"
+  },
+  {
+    "startTime": 475.265,
+    "endTime": 479.16499999999996,
+    "text": "to capture even a fraction\nof the imagery"
+  },
+  {
+    "startTime": 479.165,
+    "endTime": 483.336,
+    "text": "a child's mind takes in\nin the early developmental years."
+  },
+  {
+    "startTime": 484.148,
+    "endTime": 488.05,
+    "text": "In hindsight, this idea of using big data"
+  },
+  {
+    "startTime": 488.05,
+    "endTime": 492.6,
+    "text": "to train computer algorithms\nmay seem obvious now,"
+  },
+  {
+    "startTime": 492.6,
+    "endTime": 496.71000000000004,
+    "text": "but back in 2007, it was not so obvious."
+  },
+  {
+    "startTime": 496.71,
+    "endTime": 500.58799999999997,
+    "text": "We were fairly alone on this journey\nfor quite a while."
+  },
+  {
+    "startTime": 500.588,
+    "endTime": 505.591,
+    "text": "Some very friendly colleagues advised me\nto do something more useful for my tenure,"
+  },
+  {
+    "startTime": 505.591,
+    "endTime": 509.933,
+    "text": "and we were constantly struggling\nfor research funding."
+  },
+  {
+    "startTime": 509.933,
+    "endTime": 512.418,
+    "text": "Once, I even joked to my graduate students"
+  },
+  {
+    "startTime": 512.418,
+    "endTime": 516.481,
+    "text": "that I would just reopen\nmy dry cleaner's shop to fund ImageNet."
+  },
+  {
+    "startTime": 516.481,
+    "endTime": 521.242,
+    "text": "After all, that's how I funded\nmy college years."
+  },
+  {
+    "startTime": 521.242,
+    "endTime": 523.098,
+    "text": "So we carried on."
+  },
+  {
+    "startTime": 523.098,
+    "endTime": 526.813,
+    "text": "In 2009, the ImageNet project delivered"
+  },
+  {
+    "startTime": 526.813,
+    "endTime": 530.855,
+    "text": "a database of 15 million images"
+  },
+  {
+    "startTime": 530.855,
+    "endTime": 535.66,
+    "text": "across 22,000 classes\nof objects and things"
+  },
+  {
+    "startTime": 535.66,
+    "endTime": 538.98,
+    "text": "organized by everyday English words."
+  },
+  {
+    "startTime": 538.98,
+    "endTime": 541.9060000000001,
+    "text": "In both quantity and quality,"
+  },
+  {
+    "startTime": 541.906,
+    "endTime": 544.8779999999999,
+    "text": "this was an unprecedented scale."
+  },
+  {
+    "startTime": 544.878,
+    "endTime": 548.339,
+    "text": "As an example, in the case of cats,"
+  },
+  {
+    "startTime": 548.339,
+    "endTime": 551.148,
+    "text": "we have more than 62,000 cats"
+  },
+  {
+    "startTime": 551.148,
+    "endTime": 555.258,
+    "text": "of all kinds of looks and poses"
+  },
+  {
+    "startTime": 555.258,
+    "endTime": 560.481,
+    "text": "and across all species\nof domestic and wild cats."
+  },
+  {
+    "startTime": 560.481,
+    "endTime": 563.825,
+    "text": "We were thrilled\nto have put together ImageNet,"
+  },
+  {
+    "startTime": 563.825,
+    "endTime": 567.5630000000001,
+    "text": "and we wanted the whole research world\nto benefit from it,"
+  },
+  {
+    "startTime": 567.563,
+    "endTime": 571.604,
+    "text": "so in the TED fashion,\nwe opened up the entire data set"
+  },
+  {
+    "startTime": 571.604,
+    "endTime": 575.196,
+    "text": "to the worldwide\nresearch community for free."
+  },
+  {
+    "startTime": 576.636,
+    "endTime": 580.636,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 581.416,
+    "endTime": 585.9540000000001,
+    "text": "Now that we have the data\nto nourish our computer brain,"
+  },
+  {
+    "startTime": 585.954,
+    "endTime": 589.6909999999999,
+    "text": "we're ready to come back\nto the algorithms themselves."
+  },
+  {
+    "startTime": 589.691,
+    "endTime": 594.869,
+    "text": "As it turned out, the wealth\nof information provided by ImageNet"
+  },
+  {
+    "startTime": 594.869,
+    "endTime": 599.6750000000001,
+    "text": "was a perfect match to a particular class\nof machine learning algorithms"
+  },
+  {
+    "startTime": 599.675,
+    "endTime": 602.0899999999999,
+    "text": "called convolutional neural network,"
+  },
+  {
+    "startTime": 602.09,
+    "endTime": 607.3380000000001,
+    "text": "pioneered by Kunihiko Fukushima,\nGeoff Hinton, and Yann LeCun"
+  },
+  {
+    "startTime": 607.338,
+    "endTime": 610.983,
+    "text": "back in the 1970s and '80s."
+  },
+  {
+    "startTime": 610.983,
+    "endTime": 616.602,
+    "text": "Just like the brain consists\nof billions of highly connected neurons,"
+  },
+  {
+    "startTime": 616.602,
+    "endTime": 620.456,
+    "text": "a basic operating unit in a neural network"
+  },
+  {
+    "startTime": 620.456,
+    "endTime": 622.871,
+    "text": "is a neuron-like node."
+  },
+  {
+    "startTime": 622.871,
+    "endTime": 625.425,
+    "text": "It takes input from other nodes"
+  },
+  {
+    "startTime": 625.425,
+    "endTime": 628.1429999999999,
+    "text": "and sends output to others."
+  },
+  {
+    "startTime": 628.143,
+    "endTime": 632.856,
+    "text": "Moreover, these hundreds of thousands\nor even millions of nodes"
+  },
+  {
+    "startTime": 632.856,
+    "endTime": 636.083,
+    "text": "are organized in hierarchical layers,"
+  },
+  {
+    "startTime": 636.083,
+    "endTime": 638.637,
+    "text": "also similar to the brain."
+  },
+  {
+    "startTime": 638.637,
+    "endTime": 643.42,
+    "text": "In a typical neural network we use\nto train our object recognition model,"
+  },
+  {
+    "startTime": 643.42,
+    "endTime": 646.601,
+    "text": "it has 24 million nodes,"
+  },
+  {
+    "startTime": 646.601,
+    "endTime": 649.898,
+    "text": "140 million parameters,"
+  },
+  {
+    "startTime": 649.898,
+    "endTime": 652.6610000000001,
+    "text": "and 15 billion connections."
+  },
+  {
+    "startTime": 652.661,
+    "endTime": 655.0759999999999,
+    "text": "That's an enormous model."
+  },
+  {
+    "startTime": 655.076,
+    "endTime": 658.977,
+    "text": "Powered by the massive data from ImageNet"
+  },
+  {
+    "startTime": 658.977,
+    "endTime": 664.41,
+    "text": "and the modern CPUs and GPUs\nto train such a humongous model,"
+  },
+  {
+    "startTime": 664.41,
+    "endTime": 666.779,
+    "text": "the convolutional neural network"
+  },
+  {
+    "startTime": 666.779,
+    "endTime": 670.215,
+    "text": "blossomed in a way that no one expected."
+  },
+  {
+    "startTime": 670.215,
+    "endTime": 672.7230000000001,
+    "text": "It became the winning architecture"
+  },
+  {
+    "startTime": 672.723,
+    "endTime": 678.063,
+    "text": "to generate exciting new results\nin object recognition."
+  },
+  {
+    "startTime": 678.063,
+    "endTime": 680.8729999999999,
+    "text": "This is a computer telling us"
+  },
+  {
+    "startTime": 680.873,
+    "endTime": 683.173,
+    "text": "this picture contains a cat"
+  },
+  {
+    "startTime": 683.173,
+    "endTime": 685.076,
+    "text": "and where the cat is."
+  },
+  {
+    "startTime": 685.076,
+    "endTime": 687.188,
+    "text": "Of course there are more things than cats,"
+  },
+  {
+    "startTime": 687.188,
+    "endTime": 689.626,
+    "text": "so here's a computer algorithm telling us"
+  },
+  {
+    "startTime": 689.626,
+    "endTime": 692.9,
+    "text": "the picture contains\na boy and a teddy bear;"
+  },
+  {
+    "startTime": 692.9,
+    "endTime": 697.266,
+    "text": "a dog, a person, and a small kite\nin the background;"
+  },
+  {
+    "startTime": 697.266,
+    "endTime": 700.401,
+    "text": "or a picture of very busy things"
+  },
+  {
+    "startTime": 700.401,
+    "endTime": 705.045,
+    "text": "like a man, a skateboard,\nrailings, a lampost, and so on."
+  },
+  {
+    "startTime": 705.045,
+    "endTime": 710.338,
+    "text": "Sometimes, when the computer\nis not so confident about what it sees,"
+  },
+  {
+    "startTime": 711.498,
+    "endTime": 713.774,
+    "text": "we have taught it to be smart enough"
+  },
+  {
+    "startTime": 713.774,
+    "endTime": 717.652,
+    "text": "to give us a safe answer\ninstead of committing too much,"
+  },
+  {
+    "startTime": 717.652,
+    "endTime": 720.4630000000001,
+    "text": "just like we would do,"
+  },
+  {
+    "startTime": 720.463,
+    "endTime": 725.129,
+    "text": "but other times our computer algorithm\nis remarkable at telling us"
+  },
+  {
+    "startTime": 725.129,
+    "endTime": 727.3820000000001,
+    "text": "what exactly the objects are,"
+  },
+  {
+    "startTime": 727.382,
+    "endTime": 730.818,
+    "text": "like the make, model, year of the cars."
+  },
+  {
+    "startTime": 730.818,
+    "endTime": 736.204,
+    "text": "We applied this algorithm to millions\nof Google Street View images"
+  },
+  {
+    "startTime": 736.204,
+    "endTime": 739.3389999999999,
+    "text": "across hundreds of American cities,"
+  },
+  {
+    "startTime": 739.339,
+    "endTime": 742.2650000000001,
+    "text": "and we have learned something\nreally interesting:"
+  },
+  {
+    "startTime": 742.265,
+    "endTime": 745.585,
+    "text": "first, it confirmed our common wisdom"
+  },
+  {
+    "startTime": 745.585,
+    "endTime": 748.875,
+    "text": "that car prices correlate very well"
+  },
+  {
+    "startTime": 748.875,
+    "endTime": 751.22,
+    "text": "with household incomes."
+  },
+  {
+    "startTime": 751.22,
+    "endTime": 755.7470000000001,
+    "text": "But surprisingly, car prices\nalso correlate well"
+  },
+  {
+    "startTime": 755.747,
+    "endTime": 758.0469999999999,
+    "text": "with crime rates in cities,"
+  },
+  {
+    "startTime": 759.007,
+    "endTime": 762.9699999999999,
+    "text": "or voting patterns by zip codes."
+  },
+  {
+    "startTime": 764.06,
+    "endTime": 766.266,
+    "text": "So wait a minute. Is that it?"
+  },
+  {
+    "startTime": 766.266,
+    "endTime": 771.419,
+    "text": "Has the computer already matched\nor even surpassed human capabilities?"
+  },
+  {
+    "startTime": 771.419,
+    "endTime": 773.557,
+    "text": "Not so fast."
+  },
+  {
+    "startTime": 773.557,
+    "endTime": 778.48,
+    "text": "So far, we have just taught\nthe computer to see objects."
+  },
+  {
+    "startTime": 778.48,
+    "endTime": 783.124,
+    "text": "This is like a small child\nlearning to utter a few nouns."
+  },
+  {
+    "startTime": 783.124,
+    "endTime": 785.794,
+    "text": "It's an incredible accomplishment,"
+  },
+  {
+    "startTime": 785.794,
+    "endTime": 788.254,
+    "text": "but it's only the first step."
+  },
+  {
+    "startTime": 788.254,
+    "endTime": 792.016,
+    "text": "Soon, another developmental\nmilestone will be hit,"
+  },
+  {
+    "startTime": 792.016,
+    "endTime": 795.477,
+    "text": "and children begin\nto communicate in sentences."
+  },
+  {
+    "startTime": 795.477,
+    "endTime": 799.701,
+    "text": "So instead of saying\nthis is a cat in the picture,"
+  },
+  {
+    "startTime": 799.701,
+    "endTime": 804.903,
+    "text": "you already heard the little girl\ntelling us this is a cat lying on a bed."
+  },
+  {
+    "startTime": 804.903,
+    "endTime": 810.498,
+    "text": "So to teach a computer\nto see a picture and generate sentences,"
+  },
+  {
+    "startTime": 810.498,
+    "endTime": 814.446,
+    "text": "the marriage between big data\nand machine learning algorithm"
+  },
+  {
+    "startTime": 814.446,
+    "endTime": 816.721,
+    "text": "has to take another step."
+  },
+  {
+    "startTime": 816.721,
+    "endTime": 820.877,
+    "text": "Now, the computer has to learn\nfrom both pictures"
+  },
+  {
+    "startTime": 820.877,
+    "endTime": 823.733,
+    "text": "as well as natural language sentences"
+  },
+  {
+    "startTime": 823.733,
+    "endTime": 827.055,
+    "text": "generated by humans."
+  },
+  {
+    "startTime": 827.055,
+    "endTime": 830.9079999999999,
+    "text": "Just like the brain integrates\nvision and language,"
+  },
+  {
+    "startTime": 830.908,
+    "endTime": 836.109,
+    "text": "we developed a model\nthat connects parts of visual things"
+  },
+  {
+    "startTime": 836.109,
+    "endTime": 838.013,
+    "text": "like visual snippets"
+  },
+  {
+    "startTime": 838.013,
+    "endTime": 842.216,
+    "text": "with words and phrases in sentences."
+  },
+  {
+    "startTime": 842.216,
+    "endTime": 844.979,
+    "text": "About four months ago,"
+  },
+  {
+    "startTime": 844.979,
+    "endTime": 847.6260000000001,
+    "text": "we finally tied all this together"
+  },
+  {
+    "startTime": 847.626,
+    "endTime": 851.41,
+    "text": "and produced one of the first\ncomputer vision models"
+  },
+  {
+    "startTime": 851.41,
+    "endTime": 855.404,
+    "text": "that is capable of generating\na human-like sentence"
+  },
+  {
+    "startTime": 855.404,
+    "endTime": 858.91,
+    "text": "when it sees a picture for the first time."
+  },
+  {
+    "startTime": 858.91,
+    "endTime": 863.554,
+    "text": "Now, I'm ready to show you\nwhat the computer says"
+  },
+  {
+    "startTime": 863.554,
+    "endTime": 865.529,
+    "text": "when it sees the picture"
+  },
+  {
+    "startTime": 865.529,
+    "endTime": 869.359,
+    "text": "that the little girl saw\nat the beginning of this talk."
+  },
+  {
+    "startTime": 871.519,
+    "endTime": 874.863,
+    "text": "(Video) Computer: A man is standing\nnext to an elephant."
+  },
+  {
+    "startTime": 876.393,
+    "endTime": 880.027,
+    "text": "A large airplane sitting on top\nof an airport runway."
+  },
+  {
+    "startTime": 881.057,
+    "endTime": 885.269,
+    "text": "FFL: Of course, we're still working hard\nto improve our algorithms,"
+  },
+  {
+    "startTime": 885.269,
+    "endTime": 887.865,
+    "text": "and it still has a lot to learn."
+  },
+  {
+    "startTime": 887.865,
+    "endTime": 890.1560000000001,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 891.556,
+    "endTime": 894.8770000000001,
+    "text": "And the computer still makes mistakes."
+  },
+  {
+    "startTime": 894.877,
+    "endTime": 898.2679999999999,
+    "text": "(Video) Computer: A cat lying\non a bed in a blanket."
+  },
+  {
+    "startTime": 898.268,
+    "endTime": 900.821,
+    "text": "FFL: So of course, when it sees\ntoo many cats,"
+  },
+  {
+    "startTime": 900.821,
+    "endTime": 903.7470000000001,
+    "text": "it thinks everything\nmight look like a cat."
+  },
+  {
+    "startTime": 905.317,
+    "endTime": 908.181,
+    "text": "(Video) Computer: A young boy\nis holding a baseball bat."
+  },
+  {
+    "startTime": 908.181,
+    "endTime": 909.946,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 909.946,
+    "endTime": 914.529,
+    "text": "FFL: Or, if it hasn't seen a toothbrush,\nit confuses it with a baseball bat."
+  },
+  {
+    "startTime": 915.309,
+    "endTime": 918.7429999999999,
+    "text": "(Video) Computer: A man riding a horse\ndown a street next to a building."
+  },
+  {
+    "startTime": 918.743,
+    "endTime": 920.7660000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 920.766,
+    "endTime": 924.318,
+    "text": "FFL: We haven't taught Art 101\nto the computers."
+  },
+  {
+    "startTime": 925.768,
+    "endTime": 928.652,
+    "text": "(Video) Computer: A zebra standing\nin a field of grass."
+  },
+  {
+    "startTime": 928.652,
+    "endTime": 932.019,
+    "text": "FFL: And it hasn't learned to appreciate\nthe stunning beauty of nature"
+  },
+  {
+    "startTime": 932.019,
+    "endTime": 934.457,
+    "text": "like you and I do."
+  },
+  {
+    "startTime": 934.457,
+    "endTime": 937.289,
+    "text": "So it has been a long journey."
+  },
+  {
+    "startTime": 937.289,
+    "endTime": 941.515,
+    "text": "To get from age zero to three was hard."
+  },
+  {
+    "startTime": 941.515,
+    "endTime": 947.111,
+    "text": "The real challenge is to go\nfrom three to 13 and far beyond."
+  },
+  {
+    "startTime": 947.111,
+    "endTime": 951.476,
+    "text": "Let me remind you with this picture\nof the boy and the cake again."
+  },
+  {
+    "startTime": 951.476,
+    "endTime": 955.54,
+    "text": "So far, we have taught\nthe computer to see objects"
+  },
+  {
+    "startTime": 955.54,
+    "endTime": 959.9979999999999,
+    "text": "or even tell us a simple story\nwhen seeing a picture."
+  },
+  {
+    "startTime": 959.998,
+    "endTime": 963.5740000000001,
+    "text": "(Video) Computer: A person sitting\nat a table with a cake."
+  },
+  {
+    "startTime": 963.574,
+    "endTime": 966.204,
+    "text": "FFL: But there's so much more \nto this picture"
+  },
+  {
+    "startTime": 966.204,
+    "endTime": 968.4739999999999,
+    "text": "than just a person and a cake."
+  },
+  {
+    "startTime": 968.474,
+    "endTime": 972.941,
+    "text": "What the computer doesn't see\nis that this is a special Italian cake"
+  },
+  {
+    "startTime": 972.941,
+    "endTime": 976.158,
+    "text": "that's only served during Easter time."
+  },
+  {
+    "startTime": 976.158,
+    "endTime": 979.363,
+    "text": "The boy is wearing his favorite t-shirt"
+  },
+  {
+    "startTime": 979.363,
+    "endTime": 983.3330000000001,
+    "text": "given to him as a gift by his father\nafter a trip to Sydney,"
+  },
+  {
+    "startTime": 983.333,
+    "endTime": 987.141,
+    "text": "and you and I can all tell how happy he is"
+  },
+  {
+    "startTime": 987.141,
+    "endTime": 990.3439999999999,
+    "text": "and what's exactly on his mind\nat that moment."
+  },
+  {
+    "startTime": 991.214,
+    "endTime": 994.339,
+    "text": "This is my son Leo."
+  },
+  {
+    "startTime": 994.339,
+    "endTime": 996.9630000000001,
+    "text": "On my quest for visual intelligence,"
+  },
+  {
+    "startTime": 996.963,
+    "endTime": 999.3539999999999,
+    "text": "I think of Leo constantly"
+  },
+  {
+    "startTime": 999.354,
+    "endTime": 1002.2570000000001,
+    "text": "and the future world he will live in."
+  },
+  {
+    "startTime": 1002.26,
+    "endTime": 1004.281,
+    "text": "When machines can see,"
+  },
+  {
+    "startTime": 1004.28,
+    "endTime": 1008.992,
+    "text": "doctors and nurses will have\nextra pairs of tireless eyes"
+  },
+  {
+    "startTime": 1008.99,
+    "endTime": 1013.082,
+    "text": "to help them to diagnose\nand take care of patients."
+  },
+  {
+    "startTime": 1013.08,
+    "endTime": 1017.4630000000001,
+    "text": "Cars will run smarter\nand safer on the road."
+  },
+  {
+    "startTime": 1017.47,
+    "endTime": 1020.164,
+    "text": "Robots, not just humans,"
+  },
+  {
+    "startTime": 1020.16,
+    "endTime": 1025.009,
+    "text": "will help us to brave the disaster zones\nto save the trapped and wounded."
+  },
+  {
+    "startTime": 1025.8,
+    "endTime": 1029.596,
+    "text": "We will discover new species, \nbetter materials,"
+  },
+  {
+    "startTime": 1029.59,
+    "endTime": 1034.099,
+    "text": "and explore unseen frontiers\nwith the help of the machines."
+  },
+  {
+    "startTime": 1035.11,
+    "endTime": 1039.2769999999998,
+    "text": "Little by little, we're giving sight\nto the machines."
+  },
+  {
+    "startTime": 1039.28,
+    "endTime": 1042.078,
+    "text": "First, we teach them to see."
+  },
+  {
+    "startTime": 1042.08,
+    "endTime": 1044.8429999999998,
+    "text": "Then, they help us to see better."
+  },
+  {
+    "startTime": 1044.84,
+    "endTime": 1049.0049999999999,
+    "text": "For the first time, human eyes\nwon't be the only ones"
+  },
+  {
+    "startTime": 1049.01,
+    "endTime": 1051.944,
+    "text": "pondering and exploring our world."
+  },
+  {
+    "startTime": 1051.94,
+    "endTime": 1055.4,
+    "text": "We will not only use the machines\nfor their intelligence,"
+  },
+  {
+    "startTime": 1055.4,
+    "endTime": 1061.5790000000002,
+    "text": "we will also collaborate with them\nin ways that we cannot even imagine."
+  },
+  {
+    "startTime": 1061.58,
+    "endTime": 1063.741,
+    "text": "This is my quest:"
+  },
+  {
+    "startTime": 1063.74,
+    "endTime": 1066.452,
+    "text": "to give computers visual intelligence"
+  },
+  {
+    "startTime": 1066.45,
+    "endTime": 1071.5810000000001,
+    "text": "and to create a better future\nfor Leo and for the world."
+  },
+  {
+    "startTime": 1071.58,
+    "endTime": 1073.3909999999998,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 1073.39,
+    "endTime": 1077.1750000000002,
+    "text": "(Applause)"
+  }
+]
