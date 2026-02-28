@@ -1,0 +1,227 @@
+[
+  {
+    "startTime": 6.3,
+    "endTime": 14.600000000000001,
+    "text": "So, my name is Kakani Katija, and I'm a bioengineer. I study marine organisms in their natural environment."
+  },
+  {
+    "startTime": 14.6,
+    "endTime": 21.3,
+    "text": "And what I wanna point out, and at least you can see this in this visualization, is that  the ocean environment is a dynamic place."
+  },
+  {
+    "startTime": 21.3,
+    "endTime": 29.0,
+    "text": "What you're seeing are the kinds of currents, as well as the whirls, that are left behind in the ocean because of tides or because of winds."
+  },
+  {
+    "startTime": 29.0,
+    "endTime": 37.7,
+    "text": "And imagine a marine organism as living in this environment, right, and they're trying to undergo their entire lives while dealing with currents like these."
+  },
+  {
+    "startTime": 37.7,
+    "endTime": 46.983000000000004,
+    "text": "But what I also want to point out is that small organisms also create small fluid motions, as well, and it's these fluid motions that I study."
+  },
+  {
+    "startTime": 46.983,
+    "endTime": 50.099999999999994,
+    "text": "And we can think about them like being footprints."
+  },
+  {
+    "startTime": 50.1,
+    "endTime": 54.800000000000004,
+    "text": "So, this is my dog Kieran, and take a look at her footprints."
+  },
+  {
+    "startTime": 54.8,
+    "endTime": 56.956999999999994,
+    "text": "Footprints provide a lot of information—"
+  },
+  {
+    "startTime": 56.957,
+    "endTime": 66.409,
+    "text": "not only do they tell us what kind of organism left them, they might also tell us something about when that organism was there, but also what kind of behavior: were they running or were they walking?"
+  },
+  {
+    "startTime": 66.409,
+    "endTime": 74.644,
+    "text": "And so, terrestrial organisms, like my cute dog Kieran, might be leaving footprints behind in dirt or in sand,"
+  },
+  {
+    "startTime": 74.644,
+    "endTime": 83.861,
+    "text": "but marine organisms leave footprints in the form of what we call wake structures, or hydrodynamic signatures, in fluid."
+  },
+  {
+    "startTime": 83.861,
+    "endTime": 94.4,
+    "text": "Now imagine, it's really hard to see these kinds of structures because fluid is transparent; however, if we add something to the fluid, we get a completely different picture."
+  },
+  {
+    "startTime": 94.4,
+    "endTime": 100.08200000000001,
+    "text": "And you can see that these footprints that marine organisms create are just dynamic—they are constantly changing."
+  },
+  {
+    "startTime": 100.082,
+    "endTime": 103.89999999999999,
+    "text": "And marine organisms also have the ability to sense these signatures."
+  },
+  {
+    "startTime": 103.9,
+    "endTime": 115.4,
+    "text": "They can also inform decisions, like whether or not they wanna continue following a  signature like this to find a mate or to find food, or maybe avoid these signatures, right, to avoid being eaten."
+  },
+  {
+    "startTime": 115.4,
+    "endTime": 123.60000000000001,
+    "text": "So, imagine the ability to be able to not only see or visualize these kinds of signatures but to also measure them."
+  },
+  {
+    "startTime": 123.6,
+    "endTime": 126.442,
+    "text": "This is the engineering side of what I do."
+  },
+  {
+    "startTime": 126.442,
+    "endTime": 140.1,
+    "text": "And so, what I've done is I actually took a laboratory technique and miniaturized it and basically shrunk it down into the use of underwater housings to make a device that a single scuba diver can use."
+  },
+  {
+    "startTime": 140.1,
+    "endTime": 150.4,
+    "text": "And so, a single scuba diver can go anywhere from the surface to 40 meters, or 120 feet deep, to measure the hydrodynamic signatures that organisms create."
+  },
+  {
+    "startTime": 150.4,
+    "endTime": 156.04,
+    "text": "Before I begin, I kinda wanna to immerse you into what these kinds of measurements require."
+  },
+  {
+    "startTime": 156.1,
+    "endTime": 166.5,
+    "text": "So, in order to work, we actually dive at night, and this is because we're trying to minimize any interactions between the laser and sunlight,"
+  },
+  {
+    "startTime": 166.5,
+    "endTime": 172.3,
+    "text": "and we're diving in complete darkness because we do not want to scare away the organisms we're trying to study."
+  },
+  {
+    "startTime": 172.3,
+    "endTime": 187.4,
+    "text": "And then once we find the organisms we're interested in, we turn on a green laser. And this green laser is actually illuminating a sheet of fluid, and in that fluid, it's reflecting off of particles that are found everywhere in the ocean."
+  },
+  {
+    "startTime": 187.4,
+    "endTime": 197.8,
+    "text": "And so, as an animal swims through this laser sheet, you can see these particles are moving over time, and so, we actually risk our lives to get this kind of data."
+  },
+  {
+    "startTime": 197.8,
+    "endTime": 204.20000000000002,
+    "text": "What you're gonna see is that on the left, these due particles images that shows the displacement of fluid over time,"
+  },
+  {
+    "startTime": 204.2,
+    "endTime": 212.89999999999998,
+    "text": "and using that data, you can actually extract what the velocity of that fluid is, and that's indicated by the vector plots that you see in the middle."
+  },
+  {
+    "startTime": 212.9,
+    "endTime": 221.3,
+    "text": "And then we can use that data to answer a variety of different questions, not only to understand the rotational sense of that fluid, which you see on the right,"
+  },
+  {
+    "startTime": 221.3,
+    "endTime": 230.8,
+    "text": "but also estimate something about energetics, or the kinds of forces that act on these organisms or on the fluid, and also evaluate swimming and feeding performance."
+  },
+  {
+    "startTime": 230.8,
+    "endTime": 241.10000000000002,
+    "text": "We've used this technique on a variety of different organisms, but remember, there's an issue here: we're only able to study organisms that a scuba diver can reach."
+  },
+  {
+    "startTime": 241.1,
+    "endTime": 248.2,
+    "text": "And so, before I finish, I kinda wanna tell you what the next frontier is, in terms of these kinds of measurements."
+  },
+  {
+    "startTime": 248.2,
+    "endTime": 252.28699999999998,
+    "text": "And with collaborators at Monterey Bay Aquarium Research Institute,"
+  },
+  {
+    "startTime": 252.287,
+    "endTime": 263.2,
+    "text": "we're developing instrumentation to go on remotely operated vehicles so, we can study organisms anywhere from the surface down to 4000 meters, or two and a half  miles."
+  },
+  {
+    "startTime": 263.2,
+    "endTime": 276.0,
+    "text": "And so, we can answer really interesting questions about this organism, this is a larvacean, that creates a feeding current and forces fluids through their mucus house and extracts nutrients."
+  },
+  {
+    "startTime": 276.0,
+    "endTime": 288.5,
+    "text": "And then this animal, this is a siphonophore, and they can get to lengths about half the size of a football field, and they're able to swim vertically in the ocean by just creating jet propulsion."
+  },
+  {
+    "startTime": 288.5,
+    "endTime": 297.2,
+    "text": "And then finally we can answer these questions about how swarming organisms, like krill, are able to affect mixing on larger scales."
+  },
+  {
+    "startTime": 297.2,
+    "endTime": 306.4,
+    "text": "And this is actually one of the most interesting results so far that we've collected are using the scuba diving device in that organisms,"
+  },
+  {
+    "startTime": 306.4,
+    "endTime": 317.4,
+    "text": "especially when they're moving in mass, are able to generate mixing at levels that are equivalent to some other physical processes that are associated with winds and tides."
+  },
+  {
+    "startTime": 317.4,
+    "endTime": 330.29999999999995,
+    "text": "But before I finish, I kinda wanna leave you all with a question because I think it's important to keep in mind that technologies today that we take for granted started somewhere, right: it was inspired from something."
+  },
+  {
+    "startTime": 330.3,
+    "endTime": 336.3,
+    "text": "So, imagine, right, scientists and engineers were inspired by birds to create airplanes."
+  },
+  {
+    "startTime": 336.3,
+    "endTime": 343.5,
+    "text": "And something we take for granted, flying from, let's say, San Francisco to New York, is something that was inspired by an organism."
+  },
+  {
+    "startTime": 343.5,
+    "endTime": 353.1,
+    "text": "And as we're developing these new technologies to understand marine organisms, what we wanna do is answer this question: how will marine organisms inspire us?"
+  },
+  {
+    "startTime": 353.1,
+    "endTime": 359.3,
+    "text": "Will they allow us to develop new underwater technologies, like underwater vehicles  that look like a jellyfish?"
+  },
+  {
+    "startTime": 359.3,
+    "endTime": 367.0,
+    "text": "I think it's a really exciting time in ocean exploration because now we have the tools available to answer this kind of question,"
+  },
+  {
+    "startTime": 367.0,
+    "endTime": 376.1,
+    "text": "and with the help of you guys at some point, you can apply these tools to answer this kind of question and also develop technologies of the future."
+  },
+  {
+    "startTime": 376.1,
+    "endTime": 380.0,
+    "text": "Thank you."
+  }
+]

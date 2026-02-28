@@ -1,0 +1,887 @@
+[
+  {
+    "startTime": 12.4,
+    "endTime": 15.04,
+    "text": "Motor Racing is a funny old business we"
+  },
+  {
+    "startTime": 15.04,
+    "endTime": 17.8,
+    "text": "make a new car every year and then we"
+  },
+  {
+    "startTime": 17.8,
+    "endTime": 19.88,
+    "text": "spend the rest of the season trying to"
+  },
+  {
+    "startTime": 19.88,
+    "endTime": 21.279,
+    "text": "understand what it is we've"
+  },
+  {
+    "startTime": 21.279,
+    "endTime": 24.4,
+    "text": "built to make it better to make it"
+  },
+  {
+    "startTime": 24.4,
+    "endTime": 27.72,
+    "text": "faster and then the next year we start"
+  },
+  {
+    "startTime": 27.72,
+    "endTime": 30.08,
+    "text": "again now the car you see in front of"
+  },
+  {
+    "startTime": 30.08,
+    "endTime": 31.84,
+    "text": "view is quite"
+  },
+  {
+    "startTime": 31.84,
+    "endTime": 34.079,
+    "text": "complicated the chassis is made up of"
+  },
+  {
+    "startTime": 34.079,
+    "endTime": 37.04,
+    "text": "about 11,000 components the engine"
+  },
+  {
+    "startTime": 37.04,
+    "endTime": 40.559,
+    "text": "another 6,000 the electronics about 8 a"
+  },
+  {
+    "startTime": 40.559,
+    "endTime": 43.719,
+    "text": "half thousand so there's about 25,000"
+  },
+  {
+    "startTime": 43.719,
+    "endTime": 47.0,
+    "text": "things there that can go wrong so Motor"
+  },
+  {
+    "startTime": 47.0,
+    "endTime": 50.32,
+    "text": "Racing is very much about attention to"
+  },
+  {
+    "startTime": 50.32,
+    "endTime": 53.28,
+    "text": "detail the other thing about Formula 1"
+  },
+  {
+    "startTime": 53.28,
+    "endTime": 55.96,
+    "text": "in particular is we're always changing"
+  },
+  {
+    "startTime": 55.96,
+    "endTime": 57.92,
+    "text": "the car we're always trying to make it"
+  },
+  {
+    "startTime": 57.92,
+    "endTime": 60.92,
+    "text": "faster so every two week weeks we will"
+  },
+  {
+    "startTime": 60.92,
+    "endTime": 63.92,
+    "text": "be making about 5,000 new components to"
+  },
+  {
+    "startTime": 63.92,
+    "endTime": 65.239,
+    "text": "fit to the"
+  },
+  {
+    "startTime": 65.24,
+    "endTime": 68.52,
+    "text": "car 5 to 10% of the race car will be"
+  },
+  {
+    "startTime": 68.52,
+    "endTime": 70.88,
+    "text": "different every two weeks of the"
+  },
+  {
+    "startTime": 70.88,
+    "endTime": 75.439,
+    "text": "year so how do we do that well we start"
+  },
+  {
+    "startTime": 75.439,
+    "endTime": 78.6,
+    "text": "our life with the racing car we have a"
+  },
+  {
+    "startTime": 78.6,
+    "endTime": 81.079,
+    "text": "lot of sensors on the car to measure"
+  },
+  {
+    "startTime": 81.079,
+    "endTime": 83.52,
+    "text": "things on the race car in front of you"
+  },
+  {
+    "startTime": 83.52,
+    "endTime": 85.96,
+    "text": "here there are about 120 sensors when it"
+  },
+  {
+    "startTime": 85.96,
+    "endTime": 88.2,
+    "text": "goes into a race is measuring all sorts"
+  },
+  {
+    "startTime": 88.2,
+    "endTime": 90.96,
+    "text": "of things around the car"
+  },
+  {
+    "startTime": 90.96,
+    "endTime": 92.84,
+    "text": "that data is logged we're logging about"
+  },
+  {
+    "startTime": 92.84,
+    "endTime": 95.759,
+    "text": "500 different parameters within the data"
+  },
+  {
+    "startTime": 95.759,
+    "endTime": 99.36,
+    "text": "systems about 13,000 Health parameters"
+  },
+  {
+    "startTime": 99.36,
+    "endTime": 101.68,
+    "text": "and events to say when things are are"
+  },
+  {
+    "startTime": 101.68,
+    "endTime": 103.96,
+    "text": "not working the way they should"
+  },
+  {
+    "startTime": 103.96,
+    "endTime": 106.439,
+    "text": "do and we're sending that data back to"
+  },
+  {
+    "startTime": 106.439,
+    "endTime": 110.24,
+    "text": "the garage using Telemetry at a rate of"
+  },
+  {
+    "startTime": 110.24,
+    "endTime": 113.159,
+    "text": "2 to 4 megabits per second so during a"
+  },
+  {
+    "startTime": 113.159,
+    "endTime": 116.52,
+    "text": "2-hour race each car will be sending 750"
+  },
+  {
+    "startTime": 116.52,
+    "endTime": 119.079,
+    "text": "Million numbers that's twice as many"
+  },
+  {
+    "startTime": 119.079,
+    "endTime": 121.28,
+    "text": "numbers as words that each of us speaks"
+  },
+  {
+    "startTime": 121.28,
+    "endTime": 124.159,
+    "text": "in our lifetime it's a huge amount of"
+  },
+  {
+    "startTime": 124.159,
+    "endTime": 127.039,
+    "text": "data but it's not enough just to to have"
+  },
+  {
+    "startTime": 127.039,
+    "endTime": 128.399,
+    "text": "data and measure it you need to be able"
+  },
+  {
+    "startTime": 128.399,
+    "endTime": 130.92,
+    "text": "to do something with it so we spend a"
+  },
+  {
+    "startTime": 130.92,
+    "endTime": 132.959,
+    "text": "lot of time and effort in turning the"
+  },
+  {
+    "startTime": 132.959,
+    "endTime": 135.959,
+    "text": "data into stories to be able to tell"
+  },
+  {
+    "startTime": 135.959,
+    "endTime": 137.8,
+    "text": "what's the state of the engine how are"
+  },
+  {
+    "startTime": 137.8,
+    "endTime": 141.36,
+    "text": "the tires degrading where's the what's"
+  },
+  {
+    "startTime": 141.36,
+    "endTime": 144.0,
+    "text": "the situation with fuel consumption so"
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 146.72,
+    "text": "all of this is taking data turning it"
+  },
+  {
+    "startTime": 146.72,
+    "endTime": 150.36,
+    "text": "into knowledge that we can act upon"
+  },
+  {
+    "startTime": 150.36,
+    "endTime": 151.64,
+    "text": "okay so let's have a look a little bit"
+  },
+  {
+    "startTime": 151.64,
+    "endTime": 154.16,
+    "text": "of data but let's pick a bit of data"
+  },
+  {
+    "startTime": 154.16,
+    "endTime": 156.959,
+    "text": "from another 3-month-old"
+  },
+  {
+    "startTime": 156.959,
+    "endTime": 160.08,
+    "text": "patient this is a child and what you're"
+  },
+  {
+    "startTime": 160.08,
+    "endTime": 162.959,
+    "text": "seeing here is real data and on the far"
+  },
+  {
+    "startTime": 162.959,
+    "endTime": 164.599,
+    "text": "right hand side where everything starts"
+  },
+  {
+    "startTime": 164.599,
+    "endTime": 167.08,
+    "text": "getting a little bit catastrophic that"
+  },
+  {
+    "startTime": 167.08,
+    "endTime": 169.08,
+    "text": "is the the patient going to Cardiac"
+  },
+  {
+    "startTime": 169.08,
+    "endTime": 171.44,
+    "text": "Arrest it was deemed to be an"
+  },
+  {
+    "startTime": 171.44,
+    "endTime": 174.28,
+    "text": "unpredictable event this was a heart"
+  },
+  {
+    "startTime": 174.28,
+    "endTime": 177.36,
+    "text": "attack that no one could see coming but"
+  },
+  {
+    "startTime": 177.36,
+    "endTime": 179.64,
+    "text": "when we look at the information there we"
+  },
+  {
+    "startTime": 179.64,
+    "endTime": 181.68,
+    "text": "can can see that things are starting to"
+  },
+  {
+    "startTime": 181.68,
+    "endTime": 183.959,
+    "text": "become a little fuzzy about 5 minutes or"
+  },
+  {
+    "startTime": 183.959,
+    "endTime": 186.92,
+    "text": "so before the cardiac arrest we can see"
+  },
+  {
+    "startTime": 186.92,
+    "endTime": 189.12,
+    "text": "small changes in things like the heart"
+  },
+  {
+    "startTime": 189.12,
+    "endTime": 191.959,
+    "text": "rate moving these are all undetected by"
+  },
+  {
+    "startTime": 191.959,
+    "endTime": 193.799,
+    "text": "normal thresholds which would be applied"
+  },
+  {
+    "startTime": 193.799,
+    "endTime": 197.2,
+    "text": "to data so the question is why couldn't"
+  },
+  {
+    "startTime": 197.2,
+    "endTime": 201.28,
+    "text": "we see it was this a predictable event"
+  },
+  {
+    "startTime": 201.28,
+    "endTime": 203.44,
+    "text": "can we look more at the patterns in the"
+  },
+  {
+    "startTime": 203.44,
+    "endTime": 206.799,
+    "text": "data to be able to do things"
+  },
+  {
+    "startTime": 206.799,
+    "endTime": 211.0,
+    "text": "better so this is a child about the same"
+  },
+  {
+    "startTime": 211.0,
+    "endTime": 213.959,
+    "text": "age as the racing car on stage 3 months"
+  },
+  {
+    "startTime": 213.959,
+    "endTime": 216.799,
+    "text": "old it's a a patient with a heart"
+  },
+  {
+    "startTime": 216.799,
+    "endTime": 219.319,
+    "text": "problem now when you look at some of the"
+  },
+  {
+    "startTime": 219.319,
+    "endTime": 221.48,
+    "text": "data on the screen above things like"
+  },
+  {
+    "startTime": 221.48,
+    "endTime": 224.84,
+    "text": "heart rate pulse oxygen respiration"
+  },
+  {
+    "startTime": 224.84,
+    "endTime": 228.28,
+    "text": "rates they're all unusual for a normal"
+  },
+  {
+    "startTime": 228.28,
+    "endTime": 230.439,
+    "text": "child but they're quite normal for the"
+  },
+  {
+    "startTime": 230.439,
+    "endTime": 234.12,
+    "text": "child there and so one of the challenges"
+  },
+  {
+    "startTime": 234.12,
+    "endTime": 236.4,
+    "text": "you have in healthc care is how can I"
+  },
+  {
+    "startTime": 236.4,
+    "endTime": 239.04,
+    "text": "look at the patient in front of me have"
+  },
+  {
+    "startTime": 239.04,
+    "endTime": 241.76,
+    "text": "something which is specific for her and"
+  },
+  {
+    "startTime": 241.76,
+    "endTime": 243.799,
+    "text": "be able to detect when things start to"
+  },
+  {
+    "startTime": 243.799,
+    "endTime": 246.56,
+    "text": "change when things start to deteriorate"
+  },
+  {
+    "startTime": 246.56,
+    "endTime": 249.439,
+    "text": "because like a racing car any patient"
+  },
+  {
+    "startTime": 249.439,
+    "endTime": 251.68,
+    "text": "when things start to go bad you have a"
+  },
+  {
+    "startTime": 251.68,
+    "endTime": 254.799,
+    "text": "short time to make a difference so what"
+  },
+  {
+    "startTime": 254.799,
+    "endTime": 257.479,
+    "text": "we did is we took a data system which we"
+  },
+  {
+    "startTime": 257.479,
+    "endTime": 259.359,
+    "text": "run every two weeks of the year in"
+  },
+  {
+    "startTime": 259.359,
+    "endTime": 262.24,
+    "text": "Formula 1 and we installed it on the"
+  },
+  {
+    "startTime": 262.24,
+    "endTime": 264.12,
+    "text": "hospital computers at Birmingham"
+  },
+  {
+    "startTime": 264.12,
+    "endTime": 266.72,
+    "text": "Children's Hospital we stream data from"
+  },
+  {
+    "startTime": 266.72,
+    "endTime": 268.44,
+    "text": "the bedside instruments in their"
+  },
+  {
+    "startTime": 268.44,
+    "endTime": 270.84,
+    "text": "Pediatric Intensive Care"
+  },
+  {
+    "startTime": 270.84,
+    "endTime": 273.08,
+    "text": "so that we could both look at the data"
+  },
+  {
+    "startTime": 273.08,
+    "endTime": 275.919,
+    "text": "in real time and more importantly to"
+  },
+  {
+    "startTime": 275.919,
+    "endTime": 277.84,
+    "text": "store the data so that we could start to"
+  },
+  {
+    "startTime": 277.84,
+    "endTime": 279.039,
+    "text": "learn from"
+  },
+  {
+    "startTime": 279.039,
+    "endTime": 283.28,
+    "text": "it and then we applied a an application"
+  },
+  {
+    "startTime": 283.28,
+    "endTime": 286.16,
+    "text": "on top which would allow us to tease out"
+  },
+  {
+    "startTime": 286.16,
+    "endTime": 288.72,
+    "text": "the patterns in the data in real time so"
+  },
+  {
+    "startTime": 288.72,
+    "endTime": 290.56,
+    "text": "we could see what was happening so we"
+  },
+  {
+    "startTime": 290.56,
+    "endTime": 293.68,
+    "text": "could determine when things started to"
+  },
+  {
+    "startTime": 293.68,
+    "endTime": 296.56,
+    "text": "change now in Motor Racing we're all a"
+  },
+  {
+    "startTime": 296.56,
+    "endTime": 299.24,
+    "text": "little bit ambitious audacious little"
+  },
+  {
+    "startTime": 299.24,
+    "endTime": 300.199,
+    "text": "bit AR"
+  },
+  {
+    "startTime": 300.199,
+    "endTime": 302.28,
+    "text": "sometimes so we decided we would also"
+  },
+  {
+    "startTime": 302.28,
+    "endTime": 304.44,
+    "text": "look at the the children as they were"
+  },
+  {
+    "startTime": 304.44,
+    "endTime": 307.199,
+    "text": "being transported to intensive care why"
+  },
+  {
+    "startTime": 307.199,
+    "endTime": 308.84,
+    "text": "should we wait until they arrived in the"
+  },
+  {
+    "startTime": 308.84,
+    "endTime": 311.4,
+    "text": "hospital before we started to look and"
+  },
+  {
+    "startTime": 311.4,
+    "endTime": 314.759,
+    "text": "so we installed a realtime link between"
+  },
+  {
+    "startTime": 314.759,
+    "endTime": 317.44,
+    "text": "the the ambulance and the hospital just"
+  },
+  {
+    "startTime": 317.44,
+    "endTime": 320.28,
+    "text": "using normal 3G telephony to send that"
+  },
+  {
+    "startTime": 320.28,
+    "endTime": 322.4,
+    "text": "data so that the ambulance became an"
+  },
+  {
+    "startTime": 322.4,
+    "endTime": 325.88,
+    "text": "extra bed in intensive"
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 328.639,
+    "text": "care and then we started looking at the"
+  },
+  {
+    "startTime": 328.639,
+    "endTime": 330.44,
+    "text": "data"
+  },
+  {
+    "startTime": 330.44,
+    "endTime": 332.56,
+    "text": "so the wiggly lines at the top all the"
+  },
+  {
+    "startTime": 332.56,
+    "endTime": 334.44,
+    "text": "colors this is the normal sort of data"
+  },
+  {
+    "startTime": 334.44,
+    "endTime": 337.319,
+    "text": "you would see on a monitor heart rate"
+  },
+  {
+    "startTime": 337.319,
+    "endTime": 341.919,
+    "text": "pulse oxygen within the blood and"
+  },
+  {
+    "startTime": 341.919,
+    "endTime": 344.0,
+    "text": "respiration the lines on the bottom the"
+  },
+  {
+    "startTime": 344.0,
+    "endTime": 345.52,
+    "text": "blue and the red these are the"
+  },
+  {
+    "startTime": 345.52,
+    "endTime": 348.479,
+    "text": "interesting ones the red line is showing"
+  },
+  {
+    "startTime": 348.479,
+    "endTime": 350.479,
+    "text": "an automated version of the early"
+  },
+  {
+    "startTime": 350.479,
+    "endTime": 352.36,
+    "text": "warning score that Birmingham Children's"
+  },
+  {
+    "startTime": 352.36,
+    "endTime": 354.039,
+    "text": "Hospital were already running they've"
+  },
+  {
+    "startTime": 354.039,
+    "endTime": 356.72,
+    "text": "been running that since 2008 and already"
+  },
+  {
+    "startTime": 356.72,
+    "endTime": 358.52,
+    "text": "have stopped cardiac arrests and"
+  },
+  {
+    "startTime": 358.52,
+    "endTime": 361.52,
+    "text": "distress within the hospital"
+  },
+  {
+    "startTime": 361.52,
+    "endTime": 364.24,
+    "text": "the blue line is an indication of when"
+  },
+  {
+    "startTime": 364.24,
+    "endTime": 367.12,
+    "text": "patterns start to change and immediately"
+  },
+  {
+    "startTime": 367.12,
+    "endTime": 369.0,
+    "text": "before we even started putting in"
+  },
+  {
+    "startTime": 369.0,
+    "endTime": 371.28,
+    "text": "clinical interpretation we can see that"
+  },
+  {
+    "startTime": 371.28,
+    "endTime": 373.68,
+    "text": "the data is speaking to us it's telling"
+  },
+  {
+    "startTime": 373.68,
+    "endTime": 377.0,
+    "text": "us that something is going wrong the"
+  },
+  {
+    "startTime": 377.0,
+    "endTime": 379.72,
+    "text": "plot with the red and the green"
+  },
+  {
+    "startTime": 379.72,
+    "endTime": 382.479,
+    "text": "blobs this is plotting different"
+  },
+  {
+    "startTime": 382.479,
+    "endTime": 385.16,
+    "text": "components of the data against each"
+  },
+  {
+    "startTime": 385.16,
+    "endTime": 388.16,
+    "text": "other the green is US learning what is"
+  },
+  {
+    "startTime": 388.16,
+    "endTime": 390.319,
+    "text": "normal for that child we call it the"
+  },
+  {
+    "startTime": 390.319,
+    "endTime": 391.44,
+    "text": "cloud of"
+  },
+  {
+    "startTime": 391.44,
+    "endTime": 393.68,
+    "text": "normality and when things start to"
+  },
+  {
+    "startTime": 393.68,
+    "endTime": 396.039,
+    "text": "change when conditions start to"
+  },
+  {
+    "startTime": 396.039,
+    "endTime": 399.52,
+    "text": "deteriorate we move into the red line"
+  },
+  {
+    "startTime": 399.52,
+    "endTime": 401.56,
+    "text": "there's no rocket science here it is"
+  },
+  {
+    "startTime": 401.56,
+    "endTime": 404.199,
+    "text": "displaying data that exists already in a"
+  },
+  {
+    "startTime": 404.199,
+    "endTime": 407.039,
+    "text": "different way to amplify it to provide"
+  },
+  {
+    "startTime": 407.039,
+    "endTime": 409.479,
+    "text": "cues to the doctors to the nurses so"
+  },
+  {
+    "startTime": 409.479,
+    "endTime": 411.639,
+    "text": "they can see what's happening in the"
+  },
+  {
+    "startTime": 411.639,
+    "endTime": 414.4,
+    "text": "same way that a good racing driver"
+  },
+  {
+    "startTime": 414.4,
+    "endTime": 417.16,
+    "text": "relies on cues to decide when to apply"
+  },
+  {
+    "startTime": 417.16,
+    "endTime": 420.12,
+    "text": "to the brakes when to turn into a corner"
+  },
+  {
+    "startTime": 420.12,
+    "endTime": 422.28,
+    "text": "we need to help our physicians and our"
+  },
+  {
+    "startTime": 422.28,
+    "endTime": 424.319,
+    "text": "nurses to see when things are starting"
+  },
+  {
+    "startTime": 424.319,
+    "endTime": 426.0,
+    "text": "to go"
+  },
+  {
+    "startTime": 426.0,
+    "endTime": 428.96,
+    "text": "wrong so we have a very ambitious"
+  },
+  {
+    "startTime": 428.96,
+    "endTime": 431.68,
+    "text": "program we think that there is a the"
+  },
+  {
+    "startTime": 431.68,
+    "endTime": 434.319,
+    "text": "race is on to do something differently"
+  },
+  {
+    "startTime": 434.319,
+    "endTime": 436.44,
+    "text": "we thinking big it's the right thing to"
+  },
+  {
+    "startTime": 436.44,
+    "endTime": 439.68,
+    "text": "do we have a an approach which if it's"
+  },
+  {
+    "startTime": 439.68,
+    "endTime": 441.56,
+    "text": "successful there's no reason why it"
+  },
+  {
+    "startTime": 441.56,
+    "endTime": 443.36,
+    "text": "should stay within a hospital it can go"
+  },
+  {
+    "startTime": 443.36,
+    "endTime": 445.599,
+    "text": "beyond the walls with wireless"
+  },
+  {
+    "startTime": 445.599,
+    "endTime": 447.36,
+    "text": "connectivity these days there is no"
+  },
+  {
+    "startTime": 447.36,
+    "endTime": 450.44,
+    "text": "reason why patients doctors and nurses"
+  },
+  {
+    "startTime": 450.44,
+    "endTime": 452.639,
+    "text": "always have to be in the same place at"
+  },
+  {
+    "startTime": 452.639,
+    "endTime": 453.599,
+    "text": "the same"
+  },
+  {
+    "startTime": 453.599,
+    "endTime": 456.72,
+    "text": "time and meanwhile we'll take our little"
+  },
+  {
+    "startTime": 456.72,
+    "endTime": 459.44,
+    "text": "three-month-old baby keep taking it to"
+  },
+  {
+    "startTime": 459.44,
+    "endTime": 462.84,
+    "text": "the track keeping it safe and making it"
+  },
+  {
+    "startTime": 462.84,
+    "endTime": 468.4,
+    "text": "faster and better thank you very much"
+  },
+  {
+    "startTime": 470.42,
+    "endTime": 473.559,
+    "text": "[Music]"
+  }
+]
