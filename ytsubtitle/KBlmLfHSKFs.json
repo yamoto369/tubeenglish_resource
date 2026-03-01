@@ -1,0 +1,442 @@
+[
+  {
+    "startTime": 1.87,
+    "endTime": 5.1,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.64,
+    "endTime": 8.88,
+    "text": "i work with dogs to train them to go"
+  },
+  {
+    "startTime": 8.88,
+    "endTime": 11.599,
+    "text": "into an mri scanner and try to figure"
+  },
+  {
+    "startTime": 11.599,
+    "endTime": 12.88,
+    "text": "out what makes them tick and what"
+  },
+  {
+    "startTime": 12.88,
+    "endTime": 16.04,
+    "text": "they're thinking"
+  },
+  {
+    "startTime": 24.96,
+    "endTime": 26.64,
+    "text": "my name is gregory burns i'm a"
+  },
+  {
+    "startTime": 26.64,
+    "endTime": 28.48,
+    "text": "neuroscientist at emory university in"
+  },
+  {
+    "startTime": 28.48,
+    "endTime": 31.519,
+    "text": "atlanta georgia"
+  },
+  {
+    "startTime": 31.519,
+    "endTime": 33.44,
+    "text": "i've grown up with dogs and i've lived"
+  },
+  {
+    "startTime": 33.44,
+    "endTime": 36.719,
+    "text": "with dogs pretty much my whole life"
+  },
+  {
+    "startTime": 36.719,
+    "endTime": 38.96,
+    "text": "one of my favorite dogs had passed away"
+  },
+  {
+    "startTime": 38.96,
+    "endTime": 40.8,
+    "text": "in the back of my mind i started"
+  },
+  {
+    "startTime": 40.8,
+    "endTime": 42.96,
+    "text": "wondering did that dog love me in the"
+  },
+  {
+    "startTime": 42.96,
+    "endTime": 45.2,
+    "text": "way that i loved him and that was really"
+  },
+  {
+    "startTime": 45.2,
+    "endTime": 46.8,
+    "text": "the beginning of it"
+  },
+  {
+    "startTime": 46.8,
+    "endTime": 48.879,
+    "text": "all of these basic things that we've"
+  },
+  {
+    "startTime": 48.879,
+    "endTime": 51.44,
+    "text": "begun to sort out in humans at least in"
+  },
+  {
+    "startTime": 51.44,
+    "endTime": 53.68,
+    "text": "human brains we want to do in dogs if"
+  },
+  {
+    "startTime": 53.68,
+    "endTime": 55.92,
+    "text": "dogs can be trained to go into an mri"
+  },
+  {
+    "startTime": 55.92,
+    "endTime": 57.76,
+    "text": "machine then maybe we could figure out"
+  },
+  {
+    "startTime": 57.76,
+    "endTime": 59.6,
+    "text": "what they're actually thinking"
+  },
+  {
+    "startTime": 59.6,
+    "endTime": 61.76,
+    "text": "so we have a dog in the scanner that's"
+  },
+  {
+    "startTime": 61.76,
+    "endTime": 63.28,
+    "text": "katie and"
+  },
+  {
+    "startTime": 63.28,
+    "endTime": 65.6,
+    "text": "she is a veteran of the project this is"
+  },
+  {
+    "startTime": 65.6,
+    "endTime": 68.08,
+    "text": "probably about the 15th time she's done"
+  },
+  {
+    "startTime": 68.08,
+    "endTime": 71.08,
+    "text": "this"
+  },
+  {
+    "startTime": 73.68,
+    "endTime": 76.32,
+    "text": "just having the idea of okay well let's"
+  },
+  {
+    "startTime": 76.32,
+    "endTime": 78.24,
+    "text": "train dogs to go on the scanner it"
+  },
+  {
+    "startTime": 78.24,
+    "endTime": 80.88,
+    "text": "wasn't immediately apparent how you"
+  },
+  {
+    "startTime": 80.88,
+    "endTime": 83.28,
+    "text": "would go about doing that and and mri"
+  },
+  {
+    "startTime": 83.28,
+    "endTime": 84.56,
+    "text": "scanners are"
+  },
+  {
+    "startTime": 84.56,
+    "endTime": 87.92,
+    "text": "not the most pleasant environments"
+  },
+  {
+    "startTime": 88.88,
+    "endTime": 90.479,
+    "text": "okay hey cal"
+  },
+  {
+    "startTime": 90.479,
+    "endTime": 93.92,
+    "text": "coyle good girl callie is the little"
+  },
+  {
+    "startTime": 93.92,
+    "endTime": 95.84,
+    "text": "black terrier who was the first dog to"
+  },
+  {
+    "startTime": 95.84,
+    "endTime": 97.68,
+    "text": "train for the dog project"
+  },
+  {
+    "startTime": 97.68,
+    "endTime": 101.36,
+    "text": "high five i built a simulator of an mri"
+  },
+  {
+    "startTime": 101.36,
+    "endTime": 104.24,
+    "text": "so this is the simulator that i built"
+  },
+  {
+    "startTime": 104.24,
+    "endTime": 106.0,
+    "text": "here in my basement then we started"
+  },
+  {
+    "startTime": 106.0,
+    "endTime": 107.84,
+    "text": "adding in recordings of the scanner"
+  },
+  {
+    "startTime": 107.84,
+    "endTime": 110.72,
+    "text": "noise which is actually quite loud"
+  },
+  {
+    "startTime": 110.72,
+    "endTime": 112.799,
+    "text": "we just started working with you know"
+  },
+  {
+    "startTime": 112.799,
+    "endTime": 114.96,
+    "text": "treats and positive reinforcement to see"
+  },
+  {
+    "startTime": 114.96,
+    "endTime": 116.32,
+    "text": "if we could get her to go into this"
+  },
+  {
+    "startTime": 116.32,
+    "endTime": 118.24,
+    "text": "thing"
+  },
+  {
+    "startTime": 118.24,
+    "endTime": 120.56,
+    "text": "that actually proved to be pretty easy"
+  },
+  {
+    "startTime": 120.56,
+    "endTime": 122.079,
+    "text": "and then so what we did was we kind of"
+  },
+  {
+    "startTime": 122.079,
+    "endTime": 123.52,
+    "text": "put out word of mouth do you want to"
+  },
+  {
+    "startTime": 123.52,
+    "endTime": 124.96,
+    "text": "join this project you want to train your"
+  },
+  {
+    "startTime": 124.96,
+    "endTime": 126.88,
+    "text": "dogs for an mri and you know maybe"
+  },
+  {
+    "startTime": 126.88,
+    "endTime": 128.16,
+    "text": "figure out what they're thinking the"
+  },
+  {
+    "startTime": 128.16,
+    "endTime": 129.44,
+    "text": "purpose of this is to go through a"
+  },
+  {
+    "startTime": 129.44,
+    "endTime": 131.44,
+    "text": "number of exercises including basic"
+  },
+  {
+    "startTime": 131.44,
+    "endTime": 133.76,
+    "text": "obedience as well as how they react to"
+  },
+  {
+    "startTime": 133.76,
+    "endTime": 135.76,
+    "text": "the obstacles"
+  },
+  {
+    "startTime": 135.76,
+    "endTime": 138.64,
+    "text": "when we hold the tryouts it lets us"
+  },
+  {
+    "startTime": 138.64,
+    "endTime": 140.239,
+    "text": "weed out the dogs that we don't think"
+  },
+  {
+    "startTime": 140.239,
+    "endTime": 142.56,
+    "text": "would enjoy doing this"
+  },
+  {
+    "startTime": 142.56,
+    "endTime": 144.8,
+    "text": "one of the benefits then of having more"
+  },
+  {
+    "startTime": 144.8,
+    "endTime": 147.12,
+    "text": "participants as it gives you statistical"
+  },
+  {
+    "startTime": 147.12,
+    "endTime": 149.44,
+    "text": "power you can start to average dogs"
+  },
+  {
+    "startTime": 149.44,
+    "endTime": 150.959,
+    "text": "brains together and get a better sense"
+  },
+  {
+    "startTime": 150.959,
+    "endTime": 152.48,
+    "text": "for what's happening"
+  },
+  {
+    "startTime": 152.48,
+    "endTime": 154.56,
+    "text": "i started wondering very seriously if we"
+  },
+  {
+    "startTime": 154.56,
+    "endTime": 156.239,
+    "text": "could really finally answer this"
+  },
+  {
+    "startTime": 156.239,
+    "endTime": 158.72,
+    "text": "question do dogs essentially"
+  },
+  {
+    "startTime": 158.72,
+    "endTime": 161.519,
+    "text": "like us just for the social bond and not"
+  },
+  {
+    "startTime": 161.519,
+    "endTime": 163.76,
+    "text": "about the food"
+  },
+  {
+    "startTime": 163.76,
+    "endTime": 165.44,
+    "text": "and what we found was looking at the"
+  },
+  {
+    "startTime": 165.44,
+    "endTime": 168.16,
+    "text": "reward system that almost all the dogs"
+  },
+  {
+    "startTime": 168.16,
+    "endTime": 170.879,
+    "text": "had equal responses both to food as well"
+  },
+  {
+    "startTime": 170.879,
+    "endTime": 173.519,
+    "text": "as praise and even a few dogs like the"
+  },
+  {
+    "startTime": 173.519,
+    "endTime": 176.319,
+    "text": "praise more"
+  },
+  {
+    "startTime": 176.64,
+    "endTime": 178.159,
+    "text": "the things that we were finding about"
+  },
+  {
+    "startTime": 178.159,
+    "endTime": 180.879,
+    "text": "the dog's brain in many ways confirm i"
+  },
+  {
+    "startTime": 180.879,
+    "endTime": 182.56,
+    "text": "think what people"
+  },
+  {
+    "startTime": 182.56,
+    "endTime": 184.56,
+    "text": "know in their hearts about how dogs"
+  },
+  {
+    "startTime": 184.56,
+    "endTime": 187.84,
+    "text": "behave and why they behave"
+  },
+  {
+    "startTime": 187.84,
+    "endTime": 189.599,
+    "text": "the way i think about dogs is in many"
+  },
+  {
+    "startTime": 189.599,
+    "endTime": 191.68,
+    "text": "ways they're the ambassadors to the"
+  },
+  {
+    "startTime": 191.68,
+    "endTime": 193.76,
+    "text": "animal world"
+  },
+  {
+    "startTime": 193.76,
+    "endTime": 195.76,
+    "text": "they're not that different from many of"
+  },
+  {
+    "startTime": 195.76,
+    "endTime": 197.519,
+    "text": "the other mammals out there and so i"
+  },
+  {
+    "startTime": 197.519,
+    "endTime": 199.28,
+    "text": "suspect that a lot of what we find in"
+  },
+  {
+    "startTime": 199.28,
+    "endTime": 201.84,
+    "text": "dogs probably holds true for pretty much"
+  },
+  {
+    "startTime": 201.84,
+    "endTime": 203.42,
+    "text": "any mammal"
+  },
+  {
+    "startTime": 203.42,
+    "endTime": 212.61,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 218.08,
+    "endTime": 220.159,
+    "text": "you"
+  }
+]
