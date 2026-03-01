@@ -1,0 +1,407 @@
+[
+  {
+    "startTime": 0.11,
+    "endTime": 8.0,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 8.0,
+    "endTime": 10.04,
+    "text": "these are the first five elements of a"
+  },
+  {
+    "startTime": 10.04,
+    "endTime": 12.24,
+    "text": "number sequence can you figure out what"
+  },
+  {
+    "startTime": 12.24,
+    "endTime": 14.599,
+    "text": "comes"
+  },
+  {
+    "startTime": 16.92,
+    "endTime": 19.64,
+    "text": "next there is a pattern here but it may"
+  },
+  {
+    "startTime": 19.64,
+    "endTime": 21.4,
+    "text": "not be the kind of pattern you think it"
+  },
+  {
+    "startTime": 21.4,
+    "endTime": 24.24,
+    "text": "is look at the sequence again and try"
+  },
+  {
+    "startTime": 24.24,
+    "endTime": 25.519,
+    "text": "reading it"
+  },
+  {
+    "startTime": 25.519,
+    "endTime": 28.199,
+    "text": "aloud now look at the next number in the"
+  },
+  {
+    "startTime": 28.199,
+    "endTime": 31.559,
+    "text": "sequence 31"
+  },
+  {
+    "startTime": 31.559,
+    "endTime": 34.36,
+    "text": "2211 pause again if you'd like to think"
+  },
+  {
+    "startTime": 34.36,
+    "endTime": 36.92,
+    "text": "about it some"
+  },
+  {
+    "startTime": 39.28,
+    "endTime": 42.0,
+    "text": "more this is what's known as a look and"
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 44.68,
+    "text": "say sequence unlike many number"
+  },
+  {
+    "startTime": 44.68,
+    "endTime": 46.8,
+    "text": "sequences this relies not on some"
+  },
+  {
+    "startTime": 46.8,
+    "endTime": 48.76,
+    "text": "mathematical property of the numbers"
+  },
+  {
+    "startTime": 48.76,
+    "endTime": 51.76,
+    "text": "themselves but on their notation start"
+  },
+  {
+    "startTime": 51.76,
+    "endTime": 53.84,
+    "text": "with the leftmost digit of the initial"
+  },
+  {
+    "startTime": 53.84,
+    "endTime": 56.76,
+    "text": "number now read out how many times it"
+  },
+  {
+    "startTime": 56.76,
+    "endTime": 59.239,
+    "text": "repeats in succession followed by the"
+  },
+  {
+    "startTime": 59.239,
+    "endTime": 62.28,
+    "text": "name of the digit itself then move on to"
+  },
+  {
+    "startTime": 62.28,
+    "endTime": 64.72,
+    "text": "the next distinct digit and repeat until"
+  },
+  {
+    "startTime": 64.72,
+    "endTime": 68.24,
+    "text": "you reach the end so the number one is"
+  },
+  {
+    "startTime": 68.24,
+    "endTime": 71.56,
+    "text": "read as 1 one written down the same way"
+  },
+  {
+    "startTime": 71.56,
+    "endTime": 74.64,
+    "text": "we write 11 of course as part of this"
+  },
+  {
+    "startTime": 74.64,
+    "endTime": 77.52,
+    "text": "sequence it's not actually the number 11"
+  },
+  {
+    "startTime": 77.52,
+    "endTime": 81.759,
+    "text": "but two ones which we then write as 2 1"
+  },
+  {
+    "startTime": 81.759,
+    "endTime": 84.56,
+    "text": "that number is then read out as 1"
+  },
+  {
+    "startTime": 84.56,
+    "endTime": 88.759,
+    "text": "211 which written out we'd read as 1 1 1"
+  },
+  {
+    "startTime": 88.759,
+    "endTime": 92.32,
+    "text": "2 21 fs and so"
+  },
+  {
+    "startTime": 92.32,
+    "endTime": 95.079,
+    "text": "on these kinds of sequences were first"
+  },
+  {
+    "startTime": 95.079,
+    "endTime": 97.68,
+    "text": "analyzed by mathematician John Conway"
+  },
+  {
+    "startTime": 97.68,
+    "endTime": 99.56,
+    "text": "who noted they have some interesting"
+  },
+  {
+    "startTime": 99.56,
+    "endTime": 101.799,
+    "text": "properties for instance starting with"
+  },
+  {
+    "startTime": 101.799,
+    "endTime": 104.64,
+    "text": "the number 22 yields an infinite Loop of"
+  },
+  {
+    "startTime": 104.64,
+    "endTime": 107.88,
+    "text": "two tws but when seated with any other"
+  },
+  {
+    "startTime": 107.88,
+    "endTime": 110.36,
+    "text": "number the sequence grows in some very"
+  },
+  {
+    "startTime": 110.36,
+    "endTime": 112.96,
+    "text": "specific ways notice that although the"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 115.32,
+    "text": "number of digits keeps increasing the"
+  },
+  {
+    "startTime": 115.32,
+    "endTime": 117.159,
+    "text": "increase doesn't seem to be either"
+  },
+  {
+    "startTime": 117.159,
+    "endTime": 120.159,
+    "text": "linear or random in fact if if you"
+  },
+  {
+    "startTime": 120.159,
+    "endTime": 122.96,
+    "text": "extend the sequence infinitely a pattern"
+  },
+  {
+    "startTime": 122.96,
+    "endTime": 125.56,
+    "text": "emerges the ratio between the amount of"
+  },
+  {
+    "startTime": 125.56,
+    "endTime": 127.96,
+    "text": "digits in two consecutive terms"
+  },
+  {
+    "startTime": 127.96,
+    "endTime": 130.64,
+    "text": "gradually converges to a single number"
+  },
+  {
+    "startTime": 130.64,
+    "endTime": 133.72,
+    "text": "known as Conway constant this is equal"
+  },
+  {
+    "startTime": 133.72,
+    "endTime": 136.8,
+    "text": "to a little over 1.3 meaning that the"
+  },
+  {
+    "startTime": 136.8,
+    "endTime": 140.08,
+    "text": "amount of digits increases by about 30%"
+  },
+  {
+    "startTime": 140.08,
+    "endTime": 143.0,
+    "text": "with every step in the"
+  },
+  {
+    "startTime": 143.0,
+    "endTime": 145.0,
+    "text": "sequence what about the numbers"
+  },
+  {
+    "startTime": 145.0,
+    "endTime": 146.76,
+    "text": "themselves that gets even more"
+  },
+  {
+    "startTime": 146.76,
+    "endTime": 148.84,
+    "text": "interesting except for the repeating"
+  },
+  {
+    "startTime": 148.84,
+    "endTime": 150.48,
+    "text": "sequence of 22"
+  },
+  {
+    "startTime": 150.48,
+    "endTime": 152.28,
+    "text": "every possible sequence eventually"
+  },
+  {
+    "startTime": 152.28,
+    "endTime": 154.959,
+    "text": "breaks down into distinct strings of"
+  },
+  {
+    "startTime": 154.959,
+    "endTime": 157.16,
+    "text": "digits no matter what order these"
+  },
+  {
+    "startTime": 157.16,
+    "endTime": 160.239,
+    "text": "strings show up in each appears unbroken"
+  },
+  {
+    "startTime": 160.239,
+    "endTime": 163.44,
+    "text": "in its entirety every time it occurs"
+  },
+  {
+    "startTime": 163.44,
+    "endTime": 166.48,
+    "text": "Conway identified 92 of these elements"
+  },
+  {
+    "startTime": 166.48,
+    "endTime": 170.48,
+    "text": "all composed only of digits 1 2 and 3 as"
+  },
+  {
+    "startTime": 170.48,
+    "endTime": 172.599,
+    "text": "well as two additional elements whose"
+  },
+  {
+    "startTime": 172.599,
+    "endTime": 175.08,
+    "text": "variations can end with any digit of"
+  },
+  {
+    "startTime": 175.08,
+    "endTime": 177.959,
+    "text": "four or greater no matter what number"
+  },
+  {
+    "startTime": 177.959,
+    "endTime": 179.84,
+    "text": "the sequence is seated with EV"
+  },
+  {
+    "startTime": 179.84,
+    "endTime": 181.879,
+    "text": "potentially it'll just consist of these"
+  },
+  {
+    "startTime": 181.879,
+    "endTime": 184.799,
+    "text": "combinations with digits four or higher"
+  },
+  {
+    "startTime": 184.799,
+    "endTime": 187.159,
+    "text": "only appearing at the end of the two"
+  },
+  {
+    "startTime": 187.159,
+    "endTime": 189.959,
+    "text": "extra elements if at"
+  },
+  {
+    "startTime": 189.959,
+    "endTime": 193.0,
+    "text": "all Beyond being a neat puzzle the look"
+  },
+  {
+    "startTime": 193.0,
+    "endTime": 195.519,
+    "text": "and say sequence has some practical"
+  },
+  {
+    "startTime": 195.519,
+    "endTime": 198.0,
+    "text": "applications for example runlength"
+  },
+  {
+    "startTime": 198.0,
+    "endTime": 200.04,
+    "text": "encoding a data compression that was"
+  },
+  {
+    "startTime": 200.04,
+    "endTime": 202.0,
+    "text": "once used for television signals and"
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 204.48,
+    "text": "digital Graphics is based on a similar"
+  },
+  {
+    "startTime": 204.48,
+    "endTime": 207.2,
+    "text": "concept the amount of times a data value"
+  },
+  {
+    "startTime": 207.2,
+    "endTime": 209.799,
+    "text": "repeats within the code is recorded as a"
+  },
+  {
+    "startTime": 209.799,
+    "endTime": 212.92,
+    "text": "data value itself sequences like this"
+  },
+  {
+    "startTime": 212.92,
+    "endTime": 215.12,
+    "text": "are a good example of how numbers and"
+  },
+  {
+    "startTime": 215.12,
+    "endTime": 217.519,
+    "text": "other symbols can convey meaning on"
+  },
+  {
+    "startTime": 217.519,
+    "endTime": 221.08,
+    "text": "multiple levels"
+  },
+  {
+    "startTime": 228.06,
+    "endTime": 231.189,
+    "text": "[Music]"
+  }
+]

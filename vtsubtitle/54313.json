@@ -1,0 +1,372 @@
+[
+  {
+    "startTime": 7.808,
+    "endTime": 10.839,
+    "text": "A toothpaste brand claims their product will destroy more plaque"
+  },
+  {
+    "startTime": 10.839,
+    "endTime": 12.91,
+    "text": "than any product ever made."
+  },
+  {
+    "startTime": 12.91,
+    "endTime": 16.411,
+    "text": "A politician tells you their plan will create the most jobs."
+  },
+  {
+    "startTime": 16.411,
+    "endTime": 18.951,
+    "text": "We're so used to hearing these kinds of exaggerations"
+  },
+  {
+    "startTime": 18.951,
+    "endTime": 20.85,
+    "text": "in advertising and politics"
+  },
+  {
+    "startTime": 20.85,
+    "endTime": 23.131,
+    "text": "that we might not even bat an eye."
+  },
+  {
+    "startTime": 23.131,
+    "endTime": 26.111,
+    "text": "But what about when the claim is accompanied by a graph?"
+  },
+  {
+    "startTime": 26.111,
+    "endTime": 28.471,
+    "text": "Afterall, a graph isn't an opinion."
+  },
+  {
+    "startTime": 28.471,
+    "endTime": 32.61,
+    "text": "It represents cold, hard numbers, and who can argue with those?"
+  },
+  {
+    "startTime": 32.61,
+    "endTime": 36.403,
+    "text": "Yet, as it turns out, there are plenty of ways graphs can mislead"
+  },
+  {
+    "startTime": 36.403,
+    "endTime": 38.192,
+    "text": "and outright manipulate."
+  },
+  {
+    "startTime": 38.192,
+    "endTime": 40.745,
+    "text": "Here are some things to look out for."
+  },
+  {
+    "startTime": 40.745,
+    "endTime": 45.76,
+    "text": "In this 1992 ad, Chevy claimed to make the most reliable trucks in America"
+  },
+  {
+    "startTime": 45.76,
+    "endTime": 47.51,
+    "text": "using this graph."
+  },
+  {
+    "startTime": 47.51,
+    "endTime": 51.963,
+    "text": "Not only does it show that 98% of all Chevy trucks sold in the last ten years"
+  },
+  {
+    "startTime": 51.963,
+    "endTime": 53.592,
+    "text": "are still on the road,"
+  },
+  {
+    "startTime": 53.592,
+    "endTime": 57.338,
+    "text": "but it looks like they're twice as dependable as Toyota trucks."
+  },
+  {
+    "startTime": 57.338,
+    "endTime": 60.634,
+    "text": "That is, until you take a closer look at the numbers on the left"
+  },
+  {
+    "startTime": 60.634,
+    "endTime": 65.471,
+    "text": "and see that the figure for Toyota is about 96.5%."
+  },
+  {
+    "startTime": 65.471,
+    "endTime": 69.312,
+    "text": "The scale only goes between 95 and 100%."
+  },
+  {
+    "startTime": 69.313,
+    "endTime": 72.96300000000001,
+    "text": "If it went from 0 to 100, it would look like this."
+  },
+  {
+    "startTime": 72.963,
+    "endTime": 76.243,
+    "text": "This is one of the most common ways graphs misrepresent data,"
+  },
+  {
+    "startTime": 76.243,
+    "endTime": 78.333,
+    "text": "by distorting the scale."
+  },
+  {
+    "startTime": 78.333,
+    "endTime": 80.804,
+    "text": "Zooming in on a small portion of the y-axis"
+  },
+  {
+    "startTime": 80.804,
+    "endTime": 85.703,
+    "text": "exaggerates a barely detectable difference between the things being compared."
+  },
+  {
+    "startTime": 85.703,
+    "endTime": 87.974,
+    "text": "And it's especially misleading  with bar graphs"
+  },
+  {
+    "startTime": 87.974,
+    "endTime": 91.23,
+    "text": "since we assume the difference in the size of the bars"
+  },
+  {
+    "startTime": 91.23,
+    "endTime": 93.232,
+    "text": "is proportional to the values."
+  },
+  {
+    "startTime": 93.233,
+    "endTime": 96.125,
+    "text": "But the scale can also be distorted along the x-axis,"
+  },
+  {
+    "startTime": 96.125,
+    "endTime": 100.414,
+    "text": "usually in line graphs showing something changing over time."
+  },
+  {
+    "startTime": 100.414,
+    "endTime": 104.747,
+    "text": "This chart showing the rise in American unemployment from 2008 to 2010"
+  },
+  {
+    "startTime": 104.747,
+    "endTime": 107.996,
+    "text": "manipulates the x-axis in two ways."
+  },
+  {
+    "startTime": 107.996,
+    "endTime": 110.395,
+    "text": "First of all, the scale is inconsistent,"
+  },
+  {
+    "startTime": 110.395,
+    "endTime": 113.416,
+    "text": "compressing the 15-month span after March 2009"
+  },
+  {
+    "startTime": 113.416,
+    "endTime": 116.755,
+    "text": "to look shorter than  the preceding six months."
+  },
+  {
+    "startTime": 116.755,
+    "endTime": 120.106,
+    "text": "Using more consistent data points gives a different picture"
+  },
+  {
+    "startTime": 120.106,
+    "endTime": 123.705,
+    "text": "with job losses tapering off by the end of 2009."
+  },
+  {
+    "startTime": 123.705,
+    "endTime": 126.675,
+    "text": "And if you wonder why they were increasing in the first place,"
+  },
+  {
+    "startTime": 126.675,
+    "endTime": 130.615,
+    "text": "the timeline starts immediately after the U.S.'s biggest financial collapse"
+  },
+  {
+    "startTime": 130.615,
+    "endTime": 132.626,
+    "text": "since the Great Depression."
+  },
+  {
+    "startTime": 132.626,
+    "endTime": 135.219,
+    "text": "These techniques are known as cherry picking."
+  },
+  {
+    "startTime": 135.219,
+    "endTime": 138.869,
+    "text": "A time range can be carefully chosen to exclude the impact of a major event"
+  },
+  {
+    "startTime": 138.869,
+    "endTime": 140.648,
+    "text": "right outside it."
+  },
+  {
+    "startTime": 140.648,
+    "endTime": 144.762,
+    "text": "And picking specific data points can hide important changes in between."
+  },
+  {
+    "startTime": 144.762,
+    "endTime": 147.356,
+    "text": "Even when there's nothing wrong with the graph itself,"
+  },
+  {
+    "startTime": 147.356,
+    "endTime": 150.936,
+    "text": "leaving out relevant data can give a misleading impression."
+  },
+  {
+    "startTime": 150.937,
+    "endTime": 153.997,
+    "text": "This chart of how many people watch the Super Bowl each year"
+  },
+  {
+    "startTime": 153.997,
+    "endTime": 157.626,
+    "text": "makes it look like the event's popularity is exploding."
+  },
+  {
+    "startTime": 157.626,
+    "endTime": 160.198,
+    "text": "But it's not accounting  for population growth."
+  },
+  {
+    "startTime": 160.198,
+    "endTime": 161.967,
+    "text": "The ratings have actually held steady"
+  },
+  {
+    "startTime": 161.967,
+    "endTime": 165.109,
+    "text": "because while the number  of football fans has increased,"
+  },
+  {
+    "startTime": 165.109,
+    "endTime": 167.959,
+    "text": "their share of overall viewership has not."
+  },
+  {
+    "startTime": 167.959,
+    "endTime": 169.888,
+    "text": "Finally, a graph can't tell you much"
+  },
+  {
+    "startTime": 169.888,
+    "endTime": 173.318,
+    "text": "if you don't know the full significance  of what's being presented."
+  },
+  {
+    "startTime": 173.318,
+    "endTime": 176.45700000000002,
+    "text": "Both of the following graphs use the same ocean temperature data"
+  },
+  {
+    "startTime": 176.457,
+    "endTime": 179.719,
+    "text": "from the National Centers  for Environmental Information."
+  },
+  {
+    "startTime": 179.719,
+    "endTime": 182.489,
+    "text": "So why do they seem to give opposite impressions?"
+  },
+  {
+    "startTime": 182.49,
+    "endTime": 185.279,
+    "text": "The first graph plots the average annual ocean temperature"
+  },
+  {
+    "startTime": 185.279,
+    "endTime": 187.987,
+    "text": "from 1880 to 2016,"
+  },
+  {
+    "startTime": 187.987,
+    "endTime": 190.149,
+    "text": "making the change look insignificant."
+  },
+  {
+    "startTime": 190.149,
+    "endTime": 192.87800000000001,
+    "text": "But in fact, a rise of even half a degree Celsius"
+  },
+  {
+    "startTime": 192.878,
+    "endTime": 195.79799999999997,
+    "text": "can cause massive ecological disruption."
+  },
+  {
+    "startTime": 195.799,
+    "endTime": 197.219,
+    "text": "This is why the second graph,"
+  },
+  {
+    "startTime": 197.219,
+    "endTime": 199.858,
+    "text": "which show the average temperature variation each year,"
+  },
+  {
+    "startTime": 199.858,
+    "endTime": 202.39000000000001,
+    "text": "is far more significant."
+  },
+  {
+    "startTime": 202.39,
+    "endTime": 207.379,
+    "text": "When they're used well, graphs can help us intuitively grasp complex data."
+  },
+  {
+    "startTime": 207.379,
+    "endTime": 211.179,
+    "text": "But as visual software has enabled more usage of graphs throughout all media,"
+  },
+  {
+    "startTime": 211.18,
+    "endTime": 215.9,
+    "text": "it's also made them easier to use in a careless or dishonest way."
+  },
+  {
+    "startTime": 215.9,
+    "endTime": 219.56,
+    "text": "So the next time you see a graph, don't be swayed by the lines and curves."
+  },
+  {
+    "startTime": 219.56,
+    "endTime": 220.882,
+    "text": "Look at the labels,"
+  },
+  {
+    "startTime": 220.882,
+    "endTime": 222.13,
+    "text": "the numbers,"
+  },
+  {
+    "startTime": 222.13,
+    "endTime": 223.48,
+    "text": "the scale,"
+  },
+  {
+    "startTime": 223.48,
+    "endTime": 224.35999999999999,
+    "text": "and the context,"
+  },
+  {
+    "startTime": 224.36,
+    "endTime": 226.78,
+    "text": "and ask what story the picture is trying to tell."
+  }
+]

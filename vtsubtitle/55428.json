@@ -1,0 +1,412 @@
+[
+  {
+    "startTime": 9.476,
+    "endTime": 11.146,
+    "text": "What do Euclid,"
+  },
+  {
+    "startTime": 11.146,
+    "endTime": 12.746,
+    "text": "twelve-year-old Einstein,"
+  },
+  {
+    "startTime": 12.746,
+    "endTime": 16.397,
+    "text": "and American President James Garfield have in common?"
+  },
+  {
+    "startTime": 16.397,
+    "endTime": 20.956,
+    "text": "They all came up with elegant proofs for the famous Pythagorean theorem,"
+  },
+  {
+    "startTime": 20.956,
+    "endTime": 23.206,
+    "text": "the rule that says for a right triangle,"
+  },
+  {
+    "startTime": 23.206,
+    "endTime": 27.86,
+    "text": "the square of one side plus the square of the other side"
+  },
+  {
+    "startTime": 27.86,
+    "endTime": 30.86,
+    "text": "is equal to the square of the hypotenuse."
+  },
+  {
+    "startTime": 30.86,
+    "endTime": 34.717,
+    "text": "In other words, a²+b²=c²."
+  },
+  {
+    "startTime": 34.717,
+    "endTime": 38.297,
+    "text": "This statement is one of the most fundamental rules of geometry,"
+  },
+  {
+    "startTime": 38.297,
+    "endTime": 40.535,
+    "text": "and the basis for practical applications,"
+  },
+  {
+    "startTime": 40.536,
+    "endTime": 45.697,
+    "text": "like constructing stable buildings and triangulating GPS coordinates."
+  },
+  {
+    "startTime": 45.697,
+    "endTime": 48.683,
+    "text": "The theorem is named for Pythagoras,"
+  },
+  {
+    "startTime": 48.683,
+    "endTime": 52.758,
+    "text": "a Greek philosopher and mathematician in the 6th century B.C.,"
+  },
+  {
+    "startTime": 52.758,
+    "endTime": 56.157000000000004,
+    "text": "but it was known more than a thousand years earlier."
+  },
+  {
+    "startTime": 56.157,
+    "endTime": 62.184999999999995,
+    "text": "A Babylonian tablet from around 1800 B.C. lists 15 sets of numbers"
+  },
+  {
+    "startTime": 62.186,
+    "endTime": 64.37,
+    "text": "that satisfy the theorem."
+  },
+  {
+    "startTime": 64.37,
+    "endTime": 67.558,
+    "text": "Some historians speculate that Ancient Egyptian surveyors"
+  },
+  {
+    "startTime": 67.558,
+    "endTime": 73.69800000000001,
+    "text": "used one such set of numbers, 3, 4, 5, to make square corners."
+  },
+  {
+    "startTime": 73.698,
+    "endTime": 78.17899999999999,
+    "text": "The theory is that surveyors could stretch a knotted rope with twelve equal segments"
+  },
+  {
+    "startTime": 78.18,
+    "endTime": 83.22900000000001,
+    "text": "to form a triangle with sides of length 3, 4 and 5."
+  },
+  {
+    "startTime": 83.229,
+    "endTime": 85.939,
+    "text": "According to the converse of the Pythagorean theorem,"
+  },
+  {
+    "startTime": 85.939,
+    "endTime": 88.479,
+    "text": "that has to make a right triangle,"
+  },
+  {
+    "startTime": 88.48,
+    "endTime": 90.63900000000001,
+    "text": "and, therefore, a square corner."
+  },
+  {
+    "startTime": 90.639,
+    "endTime": 93.42,
+    "text": "And the earliest known Indian mathematical texts"
+  },
+  {
+    "startTime": 93.42,
+    "endTime": 96.77,
+    "text": "written between 800 and 600 B.C."
+  },
+  {
+    "startTime": 96.77,
+    "endTime": 100.847,
+    "text": "state that a rope stretched across the diagonal of a square"
+  },
+  {
+    "startTime": 100.847,
+    "endTime": 104.728,
+    "text": "produces a square twice as large as the original one."
+  },
+  {
+    "startTime": 104.728,
+    "endTime": 109.35,
+    "text": "That relationship can be derived from the Pythagorean theorem."
+  },
+  {
+    "startTime": 109.35,
+    "endTime": 112.241,
+    "text": "But how do we know  that the theorem is true"
+  },
+  {
+    "startTime": 112.241,
+    "endTime": 114.851,
+    "text": "for every right triangle on a flat surface,"
+  },
+  {
+    "startTime": 114.851,
+    "endTime": 118.611,
+    "text": "not just the ones these mathematicians and surveyors knew about?"
+  },
+  {
+    "startTime": 118.611,
+    "endTime": 119.95100000000001,
+    "text": "Because we can prove it."
+  },
+  {
+    "startTime": 119.951,
+    "endTime": 122.895,
+    "text": "Proofs use existing mathematical rules and logic"
+  },
+  {
+    "startTime": 122.896,
+    "endTime": 127.419,
+    "text": "to demonstrate that a theorem must hold true all the time."
+  },
+  {
+    "startTime": 127.419,
+    "endTime": 131.137,
+    "text": "One classic proof often attributed to Pythagoras himself"
+  },
+  {
+    "startTime": 131.137,
+    "endTime": 134.11,
+    "text": "uses a strategy called proof by rearrangement."
+  },
+  {
+    "startTime": 134.11,
+    "endTime": 139.65,
+    "text": "Take four identical right triangles with side lengths a and b"
+  },
+  {
+    "startTime": 139.65,
+    "endTime": 142.132,
+    "text": "and hypotenuse length c."
+  },
+  {
+    "startTime": 142.132,
+    "endTime": 146.174,
+    "text": "Arrange them so that their hypotenuses form a tilted square."
+  },
+  {
+    "startTime": 146.174,
+    "endTime": 149.769,
+    "text": "The area of that square is c²."
+  },
+  {
+    "startTime": 149.769,
+    "endTime": 153.192,
+    "text": "Now rearrange the triangles into two rectangles,"
+  },
+  {
+    "startTime": 153.192,
+    "endTime": 155.99200000000002,
+    "text": "leaving smaller squares on either side."
+  },
+  {
+    "startTime": 155.992,
+    "endTime": 160.512,
+    "text": "The areas of those squares are a² and b²."
+  },
+  {
+    "startTime": 160.512,
+    "endTime": 161.681,
+    "text": "Here's the key."
+  },
+  {
+    "startTime": 161.681,
+    "endTime": 164.893,
+    "text": "The total area of  the figure didn't change,"
+  },
+  {
+    "startTime": 164.893,
+    "endTime": 168.261,
+    "text": "and the areas of the triangles didn't change."
+  },
+  {
+    "startTime": 168.261,
+    "endTime": 171.379,
+    "text": "So the empty space in one, c²"
+  },
+  {
+    "startTime": 171.379,
+    "endTime": 174.43599999999998,
+    "text": "must be equal to  the empty space in the other,"
+  },
+  {
+    "startTime": 174.437,
+    "endTime": 178.329,
+    "text": "a² + b²."
+  },
+  {
+    "startTime": 178.329,
+    "endTime": 181.923,
+    "text": "Another proof comes from a fellow Greek mathematician Euclid"
+  },
+  {
+    "startTime": 181.923,
+    "endTime": 185.153,
+    "text": "and was also stumbled upon almost 2,000 years later"
+  },
+  {
+    "startTime": 185.153,
+    "endTime": 187.344,
+    "text": "by twelve-year-old Einstein."
+  },
+  {
+    "startTime": 187.344,
+    "endTime": 190.838,
+    "text": "This proof divides one right triangle into two others"
+  },
+  {
+    "startTime": 190.838,
+    "endTime": 195.153,
+    "text": "and uses the principle that if the corresponding angles of two triangles are the same,"
+  },
+  {
+    "startTime": 196.334,
+    "endTime": 199.63,
+    "text": "the ratio of their sides is the same, too."
+  },
+  {
+    "startTime": 199.63,
+    "endTime": 201.156,
+    "text": "So for these three similar triangles,"
+  },
+  {
+    "startTime": 201.157,
+    "endTime": 205.74,
+    "text": "you can write these expressions for their sides."
+  },
+  {
+    "startTime": 213.474,
+    "endTime": 215.63199999999998,
+    "text": "Next, rearrange the terms."
+  },
+  {
+    "startTime": 219.333,
+    "endTime": 223.814,
+    "text": "And finally, add the two equations together and simplify to get"
+  },
+  {
+    "startTime": 223.814,
+    "endTime": 231.644,
+    "text": "ab²+ac²=bc²,"
+  },
+  {
+    "startTime": 231.644,
+    "endTime": 237.744,
+    "text": "or a²+b²=c²."
+  },
+  {
+    "startTime": 237.744,
+    "endTime": 240.5,
+    "text": "Here's one that uses tessellation,"
+  },
+  {
+    "startTime": 240.5,
+    "endTime": 243.856,
+    "text": "a repeating geometric pattern for a more visual proof."
+  },
+  {
+    "startTime": 243.856,
+    "endTime": 245.605,
+    "text": "Can you see how it works?"
+  },
+  {
+    "startTime": 245.605,
+    "endTime": 248.218,
+    "text": "Pause the video if you'd like some time to think about it."
+  },
+  {
+    "startTime": 250.158,
+    "endTime": 251.505,
+    "text": "Here's the answer."
+  },
+  {
+    "startTime": 251.505,
+    "endTime": 253.975,
+    "text": "The dark gray square is a²"
+  },
+  {
+    "startTime": 253.975,
+    "endTime": 256.576,
+    "text": "and the light gray one is b²."
+  },
+  {
+    "startTime": 256.576,
+    "endTime": 259.495,
+    "text": "The one outlined in blue is c²."
+  },
+  {
+    "startTime": 259.495,
+    "endTime": 263.75600000000003,
+    "text": "Each blue outlined square contains the pieces of exactly one dark"
+  },
+  {
+    "startTime": 263.756,
+    "endTime": 265.895,
+    "text": "and one light gray square,"
+  },
+  {
+    "startTime": 265.896,
+    "endTime": 268.548,
+    "text": "proving the Pythagorean theorem again."
+  },
+  {
+    "startTime": 268.548,
+    "endTime": 270.877,
+    "text": "And if you'd really like to convince yourself,"
+  },
+  {
+    "startTime": 270.877,
+    "endTime": 274.54200000000003,
+    "text": "you could build a turntable with three square boxes of equal depth"
+  },
+  {
+    "startTime": 274.542,
+    "endTime": 277.217,
+    "text": "connected to each other around a right triangle."
+  },
+  {
+    "startTime": 277.217,
+    "endTime": 280.837,
+    "text": "If you fill the largest square with water and spin the turntable,"
+  },
+  {
+    "startTime": 280.837,
+    "endTime": 285.536,
+    "text": "the water from the large square will perfectly fill the two smaller ones."
+  },
+  {
+    "startTime": 285.536,
+    "endTime": 290.984,
+    "text": "The Pythagorean theorem has more than 350 proofs, and counting,"
+  },
+  {
+    "startTime": 290.984,
+    "endTime": 293.265,
+    "text": "ranging from brilliant to obscure."
+  },
+  {
+    "startTime": 293.3,
+    "endTime": 295.3,
+    "text": "Can you add your own to the mix?"
+  },
+  {
+    "startTime": 295.365,
+    "endTime": 297.029,
+    "text": "Did you enjoy this lesson?"
+  },
+  {
+    "startTime": 297.8,
+    "endTime": 304.0,
+    "text": "If so, please consider supporting our non-profit mission by visiting PATREON.COM/TEDED"
+  }
+]

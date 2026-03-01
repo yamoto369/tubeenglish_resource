@@ -1,0 +1,537 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 8.98,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 9.36,
+    "endTime": 12.96,
+    "text": "What do Uklid, 12-year-old Einstein, and"
+  },
+  {
+    "startTime": 12.96,
+    "endTime": 15.44,
+    "text": "American President James Garfield have"
+  },
+  {
+    "startTime": 15.44,
+    "endTime": 17.84,
+    "text": "in common? They all came up with elegant"
+  },
+  {
+    "startTime": 17.84,
+    "endTime": 20.08,
+    "text": "proofs for the famous Pythagorean"
+  },
+  {
+    "startTime": 20.08,
+    "endTime": 22.48,
+    "text": "theorem. the rule that says for a right"
+  },
+  {
+    "startTime": 22.48,
+    "endTime": 25.76,
+    "text": "triangle the square of one side plus the"
+  },
+  {
+    "startTime": 25.76,
+    "endTime": 28.08,
+    "text": "square of the other side is equal to the"
+  },
+  {
+    "startTime": 28.08,
+    "endTime": 30.32,
+    "text": "square of the hypotenuse. In other"
+  },
+  {
+    "startTime": 30.32,
+    "endTime": 35.2,
+    "text": "words, a 2 + b 2 = c^2. This statement"
+  },
+  {
+    "startTime": 35.2,
+    "endTime": 37.36,
+    "text": "is one of the most fundamental rules of"
+  },
+  {
+    "startTime": 37.36,
+    "endTime": 39.68,
+    "text": "geometry and the basis for practical"
+  },
+  {
+    "startTime": 39.68,
+    "endTime": 41.84,
+    "text": "applications like constructing stable"
+  },
+  {
+    "startTime": 41.84,
+    "endTime": 43.92,
+    "text": "buildings and triangulating GPS"
+  },
+  {
+    "startTime": 43.92,
+    "endTime": 46.0,
+    "text": "coordinates."
+  },
+  {
+    "startTime": 46.0,
+    "endTime": 48.8,
+    "text": "The theorem is named for Pythagoras, a"
+  },
+  {
+    "startTime": 48.8,
+    "endTime": 50.719,
+    "text": "Greek philosopher and mathematician in"
+  },
+  {
+    "startTime": 50.719,
+    "endTime": 53.6,
+    "text": "the 6th century BC, but it was known"
+  },
+  {
+    "startTime": 53.6,
+    "endTime": 56.239,
+    "text": "more than a thousand years earlier. A"
+  },
+  {
+    "startTime": 56.239,
+    "endTime": 59.76,
+    "text": "Babylonian tablet from around 1800 BC"
+  },
+  {
+    "startTime": 59.76,
+    "endTime": 62.8,
+    "text": "lists 15 sets of numbers that satisfy"
+  },
+  {
+    "startTime": 62.8,
+    "endTime": 65.439,
+    "text": "the theorem. Some historians speculate"
+  },
+  {
+    "startTime": 65.439,
+    "endTime": 68.4,
+    "text": "that ancient Egyptian surveyors used one"
+  },
+  {
+    "startTime": 68.4,
+    "endTime": 72.08,
+    "text": "such set of numbers, 3 4 5 to make"
+  },
+  {
+    "startTime": 72.08,
+    "endTime": 74.479,
+    "text": "square corners. The theory is that"
+  },
+  {
+    "startTime": 74.479,
+    "endTime": 76.4,
+    "text": "surveyors could stretch a knotted rope"
+  },
+  {
+    "startTime": 76.4,
+    "endTime": 78.799,
+    "text": "with 12 equal segments to form a"
+  },
+  {
+    "startTime": 78.799,
+    "endTime": 83.119,
+    "text": "triangle with sides of length 3 4 and 5."
+  },
+  {
+    "startTime": 83.119,
+    "endTime": 84.56,
+    "text": "According to the converse of the"
+  },
+  {
+    "startTime": 84.56,
+    "endTime": 87.119,
+    "text": "Pythagorean theorem, that has to make a"
+  },
+  {
+    "startTime": 87.119,
+    "endTime": 89.759,
+    "text": "right triangle and therefore a square"
+  },
+  {
+    "startTime": 89.759,
+    "endTime": 92.079,
+    "text": "corner. And the earliest known Indian"
+  },
+  {
+    "startTime": 92.079,
+    "endTime": 94.96,
+    "text": "mathematical texts written between 800"
+  },
+  {
+    "startTime": 94.96,
+    "endTime": 98.64,
+    "text": "and 600 BC state that a rope stretched"
+  },
+  {
+    "startTime": 98.64,
+    "endTime": 101.52,
+    "text": "across the diagonal of a square produces"
+  },
+  {
+    "startTime": 101.52,
+    "endTime": 104.0,
+    "text": "a square twice as large as the original"
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 106.399,
+    "text": "one. That relationship can be derived"
+  },
+  {
+    "startTime": 106.399,
+    "endTime": 110.159,
+    "text": "from the Pythagorean theorem."
+  },
+  {
+    "startTime": 110.159,
+    "endTime": 111.84,
+    "text": "But how do we know that the theorem is"
+  },
+  {
+    "startTime": 111.84,
+    "endTime": 114.24,
+    "text": "true for every right triangle on a flat"
+  },
+  {
+    "startTime": 114.24,
+    "endTime": 116.079,
+    "text": "surface, not just the ones these"
+  },
+  {
+    "startTime": 116.079,
+    "endTime": 118.479,
+    "text": "mathematicians and surveyors knew about?"
+  },
+  {
+    "startTime": 118.479,
+    "endTime": 120.56,
+    "text": "Because we can prove it. Proofs use"
+  },
+  {
+    "startTime": 120.56,
+    "endTime": 123.119,
+    "text": "existing mathematical rules and logic to"
+  },
+  {
+    "startTime": 123.119,
+    "endTime": 124.96,
+    "text": "demonstrate that a theorem must hold"
+  },
+  {
+    "startTime": 124.96,
+    "endTime": 128.72,
+    "text": "true all the time. One classic proof"
+  },
+  {
+    "startTime": 128.72,
+    "endTime": 131.2,
+    "text": "often attributed to Pythagoras himself"
+  },
+  {
+    "startTime": 131.2,
+    "endTime": 133.12,
+    "text": "uses a strategy called proof by"
+  },
+  {
+    "startTime": 133.12,
+    "endTime": 136.4,
+    "text": "rearrangement. Take four identical right"
+  },
+  {
+    "startTime": 136.4,
+    "endTime": 139.92,
+    "text": "triangles with side lengths A and B and"
+  },
+  {
+    "startTime": 139.92,
+    "endTime": 142.879,
+    "text": "hypotenuse length C. Arrange them so"
+  },
+  {
+    "startTime": 142.879,
+    "endTime": 145.28,
+    "text": "that their hypotenuses form a tilted"
+  },
+  {
+    "startTime": 145.28,
+    "endTime": 148.56,
+    "text": "square. The area of that square is C^"
+  },
+  {
+    "startTime": 148.56,
+    "endTime": 151.68,
+    "text": "squ. Now rearrange the triangles into"
+  },
+  {
+    "startTime": 151.68,
+    "endTime": 154.56,
+    "text": "two rectangles, leaving smaller squares"
+  },
+  {
+    "startTime": 154.56,
+    "endTime": 156.959,
+    "text": "on either side. The areas of those"
+  },
+  {
+    "startTime": 156.959,
+    "endTime": 160.879,
+    "text": "squares are A 2 and B^ 2. Here's the"
+  },
+  {
+    "startTime": 160.879,
+    "endTime": 163.92,
+    "text": "key. The total area of the figure didn't"
+  },
+  {
+    "startTime": 163.92,
+    "endTime": 166.879,
+    "text": "change and the areas of the triangles"
+  },
+  {
+    "startTime": 166.879,
+    "endTime": 170.4,
+    "text": "didn't change. So the empty space in one"
+  },
+  {
+    "startTime": 170.4,
+    "endTime": 173.519,
+    "text": "c^ 2 must be equal to the empty space in"
+  },
+  {
+    "startTime": 173.519,
+    "endTime": 178.16,
+    "text": "the other a^2 + b^ 2."
+  },
+  {
+    "startTime": 178.16,
+    "endTime": 180.239,
+    "text": "Another proof comes from a fellow Greek"
+  },
+  {
+    "startTime": 180.239,
+    "endTime": 182.56,
+    "text": "mathematician Uklid and was also"
+  },
+  {
+    "startTime": 182.56,
+    "endTime": 185.12,
+    "text": "stumbled upon almost 2,000 years later"
+  },
+  {
+    "startTime": 185.12,
+    "endTime": 187.92,
+    "text": "by 12-year-old Einstein. This proof"
+  },
+  {
+    "startTime": 187.92,
+    "endTime": 190.319,
+    "text": "divides one right triangle into two"
+  },
+  {
+    "startTime": 190.319,
+    "endTime": 192.879,
+    "text": "others and uses the principle that if"
+  },
+  {
+    "startTime": 192.879,
+    "endTime": 194.72,
+    "text": "the corresponding angles of two"
+  },
+  {
+    "startTime": 194.72,
+    "endTime": 196.959,
+    "text": "triangles are the same, the ratio of"
+  },
+  {
+    "startTime": 196.959,
+    "endTime": 199.28,
+    "text": "their sides is the same too. So for"
+  },
+  {
+    "startTime": 199.28,
+    "endTime": 201.68,
+    "text": "these three similar triangles, you can"
+  },
+  {
+    "startTime": 201.68,
+    "endTime": 206.519,
+    "text": "write these expressions for their sides."
+  },
+  {
+    "startTime": 206.71,
+    "endTime": 210.8,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 213.36,
+    "endTime": 217.72,
+    "text": "Next, rearrange the terms."
+  },
+  {
+    "startTime": 219.2,
+    "endTime": 221.28,
+    "text": "And finally add the two equations"
+  },
+  {
+    "startTime": 221.28,
+    "endTime": 226.4,
+    "text": "together and simplify to get a b^2 + a"
+  },
+  {
+    "startTime": 226.4,
+    "endTime": 230.08,
+    "text": "c^ 2 ="
+  },
+  {
+    "startTime": 230.08,
+    "endTime": 237.519,
+    "text": "b c^² or a 2 + b 2 = c^ 2."
+  },
+  {
+    "startTime": 237.519,
+    "endTime": 240.159,
+    "text": "Here's one that uses tessillation, a"
+  },
+  {
+    "startTime": 240.159,
+    "endTime": 242.4,
+    "text": "repeating geometric pattern for a more"
+  },
+  {
+    "startTime": 242.4,
+    "endTime": 245.519,
+    "text": "visual proof. Can you see how it works?"
+  },
+  {
+    "startTime": 245.519,
+    "endTime": 247.12,
+    "text": "Pause the video if you'd like some time"
+  },
+  {
+    "startTime": 247.12,
+    "endTime": 250.08,
+    "text": "to think about it."
+  },
+  {
+    "startTime": 250.08,
+    "endTime": 252.799,
+    "text": "Here's the answer. The dark gray square"
+  },
+  {
+    "startTime": 252.799,
+    "endTime": 256.4,
+    "text": "is a squ and the light gray one is b^ 2."
+  },
+  {
+    "startTime": 256.4,
+    "endTime": 259.68,
+    "text": "The one outlined in blue is c^ squ. Each"
+  },
+  {
+    "startTime": 259.68,
+    "endTime": 262.079,
+    "text": "blue outlined square contains the pieces"
+  },
+  {
+    "startTime": 262.079,
+    "endTime": 265.12,
+    "text": "of exactly one dark and one light gray"
+  },
+  {
+    "startTime": 265.12,
+    "endTime": 267.6,
+    "text": "square, proving the Pythagorean theorem"
+  },
+  {
+    "startTime": 267.6,
+    "endTime": 269.84,
+    "text": "again. And if you'd really like to"
+  },
+  {
+    "startTime": 269.84,
+    "endTime": 271.6,
+    "text": "convince yourself, you could build a"
+  },
+  {
+    "startTime": 271.6,
+    "endTime": 273.84,
+    "text": "turntable with three square boxes of"
+  },
+  {
+    "startTime": 273.84,
+    "endTime": 275.6,
+    "text": "equal depth connected to each other"
+  },
+  {
+    "startTime": 275.6,
+    "endTime": 277.759,
+    "text": "around a right triangle. If you fill the"
+  },
+  {
+    "startTime": 277.759,
+    "endTime": 279.919,
+    "text": "largest square with water and spin the"
+  },
+  {
+    "startTime": 279.919,
+    "endTime": 281.759,
+    "text": "turntable, the water from the large"
+  },
+  {
+    "startTime": 281.759,
+    "endTime": 283.84,
+    "text": "square will perfectly fill the two"
+  },
+  {
+    "startTime": 283.84,
+    "endTime": 285.919,
+    "text": "smaller ones."
+  },
+  {
+    "startTime": 285.919,
+    "endTime": 288.24,
+    "text": "The Pythagorean theorem has more than"
+  },
+  {
+    "startTime": 288.24,
+    "endTime": 291.52,
+    "text": "350 proofs and counting, ranging from"
+  },
+  {
+    "startTime": 291.52,
+    "endTime": 293.84,
+    "text": "brilliant to obscure. Can you add your"
+  },
+  {
+    "startTime": 293.84,
+    "endTime": 296.24,
+    "text": "own to the mix?"
+  },
+  {
+    "startTime": 296.24,
+    "endTime": 299.04,
+    "text": "Did you enjoy this lesson? If so, please"
+  },
+  {
+    "startTime": 299.04,
+    "endTime": 300.72,
+    "text": "consider supporting our nonprofit"
+  },
+  {
+    "startTime": 300.72,
+    "endTime": 304.59,
+    "text": "mission by visiting patreon.com/tedded."
+  },
+  {
+    "startTime": 304.59,
+    "endTime": 317.439,
+    "text": "[Music]"
+  }
+]
