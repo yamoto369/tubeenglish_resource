@@ -1,0 +1,562 @@
+[
+  {
+    "startTime": 2.61,
+    "endTime": 13.309,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 16.32,
+    "endTime": 18.08,
+    "text": "so it turns out that mathematics is a"
+  },
+  {
+    "startTime": 18.08,
+    "endTime": 19.92,
+    "text": "very powerful language it has generated"
+  },
+  {
+    "startTime": 19.92,
+    "endTime": 21.88,
+    "text": "considerable Insight in physics in"
+  },
+  {
+    "startTime": 21.88,
+    "endTime": 24.599,
+    "text": "biology and in economics but not that"
+  },
+  {
+    "startTime": 24.599,
+    "endTime": 26.88,
+    "text": "much in the humanities and in history I"
+  },
+  {
+    "startTime": 26.88,
+    "endTime": 28.279,
+    "text": "think there's the belief that is just"
+  },
+  {
+    "startTime": 28.279,
+    "endTime": 30.439,
+    "text": "impossible that you cannot ify the"
+  },
+  {
+    "startTime": 30.439,
+    "endTime": 32.52,
+    "text": "doings of mankind that you cannot"
+  },
+  {
+    "startTime": 32.52,
+    "endTime": 34.8,
+    "text": "measure history but I don't think that's"
+  },
+  {
+    "startTime": 34.8,
+    "endTime": 35.96,
+    "text": "right I want to show you a couple of"
+  },
+  {
+    "startTime": 35.96,
+    "endTime": 38.52,
+    "text": "examples why so my collaborator Aras and"
+  },
+  {
+    "startTime": 38.52,
+    "endTime": 40.879,
+    "text": "I were considering the following fact"
+  },
+  {
+    "startTime": 40.879,
+    "endTime": 43.2,
+    "text": "that two kings separated by centuries"
+  },
+  {
+    "startTime": 43.2,
+    "endTime": 45.36,
+    "text": "will speak a very different language"
+  },
+  {
+    "startTime": 45.36,
+    "endTime": 47.36,
+    "text": "that's a powerful historical Force so"
+  },
+  {
+    "startTime": 47.36,
+    "endTime": 49.0,
+    "text": "the king of England Alfred the Great"
+  },
+  {
+    "startTime": 49.0,
+    "endTime": 50.84,
+    "text": "will use a vocabulary and a grammar that"
+  },
+  {
+    "startTime": 50.84,
+    "endTime": 53.0,
+    "text": "is quite different from the king of Hip"
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 54.6,
+    "text": "Hop"
+  },
+  {
+    "startTime": 54.6,
+    "endTime": 56.239,
+    "text": "Jay-Z"
+  },
+  {
+    "startTime": 56.239,
+    "endTime": 58.399,
+    "text": "now it's just the way it is language"
+  },
+  {
+    "startTime": 58.399,
+    "endTime": 59.719,
+    "text": "changes over time and it's a powerful"
+  },
+  {
+    "startTime": 59.719,
+    "endTime": 60.6,
+    "text": "force"
+  },
+  {
+    "startTime": 60.6,
+    "endTime": 62.32,
+    "text": "so Aris and I wanted to know more about"
+  },
+  {
+    "startTime": 62.32,
+    "endTime": 63.68,
+    "text": "that so we paid attention to a"
+  },
+  {
+    "startTime": 63.68,
+    "endTime": 65.439,
+    "text": "particular grammatical rule past tense"
+  },
+  {
+    "startTime": 65.439,
+    "endTime": 67.96,
+    "text": "conjugation so you just add Ed to a verb"
+  },
+  {
+    "startTime": 67.96,
+    "endTime": 69.84,
+    "text": "at the end to signify the past today I"
+  },
+  {
+    "startTime": 69.84,
+    "endTime": 72.0,
+    "text": "walk yesterday I walked but some verbs"
+  },
+  {
+    "startTime": 72.0,
+    "endTime": 74.92,
+    "text": "are irregular yesterday I thought now"
+  },
+  {
+    "startTime": 74.92,
+    "endTime": 76.36,
+    "text": "what's interesting about that is"
+  },
+  {
+    "startTime": 76.36,
+    "endTime": 78.759,
+    "text": "irregular verbs between Alfred and Jay-Z"
+  },
+  {
+    "startTime": 78.759,
+    "endTime": 80.32,
+    "text": "have become more regular like the verb"
+  },
+  {
+    "startTime": 80.32,
+    "endTime": 81.92,
+    "text": "to Wed that you see here has become"
+  },
+  {
+    "startTime": 81.92,
+    "endTime": 84.96,
+    "text": "regular so AR and I followed the fate of"
+  },
+  {
+    "startTime": 84.96,
+    "endTime": 86.68,
+    "text": "over 100 irregular verbs through 12"
+  },
+  {
+    "startTime": 86.68,
+    "endTime": 89.119,
+    "text": "centuries of English language and we saw"
+  },
+  {
+    "startTime": 89.119,
+    "endTime": 90.479,
+    "text": "that there's actually a very simple"
+  },
+  {
+    "startTime": 90.479,
+    "endTime": 92.64,
+    "text": "mathematical pattern that captures this"
+  },
+  {
+    "startTime": 92.64,
+    "endTime": 95.439,
+    "text": "complex historical change namely if a"
+  },
+  {
+    "startTime": 95.439,
+    "endTime": 97.119,
+    "text": "verb is 100 times more frequent than"
+  },
+  {
+    "startTime": 97.119,
+    "endTime": 100.92,
+    "text": "another it regularizes 10 times slower"
+  },
+  {
+    "startTime": 100.92,
+    "endTime": 102.88,
+    "text": "that's a piece of history but it comes"
+  },
+  {
+    "startTime": 102.88,
+    "endTime": 105.68,
+    "text": "in a mathematical wrapping now in some"
+  },
+  {
+    "startTime": 105.68,
+    "endTime": 107.96,
+    "text": "cases math can even help explain or"
+  },
+  {
+    "startTime": 107.96,
+    "endTime": 110.159,
+    "text": "propose explanations for historical"
+  },
+  {
+    "startTime": 110.159,
+    "endTime": 112.96,
+    "text": "forces so here Steve Pinker and I were"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 115.04,
+    "text": "considering the magnitude of wars during"
+  },
+  {
+    "startTime": 115.04,
+    "endTime": 117.079,
+    "text": "the last two centuries there's actually"
+  },
+  {
+    "startTime": 117.079,
+    "endTime": 119.68,
+    "text": "a well-known regularity to them where"
+  },
+  {
+    "startTime": 119.68,
+    "endTime": 121.6,
+    "text": "the number of wars that are 100 times"
+  },
+  {
+    "startTime": 121.6,
+    "endTime": 124.68,
+    "text": "deadlier is 10 times smaller so there"
+  },
+  {
+    "startTime": 124.68,
+    "endTime": 126.6,
+    "text": "are 30 Wars that are about as deadly as"
+  },
+  {
+    "startTime": 126.6,
+    "endTime": 129.0,
+    "text": "the Six Days War but there's only four"
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 131.0,
+    "text": "Wars that are 100 times deadlier like"
+  },
+  {
+    "startTime": 131.0,
+    "endTime": 133.8,
+    "text": "World War I so what kind of historical"
+  },
+  {
+    "startTime": 133.8,
+    "endTime": 135.879,
+    "text": "mechanism can produce that what's the"
+  },
+  {
+    "startTime": 135.879,
+    "endTime": 138.519,
+    "text": "origin of this so stepen I through"
+  },
+  {
+    "startTime": 138.519,
+    "endTime": 140.68,
+    "text": "mathematical analysis proposed that"
+  },
+  {
+    "startTime": 140.68,
+    "endTime": 142.8,
+    "text": "there's actually a very simple phenomena"
+  },
+  {
+    "startTime": 142.8,
+    "endTime": 144.56,
+    "text": "at the root of this which is which lies"
+  },
+  {
+    "startTime": 144.56,
+    "endTime": 147.16,
+    "text": "in our brains this is a very wellknown"
+  },
+  {
+    "startTime": 147.16,
+    "endTime": 149.48,
+    "text": "feature which we perceive quantities in"
+  },
+  {
+    "startTime": 149.48,
+    "endTime": 151.68,
+    "text": "relative ways the quantities like the"
+  },
+  {
+    "startTime": 151.68,
+    "endTime": 153.72,
+    "text": "intensity of light or the loudness of a"
+  },
+  {
+    "startTime": 153.72,
+    "endTime": 156.519,
+    "text": "sound for instance committing 10,000"
+  },
+  {
+    "startTime": 156.519,
+    "endTime": 158.68,
+    "text": "soldiers to the next battle sounds like"
+  },
+  {
+    "startTime": 158.68,
+    "endTime": 160.519,
+    "text": "a lot it's relatively enormous if you've"
+  },
+  {
+    "startTime": 160.519,
+    "endTime": 162.4,
+    "text": "already committed 1,000 soldiers"
+  },
+  {
+    "startTime": 162.4,
+    "endTime": 165.0,
+    "text": "previously but it doesn't sound so much"
+  },
+  {
+    "startTime": 165.0,
+    "endTime": 167.28,
+    "text": "it's not relatively enough it won't make"
+  },
+  {
+    "startTime": 167.28,
+    "endTime": 168.8,
+    "text": "a difference if you've already committed"
+  },
+  {
+    "startTime": 168.8,
+    "endTime": 171.599,
+    "text": "100,000 soldiers previously so you see"
+  },
+  {
+    "startTime": 171.599,
+    "endTime": 173.8,
+    "text": "that because of the way we perceive"
+  },
+  {
+    "startTime": 173.8,
+    "endTime": 176.959,
+    "text": "quantities as the war drags on the"
+  },
+  {
+    "startTime": 176.959,
+    "endTime": 178.72,
+    "text": "number of soldiers committed to it and"
+  },
+  {
+    "startTime": 178.72,
+    "endTime": 180.4,
+    "text": "the casualties will increase not"
+  },
+  {
+    "startTime": 180.4,
+    "endTime": 183.519,
+    "text": "linearly like 10,000 11,000 12,000 but"
+  },
+  {
+    "startTime": 183.519,
+    "endTime": 186.44,
+    "text": "exponentially 10,000 later 20,000 later"
+  },
+  {
+    "startTime": 186.44,
+    "endTime": 189.0,
+    "text": "40,000 and so that explains this pattern"
+  },
+  {
+    "startTime": 189.0,
+    "endTime": 191.08,
+    "text": "that we've seen before so here"
+  },
+  {
+    "startTime": 191.08,
+    "endTime": 193.599,
+    "text": "mathematics is able to link a well-known"
+  },
+  {
+    "startTime": 193.599,
+    "endTime": 196.2,
+    "text": "feature of the individual mind with a"
+  },
+  {
+    "startTime": 196.2,
+    "endTime": 198.44,
+    "text": "long-term pattern a historical pattern"
+  },
+  {
+    "startTime": 198.44,
+    "endTime": 201.239,
+    "text": "that unfolds over centuries and across"
+  },
+  {
+    "startTime": 201.239,
+    "endTime": 203.84,
+    "text": "continents so these type of examples"
+  },
+  {
+    "startTime": 203.84,
+    "endTime": 206.319,
+    "text": "today there just few of them but I think"
+  },
+  {
+    "startTime": 206.319,
+    "endTime": 207.599,
+    "text": "that in the next decade they will become"
+  },
+  {
+    "startTime": 207.599,
+    "endTime": 209.439,
+    "text": "common place the reason for that is that"
+  },
+  {
+    "startTime": 209.439,
+    "endTime": 211.159,
+    "text": "the history iCal record is becoming"
+  },
+  {
+    "startTime": 211.159,
+    "endTime": 214.04,
+    "text": "digitized at very fast pace so there's"
+  },
+  {
+    "startTime": 214.04,
+    "endTime": 216.2,
+    "text": "about 130 million books that have been"
+  },
+  {
+    "startTime": 216.2,
+    "endTime": 218.92,
+    "text": "written since the dawn of time companies"
+  },
+  {
+    "startTime": 218.92,
+    "endTime": 220.599,
+    "text": "like Google have dized many of them"
+  },
+  {
+    "startTime": 220.599,
+    "endTime": 222.879,
+    "text": "above 20 million actually and when the"
+  },
+  {
+    "startTime": 222.879,
+    "endTime": 225.159,
+    "text": "stuff of history is available in digital"
+  },
+  {
+    "startTime": 225.159,
+    "endTime": 227.2,
+    "text": "form it makes it possible for"
+  },
+  {
+    "startTime": 227.2,
+    "endTime": 229.56,
+    "text": "mathematical analysis to very quickly"
+  },
+  {
+    "startTime": 229.56,
+    "endTime": 231.28,
+    "text": "and very conveniently reveal Trends in"
+  },
+  {
+    "startTime": 231.28,
+    "endTime": 234.76,
+    "text": "our history in our culture so I think as"
+  },
+  {
+    "startTime": 234.76,
+    "endTime": 237.04,
+    "text": "in the next decade the sciences and the"
+  },
+  {
+    "startTime": 237.04,
+    "endTime": 239.079,
+    "text": "humanities will come closer together to"
+  },
+  {
+    "startTime": 239.079,
+    "endTime": 241.0,
+    "text": "be able to are deep questions about"
+  },
+  {
+    "startTime": 241.0,
+    "endTime": 243.72,
+    "text": "Mankind and I think that mathematics"
+  },
+  {
+    "startTime": 243.72,
+    "endTime": 245.84,
+    "text": "will be a very powerful language to do"
+  },
+  {
+    "startTime": 245.84,
+    "endTime": 248.0,
+    "text": "that it will be able to reveal new"
+  },
+  {
+    "startTime": 248.0,
+    "endTime": 250.319,
+    "text": "trends in our history sometimes to"
+  },
+  {
+    "startTime": 250.319,
+    "endTime": 252.2,
+    "text": "explain them and maybe even in the"
+  },
+  {
+    "startTime": 252.2,
+    "endTime": 254.28,
+    "text": "future to predict what's going to happen"
+  },
+  {
+    "startTime": 254.28,
+    "endTime": 257.72,
+    "text": "thank you very much"
+  },
+  {
+    "startTime": 260.25,
+    "endTime": 263.56,
+    "text": "[Music]"
+  }
+]

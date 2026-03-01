@@ -1,0 +1,1187 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 15.916,
+    "endTime": 19.133,
+    "text": "Living with a physical disability isn't easy"
+  },
+  {
+    "startTime": 19.157,
+    "endTime": 21.356,
+    "text": "anywhere in the world,"
+  },
+  {
+    "startTime": 21.38,
+    "endTime": 24.185,
+    "text": "but if you live in a country like the United States,"
+  },
+  {
+    "startTime": 24.209,
+    "endTime": 27.278,
+    "text": "there's certain appurtenances available to you that do make life easier."
+  },
+  {
+    "startTime": 27.302,
+    "endTime": 29.951,
+    "text": "So if you're in a building, you can take an elevator."
+  },
+  {
+    "startTime": 29.975,
+    "endTime": 32.231,
+    "text": "If you're crossing the street, you have sidewalk cutouts."
+  },
+  {
+    "startTime": 32.255,
+    "endTime": 34.494,
+    "text": "And if you have to travel some distance farther"
+  },
+  {
+    "startTime": 34.518,
+    "endTime": 37.661,
+    "text": "than you can do under your own power, there's accessible vehicles,"
+  },
+  {
+    "startTime": 37.685,
+    "endTime": 39.522000000000006,
+    "text": "and if you can't afford one of those,"
+  },
+  {
+    "startTime": 39.546,
+    "endTime": 41.894,
+    "text": "there's accessible public transportation."
+  },
+  {
+    "startTime": 41.919,
+    "endTime": 44.586,
+    "text": "But in the developing world, things are quite different."
+  },
+  {
+    "startTime": 44.61,
+    "endTime": 47.805,
+    "text": "There's 40 million people who need a wheelchair but don't have one,"
+  },
+  {
+    "startTime": 47.829,
+    "endTime": 51.160000000000004,
+    "text": "and the majority of these people live in rural areas,"
+  },
+  {
+    "startTime": 51.184,
+    "endTime": 55.44,
+    "text": "where the only connections to community, to employment, to education,"
+  },
+  {
+    "startTime": 55.69,
+    "endTime": 57.528,
+    "text": "are by traveling long distances on rough terrain"
+  },
+  {
+    "startTime": 57.552,
+    "endTime": 60.265,
+    "text": "often under their own power."
+  },
+  {
+    "startTime": 60.289,
+    "endTime": 62.623000000000005,
+    "text": "And the devices usually available to these people"
+  },
+  {
+    "startTime": 62.647,
+    "endTime": 65.81,
+    "text": "are not made for that context, break down quickly,"
+  },
+  {
+    "startTime": 65.105,
+    "endTime": 67.391,
+    "text": "and are hard to repair."
+  },
+  {
+    "startTime": 67.415,
+    "endTime": 72.111,
+    "text": "I started looking at wheelchairs in developing countries in 2005,"
+  },
+  {
+    "startTime": 72.135,
+    "endTime": 75.927,
+    "text": "when I spent the summer assessing the state of technology in Tanzania,"
+  },
+  {
+    "startTime": 75.951,
+    "endTime": 79.74,
+    "text": "and I talked to wheelchair users, wheelchair manufacturers, disability groups,"
+  },
+  {
+    "startTime": 79.764,
+    "endTime": 81.597,
+    "text": "and what stood out to me"
+  },
+  {
+    "startTime": 81.621,
+    "endTime": 84.47999999999999,
+    "text": "is that there wasn't a device available"
+  },
+  {
+    "startTime": 84.73,
+    "endTime": 86.59700000000001,
+    "text": "that was designed for rural areas, that could go fast"
+  },
+  {
+    "startTime": 86.621,
+    "endTime": 89.213,
+    "text": "and efficiently on many types of terrain."
+  },
+  {
+    "startTime": 89.237,
+    "endTime": 90.996,
+    "text": "So being a mechanical engineer,"
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 93.782,
+    "text": "being at MIT and having lots of resources available to me,"
+  },
+  {
+    "startTime": 93.806,
+    "endTime": 96.96,
+    "text": "I thought I'd try to do something about it."
+  },
+  {
+    "startTime": 96.12,
+    "endTime": 99.49000000000001,
+    "text": "Now when you're talking about trying to travel"
+  },
+  {
+    "startTime": 99.73,
+    "endTime": 101.25500000000001,
+    "text": "long distances on rough terrain,"
+  },
+  {
+    "startTime": 101.279,
+    "endTime": 102.988,
+    "text": "I immediately thought of a mountain bike,"
+  },
+  {
+    "startTime": 103.12,
+    "endTime": 104.40100000000001,
+    "text": "and a mountain bike's good at doing this"
+  },
+  {
+    "startTime": 104.425,
+    "endTime": 106.24,
+    "text": "because it has a gear train,"
+  },
+  {
+    "startTime": 106.264,
+    "endTime": 109.74,
+    "text": "and you can shift to a low gear if you have to climb a hill"
+  },
+  {
+    "startTime": 109.98,
+    "endTime": 110.7,
+    "text": "or go through mud or sand"
+  },
+  {
+    "startTime": 110.724,
+    "endTime": 112.81400000000001,
+    "text": "and you get a lot of torque but a low speed."
+  },
+  {
+    "startTime": 112.838,
+    "endTime": 114.928,
+    "text": "And if you want to go faster, say on pavement,"
+  },
+  {
+    "startTime": 114.953,
+    "endTime": 116.334,
+    "text": "you can shift to a high gear,"
+  },
+  {
+    "startTime": 116.358,
+    "endTime": 118.406,
+    "text": "and you get less torque, but higher speeds."
+  },
+  {
+    "startTime": 118.43,
+    "endTime": 119.98700000000001,
+    "text": "So the logical evolution here"
+  },
+  {
+    "startTime": 120.11,
+    "endTime": 122.821,
+    "text": "is to just make a wheelchair with mountain bike components,"
+  },
+  {
+    "startTime": 122.845,
+    "endTime": 124.179,
+    "text": "which many people have done."
+  },
+  {
+    "startTime": 124.203,
+    "endTime": 127.361,
+    "text": "But these are two products available in the U.S. that"
+  },
+  {
+    "startTime": 127.385,
+    "endTime": 130.51,
+    "text": "would be difficult to transfer into developing countries"
+  },
+  {
+    "startTime": 130.76,
+    "endTime": 132.602,
+    "text": "because they're much, much too expensive."
+  },
+  {
+    "startTime": 132.626,
+    "endTime": 134.87800000000001,
+    "text": "And the context I'm talking about is where"
+  },
+  {
+    "startTime": 134.902,
+    "endTime": 138.874,
+    "text": "you need to have a product that is less than 200 dollars."
+  },
+  {
+    "startTime": 138.898,
+    "endTime": 141.305,
+    "text": "And this ideal product would also be able to go"
+  },
+  {
+    "startTime": 141.329,
+    "endTime": 145.309,
+    "text": "about five kilometers a day so you could get to your job, get to school,"
+  },
+  {
+    "startTime": 145.333,
+    "endTime": 147.161,
+    "text": "and do it on many, many different types of terrain."
+  },
+  {
+    "startTime": 147.185,
+    "endTime": 150.53,
+    "text": "But when you get home or want to go indoors at your work,"
+  },
+  {
+    "startTime": 150.77,
+    "endTime": 154.47400000000002,
+    "text": "it's got to be small enough and maneuverable enough to use inside."
+  },
+  {
+    "startTime": 154.498,
+    "endTime": 157.879,
+    "text": "And furthermore, if you want it to last a long time out in rural areas,"
+  },
+  {
+    "startTime": 157.903,
+    "endTime": 161.941,
+    "text": "it has to be repairable using the local tools, materials and knowledge"
+  },
+  {
+    "startTime": 161.965,
+    "endTime": 164.757,
+    "text": "in those contexts."
+  },
+  {
+    "startTime": 164.781,
+    "endTime": 167.697,
+    "text": "So the real crux of the problem here is,"
+  },
+  {
+    "startTime": 167.721,
+    "endTime": 170.845,
+    "text": "how do you make a system that's a simple device"
+  },
+  {
+    "startTime": 170.869,
+    "endTime": 172.976,
+    "text": "but gives you a large mechanical advantage?"
+  },
+  {
+    "startTime": 173.0,
+    "endTime": 175.163,
+    "text": "How do you make a mountain bike for your arms"
+  },
+  {
+    "startTime": 175.187,
+    "endTime": 177.854,
+    "text": "that doesn't have the mountain bike cost and complexity?"
+  },
+  {
+    "startTime": 177.878,
+    "endTime": 180.255,
+    "text": "So as is the case with simple solutions,"
+  },
+  {
+    "startTime": 180.279,
+    "endTime": 184.41,
+    "text": "oftentimes the answer is right in front of your face, and for us it was levers."
+  },
+  {
+    "startTime": 184.65,
+    "endTime": 188.675,
+    "text": "We use levers all the time, in tools, doorknobs, bicycle parts."
+  },
+  {
+    "startTime": 188.699,
+    "endTime": 191.461,
+    "text": "And that moment of inspiration, that key invention moment,"
+  },
+  {
+    "startTime": 191.485,
+    "endTime": 194.9,
+    "text": "was when I was sitting in front of my design notebook"
+  },
+  {
+    "startTime": 194.33,
+    "endTime": 196.78,
+    "text": "and I started thinking about somebody grabbing a lever,"
+  },
+  {
+    "startTime": 196.805,
+    "endTime": 198.894,
+    "text": "and if they grab near the end of the lever,"
+  },
+  {
+    "startTime": 198.918,
+    "endTime": 200.728,
+    "text": "they can get an effectively long lever"
+  },
+  {
+    "startTime": 200.752,
+    "endTime": 203.553,
+    "text": "and produce a lot of torque as they push back and forth,"
+  },
+  {
+    "startTime": 203.577,
+    "endTime": 205.773,
+    "text": "and effectively get a low gear."
+  },
+  {
+    "startTime": 205.797,
+    "endTime": 208.18,
+    "text": "And as they slide their hand down the lever,"
+  },
+  {
+    "startTime": 208.204,
+    "endTime": 211.16,
+    "text": "they can push with a smaller effective lever length,"
+  },
+  {
+    "startTime": 211.4,
+    "endTime": 213.136,
+    "text": "but push through a bigger angle every stroke,"
+  },
+  {
+    "startTime": 213.16,
+    "endTime": 216.795,
+    "text": "which makes a faster rotational speed, and gives you an effective high gear."
+  },
+  {
+    "startTime": 216.819,
+    "endTime": 218.547,
+    "text": "So what's exciting about this system"
+  },
+  {
+    "startTime": 218.571,
+    "endTime": 221.15,
+    "text": "is that it's really, really mechanically simple,"
+  },
+  {
+    "startTime": 221.174,
+    "endTime": 222.984,
+    "text": "and you could make it using technology"
+  },
+  {
+    "startTime": 223.8,
+    "endTime": 224.966,
+    "text": "that's been around for hundreds of years."
+  },
+  {
+    "startTime": 224.99,
+    "endTime": 227.151,
+    "text": "So seeing this in practice,"
+  },
+  {
+    "startTime": 227.175,
+    "endTime": 229.12800000000001,
+    "text": "this is the Leveraged Freedom Chair that,"
+  },
+  {
+    "startTime": 229.152,
+    "endTime": 230.868,
+    "text": "after a few years of development,"
+  },
+  {
+    "startTime": 230.892,
+    "endTime": 232.805,
+    "text": "we're now going into production with,"
+  },
+  {
+    "startTime": 232.829,
+    "endTime": 234.829,
+    "text": "and this is a full-time wheelchair user --"
+  },
+  {
+    "startTime": 234.853,
+    "endTime": 236.37,
+    "text": "he's paralyzed -- in Guatemala,"
+  },
+  {
+    "startTime": 236.394,
+    "endTime": 240.369,
+    "text": "and you see he's able to traverse pretty rough terrain."
+  },
+  {
+    "startTime": 240.393,
+    "endTime": 244.9,
+    "text": "Again, the key innovation of this technology is that when he wants to go fast,"
+  },
+  {
+    "startTime": 244.924,
+    "endTime": 248.955,
+    "text": "he just grabs the levers near the pivots and goes through a big angle every stroke,"
+  },
+  {
+    "startTime": 248.979,
+    "endTime": 251.88000000000002,
+    "text": "and as the going gets tougher, he just slides his hands up the levers,"
+  },
+  {
+    "startTime": 251.904,
+    "endTime": 254.476,
+    "text": "creates more torque, and kind of bench-presses his way"
+  },
+  {
+    "startTime": 254.5,
+    "endTime": 256.661,
+    "text": "out of trouble through the rough terrain."
+  },
+  {
+    "startTime": 256.685,
+    "endTime": 259.673,
+    "text": "Now the big, important point here is that"
+  },
+  {
+    "startTime": 259.697,
+    "endTime": 262.387,
+    "text": "the person is the complex machine in this system."
+  },
+  {
+    "startTime": 262.411,
+    "endTime": 265.733,
+    "text": "It's the person that's sliding his hands up and down the levers,"
+  },
+  {
+    "startTime": 265.757,
+    "endTime": 268.455,
+    "text": "so the mechanism itself can be very simple"
+  },
+  {
+    "startTime": 268.479,
+    "endTime": 271.527,
+    "text": "and composed of bicycle parts you can get anywhere in the world."
+  },
+  {
+    "startTime": 271.551,
+    "endTime": 273.118,
+    "text": "Because those bicycle parts"
+  },
+  {
+    "startTime": 273.142,
+    "endTime": 275.623,
+    "text": "are so ubiquitously available, they're super-cheap."
+  },
+  {
+    "startTime": 275.647,
+    "endTime": 277.803,
+    "text": "They're made by the gazillions in China and India,"
+  },
+  {
+    "startTime": 277.827,
+    "endTime": 279.659,
+    "text": "and we can source them anywhere in the world,"
+  },
+  {
+    "startTime": 279.683,
+    "endTime": 282.397,
+    "text": "build the chair anywhere, and most importantly repair it,"
+  },
+  {
+    "startTime": 282.422,
+    "endTime": 284.851,
+    "text": "even out in a village with a local bicycle mechanic"
+  },
+  {
+    "startTime": 284.875,
+    "endTime": 289.206,
+    "text": "who has local tools, knowledge and parts available."
+  },
+  {
+    "startTime": 289.23,
+    "endTime": 291.88300000000004,
+    "text": "Now, when you want to use the LFC indoors,"
+  },
+  {
+    "startTime": 291.907,
+    "endTime": 295.402,
+    "text": "all you have to do is pull the levers out of the drivetrain,"
+  },
+  {
+    "startTime": 295.427,
+    "endTime": 298.68,
+    "text": "stow them in the frame, and it converts into a normal wheelchair"
+  },
+  {
+    "startTime": 298.704,
+    "endTime": 301.324,
+    "text": "that you can use just like any other normal wheelchair,"
+  },
+  {
+    "startTime": 301.348,
+    "endTime": 303.341,
+    "text": "and we sized it like a normal wheelchair,"
+  },
+  {
+    "startTime": 303.365,
+    "endTime": 307.476,
+    "text": "so it's narrow enough to fit through a standard doorway,"
+  },
+  {
+    "startTime": 307.5,
+    "endTime": 310.995,
+    "text": "it's low enough to fit under a table,"
+  },
+  {
+    "startTime": 311.19,
+    "endTime": 314.988,
+    "text": "and it's small and maneuverable enough to fit in a bathroom"
+  },
+  {
+    "startTime": 315.12,
+    "endTime": 318.12,
+    "text": "and this is important so the user can get up close to a toilet,"
+  },
+  {
+    "startTime": 318.36,
+    "endTime": 319.716,
+    "text": "and be able to transfer off"
+  },
+  {
+    "startTime": 319.74,
+    "endTime": 325.307,
+    "text": "just like he could in a normal wheelchair."
+  },
+  {
+    "startTime": 325.331,
+    "endTime": 328.399,
+    "text": "Now, there's three important points that I want to stress"
+  },
+  {
+    "startTime": 328.423,
+    "endTime": 332.31,
+    "text": "that I think really hit home in this project."
+  },
+  {
+    "startTime": 332.55,
+    "endTime": 335.235,
+    "text": "The first is that this product works well because"
+  },
+  {
+    "startTime": 335.259,
+    "endTime": 337.266,
+    "text": "we were effectively able to combine"
+  },
+  {
+    "startTime": 337.29,
+    "endTime": 341.82,
+    "text": "rigorous engineering science and analysis with user-centered design"
+  },
+  {
+    "startTime": 341.844,
+    "endTime": 345.197,
+    "text": "focused on the social and usage and economic factors"
+  },
+  {
+    "startTime": 345.221,
+    "endTime": 347.734,
+    "text": "important to wheelchair users in the developing countries."
+  },
+  {
+    "startTime": 347.758,
+    "endTime": 350.222,
+    "text": "So I'm an academic at MIT, and I'm a mechanical engineer,"
+  },
+  {
+    "startTime": 350.246,
+    "endTime": 353.77,
+    "text": "so I can do things like look at the type of terrain you want to travel on,"
+  },
+  {
+    "startTime": 353.794,
+    "endTime": 356.418,
+    "text": "and figure out how much resistance it should impose,"
+  },
+  {
+    "startTime": 356.442,
+    "endTime": 359.426,
+    "text": "look at the parts we have available and mix and match them"
+  },
+  {
+    "startTime": 359.45,
+    "endTime": 362.7,
+    "text": "to figure out what sort of gear trains we can use,"
+  },
+  {
+    "startTime": 362.95,
+    "endTime": 365.18,
+    "text": "and then look at the power and force you can get out of your upper body"
+  },
+  {
+    "startTime": 365.204,
+    "endTime": 367.14300000000003,
+    "text": "to analyze how fast you should be able to go in this chair"
+  },
+  {
+    "startTime": 367.167,
+    "endTime": 369.513,
+    "text": "as you put your arms up and down the levers."
+  },
+  {
+    "startTime": 369.538,
+    "endTime": 373.173,
+    "text": "So as a wet-behind-the-ears student, excited,"
+  },
+  {
+    "startTime": 373.197,
+    "endTime": 375.298,
+    "text": "our team made a prototype,"
+  },
+  {
+    "startTime": 375.322,
+    "endTime": 380.173,
+    "text": "brought that prototype to Tanzania, Kenya and Vietnam in 2008,"
+  },
+  {
+    "startTime": 380.197,
+    "endTime": 382.307,
+    "text": "and found it was terrible"
+  },
+  {
+    "startTime": 382.331,
+    "endTime": 384.744,
+    "text": "because we didn't get enough input from users."
+  },
+  {
+    "startTime": 384.768,
+    "endTime": 387.909,
+    "text": "So because we tested it with wheelchair users,"
+  },
+  {
+    "startTime": 387.934,
+    "endTime": 390.41600000000005,
+    "text": "with wheelchair manufacturers, we got that feedback from them,"
+  },
+  {
+    "startTime": 390.44,
+    "endTime": 393.87,
+    "text": "not just articulating their problems, but articulating their solutions,"
+  },
+  {
+    "startTime": 393.894,
+    "endTime": 397.418,
+    "text": "and worked together to go back to the drawing board and make a new design,"
+  },
+  {
+    "startTime": 397.442,
+    "endTime": 399.568,
+    "text": "which we brought back to East Africa in '09"
+  },
+  {
+    "startTime": 399.592,
+    "endTime": 402.413,
+    "text": "that worked a lot better than a normal wheelchair on rough terrain,"
+  },
+  {
+    "startTime": 402.437,
+    "endTime": 405.295,
+    "text": "but it still didn't work well indoors because it was too big,"
+  },
+  {
+    "startTime": 405.319,
+    "endTime": 407.293,
+    "text": "it was heavy, it was hard to move around,"
+  },
+  {
+    "startTime": 407.317,
+    "endTime": 410.847,
+    "text": "so again with that user feedback, we went back to the drawing board,"
+  },
+  {
+    "startTime": 410.871,
+    "endTime": 413.162,
+    "text": "came up with a better design, 20 pounds lighter,"
+  },
+  {
+    "startTime": 413.186,
+    "endTime": 416.852,
+    "text": "as narrow as a regular wheelchair, tested that in a field trial in Guatemala,"
+  },
+  {
+    "startTime": 416.877,
+    "endTime": 418.877,
+    "text": "and that advanced the product to the point"
+  },
+  {
+    "startTime": 418.901,
+    "endTime": 422.1,
+    "text": "where we have now that it's going into production."
+  },
+  {
+    "startTime": 422.124,
+    "endTime": 424.346,
+    "text": "Now also being engineering scientists,"
+  },
+  {
+    "startTime": 424.37,
+    "endTime": 428.228,
+    "text": "we were able to quantify the performance benefits of the Leveraged Freedom Chair,"
+  },
+  {
+    "startTime": 428.252,
+    "endTime": 430.868,
+    "text": "so here are some shots of our trial in Guatemala"
+  },
+  {
+    "startTime": 430.892,
+    "endTime": 434.409,
+    "text": "where we tested the LFC on village terrain,"
+  },
+  {
+    "startTime": 434.434,
+    "endTime": 436.434,
+    "text": "and tested people's biomechanical outputs,"
+  },
+  {
+    "startTime": 436.458,
+    "endTime": 438.62100000000004,
+    "text": "their oxygen consumption, how fast they go,"
+  },
+  {
+    "startTime": 438.645,
+    "endTime": 440.311,
+    "text": "how much power they're putting out,"
+  },
+  {
+    "startTime": 440.336,
+    "endTime": 443.211,
+    "text": "both in their regular wheelchairs and using the LFC,"
+  },
+  {
+    "startTime": 443.235,
+    "endTime": 445.712,
+    "text": "and we found that the LFC is about 80 percent faster"
+  },
+  {
+    "startTime": 445.736,
+    "endTime": 448.7,
+    "text": "going on these terrains than a normal wheelchair."
+  },
+  {
+    "startTime": 448.94,
+    "endTime": 451.453,
+    "text": "It's also about 40 percent more efficient than a regular wheelchair,"
+  },
+  {
+    "startTime": 451.477,
+    "endTime": 453.996,
+    "text": "and because of the mechanical advantage you get from the levers,"
+  },
+  {
+    "startTime": 454.2,
+    "endTime": 455.924,
+    "text": "you can produce 50 percent higher torque"
+  },
+  {
+    "startTime": 455.949,
+    "endTime": 459.909,
+    "text": "and really muscle your way through the really, really rough terrain."
+  },
+  {
+    "startTime": 459.933,
+    "endTime": 463.344,
+    "text": "Now the second lesson that we learned in this is that"
+  },
+  {
+    "startTime": 463.369,
+    "endTime": 466.245,
+    "text": "the constraints on this design really push the innovation,"
+  },
+  {
+    "startTime": 466.269,
+    "endTime": 468.509,
+    "text": "because we had to hit such a low price point,"
+  },
+  {
+    "startTime": 468.533,
+    "endTime": 470.819,
+    "text": "because we had to make a device that could travel"
+  },
+  {
+    "startTime": 470.843,
+    "endTime": 473.63800000000003,
+    "text": "on many, many types of terrain but still be usable indoors,"
+  },
+  {
+    "startTime": 473.662,
+    "endTime": 475.929,
+    "text": "and be simple enough to repair,"
+  },
+  {
+    "startTime": 475.953,
+    "endTime": 478.296,
+    "text": "we ended up with a fundamentally new product,"
+  },
+  {
+    "startTime": 478.32,
+    "endTime": 480.412,
+    "text": "a new product that is an innovation"
+  },
+  {
+    "startTime": 480.436,
+    "endTime": 483.328,
+    "text": "in a space that really hasn't changed in a hundred years."
+  },
+  {
+    "startTime": 483.353,
+    "endTime": 486.782,
+    "text": "And these are all merits that are not just good in the developing world."
+  },
+  {
+    "startTime": 486.806,
+    "endTime": 489.221,
+    "text": "Why not in countries like the U.S. too?"
+  },
+  {
+    "startTime": 489.245,
+    "endTime": 490.957,
+    "text": "So we teamed up with Continuum,"
+  },
+  {
+    "startTime": 490.981,
+    "endTime": 492.981,
+    "text": "a local product design firm here in Boston"
+  },
+  {
+    "startTime": 493.5,
+    "endTime": 495.989,
+    "text": "to make the high-end version, the developed world version,"
+  },
+  {
+    "startTime": 496.13,
+    "endTime": 498.775,
+    "text": "that we'll probably sell primarily in the U.S. and Europe,"
+  },
+  {
+    "startTime": 498.799,
+    "endTime": 501.575,
+    "text": "but to higher-income buyers."
+  },
+  {
+    "startTime": 501.6,
+    "endTime": 504.562,
+    "text": "And the final point I want to make is that I think"
+  },
+  {
+    "startTime": 504.586,
+    "endTime": 507.38800000000003,
+    "text": "this project worked well because we engaged"
+  },
+  {
+    "startTime": 507.412,
+    "endTime": 511.998,
+    "text": "all the stakeholders that buy into this project and are important to consider"
+  },
+  {
+    "startTime": 512.23,
+    "endTime": 515.342,
+    "text": "in bringing the technology from inception of an idea"
+  },
+  {
+    "startTime": 515.366,
+    "endTime": 519.581,
+    "text": "through innovation, validation, commercialization and dissemination,"
+  },
+  {
+    "startTime": 519.605,
+    "endTime": 523.326,
+    "text": "and that cycle has to start and end with end users."
+  },
+  {
+    "startTime": 523.35,
+    "endTime": 526.101,
+    "text": "These are the people that define the requirements of the technology,"
+  },
+  {
+    "startTime": 526.125,
+    "endTime": 528.439,
+    "text": "and these are the people that have to give the thumbs-up at the end,"
+  },
+  {
+    "startTime": 528.463,
+    "endTime": 531.8299999999999,
+    "text": "and say, \"Yeah, it actually works. It meets our needs.\""
+  },
+  {
+    "startTime": 531.107,
+    "endTime": 533.12,
+    "text": "So people like me in the academic space,"
+  },
+  {
+    "startTime": 533.37,
+    "endTime": 536.384,
+    "text": "we can do things like innovate and analyze and test,"
+  },
+  {
+    "startTime": 536.408,
+    "endTime": 539.48,
+    "text": "create data and make bench-level prototypes,"
+  },
+  {
+    "startTime": 539.504,
+    "endTime": 542.647,
+    "text": "but how do you get that bench-level prototype to commercialization?"
+  },
+  {
+    "startTime": 542.671,
+    "endTime": 546.59,
+    "text": "So we need gap-fillers like Continuum that can work on commercializing,"
+  },
+  {
+    "startTime": 546.83,
+    "endTime": 548.844,
+    "text": "and we started a whole NGO to bring our chair to market --"
+  },
+  {
+    "startTime": 548.869,
+    "endTime": 551.1,
+    "text": "Global Research Innovation Technology --"
+  },
+  {
+    "startTime": 551.34,
+    "endTime": 554.7420000000001,
+    "text": "and then we also teamed up with a big manufacturer in India, Pinnacle Industries,"
+  },
+  {
+    "startTime": 554.766,
+    "endTime": 557.5,
+    "text": "that's tooled up now to make 500 chairs a month"
+  },
+  {
+    "startTime": 557.29,
+    "endTime": 558.808,
+    "text": "and will make the first batch of 200 next month,"
+  },
+  {
+    "startTime": 558.832,
+    "endTime": 560.776,
+    "text": "which will be delivered in India."
+  },
+  {
+    "startTime": 560.8,
+    "endTime": 563.515,
+    "text": "And then finally, to get this out to the people in scale,"
+  },
+  {
+    "startTime": 563.539,
+    "endTime": 566.63,
+    "text": "we teamed up with the largest disability organization"
+  },
+  {
+    "startTime": 566.87,
+    "endTime": 568.35,
+    "text": "in the world, Jaipur Foot."
+  },
+  {
+    "startTime": 568.374,
+    "endTime": 570.629,
+    "text": "Now what's powerful about this model"
+  },
+  {
+    "startTime": 570.653,
+    "endTime": 573.436,
+    "text": "is when you bring together all these stakeholders"
+  },
+  {
+    "startTime": 573.46,
+    "endTime": 575.4050000000001,
+    "text": "that represent each link in the chain"
+  },
+  {
+    "startTime": 575.429,
+    "endTime": 577.946,
+    "text": "from inception of an idea"
+  },
+  {
+    "startTime": 577.97,
+    "endTime": 580.714,
+    "text": "all the way to implementation in the field,"
+  },
+  {
+    "startTime": 580.738,
+    "endTime": 582.2650000000001,
+    "text": "that's where the magic happens."
+  },
+  {
+    "startTime": 582.289,
+    "endTime": 584.813,
+    "text": "That's where you can take a guy like me, an academic,"
+  },
+  {
+    "startTime": 584.837,
+    "endTime": 587.841,
+    "text": "but analyze and test and create a new technology"
+  },
+  {
+    "startTime": 587.865,
+    "endTime": 591.377,
+    "text": "and quantitatively determine how much better the performance is."
+  },
+  {
+    "startTime": 591.401,
+    "endTime": 594.6099999999999,
+    "text": "You can connect with stakeholders like the manufacturers"
+  },
+  {
+    "startTime": 594.62,
+    "endTime": 596.302,
+    "text": "and talk with them face-to-face and leverage their"
+  },
+  {
+    "startTime": 596.322,
+    "endTime": 599.169,
+    "text": "local knowledge of manufacturing practices and their clients"
+  },
+  {
+    "startTime": 599.193,
+    "endTime": 601.908,
+    "text": "and combine that knowledge with our engineering knowledge"
+  },
+  {
+    "startTime": 601.932,
+    "endTime": 605.238,
+    "text": "to create something greater than either of us could have done alone."
+  },
+  {
+    "startTime": 605.262,
+    "endTime": 607.7679999999999,
+    "text": "And then you can also engage the end user"
+  },
+  {
+    "startTime": 607.793,
+    "endTime": 610.555,
+    "text": "in the design process, and not just ask him what he needs,"
+  },
+  {
+    "startTime": 610.579,
+    "endTime": 613.5029999999999,
+    "text": "but ask him how he thinks it can be achieved."
+  },
+  {
+    "startTime": 613.528,
+    "endTime": 616.561,
+    "text": "And this picture was taken in India in our last field trial,"
+  },
+  {
+    "startTime": 616.585,
+    "endTime": 619.62,
+    "text": "where we had a 90-percent adoption rate where people"
+  },
+  {
+    "startTime": 619.86,
+    "endTime": 622.668,
+    "text": "switched to using our Leveraged Freedom Chair over their normal wheelchair,"
+  },
+  {
+    "startTime": 622.692,
+    "endTime": 625.629,
+    "text": "and this picture specifically is of Ashok,"
+  },
+  {
+    "startTime": 625.653,
+    "endTime": 628.6610000000001,
+    "text": "and Ashok had a spinal injury when he fell out of a tree,"
+  },
+  {
+    "startTime": 628.685,
+    "endTime": 631.5419999999999,
+    "text": "and he had been working at a tailor, but once he was injured"
+  },
+  {
+    "startTime": 631.567,
+    "endTime": 634.426,
+    "text": "he wasn't able to transport himself from his house"
+  },
+  {
+    "startTime": 634.45,
+    "endTime": 637.226,
+    "text": "over a kilometer to his shop in his normal wheelchair."
+  },
+  {
+    "startTime": 637.25,
+    "endTime": 638.497,
+    "text": "The road was too rough."
+  },
+  {
+    "startTime": 638.521,
+    "endTime": 641.418,
+    "text": "But the day after he got an LFC, he hopped in it,"
+  },
+  {
+    "startTime": 641.442,
+    "endTime": 643.502,
+    "text": "rode that kilometer, opened up his shop"
+  },
+  {
+    "startTime": 643.526,
+    "endTime": 646.218,
+    "text": "and soon after landed a contract to make school uniforms"
+  },
+  {
+    "startTime": 646.242,
+    "endTime": 649.338,
+    "text": "and started making money, started providing for his family again."
+  },
+  {
+    "startTime": 649.362,
+    "endTime": 651.187,
+    "text": "Ashok: You also encouraged me to work."
+  },
+  {
+    "startTime": 651.211,
+    "endTime": 653.9110000000001,
+    "text": "I rested for a day at home."
+  },
+  {
+    "startTime": 653.935,
+    "endTime": 658.367,
+    "text": "The next day I went to my shop."
+  },
+  {
+    "startTime": 658.391,
+    "endTime": 661.3439999999999,
+    "text": "Now everything is back to normal."
+  },
+  {
+    "startTime": 661.369,
+    "endTime": 665.4300000000001,
+    "text": "Amos Winter: And thank you very much for having me today."
+  },
+  {
+    "startTime": 665.454,
+    "endTime": 669.454,
+    "text": "(Applause)"
+  }
+]

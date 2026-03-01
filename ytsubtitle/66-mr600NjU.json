@@ -1,0 +1,2357 @@
+[
+  {
+    "startTime": 9.42,
+    "endTime": 13.04,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 13.04,
+    "endTime": 16.118,
+    "text": "I'm a computer science professor and my"
+  },
+  {
+    "startTime": 16.119,
+    "endTime": 18.56,
+    "text": "area of expertise is computer and"
+  },
+  {
+    "startTime": 18.56,
+    "endTime": 21.199,
+    "text": "information security when I was in"
+  },
+  {
+    "startTime": 21.199,
+    "endTime": 23.76,
+    "text": "graduate school I had the opportunity to"
+  },
+  {
+    "startTime": 23.76,
+    "endTime": 26.56,
+    "text": "overhear my grandmother uh describing to"
+  },
+  {
+    "startTime": 26.56,
+    "endTime": 29.599,
+    "text": "one of her uh fellow senior citizens uh"
+  },
+  {
+    "startTime": 29.599,
+    "endTime": 31.16,
+    "text": "what I did for a"
+  },
+  {
+    "startTime": 31.16,
+    "endTime": 32.84,
+    "text": "living"
+  },
+  {
+    "startTime": 32.84,
+    "endTime": 34.92,
+    "text": "apparently I was in charge of making"
+  },
+  {
+    "startTime": 34.92,
+    "endTime": 36.28,
+    "text": "sure that no one stole the computers"
+  },
+  {
+    "startTime": 36.28,
+    "endTime": 38.12,
+    "text": "from the"
+  },
+  {
+    "startTime": 38.12,
+    "endTime": 40.44,
+    "text": "University and you know that's a"
+  },
+  {
+    "startTime": 40.44,
+    "endTime": 42.36,
+    "text": "perfectly reasonable thing for her to"
+  },
+  {
+    "startTime": 42.36,
+    "endTime": 43.8,
+    "text": "think because I told her I was working"
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 45.96,
+    "text": "in computer security and it was"
+  },
+  {
+    "startTime": 45.96,
+    "endTime": 47.92,
+    "text": "interesting to get her"
+  },
+  {
+    "startTime": 47.92,
+    "endTime": 50.36,
+    "text": "perspective but that's not the most"
+  },
+  {
+    "startTime": 50.36,
+    "endTime": 51.92,
+    "text": "ridiculous thing I've ever heard anyone"
+  },
+  {
+    "startTime": 51.92,
+    "endTime": 54.48,
+    "text": "say about my work the most ridiculous"
+  },
+  {
+    "startTime": 54.48,
+    "endTime": 56.48,
+    "text": "thing I ever heard is I was at a dinner"
+  },
+  {
+    "startTime": 56.48,
+    "endTime": 59.44,
+    "text": "party and a woman heard that I work in"
+  },
+  {
+    "startTime": 59.44,
+    "endTime": 63.079,
+    "text": "computer security and she asked me if um"
+  },
+  {
+    "startTime": 63.079,
+    "endTime": 64.559,
+    "text": "she said her computer had been infected"
+  },
+  {
+    "startTime": 64.559,
+    "endTime": 67.4,
+    "text": "by a virus and she was very concerned"
+  },
+  {
+    "startTime": 67.4,
+    "endTime": 69.0,
+    "text": "that she might get sick from it that she"
+  },
+  {
+    "startTime": 69.0,
+    "endTime": 70.479,
+    "text": "could get this"
+  },
+  {
+    "startTime": 70.479,
+    "endTime": 73.88,
+    "text": "virus and I'm not a doctor but I"
+  },
+  {
+    "startTime": 73.88,
+    "endTime": 75.72,
+    "text": "reassured her that it was very very"
+  },
+  {
+    "startTime": 75.72,
+    "endTime": 78.52,
+    "text": "unlikely that this would happen but if"
+  },
+  {
+    "startTime": 78.52,
+    "endTime": 80.119,
+    "text": "she felt more comfortable she could be"
+  },
+  {
+    "startTime": 80.119,
+    "endTime": 81.96,
+    "text": "free to use latex gloves when she was on"
+  },
+  {
+    "startTime": 81.96,
+    "endTime": 83.52,
+    "text": "the computer and there' be no harm"
+  },
+  {
+    "startTime": 83.52,
+    "endTime": 84.88,
+    "text": "whatsoever in"
+  },
+  {
+    "startTime": 84.88,
+    "endTime": 86.96,
+    "text": "that I'm going to get back to this"
+  },
+  {
+    "startTime": 86.96,
+    "endTime": 89.04,
+    "text": "notion of being able to get a virus from"
+  },
+  {
+    "startTime": 89.04,
+    "endTime": 91.92,
+    "text": "your computer in a serious way what I'm"
+  },
+  {
+    "startTime": 91.92,
+    "endTime": 94.24,
+    "text": "going to talk to you about today are"
+  },
+  {
+    "startTime": 94.24,
+    "endTime": 97.04,
+    "text": "some hacks some real world world cyber"
+  },
+  {
+    "startTime": 97.04,
+    "endTime": 99.36,
+    "text": "attacks that people in my community the"
+  },
+  {
+    "startTime": 99.36,
+    "endTime": 101.759,
+    "text": "academic research Community have"
+  },
+  {
+    "startTime": 101.759,
+    "endTime": 103.759,
+    "text": "performed which I don't think most"
+  },
+  {
+    "startTime": 103.759,
+    "endTime": 105.28,
+    "text": "people know about and I think they're"
+  },
+  {
+    "startTime": 105.28,
+    "endTime": 107.04,
+    "text": "very interesting and"
+  },
+  {
+    "startTime": 107.04,
+    "endTime": 109.36,
+    "text": "scary and this talk is kind of a"
+  },
+  {
+    "startTime": 109.36,
+    "endTime": 111.84,
+    "text": "greatest hits of the academic security"
+  },
+  {
+    "startTime": 111.84,
+    "endTime": 114.119,
+    "text": "community's hacks none of the work is my"
+  },
+  {
+    "startTime": 114.119,
+    "endTime": 116.0,
+    "text": "work it's all work that my colleagues"
+  },
+  {
+    "startTime": 116.0,
+    "endTime": 117.68,
+    "text": "have done and I actually asked them for"
+  },
+  {
+    "startTime": 117.68,
+    "endTime": 119.32,
+    "text": "their slides and Incorporated them into"
+  },
+  {
+    "startTime": 119.32,
+    "endTime": 121.2,
+    "text": "this talk so the first one I'm going to"
+  },
+  {
+    "startTime": 121.2,
+    "endTime": 124.24,
+    "text": "talk about are implanted medical devices"
+  },
+  {
+    "startTime": 124.24,
+    "endTime": 126.479,
+    "text": "now medical devices have come a long way"
+  },
+  {
+    "startTime": 126.479,
+    "endTime": 129.239,
+    "text": "technologically you can see in 1926 the"
+  },
+  {
+    "startTime": 129.239,
+    "endTime": 132.599,
+    "text": "first pacemaker was invented 1960 the"
+  },
+  {
+    "startTime": 132.599,
+    "endTime": 134.599,
+    "text": "first internal pacemaker was implanted"
+  },
+  {
+    "startTime": 134.599,
+    "endTime": 136.04,
+    "text": "hopefully a little smaller than that one"
+  },
+  {
+    "startTime": 136.04,
+    "endTime": 139.16,
+    "text": "that you see there and technology has"
+  },
+  {
+    "startTime": 139.16,
+    "endTime": 142.48,
+    "text": "continued to move forward in 2006 we hit"
+  },
+  {
+    "startTime": 142.48,
+    "endTime": 144.36,
+    "text": "an important Milestone from the"
+  },
+  {
+    "startTime": 144.36,
+    "endTime": 148.2,
+    "text": "perspective of of computer security and"
+  },
+  {
+    "startTime": 148.2,
+    "endTime": 150.239,
+    "text": "why do I say that because that's when"
+  },
+  {
+    "startTime": 150.239,
+    "endTime": 152.44,
+    "text": "implanted devices inide of people"
+  },
+  {
+    "startTime": 152.44,
+    "endTime": 154.12,
+    "text": "started to have networking"
+  },
+  {
+    "startTime": 154.12,
+    "endTime": 156.08,
+    "text": "capabilities one thing that brings us"
+  },
+  {
+    "startTime": 156.08,
+    "endTime": 157.48,
+    "text": "close to home as we look at Dick"
+  },
+  {
+    "startTime": 157.48,
+    "endTime": 159.879,
+    "text": "Cheney's uh device he had a device that"
+  },
+  {
+    "startTime": 159.879,
+    "endTime": 162.56,
+    "text": "pumped blood from an aorta to another"
+  },
+  {
+    "startTime": 162.56,
+    "endTime": 164.08,
+    "text": "part of the heart and as you could see"
+  },
+  {
+    "startTime": 164.08,
+    "endTime": 166.319,
+    "text": "at the bottom there it was controlled by"
+  },
+  {
+    "startTime": 166.319,
+    "endTime": 168.48,
+    "text": "a computer controller and if you ever"
+  },
+  {
+    "startTime": 168.48,
+    "endTime": 170.8,
+    "text": "thought that software reliability was"
+  },
+  {
+    "startTime": 170.8,
+    "endTime": 172.4,
+    "text": "very important get one of these inside"
+  },
+  {
+    "startTime": 172.4,
+    "endTime": 173.239,
+    "text": "of"
+  },
+  {
+    "startTime": 173.239,
+    "endTime": 176.959,
+    "text": "you now what a research team did um was"
+  },
+  {
+    "startTime": 176.959,
+    "endTime": 178.44,
+    "text": "they got their hands on what's called an"
+  },
+  {
+    "startTime": 178.44,
+    "endTime": 180.959,
+    "text": "ICD this is a defi later and this is a"
+  },
+  {
+    "startTime": 180.959,
+    "endTime": 183.68,
+    "text": "device that goes into a person to"
+  },
+  {
+    "startTime": 183.68,
+    "endTime": 185.72,
+    "text": "control their heart rhythm and these"
+  },
+  {
+    "startTime": 185.72,
+    "endTime": 188.799,
+    "text": "have saved many lives well in order to"
+  },
+  {
+    "startTime": 188.799,
+    "endTime": 190.4,
+    "text": "not have to open up the person every"
+  },
+  {
+    "startTime": 190.4,
+    "endTime": 192.08,
+    "text": "time you want to reprogram their device"
+  },
+  {
+    "startTime": 192.08,
+    "endTime": 194.28,
+    "text": "or do some Diagnostics on it they made"
+  },
+  {
+    "startTime": 194.28,
+    "endTime": 195.76,
+    "text": "the thing be able to communicate"
+  },
+  {
+    "startTime": 195.76,
+    "endTime": 197.84,
+    "text": "wirelessly and what this research team"
+  },
+  {
+    "startTime": 197.84,
+    "endTime": 199.36,
+    "text": "did is they reverse engineered the"
+  },
+  {
+    "startTime": 199.36,
+    "endTime": 201.2,
+    "text": "wireless protocol and they built the"
+  },
+  {
+    "startTime": 201.2,
+    "endTime": 202.72,
+    "text": "device you see pictured here with a"
+  },
+  {
+    "startTime": 202.72,
+    "endTime": 204.64,
+    "text": "little antenna that could talk the"
+  },
+  {
+    "startTime": 204.64,
+    "endTime": 208.4,
+    "text": "protocol to the device and um and thus"
+  },
+  {
+    "startTime": 208.4,
+    "endTime": 210.239,
+    "text": "control it"
+  },
+  {
+    "startTime": 210.239,
+    "endTime": 211.76,
+    "text": "in order to make their experience real"
+  },
+  {
+    "startTime": 211.76,
+    "endTime": 213.64,
+    "text": "they were unable to find any volunteers"
+  },
+  {
+    "startTime": 213.64,
+    "endTime": 215.28,
+    "text": "and so they went and they got some"
+  },
+  {
+    "startTime": 215.28,
+    "endTime": 217.08,
+    "text": "ground beef and some bacon and they"
+  },
+  {
+    "startTime": 217.08,
+    "endTime": 219.12,
+    "text": "wrapped it all up to about the size of a"
+  },
+  {
+    "startTime": 219.12,
+    "endTime": 221.239,
+    "text": "human being's uh area where the device"
+  },
+  {
+    "startTime": 221.239,
+    "endTime": 222.519,
+    "text": "would go and they stuck the device"
+  },
+  {
+    "startTime": 222.519,
+    "endTime": 224.2,
+    "text": "inside it to perform their experiment"
+  },
+  {
+    "startTime": 224.2,
+    "endTime": 225.2,
+    "text": "somewhat"
+  },
+  {
+    "startTime": 225.2,
+    "endTime": 227.76,
+    "text": "realistically um they launched many many"
+  },
+  {
+    "startTime": 227.76,
+    "endTime": 230.08,
+    "text": "successful attacks uh one that I'll"
+  },
+  {
+    "startTime": 230.08,
+    "endTime": 231.64,
+    "text": "highlight here is changing the patient's"
+  },
+  {
+    "startTime": 231.64,
+    "endTime": 233.04,
+    "text": "name I don't know why you would want to"
+  },
+  {
+    "startTime": 233.04,
+    "endTime": 234.28,
+    "text": "do that but I sure wouldn't want that"
+  },
+  {
+    "startTime": 234.28,
+    "endTime": 237.079,
+    "text": "done to me and they were able to change"
+  },
+  {
+    "startTime": 237.079,
+    "endTime": 239.519,
+    "text": "therapies including disabling the device"
+  },
+  {
+    "startTime": 239.519,
+    "endTime": 240.879,
+    "text": "and and this is with a real commercial"
+  },
+  {
+    "startTime": 240.879,
+    "endTime": 242.76,
+    "text": "off-the-shelf device simply by"
+  },
+  {
+    "startTime": 242.76,
+    "endTime": 244.04,
+    "text": "performing reverse engineering and"
+  },
+  {
+    "startTime": 244.04,
+    "endTime": 246.64,
+    "text": "sending Wireless signals to"
+  },
+  {
+    "startTime": 246.64,
+    "endTime": 249.72,
+    "text": "it uh there was a piece on NPR that some"
+  },
+  {
+    "startTime": 249.72,
+    "endTime": 252.319,
+    "text": "of these icds could actually have their"
+  },
+  {
+    "startTime": 252.319,
+    "endTime": 254.12,
+    "text": "performance disrupted simply by holding"
+  },
+  {
+    "startTime": 254.12,
+    "endTime": 256.959,
+    "text": "a pair of headphones onto them now"
+  },
+  {
+    "startTime": 256.959,
+    "endTime": 258.639,
+    "text": "Wireless and the internet can improve"
+  },
+  {
+    "startTime": 258.639,
+    "endTime": 260.359,
+    "text": "Healthcare greatly there are several"
+  },
+  {
+    "startTime": 260.359,
+    "endTime": 262.919,
+    "text": "examples up on the screen of situations"
+  },
+  {
+    "startTime": 262.919,
+    "endTime": 264.919,
+    "text": "where doctors are looking to implant"
+  },
+  {
+    "startTime": 264.919,
+    "endTime": 266.919,
+    "text": "devices inside of people and all of"
+  },
+  {
+    "startTime": 266.919,
+    "endTime": 269.039,
+    "text": "these devices now it's standard that"
+  },
+  {
+    "startTime": 269.039,
+    "endTime": 270.28,
+    "text": "they communicate"
+  },
+  {
+    "startTime": 270.28,
+    "endTime": 272.919,
+    "text": "wirelessly and I think this is great but"
+  },
+  {
+    "startTime": 272.919,
+    "endTime": 274.32,
+    "text": "without a full understanding of"
+  },
+  {
+    "startTime": 274.32,
+    "endTime": 276.52,
+    "text": "trustworthy Computing and without"
+  },
+  {
+    "startTime": 276.52,
+    "endTime": 278.12,
+    "text": "understanding what attackers can do and"
+  },
+  {
+    "startTime": 278.12,
+    "endTime": 279.88,
+    "text": "the security risks from the beginning"
+  },
+  {
+    "startTime": 279.88,
+    "endTime": 282.44,
+    "text": "there's a lot of danger in this okay let"
+  },
+  {
+    "startTime": 282.44,
+    "endTime": 283.8,
+    "text": "me shift gears and show you another"
+  },
+  {
+    "startTime": 283.8,
+    "endTime": 285.039,
+    "text": "Target I'm going to show you a few"
+  },
+  {
+    "startTime": 285.039,
+    "endTime": 286.6,
+    "text": "different targets like this and that's"
+  },
+  {
+    "startTime": 286.6,
+    "endTime": 288.6,
+    "text": "my talk so we look at"
+  },
+  {
+    "startTime": 288.6,
+    "endTime": 291.12,
+    "text": "automobiles this is a car and it has a"
+  },
+  {
+    "startTime": 291.12,
+    "endTime": 292.72,
+    "text": "lot of components a lot of electronics"
+  },
+  {
+    "startTime": 292.72,
+    "endTime": 296.12,
+    "text": "in it today in fact it's got many many"
+  },
+  {
+    "startTime": 296.12,
+    "endTime": 298.16,
+    "text": "different computers inside of it more"
+  },
+  {
+    "startTime": 298.16,
+    "endTime": 300.72,
+    "text": "pennium than my lab did when I was in"
+  },
+  {
+    "startTime": 300.72,
+    "endTime": 303.639,
+    "text": "college and they're connected by a wired"
+  },
+  {
+    "startTime": 303.639,
+    "endTime": 307.32,
+    "text": "Network there's also a wireless network"
+  },
+  {
+    "startTime": 307.32,
+    "endTime": 309.84,
+    "text": "in the car which can be reached from"
+  },
+  {
+    "startTime": 309.84,
+    "endTime": 312.8,
+    "text": "many different ways so there's Bluetooth"
+  },
+  {
+    "startTime": 312.8,
+    "endTime": 315.28,
+    "text": "there's the FM and XM radio there's"
+  },
+  {
+    "startTime": 315.28,
+    "endTime": 317.639,
+    "text": "actually Wi-Fi there are sensors in the"
+  },
+  {
+    "startTime": 317.639,
+    "endTime": 319.319,
+    "text": "wheels that wirelessly communicate the"
+  },
+  {
+    "startTime": 319.319,
+    "endTime": 321.88,
+    "text": "tire pressure to a controller on board"
+  },
+  {
+    "startTime": 321.88,
+    "endTime": 324.68,
+    "text": "the modern car is a sophisticated"
+  },
+  {
+    "startTime": 324.68,
+    "endTime": 327.88,
+    "text": "multi-computer device and what happens"
+  },
+  {
+    "startTime": 327.88,
+    "endTime": 330.28,
+    "text": "if somebody wanted to attack this well"
+  },
+  {
+    "startTime": 330.28,
+    "endTime": 331.52,
+    "text": "that's what the researchers that I'm"
+  },
+  {
+    "startTime": 331.52,
+    "endTime": 333.84,
+    "text": "going to talk about today did they"
+  },
+  {
+    "startTime": 333.84,
+    "endTime": 335.68,
+    "text": "basically stuck an attacker on the wired"
+  },
+  {
+    "startTime": 335.68,
+    "endTime": 337.88,
+    "text": "network and on the wireless"
+  },
+  {
+    "startTime": 337.88,
+    "endTime": 340.84,
+    "text": "network now they have two uh areas they"
+  },
+  {
+    "startTime": 340.84,
+    "endTime": 342.68,
+    "text": "can attack one is short- range Wireless"
+  },
+  {
+    "startTime": 342.68,
+    "endTime": 344.039,
+    "text": "where you can actually communicate with"
+  },
+  {
+    "startTime": 344.039,
+    "endTime": 345.56,
+    "text": "device from nearby either through"
+  },
+  {
+    "startTime": 345.56,
+    "endTime": 348.16,
+    "text": "Bluetooth or Wi-Fi and the other is long"
+  },
+  {
+    "startTime": 348.16,
+    "endTime": 349.759,
+    "text": "range where you can communicate with the"
+  },
+  {
+    "startTime": 349.759,
+    "endTime": 351.44,
+    "text": "car through the cellular network or"
+  },
+  {
+    "startTime": 351.44,
+    "endTime": 353.8,
+    "text": "through one of the radio stations think"
+  },
+  {
+    "startTime": 353.8,
+    "endTime": 355.84,
+    "text": "about it when a car receives a radio"
+  },
+  {
+    "startTime": 355.84,
+    "endTime": 358.8,
+    "text": "signal it's processed by software that"
+  },
+  {
+    "startTime": 358.8,
+    "endTime": 360.6,
+    "text": "software has to to receive and decode"
+  },
+  {
+    "startTime": 360.6,
+    "endTime": 361.96,
+    "text": "the radio signal and then figure out"
+  },
+  {
+    "startTime": 361.96,
+    "endTime": 363.36,
+    "text": "what to do with it even if it's just"
+  },
+  {
+    "startTime": 363.36,
+    "endTime": 365.4,
+    "text": "music that it needs to play on the radio"
+  },
+  {
+    "startTime": 365.4,
+    "endTime": 367.16,
+    "text": "and that software that does that"
+  },
+  {
+    "startTime": 367.16,
+    "endTime": 370.16,
+    "text": "decoding if it has any bugs in it could"
+  },
+  {
+    "startTime": 370.16,
+    "endTime": 372.24,
+    "text": "create a vulnerability for somebody to"
+  },
+  {
+    "startTime": 372.24,
+    "endTime": 374.52,
+    "text": "hack the car the way that the"
+  },
+  {
+    "startTime": 374.52,
+    "endTime": 377.919,
+    "text": "researchers did this work is they read"
+  },
+  {
+    "startTime": 377.919,
+    "endTime": 381.199,
+    "text": "the software in in the computer chips"
+  },
+  {
+    "startTime": 381.199,
+    "endTime": 383.16,
+    "text": "that were in the car and then they used"
+  },
+  {
+    "startTime": 383.16,
+    "endTime": 385.72,
+    "text": "sophisticated reverse engineering tools"
+  },
+  {
+    "startTime": 385.72,
+    "endTime": 388.199,
+    "text": "to figure out what that software did and"
+  },
+  {
+    "startTime": 388.199,
+    "endTime": 389.88,
+    "text": "then they found vulnerabilities in that"
+  },
+  {
+    "startTime": 389.88,
+    "endTime": 392.199,
+    "text": "software and then they built exploits to"
+  },
+  {
+    "startTime": 392.199,
+    "endTime": 393.24,
+    "text": "exploit"
+  },
+  {
+    "startTime": 393.24,
+    "endTime": 395.639,
+    "text": "those they actually carried out their"
+  },
+  {
+    "startTime": 395.639,
+    "endTime": 397.56,
+    "text": "attack in real life they bought two cars"
+  },
+  {
+    "startTime": 397.56,
+    "endTime": 398.84,
+    "text": "and I guess they have better budgets"
+  },
+  {
+    "startTime": 398.84,
+    "endTime": 399.8,
+    "text": "than I"
+  },
+  {
+    "startTime": 399.8,
+    "endTime": 402.599,
+    "text": "do the first threat model was to see"
+  },
+  {
+    "startTime": 402.599,
+    "endTime": 404.44,
+    "text": "what someone could do if an attacker"
+  },
+  {
+    "startTime": 404.44,
+    "endTime": 406.599,
+    "text": "actually got access to the internal"
+  },
+  {
+    "startTime": 406.599,
+    "endTime": 408.759,
+    "text": "Network on the car okay so think of that"
+  },
+  {
+    "startTime": 408.759,
+    "endTime": 410.599,
+    "text": "as someone gets to go to your car they"
+  },
+  {
+    "startTime": 410.599,
+    "endTime": 412.44,
+    "text": "get to mess around with it and then they"
+  },
+  {
+    "startTime": 412.44,
+    "endTime": 414.72,
+    "text": "leave and now what kind of trouble are"
+  },
+  {
+    "startTime": 414.72,
+    "endTime": 417.28,
+    "text": "you in the other threat model is that"
+  },
+  {
+    "startTime": 417.28,
+    "endTime": 419.56,
+    "text": "they contact you in real time over one"
+  },
+  {
+    "startTime": 419.56,
+    "endTime": 421.0,
+    "text": "of the wireless networks like the"
+  },
+  {
+    "startTime": 421.0,
+    "endTime": 423.08,
+    "text": "cellular or something like that never"
+  },
+  {
+    "startTime": 423.08,
+    "endTime": 424.8,
+    "text": "having actually gotten physical access"
+  },
+  {
+    "startTime": 424.8,
+    "endTime": 425.879,
+    "text": "to your"
+  },
+  {
+    "startTime": 425.879,
+    "endTime": 428.4,
+    "text": "car this is what their setup looks like"
+  },
+  {
+    "startTime": 428.4,
+    "endTime": 429.879,
+    "text": "for the first model where you get to"
+  },
+  {
+    "startTime": 429.879,
+    "endTime": 432.479,
+    "text": "have access to the car they put a laptop"
+  },
+  {
+    "startTime": 432.479,
+    "endTime": 434.4,
+    "text": "and they connect it to the diagnostic"
+  },
+  {
+    "startTime": 434.4,
+    "endTime": 436.639,
+    "text": "unit on the incar network and they did"
+  },
+  {
+    "startTime": 436.639,
+    "endTime": 438.52,
+    "text": "all kinds of silly things like here's a"
+  },
+  {
+    "startTime": 438.52,
+    "endTime": 441.24,
+    "text": "picture of the speedometer showing 140"
+  },
+  {
+    "startTime": 441.24,
+    "endTime": 444.12,
+    "text": "mil hour when the cars in park once you"
+  },
+  {
+    "startTime": 444.12,
+    "endTime": 445.84,
+    "text": "have control of the car's computers you"
+  },
+  {
+    "startTime": 445.84,
+    "endTime": 447.319,
+    "text": "can do anything now you might say okay"
+  },
+  {
+    "startTime": 447.319,
+    "endTime": 449.08,
+    "text": "that's silly well what if you make the"
+  },
+  {
+    "startTime": 449.08,
+    "endTime": 451.039,
+    "text": "car always say it's going 20 M hour"
+  },
+  {
+    "startTime": 451.039,
+    "endTime": 452.8,
+    "text": "slower than it's actually going you"
+  },
+  {
+    "startTime": 452.8,
+    "endTime": 454.52,
+    "text": "might produce a lot of speeding"
+  },
+  {
+    "startTime": 454.52,
+    "endTime": 456.479,
+    "text": "tickets then they went out to an"
+  },
+  {
+    "startTime": 456.479,
+    "endTime": 459.08,
+    "text": "abandoned air strip with two cars the"
+  },
+  {
+    "startTime": 459.08,
+    "endTime": 462.28,
+    "text": "target victim car and the Chase car and"
+  },
+  {
+    "startTime": 462.28,
+    "endTime": 465.12,
+    "text": "they launched a bunch of other attacks"
+  },
+  {
+    "startTime": 465.12,
+    "endTime": 466.44,
+    "text": "one of the things they were able to do"
+  },
+  {
+    "startTime": 466.44,
+    "endTime": 468.319,
+    "text": "from the Chase car is apply the brakes"
+  },
+  {
+    "startTime": 468.319,
+    "endTime": 470.159,
+    "text": "on the other car simply by hacking the"
+  },
+  {
+    "startTime": 470.159,
+    "endTime": 472.159,
+    "text": "computer they were able to disable the"
+  },
+  {
+    "startTime": 472.159,
+    "endTime": 474.68,
+    "text": "brakes they also were able to install"
+  },
+  {
+    "startTime": 474.68,
+    "endTime": 476.599,
+    "text": "malware that wouldn't kick in and"
+  },
+  {
+    "startTime": 476.599,
+    "endTime": 478.24,
+    "text": "wouldn't trigger until the car was doing"
+  },
+  {
+    "startTime": 478.24,
+    "endTime": 480.639,
+    "text": "something like going over 20 M an hour"
+  },
+  {
+    "startTime": 480.639,
+    "endTime": 483.36,
+    "text": "or something like that the results are"
+  },
+  {
+    "startTime": 483.36,
+    "endTime": 485.4,
+    "text": "astonishing and when they gave this talk"
+  },
+  {
+    "startTime": 485.4,
+    "endTime": 486.68,
+    "text": "even though they gave this talk at a"
+  },
+  {
+    "startTime": 486.68,
+    "endTime": 488.0,
+    "text": "conference to a bunch of computer"
+  },
+  {
+    "startTime": 488.0,
+    "endTime": 489.68,
+    "text": "security researchers everybody was"
+  },
+  {
+    "startTime": 489.68,
+    "endTime": 493.0,
+    "text": "gasping they were able to take over a"
+  },
+  {
+    "startTime": 493.0,
+    "endTime": 494.84,
+    "text": "bunch of critical computers inside the"
+  },
+  {
+    "startTime": 494.84,
+    "endTime": 497.199,
+    "text": "car the brakes computer the lighting"
+  },
+  {
+    "startTime": 497.199,
+    "endTime": 499.84,
+    "text": "computer the engine the dash the radio"
+  },
+  {
+    "startTime": 499.84,
+    "endTime": 502.039,
+    "text": "Etc and they were able to perform these"
+  },
+  {
+    "startTime": 502.039,
+    "endTime": 503.479,
+    "text": "on real commercial cars that they"
+  },
+  {
+    "startTime": 503.479,
+    "endTime": 506.479,
+    "text": "purchased using the radio network they"
+  },
+  {
+    "startTime": 506.479,
+    "endTime": 508.639,
+    "text": "were able to compromise every single one"
+  },
+  {
+    "startTime": 508.639,
+    "endTime": 510.4,
+    "text": "of the uh pieces of software that"
+  },
+  {
+    "startTime": 510.4,
+    "endTime": 511.96,
+    "text": "controlled every single one of the"
+  },
+  {
+    "startTime": 511.96,
+    "endTime": 514.518,
+    "text": "wireless capabilities of the car all of"
+  },
+  {
+    "startTime": 514.519,
+    "endTime": 516.8,
+    "text": "these were implemented successfully how"
+  },
+  {
+    "startTime": 516.8,
+    "endTime": 519.64,
+    "text": "would you steal a car in this model well"
+  },
+  {
+    "startTime": 519.64,
+    "endTime": 522.479,
+    "text": "you compromise the car by uh a buffer"
+  },
+  {
+    "startTime": 522.479,
+    "endTime": 524.24,
+    "text": "overflow vulnerability in the software"
+  },
+  {
+    "startTime": 524.24,
+    "endTime": 526.32,
+    "text": "something like that you use the GPS in"
+  },
+  {
+    "startTime": 526.32,
+    "endTime": 528.64,
+    "text": "the car to locate it you remotely unlock"
+  },
+  {
+    "startTime": 528.64,
+    "endTime": 530.2,
+    "text": "the doors through the computer that"
+  },
+  {
+    "startTime": 530.2,
+    "endTime": 532.399,
+    "text": "controls that start the engine bypass"
+  },
+  {
+    "startTime": 532.399,
+    "endTime": 534.12,
+    "text": "anti- theft and you've got yourself a"
+  },
+  {
+    "startTime": 534.12,
+    "endTime": 537.24,
+    "text": "car surveillance was really interesting"
+  },
+  {
+    "startTime": 537.24,
+    "endTime": 539.44,
+    "text": "um the authors of the study have have a"
+  },
+  {
+    "startTime": 539.44,
+    "endTime": 541.12,
+    "text": "video where they show themselves taking"
+  },
+  {
+    "startTime": 541.12,
+    "endTime": 543.279,
+    "text": "over a car and then turning on the"
+  },
+  {
+    "startTime": 543.279,
+    "endTime": 545.24,
+    "text": "microphone in the car and listening in"
+  },
+  {
+    "startTime": 545.24,
+    "endTime": 548.04,
+    "text": "on the car while tracking it via a GPS"
+  },
+  {
+    "startTime": 548.04,
+    "endTime": 550.24,
+    "text": "on a map and so that's something that"
+  },
+  {
+    "startTime": 550.24,
+    "endTime": 551.56,
+    "text": "the drivers of the car would never know"
+  },
+  {
+    "startTime": 551.56,
+    "endTime": 554.68,
+    "text": "was happening am I scaring you"
+  },
+  {
+    "startTime": 554.68,
+    "endTime": 557.0,
+    "text": "yet got a few more of these interesting"
+  },
+  {
+    "startTime": 557.0,
+    "endTime": 558.48,
+    "text": "ones these are ones where I went to a"
+  },
+  {
+    "startTime": 558.48,
+    "endTime": 560.64,
+    "text": "conference and my mind was just blown"
+  },
+  {
+    "startTime": 560.64,
+    "endTime": 561.88,
+    "text": "and I said I have to share this with"
+  },
+  {
+    "startTime": 561.88,
+    "endTime": 564.56,
+    "text": "other people this was Fabian monro's Lab"
+  },
+  {
+    "startTime": 564.56,
+    "endTime": 566.64,
+    "text": "at the University of North Carolina and"
+  },
+  {
+    "startTime": 566.64,
+    "endTime": 569.2,
+    "text": "what they did was something intuitive"
+  },
+  {
+    "startTime": 569.2,
+    "endTime": 571.04,
+    "text": "once you see it but kind of"
+  },
+  {
+    "startTime": 571.04,
+    "endTime": 573.44,
+    "text": "surprising they videotape people on a"
+  },
+  {
+    "startTime": 573.44,
+    "endTime": 575.88,
+    "text": "bus and then they post-processes the"
+  },
+  {
+    "startTime": 575.88,
+    "endTime": 579.2,
+    "text": "video what you see here in number one is"
+  },
+  {
+    "startTime": 579.2,
+    "endTime": 583.0,
+    "text": "a um reflection in somebody's glasses of"
+  },
+  {
+    "startTime": 583.0,
+    "endTime": 585.079,
+    "text": "the smartphone that they're typing in"
+  },
+  {
+    "startTime": 585.079,
+    "endTime": 587.44,
+    "text": "they wrote software to stabilize even"
+  },
+  {
+    "startTime": 587.44,
+    "endTime": 588.76,
+    "text": "though they were on a bus and maybe"
+  },
+  {
+    "startTime": 588.76,
+    "endTime": 590.839,
+    "text": "someone's holding their phone at an"
+  },
+  {
+    "startTime": 590.839,
+    "endTime": 593.76,
+    "text": "angle to stabilize the phone process it"
+  },
+  {
+    "startTime": 593.76,
+    "endTime": 595.399,
+    "text": "and you may know on your smartphone when"
+  },
+  {
+    "startTime": 595.399,
+    "endTime": 597.56,
+    "text": "you type a password the keys pop out a"
+  },
+  {
+    "startTime": 597.56,
+    "endTime": 599.279,
+    "text": "little bit and they were able to use"
+  },
+  {
+    "startTime": 599.279,
+    "endTime": 600.92,
+    "text": "that to reconstruct what the person was"
+  },
+  {
+    "startTime": 600.92,
+    "endTime": 603.16,
+    "text": "typing and had a language model for"
+  },
+  {
+    "startTime": 603.16,
+    "endTime": 604.56,
+    "text": "detecting"
+  },
+  {
+    "startTime": 604.56,
+    "endTime": 607.2,
+    "text": "typing what what was interesting is by"
+  },
+  {
+    "startTime": 607.2,
+    "endTime": 609.2,
+    "text": "videotaping on a bus they were able to"
+  },
+  {
+    "startTime": 609.2,
+    "endTime": 610.76,
+    "text": "produce exactly what people on their"
+  },
+  {
+    "startTime": 610.76,
+    "endTime": 612.72,
+    "text": "smartphones were typing and then they"
+  },
+  {
+    "startTime": 612.72,
+    "endTime": 614.56,
+    "text": "had a surprising result which is that"
+  },
+  {
+    "startTime": 614.56,
+    "endTime": 616.64,
+    "text": "their software had not only done it for"
+  },
+  {
+    "startTime": 616.64,
+    "endTime": 618.2,
+    "text": "their target but other people who"
+  },
+  {
+    "startTime": 618.2,
+    "endTime": 619.48,
+    "text": "accidentally happened to be in the"
+  },
+  {
+    "startTime": 619.48,
+    "endTime": 621.36,
+    "text": "picture they were able to produce what"
+  },
+  {
+    "startTime": 621.36,
+    "endTime": 623.0,
+    "text": "those people had been typing and that"
+  },
+  {
+    "startTime": 623.0,
+    "endTime": 624.72,
+    "text": "was kind of an accidental artifact of"
+  },
+  {
+    "startTime": 624.72,
+    "endTime": 626.519,
+    "text": "what their software was"
+  },
+  {
+    "startTime": 626.519,
+    "endTime": 629.88,
+    "text": "doing I'll show you uh two more one is"
+  },
+  {
+    "startTime": 629.88,
+    "endTime": 633.839,
+    "text": "p25 radios p25 radios are used by law"
+  },
+  {
+    "startTime": 633.839,
+    "endTime": 636.2,
+    "text": "enforcement and all kinds of uh"
+  },
+  {
+    "startTime": 636.2,
+    "endTime": 638.839,
+    "text": "government agencies and people in combat"
+  },
+  {
+    "startTime": 638.839,
+    "endTime": 640.92,
+    "text": "to communicate and there's an encryption"
+  },
+  {
+    "startTime": 640.92,
+    "endTime": 642.88,
+    "text": "option on these phones this is what the"
+  },
+  {
+    "startTime": 642.88,
+    "endTime": 644.72,
+    "text": "phone looks like um it's not really a"
+  },
+  {
+    "startTime": 644.72,
+    "endTime": 646.68,
+    "text": "phone it's more of a two-way radio uh"
+  },
+  {
+    "startTime": 646.68,
+    "endTime": 648.959,
+    "text": "Motorola makes the most widely used one"
+  },
+  {
+    "startTime": 648.959,
+    "endTime": 650.16,
+    "text": "and you can see that they're used by"
+  },
+  {
+    "startTime": 650.16,
+    "endTime": 652.24,
+    "text": "Secret Service they're used in combat"
+  },
+  {
+    "startTime": 652.24,
+    "endTime": 654.0,
+    "text": "it's a very very common standard in the"
+  },
+  {
+    "startTime": 654.0,
+    "endTime": 656.36,
+    "text": "US and elsewhere so one question the"
+  },
+  {
+    "startTime": 656.36,
+    "endTime": 658.48,
+    "text": "researchers asked themselves is could"
+  },
+  {
+    "startTime": 658.48,
+    "endTime": 661.36,
+    "text": "you block this thing right could you run"
+  },
+  {
+    "startTime": 661.36,
+    "endTime": 662.72,
+    "text": "a denial of service because these are"
+  },
+  {
+    "startTime": 662.72,
+    "endTime": 664.519,
+    "text": "First Responders so would a terrorist"
+  },
+  {
+    "startTime": 664.519,
+    "endTime": 665.88,
+    "text": "organization want to black out the"
+  },
+  {
+    "startTime": 665.88,
+    "endTime": 667.56,
+    "text": "ability of police and fired to"
+  },
+  {
+    "startTime": 667.56,
+    "endTime": 670.639,
+    "text": "communicate at an emergency they found"
+  },
+  {
+    "startTime": 670.639,
+    "endTime": 672.56,
+    "text": "that there's this girl Tech uh device"
+  },
+  {
+    "startTime": 672.56,
+    "endTime": 674.76,
+    "text": "used for texting that happens to operate"
+  },
+  {
+    "startTime": 674.76,
+    "endTime": 677.279,
+    "text": "at the same exact frequency as the p25"
+  },
+  {
+    "startTime": 677.279,
+    "endTime": 680.92,
+    "text": "and they built what they called my first"
+  },
+  {
+    "startTime": 681.959,
+    "endTime": 684.6,
+    "text": "Jammer if you look closely at this"
+  },
+  {
+    "startTime": 684.6,
+    "endTime": 687.399,
+    "text": "device it's got a switch for encryption"
+  },
+  {
+    "startTime": 687.399,
+    "endTime": 690.399,
+    "text": "or clear text let me advance the slide"
+  },
+  {
+    "startTime": 690.399,
+    "endTime": 692.68,
+    "text": "and now I'll go back you see the"
+  },
+  {
+    "startTime": 692.68,
+    "endTime": 696.079,
+    "text": "difference this is plain text this is"
+  },
+  {
+    "startTime": 696.079,
+    "endTime": 698.079,
+    "text": "encrypted there's one little dot that"
+  },
+  {
+    "startTime": 698.079,
+    "endTime": 699.8,
+    "text": "shows up on the screen and one little"
+  },
+  {
+    "startTime": 699.8,
+    "endTime": 701.519,
+    "text": "tiny turn of the switch and so the"
+  },
+  {
+    "startTime": 701.519,
+    "endTime": 703.279,
+    "text": "researchers asked themselves I wonder"
+  },
+  {
+    "startTime": 703.279,
+    "endTime": 706.279,
+    "text": "how many times very secure important"
+  },
+  {
+    "startTime": 706.279,
+    "endTime": 707.959,
+    "text": "sensitive conversations are happening on"
+  },
+  {
+    "startTime": 707.959,
+    "endTime": 709.24,
+    "text": "these two-way radios where they forget"
+  },
+  {
+    "startTime": 709.24,
+    "endTime": 710.56,
+    "text": "to encrypt and they don't notice that"
+  },
+  {
+    "startTime": 710.56,
+    "endTime": 713.72,
+    "text": "they didn't encrypt so they bought a"
+  },
+  {
+    "startTime": 713.72,
+    "endTime": 716.079,
+    "text": "scanner these are perfectly legal and"
+  },
+  {
+    "startTime": 716.079,
+    "endTime": 718.92,
+    "text": "they run at the frequency of the p25 and"
+  },
+  {
+    "startTime": 718.92,
+    "endTime": 720.079,
+    "text": "and what they did is they hopped around"
+  },
+  {
+    "startTime": 720.079,
+    "endTime": 722.2,
+    "text": "frequencies and they wrote software to"
+  },
+  {
+    "startTime": 722.2,
+    "endTime": 724.48,
+    "text": "listen in if they found encrypted"
+  },
+  {
+    "startTime": 724.48,
+    "endTime": 725.92,
+    "text": "communication they stayed on that"
+  },
+  {
+    "startTime": 725.92,
+    "endTime": 727.12,
+    "text": "channel and they wrote down that's a"
+  },
+  {
+    "startTime": 727.12,
+    "endTime": 729.24,
+    "text": "channel that these people communicate in"
+  },
+  {
+    "startTime": 729.24,
+    "endTime": 731.079,
+    "text": "these law enforcement agencies and they"
+  },
+  {
+    "startTime": 731.079,
+    "endTime": 733.24,
+    "text": "went to 20 metropolitan areas and"
+  },
+  {
+    "startTime": 733.24,
+    "endTime": 735.76,
+    "text": "listened in on conversations that were"
+  },
+  {
+    "startTime": 735.76,
+    "endTime": 737.079,
+    "text": "happening at those"
+  },
+  {
+    "startTime": 737.079,
+    "endTime": 739.6,
+    "text": "frequencies they found that in every"
+  },
+  {
+    "startTime": 739.6,
+    "endTime": 741.6,
+    "text": "metropolitan area they would capture"
+  },
+  {
+    "startTime": 741.6,
+    "endTime": 744.279,
+    "text": "over 20 minutes a day of clear text"
+  },
+  {
+    "startTime": 744.279,
+    "endTime": 745.959,
+    "text": "communication and what kind of things"
+  },
+  {
+    "startTime": 745.959,
+    "endTime": 747.519,
+    "text": "were people talking about well they"
+  },
+  {
+    "startTime": 747.519,
+    "endTime": 749.199,
+    "text": "found the names and information about"
+  },
+  {
+    "startTime": 749.199,
+    "endTime": 751.32,
+    "text": "confidential informance they found"
+  },
+  {
+    "startTime": 751.32,
+    "endTime": 753.079,
+    "text": "information that was being recorded in"
+  },
+  {
+    "startTime": 753.079,
+    "endTime": 755.56,
+    "text": "wiretaps a bunch of crimes that were"
+  },
+  {
+    "startTime": 755.56,
+    "endTime": 758.12,
+    "text": "being discussed sensitive information it"
+  },
+  {
+    "startTime": 758.12,
+    "endTime": 760.32,
+    "text": "was mostly law enforcement and"
+  },
+  {
+    "startTime": 760.32,
+    "endTime": 762.6,
+    "text": "criminal they went and reported this to"
+  },
+  {
+    "startTime": 762.6,
+    "endTime": 764.079,
+    "text": "the law enforcement agencies after"
+  },
+  {
+    "startTime": 764.079,
+    "endTime": 766.68,
+    "text": "anonymizing it and the vulnerability"
+  },
+  {
+    "startTime": 766.68,
+    "endTime": 768.399,
+    "text": "here is simply the user interface wasn't"
+  },
+  {
+    "startTime": 768.399,
+    "endTime": 770.0,
+    "text": "good enough if you're talking about"
+  },
+  {
+    "startTime": 770.0,
+    "endTime": 772.12,
+    "text": "something really secure and sensitive it"
+  },
+  {
+    "startTime": 772.12,
+    "endTime": 773.8,
+    "text": "should be really clear to you that this"
+  },
+  {
+    "startTime": 773.8,
+    "endTime": 775.92,
+    "text": "conversation is encrypted that one's"
+  },
+  {
+    "startTime": 775.92,
+    "endTime": 777.88,
+    "text": "pretty easy to fix the last one I"
+  },
+  {
+    "startTime": 777.88,
+    "endTime": 779.32,
+    "text": "thought was really really cool and I"
+  },
+  {
+    "startTime": 779.32,
+    "endTime": 781.32,
+    "text": "just had to show it to you it's probably"
+  },
+  {
+    "startTime": 781.32,
+    "endTime": 782.44,
+    "text": "not something that you're going to lose"
+  },
+  {
+    "startTime": 782.44,
+    "endTime": 783.72,
+    "text": "sleep over like the cars or the"
+  },
+  {
+    "startTime": 783.72,
+    "endTime": 787.04,
+    "text": "defibrillators but um it's stealing"
+  },
+  {
+    "startTime": 787.04,
+    "endTime": 788.959,
+    "text": "keystrokes now we've all looked at"
+  },
+  {
+    "startTime": 788.959,
+    "endTime": 791.279,
+    "text": "smartphones upside down every security"
+  },
+  {
+    "startTime": 791.279,
+    "endTime": 793.32,
+    "text": "expert wants to hack a smartphone and we"
+  },
+  {
+    "startTime": 793.32,
+    "endTime": 796.72,
+    "text": "tend to look at the USB port the GPS for"
+  },
+  {
+    "startTime": 796.72,
+    "endTime": 799.56,
+    "text": "tracking the camera the microphone but"
+  },
+  {
+    "startTime": 799.56,
+    "endTime": 801.12,
+    "text": "no one up till this point had looked at"
+  },
+  {
+    "startTime": 801.12,
+    "endTime": 803.0,
+    "text": "the accelerometer the accelerometer is"
+  },
+  {
+    "startTime": 803.0,
+    "endTime": 804.76,
+    "text": "the thing that determines the vertical"
+  },
+  {
+    "startTime": 804.76,
+    "endTime": 807.639,
+    "text": "orientation of the smartphone and so"
+  },
+  {
+    "startTime": 807.639,
+    "endTime": 809.56,
+    "text": "they had a simple setup they put a"
+  },
+  {
+    "startTime": 809.56,
+    "endTime": 811.48,
+    "text": "smartphone next to a keyboard and they"
+  },
+  {
+    "startTime": 811.48,
+    "endTime": 814.079,
+    "text": "had people type and then their goal was"
+  },
+  {
+    "startTime": 814.079,
+    "endTime": 816.24,
+    "text": "to use the vibrations that were created"
+  },
+  {
+    "startTime": 816.24,
+    "endTime": 819.24,
+    "text": "by typing um to measure the change in"
+  },
+  {
+    "startTime": 819.24,
+    "endTime": 822.32,
+    "text": "the accelerometer reading to determine"
+  },
+  {
+    "startTime": 822.32,
+    "endTime": 824.8,
+    "text": "what the person had been typing now when"
+  },
+  {
+    "startTime": 824.8,
+    "endTime": 827.519,
+    "text": "they tried this on an iPhone 3GS this is"
+  },
+  {
+    "startTime": 827.519,
+    "endTime": 829.72,
+    "text": "a graph of the perturbations that were"
+  },
+  {
+    "startTime": 829.72,
+    "endTime": 832.279,
+    "text": "created by the typing and you can see"
+  },
+  {
+    "startTime": 832.279,
+    "endTime": 833.8,
+    "text": "that it's very difficult to tell when"
+  },
+  {
+    "startTime": 833.8,
+    "endTime": 835.199,
+    "text": "somebody was typing or what they were"
+  },
+  {
+    "startTime": 835.199,
+    "endTime": 838.0,
+    "text": "typing but the iPhone 4 greatly improved"
+  },
+  {
+    "startTime": 838.0,
+    "endTime": 839.92,
+    "text": "the accelerometer"
+  },
+  {
+    "startTime": 839.92,
+    "endTime": 843.04,
+    "text": "and so the same measurement produced"
+  },
+  {
+    "startTime": 843.04,
+    "endTime": 845.6,
+    "text": "this graph now that gave you a lot of"
+  },
+  {
+    "startTime": 845.6,
+    "endTime": 848.32,
+    "text": "information while someone was typing and"
+  },
+  {
+    "startTime": 848.32,
+    "endTime": 850.48,
+    "text": "what they did then is used Advanced"
+  },
+  {
+    "startTime": 850.48,
+    "endTime": 851.959,
+    "text": "artificial intelligence techniques"
+  },
+  {
+    "startTime": 851.959,
+    "endTime": 853.839,
+    "text": "called machine learning to have a"
+  },
+  {
+    "startTime": 853.839,
+    "endTime": 855.959,
+    "text": "training phase and so they got most"
+  },
+  {
+    "startTime": 855.959,
+    "endTime": 857.959,
+    "text": "likely grad students to type in a whole"
+  },
+  {
+    "startTime": 857.959,
+    "endTime": 861.32,
+    "text": "lot of things and um to learn to have"
+  },
+  {
+    "startTime": 861.32,
+    "endTime": 862.72,
+    "text": "the system use the machine learning"
+  },
+  {
+    "startTime": 862.72,
+    "endTime": 864.759,
+    "text": "tools that were available to learn what"
+  },
+  {
+    "startTime": 864.759,
+    "endTime": 868.12,
+    "text": "it is that the people were typing and to"
+  },
+  {
+    "startTime": 868.12,
+    "endTime": 869.839,
+    "text": "match that up up with the measurements"
+  },
+  {
+    "startTime": 869.839,
+    "endTime": 871.839,
+    "text": "in the accelerometer and then there's"
+  },
+  {
+    "startTime": 871.839,
+    "endTime": 873.639,
+    "text": "the attack phase where you get somebody"
+  },
+  {
+    "startTime": 873.639,
+    "endTime": 875.279,
+    "text": "to type something in you don't know what"
+  },
+  {
+    "startTime": 875.279,
+    "endTime": 877.199,
+    "text": "it was but you use your model that you"
+  },
+  {
+    "startTime": 877.199,
+    "endTime": 879.0,
+    "text": "created in the training phase to figure"
+  },
+  {
+    "startTime": 879.0,
+    "endTime": 880.959,
+    "text": "out what they were typing they had"
+  },
+  {
+    "startTime": 880.959,
+    "endTime": 883.12,
+    "text": "pretty good success this is an article"
+  },
+  {
+    "startTime": 883.12,
+    "endTime": 885.6,
+    "text": "from the USA Today they typed in the"
+  },
+  {
+    "startTime": 885.6,
+    "endTime": 887.16,
+    "text": "Illinois Supreme Court has ruled that"
+  },
+  {
+    "startTime": 887.16,
+    "endTime": 889.199,
+    "text": "Ram Emanuel is eligible to run for mayor"
+  },
+  {
+    "startTime": 889.199,
+    "endTime": 891.48,
+    "text": "of Chicago see I tied into the last talk"
+  },
+  {
+    "startTime": 891.48,
+    "endTime": 893.839,
+    "text": "and ordered him to stay on the ballot"
+  },
+  {
+    "startTime": 893.839,
+    "endTime": 895.68,
+    "text": "now the system is interesting because it"
+  },
+  {
+    "startTime": 895.68,
+    "endTime": 897.8,
+    "text": "produced Illinois Supreme and then it"
+  },
+  {
+    "startTime": 897.8,
+    "endTime": 899.72,
+    "text": "wasn't sure the model produced a bunch"
+  },
+  {
+    "startTime": 899.72,
+    "endTime": 902.6,
+    "text": "of options and this is the beauty of of"
+  },
+  {
+    "startTime": 902.6,
+    "endTime": 904.279,
+    "text": "some of the AI techniques is that"
+  },
+  {
+    "startTime": 904.279,
+    "endTime": 906.199,
+    "text": "computers are good at some things humans"
+  },
+  {
+    "startTime": 906.199,
+    "endTime": 907.92,
+    "text": "are good at other things take the best"
+  },
+  {
+    "startTime": 907.92,
+    "endTime": 909.48,
+    "text": "of both let the human solve this one"
+  },
+  {
+    "startTime": 909.48,
+    "endTime": 911.399,
+    "text": "don't waste computer Cycles a human's"
+  },
+  {
+    "startTime": 911.399,
+    "endTime": 912.68,
+    "text": "not going to think it's the Supreme"
+  },
+  {
+    "startTime": 912.68,
+    "endTime": 914.839,
+    "text": "might it's the Supreme Court right and"
+  },
+  {
+    "startTime": 914.839,
+    "endTime": 916.72,
+    "text": "so together we're able to reproduce"
+  },
+  {
+    "startTime": 916.72,
+    "endTime": 918.88,
+    "text": "typing simply by measuring the"
+  },
+  {
+    "startTime": 918.88,
+    "endTime": 922.0,
+    "text": "accelerometer why is this matter well in"
+  },
+  {
+    "startTime": 922.0,
+    "endTime": 925.279,
+    "text": "in the Android platform for example the"
+  },
+  {
+    "startTime": 925.279,
+    "endTime": 928.12,
+    "text": "uh uh developers have a manifest where"
+  },
+  {
+    "startTime": 928.12,
+    "endTime": 930.48,
+    "text": "every device on there the microphone Etc"
+  },
+  {
+    "startTime": 930.48,
+    "endTime": 932.12,
+    "text": "has to register if you're going to use"
+  },
+  {
+    "startTime": 932.12,
+    "endTime": 934.839,
+    "text": "it so that hackers can't take over it"
+  },
+  {
+    "startTime": 934.839,
+    "endTime": 936.56,
+    "text": "but nobody controls the"
+  },
+  {
+    "startTime": 936.56,
+    "endTime": 938.6,
+    "text": "accelerometer so what's the point you"
+  },
+  {
+    "startTime": 938.6,
+    "endTime": 940.24,
+    "text": "can leave your iPhone next to someone's"
+  },
+  {
+    "startTime": 940.24,
+    "endTime": 942.04,
+    "text": "keyboard and just leave the room and"
+  },
+  {
+    "startTime": 942.04,
+    "endTime": 943.72,
+    "text": "then later recover what they did even"
+  },
+  {
+    "startTime": 943.72,
+    "endTime": 945.759,
+    "text": "without using the microphone um if"
+  },
+  {
+    "startTime": 945.759,
+    "endTime": 947.399,
+    "text": "someone is able to put malware on your"
+  },
+  {
+    "startTime": 947.399,
+    "endTime": 949.24,
+    "text": "iPhone they could then maybe get the"
+  },
+  {
+    "startTime": 949.24,
+    "endTime": 950.959,
+    "text": "typing that you do whenever you put your"
+  },
+  {
+    "startTime": 950.959,
+    "endTime": 953.199,
+    "text": "iPhone next to your keyboard there's"
+  },
+  {
+    "startTime": 953.199,
+    "endTime": 954.6,
+    "text": "several other notable attacks that"
+  },
+  {
+    "startTime": 954.6,
+    "endTime": 955.92,
+    "text": "unfortunately I don't have time to go"
+  },
+  {
+    "startTime": 955.92,
+    "endTime": 957.6,
+    "text": "into but the one that I wanted to point"
+  },
+  {
+    "startTime": 957.6,
+    "endTime": 959.079,
+    "text": "out was a group from from the University"
+  },
+  {
+    "startTime": 959.079,
+    "endTime": 961.079,
+    "text": "of Michigan which was able to take"
+  },
+  {
+    "startTime": 961.079,
+    "endTime": 964.079,
+    "text": "voting machines the seoa ABC Edge Dres"
+  },
+  {
+    "startTime": 964.079,
+    "endTime": 965.279,
+    "text": "that were going to be used in New Jersey"
+  },
+  {
+    "startTime": 965.279,
+    "endTime": 966.56,
+    "text": "in the election that were left in a"
+  },
+  {
+    "startTime": 966.56,
+    "endTime": 968.319,
+    "text": "hallway and put Pac-Man on it so they"
+  },
+  {
+    "startTime": 968.319,
+    "endTime": 971.12,
+    "text": "ran the Pac-Man"
+  },
+  {
+    "startTime": 971.199,
+    "endTime": 974.759,
+    "text": "game what does this all mean well I"
+  },
+  {
+    "startTime": 974.759,
+    "endTime": 976.759,
+    "text": "think that Society tends to adopt"
+  },
+  {
+    "startTime": 976.759,
+    "endTime": 978.399,
+    "text": "technology really quickly I love the"
+  },
+  {
+    "startTime": 978.399,
+    "endTime": 980.56,
+    "text": "next coolest Gadget but it's very"
+  },
+  {
+    "startTime": 980.56,
+    "endTime": 981.839,
+    "text": "important and these researchers are"
+  },
+  {
+    "startTime": 981.839,
+    "endTime": 983.72,
+    "text": "showing that the developers of these"
+  },
+  {
+    "startTime": 983.72,
+    "endTime": 985.319,
+    "text": "things need to take security into"
+  },
+  {
+    "startTime": 985.319,
+    "endTime": 987.079,
+    "text": "account from the very beginning and need"
+  },
+  {
+    "startTime": 987.079,
+    "endTime": 989.16,
+    "text": "to realize that the they may have a"
+  },
+  {
+    "startTime": 989.16,
+    "endTime": 991.04,
+    "text": "threat model but the attackers may not"
+  },
+  {
+    "startTime": 991.04,
+    "endTime": 992.72,
+    "text": "be nice enough to limit themselves to"
+  },
+  {
+    "startTime": 992.72,
+    "endTime": 994.44,
+    "text": "that threat model and so you need to"
+  },
+  {
+    "startTime": 994.44,
+    "endTime": 997.0,
+    "text": "think outside of the box what we can do"
+  },
+  {
+    "startTime": 997.0,
+    "endTime": 999.16,
+    "text": "is be aware that devices can be"
+  },
+  {
+    "startTime": 999.16,
+    "endTime": 1001.04,
+    "text": "compromised and anything that has"
+  },
+  {
+    "startTime": 1001.04,
+    "endTime": 1003.399,
+    "text": "software in it is going to be vulnerable"
+  },
+  {
+    "startTime": 1003.399,
+    "endTime": 1006.33,
+    "text": "it's going to have bugs thank you very"
+  },
+  {
+    "startTime": 1006.33,
+    "endTime": 1009.789,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 1012.079,
+    "endTime": 1015.079,
+    "text": "much"
+  }
+]

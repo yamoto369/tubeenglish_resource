@@ -1,0 +1,1342 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 15.772,
+    "endTime": 18.328,
+    "text": "I'd like to tell you about two games of chess."
+  },
+  {
+    "startTime": 18.328,
+    "endTime": 22.192,
+    "text": "The first happened in 1997, in which Garry Kasparov,"
+  },
+  {
+    "startTime": 22.192,
+    "endTime": 25.908,
+    "text": "a human, lost to Deep Blue, a machine."
+  },
+  {
+    "startTime": 25.908,
+    "endTime": 28.148000000000003,
+    "text": "To many, this was the dawn of a new era,"
+  },
+  {
+    "startTime": 28.148,
+    "endTime": 30.927,
+    "text": "one where man would be dominated by machine."
+  },
+  {
+    "startTime": 30.927,
+    "endTime": 34.261,
+    "text": "But here we are, 20 years on, and the greatest change"
+  },
+  {
+    "startTime": 34.261,
+    "endTime": 36.951,
+    "text": "in how we relate to computers is the iPad,"
+  },
+  {
+    "startTime": 36.951,
+    "endTime": 38.996,
+    "text": "not HAL."
+  },
+  {
+    "startTime": 38.996,
+    "endTime": 41.644000000000005,
+    "text": "The second game was a freestyle chess tournament"
+  },
+  {
+    "startTime": 41.644,
+    "endTime": 44.613,
+    "text": "in 2005, in which man and machine could enter together"
+  },
+  {
+    "startTime": 44.613,
+    "endTime": 49.278999999999996,
+    "text": "as partners, rather than adversaries, if they so chose."
+  },
+  {
+    "startTime": 49.279,
+    "endTime": 51.13,
+    "text": "At first, the results were predictable."
+  },
+  {
+    "startTime": 51.13,
+    "endTime": 53.627,
+    "text": "Even a supercomputer was beaten by a grandmaster"
+  },
+  {
+    "startTime": 53.627,
+    "endTime": 55.939,
+    "text": "with a relatively weak laptop."
+  },
+  {
+    "startTime": 55.939,
+    "endTime": 58.924,
+    "text": "The surprise came at the end. Who won?"
+  },
+  {
+    "startTime": 58.924,
+    "endTime": 61.7,
+    "text": "Not a grandmaster with a supercomputer,"
+  },
+  {
+    "startTime": 61.7,
+    "endTime": 63.193000000000005,
+    "text": "but actually two American amateurs"
+  },
+  {
+    "startTime": 63.193,
+    "endTime": 67.14999999999999,
+    "text": "using three relatively weak laptops."
+  },
+  {
+    "startTime": 67.15,
+    "endTime": 69.611,
+    "text": "Their ability to coach and manipulate their computers"
+  },
+  {
+    "startTime": 69.611,
+    "endTime": 72.46000000000001,
+    "text": "to deeply explore specific positions"
+  },
+  {
+    "startTime": 72.46,
+    "endTime": 74.43599999999999,
+    "text": "effectively counteracted the superior chess knowledge"
+  },
+  {
+    "startTime": 74.436,
+    "endTime": 77.45,
+    "text": "of the grandmasters and the superior computational power"
+  },
+  {
+    "startTime": 77.45,
+    "endTime": 78.95400000000001,
+    "text": "of other adversaries."
+  },
+  {
+    "startTime": 78.954,
+    "endTime": 81.859,
+    "text": "This is an astonishing result: average men,"
+  },
+  {
+    "startTime": 81.859,
+    "endTime": 85.94,
+    "text": "average machines beating the best man, the best machine."
+  },
+  {
+    "startTime": 85.94,
+    "endTime": 89.139,
+    "text": "And anyways, isn't it supposed to be man versus machine?"
+  },
+  {
+    "startTime": 89.139,
+    "endTime": 93.291,
+    "text": "Instead, it's about cooperation, and the right type of cooperation."
+  },
+  {
+    "startTime": 93.291,
+    "endTime": 96.148,
+    "text": "We've been paying a lot of attention to Marvin Minsky's"
+  },
+  {
+    "startTime": 96.148,
+    "endTime": 99.39,
+    "text": "vision for artificial intelligence over the last 50 years."
+  },
+  {
+    "startTime": 99.39,
+    "endTime": 101.652,
+    "text": "It's a sexy vision, for sure. Many have embraced it."
+  },
+  {
+    "startTime": 101.652,
+    "endTime": 104.405,
+    "text": "It's become the dominant school of thought in computer science."
+  },
+  {
+    "startTime": 104.405,
+    "endTime": 107.477,
+    "text": "But as we enter the era of big data, of network systems,"
+  },
+  {
+    "startTime": 107.477,
+    "endTime": 110.175,
+    "text": "of open platforms, and embedded technology,"
+  },
+  {
+    "startTime": 110.175,
+    "endTime": 113.567,
+    "text": "I'd like to suggest it's time to reevaluate an alternative vision"
+  },
+  {
+    "startTime": 113.567,
+    "endTime": 116.636,
+    "text": "that was actually developed around the same time."
+  },
+  {
+    "startTime": 116.637,
+    "endTime": 119.969,
+    "text": "I'm talking about J.C.R. Licklider's human-computer symbiosis,"
+  },
+  {
+    "startTime": 119.969,
+    "endTime": 123.776,
+    "text": "perhaps better termed \"intelligence augmentation,\" I.A."
+  },
+  {
+    "startTime": 123.777,
+    "endTime": 126.417,
+    "text": "Licklider was a computer science titan who had a profound"
+  },
+  {
+    "startTime": 126.417,
+    "endTime": 129.423,
+    "text": "effect on the development of technology and the Internet."
+  },
+  {
+    "startTime": 129.423,
+    "endTime": 132.291,
+    "text": "His vision was to enable man and machine to cooperate"
+  },
+  {
+    "startTime": 132.291,
+    "endTime": 135.881,
+    "text": "in making decisions, controlling complex situations"
+  },
+  {
+    "startTime": 135.881,
+    "endTime": 137.651,
+    "text": "without the inflexible dependence"
+  },
+  {
+    "startTime": 137.651,
+    "endTime": 140.184,
+    "text": "on predetermined programs."
+  },
+  {
+    "startTime": 140.184,
+    "endTime": 142.682,
+    "text": "Note that word \"cooperate.\""
+  },
+  {
+    "startTime": 142.682,
+    "endTime": 145.428,
+    "text": "Licklider encourages us not to take a toaster"
+  },
+  {
+    "startTime": 145.429,
+    "endTime": 147.713,
+    "text": "and make it Data from \"Star Trek,\""
+  },
+  {
+    "startTime": 147.713,
+    "endTime": 151.248,
+    "text": "but to take a human and make her more capable."
+  },
+  {
+    "startTime": 151.248,
+    "endTime": 153.159,
+    "text": "Humans are so amazing -- how we think,"
+  },
+  {
+    "startTime": 153.159,
+    "endTime": 155.777,
+    "text": "our non-linear approaches, our creativity,"
+  },
+  {
+    "startTime": 155.777,
+    "endTime": 157.908,
+    "text": "iterative hypotheses, all very difficult if possible at all"
+  },
+  {
+    "startTime": 157.908,
+    "endTime": 159.253,
+    "text": "for computers to do."
+  },
+  {
+    "startTime": 159.253,
+    "endTime": 161.70399999999998,
+    "text": "Licklider intuitively realized this, contemplating humans"
+  },
+  {
+    "startTime": 161.705,
+    "endTime": 164.32000000000002,
+    "text": "setting the goals, formulating the hypotheses,"
+  },
+  {
+    "startTime": 164.32,
+    "endTime": 167.408,
+    "text": "determining the criteria, and performing the evaluation."
+  },
+  {
+    "startTime": 167.408,
+    "endTime": 169.183,
+    "text": "Of course, in other ways, humans are so limited."
+  },
+  {
+    "startTime": 169.183,
+    "endTime": 172.418,
+    "text": "We're terrible at scale, computation and volume."
+  },
+  {
+    "startTime": 172.418,
+    "endTime": 174.25400000000002,
+    "text": "We require high-end talent management"
+  },
+  {
+    "startTime": 174.254,
+    "endTime": 176.31699999999998,
+    "text": "to keep the rock band together and playing."
+  },
+  {
+    "startTime": 176.318,
+    "endTime": 178.52200000000002,
+    "text": "Licklider foresaw computers doing all the routinizable work"
+  },
+  {
+    "startTime": 178.522,
+    "endTime": 181.798,
+    "text": "that was required to prepare the way for insights and decision making."
+  },
+  {
+    "startTime": 181.798,
+    "endTime": 184.22,
+    "text": "Silently, without much fanfare,"
+  },
+  {
+    "startTime": 184.22,
+    "endTime": 187.376,
+    "text": "this approach has been compiling victories beyond chess."
+  },
+  {
+    "startTime": 187.376,
+    "endTime": 190.732,
+    "text": "Protein folding, a topic that shares the incredible expansiveness of chess —"
+  },
+  {
+    "startTime": 190.732,
+    "endTime": 193.774,
+    "text": "there are more ways of folding a protein than there are atoms in the universe."
+  },
+  {
+    "startTime": 193.774,
+    "endTime": 196.127,
+    "text": "This is a world-changing problem with huge implications"
+  },
+  {
+    "startTime": 196.127,
+    "endTime": 198.435,
+    "text": "for our ability to understand and treat disease."
+  },
+  {
+    "startTime": 198.435,
+    "endTime": 202.683,
+    "text": "And for this task, supercomputer field brute force simply isn't enough."
+  },
+  {
+    "startTime": 202.683,
+    "endTime": 205.66,
+    "text": "Foldit, a game created by computer scientists,"
+  },
+  {
+    "startTime": 205.67,
+    "endTime": 207.569,
+    "text": "illustrates the value of the approach."
+  },
+  {
+    "startTime": 207.569,
+    "endTime": 210.60899999999998,
+    "text": "Non-technical, non-biologist amateurs play a video game"
+  },
+  {
+    "startTime": 210.61,
+    "endTime": 213.68300000000002,
+    "text": "in which they visually rearrange the structure of the protein,"
+  },
+  {
+    "startTime": 213.683,
+    "endTime": 215.182,
+    "text": "allowing the computer to manage the atomic forces"
+  },
+  {
+    "startTime": 215.182,
+    "endTime": 218.13799999999998,
+    "text": "and interactions and identify structural issues."
+  },
+  {
+    "startTime": 218.139,
+    "endTime": 221.162,
+    "text": "This approach beat supercomputers 50 percent of the time"
+  },
+  {
+    "startTime": 221.162,
+    "endTime": 223.746,
+    "text": "and tied 30 percent of the time."
+  },
+  {
+    "startTime": 223.746,
+    "endTime": 226.883,
+    "text": "Foldit recently made a notable and major scientific discovery"
+  },
+  {
+    "startTime": 226.883,
+    "endTime": 230.43,
+    "text": "by deciphering the structure of the Mason-Pfizer monkey virus."
+  },
+  {
+    "startTime": 230.43,
+    "endTime": 233.58,
+    "text": "A protease that had eluded determination for over 10 years"
+  },
+  {
+    "startTime": 233.58,
+    "endTime": 235.68400000000003,
+    "text": "was solved was by three players in a matter of days,"
+  },
+  {
+    "startTime": 235.684,
+    "endTime": 237.709,
+    "text": "perhaps the first major scientific advance"
+  },
+  {
+    "startTime": 237.709,
+    "endTime": 240.32,
+    "text": "to come from playing a video game."
+  },
+  {
+    "startTime": 240.32,
+    "endTime": 242.213,
+    "text": "Last year, on the site of the Twin Towers,"
+  },
+  {
+    "startTime": 242.213,
+    "endTime": 243.686,
+    "text": "the 9/11 memorial opened."
+  },
+  {
+    "startTime": 243.686,
+    "endTime": 246.407,
+    "text": "It displays the names of the thousands of victims"
+  },
+  {
+    "startTime": 246.407,
+    "endTime": 249.47,
+    "text": "using a beautiful concept called \"meaningful adjacency.\""
+  },
+  {
+    "startTime": 249.47,
+    "endTime": 251.636,
+    "text": "It places the names next to each other based on their"
+  },
+  {
+    "startTime": 251.636,
+    "endTime": 253.849,
+    "text": "relationships to one another: friends, families, coworkers."
+  },
+  {
+    "startTime": 253.849,
+    "endTime": 256.877,
+    "text": "When you put it all together, it's quite a computational"
+  },
+  {
+    "startTime": 256.877,
+    "endTime": 261.1,
+    "text": "challenge: 3,500 victims, 1,800 adjacency requests,"
+  },
+  {
+    "startTime": 261.1,
+    "endTime": 264.192,
+    "text": "the importance of the overall physical specifications"
+  },
+  {
+    "startTime": 264.192,
+    "endTime": 266.329,
+    "text": "and the final aesthetics."
+  },
+  {
+    "startTime": 266.329,
+    "endTime": 268.944,
+    "text": "When first reported by the media, full credit for such a feat"
+  },
+  {
+    "startTime": 268.944,
+    "endTime": 270.836,
+    "text": "was given to an algorithm from the New York City"
+  },
+  {
+    "startTime": 270.836,
+    "endTime": 274.837,
+    "text": "design firm Local Projects. The truth is a bit more nuanced."
+  },
+  {
+    "startTime": 274.837,
+    "endTime": 277.707,
+    "text": "While an algorithm was used to develop the underlying framework,"
+  },
+  {
+    "startTime": 277.708,
+    "endTime": 280.716,
+    "text": "humans used that framework to design the final result."
+  },
+  {
+    "startTime": 280.716,
+    "endTime": 282.94100000000003,
+    "text": "So in this case, a computer had evaluated millions"
+  },
+  {
+    "startTime": 282.941,
+    "endTime": 286.275,
+    "text": "of possible layouts, managed a complex relational system,"
+  },
+  {
+    "startTime": 286.276,
+    "endTime": 288.69,
+    "text": "and kept track of a very large set of measurements"
+  },
+  {
+    "startTime": 288.69,
+    "endTime": 291.1,
+    "text": "and variables, allowing the humans to focus"
+  },
+  {
+    "startTime": 291.1,
+    "endTime": 293.90200000000004,
+    "text": "on design and compositional choices."
+  },
+  {
+    "startTime": 293.902,
+    "endTime": 294.938,
+    "text": "So the more you look around you,"
+  },
+  {
+    "startTime": 294.938,
+    "endTime": 296.9,
+    "text": "the more you see Licklider's vision everywhere."
+  },
+  {
+    "startTime": 296.9,
+    "endTime": 300.203,
+    "text": "Whether it's augmented reality in your iPhone or GPS in your car,"
+  },
+  {
+    "startTime": 300.204,
+    "endTime": 303.17400000000004,
+    "text": "human-computer symbiosis is making us more capable."
+  },
+  {
+    "startTime": 303.174,
+    "endTime": 304.828,
+    "text": "So if you want to improve human-computer symbiosis,"
+  },
+  {
+    "startTime": 304.829,
+    "endTime": 306.258,
+    "text": "what can you do?"
+  },
+  {
+    "startTime": 306.258,
+    "endTime": 308.71,
+    "text": "You can start by designing the human into the process."
+  },
+  {
+    "startTime": 308.71,
+    "endTime": 310.914,
+    "text": "Instead of thinking about what a computer will do to solve the problem,"
+  },
+  {
+    "startTime": 310.914,
+    "endTime": 314.783,
+    "text": "design the solution around what the human will do as well."
+  },
+  {
+    "startTime": 314.783,
+    "endTime": 316.72,
+    "text": "When you do this, you'll quickly realize that you spent"
+  },
+  {
+    "startTime": 316.72,
+    "endTime": 319.59900000000005,
+    "text": "all of your time on the interface between man and machine,"
+  },
+  {
+    "startTime": 319.599,
+    "endTime": 322.698,
+    "text": "specifically on designing away the friction in the interaction."
+  },
+  {
+    "startTime": 322.698,
+    "endTime": 325.464,
+    "text": "In fact, this friction is more important than the power"
+  },
+  {
+    "startTime": 325.464,
+    "endTime": 327.516,
+    "text": "of the man or the power of the machine"
+  },
+  {
+    "startTime": 327.516,
+    "endTime": 329.447,
+    "text": "in determining overall capability."
+  },
+  {
+    "startTime": 329.447,
+    "endTime": 331.424,
+    "text": "That's why two amateurs with a few laptops"
+  },
+  {
+    "startTime": 331.424,
+    "endTime": 333.88,
+    "text": "handily beat a supercomputer and a grandmaster."
+  },
+  {
+    "startTime": 333.88,
+    "endTime": 336.885,
+    "text": "What Kasparov calls process is a byproduct of friction."
+  },
+  {
+    "startTime": 336.885,
+    "endTime": 339.286,
+    "text": "The better the process, the less the friction."
+  },
+  {
+    "startTime": 339.286,
+    "endTime": 343.54200000000003,
+    "text": "And minimizing friction turns out to be the decisive variable."
+  },
+  {
+    "startTime": 343.542,
+    "endTime": 345.784,
+    "text": "Or take another example: big data."
+  },
+  {
+    "startTime": 345.785,
+    "endTime": 347.69100000000003,
+    "text": "Every interaction we have in the world is recorded"
+  },
+  {
+    "startTime": 347.691,
+    "endTime": 350.75,
+    "text": "by an ever growing array of sensors: your phone,"
+  },
+  {
+    "startTime": 350.75,
+    "endTime": 353.123,
+    "text": "your credit card, your computer. The result is big data,"
+  },
+  {
+    "startTime": 353.123,
+    "endTime": 354.865,
+    "text": "and it actually presents us with an opportunity"
+  },
+  {
+    "startTime": 354.865,
+    "endTime": 357.527,
+    "text": "to more deeply understand the human condition."
+  },
+  {
+    "startTime": 357.527,
+    "endTime": 359.832,
+    "text": "The major emphasis of most approaches to big data"
+  },
+  {
+    "startTime": 359.832,
+    "endTime": 362.46,
+    "text": "focus on, \"How do I store this data? How do I search"
+  },
+  {
+    "startTime": 362.47,
+    "endTime": 364.32300000000004,
+    "text": "this data? How do I process this data?\""
+  },
+  {
+    "startTime": 364.323,
+    "endTime": 366.527,
+    "text": "These are necessary but insufficient questions."
+  },
+  {
+    "startTime": 366.527,
+    "endTime": 368.998,
+    "text": "The imperative is not to figure out how to compute,"
+  },
+  {
+    "startTime": 368.998,
+    "endTime": 371.182,
+    "text": "but what to compute. How do you impose human intuition"
+  },
+  {
+    "startTime": 371.182,
+    "endTime": 372.973,
+    "text": "on data at this scale?"
+  },
+  {
+    "startTime": 372.973,
+    "endTime": 376.47200000000004,
+    "text": "Again, we start by designing the human into the process."
+  },
+  {
+    "startTime": 376.472,
+    "endTime": 379.284,
+    "text": "When PayPal was first starting as a business, their biggest"
+  },
+  {
+    "startTime": 379.284,
+    "endTime": 382.87,
+    "text": "challenge was not, \"How do I send money back and forth online?\""
+  },
+  {
+    "startTime": 382.88,
+    "endTime": 385.96,
+    "text": "It was, \"How do I do that without being defrauded by organized crime?\""
+  },
+  {
+    "startTime": 385.96,
+    "endTime": 388.47999999999996,
+    "text": "Why so challenging? Because while computers can learn"
+  },
+  {
+    "startTime": 388.48,
+    "endTime": 391.192,
+    "text": "to detect and identify fraud based on patterns,"
+  },
+  {
+    "startTime": 391.192,
+    "endTime": 392.671,
+    "text": "they can't learn to do that based on patterns"
+  },
+  {
+    "startTime": 392.671,
+    "endTime": 394.787,
+    "text": "they've never seen before, and organized crime"
+  },
+  {
+    "startTime": 394.787,
+    "endTime": 397.496,
+    "text": "has a lot in common with this audience: brilliant people,"
+  },
+  {
+    "startTime": 397.496,
+    "endTime": 401.135,
+    "text": "relentlessly resourceful, entrepreneurial spirit — (Laughter) —"
+  },
+  {
+    "startTime": 401.136,
+    "endTime": 403.848,
+    "text": "and one huge and important difference: purpose."
+  },
+  {
+    "startTime": 403.848,
+    "endTime": 406.68,
+    "text": "And so while computers alone can catch all but the cleverest"
+  },
+  {
+    "startTime": 406.68,
+    "endTime": 408.933,
+    "text": "fraudsters, catching the cleverest is the difference"
+  },
+  {
+    "startTime": 408.933,
+    "endTime": 411.478,
+    "text": "between success and failure."
+  },
+  {
+    "startTime": 411.478,
+    "endTime": 413.699,
+    "text": "There's a whole class of problems like this, ones with"
+  },
+  {
+    "startTime": 413.699,
+    "endTime": 416.274,
+    "text": "adaptive adversaries. They rarely if ever present with a"
+  },
+  {
+    "startTime": 416.274,
+    "endTime": 419.1,
+    "text": "repeatable pattern that's discernable to computers."
+  },
+  {
+    "startTime": 419.1,
+    "endTime": 423.3,
+    "text": "Instead, there's some inherent component of innovation or disruption,"
+  },
+  {
+    "startTime": 423.3,
+    "endTime": 425.738,
+    "text": "and increasingly these problems are buried in big data."
+  },
+  {
+    "startTime": 425.738,
+    "endTime": 428.238,
+    "text": "For example, terrorism. Terrorists are always adapting"
+  },
+  {
+    "startTime": 428.238,
+    "endTime": 430.29,
+    "text": "in minor and major ways to new circumstances, and despite"
+  },
+  {
+    "startTime": 430.29,
+    "endTime": 433.384,
+    "text": "what you might see on TV, these adaptations,"
+  },
+  {
+    "startTime": 433.384,
+    "endTime": 435.677,
+    "text": "and the detection of them, are fundamentally human."
+  },
+  {
+    "startTime": 435.677,
+    "endTime": 438.79400000000004,
+    "text": "Computers don't detect novel patterns and new behaviors,"
+  },
+  {
+    "startTime": 438.794,
+    "endTime": 442.28999999999996,
+    "text": "but humans do. Humans, using technology, testing hypotheses,"
+  },
+  {
+    "startTime": 442.29,
+    "endTime": 446.649,
+    "text": "searching for insight by asking machines to do things for them."
+  },
+  {
+    "startTime": 446.649,
+    "endTime": 448.969,
+    "text": "Osama bin Laden was not caught by artificial intelligence."
+  },
+  {
+    "startTime": 448.969,
+    "endTime": 451.522,
+    "text": "He was caught by dedicated, resourceful, brilliant people"
+  },
+  {
+    "startTime": 451.522,
+    "endTime": 455.791,
+    "text": "in partnerships with various technologies."
+  },
+  {
+    "startTime": 455.791,
+    "endTime": 458.609,
+    "text": "As appealing as it might sound, you cannot algorithmically"
+  },
+  {
+    "startTime": 458.609,
+    "endTime": 460.21,
+    "text": "data mine your way to the answer."
+  },
+  {
+    "startTime": 460.21,
+    "endTime": 463.65,
+    "text": "There is no \"Find Terrorist\" button, and the more data"
+  },
+  {
+    "startTime": 463.65,
+    "endTime": 465.36699999999996,
+    "text": "we integrate from a vast variety of sources"
+  },
+  {
+    "startTime": 465.367,
+    "endTime": 467.5,
+    "text": "across a wide variety of data formats from very"
+  },
+  {
+    "startTime": 467.5,
+    "endTime": 470.809,
+    "text": "disparate systems, the less effective data mining can be."
+  },
+  {
+    "startTime": 470.809,
+    "endTime": 472.833,
+    "text": "Instead, people will have to look at data"
+  },
+  {
+    "startTime": 472.833,
+    "endTime": 476.28900000000004,
+    "text": "and search for insight, and as Licklider foresaw long ago,"
+  },
+  {
+    "startTime": 476.289,
+    "endTime": 478.974,
+    "text": "the key to great results here is the right type of cooperation,"
+  },
+  {
+    "startTime": 478.974,
+    "endTime": 480.498,
+    "text": "and as Kasparov realized,"
+  },
+  {
+    "startTime": 480.498,
+    "endTime": 483.529,
+    "text": "that means minimizing friction at the interface."
+  },
+  {
+    "startTime": 483.529,
+    "endTime": 486.287,
+    "text": "Now this approach makes possible things like combing"
+  },
+  {
+    "startTime": 486.287,
+    "endTime": 489.673,
+    "text": "through all available data from very different sources,"
+  },
+  {
+    "startTime": 489.673,
+    "endTime": 492.465,
+    "text": "identifying key relationships and putting them in one place,"
+  },
+  {
+    "startTime": 492.465,
+    "endTime": 495.393,
+    "text": "something that's been nearly impossible to do before."
+  },
+  {
+    "startTime": 495.393,
+    "endTime": 497.335,
+    "text": "To some, this has terrifying privacy and civil liberties"
+  },
+  {
+    "startTime": 497.335,
+    "endTime": 500.745,
+    "text": "implications. To others it foretells of an era of greater"
+  },
+  {
+    "startTime": 500.745,
+    "endTime": 502.654,
+    "text": "privacy and civil liberties protections,"
+  },
+  {
+    "startTime": 502.654,
+    "endTime": 505.59,
+    "text": "but privacy and civil liberties are of fundamental importance."
+  },
+  {
+    "startTime": 505.59,
+    "endTime": 507.782,
+    "text": "That must be acknowledged, and they can't be swept aside,"
+  },
+  {
+    "startTime": 507.783,
+    "endTime": 510.313,
+    "text": "even with the best of intents."
+  },
+  {
+    "startTime": 510.313,
+    "endTime": 512.831,
+    "text": "So let's explore, through a couple of examples, the impact"
+  },
+  {
+    "startTime": 512.831,
+    "endTime": 515.236,
+    "text": "that technologies built to drive human-computer symbiosis"
+  },
+  {
+    "startTime": 515.236,
+    "endTime": 518.155,
+    "text": "have had in recent time."
+  },
+  {
+    "startTime": 518.155,
+    "endTime": 521.572,
+    "text": "In October, 2007, U.S. and coalition forces raided"
+  },
+  {
+    "startTime": 521.572,
+    "endTime": 523.988,
+    "text": "an al Qaeda safe house in the city of Sinjar"
+  },
+  {
+    "startTime": 523.988,
+    "endTime": 525.922,
+    "text": "on the Syrian border of Iraq."
+  },
+  {
+    "startTime": 525.922,
+    "endTime": 528.298,
+    "text": "They found a treasure trove of documents:"
+  },
+  {
+    "startTime": 528.298,
+    "endTime": 530.633,
+    "text": "700 biographical sketches of foreign fighters."
+  },
+  {
+    "startTime": 530.633,
+    "endTime": 533.217,
+    "text": "These foreign fighters had left their families in the Gulf,"
+  },
+  {
+    "startTime": 533.217,
+    "endTime": 536.3629999999999,
+    "text": "the Levant and North Africa to join al Qaeda in Iraq."
+  },
+  {
+    "startTime": 536.363,
+    "endTime": 537.979,
+    "text": "These records were human resource forms."
+  },
+  {
+    "startTime": 537.979,
+    "endTime": 540.8340000000001,
+    "text": "The foreign fighters filled them out as they joined the organization."
+  },
+  {
+    "startTime": 540.834,
+    "endTime": 542.4499999999999,
+    "text": "It turns out that al Qaeda, too,"
+  },
+  {
+    "startTime": 542.45,
+    "endTime": 544.6410000000001,
+    "text": "is not without its bureaucracy. (Laughter)"
+  },
+  {
+    "startTime": 544.642,
+    "endTime": 546.74,
+    "text": "They answered questions like, \"Who recruited you?\""
+  },
+  {
+    "startTime": 546.74,
+    "endTime": 549.594,
+    "text": "\"What's your hometown?\" \"What occupation do you seek?\""
+  },
+  {
+    "startTime": 549.594,
+    "endTime": 552.763,
+    "text": "In that last question, a surprising insight was revealed."
+  },
+  {
+    "startTime": 552.763,
+    "endTime": 555.163,
+    "text": "The vast majority of foreign fighters"
+  },
+  {
+    "startTime": 555.163,
+    "endTime": 557.563,
+    "text": "were seeking to become suicide bombers for martyrdom --"
+  },
+  {
+    "startTime": 557.563,
+    "endTime": 561.901,
+    "text": "hugely important, since between 2003 and 2007, Iraq"
+  },
+  {
+    "startTime": 561.901,
+    "endTime": 566.145,
+    "text": "had 1,382 suicide bombings, a major source of instability."
+  },
+  {
+    "startTime": 566.145,
+    "endTime": 568.203,
+    "text": "Analyzing this data was hard. The originals were sheets"
+  },
+  {
+    "startTime": 568.203,
+    "endTime": 570.944,
+    "text": "of paper in Arabic that had to be scanned and translated."
+  },
+  {
+    "startTime": 570.945,
+    "endTime": 573.1370000000001,
+    "text": "The friction in the process did not allow for meaningful"
+  },
+  {
+    "startTime": 573.137,
+    "endTime": 576.487,
+    "text": "results in an operational time frame using humans, PDFs"
+  },
+  {
+    "startTime": 576.487,
+    "endTime": 578.704,
+    "text": "and tenacity alone."
+  },
+  {
+    "startTime": 578.705,
+    "endTime": 580.658,
+    "text": "The researchers had to lever up their human minds"
+  },
+  {
+    "startTime": 580.658,
+    "endTime": 583.3000000000001,
+    "text": "with technology to dive deeper, to explore non-obvious"
+  },
+  {
+    "startTime": 583.3,
+    "endTime": 586.221,
+    "text": "hypotheses, and in fact, insights emerged."
+  },
+  {
+    "startTime": 586.221,
+    "endTime": 588.865,
+    "text": "Twenty percent of the foreign fighters were from Libya,"
+  },
+  {
+    "startTime": 588.865,
+    "endTime": 591.833,
+    "text": "50 percent of those from a single town in Libya,"
+  },
+  {
+    "startTime": 591.833,
+    "endTime": 594.283,
+    "text": "hugely important since prior statistics put that figure at"
+  },
+  {
+    "startTime": 594.283,
+    "endTime": 596.666,
+    "text": "three percent. It also helped to hone in on a figure"
+  },
+  {
+    "startTime": 596.666,
+    "endTime": 599.643,
+    "text": "of rising importance in al Qaeda, Abu Yahya al-Libi,"
+  },
+  {
+    "startTime": 599.643,
+    "endTime": 602.274,
+    "text": "a senior cleric in the Libyan Islamic fighting group."
+  },
+  {
+    "startTime": 602.274,
+    "endTime": 604.938,
+    "text": "In March of 2007, he gave a speech, after which there was"
+  },
+  {
+    "startTime": 604.938,
+    "endTime": 608.404,
+    "text": "a surge in participation amongst Libyan foreign fighters."
+  },
+  {
+    "startTime": 608.404,
+    "endTime": 611.51,
+    "text": "Perhaps most clever of all, though, and least obvious,"
+  },
+  {
+    "startTime": 611.51,
+    "endTime": 613.583,
+    "text": "by flipping the data on its head, the researchers were"
+  },
+  {
+    "startTime": 613.583,
+    "endTime": 616.483,
+    "text": "able to deeply explore the coordination networks in Syria"
+  },
+  {
+    "startTime": 616.483,
+    "endTime": 619.0,
+    "text": "that were ultimately responsible for receiving and"
+  },
+  {
+    "startTime": 619.0,
+    "endTime": 621.464,
+    "text": "transporting the foreign fighters to the border."
+  },
+  {
+    "startTime": 621.464,
+    "endTime": 624.97,
+    "text": "These were networks of mercenaries, not ideologues,"
+  },
+  {
+    "startTime": 624.97,
+    "endTime": 626.495,
+    "text": "who were in the coordination business for profit."
+  },
+  {
+    "startTime": 626.495,
+    "endTime": 628.399,
+    "text": "For example, they charged Saudi foreign fighters"
+  },
+  {
+    "startTime": 628.399,
+    "endTime": 630.598,
+    "text": "substantially more than Libyans, money that would have"
+  },
+  {
+    "startTime": 630.598,
+    "endTime": 632.918,
+    "text": "otherwise gone to al Qaeda."
+  },
+  {
+    "startTime": 632.918,
+    "endTime": 634.963,
+    "text": "Perhaps the adversary would disrupt their own network"
+  },
+  {
+    "startTime": 634.963,
+    "endTime": 637.997,
+    "text": "if they knew they cheating would-be jihadists."
+  },
+  {
+    "startTime": 637.998,
+    "endTime": 641.743,
+    "text": "In January, 2010, a devastating 7.0 earthquake struck Haiti,"
+  },
+  {
+    "startTime": 641.743,
+    "endTime": 644.6590000000001,
+    "text": "third deadliest earthquake of all time, left one million people,"
+  },
+  {
+    "startTime": 644.659,
+    "endTime": 647.242,
+    "text": "10 percent of the population, homeless."
+  },
+  {
+    "startTime": 647.243,
+    "endTime": 650.38,
+    "text": "One seemingly small aspect of the overall relief effort"
+  },
+  {
+    "startTime": 650.38,
+    "endTime": 652.556,
+    "text": "became increasingly important as the delivery of food"
+  },
+  {
+    "startTime": 652.556,
+    "endTime": 654.716,
+    "text": "and water started rolling."
+  },
+  {
+    "startTime": 654.716,
+    "endTime": 656.174,
+    "text": "January and February are the dry months in Haiti,"
+  },
+  {
+    "startTime": 656.174,
+    "endTime": 659.116,
+    "text": "yet many of the camps had developed standing water."
+  },
+  {
+    "startTime": 659.116,
+    "endTime": 661.2379999999999,
+    "text": "The only institution with detailed knowledge of Haiti's"
+  },
+  {
+    "startTime": 661.238,
+    "endTime": 662.5350000000001,
+    "text": "floodplains had been leveled"
+  },
+  {
+    "startTime": 662.535,
+    "endTime": 665.543,
+    "text": "in the earthquake, leadership inside."
+  },
+  {
+    "startTime": 665.543,
+    "endTime": 668.118,
+    "text": "So the question is, which camps are at risk,"
+  },
+  {
+    "startTime": 668.118,
+    "endTime": 670.3900000000001,
+    "text": "how many people are in these camps, what's the"
+  },
+  {
+    "startTime": 670.39,
+    "endTime": 672.35,
+    "text": "timeline for flooding, and given very limited resources"
+  },
+  {
+    "startTime": 672.35,
+    "endTime": 675.734,
+    "text": "and infrastructure, how do we prioritize the relocation?"
+  },
+  {
+    "startTime": 675.734,
+    "endTime": 678.7800000000001,
+    "text": "The data was incredibly disparate. The U.S. Army had"
+  },
+  {
+    "startTime": 678.78,
+    "endTime": 681.6999999999999,
+    "text": "detailed knowledge for only a small section of the country."
+  },
+  {
+    "startTime": 681.7,
+    "endTime": 683.517,
+    "text": "There was data online from a 2006 environmental risk"
+  },
+  {
+    "startTime": 683.518,
+    "endTime": 686.182,
+    "text": "conference, other geospatial data, none of it integrated."
+  },
+  {
+    "startTime": 686.182,
+    "endTime": 689.14,
+    "text": "The human goal here was to identify camps for relocation"
+  },
+  {
+    "startTime": 689.14,
+    "endTime": 691.535,
+    "text": "based on priority need."
+  },
+  {
+    "startTime": 691.535,
+    "endTime": 693.975,
+    "text": "The computer had to integrate a vast amount of geospacial"
+  },
+  {
+    "startTime": 693.975,
+    "endTime": 696.559,
+    "text": "information, social media data and relief organization"
+  },
+  {
+    "startTime": 696.559,
+    "endTime": 700.39,
+    "text": "information to answer this question."
+  },
+  {
+    "startTime": 700.39,
+    "endTime": 702.454,
+    "text": "By implementing a superior process, what was otherwise"
+  },
+  {
+    "startTime": 702.454,
+    "endTime": 705.6099999999999,
+    "text": "a task for 40 people over three months became"
+  },
+  {
+    "startTime": 705.62,
+    "endTime": 708.238,
+    "text": "a simple job for three people in 40 hours,"
+  },
+  {
+    "startTime": 708.238,
+    "endTime": 710.8660000000001,
+    "text": "all victories for human-computer symbiosis."
+  },
+  {
+    "startTime": 710.866,
+    "endTime": 712.92,
+    "text": "We're more than 50 years into Licklider's vision"
+  },
+  {
+    "startTime": 712.92,
+    "endTime": 715.161,
+    "text": "for the future, and the data suggests that we should be"
+  },
+  {
+    "startTime": 715.162,
+    "endTime": 718.192,
+    "text": "quite excited about tackling this century's hardest problems,"
+  },
+  {
+    "startTime": 718.192,
+    "endTime": 721.139,
+    "text": "man and machine in cooperation together."
+  },
+  {
+    "startTime": 721.139,
+    "endTime": 723.336,
+    "text": "Thank you. (Applause)"
+  },
+  {
+    "startTime": 723.336,
+    "endTime": 725.841,
+    "text": "(Applause)"
+  }
+]

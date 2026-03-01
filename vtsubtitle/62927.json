@@ -1,0 +1,1357 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 15.734,
+    "endTime": 18.543,
+    "text": "Other people. Everyone is interested in other people."
+  },
+  {
+    "startTime": 18.543,
+    "endTime": 20.666,
+    "text": "Everyone has relationships with other people,"
+  },
+  {
+    "startTime": 20.666,
+    "endTime": 22.258,
+    "text": "and they're interested in these relationships"
+  },
+  {
+    "startTime": 22.258,
+    "endTime": 24.113,
+    "text": "for a variety of reasons."
+  },
+  {
+    "startTime": 24.113,
+    "endTime": 26.125,
+    "text": "Good relationships, bad relationships,"
+  },
+  {
+    "startTime": 26.125,
+    "endTime": 29.271,
+    "text": "annoying relationships, agnostic relationships,"
+  },
+  {
+    "startTime": 29.271,
+    "endTime": 32.695,
+    "text": "and what I'm going to do is focus on the central piece"
+  },
+  {
+    "startTime": 32.695,
+    "endTime": 35.998,
+    "text": "of an interaction that goes on in a relationship."
+  },
+  {
+    "startTime": 35.998,
+    "endTime": 38.333,
+    "text": "So I'm going to take as inspiration the fact that we're all"
+  },
+  {
+    "startTime": 38.334,
+    "endTime": 40.759,
+    "text": "interested in interacting with other people,"
+  },
+  {
+    "startTime": 40.759,
+    "endTime": 44.591,
+    "text": "I'm going to completely strip it of all its complicating features,"
+  },
+  {
+    "startTime": 44.591,
+    "endTime": 48.485,
+    "text": "and I'm going to turn that object, that simplified object,"
+  },
+  {
+    "startTime": 48.485,
+    "endTime": 52.635,
+    "text": "into a scientific probe, and provide the early stages,"
+  },
+  {
+    "startTime": 52.635,
+    "endTime": 55.83,
+    "text": "embryonic stages of new insights into what happens"
+  },
+  {
+    "startTime": 55.84,
+    "endTime": 58.734,
+    "text": "in two brains while they simultaneously interact."
+  },
+  {
+    "startTime": 58.734,
+    "endTime": 61.27,
+    "text": "But before I do that, let me tell you a couple of things"
+  },
+  {
+    "startTime": 61.27,
+    "endTime": 62.726000000000006,
+    "text": "that made this possible."
+  },
+  {
+    "startTime": 62.726,
+    "endTime": 65.507,
+    "text": "The first is we can now eavesdrop safely"
+  },
+  {
+    "startTime": 65.507,
+    "endTime": 68.218,
+    "text": "on healthy brain activity."
+  },
+  {
+    "startTime": 68.218,
+    "endTime": 70.795,
+    "text": "Without needles and radioactivity,"
+  },
+  {
+    "startTime": 70.795,
+    "endTime": 73.658,
+    "text": "without any kind of clinical reason, we can go down the street"
+  },
+  {
+    "startTime": 73.658,
+    "endTime": 76.785,
+    "text": "and record from your friends' and neighbors' brains"
+  },
+  {
+    "startTime": 76.785,
+    "endTime": 79.323,
+    "text": "while they do a variety of cognitive tasks, and we use"
+  },
+  {
+    "startTime": 79.323,
+    "endTime": 83.55999999999999,
+    "text": "a method called functional magnetic resonance imaging."
+  },
+  {
+    "startTime": 83.57,
+    "endTime": 85.38199999999999,
+    "text": "You've probably all read about it or heard about in some"
+  },
+  {
+    "startTime": 85.382,
+    "endTime": 89.76,
+    "text": "incarnation. Let me give you a two-sentence version of it."
+  },
+  {
+    "startTime": 89.76,
+    "endTime": 93.244,
+    "text": "So we've all heard of MRIs. MRIs use magnetic fields"
+  },
+  {
+    "startTime": 93.244,
+    "endTime": 95.273,
+    "text": "and radio waves and they take snapshots of your brain"
+  },
+  {
+    "startTime": 95.273,
+    "endTime": 97.634,
+    "text": "or your knee or your stomach,"
+  },
+  {
+    "startTime": 97.634,
+    "endTime": 99.679,
+    "text": "grayscale images that are frozen in time."
+  },
+  {
+    "startTime": 99.679,
+    "endTime": 102.0,
+    "text": "In the 1990s, it was discovered you could use"
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 104.659,
+    "text": "the same machines in a different mode,"
+  },
+  {
+    "startTime": 104.659,
+    "endTime": 107.5,
+    "text": "and in that mode, you could make microscopic blood flow"
+  },
+  {
+    "startTime": 107.5,
+    "endTime": 110.304,
+    "text": "movies from hundreds of thousands of sites independently in the brain."
+  },
+  {
+    "startTime": 110.305,
+    "endTime": 113.50500000000001,
+    "text": "Okay, so what? In fact, the so what is, in the brain,"
+  },
+  {
+    "startTime": 113.505,
+    "endTime": 117.336,
+    "text": "changes in neural activity, the things that make your brain work,"
+  },
+  {
+    "startTime": 117.337,
+    "endTime": 119.34700000000001,
+    "text": "the things that make your software work in your brain,"
+  },
+  {
+    "startTime": 119.347,
+    "endTime": 121.836,
+    "text": "are tightly correlated with changes in blood flow."
+  },
+  {
+    "startTime": 121.836,
+    "endTime": 123.809,
+    "text": "You make a blood flow movie, you have an independent"
+  },
+  {
+    "startTime": 123.809,
+    "endTime": 126.148,
+    "text": "proxy of brain activity."
+  },
+  {
+    "startTime": 126.148,
+    "endTime": 129.18099999999998,
+    "text": "This has literally revolutionized cognitive science."
+  },
+  {
+    "startTime": 129.181,
+    "endTime": 131.173,
+    "text": "Take any cognitive domain you want, memory,"
+  },
+  {
+    "startTime": 131.173,
+    "endTime": 133.314,
+    "text": "motor planning, thinking about your mother-in-law,"
+  },
+  {
+    "startTime": 133.314,
+    "endTime": 137.29,
+    "text": "getting angry at people, emotional response, it goes on and on,"
+  },
+  {
+    "startTime": 137.29,
+    "endTime": 140.118,
+    "text": "put people into functional MRI devices, and"
+  },
+  {
+    "startTime": 140.118,
+    "endTime": 143.501,
+    "text": "image how these kinds of variables map onto brain activity."
+  },
+  {
+    "startTime": 143.501,
+    "endTime": 146.35,
+    "text": "It's in its early stages, and it's crude by some measures,"
+  },
+  {
+    "startTime": 146.35,
+    "endTime": 148.918,
+    "text": "but in fact, 20 years ago, we were at nothing."
+  },
+  {
+    "startTime": 148.918,
+    "endTime": 151.27700000000002,
+    "text": "You couldn't do people like this. You couldn't do healthy people."
+  },
+  {
+    "startTime": 151.277,
+    "endTime": 153.765,
+    "text": "That's caused a literal revolution, and it's opened us up"
+  },
+  {
+    "startTime": 153.765,
+    "endTime": 156.583,
+    "text": "to a new experimental preparation. Neurobiologists,"
+  },
+  {
+    "startTime": 156.583,
+    "endTime": 160.343,
+    "text": "as you well know, have lots of experimental preps,"
+  },
+  {
+    "startTime": 160.343,
+    "endTime": 163.48299999999998,
+    "text": "worms and rodents and fruit flies and things like this."
+  },
+  {
+    "startTime": 163.484,
+    "endTime": 166.881,
+    "text": "And now, we have a new experimental prep: human beings."
+  },
+  {
+    "startTime": 166.881,
+    "endTime": 170.642,
+    "text": "We can now use human beings to study and model"
+  },
+  {
+    "startTime": 170.642,
+    "endTime": 173.591,
+    "text": "the software in human beings, and we have a few"
+  },
+  {
+    "startTime": 173.592,
+    "endTime": 176.42700000000002,
+    "text": "burgeoning biological measures."
+  },
+  {
+    "startTime": 176.427,
+    "endTime": 180.314,
+    "text": "Okay, let me give you one example of the kinds of experiments that people do,"
+  },
+  {
+    "startTime": 180.314,
+    "endTime": 182.99099999999999,
+    "text": "and it's in the area of what you'd call valuation."
+  },
+  {
+    "startTime": 182.991,
+    "endTime": 185.126,
+    "text": "Valuation is just what you think it is, you know?"
+  },
+  {
+    "startTime": 185.126,
+    "endTime": 187.93,
+    "text": "If you went and you were valuing two companies against"
+  },
+  {
+    "startTime": 187.93,
+    "endTime": 190.666,
+    "text": "one another, you'd want to know which was more valuable."
+  },
+  {
+    "startTime": 190.666,
+    "endTime": 194.545,
+    "text": "Cultures discovered the key feature of valuation thousands of years ago."
+  },
+  {
+    "startTime": 194.545,
+    "endTime": 197.23399999999998,
+    "text": "If you want to compare oranges to windshields, what do you do?"
+  },
+  {
+    "startTime": 197.235,
+    "endTime": 199.591,
+    "text": "Well, you can't compare oranges to windshields."
+  },
+  {
+    "startTime": 199.591,
+    "endTime": 201.846,
+    "text": "They're immiscible. They don't mix with one another."
+  },
+  {
+    "startTime": 201.846,
+    "endTime": 204.197,
+    "text": "So instead, you convert them to a common currency scale,"
+  },
+  {
+    "startTime": 204.197,
+    "endTime": 206.903,
+    "text": "put them on that scale, and value them accordingly."
+  },
+  {
+    "startTime": 206.903,
+    "endTime": 210.339,
+    "text": "Well, your brain has to do something just like that as well,"
+  },
+  {
+    "startTime": 210.339,
+    "endTime": 212.827,
+    "text": "and we're now beginning to understand and identify"
+  },
+  {
+    "startTime": 212.827,
+    "endTime": 214.964,
+    "text": "brain systems involved in valuation,"
+  },
+  {
+    "startTime": 214.964,
+    "endTime": 217.596,
+    "text": "and one of them includes a neurotransmitter system"
+  },
+  {
+    "startTime": 217.596,
+    "endTime": 220.228,
+    "text": "whose cells are located in your brainstem"
+  },
+  {
+    "startTime": 220.228,
+    "endTime": 223.40300000000002,
+    "text": "and deliver the chemical dopamine to the rest of your brain."
+  },
+  {
+    "startTime": 223.403,
+    "endTime": 225.845,
+    "text": "I won't go through the details of it, but that's an important"
+  },
+  {
+    "startTime": 225.845,
+    "endTime": 228.2,
+    "text": "discovery, and we know a good bit about that now,"
+  },
+  {
+    "startTime": 228.2,
+    "endTime": 230.232,
+    "text": "and it's just a small piece of it, but it's important because"
+  },
+  {
+    "startTime": 230.232,
+    "endTime": 233.507,
+    "text": "those are the neurons that you would lose if you had Parkinson's disease,"
+  },
+  {
+    "startTime": 233.507,
+    "endTime": 235.523,
+    "text": "and they're also the neurons that are hijacked by literally"
+  },
+  {
+    "startTime": 235.523,
+    "endTime": 237.755,
+    "text": "every drug of abuse, and that makes sense."
+  },
+  {
+    "startTime": 237.755,
+    "endTime": 240.91,
+    "text": "Drugs of abuse would come in, and they would change"
+  },
+  {
+    "startTime": 240.91,
+    "endTime": 241.88,
+    "text": "the way you value the world. They change the way"
+  },
+  {
+    "startTime": 241.88,
+    "endTime": 245.79,
+    "text": "you value the symbols associated with your drug of choice,"
+  },
+  {
+    "startTime": 245.79,
+    "endTime": 247.593,
+    "text": "and they make you value that over everything else."
+  },
+  {
+    "startTime": 247.593,
+    "endTime": 250.613,
+    "text": "Here's the key feature though. These neurons are also"
+  },
+  {
+    "startTime": 250.614,
+    "endTime": 254.115,
+    "text": "involved in the way you can assign value to literally abstract ideas,"
+  },
+  {
+    "startTime": 254.115,
+    "endTime": 256.156,
+    "text": "and I put some symbols up here that we assign value to"
+  },
+  {
+    "startTime": 256.156,
+    "endTime": 258.87600000000003,
+    "text": "for various reasons."
+  },
+  {
+    "startTime": 258.875,
+    "endTime": 261.565,
+    "text": "We have a behavioral superpower in our brain,"
+  },
+  {
+    "startTime": 261.565,
+    "endTime": 263.318,
+    "text": "and it at least in part involves dopamine."
+  },
+  {
+    "startTime": 263.318,
+    "endTime": 267.507,
+    "text": "We can deny every instinct we have for survival for an idea,"
+  },
+  {
+    "startTime": 267.507,
+    "endTime": 271.512,
+    "text": "for a mere idea. No other species can do that."
+  },
+  {
+    "startTime": 271.512,
+    "endTime": 275.118,
+    "text": "In 1997, the cult Heaven's Gate committed mass suicide"
+  },
+  {
+    "startTime": 275.118,
+    "endTime": 277.332,
+    "text": "predicated on the idea that there was a spaceship"
+  },
+  {
+    "startTime": 277.333,
+    "endTime": 281.11800000000005,
+    "text": "hiding in the tail of the then-visible comet Hale-Bopp"
+  },
+  {
+    "startTime": 281.118,
+    "endTime": 285.39,
+    "text": "waiting to take them to the next level. It was an incredibly tragic event."
+  },
+  {
+    "startTime": 285.39,
+    "endTime": 288.875,
+    "text": "More than two thirds of them had college degrees."
+  },
+  {
+    "startTime": 288.875,
+    "endTime": 292.598,
+    "text": "But the point here is they were able to deny their instincts for survival"
+  },
+  {
+    "startTime": 292.598,
+    "endTime": 295.464,
+    "text": "using exactly the same systems that were put there"
+  },
+  {
+    "startTime": 295.464,
+    "endTime": 299.506,
+    "text": "to make them survive. That's a lot of control, okay?"
+  },
+  {
+    "startTime": 299.506,
+    "endTime": 301.594,
+    "text": "One thing that I've left out of this narrative"
+  },
+  {
+    "startTime": 301.595,
+    "endTime": 303.829,
+    "text": "is the obvious thing, which is the focus of the rest of my"
+  },
+  {
+    "startTime": 303.829,
+    "endTime": 305.988,
+    "text": "little talk, and that is other people."
+  },
+  {
+    "startTime": 305.988,
+    "endTime": 308.984,
+    "text": "These same valuation systems are redeployed"
+  },
+  {
+    "startTime": 308.984,
+    "endTime": 311.476,
+    "text": "when we're valuing interactions with other people."
+  },
+  {
+    "startTime": 311.476,
+    "endTime": 314.747,
+    "text": "So this same dopamine system that gets addicted to drugs,"
+  },
+  {
+    "startTime": 314.747,
+    "endTime": 317.271,
+    "text": "that makes you freeze when you get Parkinson's disease,"
+  },
+  {
+    "startTime": 317.271,
+    "endTime": 320.348,
+    "text": "that contributes to various forms of psychosis,"
+  },
+  {
+    "startTime": 320.348,
+    "endTime": 324.26800000000003,
+    "text": "is also redeployed to value interactions with other people"
+  },
+  {
+    "startTime": 324.268,
+    "endTime": 327.164,
+    "text": "and to assign value to gestures that you do"
+  },
+  {
+    "startTime": 327.164,
+    "endTime": 329.738,
+    "text": "when you're interacting with somebody else."
+  },
+  {
+    "startTime": 329.738,
+    "endTime": 332.315,
+    "text": "Let me give you an example of this."
+  },
+  {
+    "startTime": 332.315,
+    "endTime": 335.282,
+    "text": "You bring to the table such enormous processing power"
+  },
+  {
+    "startTime": 335.282,
+    "endTime": 337.906,
+    "text": "in this domain that you hardly even notice it."
+  },
+  {
+    "startTime": 337.906,
+    "endTime": 339.373,
+    "text": "Let me just give you a few examples. So here's a baby."
+  },
+  {
+    "startTime": 339.373,
+    "endTime": 343.103,
+    "text": "She's three months old. She still poops in her diapers and she can't do calculus."
+  },
+  {
+    "startTime": 343.103,
+    "endTime": 346.456,
+    "text": "She's related to me. Somebody will be very glad that she's up here on the screen."
+  },
+  {
+    "startTime": 346.456,
+    "endTime": 348.832,
+    "text": "You can cover up one of her eyes, and you can still read"
+  },
+  {
+    "startTime": 348.832,
+    "endTime": 351.587,
+    "text": "something in the other eye, and I see sort of curiosity"
+  },
+  {
+    "startTime": 351.587,
+    "endTime": 355.183,
+    "text": "in one eye, I see maybe a little bit of surprise in the other."
+  },
+  {
+    "startTime": 355.184,
+    "endTime": 358.363,
+    "text": "Here's a couple. They're sharing a moment together,"
+  },
+  {
+    "startTime": 358.363,
+    "endTime": 359.681,
+    "text": "and we've even done an experiment where you can cut out"
+  },
+  {
+    "startTime": 359.681,
+    "endTime": 362.688,
+    "text": "different pieces of this frame and you can still see"
+  },
+  {
+    "startTime": 362.688,
+    "endTime": 365.192,
+    "text": "that they're sharing it. They're sharing it sort of in parallel."
+  },
+  {
+    "startTime": 365.192,
+    "endTime": 367.65500000000003,
+    "text": "Now, the elements of the scene also communicate this"
+  },
+  {
+    "startTime": 367.655,
+    "endTime": 369.89,
+    "text": "to us, but you can read it straight off their faces,"
+  },
+  {
+    "startTime": 369.89,
+    "endTime": 373.393,
+    "text": "and if you compare their faces to normal faces, it would be a very subtle cue."
+  },
+  {
+    "startTime": 373.393,
+    "endTime": 376.739,
+    "text": "Here's another couple. He's projecting out at us,"
+  },
+  {
+    "startTime": 376.74,
+    "endTime": 379.628,
+    "text": "and she's clearly projecting, you know,"
+  },
+  {
+    "startTime": 379.628,
+    "endTime": 381.89,
+    "text": "love and admiration at him."
+  },
+  {
+    "startTime": 381.891,
+    "endTime": 385.526,
+    "text": "Here's another couple. (Laughter)"
+  },
+  {
+    "startTime": 385.526,
+    "endTime": 390.676,
+    "text": "And I'm thinking I'm not seeing love and admiration on the left. (Laughter)"
+  },
+  {
+    "startTime": 390.676,
+    "endTime": 393.236,
+    "text": "In fact, I know this is his sister, and you can just see"
+  },
+  {
+    "startTime": 393.236,
+    "endTime": 395.748,
+    "text": "him saying, \"Okay, we're doing this for the camera,"
+  },
+  {
+    "startTime": 395.749,
+    "endTime": 401.451,
+    "text": "and then afterwards you steal my candy and you punch me in the face.\" (Laughter)"
+  },
+  {
+    "startTime": 401.451,
+    "endTime": 403.557,
+    "text": "He'll kill me for showing that."
+  },
+  {
+    "startTime": 403.557,
+    "endTime": 406.35400000000004,
+    "text": "All right, so what does this mean?"
+  },
+  {
+    "startTime": 406.354,
+    "endTime": 409.704,
+    "text": "It means we bring an enormous amount of processing power to the problem."
+  },
+  {
+    "startTime": 409.704,
+    "endTime": 413.35200000000003,
+    "text": "It engages deep systems in our brain, in dopaminergic"
+  },
+  {
+    "startTime": 413.352,
+    "endTime": 416.169,
+    "text": "systems that are there to make you chase sex, food and salt."
+  },
+  {
+    "startTime": 416.17,
+    "endTime": 419.64000000000004,
+    "text": "They keep you alive. It gives them the pie, it gives"
+  },
+  {
+    "startTime": 419.64,
+    "endTime": 421.96799999999996,
+    "text": "that kind of a behavioral punch which we've called a superpower."
+  },
+  {
+    "startTime": 421.968,
+    "endTime": 425.622,
+    "text": "So how can we take that and arrange a kind of staged"
+  },
+  {
+    "startTime": 425.622,
+    "endTime": 428.32,
+    "text": "social interaction and turn that into a scientific probe?"
+  },
+  {
+    "startTime": 428.32,
+    "endTime": 431.09999999999997,
+    "text": "And the short answer is games."
+  },
+  {
+    "startTime": 431.11,
+    "endTime": 435.415,
+    "text": "Economic games. So what we do is we go into two areas."
+  },
+  {
+    "startTime": 435.415,
+    "endTime": 438.75100000000003,
+    "text": "One area is called experimental economics. The other area is called behavioral economics."
+  },
+  {
+    "startTime": 438.751,
+    "endTime": 442.828,
+    "text": "And we steal their games. And we contrive them to our own purposes."
+  },
+  {
+    "startTime": 442.829,
+    "endTime": 445.796,
+    "text": "So this shows you one particular game called an ultimatum game."
+  },
+  {
+    "startTime": 445.796,
+    "endTime": 447.641,
+    "text": "Red person is given a hundred dollars and can offer"
+  },
+  {
+    "startTime": 447.641,
+    "endTime": 451.36400000000003,
+    "text": "a split to blue. Let's say red wants to keep 70,"
+  },
+  {
+    "startTime": 451.364,
+    "endTime": 455.45,
+    "text": "and offers blue 30. So he offers a 70-30 split with blue."
+  },
+  {
+    "startTime": 455.45,
+    "endTime": 458.301,
+    "text": "Control passes to blue, and blue says, \"I accept it,\""
+  },
+  {
+    "startTime": 458.301,
+    "endTime": 460.257,
+    "text": "in which case he'd get the money, or blue says,"
+  },
+  {
+    "startTime": 460.257,
+    "endTime": 464.564,
+    "text": "\"I reject it,\" in which case no one gets anything. Okay?"
+  },
+  {
+    "startTime": 464.564,
+    "endTime": 467.956,
+    "text": "So a rational choice economist would say, well,"
+  },
+  {
+    "startTime": 467.956,
+    "endTime": 470.12,
+    "text": "you should take all non-zero offers."
+  },
+  {
+    "startTime": 470.12,
+    "endTime": 473.774,
+    "text": "What do people do? People are indifferent at an 80-20 split."
+  },
+  {
+    "startTime": 473.774,
+    "endTime": 477.298,
+    "text": "At 80-20, it's a coin flip whether you accept that or not."
+  },
+  {
+    "startTime": 477.298,
+    "endTime": 480.189,
+    "text": "Why is that? You know, because you're pissed off."
+  },
+  {
+    "startTime": 480.189,
+    "endTime": 483.798,
+    "text": "You're mad. That's an unfair offer, and you know what an unfair offer is."
+  },
+  {
+    "startTime": 483.798,
+    "endTime": 486.502,
+    "text": "This is the kind of game done by my lab and many around the world."
+  },
+  {
+    "startTime": 486.502,
+    "endTime": 489.46000000000004,
+    "text": "That just gives you an example of the kind of thing that"
+  },
+  {
+    "startTime": 489.46,
+    "endTime": 492.784,
+    "text": "these games probe. The interesting thing is, these games"
+  },
+  {
+    "startTime": 492.784,
+    "endTime": 496.491,
+    "text": "require that you have a lot of cognitive apparatus on line."
+  },
+  {
+    "startTime": 496.491,
+    "endTime": 499.419,
+    "text": "You have to be able to come to the table with a proper model of another person."
+  },
+  {
+    "startTime": 499.419,
+    "endTime": 502.632,
+    "text": "You have to be able to remember what you've done."
+  },
+  {
+    "startTime": 502.632,
+    "endTime": 504.52,
+    "text": "You have to stand up in the moment to do that."
+  },
+  {
+    "startTime": 504.52,
+    "endTime": 507.402,
+    "text": "Then you have to update your model based on the signals coming back,"
+  },
+  {
+    "startTime": 507.402,
+    "endTime": 510.373,
+    "text": "and you have to do something that is interesting,"
+  },
+  {
+    "startTime": 510.374,
+    "endTime": 512.971,
+    "text": "which is you have to do a kind of depth of thought assay."
+  },
+  {
+    "startTime": 512.971,
+    "endTime": 516.304,
+    "text": "That is, you have to decide what that other person expects of you."
+  },
+  {
+    "startTime": 516.304,
+    "endTime": 519.257,
+    "text": "You have to send signals to manage your image in their mind."
+  },
+  {
+    "startTime": 519.258,
+    "endTime": 522.111,
+    "text": "Like a job interview. You sit across the desk from somebody,"
+  },
+  {
+    "startTime": 522.111,
+    "endTime": 523.48,
+    "text": "they have some prior image of you,"
+  },
+  {
+    "startTime": 523.48,
+    "endTime": 526.231,
+    "text": "you send signals across the desk to move their image"
+  },
+  {
+    "startTime": 526.231,
+    "endTime": 530.151,
+    "text": "of you from one place to a place where you want it to be."
+  },
+  {
+    "startTime": 530.151,
+    "endTime": 533.536,
+    "text": "We're so good at this we don't really even notice it."
+  },
+  {
+    "startTime": 533.536,
+    "endTime": 537.303,
+    "text": "These kinds of probes exploit it. Okay?"
+  },
+  {
+    "startTime": 537.303,
+    "endTime": 539.11,
+    "text": "In doing this, what we've discovered is that humans"
+  },
+  {
+    "startTime": 539.11,
+    "endTime": 541.441,
+    "text": "are literal canaries in social exchanges."
+  },
+  {
+    "startTime": 541.441,
+    "endTime": 544.8380000000001,
+    "text": "Canaries used to be used as kind of biosensors in mines."
+  },
+  {
+    "startTime": 544.838,
+    "endTime": 548.3969999999999,
+    "text": "When methane built up, or carbon dioxide built up,"
+  },
+  {
+    "startTime": 548.398,
+    "endTime": 552.5840000000001,
+    "text": "or oxygen was diminished, the birds would swoon"
+  },
+  {
+    "startTime": 552.584,
+    "endTime": 554.91,
+    "text": "before people would -- so it acted as an early warning system:"
+  },
+  {
+    "startTime": 554.91,
+    "endTime": 557.89,
+    "text": "Hey, get out of the mine. Things aren't going so well."
+  },
+  {
+    "startTime": 557.89,
+    "endTime": 560.843,
+    "text": "People come to the table, and even these very blunt,"
+  },
+  {
+    "startTime": 560.844,
+    "endTime": 563.8340000000001,
+    "text": "staged social interactions, and they, and there's just"
+  },
+  {
+    "startTime": 563.834,
+    "endTime": 566.8489999999999,
+    "text": "numbers going back and forth between the people,"
+  },
+  {
+    "startTime": 566.85,
+    "endTime": 569.49,
+    "text": "and they bring enormous sensitivities to it."
+  },
+  {
+    "startTime": 569.49,
+    "endTime": 571.738,
+    "text": "So we realized we could exploit this, and in fact,"
+  },
+  {
+    "startTime": 571.738,
+    "endTime": 574.2940000000001,
+    "text": "as we've done that, and we've done this now in"
+  },
+  {
+    "startTime": 574.294,
+    "endTime": 576.9879999999999,
+    "text": "many thousands of people, I think on the order of"
+  },
+  {
+    "startTime": 576.988,
+    "endTime": 579.153,
+    "text": "five or six thousand. We actually, to make this"
+  },
+  {
+    "startTime": 579.153,
+    "endTime": 581.3770000000001,
+    "text": "a biological probe, need bigger numbers than that,"
+  },
+  {
+    "startTime": 581.377,
+    "endTime": 585.5,
+    "text": "remarkably so. But anyway,"
+  },
+  {
+    "startTime": 585.51,
+    "endTime": 587.55,
+    "text": "patterns have emerged, and we've been able to take"
+  },
+  {
+    "startTime": 587.55,
+    "endTime": 590.891,
+    "text": "those patterns, convert them into mathematical models,"
+  },
+  {
+    "startTime": 590.891,
+    "endTime": 593.579,
+    "text": "and use those mathematical models to gain new insights"
+  },
+  {
+    "startTime": 593.58,
+    "endTime": 595.711,
+    "text": "into these exchanges. Okay, so what?"
+  },
+  {
+    "startTime": 595.711,
+    "endTime": 599.24,
+    "text": "Well, the so what is, that's a really nice behavioral measure,"
+  },
+  {
+    "startTime": 599.24,
+    "endTime": 602.343,
+    "text": "the economic games bring to us notions of optimal play."
+  },
+  {
+    "startTime": 602.343,
+    "endTime": 604.827,
+    "text": "We can compute that during the game."
+  },
+  {
+    "startTime": 604.827,
+    "endTime": 607.78,
+    "text": "And we can use that to sort of carve up the behavior."
+  },
+  {
+    "startTime": 607.78,
+    "endTime": 612.11,
+    "text": "Here's the cool thing. Six or seven years ago,"
+  },
+  {
+    "startTime": 612.11,
+    "endTime": 614.66,
+    "text": "we developed a team. It was at the time in Houston, Texas."
+  },
+  {
+    "startTime": 614.66,
+    "endTime": 618.54,
+    "text": "It's now in Virginia and London. And we built software"
+  },
+  {
+    "startTime": 618.54,
+    "endTime": 621.261,
+    "text": "that'll link functional magnetic resonance imaging devices"
+  },
+  {
+    "startTime": 621.261,
+    "endTime": 625.295,
+    "text": "up over the Internet. I guess we've done up to six machines"
+  },
+  {
+    "startTime": 625.296,
+    "endTime": 627.277,
+    "text": "at a time, but let's just focus on two."
+  },
+  {
+    "startTime": 627.277,
+    "endTime": 630.335,
+    "text": "So it synchronizes machines anywhere in the world."
+  },
+  {
+    "startTime": 630.335,
+    "endTime": 633.504,
+    "text": "We synchronize the machines, set them into these"
+  },
+  {
+    "startTime": 633.504,
+    "endTime": 635.487,
+    "text": "staged social interactions, and we eavesdrop on both"
+  },
+  {
+    "startTime": 635.487,
+    "endTime": 637.153,
+    "text": "of the interacting brains. So for the first time,"
+  },
+  {
+    "startTime": 637.153,
+    "endTime": 640.76,
+    "text": "we don't have to look at just averages over single individuals,"
+  },
+  {
+    "startTime": 640.76,
+    "endTime": 643.657,
+    "text": "or have individuals playing computers, or try to make"
+  },
+  {
+    "startTime": 643.657,
+    "endTime": 646.4200000000001,
+    "text": "inferences that way. We can study individual dyads."
+  },
+  {
+    "startTime": 646.42,
+    "endTime": 649.204,
+    "text": "We can study the way that one person interacts with another person,"
+  },
+  {
+    "startTime": 649.205,
+    "endTime": 651.769,
+    "text": "turn the numbers up, and start to gain new insights"
+  },
+  {
+    "startTime": 651.769,
+    "endTime": 654.284,
+    "text": "into the boundaries of normal cognition,"
+  },
+  {
+    "startTime": 654.284,
+    "endTime": 657.16,
+    "text": "but more importantly, we can put people with"
+  },
+  {
+    "startTime": 657.16,
+    "endTime": 660.353,
+    "text": "classically defined mental illnesses, or brain damage,"
+  },
+  {
+    "startTime": 660.353,
+    "endTime": 663.904,
+    "text": "into these social interactions, and use these as probes of that."
+  },
+  {
+    "startTime": 663.904,
+    "endTime": 666.254,
+    "text": "So we've started this effort. We've made a few hits,"
+  },
+  {
+    "startTime": 666.254,
+    "endTime": 668.703,
+    "text": "a few, I think, embryonic discoveries."
+  },
+  {
+    "startTime": 668.703,
+    "endTime": 671.515,
+    "text": "We think there's a future to this. But it's our way"
+  },
+  {
+    "startTime": 671.515,
+    "endTime": 674.74,
+    "text": "of going in and redefining, with a new lexicon,"
+  },
+  {
+    "startTime": 674.75,
+    "endTime": 678.97,
+    "text": "a mathematical one actually, as opposed to the standard"
+  },
+  {
+    "startTime": 678.97,
+    "endTime": 680.6750000000001,
+    "text": "ways that we think about mental illness,"
+  },
+  {
+    "startTime": 680.675,
+    "endTime": 682.742,
+    "text": "characterizing these diseases, by using the people"
+  },
+  {
+    "startTime": 682.742,
+    "endTime": 685.7479999999999,
+    "text": "as birds in the exchanges. That is, we exploit the fact"
+  },
+  {
+    "startTime": 685.749,
+    "endTime": 689.993,
+    "text": "that the healthy partner, playing somebody with major depression,"
+  },
+  {
+    "startTime": 689.993,
+    "endTime": 692.903,
+    "text": "or playing somebody with autism spectrum disorder,"
+  },
+  {
+    "startTime": 692.903,
+    "endTime": 696.753,
+    "text": "or playing somebody with attention deficit hyperactivity disorder,"
+  },
+  {
+    "startTime": 696.753,
+    "endTime": 699.9720000000001,
+    "text": "we use that as a kind of biosensor, and then we use"
+  },
+  {
+    "startTime": 699.972,
+    "endTime": 702.616,
+    "text": "computer programs to model that person, and it gives us"
+  },
+  {
+    "startTime": 702.616,
+    "endTime": 705.86,
+    "text": "a kind of assay of this."
+  },
+  {
+    "startTime": 705.86,
+    "endTime": 707.217,
+    "text": "Early days, and we're just beginning, we're setting up sites"
+  },
+  {
+    "startTime": 707.217,
+    "endTime": 710.627,
+    "text": "around the world. Here are a few of our collaborating sites."
+  },
+  {
+    "startTime": 710.627,
+    "endTime": 712.935,
+    "text": "The hub, ironically enough,"
+  },
+  {
+    "startTime": 712.936,
+    "endTime": 715.825,
+    "text": "is centered in little Roanoke, Virginia."
+  },
+  {
+    "startTime": 715.825,
+    "endTime": 718.94,
+    "text": "There's another hub in London, now, and the rest"
+  },
+  {
+    "startTime": 718.94,
+    "endTime": 722.1030000000001,
+    "text": "are getting set up. We hope to give the data away"
+  },
+  {
+    "startTime": 722.103,
+    "endTime": 725.776,
+    "text": "at some stage. That's a complicated issue"
+  },
+  {
+    "startTime": 725.776,
+    "endTime": 728.77,
+    "text": "about making it available to the rest of the world."
+  },
+  {
+    "startTime": 728.77,
+    "endTime": 730.617,
+    "text": "But we're also studying just a small part"
+  },
+  {
+    "startTime": 730.617,
+    "endTime": 732.884,
+    "text": "of what makes us interesting as human beings, and so"
+  },
+  {
+    "startTime": 732.884,
+    "endTime": 734.9250000000001,
+    "text": "I would invite other people who are interested in this"
+  },
+  {
+    "startTime": 734.925,
+    "endTime": 737.4929999999999,
+    "text": "to ask us for the software, or even for guidance"
+  },
+  {
+    "startTime": 737.494,
+    "endTime": 739.7130000000001,
+    "text": "on how to move forward with that."
+  },
+  {
+    "startTime": 739.713,
+    "endTime": 742.54,
+    "text": "Let me leave you with one thought in closing."
+  },
+  {
+    "startTime": 742.54,
+    "endTime": 743.996,
+    "text": "The interesting thing about studying cognition"
+  },
+  {
+    "startTime": 743.996,
+    "endTime": 747.728,
+    "text": "has been that we've been limited, in a way."
+  },
+  {
+    "startTime": 747.728,
+    "endTime": 750.67,
+    "text": "We just haven't had the tools to look at interacting brains"
+  },
+  {
+    "startTime": 750.671,
+    "endTime": 751.8710000000001,
+    "text": "simultaneously."
+  },
+  {
+    "startTime": 751.871,
+    "endTime": 754.341,
+    "text": "The fact is, though, that even when we're alone,"
+  },
+  {
+    "startTime": 754.341,
+    "endTime": 758.452,
+    "text": "we're a profoundly social creature. We're not a solitary mind"
+  },
+  {
+    "startTime": 758.452,
+    "endTime": 762.825,
+    "text": "built out of properties that kept it alive in the world"
+  },
+  {
+    "startTime": 762.825,
+    "endTime": 766.773,
+    "text": "independent of other people. In fact, our minds"
+  },
+  {
+    "startTime": 766.773,
+    "endTime": 769.643,
+    "text": "depend on other people. They depend on other people,"
+  },
+  {
+    "startTime": 769.643,
+    "endTime": 771.1840000000001,
+    "text": "and they're expressed in other people,"
+  },
+  {
+    "startTime": 771.184,
+    "endTime": 774.836,
+    "text": "so the notion of who you are, you often don't know"
+  },
+  {
+    "startTime": 774.836,
+    "endTime": 777.524,
+    "text": "who you are until you see yourself in interaction with people"
+  },
+  {
+    "startTime": 777.524,
+    "endTime": 779.93,
+    "text": "that are close to you, people that are enemies of you,"
+  },
+  {
+    "startTime": 779.93,
+    "endTime": 782.4739999999999,
+    "text": "people that are agnostic to you."
+  },
+  {
+    "startTime": 782.475,
+    "endTime": 786.251,
+    "text": "So this is the first sort of step into using that insight"
+  },
+  {
+    "startTime": 786.251,
+    "endTime": 789.545,
+    "text": "into what makes us human beings, turning it into a tool,"
+  },
+  {
+    "startTime": 789.546,
+    "endTime": 791.524,
+    "text": "and trying to gain new insights into mental illness."
+  },
+  {
+    "startTime": 791.524,
+    "endTime": 794.645,
+    "text": "Thanks for having me. (Applause)"
+  },
+  {
+    "startTime": 794.645,
+    "endTime": 797.734,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Morton Bast Reviewer: Thu-Huong Ha"
+  },
+  {
+    "startTime": 15.73,
+    "endTime": 18.179000000000002,
+    "text": "As an architect, I often ask myself,"
+  },
+  {
+    "startTime": 18.179,
+    "endTime": 21.189999999999998,
+    "text": "what is the origin of the forms that we design?"
+  },
+  {
+    "startTime": 21.19,
+    "endTime": 23.924,
+    "text": "What kind of forms could we design"
+  },
+  {
+    "startTime": 23.924,
+    "endTime": 26.747,
+    "text": "if we wouldn't work with references anymore?"
+  },
+  {
+    "startTime": 26.747,
+    "endTime": 30.131,
+    "text": "If we had no bias, if we had no preconceptions,"
+  },
+  {
+    "startTime": 30.132,
+    "endTime": 32.339,
+    "text": "what kind of forms could we design"
+  },
+  {
+    "startTime": 32.339,
+    "endTime": 33.939,
+    "text": "if we could free ourselves from"
+  },
+  {
+    "startTime": 33.939,
+    "endTime": 36.75,
+    "text": "our experience?"
+  },
+  {
+    "startTime": 36.75,
+    "endTime": 40.809,
+    "text": "If we could free ourselves from our education?"
+  },
+  {
+    "startTime": 40.809,
+    "endTime": 43.836,
+    "text": "What would these unseen forms look like?"
+  },
+  {
+    "startTime": 43.836,
+    "endTime": 47.547,
+    "text": "Would they surprise us? Would they intrigue us?"
+  },
+  {
+    "startTime": 47.547,
+    "endTime": 49.961,
+    "text": "Would they delight us?"
+  },
+  {
+    "startTime": 49.962,
+    "endTime": 53.883,
+    "text": "If so, then how can we go about creating something that is truly new?"
+  },
+  {
+    "startTime": 53.883,
+    "endTime": 56.275000000000006,
+    "text": "I propose we look to nature."
+  },
+  {
+    "startTime": 56.275,
+    "endTime": 60.539,
+    "text": "Nature has been called the greatest architect of forms."
+  },
+  {
+    "startTime": 60.539,
+    "endTime": 64.126,
+    "text": "And I'm not saying that we should copy nature,"
+  },
+  {
+    "startTime": 64.126,
+    "endTime": 66.506,
+    "text": "I'm not saying we should mimic biology,"
+  },
+  {
+    "startTime": 66.507,
+    "endTime": 69.955,
+    "text": "instead I propose that we can borrow nature's processes."
+  },
+  {
+    "startTime": 69.955,
+    "endTime": 74.408,
+    "text": "We can abstract them and to create something that is new."
+  },
+  {
+    "startTime": 74.409,
+    "endTime": 78.287,
+    "text": "Nature's main process of creation, morphogenesis,"
+  },
+  {
+    "startTime": 78.287,
+    "endTime": 82.116,
+    "text": "is the splitting of one cell into two cells."
+  },
+  {
+    "startTime": 82.116,
+    "endTime": 84.173,
+    "text": "And these cells can either be identical,"
+  },
+  {
+    "startTime": 84.173,
+    "endTime": 86.348,
+    "text": "or they can be distinct from each other"
+  },
+  {
+    "startTime": 86.348,
+    "endTime": 88.412,
+    "text": "through asymmetric cell division."
+  },
+  {
+    "startTime": 88.412,
+    "endTime": 92.21100000000001,
+    "text": "If we abstract this process, and simplify it as much as possible,"
+  },
+  {
+    "startTime": 92.211,
+    "endTime": 94.444,
+    "text": "then we could start with a single sheet of paper,"
+  },
+  {
+    "startTime": 94.444,
+    "endTime": 96.94,
+    "text": "one surface, and we could make a fold"
+  },
+  {
+    "startTime": 96.94,
+    "endTime": 99.876,
+    "text": "and divide the surface into two surfaces."
+  },
+  {
+    "startTime": 99.876,
+    "endTime": 102.13900000000001,
+    "text": "We're free to choose where we make the fold."
+  },
+  {
+    "startTime": 102.139,
+    "endTime": 107.47999999999999,
+    "text": "And by doing so, we can differentiate the surfaces."
+  },
+  {
+    "startTime": 107.49,
+    "endTime": 108.943,
+    "text": "Through this very simple process,"
+  },
+  {
+    "startTime": 108.943,
+    "endTime": 112.554,
+    "text": "we can create an astounding variety of forms."
+  },
+  {
+    "startTime": 112.555,
+    "endTime": 115.28,
+    "text": "Now, we can take this form and use the same process"
+  },
+  {
+    "startTime": 115.28,
+    "endTime": 117.272,
+    "text": "to generate three-dimensional structures,"
+  },
+  {
+    "startTime": 117.272,
+    "endTime": 119.68,
+    "text": "but rather than folding things by hand,"
+  },
+  {
+    "startTime": 119.68,
+    "endTime": 122.265,
+    "text": "we'll bring the structure into the computer,"
+  },
+  {
+    "startTime": 122.265,
+    "endTime": 125.24,
+    "text": "and code it as an algorithm."
+  },
+  {
+    "startTime": 125.24,
+    "endTime": 128.24699999999999,
+    "text": "And in doing so, we can suddenly fold anything."
+  },
+  {
+    "startTime": 128.247,
+    "endTime": 130.406,
+    "text": "We can fold a million times faster,"
+  },
+  {
+    "startTime": 130.407,
+    "endTime": 133.568,
+    "text": "we can fold in hundreds and hundreds of variations."
+  },
+  {
+    "startTime": 133.568,
+    "endTime": 136.48000000000002,
+    "text": "And as we're seeking to make something three-dimensional,"
+  },
+  {
+    "startTime": 136.48,
+    "endTime": 139.26399999999998,
+    "text": "we start not with a single surface, but with a volume."
+  },
+  {
+    "startTime": 139.264,
+    "endTime": 140.61700000000002,
+    "text": "A simple volume, the cube."
+  },
+  {
+    "startTime": 140.617,
+    "endTime": 142.337,
+    "text": "If we take its surfaces and fold them"
+  },
+  {
+    "startTime": 142.337,
+    "endTime": 144.393,
+    "text": "again and again and again and again,"
+  },
+  {
+    "startTime": 144.393,
+    "endTime": 147.256,
+    "text": "then after 16 iterations, 16 steps,"
+  },
+  {
+    "startTime": 147.256,
+    "endTime": 151.105,
+    "text": "we end up with 400,000 surfaces and a shape that looks,"
+  },
+  {
+    "startTime": 151.105,
+    "endTime": 153.64,
+    "text": "for instance, like this."
+  },
+  {
+    "startTime": 153.64,
+    "endTime": 156.351,
+    "text": "And if we change where we make the folds,"
+  },
+  {
+    "startTime": 156.352,
+    "endTime": 157.993,
+    "text": "if we change the folding ratio,"
+  },
+  {
+    "startTime": 157.993,
+    "endTime": 161.416,
+    "text": "then this cube turns into this one."
+  },
+  {
+    "startTime": 161.416,
+    "endTime": 165.555,
+    "text": "We can change the folding ratio again to produce this shape,"
+  },
+  {
+    "startTime": 165.555,
+    "endTime": 167.382,
+    "text": "or this shape."
+  },
+  {
+    "startTime": 167.382,
+    "endTime": 169.5,
+    "text": "So we exert control over the form"
+  },
+  {
+    "startTime": 169.5,
+    "endTime": 172.509,
+    "text": "by specifying the position of where we're making the fold,"
+  },
+  {
+    "startTime": 172.509,
+    "endTime": 177.214,
+    "text": "but essentially you're looking at a folded cube."
+  },
+  {
+    "startTime": 177.215,
+    "endTime": 178.279,
+    "text": "And we can play with this."
+  },
+  {
+    "startTime": 178.279,
+    "endTime": 180.895,
+    "text": "We can apply different folding ratios to different parts"
+  },
+  {
+    "startTime": 180.895,
+    "endTime": 183.64000000000001,
+    "text": "of the form to create local conditions."
+  },
+  {
+    "startTime": 183.64,
+    "endTime": 185.583,
+    "text": "We can begin to sculpt the form."
+  },
+  {
+    "startTime": 185.583,
+    "endTime": 188.471,
+    "text": "And because we're doing the folding on the computer,"
+  },
+  {
+    "startTime": 188.471,
+    "endTime": 192.167,
+    "text": "we are completely free of any physical constraints."
+  },
+  {
+    "startTime": 192.167,
+    "endTime": 195.118,
+    "text": "So that means that surfaces can intersect themselves,"
+  },
+  {
+    "startTime": 195.118,
+    "endTime": 196.607,
+    "text": "they can become impossibly small."
+  },
+  {
+    "startTime": 196.607,
+    "endTime": 200.208,
+    "text": "We can make folds that we otherwise could not make."
+  },
+  {
+    "startTime": 200.208,
+    "endTime": 202.85,
+    "text": "Surfaces can become porous."
+  },
+  {
+    "startTime": 202.86,
+    "endTime": 204.81500000000003,
+    "text": "They can stretch. They can tear."
+  },
+  {
+    "startTime": 204.815,
+    "endTime": 209.45,
+    "text": "And all of this expounds the scope of forms that we can produce."
+  },
+  {
+    "startTime": 209.45,
+    "endTime": 212.2,
+    "text": "But in each case, I didn't design the form."
+  },
+  {
+    "startTime": 212.2,
+    "endTime": 216.801,
+    "text": "I designed the process that generated the form."
+  },
+  {
+    "startTime": 216.801,
+    "endTime": 221.289,
+    "text": "In general, if we make a small change to the folding ratio,"
+  },
+  {
+    "startTime": 221.289,
+    "endTime": 222.884,
+    "text": "which is what you're seeing here,"
+  },
+  {
+    "startTime": 222.884,
+    "endTime": 226.65599999999998,
+    "text": "then the form changes correspondingly."
+  },
+  {
+    "startTime": 226.657,
+    "endTime": 228.913,
+    "text": "But that's only half of the story --"
+  },
+  {
+    "startTime": 228.913,
+    "endTime": 233.23600000000002,
+    "text": "99.9 percent of the folding ratios produce not this,"
+  },
+  {
+    "startTime": 233.236,
+    "endTime": 238.131,
+    "text": "but this, the geometric equivalent of noise."
+  },
+  {
+    "startTime": 238.132,
+    "endTime": 240.252,
+    "text": "The forms that I showed before were made actually"
+  },
+  {
+    "startTime": 240.252,
+    "endTime": 241.9,
+    "text": "through very long trial and error."
+  },
+  {
+    "startTime": 241.9,
+    "endTime": 245.116,
+    "text": "A far more effective way to create forms, I have found,"
+  },
+  {
+    "startTime": 245.116,
+    "endTime": 249.4,
+    "text": "is to use information that is already contained in forms."
+  },
+  {
+    "startTime": 249.4,
+    "endTime": 251.659,
+    "text": "A very simple form such as this one actually contains"
+  },
+  {
+    "startTime": 251.659,
+    "endTime": 255.251,
+    "text": "a lot of information that may not be visible to the human eye."
+  },
+  {
+    "startTime": 255.251,
+    "endTime": 257.732,
+    "text": "So, for instance, we can plot the length of the edges."
+  },
+  {
+    "startTime": 257.732,
+    "endTime": 261.68,
+    "text": "White surfaces have long edges, black ones have short ones."
+  },
+  {
+    "startTime": 261.67,
+    "endTime": 264.64500000000004,
+    "text": "We can plot the planarity of the surfaces, their curvature,"
+  },
+  {
+    "startTime": 264.645,
+    "endTime": 268.73199999999997,
+    "text": "how radial they are -- all information that may not be"
+  },
+  {
+    "startTime": 268.732,
+    "endTime": 270.67900000000003,
+    "text": "instantly visible to you,"
+  },
+  {
+    "startTime": 270.679,
+    "endTime": 273.104,
+    "text": "but that we can bring out, that we can articulate,"
+  },
+  {
+    "startTime": 273.104,
+    "endTime": 276.479,
+    "text": "and that we can use to control the folding."
+  },
+  {
+    "startTime": 276.48,
+    "endTime": 278.439,
+    "text": "So now I'm not specifying a single"
+  },
+  {
+    "startTime": 278.439,
+    "endTime": 280.615,
+    "text": "ratio anymore to fold it,"
+  },
+  {
+    "startTime": 280.615,
+    "endTime": 283.16700000000003,
+    "text": "but instead I'm establishing a rule,"
+  },
+  {
+    "startTime": 283.167,
+    "endTime": 285.602,
+    "text": "I'm establishing a link between a property of a surface"
+  },
+  {
+    "startTime": 285.603,
+    "endTime": 288.576,
+    "text": "and how that surface is folded."
+  },
+  {
+    "startTime": 288.576,
+    "endTime": 291.52700000000004,
+    "text": "And because I've designed the process and not the form,"
+  },
+  {
+    "startTime": 291.527,
+    "endTime": 293.849,
+    "text": "I can run the process again and again and again"
+  },
+  {
+    "startTime": 293.849,
+    "endTime": 296.384,
+    "text": "to produce a whole family of forms."
+  },
+  {
+    "startTime": 308.645,
+    "endTime": 313.87,
+    "text": "These forms look elaborate, but the process is a very minimal one."
+  },
+  {
+    "startTime": 313.88,
+    "endTime": 314.217,
+    "text": "There is a simple input,"
+  },
+  {
+    "startTime": 314.217,
+    "endTime": 316.169,
+    "text": "it's always a cube that I start with,"
+  },
+  {
+    "startTime": 316.169,
+    "endTime": 319.745,
+    "text": "and it's a very simple operation -- it's making a fold,"
+  },
+  {
+    "startTime": 319.745,
+    "endTime": 323.697,
+    "text": "and doing this over and over again."
+  },
+  {
+    "startTime": 323.697,
+    "endTime": 325.977,
+    "text": "So let's bring this process to architecture."
+  },
+  {
+    "startTime": 325.977,
+    "endTime": 327.577,
+    "text": "How? And at what scale?"
+  },
+  {
+    "startTime": 327.577,
+    "endTime": 329.305,
+    "text": "I chose to design a column."
+  },
+  {
+    "startTime": 329.305,
+    "endTime": 332.681,
+    "text": "Columns are architectural archetypes."
+  },
+  {
+    "startTime": 332.681,
+    "endTime": 335.748,
+    "text": "They've been used throughout history to express ideals"
+  },
+  {
+    "startTime": 335.748,
+    "endTime": 340.823,
+    "text": "about beauty, about technology."
+  },
+  {
+    "startTime": 340.823,
+    "endTime": 342.745,
+    "text": "A challenge to me was how we could express"
+  },
+  {
+    "startTime": 342.745,
+    "endTime": 346.41,
+    "text": "this new algorithmic order in a column."
+  },
+  {
+    "startTime": 346.41,
+    "endTime": 349.25,
+    "text": "I started using four cylinders."
+  },
+  {
+    "startTime": 349.25,
+    "endTime": 352.801,
+    "text": "Through a lot of experimentation, these cylinders"
+  },
+  {
+    "startTime": 352.801,
+    "endTime": 355.936,
+    "text": "eventually evolved into this."
+  },
+  {
+    "startTime": 355.936,
+    "endTime": 360.551,
+    "text": "And these columns, they have information at very many scales."
+  },
+  {
+    "startTime": 360.552,
+    "endTime": 363.70000000000005,
+    "text": "We can begin to zoom into them."
+  },
+  {
+    "startTime": 363.7,
+    "endTime": 366.625,
+    "text": "The closer one gets, the more new features one discovers."
+  },
+  {
+    "startTime": 366.625,
+    "endTime": 370.297,
+    "text": "Some formations are almost at the threshold of human visibility."
+  },
+  {
+    "startTime": 370.297,
+    "endTime": 372.249,
+    "text": "And unlike traditional architecture,"
+  },
+  {
+    "startTime": 372.249,
+    "endTime": 375.33000000000004,
+    "text": "it's a single process that creates both the overall form"
+  },
+  {
+    "startTime": 375.33,
+    "endTime": 380.378,
+    "text": "and the microscopic surface detail."
+  },
+  {
+    "startTime": 380.378,
+    "endTime": 383.68,
+    "text": "These forms are undrawable."
+  },
+  {
+    "startTime": 383.69,
+    "endTime": 386.445,
+    "text": "An architect who's drawing them with a pen and a paper"
+  },
+  {
+    "startTime": 386.445,
+    "endTime": 388.236,
+    "text": "would probably take months,"
+  },
+  {
+    "startTime": 388.237,
+    "endTime": 390.62100000000004,
+    "text": "or it would take even a year to draw all the sections,"
+  },
+  {
+    "startTime": 390.621,
+    "endTime": 392.924,
+    "text": "all of the elevations, you can only create something like this"
+  },
+  {
+    "startTime": 392.925,
+    "endTime": 395.61,
+    "text": "through an algorithm."
+  },
+  {
+    "startTime": 395.61,
+    "endTime": 397.92,
+    "text": "The more interesting question, perhaps, is,"
+  },
+  {
+    "startTime": 397.93,
+    "endTime": 399.722,
+    "text": "are these forms imaginable?"
+  },
+  {
+    "startTime": 399.722,
+    "endTime": 402.35699999999997,
+    "text": "Usually, an architect can somehow envision the end state"
+  },
+  {
+    "startTime": 402.357,
+    "endTime": 404.221,
+    "text": "of what he is designing."
+  },
+  {
+    "startTime": 404.221,
+    "endTime": 407.46,
+    "text": "In this case, the process is deterministic."
+  },
+  {
+    "startTime": 407.46,
+    "endTime": 409.405,
+    "text": "There's no randomness involved at all,"
+  },
+  {
+    "startTime": 409.405,
+    "endTime": 411.412,
+    "text": "but it's not entirely predictable."
+  },
+  {
+    "startTime": 411.412,
+    "endTime": 412.988,
+    "text": "There's too many surfaces,"
+  },
+  {
+    "startTime": 412.988,
+    "endTime": 416.598,
+    "text": "there's too much detail, one can't see the end state."
+  },
+  {
+    "startTime": 416.598,
+    "endTime": 419.812,
+    "text": "So this leads to a new role for the architect."
+  },
+  {
+    "startTime": 419.812,
+    "endTime": 423.423,
+    "text": "One needs a new method to explore all of the possibilities"
+  },
+  {
+    "startTime": 423.423,
+    "endTime": 425.199,
+    "text": "that are out there."
+  },
+  {
+    "startTime": 425.199,
+    "endTime": 428.43100000000004,
+    "text": "For one thing, one can design many variants of a form,"
+  },
+  {
+    "startTime": 428.431,
+    "endTime": 430.645,
+    "text": "in parallel, and one can cultivate them."
+  },
+  {
+    "startTime": 430.645,
+    "endTime": 432.893,
+    "text": "And to go back to the analogy with nature,"
+  },
+  {
+    "startTime": 432.893,
+    "endTime": 435.388,
+    "text": "one can begin to think in terms of populations,"
+  },
+  {
+    "startTime": 435.389,
+    "endTime": 438.91700000000003,
+    "text": "one can talk about permutations, about generations,"
+  },
+  {
+    "startTime": 438.917,
+    "endTime": 443.78,
+    "text": "about crossing and breeding to come up with a design."
+  },
+  {
+    "startTime": 443.78,
+    "endTime": 446.164,
+    "text": "And the architect is really, he moves into the position"
+  },
+  {
+    "startTime": 446.165,
+    "endTime": 449.59700000000004,
+    "text": "of being an orchestrator of all of these processes."
+  },
+  {
+    "startTime": 449.597,
+    "endTime": 451.941,
+    "text": "But enough of the theory."
+  },
+  {
+    "startTime": 451.941,
+    "endTime": 454.467,
+    "text": "At one point I simply wanted to jump inside"
+  },
+  {
+    "startTime": 454.468,
+    "endTime": 458.297,
+    "text": "this image, so to say, I bought these red and blue"
+  },
+  {
+    "startTime": 458.297,
+    "endTime": 461.233,
+    "text": "3D glasses, got up very close to the screen,"
+  },
+  {
+    "startTime": 461.233,
+    "endTime": 463.305,
+    "text": "but still that wasn't the same as being able to"
+  },
+  {
+    "startTime": 463.305,
+    "endTime": 465.657,
+    "text": "walk around and touch things."
+  },
+  {
+    "startTime": 465.657,
+    "endTime": 467.56,
+    "text": "So there was only one possibility --"
+  },
+  {
+    "startTime": 467.56,
+    "endTime": 470.657,
+    "text": "to bring the column out of the computer."
+  },
+  {
+    "startTime": 470.657,
+    "endTime": 473.577,
+    "text": "There's been a lot of talk now about 3D printing."
+  },
+  {
+    "startTime": 473.577,
+    "endTime": 476.536,
+    "text": "For me, or for my purpose at this moment,"
+  },
+  {
+    "startTime": 476.536,
+    "endTime": 479.618,
+    "text": "there's still too much of an unfavorable tradeoff"
+  },
+  {
+    "startTime": 479.618,
+    "endTime": 486.401,
+    "text": "between scale, on the one hand, and resolution and speed, on the other."
+  },
+  {
+    "startTime": 486.401,
+    "endTime": 488.658,
+    "text": "So instead, we decided to take the column,"
+  },
+  {
+    "startTime": 488.658,
+    "endTime": 491.97,
+    "text": "and we decided to build it as a layered model,"
+  },
+  {
+    "startTime": 491.97,
+    "endTime": 495.22400000000005,
+    "text": "made out of very many slices, thinly stacked over each other."
+  },
+  {
+    "startTime": 495.225,
+    "endTime": 497.122,
+    "text": "What you're looking at here is an X-ray"
+  },
+  {
+    "startTime": 497.122,
+    "endTime": 499.897,
+    "text": "of the column that you just saw, viewed from the top."
+  },
+  {
+    "startTime": 499.897,
+    "endTime": 501.897,
+    "text": "Unbeknownst to me at the time,"
+  },
+  {
+    "startTime": 501.897,
+    "endTime": 504.272,
+    "text": "because we had only seen the outside,"
+  },
+  {
+    "startTime": 504.273,
+    "endTime": 506.43300000000005,
+    "text": "the surfaces were continuing to fold themselves,"
+  },
+  {
+    "startTime": 506.433,
+    "endTime": 508.697,
+    "text": "to grow on the inside of the column,"
+  },
+  {
+    "startTime": 508.697,
+    "endTime": 511.243,
+    "text": "which was quite a surprising discovery."
+  },
+  {
+    "startTime": 511.243,
+    "endTime": 514.857,
+    "text": "From this shape, we calculated a cutting line,"
+  },
+  {
+    "startTime": 514.857,
+    "endTime": 517.881,
+    "text": "and then we gave this cutting line to a laser cutter"
+  },
+  {
+    "startTime": 517.881,
+    "endTime": 521.694,
+    "text": "to produce -- and you're seeing a segment of it here --"
+  },
+  {
+    "startTime": 521.695,
+    "endTime": 526.586,
+    "text": "very many thin slices, individually cut, on top of each other."
+  },
+  {
+    "startTime": 528.74,
+    "endTime": 531.553,
+    "text": "And this is a photo now, it's not a rendering,"
+  },
+  {
+    "startTime": 531.553,
+    "endTime": 533.353,
+    "text": "and the column that we ended up with"
+  },
+  {
+    "startTime": 533.353,
+    "endTime": 536.4,
+    "text": "after a lot of work, ended up looking remarkably like the one"
+  },
+  {
+    "startTime": 536.4,
+    "endTime": 540.11,
+    "text": "that we had designed in the computer."
+  },
+  {
+    "startTime": 540.11,
+    "endTime": 542.231,
+    "text": "Almost all of the details, almost all of the"
+  },
+  {
+    "startTime": 542.231,
+    "endTime": 545.271,
+    "text": "surface intricacies were preserved."
+  },
+  {
+    "startTime": 547.886,
+    "endTime": 550.232,
+    "text": "But it was very labor intensive."
+  },
+  {
+    "startTime": 550.232,
+    "endTime": 552.632,
+    "text": "There's a huge disconnect at the moment still"
+  },
+  {
+    "startTime": 552.633,
+    "endTime": 555.393,
+    "text": "between the virtual and the physical."
+  },
+  {
+    "startTime": 555.393,
+    "endTime": 557.519,
+    "text": "It took me several months to design the column,"
+  },
+  {
+    "startTime": 557.519,
+    "endTime": 560.237,
+    "text": "but ultimately it takes the computer about 30 seconds"
+  },
+  {
+    "startTime": 560.237,
+    "endTime": 563.8399999999999,
+    "text": "to calculate all of the 16 million faces."
+  },
+  {
+    "startTime": 563.85,
+    "endTime": 565.46,
+    "text": "The physical model, on the other hand,"
+  },
+  {
+    "startTime": 565.46,
+    "endTime": 569.254,
+    "text": "is 2,700 layers, one millimeter thick,"
+  },
+  {
+    "startTime": 569.254,
+    "endTime": 573.4010000000001,
+    "text": "it weighs 700 kilos, it's made of sheet that can cover"
+  },
+  {
+    "startTime": 573.401,
+    "endTime": 575.539,
+    "text": "this entire auditorium."
+  },
+  {
+    "startTime": 575.539,
+    "endTime": 577.627,
+    "text": "And the cutting path that the laser followed"
+  },
+  {
+    "startTime": 577.627,
+    "endTime": 582.7429999999999,
+    "text": "goes from here to the airport and back again."
+  },
+  {
+    "startTime": 582.744,
+    "endTime": 584.493,
+    "text": "But it is increasingly possible."
+  },
+  {
+    "startTime": 584.493,
+    "endTime": 587.104,
+    "text": "Machines are getting faster, it's getting less expensive,"
+  },
+  {
+    "startTime": 587.104,
+    "endTime": 589.864,
+    "text": "and there's some promising technological developments"
+  },
+  {
+    "startTime": 589.864,
+    "endTime": 591.647,
+    "text": "just on the horizon."
+  },
+  {
+    "startTime": 591.647,
+    "endTime": 594.719,
+    "text": "These are images from the Gwangju Biennale."
+  },
+  {
+    "startTime": 594.719,
+    "endTime": 598.243,
+    "text": "And in this case, I used ABS plastic to produce the columns,"
+  },
+  {
+    "startTime": 598.243,
+    "endTime": 600.97,
+    "text": "we used the bigger, faster machine,"
+  },
+  {
+    "startTime": 600.97,
+    "endTime": 603.154,
+    "text": "and they have a steel core inside, so they're structural,"
+  },
+  {
+    "startTime": 603.154,
+    "endTime": 606.13,
+    "text": "they can bear loads for once."
+  },
+  {
+    "startTime": 606.13,
+    "endTime": 608.145,
+    "text": "Each column is effectively a hybrid of two columns."
+  },
+  {
+    "startTime": 608.145,
+    "endTime": 611.554,
+    "text": "You can see a different column in the mirror,"
+  },
+  {
+    "startTime": 611.554,
+    "endTime": 613.603,
+    "text": "if there's a mirror behind the column"
+  },
+  {
+    "startTime": 613.604,
+    "endTime": 616.676,
+    "text": "that creates a sort of an optical illusion."
+  },
+  {
+    "startTime": 616.691,
+    "endTime": 618.522,
+    "text": "So where does this leave us?"
+  },
+  {
+    "startTime": 618.522,
+    "endTime": 622.99,
+    "text": "I think this project gives us a glimpse of the unseen objects that await us"
+  },
+  {
+    "startTime": 622.99,
+    "endTime": 626.873,
+    "text": "if we as architects begin to think about designing not the object,"
+  },
+  {
+    "startTime": 626.873,
+    "endTime": 630.2660000000001,
+    "text": "but a process to generate objects."
+  },
+  {
+    "startTime": 630.266,
+    "endTime": 633.539,
+    "text": "I've shown one simple process that was inspired by nature;"
+  },
+  {
+    "startTime": 633.539,
+    "endTime": 636.387,
+    "text": "there's countless other ones."
+  },
+  {
+    "startTime": 636.387,
+    "endTime": 639.834,
+    "text": "In short, we have no constraints."
+  },
+  {
+    "startTime": 639.834,
+    "endTime": 643.404,
+    "text": "Instead, we have processes in our hands right now"
+  },
+  {
+    "startTime": 643.404,
+    "endTime": 647.985,
+    "text": "that allow us to create structures at all scales"
+  },
+  {
+    "startTime": 647.985,
+    "endTime": 651.17,
+    "text": "that we couldn't even have dreamt up."
+  },
+  {
+    "startTime": 651.17,
+    "endTime": 655.836,
+    "text": "And, if I may add, at one point we will build them."
+  },
+  {
+    "startTime": 655.836,
+    "endTime": 662.4590000000001,
+    "text": "Thank you. (Applause)"
+  }
+]

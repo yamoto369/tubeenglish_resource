@@ -1,0 +1,1147 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Morton Bast Reviewer: Thu-Huong Ha"
+  },
+  {
+    "startTime": 15.766,
+    "endTime": 17.173000000000002,
+    "text": "So, how many of you have ever"
+  },
+  {
+    "startTime": 17.173,
+    "endTime": 18.828,
+    "text": "gotten behind the wheel of a car"
+  },
+  {
+    "startTime": 18.828,
+    "endTime": 24.515,
+    "text": "when you really shouldn't have been driving?"
+  },
+  {
+    "startTime": 24.515,
+    "endTime": 26.42,
+    "text": "Maybe you're out on the road for a long day,"
+  },
+  {
+    "startTime": 26.42,
+    "endTime": 27.91,
+    "text": "and you just wanted to get home."
+  },
+  {
+    "startTime": 27.91,
+    "endTime": 30.557,
+    "text": "You were tired, but you felt you could drive a few more miles."
+  },
+  {
+    "startTime": 30.557,
+    "endTime": 31.756,
+    "text": "Maybe you thought,"
+  },
+  {
+    "startTime": 31.756,
+    "endTime": 33.773,
+    "text": "I've had less to drink than everybody else,"
+  },
+  {
+    "startTime": 33.773,
+    "endTime": 35.509,
+    "text": "I should be the one to go home."
+  },
+  {
+    "startTime": 35.509,
+    "endTime": 40.1,
+    "text": "Or maybe your mind was just entirely elsewhere."
+  },
+  {
+    "startTime": 40.1,
+    "endTime": 41.554,
+    "text": "Does this sound familiar to you?"
+  },
+  {
+    "startTime": 41.554,
+    "endTime": 44.452000000000005,
+    "text": "Now, in those situations, wouldn't it be great"
+  },
+  {
+    "startTime": 44.452,
+    "endTime": 46.449999999999996,
+    "text": "if there was a button on your dashboard"
+  },
+  {
+    "startTime": 46.45,
+    "endTime": 52.388000000000005,
+    "text": "that you could push, and the car would get you home safely?"
+  },
+  {
+    "startTime": 52.388,
+    "endTime": 54.681,
+    "text": "Now, that's been the promise of the self-driving car,"
+  },
+  {
+    "startTime": 54.681,
+    "endTime": 57.308,
+    "text": "the autonomous vehicle, and it's been the dream"
+  },
+  {
+    "startTime": 57.308,
+    "endTime": 60.557,
+    "text": "since at least 1939, when General Motors showcased"
+  },
+  {
+    "startTime": 60.557,
+    "endTime": 63.859,
+    "text": "this idea at their Futurama booth at the World's Fair."
+  },
+  {
+    "startTime": 63.859,
+    "endTime": 65.802,
+    "text": "Now, it's been one of those dreams"
+  },
+  {
+    "startTime": 65.802,
+    "endTime": 70.16000000000001,
+    "text": "that's always seemed about 20 years in the future."
+  },
+  {
+    "startTime": 70.16,
+    "endTime": 72.699,
+    "text": "Now, two weeks ago, that dream took a step forward,"
+  },
+  {
+    "startTime": 72.699,
+    "endTime": 75.964,
+    "text": "when the state of Nevada granted Google's self-driving car"
+  },
+  {
+    "startTime": 75.964,
+    "endTime": 79.564,
+    "text": "the very first license for an autonomous vehicle,"
+  },
+  {
+    "startTime": 79.564,
+    "endTime": 81.809,
+    "text": "clearly establishing that it's legal for them"
+  },
+  {
+    "startTime": 81.809,
+    "endTime": 83.619,
+    "text": "to test it on the roads in Nevada."
+  },
+  {
+    "startTime": 83.619,
+    "endTime": 87.346,
+    "text": "Now, California's considering similar legislation,"
+  },
+  {
+    "startTime": 87.346,
+    "endTime": 89.754,
+    "text": "and this would make sure that the autonomous car"
+  },
+  {
+    "startTime": 89.754,
+    "endTime": 92.73100000000001,
+    "text": "is not one of those things that has to stay in Vegas."
+  },
+  {
+    "startTime": 92.731,
+    "endTime": 94.827,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 94.827,
+    "endTime": 98.611,
+    "text": "Now, in my lab at Stanford, we've been working on"
+  },
+  {
+    "startTime": 98.611,
+    "endTime": 102.98,
+    "text": "autonomous cars too, but with a slightly different spin"
+  },
+  {
+    "startTime": 102.98,
+    "endTime": 106.346,
+    "text": "on things. You see, we've been developing robotic race cars,"
+  },
+  {
+    "startTime": 106.346,
+    "endTime": 110.46600000000001,
+    "text": "cars that can actually push themselves to the very limits"
+  },
+  {
+    "startTime": 110.466,
+    "endTime": 112.705,
+    "text": "of physical performance."
+  },
+  {
+    "startTime": 112.706,
+    "endTime": 115.319,
+    "text": "Now, why would we want to do such a thing?"
+  },
+  {
+    "startTime": 115.319,
+    "endTime": 117.419,
+    "text": "Well, there's two really good reasons for this."
+  },
+  {
+    "startTime": 117.419,
+    "endTime": 121.378,
+    "text": "First, we believe that before people turn over control"
+  },
+  {
+    "startTime": 121.378,
+    "endTime": 124.212,
+    "text": "to an autonomous car, that autonomous car should be"
+  },
+  {
+    "startTime": 124.212,
+    "endTime": 127.46600000000001,
+    "text": "at least as good as the very best human drivers."
+  },
+  {
+    "startTime": 127.466,
+    "endTime": 130.76999999999998,
+    "text": "Now, if you're like me, and the other 70 percent of the population"
+  },
+  {
+    "startTime": 130.77,
+    "endTime": 132.964,
+    "text": "who know that we are above-average drivers,"
+  },
+  {
+    "startTime": 132.964,
+    "endTime": 136.139,
+    "text": "you understand that's a very high bar."
+  },
+  {
+    "startTime": 136.139,
+    "endTime": 138.531,
+    "text": "There's another reason as well."
+  },
+  {
+    "startTime": 138.531,
+    "endTime": 142.107,
+    "text": "Just like race car drivers can use all of the friction"
+  },
+  {
+    "startTime": 142.107,
+    "endTime": 143.387,
+    "text": "between the tire and the road,"
+  },
+  {
+    "startTime": 143.387,
+    "endTime": 146.564,
+    "text": "all of the car's capabilities to go as fast as possible,"
+  },
+  {
+    "startTime": 146.564,
+    "endTime": 149.909,
+    "text": "we want to use all of those capabilities to avoid"
+  },
+  {
+    "startTime": 149.909,
+    "endTime": 151.49699999999999,
+    "text": "any accident we can."
+  },
+  {
+    "startTime": 151.497,
+    "endTime": 153.54700000000003,
+    "text": "Now, you may push the car to the limits"
+  },
+  {
+    "startTime": 153.547,
+    "endTime": 155.514,
+    "text": "not because you're driving too fast,"
+  },
+  {
+    "startTime": 155.514,
+    "endTime": 157.674,
+    "text": "but because you've hit an icy patch of road,"
+  },
+  {
+    "startTime": 157.674,
+    "endTime": 159.37800000000001,
+    "text": "conditions have changed."
+  },
+  {
+    "startTime": 159.378,
+    "endTime": 162.13799999999998,
+    "text": "In those situations, we want a car"
+  },
+  {
+    "startTime": 162.139,
+    "endTime": 165.859,
+    "text": "that is capable enough to avoid any accident"
+  },
+  {
+    "startTime": 165.859,
+    "endTime": 168.537,
+    "text": "that can physically be avoided."
+  },
+  {
+    "startTime": 168.537,
+    "endTime": 172.804,
+    "text": "I must confess, there's kind of a third motivation as well."
+  },
+  {
+    "startTime": 172.804,
+    "endTime": 175.6,
+    "text": "You see, I have a passion for racing."
+  },
+  {
+    "startTime": 175.6,
+    "endTime": 177.82399999999998,
+    "text": "In the past, I've been a race car owner,"
+  },
+  {
+    "startTime": 177.824,
+    "endTime": 180.37900000000002,
+    "text": "a crew chief and a driving coach,"
+  },
+  {
+    "startTime": 180.379,
+    "endTime": 184.233,
+    "text": "although maybe not at the level that you're currently expecting."
+  },
+  {
+    "startTime": 184.234,
+    "endTime": 186.93800000000002,
+    "text": "One of the things that we've developed in the lab --"
+  },
+  {
+    "startTime": 186.938,
+    "endTime": 188.642,
+    "text": "we've developed several vehicles --"
+  },
+  {
+    "startTime": 188.642,
+    "endTime": 190.877,
+    "text": "is what we believe is the world's first"
+  },
+  {
+    "startTime": 190.877,
+    "endTime": 193.24200000000002,
+    "text": "autonomously drifting car."
+  },
+  {
+    "startTime": 193.242,
+    "endTime": 195.755,
+    "text": "It's another one of those categories"
+  },
+  {
+    "startTime": 195.755,
+    "endTime": 198.178,
+    "text": "where maybe there's not a lot of competition."
+  },
+  {
+    "startTime": 198.178,
+    "endTime": 199.585,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 199.586,
+    "endTime": 203.40800000000002,
+    "text": "But this is P1. It's an entirely student-built electric vehicle,"
+  },
+  {
+    "startTime": 203.408,
+    "endTime": 205.486,
+    "text": "which through using its rear-wheel drive"
+  },
+  {
+    "startTime": 205.486,
+    "endTime": 207.51,
+    "text": "and front-wheel steer-by-wire"
+  },
+  {
+    "startTime": 207.51,
+    "endTime": 209.118,
+    "text": "can drift around corners."
+  },
+  {
+    "startTime": 209.118,
+    "endTime": 211.317,
+    "text": "It can get sideways like a rally car driver,"
+  },
+  {
+    "startTime": 211.318,
+    "endTime": 213.33,
+    "text": "always able to take the tightest curve,"
+  },
+  {
+    "startTime": 213.33,
+    "endTime": 216.33700000000002,
+    "text": "even on slippery, changing surfaces,"
+  },
+  {
+    "startTime": 216.337,
+    "endTime": 217.953,
+    "text": "never spinning out."
+  },
+  {
+    "startTime": 217.953,
+    "endTime": 220.321,
+    "text": "We've also worked with Volkswagen Oracle,"
+  },
+  {
+    "startTime": 220.321,
+    "endTime": 223.745,
+    "text": "on Shelley, an autonomous race car that has raced"
+  },
+  {
+    "startTime": 223.745,
+    "endTime": 226.815,
+    "text": "at 150 miles an hour through the Bonneville Salt Flats,"
+  },
+  {
+    "startTime": 226.815,
+    "endTime": 231.286,
+    "text": "gone around Thunderhill Raceway Park in the sun,"
+  },
+  {
+    "startTime": 231.286,
+    "endTime": 233.925,
+    "text": "the wind and the rain,"
+  },
+  {
+    "startTime": 233.925,
+    "endTime": 238.943,
+    "text": "and navigated the 153 turns and 12.4 miles"
+  },
+  {
+    "startTime": 238.943,
+    "endTime": 240.50500000000002,
+    "text": "of the Pikes Peak Hill Climb route"
+  },
+  {
+    "startTime": 240.505,
+    "endTime": 243.978,
+    "text": "in Colorado with nobody at the wheel."
+  },
+  {
+    "startTime": 243.978,
+    "endTime": 245.42600000000002,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 245.426,
+    "endTime": 250.992,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 250.992,
+    "endTime": 254.271,
+    "text": "I guess it goes without saying that we've had a lot of fun"
+  },
+  {
+    "startTime": 254.271,
+    "endTime": 255.575,
+    "text": "doing this."
+  },
+  {
+    "startTime": 255.575,
+    "endTime": 259.231,
+    "text": "But in fact, there's something else that we've developed"
+  },
+  {
+    "startTime": 259.232,
+    "endTime": 262.28700000000003,
+    "text": "in the process of developing these autonomous cars."
+  },
+  {
+    "startTime": 262.287,
+    "endTime": 266.157,
+    "text": "We have developed a tremendous appreciation"
+  },
+  {
+    "startTime": 266.158,
+    "endTime": 269.975,
+    "text": "for the capabilities of human race car drivers."
+  },
+  {
+    "startTime": 269.975,
+    "endTime": 274.32000000000005,
+    "text": "As we've looked at the question of how well do these cars perform,"
+  },
+  {
+    "startTime": 274.32,
+    "endTime": 277.599,
+    "text": "we wanted to compare them to our human counterparts."
+  },
+  {
+    "startTime": 277.599,
+    "endTime": 283.279,
+    "text": "And we discovered their human counterparts are amazing."
+  },
+  {
+    "startTime": 283.279,
+    "endTime": 287.302,
+    "text": "Now, we can take a map of a race track,"
+  },
+  {
+    "startTime": 287.302,
+    "endTime": 289.672,
+    "text": "we can take a mathematical model of a car,"
+  },
+  {
+    "startTime": 289.672,
+    "endTime": 292.57500000000005,
+    "text": "and with some iteration, we can actually find"
+  },
+  {
+    "startTime": 292.575,
+    "endTime": 294.2,
+    "text": "the fastest way around that track."
+  },
+  {
+    "startTime": 294.2,
+    "endTime": 296.733,
+    "text": "We line that up with data that we record"
+  },
+  {
+    "startTime": 296.733,
+    "endTime": 298.166,
+    "text": "from a professional driver,"
+  },
+  {
+    "startTime": 298.166,
+    "endTime": 302.273,
+    "text": "and the resemblance is absolutely remarkable."
+  },
+  {
+    "startTime": 302.273,
+    "endTime": 305.485,
+    "text": "Yes, there are subtle differences here,"
+  },
+  {
+    "startTime": 305.485,
+    "endTime": 308.612,
+    "text": "but the human race car driver is able to go out"
+  },
+  {
+    "startTime": 308.612,
+    "endTime": 310.947,
+    "text": "and drive an amazingly fast line,"
+  },
+  {
+    "startTime": 310.947,
+    "endTime": 313.277,
+    "text": "without the benefit of an algorithm that compares"
+  },
+  {
+    "startTime": 313.277,
+    "endTime": 315.885,
+    "text": "the trade-off between going as fast as possible"
+  },
+  {
+    "startTime": 315.885,
+    "endTime": 317.921,
+    "text": "in this corner, and shaving a little bit of time"
+  },
+  {
+    "startTime": 317.922,
+    "endTime": 319.824,
+    "text": "off of the straight over here."
+  },
+  {
+    "startTime": 319.824,
+    "endTime": 323.281,
+    "text": "Not only that, they're able to do it lap"
+  },
+  {
+    "startTime": 323.281,
+    "endTime": 325.656,
+    "text": "after lap after lap."
+  },
+  {
+    "startTime": 325.656,
+    "endTime": 328.568,
+    "text": "They're able to go out and consistently do this,"
+  },
+  {
+    "startTime": 328.568,
+    "endTime": 332.695,
+    "text": "pushing the car to the limits every single time."
+  },
+  {
+    "startTime": 332.696,
+    "endTime": 335.865,
+    "text": "It's extraordinary to watch."
+  },
+  {
+    "startTime": 335.865,
+    "endTime": 337.931,
+    "text": "You put them in a new car,"
+  },
+  {
+    "startTime": 337.931,
+    "endTime": 341.832,
+    "text": "and after a few laps, they've found the fastest line in that car,"
+  },
+  {
+    "startTime": 341.833,
+    "endTime": 345.71000000000004,
+    "text": "and they're off to the races."
+  },
+  {
+    "startTime": 345.71,
+    "endTime": 346.856,
+    "text": "It really makes you think,"
+  },
+  {
+    "startTime": 346.856,
+    "endTime": 351.727,
+    "text": "we'd love to know what's going on inside their brain."
+  },
+  {
+    "startTime": 351.727,
+    "endTime": 356.268,
+    "text": "So as researchers, that's what we decided to find out."
+  },
+  {
+    "startTime": 356.268,
+    "endTime": 358.79999999999995,
+    "text": "We decided to instrument not only the car,"
+  },
+  {
+    "startTime": 358.8,
+    "endTime": 360.575,
+    "text": "but also the race car driver,"
+  },
+  {
+    "startTime": 360.575,
+    "endTime": 363.344,
+    "text": "to try to get a glimpse into what was going on"
+  },
+  {
+    "startTime": 363.344,
+    "endTime": 365.53,
+    "text": "in their head as they were doing this."
+  },
+  {
+    "startTime": 365.53,
+    "endTime": 369.479,
+    "text": "Now, this is Dr. Lene Harbott applying electrodes"
+  },
+  {
+    "startTime": 369.48,
+    "endTime": 370.71200000000005,
+    "text": "to the head of John Morton."
+  },
+  {
+    "startTime": 370.712,
+    "endTime": 373.7,
+    "text": "John Morton is a former Can-Am and IMSA driver,"
+  },
+  {
+    "startTime": 373.701,
+    "endTime": 375.50100000000003,
+    "text": "who's also a class champion at Le Mans."
+  },
+  {
+    "startTime": 375.501,
+    "endTime": 378.996,
+    "text": "Fantastic driver, and very willing to put up with graduate students"
+  },
+  {
+    "startTime": 378.997,
+    "endTime": 380.85200000000003,
+    "text": "and this sort of research."
+  },
+  {
+    "startTime": 380.852,
+    "endTime": 383.524,
+    "text": "She's putting electrodes on his head"
+  },
+  {
+    "startTime": 383.524,
+    "endTime": 385.636,
+    "text": "so that we can monitor the electrical activity"
+  },
+  {
+    "startTime": 385.636,
+    "endTime": 388.468,
+    "text": "in John's brain as he races around the track."
+  },
+  {
+    "startTime": 388.468,
+    "endTime": 391.663,
+    "text": "Now, clearly we're not going to put a couple of electrodes on his head"
+  },
+  {
+    "startTime": 391.663,
+    "endTime": 394.933,
+    "text": "and understand exactly what all of his thoughts are on the track."
+  },
+  {
+    "startTime": 394.933,
+    "endTime": 398.34,
+    "text": "However, neuroscientists have identified certain patterns"
+  },
+  {
+    "startTime": 398.34,
+    "endTime": 402.101,
+    "text": "that let us tease out some very important aspects of this."
+  },
+  {
+    "startTime": 402.101,
+    "endTime": 403.948,
+    "text": "For instance, the resting brain"
+  },
+  {
+    "startTime": 403.948,
+    "endTime": 406.102,
+    "text": "tends to generate a lot of alpha waves."
+  },
+  {
+    "startTime": 406.103,
+    "endTime": 409.855,
+    "text": "In contrast, theta waves are associated with"
+  },
+  {
+    "startTime": 409.855,
+    "endTime": 413.39000000000004,
+    "text": "a lot of cognitive activity, like visual processing,"
+  },
+  {
+    "startTime": 413.39,
+    "endTime": 416.87,
+    "text": "things where the driver is thinking quite a bit."
+  },
+  {
+    "startTime": 416.87,
+    "endTime": 417.75,
+    "text": "Now, we can measure this,"
+  },
+  {
+    "startTime": 417.75,
+    "endTime": 419.735,
+    "text": "and we can look at the relative power"
+  },
+  {
+    "startTime": 419.735,
+    "endTime": 421.935,
+    "text": "between the theta waves and the alpha waves."
+  },
+  {
+    "startTime": 421.935,
+    "endTime": 424.377,
+    "text": "This gives us a measure of mental workload,"
+  },
+  {
+    "startTime": 424.377,
+    "endTime": 427.944,
+    "text": "how much the driver is actually challenged cognitively"
+  },
+  {
+    "startTime": 427.944,
+    "endTime": 429.73,
+    "text": "at any point along the track."
+  },
+  {
+    "startTime": 429.73,
+    "endTime": 432.672,
+    "text": "Now, we wanted to see if we could actually record this"
+  },
+  {
+    "startTime": 432.672,
+    "endTime": 435.71000000000004,
+    "text": "on the track, so we headed down south to Laguna Seca."
+  },
+  {
+    "startTime": 435.71,
+    "endTime": 437.726,
+    "text": "Laguna Seca is a legendary raceway"
+  },
+  {
+    "startTime": 437.726,
+    "endTime": 440.27,
+    "text": "about halfway between Salinas and Monterey."
+  },
+  {
+    "startTime": 440.27,
+    "endTime": 442.114,
+    "text": "It has a curve there called the Corkscrew."
+  },
+  {
+    "startTime": 442.114,
+    "endTime": 444.83,
+    "text": "Now, the Corkscrew is a chicane, followed by a quick"
+  },
+  {
+    "startTime": 444.831,
+    "endTime": 447.577,
+    "text": "right-handed turn as the road drops three stories."
+  },
+  {
+    "startTime": 447.577,
+    "endTime": 451.343,
+    "text": "Now, the strategy for driving this as explained to me was,"
+  },
+  {
+    "startTime": 451.343,
+    "endTime": 453.365,
+    "text": "you aim for the bush in the distance,"
+  },
+  {
+    "startTime": 453.365,
+    "endTime": 456.39,
+    "text": "and as the road falls away, you realize it was actually the top of a tree."
+  },
+  {
+    "startTime": 456.39,
+    "endTime": 459.693,
+    "text": "All right, so thanks to the Revs Program at Stanford,"
+  },
+  {
+    "startTime": 459.694,
+    "endTime": 461.16700000000003,
+    "text": "we were able to take John there"
+  },
+  {
+    "startTime": 461.167,
+    "endTime": 462.131,
+    "text": "and put him behind the wheel"
+  },
+  {
+    "startTime": 462.131,
+    "endTime": 464.57,
+    "text": "of a 1960 Porsche Abarth Carrera."
+  },
+  {
+    "startTime": 464.57,
+    "endTime": 468.268,
+    "text": "Life is way too short for boring cars."
+  },
+  {
+    "startTime": 468.268,
+    "endTime": 470.27,
+    "text": "So, here you see John on the track,"
+  },
+  {
+    "startTime": 470.27,
+    "endTime": 472.21099999999996,
+    "text": "he's going up the hill -- Oh! Somebody liked that --"
+  },
+  {
+    "startTime": 472.211,
+    "endTime": 474.676,
+    "text": "and you can see, actually, his mental workload"
+  },
+  {
+    "startTime": 474.676,
+    "endTime": 476.829,
+    "text": "-- measuring here in the red bar --"
+  },
+  {
+    "startTime": 476.829,
+    "endTime": 479.172,
+    "text": "you can see his actions as he approaches."
+  },
+  {
+    "startTime": 479.172,
+    "endTime": 482.40200000000004,
+    "text": "Now watch, he has to downshift."
+  },
+  {
+    "startTime": 482.402,
+    "endTime": 483.163,
+    "text": "And then he has to turn left."
+  },
+  {
+    "startTime": 483.163,
+    "endTime": 487.156,
+    "text": "Look for the tree, and down."
+  },
+  {
+    "startTime": 487.156,
+    "endTime": 489.994,
+    "text": "Not surprisingly, you can see this is a pretty challenging task."
+  },
+  {
+    "startTime": 489.994,
+    "endTime": 492.97,
+    "text": "You can see his mental workload spike as he goes through this,"
+  },
+  {
+    "startTime": 492.97,
+    "endTime": 495.34000000000003,
+    "text": "as you would expect with something that requires"
+  },
+  {
+    "startTime": 495.34,
+    "endTime": 497.84299999999996,
+    "text": "this level of complexity."
+  },
+  {
+    "startTime": 497.843,
+    "endTime": 501.259,
+    "text": "But what's really interesting is to look at areas of the track"
+  },
+  {
+    "startTime": 501.259,
+    "endTime": 504.105,
+    "text": "where his mental workload doesn't increase."
+  },
+  {
+    "startTime": 504.105,
+    "endTime": 505.6,
+    "text": "I'm going to take you around now"
+  },
+  {
+    "startTime": 505.6,
+    "endTime": 506.689,
+    "text": "to the other side of the track."
+  },
+  {
+    "startTime": 506.689,
+    "endTime": 509.25,
+    "text": "Turn three. And John's going to go into that corner"
+  },
+  {
+    "startTime": 509.25,
+    "endTime": 511.575,
+    "text": "and the rear end of the car is going to begin to slide out."
+  },
+  {
+    "startTime": 511.576,
+    "endTime": 513.5930000000001,
+    "text": "He's going to have to correct for that with steering."
+  },
+  {
+    "startTime": 513.592,
+    "endTime": 515.823,
+    "text": "So watch as John does this here."
+  },
+  {
+    "startTime": 515.823,
+    "endTime": 518.145,
+    "text": "Watch the mental workload, and watch the steering."
+  },
+  {
+    "startTime": 518.145,
+    "endTime": 521.818,
+    "text": "The car begins to slide out, dramatic maneuver to correct it,"
+  },
+  {
+    "startTime": 521.818,
+    "endTime": 525.341,
+    "text": "and no change whatsoever in the mental workload."
+  },
+  {
+    "startTime": 525.341,
+    "endTime": 528.173,
+    "text": "Not a challenging task."
+  },
+  {
+    "startTime": 528.173,
+    "endTime": 531.373,
+    "text": "In fact, entirely reflexive."
+  },
+  {
+    "startTime": 531.373,
+    "endTime": 535.1600000000001,
+    "text": "Now, our data processing on this is still preliminary,"
+  },
+  {
+    "startTime": 535.16,
+    "endTime": 537.688,
+    "text": "but it really seems that these phenomenal feats"
+  },
+  {
+    "startTime": 537.688,
+    "endTime": 539.298,
+    "text": "that the race car drivers are performing"
+  },
+  {
+    "startTime": 539.298,
+    "endTime": 541.208,
+    "text": "are instinctive."
+  },
+  {
+    "startTime": 541.208,
+    "endTime": 544.598,
+    "text": "They are things that they have simply learned to do."
+  },
+  {
+    "startTime": 544.598,
+    "endTime": 546.88,
+    "text": "It requires very little mental workload"
+  },
+  {
+    "startTime": 546.88,
+    "endTime": 549.704,
+    "text": "for them to perform these amazing feats."
+  },
+  {
+    "startTime": 549.704,
+    "endTime": 552.8389999999999,
+    "text": "And their actions are fantastic."
+  },
+  {
+    "startTime": 552.839,
+    "endTime": 555.45,
+    "text": "This is exactly what you want to do on the steering wheel"
+  },
+  {
+    "startTime": 555.45,
+    "endTime": 558.787,
+    "text": "to catch the car in this situation."
+  },
+  {
+    "startTime": 558.787,
+    "endTime": 562.2320000000001,
+    "text": "Now, this has given us tremendous insight"
+  },
+  {
+    "startTime": 562.232,
+    "endTime": 565.353,
+    "text": "and inspiration for our own autonomous vehicles."
+  },
+  {
+    "startTime": 565.354,
+    "endTime": 567.282,
+    "text": "We've started to ask the question:"
+  },
+  {
+    "startTime": 567.282,
+    "endTime": 569.5350000000001,
+    "text": "Can we make them a little less algorithmic"
+  },
+  {
+    "startTime": 569.535,
+    "endTime": 571.983,
+    "text": "and a little more intuitive?"
+  },
+  {
+    "startTime": 571.984,
+    "endTime": 574.265,
+    "text": "Can we take this reflexive action"
+  },
+  {
+    "startTime": 574.265,
+    "endTime": 576.552,
+    "text": "that we see from the very best race car drivers,"
+  },
+  {
+    "startTime": 576.552,
+    "endTime": 578.201,
+    "text": "introduce it to our cars,"
+  },
+  {
+    "startTime": 578.201,
+    "endTime": 580.1850000000001,
+    "text": "and maybe even into a system that could"
+  },
+  {
+    "startTime": 580.185,
+    "endTime": 582.1519999999999,
+    "text": "get onto your car in the future?"
+  },
+  {
+    "startTime": 582.153,
+    "endTime": 583.764,
+    "text": "That would take us a long step"
+  },
+  {
+    "startTime": 583.764,
+    "endTime": 586.273,
+    "text": "along the road to autonomous vehicles"
+  },
+  {
+    "startTime": 586.273,
+    "endTime": 588.1850000000001,
+    "text": "that drive as well as the best humans."
+  },
+  {
+    "startTime": 588.185,
+    "endTime": 591.625,
+    "text": "But it's made us think a little bit more deeply as well."
+  },
+  {
+    "startTime": 591.625,
+    "endTime": 594.593,
+    "text": "Do we want something more from our car"
+  },
+  {
+    "startTime": 594.593,
+    "endTime": 596.433,
+    "text": "than to simply be a chauffeur?"
+  },
+  {
+    "startTime": 596.433,
+    "endTime": 600.668,
+    "text": "Do we want our car to perhaps be a partner, a coach,"
+  },
+  {
+    "startTime": 600.668,
+    "endTime": 603.755,
+    "text": "someone that can use their understanding of the situation"
+  },
+  {
+    "startTime": 603.755,
+    "endTime": 608.11,
+    "text": "to help us reach our potential?"
+  },
+  {
+    "startTime": 608.11,
+    "endTime": 610.284,
+    "text": "Can, in fact, the technology not simply replace humans,"
+  },
+  {
+    "startTime": 610.284,
+    "endTime": 614.859,
+    "text": "but allow us to reach the level of reflex and intuition"
+  },
+  {
+    "startTime": 614.859,
+    "endTime": 618.284,
+    "text": "that we're all capable of?"
+  },
+  {
+    "startTime": 618.284,
+    "endTime": 620.207,
+    "text": "So, as we move forward into this technological future,"
+  },
+  {
+    "startTime": 620.207,
+    "endTime": 623.28,
+    "text": "I want you to just pause and think of that for a moment."
+  },
+  {
+    "startTime": 623.28,
+    "endTime": 626.803,
+    "text": "What is the ideal balance of human and machine?"
+  },
+  {
+    "startTime": 626.803,
+    "endTime": 628.512,
+    "text": "And as we think about that,"
+  },
+  {
+    "startTime": 628.512,
+    "endTime": 630.242,
+    "text": "let's take inspiration"
+  },
+  {
+    "startTime": 630.243,
+    "endTime": 633.572,
+    "text": "from the absolutely amazing capabilities"
+  },
+  {
+    "startTime": 633.572,
+    "endTime": 636.388,
+    "text": "of the human body and the human mind."
+  },
+  {
+    "startTime": 636.388,
+    "endTime": 638.124,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 638.124,
+    "endTime": 642.7280000000001,
+    "text": "(Applause)"
+  }
+]

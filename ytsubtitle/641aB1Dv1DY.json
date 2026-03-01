@@ -1,0 +1,552 @@
+[
+  {
+    "startTime": 2.61,
+    "endTime": 13.309,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 17.24,
+    "endTime": 19.16,
+    "text": "to understand the world that we live in"
+  },
+  {
+    "startTime": 19.16,
+    "endTime": 20.48,
+    "text": "we tell"
+  },
+  {
+    "startTime": 20.48,
+    "endTime": 23.68,
+    "text": "stories and while remixing and sharing"
+  },
+  {
+    "startTime": 23.68,
+    "endTime": 25.279,
+    "text": "have come to define the web as we know"
+  },
+  {
+    "startTime": 25.279,
+    "endTime": 27.679,
+    "text": "it all of us can now be part of that"
+  },
+  {
+    "startTime": 27.679,
+    "endTime": 30.199,
+    "text": "story through simple tools that allow us"
+  },
+  {
+    "startTime": 30.199,
+    "endTime": 31.52,
+    "text": "to make things"
+  },
+  {
+    "startTime": 31.52,
+    "endTime": 35.28,
+    "text": "online but video has been left out it"
+  },
+  {
+    "startTime": 35.28,
+    "endTime": 38.2,
+    "text": "arrived on the web in a small box and"
+  },
+  {
+    "startTime": 38.2,
+    "endTime": 39.719,
+    "text": "there it has remained completely"
+  },
+  {
+    "startTime": 39.719,
+    "endTime": 41.68,
+    "text": "disconnected from the data and the"
+  },
+  {
+    "startTime": 41.68,
+    "endTime": 43.32,
+    "text": "content all around"
+  },
+  {
+    "startTime": 43.32,
+    "endTime": 45.76,
+    "text": "it in fact in over a decade on the web"
+  },
+  {
+    "startTime": 45.76,
+    "endTime": 47.52,
+    "text": "the only thing that has changed about"
+  },
+  {
+    "startTime": 47.52,
+    "endTime": 50.16,
+    "text": "video is the size of the box and the"
+  },
+  {
+    "startTime": 50.16,
+    "endTime": 51.719,
+    "text": "quality of the"
+  },
+  {
+    "startTime": 51.719,
+    "endTime": 55.8,
+    "text": "picture popcorn changes all of that it's"
+  },
+  {
+    "startTime": 55.8,
+    "endTime": 58.12,
+    "text": "an online tool that allows anyone to"
+  },
+  {
+    "startTime": 58.12,
+    "endTime": 60.44,
+    "text": "combine video with content pulled live"
+  },
+  {
+    "startTime": 60.44,
+    "endTime": 63.199,
+    "text": "directly from the web videos created"
+  },
+  {
+    "startTime": 63.199,
+    "endTime": 65.84,
+    "text": "with popcorn behave like the web itself"
+  },
+  {
+    "startTime": 65.84,
+    "endTime": 69.04,
+    "text": "Dynamic full of links and completely"
+  },
+  {
+    "startTime": 69.04,
+    "endTime": 71.4,
+    "text": "remixable and finally allowed to break"
+  },
+  {
+    "startTime": 71.4,
+    "endTime": 73.4,
+    "text": "free from the"
+  },
+  {
+    "startTime": 73.4,
+    "endTime": 75.96,
+    "text": "frame I want to give you a demo of a"
+  },
+  {
+    "startTime": 75.96,
+    "endTime": 77.119,
+    "text": "prototype that we're working on that"
+  },
+  {
+    "startTime": 77.119,
+    "endTime": 79.04,
+    "text": "we'll launch later this fall it'll be"
+  },
+  {
+    "startTime": 79.04,
+    "endTime": 82.6,
+    "text": "completely free and it will work in any"
+  },
+  {
+    "startTime": 82.6,
+    "endTime": 85.04,
+    "text": "browser so every popcorn production"
+  },
+  {
+    "startTime": 85.04,
+    "endTime": 87.24,
+    "text": "begins with a video and so I've made a"
+  },
+  {
+    "startTime": 87.24,
+    "endTime": 90.04,
+    "text": "short 20 second clip using a newscaster"
+  },
+  {
+    "startTime": 90.04,
+    "endTime": 93.119,
+    "text": "template that we use in uh workshops so"
+  },
+  {
+    "startTime": 93.119,
+    "endTime": 94.64,
+    "text": "let's watch it we'll go back and I'll"
+  },
+  {
+    "startTime": 94.64,
+    "endTime": 97.479,
+    "text": "show you how we made it hi and welcome"
+  },
+  {
+    "startTime": 97.479,
+    "endTime": 100.0,
+    "text": "to my newscast I've added my location"
+  },
+  {
+    "startTime": 100.0,
+    "endTime": 103.2,
+    "text": "with the Google Map and it's live so try"
+  },
+  {
+    "startTime": 103.2,
+    "endTime": 106.079,
+    "text": "moving it around you can add popups with"
+  },
+  {
+    "startTime": 106.079,
+    "endTime": 108.719,
+    "text": "live links and custom icons or pull in"
+  },
+  {
+    "startTime": 108.719,
+    "endTime": 110.96,
+    "text": "content from any web service like"
+  },
+  {
+    "startTime": 110.96,
+    "endTime": 113.759,
+    "text": "flicker or add articles and blog posts"
+  },
+  {
+    "startTime": 113.759,
+    "endTime": 116.0,
+    "text": "with links out to the full"
+  },
+  {
+    "startTime": 116.0,
+    "endTime": 117.96,
+    "text": "content so let's go back and I'll show"
+  },
+  {
+    "startTime": 117.96,
+    "endTime": 121.68,
+    "text": "you what you saw there was a lot there"
+  },
+  {
+    "startTime": 121.68,
+    "endTime": 123.0,
+    "text": "so this is the timeline and if you've"
+  },
+  {
+    "startTime": 123.0,
+    "endTime": 124.759,
+    "text": "ever edited video you're familiar with"
+  },
+  {
+    "startTime": 124.759,
+    "endTime": 126.32,
+    "text": "this but instead of Clips in the"
+  },
+  {
+    "startTime": 126.32,
+    "endTime": 127.88,
+    "text": "timeline what you're looking at is web"
+  },
+  {
+    "startTime": 127.88,
+    "endTime": 130.959,
+    "text": "events pulled into the video now in this"
+  },
+  {
+    "startTime": 130.959,
+    "endTime": 134.12,
+    "text": "popcorn production we've got the title"
+  },
+  {
+    "startTime": 134.12,
+    "endTime": 136.319,
+    "text": "card we've got a Google map that shows"
+  },
+  {
+    "startTime": 136.319,
+    "endTime": 138.519,
+    "text": "up picture and picture then popcorn lets"
+  },
+  {
+    "startTime": 138.519,
+    "endTime": 140.28,
+    "text": "it push outside the frame and take over"
+  },
+  {
+    "startTime": 140.28,
+    "endTime": 143.04,
+    "text": "the whole screen there are two popups"
+  },
+  {
+    "startTime": 143.04,
+    "endTime": 145.599,
+    "text": "bringing you some other information and"
+  },
+  {
+    "startTime": 145.599,
+    "endTime": 147.519,
+    "text": "a final article uh with a link out to"
+  },
+  {
+    "startTime": 147.519,
+    "endTime": 149.48,
+    "text": "the original article let's go to this"
+  },
+  {
+    "startTime": 149.48,
+    "endTime": 150.76,
+    "text": "Google Map app and I'll show you how you"
+  },
+  {
+    "startTime": 150.76,
+    "endTime": 153.72,
+    "text": "can edit it all you do go into the"
+  },
+  {
+    "startTime": 153.72,
+    "endTime": 155.92,
+    "text": "timeline double click the item and I've"
+  },
+  {
+    "startTime": 155.92,
+    "endTime": 157.16,
+    "text": "set it to Toronto because that's where"
+  },
+  {
+    "startTime": 157.16,
+    "endTime": 161.599,
+    "text": "I'm from let's set it to something"
+  },
+  {
+    "startTime": 161.84,
+    "endTime": 164.2,
+    "text": "else popcorn immediately goes out on the"
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 166.72,
+    "text": "web talks to Google grabs the map and"
+  },
+  {
+    "startTime": 166.72,
+    "endTime": 168.959,
+    "text": "puts it in the display and it's exactly"
+  },
+  {
+    "startTime": 168.959,
+    "endTime": 170.84,
+    "text": "the same for the people who watch your"
+  },
+  {
+    "startTime": 170.84,
+    "endTime": 172.64,
+    "text": "production and it's live it's not an"
+  },
+  {
+    "startTime": 172.64,
+    "endTime": 174.92,
+    "text": "image so you click on it zoom in write"
+  },
+  {
+    "startTime": 174.92,
+    "endTime": 177.599,
+    "text": "down to street view if you want"
+  },
+  {
+    "startTime": 177.599,
+    "endTime": 179.8,
+    "text": "to now in the video I mentioned adding"
+  },
+  {
+    "startTime": 179.8,
+    "endTime": 182.48,
+    "text": "add a live feed which we can do right"
+  },
+  {
+    "startTime": 182.48,
+    "endTime": 185.72,
+    "text": "now so let's add a live feed from Flickr"
+  },
+  {
+    "startTime": 185.72,
+    "endTime": 187.36,
+    "text": "go over to the right hand side grab"
+  },
+  {
+    "startTime": 187.36,
+    "endTime": 189.799,
+    "text": "flicker from the list of options drag it"
+  },
+  {
+    "startTime": 189.799,
+    "endTime": 190.76,
+    "text": "into the"
+  },
+  {
+    "startTime": 190.76,
+    "endTime": 192.799,
+    "text": "timeline and put it where you'd like it"
+  },
+  {
+    "startTime": 192.799,
+    "endTime": 195.2,
+    "text": "to go and it immediately goes out to"
+  },
+  {
+    "startTime": 195.2,
+    "endTime": 197.48,
+    "text": "Flicker and starts pulling in images"
+  },
+  {
+    "startTime": 197.48,
+    "endTime": 199.84,
+    "text": "based on the tags now my developers"
+  },
+  {
+    "startTime": 199.84,
+    "endTime": 201.799,
+    "text": "really like ponies and so they've set"
+  },
+  {
+    "startTime": 201.799,
+    "endTime": 203.239,
+    "text": "that as the default"
+  },
+  {
+    "startTime": 203.239,
+    "endTime": 205.92,
+    "text": "tag let's try something"
+  },
+  {
+    "startTime": 205.92,
+    "endTime": 208.0,
+    "text": "else maybe something a bit more relevant"
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 208.76,
+    "text": "to"
+  },
+  {
+    "startTime": 208.76,
+    "endTime": 210.28,
+    "text": "today"
+  },
+  {
+    "startTime": 210.28,
+    "endTime": 211.879,
+    "text": "now here are live images being pulled"
+  },
+  {
+    "startTime": 211.879,
+    "endTime": 213.28,
+    "text": "straight from the feed if you come and"
+  },
+  {
+    "startTime": 213.28,
+    "endTime": 214.84,
+    "text": "watch this a week from now this will be"
+  },
+  {
+    "startTime": 214.84,
+    "endTime": 216.76,
+    "text": "completely different Dynamic just like"
+  },
+  {
+    "startTime": 216.76,
+    "endTime": 219.04,
+    "text": "the web and just like the web everything"
+  },
+  {
+    "startTime": 219.04,
+    "endTime": 221.12,
+    "text": "is source so click your link and you go"
+  },
+  {
+    "startTime": 221.12,
+    "endTime": 223.519,
+    "text": "straight to Flicker and see the source"
+  },
+  {
+    "startTime": 223.519,
+    "endTime": 225.76,
+    "text": "image everything you've seen today is"
+  },
+  {
+    "startTime": 225.76,
+    "endTime": 227.28,
+    "text": "built with the basic building blocks of"
+  },
+  {
+    "startTime": 227.28,
+    "endTime": 230.439,
+    "text": "the web HTML CSS and JavaScript means"
+  },
+  {
+    "startTime": 230.439,
+    "endTime": 232.28,
+    "text": "it's completely remixable it also means"
+  },
+  {
+    "startTime": 232.28,
+    "endTime": 234.48,
+    "text": "there's no proprietary software all you"
+  },
+  {
+    "startTime": 234.48,
+    "endTime": 236.72,
+    "text": "need is a web"
+  },
+  {
+    "startTime": 236.72,
+    "endTime": 240.04,
+    "text": "browser so imagine if every video that"
+  },
+  {
+    "startTime": 240.04,
+    "endTime": 242.56,
+    "text": "we watched on the web worked like the"
+  },
+  {
+    "startTime": 242.56,
+    "endTime": 245.0,
+    "text": "web completely remixable linked to its"
+  },
+  {
+    "startTime": 245.0,
+    "endTime": 247.159,
+    "text": "source content and interactive for"
+  },
+  {
+    "startTime": 247.159,
+    "endTime": 248.519,
+    "text": "everyone who views"
+  },
+  {
+    "startTime": 248.519,
+    "endTime": 251.4,
+    "text": "it I think popcorn could change the way"
+  },
+  {
+    "startTime": 251.4,
+    "endTime": 253.159,
+    "text": "that we tell stories on the web and the"
+  },
+  {
+    "startTime": 253.159,
+    "endTime": 255.079,
+    "text": "way we understand the world we live in"
+  },
+  {
+    "startTime": 255.079,
+    "endTime": 255.79,
+    "text": "thank"
+  },
+  {
+    "startTime": 255.79,
+    "endTime": 257.41,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 257.41,
+    "endTime": 263.099,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 264.479,
+    "endTime": 267.479,
+    "text": "you"
+  }
+]

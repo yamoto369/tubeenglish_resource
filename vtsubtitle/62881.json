@@ -1,0 +1,452 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Timothy Covell Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 15.26,
+    "endTime": 18.931,
+    "text": "So it turns out that mathematics is a very powerful language."
+  },
+  {
+    "startTime": 18.931,
+    "endTime": 21.243000000000002,
+    "text": "It has generated considerable insight in physics,"
+  },
+  {
+    "startTime": 21.243,
+    "endTime": 23.343,
+    "text": "in biology and economics,"
+  },
+  {
+    "startTime": 23.343,
+    "endTime": 26.16,
+    "text": "but not that much in the humanities and in history."
+  },
+  {
+    "startTime": 26.16,
+    "endTime": 28.443,
+    "text": "I think there's a belief that it's just impossible,"
+  },
+  {
+    "startTime": 28.443,
+    "endTime": 31.89,
+    "text": "that you cannot quantify the doings of mankind,"
+  },
+  {
+    "startTime": 31.89,
+    "endTime": 33.608000000000004,
+    "text": "that you cannot measure history."
+  },
+  {
+    "startTime": 33.608,
+    "endTime": 35.135,
+    "text": "But I don't think that's right."
+  },
+  {
+    "startTime": 35.135,
+    "endTime": 37.177,
+    "text": "I want to show you a couple of examples why."
+  },
+  {
+    "startTime": 37.177,
+    "endTime": 40.135,
+    "text": "So my collaborator Erez and I were considering the following fact:"
+  },
+  {
+    "startTime": 40.135,
+    "endTime": 42.864,
+    "text": "that two kings separated by centuries"
+  },
+  {
+    "startTime": 42.864,
+    "endTime": 44.631,
+    "text": "will speak a very different language."
+  },
+  {
+    "startTime": 44.631,
+    "endTime": 46.935,
+    "text": "That's a powerful historical force."
+  },
+  {
+    "startTime": 46.935,
+    "endTime": 48.708000000000006,
+    "text": "So the king of England, Alfred the Great,"
+  },
+  {
+    "startTime": 48.708,
+    "endTime": 50.348,
+    "text": "will use a vocabulary and grammar"
+  },
+  {
+    "startTime": 50.348,
+    "endTime": 54.48,
+    "text": "that is quite different from the king of hip hop, Jay-Z."
+  },
+  {
+    "startTime": 54.48,
+    "endTime": 55.714,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 55.714,
+    "endTime": 57.885,
+    "text": "Now it's just the way it is."
+  },
+  {
+    "startTime": 57.885,
+    "endTime": 60.177,
+    "text": "Language changes over time, and it's a powerful force."
+  },
+  {
+    "startTime": 60.177,
+    "endTime": 62.464,
+    "text": "So Erez and I wanted to know more about that."
+  },
+  {
+    "startTime": 62.464,
+    "endTime": 66.121,
+    "text": "So we paid attention to a particular grammatical rule, past-tense conjugation."
+  },
+  {
+    "startTime": 66.121,
+    "endTime": 69.384,
+    "text": "So you just add \"ed\" to a verb at the end to signify the past."
+  },
+  {
+    "startTime": 69.385,
+    "endTime": 71.31200000000001,
+    "text": "\"Today I walk. Yesterday I walked.\""
+  },
+  {
+    "startTime": 71.312,
+    "endTime": 72.655,
+    "text": "But some verbs are irregular."
+  },
+  {
+    "startTime": 72.656,
+    "endTime": 74.52000000000001,
+    "text": "\"Yesterday I thought.\""
+  },
+  {
+    "startTime": 74.52,
+    "endTime": 75.71799999999999,
+    "text": "Now what's interesting about that"
+  },
+  {
+    "startTime": 75.718,
+    "endTime": 79.548,
+    "text": "is irregular verbs between Alfred and Jay-Z have become more regular."
+  },
+  {
+    "startTime": 79.548,
+    "endTime": 82.283,
+    "text": "Like the verb \"to wed\" that you see here has become regular."
+  },
+  {
+    "startTime": 82.283,
+    "endTime": 86.305,
+    "text": "So Erez and I followed the fate of over 100 irregular verbs"
+  },
+  {
+    "startTime": 86.305,
+    "endTime": 88.224,
+    "text": "through 12 centuries of English language,"
+  },
+  {
+    "startTime": 88.224,
+    "endTime": 91.135,
+    "text": "and we saw that there's actually a very simple mathematical pattern"
+  },
+  {
+    "startTime": 91.135,
+    "endTime": 93.677,
+    "text": "that captures this complex historical change,"
+  },
+  {
+    "startTime": 93.677,
+    "endTime": 97.337,
+    "text": "namely, if a verb is 100 times more frequent than another,"
+  },
+  {
+    "startTime": 97.337,
+    "endTime": 100.2,
+    "text": "it regularizes 10 times slower."
+  },
+  {
+    "startTime": 100.2,
+    "endTime": 103.937,
+    "text": "That's a piece of history, but it comes in a mathematical wrapping."
+  },
+  {
+    "startTime": 103.937,
+    "endTime": 107.591,
+    "text": "Now in some cases math can even help explain,"
+  },
+  {
+    "startTime": 107.591,
+    "endTime": 110.47,
+    "text": "or propose explanations for, historical forces."
+  },
+  {
+    "startTime": 110.47,
+    "endTime": 112.301,
+    "text": "So here Steve Pinker and I"
+  },
+  {
+    "startTime": 112.302,
+    "endTime": 116.15400000000001,
+    "text": "were considering the magnitude of wars during the last two centuries."
+  },
+  {
+    "startTime": 116.154,
+    "endTime": 118.649,
+    "text": "There's actually a well-known regularity to them"
+  },
+  {
+    "startTime": 118.649,
+    "endTime": 122.71000000000001,
+    "text": "where the number of wars that are 100 times deadlier"
+  },
+  {
+    "startTime": 122.71,
+    "endTime": 124.22999999999999,
+    "text": "is 10 times smaller."
+  },
+  {
+    "startTime": 124.23,
+    "endTime": 127.366,
+    "text": "So there are 30 wars that are about as deadly as the Six Days War,"
+  },
+  {
+    "startTime": 127.367,
+    "endTime": 130.187,
+    "text": "but there's only four wars that are 100 times deadlier --"
+  },
+  {
+    "startTime": 130.187,
+    "endTime": 132.16400000000002,
+    "text": "like World War I."
+  },
+  {
+    "startTime": 132.164,
+    "endTime": 135.86999999999998,
+    "text": "So what kind of historical mechanism can produce that?"
+  },
+  {
+    "startTime": 135.87,
+    "endTime": 137.87,
+    "text": "What's the origin of this?"
+  },
+  {
+    "startTime": 137.87,
+    "endTime": 139.351,
+    "text": "So Steve and I, through mathematical analysis,"
+  },
+  {
+    "startTime": 139.352,
+    "endTime": 143.59300000000002,
+    "text": "propose that there's actually a very simple phenomenon at the root of this,"
+  },
+  {
+    "startTime": 143.593,
+    "endTime": 145.283,
+    "text": "which lies in our brains."
+  },
+  {
+    "startTime": 145.283,
+    "endTime": 147.302,
+    "text": "This is a very well-known feature"
+  },
+  {
+    "startTime": 147.302,
+    "endTime": 150.277,
+    "text": "in which we perceive quantities in relative ways --"
+  },
+  {
+    "startTime": 150.277,
+    "endTime": 153.993,
+    "text": "quantities like the intensity of light or the loudness of a sound."
+  },
+  {
+    "startTime": 153.993,
+    "endTime": 159.302,
+    "text": "For instance, committing 10,000 soldiers to the next battle sounds like a lot."
+  },
+  {
+    "startTime": 159.302,
+    "endTime": 162.745,
+    "text": "It's relatively enormous if you've already committed 1,000 soldiers previously."
+  },
+  {
+    "startTime": 162.746,
+    "endTime": 164.573,
+    "text": "But it doesn't sound so much,"
+  },
+  {
+    "startTime": 164.573,
+    "endTime": 167.59300000000002,
+    "text": "it's not relatively enough, it won't make a difference"
+  },
+  {
+    "startTime": 167.593,
+    "endTime": 170.545,
+    "text": "if you've already committed 100,000 soldiers previously."
+  },
+  {
+    "startTime": 170.545,
+    "endTime": 174.158,
+    "text": "So you see that because of the way we perceive quantities,"
+  },
+  {
+    "startTime": 174.158,
+    "endTime": 175.92399999999998,
+    "text": "as the war drags on,"
+  },
+  {
+    "startTime": 175.925,
+    "endTime": 179.10000000000002,
+    "text": "the number of soldiers committed to it and the casualties"
+  },
+  {
+    "startTime": 179.1,
+    "endTime": 180.692,
+    "text": "will increase not linearly --"
+  },
+  {
+    "startTime": 180.693,
+    "endTime": 182.58100000000002,
+    "text": "like 10,000, 11,000, 12,000 --"
+  },
+  {
+    "startTime": 182.581,
+    "endTime": 186.856,
+    "text": "but exponentially -- 10,000, later 20,000, later 40,000."
+  },
+  {
+    "startTime": 186.856,
+    "endTime": 189.941,
+    "text": "And so that explains this pattern that we've seen before."
+  },
+  {
+    "startTime": 189.941,
+    "endTime": 195.439,
+    "text": "So here mathematics is able to link a well-known feature of the individual mind"
+  },
+  {
+    "startTime": 195.439,
+    "endTime": 198.428,
+    "text": "with a long-term historical pattern"
+  },
+  {
+    "startTime": 198.428,
+    "endTime": 201.285,
+    "text": "that unfolds over centuries and across continents."
+  },
+  {
+    "startTime": 201.285,
+    "endTime": 205.302,
+    "text": "So these types of examples, today there are just a few of them,"
+  },
+  {
+    "startTime": 205.302,
+    "endTime": 207.99099999999999,
+    "text": "but I think in the next decade they will become commonplace."
+  },
+  {
+    "startTime": 207.991,
+    "endTime": 210.383,
+    "text": "The reason for that is that the historical record"
+  },
+  {
+    "startTime": 210.383,
+    "endTime": 212.84300000000002,
+    "text": "is becoming digitized at a very fast pace."
+  },
+  {
+    "startTime": 212.843,
+    "endTime": 215.453,
+    "text": "So there's about 130 million books"
+  },
+  {
+    "startTime": 215.453,
+    "endTime": 217.764,
+    "text": "that have been written since the dawn of time."
+  },
+  {
+    "startTime": 217.764,
+    "endTime": 220.21800000000002,
+    "text": "Companies like Google have digitized many of them --"
+  },
+  {
+    "startTime": 220.218,
+    "endTime": 221.802,
+    "text": "above 20 million actually."
+  },
+  {
+    "startTime": 221.802,
+    "endTime": 225.38,
+    "text": "And when the stuff of history is available in digital form,"
+  },
+  {
+    "startTime": 225.38,
+    "endTime": 227.76,
+    "text": "it makes it possible for a mathematical analysis"
+  },
+  {
+    "startTime": 227.76,
+    "endTime": 230.135,
+    "text": "to very quickly and very conveniently"
+  },
+  {
+    "startTime": 230.135,
+    "endTime": 232.85899999999998,
+    "text": "review trends in our history and our culture."
+  },
+  {
+    "startTime": 232.86,
+    "endTime": 235.58100000000002,
+    "text": "So I think in the next decade,"
+  },
+  {
+    "startTime": 235.581,
+    "endTime": 238.331,
+    "text": "the sciences and the humanities will come closer together"
+  },
+  {
+    "startTime": 238.331,
+    "endTime": 241.66,
+    "text": "to be able to answer deep questions about mankind."
+  },
+  {
+    "startTime": 241.66,
+    "endTime": 245.781,
+    "text": "And I think that mathematics will be a very powerful language to do that."
+  },
+  {
+    "startTime": 245.781,
+    "endTime": 248.927,
+    "text": "It will be able to reveal new trends in our history,"
+  },
+  {
+    "startTime": 248.927,
+    "endTime": 250.677,
+    "text": "sometimes to explain them,"
+  },
+  {
+    "startTime": 250.677,
+    "endTime": 253.983,
+    "text": "and maybe even in the future to predict what's going to happen."
+  },
+  {
+    "startTime": 253.983,
+    "endTime": 255.47400000000002,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 255.474,
+    "endTime": 259.152,
+    "text": "(Applause)"
+  }
+]
