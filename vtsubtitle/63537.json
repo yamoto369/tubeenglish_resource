@@ -1,0 +1,1797 @@
+[
+  {
+    "startTime": 12.835,
+    "endTime": 14.99,
+    "text": "Mark Twain summed up what I take to be"
+  },
+  {
+    "startTime": 14.99,
+    "endTime": 18.11,
+    "text": "one of the fundamental problems of cognitive science"
+  },
+  {
+    "startTime": 18.11,
+    "endTime": 19.82,
+    "text": "with a single witticism."
+  },
+  {
+    "startTime": 20.41,
+    "endTime": 23.492,
+    "text": "He said, \"There's something fascinating about science."
+  },
+  {
+    "startTime": 23.492,
+    "endTime": 26.720000000000002,
+    "text": "One gets such wholesale returns of conjecture"
+  },
+  {
+    "startTime": 26.72,
+    "endTime": 29.924,
+    "text": "out of such a trifling investment in fact.\""
+  },
+  {
+    "startTime": 29.924,
+    "endTime": 31.509,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 32.198,
+    "endTime": 34.803,
+    "text": "Twain meant it as a joke, of course, but he's right:"
+  },
+  {
+    "startTime": 34.803,
+    "endTime": 37.678,
+    "text": "There's something fascinating about science."
+  },
+  {
+    "startTime": 37.679,
+    "endTime": 41.940000000000005,
+    "text": "From a few bones, we infer the existence of dinosuars."
+  },
+  {
+    "startTime": 42.91,
+    "endTime": 46.781,
+    "text": "From spectral lines, the composition of nebulae."
+  },
+  {
+    "startTime": 47.471,
+    "endTime": 50.409,
+    "text": "From fruit flies,"
+  },
+  {
+    "startTime": 50.409,
+    "endTime": 53.352,
+    "text": "the mechanisms of heredity,"
+  },
+  {
+    "startTime": 53.352,
+    "endTime": 57.601,
+    "text": "and from reconstructed images of blood flowing through the brain,"
+  },
+  {
+    "startTime": 57.601,
+    "endTime": 62.309,
+    "text": "or in my case, from the behavior of very young children,"
+  },
+  {
+    "startTime": 62.309,
+    "endTime": 65.137,
+    "text": "we try to say something about the fundamental mechanisms"
+  },
+  {
+    "startTime": 65.138,
+    "endTime": 66.756,
+    "text": "of human cognition."
+  },
+  {
+    "startTime": 67.716,
+    "endTime": 72.475,
+    "text": "In particular, in my lab in the Department of Brain and Cognitive Sciences at MIT,"
+  },
+  {
+    "startTime": 72.475,
+    "endTime": 76.128,
+    "text": "I have spent the past decade trying to understand the mystery"
+  },
+  {
+    "startTime": 76.129,
+    "endTime": 80.10600000000001,
+    "text": "of how children learn so much from so little so quickly."
+  },
+  {
+    "startTime": 80.666,
+    "endTime": 83.643,
+    "text": "Because, it turns out that the fascinating thing about science"
+  },
+  {
+    "startTime": 83.644,
+    "endTime": 87.173,
+    "text": "is also a fascinating thing about children,"
+  },
+  {
+    "startTime": 87.173,
+    "endTime": 89.754,
+    "text": "which, to put a gentler spin on Mark Twain,"
+  },
+  {
+    "startTime": 89.754,
+    "endTime": 94.40400000000001,
+    "text": "is precisely their ability to draw rich, abstract inferences"
+  },
+  {
+    "startTime": 94.404,
+    "endTime": 99.64999999999999,
+    "text": "rapidly and accurately from sparse, noisy data."
+  },
+  {
+    "startTime": 100.355,
+    "endTime": 102.753,
+    "text": "I'm going to give you just two examples today."
+  },
+  {
+    "startTime": 102.753,
+    "endTime": 105.4,
+    "text": "One is about a problem of generalization,"
+  },
+  {
+    "startTime": 105.4,
+    "endTime": 107.89,
+    "text": "and the other is about a problem of causal reasoning."
+  },
+  {
+    "startTime": 107.89,
+    "endTime": 110.415,
+    "text": "And although I'm going to talk about work in my lab,"
+  },
+  {
+    "startTime": 110.415,
+    "endTime": 113.875,
+    "text": "this work is inspired by and indebted to a field."
+  },
+  {
+    "startTime": 113.875,
+    "endTime": 118.158,
+    "text": "I'm grateful to mentors, colleagues, and collaborators around the world."
+  },
+  {
+    "startTime": 119.308,
+    "endTime": 122.28200000000001,
+    "text": "Let me start with the problem of generalization."
+  },
+  {
+    "startTime": 122.652,
+    "endTime": 126.785,
+    "text": "Generalizing from small samples of data is the bread and butter of science."
+  },
+  {
+    "startTime": 126.785,
+    "endTime": 129.339,
+    "text": "We poll a tiny fraction of the electorate"
+  },
+  {
+    "startTime": 129.339,
+    "endTime": 131.66,
+    "text": "and we predict the outcome of national elections."
+  },
+  {
+    "startTime": 132.24,
+    "endTime": 136.16500000000002,
+    "text": "We see how a handful of patients responds to treatment in a clinical trial,"
+  },
+  {
+    "startTime": 136.165,
+    "endTime": 139.23,
+    "text": "and we bring drugs to a national market."
+  },
+  {
+    "startTime": 139.23,
+    "endTime": 143.595,
+    "text": "But this only works if our sample is randomly drawn from the population."
+  },
+  {
+    "startTime": 143.595,
+    "endTime": 146.33,
+    "text": "If our sample is cherry-picked in some way --"
+  },
+  {
+    "startTime": 146.33,
+    "endTime": 148.40200000000002,
+    "text": "say, we poll only urban voters,"
+  },
+  {
+    "startTime": 148.402,
+    "endTime": 152.79,
+    "text": "or say, in our clinical trials for treatments for heart disease,"
+  },
+  {
+    "startTime": 152.79,
+    "endTime": 154.671,
+    "text": "we include only men --"
+  },
+  {
+    "startTime": 154.671,
+    "endTime": 157.828,
+    "text": "the results may not generalize to the broader population."
+  },
+  {
+    "startTime": 158.479,
+    "endTime": 162.60000000000002,
+    "text": "So scientists care whether evidence is randomly sampled or not,"
+  },
+  {
+    "startTime": 162.6,
+    "endTime": 164.75,
+    "text": "but what does that have to do with babies?"
+  },
+  {
+    "startTime": 164.585,
+    "endTime": 169.20600000000002,
+    "text": "Well, babies have to generalize from small samples of data all the time."
+  },
+  {
+    "startTime": 169.206,
+    "endTime": 172.363,
+    "text": "They see a few rubber ducks and learn that they float,"
+  },
+  {
+    "startTime": 172.364,
+    "endTime": 175.939,
+    "text": "or a few balls and learn that they bounce."
+  },
+  {
+    "startTime": 175.939,
+    "endTime": 178.89,
+    "text": "And they develop expectations about ducks and balls"
+  },
+  {
+    "startTime": 178.89,
+    "endTime": 181.606,
+    "text": "that they're going to extend to rubber ducks and balls"
+  },
+  {
+    "startTime": 181.606,
+    "endTime": 183.48399999999998,
+    "text": "for the rest of their lives."
+  },
+  {
+    "startTime": 183.485,
+    "endTime": 187.22400000000002,
+    "text": "And the kinds of generalizations babies have to make about ducks and balls"
+  },
+  {
+    "startTime": 187.224,
+    "endTime": 189.313,
+    "text": "they have to make about almost everything:"
+  },
+  {
+    "startTime": 189.313,
+    "endTime": 193.23,
+    "text": "shoes and ships and sealing wax and cabbages and kings."
+  },
+  {
+    "startTime": 194.2,
+    "endTime": 197.161,
+    "text": "So do babies care whether the tiny bit of evidence they see"
+  },
+  {
+    "startTime": 197.161,
+    "endTime": 200.853,
+    "text": "is plausibly representative of a larger population?"
+  },
+  {
+    "startTime": 201.763,
+    "endTime": 203.663,
+    "text": "Let's find out."
+  },
+  {
+    "startTime": 203.663,
+    "endTime": 205.38600000000002,
+    "text": "I'm going to show you two movies,"
+  },
+  {
+    "startTime": 205.386,
+    "endTime": 207.847,
+    "text": "one from each of two conditions of an experiment,"
+  },
+  {
+    "startTime": 207.848,
+    "endTime": 210.286,
+    "text": "and because you're going to see just two movies,"
+  },
+  {
+    "startTime": 210.286,
+    "endTime": 212.422,
+    "text": "you're going to see just two babies,"
+  },
+  {
+    "startTime": 212.422,
+    "endTime": 216.369,
+    "text": "and any two babies differ from each other in innumerable ways."
+  },
+  {
+    "startTime": 216.369,
+    "endTime": 219.42,
+    "text": "But these babies, of course, here stand in for groups of babies,"
+  },
+  {
+    "startTime": 219.42,
+    "endTime": 221.315,
+    "text": "and the differences you're going to see"
+  },
+  {
+    "startTime": 221.315,
+    "endTime": 226.51,
+    "text": "represent average group differences in babies' behavior across conditions."
+  },
+  {
+    "startTime": 227.16,
+    "endTime": 229.743,
+    "text": "In each movie, you're going to see a baby doing maybe"
+  },
+  {
+    "startTime": 229.743,
+    "endTime": 233.203,
+    "text": "just exactly what you might expect a baby to do,"
+  },
+  {
+    "startTime": 233.203,
+    "endTime": 237.22,
+    "text": "and we can hardly make babies more magical than they already are."
+  },
+  {
+    "startTime": 238.9,
+    "endTime": 240.1,
+    "text": "But to my mind the magical thing,"
+  },
+  {
+    "startTime": 240.1,
+    "endTime": 242.189,
+    "text": "and what I want you to pay attention to,"
+  },
+  {
+    "startTime": 242.189,
+    "endTime": 245.299,
+    "text": "is the contrast between these two conditions,"
+  },
+  {
+    "startTime": 245.3,
+    "endTime": 248.829,
+    "text": "because the only thing that differs between these two movies"
+  },
+  {
+    "startTime": 248.829,
+    "endTime": 252.29500000000002,
+    "text": "is the statistical evidence the babies are going to observe."
+  },
+  {
+    "startTime": 253.425,
+    "endTime": 256.608,
+    "text": "We're going to show babies a box of blue and yellow balls,"
+  },
+  {
+    "startTime": 256.608,
+    "endTime": 261.228,
+    "text": "and my then-graduate student, now colleague at Stanford, Hyowon Gweon,"
+  },
+  {
+    "startTime": 261.228,
+    "endTime": 264.305,
+    "text": "is going to pull three blue balls in a row out of this box,"
+  },
+  {
+    "startTime": 264.305,
+    "endTime": 267.428,
+    "text": "and when she pulls those balls out, she's going to squeeze them,"
+  },
+  {
+    "startTime": 267.428,
+    "endTime": 269.541,
+    "text": "and the balls are going to squeak."
+  },
+  {
+    "startTime": 269.541,
+    "endTime": 272.304,
+    "text": "And if you're a baby, that's like a TED Talk."
+  },
+  {
+    "startTime": 272.304,
+    "endTime": 274.207,
+    "text": "It doesn't get better than that."
+  },
+  {
+    "startTime": 274.208,
+    "endTime": 276.769,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 278.968,
+    "endTime": 282.627,
+    "text": "But the important point is it's really easy to pull three blue balls in a row"
+  },
+  {
+    "startTime": 282.627,
+    "endTime": 284.932,
+    "text": "out of a box of mostly blue balls."
+  },
+  {
+    "startTime": 284.932,
+    "endTime": 286.992,
+    "text": "You could do that with your eyes closed."
+  },
+  {
+    "startTime": 286.992,
+    "endTime": 289.988,
+    "text": "It's plausibly a random sample from this population."
+  },
+  {
+    "startTime": 289.988,
+    "endTime": 293.72,
+    "text": "And if you can reach into a box at random and pull out things that squeak,"
+  },
+  {
+    "startTime": 293.72,
+    "endTime": 296.559,
+    "text": "then maybe everything in the box squeaks."
+  },
+  {
+    "startTime": 296.559,
+    "endTime": 300.209,
+    "text": "So maybe babies should expect those yellow balls to squeak as well."
+  },
+  {
+    "startTime": 300.209,
+    "endTime": 302.728,
+    "text": "Now, those yellow balls have funny sticks on the end,"
+  },
+  {
+    "startTime": 302.728,
+    "endTime": 305.58500000000004,
+    "text": "so babies could do other things with them if they wanted to."
+  },
+  {
+    "startTime": 305.585,
+    "endTime": 307.416,
+    "text": "They could pound them or whack them."
+  },
+  {
+    "startTime": 307.416,
+    "endTime": 310.2,
+    "text": "But let's see what the baby does."
+  },
+  {
+    "startTime": 312.548,
+    "endTime": 315.891,
+    "text": "(Video) Hyowon Gweon: See this? (Ball squeaks)"
+  },
+  {
+    "startTime": 316.531,
+    "endTime": 319.576,
+    "text": "Did you see that? (Ball squeaks)"
+  },
+  {
+    "startTime": 320.36,
+    "endTime": 323.10200000000003,
+    "text": "Cool."
+  },
+  {
+    "startTime": 324.706,
+    "endTime": 326.656,
+    "text": "See this one?"
+  },
+  {
+    "startTime": 326.656,
+    "endTime": 328.537,
+    "text": "(Ball squeaks)"
+  },
+  {
+    "startTime": 328.537,
+    "endTime": 331.19,
+    "text": "Wow."
+  },
+  {
+    "startTime": 333.854,
+    "endTime": 335.967,
+    "text": "Laura Schulz: Told you. (Laughs)"
+  },
+  {
+    "startTime": 335.967,
+    "endTime": 339.998,
+    "text": "(Video) HG: See this one? (Ball squeaks)"
+  },
+  {
+    "startTime": 339.998,
+    "endTime": 344.616,
+    "text": "Hey Clara, this one's for you. You can go ahead and play."
+  },
+  {
+    "startTime": 351.854,
+    "endTime": 356.219,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 356.219,
+    "endTime": 359.214,
+    "text": "LS: I don't even have to talk, right?"
+  },
+  {
+    "startTime": 359.214,
+    "endTime": 362.113,
+    "text": "All right, it's nice that babies will generalize properties"
+  },
+  {
+    "startTime": 362.113,
+    "endTime": 363.641,
+    "text": "of blue balls to yellow balls,"
+  },
+  {
+    "startTime": 363.641,
+    "endTime": 366.737,
+    "text": "and it's impressive that babies can learn from imitating us,"
+  },
+  {
+    "startTime": 366.737,
+    "endTime": 370.406,
+    "text": "but we've known those things about babies for a very long time."
+  },
+  {
+    "startTime": 370.406,
+    "endTime": 372.217,
+    "text": "The really interesting question"
+  },
+  {
+    "startTime": 372.217,
+    "endTime": 375.68,
+    "text": "is what happens when we show babies exactly the same thing,"
+  },
+  {
+    "startTime": 375.69,
+    "endTime": 378.68,
+    "text": "and we can ensure it's exactly the same because we have a secret compartment"
+  },
+  {
+    "startTime": 378.68,
+    "endTime": 380.79,
+    "text": "and we actually pull the balls from there,"
+  },
+  {
+    "startTime": 380.79,
+    "endTime": 384.26800000000003,
+    "text": "but this time, all we change is the apparent population"
+  },
+  {
+    "startTime": 384.268,
+    "endTime": 387.169,
+    "text": "from which that evidence was drawn."
+  },
+  {
+    "startTime": 387.17,
+    "endTime": 390.723,
+    "text": "This time, we're going to show babies three blue balls"
+  },
+  {
+    "startTime": 390.723,
+    "endTime": 394.107,
+    "text": "pulled out of a box of mostly yellow balls,"
+  },
+  {
+    "startTime": 394.107,
+    "endTime": 395.42900000000003,
+    "text": "and guess what?"
+  },
+  {
+    "startTime": 395.429,
+    "endTime": 398.268,
+    "text": "You [probably won't] randomly draw three blue balls in a row"
+  },
+  {
+    "startTime": 398.269,
+    "endTime": 400.753,
+    "text": "out of a box of mostly yellow balls."
+  },
+  {
+    "startTime": 400.753,
+    "endTime": 404.5,
+    "text": "That is not plausibly randomly sampled evidence."
+  },
+  {
+    "startTime": 404.5,
+    "endTime": 409.623,
+    "text": "That evidence suggests that maybe Hyowon was deliberately sampling the blue balls."
+  },
+  {
+    "startTime": 409.623,
+    "endTime": 412.206,
+    "text": "Maybe there's something special about the blue balls."
+  },
+  {
+    "startTime": 412.846,
+    "endTime": 415.822,
+    "text": "Maybe only the blue balls squeak."
+  },
+  {
+    "startTime": 415.822,
+    "endTime": 417.717,
+    "text": "Let's see what the baby does."
+  },
+  {
+    "startTime": 417.717,
+    "endTime": 420.621,
+    "text": "(Video) HG: See this? (Ball squeaks)"
+  },
+  {
+    "startTime": 422.851,
+    "endTime": 425.496,
+    "text": "See this toy? (Ball squeaks)"
+  },
+  {
+    "startTime": 425.496,
+    "endTime": 430.976,
+    "text": "Oh, that was cool. See? (Ball squeaks)"
+  },
+  {
+    "startTime": 430.976,
+    "endTime": 435.37,
+    "text": "Now this one's for you to play. You can go ahead and play."
+  },
+  {
+    "startTime": 438.74,
+    "endTime": 444.421,
+    "text": "(Fussing) (Laughter)"
+  },
+  {
+    "startTime": 446.901,
+    "endTime": 449.649,
+    "text": "LS: So you just saw two 15-month-old babies"
+  },
+  {
+    "startTime": 449.649,
+    "endTime": 451.591,
+    "text": "do entirely different things"
+  },
+  {
+    "startTime": 451.591,
+    "endTime": 455.19,
+    "text": "based only on the probability of the sample they observed."
+  },
+  {
+    "startTime": 455.19,
+    "endTime": 457.511,
+    "text": "Let me show you the experimental results."
+  },
+  {
+    "startTime": 457.511,
+    "endTime": 460.27500000000003,
+    "text": "On the vertical axis, you'll see the percentage of babies"
+  },
+  {
+    "startTime": 460.275,
+    "endTime": 462.804,
+    "text": "who squeezed the ball in each condition,"
+  },
+  {
+    "startTime": 462.805,
+    "endTime": 466.52,
+    "text": "and as you'll see, babies are much more likely to generalize the evidence"
+  },
+  {
+    "startTime": 466.52,
+    "endTime": 469.655,
+    "text": "when it's plausibly representative of the population"
+  },
+  {
+    "startTime": 469.655,
+    "endTime": 473.393,
+    "text": "than when the evidence is clearly cherry-picked."
+  },
+  {
+    "startTime": 473.393,
+    "endTime": 475.808,
+    "text": "And this leads to a fun prediction:"
+  },
+  {
+    "startTime": 475.808,
+    "endTime": 480.676,
+    "text": "Suppose you pulled just one blue ball out of the mostly yellow box."
+  },
+  {
+    "startTime": 480.896,
+    "endTime": 484.76500000000004,
+    "text": "You [probably won't] pull three blue balls in a row at random out of a yellow box,"
+  },
+  {
+    "startTime": 484.765,
+    "endTime": 487.219,
+    "text": "but you could randomly sample just one blue ball."
+  },
+  {
+    "startTime": 487.22,
+    "endTime": 489.19000000000005,
+    "text": "That's not an improbable sample."
+  },
+  {
+    "startTime": 489.19,
+    "endTime": 491.414,
+    "text": "And if you could reach into a box at random"
+  },
+  {
+    "startTime": 491.414,
+    "endTime": 495.401,
+    "text": "and pull out something that squeaks, maybe everything in the box squeaks."
+  },
+  {
+    "startTime": 495.875,
+    "endTime": 500.32,
+    "text": "So even though babies are going to see much less evidence for squeaking,"
+  },
+  {
+    "startTime": 500.32,
+    "endTime": 502.562,
+    "text": "and have many fewer actions to imitate"
+  },
+  {
+    "startTime": 502.562,
+    "endTime": 505.90500000000003,
+    "text": "in this one ball condition than in the condition you just saw,"
+  },
+  {
+    "startTime": 505.905,
+    "endTime": 509.796,
+    "text": "we predicted that babies themselves would squeeze more,"
+  },
+  {
+    "startTime": 509.797,
+    "endTime": 512.691,
+    "text": "and that's exactly what we found."
+  },
+  {
+    "startTime": 512.691,
+    "endTime": 517.102,
+    "text": "So 15-month-old babies, in this respect, like scientists,"
+  },
+  {
+    "startTime": 517.102,
+    "endTime": 520.189,
+    "text": "care whether evidence is randomly sampled or not,"
+  },
+  {
+    "startTime": 520.19,
+    "endTime": 523.697,
+    "text": "and they use this to develop expectations about the world:"
+  },
+  {
+    "startTime": 523.697,
+    "endTime": 525.879,
+    "text": "what squeaks and what doesn't,"
+  },
+  {
+    "startTime": 525.879,
+    "endTime": 529.24,
+    "text": "what to explore and what to ignore."
+  },
+  {
+    "startTime": 530.384,
+    "endTime": 532.45,
+    "text": "Let me show you another example now,"
+  },
+  {
+    "startTime": 532.45,
+    "endTime": 535.1800000000001,
+    "text": "this time about a problem of causal reasoning."
+  },
+  {
+    "startTime": 535.18,
+    "endTime": 537.6179999999999,
+    "text": "And it starts with a problem of confounded evidence"
+  },
+  {
+    "startTime": 537.619,
+    "endTime": 539.291,
+    "text": "that all of us have,"
+  },
+  {
+    "startTime": 539.291,
+    "endTime": 541.311,
+    "text": "which is that we are part of the world."
+  },
+  {
+    "startTime": 541.311,
+    "endTime": 544.7470000000001,
+    "text": "And this might not seem like a problem to you, but like most problems,"
+  },
+  {
+    "startTime": 544.747,
+    "endTime": 547.8399999999999,
+    "text": "it's only a problem when things go wrong."
+  },
+  {
+    "startTime": 547.464,
+    "endTime": 549.2750000000001,
+    "text": "Take this baby, for instance."
+  },
+  {
+    "startTime": 549.275,
+    "endTime": 550.98,
+    "text": "Things are going wrong for him."
+  },
+  {
+    "startTime": 550.98,
+    "endTime": 553.251,
+    "text": "He would like to make this toy go, and he can't."
+  },
+  {
+    "startTime": 553.251,
+    "endTime": 555.78,
+    "text": "I'll show you a few-second clip."
+  },
+  {
+    "startTime": 561.34,
+    "endTime": 563.26,
+    "text": "And there's two possibilities, broadly:"
+  },
+  {
+    "startTime": 563.26,
+    "endTime": 565.894,
+    "text": "Maybe he's doing something wrong,"
+  },
+  {
+    "startTime": 565.894,
+    "endTime": 570.11,
+    "text": "or maybe there's something wrong with the toy."
+  },
+  {
+    "startTime": 570.11,
+    "endTime": 572.221,
+    "text": "So in this next experiment,"
+  },
+  {
+    "startTime": 572.221,
+    "endTime": 575.518,
+    "text": "we're going to give babies just a tiny bit of statistical data"
+  },
+  {
+    "startTime": 575.518,
+    "endTime": 578.1,
+    "text": "supporting one hypothesis over the other,"
+  },
+  {
+    "startTime": 578.1,
+    "endTime": 581.5550000000001,
+    "text": "and we're going to see if babies can use that to make different decisions"
+  },
+  {
+    "startTime": 581.555,
+    "endTime": 583.3879999999999,
+    "text": "about what to do."
+  },
+  {
+    "startTime": 583.389,
+    "endTime": 585.4110000000001,
+    "text": "Here's the setup."
+  },
+  {
+    "startTime": 586.71,
+    "endTime": 589.101,
+    "text": "Hyowon is going to try to make the toy go and succeed."
+  },
+  {
+    "startTime": 589.101,
+    "endTime": 592.421,
+    "text": "I am then going to try twice and fail both times,"
+  },
+  {
+    "startTime": 592.421,
+    "endTime": 595.533,
+    "text": "and then Hyowon is going to try again and succeed,"
+  },
+  {
+    "startTime": 595.533,
+    "endTime": 598.705,
+    "text": "and this roughly sums up my relationship to my graduate students"
+  },
+  {
+    "startTime": 598.705,
+    "endTime": 601.5400000000001,
+    "text": "in technology across the board."
+  },
+  {
+    "startTime": 602.3,
+    "endTime": 605.322,
+    "text": "But the important point here is it provides a little bit of evidence"
+  },
+  {
+    "startTime": 605.322,
+    "endTime": 608.99,
+    "text": "that the problem isn't with the toy, it's with the person."
+  },
+  {
+    "startTime": 608.99,
+    "endTime": 611.34,
+    "text": "Some people can make this toy go,"
+  },
+  {
+    "startTime": 611.34,
+    "endTime": 612.299,
+    "text": "and some can't."
+  },
+  {
+    "startTime": 612.799,
+    "endTime": 616.212,
+    "text": "Now, when the baby gets the toy, he's going to have a choice."
+  },
+  {
+    "startTime": 616.212,
+    "endTime": 618.4,
+    "text": "His mom is right there,"
+  },
+  {
+    "startTime": 618.4,
+    "endTime": 621.715,
+    "text": "so he can go ahead and hand off the toy and change the person,"
+  },
+  {
+    "startTime": 621.715,
+    "endTime": 624.873,
+    "text": "but there's also going to be another toy at the end of that cloth,"
+  },
+  {
+    "startTime": 624.873,
+    "endTime": 628.4250000000001,
+    "text": "and he can pull the cloth towards him and change the toy."
+  },
+  {
+    "startTime": 628.425,
+    "endTime": 630.515,
+    "text": "So let's see what the baby does."
+  },
+  {
+    "startTime": 630.515,
+    "endTime": 634.698,
+    "text": "(Video) HG: Two, three. Go! (Music)"
+  },
+  {
+    "startTime": 634.698,
+    "endTime": 637.829,
+    "text": "LS: One, two, three, go!"
+  },
+  {
+    "startTime": 637.829,
+    "endTime": 645.2099999999999,
+    "text": "Arthur, I'm going to try again. One, two, three, go!"
+  },
+  {
+    "startTime": 645.677,
+    "endTime": 648.277,
+    "text": "YG: Arthur, let me try again, okay?"
+  },
+  {
+    "startTime": 648.277,
+    "endTime": 652.827,
+    "text": "One, two, three, go! (Music)"
+  },
+  {
+    "startTime": 653.583,
+    "endTime": 655.466,
+    "text": "Look at that. Remember these toys?"
+  },
+  {
+    "startTime": 655.466,
+    "endTime": 658.73,
+    "text": "See these toys? Yeah, I'm going to put this one over here,"
+  },
+  {
+    "startTime": 658.73,
+    "endTime": 660.792,
+    "text": "and I'm going to give this one to you."
+  },
+  {
+    "startTime": 660.792,
+    "endTime": 663.1270000000001,
+    "text": "You can go ahead and play."
+  },
+  {
+    "startTime": 683.213,
+    "endTime": 687.949,
+    "text": "LS: Okay, Laura, but of course, babies love their mommies."
+  },
+  {
+    "startTime": 687.95,
+    "endTime": 690.1320000000001,
+    "text": "Of course babies give toys to their mommies"
+  },
+  {
+    "startTime": 690.132,
+    "endTime": 692.161,
+    "text": "when they can't make them work."
+  },
+  {
+    "startTime": 692.162,
+    "endTime": 695.755,
+    "text": "So again, the really important question is what happens when we change"
+  },
+  {
+    "startTime": 695.755,
+    "endTime": 698.909,
+    "text": "the statistical data ever so slightly."
+  },
+  {
+    "startTime": 698.909,
+    "endTime": 702.996,
+    "text": "This time, babies are going to see the toy work and fail in exactly the same order,"
+  },
+  {
+    "startTime": 702.996,
+    "endTime": 705.411,
+    "text": "but we're changing the distribution of evidence."
+  },
+  {
+    "startTime": 705.411,
+    "endTime": 709.8209999999999,
+    "text": "This time, Hyowon is going to succeed once and fail once, and so am I."
+  },
+  {
+    "startTime": 709.822,
+    "endTime": 715.459,
+    "text": "And this suggests it doesn't matter who tries this toy, the toy is broken."
+  },
+  {
+    "startTime": 715.459,
+    "endTime": 717.3439999999999,
+    "text": "It doesn't work all the time."
+  },
+  {
+    "startTime": 717.345,
+    "endTime": 719.3100000000001,
+    "text": "Again, the baby's going to have a choice."
+  },
+  {
+    "startTime": 719.31,
+    "endTime": 722.7049999999999,
+    "text": "Her mom is right next to her, so she can change the person,"
+  },
+  {
+    "startTime": 722.706,
+    "endTime": 725.91,
+    "text": "and there's going to be another toy at the end of the cloth."
+  },
+  {
+    "startTime": 725.91,
+    "endTime": 727.288,
+    "text": "Let's watch what she does."
+  },
+  {
+    "startTime": 727.288,
+    "endTime": 731.636,
+    "text": "(Video) HG: Two, three, go! (Music)"
+  },
+  {
+    "startTime": 731.636,
+    "endTime": 736.62,
+    "text": "Let me try one more time. One, two, three, go!"
+  },
+  {
+    "startTime": 737.46,
+    "endTime": 739.157,
+    "text": "Hmm."
+  },
+  {
+    "startTime": 739.95,
+    "endTime": 742.642,
+    "text": "LS: Let me try, Clara."
+  },
+  {
+    "startTime": 742.642,
+    "endTime": 746.5870000000001,
+    "text": "One, two, three, go!"
+  },
+  {
+    "startTime": 747.265,
+    "endTime": 749.199,
+    "text": "Hmm, let me try again."
+  },
+  {
+    "startTime": 749.2,
+    "endTime": 754.87,
+    "text": "One, two, three, go! (Music)"
+  },
+  {
+    "startTime": 755.9,
+    "endTime": 757.242,
+    "text": "HG: I'm going to put this one over here,"
+  },
+  {
+    "startTime": 757.242,
+    "endTime": 759.242,
+    "text": "and I'm going to give this one to you."
+  },
+  {
+    "startTime": 759.243,
+    "endTime": 762.84,
+    "text": "You can go ahead and play."
+  },
+  {
+    "startTime": 778.376,
+    "endTime": 783.273,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 784.993,
+    "endTime": 787.3850000000001,
+    "text": "LS: Let me show you the experimental results."
+  },
+  {
+    "startTime": 787.385,
+    "endTime": 789.86,
+    "text": "On the vertical axis, you'll see the distribution"
+  },
+  {
+    "startTime": 789.86,
+    "endTime": 792.437,
+    "text": "of children's choices in each condition,"
+  },
+  {
+    "startTime": 792.437,
+    "endTime": 796.988,
+    "text": "and you'll see that the distribution of the choices children make"
+  },
+  {
+    "startTime": 796.988,
+    "endTime": 799.7750000000001,
+    "text": "depends on the evidence they observe."
+  },
+  {
+    "startTime": 799.775,
+    "endTime": 801.632,
+    "text": "So in the second year of life,"
+  },
+  {
+    "startTime": 801.632,
+    "endTime": 804.209,
+    "text": "babies can use a tiny bit of statistical data"
+  },
+  {
+    "startTime": 804.209,
+    "endTime": 807.5749999999999,
+    "text": "to decide between two fundamentally different strategies"
+  },
+  {
+    "startTime": 807.576,
+    "endTime": 809.457,
+    "text": "for acting in the world:"
+  },
+  {
+    "startTime": 809.457,
+    "endTime": 812.2,
+    "text": "asking for help and exploring."
+  },
+  {
+    "startTime": 813.7,
+    "endTime": 817.134,
+    "text": "I've just shown you two laboratory experiments"
+  },
+  {
+    "startTime": 817.134,
+    "endTime": 820.825,
+    "text": "out of literally hundreds in the field that make similar points,"
+  },
+  {
+    "startTime": 820.825,
+    "endTime": 823.2170000000001,
+    "text": "because the really critical point"
+  },
+  {
+    "startTime": 823.217,
+    "endTime": 828.324,
+    "text": "is that children's ability to make rich inferences from sparse data"
+  },
+  {
+    "startTime": 828.325,
+    "endTime": 833.666,
+    "text": "underlies all the species-specific cultural learning that we do."
+  },
+  {
+    "startTime": 833.666,
+    "endTime": 838.263,
+    "text": "Children learn about new tools from just a few examples."
+  },
+  {
+    "startTime": 838.263,
+    "endTime": 842.98,
+    "text": "They learn new causal relationships from just a few examples."
+  },
+  {
+    "startTime": 843.928,
+    "endTime": 848.799,
+    "text": "They even learn new words, in this case in American Sign Language."
+  },
+  {
+    "startTime": 848.799,
+    "endTime": 851.11,
+    "text": "I want to close with just two points."
+  },
+  {
+    "startTime": 852.5,
+    "endTime": 855.738,
+    "text": "If you've been following my world, the field of brain and cognitive sciences,"
+  },
+  {
+    "startTime": 855.738,
+    "endTime": 857.6650000000001,
+    "text": "for the past few years,"
+  },
+  {
+    "startTime": 857.665,
+    "endTime": 860.79,
+    "text": "three big ideas will have come to your attention."
+  },
+  {
+    "startTime": 860.8,
+    "endTime": 863.516,
+    "text": "The first is that this is the era of the brain."
+  },
+  {
+    "startTime": 863.516,
+    "endTime": 867.185,
+    "text": "And indeed, there have been staggering discoveries in neuroscience:"
+  },
+  {
+    "startTime": 867.185,
+    "endTime": 870.621,
+    "text": "localizing functionally specialized regions of cortex,"
+  },
+  {
+    "startTime": 870.621,
+    "endTime": 873.222,
+    "text": "turning mouse brains transparent,"
+  },
+  {
+    "startTime": 873.222,
+    "endTime": 876.997,
+    "text": "activating neurons with light."
+  },
+  {
+    "startTime": 876.998,
+    "endTime": 878.994,
+    "text": "A second big idea"
+  },
+  {
+    "startTime": 878.994,
+    "endTime": 883.98,
+    "text": "is that this is the era of big data and machine learning,"
+  },
+  {
+    "startTime": 883.98,
+    "endTime": 886.238,
+    "text": "and machine learning promises to revolutionize our understanding"
+  },
+  {
+    "startTime": 886.239,
+    "endTime": 890.9060000000001,
+    "text": "of everything from social networks to epidemiology."
+  },
+  {
+    "startTime": 890.906,
+    "endTime": 893.598,
+    "text": "And maybe, as it tackles problems of scene understanding"
+  },
+  {
+    "startTime": 893.599,
+    "endTime": 895.5920000000001,
+    "text": "and natural language processing,"
+  },
+  {
+    "startTime": 895.592,
+    "endTime": 898.915,
+    "text": "to tell us something about human cognition."
+  },
+  {
+    "startTime": 899.756,
+    "endTime": 901.693,
+    "text": "And the final big idea you'll have heard"
+  },
+  {
+    "startTime": 901.693,
+    "endTime": 905.79,
+    "text": "is that maybe it's a good idea we're going to know so much about brains"
+  },
+  {
+    "startTime": 905.8,
+    "endTime": 906.997,
+    "text": "and have so much access to big data,"
+  },
+  {
+    "startTime": 906.997,
+    "endTime": 909.5029999999999,
+    "text": "because left to our own devices,"
+  },
+  {
+    "startTime": 909.504,
+    "endTime": 913.335,
+    "text": "humans are fallible, we take shortcuts,"
+  },
+  {
+    "startTime": 913.335,
+    "endTime": 916.772,
+    "text": "we err, we make mistakes,"
+  },
+  {
+    "startTime": 916.772,
+    "endTime": 920.456,
+    "text": "we're biased, and in innumerable ways,"
+  },
+  {
+    "startTime": 920.456,
+    "endTime": 923.4250000000001,
+    "text": "we get the world wrong."
+  },
+  {
+    "startTime": 924.843,
+    "endTime": 927.7909999999999,
+    "text": "I think these are all important stories,"
+  },
+  {
+    "startTime": 927.792,
+    "endTime": 931.577,
+    "text": "and they have a lot to tell us about what it means to be human,"
+  },
+  {
+    "startTime": 931.577,
+    "endTime": 935.106,
+    "text": "but I want you to note that today I told you a very different story."
+  },
+  {
+    "startTime": 935.966,
+    "endTime": 939.773,
+    "text": "It's a story about minds and not brains,"
+  },
+  {
+    "startTime": 939.773,
+    "endTime": 942.779,
+    "text": "and in particular, it's a story about the kinds of computations"
+  },
+  {
+    "startTime": 942.779,
+    "endTime": 945.369,
+    "text": "that uniquely human minds can perform,"
+  },
+  {
+    "startTime": 945.369,
+    "endTime": 949.313,
+    "text": "which involve rich, structured knowledge and the ability to learn"
+  },
+  {
+    "startTime": 949.313,
+    "endTime": 954.581,
+    "text": "from small amounts of data, the evidence of just a few examples."
+  },
+  {
+    "startTime": 956.301,
+    "endTime": 960.6,
+    "text": "And fundamentally, it's a story about how starting as very small children"
+  },
+  {
+    "startTime": 960.6,
+    "endTime": 964.78,
+    "text": "and continuing out all the way to the greatest accomplishments"
+  },
+  {
+    "startTime": 964.78,
+    "endTime": 968.622,
+    "text": "of our culture,"
+  },
+  {
+    "startTime": 968.623,
+    "endTime": 970.62,
+    "text": "we get the world right."
+  },
+  {
+    "startTime": 972.433,
+    "endTime": 977.7,
+    "text": "Folks, human minds do not only learn from small amounts of data."
+  },
+  {
+    "startTime": 978.285,
+    "endTime": 980.386,
+    "text": "Human minds think of altogether new ideas."
+  },
+  {
+    "startTime": 980.746,
+    "endTime": 983.787,
+    "text": "Human minds generate research and discovery,"
+  },
+  {
+    "startTime": 983.787,
+    "endTime": 989.6,
+    "text": "and human minds generate art and literature and poetry and theater,"
+  },
+  {
+    "startTime": 989.7,
+    "endTime": 992.83,
+    "text": "and human minds take care of other humans:"
+  },
+  {
+    "startTime": 992.83,
+    "endTime": 996.2570000000001,
+    "text": "our old, our young, our sick."
+  },
+  {
+    "startTime": 996.517,
+    "endTime": 998.884,
+    "text": "We even heal them."
+  },
+  {
+    "startTime": 999.564,
+    "endTime": 1002.6659999999999,
+    "text": "In the years to come, we're going to see technological innovations"
+  },
+  {
+    "startTime": 1002.67,
+    "endTime": 1006.467,
+    "text": "beyond anything I can even envision,"
+  },
+  {
+    "startTime": 1006.46,
+    "endTime": 1008.61,
+    "text": "but we are very unlikely"
+  },
+  {
+    "startTime": 1008.61,
+    "endTime": 1014.319,
+    "text": "to see anything even approximating the computational power of a human child"
+  },
+  {
+    "startTime": 1014.32,
+    "endTime": 1018.618,
+    "text": "in my lifetime or in yours."
+  },
+  {
+    "startTime": 1018.62,
+    "endTime": 1023.667,
+    "text": "If we invest in these most powerful learners and their development,"
+  },
+  {
+    "startTime": 1023.67,
+    "endTime": 1026.587,
+    "text": "in babies and children"
+  },
+  {
+    "startTime": 1026.58,
+    "endTime": 1028.406,
+    "text": "and mothers and fathers"
+  },
+  {
+    "startTime": 1028.41,
+    "endTime": 1031.1090000000002,
+    "text": "and caregivers and teachers"
+  },
+  {
+    "startTime": 1031.11,
+    "endTime": 1035.281,
+    "text": "the ways we invest in our other most powerful and elegant forms"
+  },
+  {
+    "startTime": 1035.28,
+    "endTime": 1038.498,
+    "text": "of technology, engineering and design,"
+  },
+  {
+    "startTime": 1038.5,
+    "endTime": 1041.439,
+    "text": "we will not just be dreaming of a better future,"
+  },
+  {
+    "startTime": 1041.44,
+    "endTime": 1043.567,
+    "text": "we will be planning for one."
+  },
+  {
+    "startTime": 1043.56,
+    "endTime": 1045.905,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 1045.91,
+    "endTime": 1049.3310000000001,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1049.81,
+    "endTime": 1054.235,
+    "text": "Chris Anderson: Laura, thank you. I do actually have a question for you."
+  },
+  {
+    "startTime": 1054.24,
+    "endTime": 1056.599,
+    "text": "First of all, the research is insane."
+  },
+  {
+    "startTime": 1056.59,
+    "endTime": 1060.3149999999998,
+    "text": "I mean, who would design an experiment like that? (Laughter)"
+  },
+  {
+    "startTime": 1061.15,
+    "endTime": 1062.94,
+    "text": "I've seen that a couple of times,"
+  },
+  {
+    "startTime": 1062.94,
+    "endTime": 1066.162,
+    "text": "and I still don't honestly believe that that can truly be happening,"
+  },
+  {
+    "startTime": 1066.16,
+    "endTime": 1069.318,
+    "text": "but other people have done similar experiments; it checks out."
+  },
+  {
+    "startTime": 1069.32,
+    "endTime": 1070.953,
+    "text": "The babies really are that genius."
+  },
+  {
+    "startTime": 1070.95,
+    "endTime": 1073.957,
+    "text": "LS: You know, they look really impressive in our experiments,"
+  },
+  {
+    "startTime": 1073.96,
+    "endTime": 1076.612,
+    "text": "but think about what they look like in real life, right?"
+  },
+  {
+    "startTime": 1076.61,
+    "endTime": 1077.76,
+    "text": "It starts out as a baby."
+  },
+  {
+    "startTime": 1077.76,
+    "endTime": 1079.767,
+    "text": "Eighteen months later, it's talking to you,"
+  },
+  {
+    "startTime": 1079.77,
+    "endTime": 1082.811,
+    "text": "and babies' first words aren't just things like balls and ducks,"
+  },
+  {
+    "startTime": 1082.81,
+    "endTime": 1085.691,
+    "text": "they're things like \"all gone,\" which refer to disappearance,"
+  },
+  {
+    "startTime": 1085.69,
+    "endTime": 1087.973,
+    "text": "or \"uh-oh,\" which refer to unintentional actions."
+  },
+  {
+    "startTime": 1087.97,
+    "endTime": 1089.531,
+    "text": "It has to be that powerful."
+  },
+  {
+    "startTime": 1089.54,
+    "endTime": 1092.315,
+    "text": "It has to be much more powerful than anything I showed you."
+  },
+  {
+    "startTime": 1092.31,
+    "endTime": 1094.283,
+    "text": "They're figuring out the entire world."
+  },
+  {
+    "startTime": 1094.29,
+    "endTime": 1097.434,
+    "text": "A four-year-old can talk to you about almost anything."
+  },
+  {
+    "startTime": 1097.43,
+    "endTime": 1099.3010000000002,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 1099.3,
+    "endTime": 1102.444,
+    "text": "CA: And if I understand you right, the other key point you're making is,"
+  },
+  {
+    "startTime": 1102.44,
+    "endTime": 1105.193,
+    "text": "we've been through these years where there's all this talk"
+  },
+  {
+    "startTime": 1105.2,
+    "endTime": 1107.132,
+    "text": "of how quirky and buggy our minds are,"
+  },
+  {
+    "startTime": 1107.13,
+    "endTime": 1109.997,
+    "text": "that behavioral economics and the whole theories behind that"
+  },
+  {
+    "startTime": 1110.0,
+    "endTime": 1111.603,
+    "text": "that we're not rational agents."
+  },
+  {
+    "startTime": 1111.6,
+    "endTime": 1115.8149999999998,
+    "text": "You're really saying that the bigger story is how extraordinary,"
+  },
+  {
+    "startTime": 1115.82,
+    "endTime": 1120.764,
+    "text": "and there really is genius there that is underappreciated."
+  },
+  {
+    "startTime": 1120.76,
+    "endTime": 1122.83,
+    "text": "LS: One of my favorite quotes in psychology"
+  },
+  {
+    "startTime": 1122.83,
+    "endTime": 1125.12,
+    "text": "comes from the social psychologist Solomon Asch,"
+  },
+  {
+    "startTime": 1125.12,
+    "endTime": 1127.927,
+    "text": "and he said the fundamental task of psychology is to remove"
+  },
+  {
+    "startTime": 1127.93,
+    "endTime": 1130.556,
+    "text": "the veil of self-evidence from things."
+  },
+  {
+    "startTime": 1130.55,
+    "endTime": 1135.1009999999999,
+    "text": "There are orders of magnitude more decisions you make every day"
+  },
+  {
+    "startTime": 1135.1,
+    "endTime": 1136.447,
+    "text": "that get the world right."
+  },
+  {
+    "startTime": 1136.45,
+    "endTime": 1138.582,
+    "text": "You know about objects and their properties."
+  },
+  {
+    "startTime": 1138.58,
+    "endTime": 1141.609,
+    "text": "You know them when they're occluded. You know them in the dark."
+  },
+  {
+    "startTime": 1141.61,
+    "endTime": 1142.918,
+    "text": "You can walk through rooms."
+  },
+  {
+    "startTime": 1142.92,
+    "endTime": 1146.452,
+    "text": "You can figure out what other people are thinking. You can talk to them."
+  },
+  {
+    "startTime": 1146.45,
+    "endTime": 1148.68,
+    "text": "You can navigate space. You know about numbers."
+  },
+  {
+    "startTime": 1148.68,
+    "endTime": 1151.702,
+    "text": "You know causal relationships. You know about moral reasoning."
+  },
+  {
+    "startTime": 1151.7,
+    "endTime": 1154.596,
+    "text": "You do this effortlessly, so we don't see it,"
+  },
+  {
+    "startTime": 1154.6,
+    "endTime": 1156.972,
+    "text": "but that is how we get the world right, and it's a remarkable"
+  },
+  {
+    "startTime": 1156.97,
+    "endTime": 1159.288,
+    "text": "and very difficult-to-understand accomplishment."
+  },
+  {
+    "startTime": 1159.29,
+    "endTime": 1161.918,
+    "text": "CA: I suspect there are people in the audience who have"
+  },
+  {
+    "startTime": 1161.92,
+    "endTime": 1164.1580000000001,
+    "text": "this view of accelerating technological power"
+  },
+  {
+    "startTime": 1164.16,
+    "endTime": 1167.1180000000002,
+    "text": "who might dispute your statement that never in our lifetimes"
+  },
+  {
+    "startTime": 1167.11,
+    "endTime": 1169.7279999999998,
+    "text": "will a computer do what a three-year-old child can do,"
+  },
+  {
+    "startTime": 1169.73,
+    "endTime": 1172.978,
+    "text": "but what's clear is that in any scenario,"
+  },
+  {
+    "startTime": 1172.98,
+    "endTime": 1176.75,
+    "text": "our machines have so much to learn from our toddlers."
+  },
+  {
+    "startTime": 1178.23,
+    "endTime": 1181.446,
+    "text": "LS: I think so. You'll have some machine learning folks up here."
+  },
+  {
+    "startTime": 1181.45,
+    "endTime": 1185.653,
+    "text": "I mean, you should never bet against babies or chimpanzees"
+  },
+  {
+    "startTime": 1185.65,
+    "endTime": 1189.294,
+    "text": "or technology as a matter of practice,"
+  },
+  {
+    "startTime": 1189.29,
+    "endTime": 1193.818,
+    "text": "but it's not just a difference in quantity,"
+  },
+  {
+    "startTime": 1193.82,
+    "endTime": 1195.5829999999999,
+    "text": "it's a difference in kind."
+  },
+  {
+    "startTime": 1195.59,
+    "endTime": 1197.75,
+    "text": "We have incredibly powerful computers,"
+  },
+  {
+    "startTime": 1197.75,
+    "endTime": 1200.141,
+    "text": "and they do do amazingly sophisticated things,"
+  },
+  {
+    "startTime": 1200.14,
+    "endTime": 1203.344,
+    "text": "often with very big amounts of data."
+  },
+  {
+    "startTime": 1203.34,
+    "endTime": 1205.946,
+    "text": "Human minds do, I think, something quite different,"
+  },
+  {
+    "startTime": 1205.95,
+    "endTime": 1209.845,
+    "text": "and I think it's the structured, hierarchical nature of human knowledge"
+  },
+  {
+    "startTime": 1209.84,
+    "endTime": 1211.8719999999998,
+    "text": "that remains a real challenge."
+  },
+  {
+    "startTime": 1211.88,
+    "endTime": 1214.941,
+    "text": "CA: Laura Schulz, wonderful food for thought. Thank you so much."
+  },
+  {
+    "startTime": 1214.94,
+    "endTime": 1217.862,
+    "text": "LS: Thank you. (Applause)"
+  }
+]

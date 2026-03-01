@@ -1,0 +1,1152 @@
+[
+  {
+    "startTime": 12.498,
+    "endTime": 15.969999999999999,
+    "text": "Five years ago, I was a Ph.D. student"
+  },
+  {
+    "startTime": 15.97,
+    "endTime": 16.741,
+    "text": "living two lives."
+  },
+  {
+    "startTime": 16.741,
+    "endTime": 19.57,
+    "text": "In one, I used NASA supercomputers"
+  },
+  {
+    "startTime": 19.57,
+    "endTime": 21.785,
+    "text": "to design next-generation spacecraft,"
+  },
+  {
+    "startTime": 21.785,
+    "endTime": 24.364,
+    "text": "and in the other I was a data scientist"
+  },
+  {
+    "startTime": 24.364,
+    "endTime": 26.783,
+    "text": "looking for potential smugglers"
+  },
+  {
+    "startTime": 26.783,
+    "endTime": 30.220000000000002,
+    "text": "of sensitive nuclear technologies."
+  },
+  {
+    "startTime": 30.22,
+    "endTime": 32.881,
+    "text": "As a data scientist, I did a lot of analyses,"
+  },
+  {
+    "startTime": 32.881,
+    "endTime": 34.348,
+    "text": "mostly of facilities,"
+  },
+  {
+    "startTime": 34.348,
+    "endTime": 36.619,
+    "text": "industrial facilities around the world."
+  },
+  {
+    "startTime": 36.619,
+    "endTime": 39.307,
+    "text": "And I was always looking for a better canvas"
+  },
+  {
+    "startTime": 39.307,
+    "endTime": 41.373000000000005,
+    "text": "to tie these all together."
+  },
+  {
+    "startTime": 41.373,
+    "endTime": 43.239,
+    "text": "And one day, I was thinking about how"
+  },
+  {
+    "startTime": 43.239,
+    "endTime": 45.363,
+    "text": "all data has a location,"
+  },
+  {
+    "startTime": 45.363,
+    "endTime": 47.96,
+    "text": "and I realized that the answer"
+  },
+  {
+    "startTime": 47.96,
+    "endTime": 48.983000000000004,
+    "text": "had been staring me in the face."
+  },
+  {
+    "startTime": 48.984,
+    "endTime": 51.622,
+    "text": "Although I was a satellite engineer,"
+  },
+  {
+    "startTime": 51.622,
+    "endTime": 54.793,
+    "text": "I hadn't thought about using satellite imagery"
+  },
+  {
+    "startTime": 54.793,
+    "endTime": 56.359,
+    "text": "in my work."
+  },
+  {
+    "startTime": 56.359,
+    "endTime": 58.306000000000004,
+    "text": "Now, like most of us, I'd been online,"
+  },
+  {
+    "startTime": 58.306,
+    "endTime": 60.87,
+    "text": "I'd see my house, so I thought,"
+  },
+  {
+    "startTime": 60.88,
+    "endTime": 62.386,
+    "text": "I'll hop in there and I'll start looking up"
+  },
+  {
+    "startTime": 62.386,
+    "endTime": 63.803000000000004,
+    "text": "some of these facilities."
+  },
+  {
+    "startTime": 63.803,
+    "endTime": 65.771,
+    "text": "And what I found really surprised me."
+  },
+  {
+    "startTime": 65.772,
+    "endTime": 67.44600000000001,
+    "text": "The pictures that I was finding"
+  },
+  {
+    "startTime": 67.446,
+    "endTime": 69.347,
+    "text": "were years out of date,"
+  },
+  {
+    "startTime": 69.347,
+    "endTime": 70.41399999999999,
+    "text": "and because of that,"
+  },
+  {
+    "startTime": 70.415,
+    "endTime": 72.86,
+    "text": "it had relatively little relevance"
+  },
+  {
+    "startTime": 72.86,
+    "endTime": 74.545,
+    "text": "to the work that I was doing today."
+  },
+  {
+    "startTime": 74.546,
+    "endTime": 76.7,
+    "text": "But I was intrigued."
+  },
+  {
+    "startTime": 76.7,
+    "endTime": 79.24300000000001,
+    "text": "I mean, satellite imagery is pretty amazing stuff."
+  },
+  {
+    "startTime": 79.243,
+    "endTime": 81.545,
+    "text": "There are millions and millions of sensors"
+  },
+  {
+    "startTime": 81.546,
+    "endTime": 82.99000000000001,
+    "text": "surrounding us today,"
+  },
+  {
+    "startTime": 82.99,
+    "endTime": 85.949,
+    "text": "but there's still so much we don't know on a daily basis."
+  },
+  {
+    "startTime": 85.95,
+    "endTime": 89.703,
+    "text": "How much oil is stored in all of China?"
+  },
+  {
+    "startTime": 89.703,
+    "endTime": 92.636,
+    "text": "How much corn is being produced?"
+  },
+  {
+    "startTime": 92.636,
+    "endTime": 96.707,
+    "text": "How many ships are in all of our world's ports?"
+  },
+  {
+    "startTime": 96.707,
+    "endTime": 99.26499999999999,
+    "text": "Now, in theory, all of these questions"
+  },
+  {
+    "startTime": 99.266,
+    "endTime": 101.51,
+    "text": "could be answered by imagery,"
+  },
+  {
+    "startTime": 101.51,
+    "endTime": 103.23700000000001,
+    "text": "but not if it's old."
+  },
+  {
+    "startTime": 103.237,
+    "endTime": 105.695,
+    "text": "And if this data was so valuable,"
+  },
+  {
+    "startTime": 105.695,
+    "endTime": 107.627,
+    "text": "then how come I couldn't get my hands"
+  },
+  {
+    "startTime": 107.627,
+    "endTime": 110.176,
+    "text": "on more recent pictures?"
+  },
+  {
+    "startTime": 110.177,
+    "endTime": 113.31200000000001,
+    "text": "So the story begins over 50 years ago"
+  },
+  {
+    "startTime": 113.312,
+    "endTime": 115.18299999999999,
+    "text": "with the launch of the first generation"
+  },
+  {
+    "startTime": 115.183,
+    "endTime": 118.783,
+    "text": "of U.S. government photo reconnaissance satellites."
+  },
+  {
+    "startTime": 118.783,
+    "endTime": 120.479,
+    "text": "And today, there's a handful"
+  },
+  {
+    "startTime": 120.479,
+    "endTime": 122.673,
+    "text": "of the great, great grandchildren"
+  },
+  {
+    "startTime": 122.674,
+    "endTime": 124.33900000000001,
+    "text": "of these early Cold War machines"
+  },
+  {
+    "startTime": 124.339,
+    "endTime": 126.348,
+    "text": "which are now operated by private companies"
+  },
+  {
+    "startTime": 126.348,
+    "endTime": 129.56,
+    "text": "and from which the vast majority of satellite imagery"
+  },
+  {
+    "startTime": 129.56,
+    "endTime": 131.881,
+    "text": "that you and I see on a daily basis comes."
+  },
+  {
+    "startTime": 131.882,
+    "endTime": 134.796,
+    "text": "During this period, launching things into space,"
+  },
+  {
+    "startTime": 134.796,
+    "endTime": 137.47199999999998,
+    "text": "just the rocket to get the satellite up there,"
+  },
+  {
+    "startTime": 137.473,
+    "endTime": 142.74,
+    "text": "has cost hundreds of millions of dollars each,"
+  },
+  {
+    "startTime": 142.74,
+    "endTime": 143.82600000000002,
+    "text": "and that's created tremendous pressure"
+  },
+  {
+    "startTime": 143.826,
+    "endTime": 146.114,
+    "text": "to launch things infrequently"
+  },
+  {
+    "startTime": 146.115,
+    "endTime": 147.459,
+    "text": "and to make sure that when you do,"
+  },
+  {
+    "startTime": 147.459,
+    "endTime": 151.98,
+    "text": "you cram as much functionality in there as possible."
+  },
+  {
+    "startTime": 151.98,
+    "endTime": 152.709,
+    "text": "All of this has only made satellites"
+  },
+  {
+    "startTime": 152.709,
+    "endTime": 155.126,
+    "text": "bigger and bigger and bigger"
+  },
+  {
+    "startTime": 155.126,
+    "endTime": 156.72400000000002,
+    "text": "and more expensive,"
+  },
+  {
+    "startTime": 156.724,
+    "endTime": 161.761,
+    "text": "now nearly a billion, with a b, dollars per copy."
+  },
+  {
+    "startTime": 161.761,
+    "endTime": 163.46,
+    "text": "Because they are so expensive,"
+  },
+  {
+    "startTime": 163.46,
+    "endTime": 164.92700000000002,
+    "text": "there aren't very many of them."
+  },
+  {
+    "startTime": 164.927,
+    "endTime": 166.272,
+    "text": "Because there aren't very many of them,"
+  },
+  {
+    "startTime": 166.272,
+    "endTime": 168.727,
+    "text": "the pictures that we see on a daily basis"
+  },
+  {
+    "startTime": 168.728,
+    "endTime": 170.232,
+    "text": "tend to be old."
+  },
+  {
+    "startTime": 170.232,
+    "endTime": 173.514,
+    "text": "I think a lot of people actually understand this anecdotally,"
+  },
+  {
+    "startTime": 173.514,
+    "endTime": 176.53,
+    "text": "but in order to visualize just how sparsely"
+  },
+  {
+    "startTime": 176.53,
+    "endTime": 177.936,
+    "text": "our planet is collected,"
+  },
+  {
+    "startTime": 177.937,
+    "endTime": 180.3,
+    "text": "some friends and I put together a dataset"
+  },
+  {
+    "startTime": 180.3,
+    "endTime": 182.589,
+    "text": "of the 30 million pictures that have been gathered"
+  },
+  {
+    "startTime": 182.59,
+    "endTime": 186.74,
+    "text": "by these satellites between 2000 and 2010."
+  },
+  {
+    "startTime": 186.74,
+    "endTime": 188.829,
+    "text": "As you can see in blue, huge areas of our world"
+  },
+  {
+    "startTime": 188.829,
+    "endTime": 191.619,
+    "text": "are barely seen, less than once a year,"
+  },
+  {
+    "startTime": 191.619,
+    "endTime": 193.891,
+    "text": "and even the areas that are seen most frequently,"
+  },
+  {
+    "startTime": 193.891,
+    "endTime": 197.63799999999998,
+    "text": "those in red, are seen at best once a quarter."
+  },
+  {
+    "startTime": 197.639,
+    "endTime": 200.555,
+    "text": "Now as aerospace engineering grad students,"
+  },
+  {
+    "startTime": 200.555,
+    "endTime": 203.983,
+    "text": "this chart cried out to us as a challenge."
+  },
+  {
+    "startTime": 203.983,
+    "endTime": 207.43800000000002,
+    "text": "Why do these things have to be so expensive?"
+  },
+  {
+    "startTime": 207.438,
+    "endTime": 210.173,
+    "text": "Does a single satellite really have to cost"
+  },
+  {
+    "startTime": 210.173,
+    "endTime": 214.936,
+    "text": "the equivalent of three 747 jumbo jets?"
+  },
+  {
+    "startTime": 214.936,
+    "endTime": 217.99,
+    "text": "Wasn't there a way to build a smaller,"
+  },
+  {
+    "startTime": 217.99,
+    "endTime": 220.27100000000002,
+    "text": "simpler, new satellite design that could enable"
+  },
+  {
+    "startTime": 220.271,
+    "endTime": 222.289,
+    "text": "more timely imaging?"
+  },
+  {
+    "startTime": 222.289,
+    "endTime": 225.73899999999998,
+    "text": "I realize that it does sound a little bit crazy"
+  },
+  {
+    "startTime": 225.74,
+    "endTime": 227.251,
+    "text": "that we were going to go out and just"
+  },
+  {
+    "startTime": 227.251,
+    "endTime": 229.98000000000002,
+    "text": "begin designing satellites,"
+  },
+  {
+    "startTime": 229.98,
+    "endTime": 231.60999999999999,
+    "text": "but fortunately we had help."
+  },
+  {
+    "startTime": 231.61,
+    "endTime": 233.996,
+    "text": "In the late 1990s, a couple of professors"
+  },
+  {
+    "startTime": 233.996,
+    "endTime": 237.477,
+    "text": "proposed a concept for radically reducing the price"
+  },
+  {
+    "startTime": 237.477,
+    "endTime": 239.249,
+    "text": "of putting things in space."
+  },
+  {
+    "startTime": 239.249,
+    "endTime": 241.359,
+    "text": "This was hitchhiking small satellites"
+  },
+  {
+    "startTime": 241.36,
+    "endTime": 244.376,
+    "text": "alongside much larger satellites."
+  },
+  {
+    "startTime": 244.376,
+    "endTime": 247.285,
+    "text": "This dropped the cost of putting objects up there"
+  },
+  {
+    "startTime": 247.285,
+    "endTime": 249.283,
+    "text": "by over a factor of 100,"
+  },
+  {
+    "startTime": 249.283,
+    "endTime": 252.369,
+    "text": "and suddenly we could afford to experiment,"
+  },
+  {
+    "startTime": 252.369,
+    "endTime": 253.837,
+    "text": "to take a little bit of risk,"
+  },
+  {
+    "startTime": 253.837,
+    "endTime": 256.103,
+    "text": "and to realize a lot of innovation."
+  },
+  {
+    "startTime": 256.103,
+    "endTime": 259.192,
+    "text": "And a new generation of engineers and scientists,"
+  },
+  {
+    "startTime": 259.192,
+    "endTime": 260.791,
+    "text": "mostly out of universities,"
+  },
+  {
+    "startTime": 260.791,
+    "endTime": 263.134,
+    "text": "began launching these very small,"
+  },
+  {
+    "startTime": 263.134,
+    "endTime": 265.725,
+    "text": "breadbox-sized satellites called CubeSats."
+  },
+  {
+    "startTime": 265.725,
+    "endTime": 268.12800000000004,
+    "text": "And these were built with electronics obtained"
+  },
+  {
+    "startTime": 268.128,
+    "endTime": 272.26,
+    "text": "from RadioShack instead of Lockheed Martin."
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 274.866,
+    "text": "Now it was using the lessons learned from these early missions"
+  },
+  {
+    "startTime": 274.866,
+    "endTime": 277.561,
+    "text": "that my friends and I began a series of sketches"
+  },
+  {
+    "startTime": 277.561,
+    "endTime": 279.25,
+    "text": "of our own satellite design."
+  },
+  {
+    "startTime": 279.25,
+    "endTime": 282.34,
+    "text": "And I can't remember a specific day"
+  },
+  {
+    "startTime": 282.34,
+    "endTime": 283.89399999999995,
+    "text": "where we made a conscious decision"
+  },
+  {
+    "startTime": 283.894,
+    "endTime": 286.529,
+    "text": "that we were actually going to go out and build these things,"
+  },
+  {
+    "startTime": 286.529,
+    "endTime": 288.959,
+    "text": "but once we got that idea in our minds"
+  },
+  {
+    "startTime": 288.959,
+    "endTime": 291.12,
+    "text": "of the world as a dataset,"
+  },
+  {
+    "startTime": 291.12,
+    "endTime": 293.61,
+    "text": "of being able to capture millions of data points"
+  },
+  {
+    "startTime": 293.61,
+    "endTime": 296.663,
+    "text": "on a daily basis describing the global economy,"
+  },
+  {
+    "startTime": 296.663,
+    "endTime": 299.183,
+    "text": "of being able to unearth billions of connections"
+  },
+  {
+    "startTime": 299.183,
+    "endTime": 302.348,
+    "text": "between them that had never before been found,"
+  },
+  {
+    "startTime": 302.348,
+    "endTime": 303.99600000000004,
+    "text": "it just seemed boring"
+  },
+  {
+    "startTime": 303.996,
+    "endTime": 306.902,
+    "text": "to go work on anything else."
+  },
+  {
+    "startTime": 306.903,
+    "endTime": 309.87600000000003,
+    "text": "And so we moved into a cramped,"
+  },
+  {
+    "startTime": 309.876,
+    "endTime": 312.854,
+    "text": "windowless office in Palo Alto,"
+  },
+  {
+    "startTime": 312.855,
+    "endTime": 314.822,
+    "text": "and began working to take our design"
+  },
+  {
+    "startTime": 314.822,
+    "endTime": 317.76,
+    "text": "from the drawing board into the lab."
+  },
+  {
+    "startTime": 317.76,
+    "endTime": 320.418,
+    "text": "The first major question we had to tackle"
+  },
+  {
+    "startTime": 320.418,
+    "endTime": 322.752,
+    "text": "was just how big to build this thing."
+  },
+  {
+    "startTime": 322.752,
+    "endTime": 325.935,
+    "text": "In space, size drives cost,"
+  },
+  {
+    "startTime": 325.935,
+    "endTime": 327.948,
+    "text": "and we had worked with these very small,"
+  },
+  {
+    "startTime": 327.948,
+    "endTime": 330.41999999999996,
+    "text": "breadbox-sized satellites in school,"
+  },
+  {
+    "startTime": 330.42,
+    "endTime": 332.59200000000004,
+    "text": "but as we began to better understand the laws of physics,"
+  },
+  {
+    "startTime": 332.593,
+    "endTime": 334.71500000000003,
+    "text": "we found that the quality of pictures"
+  },
+  {
+    "startTime": 334.715,
+    "endTime": 337.799,
+    "text": "those satellites could take was very limited,"
+  },
+  {
+    "startTime": 337.799,
+    "endTime": 339.503,
+    "text": "because the laws of physics dictate"
+  },
+  {
+    "startTime": 339.503,
+    "endTime": 342.609,
+    "text": "that the best picture you can take through a telescope"
+  },
+  {
+    "startTime": 342.609,
+    "endTime": 344.847,
+    "text": "is a function of the diameter of that telescope,"
+  },
+  {
+    "startTime": 344.848,
+    "endTime": 346.51,
+    "text": "and these satellites had a very small,"
+  },
+  {
+    "startTime": 346.51,
+    "endTime": 348.216,
+    "text": "very constrained volume."
+  },
+  {
+    "startTime": 348.216,
+    "endTime": 350.11,
+    "text": "And we found that the best picture we would"
+  },
+  {
+    "startTime": 350.11,
+    "endTime": 352.49600000000004,
+    "text": "have been able to get looked something like this."
+  },
+  {
+    "startTime": 352.496,
+    "endTime": 354.741,
+    "text": "Although this was the low-cost option,"
+  },
+  {
+    "startTime": 354.741,
+    "endTime": 356.414,
+    "text": "quite frankly it was just too blurry"
+  },
+  {
+    "startTime": 356.414,
+    "endTime": 359.983,
+    "text": "to see the things that make satellite imagery valuable."
+  },
+  {
+    "startTime": 359.983,
+    "endTime": 362.129,
+    "text": "So about three or four weeks later,"
+  },
+  {
+    "startTime": 362.129,
+    "endTime": 364.946,
+    "text": "we met a group of engineers randomly"
+  },
+  {
+    "startTime": 364.946,
+    "endTime": 366.58700000000005,
+    "text": "who had worked on the first"
+  },
+  {
+    "startTime": 366.587,
+    "endTime": 369.27,
+    "text": "private imaging satellite ever developed,"
+  },
+  {
+    "startTime": 369.28,
+    "endTime": 371.14599999999996,
+    "text": "and they told us that back in the 1970s,"
+  },
+  {
+    "startTime": 371.146,
+    "endTime": 373.32800000000003,
+    "text": "the U.S. government had found a powerful"
+  },
+  {
+    "startTime": 373.328,
+    "endTime": 374.96999999999997,
+    "text": "optimal tradeoff --"
+  },
+  {
+    "startTime": 374.971,
+    "endTime": 378.59000000000003,
+    "text": "that in taking pictures at right about one meter resolution,"
+  },
+  {
+    "startTime": 378.59,
+    "endTime": 380.943,
+    "text": "being able to see objects one meter in size,"
+  },
+  {
+    "startTime": 380.943,
+    "endTime": 383.633,
+    "text": "they had found that they could not just get very high-quality images,"
+  },
+  {
+    "startTime": 383.634,
+    "endTime": 386.527,
+    "text": "but get a lot of them at an affordable price."
+  },
+  {
+    "startTime": 386.527,
+    "endTime": 388.503,
+    "text": "From our own computer simulations,"
+  },
+  {
+    "startTime": 388.503,
+    "endTime": 390.508,
+    "text": "we quickly found that one meter really was"
+  },
+  {
+    "startTime": 390.508,
+    "endTime": 392.272,
+    "text": "the minimum viable product"
+  },
+  {
+    "startTime": 392.272,
+    "endTime": 395.351,
+    "text": "to be able to see the drivers of our global economy,"
+  },
+  {
+    "startTime": 395.351,
+    "endTime": 396.912,
+    "text": "for the first time, being able to count"
+  },
+  {
+    "startTime": 396.912,
+    "endTime": 399.633,
+    "text": "the ships and cars and shipping containers and trucks"
+  },
+  {
+    "startTime": 399.633,
+    "endTime": 402.457,
+    "text": "that move around our world on a daily basis,"
+  },
+  {
+    "startTime": 402.457,
+    "endTime": 406.26,
+    "text": "while conveniently still not being able to see individuals."
+  },
+  {
+    "startTime": 406.261,
+    "endTime": 407.882,
+    "text": "We had found our compromise."
+  },
+  {
+    "startTime": 407.882,
+    "endTime": 409.486,
+    "text": "We would have to build something larger"
+  },
+  {
+    "startTime": 409.486,
+    "endTime": 411.49,
+    "text": "than the original breadbox,"
+  },
+  {
+    "startTime": 411.49,
+    "endTime": 412.7,
+    "text": "now more like a mini-fridge,"
+  },
+  {
+    "startTime": 412.7,
+    "endTime": 415.461,
+    "text": "but we still wouldn't have to build a pickup truck."
+  },
+  {
+    "startTime": 415.461,
+    "endTime": 418.85,
+    "text": "So now we had our constraint."
+  },
+  {
+    "startTime": 418.85,
+    "endTime": 419.84200000000004,
+    "text": "The laws of physics dictated"
+  },
+  {
+    "startTime": 419.842,
+    "endTime": 423.166,
+    "text": "the absolute minimum-sized telescope that we could build."
+  },
+  {
+    "startTime": 423.166,
+    "endTime": 426.219,
+    "text": "What came next was making the rest of the satellite"
+  },
+  {
+    "startTime": 426.22,
+    "endTime": 427.961,
+    "text": "as small and as simple as possible,"
+  },
+  {
+    "startTime": 427.961,
+    "endTime": 430.613,
+    "text": "basically a flying telescope with four walls"
+  },
+  {
+    "startTime": 430.613,
+    "endTime": 433.554,
+    "text": "and a set of electronics smaller than a phone book"
+  },
+  {
+    "startTime": 433.554,
+    "endTime": 436.991,
+    "text": "that used less power than a 100 watt lightbulb."
+  },
+  {
+    "startTime": 436.992,
+    "endTime": 438.892,
+    "text": "The big challenge became actually taking"
+  },
+  {
+    "startTime": 438.892,
+    "endTime": 441.9,
+    "text": "the pictures through that telescope."
+  },
+  {
+    "startTime": 441.9,
+    "endTime": 444.133,
+    "text": "Traditional imaging satellites use a line scanner,"
+  },
+  {
+    "startTime": 444.134,
+    "endTime": 445.89500000000004,
+    "text": "similar to a Xerox machine,"
+  },
+  {
+    "startTime": 445.895,
+    "endTime": 448.294,
+    "text": "and as they traverse the Earth, they take pictures,"
+  },
+  {
+    "startTime": 448.295,
+    "endTime": 450.49100000000004,
+    "text": "scanning row by row by row"
+  },
+  {
+    "startTime": 450.491,
+    "endTime": 452.166,
+    "text": "to build the complete image."
+  },
+  {
+    "startTime": 452.166,
+    "endTime": 455.17,
+    "text": "Now people use these because they get a lot of light,"
+  },
+  {
+    "startTime": 455.17,
+    "endTime": 457.1,
+    "text": "which means less of the noise you see"
+  },
+  {
+    "startTime": 457.16,
+    "endTime": 459.752,
+    "text": "in a low-cost cell phone image."
+  },
+  {
+    "startTime": 459.752,
+    "endTime": 462.113,
+    "text": "The problem with them is they require"
+  },
+  {
+    "startTime": 462.113,
+    "endTime": 464.353,
+    "text": "very sophisticated pointing."
+  },
+  {
+    "startTime": 464.353,
+    "endTime": 466.899,
+    "text": "You have to stay focused on a 50-centimeter target"
+  },
+  {
+    "startTime": 466.899,
+    "endTime": 468.651,
+    "text": "from over 600 miles away"
+  },
+  {
+    "startTime": 468.651,
+    "endTime": 470.88300000000004,
+    "text": "while moving at more than seven kilometers a second,"
+  },
+  {
+    "startTime": 470.883,
+    "endTime": 473.632,
+    "text": "which requires an awesome degree of complexity."
+  },
+  {
+    "startTime": 473.632,
+    "endTime": 477.69,
+    "text": "So instead, we turned to a new generation of video sensors,"
+  },
+  {
+    "startTime": 477.69,
+    "endTime": 480.16,
+    "text": "originally created for use in night vision goggles."
+  },
+  {
+    "startTime": 480.16,
+    "endTime": 483.59000000000003,
+    "text": "Instead of taking a single, high quality image,"
+  },
+  {
+    "startTime": 483.59,
+    "endTime": 484.44599999999997,
+    "text": "we could take a videostream"
+  },
+  {
+    "startTime": 484.446,
+    "endTime": 487.369,
+    "text": "of individually noisier frames,"
+  },
+  {
+    "startTime": 487.369,
+    "endTime": 489.11300000000006,
+    "text": "but then we could recombine"
+  },
+  {
+    "startTime": 489.113,
+    "endTime": 490.579,
+    "text": "all of those frames together"
+  },
+  {
+    "startTime": 490.579,
+    "endTime": 492.575,
+    "text": "into very high-quality images"
+  },
+  {
+    "startTime": 492.575,
+    "endTime": 495.168,
+    "text": "using sophisticated pixel processing techniques"
+  },
+  {
+    "startTime": 495.168,
+    "endTime": 496.689,
+    "text": "here on the ground,"
+  },
+  {
+    "startTime": 496.689,
+    "endTime": 499.826,
+    "text": "at a cost of one one hundredth a traditional system."
+  },
+  {
+    "startTime": 499.826,
+    "endTime": 500.97900000000004,
+    "text": "And we applied this technique"
+  },
+  {
+    "startTime": 500.979,
+    "endTime": 503.953,
+    "text": "to many of the other systems on the satellite as well,"
+  },
+  {
+    "startTime": 503.953,
+    "endTime": 506.792,
+    "text": "and day by day, our design evolved"
+  },
+  {
+    "startTime": 506.793,
+    "endTime": 510.282,
+    "text": "from CAD to prototypes"
+  },
+  {
+    "startTime": 510.282,
+    "endTime": 513.169,
+    "text": "to production units."
+  },
+  {
+    "startTime": 513.169,
+    "endTime": 514.827,
+    "text": "A few short weeks ago,"
+  },
+  {
+    "startTime": 514.827,
+    "endTime": 516.678,
+    "text": "we packed up SkySat 1,"
+  },
+  {
+    "startTime": 516.678,
+    "endTime": 518.451,
+    "text": "put our signatures on it,"
+  },
+  {
+    "startTime": 518.451,
+    "endTime": 520.674,
+    "text": "and waved goodbye for the last time on Earth."
+  },
+  {
+    "startTime": 520.674,
+    "endTime": 524.155,
+    "text": "Today, it's sitting in its final launch configuration"
+  },
+  {
+    "startTime": 524.155,
+    "endTime": 527.216,
+    "text": "ready to blast off in a few short weeks."
+  },
+  {
+    "startTime": 527.216,
+    "endTime": 529.558,
+    "text": "And soon, we'll turn our attention to launching"
+  },
+  {
+    "startTime": 529.558,
+    "endTime": 532.5889999999999,
+    "text": "a constellation of 24 or more of these satellites"
+  },
+  {
+    "startTime": 532.589,
+    "endTime": 535.139,
+    "text": "and beginning to build the scalable analytics"
+  },
+  {
+    "startTime": 535.139,
+    "endTime": 537.4780000000001,
+    "text": "that will allow us to unearth the insights"
+  },
+  {
+    "startTime": 537.478,
+    "endTime": 540.6659999999999,
+    "text": "in the petabytes of data we will collect."
+  },
+  {
+    "startTime": 540.667,
+    "endTime": 544.64,
+    "text": "So why do all of this? Why build these satellites?"
+  },
+  {
+    "startTime": 544.64,
+    "endTime": 547.251,
+    "text": "Well, it turns out imaging satellites"
+  },
+  {
+    "startTime": 547.251,
+    "endTime": 550.961,
+    "text": "have a unique ability to provide global transparency,"
+  },
+  {
+    "startTime": 550.961,
+    "endTime": 553.587,
+    "text": "and providing that transparency on a timely basis"
+  },
+  {
+    "startTime": 553.587,
+    "endTime": 556.997,
+    "text": "is simply an idea whose time has come."
+  },
+  {
+    "startTime": 556.998,
+    "endTime": 560.5210000000001,
+    "text": "We see ourselves as pioneers of a new frontier,"
+  },
+  {
+    "startTime": 560.521,
+    "endTime": 562.285,
+    "text": "and beyond economic data,"
+  },
+  {
+    "startTime": 562.285,
+    "endTime": 565.886,
+    "text": "unlocking the human story, moment by moment."
+  },
+  {
+    "startTime": 565.886,
+    "endTime": 567.449,
+    "text": "For a data scientist"
+  },
+  {
+    "startTime": 567.449,
+    "endTime": 570.199,
+    "text": "that just happened to go to space camp as a kid,"
+  },
+  {
+    "startTime": 570.199,
+    "endTime": 572.914,
+    "text": "it just doesn't get much better than that."
+  },
+  {
+    "startTime": 572.914,
+    "endTime": 575.129,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 575.129,
+    "endTime": 579.263,
+    "text": "(Applause)"
+  }
+]

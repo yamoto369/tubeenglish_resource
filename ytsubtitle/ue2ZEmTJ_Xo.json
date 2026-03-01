@@ -1,0 +1,1342 @@
+[
+  {
+    "startTime": 9.42,
+    "endTime": 13.96,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 13.96,
+    "endTime": 16.88,
+    "text": "Intelligence. What is it?"
+  },
+  {
+    "startTime": 16.88,
+    "endTime": 19.359,
+    "text": "If we take a look back at the history of"
+  },
+  {
+    "startTime": 19.359,
+    "endTime": 22.32,
+    "text": "how intelligence has been viewed, one"
+  },
+  {
+    "startTime": 22.32,
+    "endTime": 27.119,
+    "text": "seinal example has been Edgar Dystra's"
+  },
+  {
+    "startTime": 27.119,
+    "endTime": 29.679,
+    "text": "famous quote that the question of"
+  },
+  {
+    "startTime": 29.679,
+    "endTime": 32.64,
+    "text": "whether a machine can think is about as"
+  },
+  {
+    "startTime": 32.64,
+    "endTime": 35.28,
+    "text": "interesting as the question of whether a"
+  },
+  {
+    "startTime": 35.28,
+    "endTime": 38.079,
+    "text": "submarine can swim."
+  },
+  {
+    "startTime": 38.079,
+    "endTime": 41.76,
+    "text": "Now Edgar Dystra when he wrote this"
+  },
+  {
+    "startTime": 41.76,
+    "endTime": 44.719,
+    "text": "intended it as a criticism of the early"
+  },
+  {
+    "startTime": 44.719,
+    "endTime": 47.559,
+    "text": "pioneers of computer science like Alan"
+  },
+  {
+    "startTime": 47.559,
+    "endTime": 51.2,
+    "text": "Turing. However, if you take a look back"
+  },
+  {
+    "startTime": 51.2,
+    "endTime": 53.36,
+    "text": "and think about what have been the most"
+  },
+  {
+    "startTime": 53.36,
+    "endTime": 55.84,
+    "text": "empowering innovations that enabled us"
+  },
+  {
+    "startTime": 55.84,
+    "endTime": 59.039,
+    "text": "to build artificial machines that swim"
+  },
+  {
+    "startTime": 59.039,
+    "endTime": 62.0,
+    "text": "and artificial machines that think. You"
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 64.28,
+    "text": "find that it was only through"
+  },
+  {
+    "startTime": 64.28,
+    "endTime": 67.0,
+    "text": "understanding the underlying physical"
+  },
+  {
+    "startTime": 67.0,
+    "endTime": 70.88,
+    "text": "mechanisms of swimming and flight that"
+  },
+  {
+    "startTime": 70.88,
+    "endTime": 72.92,
+    "text": "we were able to build these"
+  },
+  {
+    "startTime": 72.92,
+    "endTime": 76.4,
+    "text": "machines. And so several years ago, I"
+  },
+  {
+    "startTime": 76.4,
+    "endTime": 79.52,
+    "text": "undertook a program to try to understand"
+  },
+  {
+    "startTime": 79.52,
+    "endTime": 82.32,
+    "text": "the fundamental physical mechanisms"
+  },
+  {
+    "startTime": 82.32,
+    "endTime": 83.72,
+    "text": "underlying"
+  },
+  {
+    "startTime": 83.72,
+    "endTime": 86.72,
+    "text": "intelligence. Let's take a step back."
+  },
+  {
+    "startTime": 86.72,
+    "endTime": 88.64,
+    "text": "Let's first begin with a thought"
+  },
+  {
+    "startTime": 88.64,
+    "endTime": 91.84,
+    "text": "experiment. Pretend that you're an alien"
+  },
+  {
+    "startTime": 91.84,
+    "endTime": 94.32,
+    "text": "race that doesn't know anything about"
+  },
+  {
+    "startTime": 94.32,
+    "endTime": 97.2,
+    "text": "Earth biology or Earth neuroscience or"
+  },
+  {
+    "startTime": 97.2,
+    "endTime": 99.96,
+    "text": "Earth intelligence, but you have amazing"
+  },
+  {
+    "startTime": 99.96,
+    "endTime": 102.4,
+    "text": "telescopes and you're able to watch the"
+  },
+  {
+    "startTime": 102.4,
+    "endTime": 105.68,
+    "text": "Earth and you have amazingly long lives."
+  },
+  {
+    "startTime": 105.68,
+    "endTime": 107.92,
+    "text": "So, you're able to watch the Earth over"
+  },
+  {
+    "startTime": 107.92,
+    "endTime": 110.799,
+    "text": "millions, even billions of years. And"
+  },
+  {
+    "startTime": 110.799,
+    "endTime": 114.04,
+    "text": "you observe a really strange effect. You"
+  },
+  {
+    "startTime": 114.04,
+    "endTime": 117.079,
+    "text": "observe that over the course of the"
+  },
+  {
+    "startTime": 117.079,
+    "endTime": 119.439,
+    "text": "millennia, Earth is continually"
+  },
+  {
+    "startTime": 119.439,
+    "endTime": 121.32,
+    "text": "bombarded with"
+  },
+  {
+    "startTime": 121.32,
+    "endTime": 124.799,
+    "text": "asteroids up until a point and that at"
+  },
+  {
+    "startTime": 124.799,
+    "endTime": 128.16,
+    "text": "some point corresponding roughly to our"
+  },
+  {
+    "startTime": 128.16,
+    "endTime": 131.76,
+    "text": "year 2000 AD, asteroids that are on a"
+  },
+  {
+    "startTime": 131.76,
+    "endTime": 133.92,
+    "text": "collision course with the Earth that"
+  },
+  {
+    "startTime": 133.92,
+    "endTime": 135.92,
+    "text": "otherwise would have collided"
+  },
+  {
+    "startTime": 135.92,
+    "endTime": 138.64,
+    "text": "mysteriously get deflected or they"
+  },
+  {
+    "startTime": 138.64,
+    "endTime": 141.12,
+    "text": "detonate before they can hit the Earth."
+  },
+  {
+    "startTime": 141.12,
+    "endTime": 143.599,
+    "text": "Now, of course, as Earthlings, we know"
+  },
+  {
+    "startTime": 143.599,
+    "endTime": 145.599,
+    "text": "the reason would be that we're trying to"
+  },
+  {
+    "startTime": 145.599,
+    "endTime": 148.16,
+    "text": "save ourselves. We're trying to prevent"
+  },
+  {
+    "startTime": 148.16,
+    "endTime": 151.28,
+    "text": "an impact. But if you're an alien race"
+  },
+  {
+    "startTime": 151.28,
+    "endTime": 152.879,
+    "text": "doesn't know any of this, doesn't have"
+  },
+  {
+    "startTime": 152.879,
+    "endTime": 155.36,
+    "text": "any concept of Earth intelligence, you'd"
+  },
+  {
+    "startTime": 155.36,
+    "endTime": 157.44,
+    "text": "be forced to put together a physical"
+  },
+  {
+    "startTime": 157.44,
+    "endTime": 160.4,
+    "text": "theory that explains how up until a"
+  },
+  {
+    "startTime": 160.4,
+    "endTime": 163.599,
+    "text": "certain point in time, asteroids that"
+  },
+  {
+    "startTime": 163.599,
+    "endTime": 166.92,
+    "text": "would demolish the surface of a planet"
+  },
+  {
+    "startTime": 166.92,
+    "endTime": 170.16,
+    "text": "mysteriously stopped doing that. And so"
+  },
+  {
+    "startTime": 170.16,
+    "endTime": 174.08,
+    "text": "I claim that this is the same question"
+  },
+  {
+    "startTime": 174.08,
+    "endTime": 177.08,
+    "text": "as understanding the physical nature of"
+  },
+  {
+    "startTime": 177.08,
+    "endTime": 179.76,
+    "text": "intelligence. So in this program that I"
+  },
+  {
+    "startTime": 179.76,
+    "endTime": 182.4,
+    "text": "undertook several years ago, I looked at"
+  },
+  {
+    "startTime": 182.4,
+    "endTime": 185.2,
+    "text": "a variety of different threads across"
+  },
+  {
+    "startTime": 185.2,
+    "endTime": 187.84,
+    "text": "science, across a variety of disciplines"
+  },
+  {
+    "startTime": 187.84,
+    "endTime": 190.4,
+    "text": "that were pointing, I think, towards a"
+  },
+  {
+    "startTime": 190.4,
+    "endTime": 192.4,
+    "text": "single underlying mechanism for"
+  },
+  {
+    "startTime": 192.4,
+    "endTime": 196.319,
+    "text": "intelligence. In cosmology, for example,"
+  },
+  {
+    "startTime": 196.319,
+    "endTime": 197.76,
+    "text": "there have been a variety of different"
+  },
+  {
+    "startTime": 197.76,
+    "endTime": 200.64,
+    "text": "threads of evidence that our universe"
+  },
+  {
+    "startTime": 200.64,
+    "endTime": 202.959,
+    "text": "appears to be finely tuned for the"
+  },
+  {
+    "startTime": 202.959,
+    "endTime": 205.2,
+    "text": "development of intelligence and in"
+  },
+  {
+    "startTime": 205.2,
+    "endTime": 207.84,
+    "text": "particular for the development of"
+  },
+  {
+    "startTime": 207.84,
+    "endTime": 210.4,
+    "text": "universal states that maximize the"
+  },
+  {
+    "startTime": 210.4,
+    "endTime": 213.68,
+    "text": "diversity of possible futures. In game"
+  },
+  {
+    "startTime": 213.68,
+    "endTime": 216.08,
+    "text": "playing, for example, in Go, everyone"
+  },
+  {
+    "startTime": 216.08,
+    "endTime": 219.92,
+    "text": "remembers in 1997 when IBM's Deep Blue"
+  },
+  {
+    "startTime": 219.92,
+    "endTime": 222.879,
+    "text": "beat Gary Kasparov at chess. Fewer"
+  },
+  {
+    "startTime": 222.879,
+    "endTime": 225.12,
+    "text": "people are aware that in the past 10"
+  },
+  {
+    "startTime": 225.12,
+    "endTime": 227.84,
+    "text": "years or so, the game of Go, arguably a"
+  },
+  {
+    "startTime": 227.84,
+    "endTime": 229.599,
+    "text": "much more challenging game because it"
+  },
+  {
+    "startTime": 229.599,
+    "endTime": 231.92,
+    "text": "has a much higher branching factor, has"
+  },
+  {
+    "startTime": 231.92,
+    "endTime": 234.319,
+    "text": "also started to succumb to computer game"
+  },
+  {
+    "startTime": 234.319,
+    "endTime": 237.2,
+    "text": "players for the same reason. The best"
+  },
+  {
+    "startTime": 237.2,
+    "endTime": 238.879,
+    "text": "techniques right now for computers"
+  },
+  {
+    "startTime": 238.879,
+    "endTime": 241.12,
+    "text": "playing Go are techniques that try to"
+  },
+  {
+    "startTime": 241.12,
+    "endTime": 245.4,
+    "text": "maximize future options during gameplay."
+  },
+  {
+    "startTime": 245.4,
+    "endTime": 248.799,
+    "text": "Finally, in robotic motion planning,"
+  },
+  {
+    "startTime": 248.799,
+    "endTime": 250.319,
+    "text": "there have been a variety of recent"
+  },
+  {
+    "startTime": 250.319,
+    "endTime": 252.0,
+    "text": "techniques that have tried to take"
+  },
+  {
+    "startTime": 252.0,
+    "endTime": 255.439,
+    "text": "advantage of abilities of robots to"
+  },
+  {
+    "startTime": 255.439,
+    "endTime": 257.759,
+    "text": "maximize future freedom of action in"
+  },
+  {
+    "startTime": 257.759,
+    "endTime": 260.799,
+    "text": "order to accomplish complex tasks. And"
+  },
+  {
+    "startTime": 260.799,
+    "endTime": 262.479,
+    "text": "so, taking all of these different"
+  },
+  {
+    "startTime": 262.479,
+    "endTime": 264.96,
+    "text": "threads and putting them together, I"
+  },
+  {
+    "startTime": 264.96,
+    "endTime": 267.6,
+    "text": "asked starting several years ago, is"
+  },
+  {
+    "startTime": 267.6,
+    "endTime": 269.52,
+    "text": "there an underlying mechanism for"
+  },
+  {
+    "startTime": 269.52,
+    "endTime": 271.919,
+    "text": "intelligence that we can factor out of"
+  },
+  {
+    "startTime": 271.919,
+    "endTime": 274.16,
+    "text": "all of these different threads? Is there"
+  },
+  {
+    "startTime": 274.16,
+    "endTime": 277.08,
+    "text": "a single equation for"
+  },
+  {
+    "startTime": 277.08,
+    "endTime": 280.16,
+    "text": "intelligence? And the answer, I believe,"
+  },
+  {
+    "startTime": 280.16,
+    "endTime": 283.52,
+    "text": "is yes. What you're seeing is probably"
+  },
+  {
+    "startTime": 283.52,
+    "endTime": 287.12,
+    "text": "the closest equivalent to an E= MC² for"
+  },
+  {
+    "startTime": 287.12,
+    "endTime": 289.919,
+    "text": "intelligence that I've seen. So, what"
+  },
+  {
+    "startTime": 289.919,
+    "endTime": 293.08,
+    "text": "you're seeing here is a statement of"
+  },
+  {
+    "startTime": 293.08,
+    "endTime": 296.16,
+    "text": "correspondence that intelligence is a"
+  },
+  {
+    "startTime": 296.16,
+    "endTime": 301.04,
+    "text": "force f that acts so as to maximize"
+  },
+  {
+    "startTime": 301.04,
+    "endTime": 303.6,
+    "text": "future freedom of action. It acts to"
+  },
+  {
+    "startTime": 303.6,
+    "endTime": 305.52,
+    "text": "maximize future freedom of action or"
+  },
+  {
+    "startTime": 305.52,
+    "endTime": 309.36,
+    "text": "keep options open with some strength t"
+  },
+  {
+    "startTime": 309.36,
+    "endTime": 311.6,
+    "text": "with the diversity of possible"
+  },
+  {
+    "startTime": 311.6,
+    "endTime": 314.72,
+    "text": "accessible futures s up to some future"
+  },
+  {
+    "startTime": 314.72,
+    "endTime": 318.24,
+    "text": "time horizon tow. In short, intelligence"
+  },
+  {
+    "startTime": 318.24,
+    "endTime": 319.759,
+    "text": "doesn't like to get trapped."
+  },
+  {
+    "startTime": 319.759,
+    "endTime": 321.759,
+    "text": "Intelligence tries to maximize future"
+  },
+  {
+    "startTime": 321.759,
+    "endTime": 325.6,
+    "text": "freedom of action and keep options open."
+  },
+  {
+    "startTime": 325.6,
+    "endTime": 328.0,
+    "text": "And so given this one equation, it's"
+  },
+  {
+    "startTime": 328.0,
+    "endTime": 330.16,
+    "text": "natural to ask, so what can you do with"
+  },
+  {
+    "startTime": 330.16,
+    "endTime": 332.24,
+    "text": "this? How predictive is it? Does it"
+  },
+  {
+    "startTime": 332.24,
+    "endTime": 334.4,
+    "text": "predict human level intelligence? Does"
+  },
+  {
+    "startTime": 334.4,
+    "endTime": 336.88,
+    "text": "it predict artificial intelligence? So,"
+  },
+  {
+    "startTime": 336.88,
+    "endTime": 339.199,
+    "text": "I'm going to show you now a video that"
+  },
+  {
+    "startTime": 339.199,
+    "endTime": 343.039,
+    "text": "will, I think, demonstrate some of the"
+  },
+  {
+    "startTime": 343.039,
+    "endTime": 346.12,
+    "text": "amazing applications of just this single"
+  },
+  {
+    "startTime": 346.12,
+    "endTime": 348.88,
+    "text": "equation. Recent research in cosmology"
+  },
+  {
+    "startTime": 348.88,
+    "endTime": 350.639,
+    "text": "has suggested that universes that"
+  },
+  {
+    "startTime": 350.639,
+    "endTime": 353.36,
+    "text": "produce more disorder or entropy over"
+  },
+  {
+    "startTime": 353.36,
+    "endTime": 355.52,
+    "text": "their lifetimes should tend to have more"
+  },
+  {
+    "startTime": 355.52,
+    "endTime": 357.52,
+    "text": "favorable conditions for the existence"
+  },
+  {
+    "startTime": 357.52,
+    "endTime": 359.919,
+    "text": "of intelligent beings such as ourselves."
+  },
+  {
+    "startTime": 359.919,
+    "endTime": 362.0,
+    "text": "But what if that tentative cosmological"
+  },
+  {
+    "startTime": 362.0,
+    "endTime": 363.36,
+    "text": "connection between entropy and"
+  },
+  {
+    "startTime": 363.36,
+    "endTime": 365.039,
+    "text": "intelligence hints at a deeper"
+  },
+  {
+    "startTime": 365.039,
+    "endTime": 366.96,
+    "text": "relationship? What if intelligent"
+  },
+  {
+    "startTime": 366.96,
+    "endTime": 368.96,
+    "text": "behavior doesn't just correlate with the"
+  },
+  {
+    "startTime": 368.96,
+    "endTime": 370.72,
+    "text": "production of long-term entropy, but"
+  },
+  {
+    "startTime": 370.72,
+    "endTime": 372.96,
+    "text": "actually emerges directly from it? To"
+  },
+  {
+    "startTime": 372.96,
+    "endTime": 375.199,
+    "text": "find out, we developed a software engine"
+  },
+  {
+    "startTime": 375.199,
+    "endTime": 377.6,
+    "text": "called Entropica, designed to maximize"
+  },
+  {
+    "startTime": 377.6,
+    "endTime": 379.68,
+    "text": "the production of long-term entropy of"
+  },
+  {
+    "startTime": 379.68,
+    "endTime": 381.919,
+    "text": "any system that it finds itself in."
+  },
+  {
+    "startTime": 381.919,
+    "endTime": 384.4,
+    "text": "Amazingly, Entropica was able to pass"
+  },
+  {
+    "startTime": 384.4,
+    "endTime": 386.72,
+    "text": "multiple animal intelligence tests, play"
+  },
+  {
+    "startTime": 386.72,
+    "endTime": 389.28,
+    "text": "human games, and even earn money trading"
+  },
+  {
+    "startTime": 389.28,
+    "endTime": 391.28,
+    "text": "stocks, all without being instructed to"
+  },
+  {
+    "startTime": 391.28,
+    "endTime": 393.039,
+    "text": "do so. Here are some examples of"
+  },
+  {
+    "startTime": 393.039,
+    "endTime": 395.36,
+    "text": "Entropica in action. Just like a human"
+  },
+  {
+    "startTime": 395.36,
+    "endTime": 397.52,
+    "text": "standing upright without falling over,"
+  },
+  {
+    "startTime": 397.52,
+    "endTime": 399.52,
+    "text": "here we see Entropica automatically"
+  },
+  {
+    "startTime": 399.52,
+    "endTime": 402.0,
+    "text": "balancing a pole using a cart. This"
+  },
+  {
+    "startTime": 402.0,
+    "endTime": 404.08,
+    "text": "behavior is remarkable in part because"
+  },
+  {
+    "startTime": 404.08,
+    "endTime": 406.319,
+    "text": "we never gave Entropica a goal. It"
+  },
+  {
+    "startTime": 406.319,
+    "endTime": 408.479,
+    "text": "simply decided on its own to balance the"
+  },
+  {
+    "startTime": 408.479,
+    "endTime": 410.8,
+    "text": "pole. This balancing ability will have"
+  },
+  {
+    "startTime": 410.8,
+    "endTime": 413.12,
+    "text": "applications for humanoid robotics and"
+  },
+  {
+    "startTime": 413.12,
+    "endTime": 415.68,
+    "text": "human assistive technologies. Just as"
+  },
+  {
+    "startTime": 415.68,
+    "endTime": 417.6,
+    "text": "some animals can use objects in their"
+  },
+  {
+    "startTime": 417.6,
+    "endTime": 419.36,
+    "text": "environments as tools to reach into"
+  },
+  {
+    "startTime": 419.36,
+    "endTime": 421.68,
+    "text": "narrow spaces, here we see that"
+  },
+  {
+    "startTime": 421.68,
+    "endTime": 424.4,
+    "text": "Entropica again on its own initiative"
+  },
+  {
+    "startTime": 424.4,
+    "endTime": 426.08,
+    "text": "was able to move a large disc"
+  },
+  {
+    "startTime": 426.08,
+    "endTime": 428.4,
+    "text": "representing an animal around so as to"
+  },
+  {
+    "startTime": 428.4,
+    "endTime": 430.8,
+    "text": "cause a small disc representing a tool"
+  },
+  {
+    "startTime": 430.8,
+    "endTime": 432.96,
+    "text": "to reach into a confined space holding a"
+  },
+  {
+    "startTime": 432.96,
+    "endTime": 435.12,
+    "text": "third disc and release the third disc"
+  },
+  {
+    "startTime": 435.12,
+    "endTime": 437.12,
+    "text": "from its initially fixed position. This"
+  },
+  {
+    "startTime": 437.12,
+    "endTime": 438.88,
+    "text": "tool use ability will have applications"
+  },
+  {
+    "startTime": 438.88,
+    "endTime": 441.44,
+    "text": "for smart manufacturing and agriculture."
+  },
+  {
+    "startTime": 441.44,
+    "endTime": 443.44,
+    "text": "In addition, just as some other animals"
+  },
+  {
+    "startTime": 443.44,
+    "endTime": 444.88,
+    "text": "are able to cooperate by pulling"
+  },
+  {
+    "startTime": 444.88,
+    "endTime": 446.88,
+    "text": "opposite ends of a rope at the same time"
+  },
+  {
+    "startTime": 446.88,
+    "endTime": 448.96,
+    "text": "to release food, here we see that"
+  },
+  {
+    "startTime": 448.96,
+    "endTime": 451.039,
+    "text": "Entropica is able to accomplish a model"
+  },
+  {
+    "startTime": 451.039,
+    "endTime": 453.36,
+    "text": "version of that task. This cooperative"
+  },
+  {
+    "startTime": 453.36,
+    "endTime": 455.28,
+    "text": "ability has interesting implications for"
+  },
+  {
+    "startTime": 455.28,
+    "endTime": 457.479,
+    "text": "economic planning and a variety of other"
+  },
+  {
+    "startTime": 457.479,
+    "endTime": 460.4,
+    "text": "fields. Entropica is broadly applicable"
+  },
+  {
+    "startTime": 460.4,
+    "endTime": 463.52,
+    "text": "to a variety of domains. For example,"
+  },
+  {
+    "startTime": 463.52,
+    "endTime": 465.44,
+    "text": "here we see it successfully playing a"
+  },
+  {
+    "startTime": 465.44,
+    "endTime": 467.599,
+    "text": "game of Pong against itself,"
+  },
+  {
+    "startTime": 467.599,
+    "endTime": 469.759,
+    "text": "illustrating its potential for gaming."
+  },
+  {
+    "startTime": 469.759,
+    "endTime": 472.0,
+    "text": "Here we see Entropica orchestrating new"
+  },
+  {
+    "startTime": 472.0,
+    "endTime": 473.919,
+    "text": "connections on a social network where"
+  },
+  {
+    "startTime": 473.919,
+    "endTime": 475.68,
+    "text": "friends are constantly falling out of"
+  },
+  {
+    "startTime": 475.68,
+    "endTime": 477.52,
+    "text": "touch and successfully keeping the"
+  },
+  {
+    "startTime": 477.52,
+    "endTime": 479.84,
+    "text": "network well connected. This same"
+  },
+  {
+    "startTime": 479.84,
+    "endTime": 482.16,
+    "text": "network orchestration ability also has"
+  },
+  {
+    "startTime": 482.16,
+    "endTime": 485.16,
+    "text": "applications in healthcare, energy, and"
+  },
+  {
+    "startTime": 485.16,
+    "endTime": 488.24,
+    "text": "intelligence. Here we see Entropica"
+  },
+  {
+    "startTime": 488.24,
+    "endTime": 490.56,
+    "text": "directing the paths of a fleet of ships,"
+  },
+  {
+    "startTime": 490.56,
+    "endTime": 492.56,
+    "text": "successfully discovering and utilizing"
+  },
+  {
+    "startTime": 492.56,
+    "endTime": 495.199,
+    "text": "the Panama Canal to globally extend its"
+  },
+  {
+    "startTime": 495.199,
+    "endTime": 497.52,
+    "text": "reach from the Atlantic to the Pacific."
+  },
+  {
+    "startTime": 497.52,
+    "endTime": 500.08,
+    "text": "By the same token, Entropica is broadly"
+  },
+  {
+    "startTime": 500.08,
+    "endTime": 501.84,
+    "text": "applicable to problems in autonomous"
+  },
+  {
+    "startTime": 501.84,
+    "endTime": 506.319,
+    "text": "defense, logistics, and transportation."
+  },
+  {
+    "startTime": 506.319,
+    "endTime": 508.56,
+    "text": "Finally, here we see Entropica"
+  },
+  {
+    "startTime": 508.56,
+    "endTime": 510.96,
+    "text": "spontaneously discovering and executing"
+  },
+  {
+    "startTime": 510.96,
+    "endTime": 513.518,
+    "text": "a buy low, sell high strategy on a"
+  },
+  {
+    "startTime": 513.519,
+    "endTime": 516.159,
+    "text": "simulated range stock, successfully"
+  },
+  {
+    "startTime": 516.159,
+    "endTime": 518.039,
+    "text": "growing assets under management"
+  },
+  {
+    "startTime": 518.039,
+    "endTime": 520.159,
+    "text": "exponentially. This riskmanagement"
+  },
+  {
+    "startTime": 520.159,
+    "endTime": 522.479,
+    "text": "ability will have broad applications in"
+  },
+  {
+    "startTime": 522.479,
+    "endTime": 526.24,
+    "text": "finance and insurance."
+  },
+  {
+    "startTime": 526.24,
+    "endTime": 528.959,
+    "text": "So what you've just seen is that a"
+  },
+  {
+    "startTime": 528.959,
+    "endTime": 532.8,
+    "text": "variety of signature human intelligent"
+  },
+  {
+    "startTime": 532.8,
+    "endTime": 536.16,
+    "text": "cognitive behaviors such as tool use and"
+  },
+  {
+    "startTime": 536.16,
+    "endTime": 539.36,
+    "text": "walking upright and social cooperation"
+  },
+  {
+    "startTime": 539.36,
+    "endTime": 542.64,
+    "text": "all follow from a single equation which"
+  },
+  {
+    "startTime": 542.64,
+    "endTime": 546.16,
+    "text": "drives a system to maximize its future"
+  },
+  {
+    "startTime": 546.16,
+    "endTime": 548.24,
+    "text": "freedom of action."
+  },
+  {
+    "startTime": 548.24,
+    "endTime": 551.6,
+    "text": "Now there's a profound irony here going"
+  },
+  {
+    "startTime": 551.6,
+    "endTime": 554.56,
+    "text": "back to the beginning of the usage of"
+  },
+  {
+    "startTime": 554.56,
+    "endTime": 560.0,
+    "text": "the term robot. The play rur r there was"
+  },
+  {
+    "startTime": 560.0,
+    "endTime": 563.44,
+    "text": "always a concept that if we developed"
+  },
+  {
+    "startTime": 563.44,
+    "endTime": 565.839,
+    "text": "machine intelligence there would be a"
+  },
+  {
+    "startTime": 565.839,
+    "endTime": 568.8,
+    "text": "cybernetic revolt. The machines would"
+  },
+  {
+    "startTime": 568.8,
+    "endTime": 571.44,
+    "text": "rise up against us."
+  },
+  {
+    "startTime": 571.44,
+    "endTime": 574.16,
+    "text": "One major consequence of this work is"
+  },
+  {
+    "startTime": 574.16,
+    "endTime": 576.959,
+    "text": "that maybe all of these decades we've"
+  },
+  {
+    "startTime": 576.959,
+    "endTime": 578.959,
+    "text": "had the whole concept of cybernetic"
+  },
+  {
+    "startTime": 578.959,
+    "endTime": 580.519,
+    "text": "revolt in"
+  },
+  {
+    "startTime": 580.519,
+    "endTime": 583.519,
+    "text": "reverse. It's not that machines first"
+  },
+  {
+    "startTime": 583.519,
+    "endTime": 585.88,
+    "text": "become intelligent and then"
+  },
+  {
+    "startTime": 585.88,
+    "endTime": 588.32,
+    "text": "megalomaniacal and try to take over the"
+  },
+  {
+    "startTime": 588.32,
+    "endTime": 591.76,
+    "text": "world. It's quite the opposite. That the"
+  },
+  {
+    "startTime": 591.76,
+    "endTime": 594.56,
+    "text": "urge to take control of all possible"
+  },
+  {
+    "startTime": 594.56,
+    "endTime": 597.68,
+    "text": "futures is a more fundamental principle"
+  },
+  {
+    "startTime": 597.68,
+    "endTime": 600.2,
+    "text": "than that of intelligence. that general"
+  },
+  {
+    "startTime": 600.2,
+    "endTime": 603.6,
+    "text": "intelligence may in fact emerge directly"
+  },
+  {
+    "startTime": 603.6,
+    "endTime": 606.399,
+    "text": "from this sort of control grabbing"
+  },
+  {
+    "startTime": 606.399,
+    "endTime": 609.36,
+    "text": "rather than vice"
+  },
+  {
+    "startTime": 609.56,
+    "endTime": 612.32,
+    "text": "versa. Another important consequence is"
+  },
+  {
+    "startTime": 612.32,
+    "endTime": 613.24,
+    "text": "goal"
+  },
+  {
+    "startTime": 613.24,
+    "endTime": 616.32,
+    "text": "seeking. I'm often asked how does the"
+  },
+  {
+    "startTime": 616.32,
+    "endTime": 617.72,
+    "text": "ability to seek"
+  },
+  {
+    "startTime": 617.72,
+    "endTime": 619.839,
+    "text": "goals follow from this sort of"
+  },
+  {
+    "startTime": 619.839,
+    "endTime": 622.24,
+    "text": "framework? And the answer is the ability"
+  },
+  {
+    "startTime": 622.24,
+    "endTime": 624.88,
+    "text": "to seek goals will follow directly from"
+  },
+  {
+    "startTime": 624.88,
+    "endTime": 628.0,
+    "text": "this in the following sense. Just like"
+  },
+  {
+    "startTime": 628.0,
+    "endTime": 630.24,
+    "text": "you would travel through a tunnel, a"
+  },
+  {
+    "startTime": 630.24,
+    "endTime": 632.88,
+    "text": "bottleneck in your future path space in"
+  },
+  {
+    "startTime": 632.88,
+    "endTime": 634.88,
+    "text": "order to achieve many other diverse"
+  },
+  {
+    "startTime": 634.88,
+    "endTime": 637.68,
+    "text": "objectives later on. Or just like you"
+  },
+  {
+    "startTime": 637.68,
+    "endTime": 640.56,
+    "text": "would invest in a financial security,"
+  },
+  {
+    "startTime": 640.56,
+    "endTime": 642.8,
+    "text": "reducing your short-term liquidity in"
+  },
+  {
+    "startTime": 642.8,
+    "endTime": 644.399,
+    "text": "order to increase your wealth over the"
+  },
+  {
+    "startTime": 644.399,
+    "endTime": 647.36,
+    "text": "long term, goal seeking emerges directly"
+  },
+  {
+    "startTime": 647.36,
+    "endTime": 649.839,
+    "text": "from a long-term drive to increase"
+  },
+  {
+    "startTime": 649.839,
+    "endTime": 653.48,
+    "text": "future freedom of action."
+  },
+  {
+    "startTime": 653.48,
+    "endTime": 655.88,
+    "text": "Finally, Richard Fineman, famous"
+  },
+  {
+    "startTime": 655.88,
+    "endTime": 658.48,
+    "text": "physicist, once wrote that if human"
+  },
+  {
+    "startTime": 658.48,
+    "endTime": 660.72,
+    "text": "civilization were destroyed and you"
+  },
+  {
+    "startTime": 660.72,
+    "endTime": 662.8,
+    "text": "could pass only a single concept onto"
+  },
+  {
+    "startTime": 662.8,
+    "endTime": 665.16,
+    "text": "our descendants to help them rebuild"
+  },
+  {
+    "startTime": 665.16,
+    "endTime": 667.68,
+    "text": "civilization, that concept should be"
+  },
+  {
+    "startTime": 667.68,
+    "endTime": 670.56,
+    "text": "that all matter around us is made out of"
+  },
+  {
+    "startTime": 670.56,
+    "endTime": 672.959,
+    "text": "tiny elements that attract each other"
+  },
+  {
+    "startTime": 672.959,
+    "endTime": 675.279,
+    "text": "when they're far apart, but repel each"
+  },
+  {
+    "startTime": 675.279,
+    "endTime": 677.92,
+    "text": "other when they're close together. My"
+  },
+  {
+    "startTime": 677.92,
+    "endTime": 680.16,
+    "text": "equivalent of that statement to pass on"
+  },
+  {
+    "startTime": 680.16,
+    "endTime": 681.76,
+    "text": "to descendants to help them build"
+  },
+  {
+    "startTime": 681.76,
+    "endTime": 684.32,
+    "text": "artificial intelligences or to help them"
+  },
+  {
+    "startTime": 684.32,
+    "endTime": 686.72,
+    "text": "understand human intelligence is the"
+  },
+  {
+    "startTime": 686.72,
+    "endTime": 689.519,
+    "text": "following. Intelligence should be viewed"
+  },
+  {
+    "startTime": 689.519,
+    "endTime": 691.92,
+    "text": "as a physical process that tries to"
+  },
+  {
+    "startTime": 691.92,
+    "endTime": 694.399,
+    "text": "maximize future freedom of action and"
+  },
+  {
+    "startTime": 694.399,
+    "endTime": 697.6,
+    "text": "avoid constraints in its own future."
+  },
+  {
+    "startTime": 697.6,
+    "endTime": 701.24,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 702.77,
+    "endTime": 705.97,
+    "text": "[Applause]"
+  }
+]

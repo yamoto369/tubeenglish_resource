@@ -1,0 +1,617 @@
+[
+  {
+    "startTime": 12.564,
+    "endTime": 16.209,
+    "text": "My students and I work on very tiny robots."
+  },
+  {
+    "startTime": 16.209,
+    "endTime": 18.426,
+    "text": "Now, you can think of these as robotic versions"
+  },
+  {
+    "startTime": 18.426,
+    "endTime": 22.159999999999997,
+    "text": "of something that you're all very familiar with: an ant."
+  },
+  {
+    "startTime": 22.16,
+    "endTime": 24.775,
+    "text": "We all know that ants and other insects at this size scale"
+  },
+  {
+    "startTime": 24.776,
+    "endTime": 27.12,
+    "text": "can do some pretty incredible things."
+  },
+  {
+    "startTime": 27.12,
+    "endTime": 30.197000000000003,
+    "text": "We've all seen a group of ants, or some version of that,"
+  },
+  {
+    "startTime": 30.197,
+    "endTime": 34.467,
+    "text": "carting off your potato chip at a picnic, for example."
+  },
+  {
+    "startTime": 34.467,
+    "endTime": 37.91,
+    "text": "But what are the real challenges of engineering these ants?"
+  },
+  {
+    "startTime": 37.91,
+    "endTime": 41.861,
+    "text": "Well, first of all, how do we get the capabilities of an ant"
+  },
+  {
+    "startTime": 41.861,
+    "endTime": 43.909,
+    "text": "in a robot at the same size scale?"
+  },
+  {
+    "startTime": 43.909,
+    "endTime": 46.513,
+    "text": "Well, first we need to figure out how to make them move"
+  },
+  {
+    "startTime": 46.513,
+    "endTime": 47.922,
+    "text": "when they're so small."
+  },
+  {
+    "startTime": 47.923,
+    "endTime": 50.223,
+    "text": "We need mechanisms like legs and efficient motors"
+  },
+  {
+    "startTime": 50.223,
+    "endTime": 52.71,
+    "text": "in order to support that locomotion,"
+  },
+  {
+    "startTime": 52.72,
+    "endTime": 54.563,
+    "text": "and we need the sensors, power and control"
+  },
+  {
+    "startTime": 54.563,
+    "endTime": 58.525000000000006,
+    "text": "in order to pull everything together in a semi-intelligent ant robot."
+  },
+  {
+    "startTime": 58.525,
+    "endTime": 61.71,
+    "text": "And finally, to make these things really functional,"
+  },
+  {
+    "startTime": 61.71,
+    "endTime": 65.18,
+    "text": "we want a lot of them working together in order to do bigger things."
+  },
+  {
+    "startTime": 65.19,
+    "endTime": 67.71,
+    "text": "So I'll start with mobility."
+  },
+  {
+    "startTime": 67.71,
+    "endTime": 70.871,
+    "text": "Insects move around amazingly well."
+  },
+  {
+    "startTime": 70.871,
+    "endTime": 72.559,
+    "text": "This video is from UC Berkeley."
+  },
+  {
+    "startTime": 72.559,
+    "endTime": 75.342,
+    "text": "It shows a cockroach moving over incredibly rough terrain"
+  },
+  {
+    "startTime": 75.342,
+    "endTime": 77.195,
+    "text": "without tipping over,"
+  },
+  {
+    "startTime": 77.195,
+    "endTime": 81.192,
+    "text": "and it's able to do this because its legs are a combination of rigid materials,"
+  },
+  {
+    "startTime": 81.192,
+    "endTime": 83.544,
+    "text": "which is what we traditionally use to make robots,"
+  },
+  {
+    "startTime": 83.545,
+    "endTime": 85.144,
+    "text": "and soft materials."
+  },
+  {
+    "startTime": 86.374,
+    "endTime": 90.201,
+    "text": "Jumping is another really interesting way to get around when you're very small."
+  },
+  {
+    "startTime": 90.201,
+    "endTime": 94.27,
+    "text": "So these insects store energy in a spring and release that really quickly"
+  },
+  {
+    "startTime": 94.27,
+    "endTime": 98.28,
+    "text": "to get the high power they need to jump out of water, for example."
+  },
+  {
+    "startTime": 98.281,
+    "endTime": 101.403,
+    "text": "So one of the big contributions from my lab"
+  },
+  {
+    "startTime": 101.403,
+    "endTime": 104.153,
+    "text": "has been to combine rigid and soft materials"
+  },
+  {
+    "startTime": 104.153,
+    "endTime": 106.367,
+    "text": "in very, very small mechanisms."
+  },
+  {
+    "startTime": 106.367,
+    "endTime": 109.53200000000001,
+    "text": "So this jumping mechanism is about four millimeters on a side,"
+  },
+  {
+    "startTime": 109.532,
+    "endTime": 111.22,
+    "text": "so really tiny."
+  },
+  {
+    "startTime": 111.22,
+    "endTime": 115.58,
+    "text": "The hard material here is silicon, and the soft material is silicone rubber."
+  },
+  {
+    "startTime": 115.58,
+    "endTime": 117.953,
+    "text": "And the basic idea is that we're going to compress this,"
+  },
+  {
+    "startTime": 117.953,
+    "endTime": 120.654,
+    "text": "store energy in the springs, and then release it to jump."
+  },
+  {
+    "startTime": 120.654,
+    "endTime": 124.36,
+    "text": "So there's no motors on board this right now, no power."
+  },
+  {
+    "startTime": 124.37,
+    "endTime": 126.80000000000001,
+    "text": "This is actuated with a method that we call in my lab"
+  },
+  {
+    "startTime": 126.8,
+    "endTime": 129.472,
+    "text": "\"graduate student with tweezers.\" (Laughter)"
+  },
+  {
+    "startTime": 129.472,
+    "endTime": 131.306,
+    "text": "So what you'll see in the next video"
+  },
+  {
+    "startTime": 131.306,
+    "endTime": 134.333,
+    "text": "is this guy doing amazingly well for its jumps."
+  },
+  {
+    "startTime": 134.333,
+    "endTime": 137.947,
+    "text": "So this is Aaron, the graduate student in question, with the tweezers,"
+  },
+  {
+    "startTime": 137.947,
+    "endTime": 140.63,
+    "text": "and what you see is this  four-millimeter-sized mechanism"
+  },
+  {
+    "startTime": 140.63,
+    "endTime": 142.841,
+    "text": "jumping almost 40 centimeters high."
+  },
+  {
+    "startTime": 142.841,
+    "endTime": 145.26500000000001,
+    "text": "That's almost 100 times its own length."
+  },
+  {
+    "startTime": 145.265,
+    "endTime": 147.22,
+    "text": "And it survives, bounces on the table,"
+  },
+  {
+    "startTime": 147.221,
+    "endTime": 150.735,
+    "text": "it's incredibly robust, and of course survives quite well until we lose it"
+  },
+  {
+    "startTime": 150.735,
+    "endTime": 153.36100000000002,
+    "text": "because it's very tiny."
+  },
+  {
+    "startTime": 153.361,
+    "endTime": 155.97,
+    "text": "Ultimately, though, we want to add motors to this too,"
+  },
+  {
+    "startTime": 155.97,
+    "endTime": 159.85999999999999,
+    "text": "and we have students in the lab working on millimeter-sized motors"
+  },
+  {
+    "startTime": 159.86,
+    "endTime": 162.686,
+    "text": "to eventually integrate onto small, autonomous robots."
+  },
+  {
+    "startTime": 162.686,
+    "endTime": 166.267,
+    "text": "But in order to look at mobility and locomotion at this size scale to start,"
+  },
+  {
+    "startTime": 166.267,
+    "endTime": 168.24099999999999,
+    "text": "we're cheating and using magnets."
+  },
+  {
+    "startTime": 168.241,
+    "endTime": 171.317,
+    "text": "So this shows what would eventually be part of a micro-robot leg,"
+  },
+  {
+    "startTime": 171.317,
+    "endTime": 173.334,
+    "text": "and you can see the silicone rubber joints"
+  },
+  {
+    "startTime": 173.334,
+    "endTime": 175.963,
+    "text": "and there's an embedded magnet that's being moved around"
+  },
+  {
+    "startTime": 175.963,
+    "endTime": 178.266,
+    "text": "by an external magnetic field."
+  },
+  {
+    "startTime": 178.266,
+    "endTime": 180.94799999999998,
+    "text": "So this leads to the robot that I showed you earlier."
+  },
+  {
+    "startTime": 181.959,
+    "endTime": 185.11,
+    "text": "The really interesting thing that this robot can help us figure out"
+  },
+  {
+    "startTime": 185.11,
+    "endTime": 187.11700000000002,
+    "text": "is how insects move at this scale."
+  },
+  {
+    "startTime": 187.117,
+    "endTime": 189.34099999999998,
+    "text": "We have a really good model for how everything"
+  },
+  {
+    "startTime": 189.342,
+    "endTime": 191.304,
+    "text": "from a cockroach up to an elephant moves."
+  },
+  {
+    "startTime": 191.304,
+    "endTime": 194.228,
+    "text": "We all move in this  kind of bouncy way when we run."
+  },
+  {
+    "startTime": 194.228,
+    "endTime": 198.513,
+    "text": "But when I'm really small,  the forces between my feet and the ground"
+  },
+  {
+    "startTime": 198.513,
+    "endTime": 201.288,
+    "text": "are going to affect my locomotion a lot more than my mass,"
+  },
+  {
+    "startTime": 201.288,
+    "endTime": 203.64200000000002,
+    "text": "which is what causes that bouncy motion."
+  },
+  {
+    "startTime": 203.642,
+    "endTime": 205.317,
+    "text": "So this guy doesn't work quite yet,"
+  },
+  {
+    "startTime": 205.317,
+    "endTime": 208.392,
+    "text": "but we do have slightly larger versions that do run around."
+  },
+  {
+    "startTime": 208.392,
+    "endTime": 212.277,
+    "text": "So this is about a centimeter cubed, a centimeter on a side, so very tiny,"
+  },
+  {
+    "startTime": 212.277,
+    "endTime": 215.178,
+    "text": "and we've gotten this to run about 10 body lengths per second,"
+  },
+  {
+    "startTime": 215.179,
+    "endTime": 216.565,
+    "text": "so 10 centimeters per second."
+  },
+  {
+    "startTime": 216.565,
+    "endTime": 218.597,
+    "text": "It's pretty quick for a little, small guy,"
+  },
+  {
+    "startTime": 218.598,
+    "endTime": 220.96,
+    "text": "and that's really only limited  by our test setup."
+  },
+  {
+    "startTime": 220.96,
+    "endTime": 223.607,
+    "text": "But this gives you some idea of how it works right now."
+  },
+  {
+    "startTime": 224.27,
+    "endTime": 227.78,
+    "text": "We can also make 3D-printed versions  of this that can climb over obstacles,"
+  },
+  {
+    "startTime": 227.781,
+    "endTime": 231.28,
+    "text": "a lot like the cockroach that you saw earlier."
+  },
+  {
+    "startTime": 231.28,
+    "endTime": 234.166,
+    "text": "But ultimately we want to add everything onboard the robot."
+  },
+  {
+    "startTime": 234.166,
+    "endTime": 237.859,
+    "text": "We want sensing, power, control, actuation all together,"
+  },
+  {
+    "startTime": 237.859,
+    "endTime": 240.76500000000001,
+    "text": "and not everything needs to be bio-inspired."
+  },
+  {
+    "startTime": 240.765,
+    "endTime": 243.89899999999997,
+    "text": "So this robot's about the size of a Tic Tac."
+  },
+  {
+    "startTime": 243.9,
+    "endTime": 247.84900000000002,
+    "text": "And in this case, instead of magnets or muscles to move this around,"
+  },
+  {
+    "startTime": 247.849,
+    "endTime": 250.274,
+    "text": "we use rockets."
+  },
+  {
+    "startTime": 250.274,
+    "endTime": 252.94,
+    "text": "So this is a micro-fabricated energetic material,"
+  },
+  {
+    "startTime": 252.94,
+    "endTime": 255.539,
+    "text": "and we can create tiny pixels of this,"
+  },
+  {
+    "startTime": 255.539,
+    "endTime": 259.325,
+    "text": "and we can put one of these pixels on the belly of this robot,"
+  },
+  {
+    "startTime": 259.326,
+    "endTime": 263.72200000000004,
+    "text": "and this robot, then, is going to jump when it senses an increase in light."
+  },
+  {
+    "startTime": 264.645,
+    "endTime": 266.618,
+    "text": "So the next video is one of my favorites."
+  },
+  {
+    "startTime": 266.618,
+    "endTime": 269.658,
+    "text": "So you have this 300-milligram robot"
+  },
+  {
+    "startTime": 269.658,
+    "endTime": 272.64000000000004,
+    "text": "jumping about eight centimeters in the air."
+  },
+  {
+    "startTime": 272.64,
+    "endTime": 274.974,
+    "text": "It's only four by four by seven millimeters in size."
+  },
+  {
+    "startTime": 274.974,
+    "endTime": 277.13,
+    "text": "And you'll see a big flash at the beginning"
+  },
+  {
+    "startTime": 277.13,
+    "endTime": 278.622,
+    "text": "when the energetic is set off,"
+  },
+  {
+    "startTime": 278.622,
+    "endTime": 280.53000000000003,
+    "text": "and the robot tumbling through the air."
+  },
+  {
+    "startTime": 280.53,
+    "endTime": 282.138,
+    "text": "So there was that big flash,"
+  },
+  {
+    "startTime": 282.139,
+    "endTime": 285.336,
+    "text": "and you can see the robot jumping up through the air."
+  },
+  {
+    "startTime": 285.336,
+    "endTime": 288.368,
+    "text": "So there's no tethers on this, no wires connecting to this."
+  },
+  {
+    "startTime": 288.368,
+    "endTime": 290.862,
+    "text": "Everything is onboard, and it jumped in response"
+  },
+  {
+    "startTime": 290.862,
+    "endTime": 295.24300000000005,
+    "text": "to the student just flicking on a desk lamp next to it."
+  },
+  {
+    "startTime": 295.243,
+    "endTime": 298.897,
+    "text": "So I think you can imagine all the cool things that we could do"
+  },
+  {
+    "startTime": 298.897,
+    "endTime": 303.604,
+    "text": "with robots that can run and crawl and jump and roll at this size scale."
+  },
+  {
+    "startTime": 303.604,
+    "endTime": 307.394,
+    "text": "Imagine the rubble that you get after  a natural disaster like an earthquake."
+  },
+  {
+    "startTime": 307.394,
+    "endTime": 309.95300000000003,
+    "text": "Imagine these small robots running through that rubble"
+  },
+  {
+    "startTime": 309.953,
+    "endTime": 312.171,
+    "text": "to look for survivors."
+  },
+  {
+    "startTime": 312.171,
+    "endTime": 315.127,
+    "text": "Or imagine a lot of small robots running around a bridge"
+  },
+  {
+    "startTime": 315.127,
+    "endTime": 317.286,
+    "text": "in order to inspect it and make sure it's safe"
+  },
+  {
+    "startTime": 317.286,
+    "endTime": 319.326,
+    "text": "so you don't get collapses like this,"
+  },
+  {
+    "startTime": 319.326,
+    "endTime": 323.233,
+    "text": "which happened outside of  Minneapolis in 2007."
+  },
+  {
+    "startTime": 323.233,
+    "endTime": 324.995,
+    "text": "Or just imagine what you could do"
+  },
+  {
+    "startTime": 324.995,
+    "endTime": 327.51800000000003,
+    "text": "if you had robots that could swim through your blood."
+  },
+  {
+    "startTime": 327.518,
+    "endTime": 329.851,
+    "text": "Right? \"Fantastic Voyage,\" Isaac Asimov."
+  },
+  {
+    "startTime": 329.851,
+    "endTime": 334.206,
+    "text": "Or they could operate without having to cut you open in the first place."
+  },
+  {
+    "startTime": 334.206,
+    "endTime": 336.93600000000004,
+    "text": "Or we could radically change the way we build things"
+  },
+  {
+    "startTime": 336.936,
+    "endTime": 340.342,
+    "text": "if we have our tiny robots work the same way that termites do,"
+  },
+  {
+    "startTime": 340.343,
+    "endTime": 343.108,
+    "text": "and they build these incredible eight-meter-high mounds,"
+  },
+  {
+    "startTime": 343.108,
+    "endTime": 347.196,
+    "text": "effectively well ventilated apartment buildings for other termites"
+  },
+  {
+    "startTime": 347.196,
+    "endTime": 349.28700000000003,
+    "text": "in Africa and Australia."
+  },
+  {
+    "startTime": 349.287,
+    "endTime": 351.717,
+    "text": "So I think I've given you some of the possibilities"
+  },
+  {
+    "startTime": 351.717,
+    "endTime": 354.154,
+    "text": "of what we can do with these small robots."
+  },
+  {
+    "startTime": 354.154,
+    "endTime": 358.561,
+    "text": "And we've made some advances so far, but there's still a long way to go,"
+  },
+  {
+    "startTime": 358.561,
+    "endTime": 361.419,
+    "text": "and hopefully some of you can contribute to that destination."
+  },
+  {
+    "startTime": 361.419,
+    "endTime": 363.186,
+    "text": "Thanks very much."
+  },
+  {
+    "startTime": 363.187,
+    "endTime": 365.391,
+    "text": "(Applause)"
+  }
+]

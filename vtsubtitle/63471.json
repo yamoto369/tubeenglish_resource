@@ -1,0 +1,512 @@
+[
+  {
+    "startTime": 13.344,
+    "endTime": 18.256,
+    "text": "(Aquatic noises)"
+  },
+  {
+    "startTime": 20.811,
+    "endTime": 22.714,
+    "text": "So this video was taken"
+  },
+  {
+    "startTime": 22.714,
+    "endTime": 25.145,
+    "text": "at Aquarius undersea laboratory"
+  },
+  {
+    "startTime": 25.146,
+    "endTime": 26.999000000000002,
+    "text": "four miles off the coast of Key Largo,"
+  },
+  {
+    "startTime": 26.999,
+    "endTime": 29.576999999999998,
+    "text": "about 60 feet below the surface."
+  },
+  {
+    "startTime": 29.577,
+    "endTime": 31.301000000000002,
+    "text": "NASA uses this extreme environment"
+  },
+  {
+    "startTime": 31.301,
+    "endTime": 33.725,
+    "text": "to train astronauts and aquanauts,"
+  },
+  {
+    "startTime": 33.725,
+    "endTime": 37.870000000000005,
+    "text": "and last year, they invited us along for the ride."
+  },
+  {
+    "startTime": 37.87,
+    "endTime": 39.971,
+    "text": "All the footage was taken from our open ROV,"
+  },
+  {
+    "startTime": 39.971,
+    "endTime": 44.458,
+    "text": "which is a robot that we built in our garage."
+  },
+  {
+    "startTime": 44.458,
+    "endTime": 48.25,
+    "text": "So ROV stands for Remote Operated Vehicle,"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 49.553,
+    "text": "which in our case means our little robot"
+  },
+  {
+    "startTime": 49.553,
+    "endTime": 51.817,
+    "text": "sends live video"
+  },
+  {
+    "startTime": 51.817,
+    "endTime": 53.735,
+    "text": "across that ultra-thin tether"
+  },
+  {
+    "startTime": 53.735,
+    "endTime": 56.163,
+    "text": "back to the computer topside."
+  },
+  {
+    "startTime": 56.163,
+    "endTime": 58.141,
+    "text": "It's open source, meaning we publish"
+  },
+  {
+    "startTime": 58.141,
+    "endTime": 60.186,
+    "text": "and share all of our design files"
+  },
+  {
+    "startTime": 60.186,
+    "endTime": 61.694,
+    "text": "and all of our code online,"
+  },
+  {
+    "startTime": 61.694,
+    "endTime": 63.728,
+    "text": "allowing anyone to modify"
+  },
+  {
+    "startTime": 63.728,
+    "endTime": 66.77,
+    "text": "or improve or change the design."
+  },
+  {
+    "startTime": 66.77,
+    "endTime": 68.38,
+    "text": "It's built with mostly off-the-shelf parts"
+  },
+  {
+    "startTime": 68.38,
+    "endTime": 70.214,
+    "text": "and costs about 1,000 times cheaper"
+  },
+  {
+    "startTime": 70.215,
+    "endTime": 72.94,
+    "text": "than the ROVs James Cameron used"
+  },
+  {
+    "startTime": 72.94,
+    "endTime": 75.699,
+    "text": "to explore the Titanic."
+  },
+  {
+    "startTime": 75.699,
+    "endTime": 77.908,
+    "text": "So ROVs aren't new."
+  },
+  {
+    "startTime": 77.909,
+    "endTime": 79.617,
+    "text": "They've been around for decades."
+  },
+  {
+    "startTime": 79.617,
+    "endTime": 82.653,
+    "text": "Scientists use ROVs to explore the oceans."
+  },
+  {
+    "startTime": 82.653,
+    "endTime": 85.47200000000001,
+    "text": "Oil and gas companies use them for exploration"
+  },
+  {
+    "startTime": 85.472,
+    "endTime": 87.17999999999999,
+    "text": "and construction."
+  },
+  {
+    "startTime": 87.19,
+    "endTime": 89.78099999999999,
+    "text": "What we've built isn't unique."
+  },
+  {
+    "startTime": 89.781,
+    "endTime": 92.655,
+    "text": "It's how we've built it that's really unique."
+  },
+  {
+    "startTime": 92.655,
+    "endTime": 95.636,
+    "text": "So I want to give you a quick story of how it got started."
+  },
+  {
+    "startTime": 95.636,
+    "endTime": 97.907,
+    "text": "So a few years ago, my friend Eric and I"
+  },
+  {
+    "startTime": 97.907,
+    "endTime": 100.107,
+    "text": "decided we wanted to explore this underwater cave"
+  },
+  {
+    "startTime": 100.107,
+    "endTime": 101.965,
+    "text": "in the foothills of the Sierras."
+  },
+  {
+    "startTime": 101.965,
+    "endTime": 103.86800000000001,
+    "text": "We had heard this story about lost gold"
+  },
+  {
+    "startTime": 103.868,
+    "endTime": 106.386,
+    "text": "from a Gold Rush-era robbery, and we wanted to go up there."
+  },
+  {
+    "startTime": 106.386,
+    "endTime": 108.44,
+    "text": "Unfortunately, we didn't have any money"
+  },
+  {
+    "startTime": 108.44,
+    "endTime": 109.866,
+    "text": "and we didn't have any tools to do it."
+  },
+  {
+    "startTime": 109.867,
+    "endTime": 113.67,
+    "text": "So Eric had an initial design idea for a robot,"
+  },
+  {
+    "startTime": 113.67,
+    "endTime": 115.839,
+    "text": "but we didn't have all the parts figured out,"
+  },
+  {
+    "startTime": 115.84,
+    "endTime": 118.52000000000001,
+    "text": "so we did what anybody would do in our situation:"
+  },
+  {
+    "startTime": 118.52,
+    "endTime": 120.89999999999999,
+    "text": "we asked the Internet for help."
+  },
+  {
+    "startTime": 120.9,
+    "endTime": 122.622,
+    "text": "More specifically, we created this website,"
+  },
+  {
+    "startTime": 122.622,
+    "endTime": 125.517,
+    "text": "openROV.com, and shared  our intentions and our plans"
+  },
+  {
+    "startTime": 125.517,
+    "endTime": 127.907,
+    "text": "For the first few months, it was just Eric and I"
+  },
+  {
+    "startTime": 127.907,
+    "endTime": 130.436,
+    "text": "talking back to each other on the forums,"
+  },
+  {
+    "startTime": 130.437,
+    "endTime": 132.525,
+    "text": "but pretty soon, we started to get feedback"
+  },
+  {
+    "startTime": 132.525,
+    "endTime": 134.368,
+    "text": "from makers and hobbyists,"
+  },
+  {
+    "startTime": 134.368,
+    "endTime": 136.362,
+    "text": "and then actually professional ocean engineers"
+  },
+  {
+    "startTime": 136.362,
+    "endTime": 139.894,
+    "text": "who had some suggestions for what we should do."
+  },
+  {
+    "startTime": 139.894,
+    "endTime": 141.65800000000002,
+    "text": "We kept working on it. We learned a lot."
+  },
+  {
+    "startTime": 141.658,
+    "endTime": 143.683,
+    "text": "We kept prototyping, and eventually,"
+  },
+  {
+    "startTime": 143.683,
+    "endTime": 146.402,
+    "text": "we decided we wanted to go  to the cave. We were ready."
+  },
+  {
+    "startTime": 146.402,
+    "endTime": 149.84099999999998,
+    "text": "So about that time, our little expedition became quite a story,"
+  },
+  {
+    "startTime": 149.842,
+    "endTime": 151.863,
+    "text": "and it got picked up in The New York Times."
+  },
+  {
+    "startTime": 151.863,
+    "endTime": 153.675,
+    "text": "And we were pretty much just overwhelmed"
+  },
+  {
+    "startTime": 153.675,
+    "endTime": 155.458,
+    "text": "with interest from people who wanted a kit"
+  },
+  {
+    "startTime": 155.458,
+    "endTime": 157.978,
+    "text": "that they could build this open ROV themselves."
+  },
+  {
+    "startTime": 157.979,
+    "endTime": 161.268,
+    "text": "So we decided to put the project on Kickstarter,"
+  },
+  {
+    "startTime": 161.268,
+    "endTime": 162.5,
+    "text": "and when we did,"
+  },
+  {
+    "startTime": 162.5,
+    "endTime": 164.575,
+    "text": "we raised our funding goal in about two hours,"
+  },
+  {
+    "startTime": 164.575,
+    "endTime": 167.78,
+    "text": "and all of a sudden,  had this money to make these kits."
+  },
+  {
+    "startTime": 167.78,
+    "endTime": 169.975,
+    "text": "But then we had to learn how to make them."
+  },
+  {
+    "startTime": 169.975,
+    "endTime": 172.14,
+    "text": "I mean, we had to learn small batch manufacturing."
+  },
+  {
+    "startTime": 172.14,
+    "endTime": 175.39899999999997,
+    "text": "So we quickly learned that our garage"
+  },
+  {
+    "startTime": 175.4,
+    "endTime": 178.79,
+    "text": "was not big enough to hold our growing operation."
+  },
+  {
+    "startTime": 178.79,
+    "endTime": 180.23499999999999,
+    "text": "But we were able to do it, we got all the kits made,"
+  },
+  {
+    "startTime": 180.235,
+    "endTime": 182.942,
+    "text": "thanks a lot to TechShop, which was a big help to us,"
+  },
+  {
+    "startTime": 182.942,
+    "endTime": 185.92700000000002,
+    "text": "and we shipped these kits all over the world"
+  },
+  {
+    "startTime": 185.927,
+    "endTime": 187.756,
+    "text": "just before Christmas of last year,"
+  },
+  {
+    "startTime": 187.756,
+    "endTime": 189.538,
+    "text": "so it was just a few months ago."
+  },
+  {
+    "startTime": 189.538,
+    "endTime": 191.446,
+    "text": "But we're already starting to get video"
+  },
+  {
+    "startTime": 191.446,
+    "endTime": 193.44,
+    "text": "and photos back from all over the world,"
+  },
+  {
+    "startTime": 193.44,
+    "endTime": 196.74,
+    "text": "including this shot from under the ice in Antarctica."
+  },
+  {
+    "startTime": 196.74,
+    "endTime": 199.47400000000002,
+    "text": "We've also learned the penguins love robots."
+  },
+  {
+    "startTime": 199.474,
+    "endTime": 201.487,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 201.487,
+    "endTime": 204.655,
+    "text": "So we're still publishing all the designs online,"
+  },
+  {
+    "startTime": 204.655,
+    "endTime": 206.773,
+    "text": "encouraging anyone to build these themselves."
+  },
+  {
+    "startTime": 206.773,
+    "endTime": 209.176,
+    "text": "That's the only way that we could have done this."
+  },
+  {
+    "startTime": 209.176,
+    "endTime": 210.83399999999997,
+    "text": "By being open source, we've created"
+  },
+  {
+    "startTime": 210.835,
+    "endTime": 213.99,
+    "text": "this distributed R&D network,"
+  },
+  {
+    "startTime": 213.99,
+    "endTime": 216.894,
+    "text": "and we're moving faster than any venture-backed counterpart."
+  },
+  {
+    "startTime": 216.895,
+    "endTime": 220.10000000000002,
+    "text": "But the actual robot is really only half the story."
+  },
+  {
+    "startTime": 220.1,
+    "endTime": 222.596,
+    "text": "The real potential, the long term potential,"
+  },
+  {
+    "startTime": 222.596,
+    "endTime": 225.273,
+    "text": "is with this community of DIY ocean explorers"
+  },
+  {
+    "startTime": 225.273,
+    "endTime": 227.668,
+    "text": "that are forming all over the globe."
+  },
+  {
+    "startTime": 227.669,
+    "endTime": 229.203,
+    "text": "What can we discover"
+  },
+  {
+    "startTime": 229.203,
+    "endTime": 231.107,
+    "text": "when there's thousands of these devices"
+  },
+  {
+    "startTime": 231.107,
+    "endTime": 233.153,
+    "text": "roaming the seas?"
+  },
+  {
+    "startTime": 233.153,
+    "endTime": 235.429,
+    "text": "So you're probably all wondering: the cave."
+  },
+  {
+    "startTime": 235.429,
+    "endTime": 237.255,
+    "text": "Did you find the gold?"
+  },
+  {
+    "startTime": 237.255,
+    "endTime": 238.807,
+    "text": "Well, we didn't find any gold,"
+  },
+  {
+    "startTime": 238.807,
+    "endTime": 242.35999999999999,
+    "text": "but we decided that what we found was much more valuable."
+  },
+  {
+    "startTime": 242.36,
+    "endTime": 244.508,
+    "text": "It was the glimpse into a potential future"
+  },
+  {
+    "startTime": 244.508,
+    "endTime": 246.18300000000002,
+    "text": "for ocean exploration."
+  },
+  {
+    "startTime": 246.183,
+    "endTime": 249.93,
+    "text": "It's something that's not limited to the James Camerons of the world,"
+  },
+  {
+    "startTime": 249.93,
+    "endTime": 251.68800000000002,
+    "text": "but something that we're all participating in."
+  },
+  {
+    "startTime": 251.688,
+    "endTime": 253.20999999999998,
+    "text": "It's an underwater world"
+  },
+  {
+    "startTime": 253.21,
+    "endTime": 255.531,
+    "text": "we're all exploring together."
+  },
+  {
+    "startTime": 255.532,
+    "endTime": 257.707,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 257.707,
+    "endTime": 261.707,
+    "text": "(Applause)"
+  }
+]

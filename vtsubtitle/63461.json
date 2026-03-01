@@ -1,0 +1,1697 @@
+[
+  {
+    "startTime": 12.641,
+    "endTime": 14.995000000000001,
+    "text": "I would like to tell you a story"
+  },
+  {
+    "startTime": 14.995,
+    "endTime": 18.171,
+    "text": "connecting the notorious privacy incident"
+  },
+  {
+    "startTime": 18.171,
+    "endTime": 20.939,
+    "text": "involving Adam and Eve,"
+  },
+  {
+    "startTime": 20.94,
+    "endTime": 24.386000000000003,
+    "text": "and the remarkable shift in the boundaries"
+  },
+  {
+    "startTime": 24.386,
+    "endTime": 27.72,
+    "text": "between public and private which has occurred"
+  },
+  {
+    "startTime": 27.72,
+    "endTime": 28.842,
+    "text": "in the past 10 years."
+  },
+  {
+    "startTime": 28.842,
+    "endTime": 30.14,
+    "text": "You know the incident."
+  },
+  {
+    "startTime": 30.14,
+    "endTime": 33.47,
+    "text": "Adam and Eve one day in the Garden of Eden"
+  },
+  {
+    "startTime": 33.47,
+    "endTime": 35.313,
+    "text": "realize they are naked."
+  },
+  {
+    "startTime": 35.313,
+    "endTime": 36.813,
+    "text": "They freak out."
+  },
+  {
+    "startTime": 36.813,
+    "endTime": 39.57,
+    "text": "And the rest is history."
+  },
+  {
+    "startTime": 39.57,
+    "endTime": 41.758,
+    "text": "Nowadays, Adam and Eve"
+  },
+  {
+    "startTime": 41.758,
+    "endTime": 44.119,
+    "text": "would probably act differently."
+  },
+  {
+    "startTime": 44.119,
+    "endTime": 46.387,
+    "text": "[@Adam Last nite was a blast! loved dat apple LOL]"
+  },
+  {
+    "startTime": 46.387,
+    "endTime": 48.26,
+    "text": "[@Eve yep.. babe, know what happened to my pants tho?]"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 50.896,
+    "text": "We do reveal so much more information"
+  },
+  {
+    "startTime": 50.896,
+    "endTime": 54.230000000000004,
+    "text": "about ourselves online than ever before,"
+  },
+  {
+    "startTime": 54.23,
+    "endTime": 55.934,
+    "text": "and so much information about us"
+  },
+  {
+    "startTime": 55.934,
+    "endTime": 58.158,
+    "text": "is being collected by organizations."
+  },
+  {
+    "startTime": 58.158,
+    "endTime": 61.44,
+    "text": "Now there is much to gain and benefit"
+  },
+  {
+    "startTime": 61.44,
+    "endTime": 63.885,
+    "text": "from this massive analysis of personal information,"
+  },
+  {
+    "startTime": 63.886,
+    "endTime": 65.83200000000001,
+    "text": "or big data,"
+  },
+  {
+    "startTime": 65.832,
+    "endTime": 68.47,
+    "text": "but there are also complex tradeoffs that come"
+  },
+  {
+    "startTime": 68.47,
+    "endTime": 71.568,
+    "text": "from giving away our privacy."
+  },
+  {
+    "startTime": 71.568,
+    "endTime": 75.591,
+    "text": "And my story is about these tradeoffs."
+  },
+  {
+    "startTime": 75.591,
+    "endTime": 78.175,
+    "text": "We start with an observation which, in my mind,"
+  },
+  {
+    "startTime": 78.175,
+    "endTime": 81.502,
+    "text": "has become clearer and clearer in the past few years,"
+  },
+  {
+    "startTime": 81.502,
+    "endTime": 83.598,
+    "text": "that any personal information"
+  },
+  {
+    "startTime": 83.599,
+    "endTime": 85.884,
+    "text": "can become sensitive information."
+  },
+  {
+    "startTime": 85.884,
+    "endTime": 90.9,
+    "text": "Back in the year 2000, about 100 billion photos"
+  },
+  {
+    "startTime": 90.9,
+    "endTime": 91.921,
+    "text": "were shot worldwide,"
+  },
+  {
+    "startTime": 91.921,
+    "endTime": 94.986,
+    "text": "but only a minuscule proportion of them"
+  },
+  {
+    "startTime": 94.986,
+    "endTime": 96.869,
+    "text": "were actually uploaded online."
+  },
+  {
+    "startTime": 96.869,
+    "endTime": 100.23,
+    "text": "In 2010, only on Facebook, in a single month,"
+  },
+  {
+    "startTime": 100.23,
+    "endTime": 103.5,
+    "text": "2.5 billion photos were uploaded,"
+  },
+  {
+    "startTime": 103.5,
+    "endTime": 105.382,
+    "text": "most of them identified."
+  },
+  {
+    "startTime": 105.382,
+    "endTime": 107.262,
+    "text": "In the same span of time,"
+  },
+  {
+    "startTime": 107.262,
+    "endTime": 112.132,
+    "text": "computers' ability to recognize people in photos"
+  },
+  {
+    "startTime": 112.132,
+    "endTime": 115.74000000000001,
+    "text": "improved by three orders of magnitude."
+  },
+  {
+    "startTime": 115.74,
+    "endTime": 117.622,
+    "text": "What happens when you combine"
+  },
+  {
+    "startTime": 117.622,
+    "endTime": 119.123,
+    "text": "these technologies together:"
+  },
+  {
+    "startTime": 119.123,
+    "endTime": 121.781,
+    "text": "increasing availability of facial data;"
+  },
+  {
+    "startTime": 121.781,
+    "endTime": 125.429,
+    "text": "improving facial recognizing ability by computers;"
+  },
+  {
+    "startTime": 125.429,
+    "endTime": 127.611,
+    "text": "but also cloud computing,"
+  },
+  {
+    "startTime": 127.611,
+    "endTime": 129.499,
+    "text": "which gives anyone in this theater"
+  },
+  {
+    "startTime": 129.499,
+    "endTime": 131.59,
+    "text": "the kind of computational power"
+  },
+  {
+    "startTime": 131.59,
+    "endTime": 132.945,
+    "text": "which a few years ago was only the domain"
+  },
+  {
+    "startTime": 132.945,
+    "endTime": 134.727,
+    "text": "of three-letter agencies;"
+  },
+  {
+    "startTime": 134.727,
+    "endTime": 136.105,
+    "text": "and ubiquitous computing,"
+  },
+  {
+    "startTime": 136.105,
+    "endTime": 138.99699999999999,
+    "text": "which allows my phone, which is not a supercomputer,"
+  },
+  {
+    "startTime": 138.997,
+    "endTime": 140.668,
+    "text": "to connect to the Internet"
+  },
+  {
+    "startTime": 140.668,
+    "endTime": 143.20000000000002,
+    "text": "and do there hundreds of thousands"
+  },
+  {
+    "startTime": 143.2,
+    "endTime": 145.641,
+    "text": "of face metrics in a few seconds?"
+  },
+  {
+    "startTime": 145.641,
+    "endTime": 148.269,
+    "text": "Well, we conjecture that the result"
+  },
+  {
+    "startTime": 148.269,
+    "endTime": 150.333,
+    "text": "of this combination of technologies"
+  },
+  {
+    "startTime": 150.333,
+    "endTime": 153.221,
+    "text": "will be a radical change in our very notions"
+  },
+  {
+    "startTime": 153.221,
+    "endTime": 155.478,
+    "text": "of privacy and anonymity."
+  },
+  {
+    "startTime": 155.478,
+    "endTime": 157.471,
+    "text": "To test that, we did an experiment"
+  },
+  {
+    "startTime": 157.471,
+    "endTime": 159.592,
+    "text": "on Carnegie Mellon University campus."
+  },
+  {
+    "startTime": 159.592,
+    "endTime": 161.691,
+    "text": "We asked students who were walking by"
+  },
+  {
+    "startTime": 161.691,
+    "endTime": 163.47,
+    "text": "to participate in a study,"
+  },
+  {
+    "startTime": 163.47,
+    "endTime": 166.32,
+    "text": "and we took a shot with a webcam,"
+  },
+  {
+    "startTime": 166.32,
+    "endTime": 168.814,
+    "text": "and we asked them to fill out a survey on a laptop."
+  },
+  {
+    "startTime": 168.814,
+    "endTime": 170.793,
+    "text": "While they were filling out the survey,"
+  },
+  {
+    "startTime": 170.793,
+    "endTime": 173.59,
+    "text": "we uploaded their shot to a cloud-computing cluster,"
+  },
+  {
+    "startTime": 173.59,
+    "endTime": 175.317,
+    "text": "and we started using a facial recognizer"
+  },
+  {
+    "startTime": 175.317,
+    "endTime": 177.722,
+    "text": "to match that shot to a database"
+  },
+  {
+    "startTime": 177.722,
+    "endTime": 180.115,
+    "text": "of some hundreds of thousands of images"
+  },
+  {
+    "startTime": 180.115,
+    "endTime": 183.711,
+    "text": "which we had downloaded from Facebook profiles."
+  },
+  {
+    "startTime": 183.711,
+    "endTime": 186.97,
+    "text": "By the time the subject reached the last page"
+  },
+  {
+    "startTime": 186.97,
+    "endTime": 190.317,
+    "text": "on the survey, the page had been dynamically updated"
+  },
+  {
+    "startTime": 190.317,
+    "endTime": 192.63,
+    "text": "with the 10 best matching photos"
+  },
+  {
+    "startTime": 192.63,
+    "endTime": 194.915,
+    "text": "which the recognizer had found,"
+  },
+  {
+    "startTime": 194.915,
+    "endTime": 196.653,
+    "text": "and we asked the subjects to indicate"
+  },
+  {
+    "startTime": 196.653,
+    "endTime": 200.773,
+    "text": "whether he or she found themselves in the photo."
+  },
+  {
+    "startTime": 200.773,
+    "endTime": 204.472,
+    "text": "Do you see the subject?"
+  },
+  {
+    "startTime": 204.472,
+    "endTime": 207.317,
+    "text": "Well, the computer did, and in fact did so"
+  },
+  {
+    "startTime": 207.317,
+    "endTime": 209.466,
+    "text": "for one out of three subjects."
+  },
+  {
+    "startTime": 209.466,
+    "endTime": 212.65,
+    "text": "So essentially, we can start from an anonymous face,"
+  },
+  {
+    "startTime": 212.65,
+    "endTime": 216.13400000000001,
+    "text": "offline or online, and we can use facial recognition"
+  },
+  {
+    "startTime": 216.134,
+    "endTime": 218.494,
+    "text": "to give a name to that anonymous face"
+  },
+  {
+    "startTime": 218.494,
+    "endTime": 220.602,
+    "text": "thanks to social media data."
+  },
+  {
+    "startTime": 220.602,
+    "endTime": 222.47400000000002,
+    "text": "But a few years back, we did something else."
+  },
+  {
+    "startTime": 222.474,
+    "endTime": 224.297,
+    "text": "We started from social media data,"
+  },
+  {
+    "startTime": 224.297,
+    "endTime": 227.347,
+    "text": "we combined it statistically with data"
+  },
+  {
+    "startTime": 227.348,
+    "endTime": 229.45000000000002,
+    "text": "from U.S. government social security,"
+  },
+  {
+    "startTime": 229.45,
+    "endTime": 232.774,
+    "text": "and we ended up predicting social security numbers,"
+  },
+  {
+    "startTime": 232.774,
+    "endTime": 234.286,
+    "text": "which in the United States"
+  },
+  {
+    "startTime": 234.286,
+    "endTime": 236.326,
+    "text": "are extremely sensitive information."
+  },
+  {
+    "startTime": 236.326,
+    "endTime": 238.418,
+    "text": "Do you see where I'm going with this?"
+  },
+  {
+    "startTime": 238.419,
+    "endTime": 241.341,
+    "text": "So if you combine the two studies together,"
+  },
+  {
+    "startTime": 241.341,
+    "endTime": 242.853,
+    "text": "then the question becomes,"
+  },
+  {
+    "startTime": 242.853,
+    "endTime": 245.573,
+    "text": "can you start from a face and,"
+  },
+  {
+    "startTime": 245.573,
+    "endTime": 247.88400000000001,
+    "text": "using facial recognition, find a name"
+  },
+  {
+    "startTime": 247.884,
+    "endTime": 250.553,
+    "text": "and publicly available information"
+  },
+  {
+    "startTime": 250.553,
+    "endTime": 252.484,
+    "text": "about that name and that person,"
+  },
+  {
+    "startTime": 252.485,
+    "endTime": 254.733,
+    "text": "and from that publicly available information"
+  },
+  {
+    "startTime": 254.733,
+    "endTime": 256.774,
+    "text": "infer non-publicly available information,"
+  },
+  {
+    "startTime": 256.774,
+    "endTime": 258.38,
+    "text": "much more sensitive ones"
+  },
+  {
+    "startTime": 258.38,
+    "endTime": 259.873,
+    "text": "which you link back to the face?"
+  },
+  {
+    "startTime": 259.873,
+    "endTime": 261.789,
+    "text": "And the answer is, yes, we can, and we did."
+  },
+  {
+    "startTime": 261.789,
+    "endTime": 264.35699999999997,
+    "text": "Of course, the accuracy keeps getting worse."
+  },
+  {
+    "startTime": 264.357,
+    "endTime": 265.30100000000004,
+    "text": "[27% of subjects' first 5 SSN digits identified (with 4 attempts)]"
+  },
+  {
+    "startTime": 265.301,
+    "endTime": 269.128,
+    "text": "But in fact, we even decided to develop an iPhone app"
+  },
+  {
+    "startTime": 269.128,
+    "endTime": 271.842,
+    "text": "which uses the phone's internal camera"
+  },
+  {
+    "startTime": 271.843,
+    "endTime": 273.44300000000004,
+    "text": "to take a shot of a subject"
+  },
+  {
+    "startTime": 273.443,
+    "endTime": 274.93,
+    "text": "and then upload it to a cloud"
+  },
+  {
+    "startTime": 274.93,
+    "endTime": 277.592,
+    "text": "and then do what I just described to you in real time:"
+  },
+  {
+    "startTime": 277.592,
+    "endTime": 279.68,
+    "text": "looking for a match, finding public information,"
+  },
+  {
+    "startTime": 279.68,
+    "endTime": 281.41,
+    "text": "trying to infer sensitive information,"
+  },
+  {
+    "startTime": 281.41,
+    "endTime": 284.1,
+    "text": "and then sending back to the phone"
+  },
+  {
+    "startTime": 284.1,
+    "endTime": 287.60900000000004,
+    "text": "so that it is overlaid on the face of the subject,"
+  },
+  {
+    "startTime": 287.61,
+    "endTime": 289.511,
+    "text": "an example of augmented reality,"
+  },
+  {
+    "startTime": 289.511,
+    "endTime": 291.96200000000005,
+    "text": "probably a creepy example of augmented reality."
+  },
+  {
+    "startTime": 291.962,
+    "endTime": 295.301,
+    "text": "In fact, we didn't develop the app to make it available,"
+  },
+  {
+    "startTime": 295.301,
+    "endTime": 297.223,
+    "text": "just as a proof of concept."
+  },
+  {
+    "startTime": 297.223,
+    "endTime": 299.536,
+    "text": "In fact, take these technologies"
+  },
+  {
+    "startTime": 299.536,
+    "endTime": 301.373,
+    "text": "and push them to their logical extreme."
+  },
+  {
+    "startTime": 301.373,
+    "endTime": 304.92,
+    "text": "Imagine a future in which strangers around you"
+  },
+  {
+    "startTime": 304.92,
+    "endTime": 306.40200000000004,
+    "text": "will look at you through their Google Glasses"
+  },
+  {
+    "startTime": 306.403,
+    "endTime": 308.71000000000004,
+    "text": "or, one day, their contact lenses,"
+  },
+  {
+    "startTime": 308.71,
+    "endTime": 312.729,
+    "text": "and use seven or eight data points about you"
+  },
+  {
+    "startTime": 312.73,
+    "endTime": 315.312,
+    "text": "to infer anything else"
+  },
+  {
+    "startTime": 315.312,
+    "endTime": 317.915,
+    "text": "which may be known about you."
+  },
+  {
+    "startTime": 317.915,
+    "endTime": 322.709,
+    "text": "What will this future without secrets look like?"
+  },
+  {
+    "startTime": 322.709,
+    "endTime": 324.673,
+    "text": "And should we care?"
+  },
+  {
+    "startTime": 324.673,
+    "endTime": 326.564,
+    "text": "We may like to believe"
+  },
+  {
+    "startTime": 326.564,
+    "endTime": 329.60400000000004,
+    "text": "that the future with so much wealth of data"
+  },
+  {
+    "startTime": 329.604,
+    "endTime": 332.118,
+    "text": "would be a future with no more biases,"
+  },
+  {
+    "startTime": 332.118,
+    "endTime": 335.701,
+    "text": "but in fact, having so much information"
+  },
+  {
+    "startTime": 335.701,
+    "endTime": 337.892,
+    "text": "doesn't mean that we will make decisions"
+  },
+  {
+    "startTime": 337.892,
+    "endTime": 339.598,
+    "text": "which are more objective."
+  },
+  {
+    "startTime": 339.598,
+    "endTime": 342.158,
+    "text": "In another experiment, we presented to our subjects"
+  },
+  {
+    "startTime": 342.158,
+    "endTime": 344.404,
+    "text": "information about a potential job candidate."
+  },
+  {
+    "startTime": 344.404,
+    "endTime": 347.582,
+    "text": "We included in this information some references"
+  },
+  {
+    "startTime": 347.582,
+    "endTime": 350.228,
+    "text": "to some funny, absolutely legal,"
+  },
+  {
+    "startTime": 350.228,
+    "endTime": 352.693,
+    "text": "but perhaps slightly embarrassing information"
+  },
+  {
+    "startTime": 352.693,
+    "endTime": 354.712,
+    "text": "that the subject had posted online."
+  },
+  {
+    "startTime": 354.713,
+    "endTime": 357.79,
+    "text": "Now interestingly, among our subjects,"
+  },
+  {
+    "startTime": 357.79,
+    "endTime": 360.16200000000003,
+    "text": "some had posted comparable information,"
+  },
+  {
+    "startTime": 360.162,
+    "endTime": 362.524,
+    "text": "and some had not."
+  },
+  {
+    "startTime": 362.524,
+    "endTime": 364.473,
+    "text": "Which group do you think"
+  },
+  {
+    "startTime": 364.473,
+    "endTime": 369.25,
+    "text": "was more likely to judge harshly our subject?"
+  },
+  {
+    "startTime": 369.25,
+    "endTime": 370.982,
+    "text": "Paradoxically, it was the group"
+  },
+  {
+    "startTime": 370.982,
+    "endTime": 372.71500000000003,
+    "text": "who had posted similar information,"
+  },
+  {
+    "startTime": 372.715,
+    "endTime": 375.657,
+    "text": "an example of moral dissonance."
+  },
+  {
+    "startTime": 375.657,
+    "endTime": 377.407,
+    "text": "Now you may be thinking,"
+  },
+  {
+    "startTime": 377.407,
+    "endTime": 379.109,
+    "text": "this does not apply to me,"
+  },
+  {
+    "startTime": 379.109,
+    "endTime": 381.27,
+    "text": "because I have nothing to hide."
+  },
+  {
+    "startTime": 381.271,
+    "endTime": 383.75300000000004,
+    "text": "But in fact, privacy is not about"
+  },
+  {
+    "startTime": 383.753,
+    "endTime": 387.429,
+    "text": "having something negative to hide."
+  },
+  {
+    "startTime": 387.429,
+    "endTime": 389.782,
+    "text": "Imagine that you are the H.R. director"
+  },
+  {
+    "startTime": 389.783,
+    "endTime": 392.73,
+    "text": "of a certain organization, and you receive résumés,"
+  },
+  {
+    "startTime": 392.73,
+    "endTime": 395.20300000000003,
+    "text": "and you decide to find more information about the candidates."
+  },
+  {
+    "startTime": 395.203,
+    "endTime": 397.662,
+    "text": "Therefore, you Google their names"
+  },
+  {
+    "startTime": 397.663,
+    "endTime": 399.903,
+    "text": "and in a certain universe,"
+  },
+  {
+    "startTime": 399.903,
+    "endTime": 401.911,
+    "text": "you find this information."
+  },
+  {
+    "startTime": 401.911,
+    "endTime": 406.348,
+    "text": "Or in a parallel universe, you find this information."
+  },
+  {
+    "startTime": 406.348,
+    "endTime": 409.65000000000003,
+    "text": "Do you think that you would be equally likely"
+  },
+  {
+    "startTime": 409.65,
+    "endTime": 411.868,
+    "text": "to call either candidate for an interview?"
+  },
+  {
+    "startTime": 411.868,
+    "endTime": 414.15,
+    "text": "If you think so, then you are not"
+  },
+  {
+    "startTime": 414.15,
+    "endTime": 416.73199999999997,
+    "text": "like the U.S. employers who are, in fact,"
+  },
+  {
+    "startTime": 416.732,
+    "endTime": 420.39000000000004,
+    "text": "part of our experiment, meaning we did exactly that."
+  },
+  {
+    "startTime": 420.39,
+    "endTime": 423.221,
+    "text": "We created Facebook profiles, manipulating traits,"
+  },
+  {
+    "startTime": 423.221,
+    "endTime": 426.72,
+    "text": "then we started sending out résumés to companies in the U.S.,"
+  },
+  {
+    "startTime": 426.72,
+    "endTime": 427.98,
+    "text": "and we detected, we monitored,"
+  },
+  {
+    "startTime": 427.98,
+    "endTime": 430.373,
+    "text": "whether they were searching for our candidates,"
+  },
+  {
+    "startTime": 430.373,
+    "endTime": 432.205,
+    "text": "and whether they were acting on the information"
+  },
+  {
+    "startTime": 432.205,
+    "endTime": 434.143,
+    "text": "they found on social media. And they were."
+  },
+  {
+    "startTime": 434.143,
+    "endTime": 436.24399999999997,
+    "text": "Discrimination was happening through social media"
+  },
+  {
+    "startTime": 436.244,
+    "endTime": 439.317,
+    "text": "for equally skilled candidates."
+  },
+  {
+    "startTime": 439.317,
+    "endTime": 443.892,
+    "text": "Now marketers like us to believe"
+  },
+  {
+    "startTime": 443.892,
+    "endTime": 446.161,
+    "text": "that all information about us will always"
+  },
+  {
+    "startTime": 446.161,
+    "endTime": 449.434,
+    "text": "be used in a manner which is in our favor."
+  },
+  {
+    "startTime": 449.434,
+    "endTime": 453.149,
+    "text": "But think again. Why should that be always the case?"
+  },
+  {
+    "startTime": 453.149,
+    "endTime": 455.813,
+    "text": "In a movie which came out a few years ago,"
+  },
+  {
+    "startTime": 455.813,
+    "endTime": 458.366,
+    "text": "\"Minority Report,\" a famous scene"
+  },
+  {
+    "startTime": 458.366,
+    "endTime": 460.942,
+    "text": "had Tom Cruise walk in a mall"
+  },
+  {
+    "startTime": 460.942,
+    "endTime": 464.718,
+    "text": "and holographic personalized advertising"
+  },
+  {
+    "startTime": 464.718,
+    "endTime": 466.553,
+    "text": "would appear around him."
+  },
+  {
+    "startTime": 466.553,
+    "endTime": 469.78,
+    "text": "Now, that movie is set in 2054,"
+  },
+  {
+    "startTime": 469.78,
+    "endTime": 471.421,
+    "text": "about 40 years from now,"
+  },
+  {
+    "startTime": 471.422,
+    "endTime": 474.33000000000004,
+    "text": "and as exciting as that technology looks,"
+  },
+  {
+    "startTime": 474.33,
+    "endTime": 476.976,
+    "text": "it already vastly underestimates"
+  },
+  {
+    "startTime": 476.976,
+    "endTime": 479.116,
+    "text": "the amount of information that organizations"
+  },
+  {
+    "startTime": 479.116,
+    "endTime": 481.599,
+    "text": "can gather about you, and how they can use it"
+  },
+  {
+    "startTime": 481.599,
+    "endTime": 484.997,
+    "text": "to influence you in a way that you will not even detect."
+  },
+  {
+    "startTime": 484.997,
+    "endTime": 487.1,
+    "text": "So as an example, this is another experiment"
+  },
+  {
+    "startTime": 487.1,
+    "endTime": 489.37300000000005,
+    "text": "actually we are running, not yet completed."
+  },
+  {
+    "startTime": 489.373,
+    "endTime": 491.692,
+    "text": "Imagine that an organization has access"
+  },
+  {
+    "startTime": 491.692,
+    "endTime": 493.748,
+    "text": "to your list of Facebook friends,"
+  },
+  {
+    "startTime": 493.748,
+    "endTime": 495.52,
+    "text": "and through some kind of algorithm"
+  },
+  {
+    "startTime": 495.52,
+    "endTime": 499.253,
+    "text": "they can detect the two friends that you like the most."
+  },
+  {
+    "startTime": 499.254,
+    "endTime": 501.534,
+    "text": "And then they create, in real time,"
+  },
+  {
+    "startTime": 501.534,
+    "endTime": 504.376,
+    "text": "a facial composite of these two friends."
+  },
+  {
+    "startTime": 504.376,
+    "endTime": 507.445,
+    "text": "Now studies prior to ours have shown that people"
+  },
+  {
+    "startTime": 507.445,
+    "endTime": 510.33,
+    "text": "don't recognize any longer even themselves"
+  },
+  {
+    "startTime": 510.33,
+    "endTime": 512.792,
+    "text": "in facial composites, but they react"
+  },
+  {
+    "startTime": 512.792,
+    "endTime": 514.909,
+    "text": "to those composites in a positive manner."
+  },
+  {
+    "startTime": 514.909,
+    "endTime": 518.323,
+    "text": "So next time you are looking for a certain product,"
+  },
+  {
+    "startTime": 518.323,
+    "endTime": 520.882,
+    "text": "and there is an ad suggesting you to buy it,"
+  },
+  {
+    "startTime": 520.883,
+    "endTime": 523.7900000000001,
+    "text": "it will not be just a standard spokesperson."
+  },
+  {
+    "startTime": 523.789,
+    "endTime": 526.103,
+    "text": "It will be one of your friends,"
+  },
+  {
+    "startTime": 526.103,
+    "endTime": 529.406,
+    "text": "and you will not even know that this is happening."
+  },
+  {
+    "startTime": 529.406,
+    "endTime": 531.819,
+    "text": "Now the problem is that"
+  },
+  {
+    "startTime": 531.819,
+    "endTime": 534.338,
+    "text": "the current policy mechanisms we have"
+  },
+  {
+    "startTime": 534.338,
+    "endTime": 537.776,
+    "text": "to protect ourselves from the abuses of personal information"
+  },
+  {
+    "startTime": 537.776,
+    "endTime": 540.76,
+    "text": "are like bringing a knife to a gunfight."
+  },
+  {
+    "startTime": 540.76,
+    "endTime": 543.673,
+    "text": "One of these mechanisms is transparency,"
+  },
+  {
+    "startTime": 543.673,
+    "endTime": 546.873,
+    "text": "telling people what you are going to do with their data."
+  },
+  {
+    "startTime": 546.873,
+    "endTime": 548.979,
+    "text": "And in principle, that's a very good thing."
+  },
+  {
+    "startTime": 548.979,
+    "endTime": 552.6460000000001,
+    "text": "It's necessary, but it is not sufficient."
+  },
+  {
+    "startTime": 552.646,
+    "endTime": 556.343,
+    "text": "Transparency can be misdirected."
+  },
+  {
+    "startTime": 556.344,
+    "endTime": 558.4480000000001,
+    "text": "You can tell people what you are going to do,"
+  },
+  {
+    "startTime": 558.448,
+    "endTime": 560.68,
+    "text": "and then you still nudge them to disclose"
+  },
+  {
+    "startTime": 560.68,
+    "endTime": 563.303,
+    "text": "arbitrary amounts of personal information."
+  },
+  {
+    "startTime": 563.303,
+    "endTime": 566.189,
+    "text": "So in yet another experiment, this one with students,"
+  },
+  {
+    "startTime": 566.189,
+    "endTime": 569.247,
+    "text": "we asked them to provide information"
+  },
+  {
+    "startTime": 569.247,
+    "endTime": 571.5999999999999,
+    "text": "about their campus behavior,"
+  },
+  {
+    "startTime": 571.6,
+    "endTime": 574.0,
+    "text": "including pretty sensitive questions, such as this one."
+  },
+  {
+    "startTime": 574.0,
+    "endTime": 574.621,
+    "text": "[Have you ever cheated in an exam?]"
+  },
+  {
+    "startTime": 574.621,
+    "endTime": 576.92,
+    "text": "Now to one group of subjects, we told them,"
+  },
+  {
+    "startTime": 576.921,
+    "endTime": 579.7620000000001,
+    "text": "\"Only other students will see your answers.\""
+  },
+  {
+    "startTime": 579.762,
+    "endTime": 581.3399999999999,
+    "text": "To another group of subjects, we told them,"
+  },
+  {
+    "startTime": 581.341,
+    "endTime": 584.902,
+    "text": "\"Students and faculty will see your answers.\""
+  },
+  {
+    "startTime": 584.902,
+    "endTime": 587.493,
+    "text": "Transparency. Notification. And sure enough, this worked,"
+  },
+  {
+    "startTime": 587.493,
+    "endTime": 588.9000000000001,
+    "text": "in the sense that the first group of subjects"
+  },
+  {
+    "startTime": 588.9,
+    "endTime": 591.468,
+    "text": "were much more likely to disclose than the second."
+  },
+  {
+    "startTime": 591.468,
+    "endTime": 592.9879999999999,
+    "text": "It makes sense, right?"
+  },
+  {
+    "startTime": 592.988,
+    "endTime": 594.4780000000001,
+    "text": "But then we added the misdirection."
+  },
+  {
+    "startTime": 594.478,
+    "endTime": 597.2379999999999,
+    "text": "We repeated the experiment with the same two groups,"
+  },
+  {
+    "startTime": 597.238,
+    "endTime": 599.6650000000001,
+    "text": "this time adding a delay"
+  },
+  {
+    "startTime": 599.665,
+    "endTime": 602.5989999999999,
+    "text": "between the time we told subjects"
+  },
+  {
+    "startTime": 602.6,
+    "endTime": 604.6800000000001,
+    "text": "how we would use their data"
+  },
+  {
+    "startTime": 604.68,
+    "endTime": 609.68,
+    "text": "and the time we actually started answering the questions."
+  },
+  {
+    "startTime": 609.68,
+    "endTime": 611.6289999999999,
+    "text": "How long a delay do you think we had to add"
+  },
+  {
+    "startTime": 611.629,
+    "endTime": 616.2420000000001,
+    "text": "in order to nullify the inhibitory effect"
+  },
+  {
+    "startTime": 616.242,
+    "endTime": 619.6519999999999,
+    "text": "of knowing that faculty would see your answers?"
+  },
+  {
+    "startTime": 619.653,
+    "endTime": 621.433,
+    "text": "Ten minutes?"
+  },
+  {
+    "startTime": 621.433,
+    "endTime": 623.224,
+    "text": "Five minutes?"
+  },
+  {
+    "startTime": 623.224,
+    "endTime": 625.0,
+    "text": "One minute?"
+  },
+  {
+    "startTime": 625.0,
+    "endTime": 627.49,
+    "text": "How about 15 seconds?"
+  },
+  {
+    "startTime": 627.49,
+    "endTime": 629.717,
+    "text": "Fifteen seconds were sufficient to have the two groups"
+  },
+  {
+    "startTime": 629.717,
+    "endTime": 631.285,
+    "text": "disclose the same amount of information,"
+  },
+  {
+    "startTime": 631.285,
+    "endTime": 634.31,
+    "text": "as if the second group now no longer cares"
+  },
+  {
+    "startTime": 634.31,
+    "endTime": 636.6859999999999,
+    "text": "for faculty reading their answers."
+  },
+  {
+    "startTime": 636.687,
+    "endTime": 640.23,
+    "text": "Now I have to admit that this talk so far"
+  },
+  {
+    "startTime": 640.23,
+    "endTime": 642.503,
+    "text": "may sound exceedingly gloomy,"
+  },
+  {
+    "startTime": 642.503,
+    "endTime": 644.224,
+    "text": "but that is not my point."
+  },
+  {
+    "startTime": 644.224,
+    "endTime": 646.923,
+    "text": "In fact, I want to share with you the fact that"
+  },
+  {
+    "startTime": 646.923,
+    "endTime": 648.695,
+    "text": "there are alternatives."
+  },
+  {
+    "startTime": 648.695,
+    "endTime": 651.1940000000001,
+    "text": "The way we are doing things now is not the only way"
+  },
+  {
+    "startTime": 651.194,
+    "endTime": 654.231,
+    "text": "they can done, and certainly not the best way"
+  },
+  {
+    "startTime": 654.231,
+    "endTime": 656.258,
+    "text": "they can be done."
+  },
+  {
+    "startTime": 656.258,
+    "endTime": 660.4290000000001,
+    "text": "When someone tells you, \"People don't care about privacy,\""
+  },
+  {
+    "startTime": 660.429,
+    "endTime": 663.7099999999999,
+    "text": "consider whether the game has been designed"
+  },
+  {
+    "startTime": 663.71,
+    "endTime": 665.7950000000001,
+    "text": "and rigged so that they cannot care about privacy,"
+  },
+  {
+    "startTime": 665.795,
+    "endTime": 669.56,
+    "text": "and coming to the realization that these manipulations occur"
+  },
+  {
+    "startTime": 669.57,
+    "endTime": 670.6640000000001,
+    "text": "is already halfway through the process"
+  },
+  {
+    "startTime": 670.664,
+    "endTime": 672.922,
+    "text": "of being able to protect yourself."
+  },
+  {
+    "startTime": 672.922,
+    "endTime": 676.6320000000001,
+    "text": "When someone tells you that privacy is incompatible"
+  },
+  {
+    "startTime": 676.632,
+    "endTime": 678.481,
+    "text": "with the benefits of big data,"
+  },
+  {
+    "startTime": 678.481,
+    "endTime": 680.954,
+    "text": "consider that in the last 20 years,"
+  },
+  {
+    "startTime": 680.954,
+    "endTime": 682.871,
+    "text": "researchers have created technologies"
+  },
+  {
+    "startTime": 682.871,
+    "endTime": 686.189,
+    "text": "to allow virtually any electronic transactions"
+  },
+  {
+    "startTime": 686.189,
+    "endTime": 689.938,
+    "text": "to take place in a more privacy-preserving manner."
+  },
+  {
+    "startTime": 689.938,
+    "endTime": 692.492,
+    "text": "We can browse the Internet anonymously."
+  },
+  {
+    "startTime": 692.493,
+    "endTime": 695.171,
+    "text": "We can send emails that can only be read"
+  },
+  {
+    "startTime": 695.171,
+    "endTime": 698.88,
+    "text": "by the intended recipient, not even the NSA."
+  },
+  {
+    "startTime": 698.88,
+    "endTime": 701.877,
+    "text": "We can have even privacy-preserving data mining."
+  },
+  {
+    "startTime": 701.877,
+    "endTime": 705.771,
+    "text": "In other words, we can have the benefits of big data"
+  },
+  {
+    "startTime": 705.771,
+    "endTime": 707.9019999999999,
+    "text": "while protecting privacy."
+  },
+  {
+    "startTime": 707.903,
+    "endTime": 711.6940000000001,
+    "text": "Of course, these technologies imply a shifting"
+  },
+  {
+    "startTime": 711.694,
+    "endTime": 713.24,
+    "text": "of cost and revenues"
+  },
+  {
+    "startTime": 713.24,
+    "endTime": 715.347,
+    "text": "between data holders and data subjects,"
+  },
+  {
+    "startTime": 715.347,
+    "endTime": 718.8,
+    "text": "which is why, perhaps, you don't hear more about them."
+  },
+  {
+    "startTime": 718.8,
+    "endTime": 722.506,
+    "text": "Which brings me back to the Garden of Eden."
+  },
+  {
+    "startTime": 722.506,
+    "endTime": 725.286,
+    "text": "There is a second privacy interpretation"
+  },
+  {
+    "startTime": 725.286,
+    "endTime": 727.9399999999999,
+    "text": "of the story of the Garden of Eden"
+  },
+  {
+    "startTime": 727.95,
+    "endTime": 729.191,
+    "text": "which doesn't have to do with the issue"
+  },
+  {
+    "startTime": 729.191,
+    "endTime": 731.416,
+    "text": "of Adam and Eve feeling naked"
+  },
+  {
+    "startTime": 731.416,
+    "endTime": 733.797,
+    "text": "and feeling ashamed."
+  },
+  {
+    "startTime": 733.797,
+    "endTime": 736.578,
+    "text": "You can find echoes of this interpretation"
+  },
+  {
+    "startTime": 736.578,
+    "endTime": 739.36,
+    "text": "in John Milton's \"Paradise Lost.\""
+  },
+  {
+    "startTime": 739.36,
+    "endTime": 743.557,
+    "text": "In the garden, Adam and Eve are materially content."
+  },
+  {
+    "startTime": 743.557,
+    "endTime": 745.6610000000001,
+    "text": "They're happy. They are satisfied."
+  },
+  {
+    "startTime": 745.661,
+    "endTime": 747.954,
+    "text": "However, they also lack knowledge"
+  },
+  {
+    "startTime": 747.954,
+    "endTime": 749.593,
+    "text": "and self-awareness."
+  },
+  {
+    "startTime": 749.594,
+    "endTime": 752.913,
+    "text": "The moment they eat the aptly named"
+  },
+  {
+    "startTime": 752.913,
+    "endTime": 754.206,
+    "text": "fruit of knowledge,"
+  },
+  {
+    "startTime": 754.206,
+    "endTime": 756.811,
+    "text": "that's when they discover themselves."
+  },
+  {
+    "startTime": 756.811,
+    "endTime": 760.842,
+    "text": "They become aware. They achieve autonomy."
+  },
+  {
+    "startTime": 760.842,
+    "endTime": 763.968,
+    "text": "The price to pay, however, is leaving the garden."
+  },
+  {
+    "startTime": 763.968,
+    "endTime": 767.848,
+    "text": "So privacy, in a way, is both the means"
+  },
+  {
+    "startTime": 767.849,
+    "endTime": 770.811,
+    "text": "and the price to pay for freedom."
+  },
+  {
+    "startTime": 770.811,
+    "endTime": 773.581,
+    "text": "Again, marketers tell us"
+  },
+  {
+    "startTime": 773.581,
+    "endTime": 776.6,
+    "text": "that big data and social media"
+  },
+  {
+    "startTime": 776.6,
+    "endTime": 779.5790000000001,
+    "text": "are not just a paradise of profit for them,"
+  },
+  {
+    "startTime": 779.579,
+    "endTime": 782.3599999999999,
+    "text": "but a Garden of Eden for the rest of us."
+  },
+  {
+    "startTime": 782.36,
+    "endTime": 783.274,
+    "text": "We get free content."
+  },
+  {
+    "startTime": 783.274,
+    "endTime": 786.397,
+    "text": "We get to play Angry Birds. We get targeted apps."
+  },
+  {
+    "startTime": 786.397,
+    "endTime": 789.2940000000001,
+    "text": "But in fact, in a few years, organizations"
+  },
+  {
+    "startTime": 789.294,
+    "endTime": 790.903,
+    "text": "will know so much about us,"
+  },
+  {
+    "startTime": 790.903,
+    "endTime": 793.613,
+    "text": "they will be able to infer our desires"
+  },
+  {
+    "startTime": 793.613,
+    "endTime": 795.817,
+    "text": "before we even form them, and perhaps"
+  },
+  {
+    "startTime": 795.817,
+    "endTime": 798.264,
+    "text": "buy products on our behalf"
+  },
+  {
+    "startTime": 798.264,
+    "endTime": 800.538,
+    "text": "before we even know we need them."
+  },
+  {
+    "startTime": 800.538,
+    "endTime": 803.775,
+    "text": "Now there was one English author"
+  },
+  {
+    "startTime": 803.775,
+    "endTime": 806.819,
+    "text": "who anticipated this kind of future"
+  },
+  {
+    "startTime": 806.82,
+    "endTime": 808.225,
+    "text": "where we would trade away"
+  },
+  {
+    "startTime": 808.225,
+    "endTime": 811.773,
+    "text": "our autonomy and freedom for comfort."
+  },
+  {
+    "startTime": 811.773,
+    "endTime": 813.934,
+    "text": "Even more so than George Orwell,"
+  },
+  {
+    "startTime": 813.934,
+    "endTime": 816.694,
+    "text": "the author is, of course, Aldous Huxley."
+  },
+  {
+    "startTime": 816.695,
+    "endTime": 819.5490000000001,
+    "text": "In \"Brave New World,\" he imagines a society"
+  },
+  {
+    "startTime": 819.549,
+    "endTime": 821.72,
+    "text": "where technologies that we created"
+  },
+  {
+    "startTime": 821.72,
+    "endTime": 823.5790000000001,
+    "text": "originally for freedom"
+  },
+  {
+    "startTime": 823.579,
+    "endTime": 826.146,
+    "text": "end up coercing us."
+  },
+  {
+    "startTime": 826.146,
+    "endTime": 830.937,
+    "text": "However, in the book, he also offers us a way out"
+  },
+  {
+    "startTime": 830.937,
+    "endTime": 834.375,
+    "text": "of that society, similar to the path"
+  },
+  {
+    "startTime": 834.375,
+    "endTime": 838.33,
+    "text": "that Adam and Eve had to follow to leave the garden."
+  },
+  {
+    "startTime": 838.33,
+    "endTime": 840.4770000000001,
+    "text": "In the words of the Savage,"
+  },
+  {
+    "startTime": 840.477,
+    "endTime": 843.545,
+    "text": "regaining autonomy and freedom is possible,"
+  },
+  {
+    "startTime": 843.546,
+    "endTime": 846.225,
+    "text": "although the price to pay is steep."
+  },
+  {
+    "startTime": 846.225,
+    "endTime": 851.94,
+    "text": "So I do believe that one of the defining fights"
+  },
+  {
+    "startTime": 851.94,
+    "endTime": 854.503,
+    "text": "of our times will be the fight"
+  },
+  {
+    "startTime": 854.503,
+    "endTime": 856.89,
+    "text": "for the control over personal information,"
+  },
+  {
+    "startTime": 856.89,
+    "endTime": 860.396,
+    "text": "the fight over whether big data will become a force"
+  },
+  {
+    "startTime": 860.397,
+    "endTime": 861.686,
+    "text": "for freedom,"
+  },
+  {
+    "startTime": 861.686,
+    "endTime": 866.432,
+    "text": "rather than a force which will hiddenly manipulate us."
+  },
+  {
+    "startTime": 866.432,
+    "endTime": 869.25,
+    "text": "Right now, many of us"
+  },
+  {
+    "startTime": 869.25,
+    "endTime": 871.778,
+    "text": "do not even know that the fight is going on,"
+  },
+  {
+    "startTime": 871.778,
+    "endTime": 874.45,
+    "text": "but it is, whether you like it or not."
+  },
+  {
+    "startTime": 874.45,
+    "endTime": 877.254,
+    "text": "And at the risk of playing the serpent,"
+  },
+  {
+    "startTime": 877.254,
+    "endTime": 880.1510000000001,
+    "text": "I will tell you that the tools for the fight"
+  },
+  {
+    "startTime": 880.151,
+    "endTime": 883.16,
+    "text": "are here, the awareness of what is going on,"
+  },
+  {
+    "startTime": 883.16,
+    "endTime": 884.515,
+    "text": "and in your hands,"
+  },
+  {
+    "startTime": 884.515,
+    "endTime": 888.255,
+    "text": "just a few clicks away."
+  },
+  {
+    "startTime": 888.255,
+    "endTime": 889.737,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 889.737,
+    "endTime": 894.2139999999999,
+    "text": "(Applause)"
+  }
+]

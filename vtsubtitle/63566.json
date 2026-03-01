@@ -1,0 +1,892 @@
+[
+  {
+    "startTime": 12.811,
+    "endTime": 16.364,
+    "text": "We've evolved with tools, and tools have evolved with us."
+  },
+  {
+    "startTime": 16.388,
+    "endTime": 21.407000000000004,
+    "text": "Our ancestors created these hand axes 1.5 million years ago,"
+  },
+  {
+    "startTime": 21.431,
+    "endTime": 24.453,
+    "text": "shaping them to not only fit the task at hand"
+  },
+  {
+    "startTime": 24.477,
+    "endTime": 25.945,
+    "text": "but also their hand."
+  },
+  {
+    "startTime": 26.747,
+    "endTime": 28.326999999999998,
+    "text": "However, over the years,"
+  },
+  {
+    "startTime": 28.351,
+    "endTime": 30.881,
+    "text": "tools have become more and more specialized."
+  },
+  {
+    "startTime": 31.293,
+    "endTime": 35.13,
+    "text": "These sculpting tools have evolved through their use,"
+  },
+  {
+    "startTime": 35.154,
+    "endTime": 38.716,
+    "text": "and each one has a different form which matches its function."
+  },
+  {
+    "startTime": 38.74,
+    "endTime": 41.408,
+    "text": "And they leverage the dexterity of our hands"
+  },
+  {
+    "startTime": 41.432,
+    "endTime": 44.562000000000005,
+    "text": "in order to manipulate things with much more precision."
+  },
+  {
+    "startTime": 45.338,
+    "endTime": 48.404,
+    "text": "But as tools have become more and more complex,"
+  },
+  {
+    "startTime": 48.428,
+    "endTime": 52.306,
+    "text": "we need more complex controls to control them."
+  },
+  {
+    "startTime": 52.714,
+    "endTime": 57.158,
+    "text": "And so designers have become very adept at creating interfaces"
+  },
+  {
+    "startTime": 57.182,
+    "endTime": 60.92,
+    "text": "that allow you to manipulate parameters while you're attending to other things,"
+  },
+  {
+    "startTime": 60.944,
+    "endTime": 63.823,
+    "text": "such as taking a photograph and changing the focus"
+  },
+  {
+    "startTime": 63.847,
+    "endTime": 65.183,
+    "text": "or the aperture."
+  },
+  {
+    "startTime": 65.918,
+    "endTime": 70.137,
+    "text": "But the computer has fundamentally changed the way we think about tools"
+  },
+  {
+    "startTime": 70.161,
+    "endTime": 72.175,
+    "text": "because computation is dynamic."
+  },
+  {
+    "startTime": 72.564,
+    "endTime": 74.714,
+    "text": "So it can do a million different things"
+  },
+  {
+    "startTime": 74.739,
+    "endTime": 77.88000000000001,
+    "text": "and run a million different applications."
+  },
+  {
+    "startTime": 77.112,
+    "endTime": 80.857,
+    "text": "However, computers have the same static physical form"
+  },
+  {
+    "startTime": 80.881,
+    "endTime": 82.81700000000001,
+    "text": "for all of these different applications"
+  },
+  {
+    "startTime": 82.841,
+    "endTime": 85.618,
+    "text": "and the same static interface elements as well."
+  },
+  {
+    "startTime": 85.976,
+    "endTime": 88.396,
+    "text": "And I believe that this is fundamentally a problem,"
+  },
+  {
+    "startTime": 88.42,
+    "endTime": 91.416,
+    "text": "because it doesn't really allow us to interact with our hands"
+  },
+  {
+    "startTime": 91.44,
+    "endTime": 94.867,
+    "text": "and capture the rich dexterity that we have in our bodies."
+  },
+  {
+    "startTime": 96.26,
+    "endTime": 100.56200000000001,
+    "text": "And my belief is that, then, we must need new types of interfaces"
+  },
+  {
+    "startTime": 100.586,
+    "endTime": 104.345,
+    "text": "that can capture these rich abilities that we have"
+  },
+  {
+    "startTime": 104.369,
+    "endTime": 106.739,
+    "text": "and that can physically adapt to us"
+  },
+  {
+    "startTime": 106.763,
+    "endTime": 109.13000000000001,
+    "text": "and allow us to interact in new ways."
+  },
+  {
+    "startTime": 109.37,
+    "endTime": 111.62400000000001,
+    "text": "And so that's what I've been doing at the MIT Media Lab"
+  },
+  {
+    "startTime": 111.648,
+    "endTime": 112.972,
+    "text": "and now at Stanford."
+  },
+  {
+    "startTime": 113.901,
+    "endTime": 117.512,
+    "text": "So with my colleagues, Daniel Leithinger and Hiroshi Ishii,"
+  },
+  {
+    "startTime": 117.536,
+    "endTime": 118.925,
+    "text": "we created inFORM,"
+  },
+  {
+    "startTime": 118.949,
+    "endTime": 121.447,
+    "text": "where the interface can actually come off the screen"
+  },
+  {
+    "startTime": 121.471,
+    "endTime": 123.747,
+    "text": "and you can physically manipulate it."
+  },
+  {
+    "startTime": 123.771,
+    "endTime": 126.514,
+    "text": "Or you can visualize 3D information physically"
+  },
+  {
+    "startTime": 126.538,
+    "endTime": 130.51,
+    "text": "and touch it and feel it to understand it in new ways."
+  },
+  {
+    "startTime": 135.889,
+    "endTime": 139.965,
+    "text": "Or you can interact through gestures and direct deformations"
+  },
+  {
+    "startTime": 139.989,
+    "endTime": 142.286,
+    "text": "to sculpt digital clay."
+  },
+  {
+    "startTime": 146.474,
+    "endTime": 149.554,
+    "text": "Or interface elements can arise out of the surface"
+  },
+  {
+    "startTime": 149.579,
+    "endTime": 150.95100000000002,
+    "text": "and change on demand."
+  },
+  {
+    "startTime": 150.975,
+    "endTime": 153.483,
+    "text": "And the idea is that for each individual application,"
+  },
+  {
+    "startTime": 153.507,
+    "endTime": 156.80700000000002,
+    "text": "the physical form can be matched to the application."
+  },
+  {
+    "startTime": 157.196,
+    "endTime": 159.301,
+    "text": "And I believe this represents a new way"
+  },
+  {
+    "startTime": 159.325,
+    "endTime": 161.274,
+    "text": "that we can interact with information,"
+  },
+  {
+    "startTime": 161.299,
+    "endTime": 162.728,
+    "text": "by making it physical."
+  },
+  {
+    "startTime": 163.142,
+    "endTime": 165.357,
+    "text": "So the question is, how can we use this?"
+  },
+  {
+    "startTime": 165.81,
+    "endTime": 169.5,
+    "text": "Traditionally, urban planners and architects build physical models"
+  },
+  {
+    "startTime": 169.524,
+    "endTime": 172.334,
+    "text": "of cities and buildings to better understand them."
+  },
+  {
+    "startTime": 172.358,
+    "endTime": 176.573,
+    "text": "So with Tony Tang at the Media Lab, we created an interface built on inFORM"
+  },
+  {
+    "startTime": 176.597,
+    "endTime": 181.58,
+    "text": "to allow urban planners to design and view entire cities."
+  },
+  {
+    "startTime": 181.604,
+    "endTime": 185.86100000000002,
+    "text": "And now you can walk around it, but it's dynamic, it's physical,"
+  },
+  {
+    "startTime": 185.885,
+    "endTime": 187.584,
+    "text": "and you can also interact directly."
+  },
+  {
+    "startTime": 187.609,
+    "endTime": 189.347,
+    "text": "Or you can look at different views,"
+  },
+  {
+    "startTime": 189.371,
+    "endTime": 192.18800000000002,
+    "text": "such as population or traffic information,"
+  },
+  {
+    "startTime": 192.212,
+    "endTime": 193.774,
+    "text": "but it's made physical."
+  },
+  {
+    "startTime": 194.996,
+    "endTime": 198.806,
+    "text": "We also believe that these dynamic shape displays can really change"
+  },
+  {
+    "startTime": 198.83,
+    "endTime": 201.79000000000002,
+    "text": "the ways that we remotely collaborate with people."
+  },
+  {
+    "startTime": 201.814,
+    "endTime": 204.117,
+    "text": "So when we're working together in person,"
+  },
+  {
+    "startTime": 204.141,
+    "endTime": 205.798,
+    "text": "I'm not only looking at your face"
+  },
+  {
+    "startTime": 205.823,
+    "endTime": 208.86100000000002,
+    "text": "but I'm also gesturing and manipulating objects,"
+  },
+  {
+    "startTime": 208.885,
+    "endTime": 212.67399999999998,
+    "text": "and that's really hard to do when you're using tools like Skype."
+  },
+  {
+    "startTime": 213.905,
+    "endTime": 216.891,
+    "text": "And so using inFORM, you can reach out from the screen"
+  },
+  {
+    "startTime": 216.915,
+    "endTime": 219.26999999999998,
+    "text": "and manipulate things at a distance."
+  },
+  {
+    "startTime": 219.51,
+    "endTime": 222.226,
+    "text": "So we used the pins of the display to represent people's hands,"
+  },
+  {
+    "startTime": 222.25,
+    "endTime": 226.756,
+    "text": "allowing them to actually touch and manipulate objects at a distance."
+  },
+  {
+    "startTime": 230.519,
+    "endTime": 234.793,
+    "text": "And you can also manipulate and collaborate on 3D data sets as well,"
+  },
+  {
+    "startTime": 234.817,
+    "endTime": 238.48600000000002,
+    "text": "so you can gesture around them as well as manipulate them."
+  },
+  {
+    "startTime": 238.51,
+    "endTime": 242.899,
+    "text": "And that allows people to collaborate on these new types of 3D information"
+  },
+  {
+    "startTime": 242.924,
+    "endTime": 246.535,
+    "text": "in a richer way than might be possible with traditional tools."
+  },
+  {
+    "startTime": 247.87,
+    "endTime": 250.623,
+    "text": "And so you can also bring in existing objects,"
+  },
+  {
+    "startTime": 250.647,
+    "endTime": 253.861,
+    "text": "and those will be captured on one side and transmitted to the other."
+  },
+  {
+    "startTime": 253.885,
+    "endTime": 256.671,
+    "text": "Or you can have an object that's linked between two places,"
+  },
+  {
+    "startTime": 256.695,
+    "endTime": 258.779,
+    "text": "so as I move a ball on one side,"
+  },
+  {
+    "startTime": 258.803,
+    "endTime": 260.73,
+    "text": "the ball moves on the other as well."
+  },
+  {
+    "startTime": 262.278,
+    "endTime": 265.38100000000003,
+    "text": "And so we do this by capturing the remote user"
+  },
+  {
+    "startTime": 265.405,
+    "endTime": 268.21,
+    "text": "using a depth-sensing camera like a Microsoft Kinect."
+  },
+  {
+    "startTime": 268.758,
+    "endTime": 271.775,
+    "text": "Now, you might be wondering how does this all work,"
+  },
+  {
+    "startTime": 271.799,
+    "endTime": 275.45,
+    "text": "and essentially, what it is, is 900 linear actuators"
+  },
+  {
+    "startTime": 275.474,
+    "endTime": 277.76,
+    "text": "that are connected to these mechanical linkages"
+  },
+  {
+    "startTime": 277.784,
+    "endTime": 281.53,
+    "text": "that allow motion down here to be propagated in these pins above."
+  },
+  {
+    "startTime": 281.554,
+    "endTime": 285.121,
+    "text": "So it's not that complex compared to what's going on at CERN,"
+  },
+  {
+    "startTime": 285.145,
+    "endTime": 287.471,
+    "text": "but it did take a long time for us to build it."
+  },
+  {
+    "startTime": 287.495,
+    "endTime": 289.75,
+    "text": "And so we started with a single motor,"
+  },
+  {
+    "startTime": 289.774,
+    "endTime": 291.189,
+    "text": "a single linear actuator,"
+  },
+  {
+    "startTime": 291.816,
+    "endTime": 294.979,
+    "text": "and then we had to design a custom circuit board to control them."
+  },
+  {
+    "startTime": 295.3,
+    "endTime": 297.55,
+    "text": "And then we had to make a lot of them."
+  },
+  {
+    "startTime": 297.79,
+    "endTime": 300.69300000000004,
+    "text": "And so the problem with having 900 of something"
+  },
+  {
+    "startTime": 300.717,
+    "endTime": 303.837,
+    "text": "is that you have to do every step 900 times."
+  },
+  {
+    "startTime": 303.861,
+    "endTime": 306.218,
+    "text": "And so that meant that we had a lot of work to do."
+  },
+  {
+    "startTime": 306.242,
+    "endTime": 309.97400000000005,
+    "text": "So we sort of set up a mini-sweatshop in the Media Lab"
+  },
+  {
+    "startTime": 309.998,
+    "endTime": 313.71,
+    "text": "and brought undergrads in and convinced them to do \"research\" --"
+  },
+  {
+    "startTime": 313.734,
+    "endTime": 314.748,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 314.772,
+    "endTime": 317.789,
+    "text": "and had late nights watching movies, eating pizza"
+  },
+  {
+    "startTime": 317.814,
+    "endTime": 319.642,
+    "text": "and screwing in thousands of screws."
+  },
+  {
+    "startTime": 319.666,
+    "endTime": 320.864,
+    "text": "You know -- research."
+  },
+  {
+    "startTime": 320.888,
+    "endTime": 322.435,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 322.459,
+    "endTime": 325.777,
+    "text": "But anyway, I think that we were really excited by the things"
+  },
+  {
+    "startTime": 325.801,
+    "endTime": 327.497,
+    "text": "that inFORM allowed us to do."
+  },
+  {
+    "startTime": 327.521,
+    "endTime": 331.721,
+    "text": "Increasingly, we're using mobile devices, and we interact on the go."
+  },
+  {
+    "startTime": 331.745,
+    "endTime": 334.424,
+    "text": "But mobile devices, just like computers,"
+  },
+  {
+    "startTime": 334.448,
+    "endTime": 336.758,
+    "text": "are used for so many different applications."
+  },
+  {
+    "startTime": 336.783,
+    "endTime": 338.776,
+    "text": "So you use them to talk on the phone,"
+  },
+  {
+    "startTime": 338.8,
+    "endTime": 341.956,
+    "text": "to surf the web, to play games, to take pictures"
+  },
+  {
+    "startTime": 341.98,
+    "endTime": 343.689,
+    "text": "or even a million different things."
+  },
+  {
+    "startTime": 343.713,
+    "endTime": 346.697,
+    "text": "But again, they have the same static physical form"
+  },
+  {
+    "startTime": 346.721,
+    "endTime": 348.839,
+    "text": "for each of these applications."
+  },
+  {
+    "startTime": 348.863,
+    "endTime": 352.226,
+    "text": "And so we wanted to know how can we take some of the same interactions"
+  },
+  {
+    "startTime": 352.25,
+    "endTime": 353.933,
+    "text": "that we developed for inFORM"
+  },
+  {
+    "startTime": 353.957,
+    "endTime": 355.844,
+    "text": "and bring them to mobile devices."
+  },
+  {
+    "startTime": 356.427,
+    "endTime": 360.74,
+    "text": "So at Stanford, we created this haptic edge display,"
+  },
+  {
+    "startTime": 360.98,
+    "endTime": 363.27500000000003,
+    "text": "which is a mobile device with an array of linear actuators"
+  },
+  {
+    "startTime": 363.299,
+    "endTime": 364.645,
+    "text": "that can change shape,"
+  },
+  {
+    "startTime": 364.67,
+    "endTime": 368.567,
+    "text": "so you can feel in your hand where you are as you're reading a book."
+  },
+  {
+    "startTime": 369.58,
+    "endTime": 372.79499999999996,
+    "text": "Or you can feel in your pocket new types of tactile sensations"
+  },
+  {
+    "startTime": 372.819,
+    "endTime": 374.62100000000004,
+    "text": "that are richer than the vibration."
+  },
+  {
+    "startTime": 374.645,
+    "endTime": 377.88,
+    "text": "Or buttons can emerge from the side that allow you to interact"
+  },
+  {
+    "startTime": 377.904,
+    "endTime": 379.612,
+    "text": "where you want them to be."
+  },
+  {
+    "startTime": 381.334,
+    "endTime": 384.731,
+    "text": "Or you can play games and have actual buttons."
+  },
+  {
+    "startTime": 385.786,
+    "endTime": 387.302,
+    "text": "And so we were able to do this"
+  },
+  {
+    "startTime": 387.326,
+    "endTime": 392.8,
+    "text": "by embedding 40 small, tiny linear actuators inside the device,"
+  },
+  {
+    "startTime": 392.104,
+    "endTime": 394.159,
+    "text": "and that allow you not only to touch them"
+  },
+  {
+    "startTime": 394.183,
+    "endTime": 396.87,
+    "text": "but also back-drive them as well."
+  },
+  {
+    "startTime": 396.911,
+    "endTime": 401.89,
+    "text": "But we've also looked at other ways to create more complex shape change."
+  },
+  {
+    "startTime": 401.113,
+    "endTime": 404.505,
+    "text": "So we've used pneumatic actuation to create a morphing device"
+  },
+  {
+    "startTime": 404.529,
+    "endTime": 408.394,
+    "text": "where you can go from something that looks a lot like a phone ..."
+  },
+  {
+    "startTime": 408.418,
+    "endTime": 410.648,
+    "text": "to a wristband on the go."
+  },
+  {
+    "startTime": 411.72,
+    "endTime": 414.559,
+    "text": "And so together with Ken Nakagaki at the Media Lab,"
+  },
+  {
+    "startTime": 414.583,
+    "endTime": 417.137,
+    "text": "we created this new high-resolution version"
+  },
+  {
+    "startTime": 417.161,
+    "endTime": 423.111,
+    "text": "that uses an array of servomotors to change from interactive wristband"
+  },
+  {
+    "startTime": 423.135,
+    "endTime": 426.263,
+    "text": "to a touch-input device"
+  },
+  {
+    "startTime": 426.287,
+    "endTime": 427.532,
+    "text": "to a phone."
+  },
+  {
+    "startTime": 427.556,
+    "endTime": 429.214,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 430.104,
+    "endTime": 432.276,
+    "text": "And we're also interested in looking at ways"
+  },
+  {
+    "startTime": 432.3,
+    "endTime": 434.927,
+    "text": "that users can actually deform the interfaces"
+  },
+  {
+    "startTime": 434.951,
+    "endTime": 437.839,
+    "text": "to shape them into the devices that they want to use."
+  },
+  {
+    "startTime": 437.863,
+    "endTime": 440.271,
+    "text": "So you can make something like a game controller,"
+  },
+  {
+    "startTime": 440.295,
+    "endTime": 442.925,
+    "text": "and then the system will understand what shape it's in"
+  },
+  {
+    "startTime": 442.949,
+    "endTime": 444.56800000000004,
+    "text": "and change to that mode."
+  },
+  {
+    "startTime": 446.52,
+    "endTime": 447.62399999999997,
+    "text": "So, where does this point?"
+  },
+  {
+    "startTime": 447.648,
+    "endTime": 449.576,
+    "text": "How do we move forward from here?"
+  },
+  {
+    "startTime": 449.6,
+    "endTime": 452.19500000000005,
+    "text": "I think, really, where we are today"
+  },
+  {
+    "startTime": 452.219,
+    "endTime": 454.973,
+    "text": "is in this new age of the Internet of Things,"
+  },
+  {
+    "startTime": 454.997,
+    "endTime": 456.788,
+    "text": "where we have computers everywhere --"
+  },
+  {
+    "startTime": 456.812,
+    "endTime": 458.93,
+    "text": "they're in our pockets, they're in our walls,"
+  },
+  {
+    "startTime": 458.954,
+    "endTime": 462.52,
+    "text": "they're in almost every device that you'll buy in the next five years."
+  },
+  {
+    "startTime": 462.544,
+    "endTime": 465.424,
+    "text": "But what if we stopped thinking about devices"
+  },
+  {
+    "startTime": 465.449,
+    "endTime": 467.843,
+    "text": "and think instead about environments?"
+  },
+  {
+    "startTime": 467.867,
+    "endTime": 470.379,
+    "text": "And so how can we have smart furniture"
+  },
+  {
+    "startTime": 470.403,
+    "endTime": 473.719,
+    "text": "or smart rooms or smart environments"
+  },
+  {
+    "startTime": 473.743,
+    "endTime": 476.835,
+    "text": "or cities that can adapt to us physically,"
+  },
+  {
+    "startTime": 476.859,
+    "endTime": 481.9,
+    "text": "and allow us to do new ways of collaborating with people"
+  },
+  {
+    "startTime": 481.114,
+    "endTime": 483.352,
+    "text": "and doing new types of tasks?"
+  },
+  {
+    "startTime": 483.376,
+    "endTime": 486.76,
+    "text": "So for the Milan Design Week, we created TRANSFORM,"
+  },
+  {
+    "startTime": 486.784,
+    "endTime": 490.608,
+    "text": "which is an interactive table-scale version of these shape displays,"
+  },
+  {
+    "startTime": 490.632,
+    "endTime": 493.815,
+    "text": "which can move physical objects on the surface; for example,"
+  },
+  {
+    "startTime": 493.839,
+    "endTime": 496.96,
+    "text": "reminding you to take your keys."
+  },
+  {
+    "startTime": 496.12,
+    "endTime": 500.60200000000003,
+    "text": "But it can also transform to fit different ways of interacting."
+  },
+  {
+    "startTime": 500.626,
+    "endTime": 501.943,
+    "text": "So if you want to work,"
+  },
+  {
+    "startTime": 501.967,
+    "endTime": 504.959,
+    "text": "then it can change to sort of set up your work system."
+  },
+  {
+    "startTime": 504.983,
+    "endTime": 506.934,
+    "text": "And so as you bring a device over,"
+  },
+  {
+    "startTime": 506.958,
+    "endTime": 509.696,
+    "text": "it creates all the affordances you need"
+  },
+  {
+    "startTime": 509.72,
+    "endTime": 514.52,
+    "text": "and brings other objects to help you accomplish those goals."
+  },
+  {
+    "startTime": 517.139,
+    "endTime": 518.7,
+    "text": "So, in conclusion,"
+  },
+  {
+    "startTime": 518.724,
+    "endTime": 522.7230000000001,
+    "text": "I really think that we need to think about a new, fundamentally different way"
+  },
+  {
+    "startTime": 522.746,
+    "endTime": 524.905,
+    "text": "of interacting with computers."
+  },
+  {
+    "startTime": 525.551,
+    "endTime": 528.505,
+    "text": "We need computers that can physically adapt to us"
+  },
+  {
+    "startTime": 528.529,
+    "endTime": 531.13,
+    "text": "and adapt to the ways that we want to use them"
+  },
+  {
+    "startTime": 531.154,
+    "endTime": 535.701,
+    "text": "and really harness the rich dexterity that we have of our hands,"
+  },
+  {
+    "startTime": 535.725,
+    "endTime": 539.996,
+    "text": "and our ability to think spatially about information by making it physical."
+  },
+  {
+    "startTime": 540.663,
+    "endTime": 544.659,
+    "text": "But looking forward, I think we need to go beyond this, beyond devices,"
+  },
+  {
+    "startTime": 544.683,
+    "endTime": 548.76,
+    "text": "to really think about new ways that we can bring people together,"
+  },
+  {
+    "startTime": 548.1,
+    "endTime": 551.118,
+    "text": "and bring our information into the world,"
+  },
+  {
+    "startTime": 551.142,
+    "endTime": 555.95,
+    "text": "and think about smart environments that can adapt to us physically."
+  },
+  {
+    "startTime": 555.119,
+    "endTime": 556.683,
+    "text": "So with that, I will leave you."
+  },
+  {
+    "startTime": 556.707,
+    "endTime": 557.858,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 557.882,
+    "endTime": 561.473,
+    "text": "(Applause)"
+  }
+]
