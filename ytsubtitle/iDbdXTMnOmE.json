@@ -1,0 +1,582 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 12.64,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 12.94,
+    "endTime": 16.88,
+    "text": "in the summer of 1997 NASA's Pathfinder"
+  },
+  {
+    "startTime": 16.88,
+    "endTime": 20.119,
+    "text": "spacecraft landed on the surface of Mars"
+  },
+  {
+    "startTime": 20.119,
+    "endTime": 23.029,
+    "text": "and began transmitting incredible iconic"
+  },
+  {
+    "startTime": 23.029,
+    "endTime": 24.289,
+    "text": "images back to earth"
+  },
+  {
+    "startTime": 24.289,
+    "endTime": 26.96,
+    "text": "but several days in something went"
+  },
+  {
+    "startTime": 26.96,
+    "endTime": 30.13,
+    "text": "terribly wrong the transmissions stopped"
+  },
+  {
+    "startTime": 30.13,
+    "endTime": 33.5,
+    "text": "Pathfinder was in effect procrastinating"
+  },
+  {
+    "startTime": 33.5,
+    "endTime": 36.23,
+    "text": "keeping itself fully occupied but"
+  },
+  {
+    "startTime": 36.23,
+    "endTime": 38.83,
+    "text": "failing to do its most important work"
+  },
+  {
+    "startTime": 38.83,
+    "endTime": 41.93,
+    "text": "what was going on there was a bug it"
+  },
+  {
+    "startTime": 41.93,
+    "endTime": 45.26,
+    "text": "turned out in its scheduler every"
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 47.12,
+    "text": "operating system has something called"
+  },
+  {
+    "startTime": 47.12,
+    "endTime": 49.61,
+    "text": "the scheduler that tells the CPU how"
+  },
+  {
+    "startTime": 49.61,
+    "endTime": 51.68,
+    "text": "long to work on each task before"
+  },
+  {
+    "startTime": 51.68,
+    "endTime": 54.5,
+    "text": "switching and what to switch to done"
+  },
+  {
+    "startTime": 54.5,
+    "endTime": 56.81,
+    "text": "right Computers move so fluidly between"
+  },
+  {
+    "startTime": 56.81,
+    "endTime": 59.36,
+    "text": "their various responsibilities they give"
+  },
+  {
+    "startTime": 59.36,
+    "endTime": 60.92,
+    "text": "the illusion of doing everything"
+  },
+  {
+    "startTime": 60.92,
+    "endTime": 63.53,
+    "text": "simultaneously but we all know what"
+  },
+  {
+    "startTime": 63.53,
+    "endTime": 66.92,
+    "text": "happens when things go wrong this should"
+  },
+  {
+    "startTime": 66.92,
+    "endTime": 69.14,
+    "text": "give us if nothing else some measure of"
+  },
+  {
+    "startTime": 69.14,
+    "endTime": 71.69,
+    "text": "consolation even computers get"
+  },
+  {
+    "startTime": 71.69,
+    "endTime": 73.97,
+    "text": "overwhelmed sometimes maybe learning"
+  },
+  {
+    "startTime": 73.97,
+    "endTime": 76.19,
+    "text": "about the computer science of scheduling"
+  },
+  {
+    "startTime": 76.19,
+    "endTime": 78.74,
+    "text": "can give us some ideas about our own"
+  },
+  {
+    "startTime": 78.74,
+    "endTime": 81.56,
+    "text": "human struggles with time one of the"
+  },
+  {
+    "startTime": 81.56,
+    "endTime": 83.72,
+    "text": "first insights is that all the time you"
+  },
+  {
+    "startTime": 83.72,
+    "endTime": 86.45,
+    "text": "spend prioritizing your work is time you"
+  },
+  {
+    "startTime": 86.45,
+    "endTime": 89.42,
+    "text": "aren't spending doing it for instance"
+  },
+  {
+    "startTime": 89.42,
+    "endTime": 91.64,
+    "text": "let's say when you check your inbox you"
+  },
+  {
+    "startTime": 91.64,
+    "endTime": 94.01,
+    "text": "scan all the messages choosing which is"
+  },
+  {
+    "startTime": 94.01,
+    "endTime": 96.11,
+    "text": "the most important once you've dealt"
+  },
+  {
+    "startTime": 96.11,
+    "endTime": 98.3,
+    "text": "with that one you repeat seem sensible"
+  },
+  {
+    "startTime": 98.3,
+    "endTime": 100.7,
+    "text": "but there's a problem here this is"
+  },
+  {
+    "startTime": 100.7,
+    "endTime": 102.44,
+    "text": "what's known as a quadratic time"
+  },
+  {
+    "startTime": 102.44,
+    "endTime": 105.44,
+    "text": "algorithm with an inbox that's twice as"
+  },
+  {
+    "startTime": 105.44,
+    "endTime": 108.409,
+    "text": "full these passes will take twice as"
+  },
+  {
+    "startTime": 108.409,
+    "endTime": 111.11,
+    "text": "long and you'll need to do twice as many"
+  },
+  {
+    "startTime": 111.11,
+    "endTime": 114.13,
+    "text": "of them this means four times the work"
+  },
+  {
+    "startTime": 114.13,
+    "endTime": 116.99,
+    "text": "the programmers of the operating system"
+  },
+  {
+    "startTime": 116.99,
+    "endTime": 119.68,
+    "text": "Linux encountered a similar problem in"
+  },
+  {
+    "startTime": 119.68,
+    "endTime": 123.2,
+    "text": "2003 Linux would rank every single one"
+  },
+  {
+    "startTime": 123.2,
+    "endTime": 125.57,
+    "text": "of its tasks in order of importance and"
+  },
+  {
+    "startTime": 125.57,
+    "endTime": 128.659,
+    "text": "sometimes spent more time ranking tasks"
+  },
+  {
+    "startTime": 128.659,
+    "endTime": 130.909,
+    "text": "than doing them the programmers"
+  },
+  {
+    "startTime": 130.909,
+    "endTime": 133.219,
+    "text": "counterintuitive solution was to replace"
+  },
+  {
+    "startTime": 133.219,
+    "endTime": 135.56,
+    "text": "this full ranking with a limited number"
+  },
+  {
+    "startTime": 135.56,
+    "endTime": 136.49,
+    "text": "of prior"
+  },
+  {
+    "startTime": 136.49,
+    "endTime": 139.61,
+    "text": "buckets the system was less precise"
+  },
+  {
+    "startTime": 139.61,
+    "endTime": 142.19,
+    "text": "about what to do next but more than made"
+  },
+  {
+    "startTime": 142.19,
+    "endTime": 144.62,
+    "text": "up for it by spending more time making"
+  },
+  {
+    "startTime": 144.62,
+    "endTime": 147.86,
+    "text": "progress so with your emails insisting"
+  },
+  {
+    "startTime": 147.86,
+    "endTime": 149.9,
+    "text": "on always doing the very most important"
+  },
+  {
+    "startTime": 149.9,
+    "endTime": 152.08,
+    "text": "thing first could lead to a meltdown"
+  },
+  {
+    "startTime": 152.08,
+    "endTime": 155.06,
+    "text": "waking up to an inbox three times fuller"
+  },
+  {
+    "startTime": 155.06,
+    "endTime": 157.43,
+    "text": "than normal could take nine times longer"
+  },
+  {
+    "startTime": 157.43,
+    "endTime": 160.37,
+    "text": "to clear you'd be better off replying in"
+  },
+  {
+    "startTime": 160.37,
+    "endTime": 163.33,
+    "text": "chronological order or even at random"
+  },
+  {
+    "startTime": 163.33,
+    "endTime": 165.92,
+    "text": "surprisingly sometimes giving up on"
+  },
+  {
+    "startTime": 165.92,
+    "endTime": 168.29,
+    "text": "doing things in the perfect order may be"
+  },
+  {
+    "startTime": 168.29,
+    "endTime": 171.11,
+    "text": "the key to getting them done another"
+  },
+  {
+    "startTime": 171.11,
+    "endTime": 173.0,
+    "text": "insight that emerges from computer"
+  },
+  {
+    "startTime": 173.0,
+    "endTime": 174.89,
+    "text": "scheduling has to do with one of the"
+  },
+  {
+    "startTime": 174.89,
+    "endTime": 177.16,
+    "text": "most prevalent features of modern life"
+  },
+  {
+    "startTime": 177.16,
+    "endTime": 180.02,
+    "text": "interruptions when a computer goes from"
+  },
+  {
+    "startTime": 180.02,
+    "endTime": 182.54,
+    "text": "one task to another it has to do what's"
+  },
+  {
+    "startTime": 182.54,
+    "endTime": 185.6,
+    "text": "called a context switch bookmarking its"
+  },
+  {
+    "startTime": 185.6,
+    "endTime": 188.3,
+    "text": "place in one task moving old data out of"
+  },
+  {
+    "startTime": 188.3,
+    "endTime": 191.75,
+    "text": "its memory and new data in each of these"
+  },
+  {
+    "startTime": 191.75,
+    "endTime": 194.9,
+    "text": "actions comes at a cost the insight here"
+  },
+  {
+    "startTime": 194.9,
+    "endTime": 196.58,
+    "text": "is that there's a fundamental trade-off"
+  },
+  {
+    "startTime": 196.58,
+    "endTime": 199.15,
+    "text": "between productivity and responsiveness"
+  },
+  {
+    "startTime": 199.15,
+    "endTime": 201.68,
+    "text": "getting serious work done means"
+  },
+  {
+    "startTime": 201.68,
+    "endTime": 204.68,
+    "text": "minimizing context switches but being"
+  },
+  {
+    "startTime": 204.68,
+    "endTime": 207.08,
+    "text": "responsive means reacting anytime"
+  },
+  {
+    "startTime": 207.08,
+    "endTime": 209.81,
+    "text": "something comes up these two principles"
+  },
+  {
+    "startTime": 209.81,
+    "endTime": 213.38,
+    "text": "are fundamentally in tension recognizing"
+  },
+  {
+    "startTime": 213.38,
+    "endTime": 215.69,
+    "text": "this tension allows us to decide where"
+  },
+  {
+    "startTime": 215.69,
+    "endTime": 218.15,
+    "text": "we want to strike that balance the"
+  },
+  {
+    "startTime": 218.15,
+    "endTime": 220.28,
+    "text": "obvious solution is to minimize"
+  },
+  {
+    "startTime": 220.28,
+    "endTime": 223.67,
+    "text": "interruptions the less obvious one is to"
+  },
+  {
+    "startTime": 223.67,
+    "endTime": 227.03,
+    "text": "group them if no notification or email"
+  },
+  {
+    "startTime": 227.03,
+    "endTime": 229.64,
+    "text": "requires a response our more urgently"
+  },
+  {
+    "startTime": 229.64,
+    "endTime": 232.61,
+    "text": "than once an hour say then that's"
+  },
+  {
+    "startTime": 232.61,
+    "endTime": 234.8,
+    "text": "exactly how often you should check them"
+  },
+  {
+    "startTime": 234.8,
+    "endTime": 238.46,
+    "text": "no more in computer science this idea"
+  },
+  {
+    "startTime": 238.46,
+    "endTime": 241.51,
+    "text": "goes by the name of interrupt coalescing"
+  },
+  {
+    "startTime": 241.51,
+    "endTime": 243.77,
+    "text": "rather than dealing with things as they"
+  },
+  {
+    "startTime": 243.77,
+    "endTime": 244.4,
+    "text": "come up"
+  },
+  {
+    "startTime": 244.4,
+    "endTime": 246.53,
+    "text": "oh the mouse was moved a key was pressed"
+  },
+  {
+    "startTime": 246.53,
+    "endTime": 249.5,
+    "text": "more of that file downloaded the system"
+  },
+  {
+    "startTime": 249.5,
+    "endTime": 251.39,
+    "text": "groups these interruptions together"
+  },
+  {
+    "startTime": 251.39,
+    "endTime": 253.91,
+    "text": "based on how long they can afford to"
+  },
+  {
+    "startTime": 253.91,
+    "endTime": 257.54,
+    "text": "wait in 2013 interrupt coalescing"
+  },
+  {
+    "startTime": 257.54,
+    "endTime": 259.82,
+    "text": "triggered a massive improvement in"
+  },
+  {
+    "startTime": 259.82,
+    "endTime": 262.82,
+    "text": "laptop battery life this is because"
+  },
+  {
+    "startTime": 262.82,
+    "endTime": 264.71,
+    "text": "deferring interruptions"
+  },
+  {
+    "startTime": 264.71,
+    "endTime": 267.289,
+    "text": "system check everything at once then"
+  },
+  {
+    "startTime": 267.289,
+    "endTime": 270.1,
+    "text": "quickly re-enter a low-power state as"
+  },
+  {
+    "startTime": 270.1,
+    "endTime": 272.96,
+    "text": "with computers so it is with us"
+  },
+  {
+    "startTime": 272.96,
+    "endTime": 275.21,
+    "text": "perhaps adopting a similar approach"
+  },
+  {
+    "startTime": 275.21,
+    "endTime": 278.419,
+    "text": "might allow us users to reclaim our own"
+  },
+  {
+    "startTime": 278.419,
+    "endTime": 280.639,
+    "text": "attention and give us back one of the"
+  },
+  {
+    "startTime": 280.639,
+    "endTime": 283.06,
+    "text": "things that feels so rare in modern life"
+  },
+  {
+    "startTime": 283.06,
+    "endTime": 286.46,
+    "text": "rest are you interested in improving"
+  },
+  {
+    "startTime": 286.46,
+    "endTime": 288.979,
+    "text": "your own time and task management skills"
+  },
+  {
+    "startTime": 288.979,
+    "endTime": 291.68,
+    "text": "if so we highly recommend you check out"
+  },
+  {
+    "startTime": 291.68,
+    "endTime": 294.259,
+    "text": "algorithms to live by the computer"
+  },
+  {
+    "startTime": 294.259,
+    "endTime": 296.509,
+    "text": "science of human decisions you can"
+  },
+  {
+    "startTime": 296.509,
+    "endTime": 298.25,
+    "text": "download an audio version of the book"
+  },
+  {
+    "startTime": 298.25,
+    "endTime": 301.009,
+    "text": "for free at audible.com slash ted-ed"
+  },
+  {
+    "startTime": 301.009,
+    "endTime": 303.889,
+    "text": "and every free trial created encourages"
+  },
+  {
+    "startTime": 303.889,
+    "endTime": 306.32,
+    "text": "audible to continue supporting Ted Ed's"
+  },
+  {
+    "startTime": 306.32,
+    "endTime": 308.03,
+    "text": "nonprofit mission"
+  },
+  {
+    "startTime": 308.03,
+    "endTime": 311.1,
+    "text": "[Music]"
+  }
+]

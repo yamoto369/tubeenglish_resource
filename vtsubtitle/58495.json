@@ -1,0 +1,392 @@
+[
+  {
+    "startTime": 13.962,
+    "endTime": 16.131,
+    "text": "In the summer of 1997,"
+  },
+  {
+    "startTime": 16.132,
+    "endTime": 20.611,
+    "text": "NASA's Pathfinder spacecraft landed  on the surface of Mars,"
+  },
+  {
+    "startTime": 20.611,
+    "endTime": 25.241,
+    "text": "and began transmitting incredible, iconic images back to Earth."
+  },
+  {
+    "startTime": 25.241,
+    "endTime": 28.48,
+    "text": "But several days in,  something went terribly wrong."
+  },
+  {
+    "startTime": 28.48,
+    "endTime": 30.662,
+    "text": "The transmissions stopped."
+  },
+  {
+    "startTime": 30.662,
+    "endTime": 34.232,
+    "text": "Pathfinder was, in effect,  procrastinating:"
+  },
+  {
+    "startTime": 34.232,
+    "endTime": 39.691,
+    "text": "keeping itself fully occupied  but failing to do its most important work."
+  },
+  {
+    "startTime": 39.691,
+    "endTime": 40.901,
+    "text": "What was going on?"
+  },
+  {
+    "startTime": 40.901,
+    "endTime": 44.93300000000001,
+    "text": "There was a bug, it turned out,  in its scheduler."
+  },
+  {
+    "startTime": 44.933,
+    "endTime": 48.203,
+    "text": "Every operating system has something  called the scheduler"
+  },
+  {
+    "startTime": 48.203,
+    "endTime": 52.544000000000004,
+    "text": "that tells the CPU how long to work on each task before switching,"
+  },
+  {
+    "startTime": 52.544,
+    "endTime": 54.413,
+    "text": "and what to switch to."
+  },
+  {
+    "startTime": 54.414,
+    "endTime": 58.863,
+    "text": "Done right, computers move so fluidly  between their various responsibilities,"
+  },
+  {
+    "startTime": 58.863,
+    "endTime": 62.342999999999996,
+    "text": "they give the illusion  of doing everything simultaneously."
+  },
+  {
+    "startTime": 62.343,
+    "endTime": 66.446,
+    "text": "But we all know what happens when things go wrong."
+  },
+  {
+    "startTime": 66.446,
+    "endTime": 70.462,
+    "text": "This should give us, if nothing else,  some measure of consolation."
+  },
+  {
+    "startTime": 70.462,
+    "endTime": 73.555,
+    "text": "Even computers get overwhelmed sometimes."
+  },
+  {
+    "startTime": 73.555,
+    "endTime": 76.63600000000001,
+    "text": "Maybe learning about the computer science  of scheduling"
+  },
+  {
+    "startTime": 76.636,
+    "endTime": 81.24,
+    "text": "can give us some ideas about our own human struggles with time."
+  },
+  {
+    "startTime": 81.25,
+    "endTime": 85.644,
+    "text": "One of the first insights is that all  the time you spend prioritizing your work"
+  },
+  {
+    "startTime": 85.644,
+    "endTime": 88.775,
+    "text": "is time you aren't spending doing it."
+  },
+  {
+    "startTime": 88.775,
+    "endTime": 93.74000000000001,
+    "text": "For instance, let's say when you check  your inbox, you scan all the messages,"
+  },
+  {
+    "startTime": 93.74,
+    "endTime": 95.374,
+    "text": "choosing which is the most important."
+  },
+  {
+    "startTime": 95.374,
+    "endTime": 97.702,
+    "text": "Once you've dealt with that one,  you repeat."
+  },
+  {
+    "startTime": 97.703,
+    "endTime": 100.52000000000001,
+    "text": "Seems sensible,  but there's a problem here."
+  },
+  {
+    "startTime": 100.52,
+    "endTime": 103.925,
+    "text": "This is what's known  as a quadratic-time algorithm."
+  },
+  {
+    "startTime": 103.925,
+    "endTime": 109.387,
+    "text": "With an inbox that's twice as full, these passes will take twice as long"
+  },
+  {
+    "startTime": 109.387,
+    "endTime": 111.875,
+    "text": "and you'll need to do  twice as many of them!"
+  },
+  {
+    "startTime": 111.875,
+    "endTime": 115.85,
+    "text": "This means four times the work."
+  },
+  {
+    "startTime": 115.85,
+    "endTime": 117.615,
+    "text": "The programmers  of the operating system Linux"
+  },
+  {
+    "startTime": 117.615,
+    "endTime": 121.273,
+    "text": "encountered a similar problem in 2003."
+  },
+  {
+    "startTime": 121.273,
+    "endTime": 125.816,
+    "text": "Linux would rank every single  one of its tasks in order of importance,"
+  },
+  {
+    "startTime": 125.816,
+    "endTime": 130.276,
+    "text": "and sometimes spent more time  ranking tasks than doing them."
+  },
+  {
+    "startTime": 130.276,
+    "endTime": 134.60600000000002,
+    "text": "The programmers' counterintuitive solution was to replace this full ranking"
+  },
+  {
+    "startTime": 134.606,
+    "endTime": 138.107,
+    "text": "with a limited number  of priority “buckets.”"
+  },
+  {
+    "startTime": 138.107,
+    "endTime": 141.287,
+    "text": "The system was less precise  about what to do next"
+  },
+  {
+    "startTime": 141.287,
+    "endTime": 146.191,
+    "text": "but more than made up for it  by spending more time making progress."
+  },
+  {
+    "startTime": 146.191,
+    "endTime": 150.909,
+    "text": "So with your emails, insisting on always  doing the very most important thing first"
+  },
+  {
+    "startTime": 150.909,
+    "endTime": 152.89,
+    "text": "could lead to a meltdown."
+  },
+  {
+    "startTime": 152.89,
+    "endTime": 155.783,
+    "text": "Waking up to an inbox three times fuller  than normal"
+  },
+  {
+    "startTime": 155.783,
+    "endTime": 158.96599999999998,
+    "text": "could take nine times longer to clear."
+  },
+  {
+    "startTime": 158.967,
+    "endTime": 163.71800000000002,
+    "text": "You'd be better off replying  in chronological order, or even at random!"
+  },
+  {
+    "startTime": 163.718,
+    "endTime": 167.886,
+    "text": "Surprisingly, sometimes giving up  on doing things in the perfect order"
+  },
+  {
+    "startTime": 167.886,
+    "endTime": 171.37,
+    "text": "may be the key to getting them done."
+  },
+  {
+    "startTime": 171.37,
+    "endTime": 173.866,
+    "text": "Another insight that emerges  from computer scheduling"
+  },
+  {
+    "startTime": 173.866,
+    "endTime": 178.638,
+    "text": "has to do with one of the most prevalent  features of modern life: interruptions."
+  },
+  {
+    "startTime": 178.638,
+    "endTime": 181.50900000000001,
+    "text": "When a computer goes  from one task to another,"
+  },
+  {
+    "startTime": 181.509,
+    "endTime": 184.696,
+    "text": "it has to do what's called  a context switch,"
+  },
+  {
+    "startTime": 184.696,
+    "endTime": 187.29,
+    "text": "bookmarking its place in one task,"
+  },
+  {
+    "startTime": 187.29,
+    "endTime": 191.44799999999998,
+    "text": "moving old data out of its memory  and new data in."
+  },
+  {
+    "startTime": 191.448,
+    "endTime": 194.28,
+    "text": "Each of these actions comes at a cost."
+  },
+  {
+    "startTime": 194.28,
+    "endTime": 196.858,
+    "text": "The insight here is that there's  a fundamental tradeoff"
+  },
+  {
+    "startTime": 196.858,
+    "endTime": 200.29,
+    "text": "between productivity and responsiveness."
+  },
+  {
+    "startTime": 200.29,
+    "endTime": 203.82899999999998,
+    "text": "Getting serious work done  means minimizing context switches."
+  },
+  {
+    "startTime": 203.83,
+    "endTime": 208.549,
+    "text": "But being responsive means reacting  anytime something comes up."
+  },
+  {
+    "startTime": 208.549,
+    "endTime": 212.401,
+    "text": "These two principles  are fundamentally in tension."
+  },
+  {
+    "startTime": 212.401,
+    "endTime": 214.899,
+    "text": "Recognizing this tension allows us"
+  },
+  {
+    "startTime": 214.899,
+    "endTime": 217.88,
+    "text": "to decide where  we want to strike that balance."
+  },
+  {
+    "startTime": 217.88,
+    "endTime": 221.638,
+    "text": "The obvious solution  is to minimize interruptions."
+  },
+  {
+    "startTime": 221.639,
+    "endTime": 225.24200000000002,
+    "text": "The less obvious one is to group them."
+  },
+  {
+    "startTime": 225.242,
+    "endTime": 228.76,
+    "text": "If no notification  or email requires a response"
+  },
+  {
+    "startTime": 228.76,
+    "endTime": 232.10999999999999,
+    "text": "more urgently than once an hour, say,"
+  },
+  {
+    "startTime": 232.11,
+    "endTime": 236.59,
+    "text": "then that's exactly how often  you should check them. No more."
+  },
+  {
+    "startTime": 236.59,
+    "endTime": 242.29,
+    "text": "In computer science, this idea goes by  the name of interrupt coalescing."
+  },
+  {
+    "startTime": 242.29,
+    "endTime": 244.631,
+    "text": "Rather than dealing with  things as they come up –"
+  },
+  {
+    "startTime": 244.631,
+    "endTime": 245.981,
+    "text": "Oh, the mouse was moved?"
+  },
+  {
+    "startTime": 245.981,
+    "endTime": 247.71,
+    "text": "A key was pressed?"
+  },
+  {
+    "startTime": 247.71,
+    "endTime": 248.792,
+    "text": "More of that file downloaded? –"
+  },
+  {
+    "startTime": 248.792,
+    "endTime": 251.549,
+    "text": "the system groups these  interruptions together"
+  },
+  {
+    "startTime": 251.549,
+    "endTime": 254.721,
+    "text": "based on how long they can afford to wait."
+  },
+  {
+    "startTime": 254.721,
+    "endTime": 257.648,
+    "text": "In 2013, interrupt coalescing"
+  },
+  {
+    "startTime": 257.648,
+    "endTime": 261.942,
+    "text": "triggered a massive improvement  in laptop battery life."
+  },
+  {
+    "startTime": 261.942,
+    "endTime": 266.753,
+    "text": "This is because deferring interruptions  lets a system check everything at once,"
+  },
+  {
+    "startTime": 266.753,
+    "endTime": 270.623,
+    "text": "then quickly re-enter a low-power state."
+  },
+  {
+    "startTime": 270.623,
+    "endTime": 273.212,
+    "text": "As with computers, so it is with us."
+  },
+  {
+    "startTime": 273.212,
+    "endTime": 275.64,
+    "text": "Perhaps adopting a similar approach"
+  },
+  {
+    "startTime": 275.641,
+    "endTime": 279.471,
+    "text": "might allow us users  to reclaim our own attention,"
+  },
+  {
+    "startTime": 279.471,
+    "endTime": 284.644,
+    "text": "and give us back one of the things that feels so rare in modern life: rest."
+  }
+]

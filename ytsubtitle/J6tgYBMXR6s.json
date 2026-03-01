@@ -1,0 +1,3177 @@
+[
+  {
+    "startTime": 12.17,
+    "endTime": 15.269,
+    "text": "help us understand what machine learning"
+  },
+  {
+    "startTime": 15.269,
+    "endTime": 16.68,
+    "text": "is because that seems to be the key"
+  },
+  {
+    "startTime": 16.68,
+    "endTime": 19.14,
+    "text": "driver of so much of the excitement and"
+  },
+  {
+    "startTime": 19.14,
+    "endTime": 21.359,
+    "text": "also the concern around artificial"
+  },
+  {
+    "startTime": 21.359,
+    "endTime": 22.59,
+    "text": "intelligence how does machine learning"
+  },
+  {
+    "startTime": 22.59,
+    "endTime": 25.08,
+    "text": "work so artificial intelligence and"
+  },
+  {
+    "startTime": 25.08,
+    "endTime": 28.859,
+    "text": "machine learning is about 60 years old"
+  },
+  {
+    "startTime": 28.859,
+    "endTime": 33.0,
+    "text": "and has not had a Great Danes pass until"
+  },
+  {
+    "startTime": 33.0,
+    "endTime": 37.05,
+    "text": "recently and the reason is that today we"
+  },
+  {
+    "startTime": 37.05,
+    "endTime": 39.57,
+    "text": "have reached a scale of computing and"
+  },
+  {
+    "startTime": 39.57,
+    "endTime": 42.03,
+    "text": "data sets there was necessary to make"
+  },
+  {
+    "startTime": 42.03,
+    "endTime": 44.969,
+    "text": "machine smart so here's how it works if"
+  },
+  {
+    "startTime": 44.969,
+    "endTime": 47.7,
+    "text": "you program a computer today say your"
+  },
+  {
+    "startTime": 47.7,
+    "endTime": 50.85,
+    "text": "phone then you hire software engineers"
+  },
+  {
+    "startTime": 50.85,
+    "endTime": 53.82,
+    "text": "that write a very very long kitchen"
+  },
+  {
+    "startTime": 53.82,
+    "endTime": 57.449,
+    "text": "recipe like if the water is too hot turn"
+  },
+  {
+    "startTime": 57.449,
+    "endTime": 59.129,
+    "text": "on the temperature it was too cold to"
+  },
+  {
+    "startTime": 59.129,
+    "endTime": 62.16,
+    "text": "another temperature the recipes are not"
+  },
+  {
+    "startTime": 62.16,
+    "endTime": 64.65,
+    "text": "just ten lines long there are millions"
+  },
+  {
+    "startTime": 64.65,
+    "endTime": 68.4,
+    "text": "of lines long and modern cell phone has"
+  },
+  {
+    "startTime": 68.4,
+    "endTime": 71.04,
+    "text": "12 million lines of code a browser has 5"
+  },
+  {
+    "startTime": 71.04,
+    "endTime": 74.46,
+    "text": "million lines of code and each bug in"
+  },
+  {
+    "startTime": 74.46,
+    "endTime": 76.83,
+    "text": "this recipe can cause your computer"
+  },
+  {
+    "startTime": 76.83,
+    "endTime": 79.02,
+    "text": "crash that's why a software engineer"
+  },
+  {
+    "startTime": 79.02,
+    "endTime": 82.83,
+    "text": "makes so much money the new thing now is"
+  },
+  {
+    "startTime": 82.83,
+    "endTime": 84.869,
+    "text": "that computers can find their own rules"
+  },
+  {
+    "startTime": 84.869,
+    "endTime": 88.439,
+    "text": "so instead of an expert deciphering step"
+  },
+  {
+    "startTime": 88.439,
+    "endTime": 90.53,
+    "text": "by step a rule for every contingency"
+  },
+  {
+    "startTime": 90.53,
+    "endTime": 92.97,
+    "text": "what you do now is you give the computer"
+  },
+  {
+    "startTime": 92.97,
+    "endTime": 95.549,
+    "text": "examples and have it influence own rules"
+  },
+  {
+    "startTime": 95.549,
+    "endTime": 97.53,
+    "text": "a really good example is alphago"
+  },
+  {
+    "startTime": 97.53,
+    "endTime": 100.04,
+    "text": "which recently was won by Google"
+  },
+  {
+    "startTime": 100.04,
+    "endTime": 102.6,
+    "text": "normally in in game playing you would"
+  },
+  {
+    "startTime": 102.6,
+    "endTime": 104.34,
+    "text": "really write on all the holes but in"
+  },
+  {
+    "startTime": 104.34,
+    "endTime": 106.77,
+    "text": "alphago's case the system looked over"
+  },
+  {
+    "startTime": 106.77,
+    "endTime": 109.079,
+    "text": "million games and was able to infer its"
+  },
+  {
+    "startTime": 109.079,
+    "endTime": 111.24,
+    "text": "own rules and then beat the world's"
+  },
+  {
+    "startTime": 111.24,
+    "endTime": 114.45,
+    "text": "residing a go champion that is exciting"
+  },
+  {
+    "startTime": 114.45,
+    "endTime": 116.49,
+    "text": "because it relieves the software"
+  },
+  {
+    "startTime": 116.49,
+    "endTime": 118.17,
+    "text": "engineer of the need of being super"
+  },
+  {
+    "startTime": 118.17,
+    "endTime": 120.509,
+    "text": "smart and pushes the burden towards the"
+  },
+  {
+    "startTime": 120.509,
+    "endTime": 123.6,
+    "text": "data as I said the inflection point"
+  },
+  {
+    "startTime": 123.6,
+    "endTime": 125.909,
+    "text": "where this has become really possible"
+  },
+  {
+    "startTime": 125.909,
+    "endTime": 127.469,
+    "text": "very embarrassing my fuse was about"
+  },
+  {
+    "startTime": 127.469,
+    "endTime": 128.61,
+    "text": "machine learning it was completely"
+  },
+  {
+    "startTime": 128.61,
+    "endTime": 130.56,
+    "text": "insignificant don't read it because was"
+  },
+  {
+    "startTime": 130.56,
+    "endTime": 132.599,
+    "text": "20 years ago and back then the computers"
+  },
+  {
+    "startTime": 132.599,
+    "endTime": 133.319,
+    "text": "were as"
+  },
+  {
+    "startTime": 133.319,
+    "endTime": 135.51,
+    "text": "the cockroach brain now they are"
+  },
+  {
+    "startTime": 135.51,
+    "endTime": 137.519,
+    "text": "powerful enough to really emulate kind"
+  },
+  {
+    "startTime": 137.519,
+    "endTime": 140.43,
+    "text": "of specialized human thinking and then"
+  },
+  {
+    "startTime": 140.43,
+    "endTime": 141.87,
+    "text": "the computers take advantage of the fact"
+  },
+  {
+    "startTime": 141.87,
+    "endTime": 142.889,
+    "text": "that they can look at much more data"
+  },
+  {
+    "startTime": 142.889,
+    "endTime": 145.889,
+    "text": "than people can so I'd say I forgot it"
+  },
+  {
+    "startTime": 145.889,
+    "endTime": 148.079,
+    "text": "over more than a million games no human"
+  },
+  {
+    "startTime": 148.079,
+    "endTime": 150.049,
+    "text": "expert can ever study a million games"
+  },
+  {
+    "startTime": 150.049,
+    "endTime": 152.7,
+    "text": "Google has looked on over 100 billion"
+  },
+  {
+    "startTime": 152.7,
+    "endTime": 155.28,
+    "text": "web pages no person can ever study on a"
+  },
+  {
+    "startTime": 155.28,
+    "endTime": 157.769,
+    "text": "billion web pages so as a result the"
+  },
+  {
+    "startTime": 157.769,
+    "endTime": 159.78,
+    "text": "computer can find rules that even keeper"
+  },
+  {
+    "startTime": 159.78,
+    "endTime": 161.939,
+    "text": "can't find so it's kind instead of"
+  },
+  {
+    "startTime": 161.939,
+    "endTime": 164.639,
+    "text": "looking ahead to if he does that I will"
+  },
+  {
+    "startTime": 164.639,
+    "endTime": 167.189,
+    "text": "do that it's more saying here is what"
+  },
+  {
+    "startTime": 167.189,
+    "endTime": 168.81,
+    "text": "looks like a winning pattern here is"
+  },
+  {
+    "startTime": 168.81,
+    "endTime": 170.219,
+    "text": "what looks like it when he Adam I mean"
+  },
+  {
+    "startTime": 170.219,
+    "endTime": 172.349,
+    "text": "think about how you raise children you"
+  },
+  {
+    "startTime": 172.349,
+    "endTime": 174.06,
+    "text": "don't spend the first 18 years giving"
+  },
+  {
+    "startTime": 174.06,
+    "endTime": 175.379,
+    "text": "the kids a rule for every contingency"
+  },
+  {
+    "startTime": 175.379,
+    "endTime": 176.969,
+    "text": "and then set them free and then they"
+  },
+  {
+    "startTime": 176.969,
+    "endTime": 178.98,
+    "text": "have this big program they stumble they"
+  },
+  {
+    "startTime": 178.98,
+    "endTime": 181.139,
+    "text": "fall they get up they get slapped or"
+  },
+  {
+    "startTime": 181.139,
+    "endTime": 182.669,
+    "text": "spanked and they have a positive"
+  },
+  {
+    "startTime": 182.669,
+    "endTime": 184.29,
+    "text": "experience got a good grade in school"
+  },
+  {
+    "startTime": 184.29,
+    "endTime": 186.269,
+    "text": "and they figured out on their own and"
+  },
+  {
+    "startTime": 186.269,
+    "endTime": 188.34,
+    "text": "that's have these computers now which"
+  },
+  {
+    "startTime": 188.34,
+    "endTime": 189.87,
+    "text": "makes computer programming so much"
+  },
+  {
+    "startTime": 189.87,
+    "endTime": 191.579,
+    "text": "easier all of a sudden now we don't have"
+  },
+  {
+    "startTime": 191.579,
+    "endTime": 193.049,
+    "text": "to think anymore just given lots of"
+  },
+  {
+    "startTime": 193.049,
+    "endTime": 195.78,
+    "text": "there and so this has been key to the"
+  },
+  {
+    "startTime": 195.78,
+    "endTime": 198.93,
+    "text": "spectacular improvement in power of auto"
+  },
+  {
+    "startTime": 198.93,
+    "endTime": 202.199,
+    "text": "of self-driving cars I think you give me"
+  },
+  {
+    "startTime": 202.199,
+    "endTime": 203.729,
+    "text": "an example can we can you explain what's"
+  },
+  {
+    "startTime": 203.729,
+    "endTime": 208.199,
+    "text": "happening here this is a drive of a"
+  },
+  {
+    "startTime": 208.199,
+    "endTime": 209.939,
+    "text": "self-driving car that we happen to have"
+  },
+  {
+    "startTime": 209.939,
+    "endTime": 212.129,
+    "text": "a Udacity and recently made into a"
+  },
+  {
+    "startTime": 212.129,
+    "endTime": 215.34,
+    "text": "spin-out quad voyage where we use the"
+  },
+  {
+    "startTime": 215.34,
+    "endTime": 217.259,
+    "text": "sink or deep learning to train a car to"
+  },
+  {
+    "startTime": 217.259,
+    "endTime": 218.699,
+    "text": "drive itself and this is driving from"
+  },
+  {
+    "startTime": 218.699,
+    "endTime": 220.319,
+    "text": "Mountain View California to San"
+  },
+  {
+    "startTime": 220.319,
+    "endTime": 222.509,
+    "text": "Francisco on El Camino Real"
+  },
+  {
+    "startTime": 222.509,
+    "endTime": 224.489,
+    "text": "on a rainy day with bicyclists and"
+  },
+  {
+    "startTime": 224.489,
+    "endTime": 226.319,
+    "text": "pedestrians and the Honda 33 traffic"
+  },
+  {
+    "startTime": 226.319,
+    "endTime": 229.139,
+    "text": "lights and the knobby thing here is when"
+  },
+  {
+    "startTime": 229.139,
+    "endTime": 231.449,
+    "text": "I I many many moons ago I started the"
+  },
+  {
+    "startTime": 231.449,
+    "endTime": 233.459,
+    "text": "Google self-driving car team and back in"
+  },
+  {
+    "startTime": 233.459,
+    "endTime": 235.409,
+    "text": "the day I had the world's best software"
+  },
+  {
+    "startTime": 235.409,
+    "endTime": 237.239,
+    "text": "engineers to find the world's best rules"
+  },
+  {
+    "startTime": 237.239,
+    "endTime": 241.229,
+    "text": "this has just trained we drive this vote"
+  },
+  {
+    "startTime": 241.229,
+    "endTime": 244.469,
+    "text": "20 times we put all this data into the"
+  },
+  {
+    "startTime": 244.469,
+    "endTime": 246.689,
+    "text": "computer brain and after a few hours of"
+  },
+  {
+    "startTime": 246.689,
+    "endTime": 249.269,
+    "text": "processing it comes of it behavior that"
+  },
+  {
+    "startTime": 249.269,
+    "endTime": 251.909,
+    "text": "often surpasses human agility so it's"
+  },
+  {
+    "startTime": 251.909,
+    "endTime": 253.799,
+    "text": "become really easy to program it this is"
+  },
+  {
+    "startTime": 253.799,
+    "endTime": 256.229,
+    "text": "a helps an autonomous about is 33 miles"
+  },
+  {
+    "startTime": 256.229,
+    "endTime": 258.479,
+    "text": "an hour and a half so explain so on the"
+  },
+  {
+    "startTime": 258.479,
+    "endTime": 260.639,
+    "text": "on this the big part of the program on"
+  },
+  {
+    "startTime": 260.639,
+    "endTime": 262.65,
+    "text": "the Left you're seeing basically what"
+  },
+  {
+    "startTime": 262.65,
+    "endTime": 264.33,
+    "text": "the computer seizes trucks and cars and"
+  },
+  {
+    "startTime": 264.33,
+    "endTime": 267.12,
+    "text": "those crops overtaking it and so forth"
+  },
+  {
+    "startTime": 267.12,
+    "endTime": 268.65,
+    "text": "on the right side you see the camera"
+  },
+  {
+    "startTime": 268.65,
+    "endTime": 270.27,
+    "text": "image which is the main input here and"
+  },
+  {
+    "startTime": 270.27,
+    "endTime": 272.25,
+    "text": "it's used to find lanes other cars"
+  },
+  {
+    "startTime": 272.25,
+    "endTime": 274.889,
+    "text": "traffic lights the vehicle has a radar"
+  },
+  {
+    "startTime": 274.889,
+    "endTime": 276.63,
+    "text": "to do distance estimation is very"
+  },
+  {
+    "startTime": 276.63,
+    "endTime": 278.49,
+    "text": "commonly used in these kind of systems"
+  },
+  {
+    "startTime": 278.49,
+    "endTime": 280.47,
+    "text": "on the left side you see a laser diagram"
+  },
+  {
+    "startTime": 280.47,
+    "endTime": 282.389,
+    "text": "that you see obstacles like trees and so"
+  },
+  {
+    "startTime": 282.389,
+    "endTime": 284.61,
+    "text": "on depicted by the laser but almost all"
+  },
+  {
+    "startTime": 284.61,
+    "endTime": 285.78,
+    "text": "the interesting work is setting on the"
+  },
+  {
+    "startTime": 285.78,
+    "endTime": 287.669,
+    "text": "camera image now we're really shifting"
+  },
+  {
+    "startTime": 287.669,
+    "endTime": 289.5,
+    "text": "over from precision sensors like Vedas"
+  },
+  {
+    "startTime": 289.5,
+    "endTime": 291.63,
+    "text": "and lasers into kind of very cheap"
+  },
+  {
+    "startTime": 291.63,
+    "endTime": 294.12,
+    "text": "Kamala sends us a camera costs less than"
+  },
+  {
+    "startTime": 294.12,
+    "endTime": 296.85,
+    "text": "$1 and that green dot and they on the"
+  },
+  {
+    "startTime": 296.85,
+    "endTime": 298.41,
+    "text": "left thing what is that as a anything"
+  },
+  {
+    "startTime": 298.41,
+    "endTime": 301.53,
+    "text": "meaning this is a look ahead point for"
+  },
+  {
+    "startTime": 301.53,
+    "endTime": 303.18,
+    "text": "your adaptive cruise control so it helps"
+  },
+  {
+    "startTime": 303.18,
+    "endTime": 304.83,
+    "text": "us understand how to regulate velocity"
+  },
+  {
+    "startTime": 304.83,
+    "endTime": 307.38,
+    "text": "based on how far the cars in front of"
+  },
+  {
+    "startTime": 307.38,
+    "endTime": 310.2,
+    "text": "you and so you've also got an example I"
+  },
+  {
+    "startTime": 310.2,
+    "endTime": 312.18,
+    "text": "think of how the actual learning part"
+  },
+  {
+    "startTime": 312.18,
+    "endTime": 314.85,
+    "text": "takes place maybe we can see that talk"
+  },
+  {
+    "startTime": 314.85,
+    "endTime": 316.62,
+    "text": "about this this is an example where we"
+  },
+  {
+    "startTime": 316.62,
+    "endTime": 319.02,
+    "text": "post the challenge to Udacity students"
+  },
+  {
+    "startTime": 319.02,
+    "endTime": 320.43,
+    "text": "that take what we call a self-driving"
+  },
+  {
+    "startTime": 320.43,
+    "endTime": 323.55,
+    "text": "car nanodegree and he gave him this data"
+  },
+  {
+    "startTime": 323.55,
+    "endTime": 325.35,
+    "text": "said and said hey can you guys figure"
+  },
+  {
+    "startTime": 325.35,
+    "endTime": 327.419,
+    "text": "out how to steer this car and if you"
+  },
+  {
+    "startTime": 327.419,
+    "endTime": 329.76,
+    "text": "look at the images it's even for humans"
+  },
+  {
+    "startTime": 329.76,
+    "endTime": 331.919,
+    "text": "quite impossible to to get the steering"
+  },
+  {
+    "startTime": 331.919,
+    "endTime": 335.19,
+    "text": "right and we ran a competition and said"
+  },
+  {
+    "startTime": 335.19,
+    "endTime": 336.63,
+    "text": "hey is a deep learning competition a a"
+  },
+  {
+    "startTime": 336.63,
+    "endTime": 339.12,
+    "text": "competition and we gave the students 48"
+  },
+  {
+    "startTime": 339.12,
+    "endTime": 341.43,
+    "text": "hours all right so if you're a software"
+  },
+  {
+    "startTime": 341.43,
+    "endTime": 344.16,
+    "text": "house like Google or Facebook something"
+  },
+  {
+    "startTime": 344.16,
+    "endTime": 346.169,
+    "text": "like this cost you ladies six months to"
+  },
+  {
+    "startTime": 346.169,
+    "endTime": 348.57,
+    "text": "work so we figured 48 hours is great and"
+  },
+  {
+    "startTime": 348.57,
+    "endTime": 350.61,
+    "text": "within 48 hours we got about a hundred"
+  },
+  {
+    "startTime": 350.61,
+    "endTime": 352.86,
+    "text": "submissions from students and the top"
+  },
+  {
+    "startTime": 352.86,
+    "endTime": 356.039,
+    "text": "four got it perfectly right it drives"
+  },
+  {
+    "startTime": 356.039,
+    "endTime": 357.57,
+    "text": "better than I could drive on this"
+  },
+  {
+    "startTime": 357.57,
+    "endTime": 359.61,
+    "text": "imagery using deep learning and again"
+  },
+  {
+    "startTime": 359.61,
+    "endTime": 361.5,
+    "text": "it's the same methodology is this"
+  },
+  {
+    "startTime": 361.5,
+    "endTime": 363.24,
+    "text": "magical thing when you give enough data"
+  },
+  {
+    "startTime": 363.24,
+    "endTime": 365.34,
+    "text": "to a computer now and give enough time"
+  },
+  {
+    "startTime": 365.34,
+    "endTime": 367.169,
+    "text": "to company the data it finds its own"
+  },
+  {
+    "startTime": 367.169,
+    "endTime": 371.669,
+    "text": "rules and so that has led to development"
+  },
+  {
+    "startTime": 371.669,
+    "endTime": 374.52,
+    "text": "of powerful applications in all sorts of"
+  },
+  {
+    "startTime": 374.52,
+    "endTime": 374.91,
+    "text": "areas"
+  },
+  {
+    "startTime": 374.91,
+    "endTime": 376.95,
+    "text": "you were talking me to me the other day"
+  },
+  {
+    "startTime": 376.95,
+    "endTime": 379.53,
+    "text": "about cancer can I show this video yeah"
+  },
+  {
+    "startTime": 379.53,
+    "endTime": 382.47,
+    "text": "absolutely this is core so this is a"
+  },
+  {
+    "startTime": 382.47,
+    "endTime": 385.169,
+    "text": "kind of a insight into what's happening"
+  },
+  {
+    "startTime": 385.169,
+    "endTime": 389.419,
+    "text": "in a completely different domain this is"
+  },
+  {
+    "startTime": 389.419,
+    "endTime": 392.25,
+    "text": "augmenting or competing it's in the eye"
+  },
+  {
+    "startTime": 392.25,
+    "endTime": 394.47,
+    "text": "of the beholder with people who are"
+  },
+  {
+    "startTime": 394.47,
+    "endTime": 396.06,
+    "text": "being paid for and a thousand dollars a"
+  },
+  {
+    "startTime": 396.06,
+    "endTime": 396.77,
+    "text": "year"
+  },
+  {
+    "startTime": 396.77,
+    "endTime": 400.19,
+    "text": "dermatologist highly trained specialists"
+  },
+  {
+    "startTime": 400.19,
+    "endTime": 401.93,
+    "text": "it takes more than a decade of training"
+  },
+  {
+    "startTime": 401.93,
+    "endTime": 404.42,
+    "text": "to be a good dermatologist what you see"
+  },
+  {
+    "startTime": 404.42,
+    "endTime": 406.88,
+    "text": "here is the machine learning version of"
+  },
+  {
+    "startTime": 406.88,
+    "endTime": 409.07,
+    "text": "it it's called a neural network no"
+  },
+  {
+    "startTime": 409.07,
+    "endTime": 410.69,
+    "text": "networks is the technical term for these"
+  },
+  {
+    "startTime": 410.69,
+    "endTime": 412.64,
+    "text": "machine learning algorithms they've been"
+  },
+  {
+    "startTime": 412.64,
+    "endTime": 414.74,
+    "text": "around since the 1980s this one has been"
+  },
+  {
+    "startTime": 414.74,
+    "endTime": 417.26,
+    "text": "invented in 1988 by a Facebook fellow"
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 421.6,
+    "text": "called Jana Khan and it propagates data"
+  },
+  {
+    "startTime": 421.6,
+    "endTime": 424.16,
+    "text": "stages through what you could think of"
+  },
+  {
+    "startTime": 424.16,
+    "endTime": 426.02,
+    "text": "as the human brain it's not quite the"
+  },
+  {
+    "startTime": 426.02,
+    "endTime": 426.65,
+    "text": "same thing"
+  },
+  {
+    "startTime": 426.65,
+    "endTime": 428.42,
+    "text": "but it emulates the same thing it goes"
+  },
+  {
+    "startTime": 428.42,
+    "endTime": 430.1,
+    "text": "stage after stage in the very first"
+  },
+  {
+    "startTime": 430.1,
+    "endTime": 431.96,
+    "text": "stage it takes the visual input and"
+  },
+  {
+    "startTime": 431.96,
+    "endTime": 436.25,
+    "text": "extract edges and rods and dots and the"
+  },
+  {
+    "startTime": 436.25,
+    "endTime": 438.83,
+    "text": "next one become more complicated edges"
+  },
+  {
+    "startTime": 438.83,
+    "endTime": 442.0,
+    "text": "and shapes like little half moons and"
+  },
+  {
+    "startTime": 442.0,
+    "endTime": 444.89,
+    "text": "eventually it's able to build really"
+  },
+  {
+    "startTime": 444.89,
+    "endTime": 448.19,
+    "text": "complicated concepts and ruing has been"
+  },
+  {
+    "startTime": 448.19,
+    "endTime": 450.53,
+    "text": "able to show that it's able to find cat"
+  },
+  {
+    "startTime": 450.53,
+    "endTime": 453.11,
+    "text": "faces and dog faces in vast amounts of"
+  },
+  {
+    "startTime": 453.11,
+    "endTime": 455.54,
+    "text": "images what my student team assemble has"
+  },
+  {
+    "startTime": 455.54,
+    "endTime": 458.06,
+    "text": "shown is that if you train it on a"
+  },
+  {
+    "startTime": 458.06,
+    "endTime": 460.76,
+    "text": "hundred twenty nine thousand images of"
+  },
+  {
+    "startTime": 460.76,
+    "endTime": 463.94,
+    "text": "skin conditions including melanoma and"
+  },
+  {
+    "startTime": 463.94,
+    "endTime": 468.19,
+    "text": "carcinomas you can do as good a job as"
+  },
+  {
+    "startTime": 468.19,
+    "endTime": 471.56,
+    "text": "the best human dermatologist and to"
+  },
+  {
+    "startTime": 471.56,
+    "endTime": 473.69,
+    "text": "convince ourselves that is the case we"
+  },
+  {
+    "startTime": 473.69,
+    "endTime": 476.09,
+    "text": "captured an independent dataset they"
+  },
+  {
+    "startTime": 476.09,
+    "endTime": 478.52,
+    "text": "represented to our network and to 25"
+  },
+  {
+    "startTime": 478.52,
+    "endTime": 480.56,
+    "text": "board-certified stanford level"
+  },
+  {
+    "startTime": 480.56,
+    "endTime": 484.22,
+    "text": "dermatologists and compared those and in"
+  },
+  {
+    "startTime": 484.22,
+    "endTime": 486.56,
+    "text": "most cases where either on par or above"
+  },
+  {
+    "startTime": 486.56,
+    "endTime": 488.78,
+    "text": "the performance classification accuracy"
+  },
+  {
+    "startTime": 488.78,
+    "endTime": 491.48,
+    "text": "of Unitologist new telling me an"
+  },
+  {
+    "startTime": 491.48,
+    "endTime": 493.22,
+    "text": "anecdote I think about this this image"
+  },
+  {
+    "startTime": 493.22,
+    "endTime": 495.38,
+    "text": "right here what happened here that is"
+  },
+  {
+    "startTime": 495.38,
+    "endTime": 498.53,
+    "text": "this was last Thursday and it's that's a"
+  },
+  {
+    "startTime": 498.53,
+    "endTime": 499.19,
+    "text": "moving part"
+  },
+  {
+    "startTime": 499.19,
+    "endTime": 500.87,
+    "text": "piece so what we should be shown before"
+  },
+  {
+    "startTime": 500.87,
+    "endTime": 502.64,
+    "text": "and we published in nature early this"
+  },
+  {
+    "startTime": 502.64,
+    "endTime": 504.76,
+    "text": "year was this idea that we show"
+  },
+  {
+    "startTime": 504.76,
+    "endTime": 506.66,
+    "text": "dermatologists images in our computer"
+  },
+  {
+    "startTime": 506.66,
+    "endTime": 508.1,
+    "text": "program images and we counter often"
+  },
+  {
+    "startTime": 508.1,
+    "endTime": 509.9,
+    "text": "they're right but all these images are"
+  },
+  {
+    "startTime": 509.9,
+    "endTime": 511.58,
+    "text": "past images they'll been biopsied to"
+  },
+  {
+    "startTime": 511.58,
+    "endTime": 512.18,
+    "text": "make sure we have the correct"
+  },
+  {
+    "startTime": 512.18,
+    "endTime": 515.06,
+    "text": "classification this one wasn't though"
+  },
+  {
+    "startTime": 515.06,
+    "endTime": 516.4,
+    "text": "this one was actually done at Stanford"
+  },
+  {
+    "startTime": 516.4,
+    "endTime": 519.469,
+    "text": "there are no collaborators and the story"
+  },
+  {
+    "startTime": 519.469,
+    "endTime": 521.3,
+    "text": "goes that our collaborator was a"
+  },
+  {
+    "startTime": 521.3,
+    "endTime": 522.8,
+    "text": "world-famous dermatologist one of the"
+  },
+  {
+    "startTime": 522.8,
+    "endTime": 524.839,
+    "text": "three best apparently looked at this"
+  },
+  {
+    "startTime": 524.839,
+    "endTime": 526.839,
+    "text": "mole and said it's not skin cancer and"
+  },
+  {
+    "startTime": 526.839,
+    "endTime": 529.7,
+    "text": "then he had a second moment where he"
+  },
+  {
+    "startTime": 529.7,
+    "endTime": 531.2,
+    "text": "said let me just check with the app so"
+  },
+  {
+    "startTime": 531.2,
+    "endTime": 533.54,
+    "text": "we took his iPhone and when our piece of"
+  },
+  {
+    "startTime": 533.54,
+    "endTime": 534.11,
+    "text": "software"
+  },
+  {
+    "startTime": 534.11,
+    "endTime": 536.06,
+    "text": "our pocket dermatologists for the speak"
+  },
+  {
+    "startTime": 536.06,
+    "endTime": 539.81,
+    "text": "and and the iPhone said cancer"
+  },
+  {
+    "startTime": 539.81,
+    "endTime": 542.21,
+    "text": "it said melanoma and then he was"
+  },
+  {
+    "startTime": 542.21,
+    "endTime": 545.09,
+    "text": "confused and decide okay maybe I trust"
+  },
+  {
+    "startTime": 545.09,
+    "endTime": 546.14,
+    "text": "the eye for a little bit more than"
+  },
+  {
+    "startTime": 546.14,
+    "endTime": 549.11,
+    "text": "myself and he sent it out to the lab to"
+  },
+  {
+    "startTime": 549.11,
+    "endTime": 551.21,
+    "text": "get it biopsied and it came out as an"
+  },
+  {
+    "startTime": 551.21,
+    "endTime": 554.51,
+    "text": "aggressive melanoma so I think it might"
+  },
+  {
+    "startTime": 554.51,
+    "endTime": 555.89,
+    "text": "be the first time that we actually found"
+  },
+  {
+    "startTime": 555.89,
+    "endTime": 558.47,
+    "text": "in in the practices using deep learning"
+  },
+  {
+    "startTime": 558.47,
+    "endTime": 561.14,
+    "text": "an actual person whose melanoma would"
+  },
+  {
+    "startTime": 561.14,
+    "endTime": 562.88,
+    "text": "have gone unclassified had it not been"
+  },
+  {
+    "startTime": 562.88,
+    "endTime": 564.95,
+    "text": "for deep learning I mean that's"
+  },
+  {
+    "startTime": 564.95,
+    "endTime": 568.91,
+    "text": "incredible it feels like they'd been"
+  },
+  {
+    "startTime": 568.91,
+    "endTime": 570.41,
+    "text": "instant demand for an app like this"
+  },
+  {
+    "startTime": 570.41,
+    "endTime": 572.15,
+    "text": "right right now although you might freak"
+  },
+  {
+    "startTime": 572.15,
+    "endTime": 573.38,
+    "text": "out a lot of people are you are you"
+  },
+  {
+    "startTime": 573.38,
+    "endTime": 574.55,
+    "text": "thinking of doing this and making an app"
+  },
+  {
+    "startTime": 574.55,
+    "endTime": 576.68,
+    "text": "that to allow self checking so my my"
+  },
+  {
+    "startTime": 576.68,
+    "endTime": 582.5,
+    "text": "inbox is flooded about cancer apps with"
+  },
+  {
+    "startTime": 582.5,
+    "endTime": 584.36,
+    "text": "heartbreaking stories of people and as"
+  },
+  {
+    "startTime": 584.36,
+    "endTime": 587.03,
+    "text": "some people have had 10 15 20 ml and"
+  },
+  {
+    "startTime": 587.03,
+    "endTime": 589.13,
+    "text": "almost removed and uh scared that this"
+  },
+  {
+    "startTime": 589.13,
+    "endTime": 590.65,
+    "text": "one might be overlooked like this one"
+  },
+  {
+    "startTime": 590.65,
+    "endTime": 593.81,
+    "text": "and also about I know flying car speaker"
+  },
+  {
+    "startTime": 593.81,
+    "endTime": 596.39,
+    "text": "and fire because these days I guess my"
+  },
+  {
+    "startTime": 596.39,
+    "endTime": 599.81,
+    "text": "take is we need more testing I want to"
+  },
+  {
+    "startTime": 599.81,
+    "endTime": 602.18,
+    "text": "be very careful it's very easy to give a"
+  },
+  {
+    "startTime": 602.18,
+    "endTime": 603.89,
+    "text": "flashy result and impress the Ted"
+  },
+  {
+    "startTime": 603.89,
+    "endTime": 605.81,
+    "text": "audience it's much harder to put"
+  },
+  {
+    "startTime": 605.81,
+    "endTime": 608.84,
+    "text": "something others ethical and if people"
+  },
+  {
+    "startTime": 608.84,
+    "endTime": 611.24,
+    "text": "were to use the app and choose not to"
+  },
+  {
+    "startTime": 611.24,
+    "endTime": 612.62,
+    "text": "consult the assistance of a doctor"
+  },
+  {
+    "startTime": 612.62,
+    "endTime": 614.78,
+    "text": "because we get it wrong I would feel"
+  },
+  {
+    "startTime": 614.78,
+    "endTime": 615.92,
+    "text": "really bad about it so we're currently"
+  },
+  {
+    "startTime": 615.92,
+    "endTime": 617.9,
+    "text": "doing clinical tests and it is still"
+  },
+  {
+    "startTime": 617.9,
+    "endTime": 620.51,
+    "text": "Curtis commands and our data holds up we"
+  },
+  {
+    "startTime": 620.51,
+    "endTime": 622.13,
+    "text": "might be able at someone to take this"
+  },
+  {
+    "startTime": 622.13,
+    "endTime": 623.87,
+    "text": "kind of technology and take it out of"
+  },
+  {
+    "startTime": 623.87,
+    "endTime": 625.7,
+    "text": "the Stanford clinic um and bring it to"
+  },
+  {
+    "startTime": 625.7,
+    "endTime": 627.83,
+    "text": "the entire world places where Stanford"
+  },
+  {
+    "startTime": 627.83,
+    "endTime": 631.97,
+    "text": "doctors never have a set of foot and do"
+  },
+  {
+    "startTime": 631.97,
+    "endTime": 633.59,
+    "text": "I hear this right that it seemed like"
+  },
+  {
+    "startTime": 633.59,
+    "endTime": 634.76,
+    "text": "what you were saying because you're"
+  },
+  {
+    "startTime": 634.76,
+    "endTime": 637.67,
+    "text": "working with this army of Udacity"
+  },
+  {
+    "startTime": 637.67,
+    "endTime": 640.79,
+    "text": "students that in a way you're applying a"
+  },
+  {
+    "startTime": 640.79,
+    "endTime": 642.29,
+    "text": "different form of machine learning that"
+  },
+  {
+    "startTime": 642.29,
+    "endTime": 644.39,
+    "text": "might take place in in a company which"
+  },
+  {
+    "startTime": 644.39,
+    "endTime": 645.62,
+    "text": "is you're combining machine learning"
+  },
+  {
+    "startTime": 645.62,
+    "endTime": 648.2,
+    "text": "with a form of crowd wisdom are you"
+  },
+  {
+    "startTime": 648.2,
+    "endTime": 649.1,
+    "text": "saying that sometimes you think that"
+  },
+  {
+    "startTime": 649.1,
+    "endTime": 650.63,
+    "text": "could actually outperform what a company"
+  },
+  {
+    "startTime": 650.63,
+    "endTime": 652.82,
+    "text": "can do even a vast company I believe"
+  },
+  {
+    "startTime": 652.82,
+    "endTime": 655.7,
+    "text": "there's no instances that they blow my"
+  },
+  {
+    "startTime": 655.7,
+    "endTime": 657.34,
+    "text": "mind and I still trying to understand"
+  },
+  {
+    "startTime": 657.34,
+    "endTime": 659.38,
+    "text": "first what Chris is referring to is"
+  },
+  {
+    "startTime": 659.38,
+    "endTime": 662.6,
+    "text": "these competitions every run we turn"
+  },
+  {
+    "startTime": 662.6,
+    "endTime": 665.03,
+    "text": "them around in 48 hours and we've been"
+  },
+  {
+    "startTime": 665.03,
+    "endTime": 666.53,
+    "text": "able to build a self-driving car that"
+  },
+  {
+    "startTime": 666.53,
+    "endTime": 667.76,
+    "text": "can drive for Mountain View to"
+  },
+  {
+    "startTime": 667.76,
+    "endTime": 670.04,
+    "text": "San Francisco on surface streets it's"
+  },
+  {
+    "startTime": 670.04,
+    "endTime": 672.56,
+    "text": "not quite on par with Google after seven"
+  },
+  {
+    "startTime": 672.56,
+    "endTime": 675.71,
+    "text": "years ago we work but it's getting there"
+  },
+  {
+    "startTime": 675.71,
+    "endTime": 678.26,
+    "text": "and it took us only two engineers and"
+  },
+  {
+    "startTime": 678.26,
+    "endTime": 679.67,
+    "text": "three months to do this and the reason"
+  },
+  {
+    "startTime": 679.67,
+    "endTime": 682.34,
+    "text": "is we have an army of students who could"
+  },
+  {
+    "startTime": 682.34,
+    "endTime": 684.44,
+    "text": "participate in competitions we are not"
+  },
+  {
+    "startTime": 684.44,
+    "endTime": 686.45,
+    "text": "the only ones who use crowdsourcing uber"
+  },
+  {
+    "startTime": 686.45,
+    "endTime": 688.43,
+    "text": "and ddu scores for driving"
+  },
+  {
+    "startTime": 688.43,
+    "endTime": 690.38,
+    "text": "Airbnb uses crowdsourcing fool for"
+  },
+  {
+    "startTime": 690.38,
+    "endTime": 692.51,
+    "text": "hotels there's no many examples where"
+  },
+  {
+    "startTime": 692.51,
+    "endTime": 694.87,
+    "text": "people do but finding crowdsourcing or"
+  },
+  {
+    "startTime": 694.87,
+    "endTime": 697.19,
+    "text": "protein folding of all things in"
+  },
+  {
+    "startTime": 697.19,
+    "endTime": 699.41,
+    "text": "crowdsourcing but we've been able to"
+  },
+  {
+    "startTime": 699.41,
+    "endTime": 701.63,
+    "text": "build this car in three months so I'm"
+  },
+  {
+    "startTime": 701.63,
+    "endTime": 705.59,
+    "text": "actually rethinking how we organize"
+  },
+  {
+    "startTime": 705.59,
+    "endTime": 708.98,
+    "text": "corporations we have a staff of nine"
+  },
+  {
+    "startTime": 708.98,
+    "endTime": 711.11,
+    "text": "thousand people who are never hired"
+  },
+  {
+    "startTime": 711.11,
+    "endTime": 713.99,
+    "text": "I never fire they show up to work and"
+  },
+  {
+    "startTime": 713.99,
+    "endTime": 717.2,
+    "text": "other than no then they submit me maybe"
+  },
+  {
+    "startTime": 717.2,
+    "endTime": 719.24,
+    "text": "nine thousand answers I'm not allowed to"
+  },
+  {
+    "startTime": 719.24,
+    "endTime": 721.94,
+    "text": "use any of those I never pay only the"
+  },
+  {
+    "startTime": 721.94,
+    "endTime": 723.86,
+    "text": "the winners so I'm actually very cheap"
+  },
+  {
+    "startTime": 723.86,
+    "endTime": 725.3,
+    "text": "scored here which is not the best thing"
+  },
+  {
+    "startTime": 725.3,
+    "endTime": 727.37,
+    "text": "to do but and they considered part of"
+  },
+  {
+    "startTime": 727.37,
+    "endTime": 729.98,
+    "text": "Education too which is nice but but"
+  },
+  {
+    "startTime": 729.98,
+    "endTime": 732.11,
+    "text": "these students have been able to produce"
+  },
+  {
+    "startTime": 732.11,
+    "endTime": 734.33,
+    "text": "amazing deep learning results so yeah"
+  },
+  {
+    "startTime": 734.33,
+    "endTime": 735.86,
+    "text": "these synthesis of great people and"
+  },
+  {
+    "startTime": 735.86,
+    "endTime": 737.21,
+    "text": "great machine learning is amazing"
+  },
+  {
+    "startTime": 737.21,
+    "endTime": 739.07,
+    "text": "I mean Garry Kasparov stood on the first"
+  },
+  {
+    "startTime": 739.07,
+    "endTime": 741.44,
+    "text": "day that the winners of chess"
+  },
+  {
+    "startTime": 741.44,
+    "endTime": 744.25,
+    "text": "surprisingly turned out to be too"
+  },
+  {
+    "startTime": 744.25,
+    "endTime": 746.3,
+    "text": "amateur chess players with three"
+  },
+  {
+    "startTime": 746.3,
+    "endTime": 749.6,
+    "text": "computers you know mediocre ish mediocre"
+  },
+  {
+    "startTime": 749.6,
+    "endTime": 751.79,
+    "text": "- good computer programs could"
+  },
+  {
+    "startTime": 751.79,
+    "endTime": 753.77,
+    "text": "outperform one grandmaster with one"
+  },
+  {
+    "startTime": 753.77,
+    "endTime": 755.39,
+    "text": "great chess player like it was all part"
+  },
+  {
+    "startTime": 755.39,
+    "endTime": 757.61,
+    "text": "of the process and yeah it only seems"
+  },
+  {
+    "startTime": 757.61,
+    "endTime": 758.78,
+    "text": "like you're talking about a much more a"
+  },
+  {
+    "startTime": 758.78,
+    "endTime": 760.43,
+    "text": "much richer version of that same idea"
+  },
+  {
+    "startTime": 760.43,
+    "endTime": 763.79,
+    "text": "yeah I mean as you follow the fantastic"
+  },
+  {
+    "startTime": 763.79,
+    "endTime": 765.2,
+    "text": "panels yesterday morning and through"
+  },
+  {
+    "startTime": 765.2,
+    "endTime": 767.9,
+    "text": "sessions about AI robotic overlords and"
+  },
+  {
+    "startTime": 767.9,
+    "endTime": 769.88,
+    "text": "the human response many many great"
+  },
+  {
+    "startTime": 769.88,
+    "endTime": 771.77,
+    "text": "things were said but one of my concerns"
+  },
+  {
+    "startTime": 771.77,
+    "endTime": 773.87,
+    "text": "is that the seminars confused was"
+  },
+  {
+    "startTime": 773.87,
+    "endTime": 776.24,
+    "text": "actually with an AI with this kind of"
+  },
+  {
+    "startTime": 776.24,
+    "endTime": 777.62,
+    "text": "Overlord threat"
+  },
+  {
+    "startTime": 777.62,
+    "endTime": 779.78,
+    "text": "we are you I I there are lost"
+  },
+  {
+    "startTime": 779.78,
+    "endTime": 782.36,
+    "text": "consciousness right the last thing I"
+  },
+  {
+    "startTime": 782.36,
+    "endTime": 784.28,
+    "text": "want is to may I to behave consciousness"
+  },
+  {
+    "startTime": 784.28,
+    "endTime": 786.23,
+    "text": "I don't want to come into my kitchen and"
+  },
+  {
+    "startTime": 786.23,
+    "endTime": 788.66,
+    "text": "have the refrigerator just fallen in"
+  },
+  {
+    "startTime": 788.66,
+    "endTime": 790.94,
+    "text": "love with the dishwasher and telling me"
+  },
+  {
+    "startTime": 790.94,
+    "endTime": 792.59,
+    "text": "because it was nice enough my food is"
+  },
+  {
+    "startTime": 792.59,
+    "endTime": 795.35,
+    "text": "now warm right I wouldn't I wouldn't buy"
+  },
+  {
+    "startTime": 795.35,
+    "endTime": 797.9,
+    "text": "these products and I don't want them but"
+  },
+  {
+    "startTime": 797.9,
+    "endTime": 800.66,
+    "text": "the truth is for me AI has always been"
+  },
+  {
+    "startTime": 800.66,
+    "endTime": 801.529,
+    "text": "in augmentation"
+  },
+  {
+    "startTime": 801.529,
+    "endTime": 803.87,
+    "text": "of people it's been the occupation of us"
+  },
+  {
+    "startTime": 803.87,
+    "endTime": 807.709,
+    "text": "to make us stronger and I think Kasparov"
+  },
+  {
+    "startTime": 807.709,
+    "endTime": 809.06,
+    "text": "was exactly correct it's been the"
+  },
+  {
+    "startTime": 809.06,
+    "endTime": 811.759,
+    "text": "combination of human smarts and machine"
+  },
+  {
+    "startTime": 811.759,
+    "endTime": 812.389,
+    "text": "smarts"
+  },
+  {
+    "startTime": 812.389,
+    "endTime": 815.06,
+    "text": "that make us stronger the theme of of"
+  },
+  {
+    "startTime": 815.06,
+    "endTime": 817.67,
+    "text": "machines making a stronger is as old as"
+  },
+  {
+    "startTime": 817.67,
+    "endTime": 820.339,
+    "text": "machines are agricultural revolution"
+  },
+  {
+    "startTime": 820.339,
+    "endTime": 823.069,
+    "text": "took place because he made steam engines"
+  },
+  {
+    "startTime": 823.069,
+    "endTime": 824.93,
+    "text": "and farming equipment that couldn't"
+  },
+  {
+    "startTime": 824.93,
+    "endTime": 826.699,
+    "text": "found by itself they never replaced as"
+  },
+  {
+    "startTime": 826.699,
+    "endTime": 828.529,
+    "text": "made us stronger and I believe there's"
+  },
+  {
+    "startTime": 828.529,
+    "endTime": 831.17,
+    "text": "no way for I they'll make us much much"
+  },
+  {
+    "startTime": 831.17,
+    "endTime": 834.17,
+    "text": "much stronger as a human race so what"
+  },
+  {
+    "startTime": 834.17,
+    "endTime": 835.55,
+    "text": "will come onto that a bit more but just"
+  },
+  {
+    "startTime": 835.55,
+    "endTime": 837.62,
+    "text": "to continue with the sort of the scary"
+  },
+  {
+    "startTime": 837.62,
+    "endTime": 839.569,
+    "text": "part of this for some people like what"
+  },
+  {
+    "startTime": 839.569,
+    "endTime": 841.519,
+    "text": "what feels like it gets scary for people"
+  },
+  {
+    "startTime": 841.519,
+    "endTime": 843.97,
+    "text": "is when you have computer that can one"
+  },
+  {
+    "startTime": 843.97,
+    "endTime": 848.629,
+    "text": "rewrite its own code like so it can copy"
+  },
+  {
+    "startTime": 848.629,
+    "endTime": 849.98,
+    "text": "it it can create multiple copies of"
+  },
+  {
+    "startTime": 849.98,
+    "endTime": 852.41,
+    "text": "itself try a bunch of different code"
+  },
+  {
+    "startTime": 852.41,
+    "endTime": 854.449,
+    "text": "versions possibly even at random and"
+  },
+  {
+    "startTime": 854.449,
+    "endTime": 856.839,
+    "text": "then check them out and see if a goal is"
+  },
+  {
+    "startTime": 856.839,
+    "endTime": 859.309,
+    "text": "achieved and improve so say the goal is"
+  },
+  {
+    "startTime": 859.309,
+    "endTime": 862.22,
+    "text": "to do better on an intelligence test you"
+  },
+  {
+    "startTime": 862.22,
+    "endTime": 865.279,
+    "text": "know a computer that was moderately good"
+  },
+  {
+    "startTime": 865.279,
+    "endTime": 867.529,
+    "text": "at that you could try a million versions"
+  },
+  {
+    "startTime": 867.529,
+    "endTime": 869.329,
+    "text": "of that you might find one that was"
+  },
+  {
+    "startTime": 869.329,
+    "endTime": 872.089,
+    "text": "better and then you know repeat and so"
+  },
+  {
+    "startTime": 872.089,
+    "endTime": 874.309,
+    "text": "it's I mean the concern is that you get"
+  },
+  {
+    "startTime": 874.309,
+    "endTime": 876.1,
+    "text": "some sort of runaway effect where where"
+  },
+  {
+    "startTime": 876.1,
+    "endTime": 878.449,
+    "text": "everything is fine on Thursday evening"
+  },
+  {
+    "startTime": 878.449,
+    "endTime": 879.949,
+    "text": "you come back into the lab on Friday"
+  },
+  {
+    "startTime": 879.949,
+    "endTime": 881.54,
+    "text": "morning and because of the speed of"
+  },
+  {
+    "startTime": 881.54,
+    "endTime": 883.37,
+    "text": "computers and so forth just things have"
+  },
+  {
+    "startTime": 883.37,
+    "endTime": 886.1,
+    "text": "gone crazy and suddenly I would okay you"
+  },
+  {
+    "startTime": 886.1,
+    "endTime": 888.079,
+    "text": "know this is a possibility but it's a"
+  },
+  {
+    "startTime": 888.079,
+    "endTime": 890.139,
+    "text": "very remote possibility so let me just"
+  },
+  {
+    "startTime": 890.139,
+    "endTime": 893.18,
+    "text": "translate what I heard you say in the"
+  },
+  {
+    "startTime": 893.18,
+    "endTime": 894.949,
+    "text": "alphago case we had exactly the same"
+  },
+  {
+    "startTime": 894.949,
+    "endTime": 896.959,
+    "text": "computer would play the game against"
+  },
+  {
+    "startTime": 896.959,
+    "endTime": 899.329,
+    "text": "itself and then learn the rules and what"
+  },
+  {
+    "startTime": 899.329,
+    "endTime": 901.04,
+    "text": "machine learning is is a rewriting of"
+  },
+  {
+    "startTime": 901.04,
+    "endTime": 901.55,
+    "text": "the rules"
+  },
+  {
+    "startTime": 901.55,
+    "endTime": 904.819,
+    "text": "it's the rewriting of code but I think"
+  },
+  {
+    "startTime": 904.819,
+    "endTime": 907.1,
+    "text": "there was absolutely no concern that"
+  },
+  {
+    "startTime": 907.1,
+    "endTime": 909.5,
+    "text": "alphago would take over the world it"
+  },
+  {
+    "startTime": 909.5,
+    "endTime": 911.929,
+    "text": "can't even play chess I don't know but"
+  },
+  {
+    "startTime": 911.929,
+    "endTime": 914.089,
+    "text": "but but now these are all very sort of"
+  },
+  {
+    "startTime": 914.089,
+    "endTime": 918.379,
+    "text": "single domain things but it's possible"
+  },
+  {
+    "startTime": 918.379,
+    "endTime": 920.329,
+    "text": "to imagine we just saw a computer that"
+  },
+  {
+    "startTime": 920.329,
+    "endTime": 922.16,
+    "text": "seemed capable nearly capable of passing"
+  },
+  {
+    "startTime": 922.16,
+    "endTime": 925.249,
+    "text": "any university entrance test that can"
+  },
+  {
+    "startTime": 925.249,
+    "endTime": 927.379,
+    "text": "kind of it can't read and understand in"
+  },
+  {
+    "startTime": 927.379,
+    "endTime": 928.579,
+    "text": "the sense that we can but it can"
+  },
+  {
+    "startTime": 928.579,
+    "endTime": 930.829,
+    "text": "certainly absorb all the text and maybe"
+  },
+  {
+    "startTime": 930.829,
+    "endTime": 933.439,
+    "text": "see increased patterns of of meaning"
+  },
+  {
+    "startTime": 933.439,
+    "endTime": 934.43,
+    "text": "isn't there isn't there"
+  },
+  {
+    "startTime": 934.43,
+    "endTime": 937.46,
+    "text": "chance that as this broadens out that"
+  },
+  {
+    "startTime": 937.46,
+    "endTime": 938.33,
+    "text": "there could be a different kind of"
+  },
+  {
+    "startTime": 938.33,
+    "endTime": 940.1,
+    "text": "runaway effect so that's where I draw"
+  },
+  {
+    "startTime": 940.1,
+    "endTime": 942.529,
+    "text": "the line honestly and the chance exists"
+  },
+  {
+    "startTime": 942.529,
+    "endTime": 944.51,
+    "text": "I don't want to downplay it but I think"
+  },
+  {
+    "startTime": 944.51,
+    "endTime": 945.89,
+    "text": "it's remote and it's not the thing"
+  },
+  {
+    "startTime": 945.89,
+    "endTime": 947.3,
+    "text": "that's on my mind these days because I"
+  },
+  {
+    "startTime": 947.3,
+    "endTime": 948.589,
+    "text": "think the big revolution is something"
+  },
+  {
+    "startTime": 948.589,
+    "endTime": 949.69,
+    "text": "else"
+  },
+  {
+    "startTime": 949.69,
+    "endTime": 952.55,
+    "text": "everything successful Nia in AI to the"
+  },
+  {
+    "startTime": 952.55,
+    "endTime": 954.589,
+    "text": "present date has been extremely"
+  },
+  {
+    "startTime": 954.589,
+    "endTime": 957.26,
+    "text": "specialized and it's been thriving on a"
+  },
+  {
+    "startTime": 957.26,
+    "endTime": 960.38,
+    "text": "single idea which is massive amounts of"
+  },
+  {
+    "startTime": 960.38,
+    "endTime": 962.87,
+    "text": "data the reason why alphago works so"
+  },
+  {
+    "startTime": 962.87,
+    "endTime": 964.37,
+    "text": "well is because of massive number of"
+  },
+  {
+    "startTime": 964.37,
+    "endTime": 967.19,
+    "text": "gold plays and alphago can't drive a car"
+  },
+  {
+    "startTime": 967.19,
+    "endTime": 969.14,
+    "text": "or play a fly a plane the Google"
+  },
+  {
+    "startTime": 969.14,
+    "endTime": 970.7,
+    "text": "self-driving car or the Udacity"
+  },
+  {
+    "startTime": 970.7,
+    "endTime": 972.649,
+    "text": "self-driving car survives from massive"
+  },
+  {
+    "startTime": 972.649,
+    "endTime": 974.24,
+    "text": "amounts of data and it can't do anything"
+  },
+  {
+    "startTime": 974.24,
+    "endTime": 975.32,
+    "text": "else they can't even control a"
+  },
+  {
+    "startTime": 975.32,
+    "endTime": 978.23,
+    "text": "motorcycle it's a very specific domain"
+  },
+  {
+    "startTime": 978.23,
+    "endTime": 980.209,
+    "text": "specific function and the same is true"
+  },
+  {
+    "startTime": 980.209,
+    "endTime": 982.399,
+    "text": "for cancer app there has been almost no"
+  },
+  {
+    "startTime": 982.399,
+    "endTime": 983.66,
+    "text": "progress on this whole thing called"
+  },
+  {
+    "startTime": 983.66,
+    "endTime": 985.94,
+    "text": "general AI or where we're good in AI and"
+  },
+  {
+    "startTime": 985.94,
+    "endTime": 988.49,
+    "text": "say hey invent for me special relativity"
+  },
+  {
+    "startTime": 988.49,
+    "endTime": 991.459,
+    "text": "or string theory it's totally in the"
+  },
+  {
+    "startTime": 991.459,
+    "endTime": 993.74,
+    "text": "infancy the reason why I want to"
+  },
+  {
+    "startTime": 993.74,
+    "endTime": 996.95,
+    "text": "emphasize is I see the concerns and I"
+  },
+  {
+    "startTime": 996.95,
+    "endTime": 999.62,
+    "text": "wanna acknowledge them but if I were to"
+  },
+  {
+    "startTime": 999.62,
+    "endTime": 1002.38,
+    "text": "think about one thing I would ask myself"
+  },
+  {
+    "startTime": 1002.38,
+    "endTime": 1003.9,
+    "text": "the question what if we can take"
+  },
+  {
+    "startTime": 1003.9,
+    "endTime": 1008.23,
+    "text": "anything repetitive and make ourselves a"
+  },
+  {
+    "startTime": 1008.23,
+    "endTime": 1012.25,
+    "text": "hundred times as efficient it so turns"
+  },
+  {
+    "startTime": 1012.25,
+    "endTime": 1014.26,
+    "text": "out 300 years ago we all worked in"
+  },
+  {
+    "startTime": 1014.26,
+    "endTime": 1015.97,
+    "text": "agriculture and didn't farming and did"
+  },
+  {
+    "startTime": 1015.97,
+    "endTime": 1018.91,
+    "text": "repetitive things today 75% of us worked"
+  },
+  {
+    "startTime": 1018.91,
+    "endTime": 1021.279,
+    "text": "in offices and do repetitive things"
+  },
+  {
+    "startTime": 1021.279,
+    "endTime": 1024.67,
+    "text": "we've become spreadsheet monkeys and not"
+  },
+  {
+    "startTime": 1024.67,
+    "endTime": 1026.11,
+    "text": "just low-end labor"
+  },
+  {
+    "startTime": 1026.11,
+    "endTime": 1028.089,
+    "text": "we've become dermatologists doing"
+  },
+  {
+    "startTime": 1028.089,
+    "endTime": 1030.188,
+    "text": "repetitive things Lauria student pair of"
+  },
+  {
+    "startTime": 1030.189,
+    "endTime": 1032.678,
+    "text": "things I think we're at the brink of"
+  },
+  {
+    "startTime": 1032.679,
+    "endTime": 1035.26,
+    "text": "being able to take in the I look over"
+  },
+  {
+    "startTime": 1035.26,
+    "endTime": 1037.72,
+    "text": "our shoulders and they make us maybe 10"
+  },
+  {
+    "startTime": 1037.72,
+    "endTime": 1039.55,
+    "text": "or 50 times as effective in this repair"
+  },
+  {
+    "startTime": 1039.55,
+    "endTime": 1041.89,
+    "text": "of things that's what is my mind that"
+  },
+  {
+    "startTime": 1041.89,
+    "endTime": 1045.52,
+    "text": "sounds super exciting that the process"
+  },
+  {
+    "startTime": 1045.52,
+    "endTime": 1046.66,
+    "text": "of getting there seems a little"
+  },
+  {
+    "startTime": 1046.66,
+    "endTime": 1049.179,
+    "text": "terrifying to some people because once a"
+  },
+  {
+    "startTime": 1049.179,
+    "endTime": 1050.83,
+    "text": "computer can do this repetitive thing"
+  },
+  {
+    "startTime": 1050.83,
+    "endTime": 1053.46,
+    "text": "much better you know than the"
+  },
+  {
+    "startTime": 1053.46,
+    "endTime": 1055.57,
+    "text": "dermatologist or than the driver"
+  },
+  {
+    "startTime": 1055.57,
+    "endTime": 1057.13,
+    "text": "especially is the thing that's talked"
+  },
+  {
+    "startTime": 1057.13,
+    "endTime": 1060.25,
+    "text": "about so much now suddenly millions of"
+  },
+  {
+    "startTime": 1060.25,
+    "endTime": 1063.19,
+    "text": "jobs go and you know the country's in"
+  },
+  {
+    "startTime": 1063.19,
+    "endTime": 1065.29,
+    "text": "revolution before before we ever get to"
+  },
+  {
+    "startTime": 1065.29,
+    "endTime": 1068.05,
+    "text": "the more glorious aspects yeah"
+  },
+  {
+    "startTime": 1068.05,
+    "endTime": 1069.85,
+    "text": "and that's that's an issue and it's"
+  },
+  {
+    "startTime": 1069.85,
+    "endTime": 1070.99,
+    "text": "really an issue and it was pointed out"
+  },
+  {
+    "startTime": 1070.99,
+    "endTime": 1073.3,
+    "text": "yesterday morning by several your"
+  },
+  {
+    "startTime": 1073.3,
+    "endTime": 1077.35,
+    "text": "speakers now prior to me showing up on"
+  },
+  {
+    "startTime": 1077.35,
+    "endTime": 1079.84,
+    "text": "stage I confess them I'm a positive"
+  },
+  {
+    "startTime": 1079.84,
+    "endTime": 1082.06,
+    "text": "optimistic person so let me give me your"
+  },
+  {
+    "startTime": 1082.06,
+    "endTime": 1086.23,
+    "text": "optimistic pitch which is think of"
+  },
+  {
+    "startTime": 1086.23,
+    "endTime": 1088.99,
+    "text": "herself back say 300 years ago Europe"
+  },
+  {
+    "startTime": 1088.99,
+    "endTime": 1091.69,
+    "text": "just survived 140 years of continuous"
+  },
+  {
+    "startTime": 1091.69,
+    "endTime": 1094.69,
+    "text": "war none of you could read a ride there"
+  },
+  {
+    "startTime": 1094.69,
+    "endTime": 1097.6,
+    "text": "were no jobs that you hold today like"
+  },
+  {
+    "startTime": 1097.6,
+    "endTime": 1099.97,
+    "text": "investment banker or software engineer"
+  },
+  {
+    "startTime": 1099.97,
+    "endTime": 1102.64,
+    "text": "or TV anchor we would all be in the"
+  },
+  {
+    "startTime": 1102.64,
+    "endTime": 1104.83,
+    "text": "fields and farming and now here comes a"
+  },
+  {
+    "startTime": 1104.83,
+    "endTime": 1106.21,
+    "text": "long little Sebastian with a little"
+  },
+  {
+    "startTime": 1106.21,
+    "endTime": 1107.47,
+    "text": "steam machine his profits say hey guys"
+  },
+  {
+    "startTime": 1107.47,
+    "endTime": 1109.18,
+    "text": "look at this guy it's gonna make you"
+  },
+  {
+    "startTime": 1109.18,
+    "endTime": 1110.71,
+    "text": "guys a hundred times as strong so you"
+  },
+  {
+    "startTime": 1110.71,
+    "endTime": 1113.62,
+    "text": "can do something else and then back in"
+  },
+  {
+    "startTime": 1113.62,
+    "endTime": 1115.15,
+    "text": "the day there was no real stage but"
+  },
+  {
+    "startTime": 1115.15,
+    "endTime": 1116.83,
+    "text": "Chris my hanging up with the cows in the"
+  },
+  {
+    "startTime": 1116.83,
+    "endTime": 1118.81,
+    "text": "stable and he says I'm really concerned"
+  },
+  {
+    "startTime": 1118.81,
+    "endTime": 1120.67,
+    "text": "about it because I milk my cow every day"
+  },
+  {
+    "startTime": 1120.67,
+    "endTime": 1122.13,
+    "text": "and whatever machine does this for me"
+  },
+  {
+    "startTime": 1122.13,
+    "endTime": 1126.4,
+    "text": "the reason why I mentioned this is we"
+  },
+  {
+    "startTime": 1126.4,
+    "endTime": 1128.02,
+    "text": "always good in like acknowledging past"
+  },
+  {
+    "startTime": 1128.02,
+    "endTime": 1129.7,
+    "text": "progress and benefit if it we are like"
+  },
+  {
+    "startTime": 1129.7,
+    "endTime": 1131.83,
+    "text": "our iPhones or planes or electricity"
+  },
+  {
+    "startTime": 1131.83,
+    "endTime": 1134.32,
+    "text": "our medical supply we all love to live"
+  },
+  {
+    "startTime": 1134.32,
+    "endTime": 1136.18,
+    "text": "to 80 which was impossible too many"
+  },
+  {
+    "startTime": 1136.18,
+    "endTime": 1139.93,
+    "text": "years ago but we are kind of don't apply"
+  },
+  {
+    "startTime": 1139.93,
+    "endTime": 1144.01,
+    "text": "the same rules to the future so if I"
+  },
+  {
+    "startTime": 1144.01,
+    "endTime": 1146.14,
+    "text": "look at my own job as a CEO I would say"
+  },
+  {
+    "startTime": 1146.14,
+    "endTime": 1149.86,
+    "text": "90% my work is repetitive I don't enjoy"
+  },
+  {
+    "startTime": 1149.86,
+    "endTime": 1152.02,
+    "text": "it I spend about four hours email per"
+  },
+  {
+    "startTime": 1152.02,
+    "endTime": 1154.75,
+    "text": "day on stupid repetitive email and I'm"
+  },
+  {
+    "startTime": 1154.75,
+    "endTime": 1156.67,
+    "text": "burning to have something that helps me"
+  },
+  {
+    "startTime": 1156.67,
+    "endTime": 1159.58,
+    "text": "get rid of this why because I believe"
+  },
+  {
+    "startTime": 1159.58,
+    "endTime": 1163.03,
+    "text": "all of us are insanely creative I think"
+  },
+  {
+    "startTime": 1163.03,
+    "endTime": 1165.07,
+    "text": "the tech community more than anybody"
+  },
+  {
+    "startTime": 1165.07,
+    "endTime": 1167.53,
+    "text": "else but even blue-collar workers I"
+  },
+  {
+    "startTime": 1167.53,
+    "endTime": 1170.11,
+    "text": "think and go to your hotel mate and have"
+  },
+  {
+    "startTime": 1170.11,
+    "endTime": 1172.51,
+    "text": "a drink with him or her and an hour"
+  },
+  {
+    "startTime": 1172.51,
+    "endTime": 1174.97,
+    "text": "later you find a creative idea but this"
+  },
+  {
+    "startTime": 1174.97,
+    "endTime": 1177.61,
+    "text": "van powers is to turn his creativity"
+  },
+  {
+    "startTime": 1177.61,
+    "endTime": 1180.97,
+    "text": "into action like what if you could build"
+  },
+  {
+    "startTime": 1180.97,
+    "endTime": 1183.88,
+    "text": "Google in a day what if you could sit"
+  },
+  {
+    "startTime": 1183.88,
+    "endTime": 1185.68,
+    "text": "over at beer and invent the next"
+  },
+  {
+    "startTime": 1185.68,
+    "endTime": 1188.17,
+    "text": "snapchat whatever it is and tomorrow"
+  },
+  {
+    "startTime": 1188.17,
+    "endTime": 1190.18,
+    "text": "morning it's up and running and that is"
+  },
+  {
+    "startTime": 1190.18,
+    "endTime": 1191.35,
+    "text": "not science fiction"
+  },
+  {
+    "startTime": 1191.35,
+    "endTime": 1193.39,
+    "text": "what's going to happen is we are ready"
+  },
+  {
+    "startTime": 1193.39,
+    "endTime": 1196.0,
+    "text": "in historic history we've unleashed his"
+  },
+  {
+    "startTime": 1196.0,
+    "endTime": 1198.94,
+    "text": "amazing creativity by these slaving us"
+  },
+  {
+    "startTime": 1198.94,
+    "endTime": 1201.04,
+    "text": "from farming in the last and and later"
+  },
+  {
+    "startTime": 1201.04,
+    "endTime": 1201.89,
+    "text": "of course from"
+  },
+  {
+    "startTime": 1201.89,
+    "endTime": 1205.1,
+    "text": "factory work and have invented so many"
+  },
+  {
+    "startTime": 1205.1,
+    "endTime": 1207.41,
+    "text": "things it's it's going to be even better"
+  },
+  {
+    "startTime": 1207.41,
+    "endTime": 1209.39,
+    "text": "in my opinion and this couldn't be great"
+  },
+  {
+    "startTime": 1209.39,
+    "endTime": 1211.16,
+    "text": "side-effects one of the side effects"
+  },
+  {
+    "startTime": 1211.16,
+    "endTime": 1213.53,
+    "text": "will be that things like food and"
+  },
+  {
+    "startTime": 1213.53,
+    "endTime": 1216.41,
+    "text": "medical supply and education and shelter"
+  },
+  {
+    "startTime": 1216.41,
+    "endTime": 1218.84,
+    "text": "and transportation will all become much"
+  },
+  {
+    "startTime": 1218.84,
+    "endTime": 1220.67,
+    "text": "more affordable to all of us not just"
+  },
+  {
+    "startTime": 1220.67,
+    "endTime": 1222.44,
+    "text": "average people hmm"
+  },
+  {
+    "startTime": 1222.44,
+    "endTime": 1226.19,
+    "text": "so when Martin forward argued you know"
+  },
+  {
+    "startTime": 1226.19,
+    "endTime": 1227.6,
+    "text": "that this time it's different because"
+  },
+  {
+    "startTime": 1227.6,
+    "endTime": 1230.27,
+    "text": "the intelligence that we've used in the"
+  },
+  {
+    "startTime": 1230.27,
+    "endTime": 1233.78,
+    "text": "past to find new ways to be will be"
+  },
+  {
+    "startTime": 1233.78,
+    "endTime": 1236.15,
+    "text": "matched at the same pace by by kind of"
+  },
+  {
+    "startTime": 1236.15,
+    "endTime": 1237.98,
+    "text": "computers taking over those those things"
+  },
+  {
+    "startTime": 1237.98,
+    "endTime": 1240.59,
+    "text": "what I hear you saying is that not"
+  },
+  {
+    "startTime": 1240.59,
+    "endTime": 1242.84,
+    "text": "completely because because of you know"
+  },
+  {
+    "startTime": 1242.84,
+    "endTime": 1244.7,
+    "text": "human creativity do you think that"
+  },
+  {
+    "startTime": 1244.7,
+    "endTime": 1247.01,
+    "text": "that's fundamentally different from the"
+  },
+  {
+    "startTime": 1247.01,
+    "endTime": 1249.02,
+    "text": "kind of creativity that that computers"
+  },
+  {
+    "startTime": 1249.02,
+    "endTime": 1252.8,
+    "text": "can do so there's my there's my firm"
+  },
+  {
+    "startTime": 1252.8,
+    "endTime": 1255.74,
+    "text": "belief as an AI person that I haven't"
+  },
+  {
+    "startTime": 1255.74,
+    "endTime": 1259.66,
+    "text": "seen any real progress on creativity and"
+  },
+  {
+    "startTime": 1259.66,
+    "endTime": 1261.92,
+    "text": "out-of-the-box thinking what I really"
+  },
+  {
+    "startTime": 1261.92,
+    "endTime": 1263.45,
+    "text": "see right now and it's really important"
+  },
+  {
+    "startTime": 1263.45,
+    "endTime": 1265.4,
+    "text": "for people to realize because the word"
+  },
+  {
+    "startTime": 1265.4,
+    "endTime": 1266.45,
+    "text": "artificial intelligence is so"
+  },
+  {
+    "startTime": 1266.45,
+    "endTime": 1267.56,
+    "text": "threatening and then we have Steve"
+  },
+  {
+    "startTime": 1267.56,
+    "endTime": 1269.72,
+    "text": "Spielberg tossing a movie in where all"
+  },
+  {
+    "startTime": 1269.72,
+    "endTime": 1271.75,
+    "text": "of a sudden the cookies are overlords"
+  },
+  {
+    "startTime": 1271.75,
+    "endTime": 1274.07,
+    "text": "but it's really a technology it's a"
+  },
+  {
+    "startTime": 1274.07,
+    "endTime": 1276.26,
+    "text": "technology that helps us do repetitive"
+  },
+  {
+    "startTime": 1276.26,
+    "endTime": 1278.6,
+    "text": "things and the progress has been"
+  },
+  {
+    "startTime": 1278.6,
+    "endTime": 1280.54,
+    "text": "entirely on the repetitive end it's in"
+  },
+  {
+    "startTime": 1280.54,
+    "endTime": 1282.74,
+    "text": "legal document discovery it's been"
+  },
+  {
+    "startTime": 1282.74,
+    "endTime": 1286.01,
+    "text": "contract drafting it's been screening I"
+  },
+  {
+    "startTime": 1286.01,
+    "endTime": 1286.55,
+    "text": "know"
+  },
+  {
+    "startTime": 1286.55,
+    "endTime": 1288.86,
+    "text": "x-rays of your chest and these things"
+  },
+  {
+    "startTime": 1288.86,
+    "endTime": 1291.95,
+    "text": "are so specialized I don't see the big"
+  },
+  {
+    "startTime": 1291.95,
+    "endTime": 1294.41,
+    "text": "threat of humanity in fact vs people I"
+  },
+  {
+    "startTime": 1294.41,
+    "endTime": 1296.45,
+    "text": "mean let's face it we become superhuman"
+  },
+  {
+    "startTime": 1296.45,
+    "endTime": 1299.48,
+    "text": "we've made us superhuman we can swim"
+  },
+  {
+    "startTime": 1299.48,
+    "endTime": 1301.73,
+    "text": "across the Atlantic in 11 hours we can"
+  },
+  {
+    "startTime": 1301.73,
+    "endTime": 1304.16,
+    "text": "take a device of our pocket and shout"
+  },
+  {
+    "startTime": 1304.16,
+    "endTime": 1306.08,
+    "text": "all the way to Australia and in real"
+  },
+  {
+    "startTime": 1306.08,
+    "endTime": 1307.58,
+    "text": "time have the person shouting back to us"
+  },
+  {
+    "startTime": 1307.58,
+    "endTime": 1309.38,
+    "text": "that's physically not possible we"
+  },
+  {
+    "startTime": 1309.38,
+    "endTime": 1312.32,
+    "text": "breaking the rules of physics if this"
+  },
+  {
+    "startTime": 1312.32,
+    "endTime": 1313.64,
+    "text": "when this is said and done you're going"
+  },
+  {
+    "startTime": 1313.64,
+    "endTime": 1314.93,
+    "text": "to remember everything we ever said and"
+  },
+  {
+    "startTime": 1314.93,
+    "endTime": 1317.21,
+    "text": "seen you're gonna member every person"
+  },
+  {
+    "startTime": 1317.21,
+    "endTime": 1318.71,
+    "text": "which is good for me as my early stages"
+  },
+  {
+    "startTime": 1318.71,
+    "endTime": 1323.03,
+    "text": "of Alzheimer so I would yeah leave in"
+  },
+  {
+    "startTime": 1323.03,
+    "endTime": 1324.5,
+    "text": "heaven we would probably have enough a"
+  },
+  {
+    "startTime": 1324.5,
+    "endTime": 1326.84,
+    "text": "queue of a thousand two or more you'll"
+  },
+  {
+    "startTime": 1326.84,
+    "endTime": 1328.58,
+    "text": "be able to there will be known as"
+  },
+  {
+    "startTime": 1328.58,
+    "endTime": 1330.5,
+    "text": "spelling classes for kids because"
+  },
+  {
+    "startTime": 1330.5,
+    "endTime": 1332.09,
+    "text": "there's no spelling issue anymore"
+  },
+  {
+    "startTime": 1332.09,
+    "endTime": 1333.47,
+    "text": "there's no math issue anymore"
+  },
+  {
+    "startTime": 1333.47,
+    "endTime": 1335.779,
+    "text": "and I think what really will happen is"
+  },
+  {
+    "startTime": 1335.779,
+    "endTime": 1337.729,
+    "text": "we can be super creative and we are we"
+  },
+  {
+    "startTime": 1337.729,
+    "endTime": 1341.21,
+    "text": "are creative it's our secret weapon so"
+  },
+  {
+    "startTime": 1341.21,
+    "endTime": 1343.309,
+    "text": "so the jobs that are getting lost in a"
+  },
+  {
+    "startTime": 1343.309,
+    "endTime": 1345.129,
+    "text": "way even though it's gonna be painful"
+  },
+  {
+    "startTime": 1345.129,
+    "endTime": 1347.029,
+    "text": "humans are capable of more than those"
+  },
+  {
+    "startTime": 1347.029,
+    "endTime": 1349.129,
+    "text": "jobs this is the work the dream the"
+  },
+  {
+    "startTime": 1349.129,
+    "endTime": 1351.769,
+    "text": "dream is that humans can rise to just a"
+  },
+  {
+    "startTime": 1351.769,
+    "endTime": 1353.869,
+    "text": "new level of empowerment and in"
+  },
+  {
+    "startTime": 1353.869,
+    "endTime": 1356.869,
+    "text": "discovery that's the dream and think"
+  },
+  {
+    "startTime": 1356.869,
+    "endTime": 1358.789,
+    "text": "about this if you if you look at the"
+  },
+  {
+    "startTime": 1358.789,
+    "endTime": 1360.739,
+    "text": "history of humanity that might be what"
+  },
+  {
+    "startTime": 1360.739,
+    "endTime": 1362.21,
+    "text": "has 60 hundred thousand years old give"
+  },
+  {
+    "startTime": 1362.21,
+    "endTime": 1365.299,
+    "text": "and take almost everything that you"
+  },
+  {
+    "startTime": 1365.299,
+    "endTime": 1367.249,
+    "text": "cherish in terms of invention of"
+  },
+  {
+    "startTime": 1367.249,
+    "endTime": 1369.83,
+    "text": "technology of things we built has been"
+  },
+  {
+    "startTime": 1369.83,
+    "endTime": 1374.21,
+    "text": "invented last 150 years we toss in the"
+  },
+  {
+    "startTime": 1374.21,
+    "endTime": 1376.989,
+    "text": "book in the wila slivered order or the X"
+  },
+  {
+    "startTime": 1376.989,
+    "endTime": 1381.259,
+    "text": "but your phone sneakers these fierce"
+  },
+  {
+    "startTime": 1381.259,
+    "endTime": 1384.44,
+    "text": "modern manufacturing penicillin the"
+  },
+  {
+    "startTime": 1384.44,
+    "endTime": 1388.899,
+    "text": "things we cherish now that to me means"
+  },
+  {
+    "startTime": 1388.899,
+    "endTime": 1391.909,
+    "text": "the next hundred fifty years we'll find"
+  },
+  {
+    "startTime": 1391.909,
+    "endTime": 1394.009,
+    "text": "more things in fact the pace of"
+  },
+  {
+    "startTime": 1394.009,
+    "endTime": 1395.539,
+    "text": "invention has gone up not gone down in"
+  },
+  {
+    "startTime": 1395.539,
+    "endTime": 1398.989,
+    "text": "my opinion I believe only 1% of"
+  },
+  {
+    "startTime": 1398.989,
+    "endTime": 1399.979,
+    "text": "interesting things have been invented"
+  },
+  {
+    "startTime": 1399.979,
+    "endTime": 1402.999,
+    "text": "yet right we haven't cured cancer"
+  },
+  {
+    "startTime": 1402.999,
+    "endTime": 1405.769,
+    "text": "we don't have flying cars yet hopefully"
+  },
+  {
+    "startTime": 1405.769,
+    "endTime": 1408.589,
+    "text": "I'll changes used to be an example"
+  },
+  {
+    "startTime": 1408.589,
+    "endTime": 1411.2,
+    "text": "laughed about it's funny isn't it"
+  },
+  {
+    "startTime": 1411.2,
+    "endTime": 1414.259,
+    "text": "well secretly on flying cars we don't"
+  },
+  {
+    "startTime": 1414.259,
+    "endTime": 1416.989,
+    "text": "live twice as long yet okay we don't"
+  },
+  {
+    "startTime": 1416.989,
+    "endTime": 1419.119,
+    "text": "have this magic implant in you our brain"
+  },
+  {
+    "startTime": 1419.119,
+    "endTime": 1420.679,
+    "text": "so they give us the information you want"
+  },
+  {
+    "startTime": 1420.679,
+    "endTime": 1422.96,
+    "text": "and you might be appalled by it but I"
+  },
+  {
+    "startTime": 1422.96,
+    "endTime": 1424.489,
+    "text": "promise you once you have it you'll love"
+  },
+  {
+    "startTime": 1424.489,
+    "endTime": 1424.789,
+    "text": "it"
+  },
+  {
+    "startTime": 1424.789,
+    "endTime": 1427.659,
+    "text": "I hope you know it's bit scary I know"
+  },
+  {
+    "startTime": 1427.659,
+    "endTime": 1429.559,
+    "text": "there's so many things we haven't"
+  },
+  {
+    "startTime": 1429.559,
+    "endTime": 1430.94,
+    "text": "invented yet that I think we invent we"
+  },
+  {
+    "startTime": 1430.94,
+    "endTime": 1431.96,
+    "text": "have no gravity shields"
+  },
+  {
+    "startTime": 1431.96,
+    "endTime": 1433.999,
+    "text": "if you can't beam assess from a location"
+  },
+  {
+    "startTime": 1433.999,
+    "endTime": 1436.999,
+    "text": "another that sounds ridiculous but about"
+  },
+  {
+    "startTime": 1436.999,
+    "endTime": 1438.95,
+    "text": "two hundred years ago experts were of"
+  },
+  {
+    "startTime": 1438.95,
+    "endTime": 1441.259,
+    "text": "the opinion flight wouldn't exist even"
+  },
+  {
+    "startTime": 1441.259,
+    "endTime": 1443.539,
+    "text": "hundred twenty years ago and if you move"
+  },
+  {
+    "startTime": 1443.539,
+    "endTime": 1445.039,
+    "text": "faster than you could value would"
+  },
+  {
+    "startTime": 1445.039,
+    "endTime": 1447.859,
+    "text": "instantly die right so who says if"
+  },
+  {
+    "startTime": 1447.859,
+    "endTime": 1449.629,
+    "text": "you're correct today that you can't beam"
+  },
+  {
+    "startTime": 1449.629,
+    "endTime": 1452.379,
+    "text": "a person from here to Mars"
+  },
+  {
+    "startTime": 1452.379,
+    "endTime": 1454.159,
+    "text": "Sebastian thank you so much to your"
+  },
+  {
+    "startTime": 1454.159,
+    "endTime": 1456.2,
+    "text": "incredibly inspiring vision and your"
+  },
+  {
+    "startTime": 1456.2,
+    "endTime": 1457.99,
+    "text": "brilliance Thank You Sebastian birth"
+  },
+  {
+    "startTime": 1457.99,
+    "endTime": 1460.559,
+    "text": "put that down"
+  }
+]
