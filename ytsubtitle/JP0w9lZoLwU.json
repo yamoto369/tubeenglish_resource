@@ -1,0 +1,902 @@
+[
+  {
+    "startTime": 6.8,
+    "endTime": 12.759,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 12.759,
+    "endTime": 14.2,
+    "text": "I want to start by asking you to think"
+  },
+  {
+    "startTime": 14.2,
+    "endTime": 15.599,
+    "text": "back to when you were a kid playing with"
+  },
+  {
+    "startTime": 15.599,
+    "endTime": 17.64,
+    "text": "blocks as you figured out how to reach"
+  },
+  {
+    "startTime": 17.64,
+    "endTime": 19.72,
+    "text": "out and grasp pick them up and move them"
+  },
+  {
+    "startTime": 19.72,
+    "endTime": 21.4,
+    "text": "around you are actually learning how to"
+  },
+  {
+    "startTime": 21.4,
+    "endTime": 23.039,
+    "text": "think and solve problems by"
+  },
+  {
+    "startTime": 23.039,
+    "endTime": 25.279,
+    "text": "understanding and manipulating spatial"
+  },
+  {
+    "startTime": 25.279,
+    "endTime": 27.599,
+    "text": "relationships spatial reasoning is uh"
+  },
+  {
+    "startTime": 27.599,
+    "endTime": 29.439,
+    "text": "deeply connected to how we understand a"
+  },
+  {
+    "startTime": 29.439,
+    "endTime": 32.2,
+    "text": "lot of the world around us so as a"
+  },
+  {
+    "startTime": 32.2,
+    "endTime": 34.079,
+    "text": "computer scientist inspired by this"
+  },
+  {
+    "startTime": 34.079,
+    "endTime": 35.44,
+    "text": "utility of our interactions with"
+  },
+  {
+    "startTime": 35.44,
+    "endTime": 37.52,
+    "text": "physical objects along with my adviser"
+  },
+  {
+    "startTime": 37.52,
+    "endTime": 40.079,
+    "text": "Patty and my collaborator Jen kthy I"
+  },
+  {
+    "startTime": 40.079,
+    "endTime": 42.559,
+    "text": "started to wonder what if when we used a"
+  },
+  {
+    "startTime": 42.559,
+    "endTime": 44.6,
+    "text": "computer instead of having this one"
+  },
+  {
+    "startTime": 44.6,
+    "endTime": 46.079,
+    "text": "mouse cursor that was like a digital"
+  },
+  {
+    "startTime": 46.079,
+    "endTime": 48.16,
+    "text": "fingertip moving around a flat desktop"
+  },
+  {
+    "startTime": 48.16,
+    "endTime": 49.52,
+    "text": "what if we could reach in with both"
+  },
+  {
+    "startTime": 49.52,
+    "endTime": 52.199,
+    "text": "hands and grasp information physically"
+  },
+  {
+    "startTime": 52.199,
+    "endTime": 54.079,
+    "text": "arranging it the way we wanted this"
+  },
+  {
+    "startTime": 54.079,
+    "endTime": 55.68,
+    "text": "question was so compelling that we"
+  },
+  {
+    "startTime": 55.68,
+    "endTime": 57.52,
+    "text": "decided to explore the answer by"
+  },
+  {
+    "startTime": 57.52,
+    "endTime": 60.199,
+    "text": "building sift tables in a nutshell a"
+  },
+  {
+    "startTime": 60.199,
+    "endTime": 62.12,
+    "text": "sift table is an interactive computer"
+  },
+  {
+    "startTime": 62.12,
+    "endTime": 64.478,
+    "text": "the size of a cookie they're able to be"
+  },
+  {
+    "startTime": 64.479,
+    "endTime": 66.88,
+    "text": "moved around by hand they can sense each"
+  },
+  {
+    "startTime": 66.88,
+    "endTime": 68.68,
+    "text": "other they can sense their motion and"
+  },
+  {
+    "startTime": 68.68,
+    "endTime": 70.84,
+    "text": "they have a screen and a wireless radio"
+  },
+  {
+    "startTime": 70.84,
+    "endTime": 72.72,
+    "text": "but most importantly they're physical so"
+  },
+  {
+    "startTime": 72.72,
+    "endTime": 74.36,
+    "text": "like the blocks you can move them just"
+  },
+  {
+    "startTime": 74.36,
+    "endTime": 77.0,
+    "text": "by reaching out and grasping and sibles"
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 79.28,
+    "text": "are an example of a new ecosystem of"
+  },
+  {
+    "startTime": 79.28,
+    "endTime": 80.72,
+    "text": "tools for manipulating digital"
+  },
+  {
+    "startTime": 80.72,
+    "endTime": 82.6,
+    "text": "information and as these tools become"
+  },
+  {
+    "startTime": 82.6,
+    "endTime": 84.52,
+    "text": "more physical more aware of their motion"
+  },
+  {
+    "startTime": 84.52,
+    "endTime": 86.24,
+    "text": "aware of each other and aware of the"
+  },
+  {
+    "startTime": 86.24,
+    "endTime": 88.159,
+    "text": "Nuance of how we move them we can start"
+  },
+  {
+    "startTime": 88.159,
+    "endTime": 90.4,
+    "text": "to explore some new and fun interaction"
+  },
+  {
+    "startTime": 90.4,
+    "endTime": 92.04,
+    "text": "Styles so I'm going to start with some"
+  },
+  {
+    "startTime": 92.04,
+    "endTime": 93.92,
+    "text": "simple examples this sift table is"
+  },
+  {
+    "startTime": 93.92,
+    "endTime": 96.32,
+    "text": "configured to show video and if I tilt"
+  },
+  {
+    "startTime": 96.32,
+    "endTime": 97.759,
+    "text": "it in one direction it'll roll the video"
+  },
+  {
+    "startTime": 97.759,
+    "endTime": 100.04,
+    "text": "this way if I tilt it the other way it"
+  },
+  {
+    "startTime": 100.04,
+    "endTime": 102.399,
+    "text": "rolls it backwards and these interactive"
+  },
+  {
+    "startTime": 102.399,
+    "endTime": 104.36,
+    "text": "portraits are aware of each other so if"
+  },
+  {
+    "startTime": 104.36,
+    "endTime": 106.84,
+    "text": "I put them next to each other they get"
+  },
+  {
+    "startTime": 106.84,
+    "endTime": 109.84,
+    "text": "interested if they get surrounded they"
+  },
+  {
+    "startTime": 109.84,
+    "endTime": 111.399,
+    "text": "notice that too they might get a little"
+  },
+  {
+    "startTime": 111.399,
+    "endTime": 114.159,
+    "text": "flustered and they can also sense their"
+  },
+  {
+    "startTime": 114.159,
+    "endTime": 116.52,
+    "text": "motion and"
+  },
+  {
+    "startTime": 116.52,
+    "endTime": 119.32,
+    "text": "tilt so one of the interesting"
+  },
+  {
+    "startTime": 119.32,
+    "endTime": 121.079,
+    "text": "implications interaction we started to"
+  },
+  {
+    "startTime": 121.079,
+    "endTime": 123.079,
+    "text": "realize was that we could use everyday"
+  },
+  {
+    "startTime": 123.079,
+    "endTime": 125.759,
+    "text": "gestures on data like pouring a color"
+  },
+  {
+    "startTime": 125.759,
+    "endTime": 128.36,
+    "text": "the way we might pour a liquid so in"
+  },
+  {
+    "startTime": 128.36,
+    "endTime": 129.599,
+    "text": "this case we've got three cftbl"
+  },
+  {
+    "startTime": 129.599,
+    "endTime": 131.36,
+    "text": "configured to be paint buckets and I can"
+  },
+  {
+    "startTime": 131.36,
+    "endTime": 133.08,
+    "text": "use them to pour color into that Central"
+  },
+  {
+    "startTime": 133.08,
+    "endTime": 136.08,
+    "text": "one where they get mixed if we overshoot"
+  },
+  {
+    "startTime": 136.08,
+    "endTime": 138.72,
+    "text": "we can pour a little bit"
+  },
+  {
+    "startTime": 138.72,
+    "endTime": 140.68,
+    "text": "back there are also some neat"
+  },
+  {
+    "startTime": 140.68,
+    "endTime": 142.959,
+    "text": "possibilities for uh education like"
+  },
+  {
+    "startTime": 142.959,
+    "endTime": 144.44,
+    "text": "language math and logic games where we"
+  },
+  {
+    "startTime": 144.44,
+    "endTime": 146.319,
+    "text": "want to give people the ability to try"
+  },
+  {
+    "startTime": 146.319,
+    "endTime": 147.36,
+    "text": "things"
+  },
+  {
+    "startTime": 147.36,
+    "endTime": 149.56,
+    "text": "quickly and view the results immediately"
+  },
+  {
+    "startTime": 149.56,
+    "endTime": 152.319,
+    "text": "so here I'm"
+  },
+  {
+    "startTime": 152.48,
+    "endTime": 155.04,
+    "text": "uh this is a Fibonacci Sequence that I'm"
+  },
+  {
+    "startTime": 155.04,
+    "endTime": 158.319,
+    "text": "making with a simple equation program"
+  },
+  {
+    "startTime": 158.319,
+    "endTime": 159.599,
+    "text": "here we have a word game that's kind of"
+  },
+  {
+    "startTime": 159.599,
+    "endTime": 161.239,
+    "text": "like a mash up between Scrabble and"
+  },
+  {
+    "startTime": 161.239,
+    "endTime": 163.8,
+    "text": "Boggle basically in every round you get"
+  },
+  {
+    "startTime": 163.8,
+    "endTime": 165.48,
+    "text": "a randomly assigned letter on each sift"
+  },
+  {
+    "startTime": 165.48,
+    "endTime": 167.28,
+    "text": "table and as you try to make words it"
+  },
+  {
+    "startTime": 167.28,
+    "endTime": 169.56,
+    "text": "checks against the dictionary then after"
+  },
+  {
+    "startTime": 169.56,
+    "endTime": 171.879,
+    "text": "about 30 seconds it reshuffles and you"
+  },
+  {
+    "startTime": 171.879,
+    "endTime": 173.159,
+    "text": "have a new set of letters and new"
+  },
+  {
+    "startTime": 173.159,
+    "endTime": 175.48,
+    "text": "possibilities to"
+  },
+  {
+    "startTime": 175.48,
+    "endTime": 177.68,
+    "text": "try thank"
+  },
+  {
+    "startTime": 177.68,
+    "endTime": 180.04,
+    "text": "you so these are some kids that came on"
+  },
+  {
+    "startTime": 180.04,
+    "endTime": 181.8,
+    "text": "a field trip to the media lab and I"
+  },
+  {
+    "startTime": 181.8,
+    "endTime": 183.44,
+    "text": "managed to get them to try it out and"
+  },
+  {
+    "startTime": 183.44,
+    "endTime": 185.799,
+    "text": "shoot a"
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 193.84,
+    "text": "video they really loved it and one of"
+  },
+  {
+    "startTime": 193.84,
+    "endTime": 195.0,
+    "text": "the interesting things about this kind"
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 197.28,
+    "text": "of application is that uh you don't have"
+  },
+  {
+    "startTime": 197.28,
+    "endTime": 198.76,
+    "text": "to give people many instructions all I"
+  },
+  {
+    "startTime": 198.76,
+    "endTime": 200.959,
+    "text": "have to say is make words and they know"
+  },
+  {
+    "startTime": 200.959,
+    "endTime": 203.68,
+    "text": "exactly what to do so here's another few"
+  },
+  {
+    "startTime": 203.68,
+    "endTime": 207.319,
+    "text": "people trying it out"
+  },
+  {
+    "startTime": 212.319,
+    "endTime": 214.36,
+    "text": "that's our youngest beta tester down"
+  },
+  {
+    "startTime": 214.36,
+    "endTime": 216.0,
+    "text": "there on the"
+  },
+  {
+    "startTime": 216.0,
+    "endTime": 219.84,
+    "text": "right turns out all he wanted to do was"
+  },
+  {
+    "startTime": 219.84,
+    "endTime": 223.599,
+    "text": "to stack the sibles up so to him they"
+  },
+  {
+    "startTime": 223.599,
+    "endTime": 224.3,
+    "text": "were just"
+  },
+  {
+    "startTime": 224.3,
+    "endTime": 225.64,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 225.64,
+    "endTime": 228.28,
+    "text": "blocks now this is an interactive uh"
+  },
+  {
+    "startTime": 228.28,
+    "endTime": 229.319,
+    "text": "Cartoon"
+  },
+  {
+    "startTime": 229.319,
+    "endTime": 232.48,
+    "text": "application and uh we wanted to build a"
+  },
+  {
+    "startTime": 232.48,
+    "endTime": 234.599,
+    "text": "learning tool for uh for language"
+  },
+  {
+    "startTime": 234.599,
+    "endTime": 238.159,
+    "text": "Learners and this is Felix actually and"
+  },
+  {
+    "startTime": 238.159,
+    "endTime": 239.519,
+    "text": "he can bring new characters into the"
+  },
+  {
+    "startTime": 239.519,
+    "endTime": 240.68,
+    "text": "scene"
+  },
+  {
+    "startTime": 240.68,
+    "endTime": 242.519,
+    "text": "just byting the off the table that have"
+  },
+  {
+    "startTime": 242.519,
+    "endTime": 245.04,
+    "text": "that character shown on them here he's"
+  },
+  {
+    "startTime": 245.04,
+    "endTime": 246.239,
+    "text": "bringing the Sun"
+  },
+  {
+    "startTime": 246.239,
+    "endTime": 248.92,
+    "text": "out the sun is"
+  },
+  {
+    "startTime": 248.92,
+    "endTime": 250.959,
+    "text": "rising now he's brought a tractor into"
+  },
+  {
+    "startTime": 250.959,
+    "endTime": 253.04,
+    "text": "the"
+  },
+  {
+    "startTime": 253.4,
+    "endTime": 255.72,
+    "text": "scene the orange"
+  },
+  {
+    "startTime": 255.72,
+    "endTime": 258.239,
+    "text": "tractor good job"
+  },
+  {
+    "startTime": 258.239,
+    "endTime": 260.519,
+    "text": "yeah so by shaking the sibles and"
+  },
+  {
+    "startTime": 260.519,
+    "endTime": 262.36,
+    "text": "putting them next to each other he can"
+  },
+  {
+    "startTime": 262.36,
+    "endTime": 264.68,
+    "text": "make the characters interact inventing"
+  },
+  {
+    "startTime": 264.68,
+    "endTime": 267.04,
+    "text": "his own narrative"
+  },
+  {
+    "startTime": 267.04,
+    "endTime": 269.479,
+    "text": "hello it's an open-ended story and he"
+  },
+  {
+    "startTime": 269.479,
+    "endTime": 272.68,
+    "text": "gets to decide how it"
+  },
+  {
+    "startTime": 274.96,
+    "endTime": 277.919,
+    "text": "unfolds Fly Away"
+  },
+  {
+    "startTime": 277.919,
+    "endTime": 281.199,
+    "text": "cat good"
+  },
+  {
+    "startTime": 282.16,
+    "endTime": 284.8,
+    "text": "job so the last example I have time to"
+  },
+  {
+    "startTime": 284.8,
+    "endTime": 287.0,
+    "text": "show you today is a music sequencing and"
+  },
+  {
+    "startTime": 287.0,
+    "endTime": 288.84,
+    "text": "live performance tool that we've built"
+  },
+  {
+    "startTime": 288.84,
+    "endTime": 291.96,
+    "text": "recently uh in which sibles act as"
+  },
+  {
+    "startTime": 291.96,
+    "endTime": 295.56,
+    "text": "sounds like lead bass and drums each of"
+  },
+  {
+    "startTime": 295.56,
+    "endTime": 297.039,
+    "text": "these has four different variations you"
+  },
+  {
+    "startTime": 297.039,
+    "endTime": 298.919,
+    "text": "get to choose which one you want to use"
+  },
+  {
+    "startTime": 298.919,
+    "endTime": 301.639,
+    "text": "and you can inject these sounds into a"
+  },
+  {
+    "startTime": 301.639,
+    "endTime": 303.72,
+    "text": "sequence that you can assemble into the"
+  },
+  {
+    "startTime": 303.72,
+    "endTime": 305.72,
+    "text": "pattern that you want and you inject it"
+  },
+  {
+    "startTime": 305.72,
+    "endTime": 307.28,
+    "text": "by just bumping up the sound sift"
+  },
+  {
+    "startTime": 307.28,
+    "endTime": 308.28,
+    "text": "against the"
+  },
+  {
+    "startTime": 308.28,
+    "endTime": 310.24,
+    "text": "sequenceable there are effects that you"
+  },
+  {
+    "startTime": 310.24,
+    "endTime": 313.0,
+    "text": "can control live like Reverb and filter"
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 314.52,
+    "text": "you attach it to a particular sound and"
+  },
+  {
+    "startTime": 314.52,
+    "endTime": 317.6,
+    "text": "then tilt to adjust it and uh then"
+  },
+  {
+    "startTime": 317.6,
+    "endTime": 319.199,
+    "text": "overall effects like Tempo and volume"
+  },
+  {
+    "startTime": 319.199,
+    "endTime": 321.16,
+    "text": "that apply to the entire sequence so"
+  },
+  {
+    "startTime": 321.16,
+    "endTime": 323.639,
+    "text": "let's have a"
+  },
+  {
+    "startTime": 323.96,
+    "endTime": 326.72,
+    "text": "look I start by putting a"
+  },
+  {
+    "startTime": 326.72,
+    "endTime": 329.759,
+    "text": "lead into two sequence sibles arrang"
+  },
+  {
+    "startTime": 329.759,
+    "endTime": 333.36,
+    "text": "them into uh a series extend it add a"
+  },
+  {
+    "startTime": 333.36,
+    "endTime": 334.479,
+    "text": "little more"
+  },
+  {
+    "startTime": 334.479,
+    "endTime": 337.29,
+    "text": "lead now I put a baseline"
+  },
+  {
+    "startTime": 337.29,
+    "endTime": 340.829,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 341.199,
+    "endTime": 345.199,
+    "text": "in now I'll put some percussion"
+  },
+  {
+    "startTime": 347.88,
+    "endTime": 350.44,
+    "text": "in and now I'll attach the filter to the"
+  },
+  {
+    "startTime": 350.44,
+    "endTime": 353.759,
+    "text": "drum so I can control the effect"
+  },
+  {
+    "startTime": 353.759,
+    "endTime": 356.039,
+    "text": "live I can speed up the whole sequence"
+  },
+  {
+    "startTime": 356.039,
+    "endTime": 358.759,
+    "text": "by tilting the tempo to one one way or"
+  },
+  {
+    "startTime": 358.759,
+    "endTime": 360.84,
+    "text": "the other"
+  },
+  {
+    "startTime": 360.84,
+    "endTime": 362.24,
+    "text": "and now I'll attach the filter to the"
+  },
+  {
+    "startTime": 362.24,
+    "endTime": 364.96,
+    "text": "base for some more"
+  },
+  {
+    "startTime": 367.919,
+    "endTime": 370.16,
+    "text": "expression I can rearrange the sequence"
+  },
+  {
+    "startTime": 370.16,
+    "endTime": 371.8,
+    "text": "while it plays I don't have to plan it"
+  },
+  {
+    "startTime": 371.8,
+    "endTime": 373.28,
+    "text": "out in advance but I can improvise"
+  },
+  {
+    "startTime": 373.28,
+    "endTime": 375.0,
+    "text": "changing it making it longer or shorter"
+  },
+  {
+    "startTime": 375.0,
+    "endTime": 376.52,
+    "text": "as I"
+  },
+  {
+    "startTime": 376.52,
+    "endTime": 378.919,
+    "text": "go and now finally I can fade the whole"
+  },
+  {
+    "startTime": 378.919,
+    "endTime": 381.4,
+    "text": "sequence out using the volume sift table"
+  },
+  {
+    "startTime": 381.4,
+    "endTime": 384.0,
+    "text": "tilted to the"
+  },
+  {
+    "startTime": 387.72,
+    "endTime": 391.16,
+    "text": "left thank you so"
+  },
+  {
+    "startTime": 391.16,
+    "endTime": 394.08,
+    "text": "so as you can see my passion is for"
+  },
+  {
+    "startTime": 394.08,
+    "endTime": 396.08,
+    "text": "making new human computer interfaces"
+  },
+  {
+    "startTime": 396.08,
+    "endTime": 397.639,
+    "text": "that are a better match to the ways our"
+  },
+  {
+    "startTime": 397.639,
+    "endTime": 400.24,
+    "text": "brains and bodies work and today I had"
+  },
+  {
+    "startTime": 400.24,
+    "endTime": 402.319,
+    "text": "time to show you one point in this new"
+  },
+  {
+    "startTime": 402.319,
+    "endTime": 404.16,
+    "text": "design space and a few of the"
+  },
+  {
+    "startTime": 404.16,
+    "endTime": 405.319,
+    "text": "possibilities that we're working to"
+  },
+  {
+    "startTime": 405.319,
+    "endTime": 407.08,
+    "text": "bring out of the laboratory so the"
+  },
+  {
+    "startTime": 407.08,
+    "endTime": 408.56,
+    "text": "thought I want to leave you with is that"
+  },
+  {
+    "startTime": 408.56,
+    "endTime": 410.599,
+    "text": "we're on the cusp of this new generation"
+  },
+  {
+    "startTime": 410.599,
+    "endTime": 413.599,
+    "text": "of tools for interacting with digital"
+  },
+  {
+    "startTime": 413.599,
+    "endTime": 415.36,
+    "text": "media that are going to bring"
+  },
+  {
+    "startTime": 415.36,
+    "endTime": 418.599,
+    "text": "information into our world on our terms"
+  },
+  {
+    "startTime": 418.599,
+    "endTime": 419.879,
+    "text": "thank you very much I look forward to"
+  },
+  {
+    "startTime": 419.879,
+    "endTime": 422.27,
+    "text": "talking with all of you"
+  },
+  {
+    "startTime": 422.27,
+    "endTime": 425.399,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 427.67,
+    "endTime": 430.769,
+    "text": "[Music]"
+  }
+]

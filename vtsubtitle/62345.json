@@ -1,0 +1,1522 @@
+[
+  {
+    "startTime": 13.16,
+    "endTime": 16.16,
+    "text": "I want to start my story in Germany, in 1877,"
+  },
+  {
+    "startTime": 16.16,
+    "endTime": 18.16,
+    "text": "with a mathematician named Georg Cantor."
+  },
+  {
+    "startTime": 18.16,
+    "endTime": 23.16,
+    "text": "And Cantor decided he was going to take a line and erase the middle third of the line,"
+  },
+  {
+    "startTime": 23.16,
+    "endTime": 28.16,
+    "text": "and then take those two resulting lines and bring them back into the same process, a recursive process."
+  },
+  {
+    "startTime": 28.16,
+    "endTime": 30.16,
+    "text": "So he starts out with one line, and then two,"
+  },
+  {
+    "startTime": 30.16,
+    "endTime": 33.16,
+    "text": "and then four, and then 16, and so on."
+  },
+  {
+    "startTime": 33.16,
+    "endTime": 36.16,
+    "text": "And if he does this an infinite number of times, which you can do in mathematics,"
+  },
+  {
+    "startTime": 36.16,
+    "endTime": 38.16,
+    "text": "he ends up with an infinite number of lines,"
+  },
+  {
+    "startTime": 38.16,
+    "endTime": 41.16,
+    "text": "each of which has an infinite number of points in it."
+  },
+  {
+    "startTime": 41.16,
+    "endTime": 45.16,
+    "text": "So he realized he had a set whose number of elements was larger than infinity."
+  },
+  {
+    "startTime": 45.16,
+    "endTime": 48.16,
+    "text": "And this blew his mind. Literally. He checked into a sanitarium. (Laughter)"
+  },
+  {
+    "startTime": 48.16,
+    "endTime": 50.16,
+    "text": "And when he came out of the sanitarium,"
+  },
+  {
+    "startTime": 50.16,
+    "endTime": 56.16,
+    "text": "he was convinced that he had been put on earth to found transfinite set theory"
+  },
+  {
+    "startTime": 56.16,
+    "endTime": 59.16,
+    "text": "because the largest set of infinity would be God Himself."
+  },
+  {
+    "startTime": 59.16,
+    "endTime": 60.16,
+    "text": "He was a very religious man."
+  },
+  {
+    "startTime": 60.16,
+    "endTime": 62.16,
+    "text": "He was a mathematician on a mission."
+  },
+  {
+    "startTime": 62.16,
+    "endTime": 64.16,
+    "text": "And other mathematicians did the same sort of thing."
+  },
+  {
+    "startTime": 64.16,
+    "endTime": 66.16,
+    "text": "A Swedish mathematician, von Koch,"
+  },
+  {
+    "startTime": 66.16,
+    "endTime": 70.16,
+    "text": "decided that instead of subtracting lines, he would add them."
+  },
+  {
+    "startTime": 70.16,
+    "endTime": 72.16,
+    "text": "And so he came up with this beautiful curve."
+  },
+  {
+    "startTime": 72.16,
+    "endTime": 75.16,
+    "text": "And there's no particular reason why we have to start with this seed shape;"
+  },
+  {
+    "startTime": 75.16,
+    "endTime": 79.16,
+    "text": "we can use any seed shape we like."
+  },
+  {
+    "startTime": 79.16,
+    "endTime": 83.16,
+    "text": "And I'll rearrange this and I'll stick this somewhere -- down there, OK --"
+  },
+  {
+    "startTime": 83.16,
+    "endTime": 90.16,
+    "text": "and now upon iteration, that seed shape sort of unfolds into a very different looking structure."
+  },
+  {
+    "startTime": 90.16,
+    "endTime": 92.16,
+    "text": "So these all have the property of self-similarity:"
+  },
+  {
+    "startTime": 92.16,
+    "endTime": 94.16,
+    "text": "the part looks like the whole."
+  },
+  {
+    "startTime": 94.16,
+    "endTime": 96.16,
+    "text": "It's the same pattern at many different scales."
+  },
+  {
+    "startTime": 97.16,
+    "endTime": 99.16,
+    "text": "Now, mathematicians thought this was very strange"
+  },
+  {
+    "startTime": 99.16,
+    "endTime": 104.16,
+    "text": "because as you shrink a ruler down, you measure a longer and longer length."
+  },
+  {
+    "startTime": 104.16,
+    "endTime": 106.16,
+    "text": "And since they went through the iterations an infinite number of times,"
+  },
+  {
+    "startTime": 106.16,
+    "endTime": 112.16,
+    "text": "as the ruler shrinks down to infinity, the length goes to infinity."
+  },
+  {
+    "startTime": 112.16,
+    "endTime": 113.16,
+    "text": "This made no sense at all,"
+  },
+  {
+    "startTime": 113.16,
+    "endTime": 116.16,
+    "text": "so they consigned these curves to the back of the math books."
+  },
+  {
+    "startTime": 116.16,
+    "endTime": 120.16,
+    "text": "They said these are pathological curves, and we don't have to discuss them."
+  },
+  {
+    "startTime": 120.16,
+    "endTime": 121.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 121.16,
+    "endTime": 123.16,
+    "text": "And that worked for a hundred years."
+  },
+  {
+    "startTime": 124.16,
+    "endTime": 129.16,
+    "text": "And then in 1977, Benoit Mandelbrot, a French mathematician,"
+  },
+  {
+    "startTime": 129.16,
+    "endTime": 134.16,
+    "text": "realized that if you do computer graphics and used these shapes he called fractals,"
+  },
+  {
+    "startTime": 134.16,
+    "endTime": 136.16,
+    "text": "you get the shapes of nature."
+  },
+  {
+    "startTime": 136.16,
+    "endTime": 140.16,
+    "text": "You get the human lungs, you get acacia trees, you get ferns,"
+  },
+  {
+    "startTime": 140.16,
+    "endTime": 142.16,
+    "text": "you get these beautiful natural forms."
+  },
+  {
+    "startTime": 142.16,
+    "endTime": 146.16,
+    "text": "If you take your thumb and your index finger and look right where they meet --"
+  },
+  {
+    "startTime": 146.16,
+    "endTime": 148.16,
+    "text": "go ahead and do that now --"
+  },
+  {
+    "startTime": 148.16,
+    "endTime": 151.16,
+    "text": "-- and relax your hand, you'll see a crinkle,"
+  },
+  {
+    "startTime": 151.16,
+    "endTime": 154.16,
+    "text": "and then a wrinkle within the crinkle, and a crinkle within the wrinkle. Right?"
+  },
+  {
+    "startTime": 154.16,
+    "endTime": 156.16,
+    "text": "Your body is covered with fractals."
+  },
+  {
+    "startTime": 156.16,
+    "endTime": 159.16,
+    "text": "The mathematicians who were saying these were pathologically useless shapes?"
+  },
+  {
+    "startTime": 159.16,
+    "endTime": 161.16,
+    "text": "They were breathing those words with fractal lungs."
+  },
+  {
+    "startTime": 161.16,
+    "endTime": 165.16,
+    "text": "It's very ironic. And I'll show you a little natural recursion here."
+  },
+  {
+    "startTime": 165.16,
+    "endTime": 170.16,
+    "text": "Again, we just take these lines and recursively replace them with the whole shape."
+  },
+  {
+    "startTime": 170.16,
+    "endTime": 175.16,
+    "text": "So here's the second iteration, and the third, fourth and so on."
+  },
+  {
+    "startTime": 175.16,
+    "endTime": 177.16,
+    "text": "So nature has this self-similar structure."
+  },
+  {
+    "startTime": 177.16,
+    "endTime": 179.16,
+    "text": "Nature uses self-organizing systems."
+  },
+  {
+    "startTime": 179.16,
+    "endTime": 182.16,
+    "text": "Now in the 1980s, I happened to notice"
+  },
+  {
+    "startTime": 182.16,
+    "endTime": 186.16,
+    "text": "that if you look at an aerial photograph of an African village, you see fractals."
+  },
+  {
+    "startTime": 186.16,
+    "endTime": 190.16,
+    "text": "And I thought, \"This is fabulous! I wonder why?\""
+  },
+  {
+    "startTime": 190.16,
+    "endTime": 192.16,
+    "text": "And of course I had to go to Africa and ask folks why."
+  },
+  {
+    "startTime": 192.16,
+    "endTime": 198.16,
+    "text": "So I got a Fulbright scholarship to just travel around Africa for a year"
+  },
+  {
+    "startTime": 198.16,
+    "endTime": 200.16,
+    "text": "asking people why they were building fractals,"
+  },
+  {
+    "startTime": 200.16,
+    "endTime": 202.16,
+    "text": "which is a great job if you can get it."
+  },
+  {
+    "startTime": 202.16,
+    "endTime": 203.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 203.16,
+    "endTime": 210.16,
+    "text": "And so I finally got to this city, and I'd done a little fractal model for the city"
+  },
+  {
+    "startTime": 210.16,
+    "endTime": 213.16,
+    "text": "just to see how it would sort of unfold --"
+  },
+  {
+    "startTime": 213.16,
+    "endTime": 216.16,
+    "text": "but when I got there, I got to the palace of the chief,"
+  },
+  {
+    "startTime": 216.16,
+    "endTime": 219.16,
+    "text": "and my French is not very good; I said something like,"
+  },
+  {
+    "startTime": 219.16,
+    "endTime": 222.16,
+    "text": "\"I am a mathematician and I would like to stand on your roof.\""
+  },
+  {
+    "startTime": 222.16,
+    "endTime": 225.16,
+    "text": "But he was really cool about it, and he took me up there,"
+  },
+  {
+    "startTime": 225.16,
+    "endTime": 226.16,
+    "text": "and we talked about fractals."
+  },
+  {
+    "startTime": 226.16,
+    "endTime": 229.16,
+    "text": "And he said, \"Oh yeah, yeah! We knew about a rectangle within a rectangle,"
+  },
+  {
+    "startTime": 229.16,
+    "endTime": 231.16,
+    "text": "we know all about that.\""
+  },
+  {
+    "startTime": 231.16,
+    "endTime": 235.16,
+    "text": "And it turns out the royal insignia has a rectangle within a rectangle within a rectangle,"
+  },
+  {
+    "startTime": 235.16,
+    "endTime": 239.16,
+    "text": "and the path through that palace is actually this spiral here."
+  },
+  {
+    "startTime": 239.16,
+    "endTime": 243.16,
+    "text": "And as you go through the path, you have to get more and more polite."
+  },
+  {
+    "startTime": 243.16,
+    "endTime": 246.16,
+    "text": "So they're mapping the social scaling onto the geometric scaling;"
+  },
+  {
+    "startTime": 246.16,
+    "endTime": 251.16,
+    "text": "it's a conscious pattern. It is not unconscious like a termite mound fractal."
+  },
+  {
+    "startTime": 251.16,
+    "endTime": 253.16,
+    "text": "This is a village in southern Zambia."
+  },
+  {
+    "startTime": 253.16,
+    "endTime": 257.159,
+    "text": "The Ba-ila built this village about 400 meters in diameter."
+  },
+  {
+    "startTime": 257.16,
+    "endTime": 259.16,
+    "text": "You have a huge ring."
+  },
+  {
+    "startTime": 259.16,
+    "endTime": 265.16,
+    "text": "The rings that represent the family enclosures get larger and larger as you go towards the back,"
+  },
+  {
+    "startTime": 266.16,
+    "endTime": 270.16,
+    "text": "and then you have the chief's ring here towards the back"
+  },
+  {
+    "startTime": 270.16,
+    "endTime": 273.16,
+    "text": "and then the chief's immediate family in that ring."
+  },
+  {
+    "startTime": 273.16,
+    "endTime": 274.16,
+    "text": "So here's a little fractal model for it."
+  },
+  {
+    "startTime": 274.16,
+    "endTime": 277.16,
+    "text": "Here's one house with the sacred altar,"
+  },
+  {
+    "startTime": 277.16,
+    "endTime": 280.16,
+    "text": "here's the house of houses, the family enclosure,"
+  },
+  {
+    "startTime": 280.16,
+    "endTime": 283.16,
+    "text": "with the humans here where the sacred altar would be,"
+  },
+  {
+    "startTime": 283.16,
+    "endTime": 285.16,
+    "text": "and then here's the village as a whole --"
+  },
+  {
+    "startTime": 285.16,
+    "endTime": 290.16,
+    "text": "a ring of ring of rings with the chief's extended family here, the chief's immediate family here,"
+  },
+  {
+    "startTime": 290.16,
+    "endTime": 293.16,
+    "text": "and here there's a tiny village only this big."
+  },
+  {
+    "startTime": 293.16,
+    "endTime": 297.16,
+    "text": "Now you might wonder, how can people fit in a tiny village only this big?"
+  },
+  {
+    "startTime": 297.16,
+    "endTime": 300.16,
+    "text": "That's because they're spirit people. It's the ancestors."
+  },
+  {
+    "startTime": 300.16,
+    "endTime": 305.16,
+    "text": "And of course the spirit people have a little miniature village in their village, right?"
+  },
+  {
+    "startTime": 305.16,
+    "endTime": 308.16,
+    "text": "So it's just like Georg Cantor said, the recursion continues forever."
+  },
+  {
+    "startTime": 308.16,
+    "endTime": 312.16,
+    "text": "This is in the Mandara mountains, near the Nigerian border in Cameroon, Mokoulek."
+  },
+  {
+    "startTime": 312.16,
+    "endTime": 315.16,
+    "text": "I saw this diagram drawn by a French architect,"
+  },
+  {
+    "startTime": 315.16,
+    "endTime": 317.16,
+    "text": "and I thought, \"Wow! What a beautiful fractal!\""
+  },
+  {
+    "startTime": 317.16,
+    "endTime": 323.16,
+    "text": "So I tried to come up with a seed shape, which, upon iteration, would unfold into this thing."
+  },
+  {
+    "startTime": 323.16,
+    "endTime": 325.16,
+    "text": "I came up with this structure here."
+  },
+  {
+    "startTime": 325.16,
+    "endTime": 329.16,
+    "text": "Let's see, first iteration, second, third, fourth."
+  },
+  {
+    "startTime": 329.16,
+    "endTime": 331.16,
+    "text": "Now, after I did the simulation,"
+  },
+  {
+    "startTime": 331.16,
+    "endTime": 334.16,
+    "text": "I realized the whole village kind of spirals around, just like this,"
+  },
+  {
+    "startTime": 334.16,
+    "endTime": 340.16,
+    "text": "and here's that replicating line -- a self-replicating line that unfolds into the fractal."
+  },
+  {
+    "startTime": 340.16,
+    "endTime": 345.16,
+    "text": "Well, I noticed that line is about where the only square building in the village is at."
+  },
+  {
+    "startTime": 345.16,
+    "endTime": 347.16,
+    "text": "So, when I got to the village,"
+  },
+  {
+    "startTime": 347.16,
+    "endTime": 349.16,
+    "text": "I said, \"Can you take me to the square building?"
+  },
+  {
+    "startTime": 349.16,
+    "endTime": 351.16,
+    "text": "I think something's going on there.\""
+  },
+  {
+    "startTime": 351.16,
+    "endTime": 354.16,
+    "text": "And they said, \"Well, we can take you there, but you can't go inside"
+  },
+  {
+    "startTime": 354.16,
+    "endTime": 357.16,
+    "text": "because that's the sacred altar, where we do sacrifices every year"
+  },
+  {
+    "startTime": 357.16,
+    "endTime": 360.16,
+    "text": "to keep up those annual cycles of fertility for the fields.\""
+  },
+  {
+    "startTime": 360.16,
+    "endTime": 362.16,
+    "text": "And I started to realize that the cycles of fertility"
+  },
+  {
+    "startTime": 362.16,
+    "endTime": 366.16,
+    "text": "were just like the recursive cycles in the geometric algorithm that builds this."
+  },
+  {
+    "startTime": 366.16,
+    "endTime": 370.16,
+    "text": "And the recursion in some of these villages continues down into very tiny scales."
+  },
+  {
+    "startTime": 370.16,
+    "endTime": 372.16,
+    "text": "So here's a Nankani village in Mali."
+  },
+  {
+    "startTime": 372.16,
+    "endTime": 375.16,
+    "text": "And you can see, you go inside the family enclosure --"
+  },
+  {
+    "startTime": 375.16,
+    "endTime": 379.16,
+    "text": "you go inside and here's pots in the fireplace, stacked recursively."
+  },
+  {
+    "startTime": 379.16,
+    "endTime": 383.16,
+    "text": "Here's calabashes that Issa was just showing us,"
+  },
+  {
+    "startTime": 383.16,
+    "endTime": 385.16,
+    "text": "and they're stacked recursively."
+  },
+  {
+    "startTime": 385.16,
+    "endTime": 387.16,
+    "text": "Now, the tiniest calabash in here keeps the woman's soul."
+  },
+  {
+    "startTime": 387.16,
+    "endTime": 389.16,
+    "text": "And when she dies, they have a ceremony"
+  },
+  {
+    "startTime": 389.16,
+    "endTime": 394.16,
+    "text": "where they break this stack called the zalanga and her soul goes off to eternity."
+  },
+  {
+    "startTime": 394.16,
+    "endTime": 397.16,
+    "text": "Once again, infinity is important."
+  },
+  {
+    "startTime": 398.16,
+    "endTime": 402.16,
+    "text": "Now, you might ask yourself three questions at this point."
+  },
+  {
+    "startTime": 402.16,
+    "endTime": 406.16,
+    "text": "Aren't these scaling patterns just universal to all indigenous architecture?"
+  },
+  {
+    "startTime": 406.16,
+    "endTime": 408.16,
+    "text": "And that was actually my original hypothesis."
+  },
+  {
+    "startTime": 408.16,
+    "endTime": 410.16,
+    "text": "When I first saw those African fractals,"
+  },
+  {
+    "startTime": 410.16,
+    "endTime": 414.16,
+    "text": "I thought, \"Wow, so any indigenous group that doesn't have a state society,"
+  },
+  {
+    "startTime": 414.16,
+    "endTime": 417.16,
+    "text": "that sort of hierarchy, must have a kind of bottom-up architecture.\""
+  },
+  {
+    "startTime": 417.16,
+    "endTime": 419.16,
+    "text": "But that turns out not to be true."
+  },
+  {
+    "startTime": 419.16,
+    "endTime": 423.16,
+    "text": "I started collecting aerial photographs of Native American and South Pacific architecture;"
+  },
+  {
+    "startTime": 423.16,
+    "endTime": 425.16,
+    "text": "only the African ones were fractal."
+  },
+  {
+    "startTime": 425.16,
+    "endTime": 431.16,
+    "text": "And if you think about it, all these different societies have different geometric design themes that they use."
+  },
+  {
+    "startTime": 431.16,
+    "endTime": 437.16,
+    "text": "So Native Americans use a combination of circular symmetry and fourfold symmetry."
+  },
+  {
+    "startTime": 437.16,
+    "endTime": 439.16,
+    "text": "You can see on the pottery and the baskets."
+  },
+  {
+    "startTime": 439.16,
+    "endTime": 442.16,
+    "text": "Here's an aerial photograph of one of the Anasazi ruins;"
+  },
+  {
+    "startTime": 442.16,
+    "endTime": 447.16,
+    "text": "you can see it's circular at the largest scale, but it's rectangular at the smaller scale, right?"
+  },
+  {
+    "startTime": 447.16,
+    "endTime": 451.16,
+    "text": "It is not the same pattern at two different scales."
+  },
+  {
+    "startTime": 451.16,
+    "endTime": 452.16,
+    "text": "Second, you might ask,"
+  },
+  {
+    "startTime": 452.16,
+    "endTime": 455.16,
+    "text": "\"Well, Dr. Eglash, aren't you ignoring the diversity of African cultures?\""
+  },
+  {
+    "startTime": 456.16,
+    "endTime": 458.16,
+    "text": "And three times, the answer is no."
+  },
+  {
+    "startTime": 458.16,
+    "endTime": 462.16,
+    "text": "First of all, I agree with Mudimbe's wonderful book, \"The Invention of Africa,\""
+  },
+  {
+    "startTime": 462.16,
+    "endTime": 465.16,
+    "text": "that Africa is an artificial invention of first colonialism,"
+  },
+  {
+    "startTime": 465.16,
+    "endTime": 467.16,
+    "text": "and then oppositional movements."
+  },
+  {
+    "startTime": 467.16,
+    "endTime": 472.16,
+    "text": "No, because a widely shared design practice doesn't necessarily give you a unity of culture --"
+  },
+  {
+    "startTime": 472.16,
+    "endTime": 475.16,
+    "text": "and it definitely is not \"in the DNA.\""
+  },
+  {
+    "startTime": 475.16,
+    "endTime": 477.16,
+    "text": "And finally, the fractals have self-similarity --"
+  },
+  {
+    "startTime": 477.16,
+    "endTime": 481.16,
+    "text": "so they're similar to themselves, but they're not necessarily similar to each other --"
+  },
+  {
+    "startTime": 481.16,
+    "endTime": 483.16,
+    "text": "you see very different uses for fractals."
+  },
+  {
+    "startTime": 483.16,
+    "endTime": 485.16,
+    "text": "It's a shared technology in Africa."
+  },
+  {
+    "startTime": 486.16,
+    "endTime": 489.16,
+    "text": "And finally, well, isn't this just intuition?"
+  },
+  {
+    "startTime": 489.16,
+    "endTime": 491.16,
+    "text": "It's not really mathematical knowledge."
+  },
+  {
+    "startTime": 491.16,
+    "endTime": 494.16,
+    "text": "Africans can't possibly really be using fractal geometry, right?"
+  },
+  {
+    "startTime": 494.16,
+    "endTime": 496.16,
+    "text": "It wasn't invented until the 1970s."
+  },
+  {
+    "startTime": 497.16,
+    "endTime": 502.16,
+    "text": "Well, it's true that some African fractals are, as far as I'm concerned, just pure intuition."
+  },
+  {
+    "startTime": 502.16,
+    "endTime": 505.16,
+    "text": "So some of these things, I'd wander around the streets of Dakar"
+  },
+  {
+    "startTime": 505.16,
+    "endTime": 508.16,
+    "text": "asking people, \"What's the algorithm? What's the rule for making this?\""
+  },
+  {
+    "startTime": 508.16,
+    "endTime": 509.16,
+    "text": "and they'd say,"
+  },
+  {
+    "startTime": 509.16,
+    "endTime": 512.1600000000001,
+    "text": "\"Well, we just make it that way because it looks pretty, stupid.\" (Laughter)"
+  },
+  {
+    "startTime": 512.159,
+    "endTime": 515.159,
+    "text": "But sometimes, that's not the case."
+  },
+  {
+    "startTime": 515.159,
+    "endTime": 520.159,
+    "text": "In some cases, there would actually be algorithms, and very sophisticated algorithms."
+  },
+  {
+    "startTime": 520.159,
+    "endTime": 523.159,
+    "text": "So in Manghetu sculpture, you'd see this recursive geometry."
+  },
+  {
+    "startTime": 523.159,
+    "endTime": 528.16,
+    "text": "In Ethiopian crosses, you see this wonderful unfolding of the shape."
+  },
+  {
+    "startTime": 528.16,
+    "endTime": 532.16,
+    "text": "In Angola, the Chokwe people draw lines in the sand,"
+  },
+  {
+    "startTime": 532.16,
+    "endTime": 535.16,
+    "text": "and it's what the German mathematician Euler called a graph;"
+  },
+  {
+    "startTime": 535.16,
+    "endTime": 537.16,
+    "text": "we now call it an Eulerian path --"
+  },
+  {
+    "startTime": 537.16,
+    "endTime": 539.16,
+    "text": "you can never lift your stylus from the surface"
+  },
+  {
+    "startTime": 539.16,
+    "endTime": 542.16,
+    "text": "and you can never go over the same line twice."
+  },
+  {
+    "startTime": 542.16,
+    "endTime": 545.16,
+    "text": "But they do it recursively, and they do it with an age-grade system,"
+  },
+  {
+    "startTime": 545.16,
+    "endTime": 548.16,
+    "text": "so the little kids learn this one, and then the older kids learn this one,"
+  },
+  {
+    "startTime": 548.16,
+    "endTime": 551.16,
+    "text": "then the next age-grade initiation, you learn this one."
+  },
+  {
+    "startTime": 551.16,
+    "endTime": 554.16,
+    "text": "And with each iteration of that algorithm,"
+  },
+  {
+    "startTime": 554.16,
+    "endTime": 556.16,
+    "text": "you learn the iterations of the myth."
+  },
+  {
+    "startTime": 556.16,
+    "endTime": 558.16,
+    "text": "You learn the next level of knowledge."
+  },
+  {
+    "startTime": 559.16,
+    "endTime": 561.16,
+    "text": "And finally, all over Africa, you see this board game."
+  },
+  {
+    "startTime": 561.16,
+    "endTime": 564.16,
+    "text": "It's called Owari in Ghana, where I studied it;"
+  },
+  {
+    "startTime": 564.16,
+    "endTime": 569.16,
+    "text": "it's called Mancala here on the East Coast, Bao in Kenya, Sogo elsewhere."
+  },
+  {
+    "startTime": 569.16,
+    "endTime": 574.16,
+    "text": "Well, you see self-organizing patterns that spontaneously occur in this board game."
+  },
+  {
+    "startTime": 574.16,
+    "endTime": 577.16,
+    "text": "And the folks in Ghana knew about these self-organizing patterns"
+  },
+  {
+    "startTime": 577.16,
+    "endTime": 579.16,
+    "text": "and would use them strategically."
+  },
+  {
+    "startTime": 579.16,
+    "endTime": 581.16,
+    "text": "So this is very conscious knowledge."
+  },
+  {
+    "startTime": 581.16,
+    "endTime": 583.16,
+    "text": "Here's a wonderful fractal."
+  },
+  {
+    "startTime": 583.16,
+    "endTime": 587.16,
+    "text": "Anywhere you go in the Sahel, you'll see this windscreen."
+  },
+  {
+    "startTime": 587.16,
+    "endTime": 591.16,
+    "text": "And of course fences around the world are all Cartesian, all strictly linear."
+  },
+  {
+    "startTime": 591.16,
+    "endTime": 595.16,
+    "text": "But here in Africa, you've got these nonlinear scaling fences."
+  },
+  {
+    "startTime": 595.16,
+    "endTime": 597.16,
+    "text": "So I tracked down one of the folks who makes these things,"
+  },
+  {
+    "startTime": 597.16,
+    "endTime": 601.16,
+    "text": "this guy in Mali just outside of Bamako, and I asked him,"
+  },
+  {
+    "startTime": 601.16,
+    "endTime": 603.16,
+    "text": "\"How come you're making fractal fences? Because nobody else is.\""
+  },
+  {
+    "startTime": 603.16,
+    "endTime": 605.16,
+    "text": "And his answer was very interesting."
+  },
+  {
+    "startTime": 605.16,
+    "endTime": 610.16,
+    "text": "He said, \"Well, if I lived in the jungle, I would only use the long rows of straw"
+  },
+  {
+    "startTime": 610.16,
+    "endTime": 612.16,
+    "text": "because they're very quick and they're very cheap."
+  },
+  {
+    "startTime": 612.16,
+    "endTime": 615.16,
+    "text": "It doesn't take much time, doesn't take much straw.\""
+  },
+  {
+    "startTime": 615.16,
+    "endTime": 617.16,
+    "text": "He said, \"but wind and dust goes through pretty easily."
+  },
+  {
+    "startTime": 617.16,
+    "endTime": 621.16,
+    "text": "Now, the tight rows up at the very top, they really hold out the wind and dust."
+  },
+  {
+    "startTime": 621.16,
+    "endTime": 626.16,
+    "text": "But it takes a lot of time, and it takes a lot of straw because they're really tight.\""
+  },
+  {
+    "startTime": 626.16,
+    "endTime": 628.16,
+    "text": "\"Now,\" he said, \"we know from experience"
+  },
+  {
+    "startTime": 628.16,
+    "endTime": 633.16,
+    "text": "that the farther up from the ground you go, the stronger the wind blows.\""
+  },
+  {
+    "startTime": 633.16,
+    "endTime": 636.16,
+    "text": "Right? It's just like a cost-benefit analysis."
+  },
+  {
+    "startTime": 636.16,
+    "endTime": 638.16,
+    "text": "And I measured out the lengths of straw,"
+  },
+  {
+    "startTime": 638.16,
+    "endTime": 640.16,
+    "text": "put it on a log-log plot, got the scaling exponent,"
+  },
+  {
+    "startTime": 640.16,
+    "endTime": 645.16,
+    "text": "and it almost exactly matches the scaling exponent for the relationship between wind speed and height"
+  },
+  {
+    "startTime": 645.16,
+    "endTime": 646.16,
+    "text": "in the wind engineering handbook."
+  },
+  {
+    "startTime": 646.16,
+    "endTime": 651.16,
+    "text": "So these guys are right on target for a practical use of scaling technology."
+  },
+  {
+    "startTime": 651.16,
+    "endTime": 656.16,
+    "text": "The most complex example of an algorithmic approach to fractals that I found"
+  },
+  {
+    "startTime": 656.16,
+    "endTime": 658.16,
+    "text": "was actually not in geometry, it was in a symbolic code,"
+  },
+  {
+    "startTime": 658.16,
+    "endTime": 661.16,
+    "text": "and this was Bamana sand divination."
+  },
+  {
+    "startTime": 661.16,
+    "endTime": 664.16,
+    "text": "And the same divination system is found all over Africa."
+  },
+  {
+    "startTime": 664.16,
+    "endTime": 669.16,
+    "text": "You can find it on the East Coast as well as the West Coast,"
+  },
+  {
+    "startTime": 669.16,
+    "endTime": 671.16,
+    "text": "and often the symbols are very well preserved,"
+  },
+  {
+    "startTime": 671.16,
+    "endTime": 677.16,
+    "text": "so each of these symbols has four bits -- it's a four-bit binary word --"
+  },
+  {
+    "startTime": 677.16,
+    "endTime": 682.16,
+    "text": "you draw these lines in the sand randomly, and then you count off,"
+  },
+  {
+    "startTime": 682.16,
+    "endTime": 684.16,
+    "text": "and if it's an odd number, you put down one stroke,"
+  },
+  {
+    "startTime": 684.16,
+    "endTime": 686.16,
+    "text": "and if it's an even number, you put down two strokes."
+  },
+  {
+    "startTime": 686.16,
+    "endTime": 689.16,
+    "text": "And they did this very rapidly,"
+  },
+  {
+    "startTime": 689.16,
+    "endTime": 691.16,
+    "text": "and I couldn't understand where they were getting --"
+  },
+  {
+    "startTime": 691.16,
+    "endTime": 693.16,
+    "text": "they only did the randomness four times --"
+  },
+  {
+    "startTime": 693.16,
+    "endTime": 695.16,
+    "text": "I couldn't understand where they were getting the other 12 symbols."
+  },
+  {
+    "startTime": 695.16,
+    "endTime": 697.16,
+    "text": "And they wouldn't tell me."
+  },
+  {
+    "startTime": 697.16,
+    "endTime": 699.16,
+    "text": "They said, \"No, no, I can't tell you about this.\""
+  },
+  {
+    "startTime": 699.16,
+    "endTime": 701.16,
+    "text": "And I said, \"Well look, I'll pay you, you can be my teacher,"
+  },
+  {
+    "startTime": 701.16,
+    "endTime": 703.16,
+    "text": "and I'll come each day and pay you.\""
+  },
+  {
+    "startTime": 703.16,
+    "endTime": 706.16,
+    "text": "They said, \"It's not a matter of money. This is a religious matter.\""
+  },
+  {
+    "startTime": 706.16,
+    "endTime": 707.16,
+    "text": "And finally, out of desperation, I said,"
+  },
+  {
+    "startTime": 707.16,
+    "endTime": 710.16,
+    "text": "\"Well, let me explain Georg Cantor in 1877.\""
+  },
+  {
+    "startTime": 710.16,
+    "endTime": 714.16,
+    "text": "And I started explaining why I was there in Africa,"
+  },
+  {
+    "startTime": 714.16,
+    "endTime": 716.16,
+    "text": "and they got very excited when they saw the Cantor set."
+  },
+  {
+    "startTime": 716.16,
+    "endTime": 720.16,
+    "text": "And one of them said, \"Come here. I think I can help you out here.\""
+  },
+  {
+    "startTime": 720.16,
+    "endTime": 725.16,
+    "text": "And so he took me through the initiation ritual for a Bamana priest."
+  },
+  {
+    "startTime": 725.16,
+    "endTime": 727.16,
+    "text": "And of course, I was only interested in the math,"
+  },
+  {
+    "startTime": 727.16,
+    "endTime": 729.16,
+    "text": "so the whole time, he kept shaking his head going,"
+  },
+  {
+    "startTime": 729.16,
+    "endTime": 730.16,
+    "text": "\"You know, I didn't learn it this way.\""
+  },
+  {
+    "startTime": 730.16,
+    "endTime": 734.16,
+    "text": "But I had to sleep with a kola nut next to my bed, buried in sand,"
+  },
+  {
+    "startTime": 734.16,
+    "endTime": 737.16,
+    "text": "and give seven coins to seven lepers and so on."
+  },
+  {
+    "startTime": 737.16,
+    "endTime": 741.16,
+    "text": "And finally, he revealed the truth of the matter."
+  },
+  {
+    "startTime": 742.16,
+    "endTime": 746.16,
+    "text": "And it turns out it's a pseudo-random number generator using deterministic chaos."
+  },
+  {
+    "startTime": 746.16,
+    "endTime": 752.16,
+    "text": "When you have a four-bit symbol, you then put it together with another one sideways."
+  },
+  {
+    "startTime": 752.16,
+    "endTime": 754.16,
+    "text": "So even plus odd gives you odd."
+  },
+  {
+    "startTime": 754.16,
+    "endTime": 756.16,
+    "text": "Odd plus even gives you odd."
+  },
+  {
+    "startTime": 756.16,
+    "endTime": 759.16,
+    "text": "Even plus even gives you even. Odd plus odd gives you even."
+  },
+  {
+    "startTime": 759.16,
+    "endTime": 763.16,
+    "text": "It's addition modulo 2, just like in the parity bit check on your computer."
+  },
+  {
+    "startTime": 763.16,
+    "endTime": 767.16,
+    "text": "And then you take this symbol, and you put it back in"
+  },
+  {
+    "startTime": 767.16,
+    "endTime": 769.16,
+    "text": "so it's a self-generating diversity of symbols."
+  },
+  {
+    "startTime": 769.16,
+    "endTime": 773.16,
+    "text": "They're truly using a kind of deterministic chaos in doing this."
+  },
+  {
+    "startTime": 773.16,
+    "endTime": 775.16,
+    "text": "Now, because it's a binary code,"
+  },
+  {
+    "startTime": 775.16,
+    "endTime": 777.16,
+    "text": "you can actually implement this in hardware --"
+  },
+  {
+    "startTime": 777.16,
+    "endTime": 782.16,
+    "text": "what a fantastic teaching tool that should be in African engineering schools."
+  },
+  {
+    "startTime": 782.16,
+    "endTime": 785.16,
+    "text": "And the most interesting thing I found out about it was historical."
+  },
+  {
+    "startTime": 785.16,
+    "endTime": 791.16,
+    "text": "In the 12th century, Hugo of Santalla brought it from Islamic mystics into Spain."
+  },
+  {
+    "startTime": 791.16,
+    "endTime": 797.16,
+    "text": "And there it entered into the alchemy community as geomancy:"
+  },
+  {
+    "startTime": 797.16,
+    "endTime": 799.16,
+    "text": "divination through the earth."
+  },
+  {
+    "startTime": 799.16,
+    "endTime": 804.16,
+    "text": "This is a geomantic chart drawn for King Richard II in 1390."
+  },
+  {
+    "startTime": 804.16,
+    "endTime": 807.16,
+    "text": "Leibniz, the German mathematician,"
+  },
+  {
+    "startTime": 807.16,
+    "endTime": 811.16,
+    "text": "talked about geomancy in his dissertation called \"De Combinatoria.\""
+  },
+  {
+    "startTime": 811.16,
+    "endTime": 815.16,
+    "text": "And he said, \"Well, instead of using one stroke and two strokes,"
+  },
+  {
+    "startTime": 815.16,
+    "endTime": 819.16,
+    "text": "let's use a one and a zero, and we can count by powers of two.\""
+  },
+  {
+    "startTime": 819.16,
+    "endTime": 821.16,
+    "text": "Right? Ones and zeros, the binary code."
+  },
+  {
+    "startTime": 821.16,
+    "endTime": 824.16,
+    "text": "George Boole took Leibniz's binary code and created Boolean algebra,"
+  },
+  {
+    "startTime": 824.16,
+    "endTime": 827.16,
+    "text": "and John von Neumann took Boolean algebra and created the digital computer."
+  },
+  {
+    "startTime": 827.16,
+    "endTime": 830.16,
+    "text": "So all these little PDAs and laptops --"
+  },
+  {
+    "startTime": 830.16,
+    "endTime": 833.16,
+    "text": "every digital circuit in the world -- started in Africa."
+  },
+  {
+    "startTime": 833.16,
+    "endTime": 838.16,
+    "text": "And I know Brian Eno says there's not enough Africa in computers,"
+  },
+  {
+    "startTime": 838.16,
+    "endTime": 843.16,
+    "text": "but you know, I don't think there's enough African history in Brian Eno."
+  },
+  {
+    "startTime": 843.16,
+    "endTime": 846.16,
+    "text": "(Laughter) (Applause)"
+  },
+  {
+    "startTime": 846.16,
+    "endTime": 850.16,
+    "text": "So let me end with just a few words about applications that we've found for this."
+  },
+  {
+    "startTime": 850.16,
+    "endTime": 852.16,
+    "text": "And you can go to our website,"
+  },
+  {
+    "startTime": 852.16,
+    "endTime": 854.16,
+    "text": "the applets are all free; they just run in the browser."
+  },
+  {
+    "startTime": 854.16,
+    "endTime": 856.16,
+    "text": "Anybody in the world can use them."
+  },
+  {
+    "startTime": 856.16,
+    "endTime": 861.16,
+    "text": "The National Science Foundation's Broadening Participation in Computing program"
+  },
+  {
+    "startTime": 861.16,
+    "endTime": 868.16,
+    "text": "recently awarded us a grant to make a programmable version of these design tools,"
+  },
+  {
+    "startTime": 868.16,
+    "endTime": 870.16,
+    "text": "so hopefully in three years, anybody'll be able to go on the Web"
+  },
+  {
+    "startTime": 870.16,
+    "endTime": 873.16,
+    "text": "and create their own simulations and their own artifacts."
+  },
+  {
+    "startTime": 873.16,
+    "endTime": 878.16,
+    "text": "We've focused in the U.S. on African-American students as well as Native American and Latino."
+  },
+  {
+    "startTime": 878.16,
+    "endTime": 884.16,
+    "text": "We've found statistically significant improvement with children using this software in a mathematics class"
+  },
+  {
+    "startTime": 884.16,
+    "endTime": 887.16,
+    "text": "in comparison with a control group that did not have the software."
+  },
+  {
+    "startTime": 887.16,
+    "endTime": 893.16,
+    "text": "So it's really very successful teaching children that they have a heritage that's about mathematics,"
+  },
+  {
+    "startTime": 893.16,
+    "endTime": 897.16,
+    "text": "that it's not just about singing and dancing."
+  },
+  {
+    "startTime": 897.16,
+    "endTime": 900.16,
+    "text": "We've started a pilot program in Ghana."
+  },
+  {
+    "startTime": 900.16,
+    "endTime": 905.16,
+    "text": "We got a small seed grant, just to see if folks would be willing to work with us on this;"
+  },
+  {
+    "startTime": 905.16,
+    "endTime": 908.16,
+    "text": "we're very excited about the future possibilities for that."
+  },
+  {
+    "startTime": 908.16,
+    "endTime": 910.16,
+    "text": "We've also been working in design."
+  },
+  {
+    "startTime": 910.16,
+    "endTime": 915.16,
+    "text": "I didn't put his name up here -- my colleague, Kerry, in Kenya, has come up with this great idea"
+  },
+  {
+    "startTime": 915.16,
+    "endTime": 920.16,
+    "text": "for using fractal structure for postal address in villages that have fractal structure,"
+  },
+  {
+    "startTime": 920.16,
+    "endTime": 924.16,
+    "text": "because if you try to impose a grid structure postal system on a fractal village,"
+  },
+  {
+    "startTime": 924.16,
+    "endTime": 926.16,
+    "text": "it doesn't quite fit."
+  },
+  {
+    "startTime": 926.16,
+    "endTime": 931.16,
+    "text": "Bernard Tschumi at Columbia University has finished using this in a design for a museum of African art."
+  },
+  {
+    "startTime": 931.16,
+    "endTime": 939.16,
+    "text": "David Hughes at Ohio State University has written a primer on Afrocentric architecture"
+  },
+  {
+    "startTime": 939.16,
+    "endTime": 941.16,
+    "text": "in which he's used some of these fractal structures."
+  },
+  {
+    "startTime": 941.16,
+    "endTime": 946.16,
+    "text": "And finally, I just wanted to point out that this idea of self-organization,"
+  },
+  {
+    "startTime": 946.16,
+    "endTime": 948.16,
+    "text": "as we heard earlier, it's in the brain."
+  },
+  {
+    "startTime": 948.16,
+    "endTime": 953.16,
+    "text": "It's in the -- it's in Google's search engine."
+  },
+  {
+    "startTime": 953.16,
+    "endTime": 955.16,
+    "text": "Actually, the reason that Google was such a success"
+  },
+  {
+    "startTime": 955.16,
+    "endTime": 959.16,
+    "text": "is because they were the first ones to take advantage of the self-organizing properties of the web."
+  },
+  {
+    "startTime": 959.16,
+    "endTime": 961.16,
+    "text": "It's in ecological sustainability."
+  },
+  {
+    "startTime": 961.16,
+    "endTime": 963.16,
+    "text": "It's in the developmental power of entrepreneurship,"
+  },
+  {
+    "startTime": 963.16,
+    "endTime": 965.16,
+    "text": "the ethical power of democracy."
+  },
+  {
+    "startTime": 966.16,
+    "endTime": 968.16,
+    "text": "It's also in some bad things."
+  },
+  {
+    "startTime": 968.16,
+    "endTime": 971.16,
+    "text": "Self-organization is why the AIDS virus is spreading so fast."
+  },
+  {
+    "startTime": 971.16,
+    "endTime": 975.16,
+    "text": "And if you don't think that capitalism, which is self-organizing, can have destructive effects,"
+  },
+  {
+    "startTime": 975.16,
+    "endTime": 977.16,
+    "text": "you haven't opened your eyes enough."
+  },
+  {
+    "startTime": 977.16,
+    "endTime": 981.16,
+    "text": "So we need to think about, as was spoken earlier,"
+  },
+  {
+    "startTime": 981.16,
+    "endTime": 983.16,
+    "text": "the traditional African methods for doing self-organization."
+  },
+  {
+    "startTime": 983.16,
+    "endTime": 985.16,
+    "text": "These are robust algorithms."
+  },
+  {
+    "startTime": 986.16,
+    "endTime": 989.16,
+    "text": "These are ways of doing self-organization -- of doing entrepreneurship --"
+  },
+  {
+    "startTime": 989.16,
+    "endTime": 991.16,
+    "text": "that are gentle, that are egalitarian."
+  },
+  {
+    "startTime": 991.16,
+    "endTime": 995.16,
+    "text": "So if we want to find a better way of doing that kind of work,"
+  },
+  {
+    "startTime": 995.16,
+    "endTime": 1000.16,
+    "text": "we need look only no farther than Africa to find these robust self-organizing algorithms."
+  },
+  {
+    "startTime": 1000.16,
+    "endTime": 1001.16,
+    "text": "Thank you."
+  }
+]

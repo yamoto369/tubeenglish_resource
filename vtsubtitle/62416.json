@@ -1,0 +1,957 @@
+[
+  {
+    "startTime": 13.16,
+    "endTime": 16.16,
+    "text": "Information technology grows in an exponential manner."
+  },
+  {
+    "startTime": 16.16,
+    "endTime": 20.16,
+    "text": "It's not linear. And our intuition is linear."
+  },
+  {
+    "startTime": 20.16,
+    "endTime": 22.16,
+    "text": "When we walked through the savanna a thousand years ago"
+  },
+  {
+    "startTime": 22.16,
+    "endTime": 24.16,
+    "text": "we made linear predictions where that animal would be,"
+  },
+  {
+    "startTime": 24.16,
+    "endTime": 27.16,
+    "text": "and that worked fine. It's hardwired in our brains."
+  },
+  {
+    "startTime": 27.16,
+    "endTime": 30.16,
+    "text": "But the pace of exponential growth"
+  },
+  {
+    "startTime": 30.16,
+    "endTime": 33.16,
+    "text": "is really what describes information technologies."
+  },
+  {
+    "startTime": 33.16,
+    "endTime": 36.16,
+    "text": "And it's not just computation."
+  },
+  {
+    "startTime": 36.16,
+    "endTime": 38.16,
+    "text": "There is a big difference between linear and exponential growth."
+  },
+  {
+    "startTime": 38.16,
+    "endTime": 42.16,
+    "text": "If I take 30 steps linearly -- one, two, three, four, five --"
+  },
+  {
+    "startTime": 42.16,
+    "endTime": 44.16,
+    "text": "I get to 30."
+  },
+  {
+    "startTime": 44.16,
+    "endTime": 47.16,
+    "text": "If I take 30 steps exponentially -- two, four, eight, 16 --"
+  },
+  {
+    "startTime": 47.16,
+    "endTime": 49.16,
+    "text": "I get to a billion."
+  },
+  {
+    "startTime": 49.16,
+    "endTime": 51.16,
+    "text": "It makes a huge difference."
+  },
+  {
+    "startTime": 51.16,
+    "endTime": 53.16,
+    "text": "And that really describes information technology."
+  },
+  {
+    "startTime": 53.16,
+    "endTime": 55.16,
+    "text": "When I was a student at MIT,"
+  },
+  {
+    "startTime": 55.16,
+    "endTime": 57.16,
+    "text": "we all shared one computer that took up a whole building."
+  },
+  {
+    "startTime": 57.16,
+    "endTime": 60.16,
+    "text": "The computer in your cellphone today is a million times cheaper,"
+  },
+  {
+    "startTime": 60.16,
+    "endTime": 62.16,
+    "text": "a million times smaller,"
+  },
+  {
+    "startTime": 62.16,
+    "endTime": 64.16,
+    "text": "a thousand times more powerful."
+  },
+  {
+    "startTime": 64.16,
+    "endTime": 67.16,
+    "text": "That's a billion-fold increase in capability per dollar"
+  },
+  {
+    "startTime": 67.16,
+    "endTime": 69.16,
+    "text": "that we've actually experienced since I was a student."
+  },
+  {
+    "startTime": 69.16,
+    "endTime": 72.16,
+    "text": "And we're going to do it again in the next 25 years."
+  },
+  {
+    "startTime": 72.16,
+    "endTime": 74.16,
+    "text": "Information technology progresses"
+  },
+  {
+    "startTime": 74.16,
+    "endTime": 76.16,
+    "text": "through a series of S-curves"
+  },
+  {
+    "startTime": 76.16,
+    "endTime": 78.16,
+    "text": "where each one is a different paradigm."
+  },
+  {
+    "startTime": 78.16,
+    "endTime": 81.16,
+    "text": "So people say, \"What's going to happen when Moore's Law comes to an end?\""
+  },
+  {
+    "startTime": 81.16,
+    "endTime": 83.16,
+    "text": "Which will happen around 2020."
+  },
+  {
+    "startTime": 83.16,
+    "endTime": 85.16,
+    "text": "We'll then go to the next paradigm."
+  },
+  {
+    "startTime": 85.16,
+    "endTime": 87.16,
+    "text": "And Moore's Law was not the first paradigm"
+  },
+  {
+    "startTime": 87.16,
+    "endTime": 89.16,
+    "text": "to bring exponential growth to computing."
+  },
+  {
+    "startTime": 89.16,
+    "endTime": 91.16,
+    "text": "The exponential growth of computing started"
+  },
+  {
+    "startTime": 91.16,
+    "endTime": 93.16,
+    "text": "decades before Gordon Moore was even born."
+  },
+  {
+    "startTime": 93.16,
+    "endTime": 97.16,
+    "text": "And it doesn't just apply to computation."
+  },
+  {
+    "startTime": 97.16,
+    "endTime": 99.16,
+    "text": "It's really any technology where we can measure"
+  },
+  {
+    "startTime": 99.16,
+    "endTime": 102.16,
+    "text": "the underlying information properties."
+  },
+  {
+    "startTime": 102.16,
+    "endTime": 106.16,
+    "text": "Here we have 49 famous computers. I put them in a logarithmic graph."
+  },
+  {
+    "startTime": 106.16,
+    "endTime": 110.16,
+    "text": "The logarithmic scale hides the scale of the increase,"
+  },
+  {
+    "startTime": 110.16,
+    "endTime": 112.16,
+    "text": "because this represents trillions-fold increase"
+  },
+  {
+    "startTime": 112.16,
+    "endTime": 115.16,
+    "text": "since the 1890 census."
+  },
+  {
+    "startTime": 115.16,
+    "endTime": 117.16,
+    "text": "In 1950s they were shrinking vacuum tubes,"
+  },
+  {
+    "startTime": 117.16,
+    "endTime": 120.16,
+    "text": "making them smaller and smaller. They finally hit a wall;"
+  },
+  {
+    "startTime": 120.16,
+    "endTime": 122.16,
+    "text": "they couldn't shrink the vacuum tube any more and keep the vacuum."
+  },
+  {
+    "startTime": 122.16,
+    "endTime": 125.16,
+    "text": "And that was the end of the shrinking of vacuum tubes,"
+  },
+  {
+    "startTime": 125.16,
+    "endTime": 128.16,
+    "text": "but it was not the end of the exponential growth of computing."
+  },
+  {
+    "startTime": 128.16,
+    "endTime": 130.16,
+    "text": "We went to the fourth paradigm, transistors,"
+  },
+  {
+    "startTime": 130.16,
+    "endTime": 132.16,
+    "text": "and finally integrated circuits."
+  },
+  {
+    "startTime": 132.16,
+    "endTime": 134.16,
+    "text": "When that comes to an end we'll go to the sixth paradigm;"
+  },
+  {
+    "startTime": 134.16,
+    "endTime": 138.16,
+    "text": "three-dimensional self-organizing molecular circuits."
+  },
+  {
+    "startTime": 138.16,
+    "endTime": 141.16,
+    "text": "But what's even more amazing, really, than this"
+  },
+  {
+    "startTime": 141.16,
+    "endTime": 143.16,
+    "text": "fantastic scale of progress,"
+  },
+  {
+    "startTime": 143.16,
+    "endTime": 145.16,
+    "text": "is that -- look at how predictable this is."
+  },
+  {
+    "startTime": 145.16,
+    "endTime": 147.16,
+    "text": "I mean this went through thick and thin,"
+  },
+  {
+    "startTime": 147.16,
+    "endTime": 150.16,
+    "text": "through war and peace, through boom times and recessions."
+  },
+  {
+    "startTime": 150.16,
+    "endTime": 154.16,
+    "text": "The Great Depression made not a dent in this exponential progression."
+  },
+  {
+    "startTime": 154.16,
+    "endTime": 158.16,
+    "text": "We'll see the same thing in the economic recession we're having now."
+  },
+  {
+    "startTime": 158.16,
+    "endTime": 161.16,
+    "text": "At least the exponential growth of information technology capability"
+  },
+  {
+    "startTime": 161.16,
+    "endTime": 164.16,
+    "text": "will continue unabated."
+  },
+  {
+    "startTime": 164.16,
+    "endTime": 166.16,
+    "text": "And I just updated these graphs."
+  },
+  {
+    "startTime": 166.16,
+    "endTime": 169.16,
+    "text": "Because I had them through 2002 in my book, \"The Singularity is Near.\""
+  },
+  {
+    "startTime": 169.16,
+    "endTime": 171.16,
+    "text": "So we updated them,"
+  },
+  {
+    "startTime": 171.16,
+    "endTime": 174.16,
+    "text": "so I could present it here, to 2007."
+  },
+  {
+    "startTime": 174.16,
+    "endTime": 176.16,
+    "text": "And I was asked, \"Well aren't you nervous?"
+  },
+  {
+    "startTime": 176.16,
+    "endTime": 180.16,
+    "text": "Maybe it kind of didn't stay on this exponential progression.\""
+  },
+  {
+    "startTime": 180.16,
+    "endTime": 182.16,
+    "text": "I was a little nervous"
+  },
+  {
+    "startTime": 182.16,
+    "endTime": 184.16,
+    "text": "because maybe the data wouldn't be right,"
+  },
+  {
+    "startTime": 184.16,
+    "endTime": 186.16,
+    "text": "but I've done this now for 30 years,"
+  },
+  {
+    "startTime": 186.16,
+    "endTime": 189.16,
+    "text": "and it has stayed on this exponential progression."
+  },
+  {
+    "startTime": 189.16,
+    "endTime": 192.16,
+    "text": "Look at this graph here.You could buy one transistor for a dollar in 1968."
+  },
+  {
+    "startTime": 192.16,
+    "endTime": 194.16,
+    "text": "You can buy half a billion today,"
+  },
+  {
+    "startTime": 194.16,
+    "endTime": 196.16,
+    "text": "and they are actually better, because they are faster."
+  },
+  {
+    "startTime": 196.16,
+    "endTime": 198.16,
+    "text": "But look at how predictable this is."
+  },
+  {
+    "startTime": 198.16,
+    "endTime": 201.16,
+    "text": "And I'd say this knowledge is over-fitting to past data."
+  },
+  {
+    "startTime": 201.16,
+    "endTime": 205.16,
+    "text": "I've been making these forward-looking predictions for about 30 years."
+  },
+  {
+    "startTime": 205.16,
+    "endTime": 207.16,
+    "text": "And the cost of a transistor cycle,"
+  },
+  {
+    "startTime": 207.16,
+    "endTime": 209.16,
+    "text": "which is a measure of the price performance of electronics,"
+  },
+  {
+    "startTime": 209.16,
+    "endTime": 211.16,
+    "text": "comes down about every year."
+  },
+  {
+    "startTime": 211.16,
+    "endTime": 213.16,
+    "text": "That's a 50 percent deflation rate."
+  },
+  {
+    "startTime": 213.16,
+    "endTime": 215.16,
+    "text": "And it's also true of other examples,"
+  },
+  {
+    "startTime": 215.16,
+    "endTime": 217.16,
+    "text": "like DNA data or brain data."
+  },
+  {
+    "startTime": 217.16,
+    "endTime": 219.16,
+    "text": "But we more than make up for that."
+  },
+  {
+    "startTime": 219.16,
+    "endTime": 221.16,
+    "text": "We actually ship more than twice as much"
+  },
+  {
+    "startTime": 221.16,
+    "endTime": 223.16,
+    "text": "of every form of information technology."
+  },
+  {
+    "startTime": 223.16,
+    "endTime": 226.16,
+    "text": "We've had 18 percent growth in constant dollars"
+  },
+  {
+    "startTime": 226.16,
+    "endTime": 229.16,
+    "text": "in every form of information technology for the last half-century,"
+  },
+  {
+    "startTime": 229.16,
+    "endTime": 233.16,
+    "text": "despite the fact that you can get twice as much of it each year."
+  },
+  {
+    "startTime": 233.16,
+    "endTime": 235.16,
+    "text": "This is a completely different example."
+  },
+  {
+    "startTime": 235.16,
+    "endTime": 237.16,
+    "text": "This is not Moore's Law."
+  },
+  {
+    "startTime": 237.16,
+    "endTime": 239.16,
+    "text": "The amount of DNA data"
+  },
+  {
+    "startTime": 239.16,
+    "endTime": 241.16,
+    "text": "we've sequenced has doubled every year."
+  },
+  {
+    "startTime": 241.16,
+    "endTime": 244.16,
+    "text": "The cost has come down by half every year."
+  },
+  {
+    "startTime": 244.16,
+    "endTime": 246.16,
+    "text": "And this has been a smooth progression"
+  },
+  {
+    "startTime": 246.16,
+    "endTime": 248.16,
+    "text": "since the beginning of the genome project."
+  },
+  {
+    "startTime": 248.16,
+    "endTime": 250.16,
+    "text": "And halfway through the project, skeptics said,"
+  },
+  {
+    "startTime": 250.16,
+    "endTime": 253.16,
+    "text": "\"Well, this is not working out. You're halfway through the genome project"
+  },
+  {
+    "startTime": 253.16,
+    "endTime": 255.16,
+    "text": "and you've finished one percent of the project.\""
+  },
+  {
+    "startTime": 255.16,
+    "endTime": 257.159,
+    "text": "But that was really right on schedule."
+  },
+  {
+    "startTime": 257.16,
+    "endTime": 259.16,
+    "text": "Because if you double one percent seven more times,"
+  },
+  {
+    "startTime": 259.16,
+    "endTime": 261.16,
+    "text": "which is exactly what happened,"
+  },
+  {
+    "startTime": 261.16,
+    "endTime": 264.16,
+    "text": "you get 100 percent. And the project was finished on time."
+  },
+  {
+    "startTime": 264.16,
+    "endTime": 266.16,
+    "text": "Communication technologies:"
+  },
+  {
+    "startTime": 266.16,
+    "endTime": 268.16,
+    "text": "50 different ways to measure this,"
+  },
+  {
+    "startTime": 268.16,
+    "endTime": 271.16,
+    "text": "the number of bits being moved around, the size of the Internet."
+  },
+  {
+    "startTime": 271.16,
+    "endTime": 273.16,
+    "text": "But this has progressed at an exponential pace."
+  },
+  {
+    "startTime": 273.16,
+    "endTime": 275.16,
+    "text": "This is deeply democratizing."
+  },
+  {
+    "startTime": 275.16,
+    "endTime": 278.16,
+    "text": "I wrote, over 20 years ago in \"The Age of Intelligent Machines,\""
+  },
+  {
+    "startTime": 278.16,
+    "endTime": 281.16,
+    "text": "when the Soviet Union was going strong, that it would be swept away"
+  },
+  {
+    "startTime": 281.16,
+    "endTime": 285.16,
+    "text": "by this growth of decentralized communication."
+  },
+  {
+    "startTime": 285.16,
+    "endTime": 288.16,
+    "text": "And we will have plenty of computation as we go through the 21st century"
+  },
+  {
+    "startTime": 288.16,
+    "endTime": 292.16,
+    "text": "to do things like simulate regions of the human brain."
+  },
+  {
+    "startTime": 292.16,
+    "endTime": 294.16,
+    "text": "But where will we get the software?"
+  },
+  {
+    "startTime": 294.16,
+    "endTime": 297.16,
+    "text": "Some critics say, \"Oh, well software is stuck in the mud.\""
+  },
+  {
+    "startTime": 297.16,
+    "endTime": 299.16,
+    "text": "But we are learning more and more about the human brain."
+  },
+  {
+    "startTime": 299.16,
+    "endTime": 302.16,
+    "text": "Spatial resolution of brain scanning is doubling every year."
+  },
+  {
+    "startTime": 302.16,
+    "endTime": 305.16,
+    "text": "The amount of data we're getting about the brain is doubling every year."
+  },
+  {
+    "startTime": 305.16,
+    "endTime": 308.16,
+    "text": "And we're showing that we can actually turn this data"
+  },
+  {
+    "startTime": 308.16,
+    "endTime": 311.16,
+    "text": "into working models and simulations of brain regions."
+  },
+  {
+    "startTime": 311.16,
+    "endTime": 313.16,
+    "text": "There is about 20 regions of the brain that have been modeled,"
+  },
+  {
+    "startTime": 313.16,
+    "endTime": 315.16,
+    "text": "simulated and tested:"
+  },
+  {
+    "startTime": 315.16,
+    "endTime": 318.16,
+    "text": "the auditory cortex, regions of the visual cortex;"
+  },
+  {
+    "startTime": 318.16,
+    "endTime": 320.16,
+    "text": "cerebellum, where we do our skill formation;"
+  },
+  {
+    "startTime": 320.16,
+    "endTime": 324.16,
+    "text": "slices of the cerebral cortex, where we do our rational thinking."
+  },
+  {
+    "startTime": 324.16,
+    "endTime": 326.16,
+    "text": "And all of this has fueled"
+  },
+  {
+    "startTime": 326.16,
+    "endTime": 329.16,
+    "text": "an increase, very smooth and predictable, of productivity."
+  },
+  {
+    "startTime": 329.16,
+    "endTime": 331.16,
+    "text": "We've gone from 30 dollars to 130 dollars"
+  },
+  {
+    "startTime": 331.16,
+    "endTime": 335.16,
+    "text": "in constant dollars in the value of an average hour of human labor,"
+  },
+  {
+    "startTime": 335.16,
+    "endTime": 338.16,
+    "text": "fueled by this information technology."
+  },
+  {
+    "startTime": 338.16,
+    "endTime": 341.16,
+    "text": "And we're all concerned about energy and the environment."
+  },
+  {
+    "startTime": 341.16,
+    "endTime": 343.16,
+    "text": "Well this is a logarithmic graph."
+  },
+  {
+    "startTime": 343.16,
+    "endTime": 345.16,
+    "text": "This represents a smooth doubling,"
+  },
+  {
+    "startTime": 345.16,
+    "endTime": 349.16,
+    "text": "every two years, of the amount of solar energy we're creating,"
+  },
+  {
+    "startTime": 349.16,
+    "endTime": 351.16,
+    "text": "particularly as we're now applying nanotechnology,"
+  },
+  {
+    "startTime": 351.16,
+    "endTime": 354.16,
+    "text": "a form of information technology, to solar panels."
+  },
+  {
+    "startTime": 354.16,
+    "endTime": 356.16,
+    "text": "And we're only eight doublings away"
+  },
+  {
+    "startTime": 356.16,
+    "endTime": 358.16,
+    "text": "from it meeting 100 percent of our energy needs."
+  },
+  {
+    "startTime": 358.16,
+    "endTime": 362.16,
+    "text": "And there is 10 thousand times more sunlight than we need."
+  },
+  {
+    "startTime": 362.16,
+    "endTime": 367.16,
+    "text": "We ultimately will merge with this technology. It's already very close to us."
+  },
+  {
+    "startTime": 367.16,
+    "endTime": 370.16,
+    "text": "When I was a student it was across campus, now it's in our pockets."
+  },
+  {
+    "startTime": 370.16,
+    "endTime": 373.16,
+    "text": "What used to take up a building now fits in our pockets."
+  },
+  {
+    "startTime": 373.16,
+    "endTime": 376.16,
+    "text": "What now fits in our pockets would fit in a blood cell in 25 years."
+  },
+  {
+    "startTime": 376.16,
+    "endTime": 380.16,
+    "text": "And we will begin to actually deeply influence"
+  },
+  {
+    "startTime": 380.16,
+    "endTime": 382.16,
+    "text": "our health and our intelligence,"
+  },
+  {
+    "startTime": 382.16,
+    "endTime": 386.16,
+    "text": "as we get closer and closer to this technology."
+  },
+  {
+    "startTime": 386.16,
+    "endTime": 389.16,
+    "text": "Based on that we are announcing, here at TED,"
+  },
+  {
+    "startTime": 389.16,
+    "endTime": 392.16,
+    "text": "in true TED tradition, Singularity University."
+  },
+  {
+    "startTime": 392.16,
+    "endTime": 394.16,
+    "text": "It's a new university"
+  },
+  {
+    "startTime": 394.16,
+    "endTime": 396.16,
+    "text": "that's founded by Peter Diamandis, who is here in the audience,"
+  },
+  {
+    "startTime": 396.16,
+    "endTime": 398.16,
+    "text": "and myself."
+  },
+  {
+    "startTime": 398.16,
+    "endTime": 400.16,
+    "text": "It's backed by NASA and Google,"
+  },
+  {
+    "startTime": 400.16,
+    "endTime": 404.16,
+    "text": "and other leaders in the high-tech and science community."
+  },
+  {
+    "startTime": 404.16,
+    "endTime": 407.16,
+    "text": "And our goal was to assemble the leaders,"
+  },
+  {
+    "startTime": 407.16,
+    "endTime": 409.16,
+    "text": "both teachers and students,"
+  },
+  {
+    "startTime": 409.16,
+    "endTime": 411.16,
+    "text": "in these exponentially growing information technologies,"
+  },
+  {
+    "startTime": 411.16,
+    "endTime": 413.16,
+    "text": "and their application."
+  },
+  {
+    "startTime": 413.16,
+    "endTime": 415.16,
+    "text": "But Larry Page made an impassioned speech"
+  },
+  {
+    "startTime": 415.16,
+    "endTime": 417.16,
+    "text": "at our organizing meeting,"
+  },
+  {
+    "startTime": 417.16,
+    "endTime": 422.16,
+    "text": "saying we should devote this study"
+  },
+  {
+    "startTime": 422.16,
+    "endTime": 426.16,
+    "text": "to actually addressing some of the major challenges facing humanity."
+  },
+  {
+    "startTime": 426.16,
+    "endTime": 428.16,
+    "text": "And if we did that, then Google would back this."
+  },
+  {
+    "startTime": 428.16,
+    "endTime": 430.16,
+    "text": "And so that's what we've done."
+  },
+  {
+    "startTime": 430.16,
+    "endTime": 434.16,
+    "text": "The last third of the nine-week intensive summer session"
+  },
+  {
+    "startTime": 434.16,
+    "endTime": 436.16,
+    "text": "will be devoted to a group project to address"
+  },
+  {
+    "startTime": 436.16,
+    "endTime": 438.16,
+    "text": "some major challenge of humanity."
+  },
+  {
+    "startTime": 438.16,
+    "endTime": 440.16,
+    "text": "Like for example, applying the Internet,"
+  },
+  {
+    "startTime": 440.16,
+    "endTime": 445.16,
+    "text": "which is now ubiquitous, in the rural areas of China or in Africa,"
+  },
+  {
+    "startTime": 445.16,
+    "endTime": 447.16,
+    "text": "to bringing health information"
+  },
+  {
+    "startTime": 447.16,
+    "endTime": 450.16,
+    "text": "to developing areas of the world."
+  },
+  {
+    "startTime": 450.16,
+    "endTime": 453.16,
+    "text": "And these projects will continue past these sessions,"
+  },
+  {
+    "startTime": 453.16,
+    "endTime": 456.16,
+    "text": "using collaborative interactive communication."
+  },
+  {
+    "startTime": 456.16,
+    "endTime": 460.16,
+    "text": "All the intellectual property that is created and taught"
+  },
+  {
+    "startTime": 460.16,
+    "endTime": 462.16,
+    "text": "will be online and available,"
+  },
+  {
+    "startTime": 462.16,
+    "endTime": 465.16,
+    "text": "and developed online in a collaborative fashion."
+  },
+  {
+    "startTime": 465.16,
+    "endTime": 467.16,
+    "text": "Here is our founding meeting."
+  },
+  {
+    "startTime": 467.16,
+    "endTime": 469.16,
+    "text": "But this is being announced today."
+  },
+  {
+    "startTime": 469.16,
+    "endTime": 472.16,
+    "text": "It will be permanently headquartered in Silicon Valley,"
+  },
+  {
+    "startTime": 472.16,
+    "endTime": 474.16,
+    "text": "at the NASA Ames research center."
+  },
+  {
+    "startTime": 474.16,
+    "endTime": 476.16,
+    "text": "There are different programs for graduate students,"
+  },
+  {
+    "startTime": 476.16,
+    "endTime": 479.16,
+    "text": "for executives at different companies."
+  },
+  {
+    "startTime": 479.16,
+    "endTime": 481.16,
+    "text": "The first six tracks here -- artificial intelligence,"
+  },
+  {
+    "startTime": 481.16,
+    "endTime": 484.16,
+    "text": "advanced computing technologies, biotechnology, nanotechnology --"
+  },
+  {
+    "startTime": 484.16,
+    "endTime": 488.16,
+    "text": "are the different core areas of information technology."
+  },
+  {
+    "startTime": 488.16,
+    "endTime": 490.16,
+    "text": "Then we are going to apply them to the other areas,"
+  },
+  {
+    "startTime": 490.16,
+    "endTime": 493.16,
+    "text": "like energy, ecology,"
+  },
+  {
+    "startTime": 493.16,
+    "endTime": 495.16,
+    "text": "policy law and ethics, entrepreneurship,"
+  },
+  {
+    "startTime": 495.16,
+    "endTime": 499.16,
+    "text": "so that people can bring these new technologies to the world."
+  },
+  {
+    "startTime": 499.16,
+    "endTime": 504.16,
+    "text": "So we're very appreciative of the support we've gotten"
+  },
+  {
+    "startTime": 504.16,
+    "endTime": 506.16,
+    "text": "from both the intellectual leaders, the high-tech leaders,"
+  },
+  {
+    "startTime": 506.16,
+    "endTime": 508.16,
+    "text": "particularly Google and NASA."
+  },
+  {
+    "startTime": 508.16,
+    "endTime": 510.16,
+    "text": "This is an exciting new venture."
+  },
+  {
+    "startTime": 510.16,
+    "endTime": 513.1600000000001,
+    "text": "And we invite you to participate. Thank you very much."
+  },
+  {
+    "startTime": 513.159,
+    "endTime": 516.159,
+    "text": "(Applause)"
+  }
+]

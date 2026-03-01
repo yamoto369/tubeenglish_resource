@@ -1,0 +1,2407 @@
+[
+  {
+    "startTime": 25.476,
+    "endTime": 26.627,
+    "text": "I do two things:"
+  },
+  {
+    "startTime": 26.651,
+    "endTime": 28.769,
+    "text": "I design mobile computers and I study brains."
+  },
+  {
+    "startTime": 28.793,
+    "endTime": 31.723,
+    "text": "Today's talk is about brains and -- (Audience member cheers)"
+  },
+  {
+    "startTime": 31.747,
+    "endTime": 33.564,
+    "text": "Yay! I have a brain fan out there."
+  },
+  {
+    "startTime": 33.588,
+    "endTime": 36.735,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 36.759,
+    "endTime": 38.314,
+    "text": "If I could have my first slide,"
+  },
+  {
+    "startTime": 38.338,
+    "endTime": 41.187,
+    "text": "you'll see the title of my talk and my two affiliations."
+  },
+  {
+    "startTime": 41.211,
+    "endTime": 44.679,
+    "text": "So what I'm going to talk about is why we don't have a good brain theory,"
+  },
+  {
+    "startTime": 44.703,
+    "endTime": 46.980000000000004,
+    "text": "why it is important that we should develop one"
+  },
+  {
+    "startTime": 47.4,
+    "endTime": 48.486,
+    "text": "and what we can do about it."
+  },
+  {
+    "startTime": 48.511,
+    "endTime": 50.335,
+    "text": "I'll try to do all that in 20 minutes."
+  },
+  {
+    "startTime": 50.359,
+    "endTime": 51.510000000000005,
+    "text": "I have two affiliations."
+  },
+  {
+    "startTime": 51.534,
+    "endTime": 54.66,
+    "text": "Most of you know me from my Palm and Handspring days,"
+  },
+  {
+    "startTime": 54.9,
+    "endTime": 56.772999999999996,
+    "text": "but I also run a nonprofit scientific research institute"
+  },
+  {
+    "startTime": 56.797,
+    "endTime": 59.428,
+    "text": "called the Redwood Neuroscience Institute in Menlo Park."
+  },
+  {
+    "startTime": 59.453,
+    "endTime": 62.841,
+    "text": "We study theoretical neuroscience and how the neocortex works."
+  },
+  {
+    "startTime": 62.865,
+    "endTime": 64.46300000000001,
+    "text": "I'm going to talk all about that."
+  },
+  {
+    "startTime": 64.486,
+    "endTime": 67.232,
+    "text": "I have one slide on my other life, the computer life,"
+  },
+  {
+    "startTime": 67.256,
+    "endTime": 68.557,
+    "text": "and that's this slide here."
+  },
+  {
+    "startTime": 68.581,
+    "endTime": 71.849,
+    "text": "These are some of the products I've worked on over the last 20 years,"
+  },
+  {
+    "startTime": 71.873,
+    "endTime": 73.715,
+    "text": "starting from the very original laptop"
+  },
+  {
+    "startTime": 73.739,
+    "endTime": 75.52600000000001,
+    "text": "to some of the first tablet computers"
+  },
+  {
+    "startTime": 75.55,
+    "endTime": 77.848,
+    "text": "and so on, ending up most recently with the Treo,"
+  },
+  {
+    "startTime": 77.872,
+    "endTime": 79.404,
+    "text": "and we're continuing to do this."
+  },
+  {
+    "startTime": 79.428,
+    "endTime": 81.729,
+    "text": "I've done this because I believe mobile computing"
+  },
+  {
+    "startTime": 81.753,
+    "endTime": 83.477,
+    "text": "is the future of personal computing,"
+  },
+  {
+    "startTime": 83.501,
+    "endTime": 85.955,
+    "text": "and I'm trying to make the world a little bit better"
+  },
+  {
+    "startTime": 85.979,
+    "endTime": 87.275,
+    "text": "by working on these things."
+  },
+  {
+    "startTime": 87.299,
+    "endTime": 89.173,
+    "text": "But this was, I admit, all an accident."
+  },
+  {
+    "startTime": 89.197,
+    "endTime": 91.505,
+    "text": "I really didn't want to do any of these products."
+  },
+  {
+    "startTime": 91.529,
+    "endTime": 92.911,
+    "text": "Very early in my career"
+  },
+  {
+    "startTime": 92.935,
+    "endTime": 95.625,
+    "text": "I decided I was not going to be in the computer industry."
+  },
+  {
+    "startTime": 95.649,
+    "endTime": 97.37,
+    "text": "Before that, I just have to tell you"
+  },
+  {
+    "startTime": 97.394,
+    "endTime": 100.50200000000001,
+    "text": "about this picture of Graffiti I picked off the web the other day."
+  },
+  {
+    "startTime": 100.526,
+    "endTime": 103.779,
+    "text": "I was looking for a picture for Graffiti that'll text input language."
+  },
+  {
+    "startTime": 103.803,
+    "endTime": 107.491,
+    "text": "I found a website dedicated to teachers who want to make script-writing things"
+  },
+  {
+    "startTime": 107.516,
+    "endTime": 109.19000000000001,
+    "text": "across the top of their blackboard,"
+  },
+  {
+    "startTime": 109.214,
+    "endTime": 112.47,
+    "text": "and they had added Graffiti to it, and I'm sorry about that."
+  },
+  {
+    "startTime": 112.71,
+    "endTime": 114.318,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 114.342,
+    "endTime": 115.642,
+    "text": "So what happened was,"
+  },
+  {
+    "startTime": 115.666,
+    "endTime": 120.565,
+    "text": "when I was young and got out of engineering school at Cornell in '79,"
+  },
+  {
+    "startTime": 120.589,
+    "endTime": 123.776,
+    "text": "I went to work for Intel and was in the computer industry,"
+  },
+  {
+    "startTime": 123.8,
+    "endTime": 127.202,
+    "text": "and three months into that, I fell in love with something else."
+  },
+  {
+    "startTime": 127.226,
+    "endTime": 130.27,
+    "text": "I said, \"I made the wrong career choice here,\""
+  },
+  {
+    "startTime": 130.294,
+    "endTime": 132.53300000000002,
+    "text": "and I fell in love with brains."
+  },
+  {
+    "startTime": 132.557,
+    "endTime": 134.89,
+    "text": "This is not a real brain."
+  },
+  {
+    "startTime": 134.114,
+    "endTime": 136.833,
+    "text": "This is a picture of one, a line drawing."
+  },
+  {
+    "startTime": 136.857,
+    "endTime": 138.976,
+    "text": "And I don't remember exactly how it happened,"
+  },
+  {
+    "startTime": 139.0,
+    "endTime": 142.515,
+    "text": "but I have one recollection, which was pretty strong in my mind."
+  },
+  {
+    "startTime": 142.539,
+    "endTime": 144.149,
+    "text": "In September of 1979,"
+  },
+  {
+    "startTime": 144.173,
+    "endTime": 147.537,
+    "text": "Scientific American came out with a single-topic issue about the brain."
+  },
+  {
+    "startTime": 147.561,
+    "endTime": 149.499,
+    "text": "It was one of their best issues ever."
+  },
+  {
+    "startTime": 149.523,
+    "endTime": 152.47,
+    "text": "They talked about the neuron, development, disease, vision"
+  },
+  {
+    "startTime": 152.494,
+    "endTime": 155.9,
+    "text": "and all the things you might want to know about brains."
+  },
+  {
+    "startTime": 155.114,
+    "endTime": 156.616,
+    "text": "It was really quite impressive."
+  },
+  {
+    "startTime": 156.64,
+    "endTime": 159.41099999999997,
+    "text": "One might've had the impression we knew a lot about brains."
+  },
+  {
+    "startTime": 159.436,
+    "endTime": 163.631,
+    "text": "But the last article in that issue was written by Francis Crick of DNA fame."
+  },
+  {
+    "startTime": 163.655,
+    "endTime": 166.679,
+    "text": "Today is, I think, the 50th anniversary of the discovery of DNA."
+  },
+  {
+    "startTime": 166.703,
+    "endTime": 169.778,
+    "text": "And he wrote a story basically saying, this is all well and good,"
+  },
+  {
+    "startTime": 169.802,
+    "endTime": 172.545,
+    "text": "but you know, we don't know diddly squat about brains,"
+  },
+  {
+    "startTime": 172.569,
+    "endTime": 174.308,
+    "text": "and no one has a clue how they work,"
+  },
+  {
+    "startTime": 174.332,
+    "endTime": 176.198,
+    "text": "so don't believe what anyone tells you."
+  },
+  {
+    "startTime": 176.222,
+    "endTime": 178.387,
+    "text": "This is a quote from that article, he says:"
+  },
+  {
+    "startTime": 178.411,
+    "endTime": 182.704,
+    "text": "\"What is conspicuously lacking\" -- he's a very proper British gentleman --"
+  },
+  {
+    "startTime": 182.728,
+    "endTime": 185.55800000000002,
+    "text": "\"What is conspicuously lacking is a broad framework of ideas"
+  },
+  {
+    "startTime": 185.582,
+    "endTime": 187.934,
+    "text": "in which to interpret these different approaches.\""
+  },
+  {
+    "startTime": 187.958,
+    "endTime": 189.926,
+    "text": "I thought the word \"framework\" was great."
+  },
+  {
+    "startTime": 189.95,
+    "endTime": 191.767,
+    "text": "He didn't say we didn't have a theory."
+  },
+  {
+    "startTime": 191.791,
+    "endTime": 194.516,
+    "text": "He says we don't even know how to begin to think about it."
+  },
+  {
+    "startTime": 194.54,
+    "endTime": 196.31,
+    "text": "We don't even have a framework."
+  },
+  {
+    "startTime": 196.56,
+    "endTime": 199.106,
+    "text": "We are in the pre-paradigm days, if you want to use Thomas Kuhn."
+  },
+  {
+    "startTime": 199.13,
+    "endTime": 200.469,
+    "text": "So I fell in love with this."
+  },
+  {
+    "startTime": 200.493,
+    "endTime": 204.67,
+    "text": "I said, look: We have all this knowledge about brains -- how hard can it be?"
+  },
+  {
+    "startTime": 204.92,
+    "endTime": 207.53,
+    "text": "It's something we can work on in my lifetime; I could make a difference."
+  },
+  {
+    "startTime": 207.554,
+    "endTime": 211.173,
+    "text": "So I tried to get out of the computer business, into the brain business."
+  },
+  {
+    "startTime": 211.197,
+    "endTime": 213.201,
+    "text": "First, I went to MIT, the AI lab was there."
+  },
+  {
+    "startTime": 213.225,
+    "endTime": 215.62,
+    "text": "I said, I want to build intelligent machines too,"
+  },
+  {
+    "startTime": 215.644,
+    "endTime": 218.161,
+    "text": "but I want to study how brains work first."
+  },
+  {
+    "startTime": 218.185,
+    "endTime": 220.491,
+    "text": "And they said, \"Oh, you don't need to do that."
+  },
+  {
+    "startTime": 220.515,
+    "endTime": 222.904,
+    "text": "You're just going to program computers, that's all."
+  },
+  {
+    "startTime": 222.929,
+    "endTime": 224.892,
+    "text": "I said, you really ought to study brains."
+  },
+  {
+    "startTime": 224.916,
+    "endTime": 226.347,
+    "text": "They said, \"No, you're wrong.\""
+  },
+  {
+    "startTime": 226.372,
+    "endTime": 228.61800000000002,
+    "text": "I said, \"No, you're wrong,\" and I didn't get in."
+  },
+  {
+    "startTime": 228.642,
+    "endTime": 229.72,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 229.744,
+    "endTime": 231.899,
+    "text": "I was a little disappointed -- pretty young --"
+  },
+  {
+    "startTime": 231.923,
+    "endTime": 233.859,
+    "text": "but I went back again a few years later,"
+  },
+  {
+    "startTime": 233.883,
+    "endTime": 236.24200000000002,
+    "text": "this time in California, and I went to Berkeley."
+  },
+  {
+    "startTime": 236.266,
+    "endTime": 238.696,
+    "text": "And I said, I'll go in from the biological side."
+  },
+  {
+    "startTime": 238.72,
+    "endTime": 241.809,
+    "text": "So I got in the PhD program in biophysics."
+  },
+  {
+    "startTime": 241.833,
+    "endTime": 245.243,
+    "text": "I was like, I'm studying brains now. Well, I want to study theory."
+  },
+  {
+    "startTime": 245.267,
+    "endTime": 247.536,
+    "text": "They said, \"You can't study theory about brains."
+  },
+  {
+    "startTime": 247.56,
+    "endTime": 249.555,
+    "text": "You can't get funded for that."
+  },
+  {
+    "startTime": 249.579,
+    "endTime": 251.734,
+    "text": "And as a graduate student, you can't do that.\""
+  },
+  {
+    "startTime": 251.758,
+    "endTime": 252.976,
+    "text": "So I said, oh my gosh."
+  },
+  {
+    "startTime": 253.0,
+    "endTime": 256.154,
+    "text": "I was depressed; I said, but I can make a difference in this field."
+  },
+  {
+    "startTime": 256.178,
+    "endTime": 258.186,
+    "text": "I went back in the computer industry"
+  },
+  {
+    "startTime": 258.211,
+    "endTime": 260.31600000000003,
+    "text": "and said, I'll have to work here for a while."
+  },
+  {
+    "startTime": 260.339,
+    "endTime": 262.73199999999997,
+    "text": "That's when I designed all those computer products."
+  },
+  {
+    "startTime": 262.757,
+    "endTime": 264.58,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 264.82,
+    "endTime": 266.976,
+    "text": "I said, I want to do this for four years, make some money,"
+  },
+  {
+    "startTime": 267.0,
+    "endTime": 270.976,
+    "text": "I was having a family, and I would mature a bit,"
+  },
+  {
+    "startTime": 271.0,
+    "endTime": 273.816,
+    "text": "and maybe the business of neuroscience would mature a bit."
+  },
+  {
+    "startTime": 273.84,
+    "endTime": 276.84,
+    "text": "Well, it took longer than four years. It's been about 16 years."
+  },
+  {
+    "startTime": 276.865,
+    "endTime": 279.581,
+    "text": "But I'm doing it now, and I'm going to tell you about it."
+  },
+  {
+    "startTime": 279.605,
+    "endTime": 281.891,
+    "text": "So why should we have a good brain theory?"
+  },
+  {
+    "startTime": 281.915,
+    "endTime": 285.17,
+    "text": "Well, there's lots of reasons people do science."
+  },
+  {
+    "startTime": 285.41,
+    "endTime": 287.95700000000005,
+    "text": "The most basic one is, people like to know things."
+  },
+  {
+    "startTime": 287.982,
+    "endTime": 290.177,
+    "text": "We're curious, and we go out and get knowledge."
+  },
+  {
+    "startTime": 290.201,
+    "endTime": 292.67,
+    "text": "Why do we study ants? It's interesting."
+  },
+  {
+    "startTime": 292.91,
+    "endTime": 295.557,
+    "text": "Maybe we'll learn something useful, but it's interesting and fascinating."
+  },
+  {
+    "startTime": 295.581,
+    "endTime": 297.63800000000003,
+    "text": "But sometimes a science has other attributes"
+  },
+  {
+    "startTime": 297.662,
+    "endTime": 299.491,
+    "text": "which makes it really interesting."
+  },
+  {
+    "startTime": 299.515,
+    "endTime": 302.142,
+    "text": "Sometimes a science will tell something about ourselves;"
+  },
+  {
+    "startTime": 302.166,
+    "endTime": 303.39,
+    "text": "it'll tell us who we are."
+  },
+  {
+    "startTime": 303.414,
+    "endTime": 306.166,
+    "text": "Evolution did this and Copernicus did this,"
+  },
+  {
+    "startTime": 306.19,
+    "endTime": 308.524,
+    "text": "where we have a new understanding of who we are."
+  },
+  {
+    "startTime": 308.548,
+    "endTime": 311.976,
+    "text": "And after all, we are our brains. My brain is talking to your brain."
+  },
+  {
+    "startTime": 312.0,
+    "endTime": 314.3,
+    "text": "Our bodies are hanging along for the ride,"
+  },
+  {
+    "startTime": 314.54,
+    "endTime": 315.87800000000004,
+    "text": "but my brain is talking to your brain."
+  },
+  {
+    "startTime": 315.903,
+    "endTime": 319.151,
+    "text": "And if we want to understand who we are and how we feel and perceive,"
+  },
+  {
+    "startTime": 319.175,
+    "endTime": 320.56600000000003,
+    "text": "we need to understand brains."
+  },
+  {
+    "startTime": 320.59,
+    "endTime": 324.373,
+    "text": "Another thing is sometimes science leads to big societal benefits, technologies,"
+  },
+  {
+    "startTime": 324.398,
+    "endTime": 325.689,
+    "text": "or businesses or whatever."
+  },
+  {
+    "startTime": 325.713,
+    "endTime": 328.591,
+    "text": "This is one, too, because when we understand how brains work,"
+  },
+  {
+    "startTime": 328.615,
+    "endTime": 330.67900000000003,
+    "text": "we'll be able to build intelligent machines."
+  },
+  {
+    "startTime": 330.703,
+    "endTime": 332.4,
+    "text": "That's a good thing on the whole,"
+  },
+  {
+    "startTime": 332.425,
+    "endTime": 334.283,
+    "text": "with tremendous benefits to society,"
+  },
+  {
+    "startTime": 334.307,
+    "endTime": 335.976,
+    "text": "just like a fundamental technology."
+  },
+  {
+    "startTime": 336.0,
+    "endTime": 338.85,
+    "text": "So why don't we have a good theory of brains?"
+  },
+  {
+    "startTime": 338.874,
+    "endTime": 341.42,
+    "text": "People have been working on it for 100 years."
+  },
+  {
+    "startTime": 341.66,
+    "endTime": 343.78400000000005,
+    "text": "Let's first take a look at what normal science looks like."
+  },
+  {
+    "startTime": 343.809,
+    "endTime": 344.99600000000004,
+    "text": "This is normal science."
+  },
+  {
+    "startTime": 345.2,
+    "endTime": 349.94,
+    "text": "Normal science is a nice balance between theory and experimentalists."
+  },
+  {
+    "startTime": 349.118,
+    "endTime": 351.808,
+    "text": "The theorist guy says, \"I think this is what's going on,\""
+  },
+  {
+    "startTime": 351.833,
+    "endTime": 353.79400000000004,
+    "text": "the experimentalist says, \"You're wrong.\""
+  },
+  {
+    "startTime": 353.818,
+    "endTime": 356.822,
+    "text": "It goes back and forth, this works in physics, this in geology."
+  },
+  {
+    "startTime": 356.846,
+    "endTime": 359.855,
+    "text": "But if this is normal science, what does neuroscience look like?"
+  },
+  {
+    "startTime": 359.879,
+    "endTime": 361.67400000000004,
+    "text": "This is what neuroscience looks like."
+  },
+  {
+    "startTime": 361.698,
+    "endTime": 363.14,
+    "text": "We have this mountain of data,"
+  },
+  {
+    "startTime": 363.164,
+    "endTime": 365.234,
+    "text": "which is anatomy, physiology and behavior."
+  },
+  {
+    "startTime": 365.258,
+    "endTime": 368.452,
+    "text": "You can't imagine how much detail we know about brains."
+  },
+  {
+    "startTime": 368.476,
+    "endTime": 372.68,
+    "text": "There were 28,000 people who went to the neuroscience conference this year,"
+  },
+  {
+    "startTime": 372.92,
+    "endTime": 374.45500000000004,
+    "text": "and every one of them is doing research in brains."
+  },
+  {
+    "startTime": 374.479,
+    "endTime": 376.173,
+    "text": "A lot of data, but no theory."
+  },
+  {
+    "startTime": 376.197,
+    "endTime": 378.197,
+    "text": "There's a little wimpy box on top there."
+  },
+  {
+    "startTime": 378.221,
+    "endTime": 381.603,
+    "text": "And theory has not played a role in any sort of grand way"
+  },
+  {
+    "startTime": 381.627,
+    "endTime": 383.56,
+    "text": "in the neurosciences."
+  },
+  {
+    "startTime": 383.8,
+    "endTime": 384.32,
+    "text": "And it's a real shame."
+  },
+  {
+    "startTime": 384.344,
+    "endTime": 385.735,
+    "text": "Now, why has this come about?"
+  },
+  {
+    "startTime": 385.759,
+    "endTime": 388.747,
+    "text": "If you ask neuroscientists why is this the state of affairs,"
+  },
+  {
+    "startTime": 388.771,
+    "endTime": 390.17,
+    "text": "first, they'll admit it."
+  },
+  {
+    "startTime": 390.41,
+    "endTime": 391.526,
+    "text": "But if you ask them, they say,"
+  },
+  {
+    "startTime": 391.55,
+    "endTime": 394.28200000000004,
+    "text": "there's various reasons we don't have a good brain theory."
+  },
+  {
+    "startTime": 394.306,
+    "endTime": 396.275,
+    "text": "Some say we still don't have enough data,"
+  },
+  {
+    "startTime": 396.299,
+    "endTime": 399.358,
+    "text": "we need more information, there's all these things we don't know."
+  },
+  {
+    "startTime": 399.382,
+    "endTime": 402.223,
+    "text": "Well, I just told you there's data coming out of your ears."
+  },
+  {
+    "startTime": 402.247,
+    "endTime": 405.411,
+    "text": "We have so much information, we don't even know how to organize it."
+  },
+  {
+    "startTime": 405.435,
+    "endTime": 406.873,
+    "text": "What good is more going to do?"
+  },
+  {
+    "startTime": 406.897,
+    "endTime": 410.344,
+    "text": "Maybe we'll be lucky and discover some magic thing, but I don't think so."
+  },
+  {
+    "startTime": 410.369,
+    "endTime": 413.34200000000004,
+    "text": "This is a symptom of the fact that we just don't have a theory."
+  },
+  {
+    "startTime": 413.366,
+    "endTime": 415.976,
+    "text": "We don't need more data, we need a good theory."
+  },
+  {
+    "startTime": 416.0,
+    "endTime": 417.798,
+    "text": "Another one is sometimes people say,"
+  },
+  {
+    "startTime": 417.822,
+    "endTime": 420.976,
+    "text": "\"Brains are so complex, it'll take another 50 years.\""
+  },
+  {
+    "startTime": 421.0,
+    "endTime": 424.354,
+    "text": "I even think Chris said something like this yesterday, something like,"
+  },
+  {
+    "startTime": 424.378,
+    "endTime": 427.5,
+    "text": "it's one of the most complicated things in the universe."
+  },
+  {
+    "startTime": 427.29,
+    "endTime": 429.819,
+    "text": "That's not true -- you're more complicated than your brain."
+  },
+  {
+    "startTime": 429.843,
+    "endTime": 430.994,
+    "text": "You've got a brain."
+  },
+  {
+    "startTime": 431.18,
+    "endTime": 433.16700000000003,
+    "text": "And although the brain looks very complicated,"
+  },
+  {
+    "startTime": 433.192,
+    "endTime": 435.528,
+    "text": "things look complicated until you understand them."
+  },
+  {
+    "startTime": 435.552,
+    "endTime": 436.887,
+    "text": "That's always been the case."
+  },
+  {
+    "startTime": 436.911,
+    "endTime": 440.154,
+    "text": "So we can say, my neocortex, the part of the brain I'm interested in,"
+  },
+  {
+    "startTime": 440.178,
+    "endTime": 441.33,
+    "text": "has 30 billion cells."
+  },
+  {
+    "startTime": 441.354,
+    "endTime": 443.786,
+    "text": "But, you know what? It's very, very regular."
+  },
+  {
+    "startTime": 443.81,
+    "endTime": 447.204,
+    "text": "In fact, it looks like it's the same thing repeated over and over again."
+  },
+  {
+    "startTime": 447.228,
+    "endTime": 449.764,
+    "text": "It's not as complex as it looks. That's not the issue."
+  },
+  {
+    "startTime": 449.788,
+    "endTime": 452.75,
+    "text": "Some people say, brains can't understand brains."
+  },
+  {
+    "startTime": 452.99,
+    "endTime": 454.87,
+    "text": "Very Zen-like. Woo."
+  },
+  {
+    "startTime": 454.111,
+    "endTime": 456.299,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 456.323,
+    "endTime": 459.181,
+    "text": "You know, it sounds good, but why? I mean, what's the point?"
+  },
+  {
+    "startTime": 459.206,
+    "endTime": 461.77500000000003,
+    "text": "It's just a bunch of cells. You understand your liver."
+  },
+  {
+    "startTime": 461.799,
+    "endTime": 463.775,
+    "text": "It's got a lot of cells in it too, right?"
+  },
+  {
+    "startTime": 463.8,
+    "endTime": 466.29400000000004,
+    "text": "So, you know, I don't think there's anything to that."
+  },
+  {
+    "startTime": 466.318,
+    "endTime": 468.43,
+    "text": "And finally, some people say,"
+  },
+  {
+    "startTime": 468.454,
+    "endTime": 471.437,
+    "text": "\"I don't feel like a bunch of cells -- I'm conscious."
+  },
+  {
+    "startTime": 471.461,
+    "endTime": 473.53000000000003,
+    "text": "I've got this experience, I'm in the world."
+  },
+  {
+    "startTime": 473.554,
+    "endTime": 475.464,
+    "text": "I can't be just a bunch of cells.\""
+  },
+  {
+    "startTime": 475.488,
+    "endTime": 478.711,
+    "text": "Well, people used to believe there was a life force to be living,"
+  },
+  {
+    "startTime": 478.735,
+    "endTime": 481.144,
+    "text": "and we now know that's really not true at all."
+  },
+  {
+    "startTime": 481.168,
+    "endTime": 483.66,
+    "text": "And there's really no evidence,"
+  },
+  {
+    "startTime": 483.9,
+    "endTime": 486.464,
+    "text": "other than that people just disbelieve that cells can do what they do."
+  },
+  {
+    "startTime": 486.488,
+    "endTime": 489.529,
+    "text": "So some people have fallen into the pit of metaphysical dualism,"
+  },
+  {
+    "startTime": 489.553,
+    "endTime": 492.283,
+    "text": "some really smart people, too, but we can reject all that."
+  },
+  {
+    "startTime": 492.307,
+    "endTime": 495.202,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 495.226,
+    "endTime": 496.967,
+    "text": "No, there's something else,"
+  },
+  {
+    "startTime": 496.991,
+    "endTime": 498.976,
+    "text": "something really fundamental, and it is:"
+  },
+  {
+    "startTime": 499.0,
+    "endTime": 501.451,
+    "text": "another reason why we don't have a good brain theory"
+  },
+  {
+    "startTime": 501.475,
+    "endTime": 507.1,
+    "text": "is because we have an intuitive, strongly held but incorrect assumption"
+  },
+  {
+    "startTime": 507.34,
+    "endTime": 509.14599999999996,
+    "text": "that has prevented us from seeing the answer."
+  },
+  {
+    "startTime": 509.17,
+    "endTime": 512.957,
+    "text": "There's something we believe that just, it's obvious, but it's wrong."
+  },
+  {
+    "startTime": 512.982,
+    "endTime": 516.548,
+    "text": "Now, there's a history of this in science and before I tell you what it is,"
+  },
+  {
+    "startTime": 516.572,
+    "endTime": 518.871,
+    "text": "I'll tell you about the history of it in science."
+  },
+  {
+    "startTime": 518.895,
+    "endTime": 520.804,
+    "text": "Look at other scientific revolutions --"
+  },
+  {
+    "startTime": 520.828,
+    "endTime": 522.707,
+    "text": "the solar system, that's Copernicus,"
+  },
+  {
+    "startTime": 522.732,
+    "endTime": 525.55,
+    "text": "Darwin's evolution, and tectonic plates, that's Wegener."
+  },
+  {
+    "startTime": 526.59,
+    "endTime": 528.3530000000001,
+    "text": "They all have a lot in common with brain science."
+  },
+  {
+    "startTime": 528.378,
+    "endTime": 531.44,
+    "text": "First, they had a lot of unexplained data. A lot of it."
+  },
+  {
+    "startTime": 531.68,
+    "endTime": 533.862,
+    "text": "But it got more manageable once they had a theory."
+  },
+  {
+    "startTime": 533.886,
+    "endTime": 536.693,
+    "text": "The best minds were stumped -- really smart people."
+  },
+  {
+    "startTime": 536.717,
+    "endTime": 538.721,
+    "text": "We're not smarter now than they were then;"
+  },
+  {
+    "startTime": 538.745,
+    "endTime": 541.272,
+    "text": "it just turns out it's really hard to think of things,"
+  },
+  {
+    "startTime": 541.296,
+    "endTime": 543.9720000000001,
+    "text": "but once you've thought of them, it's easy to understand."
+  },
+  {
+    "startTime": 543.996,
+    "endTime": 546.102,
+    "text": "My daughters understood these three theories,"
+  },
+  {
+    "startTime": 546.126,
+    "endTime": 548.644,
+    "text": "in their basic framework, in kindergarten."
+  },
+  {
+    "startTime": 548.668,
+    "endTime": 551.934,
+    "text": "It's not that hard -- here's the apple, here's the orange,"
+  },
+  {
+    "startTime": 551.958,
+    "endTime": 553.976,
+    "text": "the Earth goes around, that kind of stuff."
+  },
+  {
+    "startTime": 554.0,
+    "endTime": 556.586,
+    "text": "Another thing is the answer was there all along,"
+  },
+  {
+    "startTime": 556.61,
+    "endTime": 559.389,
+    "text": "but we kind of ignored it because of this obvious thing."
+  },
+  {
+    "startTime": 559.413,
+    "endTime": 562.263,
+    "text": "It was an intuitive, strongly held belief that was wrong."
+  },
+  {
+    "startTime": 562.287,
+    "endTime": 563.9770000000001,
+    "text": "In the case of the solar system,"
+  },
+  {
+    "startTime": 564.1,
+    "endTime": 565.761,
+    "text": "the idea that the Earth is spinning,"
+  },
+  {
+    "startTime": 565.785,
+    "endTime": 567.976,
+    "text": "the surface is going a thousand miles an hour,"
+  },
+  {
+    "startTime": 568.0,
+    "endTime": 571.249,
+    "text": "and it's going through the solar system at a million miles an hour --"
+  },
+  {
+    "startTime": 571.273,
+    "endTime": 573.749,
+    "text": "this is lunacy; we all know the Earth isn't moving."
+  },
+  {
+    "startTime": 573.773,
+    "endTime": 576.65,
+    "text": "Do you feel like you're moving a thousand miles an hour?"
+  },
+  {
+    "startTime": 576.674,
+    "endTime": 579.593,
+    "text": "If you said Earth was spinning around in space and was huge --"
+  },
+  {
+    "startTime": 579.617,
+    "endTime": 582.208,
+    "text": "they would lock you up, that's what they did back then."
+  },
+  {
+    "startTime": 582.232,
+    "endTime": 585.507,
+    "text": "So it was intuitive and obvious. Now, what about evolution?"
+  },
+  {
+    "startTime": 585.531,
+    "endTime": 586.685,
+    "text": "Evolution, same thing."
+  },
+  {
+    "startTime": 586.709,
+    "endTime": 589.789,
+    "text": "We taught our kids the Bible says God created all these species,"
+  },
+  {
+    "startTime": 589.813,
+    "endTime": 592.956,
+    "text": "cats are cats; dogs are dogs; people are people; plants are plants;"
+  },
+  {
+    "startTime": 592.98,
+    "endTime": 594.221,
+    "text": "they don't change."
+  },
+  {
+    "startTime": 594.245,
+    "endTime": 596.894,
+    "text": "Noah put them on the ark in that order, blah, blah."
+  },
+  {
+    "startTime": 596.918,
+    "endTime": 600.313,
+    "text": "The fact is, if you believe in evolution, we all have a common ancestor."
+  },
+  {
+    "startTime": 600.337,
+    "endTime": 603.619,
+    "text": "We all have a common ancestor with the plant in the lobby!"
+  },
+  {
+    "startTime": 603.643,
+    "endTime": 607.3290000000001,
+    "text": "This is what evolution tells us. And it's true. It's kind of unbelievable."
+  },
+  {
+    "startTime": 607.353,
+    "endTime": 609.91,
+    "text": "And the same thing about tectonic plates."
+  },
+  {
+    "startTime": 609.934,
+    "endTime": 611.656,
+    "text": "All the mountains and the continents"
+  },
+  {
+    "startTime": 611.68,
+    "endTime": 614.2399999999999,
+    "text": "are kind of floating around on top of the Earth."
+  },
+  {
+    "startTime": 614.48,
+    "endTime": 615.294,
+    "text": "It doesn't make any sense."
+  },
+  {
+    "startTime": 615.318,
+    "endTime": 619.919,
+    "text": "So what is the intuitive, but incorrect assumption,"
+  },
+  {
+    "startTime": 619.943,
+    "endTime": 621.91,
+    "text": "that's kept us from understanding brains?"
+  },
+  {
+    "startTime": 621.934,
+    "endTime": 625.227,
+    "text": "I'll tell you. It'll seem obvious that it's correct. That's the point."
+  },
+  {
+    "startTime": 625.251,
+    "endTime": 628.685,
+    "text": "Then I'll make an argument why you're incorrect on the other assumption."
+  },
+  {
+    "startTime": 628.709,
+    "endTime": 630.391,
+    "text": "The intuitive but obvious thing is:"
+  },
+  {
+    "startTime": 630.415,
+    "endTime": 632.728,
+    "text": "somehow, intelligence is defined by behavior;"
+  },
+  {
+    "startTime": 632.753,
+    "endTime": 635.1030000000001,
+    "text": "we're intelligent because of how we do things"
+  },
+  {
+    "startTime": 635.127,
+    "endTime": 636.699,
+    "text": "and how we behave intelligently."
+  },
+  {
+    "startTime": 636.723,
+    "endTime": 638.602,
+    "text": "And I'm going to tell you that's wrong."
+  },
+  {
+    "startTime": 638.626,
+    "endTime": 640.757,
+    "text": "Intelligence is defined by prediction."
+  },
+  {
+    "startTime": 640.781,
+    "endTime": 643.1949999999999,
+    "text": "I'm going to work you through this in a few slides,"
+  },
+  {
+    "startTime": 643.22,
+    "endTime": 645.3140000000001,
+    "text": "and give you an example of what this means."
+  },
+  {
+    "startTime": 645.338,
+    "endTime": 646.639,
+    "text": "Here's a system."
+  },
+  {
+    "startTime": 646.663,
+    "endTime": 649.571,
+    "text": "Engineers and scientists like to look at systems like this."
+  },
+  {
+    "startTime": 649.595,
+    "endTime": 652.758,
+    "text": "They say, we have a thing in a box. We have its inputs and outputs."
+  },
+  {
+    "startTime": 652.782,
+    "endTime": 656.22,
+    "text": "The AI people said, the thing in the box is a programmable computer,"
+  },
+  {
+    "startTime": 656.46,
+    "endTime": 657.725,
+    "text": "because it's equivalent to a brain."
+  },
+  {
+    "startTime": 657.749,
+    "endTime": 661.255,
+    "text": "We'll feed it some inputs and get it to do something, have some behavior."
+  },
+  {
+    "startTime": 661.279,
+    "endTime": 664.101,
+    "text": "Alan Turing defined the Turing test, which essentially says,"
+  },
+  {
+    "startTime": 664.125,
+    "endTime": 667.678,
+    "text": "we'll know if something's intelligent if it behaves identical to a human --"
+  },
+  {
+    "startTime": 667.702,
+    "endTime": 669.808,
+    "text": "a behavioral metric of what intelligence is"
+  },
+  {
+    "startTime": 669.832,
+    "endTime": 671.976,
+    "text": "that has stuck in our minds for a long time."
+  },
+  {
+    "startTime": 672.0,
+    "endTime": 674.392,
+    "text": "Reality, though -- I call it real intelligence."
+  },
+  {
+    "startTime": 674.416,
+    "endTime": 676.591,
+    "text": "Real intelligence is built on something else."
+  },
+  {
+    "startTime": 676.615,
+    "endTime": 679.8290000000001,
+    "text": "We experience the world through a sequence of patterns,"
+  },
+  {
+    "startTime": 679.853,
+    "endTime": 682.1999999999999,
+    "text": "and we store them, and we recall them."
+  },
+  {
+    "startTime": 682.26,
+    "endTime": 684.5699999999999,
+    "text": "When we recall them, we match them up against reality,"
+  },
+  {
+    "startTime": 684.595,
+    "endTime": 686.846,
+    "text": "and we're making predictions all the time."
+  },
+  {
+    "startTime": 686.87,
+    "endTime": 689.828,
+    "text": "It's an internal metric; there's an internal metric about us,"
+  },
+  {
+    "startTime": 689.852,
+    "endTime": 693.194,
+    "text": "saying, do we understand the world, am I making predictions, and so on."
+  },
+  {
+    "startTime": 693.218,
+    "endTime": 696.2189999999999,
+    "text": "You're all being intelligent now, but you're not doing anything."
+  },
+  {
+    "startTime": 696.244,
+    "endTime": 699.246,
+    "text": "Maybe you're scratching yourself, but you're not doing anything."
+  },
+  {
+    "startTime": 699.27,
+    "endTime": 702.425,
+    "text": "But you're being intelligent; you're understanding what I'm saying."
+  },
+  {
+    "startTime": 702.45,
+    "endTime": 704.745,
+    "text": "Because you're intelligent and you speak English,"
+  },
+  {
+    "startTime": 704.769,
+    "endTime": 706.52,
+    "text": "you know the word at the end of this"
+  },
+  {
+    "startTime": 706.544,
+    "endTime": 707.703,
+    "text": "sentence."
+  },
+  {
+    "startTime": 707.727,
+    "endTime": 710.879,
+    "text": "The word came to you; you make these predictions all the time."
+  },
+  {
+    "startTime": 710.903,
+    "endTime": 712.602,
+    "text": "What I'm saying is,"
+  },
+  {
+    "startTime": 712.626,
+    "endTime": 715.257,
+    "text": "the internal prediction is the output in the neocortex,"
+  },
+  {
+    "startTime": 715.281,
+    "endTime": 717.822,
+    "text": "and somehow, prediction leads to intelligent behavior."
+  },
+  {
+    "startTime": 717.846,
+    "endTime": 718.997,
+    "text": "Here's how that happens:"
+  },
+  {
+    "startTime": 719.21,
+    "endTime": 720.976,
+    "text": "Let's start with a non-intelligent brain."
+  },
+  {
+    "startTime": 721.0,
+    "endTime": 724.9,
+    "text": "I'll argue a non-intelligent brain, we'll call it an old brain."
+  },
+  {
+    "startTime": 724.33,
+    "endTime": 726.904,
+    "text": "And we'll say it's a non-mammal, like a reptile,"
+  },
+  {
+    "startTime": 726.928,
+    "endTime": 728.913,
+    "text": "say, an alligator; we have an alligator."
+  },
+  {
+    "startTime": 728.937,
+    "endTime": 732.308,
+    "text": "And the alligator has some very sophisticated senses."
+  },
+  {
+    "startTime": 732.332,
+    "endTime": 735.538,
+    "text": "It's got good eyes and ears and touch senses and so on,"
+  },
+  {
+    "startTime": 735.562,
+    "endTime": 737.3100000000001,
+    "text": "a mouth and a nose."
+  },
+  {
+    "startTime": 737.55,
+    "endTime": 739.4499999999999,
+    "text": "It has very complex behavior."
+  },
+  {
+    "startTime": 739.7,
+    "endTime": 742.976,
+    "text": "It can run and hide. It has fears and emotions. It can eat you."
+  },
+  {
+    "startTime": 743.0,
+    "endTime": 746.59,
+    "text": "It can attack. It can do all kinds of stuff."
+  },
+  {
+    "startTime": 747.193,
+    "endTime": 750.49,
+    "text": "But we don't consider the alligator very intelligent,"
+  },
+  {
+    "startTime": 750.73,
+    "endTime": 751.749,
+    "text": "not in a human sort of way."
+  },
+  {
+    "startTime": 751.773,
+    "endTime": 754.129,
+    "text": "But it has all this complex behavior already."
+  },
+  {
+    "startTime": 754.51,
+    "endTime": 756.311,
+    "text": "Now in evolution, what happened?"
+  },
+  {
+    "startTime": 756.335,
+    "endTime": 758.72,
+    "text": "First thing that happened in evolution with mammals"
+  },
+  {
+    "startTime": 758.744,
+    "endTime": 761.275,
+    "text": "is we started to develop a thing called the neocortex."
+  },
+  {
+    "startTime": 761.299,
+    "endTime": 765.92,
+    "text": "I'm going to represent the neocortex by this box on top of the old brain."
+  },
+  {
+    "startTime": 765.116,
+    "endTime": 768.468,
+    "text": "Neocortex means \"new layer.\" It's a new layer on top of your brain."
+  },
+  {
+    "startTime": 768.493,
+    "endTime": 770.836,
+    "text": "It's the wrinkly thing on the top of your head"
+  },
+  {
+    "startTime": 770.86,
+    "endTime": 773.944,
+    "text": "that got wrinkly because it got shoved in there and doesn't fit."
+  },
+  {
+    "startTime": 773.968,
+    "endTime": 774.976,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 775.0,
+    "endTime": 777.242,
+    "text": "Literally, it's about the size of a table napkin"
+  },
+  {
+    "startTime": 777.266,
+    "endTime": 778.8389999999999,
+    "text": "and doesn't fit, so it's wrinkly."
+  },
+  {
+    "startTime": 778.864,
+    "endTime": 780.609,
+    "text": "Now, look at how I've drawn this."
+  },
+  {
+    "startTime": 780.633,
+    "endTime": 782.19,
+    "text": "The old brain is still there."
+  },
+  {
+    "startTime": 782.43,
+    "endTime": 785.698,
+    "text": "You still have that alligator brain. You do. It's your emotional brain."
+  },
+  {
+    "startTime": 785.722,
+    "endTime": 788.452,
+    "text": "It's all those gut reactions you have."
+  },
+  {
+    "startTime": 788.476,
+    "endTime": 791.746,
+    "text": "On top of it, we have this memory system called the neocortex."
+  },
+  {
+    "startTime": 791.77,
+    "endTime": 796.64,
+    "text": "And the memory system is sitting over the sensory part of the brain."
+  },
+  {
+    "startTime": 796.88,
+    "endTime": 799.1419999999999,
+    "text": "So as the sensory input comes in and feeds from the old brain,"
+  },
+  {
+    "startTime": 799.167,
+    "endTime": 801.321,
+    "text": "it also goes up into the neocortex."
+  },
+  {
+    "startTime": 801.345,
+    "endTime": 803.258,
+    "text": "And the neocortex is just memorizing."
+  },
+  {
+    "startTime": 803.282,
+    "endTime": 806.8430000000001,
+    "text": "It's sitting there saying, I'm going to memorize all the things going on:"
+  },
+  {
+    "startTime": 806.867,
+    "endTime": 809.886,
+    "text": "where I've been, people I've seen, things I've heard, and so on."
+  },
+  {
+    "startTime": 809.91,
+    "endTime": 813.271,
+    "text": "And in the future, when it sees something similar to that again,"
+  },
+  {
+    "startTime": 813.296,
+    "endTime": 815.931,
+    "text": "in a similar environment, or the exact same environment,"
+  },
+  {
+    "startTime": 815.955,
+    "endTime": 819.51,
+    "text": "it'll start playing it back: \"Oh, I've been here before,\""
+  },
+  {
+    "startTime": 819.534,
+    "endTime": 821.898,
+    "text": "and when you were here before, this happened next."
+  },
+  {
+    "startTime": 821.922,
+    "endTime": 823.648,
+    "text": "It allows you to predict the future."
+  },
+  {
+    "startTime": 823.672,
+    "endTime": 827.6800000000001,
+    "text": "It literally feeds back the signals into your brain;"
+  },
+  {
+    "startTime": 827.92,
+    "endTime": 829.357,
+    "text": "they'll let you see what's going to happen next,"
+  },
+  {
+    "startTime": 829.381,
+    "endTime": 831.976,
+    "text": "will let you hear the word \"sentence\" before I said it."
+  },
+  {
+    "startTime": 832.0,
+    "endTime": 835.185,
+    "text": "And it's this feeding back into the old brain"
+  },
+  {
+    "startTime": 835.209,
+    "endTime": 837.786,
+    "text": "that will allow you to make more intelligent decisions."
+  },
+  {
+    "startTime": 837.81,
+    "endTime": 841.299,
+    "text": "This is the most important slide of my talk, so I'll dwell on it a little."
+  },
+  {
+    "startTime": 841.323,
+    "endTime": 844.898,
+    "text": "And all the time you say, \"Oh, I can predict things,\""
+  },
+  {
+    "startTime": 844.922,
+    "endTime": 848.282,
+    "text": "so if you're a rat and you go through a maze, and you learn the maze,"
+  },
+  {
+    "startTime": 848.306,
+    "endTime": 850.745,
+    "text": "next time you're in one, you have the same behavior."
+  },
+  {
+    "startTime": 850.769,
+    "endTime": 853.76,
+    "text": "But suddenly, you're smarter; you say, \"I recognize this maze,"
+  },
+  {
+    "startTime": 853.784,
+    "endTime": 857.326,
+    "text": "I know which way to go; I've been here before; I can envision the future.\""
+  },
+  {
+    "startTime": 857.35,
+    "endTime": 858.518,
+    "text": "That's what it's doing."
+  },
+  {
+    "startTime": 858.542,
+    "endTime": 861.3820000000001,
+    "text": "This is true for all mammals --"
+  },
+  {
+    "startTime": 861.406,
+    "endTime": 863.4359999999999,
+    "text": "in humans, it got a lot worse."
+  },
+  {
+    "startTime": 863.461,
+    "endTime": 866.48,
+    "text": "Humans actually developed the front of the neocortex,"
+  },
+  {
+    "startTime": 866.72,
+    "endTime": 868.293,
+    "text": "called the anterior part of the neocortex."
+  },
+  {
+    "startTime": 868.317,
+    "endTime": 869.755,
+    "text": "And nature did a little trick."
+  },
+  {
+    "startTime": 869.779,
+    "endTime": 872.466,
+    "text": "It copied the posterior, the back part, which is sensory,"
+  },
+  {
+    "startTime": 872.49,
+    "endTime": 873.641,
+    "text": "and put it in the front."
+  },
+  {
+    "startTime": 873.665,
+    "endTime": 876.145,
+    "text": "Humans uniquely have the same mechanism on the front,"
+  },
+  {
+    "startTime": 876.169,
+    "endTime": 877.723,
+    "text": "but we use it for motor control."
+  },
+  {
+    "startTime": 877.747,
+    "endTime": 881.328,
+    "text": "So we're now able to do very sophisticated motor planning, things like that."
+  },
+  {
+    "startTime": 881.352,
+    "endTime": 884.478,
+    "text": "I don't have time to explain, but to understand how a brain works,"
+  },
+  {
+    "startTime": 884.502,
+    "endTime": 888.39,
+    "text": "you have to understand how the first part of the mammalian neocortex works,"
+  },
+  {
+    "startTime": 888.63,
+    "endTime": 890.356,
+    "text": "how it is we store patterns and make predictions."
+  },
+  {
+    "startTime": 890.38,
+    "endTime": 892.568,
+    "text": "Let me give you a few examples of predictions."
+  },
+  {
+    "startTime": 892.592,
+    "endTime": 894.268,
+    "text": "I already said the word \"sentence.\""
+  },
+  {
+    "startTime": 894.292,
+    "endTime": 897.498,
+    "text": "In music, if you've heard a song before,"
+  },
+  {
+    "startTime": 897.522,
+    "endTime": 900.431,
+    "text": "when you hear it, the next note pops into your head already --"
+  },
+  {
+    "startTime": 900.455,
+    "endTime": 901.606,
+    "text": "you anticipate it."
+  },
+  {
+    "startTime": 901.63,
+    "endTime": 904.984,
+    "text": "With an album, at the end of a song, the next song pops into your head."
+  },
+  {
+    "startTime": 905.8,
+    "endTime": 907.313,
+    "text": "It happens all the time, you make predictions."
+  },
+  {
+    "startTime": 907.337,
+    "endTime": 910.376,
+    "text": "I have this thing called the \"altered door\" thought experiment."
+  },
+  {
+    "startTime": 910.4,
+    "endTime": 913.228,
+    "text": "It says, you have a door at home;"
+  },
+  {
+    "startTime": 913.253,
+    "endTime": 915.8000000000001,
+    "text": "when you're here, I'm changing it --"
+  },
+  {
+    "startTime": 915.32,
+    "endTime": 918.2280000000001,
+    "text": "I've got a guy back at your house right now, moving the door around,"
+  },
+  {
+    "startTime": 918.252,
+    "endTime": 920.2099999999999,
+    "text": "moving your doorknob over two inches."
+  },
+  {
+    "startTime": 920.45,
+    "endTime": 923.628,
+    "text": "When you go home tonight, you'll put your hand out, reach for the doorknob,"
+  },
+  {
+    "startTime": 923.653,
+    "endTime": 925.167,
+    "text": "notice it's in the wrong spot"
+  },
+  {
+    "startTime": 925.191,
+    "endTime": 926.878,
+    "text": "and go, \"Whoa, something happened.\""
+  },
+  {
+    "startTime": 926.902,
+    "endTime": 929.3000000000001,
+    "text": "It may take a second, but something happened."
+  },
+  {
+    "startTime": 929.27,
+    "endTime": 931.3,
+    "text": "I can change your doorknob in other ways --"
+  },
+  {
+    "startTime": 931.54,
+    "endTime": 934.295,
+    "text": "make it larger, smaller, change its brass to silver, make it a lever,"
+  },
+  {
+    "startTime": 934.319,
+    "endTime": 936.895,
+    "text": "I can change the door; put colors on, put windows in."
+  },
+  {
+    "startTime": 936.919,
+    "endTime": 939.6899999999999,
+    "text": "I can change a thousand things about your door"
+  },
+  {
+    "startTime": 939.94,
+    "endTime": 941.1020000000001,
+    "text": "and in the two seconds you take to open it,"
+  },
+  {
+    "startTime": 941.126,
+    "endTime": 942.848,
+    "text": "you'll notice something has changed."
+  },
+  {
+    "startTime": 942.872,
+    "endTime": 945.4549999999999,
+    "text": "Now, the engineering approach, the AI approach to this,"
+  },
+  {
+    "startTime": 945.48,
+    "endTime": 948.155,
+    "text": "is to build a door database with all the door attributes."
+  },
+  {
+    "startTime": 948.179,
+    "endTime": 950.997,
+    "text": "And as you go up to the door, we check them off one at time:"
+  },
+  {
+    "startTime": 951.22,
+    "endTime": 952.368,
+    "text": "door, door, color ..."
+  },
+  {
+    "startTime": 952.392,
+    "endTime": 954.4920000000001,
+    "text": "We don't do that. Your brain doesn't do that."
+  },
+  {
+    "startTime": 954.516,
+    "endTime": 957.55,
+    "text": "Your brain is making constant predictions all the time"
+  },
+  {
+    "startTime": 957.8,
+    "endTime": 959.1139999999999,
+    "text": "about what will happen in your environment."
+  },
+  {
+    "startTime": 959.138,
+    "endTime": 961.884,
+    "text": "As I put my hand on this table, I expect to feel it stop."
+  },
+  {
+    "startTime": 961.908,
+    "endTime": 964.927,
+    "text": "When I walk, every step, if I missed it by an eighth of an inch,"
+  },
+  {
+    "startTime": 964.951,
+    "endTime": 966.484,
+    "text": "I'll know something has changed."
+  },
+  {
+    "startTime": 966.508,
+    "endTime": 969.3280000000001,
+    "text": "You're constantly making predictions about your environment."
+  },
+  {
+    "startTime": 969.352,
+    "endTime": 970.944,
+    "text": "I'll talk about vision, briefly."
+  },
+  {
+    "startTime": 970.969,
+    "endTime": 972.3520000000001,
+    "text": "This is a picture of a woman."
+  },
+  {
+    "startTime": 972.376,
+    "endTime": 975.866,
+    "text": "When we look at people, our eyes saccade over two to three times a second."
+  },
+  {
+    "startTime": 975.89,
+    "endTime": 978.419,
+    "text": "We're not aware of it, but our eyes are always moving."
+  },
+  {
+    "startTime": 978.443,
+    "endTime": 981.877,
+    "text": "When we look at a face, we typically go from eye to eye to nose to mouth."
+  },
+  {
+    "startTime": 981.902,
+    "endTime": 983.7710000000001,
+    "text": "When your eye moves from eye to eye,"
+  },
+  {
+    "startTime": 983.795,
+    "endTime": 985.953,
+    "text": "if there was something else there like a nose,"
+  },
+  {
+    "startTime": 985.977,
+    "endTime": 989.523,
+    "text": "you'd see a nose where an eye is supposed to be and go, \"Oh, shit!\""
+  },
+  {
+    "startTime": 989.547,
+    "endTime": 990.943,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 990.967,
+    "endTime": 993.76,
+    "text": "\"There's something wrong about this person.\""
+  },
+  {
+    "startTime": 993.1,
+    "endTime": 995.105,
+    "text": "That's because you're making a prediction."
+  },
+  {
+    "startTime": 995.129,
+    "endTime": 998.568,
+    "text": "It's not like you just look over and say, \"What am I seeing? A nose? OK.\""
+  },
+  {
+    "startTime": 998.592,
+    "endTime": 1001.226,
+    "text": "No, you have an expectation of what you're going to see."
+  },
+  {
+    "startTime": 1001.25,
+    "endTime": 1002.401,
+    "text": "Every single moment."
+  },
+  {
+    "startTime": 1002.42,
+    "endTime": 1005.535,
+    "text": "And finally, let's think about how we test intelligence."
+  },
+  {
+    "startTime": 1005.78,
+    "endTime": 1008.159,
+    "text": "We test it by prediction: What is the next word in this ...?"
+  },
+  {
+    "startTime": 1008.18,
+    "endTime": 1011.8069999999999,
+    "text": "This is to this as this is to this. What is the next number in this sentence?"
+  },
+  {
+    "startTime": 1011.83,
+    "endTime": 1014.5200000000001,
+    "text": "Here's three visions of an object. What's the fourth one?"
+  },
+  {
+    "startTime": 1014.55,
+    "endTime": 1017.5219999999999,
+    "text": "That's how we test it. It's all about prediction."
+  },
+  {
+    "startTime": 1017.57,
+    "endTime": 1019.763,
+    "text": "So what is the recipe for brain theory?"
+  },
+  {
+    "startTime": 1020.22,
+    "endTime": 1022.586,
+    "text": "First of all, we have to have the right framework."
+  },
+  {
+    "startTime": 1022.61,
+    "endTime": 1024.522,
+    "text": "And the framework is a memory framework,"
+  },
+  {
+    "startTime": 1024.55,
+    "endTime": 1026.5729999999999,
+    "text": "not a computational or behavior framework,"
+  },
+  {
+    "startTime": 1026.59,
+    "endTime": 1027.753,
+    "text": "it's a memory framework."
+  },
+  {
+    "startTime": 1027.78,
+    "endTime": 1030.403,
+    "text": "How do you store and recall these sequences of patterns?"
+  },
+  {
+    "startTime": 1030.43,
+    "endTime": 1031.872,
+    "text": "It's spatiotemporal patterns."
+  },
+  {
+    "startTime": 1031.89,
+    "endTime": 1034.8990000000001,
+    "text": "Then, if in that framework, you take a bunch of theoreticians --"
+  },
+  {
+    "startTime": 1034.93,
+    "endTime": 1037.1770000000001,
+    "text": "biologists generally are not good theoreticians."
+  },
+  {
+    "startTime": 1037.2,
+    "endTime": 1040.729,
+    "text": "Not always, but generally, there's not a good history of theory in biology."
+  },
+  {
+    "startTime": 1040.75,
+    "endTime": 1043.324,
+    "text": "I've found the best people to work with are physicists,"
+  },
+  {
+    "startTime": 1043.35,
+    "endTime": 1044.733,
+    "text": "engineers and mathematicians,"
+  },
+  {
+    "startTime": 1044.76,
+    "endTime": 1046.456,
+    "text": "who tend to think algorithmically."
+  },
+  {
+    "startTime": 1046.47,
+    "endTime": 1049.734,
+    "text": "Then they have to learn the anatomy and the physiology."
+  },
+  {
+    "startTime": 1049.76,
+    "endTime": 1054.256,
+    "text": "You have to make these theories very realistic in anatomical terms."
+  },
+  {
+    "startTime": 1054.28,
+    "endTime": 1057.4769999999999,
+    "text": "Anyone who tells you their theory about how the brain works"
+  },
+  {
+    "startTime": 1057.72,
+    "endTime": 1059.1680000000001,
+    "text": "and doesn't tell you exactly how it's working"
+  },
+  {
+    "startTime": 1059.19,
+    "endTime": 1060.4930000000002,
+    "text": "and how the wiring works --"
+  },
+  {
+    "startTime": 1060.52,
+    "endTime": 1061.787,
+    "text": "it's not a theory."
+  },
+  {
+    "startTime": 1061.81,
+    "endTime": 1064.643,
+    "text": "And that's what we do at the Redwood Neuroscience Institute."
+  },
+  {
+    "startTime": 1064.67,
+    "endTime": 1067.978,
+    "text": "I'd love to tell you we're making fantastic progress in this thing,"
+  },
+  {
+    "startTime": 1068.0,
+    "endTime": 1071.662,
+    "text": "and I expect to be back on this stage sometime in the not too distant future,"
+  },
+  {
+    "startTime": 1071.69,
+    "endTime": 1072.854,
+    "text": "to tell you about it."
+  },
+  {
+    "startTime": 1072.87,
+    "endTime": 1075.464,
+    "text": "I'm really excited; this is not going to take 50 years."
+  },
+  {
+    "startTime": 1075.49,
+    "endTime": 1077.698,
+    "text": "What will brain theory look like?"
+  },
+  {
+    "startTime": 1077.94,
+    "endTime": 1079.1490000000001,
+    "text": "First of all, it's going to be about memory."
+  },
+  {
+    "startTime": 1079.17,
+    "endTime": 1081.992,
+    "text": "Not like computer memory -- not at all like computer memory."
+  },
+  {
+    "startTime": 1082.19,
+    "endTime": 1083.17,
+    "text": "It's very different."
+  },
+  {
+    "startTime": 1083.19,
+    "endTime": 1085.4470000000001,
+    "text": "It's a memory of very high-dimensional patterns,"
+  },
+  {
+    "startTime": 1085.47,
+    "endTime": 1087.432,
+    "text": "like the things that come from your eyes."
+  },
+  {
+    "startTime": 1087.46,
+    "endTime": 1088.897,
+    "text": "It's also memory of sequences:"
+  },
+  {
+    "startTime": 1088.92,
+    "endTime": 1091.65,
+    "text": "you cannot learn or recall anything outside of a sequence."
+  },
+  {
+    "startTime": 1091.68,
+    "endTime": 1094.517,
+    "text": "A song must be heard in sequence over time,"
+  },
+  {
+    "startTime": 1094.54,
+    "endTime": 1096.891,
+    "text": "and you must play it back in sequence over time."
+  },
+  {
+    "startTime": 1096.91,
+    "endTime": 1099.3590000000002,
+    "text": "And these sequences are auto-associatively recalled,"
+  },
+  {
+    "startTime": 1099.39,
+    "endTime": 1102.2630000000001,
+    "text": "so if I see something, I hear something, it reminds me of it,"
+  },
+  {
+    "startTime": 1102.28,
+    "endTime": 1103.812,
+    "text": "and it plays back automatically."
+  },
+  {
+    "startTime": 1103.84,
+    "endTime": 1105.134,
+    "text": "It's an automatic playback."
+  },
+  {
+    "startTime": 1105.16,
+    "endTime": 1107.708,
+    "text": "And prediction of future inputs is the desired output."
+  },
+  {
+    "startTime": 1107.73,
+    "endTime": 1110.35,
+    "text": "And as I said, the theory must be biologically accurate,"
+  },
+  {
+    "startTime": 1110.37,
+    "endTime": 1112.8539999999998,
+    "text": "it must be testable and you must be able to build it."
+  },
+  {
+    "startTime": 1112.88,
+    "endTime": 1115.919,
+    "text": "If you don't build it, you don't understand it."
+  },
+  {
+    "startTime": 1115.12,
+    "endTime": 1116.6519999999998,
+    "text": "One more slide."
+  },
+  {
+    "startTime": 1116.67,
+    "endTime": 1118.979,
+    "text": "What is this going to result in?"
+  },
+  {
+    "startTime": 1119.5,
+    "endTime": 1121.353,
+    "text": "Are we going to really build intelligent machines?"
+  },
+  {
+    "startTime": 1121.38,
+    "endTime": 1125.178,
+    "text": "Absolutely. And it's going to be different than people think."
+  },
+  {
+    "startTime": 1125.51,
+    "endTime": 1127.902,
+    "text": "No doubt that it's going to happen, in my mind."
+  },
+  {
+    "startTime": 1127.92,
+    "endTime": 1131.3960000000002,
+    "text": "First of all, we're going to build this stuff out of silicon."
+  },
+  {
+    "startTime": 1131.64,
+    "endTime": 1133.976,
+    "text": "The same techniques we use to build silicon computer memories,"
+  },
+  {
+    "startTime": 1134.0,
+    "endTime": 1135.151,
+    "text": "we can use here."
+  },
+  {
+    "startTime": 1135.18,
+    "endTime": 1137.288,
+    "text": "But they're very different types of memories."
+  },
+  {
+    "startTime": 1137.31,
+    "endTime": 1139.3329999999999,
+    "text": "And we'll attach these memories to sensors,"
+  },
+  {
+    "startTime": 1139.35,
+    "endTime": 1142.127,
+    "text": "and the sensors will experience real-live, real-world data,"
+  },
+  {
+    "startTime": 1142.16,
+    "endTime": 1143.912,
+    "text": "and learn about their environment."
+  },
+  {
+    "startTime": 1143.93,
+    "endTime": 1147.375,
+    "text": "Now, it's very unlikely the first things you'll see are like robots."
+  },
+  {
+    "startTime": 1147.4,
+    "endTime": 1149.9750000000001,
+    "text": "Not that robots aren't useful; people can build robots."
+  },
+  {
+    "startTime": 1150.0,
+    "endTime": 1153.767,
+    "text": "But the robotics part is the hardest part. That's old brain. That's really hard."
+  },
+  {
+    "startTime": 1153.79,
+    "endTime": 1155.797,
+    "text": "The new brain is easier than the old brain."
+  },
+  {
+    "startTime": 1155.82,
+    "endTime": 1158.902,
+    "text": "So first we'll do things that don't require a lot of robotics."
+  },
+  {
+    "startTime": 1158.93,
+    "endTime": 1161.1090000000002,
+    "text": "So you're not going to see C-3PO."
+  },
+  {
+    "startTime": 1161.13,
+    "endTime": 1163.615,
+    "text": "You're going to see things more like intelligent cars"
+  },
+  {
+    "startTime": 1163.64,
+    "endTime": 1166.448,
+    "text": "that really understand what traffic is, what driving is"
+  },
+  {
+    "startTime": 1166.47,
+    "endTime": 1169.748,
+    "text": "and have learned that cars with the blinkers on for half a minute"
+  },
+  {
+    "startTime": 1169.77,
+    "endTime": 1171.344,
+    "text": "probably aren't going to turn."
+  },
+  {
+    "startTime": 1171.37,
+    "endTime": 1172.6609999999998,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 1172.69,
+    "endTime": 1174.7540000000001,
+    "text": "We can also do intelligent security systems."
+  },
+  {
+    "startTime": 1174.78,
+    "endTime": 1178.353,
+    "text": "Anytime we're basically using our brain but not doing a lot of mechanics --"
+  },
+  {
+    "startTime": 1178.37,
+    "endTime": 1180.4289999999999,
+    "text": "those are the things that will happen first."
+  },
+  {
+    "startTime": 1180.45,
+    "endTime": 1182.269,
+    "text": "But ultimately, the world's the limit."
+  },
+  {
+    "startTime": 1182.3,
+    "endTime": 1184.311,
+    "text": "I don't know how this will turn out."
+  },
+  {
+    "startTime": 1184.55,
+    "endTime": 1186.646,
+    "text": "I know a lot of people who invented the microprocessor."
+  },
+  {
+    "startTime": 1186.67,
+    "endTime": 1188.834,
+    "text": "And if you talk to them,"
+  },
+  {
+    "startTime": 1188.86,
+    "endTime": 1191.435,
+    "text": "they knew what they were doing was really significant,"
+  },
+  {
+    "startTime": 1191.46,
+    "endTime": 1193.96,
+    "text": "but they didn't really know what was going to happen."
+  },
+  {
+    "startTime": 1193.98,
+    "endTime": 1196.748,
+    "text": "They couldn't anticipate cell phones and the Internet"
+  },
+  {
+    "startTime": 1196.77,
+    "endTime": 1198.504,
+    "text": "and all this kind of stuff."
+  },
+  {
+    "startTime": 1198.53,
+    "endTime": 1201.151,
+    "text": "They just knew like, \"We're going to build calculators"
+  },
+  {
+    "startTime": 1201.18,
+    "endTime": 1202.6200000000001,
+    "text": "and traffic-light controllers."
+  },
+  {
+    "startTime": 1202.64,
+    "endTime": 1203.939,
+    "text": "But it's going to be big!\""
+  },
+  {
+    "startTime": 1203.96,
+    "endTime": 1206.3,
+    "text": "In the same way, brain science and these memories"
+  },
+  {
+    "startTime": 1206.33,
+    "endTime": 1208.5539999999999,
+    "text": "are going to be a very fundamental technology,"
+  },
+  {
+    "startTime": 1208.58,
+    "endTime": 1212.202,
+    "text": "and it will lead to unbelievable changes in the next 100 years."
+  },
+  {
+    "startTime": 1212.44,
+    "endTime": 1215.449,
+    "text": "And I'm most excited about how we're going to use them in science."
+  },
+  {
+    "startTime": 1215.47,
+    "endTime": 1218.307,
+    "text": "So I think that's all my time -- I'm over,"
+  },
+  {
+    "startTime": 1218.33,
+    "endTime": 1220.607,
+    "text": "and I'm going to end my talk right there."
+  }
+]

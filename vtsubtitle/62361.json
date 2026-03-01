@@ -1,0 +1,1757 @@
+[
+  {
+    "startTime": 12.16,
+    "endTime": 16.16,
+    "text": "Last year, I told you the story, in seven minutes, of Project Orion,"
+  },
+  {
+    "startTime": 16.16,
+    "endTime": 18.16,
+    "text": "which was this very implausible technology"
+  },
+  {
+    "startTime": 18.16,
+    "endTime": 22.16,
+    "text": "that technically could have worked,"
+  },
+  {
+    "startTime": 22.16,
+    "endTime": 26.16,
+    "text": "but it had this one-year political window where it could have happened."
+  },
+  {
+    "startTime": 26.16,
+    "endTime": 28.16,
+    "text": "So it didn't happen. It was a dream that did not happen."
+  },
+  {
+    "startTime": 28.16,
+    "endTime": 33.16,
+    "text": "This year I'm going to tell you the story of the birth of digital computing."
+  },
+  {
+    "startTime": 33.16,
+    "endTime": 35.16,
+    "text": "This was a perfect introduction."
+  },
+  {
+    "startTime": 35.16,
+    "endTime": 37.16,
+    "text": "And it's a story that did work. It did happen,"
+  },
+  {
+    "startTime": 37.16,
+    "endTime": 39.16,
+    "text": "and the machines are all around us."
+  },
+  {
+    "startTime": 39.16,
+    "endTime": 43.16,
+    "text": "And it was a technology that was inevitable."
+  },
+  {
+    "startTime": 43.16,
+    "endTime": 45.16,
+    "text": "If the people I'm going to tell you the story about,"
+  },
+  {
+    "startTime": 45.16,
+    "endTime": 47.16,
+    "text": "if they hadn't done it, somebody else would have."
+  },
+  {
+    "startTime": 47.16,
+    "endTime": 51.16,
+    "text": "So, it was sort of the right idea at the right time."
+  },
+  {
+    "startTime": 51.16,
+    "endTime": 54.16,
+    "text": "This is Barricelli's universe. This is the universe we live in now."
+  },
+  {
+    "startTime": 54.16,
+    "endTime": 56.16,
+    "text": "It's the universe in which these machines"
+  },
+  {
+    "startTime": 56.16,
+    "endTime": 62.16,
+    "text": "are now doing all these things, including changing biology."
+  },
+  {
+    "startTime": 62.16,
+    "endTime": 67.16,
+    "text": "I'm starting the story with the first atomic bomb at Trinity,"
+  },
+  {
+    "startTime": 67.16,
+    "endTime": 69.16,
+    "text": "which was the Manhattan Project. It was a little bit like TED:"
+  },
+  {
+    "startTime": 69.16,
+    "endTime": 72.16,
+    "text": "it brought a whole lot of very smart people together."
+  },
+  {
+    "startTime": 72.16,
+    "endTime": 74.16,
+    "text": "And three of the smartest people were"
+  },
+  {
+    "startTime": 74.16,
+    "endTime": 78.16,
+    "text": "Stan Ulam, Richard Feynman and John von Neumann."
+  },
+  {
+    "startTime": 78.16,
+    "endTime": 80.16,
+    "text": "And it was Von Neumann who said, after the bomb,"
+  },
+  {
+    "startTime": 80.16,
+    "endTime": 84.16,
+    "text": "he was working on something much more important than bombs:"
+  },
+  {
+    "startTime": 84.16,
+    "endTime": 86.16,
+    "text": "he's thinking about computers."
+  },
+  {
+    "startTime": 86.16,
+    "endTime": 90.16,
+    "text": "So, he wasn't only thinking about them; he built one. This is the machine he built."
+  },
+  {
+    "startTime": 90.16,
+    "endTime": 94.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 94.16,
+    "endTime": 96.16,
+    "text": "He built this machine,"
+  },
+  {
+    "startTime": 96.16,
+    "endTime": 99.16,
+    "text": "and we had a beautiful demonstration of how this thing really works,"
+  },
+  {
+    "startTime": 99.16,
+    "endTime": 102.16,
+    "text": "with these little bits. And it's an idea that goes way back."
+  },
+  {
+    "startTime": 102.16,
+    "endTime": 105.16,
+    "text": "The first person to really explain that"
+  },
+  {
+    "startTime": 105.16,
+    "endTime": 108.16,
+    "text": "was Thomas Hobbes, who, in 1651,"
+  },
+  {
+    "startTime": 108.16,
+    "endTime": 111.16,
+    "text": "explained how arithmetic and logic are the same thing,"
+  },
+  {
+    "startTime": 111.16,
+    "endTime": 114.16,
+    "text": "and if you want to do artificial thinking and artificial logic,"
+  },
+  {
+    "startTime": 114.16,
+    "endTime": 116.16,
+    "text": "you can do it all with arithmetic."
+  },
+  {
+    "startTime": 116.16,
+    "endTime": 120.16,
+    "text": "He said you needed addition and subtraction."
+  },
+  {
+    "startTime": 120.16,
+    "endTime": 124.16,
+    "text": "Leibniz, who came a little bit later -- this is 1679 --"
+  },
+  {
+    "startTime": 124.16,
+    "endTime": 126.16,
+    "text": "showed that you didn't even need subtraction."
+  },
+  {
+    "startTime": 126.16,
+    "endTime": 128.16,
+    "text": "You could do the whole thing with addition."
+  },
+  {
+    "startTime": 128.16,
+    "endTime": 131.16,
+    "text": "Here, we have all the binary arithmetic and logic"
+  },
+  {
+    "startTime": 131.16,
+    "endTime": 133.16,
+    "text": "that drove the computer revolution."
+  },
+  {
+    "startTime": 133.16,
+    "endTime": 137.16,
+    "text": "And Leibniz was the first person to really talk about building such a machine."
+  },
+  {
+    "startTime": 137.16,
+    "endTime": 139.16,
+    "text": "He talked about doing it with marbles,"
+  },
+  {
+    "startTime": 139.16,
+    "endTime": 141.16,
+    "text": "having gates and what we now call shift registers,"
+  },
+  {
+    "startTime": 141.16,
+    "endTime": 144.16,
+    "text": "where you shift the gates, drop the marbles down the tracks."
+  },
+  {
+    "startTime": 144.16,
+    "endTime": 146.16,
+    "text": "And that's what all these machines are doing,"
+  },
+  {
+    "startTime": 146.16,
+    "endTime": 148.16,
+    "text": "except, instead of doing it with marbles,"
+  },
+  {
+    "startTime": 148.16,
+    "endTime": 150.16,
+    "text": "they're doing it with electrons."
+  },
+  {
+    "startTime": 150.16,
+    "endTime": 154.16,
+    "text": "And then we jump to Von Neumann, 1945,"
+  },
+  {
+    "startTime": 154.16,
+    "endTime": 156.16,
+    "text": "when he sort of reinvents the whole same thing."
+  },
+  {
+    "startTime": 156.16,
+    "endTime": 159.16,
+    "text": "And 1945, after the war, the electronics existed"
+  },
+  {
+    "startTime": 159.16,
+    "endTime": 162.16,
+    "text": "to actually try and build such a machine."
+  },
+  {
+    "startTime": 162.16,
+    "endTime": 166.16,
+    "text": "So June 1945 -- actually, the bomb hasn't even been dropped yet --"
+  },
+  {
+    "startTime": 166.16,
+    "endTime": 170.16,
+    "text": "and Von Neumann is putting together all the theory to actually build this thing,"
+  },
+  {
+    "startTime": 170.16,
+    "endTime": 172.16,
+    "text": "which also goes back to Turing,"
+  },
+  {
+    "startTime": 172.16,
+    "endTime": 175.16,
+    "text": "who, before that, gave the idea that you could do all this"
+  },
+  {
+    "startTime": 175.16,
+    "endTime": 179.16,
+    "text": "with a very brainless, little, finite state machine,"
+  },
+  {
+    "startTime": 179.16,
+    "endTime": 182.16,
+    "text": "just reading a tape in and reading a tape out."
+  },
+  {
+    "startTime": 182.16,
+    "endTime": 185.16,
+    "text": "The other sort of genesis of what Von Neumann did"
+  },
+  {
+    "startTime": 185.16,
+    "endTime": 189.16,
+    "text": "was the difficulty of how you would predict the weather."
+  },
+  {
+    "startTime": 189.16,
+    "endTime": 193.16,
+    "text": "Lewis Richardson saw how you could do this with a cellular array of people,"
+  },
+  {
+    "startTime": 193.16,
+    "endTime": 196.16,
+    "text": "giving them each a little chunk, and putting it together."
+  },
+  {
+    "startTime": 196.16,
+    "endTime": 199.16,
+    "text": "Here, we have an electrical model illustrating a mind having a will,"
+  },
+  {
+    "startTime": 199.16,
+    "endTime": 201.16,
+    "text": "but capable of only two ideas."
+  },
+  {
+    "startTime": 201.16,
+    "endTime": 202.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 202.16,
+    "endTime": 205.16,
+    "text": "And that's really the simplest computer."
+  },
+  {
+    "startTime": 205.16,
+    "endTime": 207.16,
+    "text": "It's basically why you need the qubit,"
+  },
+  {
+    "startTime": 207.16,
+    "endTime": 209.16,
+    "text": "because it only has two ideas."
+  },
+  {
+    "startTime": 209.16,
+    "endTime": 211.16,
+    "text": "And you put lots of those together,"
+  },
+  {
+    "startTime": 211.16,
+    "endTime": 214.16,
+    "text": "you get the essentials of the modern computer:"
+  },
+  {
+    "startTime": 214.16,
+    "endTime": 217.16,
+    "text": "the arithmetic unit, the central control, the memory,"
+  },
+  {
+    "startTime": 217.16,
+    "endTime": 220.16,
+    "text": "the recording medium, the input and the output."
+  },
+  {
+    "startTime": 220.16,
+    "endTime": 224.16,
+    "text": "But, there's one catch. This is the fatal -- you know,"
+  },
+  {
+    "startTime": 224.16,
+    "endTime": 227.16,
+    "text": "we saw it in starting these programs up."
+  },
+  {
+    "startTime": 227.16,
+    "endTime": 229.16,
+    "text": "The instructions which govern this operation"
+  },
+  {
+    "startTime": 229.16,
+    "endTime": 231.16,
+    "text": "must be given in absolutely exhaustive detail."
+  },
+  {
+    "startTime": 231.16,
+    "endTime": 234.16,
+    "text": "So, the programming has to be perfect, or it won't work."
+  },
+  {
+    "startTime": 234.16,
+    "endTime": 236.16,
+    "text": "If you look at the origins of this,"
+  },
+  {
+    "startTime": 236.16,
+    "endTime": 240.16,
+    "text": "the classic history sort of takes it all back to the ENIAC here."
+  },
+  {
+    "startTime": 240.16,
+    "endTime": 242.16,
+    "text": "But actually, the machine I'm going to tell you about,"
+  },
+  {
+    "startTime": 242.16,
+    "endTime": 245.16,
+    "text": "the Institute for Advanced Study machine, which is way up there,"
+  },
+  {
+    "startTime": 245.16,
+    "endTime": 247.16,
+    "text": "really should be down there. So, I'm trying to revise history,"
+  },
+  {
+    "startTime": 247.16,
+    "endTime": 250.16,
+    "text": "and give some of these guys more credit than they've had."
+  },
+  {
+    "startTime": 250.16,
+    "endTime": 252.16,
+    "text": "Such a computer would open up universes,"
+  },
+  {
+    "startTime": 252.16,
+    "endTime": 256.159,
+    "text": "which are, at the present, outside the range of any instruments."
+  },
+  {
+    "startTime": 256.16,
+    "endTime": 259.16,
+    "text": "So it opens up a whole new world, and these people saw it."
+  },
+  {
+    "startTime": 259.16,
+    "endTime": 261.16,
+    "text": "The guy who was supposed to build this machine"
+  },
+  {
+    "startTime": 261.16,
+    "endTime": 264.16,
+    "text": "was the guy in the middle, Vladimir Zworykin, from RCA."
+  },
+  {
+    "startTime": 264.16,
+    "endTime": 267.16,
+    "text": "RCA, in probably one of the lousiest business decisions"
+  },
+  {
+    "startTime": 267.16,
+    "endTime": 270.16,
+    "text": "of all time, decided not to go into computers."
+  },
+  {
+    "startTime": 270.16,
+    "endTime": 275.16,
+    "text": "But the first meetings, November 1945, were at RCA's offices."
+  },
+  {
+    "startTime": 275.16,
+    "endTime": 279.16,
+    "text": "RCA started this whole thing off, and said, you know,"
+  },
+  {
+    "startTime": 279.16,
+    "endTime": 282.16,
+    "text": "televisions are the future, not computers."
+  },
+  {
+    "startTime": 282.16,
+    "endTime": 284.16,
+    "text": "The essentials were all there --"
+  },
+  {
+    "startTime": 284.16,
+    "endTime": 288.16,
+    "text": "all the things that make these machines run."
+  },
+  {
+    "startTime": 288.16,
+    "endTime": 291.16,
+    "text": "Von Neumann, and a logician, and a mathematician from the army"
+  },
+  {
+    "startTime": 291.16,
+    "endTime": 293.16,
+    "text": "put this together. Then, they needed a place to build it."
+  },
+  {
+    "startTime": 293.16,
+    "endTime": 297.16,
+    "text": "When RCA said no, that's when they decided to build it in Princeton,"
+  },
+  {
+    "startTime": 297.16,
+    "endTime": 299.16,
+    "text": "where Freeman works at the Institute."
+  },
+  {
+    "startTime": 299.16,
+    "endTime": 301.16,
+    "text": "That's where I grew up as a kid."
+  },
+  {
+    "startTime": 301.16,
+    "endTime": 305.16,
+    "text": "That's me, that's my sister Esther, who's talked to you before,"
+  },
+  {
+    "startTime": 305.16,
+    "endTime": 308.16,
+    "text": "so we both go back to the birth of this thing."
+  },
+  {
+    "startTime": 308.16,
+    "endTime": 310.16,
+    "text": "That's Freeman, a long time ago,"
+  },
+  {
+    "startTime": 310.16,
+    "endTime": 311.16,
+    "text": "and that was me."
+  },
+  {
+    "startTime": 311.16,
+    "endTime": 314.16,
+    "text": "And this is Von Neumann and Morgenstern,"
+  },
+  {
+    "startTime": 314.16,
+    "endTime": 316.16,
+    "text": "who wrote the \"Theory of Games.\""
+  },
+  {
+    "startTime": 316.16,
+    "endTime": 320.16,
+    "text": "All these forces came together there, in Princeton."
+  },
+  {
+    "startTime": 320.16,
+    "endTime": 322.16,
+    "text": "Oppenheimer, who had built the bomb."
+  },
+  {
+    "startTime": 322.16,
+    "endTime": 326.16,
+    "text": "The machine was actually used mainly for doing bomb calculations."
+  },
+  {
+    "startTime": 326.16,
+    "endTime": 328.16,
+    "text": "And Julian Bigelow, who took"
+  },
+  {
+    "startTime": 328.16,
+    "endTime": 332.16,
+    "text": "Zworkykin's place as the engineer, to actually figure out, using electronics,"
+  },
+  {
+    "startTime": 332.16,
+    "endTime": 335.16,
+    "text": "how you would build this thing. The whole gang of people who came to work on this,"
+  },
+  {
+    "startTime": 335.16,
+    "endTime": 340.16,
+    "text": "and women in front, who actually did most of the coding, were the first programmers."
+  },
+  {
+    "startTime": 340.16,
+    "endTime": 344.16,
+    "text": "These were the prototype geeks, the nerds."
+  },
+  {
+    "startTime": 344.16,
+    "endTime": 346.16,
+    "text": "They didn't fit in at the Institute."
+  },
+  {
+    "startTime": 346.16,
+    "endTime": 349.16,
+    "text": "This is a letter from the director, concerned about --"
+  },
+  {
+    "startTime": 349.16,
+    "endTime": 352.16,
+    "text": "\"especially unfair on the matter of sugar.\""
+  },
+  {
+    "startTime": 352.16,
+    "endTime": 353.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 353.16,
+    "endTime": 354.16,
+    "text": "You can read the text."
+  },
+  {
+    "startTime": 354.16,
+    "endTime": 360.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 360.16,
+    "endTime": 364.16,
+    "text": "This is hackers getting in trouble for the first time."
+  },
+  {
+    "startTime": 364.16,
+    "endTime": 369.16,
+    "text": "(Laughter)."
+  },
+  {
+    "startTime": 369.16,
+    "endTime": 371.16,
+    "text": "These were not theoretical physicists."
+  },
+  {
+    "startTime": 371.16,
+    "endTime": 376.16,
+    "text": "They were real soldering-gun type guys, and they actually built this thing."
+  },
+  {
+    "startTime": 376.16,
+    "endTime": 378.16,
+    "text": "And we take it for granted now, that each of these machines"
+  },
+  {
+    "startTime": 378.16,
+    "endTime": 383.16,
+    "text": "has billions of transistors, doing billions of cycles per second without failing."
+  },
+  {
+    "startTime": 383.16,
+    "endTime": 387.16,
+    "text": "They were using vacuum tubes, very narrow, sloppy techniques"
+  },
+  {
+    "startTime": 387.16,
+    "endTime": 392.16,
+    "text": "to get actually binary behavior out of these radio vacuum tubes."
+  },
+  {
+    "startTime": 392.16,
+    "endTime": 395.16,
+    "text": "They actually used 6J6, the common radio tube,"
+  },
+  {
+    "startTime": 395.16,
+    "endTime": 399.16,
+    "text": "because they found they were more reliable than the more expensive tubes."
+  },
+  {
+    "startTime": 399.16,
+    "endTime": 403.16,
+    "text": "And what they did at the Institute was publish every step of the way."
+  },
+  {
+    "startTime": 403.16,
+    "endTime": 406.16,
+    "text": "Reports were issued, so that this machine was cloned"
+  },
+  {
+    "startTime": 406.16,
+    "endTime": 409.16,
+    "text": "at 15 other places around the world."
+  },
+  {
+    "startTime": 409.16,
+    "endTime": 413.16,
+    "text": "And it really was. It was the original microprocessor."
+  },
+  {
+    "startTime": 413.16,
+    "endTime": 415.16,
+    "text": "All the computers now are copies of that machine."
+  },
+  {
+    "startTime": 415.16,
+    "endTime": 418.16,
+    "text": "The memory was in cathode ray tubes --"
+  },
+  {
+    "startTime": 418.16,
+    "endTime": 421.16,
+    "text": "a whole bunch of spots on the face of the tube --"
+  },
+  {
+    "startTime": 421.16,
+    "endTime": 424.16,
+    "text": "very, very sensitive to electromagnetic disturbances."
+  },
+  {
+    "startTime": 424.16,
+    "endTime": 426.16,
+    "text": "So, there's 40 of these tubes,"
+  },
+  {
+    "startTime": 426.16,
+    "endTime": 429.16,
+    "text": "like a V-40 engine running the memory."
+  },
+  {
+    "startTime": 429.16,
+    "endTime": 430.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 430.16,
+    "endTime": 435.16,
+    "text": "The input and the output was by teletype tape at first."
+  },
+  {
+    "startTime": 435.16,
+    "endTime": 437.16,
+    "text": "This is a wire drive, using bicycle wheels."
+  },
+  {
+    "startTime": 437.16,
+    "endTime": 442.16,
+    "text": "This is the archetype of the hard disk that's in your machine now."
+  },
+  {
+    "startTime": 442.16,
+    "endTime": 444.16,
+    "text": "Then they switched to a magnetic drum."
+  },
+  {
+    "startTime": 444.16,
+    "endTime": 446.16,
+    "text": "This is modifying IBM equipment,"
+  },
+  {
+    "startTime": 446.16,
+    "endTime": 450.16,
+    "text": "which is the origins of the whole data-processing industry, later at IBM."
+  },
+  {
+    "startTime": 450.16,
+    "endTime": 453.16,
+    "text": "And this is the beginning of computer graphics."
+  },
+  {
+    "startTime": 453.16,
+    "endTime": 456.16,
+    "text": "The \"Graph'g-Beam Turn On.\" This next slide,"
+  },
+  {
+    "startTime": 456.16,
+    "endTime": 463.16,
+    "text": "that's the -- as far as I know -- the first digital bitmap display, 1954."
+  },
+  {
+    "startTime": 463.16,
+    "endTime": 466.16,
+    "text": "So, Von Neumann was already off in a theoretical cloud,"
+  },
+  {
+    "startTime": 466.16,
+    "endTime": 469.16,
+    "text": "doing abstract sorts of studies of how you could build"
+  },
+  {
+    "startTime": 469.16,
+    "endTime": 472.16,
+    "text": "reliable machines out of unreliable components."
+  },
+  {
+    "startTime": 472.16,
+    "endTime": 474.16,
+    "text": "Those guys drinking all the tea with sugar in it"
+  },
+  {
+    "startTime": 474.16,
+    "endTime": 478.16,
+    "text": "were writing in their logbooks, trying to get this thing to work, with all"
+  },
+  {
+    "startTime": 478.16,
+    "endTime": 481.16,
+    "text": "these 2,600 vacuum tubes that failed half the time."
+  },
+  {
+    "startTime": 481.16,
+    "endTime": 486.16,
+    "text": "And that's what I've been doing, this last six months, is going through the logs."
+  },
+  {
+    "startTime": 486.16,
+    "endTime": 489.16,
+    "text": "\"Running time: two minutes. Input, output: 90 minutes.\""
+  },
+  {
+    "startTime": 489.16,
+    "endTime": 492.16,
+    "text": "This includes a large amount of human error."
+  },
+  {
+    "startTime": 492.16,
+    "endTime": 495.16,
+    "text": "So they are always trying to figure out, what's machine error? What's human error?"
+  },
+  {
+    "startTime": 495.16,
+    "endTime": 497.16,
+    "text": "What's code, what's hardware?"
+  },
+  {
+    "startTime": 497.16,
+    "endTime": 499.16,
+    "text": "That's an engineer gazing at tube number 36,"
+  },
+  {
+    "startTime": 499.16,
+    "endTime": 501.16,
+    "text": "trying to figure out why the memory's not in focus."
+  },
+  {
+    "startTime": 501.16,
+    "endTime": 504.16,
+    "text": "He had to focus the memory -- seems OK."
+  },
+  {
+    "startTime": 504.16,
+    "endTime": 508.16,
+    "text": "So, he had to focus each tube just to get the memory up and running,"
+  },
+  {
+    "startTime": 508.16,
+    "endTime": 510.16,
+    "text": "let alone having, you know, software problems."
+  },
+  {
+    "startTime": 510.16,
+    "endTime": 512.1600000000001,
+    "text": "\"No use, went home.\" (Laughter)"
+  },
+  {
+    "startTime": 512.159,
+    "endTime": 515.159,
+    "text": "\"Impossible to follow the damn thing, where's a directory?\""
+  },
+  {
+    "startTime": 515.159,
+    "endTime": 517.159,
+    "text": "So, already, they're complaining about the manuals:"
+  },
+  {
+    "startTime": 517.159,
+    "endTime": 521.159,
+    "text": "\"before closing down in disgust ... \""
+  },
+  {
+    "startTime": 521.159,
+    "endTime": 523.159,
+    "text": "\"The General Arithmetic: Operating Logs.\""
+  },
+  {
+    "startTime": 523.159,
+    "endTime": 526.16,
+    "text": "Burning lots of midnight oil."
+  },
+  {
+    "startTime": 526.16,
+    "endTime": 528.16,
+    "text": "\"MANIAC,\" which became the acronym for the machine,"
+  },
+  {
+    "startTime": 528.16,
+    "endTime": 531.16,
+    "text": "Mathematical and Numerical Integrator and Calculator, \"lost its memory.\""
+  },
+  {
+    "startTime": 531.16,
+    "endTime": 537.16,
+    "text": "\"MANIAC regained its memory, when the power went off.\" \"Machine or human?\""
+  },
+  {
+    "startTime": 537.16,
+    "endTime": 540.16,
+    "text": "\"Aha!\" So, they figured out it's a code problem."
+  },
+  {
+    "startTime": 540.16,
+    "endTime": 542.16,
+    "text": "\"Found trouble in code, I hope.\""
+  },
+  {
+    "startTime": 542.16,
+    "endTime": 545.16,
+    "text": "\"Code error, machine not guilty.\""
+  },
+  {
+    "startTime": 545.16,
+    "endTime": 548.16,
+    "text": "\"Damn it, I can be just as stubborn as this thing.\""
+  },
+  {
+    "startTime": 548.16,
+    "endTime": 553.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 553.16,
+    "endTime": 555.16,
+    "text": "\"And the dawn came.\" So they ran all night."
+  },
+  {
+    "startTime": 555.16,
+    "endTime": 559.16,
+    "text": "Twenty-four hours a day, this thing was running, mainly running bomb calculations."
+  },
+  {
+    "startTime": 559.16,
+    "endTime": 564.16,
+    "text": "\"Everything up to this point is wasted time.\" \"What's the use? Good night.\""
+  },
+  {
+    "startTime": 564.16,
+    "endTime": 568.16,
+    "text": "\"Master control off. The hell with it. Way off.\" (Laughter)"
+  },
+  {
+    "startTime": 568.16,
+    "endTime": 570.16,
+    "text": "\"Something's wrong with the air conditioner --"
+  },
+  {
+    "startTime": 570.16,
+    "endTime": 573.16,
+    "text": "smell of burning V-belts in the air.\""
+  },
+  {
+    "startTime": 573.16,
+    "endTime": 575.16,
+    "text": "\"A short -- do not turn the machine on.\""
+  },
+  {
+    "startTime": 575.16,
+    "endTime": 580.16,
+    "text": "\"IBM machine putting a tar-like substance on the cards. The tar is from the roof.\""
+  },
+  {
+    "startTime": 580.16,
+    "endTime": 582.16,
+    "text": "So they really were working under tough conditions."
+  },
+  {
+    "startTime": 582.16,
+    "endTime": 583.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 583.16,
+    "endTime": 585.16,
+    "text": "Here, \"A mouse has climbed into the blower"
+  },
+  {
+    "startTime": 585.16,
+    "endTime": 589.16,
+    "text": "behind the regulator rack, set blower to vibrating. Result: no more mouse.\""
+  },
+  {
+    "startTime": 589.16,
+    "endTime": 594.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 594.16,
+    "endTime": 601.16,
+    "text": "\"Here lies mouse. Born: ?. Died: 4:50 a.m., May 1953.\""
+  },
+  {
+    "startTime": 601.16,
+    "endTime": 602.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 602.16,
+    "endTime": 604.16,
+    "text": "There's an inside joke someone has penciled in:"
+  },
+  {
+    "startTime": 604.16,
+    "endTime": 606.16,
+    "text": "\"Here lies Marston Mouse.\""
+  },
+  {
+    "startTime": 606.16,
+    "endTime": 608.16,
+    "text": "If you're a mathematician, you get that,"
+  },
+  {
+    "startTime": 608.16,
+    "endTime": 609.16,
+    "text": "because Marston was a mathematician who"
+  },
+  {
+    "startTime": 609.16,
+    "endTime": 612.16,
+    "text": "objected to the computer being there."
+  },
+  {
+    "startTime": 612.16,
+    "endTime": 616.16,
+    "text": "\"Picked a lightning bug off the drum.\" \"Running at two kilocycles.\""
+  },
+  {
+    "startTime": 616.16,
+    "endTime": 618.16,
+    "text": "That's two thousand cycles per second --"
+  },
+  {
+    "startTime": 618.16,
+    "endTime": 621.16,
+    "text": "\"yes, I'm chicken\" -- so two kilocycles was slow speed."
+  },
+  {
+    "startTime": 621.16,
+    "endTime": 624.16,
+    "text": "The high speed was 16 kilocycles."
+  },
+  {
+    "startTime": 624.16,
+    "endTime": 627.16,
+    "text": "I don't know if you remember a Mac that was 16 Megahertz,"
+  },
+  {
+    "startTime": 627.16,
+    "endTime": 629.16,
+    "text": "that's slow speed."
+  },
+  {
+    "startTime": 629.16,
+    "endTime": 632.16,
+    "text": "\"I have now duplicated both results."
+  },
+  {
+    "startTime": 632.16,
+    "endTime": 635.16,
+    "text": "How will I know which is right, assuming one result is correct?"
+  },
+  {
+    "startTime": 635.16,
+    "endTime": 637.16,
+    "text": "This now is the third different output."
+  },
+  {
+    "startTime": 637.16,
+    "endTime": 639.16,
+    "text": "I know when I'm licked.\""
+  },
+  {
+    "startTime": 639.16,
+    "endTime": 641.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 641.16,
+    "endTime": 643.16,
+    "text": "\"We've duplicated errors before.\""
+  },
+  {
+    "startTime": 643.16,
+    "endTime": 646.16,
+    "text": "\"Machine run, fine. Code isn't.\""
+  },
+  {
+    "startTime": 646.16,
+    "endTime": 648.16,
+    "text": "\"Only happens when the machine is running.\""
+  },
+  {
+    "startTime": 648.16,
+    "endTime": 652.16,
+    "text": "And sometimes things are okay."
+  },
+  {
+    "startTime": 652.16,
+    "endTime": 656.16,
+    "text": "\"Machine a thing of beauty, and a joy forever.\" \"Perfect running.\""
+  },
+  {
+    "startTime": 656.16,
+    "endTime": 660.16,
+    "text": "\"Parting thought: when there's bigger and better errors, we'll have them.\""
+  },
+  {
+    "startTime": 660.16,
+    "endTime": 663.16,
+    "text": "So, nobody was supposed to know they were actually designing bombs."
+  },
+  {
+    "startTime": 663.16,
+    "endTime": 665.16,
+    "text": "They're designing hydrogen bombs. But someone in the logbook,"
+  },
+  {
+    "startTime": 665.16,
+    "endTime": 667.16,
+    "text": "late one night, finally drew a bomb."
+  },
+  {
+    "startTime": 667.16,
+    "endTime": 669.16,
+    "text": "So, that was the result. It was Mike,"
+  },
+  {
+    "startTime": 669.16,
+    "endTime": 672.16,
+    "text": "the first thermonuclear bomb, in 1952."
+  },
+  {
+    "startTime": 672.16,
+    "endTime": 674.16,
+    "text": "That was designed on that machine,"
+  },
+  {
+    "startTime": 674.16,
+    "endTime": 676.16,
+    "text": "in the woods behind the Institute."
+  },
+  {
+    "startTime": 676.16,
+    "endTime": 680.16,
+    "text": "So Von Neumann invited a whole gang of weirdos"
+  },
+  {
+    "startTime": 680.16,
+    "endTime": 683.16,
+    "text": "from all over the world to work on all these problems."
+  },
+  {
+    "startTime": 683.16,
+    "endTime": 687.16,
+    "text": "Barricelli, he came to do what we now call, really, artificial life,"
+  },
+  {
+    "startTime": 687.16,
+    "endTime": 690.16,
+    "text": "trying to see if, in this artificial universe --"
+  },
+  {
+    "startTime": 690.16,
+    "endTime": 693.16,
+    "text": "he was a viral-geneticist, way, way, way ahead of his time."
+  },
+  {
+    "startTime": 693.16,
+    "endTime": 696.16,
+    "text": "He's still ahead of some of the stuff that's being done now."
+  },
+  {
+    "startTime": 696.16,
+    "endTime": 701.16,
+    "text": "Trying to start an artificial genetic system running in the computer."
+  },
+  {
+    "startTime": 701.16,
+    "endTime": 704.16,
+    "text": "Began -- his universe started March 3, '53."
+  },
+  {
+    "startTime": 704.16,
+    "endTime": 709.16,
+    "text": "So it's almost exactly -- it's 50 years ago next Tuesday, I guess."
+  },
+  {
+    "startTime": 709.16,
+    "endTime": 711.16,
+    "text": "And he saw everything in terms of --"
+  },
+  {
+    "startTime": 711.16,
+    "endTime": 713.16,
+    "text": "he could read the binary code straight off the machine."
+  },
+  {
+    "startTime": 713.16,
+    "endTime": 715.16,
+    "text": "He had a wonderful rapport."
+  },
+  {
+    "startTime": 715.16,
+    "endTime": 718.16,
+    "text": "Other people couldn't get the machine running. It always worked for him."
+  },
+  {
+    "startTime": 718.16,
+    "endTime": 720.16,
+    "text": "Even errors were duplicated."
+  },
+  {
+    "startTime": 720.16,
+    "endTime": 721.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 721.16,
+    "endTime": 724.16,
+    "text": "\"Dr. Barricelli claims machine is wrong, code is right.\""
+  },
+  {
+    "startTime": 724.16,
+    "endTime": 727.16,
+    "text": "So he designed this universe, and ran it."
+  },
+  {
+    "startTime": 727.16,
+    "endTime": 730.16,
+    "text": "When the bomb people went home, he was allowed in there."
+  },
+  {
+    "startTime": 730.16,
+    "endTime": 733.16,
+    "text": "He would run that thing all night long, running these things,"
+  },
+  {
+    "startTime": 733.16,
+    "endTime": 735.16,
+    "text": "if anybody remembers Stephen Wolfram,"
+  },
+  {
+    "startTime": 735.16,
+    "endTime": 737.16,
+    "text": "who reinvented this stuff."
+  },
+  {
+    "startTime": 737.16,
+    "endTime": 739.16,
+    "text": "And he published it. It wasn't locked up and disappeared."
+  },
+  {
+    "startTime": 739.16,
+    "endTime": 741.16,
+    "text": "It was published in the literature."
+  },
+  {
+    "startTime": 741.16,
+    "endTime": 744.16,
+    "text": "\"If it's that easy to create living organisms, why not create a few yourself?\""
+  },
+  {
+    "startTime": 744.16,
+    "endTime": 746.16,
+    "text": "So, he decided to give it a try,"
+  },
+  {
+    "startTime": 746.16,
+    "endTime": 750.16,
+    "text": "to start this artificial biology going in the machines."
+  },
+  {
+    "startTime": 750.16,
+    "endTime": 752.16,
+    "text": "And he found all these, sort of --"
+  },
+  {
+    "startTime": 752.16,
+    "endTime": 754.16,
+    "text": "it was like a naturalist coming in"
+  },
+  {
+    "startTime": 754.16,
+    "endTime": 757.16,
+    "text": "and looking at this tiny, 5,000-byte universe,"
+  },
+  {
+    "startTime": 757.16,
+    "endTime": 759.16,
+    "text": "and seeing all these things happening"
+  },
+  {
+    "startTime": 759.16,
+    "endTime": 762.16,
+    "text": "that we see in the outside world, in biology."
+  },
+  {
+    "startTime": 762.16,
+    "endTime": 768.16,
+    "text": "This is some of the generations of his universe."
+  },
+  {
+    "startTime": 768.16,
+    "endTime": 770.16,
+    "text": "But they're just going to stay numbers;"
+  },
+  {
+    "startTime": 770.16,
+    "endTime": 772.16,
+    "text": "they're not going to become organisms."
+  },
+  {
+    "startTime": 772.16,
+    "endTime": 773.16,
+    "text": "They have to have something."
+  },
+  {
+    "startTime": 773.16,
+    "endTime": 775.16,
+    "text": "You have a genotype and you have to have a phenotype."
+  },
+  {
+    "startTime": 775.16,
+    "endTime": 778.16,
+    "text": "They have to go out and do something. And he started doing that,"
+  },
+  {
+    "startTime": 778.16,
+    "endTime": 781.16,
+    "text": "started giving these little numerical organisms things they could play with --"
+  },
+  {
+    "startTime": 781.16,
+    "endTime": 783.16,
+    "text": "playing chess with other machines and so on."
+  },
+  {
+    "startTime": 783.16,
+    "endTime": 785.16,
+    "text": "And they did start to evolve."
+  },
+  {
+    "startTime": 785.16,
+    "endTime": 787.16,
+    "text": "And he went around the country after that."
+  },
+  {
+    "startTime": 787.16,
+    "endTime": 791.16,
+    "text": "Every time there was a new, fast machine, he started using it,"
+  },
+  {
+    "startTime": 791.16,
+    "endTime": 793.16,
+    "text": "and saw exactly what's happening now."
+  },
+  {
+    "startTime": 793.16,
+    "endTime": 799.16,
+    "text": "That the programs, instead of being turned off -- when you quit the program,"
+  },
+  {
+    "startTime": 799.16,
+    "endTime": 801.16,
+    "text": "you'd keep running"
+  },
+  {
+    "startTime": 801.16,
+    "endTime": 805.16,
+    "text": "and, basically, all the sorts of things like Windows is doing,"
+  },
+  {
+    "startTime": 805.16,
+    "endTime": 807.16,
+    "text": "running as a multi-cellular organism on many machines,"
+  },
+  {
+    "startTime": 807.16,
+    "endTime": 808.16,
+    "text": "he envisioned all that happening."
+  },
+  {
+    "startTime": 808.16,
+    "endTime": 811.16,
+    "text": "And he saw that evolution itself was an intelligent process."
+  },
+  {
+    "startTime": 811.16,
+    "endTime": 814.16,
+    "text": "It wasn't any sort of creator intelligence,"
+  },
+  {
+    "startTime": 814.16,
+    "endTime": 817.16,
+    "text": "but the thing itself was a giant parallel computation"
+  },
+  {
+    "startTime": 817.16,
+    "endTime": 819.16,
+    "text": "that would have some intelligence."
+  },
+  {
+    "startTime": 819.16,
+    "endTime": 821.16,
+    "text": "And he went out of his way to say"
+  },
+  {
+    "startTime": 821.16,
+    "endTime": 824.16,
+    "text": "that he was not saying this was lifelike,"
+  },
+  {
+    "startTime": 824.16,
+    "endTime": 826.16,
+    "text": "or a new kind of life."
+  },
+  {
+    "startTime": 826.16,
+    "endTime": 829.16,
+    "text": "It just was another version of the same thing happening."
+  },
+  {
+    "startTime": 829.16,
+    "endTime": 832.16,
+    "text": "And there's really no difference between what he was doing in the computer"
+  },
+  {
+    "startTime": 832.16,
+    "endTime": 835.16,
+    "text": "and what nature did billions of years ago."
+  },
+  {
+    "startTime": 835.16,
+    "endTime": 837.16,
+    "text": "And could you do it again now?"
+  },
+  {
+    "startTime": 837.16,
+    "endTime": 841.16,
+    "text": "So, when I went into these archives looking at this stuff, lo and behold,"
+  },
+  {
+    "startTime": 841.16,
+    "endTime": 843.16,
+    "text": "the archivist came up one day, saying,"
+  },
+  {
+    "startTime": 843.16,
+    "endTime": 846.16,
+    "text": "\"I think we found another box that had been thrown out.\""
+  },
+  {
+    "startTime": 846.16,
+    "endTime": 848.16,
+    "text": "And it was his universe on punch cards."
+  },
+  {
+    "startTime": 848.16,
+    "endTime": 854.16,
+    "text": "So there it is, 50 years later, sitting there -- sort of suspended animation."
+  },
+  {
+    "startTime": 854.16,
+    "endTime": 856.16,
+    "text": "That's the instructions for running --"
+  },
+  {
+    "startTime": 856.16,
+    "endTime": 858.16,
+    "text": "this is actually the source code"
+  },
+  {
+    "startTime": 858.16,
+    "endTime": 860.16,
+    "text": "for one of those universes,"
+  },
+  {
+    "startTime": 860.16,
+    "endTime": 862.16,
+    "text": "with a note from the engineers"
+  },
+  {
+    "startTime": 862.16,
+    "endTime": 863.16,
+    "text": "saying they're having some problems."
+  },
+  {
+    "startTime": 863.16,
+    "endTime": 868.16,
+    "text": "\"There must be something about this code that you haven't explained yet.\""
+  },
+  {
+    "startTime": 868.16,
+    "endTime": 871.16,
+    "text": "And I think that's really the truth. We still don't understand"
+  },
+  {
+    "startTime": 871.16,
+    "endTime": 875.16,
+    "text": "how these very simple instructions can lead to increasing complexity."
+  },
+  {
+    "startTime": 875.16,
+    "endTime": 877.16,
+    "text": "What's the dividing line between"
+  },
+  {
+    "startTime": 877.16,
+    "endTime": 881.16,
+    "text": "when that is lifelike and when it really is alive?"
+  },
+  {
+    "startTime": 881.16,
+    "endTime": 885.16,
+    "text": "These cards, now, thanks to me showing up, are being saved."
+  },
+  {
+    "startTime": 885.16,
+    "endTime": 887.16,
+    "text": "And the question is, should we run them or not?"
+  },
+  {
+    "startTime": 887.16,
+    "endTime": 889.16,
+    "text": "You know, could we get them running?"
+  },
+  {
+    "startTime": 889.16,
+    "endTime": 890.16,
+    "text": "Do you want to let it loose on the Internet?"
+  },
+  {
+    "startTime": 890.16,
+    "endTime": 892.16,
+    "text": "These machines would think they --"
+  },
+  {
+    "startTime": 892.16,
+    "endTime": 895.16,
+    "text": "these organisms, if they came back to life now --"
+  },
+  {
+    "startTime": 895.16,
+    "endTime": 897.16,
+    "text": "whether they've died and gone to heaven, there's a universe."
+  },
+  {
+    "startTime": 897.16,
+    "endTime": 902.16,
+    "text": "My laptop is 10 thousand million times"
+  },
+  {
+    "startTime": 902.16,
+    "endTime": 907.16,
+    "text": "the size of the universe that they lived in when Barricelli quit the project."
+  },
+  {
+    "startTime": 907.16,
+    "endTime": 909.16,
+    "text": "He was thinking far ahead, to"
+  },
+  {
+    "startTime": 909.16,
+    "endTime": 912.16,
+    "text": "how this would really grow into a new kind of life."
+  },
+  {
+    "startTime": 912.16,
+    "endTime": 914.16,
+    "text": "And that's what's happening!"
+  },
+  {
+    "startTime": 914.16,
+    "endTime": 916.16,
+    "text": "When Juan Enriquez told us about"
+  },
+  {
+    "startTime": 916.16,
+    "endTime": 920.16,
+    "text": "these 12 trillion bits being transferred back and forth,"
+  },
+  {
+    "startTime": 920.16,
+    "endTime": 924.16,
+    "text": "of all this genomics data going to the proteomics lab,"
+  },
+  {
+    "startTime": 924.16,
+    "endTime": 926.16,
+    "text": "that's what Barricelli imagined:"
+  },
+  {
+    "startTime": 926.16,
+    "endTime": 929.16,
+    "text": "that this digital code in these machines"
+  },
+  {
+    "startTime": 929.16,
+    "endTime": 931.16,
+    "text": "is actually starting to code --"
+  },
+  {
+    "startTime": 931.16,
+    "endTime": 934.16,
+    "text": "it already is coding from nucleic acids."
+  },
+  {
+    "startTime": 934.16,
+    "endTime": 937.16,
+    "text": "We've been doing that since, you know, since we started PCR"
+  },
+  {
+    "startTime": 937.16,
+    "endTime": 943.16,
+    "text": "and synthesizing small strings of DNA."
+  },
+  {
+    "startTime": 943.16,
+    "endTime": 946.16,
+    "text": "And real soon, we're actually going to be synthesizing the proteins,"
+  },
+  {
+    "startTime": 946.16,
+    "endTime": 951.16,
+    "text": "and, like Steve showed us, that just opens an entirely new world."
+  },
+  {
+    "startTime": 951.16,
+    "endTime": 954.16,
+    "text": "It's a world that Von Neumann himself envisioned."
+  },
+  {
+    "startTime": 954.16,
+    "endTime": 957.16,
+    "text": "This was published after he died: his sort of unfinished notes"
+  },
+  {
+    "startTime": 957.16,
+    "endTime": 959.16,
+    "text": "on self-reproducing machines,"
+  },
+  {
+    "startTime": 959.16,
+    "endTime": 962.16,
+    "text": "what it takes to get the machines sort of jump-started"
+  },
+  {
+    "startTime": 962.16,
+    "endTime": 964.16,
+    "text": "to where they begin to reproduce."
+  },
+  {
+    "startTime": 964.16,
+    "endTime": 966.16,
+    "text": "It took really three people:"
+  },
+  {
+    "startTime": 966.16,
+    "endTime": 969.16,
+    "text": "Barricelli had the concept of the code as a living thing;"
+  },
+  {
+    "startTime": 969.16,
+    "endTime": 972.16,
+    "text": "Von Neumann saw how you could build the machines --"
+  },
+  {
+    "startTime": 972.16,
+    "endTime": 975.16,
+    "text": "that now, last count, four million"
+  },
+  {
+    "startTime": 975.16,
+    "endTime": 978.16,
+    "text": "of these Von Neumann machines is built every 24 hours;"
+  },
+  {
+    "startTime": 978.16,
+    "endTime": 982.16,
+    "text": "and Julian Bigelow, who died 10 days ago --"
+  },
+  {
+    "startTime": 982.16,
+    "endTime": 985.16,
+    "text": "this is John Markoff's obituary for him --"
+  },
+  {
+    "startTime": 985.16,
+    "endTime": 987.16,
+    "text": "he was the important missing link,"
+  },
+  {
+    "startTime": 987.16,
+    "endTime": 989.16,
+    "text": "the engineer who came in"
+  },
+  {
+    "startTime": 989.16,
+    "endTime": 992.16,
+    "text": "and knew how to put those vacuum tubes together and make it work."
+  },
+  {
+    "startTime": 992.16,
+    "endTime": 994.16,
+    "text": "And all our computers have, inside them,"
+  },
+  {
+    "startTime": 994.16,
+    "endTime": 998.16,
+    "text": "the copies of the architecture that he had to just design"
+  },
+  {
+    "startTime": 998.16,
+    "endTime": 1001.16,
+    "text": "one day, sort of on pencil and paper."
+  },
+  {
+    "startTime": 1001.16,
+    "endTime": 1003.16,
+    "text": "And we owe a tremendous credit to that."
+  },
+  {
+    "startTime": 1003.16,
+    "endTime": 1007.16,
+    "text": "And he explained, in a very generous way,"
+  },
+  {
+    "startTime": 1007.16,
+    "endTime": 1009.16,
+    "text": "the spirit that brought all these different people to"
+  },
+  {
+    "startTime": 1009.16,
+    "endTime": 1012.16,
+    "text": "the Institute for Advanced Study in the '40s to do this project,"
+  },
+  {
+    "startTime": 1012.16,
+    "endTime": 1015.16,
+    "text": "and make it freely available with no patents, no restrictions,"
+  },
+  {
+    "startTime": 1015.16,
+    "endTime": 1018.16,
+    "text": "no intellectual property disputes to the rest of the world."
+  },
+  {
+    "startTime": 1018.16,
+    "endTime": 1021.16,
+    "text": "That's the last entry in the logbook"
+  },
+  {
+    "startTime": 1021.16,
+    "endTime": 1024.1589999999999,
+    "text": "when the machine was shut down, July 1958."
+  },
+  {
+    "startTime": 1024.16,
+    "endTime": 1027.16,
+    "text": "And it's Julian Bigelow who was running it until midnight"
+  },
+  {
+    "startTime": 1027.16,
+    "endTime": 1029.16,
+    "text": "when the machine was officially turned off."
+  },
+  {
+    "startTime": 1029.16,
+    "endTime": 1031.16,
+    "text": "And that's the end."
+  },
+  {
+    "startTime": 1031.16,
+    "endTime": 1033.16,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 1033.16,
+    "endTime": 1034.16,
+    "text": "(Applause)"
+  }
+]

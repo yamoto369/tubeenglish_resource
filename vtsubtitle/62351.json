@@ -1,0 +1,1667 @@
+[
+  {
+    "startTime": 19.33,
+    "endTime": 21.33,
+    "text": "You know, I've talked about some of these projects before --"
+  },
+  {
+    "startTime": 21.33,
+    "endTime": 25.33,
+    "text": "about the human genome and what that might mean,"
+  },
+  {
+    "startTime": 25.33,
+    "endTime": 28.33,
+    "text": "and discovering new sets of genes."
+  },
+  {
+    "startTime": 28.33,
+    "endTime": 31.33,
+    "text": "We're actually starting at a new point:"
+  },
+  {
+    "startTime": 31.33,
+    "endTime": 35.33,
+    "text": "we've been digitizing biology,"
+  },
+  {
+    "startTime": 35.33,
+    "endTime": 38.33,
+    "text": "and now we're trying to go from that digital code"
+  },
+  {
+    "startTime": 38.33,
+    "endTime": 40.33,
+    "text": "into a new phase of biology"
+  },
+  {
+    "startTime": 40.33,
+    "endTime": 43.33,
+    "text": "with designing and synthesizing life."
+  },
+  {
+    "startTime": 43.33,
+    "endTime": 46.33,
+    "text": "So, we've always been trying to ask big questions."
+  },
+  {
+    "startTime": 48.33,
+    "endTime": 50.33,
+    "text": "\"What is life?\" is something that I think many biologists"
+  },
+  {
+    "startTime": 50.33,
+    "endTime": 52.33,
+    "text": "have been trying to understand"
+  },
+  {
+    "startTime": 52.33,
+    "endTime": 54.33,
+    "text": "at various levels."
+  },
+  {
+    "startTime": 54.33,
+    "endTime": 57.33,
+    "text": "We've tried various approaches,"
+  },
+  {
+    "startTime": 57.33,
+    "endTime": 60.33,
+    "text": "paring it down to minimal components."
+  },
+  {
+    "startTime": 61.33,
+    "endTime": 63.33,
+    "text": "We've been digitizing it now for almost 20 years;"
+  },
+  {
+    "startTime": 63.33,
+    "endTime": 65.33,
+    "text": "when we sequenced the human genome,"
+  },
+  {
+    "startTime": 65.33,
+    "endTime": 68.33,
+    "text": "it was going from the analog world of biology"
+  },
+  {
+    "startTime": 68.33,
+    "endTime": 72.33,
+    "text": "into the digital world of the computer."
+  },
+  {
+    "startTime": 72.33,
+    "endTime": 76.33,
+    "text": "Now we're trying to ask, \"Can we regenerate life"
+  },
+  {
+    "startTime": 76.33,
+    "endTime": 78.33,
+    "text": "or can we create new life"
+  },
+  {
+    "startTime": 78.33,
+    "endTime": 81.33,
+    "text": "out of this digital universe?\""
+  },
+  {
+    "startTime": 81.33,
+    "endTime": 84.33,
+    "text": "This is the map of a small organism,"
+  },
+  {
+    "startTime": 84.33,
+    "endTime": 86.33,
+    "text": "Mycoplasma genitalium,"
+  },
+  {
+    "startTime": 86.33,
+    "endTime": 89.33,
+    "text": "that has the smallest genome for a species"
+  },
+  {
+    "startTime": 89.33,
+    "endTime": 92.33,
+    "text": "that can self-replicate in the laboratory,"
+  },
+  {
+    "startTime": 92.33,
+    "endTime": 94.33,
+    "text": "and we've been trying to just see if"
+  },
+  {
+    "startTime": 94.33,
+    "endTime": 97.33,
+    "text": "we can come up with an even smaller genome."
+  },
+  {
+    "startTime": 98.33,
+    "endTime": 100.33,
+    "text": "We're able to knock out on the order of 100 genes"
+  },
+  {
+    "startTime": 100.33,
+    "endTime": 103.33,
+    "text": "out of the 500 or so that are here."
+  },
+  {
+    "startTime": 103.33,
+    "endTime": 105.33,
+    "text": "When we look at its metabolic map,"
+  },
+  {
+    "startTime": 105.33,
+    "endTime": 107.33,
+    "text": "it's relatively simple"
+  },
+  {
+    "startTime": 107.33,
+    "endTime": 109.33,
+    "text": "compared to ours --"
+  },
+  {
+    "startTime": 109.33,
+    "endTime": 111.33,
+    "text": "trust me, this is simple --"
+  },
+  {
+    "startTime": 111.33,
+    "endTime": 113.33,
+    "text": "but when we look at all the genes"
+  },
+  {
+    "startTime": 113.33,
+    "endTime": 116.33,
+    "text": "that we can knock out one at a time,"
+  },
+  {
+    "startTime": 116.33,
+    "endTime": 118.33,
+    "text": "it's very unlikely that this would yield"
+  },
+  {
+    "startTime": 118.33,
+    "endTime": 120.33,
+    "text": "a living cell."
+  },
+  {
+    "startTime": 121.33,
+    "endTime": 123.33,
+    "text": "So we decided the only way forward"
+  },
+  {
+    "startTime": 123.33,
+    "endTime": 126.33,
+    "text": "was to actually synthesize this chromosome"
+  },
+  {
+    "startTime": 126.33,
+    "endTime": 129.329,
+    "text": "so we could vary the components"
+  },
+  {
+    "startTime": 129.33,
+    "endTime": 133.33,
+    "text": "to ask some of these most fundamental questions."
+  },
+  {
+    "startTime": 133.33,
+    "endTime": 135.33,
+    "text": "And so we started down the road of:"
+  },
+  {
+    "startTime": 135.33,
+    "endTime": 138.33,
+    "text": "can we synthesize a chromosome?"
+  },
+  {
+    "startTime": 139.33,
+    "endTime": 141.33,
+    "text": "Can chemistry permit making"
+  },
+  {
+    "startTime": 141.33,
+    "endTime": 143.33,
+    "text": "these really large molecules"
+  },
+  {
+    "startTime": 143.33,
+    "endTime": 145.33,
+    "text": "where we've never been before?"
+  },
+  {
+    "startTime": 145.33,
+    "endTime": 148.33,
+    "text": "And if we do, can we boot up a chromosome?"
+  },
+  {
+    "startTime": 148.33,
+    "endTime": 151.33,
+    "text": "A chromosome, by the way, is just a piece of inert chemical material."
+  },
+  {
+    "startTime": 152.33,
+    "endTime": 155.33,
+    "text": "So, our pace of digitizing life has been increasing"
+  },
+  {
+    "startTime": 155.33,
+    "endTime": 158.33,
+    "text": "at an exponential pace."
+  },
+  {
+    "startTime": 158.33,
+    "endTime": 161.33,
+    "text": "Our ability to write the genetic code"
+  },
+  {
+    "startTime": 161.33,
+    "endTime": 163.33,
+    "text": "has been moving pretty slowly"
+  },
+  {
+    "startTime": 163.33,
+    "endTime": 166.33,
+    "text": "but has been increasing,"
+  },
+  {
+    "startTime": 166.33,
+    "endTime": 170.33,
+    "text": "and our latest point would put it on, now, an exponential curve."
+  },
+  {
+    "startTime": 171.33,
+    "endTime": 173.33,
+    "text": "We started this over 15 years ago."
+  },
+  {
+    "startTime": 173.33,
+    "endTime": 176.33,
+    "text": "It took several stages, in fact,"
+  },
+  {
+    "startTime": 176.33,
+    "endTime": 179.33,
+    "text": "starting with a bioethical review before we did the first experiments."
+  },
+  {
+    "startTime": 180.33,
+    "endTime": 182.33,
+    "text": "But it turns out synthesizing DNA"
+  },
+  {
+    "startTime": 182.33,
+    "endTime": 184.33,
+    "text": "is very difficult."
+  },
+  {
+    "startTime": 184.33,
+    "endTime": 187.33,
+    "text": "There are tens of thousands of machines around the world"
+  },
+  {
+    "startTime": 187.33,
+    "endTime": 189.33,
+    "text": "that make small pieces of DNA --"
+  },
+  {
+    "startTime": 189.33,
+    "endTime": 192.33,
+    "text": "30 to 50 letters in length --"
+  },
+  {
+    "startTime": 192.33,
+    "endTime": 195.33,
+    "text": "and it's a degenerate process, so the longer you make the piece,"
+  },
+  {
+    "startTime": 195.33,
+    "endTime": 197.33,
+    "text": "the more errors there are."
+  },
+  {
+    "startTime": 197.33,
+    "endTime": 199.33,
+    "text": "So we had to create a new method"
+  },
+  {
+    "startTime": 199.33,
+    "endTime": 202.33,
+    "text": "for putting these little pieces together and correct all the errors."
+  },
+  {
+    "startTime": 203.33,
+    "endTime": 206.33,
+    "text": "And this was our first attempt, starting with the digital information"
+  },
+  {
+    "startTime": 206.33,
+    "endTime": 208.33,
+    "text": "of the genome of phi X174."
+  },
+  {
+    "startTime": 208.33,
+    "endTime": 211.33,
+    "text": "It's a small virus that kills bacteria."
+  },
+  {
+    "startTime": 212.33,
+    "endTime": 215.33,
+    "text": "We designed the pieces, went through our error correction"
+  },
+  {
+    "startTime": 215.33,
+    "endTime": 217.33,
+    "text": "and had a DNA molecule"
+  },
+  {
+    "startTime": 217.33,
+    "endTime": 220.33,
+    "text": "of about 5,000 letters."
+  },
+  {
+    "startTime": 220.33,
+    "endTime": 224.33,
+    "text": "The exciting phase came when we took this piece of inert chemical"
+  },
+  {
+    "startTime": 224.33,
+    "endTime": 226.33,
+    "text": "and put it in the bacteria,"
+  },
+  {
+    "startTime": 226.33,
+    "endTime": 230.33,
+    "text": "and the bacteria started to read this genetic code,"
+  },
+  {
+    "startTime": 230.33,
+    "endTime": 232.33,
+    "text": "made the viral particles."
+  },
+  {
+    "startTime": 232.33,
+    "endTime": 234.33,
+    "text": "The viral particles then were released from the cells"
+  },
+  {
+    "startTime": 234.33,
+    "endTime": 237.33,
+    "text": "and came back and killed the E. coli."
+  },
+  {
+    "startTime": 237.33,
+    "endTime": 240.33,
+    "text": "I was talking to the oil industry recently"
+  },
+  {
+    "startTime": 240.33,
+    "endTime": 243.33,
+    "text": "and I said they clearly understood that model."
+  },
+  {
+    "startTime": 243.33,
+    "endTime": 246.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 246.33,
+    "endTime": 249.33,
+    "text": "They laughed more than you guys are. (Laughter)"
+  },
+  {
+    "startTime": 250.33,
+    "endTime": 252.33,
+    "text": "And so, we think this is a situation"
+  },
+  {
+    "startTime": 252.33,
+    "endTime": 255.33,
+    "text": "where the software can actually build its own hardware"
+  },
+  {
+    "startTime": 255.33,
+    "endTime": 257.33000000000004,
+    "text": "in a biological system."
+  },
+  {
+    "startTime": 257.329,
+    "endTime": 259.329,
+    "text": "But we wanted to go much larger:"
+  },
+  {
+    "startTime": 259.329,
+    "endTime": 262.33,
+    "text": "we wanted to build the entire bacterial chromosome --"
+  },
+  {
+    "startTime": 262.33,
+    "endTime": 266.33,
+    "text": "it's over 580,000 letters of genetic code --"
+  },
+  {
+    "startTime": 266.33,
+    "endTime": 269.33,
+    "text": "so we thought we'd build them in cassettes the size of the viruses"
+  },
+  {
+    "startTime": 269.33,
+    "endTime": 271.33,
+    "text": "so we could actually vary the cassettes"
+  },
+  {
+    "startTime": 271.33,
+    "endTime": 273.33,
+    "text": "to understand"
+  },
+  {
+    "startTime": 273.33,
+    "endTime": 276.33,
+    "text": "what the actual components of a living cell are."
+  },
+  {
+    "startTime": 276.33,
+    "endTime": 278.33,
+    "text": "Design is critical,"
+  },
+  {
+    "startTime": 278.33,
+    "endTime": 281.33,
+    "text": "and if you're starting with digital information in the computer,"
+  },
+  {
+    "startTime": 281.33,
+    "endTime": 285.33,
+    "text": "that digital information has to be really accurate."
+  },
+  {
+    "startTime": 285.33,
+    "endTime": 288.33,
+    "text": "When we first sequenced this genome in 1995,"
+  },
+  {
+    "startTime": 288.33,
+    "endTime": 292.33,
+    "text": "the standard of accuracy was one error per 10,000 base pairs."
+  },
+  {
+    "startTime": 292.33,
+    "endTime": 294.33,
+    "text": "We actually found, on resequencing it,"
+  },
+  {
+    "startTime": 294.33,
+    "endTime": 297.33,
+    "text": "30 errors; had we used that original sequence,"
+  },
+  {
+    "startTime": 297.33,
+    "endTime": 300.33,
+    "text": "it never would have been able to be booted up."
+  },
+  {
+    "startTime": 300.33,
+    "endTime": 302.33,
+    "text": "Part of the design is designing pieces"
+  },
+  {
+    "startTime": 302.33,
+    "endTime": 305.33,
+    "text": "that are 50 letters long"
+  },
+  {
+    "startTime": 305.33,
+    "endTime": 308.33,
+    "text": "that have to overlap with all the other 50-letter pieces"
+  },
+  {
+    "startTime": 308.33,
+    "endTime": 310.33,
+    "text": "to build smaller subunits"
+  },
+  {
+    "startTime": 310.33,
+    "endTime": 313.33,
+    "text": "we have to design so they can go together."
+  },
+  {
+    "startTime": 313.33,
+    "endTime": 316.33,
+    "text": "We design unique elements into this."
+  },
+  {
+    "startTime": 316.33,
+    "endTime": 318.33,
+    "text": "You may have read that we put watermarks in."
+  },
+  {
+    "startTime": 318.33,
+    "endTime": 320.33,
+    "text": "Think of this:"
+  },
+  {
+    "startTime": 320.33,
+    "endTime": 323.33,
+    "text": "we have a four-letter genetic code -- A, C, G and T."
+  },
+  {
+    "startTime": 323.33,
+    "endTime": 326.33,
+    "text": "Triplets of those letters"
+  },
+  {
+    "startTime": 326.33,
+    "endTime": 328.33,
+    "text": "code for roughly 20 amino acids,"
+  },
+  {
+    "startTime": 328.33,
+    "endTime": 331.33,
+    "text": "such that there's a single letter designation"
+  },
+  {
+    "startTime": 331.33,
+    "endTime": 333.33,
+    "text": "for each of the amino acids."
+  },
+  {
+    "startTime": 333.33,
+    "endTime": 336.33,
+    "text": "So we can use the genetic code to write out words,"
+  },
+  {
+    "startTime": 336.33,
+    "endTime": 338.33,
+    "text": "sentences, thoughts."
+  },
+  {
+    "startTime": 339.33,
+    "endTime": 341.33,
+    "text": "Initially, all we did was autograph it."
+  },
+  {
+    "startTime": 341.33,
+    "endTime": 344.33,
+    "text": "Some people were disappointed there was not poetry."
+  },
+  {
+    "startTime": 344.33,
+    "endTime": 346.33,
+    "text": "We designed these pieces so"
+  },
+  {
+    "startTime": 346.33,
+    "endTime": 349.33,
+    "text": "we can just chew back with enzymes;"
+  },
+  {
+    "startTime": 350.33,
+    "endTime": 353.33,
+    "text": "there are enzymes that repair them and put them together."
+  },
+  {
+    "startTime": 353.33,
+    "endTime": 355.33,
+    "text": "And we started making pieces,"
+  },
+  {
+    "startTime": 355.33,
+    "endTime": 359.33,
+    "text": "starting with pieces that were 5,000 to 7,000 letters,"
+  },
+  {
+    "startTime": 359.33,
+    "endTime": 363.33,
+    "text": "put those together to make 24,000-letter pieces,"
+  },
+  {
+    "startTime": 363.33,
+    "endTime": 367.33,
+    "text": "then put sets of those going up to 72,000."
+  },
+  {
+    "startTime": 367.33,
+    "endTime": 369.33,
+    "text": "At each stage, we grew up these pieces in abundance"
+  },
+  {
+    "startTime": 369.33,
+    "endTime": 371.33,
+    "text": "so we could sequence them"
+  },
+  {
+    "startTime": 371.33,
+    "endTime": 374.33,
+    "text": "because we're trying to create a process that's extremely robust"
+  },
+  {
+    "startTime": 374.33,
+    "endTime": 377.33,
+    "text": "that you can see in a minute."
+  },
+  {
+    "startTime": 377.33,
+    "endTime": 380.33,
+    "text": "We're trying to get to the point of automation."
+  },
+  {
+    "startTime": 380.33,
+    "endTime": 382.33,
+    "text": "So, this looks like a basketball playoff."
+  },
+  {
+    "startTime": 382.33,
+    "endTime": 384.33,
+    "text": "When we get into these really large pieces"
+  },
+  {
+    "startTime": 384.33,
+    "endTime": 388.33,
+    "text": "over 100,000 base pairs,"
+  },
+  {
+    "startTime": 388.33,
+    "endTime": 390.33,
+    "text": "they won't any longer grow readily in E. coli --"
+  },
+  {
+    "startTime": 390.33,
+    "endTime": 394.33,
+    "text": "it exhausts all the modern tools of molecular biology --"
+  },
+  {
+    "startTime": 394.33,
+    "endTime": 398.33,
+    "text": "and so we turned to other mechanisms."
+  },
+  {
+    "startTime": 398.33,
+    "endTime": 401.33,
+    "text": "We knew there's a mechanism called homologous recombination"
+  },
+  {
+    "startTime": 401.33,
+    "endTime": 404.33,
+    "text": "that biology uses to repair DNA"
+  },
+  {
+    "startTime": 404.33,
+    "endTime": 407.33,
+    "text": "that can put pieces together."
+  },
+  {
+    "startTime": 407.33,
+    "endTime": 408.33,
+    "text": "Here's an example of it:"
+  },
+  {
+    "startTime": 408.33,
+    "endTime": 409.33,
+    "text": "there's an organism called"
+  },
+  {
+    "startTime": 409.33,
+    "endTime": 411.33,
+    "text": "Deinococcus radiodurans"
+  },
+  {
+    "startTime": 411.33,
+    "endTime": 414.33,
+    "text": "that can take three millions rads of radiation."
+  },
+  {
+    "startTime": 414.33,
+    "endTime": 418.33,
+    "text": "You can see in the top panel, its chromosome just gets blown apart."
+  },
+  {
+    "startTime": 418.33,
+    "endTime": 421.33,
+    "text": "Twelve to 24 hours later, it put it"
+  },
+  {
+    "startTime": 421.33,
+    "endTime": 423.33,
+    "text": "back together exactly as it was before."
+  },
+  {
+    "startTime": 423.33,
+    "endTime": 426.33,
+    "text": "We have thousands of organisms that can do this."
+  },
+  {
+    "startTime": 426.33,
+    "endTime": 428.33,
+    "text": "These organisms can be totally desiccated;"
+  },
+  {
+    "startTime": 428.33,
+    "endTime": 430.33,
+    "text": "they can live in a vacuum."
+  },
+  {
+    "startTime": 431.33,
+    "endTime": 434.33,
+    "text": "I am absolutely certain that life can exist in outer space,"
+  },
+  {
+    "startTime": 434.33,
+    "endTime": 437.33,
+    "text": "move around, find a new aqueous environment."
+  },
+  {
+    "startTime": 437.33,
+    "endTime": 441.33,
+    "text": "In fact, NASA has shown a lot of this is out there."
+  },
+  {
+    "startTime": 441.33,
+    "endTime": 445.33,
+    "text": "Here's an actual micrograph of the molecule we built"
+  },
+  {
+    "startTime": 445.33,
+    "endTime": 449.33,
+    "text": "using these processes, actually just using yeast mechanisms"
+  },
+  {
+    "startTime": 449.33,
+    "endTime": 452.33,
+    "text": "with the right design of the pieces we put them in;"
+  },
+  {
+    "startTime": 452.33,
+    "endTime": 455.33,
+    "text": "yeast puts them together automatically."
+  },
+  {
+    "startTime": 455.33,
+    "endTime": 457.33,
+    "text": "This is not an electron micrograph;"
+  },
+  {
+    "startTime": 457.33,
+    "endTime": 459.33,
+    "text": "this is just a regular photomicrograph."
+  },
+  {
+    "startTime": 459.33,
+    "endTime": 461.33,
+    "text": "It's such a large molecule"
+  },
+  {
+    "startTime": 461.33,
+    "endTime": 464.33,
+    "text": "we can see it with a light microscope."
+  },
+  {
+    "startTime": 464.33,
+    "endTime": 467.33,
+    "text": "These are pictures over about a six-second period."
+  },
+  {
+    "startTime": 467.33,
+    "endTime": 471.33,
+    "text": "So, this is the publication we had just a short while ago."
+  },
+  {
+    "startTime": 471.33,
+    "endTime": 474.33,
+    "text": "This is over 580,000 letters of genetic code;"
+  },
+  {
+    "startTime": 474.33,
+    "endTime": 479.33,
+    "text": "it's the largest molecule ever made by humans of a defined structure."
+  },
+  {
+    "startTime": 479.33,
+    "endTime": 482.33,
+    "text": "It's over 300 million molecular weight."
+  },
+  {
+    "startTime": 482.33,
+    "endTime": 485.33,
+    "text": "If we printed it out at a 10 font with no spacing,"
+  },
+  {
+    "startTime": 485.33,
+    "endTime": 487.33,
+    "text": "it takes 142 pages"
+  },
+  {
+    "startTime": 487.33,
+    "endTime": 491.33,
+    "text": "just to print this genetic code."
+  },
+  {
+    "startTime": 491.33,
+    "endTime": 494.33,
+    "text": "Well, how do we boot up a chromosome? How do we activate this?"
+  },
+  {
+    "startTime": 494.33,
+    "endTime": 497.33,
+    "text": "Obviously, with a virus it's pretty simple;"
+  },
+  {
+    "startTime": 497.33,
+    "endTime": 500.33,
+    "text": "it's much more complicated dealing with bacteria."
+  },
+  {
+    "startTime": 500.33,
+    "endTime": 502.33,
+    "text": "It's also simpler when you go"
+  },
+  {
+    "startTime": 502.33,
+    "endTime": 504.33,
+    "text": "into eukaryotes like ourselves:"
+  },
+  {
+    "startTime": 504.33,
+    "endTime": 506.33,
+    "text": "you can just pop out the nucleus"
+  },
+  {
+    "startTime": 506.33,
+    "endTime": 508.33,
+    "text": "and pop in another one,"
+  },
+  {
+    "startTime": 508.33,
+    "endTime": 511.33,
+    "text": "and that's what you've all heard about with cloning."
+  },
+  {
+    "startTime": 511.33,
+    "endTime": 515.329,
+    "text": "With bacteria and Archaea, the chromosome is integrated into the cell,"
+  },
+  {
+    "startTime": 515.33,
+    "endTime": 519.33,
+    "text": "but we recently showed that we can do a complete transplant"
+  },
+  {
+    "startTime": 519.33,
+    "endTime": 521.33,
+    "text": "of a chromosome from one cell to another"
+  },
+  {
+    "startTime": 521.33,
+    "endTime": 524.33,
+    "text": "and activate it."
+  },
+  {
+    "startTime": 524.33,
+    "endTime": 528.33,
+    "text": "We purified a chromosome from one microbial species --"
+  },
+  {
+    "startTime": 528.33,
+    "endTime": 531.33,
+    "text": "roughly, these two are as distant as human and mice --"
+  },
+  {
+    "startTime": 531.33,
+    "endTime": 533.33,
+    "text": "we added a few extra genes"
+  },
+  {
+    "startTime": 533.33,
+    "endTime": 535.33,
+    "text": "so we could select for this chromosome,"
+  },
+  {
+    "startTime": 535.33,
+    "endTime": 537.33,
+    "text": "we digested it with enzymes"
+  },
+  {
+    "startTime": 537.33,
+    "endTime": 539.33,
+    "text": "to kill all the proteins,"
+  },
+  {
+    "startTime": 539.33,
+    "endTime": 542.33,
+    "text": "and it was pretty stunning when we put this in the cell --"
+  },
+  {
+    "startTime": 542.33,
+    "endTime": 544.33,
+    "text": "and you'll appreciate"
+  },
+  {
+    "startTime": 544.33,
+    "endTime": 547.33,
+    "text": "our very sophisticated graphics here."
+  },
+  {
+    "startTime": 547.33,
+    "endTime": 550.33,
+    "text": "The new chromosome went into the cell."
+  },
+  {
+    "startTime": 550.33,
+    "endTime": 552.33,
+    "text": "In fact, we thought this might be as far as it went,"
+  },
+  {
+    "startTime": 552.33,
+    "endTime": 555.33,
+    "text": "but we tried to design the process a little bit further."
+  },
+  {
+    "startTime": 555.33,
+    "endTime": 558.33,
+    "text": "This is a major mechanism of evolution right here."
+  },
+  {
+    "startTime": 558.33,
+    "endTime": 560.33,
+    "text": "We find all kinds of species"
+  },
+  {
+    "startTime": 560.33,
+    "endTime": 562.33,
+    "text": "that have taken up a second chromosome"
+  },
+  {
+    "startTime": 562.33,
+    "endTime": 564.33,
+    "text": "or a third one from somewhere,"
+  },
+  {
+    "startTime": 564.33,
+    "endTime": 566.33,
+    "text": "adding thousands of new traits"
+  },
+  {
+    "startTime": 566.33,
+    "endTime": 568.33,
+    "text": "in a second to that species."
+  },
+  {
+    "startTime": 568.33,
+    "endTime": 570.33,
+    "text": "So, people who think of evolution"
+  },
+  {
+    "startTime": 570.33,
+    "endTime": 572.33,
+    "text": "as just one gene changing at a time"
+  },
+  {
+    "startTime": 572.33,
+    "endTime": 575.33,
+    "text": "have missed much of biology."
+  },
+  {
+    "startTime": 575.33,
+    "endTime": 577.33,
+    "text": "There are enzymes called restriction enzymes"
+  },
+  {
+    "startTime": 577.33,
+    "endTime": 579.33,
+    "text": "that actually digest DNA."
+  },
+  {
+    "startTime": 579.33,
+    "endTime": 581.33,
+    "text": "The chromosome that was in the cell"
+  },
+  {
+    "startTime": 581.33,
+    "endTime": 583.33,
+    "text": "doesn't have one;"
+  },
+  {
+    "startTime": 583.33,
+    "endTime": 585.33,
+    "text": "the chromosome we put in does."
+  },
+  {
+    "startTime": 585.33,
+    "endTime": 587.33,
+    "text": "It got expressed and it recognized"
+  },
+  {
+    "startTime": 587.33,
+    "endTime": 590.33,
+    "text": "the other chromosome as foreign material,"
+  },
+  {
+    "startTime": 590.33,
+    "endTime": 592.33,
+    "text": "chewed it up, and so we ended up"
+  },
+  {
+    "startTime": 592.33,
+    "endTime": 596.33,
+    "text": "just with a cell with the new chromosome."
+  },
+  {
+    "startTime": 596.33,
+    "endTime": 599.33,
+    "text": "It turned blue because of the genes we put in it."
+  },
+  {
+    "startTime": 599.33,
+    "endTime": 601.33,
+    "text": "And with a very short period of time,"
+  },
+  {
+    "startTime": 601.33,
+    "endTime": 604.33,
+    "text": "all the characteristics of one species were lost"
+  },
+  {
+    "startTime": 604.33,
+    "endTime": 607.33,
+    "text": "and it converted totally into the new species"
+  },
+  {
+    "startTime": 607.33,
+    "endTime": 610.33,
+    "text": "based on the new software that we put in the cell."
+  },
+  {
+    "startTime": 610.33,
+    "endTime": 612.33,
+    "text": "All the proteins changed,"
+  },
+  {
+    "startTime": 612.33,
+    "endTime": 614.33,
+    "text": "the membranes changed;"
+  },
+  {
+    "startTime": 614.33,
+    "endTime": 618.33,
+    "text": "when we read the genetic code, it's exactly what we had transferred in."
+  },
+  {
+    "startTime": 618.33,
+    "endTime": 621.33,
+    "text": "So, this may sound like genomic alchemy,"
+  },
+  {
+    "startTime": 621.33,
+    "endTime": 625.33,
+    "text": "but we can, by moving the software of DNA around,"
+  },
+  {
+    "startTime": 625.33,
+    "endTime": 629.33,
+    "text": "change things quite dramatically."
+  },
+  {
+    "startTime": 629.33,
+    "endTime": 631.33,
+    "text": "Now I've argued, this is not genesis;"
+  },
+  {
+    "startTime": 631.33,
+    "endTime": 635.33,
+    "text": "this is building on three and a half billion years of evolution."
+  },
+  {
+    "startTime": 636.33,
+    "endTime": 638.33,
+    "text": "And I've argued that we're about to perhaps"
+  },
+  {
+    "startTime": 638.33,
+    "endTime": 641.33,
+    "text": "create a new version of the Cambrian explosion,"
+  },
+  {
+    "startTime": 641.33,
+    "endTime": 644.33,
+    "text": "where there's massive new speciation"
+  },
+  {
+    "startTime": 645.33,
+    "endTime": 647.33,
+    "text": "based on this digital design."
+  },
+  {
+    "startTime": 647.33,
+    "endTime": 649.33,
+    "text": "Why do this?"
+  },
+  {
+    "startTime": 649.33,
+    "endTime": 651.33,
+    "text": "I think this is pretty obvious in terms of some of the needs."
+  },
+  {
+    "startTime": 651.33,
+    "endTime": 653.33,
+    "text": "We're about to go from six and a half"
+  },
+  {
+    "startTime": 653.33,
+    "endTime": 656.33,
+    "text": "to nine billion people over the next 40 years."
+  },
+  {
+    "startTime": 656.33,
+    "endTime": 658.33,
+    "text": "To put it in context for myself:"
+  },
+  {
+    "startTime": 658.33,
+    "endTime": 660.33,
+    "text": "I was born in 1946."
+  },
+  {
+    "startTime": 660.33,
+    "endTime": 662.33,
+    "text": "There are now three people on the planet"
+  },
+  {
+    "startTime": 662.33,
+    "endTime": 666.33,
+    "text": "for every one of us that existed in 1946;"
+  },
+  {
+    "startTime": 666.33,
+    "endTime": 669.33,
+    "text": "within 40 years, there'll be four."
+  },
+  {
+    "startTime": 669.33,
+    "endTime": 672.33,
+    "text": "We have trouble feeding, providing fresh, clean water,"
+  },
+  {
+    "startTime": 672.33,
+    "endTime": 674.33,
+    "text": "medicines, fuel"
+  },
+  {
+    "startTime": 674.33,
+    "endTime": 677.33,
+    "text": "for the six and a half billion."
+  },
+  {
+    "startTime": 677.33,
+    "endTime": 679.33,
+    "text": "It's going to be a stretch to do it for nine."
+  },
+  {
+    "startTime": 679.33,
+    "endTime": 682.33,
+    "text": "We use over five billion tons of coal,"
+  },
+  {
+    "startTime": 682.33,
+    "endTime": 685.33,
+    "text": "30 billion-plus barrels of oil --"
+  },
+  {
+    "startTime": 685.33,
+    "endTime": 689.33,
+    "text": "that's a hundred million barrels a day."
+  },
+  {
+    "startTime": 689.33,
+    "endTime": 691.33,
+    "text": "When we try to think of biological processes"
+  },
+  {
+    "startTime": 691.33,
+    "endTime": 694.33,
+    "text": "or any process to replace that,"
+  },
+  {
+    "startTime": 694.33,
+    "endTime": 696.33,
+    "text": "it's going to be a huge challenge."
+  },
+  {
+    "startTime": 696.33,
+    "endTime": 698.33,
+    "text": "Then of course, there's all that"
+  },
+  {
+    "startTime": 698.33,
+    "endTime": 700.33,
+    "text": "CO2 from this material"
+  },
+  {
+    "startTime": 700.33,
+    "endTime": 703.33,
+    "text": "that ends up in the atmosphere."
+  },
+  {
+    "startTime": 703.33,
+    "endTime": 705.33,
+    "text": "We now, from our discovery around the world,"
+  },
+  {
+    "startTime": 705.33,
+    "endTime": 709.33,
+    "text": "have a database with about 20 million genes,"
+  },
+  {
+    "startTime": 709.33,
+    "endTime": 713.33,
+    "text": "and I like to think of these as the design components of the future."
+  },
+  {
+    "startTime": 713.33,
+    "endTime": 716.33,
+    "text": "The electronics industry only had a dozen or so components,"
+  },
+  {
+    "startTime": 716.33,
+    "endTime": 720.33,
+    "text": "and look at the diversity that came out of that."
+  },
+  {
+    "startTime": 720.33,
+    "endTime": 722.33,
+    "text": "We're limited here primarily"
+  },
+  {
+    "startTime": 722.33,
+    "endTime": 724.33,
+    "text": "by a biological reality"
+  },
+  {
+    "startTime": 724.33,
+    "endTime": 726.33,
+    "text": "and our imagination."
+  },
+  {
+    "startTime": 727.33,
+    "endTime": 729.33,
+    "text": "We now have techniques,"
+  },
+  {
+    "startTime": 729.33,
+    "endTime": 732.33,
+    "text": "because of these rapid methods of synthesis,"
+  },
+  {
+    "startTime": 732.33,
+    "endTime": 736.33,
+    "text": "to do what we're calling combinatorial genomics."
+  },
+  {
+    "startTime": 736.33,
+    "endTime": 739.33,
+    "text": "We have the ability now to build a large robot"
+  },
+  {
+    "startTime": 739.33,
+    "endTime": 742.33,
+    "text": "that can make a million chromosomes a day."
+  },
+  {
+    "startTime": 743.33,
+    "endTime": 746.33,
+    "text": "When you think of processing these 20 million different genes"
+  },
+  {
+    "startTime": 746.33,
+    "endTime": 748.33,
+    "text": "or trying to optimize processes"
+  },
+  {
+    "startTime": 748.33,
+    "endTime": 751.33,
+    "text": "to produce octane or to produce pharmaceuticals,"
+  },
+  {
+    "startTime": 751.33,
+    "endTime": 754.33,
+    "text": "new vaccines,"
+  },
+  {
+    "startTime": 754.33,
+    "endTime": 757.33,
+    "text": "we can just with a small team,"
+  },
+  {
+    "startTime": 757.33,
+    "endTime": 759.33,
+    "text": "do more molecular biology"
+  },
+  {
+    "startTime": 759.33,
+    "endTime": 762.33,
+    "text": "than the last 20 years of all science."
+  },
+  {
+    "startTime": 762.33,
+    "endTime": 764.33,
+    "text": "And it's just standard selection:"
+  },
+  {
+    "startTime": 764.33,
+    "endTime": 766.33,
+    "text": "we can select for viability,"
+  },
+  {
+    "startTime": 766.33,
+    "endTime": 768.33,
+    "text": "chemical or fuel production,"
+  },
+  {
+    "startTime": 768.33,
+    "endTime": 770.33,
+    "text": "vaccine production, etc."
+  },
+  {
+    "startTime": 770.33,
+    "endTime": 773.33,
+    "text": "This is a screen snapshot"
+  },
+  {
+    "startTime": 773.33,
+    "endTime": 776.33,
+    "text": "of some true design software"
+  },
+  {
+    "startTime": 776.33,
+    "endTime": 779.33,
+    "text": "that we're working on to actually be able to sit down"
+  },
+  {
+    "startTime": 779.33,
+    "endTime": 782.33,
+    "text": "and design species in the computer."
+  },
+  {
+    "startTime": 783.33,
+    "endTime": 786.33,
+    "text": "You know, we don't know necessarily what it'll look like:"
+  },
+  {
+    "startTime": 786.33,
+    "endTime": 789.33,
+    "text": "we know exactly what their genetic code looks like."
+  },
+  {
+    "startTime": 789.33,
+    "endTime": 794.33,
+    "text": "We're focusing on now fourth-generation fuels."
+  },
+  {
+    "startTime": 795.33,
+    "endTime": 797.33,
+    "text": "You've seen recently, corn to ethanol"
+  },
+  {
+    "startTime": 797.33,
+    "endTime": 799.33,
+    "text": "is just a bad experiment."
+  },
+  {
+    "startTime": 799.33,
+    "endTime": 801.33,
+    "text": "We have second- and third-generation fuels"
+  },
+  {
+    "startTime": 801.33,
+    "endTime": 804.33,
+    "text": "that will be coming out relatively soon"
+  },
+  {
+    "startTime": 804.33,
+    "endTime": 807.33,
+    "text": "that are sugar, to much higher-value fuels"
+  },
+  {
+    "startTime": 807.33,
+    "endTime": 810.33,
+    "text": "like octane or different types of butanol."
+  },
+  {
+    "startTime": 810.33,
+    "endTime": 813.33,
+    "text": "But the only way we think that biology"
+  },
+  {
+    "startTime": 813.33,
+    "endTime": 815.33,
+    "text": "can have a major impact without"
+  },
+  {
+    "startTime": 816.33,
+    "endTime": 819.33,
+    "text": "further increasing the cost of food and limiting its availability"
+  },
+  {
+    "startTime": 819.33,
+    "endTime": 822.33,
+    "text": "is if we start with CO2 as its feedstock,"
+  },
+  {
+    "startTime": 822.33,
+    "endTime": 826.33,
+    "text": "and so we're working with designing cells to go down this road."
+  },
+  {
+    "startTime": 827.33,
+    "endTime": 830.33,
+    "text": "And we think we'll have the first fourth-generation fuels"
+  },
+  {
+    "startTime": 830.33,
+    "endTime": 832.33,
+    "text": "in about 18 months."
+  },
+  {
+    "startTime": 832.33,
+    "endTime": 834.33,
+    "text": "Sunlight and CO2 is one method ..."
+  },
+  {
+    "startTime": 834.33,
+    "endTime": 839.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 839.33,
+    "endTime": 841.33,
+    "text": "but in our discovery around the world,"
+  },
+  {
+    "startTime": 841.33,
+    "endTime": 843.33,
+    "text": "we have all kinds of other methods."
+  },
+  {
+    "startTime": 843.33,
+    "endTime": 847.33,
+    "text": "This is an organism we described in 1996."
+  },
+  {
+    "startTime": 847.33,
+    "endTime": 849.33,
+    "text": "It lives in the deep ocean,"
+  },
+  {
+    "startTime": 849.33,
+    "endTime": 851.33,
+    "text": "about a mile and a half deep,"
+  },
+  {
+    "startTime": 851.33,
+    "endTime": 853.33,
+    "text": "almost at boiling-water temperatures."
+  },
+  {
+    "startTime": 853.33,
+    "endTime": 856.33,
+    "text": "It takes CO2 to methane"
+  },
+  {
+    "startTime": 856.33,
+    "endTime": 859.33,
+    "text": "using molecular hydrogen as its energy source."
+  },
+  {
+    "startTime": 859.33,
+    "endTime": 861.33,
+    "text": "We're looking to see if we can take"
+  },
+  {
+    "startTime": 861.33,
+    "endTime": 863.33,
+    "text": "captured CO2,"
+  },
+  {
+    "startTime": 863.33,
+    "endTime": 865.33,
+    "text": "which can easily be piped to sites,"
+  },
+  {
+    "startTime": 865.33,
+    "endTime": 868.33,
+    "text": "convert that CO2 back into fuel"
+  },
+  {
+    "startTime": 868.33,
+    "endTime": 871.33,
+    "text": "to drive this process."
+  },
+  {
+    "startTime": 871.33,
+    "endTime": 873.33,
+    "text": "So, in a short period of time,"
+  },
+  {
+    "startTime": 873.33,
+    "endTime": 877.33,
+    "text": "we think that we might be able to increase"
+  },
+  {
+    "startTime": 877.33,
+    "endTime": 880.33,
+    "text": "what the basic question is of \"What is life?\""
+  },
+  {
+    "startTime": 880.33,
+    "endTime": 882.33,
+    "text": "We truly, you know,"
+  },
+  {
+    "startTime": 882.33,
+    "endTime": 884.33,
+    "text": "have modest goals"
+  },
+  {
+    "startTime": 884.33,
+    "endTime": 887.33,
+    "text": "of replacing the whole petrol-chemical industry --"
+  },
+  {
+    "startTime": 887.33,
+    "endTime": 890.33,
+    "text": "(Laughter) (Applause)"
+  },
+  {
+    "startTime": 890.33,
+    "endTime": 893.33,
+    "text": "Yeah. If you can't do that at TED, where can you? --"
+  },
+  {
+    "startTime": 893.33,
+    "endTime": 895.33,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 895.33,
+    "endTime": 897.33,
+    "text": "become a major source of energy ..."
+  },
+  {
+    "startTime": 897.33,
+    "endTime": 900.33,
+    "text": "But also, we're now working on using these same tools"
+  },
+  {
+    "startTime": 900.33,
+    "endTime": 903.33,
+    "text": "to come up with instant sets of vaccines."
+  },
+  {
+    "startTime": 903.33,
+    "endTime": 905.33,
+    "text": "You've seen this year with flu;"
+  },
+  {
+    "startTime": 905.33,
+    "endTime": 908.33,
+    "text": "we're always a year behind and a dollar short"
+  },
+  {
+    "startTime": 908.33,
+    "endTime": 910.33,
+    "text": "when it comes to the right vaccine."
+  },
+  {
+    "startTime": 910.33,
+    "endTime": 912.33,
+    "text": "I think that can be changed"
+  },
+  {
+    "startTime": 912.33,
+    "endTime": 915.33,
+    "text": "by building combinatorial vaccines in advance."
+  },
+  {
+    "startTime": 916.33,
+    "endTime": 919.33,
+    "text": "Here's what the future may begin to look like"
+  },
+  {
+    "startTime": 919.33,
+    "endTime": 923.33,
+    "text": "with changing, now, the evolutionary tree,"
+  },
+  {
+    "startTime": 923.33,
+    "endTime": 925.33,
+    "text": "speeding up evolution"
+  },
+  {
+    "startTime": 925.33,
+    "endTime": 928.33,
+    "text": "with synthetic bacteria, Archaea"
+  },
+  {
+    "startTime": 928.33,
+    "endTime": 931.33,
+    "text": "and, eventually, eukaryotes."
+  },
+  {
+    "startTime": 932.33,
+    "endTime": 934.33,
+    "text": "We're a ways away from improving people:"
+  },
+  {
+    "startTime": 934.33,
+    "endTime": 937.33,
+    "text": "our goal is just to make sure that we have a chance"
+  },
+  {
+    "startTime": 937.33,
+    "endTime": 940.33,
+    "text": "to survive long enough to maybe do that. Thank you very much."
+  },
+  {
+    "startTime": 940.33,
+    "endTime": 947.33,
+    "text": "(Applause)"
+  }
+]

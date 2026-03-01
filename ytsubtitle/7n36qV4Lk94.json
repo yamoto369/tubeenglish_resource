@@ -1,0 +1,2392 @@
+[
+  {
+    "startTime": 4.93,
+    "endTime": 8.16,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 13.12,
+    "endTime": 15.68,
+    "text": "I want to start my story in Germany in"
+  },
+  {
+    "startTime": 15.68,
+    "endTime": 17.96,
+    "text": "1877 the mathematician named George"
+  },
+  {
+    "startTime": 17.96,
+    "endTime": 20.359,
+    "text": "caner and caner decided he was going to"
+  },
+  {
+    "startTime": 20.359,
+    "endTime": 22.6,
+    "text": "take a line and erase the middle third"
+  },
+  {
+    "startTime": 22.6,
+    "endTime": 24.64,
+    "text": "of the line and then take those two"
+  },
+  {
+    "startTime": 24.64,
+    "endTime": 26.439,
+    "text": "resulting lines and bring them back into"
+  },
+  {
+    "startTime": 26.439,
+    "endTime": 29.0,
+    "text": "the same process a recursive process so"
+  },
+  {
+    "startTime": 29.0,
+    "endTime": 30.56,
+    "text": "he starts out with one line and then two"
+  },
+  {
+    "startTime": 30.56,
+    "endTime": 33.2,
+    "text": "and then four and then 16 and so on and"
+  },
+  {
+    "startTime": 33.2,
+    "endTime": 34.76,
+    "text": "if he does this an infinite number of"
+  },
+  {
+    "startTime": 34.76,
+    "endTime": 36.64,
+    "text": "times which you can do in mathematics he"
+  },
+  {
+    "startTime": 36.64,
+    "endTime": 38.32,
+    "text": "ends up with an infinite number of lines"
+  },
+  {
+    "startTime": 38.32,
+    "endTime": 40.16,
+    "text": "Each of which has an infinite number of"
+  },
+  {
+    "startTime": 40.16,
+    "endTime": 42.84,
+    "text": "points in it so he realized he had a set"
+  },
+  {
+    "startTime": 42.84,
+    "endTime": 44.879,
+    "text": "whose number of elements was larger than"
+  },
+  {
+    "startTime": 44.879,
+    "endTime": 46.96,
+    "text": "infinity and this blew his mind"
+  },
+  {
+    "startTime": 46.96,
+    "endTime": 49.399,
+    "text": "literally he checked in the sanitarium"
+  },
+  {
+    "startTime": 49.399,
+    "endTime": 51.8,
+    "text": "and when he came out of the sanitarium"
+  },
+  {
+    "startTime": 51.8,
+    "endTime": 53.6,
+    "text": "he he was convinced that he had been put"
+  },
+  {
+    "startTime": 53.6,
+    "endTime": 56.039,
+    "text": "on Earth to found trans finite set"
+  },
+  {
+    "startTime": 56.039,
+    "endTime": 57.52,
+    "text": "theory because the largest set of"
+  },
+  {
+    "startTime": 57.52,
+    "endTime": 59.16,
+    "text": "infinity would be God himself he's a"
+  },
+  {
+    "startTime": 59.16,
+    "endTime": 61.239,
+    "text": "very religious man it's a mathematician"
+  },
+  {
+    "startTime": 61.239,
+    "endTime": 63.76,
+    "text": "on a mission and other mathematicians"
+  },
+  {
+    "startTime": 63.76,
+    "endTime": 65.799,
+    "text": "did the same sort of thing a Swedish"
+  },
+  {
+    "startTime": 65.799,
+    "endTime": 68.119,
+    "text": "mathematician Von decided that instead"
+  },
+  {
+    "startTime": 68.119,
+    "endTime": 70.6,
+    "text": "of subtracting lines he would add them"
+  },
+  {
+    "startTime": 70.6,
+    "endTime": 72.119,
+    "text": "and so he came up with this beautiful"
+  },
+  {
+    "startTime": 72.119,
+    "endTime": 74.04,
+    "text": "curve and there's no particular reason"
+  },
+  {
+    "startTime": 74.04,
+    "endTime": 75.4,
+    "text": "why we have to start with this seed"
+  },
+  {
+    "startTime": 75.4,
+    "endTime": 77.96,
+    "text": "shape we can use any uh any seed shape"
+  },
+  {
+    "startTime": 77.96,
+    "endTime": 78.72,
+    "text": "we"
+  },
+  {
+    "startTime": 78.72,
+    "endTime": 81.64,
+    "text": "like and uh I'll rearrange this and I'll"
+  },
+  {
+    "startTime": 81.64,
+    "endTime": 85.0,
+    "text": "stick this somewhere down there okay and"
+  },
+  {
+    "startTime": 85.0,
+    "endTime": 87.68,
+    "text": "uh now upon iteration that seed shape"
+  },
+  {
+    "startTime": 87.68,
+    "endTime": 89.92,
+    "text": "sort of unfolds into a very different"
+  },
+  {
+    "startTime": 89.92,
+    "endTime": 91.799,
+    "text": "looking structure so these all have the"
+  },
+  {
+    "startTime": 91.799,
+    "endTime": 93.439,
+    "text": "property of self-similarity the part"
+  },
+  {
+    "startTime": 93.439,
+    "endTime": 94.759,
+    "text": "looks like the whole it's the same"
+  },
+  {
+    "startTime": 94.759,
+    "endTime": 97.24,
+    "text": "pattern at many different scales now"
+  },
+  {
+    "startTime": 97.24,
+    "endTime": 98.759,
+    "text": "mathematicians thought this was very"
+  },
+  {
+    "startTime": 98.759,
+    "endTime": 101.439,
+    "text": "strange because as you shrink a ruler"
+  },
+  {
+    "startTime": 101.439,
+    "endTime": 103.84,
+    "text": "down you measure a longer and longer"
+  },
+  {
+    "startTime": 103.84,
+    "endTime": 105.399,
+    "text": "length and since they went through the"
+  },
+  {
+    "startTime": 105.399,
+    "endTime": 107.88,
+    "text": "iterations an infinite number of times"
+  },
+  {
+    "startTime": 107.88,
+    "endTime": 109.88,
+    "text": "as the ruler shrinks down to Infinity"
+  },
+  {
+    "startTime": 109.88,
+    "endTime": 112.079,
+    "text": "the length goes to"
+  },
+  {
+    "startTime": 112.079,
+    "endTime": 114.2,
+    "text": "Infinity this made no sense at all so"
+  },
+  {
+    "startTime": 114.2,
+    "endTime": 115.64,
+    "text": "they consigned these curves to the back"
+  },
+  {
+    "startTime": 115.64,
+    "endTime": 117.079,
+    "text": "of the math books they said these are"
+  },
+  {
+    "startTime": 117.079,
+    "endTime": 118.759,
+    "text": "pathological curves and we don't have to"
+  },
+  {
+    "startTime": 118.759,
+    "endTime": 121.759,
+    "text": "discuss them"
+  },
+  {
+    "startTime": 121.759,
+    "endTime": 124.56,
+    "text": "and that worked for a hundred years and"
+  },
+  {
+    "startTime": 124.56,
+    "endTime": 126.399,
+    "text": "then in"
+  },
+  {
+    "startTime": 126.399,
+    "endTime": 129.2,
+    "text": "1977 benw mandelbrot a French"
+  },
+  {
+    "startTime": 129.2,
+    "endTime": 131.239,
+    "text": "mathematician realized that if you do"
+  },
+  {
+    "startTime": 131.239,
+    "endTime": 133.2,
+    "text": "computer graphics and use the these"
+  },
+  {
+    "startTime": 133.2,
+    "endTime": 135.28,
+    "text": "shapes he called fractals you get the"
+  },
+  {
+    "startTime": 135.28,
+    "endTime": 138.04,
+    "text": "shapes of nature you get uh the human"
+  },
+  {
+    "startTime": 138.04,
+    "endTime": 140.239,
+    "text": "lungs you get acacia trees you get ferns"
+  },
+  {
+    "startTime": 140.239,
+    "endTime": 142.4,
+    "text": "you get these beautiful natural forms if"
+  },
+  {
+    "startTime": 142.4,
+    "endTime": 144.72,
+    "text": "you um take your your your thumb and"
+  },
+  {
+    "startTime": 144.72,
+    "endTime": 146.319,
+    "text": "your index finger and look right where"
+  },
+  {
+    "startTime": 146.319,
+    "endTime": 148.56,
+    "text": "they meet go ahead and do that now and"
+  },
+  {
+    "startTime": 148.56,
+    "endTime": 150.519,
+    "text": "and relax your your your hand you'll see"
+  },
+  {
+    "startTime": 150.519,
+    "endTime": 152.56,
+    "text": "a crinkle and then a wrinkle within the"
+  },
+  {
+    "startTime": 152.56,
+    "endTime": 154.0,
+    "text": "crinkle and a crinkle within the wrinkle"
+  },
+  {
+    "startTime": 154.0,
+    "endTime": 155.84,
+    "text": "within right your body is covered with"
+  },
+  {
+    "startTime": 155.84,
+    "endTime": 157.4,
+    "text": "fractal the mathematicians were saying"
+  },
+  {
+    "startTime": 157.4,
+    "endTime": 159.4,
+    "text": "these are pathological useless shapes"
+  },
+  {
+    "startTime": 159.4,
+    "endTime": 160.76,
+    "text": "they were breathing those words with"
+  },
+  {
+    "startTime": 160.76,
+    "endTime": 162.92,
+    "text": "fractal lungs it's very"
+  },
+  {
+    "startTime": 162.92,
+    "endTime": 164.64,
+    "text": "ironic and I'll show you a little"
+  },
+  {
+    "startTime": 164.64,
+    "endTime": 166.72,
+    "text": "natural recursion here we again we just"
+  },
+  {
+    "startTime": 166.72,
+    "endTime": 168.56,
+    "text": "take these lines and recursively replace"
+  },
+  {
+    "startTime": 168.56,
+    "endTime": 171.239,
+    "text": "them with the whole shape so so here's"
+  },
+  {
+    "startTime": 171.239,
+    "endTime": 174.319,
+    "text": "the second iteration third fourth and uh"
+  },
+  {
+    "startTime": 174.319,
+    "endTime": 175.959,
+    "text": "and so on so Nature has this"
+  },
+  {
+    "startTime": 175.959,
+    "endTime": 177.84,
+    "text": "self-similar structure nature uses"
+  },
+  {
+    "startTime": 177.84,
+    "endTime": 180.879,
+    "text": "self-organizing systems now in the 1980s"
+  },
+  {
+    "startTime": 180.879,
+    "endTime": 182.959,
+    "text": "I happened to notice that uh if you look"
+  },
+  {
+    "startTime": 182.959,
+    "endTime": 184.68,
+    "text": "at an aerial photograph of an African"
+  },
+  {
+    "startTime": 184.68,
+    "endTime": 187.76,
+    "text": "village you see fractals and I thought"
+  },
+  {
+    "startTime": 187.76,
+    "endTime": 189.92,
+    "text": "this is fabulous I wonder why and of"
+  },
+  {
+    "startTime": 189.92,
+    "endTime": 191.76,
+    "text": "course I had to go to Africa and ask"
+  },
+  {
+    "startTime": 191.76,
+    "endTime": 194.64,
+    "text": "folks why um so I got a full bright uh"
+  },
+  {
+    "startTime": 194.64,
+    "endTime": 196.599,
+    "text": "scholarship to to to uh just travel"
+  },
+  {
+    "startTime": 196.599,
+    "endTime": 198.599,
+    "text": "around Africa for a year asking people"
+  },
+  {
+    "startTime": 198.599,
+    "endTime": 200.64,
+    "text": "why they were building fractals which is"
+  },
+  {
+    "startTime": 200.64,
+    "endTime": 202.72,
+    "text": "a great job if you can get"
+  },
+  {
+    "startTime": 202.72,
+    "endTime": 206.36,
+    "text": "it and so I I I finally got to this city"
+  },
+  {
+    "startTime": 206.36,
+    "endTime": 209.319,
+    "text": "um and I done a little fractal model for"
+  },
+  {
+    "startTime": 209.319,
+    "endTime": 211.36,
+    "text": "the the city just to see how how it"
+  },
+  {
+    "startTime": 211.36,
+    "endTime": 213.48,
+    "text": "would sort of unfold but when I got"
+  },
+  {
+    "startTime": 213.48,
+    "endTime": 216.159,
+    "text": "there um I got to the the this Palace of"
+  },
+  {
+    "startTime": 216.159,
+    "endTime": 218.319,
+    "text": "the chief uh and my French is not very"
+  },
+  {
+    "startTime": 218.319,
+    "endTime": 219.959,
+    "text": "good I said something like I'm a"
+  },
+  {
+    "startTime": 219.959,
+    "endTime": 221.4,
+    "text": "mathematician and I would like to stand"
+  },
+  {
+    "startTime": 221.4,
+    "endTime": 223.519,
+    "text": "on your roof um but he was really cool"
+  },
+  {
+    "startTime": 223.519,
+    "endTime": 225.2,
+    "text": "about it he took me up there and we"
+  },
+  {
+    "startTime": 225.2,
+    "endTime": 227.239,
+    "text": "talked about fractals and and he said oh"
+  },
+  {
+    "startTime": 227.239,
+    "endTime": 228.799,
+    "text": "yeah yeah yeah we we know rectangle"
+  },
+  {
+    "startTime": 228.799,
+    "endTime": 229.959,
+    "text": "within a rectangle within a rectangle we"
+  },
+  {
+    "startTime": 229.959,
+    "endTime": 231.64,
+    "text": "know all about that and it turns out the"
+  },
+  {
+    "startTime": 231.64,
+    "endTime": 234.079,
+    "text": "Royal Insignia has a rectangle within a"
+  },
+  {
+    "startTime": 234.079,
+    "endTime": 235.84,
+    "text": "rectangle within a rectangle and the"
+  },
+  {
+    "startTime": 235.84,
+    "endTime": 238.12,
+    "text": "path through that Palace is actually"
+  },
+  {
+    "startTime": 238.12,
+    "endTime": 240.28,
+    "text": "this this spiral here and as you go"
+  },
+  {
+    "startTime": 240.28,
+    "endTime": 242.04,
+    "text": "through the the paths you have to get"
+  },
+  {
+    "startTime": 242.04,
+    "endTime": 243.56,
+    "text": "more and more polite so they're mapping"
+  },
+  {
+    "startTime": 243.56,
+    "endTime": 245.68,
+    "text": "the social scaling onto the geometric"
+  },
+  {
+    "startTime": 245.68,
+    "endTime": 247.92,
+    "text": "scaling it's a conscious uh pattern it"
+  },
+  {
+    "startTime": 247.92,
+    "endTime": 249.64,
+    "text": "is it is not unconscious like a a"
+  },
+  {
+    "startTime": 249.64,
+    "endTime": 252.12,
+    "text": "termite Mount fractal uh this is a a"
+  },
+  {
+    "startTime": 252.12,
+    "endTime": 254.599,
+    "text": "village in southern Zambia the Baila uh"
+  },
+  {
+    "startTime": 254.599,
+    "endTime": 256.959,
+    "text": "build this Village about 400 m in"
+  },
+  {
+    "startTime": 256.959,
+    "endTime": 260.4,
+    "text": "diameter um you have a huge ring the"
+  },
+  {
+    "startTime": 260.4,
+    "endTime": 262.68,
+    "text": "rings that uh represent the family"
+  },
+  {
+    "startTime": 262.68,
+    "endTime": 264.4,
+    "text": "enclosures get larger and larger you go"
+  },
+  {
+    "startTime": 264.4,
+    "endTime": 266.56,
+    "text": "towards the back and then you have the"
+  },
+  {
+    "startTime": 266.56,
+    "endTime": 269.639,
+    "text": "chief's ring here in uh towards the back"
+  },
+  {
+    "startTime": 269.639,
+    "endTime": 272.479,
+    "text": "and then the chief's uh immediate family"
+  },
+  {
+    "startTime": 272.479,
+    "endTime": 273.72,
+    "text": "uh in that ring so here's a little"
+  },
+  {
+    "startTime": 273.72,
+    "endTime": 276.08,
+    "text": "fractal model for it here's one house"
+  },
+  {
+    "startTime": 276.08,
+    "endTime": 278.24,
+    "text": "with the sacred altar uh here's the"
+  },
+  {
+    "startTime": 278.24,
+    "endTime": 280.88,
+    "text": "house of houses the family enclosure uh"
+  },
+  {
+    "startTime": 280.88,
+    "endTime": 282.68,
+    "text": "with the the humans here where the"
+  },
+  {
+    "startTime": 282.68,
+    "endTime": 284.44,
+    "text": "sacred altar would be and then here's"
+  },
+  {
+    "startTime": 284.44,
+    "endTime": 286.199,
+    "text": "the village as a whole a ring of Ring of"
+  },
+  {
+    "startTime": 286.199,
+    "endTime": 288.12,
+    "text": "rings uh with the chief's extended"
+  },
+  {
+    "startTime": 288.12,
+    "endTime": 290.12,
+    "text": "family here the chief's immediate family"
+  },
+  {
+    "startTime": 290.12,
+    "endTime": 292.6,
+    "text": "here and then here there's a tiny"
+  },
+  {
+    "startTime": 292.6,
+    "endTime": 294.639,
+    "text": "village only this big now you might"
+  },
+  {
+    "startTime": 294.639,
+    "endTime": 296.6,
+    "text": "wonder how can people fit in a tiny"
+  },
+  {
+    "startTime": 296.6,
+    "endTime": 298.24,
+    "text": "village only this big that's CU they're"
+  },
+  {
+    "startTime": 298.24,
+    "endTime": 300.919,
+    "text": "Spirit people it's the ancestors and of"
+  },
+  {
+    "startTime": 300.919,
+    "endTime": 303.039,
+    "text": "course the spirit people have a little"
+  },
+  {
+    "startTime": 303.039,
+    "endTime": 305.0,
+    "text": "miniature Village in their Village right"
+  },
+  {
+    "startTime": 305.0,
+    "endTime": 306.52,
+    "text": "so it's just like George caner said the"
+  },
+  {
+    "startTime": 306.52,
+    "endTime": 308.4,
+    "text": "the the recursion continues Forever This"
+  },
+  {
+    "startTime": 308.4,
+    "endTime": 310.039,
+    "text": "is in the Mandara mountains near the"
+  },
+  {
+    "startTime": 310.039,
+    "endTime": 312.96,
+    "text": "Nigerian Border in in Cameroon muku I I"
+  },
+  {
+    "startTime": 312.96,
+    "endTime": 315.68,
+    "text": "saw this diagram drawn by a French um"
+  },
+  {
+    "startTime": 315.68,
+    "endTime": 317.52,
+    "text": "architect I thought wow what a beautiful"
+  },
+  {
+    "startTime": 317.52,
+    "endTime": 319.919,
+    "text": "fractal so I tried to uh come up with a"
+  },
+  {
+    "startTime": 319.919,
+    "endTime": 321.72,
+    "text": "seed shape which upon iteration would"
+  },
+  {
+    "startTime": 321.72,
+    "endTime": 324.08,
+    "text": "unfold into this thing I came up with"
+  },
+  {
+    "startTime": 324.08,
+    "endTime": 326.639,
+    "text": "this uh structure here let's see first"
+  },
+  {
+    "startTime": 326.639,
+    "endTime": 330.0,
+    "text": "iteration second third fourth now after"
+  },
+  {
+    "startTime": 330.0,
+    "endTime": 332.08,
+    "text": "I did the simulation I realized the"
+  },
+  {
+    "startTime": 332.08,
+    "endTime": 334.36,
+    "text": "whole village kind of spirals around"
+  },
+  {
+    "startTime": 334.36,
+    "endTime": 336.4,
+    "text": "just like this and here's that rep"
+  },
+  {
+    "startTime": 336.4,
+    "endTime": 338.72,
+    "text": "replicating line self-replicating line"
+  },
+  {
+    "startTime": 338.72,
+    "endTime": 341.4,
+    "text": "that that unfolds into the fractal well"
+  },
+  {
+    "startTime": 341.4,
+    "endTime": 343.08,
+    "text": "I noticed that line is about where the"
+  },
+  {
+    "startTime": 343.08,
+    "endTime": 345.319,
+    "text": "only Square building in the village is"
+  },
+  {
+    "startTime": 345.319,
+    "endTime": 348.24,
+    "text": "at so when I got to the Village I said"
+  },
+  {
+    "startTime": 348.24,
+    "endTime": 349.6,
+    "text": "can you take me to the square building I"
+  },
+  {
+    "startTime": 349.6,
+    "endTime": 350.72,
+    "text": "think you know something's going on"
+  },
+  {
+    "startTime": 350.72,
+    "endTime": 352.84,
+    "text": "there and they said well we can take you"
+  },
+  {
+    "startTime": 352.84,
+    "endTime": 354.639,
+    "text": "there but you can't go inside because"
+  },
+  {
+    "startTime": 354.639,
+    "endTime": 356.16,
+    "text": "that's the sacred altar where we do"
+  },
+  {
+    "startTime": 356.16,
+    "endTime": 358.039,
+    "text": "sacrifices every year to keep up those"
+  },
+  {
+    "startTime": 358.039,
+    "endTime": 360.039,
+    "text": "annual cycles of fertility from the"
+  },
+  {
+    "startTime": 360.039,
+    "endTime": 361.479,
+    "text": "field and I started to realize that the"
+  },
+  {
+    "startTime": 361.479,
+    "endTime": 363.28,
+    "text": "cycles of fertility were just like the"
+  },
+  {
+    "startTime": 363.28,
+    "endTime": 365.199,
+    "text": "recursive Cycles in the the geometric"
+  },
+  {
+    "startTime": 365.199,
+    "endTime": 367.16,
+    "text": "algorithm that builds this and the"
+  },
+  {
+    "startTime": 367.16,
+    "endTime": 368.479,
+    "text": "recursion in some of these Villages"
+  },
+  {
+    "startTime": 368.479,
+    "endTime": 370.199,
+    "text": "continues down to very tiny scales so"
+  },
+  {
+    "startTime": 370.199,
+    "endTime": 373.08,
+    "text": "here's a a Nani Village in Mali and you"
+  },
+  {
+    "startTime": 373.08,
+    "endTime": 374.44,
+    "text": "can see you go inside the family"
+  },
+  {
+    "startTime": 374.44,
+    "endTime": 377.039,
+    "text": "enclosure you go inside and here's pots"
+  },
+  {
+    "startTime": 377.039,
+    "endTime": 379.639,
+    "text": "in the the fireplace stacked recursively"
+  },
+  {
+    "startTime": 379.639,
+    "endTime": 382.479,
+    "text": "here's the calabashes that that uh Issa"
+  },
+  {
+    "startTime": 382.479,
+    "endTime": 384.16,
+    "text": "was just showing us and they're stacked"
+  },
+  {
+    "startTime": 384.16,
+    "endTime": 386.199,
+    "text": "recursively now the tiniest Calabash in"
+  },
+  {
+    "startTime": 386.199,
+    "endTime": 388.36,
+    "text": "here keeps the woman's soul and when she"
+  },
+  {
+    "startTime": 388.36,
+    "endTime": 389.759,
+    "text": "dies they have her ceremony where they"
+  },
+  {
+    "startTime": 389.759,
+    "endTime": 392.08,
+    "text": "break this stack called the zanga and"
+  },
+  {
+    "startTime": 392.08,
+    "endTime": 394.319,
+    "text": "her soul goes off to to Eternity once"
+  },
+  {
+    "startTime": 394.319,
+    "endTime": 397.599,
+    "text": "again uh once again Infinity is"
+  },
+  {
+    "startTime": 397.599,
+    "endTime": 400.36,
+    "text": "important now you might ask yourself"
+  },
+  {
+    "startTime": 400.36,
+    "endTime": 402.96,
+    "text": "three questions at this point aren't"
+  },
+  {
+    "startTime": 402.96,
+    "endTime": 404.88,
+    "text": "these scaling patterns just Universal to"
+  },
+  {
+    "startTime": 404.88,
+    "endTime": 407.36,
+    "text": "all indigenous architecture and that was"
+  },
+  {
+    "startTime": 407.36,
+    "endTime": 408.88,
+    "text": "actually my original hypothesis when I"
+  },
+  {
+    "startTime": 408.88,
+    "endTime": 410.479,
+    "text": "first saw those afan fractal I thought"
+  },
+  {
+    "startTime": 410.479,
+    "endTime": 412.919,
+    "text": "wow so so any indigenous group that"
+  },
+  {
+    "startTime": 412.919,
+    "endTime": 414.639,
+    "text": "doesn't have a state Society that's in a"
+  },
+  {
+    "startTime": 414.639,
+    "endTime": 417.08,
+    "text": "hierarchy must have a kind of bottomup"
+  },
+  {
+    "startTime": 417.08,
+    "endTime": 418.72,
+    "text": "architecture but that turns out not to"
+  },
+  {
+    "startTime": 418.72,
+    "endTime": 420.08,
+    "text": "be true I started collecting aerial"
+  },
+  {
+    "startTime": 420.08,
+    "endTime": 422.599,
+    "text": "photographs of um Native American South"
+  },
+  {
+    "startTime": 422.599,
+    "endTime": 424.56,
+    "text": "Pacific architecture only the African"
+  },
+  {
+    "startTime": 424.56,
+    "endTime": 426.84,
+    "text": "ones were were fractal and if you think"
+  },
+  {
+    "startTime": 426.84,
+    "endTime": 428.319,
+    "text": "about it all these different societies"
+  },
+  {
+    "startTime": 428.319,
+    "endTime": 430.0,
+    "text": "have different um geometric design"
+  },
+  {
+    "startTime": 430.0,
+    "endTime": 432.24,
+    "text": "themes that they use so so Native"
+  },
+  {
+    "startTime": 432.24,
+    "endTime": 434.68,
+    "text": "Americans use a combination of circular"
+  },
+  {
+    "startTime": 434.68,
+    "endTime": 437.0,
+    "text": "Symmetry and four-fold symmetry uh and"
+  },
+  {
+    "startTime": 437.0,
+    "endTime": 438.479,
+    "text": "you can see on the pottery and the"
+  },
+  {
+    "startTime": 438.479,
+    "endTime": 440.479,
+    "text": "baskets here's a here's an aerial"
+  },
+  {
+    "startTime": 440.479,
+    "endTime": 442.84,
+    "text": "photograph of one of the anastasi ruins"
+  },
+  {
+    "startTime": 442.84,
+    "endTime": 444.319,
+    "text": "you can see it's circular at the largest"
+  },
+  {
+    "startTime": 444.319,
+    "endTime": 446.52,
+    "text": "scale but it's rectangular at the"
+  },
+  {
+    "startTime": 446.52,
+    "endTime": 448.44,
+    "text": "smaller scale right it is not the same"
+  },
+  {
+    "startTime": 448.44,
+    "endTime": 450.639,
+    "text": "pattern at different"
+  },
+  {
+    "startTime": 450.639,
+    "endTime": 453.16,
+    "text": "scales uh second you might ask well Dr"
+  },
+  {
+    "startTime": 453.16,
+    "endTime": 454.919,
+    "text": "eglash aren't you ignoring the diversity"
+  },
+  {
+    "startTime": 454.919,
+    "endTime": 457.199,
+    "text": "of African cultures uh and and three"
+  },
+  {
+    "startTime": 457.199,
+    "endTime": 459.639,
+    "text": "times the answer is no uh first of all I"
+  },
+  {
+    "startTime": 459.639,
+    "endTime": 461.599,
+    "text": "agree with uh mud's wonderful book The"
+  },
+  {
+    "startTime": 461.599,
+    "endTime": 463.84,
+    "text": "Invention of Africa that Africa is is an"
+  },
+  {
+    "startTime": 463.84,
+    "endTime": 465.0,
+    "text": "artificial invention of first"
+  },
+  {
+    "startTime": 465.0,
+    "endTime": 466.44,
+    "text": "colonialism and then oppositional"
+  },
+  {
+    "startTime": 466.44,
+    "endTime": 469.319,
+    "text": "movements um no because a widely shared"
+  },
+  {
+    "startTime": 469.319,
+    "endTime": 470.919,
+    "text": "design practice doesn't necessarily give"
+  },
+  {
+    "startTime": 470.919,
+    "endTime": 473.72,
+    "text": "you a Unity of culture and definitely is"
+  },
+  {
+    "startTime": 473.72,
+    "endTime": 476.479,
+    "text": "not in the DNA um and finally the"
+  },
+  {
+    "startTime": 476.479,
+    "endTime": 478.36,
+    "text": "fractals have self similarity so they're"
+  },
+  {
+    "startTime": 478.36,
+    "endTime": 479.759,
+    "text": "similar to themselves but they're not"
+  },
+  {
+    "startTime": 479.759,
+    "endTime": 481.199,
+    "text": "necessarily similar to each other you"
+  },
+  {
+    "startTime": 481.199,
+    "endTime": 483.319,
+    "text": "see very different uses for frackles"
+  },
+  {
+    "startTime": 483.319,
+    "endTime": 485.68,
+    "text": "it's a shared technology in"
+  },
+  {
+    "startTime": 485.68,
+    "endTime": 488.4,
+    "text": "Africa and finally well isn't this just"
+  },
+  {
+    "startTime": 488.4,
+    "endTime": 490.8,
+    "text": "intuition it's not really mathematical"
+  },
+  {
+    "startTime": 490.8,
+    "endTime": 493.159,
+    "text": "knowledge Africans can't possibly really"
+  },
+  {
+    "startTime": 493.159,
+    "endTime": 494.919,
+    "text": "be using fractal geometry right it"
+  },
+  {
+    "startTime": 494.919,
+    "endTime": 497.56,
+    "text": "wasn't invented in in until the 1970s"
+  },
+  {
+    "startTime": 497.56,
+    "endTime": 498.879,
+    "text": "well it's true that some African"
+  },
+  {
+    "startTime": 498.879,
+    "endTime": 501.44,
+    "text": "fractals um are as far as I'm concerned"
+  },
+  {
+    "startTime": 501.44,
+    "endTime": 502.96,
+    "text": "just pure intuition so some of these"
+  },
+  {
+    "startTime": 502.96,
+    "endTime": 504.039,
+    "text": "things you know I would wander around"
+  },
+  {
+    "startTime": 504.039,
+    "endTime": 505.879,
+    "text": "the streets of Dar asking people what"
+  },
+  {
+    "startTime": 505.879,
+    "endTime": 507.08,
+    "text": "are the what's the algorithm what's the"
+  },
+  {
+    "startTime": 507.08,
+    "endTime": 508.84,
+    "text": "rules for making this and they'd say"
+  },
+  {
+    "startTime": 508.84,
+    "endTime": 510.24,
+    "text": "well you know we just make it that way"
+  },
+  {
+    "startTime": 510.24,
+    "endTime": 513.039,
+    "text": "cuz it looks pretty stupid uh but"
+  },
+  {
+    "startTime": 513.039,
+    "endTime": 515.08,
+    "text": "sometimes sometimes that's not the case"
+  },
+  {
+    "startTime": 515.08,
+    "endTime": 517.32,
+    "text": "in some cases uh there would actually be"
+  },
+  {
+    "startTime": 517.32,
+    "endTime": 519.399,
+    "text": "algorithms and very sophisticated"
+  },
+  {
+    "startTime": 519.399,
+    "endTime": 521.44,
+    "text": "algorithms so in mangu sculpture you see"
+  },
+  {
+    "startTime": 521.44,
+    "endTime": 524.64,
+    "text": "this recursive geometry in uh Ethiopian"
+  },
+  {
+    "startTime": 524.64,
+    "endTime": 526.56,
+    "text": "crosses you see this wonderful unfolding"
+  },
+  {
+    "startTime": 526.56,
+    "endTime": 530.279,
+    "text": "of the shape um in uh Angola the choke"
+  },
+  {
+    "startTime": 530.279,
+    "endTime": 532.6,
+    "text": "people draw lines in the sand and it's"
+  },
+  {
+    "startTime": 532.6,
+    "endTime": 535.04,
+    "text": "what German mathematician Oiler called a"
+  },
+  {
+    "startTime": 535.04,
+    "endTime": 537.04,
+    "text": "a graph we now call it an oian path you"
+  },
+  {
+    "startTime": 537.04,
+    "endTime": 538.399,
+    "text": "can never lift your stylus from the"
+  },
+  {
+    "startTime": 538.399,
+    "endTime": 540.2,
+    "text": "surface and you can never go over the"
+  },
+  {
+    "startTime": 540.2,
+    "endTime": 542.56,
+    "text": "same line twice but they do it"
+  },
+  {
+    "startTime": 542.56,
+    "endTime": 544.64,
+    "text": "recursively and they do it with an age"
+  },
+  {
+    "startTime": 544.64,
+    "endTime": 546.36,
+    "text": "grade system so the little kids learn"
+  },
+  {
+    "startTime": 546.36,
+    "endTime": 548.32,
+    "text": "this one and then the older kids learn"
+  },
+  {
+    "startTime": 548.32,
+    "endTime": 550.04,
+    "text": "this one and then the next age grade"
+  },
+  {
+    "startTime": 550.04,
+    "endTime": 551.88,
+    "text": "initiation you learn this one and with"
+  },
+  {
+    "startTime": 551.88,
+    "endTime": 554.36,
+    "text": "with each iteration of that algorithm"
+  },
+  {
+    "startTime": 554.36,
+    "endTime": 556.279,
+    "text": "you learn the the the iterations of the"
+  },
+  {
+    "startTime": 556.279,
+    "endTime": 558.279,
+    "text": "myth you you learn the next level of"
+  },
+  {
+    "startTime": 558.279,
+    "endTime": 560.56,
+    "text": "knowledge and finally all over Africa"
+  },
+  {
+    "startTime": 560.56,
+    "endTime": 562.76,
+    "text": "you see this board game uh it's called a"
+  },
+  {
+    "startTime": 562.76,
+    "endTime": 564.48,
+    "text": "wari in Ghana where I studied it it's"
+  },
+  {
+    "startTime": 564.48,
+    "endTime": 567.399,
+    "text": "called Malala here on the East Coast ba"
+  },
+  {
+    "startTime": 567.399,
+    "endTime": 570.48,
+    "text": "in uh Kenya Soo elsewhere uh well you"
+  },
+  {
+    "startTime": 570.48,
+    "endTime": 572.36,
+    "text": "see self-organizing patterns that"
+  },
+  {
+    "startTime": 572.36,
+    "endTime": 574.519,
+    "text": "spontaneously occur in this board game"
+  },
+  {
+    "startTime": 574.519,
+    "endTime": 576.6,
+    "text": "and the the folks in in Ghana knew about"
+  },
+  {
+    "startTime": 576.6,
+    "endTime": 578.04,
+    "text": "the self-organizing patterns and would"
+  },
+  {
+    "startTime": 578.04,
+    "endTime": 579.88,
+    "text": "use them strategically so this is very"
+  },
+  {
+    "startTime": 579.88,
+    "endTime": 582.0,
+    "text": "conscious knowledge here's a a wonderful"
+  },
+  {
+    "startTime": 582.0,
+    "endTime": 584.519,
+    "text": "fractal uh anywhere you go in the Sahel"
+  },
+  {
+    "startTime": 584.519,
+    "endTime": 587.44,
+    "text": "you'll see this this uh this windscreen"
+  },
+  {
+    "startTime": 587.44,
+    "endTime": 589.0,
+    "text": "and of course fences around the world"
+  },
+  {
+    "startTime": 589.0,
+    "endTime": 591.48,
+    "text": "are all cartisian all strictly linear"
+  },
+  {
+    "startTime": 591.48,
+    "endTime": 593.279,
+    "text": "but here in Africa you've got these"
+  },
+  {
+    "startTime": 593.279,
+    "endTime": 596.16,
+    "text": "nonlinear scaling fences so I I tracked"
+  },
+  {
+    "startTime": 596.16,
+    "endTime": 597.48,
+    "text": "down one of the folks who makes these"
+  },
+  {
+    "startTime": 597.48,
+    "endTime": 599.64,
+    "text": "things this guy in in uh m just outside"
+  },
+  {
+    "startTime": 599.64,
+    "endTime": 601.6,
+    "text": "of bomo and I asked him how come you're"
+  },
+  {
+    "startTime": 601.6,
+    "endTime": 603.8,
+    "text": "making fractal fences cuz nobody else is"
+  },
+  {
+    "startTime": 603.8,
+    "endTime": 605.68,
+    "text": "and his answer was very interesting he"
+  },
+  {
+    "startTime": 605.68,
+    "endTime": 608.279,
+    "text": "said well if I lived in the jungle I"
+  },
+  {
+    "startTime": 608.279,
+    "endTime": 611.079,
+    "text": "would only use the long rows of straw"
+  },
+  {
+    "startTime": 611.079,
+    "endTime": 612.16,
+    "text": "because they're very quick and they're"
+  },
+  {
+    "startTime": 612.16,
+    "endTime": 613.24,
+    "text": "very cheap doesn't take much time"
+  },
+  {
+    "startTime": 613.24,
+    "endTime": 615.32,
+    "text": "doesn't take much straw he said but wind"
+  },
+  {
+    "startTime": 615.32,
+    "endTime": 617.64,
+    "text": "and dust goes through pretty easily now"
+  },
+  {
+    "startTime": 617.64,
+    "endTime": 620.2,
+    "text": "the tight rows up at the very top they"
+  },
+  {
+    "startTime": 620.2,
+    "endTime": 622.12,
+    "text": "really hold out the wind and dust but it"
+  },
+  {
+    "startTime": 622.12,
+    "endTime": 623.64,
+    "text": "takes a lot of time and it takes a lot"
+  },
+  {
+    "startTime": 623.64,
+    "endTime": 625.44,
+    "text": "of straw because they're really really"
+  },
+  {
+    "startTime": 625.44,
+    "endTime": 628.04,
+    "text": "tight now he said we know from"
+  },
+  {
+    "startTime": 628.04,
+    "endTime": 630.6,
+    "text": "experience that the farther up from the"
+  },
+  {
+    "startTime": 630.6,
+    "endTime": 633.2,
+    "text": "ground you go the stronger the wind"
+  },
+  {
+    "startTime": 633.2,
+    "endTime": 634.72,
+    "text": "blows right it's just like a cost"
+  },
+  {
+    "startTime": 634.72,
+    "endTime": 637.32,
+    "text": "benefit analysis and I measured out the"
+  },
+  {
+    "startTime": 637.32,
+    "endTime": 639.16,
+    "text": "lengths of straw put it on a log log"
+  },
+  {
+    "startTime": 639.16,
+    "endTime": 641.04,
+    "text": "plot got the scaling exponent and it"
+  },
+  {
+    "startTime": 641.04,
+    "endTime": 642.56,
+    "text": "almost exactly matches the scaling"
+  },
+  {
+    "startTime": 642.56,
+    "endTime": 643.92,
+    "text": "exponent for the relationship between"
+  },
+  {
+    "startTime": 643.92,
+    "endTime": 645.12,
+    "text": "wind speed and height in the wind"
+  },
+  {
+    "startTime": 645.12,
+    "endTime": 646.959,
+    "text": "engineering handbook so the these guys"
+  },
+  {
+    "startTime": 646.959,
+    "endTime": 648.92,
+    "text": "are right on target for for a practical"
+  },
+  {
+    "startTime": 648.92,
+    "endTime": 652.16,
+    "text": "use of of uh scaling technology the most"
+  },
+  {
+    "startTime": 652.16,
+    "endTime": 654.8,
+    "text": "complex example of uh an algorithmic"
+  },
+  {
+    "startTime": 654.8,
+    "endTime": 656.399,
+    "text": "approach to fractals that I found was"
+  },
+  {
+    "startTime": 656.399,
+    "endTime": 657.8,
+    "text": "actually not in Geometry it was in a"
+  },
+  {
+    "startTime": 657.8,
+    "endTime": 660.68,
+    "text": "symbolic code and this was a bom a sand"
+  },
+  {
+    "startTime": 660.68,
+    "endTime": 662.16,
+    "text": "divination and the same divination"
+  },
+  {
+    "startTime": 662.16,
+    "endTime": 665.44,
+    "text": "system is found all over Africa um you"
+  },
+  {
+    "startTime": 665.44,
+    "endTime": 667.48,
+    "text": "can find on the East Coast as as well"
+  },
+  {
+    "startTime": 667.48,
+    "endTime": 669.639,
+    "text": "well as the the west coast and often the"
+  },
+  {
+    "startTime": 669.639,
+    "endTime": 671.24,
+    "text": "the the symbols are are very well"
+  },
+  {
+    "startTime": 671.24,
+    "endTime": 674.279,
+    "text": "preserved so so uh each of these symbols"
+  },
+  {
+    "startTime": 674.279,
+    "endTime": 676.6,
+    "text": "has uh four bits it's a four- bit binary"
+  },
+  {
+    "startTime": 676.6,
+    "endTime": 679.959,
+    "text": "word you draw these lines in the sand"
+  },
+  {
+    "startTime": 679.959,
+    "endTime": 682.279,
+    "text": "randomly uh and then you count off and"
+  },
+  {
+    "startTime": 682.279,
+    "endTime": 683.639,
+    "text": "if it's an odd number you put down one"
+  },
+  {
+    "startTime": 683.639,
+    "endTime": 685.079,
+    "text": "stroke and if it's an even number you"
+  },
+  {
+    "startTime": 685.079,
+    "endTime": 688.0,
+    "text": "put down two stroke and they did this uh"
+  },
+  {
+    "startTime": 688.0,
+    "endTime": 689.839,
+    "text": "very rapidly"
+  },
+  {
+    "startTime": 689.839,
+    "endTime": 691.24,
+    "text": "and I couldn't understand where they"
+  },
+  {
+    "startTime": 691.24,
+    "endTime": 692.2,
+    "text": "were getting they only did the"
+  },
+  {
+    "startTime": 692.2,
+    "endTime": 693.76,
+    "text": "randomness four times I couldn't"
+  },
+  {
+    "startTime": 693.76,
+    "endTime": 694.56,
+    "text": "understand where they were getting the"
+  },
+  {
+    "startTime": 694.56,
+    "endTime": 696.88,
+    "text": "other 12 symbols uh and they wouldn't"
+  },
+  {
+    "startTime": 696.88,
+    "endTime": 698.44,
+    "text": "tell me they said no no no no I can't I"
+  },
+  {
+    "startTime": 698.44,
+    "endTime": 699.56,
+    "text": "can't tell you about this I said well"
+  },
+  {
+    "startTime": 699.56,
+    "endTime": 700.959,
+    "text": "look I I'll pay you you know you can be"
+  },
+  {
+    "startTime": 700.959,
+    "endTime": 702.6,
+    "text": "my teacher and and I'll come each day"
+  },
+  {
+    "startTime": 702.6,
+    "endTime": 704.12,
+    "text": "and pay you said ah it's not a matter of"
+  },
+  {
+    "startTime": 704.12,
+    "endTime": 705.92,
+    "text": "money you this is a religious matter and"
+  },
+  {
+    "startTime": 705.92,
+    "endTime": 707.56,
+    "text": "finally out of desperation I said well"
+  },
+  {
+    "startTime": 707.56,
+    "endTime": 710.56,
+    "text": "let me explain George caner in 1877 and"
+  },
+  {
+    "startTime": 710.56,
+    "endTime": 712.04,
+    "text": "I started explaining you know why I was"
+  },
+  {
+    "startTime": 712.04,
+    "endTime": 714.72,
+    "text": "there in in Africa and they got very"
+  },
+  {
+    "startTime": 714.72,
+    "endTime": 717.88,
+    "text": "excited when they saw the caner set and"
+  },
+  {
+    "startTime": 717.88,
+    "endTime": 719.36,
+    "text": "uh one of them said you know come here I"
+  },
+  {
+    "startTime": 719.36,
+    "endTime": 720.839,
+    "text": "think I can help you out here and so he"
+  },
+  {
+    "startTime": 720.839,
+    "endTime": 723.24,
+    "text": "took me through the initiation ritual"
+  },
+  {
+    "startTime": 723.24,
+    "endTime": 726.32,
+    "text": "for for abom priest um and of course I"
+  },
+  {
+    "startTime": 726.32,
+    "endTime": 727.68,
+    "text": "was only interested in the math so the"
+  },
+  {
+    "startTime": 727.68,
+    "endTime": 728.88,
+    "text": "whole time he kept shaking his head"
+  },
+  {
+    "startTime": 728.88,
+    "endTime": 730.12,
+    "text": "going you know I didn't learn it this"
+  },
+  {
+    "startTime": 730.12,
+    "endTime": 732.839,
+    "text": "way but I I had to sleep with a colon"
+  },
+  {
+    "startTime": 732.839,
+    "endTime": 734.639,
+    "text": "nut next to my bed buried in sand and"
+  },
+  {
+    "startTime": 734.639,
+    "endTime": 736.88,
+    "text": "give seven coins to seven lepers and so"
+  },
+  {
+    "startTime": 736.88,
+    "endTime": 740.76,
+    "text": "on um and finally he he he revealed the"
+  },
+  {
+    "startTime": 740.76,
+    "endTime": 743.279,
+    "text": "uh the truth of the matter uh and it"
+  },
+  {
+    "startTime": 743.279,
+    "endTime": 744.88,
+    "text": "turns out it's a pseudo random number"
+  },
+  {
+    "startTime": 744.88,
+    "endTime": 746.24,
+    "text": "generator they're using deterministic"
+  },
+  {
+    "startTime": 746.24,
+    "endTime": 749.68,
+    "text": "chaos when you have a a 4bit symbol you"
+  },
+  {
+    "startTime": 749.68,
+    "endTime": 751.0,
+    "text": "then put it together with another one"
+  },
+  {
+    "startTime": 751.0,
+    "endTime": 754.44,
+    "text": "sideways so even plus odd gives you odd"
+  },
+  {
+    "startTime": 754.44,
+    "endTime": 756.88,
+    "text": "odd plus even gives you odd even plus"
+  },
+  {
+    "startTime": 756.88,
+    "endTime": 759.199,
+    "text": "even gives you even odd plus odd gives"
+  },
+  {
+    "startTime": 759.199,
+    "endTime": 761.12,
+    "text": "you even it's addition modulo to just"
+  },
+  {
+    "startTime": 761.12,
+    "endTime": 762.839,
+    "text": "like in the parody bit check on your"
+  },
+  {
+    "startTime": 762.839,
+    "endTime": 765.24,
+    "text": "computer uh and then you you take this"
+  },
+  {
+    "startTime": 765.24,
+    "endTime": 767.519,
+    "text": "symbol and you put it back in so it's a"
+  },
+  {
+    "startTime": 767.519,
+    "endTime": 769.72,
+    "text": "self-generating diversity of symbols"
+  },
+  {
+    "startTime": 769.72,
+    "endTime": 771.24,
+    "text": "they're they're truly using a kind of"
+  },
+  {
+    "startTime": 771.24,
+    "endTime": 773.639,
+    "text": "deterministic Chaos in doing this now"
+  },
+  {
+    "startTime": 773.639,
+    "endTime": 775.959,
+    "text": "because it's a a binary code you can"
+  },
+  {
+    "startTime": 775.959,
+    "endTime": 777.519,
+    "text": "actually implement this in Hardware what"
+  },
+  {
+    "startTime": 777.519,
+    "endTime": 779.88,
+    "text": "a fantastic teaching tool that should be"
+  },
+  {
+    "startTime": 779.88,
+    "endTime": 782.639,
+    "text": "uh in in African engineering schools and"
+  },
+  {
+    "startTime": 782.639,
+    "endTime": 783.92,
+    "text": "the most interesting thing I found out"
+  },
+  {
+    "startTime": 783.92,
+    "endTime": 787.0,
+    "text": "about it was uh historical in the 12th"
+  },
+  {
+    "startTime": 787.0,
+    "endTime": 788.88,
+    "text": "century Hugo of santalia brought it from"
+  },
+  {
+    "startTime": 788.88,
+    "endTime": 791.079,
+    "text": "Islamic Mystics into"
+  },
+  {
+    "startTime": 791.079,
+    "endTime": 794.36,
+    "text": "Spain uh and there it entered into uh"
+  },
+  {
+    "startTime": 794.36,
+    "endTime": 796.56,
+    "text": "the the the uh the Alchemy Community as"
+  },
+  {
+    "startTime": 796.56,
+    "endTime": 798.839,
+    "text": "geomancy the the the the the Divination"
+  },
+  {
+    "startTime": 798.839,
+    "endTime": 800.56,
+    "text": "through the Earth this is a geomantic"
+  },
+  {
+    "startTime": 800.56,
+    "endTime": 803.24,
+    "text": "chart drawn by uh uh for the for King"
+  },
+  {
+    "startTime": 803.24,
+    "endTime": 804.519,
+    "text": "Richard II in"
+  },
+  {
+    "startTime": 804.519,
+    "endTime": 807.6,
+    "text": "1390 liit the German mathematician"
+  },
+  {
+    "startTime": 807.6,
+    "endTime": 809.48,
+    "text": "talked about geomancy in his"
+  },
+  {
+    "startTime": 809.48,
+    "endTime": 811.199,
+    "text": "dissertation called"
+  },
+  {
+    "startTime": 811.199,
+    "endTime": 813.56,
+    "text": "decator and he said well instead of"
+  },
+  {
+    "startTime": 813.56,
+    "endTime": 815.56,
+    "text": "using one stroke and two strokes let's"
+  },
+  {
+    "startTime": 815.56,
+    "endTime": 818.399,
+    "text": "use a one and a zero and we can count by"
+  },
+  {
+    "startTime": 818.399,
+    "endTime": 820.88,
+    "text": "powers of two right ones and zeros the"
+  },
+  {
+    "startTime": 820.88,
+    "endTime": 822.92,
+    "text": "binary code George bull took liet's"
+  },
+  {
+    "startTime": 822.92,
+    "endTime": 824.44,
+    "text": "binary code and created Boolean algebra"
+  },
+  {
+    "startTime": 824.44,
+    "endTime": 825.92,
+    "text": "and John V noyman took Boolean algebra"
+  },
+  {
+    "startTime": 825.92,
+    "endTime": 828.12,
+    "text": "and created the digital computer so all"
+  },
+  {
+    "startTime": 828.12,
+    "endTime": 830.279,
+    "text": "these these little pdas and laptops"
+  },
+  {
+    "startTime": 830.279,
+    "endTime": 832.16,
+    "text": "every digital circuit in the world"
+  },
+  {
+    "startTime": 832.16,
+    "endTime": 835.759,
+    "text": "started in Africa and I I I know uh"
+  },
+  {
+    "startTime": 835.759,
+    "endTime": 837.279,
+    "text": "Brian youo says there's there's not"
+  },
+  {
+    "startTime": 837.279,
+    "endTime": 839.48,
+    "text": "enough African computers but you know I"
+  },
+  {
+    "startTime": 839.48,
+    "endTime": 840.44,
+    "text": "don't think there's enough African"
+  },
+  {
+    "startTime": 840.44,
+    "endTime": 843.24,
+    "text": "history in Brian you"
+  },
+  {
+    "startTime": 845.36,
+    "endTime": 848.12,
+    "text": "know so let me end with just a few words"
+  },
+  {
+    "startTime": 848.12,
+    "endTime": 850.32,
+    "text": "about um applications that we've we've"
+  },
+  {
+    "startTime": 850.32,
+    "endTime": 851.48,
+    "text": "found for this and you can go to our"
+  },
+  {
+    "startTime": 851.48,
+    "endTime": 853.56,
+    "text": "website the applets are are all free"
+  },
+  {
+    "startTime": 853.56,
+    "endTime": 855.44,
+    "text": "they just run in the browser uh anybody"
+  },
+  {
+    "startTime": 855.44,
+    "endTime": 857.399,
+    "text": "in the world can use them the uh"
+  },
+  {
+    "startTime": 857.399,
+    "endTime": 858.92,
+    "text": "national science foundation's uh"
+  },
+  {
+    "startTime": 858.92,
+    "endTime": 860.639,
+    "text": "broadening participation in Computing"
+  },
+  {
+    "startTime": 860.639,
+    "endTime": 862.56,
+    "text": "program recently award us a grant to"
+  },
+  {
+    "startTime": 862.56,
+    "endTime": 866.199,
+    "text": "make um a a a a a programmable version"
+  },
+  {
+    "startTime": 866.199,
+    "endTime": 869.0,
+    "text": "of these design tools so so uh hopefully"
+  },
+  {
+    "startTime": 869.0,
+    "endTime": 870.56,
+    "text": "in 3 years anybody will be able to go on"
+  },
+  {
+    "startTime": 870.56,
+    "endTime": 871.959,
+    "text": "the web and create their own simulations"
+  },
+  {
+    "startTime": 871.959,
+    "endTime": 874.04,
+    "text": "of their own artifacts but we focused in"
+  },
+  {
+    "startTime": 874.04,
+    "endTime": 875.92,
+    "text": "the US on on uh African-American"
+  },
+  {
+    "startTime": 875.92,
+    "endTime": 877.519,
+    "text": "students as well as Native American"
+  },
+  {
+    "startTime": 877.519,
+    "endTime": 879.959,
+    "text": "Latino uh we found statistically"
+  },
+  {
+    "startTime": 879.959,
+    "endTime": 881.92,
+    "text": "significant improvement with children"
+  },
+  {
+    "startTime": 881.92,
+    "endTime": 883.48,
+    "text": "using this uh software in their"
+  },
+  {
+    "startTime": 883.48,
+    "endTime": 885.48,
+    "text": "mathematics class in comparison with"
+  },
+  {
+    "startTime": 885.48,
+    "endTime": 886.839,
+    "text": "with a control group that did not have"
+  },
+  {
+    "startTime": 886.839,
+    "endTime": 889.24,
+    "text": "the software uh so it's really very"
+  },
+  {
+    "startTime": 889.24,
+    "endTime": 891.44,
+    "text": "successful uh teaching children that"
+  },
+  {
+    "startTime": 891.44,
+    "endTime": 893.079,
+    "text": "they have a Heritage that's about"
+  },
+  {
+    "startTime": 893.079,
+    "endTime": 894.48,
+    "text": "mathematics that it's not just about"
+  },
+  {
+    "startTime": 894.48,
+    "endTime": 896.12,
+    "text": "singing and"
+  },
+  {
+    "startTime": 896.12,
+    "endTime": 898.759,
+    "text": "dancing uh We've started a pilot program"
+  },
+  {
+    "startTime": 898.759,
+    "endTime": 901.8,
+    "text": "in uh Ghana we got a a a small seed"
+  },
+  {
+    "startTime": 901.8,
+    "endTime": 904.0,
+    "text": "Grant just to to uh see if folks would"
+  },
+  {
+    "startTime": 904.0,
+    "endTime": 905.519,
+    "text": "be willing to work with us on this and"
+  },
+  {
+    "startTime": 905.519,
+    "endTime": 907.279,
+    "text": "we're very excited about the future"
+  },
+  {
+    "startTime": 907.279,
+    "endTime": 908.839,
+    "text": "possibilities for that we've also been"
+  },
+  {
+    "startTime": 908.839,
+    "endTime": 911.199,
+    "text": "working in uh design I didn't put his"
+  },
+  {
+    "startTime": 911.199,
+    "endTime": 913.279,
+    "text": "his name up here my colleague uh Carrie"
+  },
+  {
+    "startTime": 913.279,
+    "endTime": 915.24,
+    "text": "in in Kenya has come up with this great"
+  },
+  {
+    "startTime": 915.24,
+    "endTime": 917.48,
+    "text": "idea for using a fractal structure for"
+  },
+  {
+    "startTime": 917.48,
+    "endTime": 919.32,
+    "text": "postal address in villages that have"
+  },
+  {
+    "startTime": 919.32,
+    "endTime": 920.839,
+    "text": "fractal structures because if you try to"
+  },
+  {
+    "startTime": 920.839,
+    "endTime": 923.079,
+    "text": "impose a a grid structure postal system"
+  },
+  {
+    "startTime": 923.079,
+    "endTime": 924.839,
+    "text": "on a fractal Village it it it doesn't"
+  },
+  {
+    "startTime": 924.839,
+    "endTime": 926.48,
+    "text": "quite fit Bernard chumi at Columbia"
+  },
+  {
+    "startTime": 926.48,
+    "endTime": 927.759,
+    "text": "University has been interested in using"
+  },
+  {
+    "startTime": 927.759,
+    "endTime": 930.0,
+    "text": "this in a design for a uh Museum of"
+  },
+  {
+    "startTime": 930.0,
+    "endTime": 934.0,
+    "text": "African art David Hughes at uh Ohio"
+  },
+  {
+    "startTime": 934.0,
+    "endTime": 936.92,
+    "text": "State University uh has written a primer"
+  },
+  {
+    "startTime": 936.92,
+    "endTime": 939.319,
+    "text": "on uh Afrocentric architecture in which"
+  },
+  {
+    "startTime": 939.319,
+    "endTime": 941.0,
+    "text": "he's he's used some of these fractal"
+  },
+  {
+    "startTime": 941.0,
+    "endTime": 942.519,
+    "text": "structures and"
+  },
+  {
+    "startTime": 942.519,
+    "endTime": 944.68,
+    "text": "finally I just wanted to point out that"
+  },
+  {
+    "startTime": 944.68,
+    "endTime": 946.639,
+    "text": "this idea of self-organization as we"
+  },
+  {
+    "startTime": 946.639,
+    "endTime": 948.48,
+    "text": "heard earlier you know it's it's in the"
+  },
+  {
+    "startTime": 948.48,
+    "endTime": 952.16,
+    "text": "brain um it's in the the the the uh it's"
+  },
+  {
+    "startTime": 952.16,
+    "endTime": 953.639,
+    "text": "in Google search engine actually the"
+  },
+  {
+    "startTime": 953.639,
+    "endTime": 955.0,
+    "text": "reason Google was such a success is"
+  },
+  {
+    "startTime": 955.0,
+    "endTime": 956.24,
+    "text": "because they were the first ones to take"
+  },
+  {
+    "startTime": 956.24,
+    "endTime": 957.88,
+    "text": "advantage of the self-organizing"
+  },
+  {
+    "startTime": 957.88,
+    "endTime": 959.279,
+    "text": "properties of the we"
+  },
+  {
+    "startTime": 959.279,
+    "endTime": 961.12,
+    "text": "uh it's in ecological sustainability"
+  },
+  {
+    "startTime": 961.12,
+    "endTime": 962.639,
+    "text": "it's in the developmental power of"
+  },
+  {
+    "startTime": 962.639,
+    "endTime": 964.759,
+    "text": "Entrepreneurship the ethical power of"
+  },
+  {
+    "startTime": 964.759,
+    "endTime": 967.72,
+    "text": "democracy um it's it's also in some bad"
+  },
+  {
+    "startTime": 967.72,
+    "endTime": 969.56,
+    "text": "things self-organization is why the AIDS"
+  },
+  {
+    "startTime": 969.56,
+    "endTime": 971.56,
+    "text": "virus is spreading so fast and if you"
+  },
+  {
+    "startTime": 971.56,
+    "endTime": 973.199,
+    "text": "don't think that capitalism which is"
+  },
+  {
+    "startTime": 973.199,
+    "endTime": 974.839,
+    "text": "self-organizing can have destructive"
+  },
+  {
+    "startTime": 974.839,
+    "endTime": 976.68,
+    "text": "effects you haven't open your eyes"
+  },
+  {
+    "startTime": 976.68,
+    "endTime": 979.279,
+    "text": "enough so we need to think about uh as"
+  },
+  {
+    "startTime": 979.279,
+    "endTime": 981.68,
+    "text": "as as was spoken earlier the traditional"
+  },
+  {
+    "startTime": 981.68,
+    "endTime": 982.88,
+    "text": "African methods for doing"
+  },
+  {
+    "startTime": 982.88,
+    "endTime": 984.92,
+    "text": "self-organization these are robust"
+  },
+  {
+    "startTime": 984.92,
+    "endTime": 986.88,
+    "text": "algorithms these are ways of doing"
+  },
+  {
+    "startTime": 986.88,
+    "endTime": 988.56,
+    "text": "self-organization of doing entrepr"
+  },
+  {
+    "startTime": 988.56,
+    "endTime": 991.0,
+    "text": "preneurship uh that are gentle that are"
+  },
+  {
+    "startTime": 991.0,
+    "endTime": 993.68,
+    "text": "egalitarian um so if we want to find uh"
+  },
+  {
+    "startTime": 993.68,
+    "endTime": 996.36,
+    "text": "a better way of doing that kind of work"
+  },
+  {
+    "startTime": 996.36,
+    "endTime": 998.24,
+    "text": "uh we need look only no farther than"
+  },
+  {
+    "startTime": 998.24,
+    "endTime": 999.56,
+    "text": "Africa to find these robust"
+  },
+  {
+    "startTime": 999.56,
+    "endTime": 1002.01,
+    "text": "self-organizing algorithms thank"
+  },
+  {
+    "startTime": 1002.01,
+    "endTime": 1005.139,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 1005.29,
+    "endTime": 1008.449,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 1010.279,
+    "endTime": 1013.279,
+    "text": "you"
+  }
+]
