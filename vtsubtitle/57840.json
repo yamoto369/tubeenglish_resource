@@ -1,0 +1,722 @@
+[
+  {
+    "startTime": 12.645,
+    "endTime": 13.796,
+    "text": "Ten years ago,"
+  },
+  {
+    "startTime": 13.82,
+    "endTime": 16.596,
+    "text": "computer vision researchers thought that getting a computer"
+  },
+  {
+    "startTime": 16.62,
+    "endTime": 19.316000000000003,
+    "text": "to tell the difference between a cat and a dog"
+  },
+  {
+    "startTime": 19.34,
+    "endTime": 21.316,
+    "text": "would be almost impossible,"
+  },
+  {
+    "startTime": 21.34,
+    "endTime": 25.36,
+    "text": "even with the significant advance in the state of artificial intelligence."
+  },
+  {
+    "startTime": 25.6,
+    "endTime": 28.619,
+    "text": "Now we can do it at a level greater than 99 percent accuracy."
+  },
+  {
+    "startTime": 29.5,
+    "endTime": 31.356,
+    "text": "This is called image classification --"
+  },
+  {
+    "startTime": 31.38,
+    "endTime": 34.476,
+    "text": "give it an image, put a label to that image --"
+  },
+  {
+    "startTime": 34.5,
+    "endTime": 37.54,
+    "text": "and computers know thousands of other categories as well."
+  },
+  {
+    "startTime": 38.5,
+    "endTime": 41.396,
+    "text": "I'm a graduate student at the University of Washington,"
+  },
+  {
+    "startTime": 41.42,
+    "endTime": 43.316,
+    "text": "and I work on a project called Darknet,"
+  },
+  {
+    "startTime": 43.34,
+    "endTime": 45.36000000000001,
+    "text": "which is a neural network framework"
+  },
+  {
+    "startTime": 45.6,
+    "endTime": 47.876000000000005,
+    "text": "for training and testing computer vision models."
+  },
+  {
+    "startTime": 47.9,
+    "endTime": 50.876,
+    "text": "So let's just see what Darknet thinks"
+  },
+  {
+    "startTime": 50.9,
+    "endTime": 52.66,
+    "text": "of this image that we have."
+  },
+  {
+    "startTime": 54.34,
+    "endTime": 56.676,
+    "text": "When we run our classifier"
+  },
+  {
+    "startTime": 56.7,
+    "endTime": 57.916000000000004,
+    "text": "on this image,"
+  },
+  {
+    "startTime": 57.94,
+    "endTime": 60.396,
+    "text": "we see we don't just get a prediction of dog or cat,"
+  },
+  {
+    "startTime": 60.42,
+    "endTime": 62.756,
+    "text": "we actually get specific breed predictions."
+  },
+  {
+    "startTime": 62.78,
+    "endTime": 64.956,
+    "text": "That's the level of granularity we have now."
+  },
+  {
+    "startTime": 64.98,
+    "endTime": 66.596,
+    "text": "And it's correct."
+  },
+  {
+    "startTime": 66.62,
+    "endTime": 68.46000000000001,
+    "text": "My dog is in fact a malamute."
+  },
+  {
+    "startTime": 68.86,
+    "endTime": 73.196,
+    "text": "So we've made amazing strides in image classification,"
+  },
+  {
+    "startTime": 73.22,
+    "endTime": 75.22,
+    "text": "but what happens when we run our classifier"
+  },
+  {
+    "startTime": 75.244,
+    "endTime": 77.204,
+    "text": "on an image that looks like this?"
+  },
+  {
+    "startTime": 78.9,
+    "endTime": 80.10000000000001,
+    "text": "Well ..."
+  },
+  {
+    "startTime": 84.46,
+    "endTime": 88.356,
+    "text": "We see that the classifier comes back with a pretty similar prediction."
+  },
+  {
+    "startTime": 88.38,
+    "endTime": 91.476,
+    "text": "And it's correct, there is a malamute in the image,"
+  },
+  {
+    "startTime": 91.5,
+    "endTime": 95.196,
+    "text": "but just given this label, we don't actually know that much"
+  },
+  {
+    "startTime": 95.22,
+    "endTime": 96.887,
+    "text": "about what's going on in the image."
+  },
+  {
+    "startTime": 96.911,
+    "endTime": 98.471,
+    "text": "We need something more powerful."
+  },
+  {
+    "startTime": 99.6,
+    "endTime": 101.67599999999999,
+    "text": "I work on a problem called object detection,"
+  },
+  {
+    "startTime": 101.7,
+    "endTime": 104.636,
+    "text": "where we look at an image and try to find all of the objects,"
+  },
+  {
+    "startTime": 104.66,
+    "endTime": 106.116,
+    "text": "put bounding boxes around them"
+  },
+  {
+    "startTime": 106.14,
+    "endTime": 107.66,
+    "text": "and say what those objects are."
+  },
+  {
+    "startTime": 108.22,
+    "endTime": 111.5,
+    "text": "So here's what happens when we run a detector on this image."
+  },
+  {
+    "startTime": 113.6,
+    "endTime": 115.31599999999999,
+    "text": "Now, with this kind of result,"
+  },
+  {
+    "startTime": 115.34,
+    "endTime": 118.36,
+    "text": "we can do a lot more with our computer vision algorithms."
+  },
+  {
+    "startTime": 118.6,
+    "endTime": 121.36,
+    "text": "We see that it knows that there's a cat and a dog."
+  },
+  {
+    "startTime": 121.6,
+    "endTime": 123.31599999999999,
+    "text": "It knows their relative locations,"
+  },
+  {
+    "startTime": 123.34,
+    "endTime": 124.556,
+    "text": "their size."
+  },
+  {
+    "startTime": 124.58,
+    "endTime": 126.515,
+    "text": "It may even know some extra information."
+  },
+  {
+    "startTime": 126.54,
+    "endTime": 128.5,
+    "text": "There's a book sitting in the background."
+  },
+  {
+    "startTime": 129.1,
+    "endTime": 132.356,
+    "text": "And if you want to build a system on top of computer vision,"
+  },
+  {
+    "startTime": 132.38,
+    "endTime": 135.835,
+    "text": "say a self-driving vehicle or a robotic system,"
+  },
+  {
+    "startTime": 135.86,
+    "endTime": 138.316,
+    "text": "this is the kind of information that you want."
+  },
+  {
+    "startTime": 138.34,
+    "endTime": 141.579,
+    "text": "You want something so that you can interact with the physical world."
+  },
+  {
+    "startTime": 142.579,
+    "endTime": 144.836,
+    "text": "Now, when I started working on object detection,"
+  },
+  {
+    "startTime": 144.86,
+    "endTime": 148.156,
+    "text": "it took 20 seconds to process a single image."
+  },
+  {
+    "startTime": 148.18,
+    "endTime": 152.6,
+    "text": "And to get a feel for why speed is so important in this domain,"
+  },
+  {
+    "startTime": 152.94,
+    "endTime": 155.476,
+    "text": "here's an example of an object detector"
+  },
+  {
+    "startTime": 155.5,
+    "endTime": 157.916,
+    "text": "that takes two seconds to process an image."
+  },
+  {
+    "startTime": 157.94,
+    "endTime": 160.556,
+    "text": "So this is 10 times faster"
+  },
+  {
+    "startTime": 160.58,
+    "endTime": 164.116,
+    "text": "than the 20-seconds-per-image detector,"
+  },
+  {
+    "startTime": 164.14,
+    "endTime": 166.796,
+    "text": "and you can see that by the time it makes predictions,"
+  },
+  {
+    "startTime": 166.82,
+    "endTime": 168.85899999999998,
+    "text": "the entire state of the world has changed,"
+  },
+  {
+    "startTime": 169.7,
+    "endTime": 172.11599999999999,
+    "text": "and this wouldn't be very useful"
+  },
+  {
+    "startTime": 172.14,
+    "endTime": 173.55499999999998,
+    "text": "for an application."
+  },
+  {
+    "startTime": 173.58,
+    "endTime": 176.76000000000002,
+    "text": "If we speed this up by another factor of 10,"
+  },
+  {
+    "startTime": 176.1,
+    "endTime": 178.916,
+    "text": "this is a detector running at five frames per second."
+  },
+  {
+    "startTime": 178.94,
+    "endTime": 180.476,
+    "text": "This is a lot better,"
+  },
+  {
+    "startTime": 180.5,
+    "endTime": 182.476,
+    "text": "but for example,"
+  },
+  {
+    "startTime": 182.5,
+    "endTime": 184.796,
+    "text": "if there's any significant movement,"
+  },
+  {
+    "startTime": 184.82,
+    "endTime": 187.38,
+    "text": "I wouldn't want a system like this driving my car."
+  },
+  {
+    "startTime": 188.94,
+    "endTime": 192.18,
+    "text": "This is our detection system running in real time on my laptop."
+  },
+  {
+    "startTime": 192.82,
+    "endTime": 195.956,
+    "text": "So it smoothly tracks me as I move around the frame,"
+  },
+  {
+    "startTime": 195.98,
+    "endTime": 199.7,
+    "text": "and it's robust to a wide variety of changes in size,"
+  },
+  {
+    "startTime": 201.26,
+    "endTime": 202.459,
+    "text": "pose,"
+  },
+  {
+    "startTime": 203.1,
+    "endTime": 204.956,
+    "text": "forward, backward."
+  },
+  {
+    "startTime": 204.98,
+    "endTime": 206.196,
+    "text": "This is great."
+  },
+  {
+    "startTime": 206.22,
+    "endTime": 207.956,
+    "text": "This is what we really need"
+  },
+  {
+    "startTime": 207.98,
+    "endTime": 210.875,
+    "text": "if we're going to build systems on top of computer vision."
+  },
+  {
+    "startTime": 210.9,
+    "endTime": 214.9,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 216.1,
+    "endTime": 218.275,
+    "text": "So in just a few years,"
+  },
+  {
+    "startTime": 218.3,
+    "endTime": 220.95600000000002,
+    "text": "we've gone from 20 seconds per image"
+  },
+  {
+    "startTime": 220.98,
+    "endTime": 224.516,
+    "text": "to 20 milliseconds per image, a thousand times faster."
+  },
+  {
+    "startTime": 224.54,
+    "endTime": 225.956,
+    "text": "How did we get there?"
+  },
+  {
+    "startTime": 225.98,
+    "endTime": 228.99499999999998,
+    "text": "Well, in the past, object detection systems"
+  },
+  {
+    "startTime": 229.2,
+    "endTime": 230.956,
+    "text": "would take an image like this"
+  },
+  {
+    "startTime": 230.98,
+    "endTime": 233.435,
+    "text": "and split it into a bunch of regions"
+  },
+  {
+    "startTime": 233.46,
+    "endTime": 236.716,
+    "text": "and then run a classifier on each of these regions,"
+  },
+  {
+    "startTime": 236.74,
+    "endTime": 239.276,
+    "text": "and high scores for that classifier"
+  },
+  {
+    "startTime": 239.3,
+    "endTime": 242.436,
+    "text": "would be considered detections in the image."
+  },
+  {
+    "startTime": 242.46,
+    "endTime": 246.51600000000002,
+    "text": "But this involved running a classifier thousands of times over an image,"
+  },
+  {
+    "startTime": 246.54,
+    "endTime": 249.459,
+    "text": "thousands of neural network evaluations to produce detection."
+  },
+  {
+    "startTime": 251.6,
+    "endTime": 255.596,
+    "text": "Instead, we trained a single network to do all of detection for us."
+  },
+  {
+    "startTime": 255.62,
+    "endTime": 259.899,
+    "text": "It produces all of the bounding boxes and class probabilities simultaneously."
+  },
+  {
+    "startTime": 260.5,
+    "endTime": 263.996,
+    "text": "With our system, instead of looking at an image thousands of times"
+  },
+  {
+    "startTime": 264.2,
+    "endTime": 265.476,
+    "text": "to produce detection,"
+  },
+  {
+    "startTime": 265.5,
+    "endTime": 266.756,
+    "text": "you only look once,"
+  },
+  {
+    "startTime": 266.78,
+    "endTime": 269.7,
+    "text": "and that's why we call it the YOLO method of object detection."
+  },
+  {
+    "startTime": 271.18,
+    "endTime": 275.156,
+    "text": "So with this speed, we're not just limited to images;"
+  },
+  {
+    "startTime": 275.18,
+    "endTime": 277.596,
+    "text": "we can process video in real time."
+  },
+  {
+    "startTime": 277.62,
+    "endTime": 280.716,
+    "text": "And now, instead of just seeing that cat and dog,"
+  },
+  {
+    "startTime": 280.74,
+    "endTime": 283.7,
+    "text": "we can see them move around and interact with each other."
+  },
+  {
+    "startTime": 286.38,
+    "endTime": 288.436,
+    "text": "This is a detector that we trained"
+  },
+  {
+    "startTime": 288.46,
+    "endTime": 292.835,
+    "text": "on 80 different classes"
+  },
+  {
+    "startTime": 292.86,
+    "endTime": 296.116,
+    "text": "in Microsoft's COCO dataset."
+  },
+  {
+    "startTime": 296.14,
+    "endTime": 299.476,
+    "text": "It has all sorts of things like spoon and fork, bowl,"
+  },
+  {
+    "startTime": 299.5,
+    "endTime": 301.3,
+    "text": "common objects like that."
+  },
+  {
+    "startTime": 302.18,
+    "endTime": 305.276,
+    "text": "It has a variety of more exotic things:"
+  },
+  {
+    "startTime": 305.3,
+    "endTime": 308.556,
+    "text": "animals, cars, zebras, giraffes."
+  },
+  {
+    "startTime": 308.58,
+    "endTime": 310.515,
+    "text": "And now we're going to do something fun."
+  },
+  {
+    "startTime": 310.54,
+    "endTime": 312.636,
+    "text": "We're just going to go out into the audience"
+  },
+  {
+    "startTime": 312.66,
+    "endTime": 314.67600000000004,
+    "text": "and see what kind of things we can detect."
+  },
+  {
+    "startTime": 314.7,
+    "endTime": 316.32,
+    "text": "Does anyone want a stuffed animal?"
+  },
+  {
+    "startTime": 317.82,
+    "endTime": 319.582,
+    "text": "There are some teddy bears out there."
+  },
+  {
+    "startTime": 321.86,
+    "endTime": 326.396,
+    "text": "And we can turn down our threshold for detection a little bit,"
+  },
+  {
+    "startTime": 326.42,
+    "endTime": 329.82,
+    "text": "so we can find more of you guys out in the audience."
+  },
+  {
+    "startTime": 331.38,
+    "endTime": 333.716,
+    "text": "Let's see if we can get these stop signs."
+  },
+  {
+    "startTime": 333.74,
+    "endTime": 335.62,
+    "text": "We find some backpacks."
+  },
+  {
+    "startTime": 337.7,
+    "endTime": 339.539,
+    "text": "Let's just zoom in a little bit."
+  },
+  {
+    "startTime": 342.14,
+    "endTime": 343.395,
+    "text": "And this is great."
+  },
+  {
+    "startTime": 343.42,
+    "endTime": 346.596,
+    "text": "And all of the processing is happening in real time"
+  },
+  {
+    "startTime": 346.62,
+    "endTime": 347.82,
+    "text": "on the laptop."
+  },
+  {
+    "startTime": 348.9,
+    "endTime": 350.356,
+    "text": "And it's important to remember"
+  },
+  {
+    "startTime": 350.38,
+    "endTime": 353.596,
+    "text": "that this is a general purpose object detection system,"
+  },
+  {
+    "startTime": 353.62,
+    "endTime": 358.62,
+    "text": "so we can train this for any image domain."
+  },
+  {
+    "startTime": 360.14,
+    "endTime": 362.676,
+    "text": "The same code that we use"
+  },
+  {
+    "startTime": 362.7,
+    "endTime": 365.156,
+    "text": "to find stop signs or pedestrians,"
+  },
+  {
+    "startTime": 365.18,
+    "endTime": 367.156,
+    "text": "bicycles in a self-driving vehicle,"
+  },
+  {
+    "startTime": 367.18,
+    "endTime": 370.36,
+    "text": "can be used to find cancer cells"
+  },
+  {
+    "startTime": 370.6,
+    "endTime": 373.76000000000005,
+    "text": "in a tissue biopsy."
+  },
+  {
+    "startTime": 373.1,
+    "endTime": 377.14000000000004,
+    "text": "And there are researchers around the globe already using this technology"
+  },
+  {
+    "startTime": 378.6,
+    "endTime": 381.476,
+    "text": "for advances in things like medicine, robotics."
+  },
+  {
+    "startTime": 381.5,
+    "endTime": 382.876,
+    "text": "This morning, I read a paper"
+  },
+  {
+    "startTime": 382.9,
+    "endTime": 387.476,
+    "text": "where they were taking a census of animals in Nairobi National Park"
+  },
+  {
+    "startTime": 387.5,
+    "endTime": 390.636,
+    "text": "with YOLO as part of this detection system."
+  },
+  {
+    "startTime": 390.66,
+    "endTime": 393.75600000000003,
+    "text": "And that's because Darknet is open source"
+  },
+  {
+    "startTime": 393.78,
+    "endTime": 396.299,
+    "text": "and in the public domain, free for anyone to use."
+  },
+  {
+    "startTime": 397.42,
+    "endTime": 403.11600000000004,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 403.14,
+    "endTime": 408.75,
+    "text": "But we wanted to make detection even more accessible and usable,"
+  },
+  {
+    "startTime": 408.1,
+    "endTime": 412.156,
+    "text": "so through a combination of model optimization,"
+  },
+  {
+    "startTime": 412.18,
+    "endTime": 414.476,
+    "text": "network binarization and approximation,"
+  },
+  {
+    "startTime": 414.5,
+    "endTime": 418.42,
+    "text": "we actually have object detection running on a phone."
+  },
+  {
+    "startTime": 424.62,
+    "endTime": 429.94,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 430.78,
+    "endTime": 435.835,
+    "text": "And I'm really excited because now we have a pretty powerful solution"
+  },
+  {
+    "startTime": 435.86,
+    "endTime": 438.156,
+    "text": "to this low-level computer vision problem,"
+  },
+  {
+    "startTime": 438.18,
+    "endTime": 442.36,
+    "text": "and anyone can take it and build something with it."
+  },
+  {
+    "startTime": 442.6,
+    "endTime": 445.23600000000005,
+    "text": "So now the rest is up to all of you"
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 448.195,
+    "text": "and people around the world with access to this software,"
+  },
+  {
+    "startTime": 448.22,
+    "endTime": 451.87600000000003,
+    "text": "and I can't wait to see what people will build with this technology."
+  },
+  {
+    "startTime": 451.9,
+    "endTime": 453.116,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 453.14,
+    "endTime": 456.58,
+    "text": "(Applause)"
+  }
+]

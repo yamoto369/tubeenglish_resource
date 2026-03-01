@@ -1,0 +1,1967 @@
+[
+  {
+    "startTime": 13.174,
+    "endTime": 14.333,
+    "text": "Hi."
+  },
+  {
+    "startTime": 14.357,
+    "endTime": 18.176,
+    "text": "I want to talk about understanding, and the nature of understanding,"
+  },
+  {
+    "startTime": 18.2,
+    "endTime": 21.593,
+    "text": "and what the essence of understanding is,"
+  },
+  {
+    "startTime": 21.617,
+    "endTime": 24.654,
+    "text": "because understanding is something we aim for, everyone."
+  },
+  {
+    "startTime": 24.678,
+    "endTime": 27.89,
+    "text": "We want to understand things."
+  },
+  {
+    "startTime": 27.763,
+    "endTime": 30.111,
+    "text": "My claim is that understanding has to do"
+  },
+  {
+    "startTime": 30.135,
+    "endTime": 32.713,
+    "text": "with the ability to change your perspective."
+  },
+  {
+    "startTime": 32.737,
+    "endTime": 35.629000000000005,
+    "text": "If you don't have that, you don't have understanding."
+  },
+  {
+    "startTime": 36.106,
+    "endTime": 37.648,
+    "text": "So that is my claim."
+  },
+  {
+    "startTime": 37.672,
+    "endTime": 39.571,
+    "text": "And I want to focus on mathematics."
+  },
+  {
+    "startTime": 40.5,
+    "endTime": 43.546,
+    "text": "Many of us think of mathematics as addition, subtraction,"
+  },
+  {
+    "startTime": 43.57,
+    "endTime": 45.518,
+    "text": "multiplication, division,"
+  },
+  {
+    "startTime": 45.542,
+    "endTime": 49.352000000000004,
+    "text": "fractions, percent, geometry, algebra -- all that stuff."
+  },
+  {
+    "startTime": 50.34,
+    "endTime": 53.708000000000006,
+    "text": "But actually, I want to talk about the essence of mathematics as well."
+  },
+  {
+    "startTime": 53.732,
+    "endTime": 57.19,
+    "text": "And my claim is that mathematics has to do with patterns."
+  },
+  {
+    "startTime": 57.43,
+    "endTime": 59.534,
+    "text": "Behind me, you see a beautiful pattern,"
+  },
+  {
+    "startTime": 59.558,
+    "endTime": 63.489,
+    "text": "and this pattern actually emerges just from drawing circles"
+  },
+  {
+    "startTime": 63.513,
+    "endTime": 65.143,
+    "text": "in a very particular way."
+  },
+  {
+    "startTime": 65.778,
+    "endTime": 70.367,
+    "text": "So my day-to-day definition of mathematics that I use every day"
+  },
+  {
+    "startTime": 70.391,
+    "endTime": 71.596,
+    "text": "is the following:"
+  },
+  {
+    "startTime": 72.3,
+    "endTime": 74.858,
+    "text": "First of all, it's about finding patterns."
+  },
+  {
+    "startTime": 76.1,
+    "endTime": 81.496,
+    "text": "And by \"pattern,\" I mean a connection, a structure, some regularity,"
+  },
+  {
+    "startTime": 81.52,
+    "endTime": 83.512,
+    "text": "some rules that govern what we see."
+  },
+  {
+    "startTime": 84.17,
+    "endTime": 85.325,
+    "text": "Second of all,"
+  },
+  {
+    "startTime": 85.349,
+    "endTime": 88.989,
+    "text": "I think it is about representing these patterns with a language."
+  },
+  {
+    "startTime": 89.361,
+    "endTime": 91.805,
+    "text": "We make up language if we don't have it,"
+  },
+  {
+    "startTime": 91.829,
+    "endTime": 94.198,
+    "text": "and in mathematics, this is essential."
+  },
+  {
+    "startTime": 95.13,
+    "endTime": 96.813,
+    "text": "It's also about making assumptions"
+  },
+  {
+    "startTime": 96.837,
+    "endTime": 100.45,
+    "text": "and playing around with these assumptions and just seeing what happens."
+  },
+  {
+    "startTime": 100.474,
+    "endTime": 102.556,
+    "text": "We're going to do that very soon."
+  },
+  {
+    "startTime": 102.986,
+    "endTime": 105.84100000000001,
+    "text": "And finally, it's about doing cool stuff."
+  },
+  {
+    "startTime": 106.46,
+    "endTime": 109.774,
+    "text": "Mathematics enables us to do so many things."
+  },
+  {
+    "startTime": 110.632,
+    "endTime": 112.848,
+    "text": "So let's have a look at these patterns."
+  },
+  {
+    "startTime": 112.872,
+    "endTime": 115.94,
+    "text": "If you want to tie a tie knot,"
+  },
+  {
+    "startTime": 115.118,
+    "endTime": 116.428,
+    "text": "there are patterns."
+  },
+  {
+    "startTime": 116.452,
+    "endTime": 117.923,
+    "text": "Tie knots have names."
+  },
+  {
+    "startTime": 118.453,
+    "endTime": 120.8,
+    "text": "And you can also do the mathematics of tie knots."
+  },
+  {
+    "startTime": 120.824,
+    "endTime": 123.402,
+    "text": "This is a left-out, right-in, center-out and tie."
+  },
+  {
+    "startTime": 124.73,
+    "endTime": 127.616,
+    "text": "This is a left-in, right-out, left-in, center-out and tie."
+  },
+  {
+    "startTime": 128.5,
+    "endTime": 132.115,
+    "text": "This is a language we made up for the patterns of tie knots,"
+  },
+  {
+    "startTime": 132.522,
+    "endTime": 134.212,
+    "text": "and a half-Windsor is all that."
+  },
+  {
+    "startTime": 135.529,
+    "endTime": 138.316,
+    "text": "This is a mathematics book about tying shoelaces"
+  },
+  {
+    "startTime": 138.34,
+    "endTime": 139.73,
+    "text": "at the university level,"
+  },
+  {
+    "startTime": 139.754,
+    "endTime": 141.732,
+    "text": "because there are patterns in shoelaces."
+  },
+  {
+    "startTime": 141.756,
+    "endTime": 143.867,
+    "text": "You can do it in so many different ways."
+  },
+  {
+    "startTime": 143.891,
+    "endTime": 145.135,
+    "text": "We can analyze it."
+  },
+  {
+    "startTime": 145.159,
+    "endTime": 146.92399999999998,
+    "text": "We can make up languages for it."
+  },
+  {
+    "startTime": 148.218,
+    "endTime": 151.15599999999998,
+    "text": "And representations are all over mathematics."
+  },
+  {
+    "startTime": 151.181,
+    "endTime": 154.857,
+    "text": "This is Leibniz's notation from 1675."
+  },
+  {
+    "startTime": 155.335,
+    "endTime": 159.5,
+    "text": "He invented a language for patterns in nature."
+  },
+  {
+    "startTime": 159.363,
+    "endTime": 161.231,
+    "text": "When we throw something up in the air,"
+  },
+  {
+    "startTime": 161.255,
+    "endTime": 162.445,
+    "text": "it falls down."
+  },
+  {
+    "startTime": 162.469,
+    "endTime": 163.62,
+    "text": "Why?"
+  },
+  {
+    "startTime": 163.644,
+    "endTime": 167.714,
+    "text": "We're not sure, but we can represent this with mathematics in a pattern."
+  },
+  {
+    "startTime": 168.285,
+    "endTime": 169.888,
+    "text": "This is also a pattern."
+  },
+  {
+    "startTime": 169.912,
+    "endTime": 172.612,
+    "text": "This is also an invented language."
+  },
+  {
+    "startTime": 172.636,
+    "endTime": 174.18,
+    "text": "Can you guess for what?"
+  },
+  {
+    "startTime": 175.481,
+    "endTime": 178.857,
+    "text": "It is actually a notation system for dancing, for tap dancing."
+  },
+  {
+    "startTime": 179.532,
+    "endTime": 184.788,
+    "text": "That enables him as a choreographer to do cool stuff, to do new things,"
+  },
+  {
+    "startTime": 184.812,
+    "endTime": 186.76500000000001,
+    "text": "because he has represented it."
+  },
+  {
+    "startTime": 187.232,
+    "endTime": 192.34,
+    "text": "I want you to think about how amazing representing something actually is."
+  },
+  {
+    "startTime": 192.62,
+    "endTime": 195.363,
+    "text": "Here it says the word \"mathematics.\""
+  },
+  {
+    "startTime": 195.905,
+    "endTime": 198.305,
+    "text": "But actually, they're just dots, right?"
+  },
+  {
+    "startTime": 198.329,
+    "endTime": 201.32000000000002,
+    "text": "So how in the world can these dots represent the word?"
+  },
+  {
+    "startTime": 201.344,
+    "endTime": 202.684,
+    "text": "Well, they do."
+  },
+  {
+    "startTime": 203.343,
+    "endTime": 205.24099999999999,
+    "text": "They represent the word \"mathematics,\""
+  },
+  {
+    "startTime": 205.265,
+    "endTime": 207.825,
+    "text": "and these symbols also represent that word"
+  },
+  {
+    "startTime": 207.849,
+    "endTime": 209.506,
+    "text": "and this we can listen to."
+  },
+  {
+    "startTime": 209.531,
+    "endTime": 210.888,
+    "text": "It sounds like this."
+  },
+  {
+    "startTime": 210.912,
+    "endTime": 212.89600000000002,
+    "text": "(Beeps)"
+  },
+  {
+    "startTime": 212.92,
+    "endTime": 216.20899999999997,
+    "text": "Somehow these sounds represent the word and the concept."
+  },
+  {
+    "startTime": 216.234,
+    "endTime": 217.89000000000001,
+    "text": "How does this happen?"
+  },
+  {
+    "startTime": 217.914,
+    "endTime": 221.402,
+    "text": "There's something amazing going on about representing stuff."
+  },
+  {
+    "startTime": 221.966,
+    "endTime": 227.583,
+    "text": "So I want to talk about that magic that happens"
+  },
+  {
+    "startTime": 227.607,
+    "endTime": 229.578,
+    "text": "when we actually represent something."
+  },
+  {
+    "startTime": 229.602,
+    "endTime": 232.618,
+    "text": "Here you see just lines with different widths."
+  },
+  {
+    "startTime": 232.642,
+    "endTime": 235.267,
+    "text": "They stand for numbers for a particular book."
+  },
+  {
+    "startTime": 235.291,
+    "endTime": 238.284,
+    "text": "And I can actually recommend this book, it's a very nice book."
+  },
+  {
+    "startTime": 238.308,
+    "endTime": 239.32899999999998,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 239.354,
+    "endTime": 240.63500000000002,
+    "text": "Just trust me."
+  },
+  {
+    "startTime": 241.475,
+    "endTime": 243.798,
+    "text": "OK, so let's just do an experiment,"
+  },
+  {
+    "startTime": 243.822,
+    "endTime": 245.99,
+    "text": "just to play around with some straight lines."
+  },
+  {
+    "startTime": 246.14,
+    "endTime": 247.18099999999998,
+    "text": "This is a straight line."
+  },
+  {
+    "startTime": 247.205,
+    "endTime": 248.359,
+    "text": "Let's make another one."
+  },
+  {
+    "startTime": 248.383,
+    "endTime": 251.192,
+    "text": "So every time we move, we move one down and one across,"
+  },
+  {
+    "startTime": 251.216,
+    "endTime": 253.79000000000002,
+    "text": "and we draw a new straight line, right?"
+  },
+  {
+    "startTime": 253.814,
+    "endTime": 255.839,
+    "text": "We do this over and over and over,"
+  },
+  {
+    "startTime": 256.351,
+    "endTime": 257.709,
+    "text": "and we look for patterns."
+  },
+  {
+    "startTime": 257.733,
+    "endTime": 259.855,
+    "text": "So this pattern emerges,"
+  },
+  {
+    "startTime": 260.22,
+    "endTime": 262.262,
+    "text": "and it's a rather nice pattern."
+  },
+  {
+    "startTime": 262.286,
+    "endTime": 264.21,
+    "text": "It looks like a curve, right?"
+  },
+  {
+    "startTime": 264.45,
+    "endTime": 266.61699999999996,
+    "text": "Just from drawing simple, straight lines."
+  },
+  {
+    "startTime": 267.271,
+    "endTime": 270.555,
+    "text": "Now I can change my perspective a little bit. I can rotate it."
+  },
+  {
+    "startTime": 270.944,
+    "endTime": 272.326,
+    "text": "Have a look at the curve."
+  },
+  {
+    "startTime": 272.35,
+    "endTime": 273.72900000000004,
+    "text": "What does it look like?"
+  },
+  {
+    "startTime": 273.753,
+    "endTime": 275.735,
+    "text": "Is it a part of a circle?"
+  },
+  {
+    "startTime": 275.759,
+    "endTime": 277.661,
+    "text": "It's actually not a part of a circle."
+  },
+  {
+    "startTime": 277.685,
+    "endTime": 281.844,
+    "text": "So I have to continue my investigation and look for the true pattern."
+  },
+  {
+    "startTime": 281.868,
+    "endTime": 285.79,
+    "text": "Perhaps if I copy it and make some art?"
+  },
+  {
+    "startTime": 285.674,
+    "endTime": 286.83,
+    "text": "Well, no."
+  },
+  {
+    "startTime": 286.854,
+    "endTime": 289.3,
+    "text": "Perhaps I should extend the lines like this,"
+  },
+  {
+    "startTime": 289.27,
+    "endTime": 290.796,
+    "text": "and look for the pattern there."
+  },
+  {
+    "startTime": 290.821,
+    "endTime": 292.11600000000004,
+    "text": "Let's make more lines."
+  },
+  {
+    "startTime": 292.14,
+    "endTime": 293.37,
+    "text": "We do this."
+  },
+  {
+    "startTime": 293.394,
+    "endTime": 297.162,
+    "text": "And then let's zoom out and change our perspective again."
+  },
+  {
+    "startTime": 297.801,
+    "endTime": 301.312,
+    "text": "Then we can actually see that what started out as just straight lines"
+  },
+  {
+    "startTime": 301.336,
+    "endTime": 303.425,
+    "text": "is actually a curve called a parabola."
+  },
+  {
+    "startTime": 303.855,
+    "endTime": 307.72,
+    "text": "This is represented by a simple equation,"
+  },
+  {
+    "startTime": 307.96,
+    "endTime": 308.914,
+    "text": "and it's a beautiful pattern."
+  },
+  {
+    "startTime": 309.521,
+    "endTime": 311.296,
+    "text": "So this is the stuff that we do."
+  },
+  {
+    "startTime": 311.32,
+    "endTime": 313.93,
+    "text": "We find patterns, and we represent them."
+  },
+  {
+    "startTime": 313.954,
+    "endTime": 316.57800000000003,
+    "text": "And I think this is a nice day-to-day definition."
+  },
+  {
+    "startTime": 316.602,
+    "endTime": 318.933,
+    "text": "But today I want to go a little bit deeper,"
+  },
+  {
+    "startTime": 318.957,
+    "endTime": 322.901,
+    "text": "and think about what the nature of this is."
+  },
+  {
+    "startTime": 322.925,
+    "endTime": 324.353,
+    "text": "What makes it possible?"
+  },
+  {
+    "startTime": 324.377,
+    "endTime": 326.531,
+    "text": "There's one thing that's a little bit deeper,"
+  },
+  {
+    "startTime": 326.555,
+    "endTime": 330.58,
+    "text": "and that has to do with the ability to change your perspective."
+  },
+  {
+    "startTime": 330.82,
+    "endTime": 332.605,
+    "text": "And I claim that when you change your perspective,"
+  },
+  {
+    "startTime": 332.629,
+    "endTime": 335.435,
+    "text": "and if you take another point of view,"
+  },
+  {
+    "startTime": 335.459,
+    "endTime": 339.369,
+    "text": "you learn something new about what you are watching"
+  },
+  {
+    "startTime": 339.393,
+    "endTime": 340.844,
+    "text": "or looking at or hearing."
+  },
+  {
+    "startTime": 341.472,
+    "endTime": 345.262,
+    "text": "And I think this is a really important thing that we do all the time."
+  },
+  {
+    "startTime": 345.834,
+    "endTime": 349.814,
+    "text": "So let's just look at this simple equation,"
+  },
+  {
+    "startTime": 349.838,
+    "endTime": 352.387,
+    "text": "x + x = 2 • x."
+  },
+  {
+    "startTime": 352.411,
+    "endTime": 354.483,
+    "text": "This is a very nice pattern, and it's true,"
+  },
+  {
+    "startTime": 354.507,
+    "endTime": 357.336,
+    "text": "because 5 + 5 = 2 • 5, etc."
+  },
+  {
+    "startTime": 357.36,
+    "endTime": 360.461,
+    "text": "We've seen this over and over, and we represent it like this."
+  },
+  {
+    "startTime": 360.485,
+    "endTime": 362.66900000000004,
+    "text": "But think about it: this is an equation."
+  },
+  {
+    "startTime": 363.25,
+    "endTime": 365.587,
+    "text": "It says that something is equal to something else,"
+  },
+  {
+    "startTime": 365.611,
+    "endTime": 367.897,
+    "text": "and that's two different perspectives."
+  },
+  {
+    "startTime": 367.922,
+    "endTime": 369.821,
+    "text": "One perspective is, it's a sum."
+  },
+  {
+    "startTime": 369.845,
+    "endTime": 371.69100000000003,
+    "text": "It's something you plus together."
+  },
+  {
+    "startTime": 371.715,
+    "endTime": 374.86999999999995,
+    "text": "On the other hand, it's a multiplication,"
+  },
+  {
+    "startTime": 374.111,
+    "endTime": 376.554,
+    "text": "and those are two different perspectives."
+  },
+  {
+    "startTime": 377.14,
+    "endTime": 380.888,
+    "text": "And I would go as far as to say that every equation is like this,"
+  },
+  {
+    "startTime": 380.912,
+    "endTime": 385.27,
+    "text": "every mathematical equation where you use that equality sign"
+  },
+  {
+    "startTime": 385.52,
+    "endTime": 386.471,
+    "text": "is actually a metaphor."
+  },
+  {
+    "startTime": 386.919,
+    "endTime": 388.924,
+    "text": "It's an analogy between two things."
+  },
+  {
+    "startTime": 388.949,
+    "endTime": 392.444,
+    "text": "You're just viewing something and taking two different points of view,"
+  },
+  {
+    "startTime": 392.468,
+    "endTime": 394.861,
+    "text": "and you're expressing that in a language."
+  },
+  {
+    "startTime": 394.885,
+    "endTime": 396.449,
+    "text": "Have a look at this equation."
+  },
+  {
+    "startTime": 396.473,
+    "endTime": 398.728,
+    "text": "This is one of the most beautiful equations."
+  },
+  {
+    "startTime": 398.752,
+    "endTime": 401.12,
+    "text": "It simply says that, well,"
+  },
+  {
+    "startTime": 401.902,
+    "endTime": 403.794,
+    "text": "two things, they're both -1."
+  },
+  {
+    "startTime": 404.279,
+    "endTime": 407.325,
+    "text": "This thing on the left-hand side is -1, and the other one is."
+  },
+  {
+    "startTime": 407.693,
+    "endTime": 410.19,
+    "text": "And that, I think, is one of the essential parts"
+  },
+  {
+    "startTime": 410.43,
+    "endTime": 412.50600000000003,
+    "text": "of mathematics -- you take different points of view."
+  },
+  {
+    "startTime": 412.53,
+    "endTime": 413.864,
+    "text": "So let's just play around."
+  },
+  {
+    "startTime": 413.889,
+    "endTime": 415.156,
+    "text": "Let's take a number."
+  },
+  {
+    "startTime": 415.18,
+    "endTime": 418.58,
+    "text": "We know four-thirds. We know what four-thirds is."
+  },
+  {
+    "startTime": 418.82,
+    "endTime": 421.84,
+    "text": "It's 1.333, but we have to have those three dots,"
+  },
+  {
+    "startTime": 421.489,
+    "endTime": 423.861,
+    "text": "otherwise it's not exactly four-thirds."
+  },
+  {
+    "startTime": 423.886,
+    "endTime": 425.78200000000004,
+    "text": "But this is only in base 10."
+  },
+  {
+    "startTime": 425.806,
+    "endTime": 428.68,
+    "text": "You know, the number system, we use 10 digits."
+  },
+  {
+    "startTime": 428.93,
+    "endTime": 430.411,
+    "text": "If we change that around and only use two digits,"
+  },
+  {
+    "startTime": 430.435,
+    "endTime": 432.245,
+    "text": "that's called the binary system."
+  },
+  {
+    "startTime": 432.269,
+    "endTime": 433.972,
+    "text": "It's written like this."
+  },
+  {
+    "startTime": 433.996,
+    "endTime": 435.957,
+    "text": "So we're now talking about the number."
+  },
+  {
+    "startTime": 435.982,
+    "endTime": 437.528,
+    "text": "The number is four-thirds."
+  },
+  {
+    "startTime": 437.964,
+    "endTime": 439.307,
+    "text": "We can write it like this,"
+  },
+  {
+    "startTime": 439.331,
+    "endTime": 442.336,
+    "text": "and we can change the base, change the number of digits,"
+  },
+  {
+    "startTime": 442.36,
+    "endTime": 444.148,
+    "text": "and we can write it differently."
+  },
+  {
+    "startTime": 444.172,
+    "endTime": 448.339,
+    "text": "So these are all representations of the same number."
+  },
+  {
+    "startTime": 448.363,
+    "endTime": 451.911,
+    "text": "We can even write it simply, like 1.3 or 1.6."
+  },
+  {
+    "startTime": 451.935,
+    "endTime": 454.135,
+    "text": "It all depends on how many digits you have."
+  },
+  {
+    "startTime": 454.521,
+    "endTime": 457.903,
+    "text": "Or perhaps we just simplify and write it like this."
+  },
+  {
+    "startTime": 457.927,
+    "endTime": 461.142,
+    "text": "I like this one, because this says four divided by three."
+  },
+  {
+    "startTime": 461.166,
+    "endTime": 464.203,
+    "text": "And this number expresses a relation between two numbers."
+  },
+  {
+    "startTime": 464.227,
+    "endTime": 467.191,
+    "text": "You have four on the one hand and three on the other."
+  },
+  {
+    "startTime": 467.215,
+    "endTime": 469.292,
+    "text": "And you can visualize this in many ways."
+  },
+  {
+    "startTime": 469.317,
+    "endTime": 473.36400000000003,
+    "text": "What I'm doing now is viewing that number from different perspectives."
+  },
+  {
+    "startTime": 473.388,
+    "endTime": 474.539,
+    "text": "I'm playing around."
+  },
+  {
+    "startTime": 474.563,
+    "endTime": 477.10699999999997,
+    "text": "I'm playing around with how we view something,"
+  },
+  {
+    "startTime": 477.131,
+    "endTime": 478.842,
+    "text": "and I'm doing it very deliberately."
+  },
+  {
+    "startTime": 478.867,
+    "endTime": 480.5,
+    "text": "We can take a grid."
+  },
+  {
+    "startTime": 480.74,
+    "endTime": 484.752,
+    "text": "If it's four across and three up, this line equals five, always."
+  },
+  {
+    "startTime": 484.776,
+    "endTime": 487.464,
+    "text": "It has to be like this. This is a beautiful pattern."
+  },
+  {
+    "startTime": 487.488,
+    "endTime": 488.742,
+    "text": "Four and three and five."
+  },
+  {
+    "startTime": 489.177,
+    "endTime": 491.88800000000003,
+    "text": "And this rectangle, which is 4 x 3,"
+  },
+  {
+    "startTime": 491.912,
+    "endTime": 493.503,
+    "text": "you've seen a lot of times."
+  },
+  {
+    "startTime": 493.527,
+    "endTime": 495.34,
+    "text": "This is your average computer screen."
+  },
+  {
+    "startTime": 495.364,
+    "endTime": 498.743,
+    "text": "800 x 600 or 1,600 x 1,200"
+  },
+  {
+    "startTime": 498.767,
+    "endTime": 501.255,
+    "text": "is a television or a computer screen."
+  },
+  {
+    "startTime": 501.864,
+    "endTime": 503.895,
+    "text": "So these are all nice representations,"
+  },
+  {
+    "startTime": 503.92,
+    "endTime": 507.84200000000004,
+    "text": "but I want to go a little bit further and just play more with this number."
+  },
+  {
+    "startTime": 507.866,
+    "endTime": 511.114,
+    "text": "Here you see two circles. I'm going to rotate them like this."
+  },
+  {
+    "startTime": 511.138,
+    "endTime": 512.925,
+    "text": "Observe the upper-left one."
+  },
+  {
+    "startTime": 512.95,
+    "endTime": 514.7230000000001,
+    "text": "It goes a little bit faster, right?"
+  },
+  {
+    "startTime": 515.136,
+    "endTime": 516.294,
+    "text": "You can see this."
+  },
+  {
+    "startTime": 516.318,
+    "endTime": 519.693,
+    "text": "It actually goes exactly four-thirds as fast."
+  },
+  {
+    "startTime": 519.717,
+    "endTime": 522.116,
+    "text": "That means that when it goes around four times,"
+  },
+  {
+    "startTime": 522.14,
+    "endTime": 524.1999999999999,
+    "text": "the other one goes around three times."
+  },
+  {
+    "startTime": 524.44,
+    "endTime": 527.5450000000001,
+    "text": "Now let's make two lines, and draw this dot where the lines meet."
+  },
+  {
+    "startTime": 527.569,
+    "endTime": 529.271,
+    "text": "We get this dot dancing around."
+  },
+  {
+    "startTime": 529.295,
+    "endTime": 530.332,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 530.356,
+    "endTime": 532.125,
+    "text": "And this dot comes from that number."
+  },
+  {
+    "startTime": 532.926,
+    "endTime": 534.793,
+    "text": "Right? Now we should trace it."
+  },
+  {
+    "startTime": 535.239,
+    "endTime": 537.417,
+    "text": "Let's trace it and see what happens."
+  },
+  {
+    "startTime": 537.441,
+    "endTime": 539.369,
+    "text": "This is what mathematics is all about."
+  },
+  {
+    "startTime": 539.393,
+    "endTime": 541.28,
+    "text": "It's about seeing what happens."
+  },
+  {
+    "startTime": 541.52,
+    "endTime": 543.996,
+    "text": "And this emerges from four-thirds."
+  },
+  {
+    "startTime": 544.2,
+    "endTime": 547.38,
+    "text": "I like to say that this is the image of four-thirds."
+  },
+  {
+    "startTime": 547.404,
+    "endTime": 548.7,
+    "text": "It's much nicer -- (Cheers)"
+  },
+  {
+    "startTime": 548.724,
+    "endTime": 549.8820000000001,
+    "text": "Thank you!"
+  },
+  {
+    "startTime": 549.906,
+    "endTime": 553.689,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 556.556,
+    "endTime": 557.707,
+    "text": "This is not new."
+  },
+  {
+    "startTime": 557.731,
+    "endTime": 559.765,
+    "text": "This has been known for a long time, but --"
+  },
+  {
+    "startTime": 559.789,
+    "endTime": 561.398,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 561.422,
+    "endTime": 563.106,
+    "text": "But this is four-thirds."
+  },
+  {
+    "startTime": 563.13,
+    "endTime": 564.689,
+    "text": "Let's do another experiment."
+  },
+  {
+    "startTime": 564.713,
+    "endTime": 568.822,
+    "text": "Let's now take a sound, this sound: (Beep)"
+  },
+  {
+    "startTime": 568.846,
+    "endTime": 571.835,
+    "text": "This is a perfect A, 440Hz."
+  },
+  {
+    "startTime": 571.859,
+    "endTime": 573.5450000000001,
+    "text": "Let's multiply it by two."
+  },
+  {
+    "startTime": 573.569,
+    "endTime": 574.928,
+    "text": "We get this sound. (Beep)"
+  },
+  {
+    "startTime": 574.952,
+    "endTime": 577.207,
+    "text": "When we play them together, it sounds like this."
+  },
+  {
+    "startTime": 577.231,
+    "endTime": 578.444,
+    "text": "This is an octave, right?"
+  },
+  {
+    "startTime": 578.468,
+    "endTime": 581.233,
+    "text": "We can do this game. We can play a sound, play the same A."
+  },
+  {
+    "startTime": 581.257,
+    "endTime": 582.958,
+    "text": "We can multiply it by three-halves."
+  },
+  {
+    "startTime": 582.982,
+    "endTime": 584.6,
+    "text": "(Beep)"
+  },
+  {
+    "startTime": 584.624,
+    "endTime": 586.568,
+    "text": "This is what we call a perfect fifth."
+  },
+  {
+    "startTime": 586.592,
+    "endTime": 587.638,
+    "text": "(Beep)"
+  },
+  {
+    "startTime": 587.662,
+    "endTime": 589.768,
+    "text": "They sound really nice together."
+  },
+  {
+    "startTime": 589.792,
+    "endTime": 593.9150000000001,
+    "text": "Let's multiply this sound by four-thirds. (Beep)"
+  },
+  {
+    "startTime": 593.939,
+    "endTime": 595.865,
+    "text": "What happens?"
+  },
+  {
+    "startTime": 595.889,
+    "endTime": 597.32,
+    "text": "You get this sound. (Beep)"
+  },
+  {
+    "startTime": 597.344,
+    "endTime": 598.63,
+    "text": "This is the perfect fourth."
+  },
+  {
+    "startTime": 598.654,
+    "endTime": 600.899,
+    "text": "If the first one is an A, this is a D."
+  },
+  {
+    "startTime": 600.923,
+    "endTime": 602.953,
+    "text": "They sound like this together. (Beeps)"
+  },
+  {
+    "startTime": 602.977,
+    "endTime": 605.387,
+    "text": "This is the sound of four-thirds."
+  },
+  {
+    "startTime": 605.411,
+    "endTime": 607.9639999999999,
+    "text": "What I'm doing now, I'm changing my perspective."
+  },
+  {
+    "startTime": 607.989,
+    "endTime": 610.769,
+    "text": "I'm just viewing a number from another perspective."
+  },
+  {
+    "startTime": 610.793,
+    "endTime": 612.758,
+    "text": "I can even do this with rhythms, right?"
+  },
+  {
+    "startTime": 612.782,
+    "endTime": 616.4540000000001,
+    "text": "I can take a rhythm and play three beats at one time (Drumbeats)"
+  },
+  {
+    "startTime": 616.478,
+    "endTime": 618.29,
+    "text": "in a period of time,"
+  },
+  {
+    "startTime": 618.53,
+    "endTime": 622.395,
+    "text": "and I can play another sound four times in that same space."
+  },
+  {
+    "startTime": 622.419,
+    "endTime": 623.461,
+    "text": "(Clanking sounds)"
+  },
+  {
+    "startTime": 623.485,
+    "endTime": 625.866,
+    "text": "Sounds kind of boring, but listen to them together."
+  },
+  {
+    "startTime": 625.89,
+    "endTime": 628.675,
+    "text": "(Drumbeats and clanking sounds)"
+  },
+  {
+    "startTime": 628.7,
+    "endTime": 629.99,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 630.14,
+    "endTime": 631.435,
+    "text": "Hey! So."
+  },
+  {
+    "startTime": 631.459,
+    "endTime": 633.347,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 633.371,
+    "endTime": 635.53,
+    "text": "I can even make a little hi-hat."
+  },
+  {
+    "startTime": 635.554,
+    "endTime": 637.395,
+    "text": "(Drumbeats and cymbals)"
+  },
+  {
+    "startTime": 637.419,
+    "endTime": 638.569,
+    "text": "Can you hear this?"
+  },
+  {
+    "startTime": 638.594,
+    "endTime": 640.7070000000001,
+    "text": "So, this is the sound of four-thirds."
+  },
+  {
+    "startTime": 640.731,
+    "endTime": 642.581,
+    "text": "Again, this is as a rhythm."
+  },
+  {
+    "startTime": 642.605,
+    "endTime": 644.415,
+    "text": "(Drumbeats and cowbell)"
+  },
+  {
+    "startTime": 644.439,
+    "endTime": 647.286,
+    "text": "And I can keep doing this and play games with this number."
+  },
+  {
+    "startTime": 647.311,
+    "endTime": 650.5600000000001,
+    "text": "Four-thirds is a really great number. I love four-thirds!"
+  },
+  {
+    "startTime": 650.8,
+    "endTime": 651.356,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 651.38,
+    "endTime": 653.867,
+    "text": "Truly -- it's an undervalued number."
+  },
+  {
+    "startTime": 653.891,
+    "endTime": 656.75,
+    "text": "So if you take a sphere and look at the volume of the sphere,"
+  },
+  {
+    "startTime": 656.774,
+    "endTime": 659.707,
+    "text": "it's actually four-thirds of some particular cylinder."
+  },
+  {
+    "startTime": 659.731,
+    "endTime": 663.265,
+    "text": "So four-thirds is in the sphere. It's the volume of the sphere."
+  },
+  {
+    "startTime": 663.824,
+    "endTime": 665.866,
+    "text": "OK, so why am I doing all this?"
+  },
+  {
+    "startTime": 665.89,
+    "endTime": 669.12,
+    "text": "Well, I want to talk about what it means to understand something"
+  },
+  {
+    "startTime": 669.144,
+    "endTime": 671.708,
+    "text": "and what we mean by understanding something."
+  },
+  {
+    "startTime": 671.732,
+    "endTime": 673.155,
+    "text": "That's my aim here."
+  },
+  {
+    "startTime": 673.179,
+    "endTime": 675.309,
+    "text": "And my claim is that you understand something"
+  },
+  {
+    "startTime": 675.333,
+    "endTime": 678.324,
+    "text": "if you have the ability to view it from different perspectives."
+  },
+  {
+    "startTime": 678.349,
+    "endTime": 680.8900000000001,
+    "text": "Let's look at this letter. It's a beautiful R, right?"
+  },
+  {
+    "startTime": 680.914,
+    "endTime": 682.92,
+    "text": "How do you know that?"
+  },
+  {
+    "startTime": 682.557,
+    "endTime": 685.745,
+    "text": "Well, as a matter of fact, you've seen a bunch of R's,"
+  },
+  {
+    "startTime": 685.769,
+    "endTime": 687.414,
+    "text": "and you've generalized"
+  },
+  {
+    "startTime": 687.438,
+    "endTime": 690.408,
+    "text": "and abstracted all of these and found a pattern."
+  },
+  {
+    "startTime": 690.432,
+    "endTime": 693.794,
+    "text": "So you know that this is an R."
+  },
+  {
+    "startTime": 695.643,
+    "endTime": 698.45,
+    "text": "So what I'm aiming for here is saying something"
+  },
+  {
+    "startTime": 698.474,
+    "endTime": 701.855,
+    "text": "about how understanding and changing your perspective"
+  },
+  {
+    "startTime": 701.879,
+    "endTime": 703.211,
+    "text": "are linked."
+  },
+  {
+    "startTime": 703.235,
+    "endTime": 705.404,
+    "text": "And I'm a teacher and a lecturer,"
+  },
+  {
+    "startTime": 705.428,
+    "endTime": 707.74,
+    "text": "and I can actually use this to teach something,"
+  },
+  {
+    "startTime": 707.764,
+    "endTime": 712.604,
+    "text": "because when I give someone else another story, a metaphor, an analogy,"
+  },
+  {
+    "startTime": 712.628,
+    "endTime": 715.2700000000001,
+    "text": "if I tell a story from a different point of view,"
+  },
+  {
+    "startTime": 715.51,
+    "endTime": 716.564,
+    "text": "I enable understanding."
+  },
+  {
+    "startTime": 716.588,
+    "endTime": 718.454,
+    "text": "I make understanding possible,"
+  },
+  {
+    "startTime": 718.478,
+    "endTime": 721.544,
+    "text": "because you have to generalize over everything you see and hear,"
+  },
+  {
+    "startTime": 721.568,
+    "endTime": 726.167,
+    "text": "and if I give you another perspective, that will become easier for you."
+  },
+  {
+    "startTime": 726.191,
+    "endTime": 728.97,
+    "text": "Let's do a simple example again."
+  },
+  {
+    "startTime": 728.121,
+    "endTime": 730.762,
+    "text": "This is four and three. This is four triangles."
+  },
+  {
+    "startTime": 730.786,
+    "endTime": 733.233,
+    "text": "So this is also four-thirds, in a way."
+  },
+  {
+    "startTime": 733.258,
+    "endTime": 734.98,
+    "text": "Let's just join them together."
+  },
+  {
+    "startTime": 735.4,
+    "endTime": 737.713,
+    "text": "Now we're going to play a game; we're going to fold it up"
+  },
+  {
+    "startTime": 737.737,
+    "endTime": 739.419,
+    "text": "into a three-dimensional structure."
+  },
+  {
+    "startTime": 739.443,
+    "endTime": 740.607,
+    "text": "I love this."
+  },
+  {
+    "startTime": 740.631,
+    "endTime": 742.47,
+    "text": "This is a square pyramid."
+  },
+  {
+    "startTime": 742.529,
+    "endTime": 745.679,
+    "text": "And let's just take two of them and put them together."
+  },
+  {
+    "startTime": 745.703,
+    "endTime": 748.391,
+    "text": "So this is what is called an octahedron."
+  },
+  {
+    "startTime": 748.416,
+    "endTime": 751.123,
+    "text": "It's one of the five platonic solids."
+  },
+  {
+    "startTime": 751.147,
+    "endTime": 753.5920000000001,
+    "text": "Now we can quite literally change our perspective,"
+  },
+  {
+    "startTime": 753.616,
+    "endTime": 756.311,
+    "text": "because we can rotate it around all of the axes"
+  },
+  {
+    "startTime": 756.335,
+    "endTime": 758.347,
+    "text": "and view it from different perspectives."
+  },
+  {
+    "startTime": 758.371,
+    "endTime": 760.437,
+    "text": "And I can change the axis,"
+  },
+  {
+    "startTime": 760.461,
+    "endTime": 762.799,
+    "text": "and then I can view it from another point of view,"
+  },
+  {
+    "startTime": 762.823,
+    "endTime": 765.526,
+    "text": "but it's the same thing, but it looks a little different."
+  },
+  {
+    "startTime": 765.55,
+    "endTime": 767.218,
+    "text": "I can do it even one more time."
+  },
+  {
+    "startTime": 767.242,
+    "endTime": 770.544,
+    "text": "Every time I do this, something else appears,"
+  },
+  {
+    "startTime": 770.568,
+    "endTime": 772.747,
+    "text": "so I'm actually learning more about the object"
+  },
+  {
+    "startTime": 772.771,
+    "endTime": 774.295,
+    "text": "when I change my perspective."
+  },
+  {
+    "startTime": 774.32,
+    "endTime": 777.714,
+    "text": "I can use this as a tool for creating understanding."
+  },
+  {
+    "startTime": 778.548,
+    "endTime": 782.14,
+    "text": "I can take two of these and put them together like this"
+  },
+  {
+    "startTime": 782.164,
+    "endTime": 783.411,
+    "text": "and see what happens."
+  },
+  {
+    "startTime": 783.865,
+    "endTime": 787.276,
+    "text": "And it looks a little bit like the octahedron."
+  },
+  {
+    "startTime": 787.3,
+    "endTime": 789.7769999999999,
+    "text": "Have a look at it if I spin it around like this."
+  },
+  {
+    "startTime": 789.802,
+    "endTime": 790.984,
+    "text": "What happens?"
+  },
+  {
+    "startTime": 791.8,
+    "endTime": 794.352,
+    "text": "Well, if you take two of these, join them together and spin it around,"
+  },
+  {
+    "startTime": 794.376,
+    "endTime": 796.776,
+    "text": "there's your octahedron again,"
+  },
+  {
+    "startTime": 796.801,
+    "endTime": 798.432,
+    "text": "a beautiful structure."
+  },
+  {
+    "startTime": 798.456,
+    "endTime": 800.62,
+    "text": "If you lay it out flat on the floor,"
+  },
+  {
+    "startTime": 800.644,
+    "endTime": 801.861,
+    "text": "this is the octahedron."
+  },
+  {
+    "startTime": 801.885,
+    "endTime": 804.588,
+    "text": "This is the graph structure of an octahedron."
+  },
+  {
+    "startTime": 805.255,
+    "endTime": 807.628,
+    "text": "And I can continue doing this."
+  },
+  {
+    "startTime": 807.652,
+    "endTime": 811.1790000000001,
+    "text": "You can draw three great circles around the octahedron,"
+  },
+  {
+    "startTime": 811.203,
+    "endTime": 813.53,
+    "text": "and you rotate around,"
+  },
+  {
+    "startTime": 813.77,
+    "endTime": 817.538,
+    "text": "so actually three great circles is related to the octahedron."
+  },
+  {
+    "startTime": 817.562,
+    "endTime": 821.221,
+    "text": "And if I take a bicycle pump and just pump it up,"
+  },
+  {
+    "startTime": 821.245,
+    "endTime": 824.398,
+    "text": "you can see that this is also a little bit like the octahedron."
+  },
+  {
+    "startTime": 824.801,
+    "endTime": 827.97,
+    "text": "Do you see what I'm doing here?"
+  },
+  {
+    "startTime": 827.121,
+    "endTime": 829.802,
+    "text": "I am changing the perspective every time."
+  },
+  {
+    "startTime": 830.801,
+    "endTime": 833.451,
+    "text": "So let's now take a step back --"
+  },
+  {
+    "startTime": 833.475,
+    "endTime": 836.5120000000001,
+    "text": "and that's actually a metaphor, stepping back --"
+  },
+  {
+    "startTime": 836.536,
+    "endTime": 838.899,
+    "text": "and have a look at what we're doing."
+  },
+  {
+    "startTime": 838.923,
+    "endTime": 840.587,
+    "text": "I'm playing around with metaphors."
+  },
+  {
+    "startTime": 840.611,
+    "endTime": 843.83,
+    "text": "I'm playing around with perspectives and analogies."
+  },
+  {
+    "startTime": 843.107,
+    "endTime": 845.139,
+    "text": "I'm telling one story in different ways."
+  },
+  {
+    "startTime": 845.472,
+    "endTime": 846.682,
+    "text": "I'm telling stories."
+  },
+  {
+    "startTime": 846.706,
+    "endTime": 849.89,
+    "text": "I'm making a narrative; I'm making several narratives."
+  },
+  {
+    "startTime": 849.914,
+    "endTime": 853.436,
+    "text": "And I think all of these things make understanding possible."
+  },
+  {
+    "startTime": 853.46,
+    "endTime": 856.839,
+    "text": "I think this actually is the essence of understanding something."
+  },
+  {
+    "startTime": 856.863,
+    "endTime": 858.157,
+    "text": "I truly believe this."
+  },
+  {
+    "startTime": 858.181,
+    "endTime": 860.6080000000001,
+    "text": "So this thing about changing your perspective --"
+  },
+  {
+    "startTime": 860.608,
+    "endTime": 863.3399999999999,
+    "text": "it's absolutely fundamental for humans."
+  },
+  {
+    "startTime": 863.829,
+    "endTime": 865.449,
+    "text": "Let's play around with the Earth."
+  },
+  {
+    "startTime": 865.474,
+    "endTime": 867.9830000000001,
+    "text": "Let's zoom into the ocean, have a look at the ocean."
+  },
+  {
+    "startTime": 868.7,
+    "endTime": 869.9490000000001,
+    "text": "We can do this with anything."
+  },
+  {
+    "startTime": 869.973,
+    "endTime": 872.433,
+    "text": "We can take the ocean and view it up close."
+  },
+  {
+    "startTime": 872.457,
+    "endTime": 874.391,
+    "text": "We can look at the waves."
+  },
+  {
+    "startTime": 874.415,
+    "endTime": 875.627,
+    "text": "We can go to the beach."
+  },
+  {
+    "startTime": 875.651,
+    "endTime": 877.914,
+    "text": "We can view the ocean from another perspective."
+  },
+  {
+    "startTime": 877.938,
+    "endTime": 881.128,
+    "text": "Every time we do this, we learn a little bit more about the ocean."
+  },
+  {
+    "startTime": 881.152,
+    "endTime": 883.7410000000001,
+    "text": "If we go to the shore, we can kind of smell it, right?"
+  },
+  {
+    "startTime": 883.765,
+    "endTime": 885.475,
+    "text": "We can hear the sound of the waves."
+  },
+  {
+    "startTime": 885.499,
+    "endTime": 887.5450000000001,
+    "text": "We can feel salt on our tongues."
+  },
+  {
+    "startTime": 887.569,
+    "endTime": 890.459,
+    "text": "So all of these are different perspectives."
+  },
+  {
+    "startTime": 890.483,
+    "endTime": 891.747,
+    "text": "And this is the best one."
+  },
+  {
+    "startTime": 891.771,
+    "endTime": 893.414,
+    "text": "We can go into the water."
+  },
+  {
+    "startTime": 893.438,
+    "endTime": 895.447,
+    "text": "We can see the water from the inside."
+  },
+  {
+    "startTime": 895.471,
+    "endTime": 896.649,
+    "text": "And you know what?"
+  },
+  {
+    "startTime": 896.673,
+    "endTime": 899.754,
+    "text": "This is absolutely essential in mathematics and computer science."
+  },
+  {
+    "startTime": 899.778,
+    "endTime": 902.7330000000001,
+    "text": "If you're able to view a structure from the inside,"
+  },
+  {
+    "startTime": 902.757,
+    "endTime": 905.327,
+    "text": "then you really learn something about it."
+  },
+  {
+    "startTime": 905.351,
+    "endTime": 907.372,
+    "text": "That's somehow the essence of something."
+  },
+  {
+    "startTime": 907.883,
+    "endTime": 911.5260000000001,
+    "text": "So when we do this, and we've taken this journey"
+  },
+  {
+    "startTime": 911.55,
+    "endTime": 912.723,
+    "text": "into the ocean,"
+  },
+  {
+    "startTime": 912.747,
+    "endTime": 914.637,
+    "text": "we use our imagination."
+  },
+  {
+    "startTime": 914.661,
+    "endTime": 917.314,
+    "text": "And I think this is one level deeper,"
+  },
+  {
+    "startTime": 917.338,
+    "endTime": 921.7199999999999,
+    "text": "and it's actually a requirement for changing your perspective."
+  },
+  {
+    "startTime": 921.818,
+    "endTime": 922.985,
+    "text": "We can do a little game."
+  },
+  {
+    "startTime": 923.9,
+    "endTime": 925.5,
+    "text": "You can imagine that you're sitting there."
+  },
+  {
+    "startTime": 925.74,
+    "endTime": 928.3,
+    "text": "You can imagine that you're up here, and that you're sitting here."
+  },
+  {
+    "startTime": 928.325,
+    "endTime": 930.6510000000001,
+    "text": "You can view yourselves from the outside."
+  },
+  {
+    "startTime": 930.675,
+    "endTime": 932.6129999999999,
+    "text": "That's really a strange thing."
+  },
+  {
+    "startTime": 932.637,
+    "endTime": 934.459,
+    "text": "You're changing your perspective."
+  },
+  {
+    "startTime": 934.484,
+    "endTime": 936.3430000000001,
+    "text": "You're using your imagination,"
+  },
+  {
+    "startTime": 936.367,
+    "endTime": 938.573,
+    "text": "and you're viewing yourself from the outside."
+  },
+  {
+    "startTime": 939.73,
+    "endTime": 941.102,
+    "text": "That requires imagination."
+  },
+  {
+    "startTime": 941.126,
+    "endTime": 946.59,
+    "text": "Mathematics and computer science are the most imaginative art forms ever."
+  },
+  {
+    "startTime": 946.884,
+    "endTime": 949.66,
+    "text": "And this thing about changing perspectives"
+  },
+  {
+    "startTime": 949.9,
+    "endTime": 951.598,
+    "text": "should sound a little bit familiar to you,"
+  },
+  {
+    "startTime": 951.622,
+    "endTime": 953.834,
+    "text": "because we do it every day."
+  },
+  {
+    "startTime": 954.604,
+    "endTime": 956.224,
+    "text": "And then it's called empathy."
+  },
+  {
+    "startTime": 956.954,
+    "endTime": 959.6519999999999,
+    "text": "When I view the world from your perspective,"
+  },
+  {
+    "startTime": 960.939,
+    "endTime": 962.605,
+    "text": "I have empathy with you."
+  },
+  {
+    "startTime": 962.629,
+    "endTime": 964.477,
+    "text": "If I really, truly understand"
+  },
+  {
+    "startTime": 964.501,
+    "endTime": 967.579,
+    "text": "what the world looks like from your perspective,"
+  },
+  {
+    "startTime": 967.603,
+    "endTime": 969.7399999999999,
+    "text": "I am empathetic."
+  },
+  {
+    "startTime": 969.98,
+    "endTime": 971.277,
+    "text": "That requires imagination."
+  },
+  {
+    "startTime": 971.827,
+    "endTime": 974.286,
+    "text": "And that is how we obtain understanding."
+  },
+  {
+    "startTime": 975.206,
+    "endTime": 978.9590000000001,
+    "text": "And this is all over mathematics and this is all over computer science,"
+  },
+  {
+    "startTime": 978.983,
+    "endTime": 984.5169999999999,
+    "text": "and there's a really deep connection between empathy and these sciences."
+  },
+  {
+    "startTime": 985.288,
+    "endTime": 988.92,
+    "text": "So my conclusion is the following:"
+  },
+  {
+    "startTime": 989.931,
+    "endTime": 992.153,
+    "text": "understanding something really deeply"
+  },
+  {
+    "startTime": 992.177,
+    "endTime": 994.838,
+    "text": "has to do with the ability to change your perspective."
+  },
+  {
+    "startTime": 995.894,
+    "endTime": 999.4830000000001,
+    "text": "So my advice to you is: try to change your perspective."
+  },
+  {
+    "startTime": 999.507,
+    "endTime": 1001.55,
+    "text": "You can study mathematics."
+  },
+  {
+    "startTime": 1001.8,
+    "endTime": 1003.5129999999999,
+    "text": "It's a wonderful way to train your brain."
+  },
+  {
+    "startTime": 1004.66,
+    "endTime": 1008.468,
+    "text": "Changing your perspective makes your mind more flexible."
+  },
+  {
+    "startTime": 1008.49,
+    "endTime": 1010.324,
+    "text": "It makes you open to new things,"
+  },
+  {
+    "startTime": 1010.35,
+    "endTime": 1013.1750000000001,
+    "text": "and it makes you able to understand things."
+  },
+  {
+    "startTime": 1013.2,
+    "endTime": 1015.2170000000001,
+    "text": "And to use yet another metaphor:"
+  },
+  {
+    "startTime": 1015.24,
+    "endTime": 1016.721,
+    "text": "have a mind like water."
+  },
+  {
+    "startTime": 1016.75,
+    "endTime": 1017.901,
+    "text": "That's nice."
+  },
+  {
+    "startTime": 1017.92,
+    "endTime": 1019.7969999999999,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 1019.1,
+    "endTime": 1023.2710000000001,
+    "text": "(Applause)"
+  }
+]

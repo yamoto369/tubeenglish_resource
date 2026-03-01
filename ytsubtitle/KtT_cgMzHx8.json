@@ -1,0 +1,537 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 8.32,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 8.32,
+    "endTime": 11.719,
+    "text": "happy birthday imagine a group of people"
+  },
+  {
+    "startTime": 11.719,
+    "endTime": 13.36,
+    "text": "how big do you think the group would"
+  },
+  {
+    "startTime": 13.36,
+    "endTime": 15.44,
+    "text": "have to be before there's more than a"
+  },
+  {
+    "startTime": 15.44,
+    "endTime": 18.76,
+    "text": "50% chance that two people in the group"
+  },
+  {
+    "startTime": 18.76,
+    "endTime": 21.64,
+    "text": "have the same birthday assume for the"
+  },
+  {
+    "startTime": 21.64,
+    "endTime": 24.0,
+    "text": "sake of argument that there are no twins"
+  },
+  {
+    "startTime": 24.0,
+    "endTime": 26.519,
+    "text": "that every birthday is equally likely"
+  },
+  {
+    "startTime": 26.519,
+    "endTime": 28.759,
+    "text": "and ignore leap"
+  },
+  {
+    "startTime": 28.759,
+    "endTime": 31.8,
+    "text": "years take a moment to think about"
+  },
+  {
+    "startTime": 31.8,
+    "endTime": 35.559,
+    "text": "it the answer may seem surprisingly low"
+  },
+  {
+    "startTime": 35.559,
+    "endTime": 38.92,
+    "text": "in a group of 23 people there is a"
+  },
+  {
+    "startTime": 38.92,
+    "endTime": 42.16,
+    "text": "50.73 chance that two people will share"
+  },
+  {
+    "startTime": 42.16,
+    "endTime": 43.36,
+    "text": "the same"
+  },
+  {
+    "startTime": 43.36,
+    "endTime": 47.399,
+    "text": "birthday but with 365 days in a year how"
+  },
+  {
+    "startTime": 47.399,
+    "endTime": 49.399,
+    "text": "is it possible that you need such a"
+  },
+  {
+    "startTime": 49.399,
+    "endTime": 52.399,
+    "text": "small group to get even odds of a shared"
+  },
+  {
+    "startTime": 52.399,
+    "endTime": 56.84,
+    "text": "birthday why is our intuition so"
+  },
+  {
+    "startTime": 56.84,
+    "endTime": 59.359,
+    "text": "wrong to figure out the answer let's"
+  },
+  {
+    "startTime": 59.359,
+    "endTime": 61.559,
+    "text": "look at one way a mathematician might"
+  },
+  {
+    "startTime": 61.559,
+    "endTime": 64.878,
+    "text": "calculate the odds of a birthday match"
+  },
+  {
+    "startTime": 64.879,
+    "endTime": 67.28,
+    "text": "we can use a field of mathematics known"
+  },
+  {
+    "startTime": 67.28,
+    "endTime": 69.72,
+    "text": "as combinatorics which deals with the"
+  },
+  {
+    "startTime": 69.72,
+    "endTime": 73.119,
+    "text": "likelihoods of different"
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 75.64,
+    "text": "combinations the first step is to flip"
+  },
+  {
+    "startTime": 75.64,
+    "endTime": 78.119,
+    "text": "the problem trying to calculate the odds"
+  },
+  {
+    "startTime": 78.119,
+    "endTime": 80.68,
+    "text": "of a match directly is challenging"
+  },
+  {
+    "startTime": 80.68,
+    "endTime": 82.159,
+    "text": "because there are many ways you could"
+  },
+  {
+    "startTime": 82.159,
+    "endTime": 84.0,
+    "text": "get a birthday match in a"
+  },
+  {
+    "startTime": 84.0,
+    "endTime": 87.119,
+    "text": "group instead it's easier to calculate"
+  },
+  {
+    "startTime": 87.119,
+    "endTime": 89.64,
+    "text": "the odds that everyone's birthday is"
+  },
+  {
+    "startTime": 89.64,
+    "endTime": 92.479,
+    "text": "different different how does that help"
+  },
+  {
+    "startTime": 92.479,
+    "endTime": 94.079,
+    "text": "either there's a birthday match in the"
+  },
+  {
+    "startTime": 94.079,
+    "endTime": 96.439,
+    "text": "group or there isn't so the odds of a"
+  },
+  {
+    "startTime": 96.439,
+    "endTime": 99.2,
+    "text": "match and the odds of no match must add"
+  },
+  {
+    "startTime": 99.2,
+    "endTime": 100.68,
+    "text": "up to"
+  },
+  {
+    "startTime": 100.68,
+    "endTime": 102.88,
+    "text": "100% that means we can find the"
+  },
+  {
+    "startTime": 102.88,
+    "endTime": 105.24,
+    "text": "probability of a match by subtracting"
+  },
+  {
+    "startTime": 105.24,
+    "endTime": 109.0,
+    "text": "the probability of no match from"
+  },
+  {
+    "startTime": 109.0,
+    "endTime": 112.36,
+    "text": "100 to calculate the odds of no match"
+  },
+  {
+    "startTime": 112.36,
+    "endTime": 115.0,
+    "text": "start small calculate the odds that just"
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 117.0,
+    "text": "one pair of people have different"
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 119.119,
+    "text": "birthdays one day of the year will be"
+  },
+  {
+    "startTime": 119.119,
+    "endTime": 121.88,
+    "text": "person A's birthday which leaves only"
+  },
+  {
+    "startTime": 121.88,
+    "endTime": 125.96,
+    "text": "364 possible birthdays for person B the"
+  },
+  {
+    "startTime": 125.96,
+    "endTime": 128.319,
+    "text": "probability of different birthdays for a"
+  },
+  {
+    "startTime": 128.319,
+    "endTime": 132.239,
+    "text": "and b or any pair of people is 364 out"
+  },
+  {
+    "startTime": 132.239,
+    "endTime": 133.2,
+    "text": "of"
+  },
+  {
+    "startTime": 133.2,
+    "endTime": 135.68,
+    "text": "365 about"
+  },
+  {
+    "startTime": 135.68,
+    "endTime": 137.879,
+    "text": "0.997 or"
+  },
+  {
+    "startTime": 137.879,
+    "endTime": 142.4,
+    "text": "99.7% pretty high bring in person C the"
+  },
+  {
+    "startTime": 142.4,
+    "endTime": 144.0,
+    "text": "probability that she has a unique"
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 147.519,
+    "text": "birthday in this small group is 363 out"
+  },
+  {
+    "startTime": 147.519,
+    "endTime": 148.239,
+    "text": "of"
+  },
+  {
+    "startTime": 148.239,
+    "endTime": 150.92,
+    "text": "365 because there are two birth dates"
+  },
+  {
+    "startTime": 150.92,
+    "endTime": 154.08,
+    "text": "already accounted for by A and B D's"
+  },
+  {
+    "startTime": 154.08,
+    "endTime": 158.28,
+    "text": "odds will be 362 out of 365 and so on"
+  },
+  {
+    "startTime": 158.28,
+    "endTime": 162.239,
+    "text": "all the way down to W's odds of 343 out"
+  },
+  {
+    "startTime": 162.239,
+    "endTime": 163.36,
+    "text": "of"
+  },
+  {
+    "startTime": 163.36,
+    "endTime": 166.319,
+    "text": "365 multiply all of those terms together"
+  },
+  {
+    "startTime": 166.319,
+    "endTime": 168.44,
+    "text": "and you'll get the probability that no"
+  },
+  {
+    "startTime": 168.44,
+    "endTime": 172.879,
+    "text": "one shares a birthday this works out to"
+  },
+  {
+    "startTime": 172.879,
+    "endTime": 176.4,
+    "text": "04927 so there's a"
+  },
+  {
+    "startTime": 176.48,
+    "endTime": 180.04,
+    "text": "49.27n in the group of 23 people shares"
+  },
+  {
+    "startTime": 180.04,
+    "endTime": 182.599,
+    "text": "a birthday when we subtract that from"
+  },
+  {
+    "startTime": 182.599,
+    "endTime": 184.519,
+    "text": "100 we get a"
+  },
+  {
+    "startTime": 184.519,
+    "endTime": 187.519,
+    "text": "50.73 chance of at least one birthday"
+  },
+  {
+    "startTime": 187.519,
+    "endTime": 190.72,
+    "text": "match better than even"
+  },
+  {
+    "startTime": 190.72,
+    "endTime": 193.519,
+    "text": "odds the key to such a high probability"
+  },
+  {
+    "startTime": 193.519,
+    "endTime": 195.959,
+    "text": "of a match in a relatively small group"
+  },
+  {
+    "startTime": 195.959,
+    "endTime": 198.239,
+    "text": "is the surprisingly large number of"
+  },
+  {
+    "startTime": 198.239,
+    "endTime": 201.36,
+    "text": "possible pairs as a group grows the"
+  },
+  {
+    "startTime": 201.36,
+    "endTime": 203.56,
+    "text": "number of possible combinations gets"
+  },
+  {
+    "startTime": 203.56,
+    "endTime": 206.76,
+    "text": "bigger much faster a group of five"
+  },
+  {
+    "startTime": 206.76,
+    "endTime": 209.4,
+    "text": "people has 10 possible pairs each of the"
+  },
+  {
+    "startTime": 209.4,
+    "endTime": 211.239,
+    "text": "five people can be paired with any of"
+  },
+  {
+    "startTime": 211.239,
+    "endTime": 213.2,
+    "text": "the other four half of those"
+  },
+  {
+    "startTime": 213.2,
+    "endTime": 214.879,
+    "text": "combinations are redundant because"
+  },
+  {
+    "startTime": 214.879,
+    "endTime": 217.28,
+    "text": "pairing person a with person B is the"
+  },
+  {
+    "startTime": 217.28,
+    "endTime": 220.4,
+    "text": "same as pairing B with a so we divide by"
+  },
+  {
+    "startTime": 220.4,
+    "endTime": 223.519,
+    "text": "two by the same reasoning a group of 10"
+  },
+  {
+    "startTime": 223.519,
+    "endTime": 227.0,
+    "text": "people has 45 Pairs and a group of 23"
+  },
+  {
+    "startTime": 227.0,
+    "endTime": 228.599,
+    "text": "has"
+  },
+  {
+    "startTime": 228.599,
+    "endTime": 231.64,
+    "text": "253 the number of pairs grows"
+  },
+  {
+    "startTime": 231.64,
+    "endTime": 234.04,
+    "text": "quadratically meaning it's proportional"
+  },
+  {
+    "startTime": 234.04,
+    "endTime": 236.319,
+    "text": "to the square of the number of people in"
+  },
+  {
+    "startTime": 236.319,
+    "endTime": 239.4,
+    "text": "the group unfortunately our brains are"
+  },
+  {
+    "startTime": 239.4,
+    "endTime": 242.56,
+    "text": "not iously bad at intuitively grasping"
+  },
+  {
+    "startTime": 242.56,
+    "endTime": 244.92,
+    "text": "nonlinear functions so it seems"
+  },
+  {
+    "startTime": 244.92,
+    "endTime": 247.959,
+    "text": "improbable at first that 23 people could"
+  },
+  {
+    "startTime": 247.959,
+    "endTime": 251.36,
+    "text": "produce 253 possible pairs once our"
+  },
+  {
+    "startTime": 251.36,
+    "endTime": 253.68,
+    "text": "brains accept that the birthday problem"
+  },
+  {
+    "startTime": 253.68,
+    "endTime": 256.919,
+    "text": "makes more sense every one of those 253"
+  },
+  {
+    "startTime": 256.919,
+    "endTime": 259.919,
+    "text": "pairs is a chance for a birthday match"
+  },
+  {
+    "startTime": 259.919,
+    "endTime": 262.32,
+    "text": "for the same reason in a group of 70"
+  },
+  {
+    "startTime": 262.32,
+    "endTime": 264.28,
+    "text": "people there are"
+  },
+  {
+    "startTime": 264.28,
+    "endTime": 267.24,
+    "text": "2,415 possible Pairs and the probability"
+  },
+  {
+    "startTime": 267.24,
+    "endTime": 269.24,
+    "text": "that two people have the same birthday"
+  },
+  {
+    "startTime": 269.24,
+    "endTime": 271.88,
+    "text": "is more than than"
+  },
+  {
+    "startTime": 272.039,
+    "endTime": 274.919,
+    "text": "99.9% the birthday problem is just one"
+  },
+  {
+    "startTime": 274.919,
+    "endTime": 277.16,
+    "text": "example where math can show that things"
+  },
+  {
+    "startTime": 277.16,
+    "endTime": 279.36,
+    "text": "that seem impossible like the same"
+  },
+  {
+    "startTime": 279.36,
+    "endTime": 281.6,
+    "text": "person winning the lottery twice"
+  },
+  {
+    "startTime": 281.6,
+    "endTime": 284.52,
+    "text": "actually aren't unlikely at all"
+  },
+  {
+    "startTime": 284.52,
+    "endTime": 286.6,
+    "text": "sometimes coincidences aren't as"
+  },
+  {
+    "startTime": 286.6,
+    "endTime": 290.96,
+    "text": "coincidental as they seem"
+  },
+  {
+    "startTime": 299.63,
+    "endTime": 302.759,
+    "text": "[Music]"
+  }
+]
