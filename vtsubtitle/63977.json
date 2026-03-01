@@ -1,0 +1,1787 @@
+[
+  {
+    "startTime": 12.532,
+    "endTime": 14.84,
+    "text": "This is Lee Sedol."
+  },
+  {
+    "startTime": 14.108,
+    "endTime": 18.105,
+    "text": "Lee Sedol is one of the world's greatest Go players,"
+  },
+  {
+    "startTime": 18.129,
+    "endTime": 21.14,
+    "text": "and he's having what my friends in Silicon Valley call"
+  },
+  {
+    "startTime": 21.38,
+    "endTime": 22.548,
+    "text": "a \"Holy Cow\" moment --"
+  },
+  {
+    "startTime": 22.572,
+    "endTime": 23.645,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 23.669,
+    "endTime": 25.857,
+    "text": "a moment where we realize"
+  },
+  {
+    "startTime": 25.881,
+    "endTime": 29.177,
+    "text": "that AI is actually progressing a lot faster than we expected."
+  },
+  {
+    "startTime": 29.974,
+    "endTime": 33.21,
+    "text": "So humans have lost on the Go board. What about the real world?"
+  },
+  {
+    "startTime": 33.45,
+    "endTime": 35.145,
+    "text": "Well, the real world is much bigger,"
+  },
+  {
+    "startTime": 35.169,
+    "endTime": 37.418,
+    "text": "much more complicated than the Go board."
+  },
+  {
+    "startTime": 37.442,
+    "endTime": 39.261,
+    "text": "It's a lot less visible,"
+  },
+  {
+    "startTime": 39.285,
+    "endTime": 41.321999999999996,
+    "text": "but it's still a decision problem."
+  },
+  {
+    "startTime": 42.768,
+    "endTime": 45.89,
+    "text": "And if we think about some of the technologies"
+  },
+  {
+    "startTime": 45.113,
+    "endTime": 46.862,
+    "text": "that are coming down the pike ..."
+  },
+  {
+    "startTime": 47.558,
+    "endTime": 51.893,
+    "text": "Noriko [Arai] mentioned that reading is not yet happening in machines,"
+  },
+  {
+    "startTime": 51.917,
+    "endTime": 53.417,
+    "text": "at least with understanding."
+  },
+  {
+    "startTime": 53.441,
+    "endTime": 54.977000000000004,
+    "text": "But that will happen,"
+  },
+  {
+    "startTime": 55.1,
+    "endTime": 56.772,
+    "text": "and when that happens,"
+  },
+  {
+    "startTime": 56.796,
+    "endTime": 57.983,
+    "text": "very soon afterwards,"
+  },
+  {
+    "startTime": 58.7,
+    "endTime": 62.579,
+    "text": "machines will have read everything that the human race has ever written."
+  },
+  {
+    "startTime": 63.67,
+    "endTime": 65.7,
+    "text": "And that will enable machines,"
+  },
+  {
+    "startTime": 65.724,
+    "endTime": 68.644,
+    "text": "along with the ability to look further ahead than humans can,"
+  },
+  {
+    "startTime": 68.668,
+    "endTime": 70.34800000000001,
+    "text": "as we've already seen in Go,"
+  },
+  {
+    "startTime": 70.372,
+    "endTime": 72.536,
+    "text": "if they also have access to more information,"
+  },
+  {
+    "startTime": 72.56,
+    "endTime": 76.828,
+    "text": "they'll be able to make better decisions in the real world than we can."
+  },
+  {
+    "startTime": 78.612,
+    "endTime": 80.217,
+    "text": "So is that a good thing?"
+  },
+  {
+    "startTime": 81.718,
+    "endTime": 83.95,
+    "text": "Well, I hope so."
+  },
+  {
+    "startTime": 86.514,
+    "endTime": 89.768,
+    "text": "Our entire civilization, everything that we value,"
+  },
+  {
+    "startTime": 89.793,
+    "endTime": 91.861,
+    "text": "is based on our intelligence."
+  },
+  {
+    "startTime": 91.885,
+    "endTime": 95.57900000000001,
+    "text": "And if we had access to a lot more intelligence,"
+  },
+  {
+    "startTime": 95.603,
+    "endTime": 98.905,
+    "text": "then there's really no limit to what the human race can do."
+  },
+  {
+    "startTime": 100.485,
+    "endTime": 103.81,
+    "text": "And I think this could be, as some people have described it,"
+  },
+  {
+    "startTime": 103.834,
+    "endTime": 105.85000000000001,
+    "text": "the biggest event in human history."
+  },
+  {
+    "startTime": 108.485,
+    "endTime": 111.314,
+    "text": "So why are people saying things like this,"
+  },
+  {
+    "startTime": 111.338,
+    "endTime": 114.214,
+    "text": "that AI might spell the end of the human race?"
+  },
+  {
+    "startTime": 115.258,
+    "endTime": 116.917,
+    "text": "Is this a new thing?"
+  },
+  {
+    "startTime": 116.941,
+    "endTime": 121.51,
+    "text": "Is it just Elon Musk and Bill Gates and Stephen Hawking?"
+  },
+  {
+    "startTime": 121.773,
+    "endTime": 125.35,
+    "text": "Actually, no. This idea has been around for a while."
+  },
+  {
+    "startTime": 125.59,
+    "endTime": 127.21000000000001,
+    "text": "Here's a quotation:"
+  },
+  {
+    "startTime": 127.45,
+    "endTime": 131.395,
+    "text": "\"Even if we could keep the machines in a subservient position,"
+  },
+  {
+    "startTime": 131.419,
+    "endTime": 134.40300000000002,
+    "text": "for instance, by turning off the power at strategic moments\" --"
+  },
+  {
+    "startTime": 134.427,
+    "endTime": 137.664,
+    "text": "and I'll come back to that \"turning off the power\" idea later on --"
+  },
+  {
+    "startTime": 137.688,
+    "endTime": 140.492,
+    "text": "\"we should, as a species, feel greatly humbled.\""
+  },
+  {
+    "startTime": 141.997,
+    "endTime": 145.44500000000002,
+    "text": "So who said this? This is Alan Turing in 1951."
+  },
+  {
+    "startTime": 146.12,
+    "endTime": 148.883,
+    "text": "Alan Turing, as you know, is the father of computer science"
+  },
+  {
+    "startTime": 148.907,
+    "endTime": 151.955,
+    "text": "and in many ways, the father of AI as well."
+  },
+  {
+    "startTime": 153.59,
+    "endTime": 154.941,
+    "text": "So if we think about this problem,"
+  },
+  {
+    "startTime": 154.965,
+    "endTime": 158.752,
+    "text": "the problem of creating something more intelligent than your own species,"
+  },
+  {
+    "startTime": 158.776,
+    "endTime": 161.39800000000002,
+    "text": "we might call this \"the gorilla problem,\""
+  },
+  {
+    "startTime": 162.165,
+    "endTime": 165.915,
+    "text": "because gorillas' ancestors did this a few million years ago,"
+  },
+  {
+    "startTime": 165.939,
+    "endTime": 167.684,
+    "text": "and now we can ask the gorillas:"
+  },
+  {
+    "startTime": 168.572,
+    "endTime": 169.732,
+    "text": "Was this a good idea?"
+  },
+  {
+    "startTime": 169.756,
+    "endTime": 173.286,
+    "text": "So here they are having a meeting to discuss whether it was a good idea,"
+  },
+  {
+    "startTime": 173.31,
+    "endTime": 176.656,
+    "text": "and after a little while, they conclude, no,"
+  },
+  {
+    "startTime": 176.68,
+    "endTime": 178.25,
+    "text": "this was a terrible idea."
+  },
+  {
+    "startTime": 178.49,
+    "endTime": 179.83100000000002,
+    "text": "Our species is in dire straits."
+  },
+  {
+    "startTime": 180.358,
+    "endTime": 184.621,
+    "text": "In fact, you can see the existential sadness in their eyes."
+  },
+  {
+    "startTime": 184.645,
+    "endTime": 186.285,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 186.309,
+    "endTime": 191.149,
+    "text": "So this queasy feeling that making something smarter than your own species"
+  },
+  {
+    "startTime": 191.173,
+    "endTime": 193.538,
+    "text": "is maybe not a good idea --"
+  },
+  {
+    "startTime": 194.308,
+    "endTime": 195.799,
+    "text": "what can we do about that?"
+  },
+  {
+    "startTime": 195.823,
+    "endTime": 200.59,
+    "text": "Well, really nothing, except stop doing AI,"
+  },
+  {
+    "startTime": 200.614,
+    "endTime": 203.124,
+    "text": "and because of all the benefits that I mentioned"
+  },
+  {
+    "startTime": 203.148,
+    "endTime": 204.864,
+    "text": "and because I'm an AI researcher,"
+  },
+  {
+    "startTime": 204.888,
+    "endTime": 206.679,
+    "text": "I'm not having that."
+  },
+  {
+    "startTime": 207.103,
+    "endTime": 209.571,
+    "text": "I actually want to be able to keep doing AI."
+  },
+  {
+    "startTime": 210.435,
+    "endTime": 213.113,
+    "text": "So we actually need to nail down the problem a bit more."
+  },
+  {
+    "startTime": 213.137,
+    "endTime": 214.508,
+    "text": "What exactly is the problem?"
+  },
+  {
+    "startTime": 214.532,
+    "endTime": 217.77800000000002,
+    "text": "Why is better AI possibly a catastrophe?"
+  },
+  {
+    "startTime": 219.218,
+    "endTime": 220.715,
+    "text": "So here's another quotation:"
+  },
+  {
+    "startTime": 221.755,
+    "endTime": 225.9,
+    "text": "\"We had better be quite sure that the purpose put into the machine"
+  },
+  {
+    "startTime": 225.114,
+    "endTime": 227.412,
+    "text": "is the purpose which we really desire.\""
+  },
+  {
+    "startTime": 228.102,
+    "endTime": 231.6,
+    "text": "This was said by Norbert Wiener in 1960,"
+  },
+  {
+    "startTime": 231.624,
+    "endTime": 235.626,
+    "text": "shortly after he watched one of the very early learning systems"
+  },
+  {
+    "startTime": 235.65,
+    "endTime": 238.233,
+    "text": "learn to play checkers better than its creator."
+  },
+  {
+    "startTime": 240.422,
+    "endTime": 243.105,
+    "text": "But this could equally have been said"
+  },
+  {
+    "startTime": 243.129,
+    "endTime": 244.296,
+    "text": "by King Midas."
+  },
+  {
+    "startTime": 244.903,
+    "endTime": 248.35999999999999,
+    "text": "King Midas said, \"I want everything I touch to turn to gold,\""
+  },
+  {
+    "startTime": 248.61,
+    "endTime": 250.53400000000002,
+    "text": "and he got exactly what he asked for."
+  },
+  {
+    "startTime": 250.558,
+    "endTime": 253.309,
+    "text": "That was the purpose that he put into the machine,"
+  },
+  {
+    "startTime": 253.333,
+    "endTime": 254.783,
+    "text": "so to speak,"
+  },
+  {
+    "startTime": 254.807,
+    "endTime": 258.25,
+    "text": "and then his food and his drink and his relatives turned to gold"
+  },
+  {
+    "startTime": 258.274,
+    "endTime": 260.555,
+    "text": "and he died in misery and starvation."
+  },
+  {
+    "startTime": 262.264,
+    "endTime": 264.605,
+    "text": "So we'll call this \"the King Midas problem\""
+  },
+  {
+    "startTime": 264.629,
+    "endTime": 267.934,
+    "text": "of stating an objective which is not, in fact,"
+  },
+  {
+    "startTime": 267.958,
+    "endTime": 270.37100000000004,
+    "text": "truly aligned with what we want."
+  },
+  {
+    "startTime": 270.395,
+    "endTime": 273.647,
+    "text": "In modern terms, we call this \"the value alignment problem.\""
+  },
+  {
+    "startTime": 276.867,
+    "endTime": 280.35200000000003,
+    "text": "Putting in the wrong objective is not the only part of the problem."
+  },
+  {
+    "startTime": 280.376,
+    "endTime": 281.527,
+    "text": "There's another part."
+  },
+  {
+    "startTime": 281.98,
+    "endTime": 283.923,
+    "text": "If you put an objective into a machine,"
+  },
+  {
+    "startTime": 283.947,
+    "endTime": 286.395,
+    "text": "even something as simple as, \"Fetch the coffee,\""
+  },
+  {
+    "startTime": 287.728,
+    "endTime": 289.569,
+    "text": "the machine says to itself,"
+  },
+  {
+    "startTime": 290.553,
+    "endTime": 293.176,
+    "text": "\"Well, how might I fail to fetch the coffee?"
+  },
+  {
+    "startTime": 293.2,
+    "endTime": 294.78,
+    "text": "Someone might switch me off."
+  },
+  {
+    "startTime": 295.465,
+    "endTime": 297.852,
+    "text": "OK, I have to take steps to prevent that."
+  },
+  {
+    "startTime": 297.876,
+    "endTime": 299.782,
+    "text": "I will disable my 'off' switch."
+  },
+  {
+    "startTime": 300.354,
+    "endTime": 303.313,
+    "text": "I will do anything to defend myself against interference"
+  },
+  {
+    "startTime": 303.337,
+    "endTime": 305.966,
+    "text": "with this objective that I have been given.\""
+  },
+  {
+    "startTime": 305.99,
+    "endTime": 308.2,
+    "text": "So this single-minded pursuit"
+  },
+  {
+    "startTime": 309.33,
+    "endTime": 311.978,
+    "text": "in a very defensive mode of an objective that is, in fact,"
+  },
+  {
+    "startTime": 312.2,
+    "endTime": 314.816,
+    "text": "not aligned with the true objectives of the human race --"
+  },
+  {
+    "startTime": 315.942,
+    "endTime": 317.80400000000003,
+    "text": "that's the problem that we face."
+  },
+  {
+    "startTime": 318.827,
+    "endTime": 323.594,
+    "text": "And in fact, that's the high-value takeaway from this talk."
+  },
+  {
+    "startTime": 323.618,
+    "endTime": 325.673,
+    "text": "If you want to remember one thing,"
+  },
+  {
+    "startTime": 325.697,
+    "endTime": 328.372,
+    "text": "it's that you can't fetch the coffee if you're dead."
+  },
+  {
+    "startTime": 328.396,
+    "endTime": 329.457,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 329.481,
+    "endTime": 333.31,
+    "text": "It's very simple. Just remember that. Repeat it to yourself three times a day."
+  },
+  {
+    "startTime": 333.334,
+    "endTime": 335.15500000000003,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 335.179,
+    "endTime": 337.933,
+    "text": "And in fact, this is exactly the plot"
+  },
+  {
+    "startTime": 337.957,
+    "endTime": 340.605,
+    "text": "of \"2001: [A Space Odyssey]\""
+  },
+  {
+    "startTime": 341.46,
+    "endTime": 343.135,
+    "text": "HAL has an objective, a mission,"
+  },
+  {
+    "startTime": 343.16,
+    "endTime": 346.89200000000005,
+    "text": "which is not aligned with the objectives of the humans,"
+  },
+  {
+    "startTime": 346.916,
+    "endTime": 348.726,
+    "text": "and that leads to this conflict."
+  },
+  {
+    "startTime": 349.314,
+    "endTime": 352.283,
+    "text": "Now fortunately, HAL is not superintelligent."
+  },
+  {
+    "startTime": 352.307,
+    "endTime": 355.894,
+    "text": "He's pretty smart, but eventually Dave outwits him"
+  },
+  {
+    "startTime": 355.918,
+    "endTime": 357.767,
+    "text": "and manages to switch him off."
+  },
+  {
+    "startTime": 361.648,
+    "endTime": 363.26700000000005,
+    "text": "But we might not be so lucky."
+  },
+  {
+    "startTime": 368.13,
+    "endTime": 369.604,
+    "text": "So what are we going to do?"
+  },
+  {
+    "startTime": 372.191,
+    "endTime": 374.792,
+    "text": "I'm trying to redefine AI"
+  },
+  {
+    "startTime": 374.816,
+    "endTime": 376.876,
+    "text": "to get away from this classical notion"
+  },
+  {
+    "startTime": 376.901,
+    "endTime": 381.468,
+    "text": "of machines that intelligently pursue objectives."
+  },
+  {
+    "startTime": 382.532,
+    "endTime": 384.33,
+    "text": "There are three principles involved."
+  },
+  {
+    "startTime": 384.354,
+    "endTime": 387.643,
+    "text": "The first one is a principle of altruism, if you like,"
+  },
+  {
+    "startTime": 387.667,
+    "endTime": 390.929,
+    "text": "that the robot's only objective"
+  },
+  {
+    "startTime": 390.953,
+    "endTime": 395.198,
+    "text": "is to maximize the realization of human objectives,"
+  },
+  {
+    "startTime": 395.223,
+    "endTime": 396.613,
+    "text": "of human values."
+  },
+  {
+    "startTime": 396.637,
+    "endTime": 399.967,
+    "text": "And by values here I don't mean touchy-feely, goody-goody values."
+  },
+  {
+    "startTime": 399.991,
+    "endTime": 403.777,
+    "text": "I just mean whatever it is that the human would prefer"
+  },
+  {
+    "startTime": 403.802,
+    "endTime": 405.14500000000004,
+    "text": "their life to be like."
+  },
+  {
+    "startTime": 407.184,
+    "endTime": 409.49300000000005,
+    "text": "And so this actually violates Asimov's law"
+  },
+  {
+    "startTime": 409.517,
+    "endTime": 411.846,
+    "text": "that the robot has to protect its own existence."
+  },
+  {
+    "startTime": 411.87,
+    "endTime": 415.593,
+    "text": "It has no interest in preserving its existence whatsoever."
+  },
+  {
+    "startTime": 417.24,
+    "endTime": 421.8,
+    "text": "The second law is a law of humility, if you like."
+  },
+  {
+    "startTime": 421.794,
+    "endTime": 425.537,
+    "text": "And this turns out to be really important to make robots safe."
+  },
+  {
+    "startTime": 425.561,
+    "endTime": 428.703,
+    "text": "It says that the robot does not know"
+  },
+  {
+    "startTime": 428.727,
+    "endTime": 430.755,
+    "text": "what those human values are,"
+  },
+  {
+    "startTime": 430.779,
+    "endTime": 433.957,
+    "text": "so it has to maximize them, but it doesn't know what they are."
+  },
+  {
+    "startTime": 435.74,
+    "endTime": 437.7,
+    "text": "And that avoids this problem of single-minded pursuit"
+  },
+  {
+    "startTime": 437.724,
+    "endTime": 438.936,
+    "text": "of an objective."
+  },
+  {
+    "startTime": 438.96,
+    "endTime": 441.132,
+    "text": "This uncertainty turns out to be crucial."
+  },
+  {
+    "startTime": 441.546,
+    "endTime": 443.185,
+    "text": "Now, in order to be useful to us,"
+  },
+  {
+    "startTime": 443.209,
+    "endTime": 445.94,
+    "text": "it has to have some idea of what we want."
+  },
+  {
+    "startTime": 447.43,
+    "endTime": 452.47,
+    "text": "It obtains that information primarily by observation of human choices,"
+  },
+  {
+    "startTime": 452.494,
+    "endTime": 455.295,
+    "text": "so our own choices reveal information"
+  },
+  {
+    "startTime": 455.319,
+    "endTime": 458.619,
+    "text": "about what it is that we prefer our lives to be like."
+  },
+  {
+    "startTime": 460.452,
+    "endTime": 462.135,
+    "text": "So those are the three principles."
+  },
+  {
+    "startTime": 462.159,
+    "endTime": 464.477,
+    "text": "Let's see how that applies to this question of:"
+  },
+  {
+    "startTime": 464.501,
+    "endTime": 467.289,
+    "text": "\"Can you switch the machine off?\" as Turing suggested."
+  },
+  {
+    "startTime": 468.893,
+    "endTime": 471.13,
+    "text": "So here's a PR2 robot."
+  },
+  {
+    "startTime": 471.37,
+    "endTime": 472.858,
+    "text": "This is one that we have in our lab,"
+  },
+  {
+    "startTime": 472.882,
+    "endTime": 475.785,
+    "text": "and it has a big red \"off\" switch right on the back."
+  },
+  {
+    "startTime": 476.361,
+    "endTime": 478.976,
+    "text": "The question is: Is it going to let you switch it off?"
+  },
+  {
+    "startTime": 479.0,
+    "endTime": 480.465,
+    "text": "If we do it the classical way,"
+  },
+  {
+    "startTime": 480.489,
+    "endTime": 483.971,
+    "text": "we give it the objective of, \"Fetch the coffee, I must fetch the coffee,"
+  },
+  {
+    "startTime": 483.995,
+    "endTime": 486.575,
+    "text": "I can't fetch the coffee if I'm dead,\""
+  },
+  {
+    "startTime": 486.599,
+    "endTime": 489.94,
+    "text": "so obviously the PR2 has been listening to my talk,"
+  },
+  {
+    "startTime": 489.964,
+    "endTime": 493.717,
+    "text": "and so it says, therefore, \"I must disable my 'off' switch,"
+  },
+  {
+    "startTime": 494.796,
+    "endTime": 497.49,
+    "text": "and probably taser all the other people in Starbucks"
+  },
+  {
+    "startTime": 497.514,
+    "endTime": 499.74,
+    "text": "who might interfere with me.\""
+  },
+  {
+    "startTime": 499.98,
+    "endTime": 501.16,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 501.184,
+    "endTime": 503.33700000000005,
+    "text": "So this seems to be inevitable, right?"
+  },
+  {
+    "startTime": 503.361,
+    "endTime": 505.759,
+    "text": "This kind of failure mode seems to be inevitable,"
+  },
+  {
+    "startTime": 505.783,
+    "endTime": 509.326,
+    "text": "and it follows from having a concrete, definite objective."
+  },
+  {
+    "startTime": 510.632,
+    "endTime": 513.775,
+    "text": "So what happens if the machine is uncertain about the objective?"
+  },
+  {
+    "startTime": 513.799,
+    "endTime": 515.9259999999999,
+    "text": "Well, it reasons in a different way."
+  },
+  {
+    "startTime": 515.951,
+    "endTime": 518.375,
+    "text": "It says, \"OK, the human might switch me off,"
+  },
+  {
+    "startTime": 518.964,
+    "endTime": 520.83,
+    "text": "but only if I'm doing something wrong."
+  },
+  {
+    "startTime": 521.567,
+    "endTime": 524.42,
+    "text": "Well, I don't really know what wrong is,"
+  },
+  {
+    "startTime": 524.66,
+    "endTime": 526.11,
+    "text": "but I know that I don't want to do it.\""
+  },
+  {
+    "startTime": 526.134,
+    "endTime": 529.144,
+    "text": "So that's the first and second principles right there."
+  },
+  {
+    "startTime": 529.168,
+    "endTime": 532.527,
+    "text": "\"So I should let the human switch me off.\""
+  },
+  {
+    "startTime": 533.541,
+    "endTime": 537.4970000000001,
+    "text": "And in fact you can calculate the incentive that the robot has"
+  },
+  {
+    "startTime": 537.521,
+    "endTime": 540.14,
+    "text": "to allow the human to switch it off,"
+  },
+  {
+    "startTime": 540.38,
+    "endTime": 541.952,
+    "text": "and it's directly tied to the degree"
+  },
+  {
+    "startTime": 541.976,
+    "endTime": 544.722,
+    "text": "of uncertainty about the underlying objective."
+  },
+  {
+    "startTime": 545.797,
+    "endTime": 548.746,
+    "text": "And then when the machine is switched off,"
+  },
+  {
+    "startTime": 548.77,
+    "endTime": 550.574,
+    "text": "that third principle comes into play."
+  },
+  {
+    "startTime": 550.599,
+    "endTime": 553.6610000000001,
+    "text": "It learns something about the objectives it should be pursuing,"
+  },
+  {
+    "startTime": 553.685,
+    "endTime": 556.218,
+    "text": "because it learns that what it did wasn't right."
+  },
+  {
+    "startTime": 556.242,
+    "endTime": 559.812,
+    "text": "In fact, we can, with suitable use of Greek symbols,"
+  },
+  {
+    "startTime": 559.836,
+    "endTime": 561.967,
+    "text": "as mathematicians usually do,"
+  },
+  {
+    "startTime": 561.991,
+    "endTime": 563.975,
+    "text": "we can actually prove a theorem"
+  },
+  {
+    "startTime": 563.999,
+    "endTime": 567.552,
+    "text": "that says that such a robot is provably beneficial to the human."
+  },
+  {
+    "startTime": 567.576,
+    "endTime": 571.379,
+    "text": "You are provably better off with a machine that's designed in this way"
+  },
+  {
+    "startTime": 571.403,
+    "endTime": 572.649,
+    "text": "than without it."
+  },
+  {
+    "startTime": 573.57,
+    "endTime": 575.9630000000001,
+    "text": "So this is a very simple example, but this is the first step"
+  },
+  {
+    "startTime": 575.987,
+    "endTime": 579.89,
+    "text": "in what we're trying to do with human-compatible AI."
+  },
+  {
+    "startTime": 582.477,
+    "endTime": 585.733,
+    "text": "Now, this third principle,"
+  },
+  {
+    "startTime": 585.758,
+    "endTime": 588.87,
+    "text": "I think is the one that you're probably scratching your head over."
+  },
+  {
+    "startTime": 588.894,
+    "endTime": 592.133,
+    "text": "You're probably thinking, \"Well, you know, I behave badly."
+  },
+  {
+    "startTime": 592.157,
+    "endTime": 595.86,
+    "text": "I don't want my robot to behave like me."
+  },
+  {
+    "startTime": 595.11,
+    "endTime": 598.544,
+    "text": "I sneak down in the middle of the night and take stuff from the fridge."
+  },
+  {
+    "startTime": 598.568,
+    "endTime": 599.736,
+    "text": "I do this and that.\""
+  },
+  {
+    "startTime": 599.76,
+    "endTime": 602.557,
+    "text": "There's all kinds of things you don't want the robot doing."
+  },
+  {
+    "startTime": 602.581,
+    "endTime": 604.652,
+    "text": "But in fact, it doesn't quite work that way."
+  },
+  {
+    "startTime": 604.676,
+    "endTime": 606.831,
+    "text": "Just because you behave badly"
+  },
+  {
+    "startTime": 606.855,
+    "endTime": 609.4780000000001,
+    "text": "doesn't mean the robot is going to copy your behavior."
+  },
+  {
+    "startTime": 609.502,
+    "endTime": 613.411,
+    "text": "It's going to understand your motivations and maybe help you resist them,"
+  },
+  {
+    "startTime": 613.436,
+    "endTime": 614.7560000000001,
+    "text": "if appropriate."
+  },
+  {
+    "startTime": 616.26,
+    "endTime": 617.49,
+    "text": "But it's still difficult."
+  },
+  {
+    "startTime": 618.122,
+    "endTime": 620.6659999999999,
+    "text": "What we're trying to do, in fact,"
+  },
+  {
+    "startTime": 620.691,
+    "endTime": 626.4870000000001,
+    "text": "is to allow machines to predict for any person and for any possible life"
+  },
+  {
+    "startTime": 626.511,
+    "endTime": 627.6709999999999,
+    "text": "that they could live,"
+  },
+  {
+    "startTime": 627.696,
+    "endTime": 629.293,
+    "text": "and the lives of everybody else:"
+  },
+  {
+    "startTime": 629.317,
+    "endTime": 631.8340000000001,
+    "text": "Which would they prefer?"
+  },
+  {
+    "startTime": 633.881,
+    "endTime": 636.834,
+    "text": "And there are many, many difficulties involved in doing this;"
+  },
+  {
+    "startTime": 636.859,
+    "endTime": 639.791,
+    "text": "I don't expect that this is going to get solved very quickly."
+  },
+  {
+    "startTime": 639.815,
+    "endTime": 642.4580000000001,
+    "text": "The real difficulties, in fact, are us."
+  },
+  {
+    "startTime": 643.969,
+    "endTime": 647.86,
+    "text": "As I have already mentioned, we behave badly."
+  },
+  {
+    "startTime": 647.11,
+    "endTime": 649.431,
+    "text": "In fact, some of us are downright nasty."
+  },
+  {
+    "startTime": 650.251,
+    "endTime": 653.303,
+    "text": "Now the robot, as I said, doesn't have to copy the behavior."
+  },
+  {
+    "startTime": 653.327,
+    "endTime": 656.118,
+    "text": "The robot does not have any objective of its own."
+  },
+  {
+    "startTime": 656.142,
+    "endTime": 657.879,
+    "text": "It's purely altruistic."
+  },
+  {
+    "startTime": 659.113,
+    "endTime": 664.3340000000001,
+    "text": "And it's not designed just to satisfy the desires of one person, the user,"
+  },
+  {
+    "startTime": 664.358,
+    "endTime": 667.496,
+    "text": "but in fact it has to respect the preferences of everybody."
+  },
+  {
+    "startTime": 669.83,
+    "endTime": 671.653,
+    "text": "So it can deal with a certain amount of nastiness,"
+  },
+  {
+    "startTime": 671.677,
+    "endTime": 675.378,
+    "text": "and it can even understand that your nastiness, for example,"
+  },
+  {
+    "startTime": 675.402,
+    "endTime": 678.73,
+    "text": "you may take bribes as a passport official"
+  },
+  {
+    "startTime": 678.97,
+    "endTime": 681.909,
+    "text": "because you need to feed your family and send your kids to school."
+  },
+  {
+    "startTime": 681.933,
+    "endTime": 684.8389999999999,
+    "text": "It can understand that; it doesn't mean it's going to steal."
+  },
+  {
+    "startTime": 684.863,
+    "endTime": 687.542,
+    "text": "In fact, it'll just help you send your kids to school."
+  },
+  {
+    "startTime": 688.796,
+    "endTime": 691.808,
+    "text": "We are also computationally limited."
+  },
+  {
+    "startTime": 691.832,
+    "endTime": 694.337,
+    "text": "Lee Sedol is a brilliant Go player,"
+  },
+  {
+    "startTime": 694.361,
+    "endTime": 695.686,
+    "text": "but he still lost."
+  },
+  {
+    "startTime": 695.71,
+    "endTime": 699.9490000000001,
+    "text": "So if we look at his actions, he took an action that lost the game."
+  },
+  {
+    "startTime": 699.973,
+    "endTime": 702.1329999999999,
+    "text": "That doesn't mean he wanted to lose."
+  },
+  {
+    "startTime": 703.16,
+    "endTime": 705.199,
+    "text": "So to understand his behavior,"
+  },
+  {
+    "startTime": 705.224,
+    "endTime": 708.868,
+    "text": "we actually have to invert through a model of human cognition"
+  },
+  {
+    "startTime": 708.892,
+    "endTime": 713.869,
+    "text": "that includes our computational limitations -- a very complicated model."
+  },
+  {
+    "startTime": 713.893,
+    "endTime": 716.8860000000001,
+    "text": "But it's still something that we can work on understanding."
+  },
+  {
+    "startTime": 717.696,
+    "endTime": 722.1600000000001,
+    "text": "Probably the most difficult part, from my point of view as an AI researcher,"
+  },
+  {
+    "startTime": 722.4,
+    "endTime": 724.615,
+    "text": "is the fact that there are lots of us,"
+  },
+  {
+    "startTime": 726.114,
+    "endTime": 729.695,
+    "text": "and so the machine has to somehow trade off, weigh up the preferences"
+  },
+  {
+    "startTime": 729.719,
+    "endTime": 731.9440000000001,
+    "text": "of many different people,"
+  },
+  {
+    "startTime": 731.968,
+    "endTime": 733.8729999999999,
+    "text": "and there are different ways to do that."
+  },
+  {
+    "startTime": 733.898,
+    "endTime": 737.587,
+    "text": "Economists, sociologists, moral philosophers have understood that,"
+  },
+  {
+    "startTime": 737.611,
+    "endTime": 740.66,
+    "text": "and we are actively looking for collaboration."
+  },
+  {
+    "startTime": 740.9,
+    "endTime": 743.341,
+    "text": "Let's have a look and see what happens when you get that wrong."
+  },
+  {
+    "startTime": 743.365,
+    "endTime": 745.498,
+    "text": "So you can have a conversation, for example,"
+  },
+  {
+    "startTime": 745.522,
+    "endTime": 747.466,
+    "text": "with your intelligent personal assistant"
+  },
+  {
+    "startTime": 747.49,
+    "endTime": 749.775,
+    "text": "that might be available in a few years' time."
+  },
+  {
+    "startTime": 749.799,
+    "endTime": 752.323,
+    "text": "Think of a Siri on steroids."
+  },
+  {
+    "startTime": 753.447,
+    "endTime": 757.769,
+    "text": "So Siri says, \"Your wife called to remind you about dinner tonight.\""
+  },
+  {
+    "startTime": 758.436,
+    "endTime": 760.9440000000001,
+    "text": "And of course, you've forgotten. \"What? What dinner?"
+  },
+  {
+    "startTime": 760.968,
+    "endTime": 762.3919999999999,
+    "text": "What are you talking about?\""
+  },
+  {
+    "startTime": 762.417,
+    "endTime": 766.163,
+    "text": "\"Uh, your 20th anniversary at 7pm.\""
+  },
+  {
+    "startTime": 768.735,
+    "endTime": 772.4540000000001,
+    "text": "\"I can't do that. I'm meeting with the secretary-general at 7:30."
+  },
+  {
+    "startTime": 772.478,
+    "endTime": 774.17,
+    "text": "How could this have happened?\""
+  },
+  {
+    "startTime": 774.194,
+    "endTime": 778.853,
+    "text": "\"Well, I did warn you, but you overrode my recommendation.\""
+  },
+  {
+    "startTime": 779.966,
+    "endTime": 783.294,
+    "text": "\"Well, what am I going to do? I can't just tell him I'm too busy.\""
+  },
+  {
+    "startTime": 784.31,
+    "endTime": 787.5899999999999,
+    "text": "\"Don't worry. I arranged for his plane to be delayed.\""
+  },
+  {
+    "startTime": 787.615,
+    "endTime": 789.297,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 790.69,
+    "endTime": 792.1700000000001,
+    "text": "\"Some kind of computer malfunction.\""
+  },
+  {
+    "startTime": 792.194,
+    "endTime": 793.406,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 793.43,
+    "endTime": 795.4599999999999,
+    "text": "\"Really? You can do that?\""
+  },
+  {
+    "startTime": 796.22,
+    "endTime": 798.399,
+    "text": "\"He sends his profound apologies"
+  },
+  {
+    "startTime": 798.423,
+    "endTime": 800.978,
+    "text": "and looks forward to meeting you for lunch tomorrow.\""
+  },
+  {
+    "startTime": 801.2,
+    "endTime": 802.3000000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 802.325,
+    "endTime": 806.7280000000001,
+    "text": "So the values here -- there's a slight mistake going on."
+  },
+  {
+    "startTime": 806.752,
+    "endTime": 809.761,
+    "text": "This is clearly following my wife's values"
+  },
+  {
+    "startTime": 809.785,
+    "endTime": 811.853,
+    "text": "which is \"Happy wife, happy life.\""
+  },
+  {
+    "startTime": 811.878,
+    "endTime": 813.461,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 813.485,
+    "endTime": 814.929,
+    "text": "It could go the other way."
+  },
+  {
+    "startTime": 815.641,
+    "endTime": 817.842,
+    "text": "You could come home after a hard day's work,"
+  },
+  {
+    "startTime": 817.866,
+    "endTime": 820.61,
+    "text": "and the computer says, \"Long day?\""
+  },
+  {
+    "startTime": 820.85,
+    "endTime": 822.373,
+    "text": "\"Yes, I didn't even have time for lunch.\""
+  },
+  {
+    "startTime": 822.397,
+    "endTime": 823.6790000000001,
+    "text": "\"You must be very hungry.\""
+  },
+  {
+    "startTime": 823.703,
+    "endTime": 826.348,
+    "text": "\"Starving, yeah. Could you make some dinner?\""
+  },
+  {
+    "startTime": 827.89,
+    "endTime": 829.98,
+    "text": "\"There's something I need to tell you.\""
+  },
+  {
+    "startTime": 830.4,
+    "endTime": 831.159,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 832.13,
+    "endTime": 836.918,
+    "text": "\"There are humans in South Sudan who are in more urgent need than you.\""
+  },
+  {
+    "startTime": 836.942,
+    "endTime": 838.46,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 838.7,
+    "endTime": 840.1450000000001,
+    "text": "\"So I'm leaving. Make your own dinner.\""
+  },
+  {
+    "startTime": 840.169,
+    "endTime": 842.169,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 842.643,
+    "endTime": 844.3820000000001,
+    "text": "So we have to solve these problems,"
+  },
+  {
+    "startTime": 844.406,
+    "endTime": 846.92,
+    "text": "and I'm looking forward to working on them."
+  },
+  {
+    "startTime": 846.945,
+    "endTime": 848.788,
+    "text": "There are reasons for optimism."
+  },
+  {
+    "startTime": 848.812,
+    "endTime": 849.971,
+    "text": "One reason is,"
+  },
+  {
+    "startTime": 849.995,
+    "endTime": 851.863,
+    "text": "there is a massive amount of data."
+  },
+  {
+    "startTime": 851.887,
+    "endTime": 854.68,
+    "text": "Because remember -- I said they're going to read everything"
+  },
+  {
+    "startTime": 854.705,
+    "endTime": 856.2510000000001,
+    "text": "the human race has ever written."
+  },
+  {
+    "startTime": 856.275,
+    "endTime": 858.999,
+    "text": "Most of what we write about is human beings doing things"
+  },
+  {
+    "startTime": 859.23,
+    "endTime": 860.937,
+    "text": "and other people getting upset about it."
+  },
+  {
+    "startTime": 860.961,
+    "endTime": 863.359,
+    "text": "So there's a massive amount of data to learn from."
+  },
+  {
+    "startTime": 863.383,
+    "endTime": 865.619,
+    "text": "There's also a very strong economic incentive"
+  },
+  {
+    "startTime": 867.151,
+    "endTime": 868.337,
+    "text": "to get this right."
+  },
+  {
+    "startTime": 868.361,
+    "endTime": 870.362,
+    "text": "So imagine your domestic robot's at home."
+  },
+  {
+    "startTime": 870.386,
+    "endTime": 873.453,
+    "text": "You're late from work again and the robot has to feed the kids,"
+  },
+  {
+    "startTime": 873.477,
+    "endTime": 876.3,
+    "text": "and the kids are hungry and there's nothing in the fridge."
+  },
+  {
+    "startTime": 876.324,
+    "endTime": 878.929,
+    "text": "And the robot sees the cat."
+  },
+  {
+    "startTime": 878.953,
+    "endTime": 880.645,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 880.669,
+    "endTime": 884.859,
+    "text": "And the robot hasn't quite learned the human value function properly,"
+  },
+  {
+    "startTime": 884.883,
+    "endTime": 886.134,
+    "text": "so it doesn't understand"
+  },
+  {
+    "startTime": 886.158,
+    "endTime": 891.2,
+    "text": "the sentimental value of the cat outweighs the nutritional value of the cat."
+  },
+  {
+    "startTime": 891.26,
+    "endTime": 892.121,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 892.145,
+    "endTime": 893.893,
+    "text": "So then what happens?"
+  },
+  {
+    "startTime": 893.917,
+    "endTime": 897.214,
+    "text": "Well, it happens like this:"
+  },
+  {
+    "startTime": 897.238,
+    "endTime": 900.2020000000001,
+    "text": "\"Deranged robot cooks kitty for family dinner.\""
+  },
+  {
+    "startTime": 900.226,
+    "endTime": 904.749,
+    "text": "That one incident would be the end of the domestic robot industry."
+  },
+  {
+    "startTime": 904.773,
+    "endTime": 908.145,
+    "text": "So there's a huge incentive to get this right"
+  },
+  {
+    "startTime": 908.169,
+    "endTime": 910.884,
+    "text": "long before we reach superintelligent machines."
+  },
+  {
+    "startTime": 911.948,
+    "endTime": 913.483,
+    "text": "So to summarize:"
+  },
+  {
+    "startTime": 913.507,
+    "endTime": 916.387,
+    "text": "I'm actually trying to change the definition of AI"
+  },
+  {
+    "startTime": 916.412,
+    "endTime": 919.4050000000001,
+    "text": "so that we have provably beneficial machines."
+  },
+  {
+    "startTime": 919.429,
+    "endTime": 920.651,
+    "text": "And the principles are:"
+  },
+  {
+    "startTime": 920.675,
+    "endTime": 922.7299999999999,
+    "text": "machines that are altruistic,"
+  },
+  {
+    "startTime": 922.97,
+    "endTime": 924.9010000000001,
+    "text": "that want to achieve only our objectives,"
+  },
+  {
+    "startTime": 924.925,
+    "endTime": 928.4,
+    "text": "but that are uncertain about what those objectives are,"
+  },
+  {
+    "startTime": 928.65,
+    "endTime": 930.63,
+    "text": "and will watch all of us"
+  },
+  {
+    "startTime": 930.87,
+    "endTime": 933.29,
+    "text": "to learn more about what it is that we really want."
+  },
+  {
+    "startTime": 934.193,
+    "endTime": 937.752,
+    "text": "And hopefully in the process, we will learn to be better people."
+  },
+  {
+    "startTime": 937.776,
+    "endTime": 938.967,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 938.991,
+    "endTime": 942.699,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 942.724,
+    "endTime": 944.5920000000001,
+    "text": "Chris Anderson: So interesting, Stuart."
+  },
+  {
+    "startTime": 944.616,
+    "endTime": 947.786,
+    "text": "We're going to stand here a bit because I think they're setting up"
+  },
+  {
+    "startTime": 947.81,
+    "endTime": 948.9599999999999,
+    "text": "for our next speaker."
+  },
+  {
+    "startTime": 948.985,
+    "endTime": 950.523,
+    "text": "A couple of questions."
+  },
+  {
+    "startTime": 950.547,
+    "endTime": 956.0,
+    "text": "So the idea of programming in ignorance seems intuitively really powerful."
+  },
+  {
+    "startTime": 956.24,
+    "endTime": 957.618,
+    "text": "As you get to superintelligence,"
+  },
+  {
+    "startTime": 957.642,
+    "endTime": 959.9000000000001,
+    "text": "what's going to stop a robot"
+  },
+  {
+    "startTime": 959.924,
+    "endTime": 962.776,
+    "text": "reading literature and discovering this idea that knowledge"
+  },
+  {
+    "startTime": 962.8,
+    "endTime": 964.372,
+    "text": "is actually better than ignorance"
+  },
+  {
+    "startTime": 964.396,
+    "endTime": 968.6129999999999,
+    "text": "and still just shifting its own goals and rewriting that programming?"
+  },
+  {
+    "startTime": 969.512,
+    "endTime": 975.867,
+    "text": "Stuart Russell: Yes, so we want it to learn more, as I said,"
+  },
+  {
+    "startTime": 975.892,
+    "endTime": 977.1790000000001,
+    "text": "about our objectives."
+  },
+  {
+    "startTime": 977.203,
+    "endTime": 982.723,
+    "text": "It'll only become more certain as it becomes more correct,"
+  },
+  {
+    "startTime": 982.748,
+    "endTime": 984.6930000000001,
+    "text": "so the evidence is there"
+  },
+  {
+    "startTime": 984.717,
+    "endTime": 987.441,
+    "text": "and it's going to be designed to interpret it correctly."
+  },
+  {
+    "startTime": 987.465,
+    "endTime": 991.421,
+    "text": "It will understand, for example, that books are very biased"
+  },
+  {
+    "startTime": 991.445,
+    "endTime": 992.928,
+    "text": "in the evidence they contain."
+  },
+  {
+    "startTime": 992.952,
+    "endTime": 995.349,
+    "text": "They only talk about kings and princes"
+  },
+  {
+    "startTime": 995.373,
+    "endTime": 998.173,
+    "text": "and elite white male people doing stuff."
+  },
+  {
+    "startTime": 998.197,
+    "endTime": 1000.293,
+    "text": "So it's a complicated problem,"
+  },
+  {
+    "startTime": 1000.32,
+    "endTime": 1004.192,
+    "text": "but as it learns more about our objectives"
+  },
+  {
+    "startTime": 1004.21,
+    "endTime": 1006.273,
+    "text": "it will become more and more useful to us."
+  },
+  {
+    "startTime": 1006.3,
+    "endTime": 1008.8249999999999,
+    "text": "CA: And you couldn't just boil it down to one law,"
+  },
+  {
+    "startTime": 1008.85,
+    "endTime": 1010.5,
+    "text": "you know, hardwired in:"
+  },
+  {
+    "startTime": 1010.52,
+    "endTime": 1013.813,
+    "text": "\"if any human ever tries to switch me off,"
+  },
+  {
+    "startTime": 1013.84,
+    "endTime": 1015.775,
+    "text": "I comply. I comply.\""
+  },
+  {
+    "startTime": 1015.8,
+    "endTime": 1016.982,
+    "text": "SR: Absolutely not."
+  },
+  {
+    "startTime": 1017.6,
+    "endTime": 1018.505,
+    "text": "That would be a terrible idea."
+  },
+  {
+    "startTime": 1018.53,
+    "endTime": 1021.2189999999999,
+    "text": "So imagine that you have a self-driving car"
+  },
+  {
+    "startTime": 1021.24,
+    "endTime": 1023.673,
+    "text": "and you want to send your five-year-old"
+  },
+  {
+    "startTime": 1023.7,
+    "endTime": 1024.874,
+    "text": "off to preschool."
+  },
+  {
+    "startTime": 1024.9,
+    "endTime": 1028.0020000000002,
+    "text": "Do you want your five-year-old to be able to switch off the car"
+  },
+  {
+    "startTime": 1028.21,
+    "endTime": 1029.234,
+    "text": "while it's driving along?"
+  },
+  {
+    "startTime": 1029.26,
+    "endTime": 1030.419,
+    "text": "Probably not."
+  },
+  {
+    "startTime": 1030.44,
+    "endTime": 1035.143,
+    "text": "So it needs to understand how rational and sensible the person is."
+  },
+  {
+    "startTime": 1035.17,
+    "endTime": 1036.846,
+    "text": "The more rational the person,"
+  },
+  {
+    "startTime": 1036.87,
+    "endTime": 1038.974,
+    "text": "the more willing you are to be switched off."
+  },
+  {
+    "startTime": 1039.0,
+    "endTime": 1041.543,
+    "text": "If the person is completely random or even malicious,"
+  },
+  {
+    "startTime": 1041.56,
+    "endTime": 1044.7469999999998,
+    "text": "then you're less willing to be switched off."
+  },
+  {
+    "startTime": 1044.98,
+    "endTime": 1045.964,
+    "text": "CA: All right. Stuart, can I just say,"
+  },
+  {
+    "startTime": 1045.99,
+    "endTime": 1048.304,
+    "text": "I really, really hope you figure this out for us."
+  },
+  {
+    "startTime": 1048.33,
+    "endTime": 1050.705,
+    "text": "Thank you so much for that talk. That was amazing."
+  },
+  {
+    "startTime": 1050.73,
+    "endTime": 1051.897,
+    "text": "SR: Thank you."
+  },
+  {
+    "startTime": 1051.92,
+    "endTime": 1053.757,
+    "text": "(Applause)"
+  }
+]

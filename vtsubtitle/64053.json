@@ -1,0 +1,1052 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Crawford Hunt Reviewer: Brian Greene"
+  },
+  {
+    "startTime": 12.76,
+    "endTime": 15.735,
+    "text": "How many of you have used an electronic spreadsheet,"
+  },
+  {
+    "startTime": 15.76,
+    "endTime": 17.24,
+    "text": "like Microsoft Excel?"
+  },
+  {
+    "startTime": 18.24,
+    "endTime": 19.496,
+    "text": "Very good."
+  },
+  {
+    "startTime": 19.52,
+    "endTime": 24.96,
+    "text": "Now, how many of you have run a business with a spreadsheet by hand,"
+  },
+  {
+    "startTime": 24.12,
+    "endTime": 27.200000000000003,
+    "text": "like my dad did for his small printing business in Philadelphia?"
+  },
+  {
+    "startTime": 28.16,
+    "endTime": 29.32,
+    "text": "A lot less."
+  },
+  {
+    "startTime": 29.92,
+    "endTime": 32.52,
+    "text": "Well, that's the way it was done for hundreds of years."
+  },
+  {
+    "startTime": 33.48,
+    "endTime": 36.495,
+    "text": "In early 1978, I started working on an idea"
+  },
+  {
+    "startTime": 36.52,
+    "endTime": 38.92,
+    "text": "that eventually became VisiCalc."
+  },
+  {
+    "startTime": 39.48,
+    "endTime": 41.135,
+    "text": "And the next year it shipped"
+  },
+  {
+    "startTime": 41.16,
+    "endTime": 44.437999999999995,
+    "text": "running on something new called an Apple II personal computer."
+  },
+  {
+    "startTime": 45.24,
+    "endTime": 49.296,
+    "text": "You could tell that things had really changed when, six years later,"
+  },
+  {
+    "startTime": 49.32,
+    "endTime": 51.496,
+    "text": "the Wall Street Journal ran an editorial"
+  },
+  {
+    "startTime": 51.52,
+    "endTime": 54.800000000000004,
+    "text": "that assumed you knew what VisiCalc was and maybe even were using it."
+  },
+  {
+    "startTime": 55.76,
+    "endTime": 58.72,
+    "text": "Steve Jobs back in 1990"
+  },
+  {
+    "startTime": 59.16,
+    "endTime": 62.4,
+    "text": "said that \"spreadsheets propelled the industry forward.\""
+  },
+  {
+    "startTime": 62.88,
+    "endTime": 66.8,
+    "text": "\"VisiCalc propelled the success of Apple more than any other single event.\""
+  },
+  {
+    "startTime": 67.44,
+    "endTime": 68.6,
+    "text": "On a more personal note,"
+  },
+  {
+    "startTime": 69.6,
+    "endTime": 72.735,
+    "text": "Steve said, \"If VisiCalc had been written for some other computer,"
+  },
+  {
+    "startTime": 72.76,
+    "endTime": 74.96000000000001,
+    "text": "you'd be interviewing somebody else right now.\""
+  },
+  {
+    "startTime": 75.36,
+    "endTime": 81.736,
+    "text": "So, VisiCalc was instrumental in getting personal computers on business desks."
+  },
+  {
+    "startTime": 81.76,
+    "endTime": 82.92,
+    "text": "How did it come about?"
+  },
+  {
+    "startTime": 83.68,
+    "endTime": 86.60000000000001,
+    "text": "What was it? What did I go through to make it be what it was?"
+  },
+  {
+    "startTime": 87.92,
+    "endTime": 93.256,
+    "text": "Well, I first learned to program back in 1966, when I was 15 --"
+  },
+  {
+    "startTime": 93.28,
+    "endTime": 95.52,
+    "text": "just a couple months after this photo was taken."
+  },
+  {
+    "startTime": 96.2,
+    "endTime": 99.16,
+    "text": "Few high schoolers had access to computers in those days."
+  },
+  {
+    "startTime": 99.56,
+    "endTime": 103.56,
+    "text": "But through luck and an awful lot of perseverance,"
+  },
+  {
+    "startTime": 103.8,
+    "endTime": 105.32,
+    "text": "I was able to get computer time around the city."
+  },
+  {
+    "startTime": 106.2,
+    "endTime": 111.8,
+    "text": "After sleeping in the mud at Woodstock, I went off to MIT to go to college,"
+  },
+  {
+    "startTime": 111.52,
+    "endTime": 114.6,
+    "text": "where to make money, I worked on the Multics Project."
+  },
+  {
+    "startTime": 115.32,
+    "endTime": 120.336,
+    "text": "Multics was a trailblazing interactive time-sharing system."
+  },
+  {
+    "startTime": 120.36,
+    "endTime": 123.536,
+    "text": "Have you heard of the Linux and Unix operating systems?"
+  },
+  {
+    "startTime": 123.56,
+    "endTime": 124.8,
+    "text": "They came from Multics."
+  },
+  {
+    "startTime": 125.32,
+    "endTime": 127.616,
+    "text": "I worked on the Multics versions"
+  },
+  {
+    "startTime": 127.64,
+    "endTime": 131.456,
+    "text": "of what are known as interpreted computer languages,"
+  },
+  {
+    "startTime": 131.48,
+    "endTime": 133.935,
+    "text": "that are used by people in noncomputer fields"
+  },
+  {
+    "startTime": 133.96,
+    "endTime": 136.96,
+    "text": "to do their calculations while seated at a computer terminal."
+  },
+  {
+    "startTime": 137.56,
+    "endTime": 139.816,
+    "text": "After I graduated from MIT,"
+  },
+  {
+    "startTime": 139.84,
+    "endTime": 142.68,
+    "text": "I went to work for Digital Equipment Corporation."
+  },
+  {
+    "startTime": 143.32,
+    "endTime": 146.495,
+    "text": "At DEC, I worked on software"
+  },
+  {
+    "startTime": 146.52,
+    "endTime": 149.36,
+    "text": "for the new area of computerized typesetting."
+  },
+  {
+    "startTime": 149.8,
+    "endTime": 154.13600000000002,
+    "text": "I helped newspapers replace their reporters' typewriters"
+  },
+  {
+    "startTime": 154.16,
+    "endTime": 155.359,
+    "text": "with computer terminals."
+  },
+  {
+    "startTime": 155.88,
+    "endTime": 157.96,
+    "text": "I'd write software"
+  },
+  {
+    "startTime": 157.12,
+    "endTime": 160.816,
+    "text": "and then I'd go out in the field to places like the Kansas City Star,"
+  },
+  {
+    "startTime": 160.84,
+    "endTime": 163.256,
+    "text": "where I would train users and get feedback."
+  },
+  {
+    "startTime": 163.28,
+    "endTime": 165.136,
+    "text": "This was real-world experience"
+  },
+  {
+    "startTime": 165.16,
+    "endTime": 168.4,
+    "text": "that is quite different than what I saw in the lab at MIT."
+  },
+  {
+    "startTime": 169.88,
+    "endTime": 172.496,
+    "text": "After that, I was project leader"
+  },
+  {
+    "startTime": 172.52,
+    "endTime": 177.32000000000002,
+    "text": "of the software for DEC's first word processor, again a new field."
+  },
+  {
+    "startTime": 177.72,
+    "endTime": 183.216,
+    "text": "Like with typesetting, the important thing was crafting a user interface"
+  },
+  {
+    "startTime": 183.24,
+    "endTime": 187.32000000000002,
+    "text": "that was both natural and efficient for noncomputer people to use."
+  },
+  {
+    "startTime": 188.36,
+    "endTime": 192.336,
+    "text": "After I was at DEC, I went to work for a small company"
+  },
+  {
+    "startTime": 192.36,
+    "endTime": 198.48000000000002,
+    "text": "that made microprocessor-based electronic cash registers for the fast-food industry."
+  },
+  {
+    "startTime": 199.36,
+    "endTime": 203.56,
+    "text": "But I had always wanted to start a company with my friend Bob Frankston"
+  },
+  {
+    "startTime": 203.8,
+    "endTime": 205.45600000000002,
+    "text": "that I met on the Multics project at MIT."
+  },
+  {
+    "startTime": 205.48,
+    "endTime": 209.176,
+    "text": "So I decided to go back to school to learn as much as I could about business."
+  },
+  {
+    "startTime": 209.2,
+    "endTime": 211.976,
+    "text": "And in the fall of 1977,"
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 215.0,
+    "text": "I entered the MBA program at Harvard Business School."
+  },
+  {
+    "startTime": 215.84,
+    "endTime": 218.336,
+    "text": "I was one of the few percentage of students"
+  },
+  {
+    "startTime": 218.36,
+    "endTime": 221.20000000000002,
+    "text": "who had a background in computer programming."
+  },
+  {
+    "startTime": 222.8,
+    "endTime": 225.256,
+    "text": "There's a picture of me from the yearbook sitting in the front row."
+  },
+  {
+    "startTime": 225.28,
+    "endTime": 226.296,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 226.32,
+    "endTime": 228.936,
+    "text": "Now, at Harvard, we learned by the case method."
+  },
+  {
+    "startTime": 228.96,
+    "endTime": 230.89600000000002,
+    "text": "We'd do about three cases a day."
+  },
+  {
+    "startTime": 230.92,
+    "endTime": 236.64,
+    "text": "Cases consist of up to a few dozen pages describing particular business situations."
+  },
+  {
+    "startTime": 237.6,
+    "endTime": 242.176,
+    "text": "They often have exhibits, and exhibits often have words and numbers"
+  },
+  {
+    "startTime": 242.2,
+    "endTime": 245.35899999999998,
+    "text": "laid out in ways that make sense for the particular situation."
+  },
+  {
+    "startTime": 245.84,
+    "endTime": 247.776,
+    "text": "They're usually all somewhat different."
+  },
+  {
+    "startTime": 247.8,
+    "endTime": 249.16000000000003,
+    "text": "Here's my homework."
+  },
+  {
+    "startTime": 249.4,
+    "endTime": 252.215,
+    "text": "Again, numbers, words, laid out in ways that made sense."
+  },
+  {
+    "startTime": 252.24,
+    "endTime": 256.32,
+    "text": "Lots of calculations -- we got really close to our calculators."
+  },
+  {
+    "startTime": 256.72,
+    "endTime": 258.6,
+    "text": "In fact, here's my calculator."
+  },
+  {
+    "startTime": 260.2,
+    "endTime": 262.976,
+    "text": "For Halloween, I went dressed up as a calculator."
+  },
+  {
+    "startTime": 263.0,
+    "endTime": 264.44,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 265.785,
+    "endTime": 268.976,
+    "text": "At the beginning of each class, the professor would call on somebody"
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 270.279,
+    "text": "to present the case."
+  },
+  {
+    "startTime": 271.79,
+    "endTime": 273.856,
+    "text": "What they would do is they would explain what was going on"
+  },
+  {
+    "startTime": 273.88,
+    "endTime": 277.616,
+    "text": "and then dictate information that the professor would transcribe"
+  },
+  {
+    "startTime": 277.64,
+    "endTime": 280.544,
+    "text": "onto the many motorized blackboards in the front of the class,"
+  },
+  {
+    "startTime": 280.569,
+    "endTime": 282.96000000000004,
+    "text": "and then we'd have a discussion."
+  },
+  {
+    "startTime": 282.12,
+    "endTime": 286.576,
+    "text": "One of the really frustrating things is when you've done all your homework,"
+  },
+  {
+    "startTime": 286.6,
+    "endTime": 289.61600000000004,
+    "text": "you come in the next day only to find out that you made an error"
+  },
+  {
+    "startTime": 289.64,
+    "endTime": 292.176,
+    "text": "and all of the other numbers you did were wrong."
+  },
+  {
+    "startTime": 292.2,
+    "endTime": 293.976,
+    "text": "And you couldn't participate as well."
+  },
+  {
+    "startTime": 294.0,
+    "endTime": 296.24,
+    "text": "And we were marked by class participation."
+  },
+  {
+    "startTime": 297.32,
+    "endTime": 302.24,
+    "text": "So, sitting there with 87 other people in the class, I got to daydream a lot."
+  },
+  {
+    "startTime": 303.28,
+    "endTime": 307.135,
+    "text": "Most programmers in those days worked on mainframes,"
+  },
+  {
+    "startTime": 307.16,
+    "endTime": 313.49600000000004,
+    "text": "building things like inventory systems, payroll systems and bill-paying systems."
+  },
+  {
+    "startTime": 313.52,
+    "endTime": 316.15,
+    "text": "But I had worked on interactive word processing"
+  },
+  {
+    "startTime": 316.4,
+    "endTime": 318.13599999999997,
+    "text": "and on-demand personal computation."
+  },
+  {
+    "startTime": 318.16,
+    "endTime": 322.44,
+    "text": "Instead of thinking about paper printouts and punch cards,"
+  },
+  {
+    "startTime": 322.88,
+    "endTime": 325.656,
+    "text": "I imagined a magic blackboard"
+  },
+  {
+    "startTime": 325.68,
+    "endTime": 329.56,
+    "text": "that if you erased one number and wrote a new thing in,"
+  },
+  {
+    "startTime": 329.8,
+    "endTime": 331.93600000000004,
+    "text": "all of the other numbers would automatically change,"
+  },
+  {
+    "startTime": 331.96,
+    "endTime": 333.719,
+    "text": "like word processing with numbers."
+  },
+  {
+    "startTime": 334.6,
+    "endTime": 338.84000000000003,
+    "text": "I imagined that my calculator had mouse hardware on the bottom of it"
+  },
+  {
+    "startTime": 339.24,
+    "endTime": 342.2,
+    "text": "and a head-up display, like in a fighter plane."
+  },
+  {
+    "startTime": 342.72,
+    "endTime": 346.85600000000005,
+    "text": "And I could type some numbers in, and circle it, and press the sum button."
+  },
+  {
+    "startTime": 346.88,
+    "endTime": 350.616,
+    "text": "And right in the middle of a negotiation I'd be able to get the answer."
+  },
+  {
+    "startTime": 350.64,
+    "endTime": 353.64,
+    "text": "Now I just had to take my fantasy and turn it into reality."
+  },
+  {
+    "startTime": 354.64,
+    "endTime": 357.8,
+    "text": "My father taught me about prototyping."
+  },
+  {
+    "startTime": 357.56,
+    "endTime": 359.176,
+    "text": "He showed me mock-ups"
+  },
+  {
+    "startTime": 359.2,
+    "endTime": 362.536,
+    "text": "that he'd make to figure out the placement on the page"
+  },
+  {
+    "startTime": 362.56,
+    "endTime": 365.96,
+    "text": "for the things for brochures that he was printing."
+  },
+  {
+    "startTime": 365.12,
+    "endTime": 368.56,
+    "text": "And he'd use it to get feedback from customers"
+  },
+  {
+    "startTime": 368.8,
+    "endTime": 371.68,
+    "text": "and OKs before he sent the job off to the presses."
+  },
+  {
+    "startTime": 372.44,
+    "endTime": 377.536,
+    "text": "The act of making a simple, working version of what you're trying to build"
+  },
+  {
+    "startTime": 377.56,
+    "endTime": 379.88,
+    "text": "forces you to uncover key problems."
+  },
+  {
+    "startTime": 380.72,
+    "endTime": 385.12,
+    "text": "And it lets you find solutions to those problems much less expensively."
+  },
+  {
+    "startTime": 385.72,
+    "endTime": 387.96000000000004,
+    "text": "So I decided to build a prototype."
+  },
+  {
+    "startTime": 388.76,
+    "endTime": 393.336,
+    "text": "I went to a video terminal connected to Harvard's time-sharing system"
+  },
+  {
+    "startTime": 393.36,
+    "endTime": 394.856,
+    "text": "and got to work."
+  },
+  {
+    "startTime": 394.88,
+    "endTime": 398.135,
+    "text": "One of the first problems that I ran into was:"
+  },
+  {
+    "startTime": 398.16,
+    "endTime": 400.84000000000003,
+    "text": "How do you represent values in formulas?"
+  },
+  {
+    "startTime": 401.28,
+    "endTime": 402.64,
+    "text": "Let me show you what I mean."
+  },
+  {
+    "startTime": 404.0,
+    "endTime": 406.176,
+    "text": "I thought that you would point somewhere,"
+  },
+  {
+    "startTime": 406.2,
+    "endTime": 409.296,
+    "text": "type in some words, then type in some somewhere else,"
+  },
+  {
+    "startTime": 409.32,
+    "endTime": 412.844,
+    "text": "put in some numbers and some more numbers, point where you want the answer."
+  },
+  {
+    "startTime": 413.24,
+    "endTime": 416.456,
+    "text": "And then point to the first, press minus, point to the second,"
+  },
+  {
+    "startTime": 416.48,
+    "endTime": 417.68,
+    "text": "and get the result."
+  },
+  {
+    "startTime": 418.36,
+    "endTime": 421.776,
+    "text": "The problem was: What should I put in the formula?"
+  },
+  {
+    "startTime": 421.8,
+    "endTime": 424.42,
+    "text": "It had to be something the computer knew what to put in."
+  },
+  {
+    "startTime": 424.444,
+    "endTime": 426.136,
+    "text": "And if you looked at the formula,"
+  },
+  {
+    "startTime": 426.16,
+    "endTime": 429.16,
+    "text": "you needed to know where on the screen it referred to."
+  },
+  {
+    "startTime": 429.84,
+    "endTime": 432.736,
+    "text": "The first thing I thought was the programmer way of doing it."
+  },
+  {
+    "startTime": 432.76,
+    "endTime": 434.664,
+    "text": "The first time you pointed to somewhere,"
+  },
+  {
+    "startTime": 434.689,
+    "endTime": 437.369,
+    "text": "the computer would ask you to type in a unique name."
+  },
+  {
+    "startTime": 438.76,
+    "endTime": 442.536,
+    "text": "It became pretty clear pretty fast that that was going to be too tedious."
+  },
+  {
+    "startTime": 442.56,
+    "endTime": 445.8,
+    "text": "The computer had to automatically make up the name and put it inside."
+  },
+  {
+    "startTime": 446.6,
+    "endTime": 450.96000000000004,
+    "text": "So I thought, why not make it be the order in which you create them?"
+  },
+  {
+    "startTime": 451.48,
+    "endTime": 453.976,
+    "text": "I tried that. Value 1, value 2."
+  },
+  {
+    "startTime": 454.0,
+    "endTime": 456.762,
+    "text": "Pretty quickly I saw that if you had more than a few values"
+  },
+  {
+    "startTime": 456.786,
+    "endTime": 459.296,
+    "text": "you'd never remember on the screen where things were."
+  },
+  {
+    "startTime": 459.32,
+    "endTime": 464.616,
+    "text": "Then I said, why not instead of allowing you to put values anywhere,"
+  },
+  {
+    "startTime": 464.64,
+    "endTime": 466.24,
+    "text": "I'll restrict you to a grid?"
+  },
+  {
+    "startTime": 466.72,
+    "endTime": 468.93600000000004,
+    "text": "Then when you pointed to a cell,"
+  },
+  {
+    "startTime": 468.96,
+    "endTime": 471.68,
+    "text": "the computer could put the row and column in as a name."
+  },
+  {
+    "startTime": 472.64,
+    "endTime": 478.816,
+    "text": "And, if I did it like a map and put ABC across the top and numbers along the side,"
+  },
+  {
+    "startTime": 478.84,
+    "endTime": 481.736,
+    "text": "if you saw B7 in a formula,"
+  },
+  {
+    "startTime": 481.76,
+    "endTime": 483.96,
+    "text": "you'd know exactly where it was on the screen."
+  },
+  {
+    "startTime": 484.64,
+    "endTime": 488.88,
+    "text": "And if you had to type the formula in yourself, you'd know what to do."
+  },
+  {
+    "startTime": 489.44,
+    "endTime": 492.52,
+    "text": "Restricting you to a grid helped solve my problem."
+  },
+  {
+    "startTime": 493.2,
+    "endTime": 498.8,
+    "text": "It also opened up new capabilities, like the ability to have ranges of cells."
+  },
+  {
+    "startTime": 499.36,
+    "endTime": 500.93600000000004,
+    "text": "But it wasn't too restrictive --"
+  },
+  {
+    "startTime": 500.96,
+    "endTime": 505.28,
+    "text": "you could still put any value, any formula, in any cell."
+  },
+  {
+    "startTime": 506.12,
+    "endTime": 509.96,
+    "text": "And that's the way we do it to this day, almost 40 years later."
+  },
+  {
+    "startTime": 511.109,
+    "endTime": 514.775,
+    "text": "My friend Bob and I decided that we were going to build this product together."
+  },
+  {
+    "startTime": 514.799,
+    "endTime": 519.216,
+    "text": "I did more work figuring out exactly how the program was supposed to behave."
+  },
+  {
+    "startTime": 519.24,
+    "endTime": 522.496,
+    "text": "I wrote a reference card to act as documentation."
+  },
+  {
+    "startTime": 522.52,
+    "endTime": 527.295,
+    "text": "It also helped me ensure that the user interface I was defining"
+  },
+  {
+    "startTime": 527.32,
+    "endTime": 530.7990000000001,
+    "text": "could be explained concisely and clearly to regular people."
+  },
+  {
+    "startTime": 531.52,
+    "endTime": 536.936,
+    "text": "Bob worked in the attic of the apartment he rented in Arlington, Massachusetts."
+  },
+  {
+    "startTime": 536.96,
+    "endTime": 538.6800000000001,
+    "text": "This is the inside of the attic."
+  },
+  {
+    "startTime": 540.24,
+    "endTime": 543.16,
+    "text": "Bob bought time on the MIT Multics System"
+  },
+  {
+    "startTime": 543.4,
+    "endTime": 545.76,
+    "text": "to write computer code on a terminal like this."
+  },
+  {
+    "startTime": 546.4,
+    "endTime": 549.896,
+    "text": "And then he would download test versions to a borrowed Apple II"
+  },
+  {
+    "startTime": 549.92,
+    "endTime": 553.175,
+    "text": "over a phone line using an acoustic coupler,"
+  },
+  {
+    "startTime": 553.2,
+    "endTime": 554.36,
+    "text": "and then we would test."
+  },
+  {
+    "startTime": 554.92,
+    "endTime": 559.64,
+    "text": "For one of these tests I prepared for this case about the Pepsi Challenge."
+  },
+  {
+    "startTime": 560.72,
+    "endTime": 563.64,
+    "text": "Print wasn't working yet, so I had to copy everything down."
+  },
+  {
+    "startTime": 564.48,
+    "endTime": 566.8960000000001,
+    "text": "Save wasn't working, so every time it crashed,"
+  },
+  {
+    "startTime": 566.92,
+    "endTime": 569.92,
+    "text": "I had to type in all of the formulas again, over and over again."
+  },
+  {
+    "startTime": 570.24,
+    "endTime": 574.216,
+    "text": "The next day in class, I raised my hand; I got called on, and I presented the case."
+  },
+  {
+    "startTime": 574.24,
+    "endTime": 577.816,
+    "text": "I did five-year projections. I did all sorts of different scenarios."
+  },
+  {
+    "startTime": 577.84,
+    "endTime": 581.52,
+    "text": "I aced the case. VisiCalc was already useful."
+  },
+  {
+    "startTime": 582.16,
+    "endTime": 584.76,
+    "text": "The professor said, \"How did you do it?\""
+  },
+  {
+    "startTime": 585.469,
+    "endTime": 588.1360000000001,
+    "text": "Well, I didn't want to tell him about our secret program."
+  },
+  {
+    "startTime": 588.16,
+    "endTime": 589.68,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 590.2,
+    "endTime": 592.5600000000001,
+    "text": "So I said, \"I took this and added this"
+  },
+  {
+    "startTime": 592.8,
+    "endTime": 594.1759999999999,
+    "text": "and multiplied by this and subtracted that.\""
+  },
+  {
+    "startTime": 594.2,
+    "endTime": 596.296,
+    "text": "He said, \"Well, why didn't you use a ratio?\""
+  },
+  {
+    "startTime": 596.32,
+    "endTime": 599.336,
+    "text": "I said, \"Hah! A ratio -- that wouldn't have been as exact!\""
+  },
+  {
+    "startTime": 599.36,
+    "endTime": 601.936,
+    "text": "What I didn't say was, \"Divide isn't working yet.\""
+  },
+  {
+    "startTime": 601.96,
+    "endTime": 605.5600000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 605.8,
+    "endTime": 608.9359999999999,
+    "text": "Eventually, though, we did finish enough of VisiCalc"
+  },
+  {
+    "startTime": 608.96,
+    "endTime": 610.8000000000001,
+    "text": "to be able to show it to the public."
+  },
+  {
+    "startTime": 611.44,
+    "endTime": 613.416,
+    "text": "My dad printed up a sample reference card"
+  },
+  {
+    "startTime": 613.44,
+    "endTime": 615.44,
+    "text": "that we could use as marketing material."
+  },
+  {
+    "startTime": 616.28,
+    "endTime": 622.55,
+    "text": "In June of 1979, our publisher announced VisiCalc to the world,"
+  },
+  {
+    "startTime": 622.8,
+    "endTime": 626.1999999999999,
+    "text": "in a small booth at the giant National Computer Conference in New York City."
+  },
+  {
+    "startTime": 626.8,
+    "endTime": 630.959,
+    "text": "The New York Times had a humorous article about the conference."
+  },
+  {
+    "startTime": 631.48,
+    "endTime": 633.936,
+    "text": "\"The machines perform what seem religious rites ..."
+  },
+  {
+    "startTime": 633.96,
+    "endTime": 635.341,
+    "text": "Even as the believers gather,"
+  },
+  {
+    "startTime": 635.365,
+    "endTime": 638.461,
+    "text": "the painters in the Coliseum sign room are adding to the pantheon,"
+  },
+  {
+    "startTime": 638.485,
+    "endTime": 641.6560000000001,
+    "text": "carefully lettering 'VISICALC' in giant black on yellow."
+  },
+  {
+    "startTime": 641.68,
+    "endTime": 643.496,
+    "text": "All hail VISICALC!\""
+  },
+  {
+    "startTime": 643.52,
+    "endTime": 647.96,
+    "text": "(Gasp) New York Times: \"All hail VISICALC.\""
+  },
+  {
+    "startTime": 647.12,
+    "endTime": 648.616,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 648.64,
+    "endTime": 652.896,
+    "text": "That was the last mention of the electronic spreadsheet"
+  },
+  {
+    "startTime": 652.92,
+    "endTime": 656.8149999999999,
+    "text": "in the popular business press for about two years."
+  },
+  {
+    "startTime": 656.84,
+    "endTime": 658.976,
+    "text": "Most people didn't get it yet."
+  },
+  {
+    "startTime": 659.0,
+    "endTime": 660.2,
+    "text": "But some did."
+  },
+  {
+    "startTime": 660.92,
+    "endTime": 665.12,
+    "text": "In October of 1979, we shipped VisiCalc."
+  },
+  {
+    "startTime": 665.88,
+    "endTime": 668.696,
+    "text": "It came in packaging that looked like this."
+  },
+  {
+    "startTime": 668.72,
+    "endTime": 671.2,
+    "text": "And it looked like this running on the Apple II."
+  },
+  {
+    "startTime": 672.0,
+    "endTime": 673.96,
+    "text": "And the rest, as they say, is history."
+  },
+  {
+    "startTime": 674.36,
+    "endTime": 676.456,
+    "text": "Now, there's an awful lot more to this story,"
+  },
+  {
+    "startTime": 676.48,
+    "endTime": 678.5360000000001,
+    "text": "but that'll have to wait for another day."
+  },
+  {
+    "startTime": 678.56,
+    "endTime": 680.8,
+    "text": "One thing, though, Harvard remembers."
+  },
+  {
+    "startTime": 681.4,
+    "endTime": 682.6,
+    "text": "Here's that classroom."
+  },
+  {
+    "startTime": 683.24,
+    "endTime": 686.6800000000001,
+    "text": "They put up a plaque to commemorate what happened there."
+  },
+  {
+    "startTime": 687.64,
+    "endTime": 690.4,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 696.4,
+    "endTime": 699.336,
+    "text": "But it also serves as a reminder"
+  },
+  {
+    "startTime": 699.36,
+    "endTime": 704.856,
+    "text": "that you, too, should take your unique backgrounds, skills and needs"
+  },
+  {
+    "startTime": 704.88,
+    "endTime": 710.136,
+    "text": "and build prototypes to discover and work out the key problems,"
+  },
+  {
+    "startTime": 710.16,
+    "endTime": 712.28,
+    "text": "and through that, change the world."
+  },
+  {
+    "startTime": 713.4,
+    "endTime": 714.256,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 714.28,
+    "endTime": 718.88,
+    "text": "(Applause)"
+  }
+]

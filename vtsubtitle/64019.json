@@ -1,0 +1,787 @@
+[
+  {
+    "startTime": 12.861,
+    "endTime": 15.995000000000001,
+    "text": "Hello, I'm Joy, a poet of code,"
+  },
+  {
+    "startTime": 16.18,
+    "endTime": 21.12,
+    "text": "on a mission to stop an unseen force that's rising,"
+  },
+  {
+    "startTime": 21.36,
+    "endTime": 23.892,
+    "text": "a force that I called \"the coded gaze,\""
+  },
+  {
+    "startTime": 23.916,
+    "endTime": 27.225,
+    "text": "my term for algorithmic bias."
+  },
+  {
+    "startTime": 27.249,
+    "endTime": 31.549,
+    "text": "Algorithmic bias, like human bias, results in unfairness."
+  },
+  {
+    "startTime": 31.573,
+    "endTime": 37.595,
+    "text": "However, algorithms, like viruses, can spread bias on a massive scale"
+  },
+  {
+    "startTime": 37.619,
+    "endTime": 39.201,
+    "text": "at a rapid pace."
+  },
+  {
+    "startTime": 39.763,
+    "endTime": 44.15,
+    "text": "Algorithmic bias can also lead to exclusionary experiences"
+  },
+  {
+    "startTime": 44.174,
+    "endTime": 46.302,
+    "text": "and discriminatory practices."
+  },
+  {
+    "startTime": 46.326,
+    "endTime": 48.387,
+    "text": "Let me show you what I mean."
+  },
+  {
+    "startTime": 48.8,
+    "endTime": 51.236,
+    "text": "(Video) Joy Buolamwini: Hi, camera. I've got a face."
+  },
+  {
+    "startTime": 51.982,
+    "endTime": 53.846,
+    "text": "Can you see my face?"
+  },
+  {
+    "startTime": 53.871,
+    "endTime": 55.496,
+    "text": "No-glasses face?"
+  },
+  {
+    "startTime": 55.521,
+    "endTime": 57.735,
+    "text": "You can see her face."
+  },
+  {
+    "startTime": 58.57,
+    "endTime": 60.302,
+    "text": "What about my face?"
+  },
+  {
+    "startTime": 63.71,
+    "endTime": 67.46000000000001,
+    "text": "I've got a mask. Can you see my mask?"
+  },
+  {
+    "startTime": 68.294,
+    "endTime": 70.658,
+    "text": "Joy Buolamwini: So how did this happen?"
+  },
+  {
+    "startTime": 70.683,
+    "endTime": 73.82400000000001,
+    "text": "Why am I sitting in front of a computer"
+  },
+  {
+    "startTime": 73.848,
+    "endTime": 75.272,
+    "text": "in a white mask,"
+  },
+  {
+    "startTime": 75.296,
+    "endTime": 78.94600000000001,
+    "text": "trying to be detected by a cheap webcam?"
+  },
+  {
+    "startTime": 78.97,
+    "endTime": 81.261,
+    "text": "Well, when I'm not fighting the coded gaze"
+  },
+  {
+    "startTime": 81.285,
+    "endTime": 82.804,
+    "text": "as a poet of code,"
+  },
+  {
+    "startTime": 82.829,
+    "endTime": 86.101,
+    "text": "I'm a graduate student at the MIT Media Lab,"
+  },
+  {
+    "startTime": 86.125,
+    "endTime": 91.42,
+    "text": "and there I have the opportunity to work on all sorts of whimsical projects,"
+  },
+  {
+    "startTime": 91.66,
+    "endTime": 93.92999999999999,
+    "text": "including the Aspire Mirror,"
+  },
+  {
+    "startTime": 93.117,
+    "endTime": 98.251,
+    "text": "a project I did so I could project digital masks onto my reflection."
+  },
+  {
+    "startTime": 98.275,
+    "endTime": 100.625,
+    "text": "So in the morning, if I wanted to feel powerful,"
+  },
+  {
+    "startTime": 100.649,
+    "endTime": 102.83,
+    "text": "I could put on a lion."
+  },
+  {
+    "startTime": 102.107,
+    "endTime": 105.603,
+    "text": "If I wanted to be uplifted, I might have a quote."
+  },
+  {
+    "startTime": 105.627,
+    "endTime": 108.616,
+    "text": "So I used generic facial recognition software"
+  },
+  {
+    "startTime": 108.64,
+    "endTime": 109.991,
+    "text": "to build the system,"
+  },
+  {
+    "startTime": 110.15,
+    "endTime": 115.11800000000001,
+    "text": "but found it was really hard to test it unless I wore a white mask."
+  },
+  {
+    "startTime": 116.102,
+    "endTime": 120.44800000000001,
+    "text": "Unfortunately, I've run into this issue before."
+  },
+  {
+    "startTime": 120.472,
+    "endTime": 124.774,
+    "text": "When I was an undergraduate at Georgia Tech studying computer science,"
+  },
+  {
+    "startTime": 124.799,
+    "endTime": 126.85400000000001,
+    "text": "I used to work on social robots,"
+  },
+  {
+    "startTime": 126.878,
+    "endTime": 130.655,
+    "text": "and one of my tasks was to get a robot to play peek-a-boo,"
+  },
+  {
+    "startTime": 130.679,
+    "endTime": 132.362,
+    "text": "a simple turn-taking game"
+  },
+  {
+    "startTime": 132.386,
+    "endTime": 136.707,
+    "text": "where partners cover their face and then uncover it saying, \"Peek-a-boo!\""
+  },
+  {
+    "startTime": 136.731,
+    "endTime": 141.16,
+    "text": "The problem is, peek-a-boo doesn't really work if I can't see you,"
+  },
+  {
+    "startTime": 141.184,
+    "endTime": 143.683,
+    "text": "and my robot couldn't see me."
+  },
+  {
+    "startTime": 143.707,
+    "endTime": 147.656,
+    "text": "But I borrowed my roommate's face to get the project done,"
+  },
+  {
+    "startTime": 147.681,
+    "endTime": 149.61,
+    "text": "submitted the assignment,"
+  },
+  {
+    "startTime": 149.85,
+    "endTime": 152.838,
+    "text": "and figured, you know what, somebody else will solve this problem."
+  },
+  {
+    "startTime": 153.489,
+    "endTime": 155.49200000000002,
+    "text": "Not too long after,"
+  },
+  {
+    "startTime": 155.516,
+    "endTime": 159.67399999999998,
+    "text": "I was in Hong Kong for an entrepreneurship competition."
+  },
+  {
+    "startTime": 160.159,
+    "endTime": 162.852,
+    "text": "The organizers decided to take participants"
+  },
+  {
+    "startTime": 162.877,
+    "endTime": 165.24900000000002,
+    "text": "on a tour of local start-ups."
+  },
+  {
+    "startTime": 165.273,
+    "endTime": 167.988,
+    "text": "One of the start-ups had a social robot,"
+  },
+  {
+    "startTime": 168.12,
+    "endTime": 169.924,
+    "text": "and they decided to do a demo."
+  },
+  {
+    "startTime": 169.948,
+    "endTime": 172.928,
+    "text": "The demo worked on everybody until it got to me,"
+  },
+  {
+    "startTime": 172.952,
+    "endTime": 174.875,
+    "text": "and you can probably guess it."
+  },
+  {
+    "startTime": 174.899,
+    "endTime": 177.864,
+    "text": "It couldn't detect my face."
+  },
+  {
+    "startTime": 177.888,
+    "endTime": 180.399,
+    "text": "I asked the developers what was going on,"
+  },
+  {
+    "startTime": 180.423,
+    "endTime": 185.956,
+    "text": "and it turned out we had used the same generic facial recognition software."
+  },
+  {
+    "startTime": 185.98,
+    "endTime": 187.63,
+    "text": "Halfway around the world,"
+  },
+  {
+    "startTime": 187.654,
+    "endTime": 191.506,
+    "text": "I learned that algorithmic bias can travel as quickly"
+  },
+  {
+    "startTime": 191.53,
+    "endTime": 194.7,
+    "text": "as it takes to download some files off of the internet."
+  },
+  {
+    "startTime": 195.565,
+    "endTime": 198.641,
+    "text": "So what's going on? Why isn't my face being detected?"
+  },
+  {
+    "startTime": 198.665,
+    "endTime": 202.20999999999998,
+    "text": "Well, we have to look at how we give machines sight."
+  },
+  {
+    "startTime": 202.45,
+    "endTime": 205.45299999999997,
+    "text": "Computer vision uses machine learning techniques"
+  },
+  {
+    "startTime": 205.478,
+    "endTime": 207.358,
+    "text": "to do facial recognition."
+  },
+  {
+    "startTime": 207.382,
+    "endTime": 211.279,
+    "text": "So how this works is, you create a training set with examples of faces."
+  },
+  {
+    "startTime": 211.303,
+    "endTime": 214.121,
+    "text": "This is a face. This is a face. This is not a face."
+  },
+  {
+    "startTime": 214.145,
+    "endTime": 218.66400000000002,
+    "text": "And over time, you can teach a computer how to recognize other faces."
+  },
+  {
+    "startTime": 218.688,
+    "endTime": 222.677,
+    "text": "However, if the training sets aren't really that diverse,"
+  },
+  {
+    "startTime": 222.701,
+    "endTime": 226.48999999999998,
+    "text": "any face that deviates too much from the established norm"
+  },
+  {
+    "startTime": 226.74,
+    "endTime": 227.723,
+    "text": "will be harder to detect,"
+  },
+  {
+    "startTime": 227.747,
+    "endTime": 229.71,
+    "text": "which is what was happening to me."
+  },
+  {
+    "startTime": 229.734,
+    "endTime": 232.116,
+    "text": "But don't worry -- there's some good news."
+  },
+  {
+    "startTime": 232.14,
+    "endTime": 234.91,
+    "text": "Training sets don't just materialize out of nowhere."
+  },
+  {
+    "startTime": 234.935,
+    "endTime": 236.723,
+    "text": "We actually can create them."
+  },
+  {
+    "startTime": 236.747,
+    "endTime": 240.923,
+    "text": "So there's an opportunity to create full-spectrum training sets"
+  },
+  {
+    "startTime": 240.947,
+    "endTime": 244.77100000000002,
+    "text": "that reflect a richer portrait of humanity."
+  },
+  {
+    "startTime": 244.795,
+    "endTime": 247.16,
+    "text": "Now you've seen in my examples"
+  },
+  {
+    "startTime": 247.4,
+    "endTime": 248.808,
+    "text": "how social robots"
+  },
+  {
+    "startTime": 248.832,
+    "endTime": 253.442,
+    "text": "was how I found out about exclusion with algorithmic bias."
+  },
+  {
+    "startTime": 253.467,
+    "endTime": 258.28200000000004,
+    "text": "But algorithmic bias can also lead to discriminatory practices."
+  },
+  {
+    "startTime": 259.257,
+    "endTime": 260.709,
+    "text": "Across the US,"
+  },
+  {
+    "startTime": 260.733,
+    "endTime": 264.931,
+    "text": "police departments are starting to use facial recognition software"
+  },
+  {
+    "startTime": 264.956,
+    "endTime": 267.415,
+    "text": "in their crime-fighting arsenal."
+  },
+  {
+    "startTime": 267.439,
+    "endTime": 269.452,
+    "text": "Georgetown Law published a report"
+  },
+  {
+    "startTime": 269.476,
+    "endTime": 276.239,
+    "text": "showing that one in two adults in the US -- that's 117 million people --"
+  },
+  {
+    "startTime": 276.263,
+    "endTime": 279.796,
+    "text": "have their faces in facial recognition networks."
+  },
+  {
+    "startTime": 279.821,
+    "endTime": 284.37300000000005,
+    "text": "Police departments can currently look at these networks unregulated,"
+  },
+  {
+    "startTime": 284.397,
+    "endTime": 288.683,
+    "text": "using algorithms that have not been audited for accuracy."
+  },
+  {
+    "startTime": 288.707,
+    "endTime": 292.57,
+    "text": "Yet we know facial recognition is not fail proof,"
+  },
+  {
+    "startTime": 292.595,
+    "endTime": 296.774,
+    "text": "and labeling faces consistently remains a challenge."
+  },
+  {
+    "startTime": 296.798,
+    "endTime": 298.56,
+    "text": "You might have seen this on Facebook."
+  },
+  {
+    "startTime": 298.584,
+    "endTime": 301.572,
+    "text": "My friends and I laugh all the time when we see other people"
+  },
+  {
+    "startTime": 301.596,
+    "endTime": 304.54,
+    "text": "mislabeled in our photos."
+  },
+  {
+    "startTime": 304.78,
+    "endTime": 309.669,
+    "text": "But misidentifying a suspected criminal is no laughing matter,"
+  },
+  {
+    "startTime": 309.693,
+    "endTime": 312.52,
+    "text": "nor is breaching civil liberties."
+  },
+  {
+    "startTime": 312.544,
+    "endTime": 315.748,
+    "text": "Machine learning is being used for facial recognition,"
+  },
+  {
+    "startTime": 315.773,
+    "endTime": 320.278,
+    "text": "but it's also extending beyond the realm of computer vision."
+  },
+  {
+    "startTime": 321.86,
+    "endTime": 325.10200000000003,
+    "text": "In her book, \"Weapons of Math Destruction,\""
+  },
+  {
+    "startTime": 325.126,
+    "endTime": 331.806,
+    "text": "data scientist Cathy O'Neil talks about the rising new WMDs --"
+  },
+  {
+    "startTime": 331.831,
+    "endTime": 336.184,
+    "text": "widespread, mysterious and destructive algorithms"
+  },
+  {
+    "startTime": 336.208,
+    "endTime": 339.172,
+    "text": "that are increasingly being used to make decisions"
+  },
+  {
+    "startTime": 339.196,
+    "endTime": 342.37300000000005,
+    "text": "that impact more aspects of our lives."
+  },
+  {
+    "startTime": 342.397,
+    "endTime": 344.267,
+    "text": "So who gets hired or fired?"
+  },
+  {
+    "startTime": 344.291,
+    "endTime": 346.403,
+    "text": "Do you get that loan? Do you get insurance?"
+  },
+  {
+    "startTime": 346.427,
+    "endTime": 349.93,
+    "text": "Are you admitted into the college you wanted to get into?"
+  },
+  {
+    "startTime": 349.954,
+    "endTime": 353.463,
+    "text": "Do you and I pay the same price for the same product"
+  },
+  {
+    "startTime": 353.487,
+    "endTime": 355.92900000000003,
+    "text": "purchased on the same platform?"
+  },
+  {
+    "startTime": 355.953,
+    "endTime": 359.712,
+    "text": "Law enforcement is also starting to use machine learning"
+  },
+  {
+    "startTime": 359.736,
+    "endTime": 362.25,
+    "text": "for predictive policing."
+  },
+  {
+    "startTime": 362.49,
+    "endTime": 365.543,
+    "text": "Some judges use machine-generated risk scores to determine"
+  },
+  {
+    "startTime": 365.567,
+    "endTime": 369.969,
+    "text": "how long an individual is going to spend in prison."
+  },
+  {
+    "startTime": 369.993,
+    "endTime": 372.447,
+    "text": "So we really have to think about these decisions."
+  },
+  {
+    "startTime": 372.471,
+    "endTime": 373.653,
+    "text": "Are they fair?"
+  },
+  {
+    "startTime": 373.677,
+    "endTime": 376.567,
+    "text": "And we've seen that algorithmic bias"
+  },
+  {
+    "startTime": 376.591,
+    "endTime": 379.96500000000003,
+    "text": "doesn't necessarily always lead to fair outcomes."
+  },
+  {
+    "startTime": 379.989,
+    "endTime": 381.953,
+    "text": "So what can we do about it?"
+  },
+  {
+    "startTime": 381.977,
+    "endTime": 385.657,
+    "text": "Well, we can start thinking about how we create more inclusive code"
+  },
+  {
+    "startTime": 385.681,
+    "endTime": 388.671,
+    "text": "and employ inclusive coding practices."
+  },
+  {
+    "startTime": 388.695,
+    "endTime": 391.4,
+    "text": "It really starts with people."
+  },
+  {
+    "startTime": 391.528,
+    "endTime": 393.48900000000003,
+    "text": "So who codes matters."
+  },
+  {
+    "startTime": 393.513,
+    "endTime": 397.631,
+    "text": "Are we creating full-spectrum teams with diverse individuals"
+  },
+  {
+    "startTime": 397.656,
+    "endTime": 400.67,
+    "text": "who can check each other's blind spots?"
+  },
+  {
+    "startTime": 400.91,
+    "endTime": 403.636,
+    "text": "On the technical side, how we code matters."
+  },
+  {
+    "startTime": 403.66,
+    "endTime": 407.31100000000004,
+    "text": "Are we factoring in fairness as we're developing systems?"
+  },
+  {
+    "startTime": 407.335,
+    "endTime": 410.248,
+    "text": "And finally, why we code matters."
+  },
+  {
+    "startTime": 410.605,
+    "endTime": 415.68800000000005,
+    "text": "We've used tools of computational creation to unlock immense wealth."
+  },
+  {
+    "startTime": 415.712,
+    "endTime": 420.159,
+    "text": "We now have the opportunity to unlock even greater equality"
+  },
+  {
+    "startTime": 420.183,
+    "endTime": 423.113,
+    "text": "if we make social change a priority"
+  },
+  {
+    "startTime": 423.137,
+    "endTime": 425.307,
+    "text": "and not an afterthought."
+  },
+  {
+    "startTime": 425.828,
+    "endTime": 430.349,
+    "text": "And so these are the three tenets that will make up the \"incoding\" movement."
+  },
+  {
+    "startTime": 430.374,
+    "endTime": 432.26000000000005,
+    "text": "Who codes matters,"
+  },
+  {
+    "startTime": 432.5,
+    "endTime": 433.593,
+    "text": "how we code matters"
+  },
+  {
+    "startTime": 433.617,
+    "endTime": 435.64000000000004,
+    "text": "and why we code matters."
+  },
+  {
+    "startTime": 435.664,
+    "endTime": 438.763,
+    "text": "So to go towards incoding, we can start thinking about"
+  },
+  {
+    "startTime": 438.787,
+    "endTime": 441.95,
+    "text": "building platforms that can identify bias"
+  },
+  {
+    "startTime": 441.975,
+    "endTime": 445.53000000000003,
+    "text": "by collecting people's experiences like the ones I shared,"
+  },
+  {
+    "startTime": 445.77,
+    "endTime": 448.147,
+    "text": "but also auditing existing software."
+  },
+  {
+    "startTime": 448.171,
+    "endTime": 451.936,
+    "text": "We can also start to create more inclusive training sets."
+  },
+  {
+    "startTime": 451.96,
+    "endTime": 454.763,
+    "text": "Imagine a \"Selfies for Inclusion\" campaign"
+  },
+  {
+    "startTime": 454.787,
+    "endTime": 458.441,
+    "text": "where you and I can help developers test and create"
+  },
+  {
+    "startTime": 458.466,
+    "endTime": 460.559,
+    "text": "more inclusive training sets."
+  },
+  {
+    "startTime": 461.122,
+    "endTime": 463.95,
+    "text": "And we can also start thinking more conscientiously"
+  },
+  {
+    "startTime": 463.974,
+    "endTime": 469.365,
+    "text": "about the social impact of the technology that we're developing."
+  },
+  {
+    "startTime": 469.389,
+    "endTime": 471.782,
+    "text": "To get the incoding movement started,"
+  },
+  {
+    "startTime": 471.806,
+    "endTime": 474.652,
+    "text": "I've launched the Algorithmic Justice League,"
+  },
+  {
+    "startTime": 474.677,
+    "endTime": 480.54900000000004,
+    "text": "where anyone who cares about fairness can help fight the coded gaze."
+  },
+  {
+    "startTime": 480.573,
+    "endTime": 483.86899999999997,
+    "text": "On codedgaze.com, you can report bias,"
+  },
+  {
+    "startTime": 483.893,
+    "endTime": 486.337,
+    "text": "request audits, become a tester"
+  },
+  {
+    "startTime": 486.362,
+    "endTime": 489.13300000000004,
+    "text": "and join the ongoing conversation,"
+  },
+  {
+    "startTime": 489.157,
+    "endTime": 491.443,
+    "text": "#codedgaze."
+  },
+  {
+    "startTime": 492.562,
+    "endTime": 495.49,
+    "text": "So I invite you to join me"
+  },
+  {
+    "startTime": 495.73,
+    "endTime": 498.79200000000003,
+    "text": "in creating a world where technology works for all of us,"
+  },
+  {
+    "startTime": 498.816,
+    "endTime": 500.712,
+    "text": "not just some of us,"
+  },
+  {
+    "startTime": 500.737,
+    "endTime": 505.32500000000005,
+    "text": "a world where we value inclusion and center social change."
+  },
+  {
+    "startTime": 505.349,
+    "endTime": 506.524,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 506.548,
+    "endTime": 510.819,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 512.693,
+    "endTime": 515.547,
+    "text": "But I have one question:"
+  },
+  {
+    "startTime": 515.571,
+    "endTime": 517.63,
+    "text": "Will you join me in the fight?"
+  },
+  {
+    "startTime": 517.654,
+    "endTime": 518.938,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 518.962,
+    "endTime": 522.65,
+    "text": "(Applause)"
+  }
+]

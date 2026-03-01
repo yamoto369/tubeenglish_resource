@@ -1,0 +1,1367 @@
+[
+  {
+    "startTime": 13.436,
+    "endTime": 15.296,
+    "text": "In the movie \"Interstellar,\""
+  },
+  {
+    "startTime": 15.32,
+    "endTime": 18.647,
+    "text": "we get an up-close look at a supermassive black hole."
+  },
+  {
+    "startTime": 18.671,
+    "endTime": 20.814,
+    "text": "Set against a backdrop of bright gas,"
+  },
+  {
+    "startTime": 20.838,
+    "endTime": 22.956,
+    "text": "the black hole's massive gravitational pull"
+  },
+  {
+    "startTime": 22.98,
+    "endTime": 24.415,
+    "text": "bends light into a ring."
+  },
+  {
+    "startTime": 24.439,
+    "endTime": 26.548000000000002,
+    "text": "However, this isn't a real photograph,"
+  },
+  {
+    "startTime": 26.572,
+    "endTime": 28.358,
+    "text": "but a computer graphic rendering --"
+  },
+  {
+    "startTime": 28.382,
+    "endTime": 31.772000000000002,
+    "text": "an artistic interpretation of what a black hole might look like."
+  },
+  {
+    "startTime": 32.401,
+    "endTime": 33.567,
+    "text": "A hundred years ago,"
+  },
+  {
+    "startTime": 33.591,
+    "endTime": 37.192,
+    "text": "Albert Einstein first published his theory of general relativity."
+  },
+  {
+    "startTime": 37.216,
+    "endTime": 38.655,
+    "text": "In the years since then,"
+  },
+  {
+    "startTime": 38.679,
+    "endTime": 41.652,
+    "text": "scientists have provided a lot of evidence in support of it."
+  },
+  {
+    "startTime": 41.676,
+    "endTime": 44.760000000000005,
+    "text": "But one thing predicted from this theory, black holes,"
+  },
+  {
+    "startTime": 44.784,
+    "endTime": 47.134,
+    "text": "still have not been directly observed."
+  },
+  {
+    "startTime": 47.158,
+    "endTime": 50.364000000000004,
+    "text": "Although we have some idea as to what a black hole might look like,"
+  },
+  {
+    "startTime": 50.388,
+    "endTime": 53.167,
+    "text": "we've never actually taken a picture of one before."
+  },
+  {
+    "startTime": 53.191,
+    "endTime": 57.47,
+    "text": "However, you might be surprised to know that that may soon change."
+  },
+  {
+    "startTime": 57.494,
+    "endTime": 61.658,
+    "text": "We may be seeing our first picture of a black hole in the next couple years."
+  },
+  {
+    "startTime": 61.682,
+    "endTime": 65.64,
+    "text": "Getting this first picture will come down to an international team of scientists,"
+  },
+  {
+    "startTime": 65.664,
+    "endTime": 67.231,
+    "text": "an Earth-sized telescope"
+  },
+  {
+    "startTime": 67.255,
+    "endTime": 70.86,
+    "text": "and an algorithm that puts together the final picture."
+  },
+  {
+    "startTime": 70.111,
+    "endTime": 73.63900000000001,
+    "text": "Although I won't be able to show you a real picture of a black hole today,"
+  },
+  {
+    "startTime": 73.663,
+    "endTime": 76.574,
+    "text": "I'd like to give you a brief glimpse into the effort involved"
+  },
+  {
+    "startTime": 76.598,
+    "endTime": 78.211,
+    "text": "in getting that first picture."
+  },
+  {
+    "startTime": 79.477,
+    "endTime": 80.914,
+    "text": "My name is Katie Bouman,"
+  },
+  {
+    "startTime": 80.938,
+    "endTime": 83.504,
+    "text": "and I'm a PhD student at MIT."
+  },
+  {
+    "startTime": 83.528,
+    "endTime": 85.555,
+    "text": "I do research in a computer science lab"
+  },
+  {
+    "startTime": 85.579,
+    "endTime": 88.877,
+    "text": "that works on making computers see through images and video."
+  },
+  {
+    "startTime": 88.901,
+    "endTime": 91.63,
+    "text": "But although I'm not an astronomer,"
+  },
+  {
+    "startTime": 91.87,
+    "endTime": 92.372,
+    "text": "today I'd like to show you"
+  },
+  {
+    "startTime": 92.396,
+    "endTime": 95.299,
+    "text": "how I've been able to contribute to this exciting project."
+  },
+  {
+    "startTime": 95.323,
+    "endTime": 98.154,
+    "text": "If you go out past the bright city lights tonight,"
+  },
+  {
+    "startTime": 98.178,
+    "endTime": 100.614,
+    "text": "you may just be lucky enough to see a stunning view"
+  },
+  {
+    "startTime": 100.638,
+    "endTime": 102.131,
+    "text": "of the Milky Way Galaxy."
+  },
+  {
+    "startTime": 102.155,
+    "endTime": 104.617,
+    "text": "And if you could zoom past millions of stars,"
+  },
+  {
+    "startTime": 104.641,
+    "endTime": 108.396,
+    "text": "26,000 light-years toward the heart of the spiraling Milky Way,"
+  },
+  {
+    "startTime": 108.42,
+    "endTime": 111.941,
+    "text": "we'd eventually reach a cluster of stars right at the center."
+  },
+  {
+    "startTime": 111.965,
+    "endTime": 115.171,
+    "text": "Peering past all the galactic dust with infrared telescopes,"
+  },
+  {
+    "startTime": 115.195,
+    "endTime": 119.61999999999999,
+    "text": "astronomers have watched these stars for over 16 years."
+  },
+  {
+    "startTime": 119.86,
+    "endTime": 122.675,
+    "text": "But it's what they don't see that is the most spectacular."
+  },
+  {
+    "startTime": 122.699,
+    "endTime": 125.765,
+    "text": "These stars seem to orbit an invisible object."
+  },
+  {
+    "startTime": 125.789,
+    "endTime": 128.112,
+    "text": "By tracking the paths of these stars,"
+  },
+  {
+    "startTime": 128.136,
+    "endTime": 129.43,
+    "text": "astronomers have concluded"
+  },
+  {
+    "startTime": 129.454,
+    "endTime": 132.583,
+    "text": "that the only thing small and heavy enough to cause this motion"
+  },
+  {
+    "startTime": 132.607,
+    "endTime": 134.575,
+    "text": "is a supermassive black hole --"
+  },
+  {
+    "startTime": 134.599,
+    "endTime": 138.777,
+    "text": "an object so dense that it sucks up anything that ventures too close --"
+  },
+  {
+    "startTime": 138.801,
+    "endTime": 140.295,
+    "text": "even light."
+  },
+  {
+    "startTime": 140.319,
+    "endTime": 143.38,
+    "text": "But what happens if we were to zoom in even further?"
+  },
+  {
+    "startTime": 143.404,
+    "endTime": 148.137,
+    "text": "Is it possible to see something that, by definition, is impossible to see?"
+  },
+  {
+    "startTime": 148.719,
+    "endTime": 151.963,
+    "text": "Well, it turns out that if we were to zoom in at radio wavelengths,"
+  },
+  {
+    "startTime": 151.987,
+    "endTime": 153.668,
+    "text": "we'd expect to see a ring of light"
+  },
+  {
+    "startTime": 153.693,
+    "endTime": 156.104,
+    "text": "caused by the gravitational lensing of hot plasma"
+  },
+  {
+    "startTime": 156.128,
+    "endTime": 157.957,
+    "text": "zipping around the black hole."
+  },
+  {
+    "startTime": 157.981,
+    "endTime": 159.141,
+    "text": "In other words,"
+  },
+  {
+    "startTime": 159.165,
+    "endTime": 162.33499999999998,
+    "text": "the black hole casts a shadow on this backdrop of bright material,"
+  },
+  {
+    "startTime": 162.36,
+    "endTime": 164.20200000000003,
+    "text": "carving out a sphere of darkness."
+  },
+  {
+    "startTime": 164.226,
+    "endTime": 167.565,
+    "text": "This bright ring reveals the black hole's event horizon,"
+  },
+  {
+    "startTime": 167.589,
+    "endTime": 169.989,
+    "text": "where the gravitational pull becomes so great"
+  },
+  {
+    "startTime": 170.13,
+    "endTime": 171.63899999999998,
+    "text": "that not even light can escape."
+  },
+  {
+    "startTime": 171.663,
+    "endTime": 174.52200000000002,
+    "text": "Einstein's equations predict the size and shape of this ring,"
+  },
+  {
+    "startTime": 174.546,
+    "endTime": 177.754,
+    "text": "so taking a picture of it wouldn't only be really cool,"
+  },
+  {
+    "startTime": 177.778,
+    "endTime": 180.396,
+    "text": "it would also help to verify that these equations hold"
+  },
+  {
+    "startTime": 180.42,
+    "endTime": 182.886,
+    "text": "in the extreme conditions around the black hole."
+  },
+  {
+    "startTime": 182.91,
+    "endTime": 185.468,
+    "text": "However, this black hole is so far away from us,"
+  },
+  {
+    "startTime": 185.492,
+    "endTime": 188.59,
+    "text": "that from Earth, this ring appears incredibly small --"
+  },
+  {
+    "startTime": 188.614,
+    "endTime": 192.204,
+    "text": "the same size to us as an orange on the surface of the moon."
+  },
+  {
+    "startTime": 192.758,
+    "endTime": 195.58200000000002,
+    "text": "That makes taking a picture of it extremely difficult."
+  },
+  {
+    "startTime": 196.645,
+    "endTime": 197.947,
+    "text": "Why is that?"
+  },
+  {
+    "startTime": 198.512,
+    "endTime": 201.7,
+    "text": "Well, it all comes down to a simple equation."
+  },
+  {
+    "startTime": 201.724,
+    "endTime": 204.14,
+    "text": "Due to a phenomenon called diffraction,"
+  },
+  {
+    "startTime": 204.164,
+    "endTime": 205.518,
+    "text": "there are fundamental limits"
+  },
+  {
+    "startTime": 205.543,
+    "endTime": 208.213,
+    "text": "to the smallest objects that we can possibly see."
+  },
+  {
+    "startTime": 208.789,
+    "endTime": 212.45999999999998,
+    "text": "This governing equation says that in order to see smaller and smaller,"
+  },
+  {
+    "startTime": 212.485,
+    "endTime": 215.72000000000003,
+    "text": "we need to make our telescope bigger and bigger."
+  },
+  {
+    "startTime": 215.96,
+    "endTime": 218.16500000000002,
+    "text": "But even with the most powerful optical telescopes here on Earth,"
+  },
+  {
+    "startTime": 218.189,
+    "endTime": 220.608,
+    "text": "we can't even get close to the resolution necessary"
+  },
+  {
+    "startTime": 220.632,
+    "endTime": 222.83,
+    "text": "to image on the surface of the moon."
+  },
+  {
+    "startTime": 222.854,
+    "endTime": 226.471,
+    "text": "In fact, here I show one of the highest resolution images ever taken"
+  },
+  {
+    "startTime": 226.495,
+    "endTime": 227.892,
+    "text": "of the moon from Earth."
+  },
+  {
+    "startTime": 227.916,
+    "endTime": 230.472,
+    "text": "It contains roughly 13,000 pixels,"
+  },
+  {
+    "startTime": 230.497,
+    "endTime": 234.54700000000003,
+    "text": "and yet each pixel would contain over 1.5 million oranges."
+  },
+  {
+    "startTime": 235.396,
+    "endTime": 237.368,
+    "text": "So how big of a telescope do we need"
+  },
+  {
+    "startTime": 237.392,
+    "endTime": 240.156,
+    "text": "in order to see an orange on the surface of the moon"
+  },
+  {
+    "startTime": 240.181,
+    "endTime": 242.395,
+    "text": "and, by extension, our black hole?"
+  },
+  {
+    "startTime": 242.419,
+    "endTime": 244.75900000000001,
+    "text": "Well, it turns out that by crunching the numbers,"
+  },
+  {
+    "startTime": 244.783,
+    "endTime": 247.393,
+    "text": "you can easily calculate that we would need a telescope"
+  },
+  {
+    "startTime": 247.417,
+    "endTime": 248.81,
+    "text": "the size of the entire Earth."
+  },
+  {
+    "startTime": 248.834,
+    "endTime": 249.858,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 249.882,
+    "endTime": 252.1,
+    "text": "If we could build this Earth-sized telescope,"
+  },
+  {
+    "startTime": 252.25,
+    "endTime": 254.95,
+    "text": "we could just start to make out that distinctive ring of light"
+  },
+  {
+    "startTime": 254.974,
+    "endTime": 257.156,
+    "text": "indicative of the black hole's event horizon."
+  },
+  {
+    "startTime": 257.18,
+    "endTime": 260.99,
+    "text": "Although this picture wouldn't contain all the detail we see"
+  },
+  {
+    "startTime": 260.123,
+    "endTime": 261.628,
+    "text": "in computer graphic renderings,"
+  },
+  {
+    "startTime": 261.653,
+    "endTime": 263.952,
+    "text": "it would allow us to safely get our first glimpse"
+  },
+  {
+    "startTime": 263.976,
+    "endTime": 266.463,
+    "text": "of the immediate environment around a black hole."
+  },
+  {
+    "startTime": 266.487,
+    "endTime": 268.1,
+    "text": "However, as you can imagine,"
+  },
+  {
+    "startTime": 268.124,
+    "endTime": 271.74800000000005,
+    "text": "building a single-dish telescope the size of the Earth is impossible."
+  },
+  {
+    "startTime": 271.772,
+    "endTime": 273.659,
+    "text": "But in the famous words of Mick Jagger,"
+  },
+  {
+    "startTime": 273.683,
+    "endTime": 275.474,
+    "text": "\"You can't always get what you want,"
+  },
+  {
+    "startTime": 275.498,
+    "endTime": 277.685,
+    "text": "but if you try sometimes, you just might find"
+  },
+  {
+    "startTime": 277.709,
+    "endTime": 278.924,
+    "text": "you get what you need.\""
+  },
+  {
+    "startTime": 278.948,
+    "endTime": 281.412,
+    "text": "And by connecting telescopes from around the world,"
+  },
+  {
+    "startTime": 281.436,
+    "endTime": 284.974,
+    "text": "an international collaboration called the Event Horizon Telescope"
+  },
+  {
+    "startTime": 284.998,
+    "endTime": 288.10699999999997,
+    "text": "is creating a computational telescope the size of the Earth,"
+  },
+  {
+    "startTime": 288.131,
+    "endTime": 289.667,
+    "text": "capable of resolving structure"
+  },
+  {
+    "startTime": 289.692,
+    "endTime": 291.891,
+    "text": "on the scale of a black hole's event horizon."
+  },
+  {
+    "startTime": 291.915,
+    "endTime": 295.302,
+    "text": "This network of telescopes is scheduled to take its very first picture"
+  },
+  {
+    "startTime": 295.326,
+    "endTime": 297.141,
+    "text": "of a black hole next year."
+  },
+  {
+    "startTime": 297.165,
+    "endTime": 300.50300000000004,
+    "text": "Each telescope in the worldwide network works together."
+  },
+  {
+    "startTime": 300.527,
+    "endTime": 303.239,
+    "text": "Linked through the precise timing of atomic clocks,"
+  },
+  {
+    "startTime": 303.263,
+    "endTime": 305.919,
+    "text": "teams of researchers at each of the sites freeze light"
+  },
+  {
+    "startTime": 305.944,
+    "endTime": 308.906,
+    "text": "by collecting thousands of terabytes of data."
+  },
+  {
+    "startTime": 308.93,
+    "endTime": 313.947,
+    "text": "This data is then processed in a lab right here in Massachusetts."
+  },
+  {
+    "startTime": 313.971,
+    "endTime": 315.765,
+    "text": "So how does this even work?"
+  },
+  {
+    "startTime": 315.789,
+    "endTime": 319.192,
+    "text": "Remember if we want to see the black hole in the center of our galaxy,"
+  },
+  {
+    "startTime": 319.216,
+    "endTime": 322.19800000000004,
+    "text": "we need to build this impossibly large Earth-sized telescope?"
+  },
+  {
+    "startTime": 322.222,
+    "endTime": 324.454,
+    "text": "For just a second, let's pretend we could build"
+  },
+  {
+    "startTime": 324.478,
+    "endTime": 326.32,
+    "text": "a telescope the size of the Earth."
+  },
+  {
+    "startTime": 326.344,
+    "endTime": 328.799,
+    "text": "This would be a little bit like turning the Earth"
+  },
+  {
+    "startTime": 328.823,
+    "endTime": 330.57,
+    "text": "into a giant spinning disco ball."
+  },
+  {
+    "startTime": 330.594,
+    "endTime": 332.794,
+    "text": "Each individual mirror would collect light"
+  },
+  {
+    "startTime": 332.818,
+    "endTime": 335.414,
+    "text": "that we could then combine together to make a picture."
+  },
+  {
+    "startTime": 335.439,
+    "endTime": 338.1,
+    "text": "However, now let's say we remove most of those mirrors"
+  },
+  {
+    "startTime": 338.124,
+    "endTime": 340.96000000000004,
+    "text": "so only a few remained."
+  },
+  {
+    "startTime": 340.12,
+    "endTime": 342.997,
+    "text": "We could still try to combine this information together,"
+  },
+  {
+    "startTime": 343.21,
+    "endTime": 345.14,
+    "text": "but now there are a lot of holes."
+  },
+  {
+    "startTime": 345.38,
+    "endTime": 349.411,
+    "text": "These remaining mirrors represent the locations where we have telescopes."
+  },
+  {
+    "startTime": 349.435,
+    "endTime": 353.514,
+    "text": "This is an incredibly small number of measurements to make a picture from."
+  },
+  {
+    "startTime": 353.538,
+    "endTime": 357.37600000000003,
+    "text": "But although we only collect light at a few telescope locations,"
+  },
+  {
+    "startTime": 357.4,
+    "endTime": 360.823,
+    "text": "as the Earth rotates, we get to see other new measurements."
+  },
+  {
+    "startTime": 360.847,
+    "endTime": 364.666,
+    "text": "In other words, as the disco ball spins, those mirrors change locations"
+  },
+  {
+    "startTime": 364.69,
+    "endTime": 367.589,
+    "text": "and we get to observe different parts of the image."
+  },
+  {
+    "startTime": 367.613,
+    "endTime": 371.631,
+    "text": "The imaging algorithms we develop fill in the missing gaps of the disco ball"
+  },
+  {
+    "startTime": 371.655,
+    "endTime": 374.688,
+    "text": "in order to reconstruct the underlying black hole image."
+  },
+  {
+    "startTime": 374.712,
+    "endTime": 377.348,
+    "text": "If we had telescopes located everywhere on the globe --"
+  },
+  {
+    "startTime": 377.372,
+    "endTime": 379.313,
+    "text": "in other words, the entire disco ball --"
+  },
+  {
+    "startTime": 379.337,
+    "endTime": 380.621,
+    "text": "this would be trivial."
+  },
+  {
+    "startTime": 380.645,
+    "endTime": 383.967,
+    "text": "However, we only see a few samples, and for that reason,"
+  },
+  {
+    "startTime": 383.991,
+    "endTime": 386.378,
+    "text": "there are an infinite number of possible images"
+  },
+  {
+    "startTime": 386.403,
+    "endTime": 389.367,
+    "text": "that are perfectly consistent with our telescope measurements."
+  },
+  {
+    "startTime": 389.391,
+    "endTime": 392.40700000000004,
+    "text": "However, not all images are created equal."
+  },
+  {
+    "startTime": 392.849,
+    "endTime": 397.307,
+    "text": "Some of those images look more like what we think of as images than others."
+  },
+  {
+    "startTime": 397.331,
+    "endTime": 400.553,
+    "text": "And so, my role in helping to take the first image of a black hole"
+  },
+  {
+    "startTime": 400.577,
+    "endTime": 403.509,
+    "text": "is to design algorithms that find the most reasonable image"
+  },
+  {
+    "startTime": 403.533,
+    "endTime": 405.755,
+    "text": "that also fits the telescope measurements."
+  },
+  {
+    "startTime": 406.727,
+    "endTime": 410.669,
+    "text": "Just as a forensic sketch artist uses limited descriptions"
+  },
+  {
+    "startTime": 410.693,
+    "endTime": 414.207,
+    "text": "to piece together a picture using their knowledge of face structure,"
+  },
+  {
+    "startTime": 414.231,
+    "endTime": 417.546,
+    "text": "the imaging algorithms I develop use our limited telescope data"
+  },
+  {
+    "startTime": 417.57,
+    "endTime": 421.892,
+    "text": "to guide us to a picture that also looks like stuff in our universe."
+  },
+  {
+    "startTime": 421.916,
+    "endTime": 425.567,
+    "text": "Using these algorithms, we're able to piece together pictures"
+  },
+  {
+    "startTime": 425.591,
+    "endTime": 427.771,
+    "text": "from this sparse, noisy data."
+  },
+  {
+    "startTime": 427.795,
+    "endTime": 432.324,
+    "text": "So here I show a sample reconstruction done using simulated data,"
+  },
+  {
+    "startTime": 432.348,
+    "endTime": 434.281,
+    "text": "when we pretend to point our telescopes"
+  },
+  {
+    "startTime": 434.305,
+    "endTime": 436.89,
+    "text": "to the black hole in the center of our galaxy."
+  },
+  {
+    "startTime": 436.914,
+    "endTime": 441.36899999999997,
+    "text": "Although this is just a simulation, reconstruction such as this give us hope"
+  },
+  {
+    "startTime": 441.393,
+    "endTime": 444.84499999999997,
+    "text": "that we'll soon be able to reliably take the first image of a black hole"
+  },
+  {
+    "startTime": 444.87,
+    "endTime": 447.46500000000003,
+    "text": "and from it, determine the size of its ring."
+  },
+  {
+    "startTime": 448.118,
+    "endTime": 451.317,
+    "text": "Although I'd love to go on about all the details of this algorithm,"
+  },
+  {
+    "startTime": 451.341,
+    "endTime": 453.515,
+    "text": "luckily for you, I don't have the time."
+  },
+  {
+    "startTime": 453.539,
+    "endTime": 455.539,
+    "text": "But I'd still like to give you a brief idea"
+  },
+  {
+    "startTime": 455.564,
+    "endTime": 457.86600000000004,
+    "text": "of how we define what our universe looks like,"
+  },
+  {
+    "startTime": 457.89,
+    "endTime": 462.356,
+    "text": "and how we use this to reconstruct and verify our results."
+  },
+  {
+    "startTime": 462.38,
+    "endTime": 464.876,
+    "text": "Since there are an infinite number of possible images"
+  },
+  {
+    "startTime": 464.9,
+    "endTime": 467.265,
+    "text": "that perfectly explain our telescope measurements,"
+  },
+  {
+    "startTime": 467.289,
+    "endTime": 469.894,
+    "text": "we have to choose between them in some way."
+  },
+  {
+    "startTime": 469.918,
+    "endTime": 471.75600000000003,
+    "text": "We do this by ranking the images"
+  },
+  {
+    "startTime": 471.78,
+    "endTime": 474.614,
+    "text": "based upon how likely they are to be the black hole image,"
+  },
+  {
+    "startTime": 474.638,
+    "endTime": 477.12,
+    "text": "and then choosing the one that's most likely."
+  },
+  {
+    "startTime": 477.144,
+    "endTime": 479.339,
+    "text": "So what do I mean by this exactly?"
+  },
+  {
+    "startTime": 479.862,
+    "endTime": 481.84000000000003,
+    "text": "Let's say we were trying to make a model"
+  },
+  {
+    "startTime": 481.864,
+    "endTime": 485.46,
+    "text": "that told us how likely an image were to appear on Facebook."
+  },
+  {
+    "startTime": 485.71,
+    "endTime": 486.772,
+    "text": "We'd probably want the model to say"
+  },
+  {
+    "startTime": 486.796,
+    "endTime": 490.353,
+    "text": "it's pretty unlikely that someone would post this noise image on the left,"
+  },
+  {
+    "startTime": 490.377,
+    "endTime": 492.796,
+    "text": "and pretty likely that someone would post a selfie"
+  },
+  {
+    "startTime": 492.82,
+    "endTime": 494.154,
+    "text": "like this one on the right."
+  },
+  {
+    "startTime": 494.178,
+    "endTime": 495.817,
+    "text": "The image in the middle is blurry,"
+  },
+  {
+    "startTime": 495.841,
+    "endTime": 498.48,
+    "text": "so even though it's more likely we'd see it on Facebook"
+  },
+  {
+    "startTime": 498.504,
+    "endTime": 499.86400000000003,
+    "text": "compared to the noise image,"
+  },
+  {
+    "startTime": 499.888,
+    "endTime": 502.847,
+    "text": "it's probably less likely we'd see it compared to the selfie."
+  },
+  {
+    "startTime": 502.872,
+    "endTime": 505.16200000000003,
+    "text": "But when it comes to images from the black hole,"
+  },
+  {
+    "startTime": 505.186,
+    "endTime": 508.688,
+    "text": "we're posed with a real conundrum: we've never seen a black hole before."
+  },
+  {
+    "startTime": 508.712,
+    "endTime": 511.3,
+    "text": "In that case, what is a likely black hole image,"
+  },
+  {
+    "startTime": 511.27,
+    "endTime": 513.965,
+    "text": "and what should we assume about the structure of black holes?"
+  },
+  {
+    "startTime": 513.989,
+    "endTime": 516.621,
+    "text": "We could try to use images from simulations we've done,"
+  },
+  {
+    "startTime": 516.645,
+    "endTime": 519.174,
+    "text": "like the image of the black hole from \"Interstellar,\""
+  },
+  {
+    "startTime": 519.198,
+    "endTime": 522.136,
+    "text": "but if we did this, it could cause some serious problems."
+  },
+  {
+    "startTime": 522.16,
+    "endTime": 525.54,
+    "text": "What would happen if Einstein's theories didn't hold?"
+  },
+  {
+    "startTime": 525.565,
+    "endTime": 529.5260000000001,
+    "text": "We'd still want to reconstruct an accurate picture of what was going on."
+  },
+  {
+    "startTime": 529.55,
+    "endTime": 532.92,
+    "text": "If we bake Einstein's equations too much into our algorithms,"
+  },
+  {
+    "startTime": 532.945,
+    "endTime": 535.7,
+    "text": "we'll just end up seeing what we expect to see."
+  },
+  {
+    "startTime": 535.724,
+    "endTime": 538.0,
+    "text": "In other words, we want to leave the option open"
+  },
+  {
+    "startTime": 538.24,
+    "endTime": 540.947,
+    "text": "for there being a giant elephant at the center of our galaxy."
+  },
+  {
+    "startTime": 540.971,
+    "endTime": 542.28,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 542.52,
+    "endTime": 545.41,
+    "text": "Different types of images have very distinct features."
+  },
+  {
+    "startTime": 545.65,
+    "endTime": 548.6129999999999,
+    "text": "We can easily tell the difference between black hole simulation images"
+  },
+  {
+    "startTime": 548.637,
+    "endTime": 550.9119999999999,
+    "text": "and images we take every day here on Earth."
+  },
+  {
+    "startTime": 550.937,
+    "endTime": 554.41,
+    "text": "We need a way to tell our algorithms what images look like"
+  },
+  {
+    "startTime": 554.65,
+    "endTime": 557.314,
+    "text": "without imposing one type of image's features too much."
+  },
+  {
+    "startTime": 557.865,
+    "endTime": 559.758,
+    "text": "One way we can try to get around this"
+  },
+  {
+    "startTime": 559.782,
+    "endTime": 562.844,
+    "text": "is by imposing the features of different kinds of images"
+  },
+  {
+    "startTime": 562.868,
+    "endTime": 566.998,
+    "text": "and seeing how the type of image we assume affects our reconstructions."
+  },
+  {
+    "startTime": 567.712,
+    "endTime": 571.203,
+    "text": "If all images' types produce a very similar-looking image,"
+  },
+  {
+    "startTime": 571.227,
+    "endTime": 573.284,
+    "text": "then we can start to become more confident"
+  },
+  {
+    "startTime": 573.308,
+    "endTime": 577.481,
+    "text": "that the image assumptions we're making are not biasing this picture that much."
+  },
+  {
+    "startTime": 577.505,
+    "endTime": 580.495,
+    "text": "This is a little bit like giving the same description"
+  },
+  {
+    "startTime": 580.519,
+    "endTime": 583.515,
+    "text": "to three different sketch artists from all around the world."
+  },
+  {
+    "startTime": 583.539,
+    "endTime": 586.399,
+    "text": "If they all produce a very similar-looking face,"
+  },
+  {
+    "startTime": 586.423,
+    "endTime": 588.216,
+    "text": "then we can start to become confident"
+  },
+  {
+    "startTime": 588.24,
+    "endTime": 591.856,
+    "text": "that they're not imposing their own cultural biases on the drawings."
+  },
+  {
+    "startTime": 591.88,
+    "endTime": 595.195,
+    "text": "One way we can try to impose different image features"
+  },
+  {
+    "startTime": 595.219,
+    "endTime": 597.6600000000001,
+    "text": "is by using pieces of existing images."
+  },
+  {
+    "startTime": 598.214,
+    "endTime": 600.374,
+    "text": "So we take a large collection of images,"
+  },
+  {
+    "startTime": 600.398,
+    "endTime": 603.116,
+    "text": "and we break them down into their little image patches."
+  },
+  {
+    "startTime": 603.14,
+    "endTime": 607.425,
+    "text": "We then can treat each image patch a little bit like pieces of a puzzle."
+  },
+  {
+    "startTime": 607.449,
+    "endTime": 611.727,
+    "text": "And we use commonly seen puzzle pieces to piece together an image"
+  },
+  {
+    "startTime": 611.751,
+    "endTime": 614.203,
+    "text": "that also fits our telescope measurements."
+  },
+  {
+    "startTime": 615.4,
+    "endTime": 618.783,
+    "text": "Different types of images have very distinctive sets of puzzle pieces."
+  },
+  {
+    "startTime": 618.807,
+    "endTime": 621.613,
+    "text": "So what happens when we take the same data"
+  },
+  {
+    "startTime": 621.637,
+    "endTime": 625.766,
+    "text": "but we use different sets of puzzle pieces to reconstruct the image?"
+  },
+  {
+    "startTime": 625.791,
+    "endTime": 630.557,
+    "text": "Let's first start with black hole image simulation puzzle pieces."
+  },
+  {
+    "startTime": 630.581,
+    "endTime": 632.172,
+    "text": "OK, this looks reasonable."
+  },
+  {
+    "startTime": 632.196,
+    "endTime": 634.89,
+    "text": "This looks like what we expect a black hole to look like."
+  },
+  {
+    "startTime": 634.914,
+    "endTime": 636.107,
+    "text": "But did we just get it"
+  },
+  {
+    "startTime": 636.131,
+    "endTime": 639.444,
+    "text": "because we just fed it little pieces of black hole simulation images?"
+  },
+  {
+    "startTime": 639.469,
+    "endTime": 641.349,
+    "text": "Let's try another set of puzzle pieces"
+  },
+  {
+    "startTime": 641.373,
+    "endTime": 643.8820000000001,
+    "text": "from astronomical, non-black hole objects."
+  },
+  {
+    "startTime": 644.914,
+    "endTime": 647.4,
+    "text": "OK, we get a similar-looking image."
+  },
+  {
+    "startTime": 647.64,
+    "endTime": 649.3,
+    "text": "And then how about pieces from everyday images,"
+  },
+  {
+    "startTime": 649.324,
+    "endTime": 652.108,
+    "text": "like the images you take with your own personal camera?"
+  },
+  {
+    "startTime": 653.312,
+    "endTime": 655.427,
+    "text": "Great, we see the same image."
+  },
+  {
+    "startTime": 655.451,
+    "endTime": 658.817,
+    "text": "When we get the same image from all different sets of puzzle pieces,"
+  },
+  {
+    "startTime": 658.841,
+    "endTime": 660.8870000000001,
+    "text": "then we can start to become more confident"
+  },
+  {
+    "startTime": 660.911,
+    "endTime": 662.877,
+    "text": "that the image assumptions we're making"
+  },
+  {
+    "startTime": 662.901,
+    "endTime": 665.822,
+    "text": "aren't biasing the final image we get too much."
+  },
+  {
+    "startTime": 665.846,
+    "endTime": 669.99,
+    "text": "Another thing we can do is take the same set of puzzle pieces,"
+  },
+  {
+    "startTime": 669.123,
+    "endTime": 671.6120000000001,
+    "text": "such as the ones derived from everyday images,"
+  },
+  {
+    "startTime": 671.636,
+    "endTime": 675.236,
+    "text": "and use them to reconstruct many different kinds of source images."
+  },
+  {
+    "startTime": 675.26,
+    "endTime": 676.531,
+    "text": "So in our simulations,"
+  },
+  {
+    "startTime": 676.555,
+    "endTime": 680.329,
+    "text": "we pretend a black hole looks like astronomical non-black hole objects,"
+  },
+  {
+    "startTime": 680.354,
+    "endTime": 684.2030000000001,
+    "text": "as well as everyday images like the elephant in the center of our galaxy."
+  },
+  {
+    "startTime": 684.227,
+    "endTime": 687.395,
+    "text": "When the results of our algorithms on the bottom look very similar"
+  },
+  {
+    "startTime": 687.419,
+    "endTime": 689.515,
+    "text": "to the simulation's truth image on top,"
+  },
+  {
+    "startTime": 689.539,
+    "endTime": 692.885,
+    "text": "then we can start to become more confident in our algorithms."
+  },
+  {
+    "startTime": 692.909,
+    "endTime": 694.776,
+    "text": "And I really want to emphasize here"
+  },
+  {
+    "startTime": 694.8,
+    "endTime": 696.733,
+    "text": "that all of these pictures were created"
+  },
+  {
+    "startTime": 696.758,
+    "endTime": 699.6940000000001,
+    "text": "by piecing together little pieces of everyday photographs,"
+  },
+  {
+    "startTime": 699.718,
+    "endTime": 701.933,
+    "text": "like you'd take with your own personal camera."
+  },
+  {
+    "startTime": 701.957,
+    "endTime": 705.233,
+    "text": "So an image of a black hole we've never seen before"
+  },
+  {
+    "startTime": 705.257,
+    "endTime": 709.199,
+    "text": "may eventually be created by piecing together pictures we see all the time"
+  },
+  {
+    "startTime": 709.224,
+    "endTime": 711.969,
+    "text": "of people, buildings, trees, cats and dogs."
+  },
+  {
+    "startTime": 711.993,
+    "endTime": 714.638,
+    "text": "Imaging ideas like this will make it possible for us"
+  },
+  {
+    "startTime": 714.662,
+    "endTime": 717.2810000000001,
+    "text": "to take our very first pictures of a black hole,"
+  },
+  {
+    "startTime": 717.305,
+    "endTime": 719.752,
+    "text": "and hopefully, verify those famous theories"
+  },
+  {
+    "startTime": 719.776,
+    "endTime": 722.197,
+    "text": "on which scientists rely on a daily basis."
+  },
+  {
+    "startTime": 722.221,
+    "endTime": 724.829,
+    "text": "But of course, getting imaging ideas like this working"
+  },
+  {
+    "startTime": 724.853,
+    "endTime": 728.175,
+    "text": "would never have been possible without the amazing team of researchers"
+  },
+  {
+    "startTime": 728.199,
+    "endTime": 730.8499999999999,
+    "text": "that I have the privilege to work with."
+  },
+  {
+    "startTime": 730.11,
+    "endTime": 731.273,
+    "text": "It still amazes me"
+  },
+  {
+    "startTime": 731.297,
+    "endTime": 734.648,
+    "text": "that although I began this project with no background in astrophysics,"
+  },
+  {
+    "startTime": 734.672,
+    "endTime": 737.291,
+    "text": "what we have achieved through this unique collaboration"
+  },
+  {
+    "startTime": 737.315,
+    "endTime": 740.74,
+    "text": "could result in the very first images of a black hole."
+  },
+  {
+    "startTime": 740.98,
+    "endTime": 742.7950000000001,
+    "text": "But big projects like the Event Horizon Telescope"
+  },
+  {
+    "startTime": 742.82,
+    "endTime": 745.634,
+    "text": "are successful due to all the interdisciplinary expertise"
+  },
+  {
+    "startTime": 745.658,
+    "endTime": 747.448,
+    "text": "different people bring to the table."
+  },
+  {
+    "startTime": 747.472,
+    "endTime": 749.178,
+    "text": "We're a melting pot of astronomers,"
+  },
+  {
+    "startTime": 749.202,
+    "endTime": 751.434,
+    "text": "physicists, mathematicians and engineers."
+  },
+  {
+    "startTime": 751.458,
+    "endTime": 754.12,
+    "text": "This is what will make it soon possible"
+  },
+  {
+    "startTime": 754.36,
+    "endTime": 756.888,
+    "text": "to achieve something once thought impossible."
+  },
+  {
+    "startTime": 756.913,
+    "endTime": 759.169,
+    "text": "I'd like to encourage all of you to go out"
+  },
+  {
+    "startTime": 759.193,
+    "endTime": 761.289,
+    "text": "and help push the boundaries of science,"
+  },
+  {
+    "startTime": 761.313,
+    "endTime": 765.2139999999999,
+    "text": "even if it may at first seem as mysterious to you as a black hole."
+  },
+  {
+    "startTime": 765.238,
+    "endTime": 766.412,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 766.436,
+    "endTime": 768.8330000000001,
+    "text": "(Applause)"
+  }
+]

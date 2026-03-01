@@ -1,0 +1,1412 @@
+[
+  {
+    "startTime": 12.704,
+    "endTime": 15.467,
+    "text": "I'm going to be talking about statistics today."
+  },
+  {
+    "startTime": 15.491,
+    "endTime": 18.628,
+    "text": "If that makes you immediately feel a little bit wary, that's OK,"
+  },
+  {
+    "startTime": 18.653,
+    "endTime": 21.512,
+    "text": "that doesn't make you some kind of crazy conspiracy theorist,"
+  },
+  {
+    "startTime": 21.536,
+    "endTime": 22.832,
+    "text": "it makes you skeptical."
+  },
+  {
+    "startTime": 22.856,
+    "endTime": 26.742,
+    "text": "And when it comes to numbers, especially now, you should be skeptical."
+  },
+  {
+    "startTime": 26.766,
+    "endTime": 29.775999999999996,
+    "text": "But you should also be able to tell which numbers are reliable"
+  },
+  {
+    "startTime": 29.801,
+    "endTime": 30.961,
+    "text": "and which ones aren't."
+  },
+  {
+    "startTime": 30.985,
+    "endTime": 34.191,
+    "text": "So today I want to try to give you some tools to be able to do that."
+  },
+  {
+    "startTime": 34.215,
+    "endTime": 35.384,
+    "text": "But before I do,"
+  },
+  {
+    "startTime": 35.408,
+    "endTime": 38.247,
+    "text": "I just want to clarify which numbers I'm talking about here."
+  },
+  {
+    "startTime": 38.271,
+    "endTime": 39.906,
+    "text": "I'm not talking about claims like,"
+  },
+  {
+    "startTime": 39.93,
+    "endTime": 42.379,
+    "text": "\"9 out of 10 women recommend this anti-aging cream.\""
+  },
+  {
+    "startTime": 42.403,
+    "endTime": 45.375,
+    "text": "I think a lot of us always roll our eyes at numbers like that."
+  },
+  {
+    "startTime": 45.399,
+    "endTime": 48.383,
+    "text": "What's different now is people are questioning statistics like,"
+  },
+  {
+    "startTime": 48.407,
+    "endTime": 50.421,
+    "text": "\"The US unemployment rate is five percent.\""
+  },
+  {
+    "startTime": 50.445,
+    "endTime": 53.961,
+    "text": "What makes this claim different is it doesn't come from a private company,"
+  },
+  {
+    "startTime": 53.985,
+    "endTime": 55.373,
+    "text": "it comes from the government."
+  },
+  {
+    "startTime": 55.397,
+    "endTime": 58.733,
+    "text": "About 4 out of 10 Americans distrust the economic data"
+  },
+  {
+    "startTime": 58.757,
+    "endTime": 60.33,
+    "text": "that gets reported by government."
+  },
+  {
+    "startTime": 60.354,
+    "endTime": 62.845,
+    "text": "Among supporters of President Trump it's even higher;"
+  },
+  {
+    "startTime": 62.869,
+    "endTime": 64.501,
+    "text": "it's about 7 out of 10."
+  },
+  {
+    "startTime": 64.525,
+    "endTime": 66.33000000000001,
+    "text": "I don't need to tell anyone here"
+  },
+  {
+    "startTime": 66.354,
+    "endTime": 69.365,
+    "text": "that there are a lot of dividing lines in our society right now,"
+  },
+  {
+    "startTime": 69.389,
+    "endTime": 71.214,
+    "text": "and a lot of them start to make sense,"
+  },
+  {
+    "startTime": 71.238,
+    "endTime": 74.925,
+    "text": "once you understand people's relationships with these government numbers."
+  },
+  {
+    "startTime": 74.949,
+    "endTime": 78.285,
+    "text": "On the one hand, there are those who say these statistics are crucial,"
+  },
+  {
+    "startTime": 78.309,
+    "endTime": 80.939,
+    "text": "that we need them to make sense of society as a whole"
+  },
+  {
+    "startTime": 80.963,
+    "endTime": 83.127,
+    "text": "in order to move beyond emotional anecdotes"
+  },
+  {
+    "startTime": 83.151,
+    "endTime": 85.56099999999999,
+    "text": "and measure progress in an [objective] way."
+  },
+  {
+    "startTime": 85.585,
+    "endTime": 87.50999999999999,
+    "text": "And then there are the others,"
+  },
+  {
+    "startTime": 87.76,
+    "endTime": 89.232,
+    "text": "who say that these statistics are elitist,"
+  },
+  {
+    "startTime": 89.256,
+    "endTime": 90.464,
+    "text": "maybe even rigged;"
+  },
+  {
+    "startTime": 90.488,
+    "endTime": 92.882,
+    "text": "they don't make sense and they don't really reflect"
+  },
+  {
+    "startTime": 92.906,
+    "endTime": 95.20200000000001,
+    "text": "what's happening in people's everyday lives."
+  },
+  {
+    "startTime": 95.226,
+    "endTime": 98.713,
+    "text": "It kind of feels like that second group is winning the argument right now."
+  },
+  {
+    "startTime": 98.737,
+    "endTime": 100.845,
+    "text": "We're living in a world of alternative facts,"
+  },
+  {
+    "startTime": 100.869,
+    "endTime": 103.804,
+    "text": "where people don't find statistics this kind of common ground,"
+  },
+  {
+    "startTime": 103.828,
+    "endTime": 105.464,
+    "text": "this starting point for debate."
+  },
+  {
+    "startTime": 105.488,
+    "endTime": 106.774,
+    "text": "This is a problem."
+  },
+  {
+    "startTime": 106.798,
+    "endTime": 108.86500000000001,
+    "text": "There are actually moves in the US right now"
+  },
+  {
+    "startTime": 108.889,
+    "endTime": 111.75,
+    "text": "to get rid of some government statistics altogether."
+  },
+  {
+    "startTime": 111.774,
+    "endTime": 115.161,
+    "text": "Right now there's a bill in congress about measuring racial inequality."
+  },
+  {
+    "startTime": 115.185,
+    "endTime": 117.986,
+    "text": "The draft law says that government money should not be used"
+  },
+  {
+    "startTime": 118.1,
+    "endTime": 119.91199999999999,
+    "text": "to collect data on racial segregation."
+  },
+  {
+    "startTime": 119.936,
+    "endTime": 121.82100000000001,
+    "text": "This is a total disaster."
+  },
+  {
+    "startTime": 121.845,
+    "endTime": 123.593,
+    "text": "If we don't have this data,"
+  },
+  {
+    "startTime": 123.617,
+    "endTime": 125.39500000000001,
+    "text": "how can we observe discrimination,"
+  },
+  {
+    "startTime": 125.419,
+    "endTime": 126.697,
+    "text": "let alone fix it?"
+  },
+  {
+    "startTime": 126.721,
+    "endTime": 127.909,
+    "text": "In other words:"
+  },
+  {
+    "startTime": 127.933,
+    "endTime": 129.99200000000002,
+    "text": "How can a government create fair policies"
+  },
+  {
+    "startTime": 130.15,
+    "endTime": 132.786,
+    "text": "if they can't measure current levels of unfairness?"
+  },
+  {
+    "startTime": 132.811,
+    "endTime": 134.60500000000002,
+    "text": "This isn't just about discrimination,"
+  },
+  {
+    "startTime": 134.629,
+    "endTime": 136.298,
+    "text": "it's everything -- think about it."
+  },
+  {
+    "startTime": 136.323,
+    "endTime": 138.13,
+    "text": "How can we legislate on health care"
+  },
+  {
+    "startTime": 138.37,
+    "endTime": 140.308,
+    "text": "if we don't have good data on health or poverty?"
+  },
+  {
+    "startTime": 140.332,
+    "endTime": 142.53,
+    "text": "How can we have public debate about immigration"
+  },
+  {
+    "startTime": 142.554,
+    "endTime": 143.804,
+    "text": "if we can't at least agree"
+  },
+  {
+    "startTime": 143.828,
+    "endTime": 146.471,
+    "text": "on how many people are entering and leaving the country?"
+  },
+  {
+    "startTime": 146.495,
+    "endTime": 149.553,
+    "text": "Statistics come from the state; that's where they got their name."
+  },
+  {
+    "startTime": 149.577,
+    "endTime": 151.734,
+    "text": "The point was to better measure the population"
+  },
+  {
+    "startTime": 151.758,
+    "endTime": 153.115,
+    "text": "in order to better serve it."
+  },
+  {
+    "startTime": 153.139,
+    "endTime": 154.864,
+    "text": "So we need these government numbers,"
+  },
+  {
+    "startTime": 154.888,
+    "endTime": 157.535,
+    "text": "but we also have to move beyond either blindly accepting"
+  },
+  {
+    "startTime": 157.559,
+    "endTime": 158.827,
+    "text": "or blindly rejecting them."
+  },
+  {
+    "startTime": 158.851,
+    "endTime": 161.848,
+    "text": "We need to learn the skills to be able to spot bad statistics."
+  },
+  {
+    "startTime": 161.872,
+    "endTime": 163.4,
+    "text": "I started to learn some of these"
+  },
+  {
+    "startTime": 163.424,
+    "endTime": 165.59,
+    "text": "when I was working in a statistical department"
+  },
+  {
+    "startTime": 165.614,
+    "endTime": 167.257,
+    "text": "that's part of the United Nations."
+  },
+  {
+    "startTime": 167.281,
+    "endTime": 170.687,
+    "text": "Our job was to find out how many Iraqis had been forced from their homes"
+  },
+  {
+    "startTime": 170.711,
+    "endTime": 171.869,
+    "text": "as a result of the war,"
+  },
+  {
+    "startTime": 171.893,
+    "endTime": 173.51,
+    "text": "and what they needed."
+  },
+  {
+    "startTime": 173.75,
+    "endTime": 176.253,
+    "text": "It was really important work, but it was also incredibly difficult."
+  },
+  {
+    "startTime": 176.277,
+    "endTime": 178.295,
+    "text": "Every single day, we were making decisions"
+  },
+  {
+    "startTime": 178.319,
+    "endTime": 180.476,
+    "text": "that affected the accuracy of our numbers --"
+  },
+  {
+    "startTime": 180.5,
+    "endTime": 183.244,
+    "text": "decisions like which parts of the country we should go to,"
+  },
+  {
+    "startTime": 183.268,
+    "endTime": 184.424,
+    "text": "who we should speak to,"
+  },
+  {
+    "startTime": 184.448,
+    "endTime": 186.16,
+    "text": "which questions we should ask."
+  },
+  {
+    "startTime": 186.4,
+    "endTime": 188.72,
+    "text": "And I started to feel really disillusioned with our work,"
+  },
+  {
+    "startTime": 188.744,
+    "endTime": 191.262,
+    "text": "because we thought we were doing a really good job,"
+  },
+  {
+    "startTime": 191.286,
+    "endTime": 194.564,
+    "text": "but the one group of people who could really tell us were the Iraqis,"
+  },
+  {
+    "startTime": 194.588,
+    "endTime": 198.128,
+    "text": "and they rarely got the chance to find our analysis, let alone question it."
+  },
+  {
+    "startTime": 198.152,
+    "endTime": 199.982,
+    "text": "So I started to feel really determined"
+  },
+  {
+    "startTime": 200.7,
+    "endTime": 202.31799999999998,
+    "text": "that the one way to make numbers more accurate"
+  },
+  {
+    "startTime": 202.342,
+    "endTime": 205.395,
+    "text": "is to have as many people as possible be able to question them."
+  },
+  {
+    "startTime": 205.419,
+    "endTime": 206.853,
+    "text": "So I became a data journalist."
+  },
+  {
+    "startTime": 206.877,
+    "endTime": 210.781,
+    "text": "My job is finding these data sets and sharing them with the public."
+  },
+  {
+    "startTime": 210.805,
+    "endTime": 213.978,
+    "text": "Anyone can do this, you don't have to be a geek or a nerd."
+  },
+  {
+    "startTime": 214.2,
+    "endTime": 216.357,
+    "text": "You can ignore those words; they're used by people"
+  },
+  {
+    "startTime": 216.381,
+    "endTime": 219.203,
+    "text": "trying to say they're smart while pretending they're humble."
+  },
+  {
+    "startTime": 219.227,
+    "endTime": 220.816,
+    "text": "Absolutely anyone can do this."
+  },
+  {
+    "startTime": 220.84,
+    "endTime": 222.907,
+    "text": "I want to give you guys three questions"
+  },
+  {
+    "startTime": 222.931,
+    "endTime": 225.936,
+    "text": "that will help you be able to spot some bad statistics."
+  },
+  {
+    "startTime": 225.96,
+    "endTime": 229.467,
+    "text": "So, question number one is: Can you see uncertainty?"
+  },
+  {
+    "startTime": 229.491,
+    "endTime": 232.85500000000002,
+    "text": "One of things that's really changed people's relationship with numbers,"
+  },
+  {
+    "startTime": 232.879,
+    "endTime": 234.51899999999998,
+    "text": "and even their trust in the media,"
+  },
+  {
+    "startTime": 234.544,
+    "endTime": 236.80200000000002,
+    "text": "has been the use of political polls."
+  },
+  {
+    "startTime": 236.826,
+    "endTime": 239.364,
+    "text": "I personally have a lot of issues with political polls"
+  },
+  {
+    "startTime": 239.388,
+    "endTime": 242.764,
+    "text": "because I think the role of journalists is actually to report the facts"
+  },
+  {
+    "startTime": 242.788,
+    "endTime": 244.341,
+    "text": "and not attempt to predict them,"
+  },
+  {
+    "startTime": 244.365,
+    "endTime": 247.36100000000002,
+    "text": "especially when those predictions can actually damage democracy"
+  },
+  {
+    "startTime": 247.385,
+    "endTime": 250.117,
+    "text": "by signaling to people: don't bother to vote for that guy,"
+  },
+  {
+    "startTime": 250.141,
+    "endTime": 251.346,
+    "text": "he doesn't have a chance."
+  },
+  {
+    "startTime": 251.37,
+    "endTime": 255.24,
+    "text": "Let's set that aside for now and talk about the accuracy of this endeavor."
+  },
+  {
+    "startTime": 255.48,
+    "endTime": 259.656,
+    "text": "Based on national elections in the UK, Italy, Israel"
+  },
+  {
+    "startTime": 259.68,
+    "endTime": 262.444,
+    "text": "and of course, the most recent US presidential election,"
+  },
+  {
+    "startTime": 262.468,
+    "endTime": 264.605,
+    "text": "using polls to predict electoral outcomes"
+  },
+  {
+    "startTime": 264.629,
+    "endTime": 268.44100000000003,
+    "text": "is about as accurate as using the moon to predict hospital admissions."
+  },
+  {
+    "startTime": 268.465,
+    "endTime": 272.664,
+    "text": "No, seriously, I used actual data from an academic study to draw this."
+  },
+  {
+    "startTime": 272.689,
+    "endTime": 276.416,
+    "text": "There are a lot of reasons why polling has become so inaccurate."
+  },
+  {
+    "startTime": 276.44,
+    "endTime": 278.41,
+    "text": "Our societies have become really diverse,"
+  },
+  {
+    "startTime": 278.434,
+    "endTime": 282.25500000000005,
+    "text": "which makes it difficult for pollsters to get a really nice representative sample"
+  },
+  {
+    "startTime": 282.279,
+    "endTime": 283.906,
+    "text": "of the population for their polls."
+  },
+  {
+    "startTime": 283.93,
+    "endTime": 286.936,
+    "text": "People are really reluctant to answer their phones to pollsters,"
+  },
+  {
+    "startTime": 286.96,
+    "endTime": 289.236,
+    "text": "and also, shockingly enough, people might lie."
+  },
+  {
+    "startTime": 289.26,
+    "endTime": 292.7,
+    "text": "But you wouldn't necessarily know that to look at the media."
+  },
+  {
+    "startTime": 292.95,
+    "endTime": 294.856,
+    "text": "For one thing, the probability of a Hillary Clinton win"
+  },
+  {
+    "startTime": 294.88,
+    "endTime": 297.671,
+    "text": "was communicated with decimal places."
+  },
+  {
+    "startTime": 297.695,
+    "endTime": 300.316,
+    "text": "We don't use decimal places to describe the temperature."
+  },
+  {
+    "startTime": 300.34,
+    "endTime": 304.568,
+    "text": "How on earth can predicting the behavior of 230 million voters in this country"
+  },
+  {
+    "startTime": 304.592,
+    "endTime": 306.421,
+    "text": "be that precise?"
+  },
+  {
+    "startTime": 306.445,
+    "endTime": 308.447,
+    "text": "And then there were those sleek charts."
+  },
+  {
+    "startTime": 308.471,
+    "endTime": 312.444,
+    "text": "See, a lot of data visualizations will overstate certainty, and it works --"
+  },
+  {
+    "startTime": 312.468,
+    "endTime": 315.88,
+    "text": "these charts can numb our brains to criticism."
+  },
+  {
+    "startTime": 315.112,
+    "endTime": 317.67,
+    "text": "When you hear a statistic, you might feel skeptical."
+  },
+  {
+    "startTime": 317.694,
+    "endTime": 319.329,
+    "text": "As soon as it's buried in a chart,"
+  },
+  {
+    "startTime": 319.353,
+    "endTime": 321.482,
+    "text": "it feels like some kind of objective science,"
+  },
+  {
+    "startTime": 321.506,
+    "endTime": 322.755,
+    "text": "and it's not."
+  },
+  {
+    "startTime": 322.779,
+    "endTime": 325.882,
+    "text": "So I was trying to find ways to better communicate this to people,"
+  },
+  {
+    "startTime": 325.906,
+    "endTime": 328.41,
+    "text": "to show people the uncertainty in our numbers."
+  },
+  {
+    "startTime": 328.434,
+    "endTime": 330.68,
+    "text": "What I did was I started taking real data sets,"
+  },
+  {
+    "startTime": 330.704,
+    "endTime": 333.356,
+    "text": "and turning them into hand-drawn visualizations,"
+  },
+  {
+    "startTime": 333.38,
+    "endTime": 336.52,
+    "text": "so that people can see how imprecise the data is;"
+  },
+  {
+    "startTime": 336.76,
+    "endTime": 338.71999999999997,
+    "text": "so people can see that a human did this,"
+  },
+  {
+    "startTime": 338.96,
+    "endTime": 340.68,
+    "text": "a human found the data and visualized it."
+  },
+  {
+    "startTime": 340.92,
+    "endTime": 342.764,
+    "text": "For example, instead of finding out the probability"
+  },
+  {
+    "startTime": 342.788,
+    "endTime": 344.914,
+    "text": "of getting the flu in any given month,"
+  },
+  {
+    "startTime": 344.938,
+    "endTime": 347.729,
+    "text": "you can see the rough distribution of flu season."
+  },
+  {
+    "startTime": 347.754,
+    "endTime": 348.921,
+    "text": "This is --"
+  },
+  {
+    "startTime": 348.945,
+    "endTime": 349.962,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 349.987,
+    "endTime": 351.473,
+    "text": "a bad shot to show in February."
+  },
+  {
+    "startTime": 351.497,
+    "endTime": 353.952,
+    "text": "But it's also more responsible data visualization,"
+  },
+  {
+    "startTime": 353.976,
+    "endTime": 356.431,
+    "text": "because if you were to show the exact probabilities,"
+  },
+  {
+    "startTime": 356.455,
+    "endTime": 359.46,
+    "text": "maybe that would encourage people to get their flu jabs"
+  },
+  {
+    "startTime": 359.71,
+    "endTime": 360.527,
+    "text": "at the wrong time."
+  },
+  {
+    "startTime": 360.983,
+    "endTime": 362.676,
+    "text": "The point of these shaky lines"
+  },
+  {
+    "startTime": 362.7,
+    "endTime": 365.611,
+    "text": "is so that people remember these imprecisions,"
+  },
+  {
+    "startTime": 365.635,
+    "endTime": 368.861,
+    "text": "but also so they don't necessarily walk away with a specific number,"
+  },
+  {
+    "startTime": 368.886,
+    "endTime": 370.752,
+    "text": "but they can remember important facts."
+  },
+  {
+    "startTime": 370.776,
+    "endTime": 374.8,
+    "text": "Facts like injustice and inequality leave a huge mark on our lives."
+  },
+  {
+    "startTime": 374.824,
+    "endTime": 379.13,
+    "text": "Facts like Black Americans and Native Americans have shorter life expectancies"
+  },
+  {
+    "startTime": 379.37,
+    "endTime": 380.436,
+    "text": "than those of other races,"
+  },
+  {
+    "startTime": 380.461,
+    "endTime": 382.599,
+    "text": "and that isn't changing anytime soon."
+  },
+  {
+    "startTime": 382.623,
+    "endTime": 386.524,
+    "text": "Facts like prisoners in the US can be kept in solitary confinement cells"
+  },
+  {
+    "startTime": 386.548,
+    "endTime": 389.89,
+    "text": "that are smaller than the size of an average parking space."
+  },
+  {
+    "startTime": 390.355,
+    "endTime": 393.69,
+    "text": "The point of these visualizations is also to remind people"
+  },
+  {
+    "startTime": 393.714,
+    "endTime": 396.64,
+    "text": "of some really important statistical concepts,"
+  },
+  {
+    "startTime": 396.88,
+    "endTime": 397.724,
+    "text": "concepts like averages."
+  },
+  {
+    "startTime": 397.748,
+    "endTime": 399.416,
+    "text": "So let's say you hear a claim like,"
+  },
+  {
+    "startTime": 399.44,
+    "endTime": 403.874,
+    "text": "\"The average swimming pool in the US contains 6.23 fecal accidents.\""
+  },
+  {
+    "startTime": 403.898,
+    "endTime": 406.69500000000005,
+    "text": "That doesn't mean every single swimming pool in the country"
+  },
+  {
+    "startTime": 406.719,
+    "endTime": 408.913,
+    "text": "contains exactly 6.23 turds."
+  },
+  {
+    "startTime": 408.937,
+    "endTime": 410.354,
+    "text": "So in order to show that,"
+  },
+  {
+    "startTime": 410.378,
+    "endTime": 413.219,
+    "text": "I went back to the original data, which comes from the CDC,"
+  },
+  {
+    "startTime": 413.243,
+    "endTime": 415.308,
+    "text": "who surveyed 47 swimming facilities."
+  },
+  {
+    "startTime": 415.332,
+    "endTime": 417.723,
+    "text": "And I just spent one evening redistributing poop."
+  },
+  {
+    "startTime": 417.747,
+    "endTime": 420.42900000000003,
+    "text": "So you can kind of see how misleading averages can be."
+  },
+  {
+    "startTime": 420.453,
+    "endTime": 421.734,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 421.759,
+    "endTime": 425.66,
+    "text": "OK, so the second question that you guys should be asking yourselves"
+  },
+  {
+    "startTime": 425.684,
+    "endTime": 427.185,
+    "text": "to spot bad numbers is:"
+  },
+  {
+    "startTime": 427.209,
+    "endTime": 429.176,
+    "text": "Can I see myself in the data?"
+  },
+  {
+    "startTime": 429.2,
+    "endTime": 432.113,
+    "text": "This question is also about averages in a way,"
+  },
+  {
+    "startTime": 432.137,
+    "endTime": 434.742,
+    "text": "because part of the reason why people are so frustrated"
+  },
+  {
+    "startTime": 434.766,
+    "endTime": 436.261,
+    "text": "with these national statistics,"
+  },
+  {
+    "startTime": 436.285,
+    "endTime": 439.55800000000005,
+    "text": "is they don't really tell the story of who's winning and who's losing"
+  },
+  {
+    "startTime": 439.582,
+    "endTime": 440.738,
+    "text": "from national policy."
+  },
+  {
+    "startTime": 440.762,
+    "endTime": 444.8,
+    "text": "It's easy to understand why people are frustrated with global averages"
+  },
+  {
+    "startTime": 444.104,
+    "endTime": 446.782,
+    "text": "when they don't match up with their personal experiences."
+  },
+  {
+    "startTime": 446.807,
+    "endTime": 450.7,
+    "text": "I wanted to show people the way data relates to their everyday lives."
+  },
+  {
+    "startTime": 450.94,
+    "endTime": 452.34,
+    "text": "I started this advice column called \"Dear Mona,\""
+  },
+  {
+    "startTime": 452.364,
+    "endTime": 455.9,
+    "text": "where people would write to me with questions and concerns"
+  },
+  {
+    "startTime": 455.114,
+    "endTime": 456.897,
+    "text": "and I'd try to answer them with data."
+  },
+  {
+    "startTime": 456.922,
+    "endTime": 458.122,
+    "text": "People asked me anything."
+  },
+  {
+    "startTime": 458.146,
+    "endTime": 461.40700000000004,
+    "text": "questions like, \"Is it normal to sleep in a separate bed to my wife?\""
+  },
+  {
+    "startTime": 461.431,
+    "endTime": 463.21999999999997,
+    "text": "\"Do people regret their tattoos?\""
+  },
+  {
+    "startTime": 463.46,
+    "endTime": 465.21,
+    "text": "\"What does it mean to die of natural causes?\""
+  },
+  {
+    "startTime": 465.234,
+    "endTime": 468.2,
+    "text": "All of these questions are great, because they make you think"
+  },
+  {
+    "startTime": 468.224,
+    "endTime": 470.56,
+    "text": "about ways to find and communicate these numbers."
+  },
+  {
+    "startTime": 470.584,
+    "endTime": 473.87,
+    "text": "If someone asks you, \"How much pee is a lot of pee?\""
+  },
+  {
+    "startTime": 473.111,
+    "endTime": 475.569,
+    "text": "which is a question that I got asked,"
+  },
+  {
+    "startTime": 475.593,
+    "endTime": 478.57300000000004,
+    "text": "you really want to make sure that the visualization makes sense"
+  },
+  {
+    "startTime": 478.597,
+    "endTime": 480.344,
+    "text": "to as many people as possible."
+  },
+  {
+    "startTime": 480.368,
+    "endTime": 481.943,
+    "text": "These numbers aren't unavailable."
+  },
+  {
+    "startTime": 481.967,
+    "endTime": 485.474,
+    "text": "Sometimes they're just buried in the appendix of an academic study."
+  },
+  {
+    "startTime": 485.498,
+    "endTime": 487.337,
+    "text": "And they're certainly not inscrutable;"
+  },
+  {
+    "startTime": 487.361,
+    "endTime": 490.336,
+    "text": "if you really wanted to test these numbers on urination volume,"
+  },
+  {
+    "startTime": 490.36,
+    "endTime": 492.617,
+    "text": "you could grab a bottle and try it for yourself."
+  },
+  {
+    "startTime": 492.641,
+    "endTime": 493.649,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 493.673,
+    "endTime": 495.367,
+    "text": "The point of this isn't necessarily"
+  },
+  {
+    "startTime": 495.391,
+    "endTime": 498.26800000000003,
+    "text": "that every single data set has to relate specifically to you."
+  },
+  {
+    "startTime": 498.292,
+    "endTime": 501.171,
+    "text": "I'm interested in how many women were issued fines in France"
+  },
+  {
+    "startTime": 501.196,
+    "endTime": 503.15500000000003,
+    "text": "for wearing the face veil, or the niqab,"
+  },
+  {
+    "startTime": 503.179,
+    "endTime": 505.796,
+    "text": "even if I don't live in France or wear the face veil."
+  },
+  {
+    "startTime": 505.821,
+    "endTime": 509.656,
+    "text": "The point of asking where you fit in is to get as much context as possible."
+  },
+  {
+    "startTime": 509.68,
+    "endTime": 511.871,
+    "text": "So it's about zooming out from one data point,"
+  },
+  {
+    "startTime": 511.895,
+    "endTime": 513.999,
+    "text": "like the unemployment rate is five percent,"
+  },
+  {
+    "startTime": 514.23,
+    "endTime": 515.78,
+    "text": "and seeing how it changes over time,"
+  },
+  {
+    "startTime": 515.804,
+    "endTime": 518.453,
+    "text": "or seeing how it changes by educational status --"
+  },
+  {
+    "startTime": 518.477,
+    "endTime": 521.582,
+    "text": "this is why your parents always wanted you to go to college --"
+  },
+  {
+    "startTime": 521.606,
+    "endTime": 523.638,
+    "text": "or seeing how it varies by gender."
+  },
+  {
+    "startTime": 523.662,
+    "endTime": 525.789,
+    "text": "Nowadays, male unemployment rate is higher"
+  },
+  {
+    "startTime": 525.813,
+    "endTime": 527.513,
+    "text": "than the female unemployment rate."
+  },
+  {
+    "startTime": 527.537,
+    "endTime": 530.2320000000001,
+    "text": "Up until the early '80s, it was the other way around."
+  },
+  {
+    "startTime": 530.256,
+    "endTime": 532.372,
+    "text": "This is a story of one of the biggest changes"
+  },
+  {
+    "startTime": 532.397,
+    "endTime": 534.1170000000001,
+    "text": "that's happened in American society,"
+  },
+  {
+    "startTime": 534.141,
+    "endTime": 537.4159999999999,
+    "text": "and it's all there in that chart, once you look beyond the averages."
+  },
+  {
+    "startTime": 537.441,
+    "endTime": 538.606,
+    "text": "The axes are everything;"
+  },
+  {
+    "startTime": 538.63,
+    "endTime": 541.299,
+    "text": "once you change the scale, you can change the story."
+  },
+  {
+    "startTime": 541.323,
+    "endTime": 544.703,
+    "text": "OK, so the third and final question that I want you guys to think about"
+  },
+  {
+    "startTime": 544.727,
+    "endTime": 546.545,
+    "text": "when you're looking at statistics is:"
+  },
+  {
+    "startTime": 546.57,
+    "endTime": 548.4430000000001,
+    "text": "How was the data collected?"
+  },
+  {
+    "startTime": 549.487,
+    "endTime": 552.425,
+    "text": "So far, I've only talked about the way data is communicated,"
+  },
+  {
+    "startTime": 552.45,
+    "endTime": 554.726,
+    "text": "but the way it's collected matters just as much."
+  },
+  {
+    "startTime": 554.75,
+    "endTime": 555.917,
+    "text": "I know this is tough,"
+  },
+  {
+    "startTime": 555.941,
+    "endTime": 559.22,
+    "text": "because methodologies can be opaque and actually kind of boring,"
+  },
+  {
+    "startTime": 559.46,
+    "endTime": 561.919,
+    "text": "but there are some simple steps you can take to check this."
+  },
+  {
+    "startTime": 561.943,
+    "endTime": 563.782,
+    "text": "I'll use one last example here."
+  },
+  {
+    "startTime": 564.129,
+    "endTime": 568.16,
+    "text": "One poll found that 41 percent of Muslims in this country support jihad,"
+  },
+  {
+    "startTime": 568.4,
+    "endTime": 569.564,
+    "text": "which is obviously pretty scary,"
+  },
+  {
+    "startTime": 569.589,
+    "endTime": 572.2310000000001,
+    "text": "and it was reported everywhere in 2015."
+  },
+  {
+    "startTime": 572.255,
+    "endTime": 574.87,
+    "text": "When I want to check a number like that,"
+  },
+  {
+    "startTime": 574.894,
+    "endTime": 577.395,
+    "text": "I'll start off by finding the original questionnaire."
+  },
+  {
+    "startTime": 577.419,
+    "endTime": 580.345,
+    "text": "It turns out that journalists who reported on that statistic"
+  },
+  {
+    "startTime": 580.369,
+    "endTime": 582.6,
+    "text": "ignored a question lower down on the survey"
+  },
+  {
+    "startTime": 582.624,
+    "endTime": 584.97,
+    "text": "that asked respondents how they defined \"jihad.\""
+  },
+  {
+    "startTime": 584.994,
+    "endTime": 586.975,
+    "text": "And most of them defined it as,"
+  },
+  {
+    "startTime": 586.999,
+    "endTime": 590.941,
+    "text": "\"Muslims' personal, peaceful struggle to be more religious.\""
+  },
+  {
+    "startTime": 590.965,
+    "endTime": 595.159,
+    "text": "Only 16 percent defined it as, \"violent holy war against unbelievers.\""
+  },
+  {
+    "startTime": 595.183,
+    "endTime": 597.6129999999999,
+    "text": "This is the really important point:"
+  },
+  {
+    "startTime": 597.637,
+    "endTime": 599.7909999999999,
+    "text": "based on those numbers, it's totally possible"
+  },
+  {
+    "startTime": 599.816,
+    "endTime": 602.921,
+    "text": "that no one in the survey who defined it as violent holy war"
+  },
+  {
+    "startTime": 602.945,
+    "endTime": 604.277,
+    "text": "also said they support it."
+  },
+  {
+    "startTime": 604.301,
+    "endTime": 606.509,
+    "text": "Those two groups might not overlap at all."
+  },
+  {
+    "startTime": 606.942,
+    "endTime": 609.579,
+    "text": "It's also worth asking how the survey was carried out."
+  },
+  {
+    "startTime": 609.603,
+    "endTime": 611.601,
+    "text": "This was something called an opt-in poll,"
+  },
+  {
+    "startTime": 611.625,
+    "endTime": 615.27,
+    "text": "which means anyone could have found it on the internet and completed it."
+  },
+  {
+    "startTime": 615.51,
+    "endTime": 618.39,
+    "text": "There's no way of knowing if those people even identified as Muslim."
+  },
+  {
+    "startTime": 618.414,
+    "endTime": 621.26,
+    "text": "And finally, there were 600 respondents in that poll."
+  },
+  {
+    "startTime": 621.5,
+    "endTime": 623.704,
+    "text": "There are roughly three million Muslims in this country,"
+  },
+  {
+    "startTime": 623.728,
+    "endTime": 625.334,
+    "text": "according to Pew Research Center."
+  },
+  {
+    "startTime": 625.359,
+    "endTime": 628.3520000000001,
+    "text": "That means the poll spoke to roughly one in every 5,000 Muslims"
+  },
+  {
+    "startTime": 628.376,
+    "endTime": 629.544,
+    "text": "in this country."
+  },
+  {
+    "startTime": 629.568,
+    "endTime": 630.834,
+    "text": "This is one of the reasons"
+  },
+  {
+    "startTime": 630.858,
+    "endTime": 634.4639999999999,
+    "text": "why government statistics are often better than private statistics."
+  },
+  {
+    "startTime": 634.489,
+    "endTime": 637.524,
+    "text": "A poll might speak to a couple hundred people, maybe a thousand,"
+  },
+  {
+    "startTime": 637.548,
+    "endTime": 640.606,
+    "text": "or if you're L'Oreal, trying to sell skin care products in 2005,"
+  },
+  {
+    "startTime": 640.63,
+    "endTime": 643.47,
+    "text": "then you spoke to 48 women to claim that they work."
+  },
+  {
+    "startTime": 643.71,
+    "endTime": 644.97,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 644.121,
+    "endTime": 647.677,
+    "text": "Private companies don't have a huge interest in getting the numbers right,"
+  },
+  {
+    "startTime": 647.701,
+    "endTime": 649.456,
+    "text": "they just need the right numbers."
+  },
+  {
+    "startTime": 649.48,
+    "endTime": 651.5,
+    "text": "Government statisticians aren't like that."
+  },
+  {
+    "startTime": 651.524,
+    "endTime": 653.971,
+    "text": "In theory, at least, they're totally impartial,"
+  },
+  {
+    "startTime": 653.995,
+    "endTime": 657.496,
+    "text": "not least because most of them do their jobs regardless of who's in power."
+  },
+  {
+    "startTime": 657.52,
+    "endTime": 658.682,
+    "text": "They're civil servants."
+  },
+  {
+    "startTime": 658.706,
+    "endTime": 660.6700000000001,
+    "text": "And to do their jobs properly,"
+  },
+  {
+    "startTime": 660.694,
+    "endTime": 663.5699999999999,
+    "text": "they don't just speak to a couple hundred people."
+  },
+  {
+    "startTime": 663.81,
+    "endTime": 665.399,
+    "text": "Those unemployment numbers I keep on referencing"
+  },
+  {
+    "startTime": 665.423,
+    "endTime": 667.427,
+    "text": "come from the Bureau of Labor Statistics,"
+  },
+  {
+    "startTime": 667.451,
+    "endTime": 668.7860000000001,
+    "text": "and to make their estimates,"
+  },
+  {
+    "startTime": 668.81,
+    "endTime": 672.299,
+    "text": "they speak to over 140,000 businesses in this country."
+  },
+  {
+    "startTime": 672.323,
+    "endTime": 674.48,
+    "text": "I get it, it's frustrating."
+  },
+  {
+    "startTime": 674.72,
+    "endTime": 677.187,
+    "text": "If you want to test a statistic that comes from a private company,"
+  },
+  {
+    "startTime": 677.211,
+    "endTime": 680.572,
+    "text": "you can buy the face cream for you and a bunch of friends, test it out,"
+  },
+  {
+    "startTime": 680.596,
+    "endTime": 683.187,
+    "text": "if it doesn't work, you can say the numbers were wrong."
+  },
+  {
+    "startTime": 683.211,
+    "endTime": 685.357,
+    "text": "But how do you question government statistics?"
+  },
+  {
+    "startTime": 685.381,
+    "endTime": 687.11,
+    "text": "You just keep checking everything."
+  },
+  {
+    "startTime": 687.35,
+    "endTime": 688.948,
+    "text": "Find out how they collected the numbers."
+  },
+  {
+    "startTime": 688.972,
+    "endTime": 692.97,
+    "text": "Find out if you're seeing everything on the chart you need to see."
+  },
+  {
+    "startTime": 692.121,
+    "endTime": 695.86,
+    "text": "But don't give up on the numbers altogether, because if you do,"
+  },
+  {
+    "startTime": 695.11,
+    "endTime": 697.549,
+    "text": "we'll be making public policy decisions in the dark,"
+  },
+  {
+    "startTime": 697.573,
+    "endTime": 699.834,
+    "text": "using nothing but private interests to guide us."
+  },
+  {
+    "startTime": 699.859,
+    "endTime": 701.25,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 701.49,
+    "endTime": 703.51,
+    "text": "(Applause)"
+  }
+]

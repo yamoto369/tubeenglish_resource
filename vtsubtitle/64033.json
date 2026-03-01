@@ -1,0 +1,1792 @@
+[
+  {
+    "startTime": 12.54,
+    "endTime": 13.956,
+    "text": "Hi, I'm an engineer"
+  },
+  {
+    "startTime": 13.98,
+    "endTime": 15.956,
+    "text": "and I make robots."
+  },
+  {
+    "startTime": 15.98,
+    "endTime": 19.476,
+    "text": "Now, of course you all know what a robot is, right?"
+  },
+  {
+    "startTime": 19.5,
+    "endTime": 21.676000000000002,
+    "text": "If you don't, you'd probably go to Google,"
+  },
+  {
+    "startTime": 21.7,
+    "endTime": 23.556,
+    "text": "and you'd ask Google what a robot is."
+  },
+  {
+    "startTime": 23.58,
+    "endTime": 24.819,
+    "text": "So let's do that."
+  },
+  {
+    "startTime": 25.46,
+    "endTime": 28.196,
+    "text": "We'll go to Google and this is what we get."
+  },
+  {
+    "startTime": 28.22,
+    "endTime": 31.396,
+    "text": "Now, you can see here there are lots of different types of robots,"
+  },
+  {
+    "startTime": 31.42,
+    "endTime": 35.156,
+    "text": "but they're predominantly humanoid in structure."
+  },
+  {
+    "startTime": 35.18,
+    "endTime": 36.836,
+    "text": "And they look pretty conventional"
+  },
+  {
+    "startTime": 36.86,
+    "endTime": 39.316,
+    "text": "because they've got plastic, they've got metal,"
+  },
+  {
+    "startTime": 39.34,
+    "endTime": 41.636,
+    "text": "they've got motors and gears and so on."
+  },
+  {
+    "startTime": 41.66,
+    "endTime": 43.275,
+    "text": "Some of them look quite friendly,"
+  },
+  {
+    "startTime": 43.3,
+    "endTime": 45.355,
+    "text": "and you could go up and you could hug them."
+  },
+  {
+    "startTime": 45.38,
+    "endTime": 46.796,
+    "text": "Some of them not so friendly,"
+  },
+  {
+    "startTime": 46.82,
+    "endTime": 49.276,
+    "text": "they look like they're straight out of \"Terminator,\""
+  },
+  {
+    "startTime": 49.3,
+    "endTime": 51.836,
+    "text": "in fact they may well be straight out of \"Terminator.\""
+  },
+  {
+    "startTime": 51.86,
+    "endTime": 54.596,
+    "text": "You can do lots of really cool things with these robots --"
+  },
+  {
+    "startTime": 54.62,
+    "endTime": 56.236,
+    "text": "you can do really exciting stuff."
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 59.196,
+    "text": "But I'd like to look at different kinds of robots --"
+  },
+  {
+    "startTime": 59.22,
+    "endTime": 61.196,
+    "text": "I want to make different kinds of robots."
+  },
+  {
+    "startTime": 61.22,
+    "endTime": 64.635,
+    "text": "And I take inspiration from the things that don't look like us,"
+  },
+  {
+    "startTime": 64.66,
+    "endTime": 66.6,
+    "text": "but look like these."
+  },
+  {
+    "startTime": 66.5,
+    "endTime": 69.76,
+    "text": "So these are natural biological organisms"
+  },
+  {
+    "startTime": 69.1,
+    "endTime": 71.675,
+    "text": "and they do some really cool things that we can't,"
+  },
+  {
+    "startTime": 71.7,
+    "endTime": 74.196,
+    "text": "and current robots can't either."
+  },
+  {
+    "startTime": 74.22,
+    "endTime": 77.396,
+    "text": "They do all sorts of great things like moving around on the floor;"
+  },
+  {
+    "startTime": 77.42,
+    "endTime": 79.676,
+    "text": "they go into our gardens and they eat our crops;"
+  },
+  {
+    "startTime": 79.7,
+    "endTime": 80.956,
+    "text": "they climb trees;"
+  },
+  {
+    "startTime": 80.98,
+    "endTime": 83.196,
+    "text": "they go in water, they come out of water;"
+  },
+  {
+    "startTime": 83.22,
+    "endTime": 85.795,
+    "text": "they trap insects and digest them."
+  },
+  {
+    "startTime": 85.82,
+    "endTime": 87.636,
+    "text": "So they do really interesting things."
+  },
+  {
+    "startTime": 87.66,
+    "endTime": 91.36,
+    "text": "They live, they breathe, they die,"
+  },
+  {
+    "startTime": 91.6,
+    "endTime": 92.87599999999999,
+    "text": "they eat things from the environment."
+  },
+  {
+    "startTime": 92.9,
+    "endTime": 95.476,
+    "text": "Our current robots don't really do that."
+  },
+  {
+    "startTime": 95.5,
+    "endTime": 96.716,
+    "text": "Now, wouldn't it be great"
+  },
+  {
+    "startTime": 96.74,
+    "endTime": 100.396,
+    "text": "if you could use some of those characteristics in future robots"
+  },
+  {
+    "startTime": 100.42,
+    "endTime": 103.116,
+    "text": "so that you could solve some really interesting problems?"
+  },
+  {
+    "startTime": 103.14,
+    "endTime": 106.196,
+    "text": "I'm going to look at a couple of problems now in the environment"
+  },
+  {
+    "startTime": 106.22,
+    "endTime": 108.956,
+    "text": "where we can use the skills and the technologies"
+  },
+  {
+    "startTime": 108.98,
+    "endTime": 110.99600000000001,
+    "text": "derived from these animals"
+  },
+  {
+    "startTime": 111.2,
+    "endTime": 112.556,
+    "text": "and from the plants,"
+  },
+  {
+    "startTime": 112.58,
+    "endTime": 114.676,
+    "text": "and we can use them to solve those problems."
+  },
+  {
+    "startTime": 114.7,
+    "endTime": 117.60000000000001,
+    "text": "Let's have a look at two environmental problems."
+  },
+  {
+    "startTime": 117.78,
+    "endTime": 119.196,
+    "text": "They're both of our making --"
+  },
+  {
+    "startTime": 119.22,
+    "endTime": 121.676,
+    "text": "this is man interacting with the environment"
+  },
+  {
+    "startTime": 121.7,
+    "endTime": 124.76,
+    "text": "and doing some rather unpleasant things."
+  },
+  {
+    "startTime": 124.1,
+    "endTime": 127.74,
+    "text": "The first one is to do with the pressure of population."
+  },
+  {
+    "startTime": 128.259,
+    "endTime": 130.67499999999998,
+    "text": "Such is the pressure of population around the world"
+  },
+  {
+    "startTime": 130.699,
+    "endTime": 134.835,
+    "text": "that agriculture and farming is required to produce more and more crops."
+  },
+  {
+    "startTime": 134.86,
+    "endTime": 136.76000000000002,
+    "text": "Now, to do that,"
+  },
+  {
+    "startTime": 136.1,
+    "endTime": 138.476,
+    "text": "farmers put more and more chemicals onto the land."
+  },
+  {
+    "startTime": 138.5,
+    "endTime": 141.636,
+    "text": "They put on fertilizers, nitrates, pesticides --"
+  },
+  {
+    "startTime": 141.66,
+    "endTime": 145.35999999999999,
+    "text": "all sorts of things that encourage the growth of the crops,"
+  },
+  {
+    "startTime": 145.6,
+    "endTime": 147.196,
+    "text": "but there are some negative impacts."
+  },
+  {
+    "startTime": 147.22,
+    "endTime": 150.676,
+    "text": "One of the negative impacts is if you put lots of fertilizer on the land,"
+  },
+  {
+    "startTime": 150.7,
+    "endTime": 153.11599999999999,
+    "text": "not all of it goes into the crops."
+  },
+  {
+    "startTime": 153.14,
+    "endTime": 155.71499999999997,
+    "text": "Lots of it stays in the soil,"
+  },
+  {
+    "startTime": 155.74,
+    "endTime": 157.196,
+    "text": "and then when it rains,"
+  },
+  {
+    "startTime": 157.22,
+    "endTime": 159.716,
+    "text": "these chemicals go into the water table."
+  },
+  {
+    "startTime": 159.74,
+    "endTime": 160.996,
+    "text": "And in the water table,"
+  },
+  {
+    "startTime": 161.2,
+    "endTime": 164.516,
+    "text": "then they go into streams, into lakes, into rivers"
+  },
+  {
+    "startTime": 164.54,
+    "endTime": 165.739,
+    "text": "and into the sea."
+  },
+  {
+    "startTime": 166.22,
+    "endTime": 168.836,
+    "text": "Now, if you put all of these chemicals, these nitrates,"
+  },
+  {
+    "startTime": 168.86,
+    "endTime": 170.47600000000003,
+    "text": "into those kinds of environments,"
+  },
+  {
+    "startTime": 170.5,
+    "endTime": 174.276,
+    "text": "there are organisms in those environments that will be affected by that --"
+  },
+  {
+    "startTime": 174.3,
+    "endTime": 175.91600000000003,
+    "text": "algae, for example."
+  },
+  {
+    "startTime": 175.94,
+    "endTime": 178.476,
+    "text": "Algae loves nitrates, it loves fertilizer,"
+  },
+  {
+    "startTime": 178.5,
+    "endTime": 180.596,
+    "text": "so it will take in all these chemicals,"
+  },
+  {
+    "startTime": 180.62,
+    "endTime": 183.556,
+    "text": "and if the conditions are right, it will mass produce."
+  },
+  {
+    "startTime": 183.58,
+    "endTime": 185.836,
+    "text": "It will produce masses and masses of new algae."
+  },
+  {
+    "startTime": 185.86,
+    "endTime": 187.39600000000002,
+    "text": "That's called a bloom."
+  },
+  {
+    "startTime": 187.42,
+    "endTime": 190.595,
+    "text": "The trouble is that when algae reproduces like this,"
+  },
+  {
+    "startTime": 190.62,
+    "endTime": 192.86,
+    "text": "it starves the water of oxygen."
+  },
+  {
+    "startTime": 193.3,
+    "endTime": 194.556,
+    "text": "As soon as you do that,"
+  },
+  {
+    "startTime": 194.58,
+    "endTime": 197.5,
+    "text": "the other organisms in the water can't survive."
+  },
+  {
+    "startTime": 197.9,
+    "endTime": 199.916,
+    "text": "So, what do we do?"
+  },
+  {
+    "startTime": 199.94,
+    "endTime": 203.956,
+    "text": "We try to produce a robot that will eat the algae,"
+  },
+  {
+    "startTime": 203.98,
+    "endTime": 205.83499999999998,
+    "text": "consume it and make it safe."
+  },
+  {
+    "startTime": 205.86,
+    "endTime": 207.22000000000003,
+    "text": "So that's the first problem."
+  },
+  {
+    "startTime": 207.78,
+    "endTime": 210.276,
+    "text": "The second problem is also of our making,"
+  },
+  {
+    "startTime": 210.3,
+    "endTime": 212.18,
+    "text": "and it's to do with oil pollution."
+  },
+  {
+    "startTime": 212.62,
+    "endTime": 216.356,
+    "text": "Now, oil comes out of the engines that we use,"
+  },
+  {
+    "startTime": 216.38,
+    "endTime": 217.716,
+    "text": "the boats that we use."
+  },
+  {
+    "startTime": 217.74,
+    "endTime": 220.79600000000002,
+    "text": "Sometimes tankers flush their oil tanks into the sea,"
+  },
+  {
+    "startTime": 220.82,
+    "endTime": 223.76,
+    "text": "so oil is released into the sea that way."
+  },
+  {
+    "startTime": 223.1,
+    "endTime": 225.676,
+    "text": "Wouldn't it be nice if we could treat that in some way"
+  },
+  {
+    "startTime": 225.7,
+    "endTime": 230.42,
+    "text": "using robots that could eat the pollution the oil fields have produced?"
+  },
+  {
+    "startTime": 230.98,
+    "endTime": 232.596,
+    "text": "So that's what we do."
+  },
+  {
+    "startTime": 232.62,
+    "endTime": 235.22,
+    "text": "We make robots that will eat pollution."
+  },
+  {
+    "startTime": 235.7,
+    "endTime": 237.35999999999999,
+    "text": "To actually make the robot,"
+  },
+  {
+    "startTime": 237.6,
+    "endTime": 239.26,
+    "text": "we take inspiration from two organisms."
+  },
+  {
+    "startTime": 240.1,
+    "endTime": 242.236,
+    "text": "On the right there you see the basking shark."
+  },
+  {
+    "startTime": 242.26,
+    "endTime": 244.796,
+    "text": "The basking shark is a massive shark."
+  },
+  {
+    "startTime": 244.82,
+    "endTime": 247.396,
+    "text": "It's noncarnivorous, so you can swim with it,"
+  },
+  {
+    "startTime": 247.42,
+    "endTime": 248.875,
+    "text": "as you can see."
+  },
+  {
+    "startTime": 248.9,
+    "endTime": 250.756,
+    "text": "And the basking shark opens its mouth,"
+  },
+  {
+    "startTime": 250.78,
+    "endTime": 253.62,
+    "text": "and it swims through the water, collecting plankton."
+  },
+  {
+    "startTime": 254.7,
+    "endTime": 256.916,
+    "text": "As it does that, it digests the food,"
+  },
+  {
+    "startTime": 256.94,
+    "endTime": 260.459,
+    "text": "and then it uses that energy in its body to keep moving."
+  },
+  {
+    "startTime": 261.22,
+    "endTime": 263.76000000000005,
+    "text": "So, could we make a robot like that --"
+  },
+  {
+    "startTime": 263.1,
+    "endTime": 265.636,
+    "text": "like the basking shark that chugs through the water"
+  },
+  {
+    "startTime": 265.66,
+    "endTime": 267.20000000000005,
+    "text": "and eats up pollution?"
+  },
+  {
+    "startTime": 267.98,
+    "endTime": 269.716,
+    "text": "Well, let's see if we can do that."
+  },
+  {
+    "startTime": 269.74,
+    "endTime": 272.796,
+    "text": "But also, we take the inspiration from other organisms."
+  },
+  {
+    "startTime": 272.82,
+    "endTime": 274.876,
+    "text": "I've got a picture here of a water boatman,"
+  },
+  {
+    "startTime": 274.9,
+    "endTime": 276.715,
+    "text": "and the water boatman is really cute."
+  },
+  {
+    "startTime": 276.74,
+    "endTime": 278.31600000000003,
+    "text": "When it's swimming in the water,"
+  },
+  {
+    "startTime": 278.34,
+    "endTime": 280.82,
+    "text": "it uses its paddle-like legs to push itself forward."
+  },
+  {
+    "startTime": 281.42,
+    "endTime": 283.43600000000004,
+    "text": "So we take those two organisms"
+  },
+  {
+    "startTime": 283.46,
+    "endTime": 286.46,
+    "text": "and we combine them together to make a new kind of robot."
+  },
+  {
+    "startTime": 287.14,
+    "endTime": 290.316,
+    "text": "In fact, because we're using the water boatman as inspiration,"
+  },
+  {
+    "startTime": 290.34,
+    "endTime": 293.116,
+    "text": "and our robot sits on top of the water,"
+  },
+  {
+    "startTime": 293.14,
+    "endTime": 294.395,
+    "text": "and it rows,"
+  },
+  {
+    "startTime": 294.42,
+    "endTime": 296.636,
+    "text": "we call it the \"Row-bot.\""
+  },
+  {
+    "startTime": 296.66,
+    "endTime": 300.516,
+    "text": "So a Row-bot is a robot that rows."
+  },
+  {
+    "startTime": 300.54,
+    "endTime": 303.23600000000005,
+    "text": "OK. So what does it look like?"
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 304.996,
+    "text": "Here's some pictures of the Row-bot,"
+  },
+  {
+    "startTime": 305.2,
+    "endTime": 306.236,
+    "text": "and you'll see,"
+  },
+  {
+    "startTime": 306.26,
+    "endTime": 309.596,
+    "text": "it doesn't look anything like the robots we saw right at the beginning."
+  },
+  {
+    "startTime": 309.62,
+    "endTime": 311.75600000000003,
+    "text": "Google is wrong; robots don't look like that,"
+  },
+  {
+    "startTime": 311.78,
+    "endTime": 312.996,
+    "text": "they look like this."
+  },
+  {
+    "startTime": 313.2,
+    "endTime": 314.796,
+    "text": "So I've got the Row-bot here."
+  },
+  {
+    "startTime": 314.82,
+    "endTime": 316.236,
+    "text": "I'll just hold it up for you."
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 317.916,
+    "text": "It gives you a sense of the scale,"
+  },
+  {
+    "startTime": 317.94,
+    "endTime": 320.76,
+    "text": "and it doesn't look anything like the others."
+  },
+  {
+    "startTime": 320.1,
+    "endTime": 321.716,
+    "text": "OK, so it's made out of plastic,"
+  },
+  {
+    "startTime": 321.74,
+    "endTime": 323.796,
+    "text": "and we'll have a look now at the components"
+  },
+  {
+    "startTime": 323.82,
+    "endTime": 325.135,
+    "text": "that make up the Row-bot --"
+  },
+  {
+    "startTime": 325.16,
+    "endTime": 326.541,
+    "text": "what makes it really special."
+  },
+  {
+    "startTime": 327.58,
+    "endTime": 330.395,
+    "text": "The Row-bot is made up of three parts,"
+  },
+  {
+    "startTime": 330.42,
+    "endTime": 333.716,
+    "text": "and those three parts are really like the parts of any organism."
+  },
+  {
+    "startTime": 333.74,
+    "endTime": 335.396,
+    "text": "It's got a brain,"
+  },
+  {
+    "startTime": 335.42,
+    "endTime": 336.796,
+    "text": "it's got a body"
+  },
+  {
+    "startTime": 336.82,
+    "endTime": 339.116,
+    "text": "and it's got a stomach."
+  },
+  {
+    "startTime": 339.14,
+    "endTime": 341.556,
+    "text": "It needs the stomach to create the energy."
+  },
+  {
+    "startTime": 341.58,
+    "endTime": 343.796,
+    "text": "Any Row-bot will have those three components,"
+  },
+  {
+    "startTime": 343.82,
+    "endTime": 346.195,
+    "text": "and any organism will have those three components,"
+  },
+  {
+    "startTime": 346.22,
+    "endTime": 348.11600000000004,
+    "text": "so let's go through them one at a time."
+  },
+  {
+    "startTime": 348.14,
+    "endTime": 349.395,
+    "text": "It has a body,"
+  },
+  {
+    "startTime": 349.42,
+    "endTime": 351.196,
+    "text": "and its body is made out of plastic,"
+  },
+  {
+    "startTime": 351.22,
+    "endTime": 353.43600000000004,
+    "text": "and it sits on top of the water."
+  },
+  {
+    "startTime": 353.46,
+    "endTime": 356.395,
+    "text": "And it's got flippers on the side here --"
+  },
+  {
+    "startTime": 356.42,
+    "endTime": 357.916,
+    "text": "paddles that help it move,"
+  },
+  {
+    "startTime": 357.94,
+    "endTime": 359.3,
+    "text": "just like the water boatman."
+  },
+  {
+    "startTime": 360.2,
+    "endTime": 361.356,
+    "text": "It's got a plastic body,"
+  },
+  {
+    "startTime": 361.38,
+    "endTime": 364.236,
+    "text": "but it's got a soft rubber mouth here,"
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 366.156,
+    "text": "and a mouth here -- it's got two mouths."
+  },
+  {
+    "startTime": 366.18,
+    "endTime": 367.596,
+    "text": "Why does it have two mouths?"
+  },
+  {
+    "startTime": 367.62,
+    "endTime": 369.436,
+    "text": "One is to let the food go in"
+  },
+  {
+    "startTime": 369.46,
+    "endTime": 371.395,
+    "text": "and the other is to let the food go out."
+  },
+  {
+    "startTime": 371.42,
+    "endTime": 374.916,
+    "text": "So you can see really it's got a mouth and a derriere,"
+  },
+  {
+    "startTime": 374.94,
+    "endTime": 376.156,
+    "text": "or a --"
+  },
+  {
+    "startTime": 376.18,
+    "endTime": 377.196,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 377.22,
+    "endTime": 378.956,
+    "text": "something where the stuff comes out,"
+  },
+  {
+    "startTime": 378.98,
+    "endTime": 380.67600000000004,
+    "text": "which is just like a real organism."
+  },
+  {
+    "startTime": 380.7,
+    "endTime": 383.515,
+    "text": "So it's starting to look like that basking shark."
+  },
+  {
+    "startTime": 383.54,
+    "endTime": 384.916,
+    "text": "So that's the body."
+  },
+  {
+    "startTime": 384.94,
+    "endTime": 388.76,
+    "text": "The second component might be the stomach."
+  },
+  {
+    "startTime": 388.1,
+    "endTime": 391.99600000000004,
+    "text": "We need to get the energy into the robot and we need to treat the pollution,"
+  },
+  {
+    "startTime": 392.2,
+    "endTime": 393.556,
+    "text": "so the pollution goes in,"
+  },
+  {
+    "startTime": 393.58,
+    "endTime": 395.75,
+    "text": "and it will do something."
+  },
+  {
+    "startTime": 395.1,
+    "endTime": 398.67600000000004,
+    "text": "It's got a cell in the middle here called a microbial fuel cell."
+  },
+  {
+    "startTime": 398.7,
+    "endTime": 401.46,
+    "text": "I'll put this down, and I'll lift up the fuel cell."
+  },
+  {
+    "startTime": 402.2,
+    "endTime": 403.876,
+    "text": "Here. So instead of having batteries,"
+  },
+  {
+    "startTime": 403.9,
+    "endTime": 406.75,
+    "text": "instead of having a conventional power system,"
+  },
+  {
+    "startTime": 406.1,
+    "endTime": 407.356,
+    "text": "it's got one of these."
+  },
+  {
+    "startTime": 407.38,
+    "endTime": 408.635,
+    "text": "This is its stomach."
+  },
+  {
+    "startTime": 408.66,
+    "endTime": 409.916,
+    "text": "And it really is a stomach"
+  },
+  {
+    "startTime": 409.94,
+    "endTime": 413.356,
+    "text": "because you can put energy in this side in the form of pollution,"
+  },
+  {
+    "startTime": 413.38,
+    "endTime": 415.36,
+    "text": "and it creates electricity."
+  },
+  {
+    "startTime": 415.6,
+    "endTime": 416.276,
+    "text": "So what is it?"
+  },
+  {
+    "startTime": 416.3,
+    "endTime": 417.956,
+    "text": "It's called a microbial fuel cell."
+  },
+  {
+    "startTime": 417.98,
+    "endTime": 420.76,
+    "text": "It's a little bit like a chemical fuel cell,"
+  },
+  {
+    "startTime": 420.1,
+    "endTime": 422.11600000000004,
+    "text": "which you might have come across in school,"
+  },
+  {
+    "startTime": 422.14,
+    "endTime": 423.756,
+    "text": "or you might've seen in the news."
+  },
+  {
+    "startTime": 423.78,
+    "endTime": 425.916,
+    "text": "Chemical fuel cells take hydrogen and oxygen,"
+  },
+  {
+    "startTime": 425.94,
+    "endTime": 428.756,
+    "text": "and they can combine them together and you get electricity."
+  },
+  {
+    "startTime": 428.78,
+    "endTime": 432.195,
+    "text": "That's well-established technology; it was in the Apollo space missions."
+  },
+  {
+    "startTime": 432.22,
+    "endTime": 433.70000000000005,
+    "text": "That's from 40, 50 years ago."
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 435.515,
+    "text": "This is slightly newer."
+  },
+  {
+    "startTime": 435.54,
+    "endTime": 436.99600000000004,
+    "text": "This is a microbial fuel cell."
+  },
+  {
+    "startTime": 437.2,
+    "endTime": 438.275,
+    "text": "It's the same principle:"
+  },
+  {
+    "startTime": 438.3,
+    "endTime": 439.716,
+    "text": "it's got oxygen on one side,"
+  },
+  {
+    "startTime": 439.74,
+    "endTime": 441.836,
+    "text": "but instead of having hydrogen on the other,"
+  },
+  {
+    "startTime": 441.86,
+    "endTime": 443.156,
+    "text": "it's got some soup,"
+  },
+  {
+    "startTime": 443.18,
+    "endTime": 445.996,
+    "text": "and inside that soup there are living microbes."
+  },
+  {
+    "startTime": 446.2,
+    "endTime": 448.716,
+    "text": "Now, if you take some organic material --"
+  },
+  {
+    "startTime": 448.74,
+    "endTime": 451.76,
+    "text": "could be some waste products, some food,"
+  },
+  {
+    "startTime": 451.1,
+    "endTime": 452.596,
+    "text": "maybe a bit of your sandwich --"
+  },
+  {
+    "startTime": 452.62,
+    "endTime": 455.436,
+    "text": "you put it in there, the microbes will eat that food,"
+  },
+  {
+    "startTime": 455.46,
+    "endTime": 457.34,
+    "text": "and they will turn it into electricity."
+  },
+  {
+    "startTime": 458.22,
+    "endTime": 461.716,
+    "text": "Not only that, but if you select the right kind of microbes,"
+  },
+  {
+    "startTime": 461.74,
+    "endTime": 465.5,
+    "text": "you can use the microbial fuel cell to treat some of the pollution."
+  },
+  {
+    "startTime": 466.22,
+    "endTime": 467.836,
+    "text": "If you choose the right microbes,"
+  },
+  {
+    "startTime": 467.86,
+    "endTime": 470.476,
+    "text": "the microbes will eat the algae."
+  },
+  {
+    "startTime": 470.5,
+    "endTime": 472.836,
+    "text": "If you use other kinds of microbes,"
+  },
+  {
+    "startTime": 472.86,
+    "endTime": 476.38,
+    "text": "they will eat petroleum spirits and crude oil."
+  },
+  {
+    "startTime": 476.78,
+    "endTime": 479.476,
+    "text": "So you can see how this stomach could be used"
+  },
+  {
+    "startTime": 479.5,
+    "endTime": 482.756,
+    "text": "to not only treat the pollution"
+  },
+  {
+    "startTime": 482.78,
+    "endTime": 485.58,
+    "text": "but also to generate electricity from the pollution."
+  },
+  {
+    "startTime": 486.22,
+    "endTime": 488.99600000000004,
+    "text": "So the robot will move through the environment,"
+  },
+  {
+    "startTime": 489.2,
+    "endTime": 491.116,
+    "text": "taking food into its stomach,"
+  },
+  {
+    "startTime": 491.14,
+    "endTime": 493.635,
+    "text": "digest the food, create electricity,"
+  },
+  {
+    "startTime": 493.66,
+    "endTime": 496.156,
+    "text": "use that electricity to move through the environment"
+  },
+  {
+    "startTime": 496.18,
+    "endTime": 497.396,
+    "text": "and keep doing this."
+  },
+  {
+    "startTime": 497.42,
+    "endTime": 500.956,
+    "text": "OK, so let's see what happens when we run the Row-bot --"
+  },
+  {
+    "startTime": 500.98,
+    "endTime": 502.356,
+    "text": "when it does some rowing."
+  },
+  {
+    "startTime": 502.38,
+    "endTime": 504.36,
+    "text": "Here we've got a couple of videos,"
+  },
+  {
+    "startTime": 504.6,
+    "endTime": 506.716,
+    "text": "the first thing you'll see -- hopefully you can see here"
+  },
+  {
+    "startTime": 506.74,
+    "endTime": 508.36,
+    "text": "is the mouth open."
+  },
+  {
+    "startTime": 508.6,
+    "endTime": 511.76000000000005,
+    "text": "The front mouth and the bottom mouth open,"
+  },
+  {
+    "startTime": 511.1,
+    "endTime": 512.635,
+    "text": "and it will stay opened enough,"
+  },
+  {
+    "startTime": 512.659,
+    "endTime": 514.675,
+    "text": "then the robot will start to row forward."
+  },
+  {
+    "startTime": 514.7,
+    "endTime": 515.956,
+    "text": "It moves through the water"
+  },
+  {
+    "startTime": 515.98,
+    "endTime": 519.76,
+    "text": "so that food goes in as the waste products go out."
+  },
+  {
+    "startTime": 519.1,
+    "endTime": 520.356,
+    "text": "Once it's moved enough,"
+  },
+  {
+    "startTime": 520.38,
+    "endTime": 523.316,
+    "text": "it stops and then it closes the mouth --"
+  },
+  {
+    "startTime": 523.34,
+    "endTime": 525.7560000000001,
+    "text": "slowly closes the mouths --"
+  },
+  {
+    "startTime": 525.78,
+    "endTime": 527.435,
+    "text": "and then it will sit there,"
+  },
+  {
+    "startTime": 527.46,
+    "endTime": 529.1,
+    "text": "and it will digest the food."
+  },
+  {
+    "startTime": 529.82,
+    "endTime": 532.5160000000001,
+    "text": "Of course these microbial fuel cells,"
+  },
+  {
+    "startTime": 532.54,
+    "endTime": 533.795,
+    "text": "they contain microbes."
+  },
+  {
+    "startTime": 533.82,
+    "endTime": 535.676,
+    "text": "What you really want is lots of energy"
+  },
+  {
+    "startTime": 535.7,
+    "endTime": 538.316,
+    "text": "coming out of those microbes as quickly as possible."
+  },
+  {
+    "startTime": 538.34,
+    "endTime": 539.916,
+    "text": "But we can't force the microbes"
+  },
+  {
+    "startTime": 539.94,
+    "endTime": 542.956,
+    "text": "and they generate a small amount of electricity per second."
+  },
+  {
+    "startTime": 542.98,
+    "endTime": 546.236,
+    "text": "They generate milliwatts, or microwatts."
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 548.116,
+    "text": "Let's put that into context."
+  },
+  {
+    "startTime": 548.14,
+    "endTime": 549.675,
+    "text": "Your mobile phone for example,"
+  },
+  {
+    "startTime": 549.7,
+    "endTime": 551.76,
+    "text": "one of these modern ones,"
+  },
+  {
+    "startTime": 551.1,
+    "endTime": 553.316,
+    "text": "if you use it, it takes about one watt."
+  },
+  {
+    "startTime": 553.34,
+    "endTime": 557.1560000000001,
+    "text": "So that's a thousand or a million times as much energy that that uses"
+  },
+  {
+    "startTime": 557.18,
+    "endTime": 559.14,
+    "text": "compared to the microbial fuel cell."
+  },
+  {
+    "startTime": 559.82,
+    "endTime": 561.3960000000001,
+    "text": "How can we cope with that?"
+  },
+  {
+    "startTime": 561.42,
+    "endTime": 564.276,
+    "text": "Well, when the Row-bot has done its digestion,"
+  },
+  {
+    "startTime": 564.3,
+    "endTime": 565.756,
+    "text": "when it's taken the food in,"
+  },
+  {
+    "startTime": 565.78,
+    "endTime": 569.3149999999999,
+    "text": "it will sit there and it will wait until it has consumed all that food."
+  },
+  {
+    "startTime": 569.34,
+    "endTime": 572.556,
+    "text": "That could take some hours, it could take some days."
+  },
+  {
+    "startTime": 572.58,
+    "endTime": 576.2760000000001,
+    "text": "A typical cycle for the Row-bot looks like this:"
+  },
+  {
+    "startTime": 576.3,
+    "endTime": 577.555,
+    "text": "you open your mouth,"
+  },
+  {
+    "startTime": 577.58,
+    "endTime": 578.836,
+    "text": "you move,"
+  },
+  {
+    "startTime": 578.86,
+    "endTime": 580.116,
+    "text": "you close your mouth"
+  },
+  {
+    "startTime": 580.14,
+    "endTime": 581.996,
+    "text": "and you sit there for a while waiting."
+  },
+  {
+    "startTime": 582.2,
+    "endTime": 583.3960000000001,
+    "text": "Once you digest your food,"
+  },
+  {
+    "startTime": 583.42,
+    "endTime": 586.236,
+    "text": "then you can go about doing the same thing again."
+  },
+  {
+    "startTime": 586.26,
+    "endTime": 589.236,
+    "text": "But you know what, that looks like a real organism, doesn't it?"
+  },
+  {
+    "startTime": 589.26,
+    "endTime": 591.116,
+    "text": "It looks like the kind of thing we do."
+  },
+  {
+    "startTime": 591.14,
+    "endTime": 593.196,
+    "text": "Saturday night, we go out, open our mouths,"
+  },
+  {
+    "startTime": 593.22,
+    "endTime": 594.756,
+    "text": "fill our stomachs,"
+  },
+  {
+    "startTime": 594.78,
+    "endTime": 597.716,
+    "text": "sit in front of the telly and digest."
+  },
+  {
+    "startTime": 597.74,
+    "endTime": 600.116,
+    "text": "When we've had enough, we do the same thing again."
+  },
+  {
+    "startTime": 600.14,
+    "endTime": 602.996,
+    "text": "OK, if we're lucky with this cycle,"
+  },
+  {
+    "startTime": 603.2,
+    "endTime": 606.5550000000001,
+    "text": "at the end of the cycle we'll have enough energy left over"
+  },
+  {
+    "startTime": 606.58,
+    "endTime": 608.716,
+    "text": "for us to be able to do something else."
+  },
+  {
+    "startTime": 608.74,
+    "endTime": 610.756,
+    "text": "We could send a message, for example."
+  },
+  {
+    "startTime": 610.78,
+    "endTime": 612.276,
+    "text": "We could send a message saying,"
+  },
+  {
+    "startTime": 612.3,
+    "endTime": 614.636,
+    "text": "\"This is how much pollution I've eaten recently,\""
+  },
+  {
+    "startTime": 614.66,
+    "endTime": 617.236,
+    "text": "or, \"This is the kind of stuff that I've encountered,\""
+  },
+  {
+    "startTime": 617.26,
+    "endTime": 618.939,
+    "text": "or, \"This is where I am.\""
+  },
+  {
+    "startTime": 619.62,
+    "endTime": 622.876,
+    "text": "That ability to send a message saying, \"This is where I am,\""
+  },
+  {
+    "startTime": 622.9,
+    "endTime": 624.836,
+    "text": "is really, really important."
+  },
+  {
+    "startTime": 624.86,
+    "endTime": 627.356,
+    "text": "If you think about the oil slicks that we saw before,"
+  },
+  {
+    "startTime": 627.38,
+    "endTime": 628.836,
+    "text": "or those massive algal blooms,"
+  },
+  {
+    "startTime": 628.86,
+    "endTime": 631.556,
+    "text": "what you really want to do is put your Row-bot out there,"
+  },
+  {
+    "startTime": 631.58,
+    "endTime": 633.556,
+    "text": "and it eats up all of those pollutions,"
+  },
+  {
+    "startTime": 633.58,
+    "endTime": 635.7560000000001,
+    "text": "and then you have to go collect them."
+  },
+  {
+    "startTime": 635.78,
+    "endTime": 636.996,
+    "text": "Why?"
+  },
+  {
+    "startTime": 637.2,
+    "endTime": 638.836,
+    "text": "Because these Row-bots at the moment,"
+  },
+  {
+    "startTime": 638.86,
+    "endTime": 640.196,
+    "text": "this Row-bot I've got here,"
+  },
+  {
+    "startTime": 640.22,
+    "endTime": 642.76,
+    "text": "it contains motors, it contains wires,"
+  },
+  {
+    "startTime": 642.1,
+    "endTime": 645.556,
+    "text": "it contains components which themselves are not biodegradable."
+  },
+  {
+    "startTime": 645.58,
+    "endTime": 648.316,
+    "text": "Current Row-bots contain things like toxic batteries."
+  },
+  {
+    "startTime": 648.34,
+    "endTime": 650.316,
+    "text": "You can't leave those in the environment,"
+  },
+  {
+    "startTime": 650.34,
+    "endTime": 651.836,
+    "text": "so you need to track them,"
+  },
+  {
+    "startTime": 651.86,
+    "endTime": 654.196,
+    "text": "and then when they've finished their job of work,"
+  },
+  {
+    "startTime": 654.22,
+    "endTime": 655.476,
+    "text": "you need to collect them."
+  },
+  {
+    "startTime": 655.5,
+    "endTime": 657.836,
+    "text": "That limits the number of Row-bots you can use."
+  },
+  {
+    "startTime": 657.86,
+    "endTime": 659.116,
+    "text": "If, on the other hand,"
+  },
+  {
+    "startTime": 659.14,
+    "endTime": 662.276,
+    "text": "you have robot a little bit like a biological organism,"
+  },
+  {
+    "startTime": 662.3,
+    "endTime": 664.396,
+    "text": "when it comes to the end of its life,"
+  },
+  {
+    "startTime": 664.42,
+    "endTime": 666.876,
+    "text": "it dies and it degrades to nothing."
+  },
+  {
+    "startTime": 666.9,
+    "endTime": 669.236,
+    "text": "So wouldn't it be nice if these robots,"
+  },
+  {
+    "startTime": 669.26,
+    "endTime": 671.499,
+    "text": "instead of being like this, made out of plastic,"
+  },
+  {
+    "startTime": 671.523,
+    "endTime": 673.116,
+    "text": "were made out of other materials,"
+  },
+  {
+    "startTime": 673.14,
+    "endTime": 674.876,
+    "text": "which when you throw them out there,"
+  },
+  {
+    "startTime": 674.9,
+    "endTime": 676.236,
+    "text": "they biodegrade to nothing?"
+  },
+  {
+    "startTime": 676.26,
+    "endTime": 678.356,
+    "text": "That changes the way in which we use robots."
+  },
+  {
+    "startTime": 678.38,
+    "endTime": 681.756,
+    "text": "Instead of putting 10 or 100 out into the environment,"
+  },
+  {
+    "startTime": 681.78,
+    "endTime": 683.36,
+    "text": "having to track them,"
+  },
+  {
+    "startTime": 683.6,
+    "endTime": 684.3960000000001,
+    "text": "and then when they die,"
+  },
+  {
+    "startTime": 684.42,
+    "endTime": 685.636,
+    "text": "collect them,"
+  },
+  {
+    "startTime": 685.66,
+    "endTime": 687.356,
+    "text": "you could put a thousand,"
+  },
+  {
+    "startTime": 687.38,
+    "endTime": 690.116,
+    "text": "a million, a billion robots into the environment."
+  },
+  {
+    "startTime": 690.14,
+    "endTime": 691.956,
+    "text": "Just spread them around."
+  },
+  {
+    "startTime": 691.98,
+    "endTime": 695.596,
+    "text": "You know that at the end of their lives, they're going to degrade to nothing."
+  },
+  {
+    "startTime": 695.62,
+    "endTime": 697.316,
+    "text": "You don't need to worry about them."
+  },
+  {
+    "startTime": 697.34,
+    "endTime": 699.956,
+    "text": "So that changes the way in which you think about robots"
+  },
+  {
+    "startTime": 699.98,
+    "endTime": 701.356,
+    "text": "and the way you deploy them."
+  },
+  {
+    "startTime": 701.38,
+    "endTime": 703.236,
+    "text": "Then the question is: Can you do this?"
+  },
+  {
+    "startTime": 703.26,
+    "endTime": 705.436,
+    "text": "Well, yes, we have shown that you can do this."
+  },
+  {
+    "startTime": 705.46,
+    "endTime": 707.556,
+    "text": "You can make robots which are biodegradable."
+  },
+  {
+    "startTime": 707.58,
+    "endTime": 710.436,
+    "text": "What's really interesting is you can use household materials"
+  },
+  {
+    "startTime": 710.46,
+    "endTime": 712.1560000000001,
+    "text": "to make these biodegradable robots."
+  },
+  {
+    "startTime": 712.18,
+    "endTime": 714.756,
+    "text": "I'll show you some; you might be surprised."
+  },
+  {
+    "startTime": 714.78,
+    "endTime": 717.675,
+    "text": "You can make a robot out of jelly."
+  },
+  {
+    "startTime": 717.7,
+    "endTime": 720.476,
+    "text": "Instead of having a motor, which we have at the moment,"
+  },
+  {
+    "startTime": 720.5,
+    "endTime": 722.956,
+    "text": "you can make things called artificial muscles."
+  },
+  {
+    "startTime": 722.98,
+    "endTime": 725.2760000000001,
+    "text": "Artificial muscles are smart materials,"
+  },
+  {
+    "startTime": 725.3,
+    "endTime": 726.756,
+    "text": "you apply electricity to them,"
+  },
+  {
+    "startTime": 726.78,
+    "endTime": 728.956,
+    "text": "and they contract, or they bend or they twist."
+  },
+  {
+    "startTime": 728.98,
+    "endTime": 731.196,
+    "text": "They look like real muscles."
+  },
+  {
+    "startTime": 731.22,
+    "endTime": 734.22,
+    "text": "So instead of having a motor, you have these artificial muscles."
+  },
+  {
+    "startTime": 734.244,
+    "endTime": 737.76,
+    "text": "And you can make artificial muscles out of jelly."
+  },
+  {
+    "startTime": 737.1,
+    "endTime": 739.36,
+    "text": "If you take some jelly and some salts,"
+  },
+  {
+    "startTime": 739.6,
+    "endTime": 740.636,
+    "text": "and do a bit of jiggery-pokery,"
+  },
+  {
+    "startTime": 740.66,
+    "endTime": 742.435,
+    "text": "you can make an artificial muscle."
+  },
+  {
+    "startTime": 742.46,
+    "endTime": 746.36,
+    "text": "We've also shown you can make the microbial fuel cell's stomach"
+  },
+  {
+    "startTime": 746.6,
+    "endTime": 747.476,
+    "text": "out of paper."
+  },
+  {
+    "startTime": 747.5,
+    "endTime": 750.98,
+    "text": "So you could make the whole robot out of biodegradable materials."
+  },
+  {
+    "startTime": 751.3,
+    "endTime": 754.18,
+    "text": "You throw them out there, and they degrade to nothing."
+  },
+  {
+    "startTime": 755.42,
+    "endTime": 757.276,
+    "text": "Well, this is really, really exciting."
+  },
+  {
+    "startTime": 757.3,
+    "endTime": 760.491,
+    "text": "It's going to totally change the way in which we think about robots,"
+  },
+  {
+    "startTime": 760.515,
+    "endTime": 762.756,
+    "text": "but also it allows you to be really creative"
+  },
+  {
+    "startTime": 762.78,
+    "endTime": 766.116,
+    "text": "in the way in which you think about what you can do with these robots."
+  },
+  {
+    "startTime": 766.14,
+    "endTime": 767.396,
+    "text": "I'll give you an example."
+  },
+  {
+    "startTime": 767.42,
+    "endTime": 769.996,
+    "text": "If you can use jelly to make a robot --"
+  },
+  {
+    "startTime": 770.2,
+    "endTime": 771.9150000000001,
+    "text": "now, we eat jelly, right?"
+  },
+  {
+    "startTime": 771.94,
+    "endTime": 774.436,
+    "text": "So, why not make something like this?"
+  },
+  {
+    "startTime": 774.46,
+    "endTime": 775.86,
+    "text": "A robot gummy bear."
+  },
+  {
+    "startTime": 776.94,
+    "endTime": 779.716,
+    "text": "Here, I've got some I prepared earlier."
+  },
+  {
+    "startTime": 779.74,
+    "endTime": 781.34,
+    "text": "There we go. I've got a packet --"
+  },
+  {
+    "startTime": 782.38,
+    "endTime": 784.26,
+    "text": "and I've got a lemon-flavored one."
+  },
+  {
+    "startTime": 785.42,
+    "endTime": 788.156,
+    "text": "I'll take this gummy bear -- he's not robotic, OK?"
+  },
+  {
+    "startTime": 788.18,
+    "endTime": 789.396,
+    "text": "We have to pretend."
+  },
+  {
+    "startTime": 789.42,
+    "endTime": 792.435,
+    "text": "And what you do with one of these is you put it in your mouth --"
+  },
+  {
+    "startTime": 792.46,
+    "endTime": 793.7,
+    "text": "the lemon's quite nice."
+  },
+  {
+    "startTime": 794.54,
+    "endTime": 797.444,
+    "text": "Try not to chew it too much, it's a robot, it may not like it."
+  },
+  {
+    "startTime": 798.66,
+    "endTime": 800.876,
+    "text": "And then you swallow it."
+  },
+  {
+    "startTime": 800.9,
+    "endTime": 802.596,
+    "text": "And then it goes into your stomach."
+  },
+  {
+    "startTime": 802.62,
+    "endTime": 806.436,
+    "text": "And when it's inside your stomach, it moves, it thinks, it twists, it bends,"
+  },
+  {
+    "startTime": 806.46,
+    "endTime": 807.676,
+    "text": "it does something."
+  },
+  {
+    "startTime": 807.7,
+    "endTime": 809.8760000000001,
+    "text": "It could go further down into your intestines,"
+  },
+  {
+    "startTime": 809.9,
+    "endTime": 812.236,
+    "text": "find out whether you've got some ulcer or cancer,"
+  },
+  {
+    "startTime": 812.26,
+    "endTime": 814.356,
+    "text": "maybe do an injection, something like that."
+  },
+  {
+    "startTime": 814.38,
+    "endTime": 817.236,
+    "text": "You know that once it's done its job of work,"
+  },
+  {
+    "startTime": 817.26,
+    "endTime": 819.476,
+    "text": "it could be consumed by your stomach,"
+  },
+  {
+    "startTime": 819.5,
+    "endTime": 821.196,
+    "text": "or if you don't want that,"
+  },
+  {
+    "startTime": 821.22,
+    "endTime": 822.836,
+    "text": "it could go straight through you,"
+  },
+  {
+    "startTime": 822.86,
+    "endTime": 824.76,
+    "text": "into the toilet,"
+  },
+  {
+    "startTime": 824.1,
+    "endTime": 826.316,
+    "text": "and be degraded safely in the environment."
+  },
+  {
+    "startTime": 826.34,
+    "endTime": 829.58,
+    "text": "So this changes the way, again, in which we think about robots."
+  },
+  {
+    "startTime": 830.54,
+    "endTime": 834.836,
+    "text": "So, we started off looking at robots that would eat pollution,"
+  },
+  {
+    "startTime": 834.86,
+    "endTime": 837.516,
+    "text": "and then we're looking at robots which we can eat."
+  },
+  {
+    "startTime": 837.54,
+    "endTime": 839.1949999999999,
+    "text": "I hope this gives you some idea"
+  },
+  {
+    "startTime": 839.22,
+    "endTime": 841.6600000000001,
+    "text": "of the kinds of things we can do with future robots."
+  },
+  {
+    "startTime": 843.38,
+    "endTime": 845.276,
+    "text": "Thank you very much for your attention."
+  },
+  {
+    "startTime": 845.3,
+    "endTime": 848.7819999999999,
+    "text": "(Applause)"
+  }
+]
