@@ -1,0 +1,997 @@
+[
+  {
+    "startTime": 13.723,
+    "endTime": 15.111,
+    "text": "Please meet Jane."
+  },
+  {
+    "startTime": 15.644,
+    "endTime": 17.639,
+    "text": "She has a high-risk pregnancy."
+  },
+  {
+    "startTime": 17.663,
+    "endTime": 19.42,
+    "text": "Within 24 weeks,"
+  },
+  {
+    "startTime": 19.444,
+    "endTime": 21.605,
+    "text": "she's on bed rest at the hospital,"
+  },
+  {
+    "startTime": 21.629,
+    "endTime": 24.456000000000003,
+    "text": "being monitored for her preterm contractions."
+  },
+  {
+    "startTime": 25.24,
+    "endTime": 26.918,
+    "text": "She doesn't look the happiest."
+  },
+  {
+    "startTime": 26.942,
+    "endTime": 30.163,
+    "text": "That's in part because it requires technicians and experts"
+  },
+  {
+    "startTime": 30.187,
+    "endTime": 34.502,
+    "text": "to apply these clunky belts on her to monitor her uterine contractions."
+  },
+  {
+    "startTime": 35.55,
+    "endTime": 40.29,
+    "text": "Another reason Jane is not so happy is because she's worried."
+  },
+  {
+    "startTime": 40.768,
+    "endTime": 43.394,
+    "text": "In particular, she's worried about what happens"
+  },
+  {
+    "startTime": 43.418,
+    "endTime": 46.823,
+    "text": "after her 10-day stay on bed rest at the hospital."
+  },
+  {
+    "startTime": 47.438,
+    "endTime": 49.508,
+    "text": "What happens when she's home?"
+  },
+  {
+    "startTime": 49.532,
+    "endTime": 53.26,
+    "text": "If she were to give birth this early it would be devastating."
+  },
+  {
+    "startTime": 53.874,
+    "endTime": 55.628,
+    "text": "As an African-American woman,"
+  },
+  {
+    "startTime": 55.652,
+    "endTime": 58.734,
+    "text": "she's twice as likely to have a premature birth"
+  },
+  {
+    "startTime": 59.376,
+    "endTime": 60.949,
+    "text": "or to have a stillbirth."
+  },
+  {
+    "startTime": 61.551,
+    "endTime": 64.529,
+    "text": "So Jane basically has one of two options:"
+  },
+  {
+    "startTime": 64.553,
+    "endTime": 66.578,
+    "text": "stay at the hospital on bed rest,"
+  },
+  {
+    "startTime": 67.237,
+    "endTime": 70.695,
+    "text": "a prisoner to the technology until she gives birth,"
+  },
+  {
+    "startTime": 71.469,
+    "endTime": 74.40799999999999,
+    "text": "and then spend the rest of her life paying for the bill;"
+  },
+  {
+    "startTime": 74.946,
+    "endTime": 79.554,
+    "text": "or head home after her 10-day stay and hope for the best."
+  },
+  {
+    "startTime": 80.198,
+    "endTime": 83.29199999999999,
+    "text": "Neither of these two options seems appealing."
+  },
+  {
+    "startTime": 84.132,
+    "endTime": 86.24300000000001,
+    "text": "As I began to think about stories like this"
+  },
+  {
+    "startTime": 86.267,
+    "endTime": 88.53,
+    "text": "and hear about stories like this,"
+  },
+  {
+    "startTime": 88.77,
+    "endTime": 90.17,
+    "text": "I began to ask myself and imagine:"
+  },
+  {
+    "startTime": 90.194,
+    "endTime": 91.736,
+    "text": "Is there an alternative?"
+  },
+  {
+    "startTime": 91.76,
+    "endTime": 96.49600000000001,
+    "text": "Is there a way we could have the benefits of high-fidelity monitoring"
+  },
+  {
+    "startTime": 96.52,
+    "endTime": 99.319,
+    "text": "that we get with our trusted partners in the hospital"
+  },
+  {
+    "startTime": 99.343,
+    "endTime": 101.702,
+    "text": "while someone is at home living their daily life?"
+  },
+  {
+    "startTime": 102.832,
+    "endTime": 104.327,
+    "text": "With that in mind,"
+  },
+  {
+    "startTime": 104.351,
+    "endTime": 106.298,
+    "text": "I encouraged people in my research group"
+  },
+  {
+    "startTime": 106.322,
+    "endTime": 109.83,
+    "text": "to partner with some clever material scientists,"
+  },
+  {
+    "startTime": 109.854,
+    "endTime": 112.261,
+    "text": "and all of us came together and brainstormed."
+  },
+  {
+    "startTime": 112.904,
+    "endTime": 114.345,
+    "text": "And after a long process,"
+  },
+  {
+    "startTime": 114.369,
+    "endTime": 116.763,
+    "text": "we came up with a vision, an idea,"
+  },
+  {
+    "startTime": 116.787,
+    "endTime": 120.56500000000001,
+    "text": "of a wearable system that perhaps you could wear like a piece of jewelry"
+  },
+  {
+    "startTime": 120.589,
+    "endTime": 123.45,
+    "text": "or you could apply to yourself like a Band-Aid."
+  },
+  {
+    "startTime": 123.463,
+    "endTime": 127.645,
+    "text": "And after many trials and tribulations and years of endeavors,"
+  },
+  {
+    "startTime": 127.67,
+    "endTime": 131.397,
+    "text": "we were able to come up with this flexible electronic patch"
+  },
+  {
+    "startTime": 131.421,
+    "endTime": 133.816,
+    "text": "that was manufactured using the same processes"
+  },
+  {
+    "startTime": 133.84,
+    "endTime": 136.52100000000002,
+    "text": "that they use to build computer chips,"
+  },
+  {
+    "startTime": 136.545,
+    "endTime": 140.976,
+    "text": "except the electronics are transferred from a semiconductor wafer"
+  },
+  {
+    "startTime": 141.1,
+    "endTime": 145.269,
+    "text": "onto a flexible material that can interface with the human body."
+  },
+  {
+    "startTime": 145.775,
+    "endTime": 148.823,
+    "text": "These systems are about the thickness of a human hair."
+  },
+  {
+    "startTime": 150.6,
+    "endTime": 153.259,
+    "text": "They can measure the types of information that we want,"
+  },
+  {
+    "startTime": 153.948,
+    "endTime": 155.127,
+    "text": "things such as:"
+  },
+  {
+    "startTime": 155.151,
+    "endTime": 156.324,
+    "text": "bodily movement,"
+  },
+  {
+    "startTime": 156.67,
+    "endTime": 158.73,
+    "text": "bodily temperature,"
+  },
+  {
+    "startTime": 158.98,
+    "endTime": 159.903,
+    "text": "electrical rhythms of the body"
+  },
+  {
+    "startTime": 159.927,
+    "endTime": 161.84,
+    "text": "and so forth."
+  },
+  {
+    "startTime": 161.403,
+    "endTime": 163.376,
+    "text": "We can also engineer these systems,"
+  },
+  {
+    "startTime": 163.883,
+    "endTime": 166.291,
+    "text": "so they can integrate energy sources,"
+  },
+  {
+    "startTime": 166.877,
+    "endTime": 169.842,
+    "text": "and can have wireless transmission capabilities."
+  },
+  {
+    "startTime": 170.624,
+    "endTime": 174.529,
+    "text": "So as we began to build these types of systems,"
+  },
+  {
+    "startTime": 174.553,
+    "endTime": 178.891,
+    "text": "we began to test them on ourselves in our research group."
+  },
+  {
+    "startTime": 178.915,
+    "endTime": 182.279,
+    "text": "But in addition, we began to reach out to some of our clinical partners"
+  },
+  {
+    "startTime": 182.303,
+    "endTime": 183.458,
+    "text": "in San Diego,"
+  },
+  {
+    "startTime": 183.482,
+    "endTime": 187.182,
+    "text": "and test these on different patients in different clinical conditions,"
+  },
+  {
+    "startTime": 187.206,
+    "endTime": 189.903,
+    "text": "including moms-to-be like Jane."
+  },
+  {
+    "startTime": 190.531,
+    "endTime": 195.511,
+    "text": "Here is a picture of a pregnant woman in labor at our university hospital"
+  },
+  {
+    "startTime": 195.535,
+    "endTime": 200.466,
+    "text": "being monitored for her uterine contractions with the conventional belt."
+  },
+  {
+    "startTime": 200.939,
+    "endTime": 202.9,
+    "text": "In addition,"
+  },
+  {
+    "startTime": 202.114,
+    "endTime": 204.70600000000002,
+    "text": "our flexible electronic patches are there."
+  },
+  {
+    "startTime": 205.268,
+    "endTime": 209.544,
+    "text": "This picture demonstrates waveforms pertaining to the fetal heart rate,"
+  },
+  {
+    "startTime": 209.568,
+    "endTime": 212.485,
+    "text": "where the red corresponds to what was acquired"
+  },
+  {
+    "startTime": 212.509,
+    "endTime": 214.88,
+    "text": "with the conventional belts,"
+  },
+  {
+    "startTime": 214.112,
+    "endTime": 216.769,
+    "text": "and the blue corresponds to our estimates"
+  },
+  {
+    "startTime": 216.794,
+    "endTime": 220.482,
+    "text": "using our flexible electronic systems and our algorithms."
+  },
+  {
+    "startTime": 220.932,
+    "endTime": 222.38,
+    "text": "At this moment,"
+  },
+  {
+    "startTime": 222.404,
+    "endTime": 225.22,
+    "text": "we gave ourselves a big mental high five."
+  },
+  {
+    "startTime": 225.508,
+    "endTime": 228.91500000000002,
+    "text": "Some of the things we had imagined were beginning to come to fruition,"
+  },
+  {
+    "startTime": 228.939,
+    "endTime": 231.61599999999999,
+    "text": "and we were actually seeing this in a clinical context."
+  },
+  {
+    "startTime": 232.83,
+    "endTime": 233.52300000000002,
+    "text": "But there was still a problem."
+  },
+  {
+    "startTime": 233.974,
+    "endTime": 237.334,
+    "text": "The problem was, the way we manufactured these systems"
+  },
+  {
+    "startTime": 237.359,
+    "endTime": 238.816,
+    "text": "was very inefficient,"
+  },
+  {
+    "startTime": 238.84,
+    "endTime": 239.997,
+    "text": "had low yield"
+  },
+  {
+    "startTime": 240.21,
+    "endTime": 241.364,
+    "text": "and was very error-prone."
+  },
+  {
+    "startTime": 242.105,
+    "endTime": 243.256,
+    "text": "In addition,"
+  },
+  {
+    "startTime": 243.28,
+    "endTime": 245.752,
+    "text": "as we talked to some of the nurses in the hospital,"
+  },
+  {
+    "startTime": 245.776,
+    "endTime": 247.966,
+    "text": "they encouraged us to make sure"
+  },
+  {
+    "startTime": 247.99,
+    "endTime": 252.3,
+    "text": "that our electronics worked with typical medical adhesives"
+  },
+  {
+    "startTime": 252.27,
+    "endTime": 253.483,
+    "text": "that are used in a hospital."
+  },
+  {
+    "startTime": 254.217,
+    "endTime": 256.43100000000004,
+    "text": "We had an epiphany and said, \"Wait a minute."
+  },
+  {
+    "startTime": 256.998,
+    "endTime": 259.668,
+    "text": "Rather than just making them work with adhesives,"
+  },
+  {
+    "startTime": 259.692,
+    "endTime": 262.721,
+    "text": "let's integrate them into adhesives,"
+  },
+  {
+    "startTime": 263.194,
+    "endTime": 265.697,
+    "text": "and that could solve our manufacturing problem.\""
+  },
+  {
+    "startTime": 266.269,
+    "endTime": 268.26,
+    "text": "This picture that you see here"
+  },
+  {
+    "startTime": 268.284,
+    "endTime": 272.779,
+    "text": "is our ability to embed these censors inside of a piece of Scotch tape"
+  },
+  {
+    "startTime": 272.803,
+    "endTime": 275.519,
+    "text": "by simply peeling it off of a wafer."
+  },
+  {
+    "startTime": 276.255,
+    "endTime": 279.624,
+    "text": "Ongoing work in our research group allows us to, in addition,"
+  },
+  {
+    "startTime": 279.648,
+    "endTime": 283.357,
+    "text": "embed integrated circuits into the flexible adhesives"
+  },
+  {
+    "startTime": 283.381,
+    "endTime": 287.7,
+    "text": "to do things like amplifying signals and digitizing them,"
+  },
+  {
+    "startTime": 287.95,
+    "endTime": 288.27299999999997,
+    "text": "processing them"
+  },
+  {
+    "startTime": 288.297,
+    "endTime": 290.56,
+    "text": "and encoding for wireless transmission."
+  },
+  {
+    "startTime": 291.113,
+    "endTime": 295.15,
+    "text": "All of this integrated into the same medical adhesives"
+  },
+  {
+    "startTime": 295.39,
+    "endTime": 296.849,
+    "text": "that are used in the hospital."
+  },
+  {
+    "startTime": 297.81,
+    "endTime": 299.302,
+    "text": "So when we reached this point,"
+  },
+  {
+    "startTime": 299.326,
+    "endTime": 301.75,
+    "text": "we had some other challenges,"
+  },
+  {
+    "startTime": 301.774,
+    "endTime": 305.89,
+    "text": "from both an engineering as well as a usability perspective,"
+  },
+  {
+    "startTime": 305.113,
+    "endTime": 307.936,
+    "text": "to make sure that we could make it used practically."
+  },
+  {
+    "startTime": 309.207,
+    "endTime": 311.694,
+    "text": "In many digital health discussions,"
+  },
+  {
+    "startTime": 311.718,
+    "endTime": 316.665,
+    "text": "people believe in and embrace the idea that we can simply digitize the data,"
+  },
+  {
+    "startTime": 316.689,
+    "endTime": 318.269,
+    "text": "wirelessly transmit it,"
+  },
+  {
+    "startTime": 318.293,
+    "endTime": 319.767,
+    "text": "send it to the cloud,"
+  },
+  {
+    "startTime": 319.791,
+    "endTime": 320.988,
+    "text": "and in the cloud,"
+  },
+  {
+    "startTime": 321.12,
+    "endTime": 323.745,
+    "text": "we can extract meaningful information for interpretation."
+  },
+  {
+    "startTime": 324.147,
+    "endTime": 326.623,
+    "text": "And indeed, you can do all of that,"
+  },
+  {
+    "startTime": 326.648,
+    "endTime": 329.637,
+    "text": "if you're not worried about some of the energy challenges."
+  },
+  {
+    "startTime": 329.661,
+    "endTime": 331.324,
+    "text": "Think about Jane for a moment."
+  },
+  {
+    "startTime": 331.348,
+    "endTime": 333.152,
+    "text": "She doesn't live in Palo Alto,"
+  },
+  {
+    "startTime": 333.176,
+    "endTime": 334.889,
+    "text": "nor does she live in Beverly Hills."
+  },
+  {
+    "startTime": 335.359,
+    "endTime": 336.517,
+    "text": "What that means is,"
+  },
+  {
+    "startTime": 336.541,
+    "endTime": 339.871,
+    "text": "we have to be mindful about her data plan and how much it would cost"
+  },
+  {
+    "startTime": 339.895,
+    "endTime": 343.514,
+    "text": "for her to be sending out a continuous stream of data."
+  },
+  {
+    "startTime": 344.383,
+    "endTime": 345.662,
+    "text": "There's another challenge"
+  },
+  {
+    "startTime": 345.686,
+    "endTime": 349.383,
+    "text": "that not everyone in the medical profession is comfortable talking about."
+  },
+  {
+    "startTime": 349.408,
+    "endTime": 352.236,
+    "text": "And that is, that Jane does not have the most trust"
+  },
+  {
+    "startTime": 352.26,
+    "endTime": 353.745,
+    "text": "in the medical establishment."
+  },
+  {
+    "startTime": 354.46,
+    "endTime": 359.599,
+    "text": "She, people like her, her ancestors, have not had the best experiences"
+  },
+  {
+    "startTime": 359.623,
+    "endTime": 362.61899999999997,
+    "text": "at the hands of doctors and the hospital"
+  },
+  {
+    "startTime": 363.163,
+    "endTime": 364.551,
+    "text": "or insurance companies."
+  },
+  {
+    "startTime": 365.466,
+    "endTime": 368.807,
+    "text": "That means that we have to be mindful of questions of privacy."
+  },
+  {
+    "startTime": 368.831,
+    "endTime": 370.452,
+    "text": "Jane might not feel that happy"
+  },
+  {
+    "startTime": 370.476,
+    "endTime": 373.755,
+    "text": "about all that data being processed into the cloud."
+  },
+  {
+    "startTime": 374.712,
+    "endTime": 376.707,
+    "text": "And Jane cannot be fooled;"
+  },
+  {
+    "startTime": 377.346,
+    "endTime": 378.83,
+    "text": "she reads the news."
+  },
+  {
+    "startTime": 378.854,
+    "endTime": 381.824,
+    "text": "She knows that if the federal government can be hacked,"
+  },
+  {
+    "startTime": 381.848,
+    "endTime": 383.849,
+    "text": "if the Fortune 500 can be hacked,"
+  },
+  {
+    "startTime": 384.409,
+    "endTime": 385.92,
+    "text": "so can her doctor."
+  },
+  {
+    "startTime": 387.14,
+    "endTime": 388.74899999999997,
+    "text": "And so with that in mind,"
+  },
+  {
+    "startTime": 388.773,
+    "endTime": 389.96900000000005,
+    "text": "we had an epiphany."
+  },
+  {
+    "startTime": 390.858,
+    "endTime": 393.588,
+    "text": "We cannot outsmart all the hackers in the world,"
+  },
+  {
+    "startTime": 393.612,
+    "endTime": 396.379,
+    "text": "but perhaps we can present them a smaller target."
+  },
+  {
+    "startTime": 396.986,
+    "endTime": 399.167,
+    "text": "What if we could actually,"
+  },
+  {
+    "startTime": 399.191,
+    "endTime": 403.123,
+    "text": "rather than have those algorithms that do data interpretation"
+  },
+  {
+    "startTime": 403.147,
+    "endTime": 404.36,
+    "text": "run in the cloud,"
+  },
+  {
+    "startTime": 404.904,
+    "endTime": 408.315,
+    "text": "what if we have those algorithms run on those small integrated circuits"
+  },
+  {
+    "startTime": 408.339,
+    "endTime": 410.419,
+    "text": "embedded into those adhesives?"
+  },
+  {
+    "startTime": 410.995,
+    "endTime": 414.89,
+    "text": "And so when we integrate these things together,"
+  },
+  {
+    "startTime": 414.113,
+    "endTime": 417.617,
+    "text": "what this means is that now we can think about the future"
+  },
+  {
+    "startTime": 417.641,
+    "endTime": 421.706,
+    "text": "where someone like Jane can still go about living her normal daily life,"
+  },
+  {
+    "startTime": 421.73,
+    "endTime": 423.202,
+    "text": "she can be monitored,"
+  },
+  {
+    "startTime": 423.226,
+    "endTime": 426.726,
+    "text": "it can be done in a way where she doesn't have to get another job"
+  },
+  {
+    "startTime": 426.75,
+    "endTime": 428.215,
+    "text": "to pay her data plan,"
+  },
+  {
+    "startTime": 428.239,
+    "endTime": 431.933,
+    "text": "and we can also address some of her concerns about privacy."
+  },
+  {
+    "startTime": 432.907,
+    "endTime": 434.56,
+    "text": "So at this point,"
+  },
+  {
+    "startTime": 434.81,
+    "endTime": 436.85,
+    "text": "we're feeling very good about ourselves."
+  },
+  {
+    "startTime": 436.109,
+    "endTime": 437.272,
+    "text": "We've accomplished this,"
+  },
+  {
+    "startTime": 437.296,
+    "endTime": 440.466,
+    "text": "we've begun to address some of these questions about privacy"
+  },
+  {
+    "startTime": 440.49,
+    "endTime": 444.38100000000003,
+    "text": "and we feel like, pretty much the chapter is closed now."
+  },
+  {
+    "startTime": 444.405,
+    "endTime": 447.78,
+    "text": "Everyone lived happily ever after, right?"
+  },
+  {
+    "startTime": 448.751,
+    "endTime": 450.313,
+    "text": "Well, not so fast."
+  },
+  {
+    "startTime": 450.338,
+    "endTime": 451.543,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 451.567,
+    "endTime": 454.607,
+    "text": "One of the things we have to remember, as I mentioned earlier,"
+  },
+  {
+    "startTime": 454.631,
+    "endTime": 458.10999999999996,
+    "text": "is that Jane does not have the most trust in the medical establishment."
+  },
+  {
+    "startTime": 458.36,
+    "endTime": 459.199,
+    "text": "We have to remember"
+  },
+  {
+    "startTime": 459.223,
+    "endTime": 462.737,
+    "text": "that there are increasing and widening health disparities,"
+  },
+  {
+    "startTime": 462.761,
+    "endTime": 466.65000000000003,
+    "text": "and there's inequity in terms of proper care management."
+  },
+  {
+    "startTime": 466.616,
+    "endTime": 469.11,
+    "text": "And so what that means is that this simple picture"
+  },
+  {
+    "startTime": 469.134,
+    "endTime": 470.779,
+    "text": "of Jane and her data --"
+  },
+  {
+    "startTime": 470.803,
+    "endTime": 474.73,
+    "text": "even with her being comfortable being wirelessly transmitted to the cloud,"
+  },
+  {
+    "startTime": 474.754,
+    "endTime": 477.69,
+    "text": "letting a doctor intervene if necessary --"
+  },
+  {
+    "startTime": 477.93,
+    "endTime": 478.559,
+    "text": "is not the whole story."
+  },
+  {
+    "startTime": 479.91,
+    "endTime": 480.485,
+    "text": "So what we're beginning to do"
+  },
+  {
+    "startTime": 480.509,
+    "endTime": 485.336,
+    "text": "is to think about ways to have trusted parties serve as intermediaries"
+  },
+  {
+    "startTime": 485.36,
+    "endTime": 488.778,
+    "text": "between people like Jane and her health care providers."
+  },
+  {
+    "startTime": 488.802,
+    "endTime": 491.81300000000005,
+    "text": "For example, we've begun to partner with churches"
+  },
+  {
+    "startTime": 491.837,
+    "endTime": 494.694,
+    "text": "and to think about nurses that are church members,"
+  },
+  {
+    "startTime": 494.718,
+    "endTime": 496.74,
+    "text": "that come from that trusted community,"
+  },
+  {
+    "startTime": 496.764,
+    "endTime": 500.687,
+    "text": "as patient advocates and health coaches to people like Jane."
+  },
+  {
+    "startTime": 501.462,
+    "endTime": 503.469,
+    "text": "Another thing we have going for us"
+  },
+  {
+    "startTime": 503.493,
+    "endTime": 505.529,
+    "text": "is that insurance companies, increasingly,"
+  },
+  {
+    "startTime": 505.553,
+    "endTime": 507.511,
+    "text": "are attracted to some of these ideas."
+  },
+  {
+    "startTime": 507.906,
+    "endTime": 509.613,
+    "text": "They're increasingly realizing"
+  },
+  {
+    "startTime": 509.637,
+    "endTime": 512.577,
+    "text": "that perhaps it's better to pay one dollar now"
+  },
+  {
+    "startTime": 512.601,
+    "endTime": 515.583,
+    "text": "for a wearable device and a health coach,"
+  },
+  {
+    "startTime": 515.607,
+    "endTime": 517.774,
+    "text": "rather than paying 10 dollars later,"
+  },
+  {
+    "startTime": 518.253,
+    "endTime": 520.807,
+    "text": "when that baby is born prematurely"
+  },
+  {
+    "startTime": 520.831,
+    "endTime": 523.772,
+    "text": "and ends up in the neonatal intensive care unit --"
+  },
+  {
+    "startTime": 523.796,
+    "endTime": 526.691,
+    "text": "one of the most expensive parts of a hospital."
+  },
+  {
+    "startTime": 527.697,
+    "endTime": 530.118,
+    "text": "This has been a long learning process for us."
+  },
+  {
+    "startTime": 530.593,
+    "endTime": 534.428,
+    "text": "This iterative process of breaking through and attacking one problem"
+  },
+  {
+    "startTime": 534.452,
+    "endTime": 536.223,
+    "text": "and not feeling totally comfortable,"
+  },
+  {
+    "startTime": 536.247,
+    "endTime": 538.65,
+    "text": "and identifying the next problem,"
+  },
+  {
+    "startTime": 538.9,
+    "endTime": 540.1469999999999,
+    "text": "has helped us go along this path"
+  },
+  {
+    "startTime": 540.171,
+    "endTime": 543.2470000000001,
+    "text": "of actually trying to not only innovate with this technology"
+  },
+  {
+    "startTime": 543.271,
+    "endTime": 547.223,
+    "text": "but make sure it can be used for people who perhaps need it the most."
+  },
+  {
+    "startTime": 547.709,
+    "endTime": 550.492,
+    "text": "Another learning lesson we've taken from this process"
+  },
+  {
+    "startTime": 550.517,
+    "endTime": 551.8960000000001,
+    "text": "that is very humbling,"
+  },
+  {
+    "startTime": 551.92,
+    "endTime": 556.247,
+    "text": "is that as technology progresses and advances at an accelerating rate,"
+  },
+  {
+    "startTime": 556.271,
+    "endTime": 560.213,
+    "text": "we have to remember that human beings are using this technology,"
+  },
+  {
+    "startTime": 560.237,
+    "endTime": 561.8389999999999,
+    "text": "and we have to be mindful"
+  },
+  {
+    "startTime": 561.863,
+    "endTime": 565.3030000000001,
+    "text": "that these human beings -- they have a face,"
+  },
+  {
+    "startTime": 565.327,
+    "endTime": 566.5889999999999,
+    "text": "they have a name"
+  },
+  {
+    "startTime": 566.613,
+    "endTime": 567.774,
+    "text": "and a life."
+  },
+  {
+    "startTime": 567.798,
+    "endTime": 569.409,
+    "text": "And in the case of Jane,"
+  },
+  {
+    "startTime": 569.433,
+    "endTime": 570.889,
+    "text": "hopefully, two."
+  },
+  {
+    "startTime": 572.41,
+    "endTime": 573.235,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 573.259,
+    "endTime": 578.4970000000001,
+    "text": "(Applause)"
+  }
+]

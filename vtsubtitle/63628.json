@@ -1,0 +1,1862 @@
+[
+  {
+    "startTime": 12.8,
+    "endTime": 15.924000000000001,
+    "text": "So, I lead a team at Google that works on machine intelligence;"
+  },
+  {
+    "startTime": 15.948,
+    "endTime": 20.598,
+    "text": "in other words, the engineering discipline of making computers and devices"
+  },
+  {
+    "startTime": 20.622,
+    "endTime": 23.41,
+    "text": "able to do some of the things that brains do."
+  },
+  {
+    "startTime": 23.439,
+    "endTime": 26.538,
+    "text": "And this makes us interested in real brains"
+  },
+  {
+    "startTime": 26.562,
+    "endTime": 27.851000000000003,
+    "text": "and neuroscience as well,"
+  },
+  {
+    "startTime": 27.875,
+    "endTime": 32.46,
+    "text": "and especially interested in the things that our brains do"
+  },
+  {
+    "startTime": 32.7,
+    "endTime": 36.113,
+    "text": "that are still far superior to the performance of computers."
+  },
+  {
+    "startTime": 37.209,
+    "endTime": 40.818000000000005,
+    "text": "Historically, one of those areas has been perception,"
+  },
+  {
+    "startTime": 40.842,
+    "endTime": 43.881,
+    "text": "the process by which things out there in the world --"
+  },
+  {
+    "startTime": 43.905,
+    "endTime": 45.489000000000004,
+    "text": "sounds and images --"
+  },
+  {
+    "startTime": 45.513,
+    "endTime": 47.69,
+    "text": "can turn into concepts in the mind."
+  },
+  {
+    "startTime": 48.235,
+    "endTime": 50.752,
+    "text": "This is essential for our own brains,"
+  },
+  {
+    "startTime": 50.776,
+    "endTime": 53.24,
+    "text": "and it's also pretty useful on a computer."
+  },
+  {
+    "startTime": 53.636,
+    "endTime": 56.986000000000004,
+    "text": "The machine perception algorithms, for example, that our team makes,"
+  },
+  {
+    "startTime": 57.1,
+    "endTime": 60.884,
+    "text": "are what enable your pictures on Google Photos to become searchable,"
+  },
+  {
+    "startTime": 60.908,
+    "endTime": 62.305,
+    "text": "based on what's in them."
+  },
+  {
+    "startTime": 63.594,
+    "endTime": 67.87,
+    "text": "The flip side of perception is creativity:"
+  },
+  {
+    "startTime": 67.111,
+    "endTime": 70.149,
+    "text": "turning a concept into something out there into the world."
+  },
+  {
+    "startTime": 70.173,
+    "endTime": 73.72800000000001,
+    "text": "So over the past year, our work on machine perception"
+  },
+  {
+    "startTime": 73.752,
+    "endTime": 78.61,
+    "text": "has also unexpectedly connected with the world of machine creativity"
+  },
+  {
+    "startTime": 78.635,
+    "endTime": 79.795,
+    "text": "and machine art."
+  },
+  {
+    "startTime": 80.556,
+    "endTime": 83.84,
+    "text": "I think Michelangelo had a penetrating insight"
+  },
+  {
+    "startTime": 83.864,
+    "endTime": 87.52000000000001,
+    "text": "into to this dual relationship between perception and creativity."
+  },
+  {
+    "startTime": 88.23,
+    "endTime": 90.29,
+    "text": "This is a famous quote of his:"
+  },
+  {
+    "startTime": 90.53,
+    "endTime": 93.375,
+    "text": "\"Every block of stone has a statue inside of it,"
+  },
+  {
+    "startTime": 94.36,
+    "endTime": 97.38,
+    "text": "and the job of the sculptor is to discover it.\""
+  },
+  {
+    "startTime": 98.29,
+    "endTime": 101.244,
+    "text": "So I think that what Michelangelo was getting at"
+  },
+  {
+    "startTime": 101.269,
+    "endTime": 104.44900000000001,
+    "text": "is that we create by perceiving,"
+  },
+  {
+    "startTime": 104.473,
+    "endTime": 107.496,
+    "text": "and that perception itself is an act of imagination"
+  },
+  {
+    "startTime": 107.52,
+    "endTime": 109.981,
+    "text": "and is the stuff of creativity."
+  },
+  {
+    "startTime": 110.691,
+    "endTime": 114.616,
+    "text": "The organ that does all the thinking and perceiving and imagining,"
+  },
+  {
+    "startTime": 114.64,
+    "endTime": 116.228,
+    "text": "of course, is the brain."
+  },
+  {
+    "startTime": 117.89,
+    "endTime": 119.634,
+    "text": "And I'd like to begin with a brief bit of history"
+  },
+  {
+    "startTime": 119.658,
+    "endTime": 121.96000000000001,
+    "text": "about what we know about brains."
+  },
+  {
+    "startTime": 122.496,
+    "endTime": 124.942,
+    "text": "Because unlike, say, the heart or the intestines,"
+  },
+  {
+    "startTime": 124.966,
+    "endTime": 128.10899999999998,
+    "text": "you really can't say very much about a brain by just looking at it,"
+  },
+  {
+    "startTime": 128.133,
+    "endTime": 129.54500000000002,
+    "text": "at least with the naked eye."
+  },
+  {
+    "startTime": 129.983,
+    "endTime": 132.399,
+    "text": "The early anatomists who looked at brains"
+  },
+  {
+    "startTime": 132.423,
+    "endTime": 136.23,
+    "text": "gave the superficial structures of this thing all kinds of fanciful names,"
+  },
+  {
+    "startTime": 136.254,
+    "endTime": 138.68599999999998,
+    "text": "like hippocampus, meaning \"little shrimp.\""
+  },
+  {
+    "startTime": 138.711,
+    "endTime": 141.47500000000002,
+    "text": "But of course that sort of thing doesn't tell us very much"
+  },
+  {
+    "startTime": 141.499,
+    "endTime": 143.817,
+    "text": "about what's actually going on inside."
+  },
+  {
+    "startTime": 144.78,
+    "endTime": 148.393,
+    "text": "The first person who, I think, really developed some kind of insight"
+  },
+  {
+    "startTime": 148.417,
+    "endTime": 150.347,
+    "text": "into what was going on in the brain"
+  },
+  {
+    "startTime": 150.371,
+    "endTime": 154.291,
+    "text": "was the great Spanish neuroanatomist, Santiago Ramón y Cajal,"
+  },
+  {
+    "startTime": 154.315,
+    "endTime": 155.859,
+    "text": "in the 19th century,"
+  },
+  {
+    "startTime": 155.883,
+    "endTime": 159.638,
+    "text": "who used microscopy and special stains"
+  },
+  {
+    "startTime": 159.662,
+    "endTime": 163.832,
+    "text": "that could selectively fill in or render in very high contrast"
+  },
+  {
+    "startTime": 163.856,
+    "endTime": 165.864,
+    "text": "the individual cells in the brain,"
+  },
+  {
+    "startTime": 165.888,
+    "endTime": 169.42000000000002,
+    "text": "in order to start to understand their morphologies."
+  },
+  {
+    "startTime": 169.972,
+    "endTime": 172.863,
+    "text": "And these are the kinds of drawings that he made of neurons"
+  },
+  {
+    "startTime": 172.887,
+    "endTime": 174.96,
+    "text": "in the 19th century."
+  },
+  {
+    "startTime": 174.12,
+    "endTime": 176.4,
+    "text": "This is from a bird brain."
+  },
+  {
+    "startTime": 176.28,
+    "endTime": 179.84,
+    "text": "And you see this incredible variety of different sorts of cells,"
+  },
+  {
+    "startTime": 179.109,
+    "endTime": 182.544,
+    "text": "even the cellular theory itself was quite new at this point."
+  },
+  {
+    "startTime": 182.568,
+    "endTime": 183.846,
+    "text": "And these structures,"
+  },
+  {
+    "startTime": 183.87,
+    "endTime": 186.129,
+    "text": "these cells that have these arborizations,"
+  },
+  {
+    "startTime": 186.153,
+    "endTime": 188.761,
+    "text": "these branches that can go very, very long distances --"
+  },
+  {
+    "startTime": 188.785,
+    "endTime": 190.401,
+    "text": "this was very novel at the time."
+  },
+  {
+    "startTime": 190.779,
+    "endTime": 193.682,
+    "text": "They're reminiscent, of course, of wires."
+  },
+  {
+    "startTime": 193.706,
+    "endTime": 197.16199999999998,
+    "text": "That might have been obvious to some people in the 19th century;"
+  },
+  {
+    "startTime": 197.187,
+    "endTime": 201.501,
+    "text": "the revolutions of wiring and electricity were just getting underway."
+  },
+  {
+    "startTime": 201.964,
+    "endTime": 203.142,
+    "text": "But in many ways,"
+  },
+  {
+    "startTime": 203.166,
+    "endTime": 206.478,
+    "text": "these microanatomical drawings of Ramón y Cajal's, like this one,"
+  },
+  {
+    "startTime": 206.503,
+    "endTime": 208.83399999999997,
+    "text": "they're still in some ways unsurpassed."
+  },
+  {
+    "startTime": 208.859,
+    "endTime": 210.71300000000002,
+    "text": "We're still more than a century later,"
+  },
+  {
+    "startTime": 210.737,
+    "endTime": 213.561,
+    "text": "trying to finish the job that Ramón y Cajal started."
+  },
+  {
+    "startTime": 213.586,
+    "endTime": 216.72,
+    "text": "These are raw data from our collaborators"
+  },
+  {
+    "startTime": 216.744,
+    "endTime": 219.625,
+    "text": "at the Max Planck Institute of Neuroscience."
+  },
+  {
+    "startTime": 219.649,
+    "endTime": 221.439,
+    "text": "And what our collaborators have done"
+  },
+  {
+    "startTime": 221.463,
+    "endTime": 226.464,
+    "text": "is to image little pieces of brain tissue."
+  },
+  {
+    "startTime": 226.488,
+    "endTime": 229.814,
+    "text": "The entire sample here is about one cubic millimeter in size,"
+  },
+  {
+    "startTime": 229.838,
+    "endTime": 232.459,
+    "text": "and I'm showing you a very, very small piece of it here."
+  },
+  {
+    "startTime": 232.483,
+    "endTime": 234.829,
+    "text": "That bar on the left is about one micron."
+  },
+  {
+    "startTime": 234.853,
+    "endTime": 237.262,
+    "text": "The structures you see are mitochondria"
+  },
+  {
+    "startTime": 237.286,
+    "endTime": 239.33,
+    "text": "that are the size of bacteria."
+  },
+  {
+    "startTime": 239.354,
+    "endTime": 240.905,
+    "text": "And these are consecutive slices"
+  },
+  {
+    "startTime": 240.929,
+    "endTime": 244.77,
+    "text": "through this very, very tiny block of tissue."
+  },
+  {
+    "startTime": 244.101,
+    "endTime": 246.504,
+    "text": "Just for comparison's sake,"
+  },
+  {
+    "startTime": 246.528,
+    "endTime": 250.32,
+    "text": "the diameter of an average strand of hair is about 100 microns."
+  },
+  {
+    "startTime": 250.344,
+    "endTime": 252.618,
+    "text": "So we're looking at something much, much smaller"
+  },
+  {
+    "startTime": 252.642,
+    "endTime": 254.4,
+    "text": "than a single strand of hair."
+  },
+  {
+    "startTime": 254.64,
+    "endTime": 258.94,
+    "text": "And from these kinds of serial electron microscopy slices,"
+  },
+  {
+    "startTime": 258.119,
+    "endTime": 263.127,
+    "text": "one can start to make reconstructions in 3D of neurons that look like these."
+  },
+  {
+    "startTime": 263.151,
+    "endTime": 266.308,
+    "text": "So these are sort of in the same style as Ramón y Cajal."
+  },
+  {
+    "startTime": 266.332,
+    "endTime": 267.824,
+    "text": "Only a few neurons lit up,"
+  },
+  {
+    "startTime": 267.848,
+    "endTime": 270.629,
+    "text": "because otherwise we wouldn't be able to see anything here."
+  },
+  {
+    "startTime": 270.653,
+    "endTime": 271.96500000000003,
+    "text": "It would be so crowded,"
+  },
+  {
+    "startTime": 271.989,
+    "endTime": 273.318,
+    "text": "so full of structure,"
+  },
+  {
+    "startTime": 273.343,
+    "endTime": 276.67,
+    "text": "of wiring all connecting one neuron to another."
+  },
+  {
+    "startTime": 277.293,
+    "endTime": 280.97,
+    "text": "So Ramón y Cajal was a little bit ahead of his time,"
+  },
+  {
+    "startTime": 280.121,
+    "endTime": 282.676,
+    "text": "and progress on understanding the brain"
+  },
+  {
+    "startTime": 282.7,
+    "endTime": 284.971,
+    "text": "proceeded slowly over the next few decades."
+  },
+  {
+    "startTime": 285.455,
+    "endTime": 288.308,
+    "text": "But we knew that neurons used electricity,"
+  },
+  {
+    "startTime": 288.332,
+    "endTime": 291.268,
+    "text": "and by World War II, our technology was advanced enough"
+  },
+  {
+    "startTime": 291.292,
+    "endTime": 294.96999999999997,
+    "text": "to start doing real electrical experiments on live neurons"
+  },
+  {
+    "startTime": 294.122,
+    "endTime": 296.228,
+    "text": "to better understand how they worked."
+  },
+  {
+    "startTime": 296.631,
+    "endTime": 300.986,
+    "text": "This was the very same time when computers were being invented,"
+  },
+  {
+    "startTime": 301.11,
+    "endTime": 304.111,
+    "text": "very much based on the idea of modeling the brain --"
+  },
+  {
+    "startTime": 304.135,
+    "endTime": 307.219,
+    "text": "of \"intelligent machinery,\" as Alan Turing called it,"
+  },
+  {
+    "startTime": 307.244,
+    "endTime": 309.235,
+    "text": "one of the fathers of computer science."
+  },
+  {
+    "startTime": 309.923,
+    "endTime": 314.555,
+    "text": "Warren McCulloch and Walter Pitts looked at Ramón y Cajal's drawing"
+  },
+  {
+    "startTime": 314.579,
+    "endTime": 315.896,
+    "text": "of visual cortex,"
+  },
+  {
+    "startTime": 315.92,
+    "endTime": 317.482,
+    "text": "which I'm showing here."
+  },
+  {
+    "startTime": 317.506,
+    "endTime": 321.948,
+    "text": "This is the cortex that processes imagery that comes from the eye."
+  },
+  {
+    "startTime": 322.424,
+    "endTime": 325.931,
+    "text": "And for them, this looked like a circuit diagram."
+  },
+  {
+    "startTime": 326.353,
+    "endTime": 330.188,
+    "text": "So there are a lot of details in McCulloch and Pitts's circuit diagram"
+  },
+  {
+    "startTime": 330.212,
+    "endTime": 331.563,
+    "text": "that are not quite right."
+  },
+  {
+    "startTime": 331.588,
+    "endTime": 332.82300000000004,
+    "text": "But this basic idea"
+  },
+  {
+    "startTime": 332.847,
+    "endTime": 336.839,
+    "text": "that visual cortex works like a series of computational elements"
+  },
+  {
+    "startTime": 336.863,
+    "endTime": 339.609,
+    "text": "that pass information one to the next in a cascade,"
+  },
+  {
+    "startTime": 339.633,
+    "endTime": 341.234,
+    "text": "is essentially correct."
+  },
+  {
+    "startTime": 341.259,
+    "endTime": 343.60900000000004,
+    "text": "Let's talk for a moment"
+  },
+  {
+    "startTime": 343.633,
+    "endTime": 347.664,
+    "text": "about what a model for processing visual information would need to do."
+  },
+  {
+    "startTime": 348.228,
+    "endTime": 350.969,
+    "text": "The basic task of perception"
+  },
+  {
+    "startTime": 350.993,
+    "endTime": 355.187,
+    "text": "is to take an image like this one and say,"
+  },
+  {
+    "startTime": 355.211,
+    "endTime": 356.387,
+    "text": "\"That's a bird,\""
+  },
+  {
+    "startTime": 356.411,
+    "endTime": 359.285,
+    "text": "which is a very simple thing for us to do with our brains."
+  },
+  {
+    "startTime": 359.309,
+    "endTime": 362.73,
+    "text": "But you should all understand that for a computer,"
+  },
+  {
+    "startTime": 362.754,
+    "endTime": 365.841,
+    "text": "this was pretty much impossible just a few years ago."
+  },
+  {
+    "startTime": 365.865,
+    "endTime": 367.781,
+    "text": "The classical computing paradigm"
+  },
+  {
+    "startTime": 367.805,
+    "endTime": 370.312,
+    "text": "is not one in which this task is easy to do."
+  },
+  {
+    "startTime": 371.366,
+    "endTime": 373.918,
+    "text": "So what's going on between the pixels,"
+  },
+  {
+    "startTime": 373.942,
+    "endTime": 377.97,
+    "text": "between the image of the bird and the word \"bird,\""
+  },
+  {
+    "startTime": 377.994,
+    "endTime": 380.80800000000005,
+    "text": "is essentially a set of neurons connected to each other"
+  },
+  {
+    "startTime": 380.832,
+    "endTime": 381.986,
+    "text": "in a neural network,"
+  },
+  {
+    "startTime": 382.11,
+    "endTime": 383.23400000000004,
+    "text": "as I'm diagramming here."
+  },
+  {
+    "startTime": 383.258,
+    "endTime": 386.53,
+    "text": "This neural network could be biological, inside our visual cortices,"
+  },
+  {
+    "startTime": 386.554,
+    "endTime": 388.715,
+    "text": "or, nowadays, we start to have the capability"
+  },
+  {
+    "startTime": 388.74,
+    "endTime": 391.194,
+    "text": "to model such neural networks on the computer."
+  },
+  {
+    "startTime": 391.834,
+    "endTime": 394.187,
+    "text": "And I'll show you what that actually looks like."
+  },
+  {
+    "startTime": 394.211,
+    "endTime": 397.627,
+    "text": "So the pixels you can think about as a first layer of neurons,"
+  },
+  {
+    "startTime": 397.651,
+    "endTime": 399.89,
+    "text": "and that's, in fact, how it works in the eye --"
+  },
+  {
+    "startTime": 399.914,
+    "endTime": 401.577,
+    "text": "that's the neurons in the retina."
+  },
+  {
+    "startTime": 401.601,
+    "endTime": 403.101,
+    "text": "And those feed forward"
+  },
+  {
+    "startTime": 403.125,
+    "endTime": 406.528,
+    "text": "into one layer after another layer, after another layer of neurons,"
+  },
+  {
+    "startTime": 406.552,
+    "endTime": 409.58500000000004,
+    "text": "all connected by synapses of different weights."
+  },
+  {
+    "startTime": 409.609,
+    "endTime": 410.943,
+    "text": "The behavior of this network"
+  },
+  {
+    "startTime": 410.968,
+    "endTime": 414.252,
+    "text": "is characterized by the strengths of all of those synapses."
+  },
+  {
+    "startTime": 414.276,
+    "endTime": 417.564,
+    "text": "Those characterize the computational properties of this network."
+  },
+  {
+    "startTime": 417.588,
+    "endTime": 419.58000000000004,
+    "text": "And at the end of the day,"
+  },
+  {
+    "startTime": 419.82,
+    "endTime": 421.529,
+    "text": "you have a neuron or a small group of neurons"
+  },
+  {
+    "startTime": 421.553,
+    "endTime": 423.2,
+    "text": "that light up, saying, \"bird.\""
+  },
+  {
+    "startTime": 423.824,
+    "endTime": 426.956,
+    "text": "Now I'm going to represent those three things --"
+  },
+  {
+    "startTime": 426.98,
+    "endTime": 431.67600000000004,
+    "text": "the input pixels and the synapses in the neural network,"
+  },
+  {
+    "startTime": 431.7,
+    "endTime": 433.284,
+    "text": "and bird, the output --"
+  },
+  {
+    "startTime": 433.309,
+    "endTime": 436.36600000000004,
+    "text": "by three variables: x, w and y."
+  },
+  {
+    "startTime": 436.853,
+    "endTime": 438.664,
+    "text": "There are maybe a million or so x's --"
+  },
+  {
+    "startTime": 438.688,
+    "endTime": 440.64,
+    "text": "a million pixels in that image."
+  },
+  {
+    "startTime": 440.665,
+    "endTime": 443.11100000000005,
+    "text": "There are billions or trillions of w's,"
+  },
+  {
+    "startTime": 443.135,
+    "endTime": 446.556,
+    "text": "which represent the weights of all these synapses in the neural network."
+  },
+  {
+    "startTime": 446.58,
+    "endTime": 448.455,
+    "text": "And there's a very small number of y's,"
+  },
+  {
+    "startTime": 448.479,
+    "endTime": 450.337,
+    "text": "of outputs that that network has."
+  },
+  {
+    "startTime": 450.361,
+    "endTime": 452.11,
+    "text": "\"Bird\" is only four letters, right?"
+  },
+  {
+    "startTime": 453.88,
+    "endTime": 456.514,
+    "text": "So let's pretend that this is just a simple formula,"
+  },
+  {
+    "startTime": 456.538,
+    "endTime": 458.701,
+    "text": "x \"x\" w = y."
+  },
+  {
+    "startTime": 458.725,
+    "endTime": 460.761,
+    "text": "I'm putting the times in scare quotes"
+  },
+  {
+    "startTime": 460.785,
+    "endTime": 463.65000000000003,
+    "text": "because what's really going on there, of course,"
+  },
+  {
+    "startTime": 463.89,
+    "endTime": 466.135,
+    "text": "is a very complicated series of mathematical operations."
+  },
+  {
+    "startTime": 467.172,
+    "endTime": 468.39300000000003,
+    "text": "That's one equation."
+  },
+  {
+    "startTime": 468.417,
+    "endTime": 470.89,
+    "text": "There are three variables."
+  },
+  {
+    "startTime": 470.113,
+    "endTime": 472.839,
+    "text": "And we all know that if you have one equation,"
+  },
+  {
+    "startTime": 472.863,
+    "endTime": 476.505,
+    "text": "you can solve one variable by knowing the other two things."
+  },
+  {
+    "startTime": 477.158,
+    "endTime": 480.538,
+    "text": "So the problem of inference,"
+  },
+  {
+    "startTime": 480.562,
+    "endTime": 483.435,
+    "text": "that is, figuring out that the picture of a bird is a bird,"
+  },
+  {
+    "startTime": 483.459,
+    "endTime": 484.733,
+    "text": "is this one:"
+  },
+  {
+    "startTime": 484.757,
+    "endTime": 488.216,
+    "text": "it's where y is the unknown and w and x are known."
+  },
+  {
+    "startTime": 488.24,
+    "endTime": 490.699,
+    "text": "You know the neural network, you know the pixels."
+  },
+  {
+    "startTime": 490.723,
+    "endTime": 494.5,
+    "text": "As you can see, that's actually a relatively straightforward problem."
+  },
+  {
+    "startTime": 494.74,
+    "endTime": 496.26,
+    "text": "You multiply two times three and you're done."
+  },
+  {
+    "startTime": 496.862,
+    "endTime": 498.985,
+    "text": "I'll show you an artificial neural network"
+  },
+  {
+    "startTime": 499.9,
+    "endTime": 501.30499999999995,
+    "text": "that we've built recently, doing exactly that."
+  },
+  {
+    "startTime": 501.634,
+    "endTime": 504.494,
+    "text": "This is running in real time on a mobile phone,"
+  },
+  {
+    "startTime": 504.518,
+    "endTime": 507.83,
+    "text": "and that's, of course, amazing in its own right,"
+  },
+  {
+    "startTime": 507.855,
+    "endTime": 511.32300000000004,
+    "text": "that mobile phones can do so many billions and trillions of operations"
+  },
+  {
+    "startTime": 511.347,
+    "endTime": 512.595,
+    "text": "per second."
+  },
+  {
+    "startTime": 512.619,
+    "endTime": 514.234,
+    "text": "What you're looking at is a phone"
+  },
+  {
+    "startTime": 514.258,
+    "endTime": 517.8050000000001,
+    "text": "looking at one after another picture of a bird,"
+  },
+  {
+    "startTime": 517.828,
+    "endTime": 520.544,
+    "text": "and actually not only saying, \"Yes, it's a bird,\""
+  },
+  {
+    "startTime": 520.568,
+    "endTime": 523.978,
+    "text": "but identifying the species of bird with a network of this sort."
+  },
+  {
+    "startTime": 524.89,
+    "endTime": 526.716,
+    "text": "So in that picture,"
+  },
+  {
+    "startTime": 526.74,
+    "endTime": 530.542,
+    "text": "the x and the w are known, and the y is the unknown."
+  },
+  {
+    "startTime": 530.566,
+    "endTime": 533.74,
+    "text": "I'm glossing over the very difficult part, of course,"
+  },
+  {
+    "startTime": 533.98,
+    "endTime": 536.9590000000001,
+    "text": "which is how on earth do we figure out the w,"
+  },
+  {
+    "startTime": 536.983,
+    "endTime": 539.17,
+    "text": "the brain that can do such a thing?"
+  },
+  {
+    "startTime": 539.194,
+    "endTime": 541.27,
+    "text": "How would we ever learn such a model?"
+  },
+  {
+    "startTime": 541.418,
+    "endTime": 544.651,
+    "text": "So this process of learning, of solving for w,"
+  },
+  {
+    "startTime": 544.675,
+    "endTime": 547.322,
+    "text": "if we were doing this with the simple equation"
+  },
+  {
+    "startTime": 547.346,
+    "endTime": 549.346,
+    "text": "in which we think about these as numbers,"
+  },
+  {
+    "startTime": 549.37,
+    "endTime": 552.57,
+    "text": "we know exactly how to do that: 6 = 2 x w,"
+  },
+  {
+    "startTime": 552.81,
+    "endTime": 555.3929999999999,
+    "text": "well, we divide by two and we're done."
+  },
+  {
+    "startTime": 556.1,
+    "endTime": 558.221,
+    "text": "The problem is with this operator."
+  },
+  {
+    "startTime": 558.823,
+    "endTime": 559.973,
+    "text": "So, division --"
+  },
+  {
+    "startTime": 559.998,
+    "endTime": 563.119,
+    "text": "we've used division because it's the inverse to multiplication,"
+  },
+  {
+    "startTime": 563.143,
+    "endTime": 564.5830000000001,
+    "text": "but as I've just said,"
+  },
+  {
+    "startTime": 564.607,
+    "endTime": 567.55,
+    "text": "the multiplication is a bit of a lie here."
+  },
+  {
+    "startTime": 567.8,
+    "endTime": 570.406,
+    "text": "This is a very, very complicated, very non-linear operation;"
+  },
+  {
+    "startTime": 570.43,
+    "endTime": 572.1329999999999,
+    "text": "it has no inverse."
+  },
+  {
+    "startTime": 572.158,
+    "endTime": 575.308,
+    "text": "So we have to figure out a way to solve the equation"
+  },
+  {
+    "startTime": 575.332,
+    "endTime": 577.356,
+    "text": "without a division operator."
+  },
+  {
+    "startTime": 577.38,
+    "endTime": 579.723,
+    "text": "And the way to do that is fairly straightforward."
+  },
+  {
+    "startTime": 579.747,
+    "endTime": 582.418,
+    "text": "You just say, let's play a little algebra trick,"
+  },
+  {
+    "startTime": 582.442,
+    "endTime": 585.348,
+    "text": "and move the six over to the right-hand side of the equation."
+  },
+  {
+    "startTime": 585.372,
+    "endTime": 587.198,
+    "text": "Now, we're still using multiplication."
+  },
+  {
+    "startTime": 587.675,
+    "endTime": 591.255,
+    "text": "And that zero -- let's think about it as an error."
+  },
+  {
+    "startTime": 591.279,
+    "endTime": 593.794,
+    "text": "In other words, if we've solved for w the right way,"
+  },
+  {
+    "startTime": 593.818,
+    "endTime": 595.473,
+    "text": "then the error will be zero."
+  },
+  {
+    "startTime": 595.498,
+    "endTime": 597.436,
+    "text": "And if we haven't gotten it quite right,"
+  },
+  {
+    "startTime": 597.46,
+    "endTime": 599.2090000000001,
+    "text": "the error will be greater than zero."
+  },
+  {
+    "startTime": 599.233,
+    "endTime": 602.598,
+    "text": "So now we can just take guesses to minimize the error,"
+  },
+  {
+    "startTime": 602.623,
+    "endTime": 605.3100000000001,
+    "text": "and that's the sort of thing computers are very good at."
+  },
+  {
+    "startTime": 605.334,
+    "endTime": 606.9259999999999,
+    "text": "So you've taken an initial guess:"
+  },
+  {
+    "startTime": 606.951,
+    "endTime": 608.107,
+    "text": "what if w = 0?"
+  },
+  {
+    "startTime": 608.131,
+    "endTime": 609.371,
+    "text": "Well, then the error is 6."
+  },
+  {
+    "startTime": 609.395,
+    "endTime": 610.841,
+    "text": "What if w = 1? The error is 4."
+  },
+  {
+    "startTime": 610.865,
+    "endTime": 613.232,
+    "text": "And then the computer can sort of play Marco Polo,"
+  },
+  {
+    "startTime": 613.256,
+    "endTime": 615.622,
+    "text": "and drive down the error close to zero."
+  },
+  {
+    "startTime": 615.647,
+    "endTime": 619.21,
+    "text": "As it does that, it's getting successive approximations to w."
+  },
+  {
+    "startTime": 619.45,
+    "endTime": 622.7,
+    "text": "Typically, it never quite gets there, but after about a dozen steps,"
+  },
+  {
+    "startTime": 622.725,
+    "endTime": 627.349,
+    "text": "we're up to w = 2.999, which is close enough."
+  },
+  {
+    "startTime": 628.302,
+    "endTime": 630.116,
+    "text": "And this is the learning process."
+  },
+  {
+    "startTime": 630.14,
+    "endTime": 632.87,
+    "text": "So remember that what's been going on here"
+  },
+  {
+    "startTime": 632.894,
+    "endTime": 637.272,
+    "text": "is that we've been taking a lot of known x's and known y's"
+  },
+  {
+    "startTime": 637.296,
+    "endTime": 640.75,
+    "text": "and solving for the w in the middle through an iterative process."
+  },
+  {
+    "startTime": 640.774,
+    "endTime": 644.33,
+    "text": "It's exactly the same way that we do our own learning."
+  },
+  {
+    "startTime": 644.354,
+    "endTime": 646.5840000000001,
+    "text": "We have many, many images as babies"
+  },
+  {
+    "startTime": 646.608,
+    "endTime": 649.241,
+    "text": "and we get told, \"This is a bird; this is not a bird.\""
+  },
+  {
+    "startTime": 649.714,
+    "endTime": 651.812,
+    "text": "And over time, through iteration,"
+  },
+  {
+    "startTime": 651.836,
+    "endTime": 654.764,
+    "text": "we solve for w, we solve for those neural connections."
+  },
+  {
+    "startTime": 655.46,
+    "endTime": 659.546,
+    "text": "So now, we've held x and w fixed to solve for y;"
+  },
+  {
+    "startTime": 659.57,
+    "endTime": 661.417,
+    "text": "that's everyday, fast perception."
+  },
+  {
+    "startTime": 661.441,
+    "endTime": 663.2040000000001,
+    "text": "We figure out how we can solve for w,"
+  },
+  {
+    "startTime": 663.228,
+    "endTime": 665.131,
+    "text": "that's learning, which is a lot harder,"
+  },
+  {
+    "startTime": 665.155,
+    "endTime": 667.14,
+    "text": "because we need to do error minimization,"
+  },
+  {
+    "startTime": 667.164,
+    "endTime": 668.851,
+    "text": "using a lot of training examples."
+  },
+  {
+    "startTime": 668.875,
+    "endTime": 672.62,
+    "text": "And about a year ago, Alex Mordvintsev, on our team,"
+  },
+  {
+    "startTime": 672.86,
+    "endTime": 675.636,
+    "text": "decided to experiment with what happens if we try solving for x,"
+  },
+  {
+    "startTime": 675.66,
+    "endTime": 677.697,
+    "text": "given a known w and a known y."
+  },
+  {
+    "startTime": 678.124,
+    "endTime": 679.275,
+    "text": "In other words,"
+  },
+  {
+    "startTime": 679.299,
+    "endTime": 680.651,
+    "text": "you know that it's a bird,"
+  },
+  {
+    "startTime": 680.675,
+    "endTime": 683.978,
+    "text": "and you already have your neural network that you've trained on birds,"
+  },
+  {
+    "startTime": 684.2,
+    "endTime": 686.346,
+    "text": "but what is the picture of a bird?"
+  },
+  {
+    "startTime": 687.34,
+    "endTime": 692.58,
+    "text": "It turns out that by using exactly the same error-minimization procedure,"
+  },
+  {
+    "startTime": 692.82,
+    "endTime": 695.5120000000001,
+    "text": "one can do that with the network trained to recognize birds,"
+  },
+  {
+    "startTime": 695.536,
+    "endTime": 698.924,
+    "text": "and the result turns out to be ..."
+  },
+  {
+    "startTime": 702.4,
+    "endTime": 703.704,
+    "text": "a picture of birds."
+  },
+  {
+    "startTime": 704.814,
+    "endTime": 708.55,
+    "text": "So this is a picture of birds generated entirely by a neural network"
+  },
+  {
+    "startTime": 708.575,
+    "endTime": 710.4010000000001,
+    "text": "that was trained to recognize birds,"
+  },
+  {
+    "startTime": 710.425,
+    "endTime": 713.963,
+    "text": "just by solving for x rather than solving for y,"
+  },
+  {
+    "startTime": 713.987,
+    "endTime": 715.275,
+    "text": "and doing that iteratively."
+  },
+  {
+    "startTime": 715.732,
+    "endTime": 717.579,
+    "text": "Here's another fun example."
+  },
+  {
+    "startTime": 717.603,
+    "endTime": 721.4,
+    "text": "This was a work made by Mike Tyka in our group,"
+  },
+  {
+    "startTime": 721.64,
+    "endTime": 723.372,
+    "text": "which he calls \"Animal Parade.\""
+  },
+  {
+    "startTime": 723.396,
+    "endTime": 726.271,
+    "text": "It reminds me a little bit of William Kentridge's artworks,"
+  },
+  {
+    "startTime": 726.296,
+    "endTime": 728.7850000000001,
+    "text": "in which he makes sketches, rubs them out,"
+  },
+  {
+    "startTime": 728.809,
+    "endTime": 730.269,
+    "text": "makes sketches, rubs them out,"
+  },
+  {
+    "startTime": 730.293,
+    "endTime": 731.691,
+    "text": "and creates a movie this way."
+  },
+  {
+    "startTime": 731.715,
+    "endTime": 732.866,
+    "text": "In this case,"
+  },
+  {
+    "startTime": 732.89,
+    "endTime": 736.167,
+    "text": "what Mike is doing is varying y over the space of different animals,"
+  },
+  {
+    "startTime": 736.191,
+    "endTime": 738.573,
+    "text": "in a network designed to recognize and distinguish"
+  },
+  {
+    "startTime": 738.597,
+    "endTime": 740.406,
+    "text": "different animals from each other."
+  },
+  {
+    "startTime": 740.431,
+    "endTime": 744.182,
+    "text": "And you get this strange, Escher-like morph from one animal to another."
+  },
+  {
+    "startTime": 746.221,
+    "endTime": 750.835,
+    "text": "Here he and Alex together have tried reducing"
+  },
+  {
+    "startTime": 750.859,
+    "endTime": 753.618,
+    "text": "the y's to a space of only two dimensions,"
+  },
+  {
+    "startTime": 753.642,
+    "endTime": 757.8000000000001,
+    "text": "thereby making a map out of the space of all things"
+  },
+  {
+    "startTime": 757.104,
+    "endTime": 758.8230000000001,
+    "text": "recognized by this network."
+  },
+  {
+    "startTime": 758.847,
+    "endTime": 760.87,
+    "text": "Doing this kind of synthesis"
+  },
+  {
+    "startTime": 760.894,
+    "endTime": 763.276,
+    "text": "or generation of imagery over that entire surface,"
+  },
+  {
+    "startTime": 763.3,
+    "endTime": 766.146,
+    "text": "varying y over the surface, you make a kind of map --"
+  },
+  {
+    "startTime": 766.17,
+    "endTime": 769.31,
+    "text": "a visual map of all the things the network knows how to recognize."
+  },
+  {
+    "startTime": 769.335,
+    "endTime": 772.2,
+    "text": "The animals are all here; \"armadillo\" is right in that spot."
+  },
+  {
+    "startTime": 772.919,
+    "endTime": 775.398,
+    "text": "You can do this with other kinds of networks as well."
+  },
+  {
+    "startTime": 775.422,
+    "endTime": 778.296,
+    "text": "This is a network designed to recognize faces,"
+  },
+  {
+    "startTime": 778.32,
+    "endTime": 780.32,
+    "text": "to distinguish one face from another."
+  },
+  {
+    "startTime": 780.344,
+    "endTime": 783.5930000000001,
+    "text": "And here, we're putting in a y that says, \"me,\""
+  },
+  {
+    "startTime": 783.617,
+    "endTime": 785.192,
+    "text": "my own face parameters."
+  },
+  {
+    "startTime": 785.216,
+    "endTime": 786.922,
+    "text": "And when this thing solves for x,"
+  },
+  {
+    "startTime": 786.946,
+    "endTime": 789.5640000000001,
+    "text": "it generates this rather crazy,"
+  },
+  {
+    "startTime": 789.588,
+    "endTime": 794.16,
+    "text": "kind of cubist, surreal, psychedelic picture of me"
+  },
+  {
+    "startTime": 794.4,
+    "endTime": 795.846,
+    "text": "from multiple points of view at once."
+  },
+  {
+    "startTime": 795.87,
+    "endTime": 798.604,
+    "text": "The reason it looks like multiple points of view at once"
+  },
+  {
+    "startTime": 798.628,
+    "endTime": 802.315,
+    "text": "is because that network is designed to get rid of the ambiguity"
+  },
+  {
+    "startTime": 802.339,
+    "endTime": 804.815,
+    "text": "of a face being in one pose or another pose,"
+  },
+  {
+    "startTime": 804.839,
+    "endTime": 808.215,
+    "text": "being looked at with one kind of lighting, another kind of lighting."
+  },
+  {
+    "startTime": 808.239,
+    "endTime": 810.3240000000001,
+    "text": "So when you do this sort of reconstruction,"
+  },
+  {
+    "startTime": 810.348,
+    "endTime": 812.651,
+    "text": "if you don't use some sort of guide image"
+  },
+  {
+    "startTime": 812.676,
+    "endTime": 813.8870000000001,
+    "text": "or guide statistics,"
+  },
+  {
+    "startTime": 813.911,
+    "endTime": 817.675,
+    "text": "then you'll get a sort of confusion of different points of view,"
+  },
+  {
+    "startTime": 817.7,
+    "endTime": 819.6800000000001,
+    "text": "because it's ambiguous."
+  },
+  {
+    "startTime": 819.786,
+    "endTime": 824.8,
+    "text": "This is what happens if Alex uses his own face as a guide image"
+  },
+  {
+    "startTime": 824.33,
+    "endTime": 827.354,
+    "text": "during that optimization process to reconstruct my own face."
+  },
+  {
+    "startTime": 828.284,
+    "endTime": 830.612,
+    "text": "So you can see it's not perfect."
+  },
+  {
+    "startTime": 830.636,
+    "endTime": 832.51,
+    "text": "There's still quite a lot of work to do"
+  },
+  {
+    "startTime": 832.534,
+    "endTime": 834.987,
+    "text": "on how we optimize that optimization process."
+  },
+  {
+    "startTime": 835.11,
+    "endTime": 837.838,
+    "text": "But you start to get something more like a coherent face,"
+  },
+  {
+    "startTime": 837.862,
+    "endTime": 839.876,
+    "text": "rendered using my own face as a guide."
+  },
+  {
+    "startTime": 840.892,
+    "endTime": 843.393,
+    "text": "You don't have to start with a blank canvas"
+  },
+  {
+    "startTime": 843.417,
+    "endTime": 844.573,
+    "text": "or with white noise."
+  },
+  {
+    "startTime": 844.597,
+    "endTime": 845.901,
+    "text": "When you're solving for x,"
+  },
+  {
+    "startTime": 845.925,
+    "endTime": 849.814,
+    "text": "you can begin with an x, that is itself already some other image."
+  },
+  {
+    "startTime": 849.838,
+    "endTime": 852.394,
+    "text": "That's what this little demonstration is."
+  },
+  {
+    "startTime": 852.418,
+    "endTime": 856.54,
+    "text": "This is a network that is designed to categorize"
+  },
+  {
+    "startTime": 856.564,
+    "endTime": 859.683,
+    "text": "all sorts of different objects -- man-made structures, animals ..."
+  },
+  {
+    "startTime": 859.707,
+    "endTime": 862.3,
+    "text": "Here we're starting with just a picture of clouds,"
+  },
+  {
+    "startTime": 862.324,
+    "endTime": 863.995,
+    "text": "and as we optimize,"
+  },
+  {
+    "startTime": 864.19,
+    "endTime": 868.5050000000001,
+    "text": "basically, this network is figuring out what it sees in the clouds."
+  },
+  {
+    "startTime": 868.931,
+    "endTime": 871.2510000000001,
+    "text": "And the more time you spend looking at this,"
+  },
+  {
+    "startTime": 871.275,
+    "endTime": 874.28,
+    "text": "the more things you also will see in the clouds."
+  },
+  {
+    "startTime": 875.4,
+    "endTime": 878.379,
+    "text": "You could also use the face network to hallucinate into this,"
+  },
+  {
+    "startTime": 878.403,
+    "endTime": 880.215,
+    "text": "and you get some pretty crazy stuff."
+  },
+  {
+    "startTime": 880.239,
+    "endTime": 881.389,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 882.401,
+    "endTime": 885.145,
+    "text": "Or, Mike has done some other experiments"
+  },
+  {
+    "startTime": 885.169,
+    "endTime": 889.74,
+    "text": "in which he takes that cloud image,"
+  },
+  {
+    "startTime": 889.98,
+    "endTime": 892.604,
+    "text": "hallucinates, zooms, hallucinates, zooms hallucinates, zooms."
+  },
+  {
+    "startTime": 892.629,
+    "endTime": 893.78,
+    "text": "And in this way,"
+  },
+  {
+    "startTime": 893.804,
+    "endTime": 897.478,
+    "text": "you can get a sort of fugue state of the network, I suppose,"
+  },
+  {
+    "startTime": 897.503,
+    "endTime": 901.183,
+    "text": "or a sort of free association,"
+  },
+  {
+    "startTime": 901.207,
+    "endTime": 903.434,
+    "text": "in which the network is eating its own tail."
+  },
+  {
+    "startTime": 903.458,
+    "endTime": 906.879,
+    "text": "So every image is now the basis for,"
+  },
+  {
+    "startTime": 906.903,
+    "endTime": 908.3240000000001,
+    "text": "\"What do I think I see next?"
+  },
+  {
+    "startTime": 908.348,
+    "endTime": 911.151,
+    "text": "What do I think I see next? What do I think I see next?\""
+  },
+  {
+    "startTime": 911.487,
+    "endTime": 914.423,
+    "text": "I showed this for the first time in public"
+  },
+  {
+    "startTime": 914.447,
+    "endTime": 919.884,
+    "text": "to a group at a lecture in Seattle called \"Higher Education\" --"
+  },
+  {
+    "startTime": 919.908,
+    "endTime": 922.345,
+    "text": "this was right after marijuana was legalized."
+  },
+  {
+    "startTime": 922.369,
+    "endTime": 924.784,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 926.627,
+    "endTime": 928.731,
+    "text": "So I'd like to finish up quickly"
+  },
+  {
+    "startTime": 928.755,
+    "endTime": 933.1,
+    "text": "by just noting that this technology is not constrained."
+  },
+  {
+    "startTime": 933.34,
+    "endTime": 936.6990000000001,
+    "text": "I've shown you purely visual examples because they're really fun to look at."
+  },
+  {
+    "startTime": 936.723,
+    "endTime": 939.174,
+    "text": "It's not a purely visual technology."
+  },
+  {
+    "startTime": 939.198,
+    "endTime": 941.191,
+    "text": "Our artist collaborator, Ross Goodwin,"
+  },
+  {
+    "startTime": 941.215,
+    "endTime": 944.8860000000001,
+    "text": "has done experiments involving a camera that takes a picture,"
+  },
+  {
+    "startTime": 944.91,
+    "endTime": 949.144,
+    "text": "and then a computer in his backpack writes a poem using neural networks,"
+  },
+  {
+    "startTime": 949.168,
+    "endTime": 951.112,
+    "text": "based on the contents of the image."
+  },
+  {
+    "startTime": 951.136,
+    "endTime": 954.8299999999999,
+    "text": "And that poetry neural network has been trained"
+  },
+  {
+    "startTime": 954.107,
+    "endTime": 956.341,
+    "text": "on a large corpus of 20th-century poetry."
+  },
+  {
+    "startTime": 956.365,
+    "endTime": 957.864,
+    "text": "And the poetry is, you know,"
+  },
+  {
+    "startTime": 957.888,
+    "endTime": 959.802,
+    "text": "I think, kind of not bad, actually."
+  },
+  {
+    "startTime": 959.826,
+    "endTime": 961.21,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 961.234,
+    "endTime": 962.393,
+    "text": "In closing,"
+  },
+  {
+    "startTime": 962.417,
+    "endTime": 964.549,
+    "text": "I think that per Michelangelo,"
+  },
+  {
+    "startTime": 964.573,
+    "endTime": 965.807,
+    "text": "I think he was right;"
+  },
+  {
+    "startTime": 965.831,
+    "endTime": 969.267,
+    "text": "perception and creativity are very intimately connected."
+  },
+  {
+    "startTime": 969.611,
+    "endTime": 972.245,
+    "text": "What we've just seen are neural networks"
+  },
+  {
+    "startTime": 972.269,
+    "endTime": 974.572,
+    "text": "that are entirely trained to discriminate,"
+  },
+  {
+    "startTime": 974.596,
+    "endTime": 976.838,
+    "text": "or to recognize different things in the world,"
+  },
+  {
+    "startTime": 976.862,
+    "endTime": 980.2199999999999,
+    "text": "able to be run in reverse, to generate."
+  },
+  {
+    "startTime": 980.47,
+    "endTime": 981.83,
+    "text": "One of the things that suggests to me"
+  },
+  {
+    "startTime": 981.854,
+    "endTime": 984.2520000000001,
+    "text": "is not only that Michelangelo really did see"
+  },
+  {
+    "startTime": 984.276,
+    "endTime": 986.728,
+    "text": "the sculpture in the blocks of stone,"
+  },
+  {
+    "startTime": 986.752,
+    "endTime": 990.39,
+    "text": "but that any creature, any being, any alien"
+  },
+  {
+    "startTime": 990.414,
+    "endTime": 994.71,
+    "text": "that is able to do perceptual acts of that sort"
+  },
+  {
+    "startTime": 994.95,
+    "endTime": 995.47,
+    "text": "is also able to create"
+  },
+  {
+    "startTime": 995.494,
+    "endTime": 998.7180000000001,
+    "text": "because it's exactly the same machinery that's used in both cases."
+  },
+  {
+    "startTime": 998.742,
+    "endTime": 1003.274,
+    "text": "Also, I think that perception and creativity are by no means"
+  },
+  {
+    "startTime": 1003.3,
+    "endTime": 1004.51,
+    "text": "uniquely human."
+  },
+  {
+    "startTime": 1004.53,
+    "endTime": 1008.2379999999999,
+    "text": "We start to have computer models that can do exactly these sorts of things."
+  },
+  {
+    "startTime": 1008.26,
+    "endTime": 1011.588,
+    "text": "And that ought to be unsurprising; the brain is computational."
+  },
+  {
+    "startTime": 1011.62,
+    "endTime": 1013.277,
+    "text": "And finally,"
+  },
+  {
+    "startTime": 1013.3,
+    "endTime": 1017.968,
+    "text": "computing began as an exercise in designing intelligent machinery."
+  },
+  {
+    "startTime": 1017.99,
+    "endTime": 1020.452,
+    "text": "It was very much modeled after the idea"
+  },
+  {
+    "startTime": 1020.47,
+    "endTime": 1023.4830000000001,
+    "text": "of how could we make machines intelligent."
+  },
+  {
+    "startTime": 1023.51,
+    "endTime": 1025.672,
+    "text": "And we finally are starting to fulfill now"
+  },
+  {
+    "startTime": 1025.7,
+    "endTime": 1028.106,
+    "text": "some of the promises of those early pioneers,"
+  },
+  {
+    "startTime": 1028.13,
+    "endTime": 1029.843,
+    "text": "of Turing and von Neumann"
+  },
+  {
+    "startTime": 1029.86,
+    "endTime": 1032.125,
+    "text": "and McCulloch and Pitts."
+  },
+  {
+    "startTime": 1032.15,
+    "endTime": 1036.248,
+    "text": "And I think that computing is not just about accounting"
+  },
+  {
+    "startTime": 1036.28,
+    "endTime": 1038.427,
+    "text": "or playing Candy Crush or something."
+  },
+  {
+    "startTime": 1038.45,
+    "endTime": 1041.2440000000001,
+    "text": "From the beginning, we modeled them after our minds."
+  },
+  {
+    "startTime": 1041.49,
+    "endTime": 1044.318,
+    "text": "And they give us both the ability to understand our own minds better"
+  },
+  {
+    "startTime": 1044.34,
+    "endTime": 1045.869,
+    "text": "and to extend them."
+  },
+  {
+    "startTime": 1046.63,
+    "endTime": 1047.796,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 1047.82,
+    "endTime": 1053.759,
+    "text": "(Applause)"
+  }
+]

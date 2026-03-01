@@ -1,0 +1,1037 @@
+[
+  {
+    "startTime": 12.557,
+    "endTime": 16.235,
+    "text": "In the space that used to house one transistor,"
+  },
+  {
+    "startTime": 16.259,
+    "endTime": 19.98,
+    "text": "we can now fit one billion."
+  },
+  {
+    "startTime": 19.636,
+    "endTime": 23.532,
+    "text": "That made it so that a computer the size of an entire room"
+  },
+  {
+    "startTime": 23.557,
+    "endTime": 26.145,
+    "text": "now fits in your pocket."
+  },
+  {
+    "startTime": 26.17,
+    "endTime": 29.189,
+    "text": "You might say the future is small."
+  },
+  {
+    "startTime": 29.611,
+    "endTime": 30.818,
+    "text": "As an engineer,"
+  },
+  {
+    "startTime": 30.842,
+    "endTime": 34.827,
+    "text": "I'm inspired by this miniaturization revolution in computers."
+  },
+  {
+    "startTime": 34.851,
+    "endTime": 36.199,
+    "text": "As a physician,"
+  },
+  {
+    "startTime": 36.223,
+    "endTime": 41.946,
+    "text": "I wonder whether we could use it to reduce the number of lives lost"
+  },
+  {
+    "startTime": 41.97,
+    "endTime": 46.769999999999996,
+    "text": "due to one of the fastest-growing diseases on Earth:"
+  },
+  {
+    "startTime": 46.101,
+    "endTime": 47.519,
+    "text": "cancer."
+  },
+  {
+    "startTime": 47.543,
+    "endTime": 48.798,
+    "text": "Now when I say that,"
+  },
+  {
+    "startTime": 48.822,
+    "endTime": 52.6,
+    "text": "what most people hear me say is that we're working on curing cancer."
+  },
+  {
+    "startTime": 52.624,
+    "endTime": 53.887,
+    "text": "And we are."
+  },
+  {
+    "startTime": 53.911,
+    "endTime": 55.620000000000005,
+    "text": "But it turns out"
+  },
+  {
+    "startTime": 55.86,
+    "endTime": 57.887,
+    "text": "that there's an incredible opportunity to save lives"
+  },
+  {
+    "startTime": 57.911,
+    "endTime": 61.244,
+    "text": "through the early detection and prevention of cancer."
+  },
+  {
+    "startTime": 61.785,
+    "endTime": 67.164,
+    "text": "Worldwide, over two-thirds of deaths due to cancer are fully preventable"
+  },
+  {
+    "startTime": 67.188,
+    "endTime": 69.988,
+    "text": "using methods that we already have in hand today."
+  },
+  {
+    "startTime": 70.406,
+    "endTime": 73.305,
+    "text": "Things like vaccination, timely screening"
+  },
+  {
+    "startTime": 73.329,
+    "endTime": 75.562,
+    "text": "and of course, stopping smoking."
+  },
+  {
+    "startTime": 76.316,
+    "endTime": 79.909,
+    "text": "But even with the best tools and technologies that we have today,"
+  },
+  {
+    "startTime": 79.933,
+    "endTime": 81.99600000000001,
+    "text": "some tumors can't be detected"
+  },
+  {
+    "startTime": 82.2,
+    "endTime": 85.69,
+    "text": "until 10 years after they've started growing,"
+  },
+  {
+    "startTime": 85.714,
+    "endTime": 89.477,
+    "text": "when they are 50 million cancer cells strong."
+  },
+  {
+    "startTime": 90.178,
+    "endTime": 91.857,
+    "text": "What if we had better technologies"
+  },
+  {
+    "startTime": 91.881,
+    "endTime": 94.987,
+    "text": "to detect some of these more deadly cancers sooner,"
+  },
+  {
+    "startTime": 95.11,
+    "endTime": 96.313,
+    "text": "when they could be removed,"
+  },
+  {
+    "startTime": 96.337,
+    "endTime": 98.538,
+    "text": "when they were just getting started?"
+  },
+  {
+    "startTime": 98.562,
+    "endTime": 101.837,
+    "text": "Let me tell you about how miniaturization might get us there."
+  },
+  {
+    "startTime": 103.14,
+    "endTime": 105.428,
+    "text": "This is a microscope in a typical lab"
+  },
+  {
+    "startTime": 105.452,
+    "endTime": 109.8,
+    "text": "that a pathologist would use for looking at a tissue specimen,"
+  },
+  {
+    "startTime": 109.32,
+    "endTime": 111.47,
+    "text": "like a biopsy or a pap smear."
+  },
+  {
+    "startTime": 111.927,
+    "endTime": 113.995,
+    "text": "This $7,000 microscope"
+  },
+  {
+    "startTime": 114.19,
+    "endTime": 117.27499999999999,
+    "text": "would be used by somebody with years of specialized training"
+  },
+  {
+    "startTime": 117.299,
+    "endTime": 119.88000000000001,
+    "text": "to spot cancer cells."
+  },
+  {
+    "startTime": 120.126,
+    "endTime": 123.17200000000001,
+    "text": "This is an image from a colleague of mine at Rice University,"
+  },
+  {
+    "startTime": 123.196,
+    "endTime": 124.774,
+    "text": "Rebecca Richards-Kortum."
+  },
+  {
+    "startTime": 124.798,
+    "endTime": 128.625,
+    "text": "What she and her team have done is miniaturize that whole microscope"
+  },
+  {
+    "startTime": 128.649,
+    "endTime": 130.624,
+    "text": "into this $10 part,"
+  },
+  {
+    "startTime": 130.648,
+    "endTime": 133.464,
+    "text": "and it fits on the end of an optical fiber."
+  },
+  {
+    "startTime": 133.923,
+    "endTime": 137.557,
+    "text": "Now what that means is instead of taking a sample from a patient"
+  },
+  {
+    "startTime": 137.581,
+    "endTime": 139.23,
+    "text": "and sending it to the microscope,"
+  },
+  {
+    "startTime": 139.254,
+    "endTime": 141.81,
+    "text": "you can bring the microscope to the patient."
+  },
+  {
+    "startTime": 142.26,
+    "endTime": 146.619,
+    "text": "And then, instead of requiring a specialist to look at the images,"
+  },
+  {
+    "startTime": 146.643,
+    "endTime": 151.705,
+    "text": "you can train the computer to score normal versus cancerous cells."
+  },
+  {
+    "startTime": 152.84,
+    "endTime": 153.254,
+    "text": "Now this is important,"
+  },
+  {
+    "startTime": 153.278,
+    "endTime": 156.315,
+    "text": "because what they found working in rural communities,"
+  },
+  {
+    "startTime": 156.339,
+    "endTime": 159.578,
+    "text": "is that even when they have a mobile screening van"
+  },
+  {
+    "startTime": 159.602,
+    "endTime": 162.435,
+    "text": "that can go out into the community and perform exams"
+  },
+  {
+    "startTime": 162.459,
+    "endTime": 163.864,
+    "text": "and collect samples"
+  },
+  {
+    "startTime": 163.888,
+    "endTime": 167.104,
+    "text": "and send them to the central hospital for analysis,"
+  },
+  {
+    "startTime": 167.128,
+    "endTime": 168.47099999999998,
+    "text": "that days later,"
+  },
+  {
+    "startTime": 168.496,
+    "endTime": 171.163,
+    "text": "women get a call with an abnormal test result"
+  },
+  {
+    "startTime": 171.187,
+    "endTime": 172.804,
+    "text": "and they're asked to come in."
+  },
+  {
+    "startTime": 172.828,
+    "endTime": 177.171,
+    "text": "Fully half of them don't turn up because they can't afford the trip."
+  },
+  {
+    "startTime": 177.721,
+    "endTime": 181.145,
+    "text": "With the integrated microscope and computer analysis,"
+  },
+  {
+    "startTime": 181.169,
+    "endTime": 183.997,
+    "text": "Rebecca and her colleagues have been able to create a van"
+  },
+  {
+    "startTime": 184.21,
+    "endTime": 187.80700000000002,
+    "text": "that has both a diagnostic setup and a treatment setup."
+  },
+  {
+    "startTime": 187.831,
+    "endTime": 190.545,
+    "text": "And what that means is that they can do a diagnosis"
+  },
+  {
+    "startTime": 190.569,
+    "endTime": 193.256,
+    "text": "and perform therapy on the spot,"
+  },
+  {
+    "startTime": 193.28,
+    "endTime": 195.418,
+    "text": "so no one is lost to follow up."
+  },
+  {
+    "startTime": 195.831,
+    "endTime": 199.779,
+    "text": "That's just one example of how miniaturization can save lives."
+  },
+  {
+    "startTime": 200.148,
+    "endTime": 201.301,
+    "text": "Now as engineers,"
+  },
+  {
+    "startTime": 201.325,
+    "endTime": 204.7,
+    "text": "we think of this as straight-up miniaturization."
+  },
+  {
+    "startTime": 204.94,
+    "endTime": 206.531,
+    "text": "You took a big thing and you made it little."
+  },
+  {
+    "startTime": 206.555,
+    "endTime": 208.806,
+    "text": "But what I told you before about computers"
+  },
+  {
+    "startTime": 208.83,
+    "endTime": 211.76000000000002,
+    "text": "was that they transformed our lives"
+  },
+  {
+    "startTime": 211.1,
+    "endTime": 215.4,
+    "text": "when they became small enough for us to take them everywhere."
+  },
+  {
+    "startTime": 215.785,
+    "endTime": 220.81,
+    "text": "So what is the transformational equivalent like that in medicine?"
+  },
+  {
+    "startTime": 220.5,
+    "endTime": 223.636,
+    "text": "Well, what if you had a detector"
+  },
+  {
+    "startTime": 223.66,
+    "endTime": 227.922,
+    "text": "that was so small that it could circulate in your body,"
+  },
+  {
+    "startTime": 227.946,
+    "endTime": 230.359,
+    "text": "find the tumor all by itself"
+  },
+  {
+    "startTime": 230.383,
+    "endTime": 232.752,
+    "text": "and send a signal to the outside world?"
+  },
+  {
+    "startTime": 233.79,
+    "endTime": 235.156,
+    "text": "It sounds a little bit like science fiction."
+  },
+  {
+    "startTime": 235.18,
+    "endTime": 239.83,
+    "text": "But actually, nanotechnology allows us to do just that."
+  },
+  {
+    "startTime": 239.415,
+    "endTime": 244.296,
+    "text": "Nanotechnology allows us to shrink the parts that make up the detector"
+  },
+  {
+    "startTime": 244.32,
+    "endTime": 246.156,
+    "text": "from the width of a human hair,"
+  },
+  {
+    "startTime": 246.181,
+    "endTime": 247.841,
+    "text": "which is 100 microns,"
+  },
+  {
+    "startTime": 247.865,
+    "endTime": 250.42000000000002,
+    "text": "to a thousand times smaller,"
+  },
+  {
+    "startTime": 250.444,
+    "endTime": 252.345,
+    "text": "which is 100 nanometers."
+  },
+  {
+    "startTime": 252.37,
+    "endTime": 255.18,
+    "text": "And that has profound implications."
+  },
+  {
+    "startTime": 255.583,
+    "endTime": 259.226,
+    "text": "It turns out that materials actually change their properties"
+  },
+  {
+    "startTime": 259.25,
+    "endTime": 260.846,
+    "text": "at the nanoscale."
+  },
+  {
+    "startTime": 261.279,
+    "endTime": 263.777,
+    "text": "You take a common material like gold,"
+  },
+  {
+    "startTime": 263.801,
+    "endTime": 267.122,
+    "text": "and you grind it into dust, into gold nanoparticles,"
+  },
+  {
+    "startTime": 267.146,
+    "endTime": 270.458,
+    "text": "and it changes from looking gold to looking red."
+  },
+  {
+    "startTime": 271.82,
+    "endTime": 274.895,
+    "text": "If you take a more exotic material like cadmium selenide --"
+  },
+  {
+    "startTime": 274.919,
+    "endTime": 277.91999999999996,
+    "text": "forms a big, black crystal --"
+  },
+  {
+    "startTime": 277.117,
+    "endTime": 279.718,
+    "text": "if you make nanocrystals out of this material"
+  },
+  {
+    "startTime": 279.742,
+    "endTime": 281.315,
+    "text": "and you put it in a liquid,"
+  },
+  {
+    "startTime": 281.339,
+    "endTime": 283.163,
+    "text": "and you shine light on it,"
+  },
+  {
+    "startTime": 283.187,
+    "endTime": 284.353,
+    "text": "they glow."
+  },
+  {
+    "startTime": 284.377,
+    "endTime": 290.8,
+    "text": "And they glow blue, green, yellow, orange, red,"
+  },
+  {
+    "startTime": 290.32,
+    "endTime": 292.306,
+    "text": "depending only on their size."
+  },
+  {
+    "startTime": 292.887,
+    "endTime": 296.89,
+    "text": "It's wild! Can you imagine an object like that in the macro world?"
+  },
+  {
+    "startTime": 296.914,
+    "endTime": 303.485,
+    "text": "It would be like all the denim jeans in your closet are all made of cotton,"
+  },
+  {
+    "startTime": 303.509,
+    "endTime": 307.82,
+    "text": "but they are different colors depending only on their size."
+  },
+  {
+    "startTime": 308.212,
+    "endTime": 309.908,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 310.982,
+    "endTime": 312.50600000000003,
+    "text": "So as a physician,"
+  },
+  {
+    "startTime": 312.53,
+    "endTime": 314.753,
+    "text": "what's just as interesting to me"
+  },
+  {
+    "startTime": 314.778,
+    "endTime": 317.78000000000003,
+    "text": "is that it's not just the color of materials"
+  },
+  {
+    "startTime": 317.102,
+    "endTime": 319.32,
+    "text": "that changes at the nanoscale;"
+  },
+  {
+    "startTime": 319.57,
+    "endTime": 322.665,
+    "text": "the way they travel in your body also changes."
+  },
+  {
+    "startTime": 323.137,
+    "endTime": 325.936,
+    "text": "And this is the kind of observation that we're going to use"
+  },
+  {
+    "startTime": 325.96,
+    "endTime": 328.133,
+    "text": "to make a better cancer detector."
+  },
+  {
+    "startTime": 328.158,
+    "endTime": 329.911,
+    "text": "So let me show you what I mean."
+  },
+  {
+    "startTime": 330.686,
+    "endTime": 332.883,
+    "text": "This is a blood vessel in the body."
+  },
+  {
+    "startTime": 332.907,
+    "endTime": 335.318,
+    "text": "Surrounding the blood vessel is a tumor."
+  },
+  {
+    "startTime": 335.683,
+    "endTime": 338.724,
+    "text": "We're going to inject nanoparticles into the blood vessel"
+  },
+  {
+    "startTime": 338.748,
+    "endTime": 342.928,
+    "text": "and watch how they travel from the bloodstream into the tumor."
+  },
+  {
+    "startTime": 343.464,
+    "endTime": 347.816,
+    "text": "Now it turns out that the blood vessels of many tumors are leaky,"
+  },
+  {
+    "startTime": 347.84,
+    "endTime": 352.205,
+    "text": "and so nanoparticles can leak out from the bloodstream into the tumor."
+  },
+  {
+    "startTime": 352.628,
+    "endTime": 355.762,
+    "text": "Whether they leak out depends on their size."
+  },
+  {
+    "startTime": 356.129,
+    "endTime": 357.279,
+    "text": "So in this image,"
+  },
+  {
+    "startTime": 357.303,
+    "endTime": 361.674,
+    "text": "the smaller, hundred-nanometer, blue nanoparticles are leaking out,"
+  },
+  {
+    "startTime": 361.698,
+    "endTime": 365.94,
+    "text": "and the larger, 500-nanometer, red nanoparticles"
+  },
+  {
+    "startTime": 365.118,
+    "endTime": 366.895,
+    "text": "are stuck in the bloodstream."
+  },
+  {
+    "startTime": 366.919,
+    "endTime": 369.21999999999997,
+    "text": "So that means as an engineer,"
+  },
+  {
+    "startTime": 369.46,
+    "endTime": 373.38,
+    "text": "depending on how big or small I make a material,"
+  },
+  {
+    "startTime": 373.62,
+    "endTime": 376.103,
+    "text": "I can change where it goes in your body."
+  },
+  {
+    "startTime": 377.249,
+    "endTime": 381.891,
+    "text": "In my lab, we recently made a cancer nanodetector"
+  },
+  {
+    "startTime": 381.915,
+    "endTime": 387.163,
+    "text": "that is so small that it could travel into the body and look for tumors."
+  },
+  {
+    "startTime": 387.477,
+    "endTime": 391.568,
+    "text": "We designed it to listen for tumor invasion:"
+  },
+  {
+    "startTime": 391.593,
+    "endTime": 396.36600000000004,
+    "text": "the orchestra of chemical signals that tumors need to make to spread."
+  },
+  {
+    "startTime": 396.932,
+    "endTime": 399.834,
+    "text": "For a tumor to break out of the tissue that it's born in,"
+  },
+  {
+    "startTime": 399.858,
+    "endTime": 402.574,
+    "text": "it has to make chemicals called enzymes"
+  },
+  {
+    "startTime": 402.598,
+    "endTime": 405.182,
+    "text": "to chew through the scaffolding of tissues."
+  },
+  {
+    "startTime": 405.763,
+    "endTime": 410.484,
+    "text": "We designed these nanoparticles to be activated by these enzymes."
+  },
+  {
+    "startTime": 411.34,
+    "endTime": 416.945,
+    "text": "One enzyme can activate a thousand of these chemical reactions in an hour."
+  },
+  {
+    "startTime": 417.462,
+    "endTime": 421.2,
+    "text": "Now in engineering, we call that one-to-a-thousand ratio"
+  },
+  {
+    "startTime": 421.44,
+    "endTime": 422.609,
+    "text": "a form of amplification,"
+  },
+  {
+    "startTime": 422.633,
+    "endTime": 424.805,
+    "text": "and it makes something ultrasensitive."
+  },
+  {
+    "startTime": 424.829,
+    "endTime": 428.66200000000003,
+    "text": "So we've made an ultrasensitive cancer detector."
+  },
+  {
+    "startTime": 429.22,
+    "endTime": 434.12,
+    "text": "OK, but how do I get this activated signal to the outside world,"
+  },
+  {
+    "startTime": 434.144,
+    "endTime": 435.882,
+    "text": "where I can act on it?"
+  },
+  {
+    "startTime": 435.906,
+    "endTime": 439.458,
+    "text": "For this, we're going to use one more piece of nanoscale biology,"
+  },
+  {
+    "startTime": 439.482,
+    "endTime": 441.266,
+    "text": "and that has to do with the kidney."
+  },
+  {
+    "startTime": 441.659,
+    "endTime": 443.575,
+    "text": "The kidney is a filter."
+  },
+  {
+    "startTime": 443.996,
+    "endTime": 448.625,
+    "text": "Its job is to filter out the blood and put waste into the urine."
+  },
+  {
+    "startTime": 449.197,
+    "endTime": 451.859,
+    "text": "It turns out that what the kidney filters"
+  },
+  {
+    "startTime": 451.883,
+    "endTime": 454.445,
+    "text": "is also dependent on size."
+  },
+  {
+    "startTime": 454.901,
+    "endTime": 456.841,
+    "text": "So in this image, what you can see"
+  },
+  {
+    "startTime": 456.865,
+    "endTime": 459.874,
+    "text": "is that everything smaller than five nanometers"
+  },
+  {
+    "startTime": 459.898,
+    "endTime": 464.3,
+    "text": "is going from the blood, through the kidney, into the urine,"
+  },
+  {
+    "startTime": 464.27,
+    "endTime": 466.697,
+    "text": "and everything else that's bigger is retained."
+  },
+  {
+    "startTime": 467.176,
+    "endTime": 472.123,
+    "text": "OK, so if I make a 100-nanometer cancer detector,"
+  },
+  {
+    "startTime": 472.147,
+    "endTime": 474.61899999999997,
+    "text": "I inject it in the bloodstream,"
+  },
+  {
+    "startTime": 474.643,
+    "endTime": 480.72999999999996,
+    "text": "it can leak into the tumor where it's activated by tumor enzymes"
+  },
+  {
+    "startTime": 480.97,
+    "endTime": 482.45300000000003,
+    "text": "to release a small signal"
+  },
+  {
+    "startTime": 482.477,
+    "endTime": 485.698,
+    "text": "that is small enough to be filtered out of the kidney"
+  },
+  {
+    "startTime": 485.723,
+    "endTime": 487.901,
+    "text": "and put into the urine,"
+  },
+  {
+    "startTime": 487.925,
+    "endTime": 491.966,
+    "text": "I have a signal in the outside world that I can detect."
+  },
+  {
+    "startTime": 492.588,
+    "endTime": 494.64000000000004,
+    "text": "OK, but there's one more problem."
+  },
+  {
+    "startTime": 494.664,
+    "endTime": 496.409,
+    "text": "This is a tiny little signal,"
+  },
+  {
+    "startTime": 496.434,
+    "endTime": 498.406,
+    "text": "so how do I detect it?"
+  },
+  {
+    "startTime": 498.73,
+    "endTime": 500.96500000000003,
+    "text": "Well, the signal is just a molecule."
+  },
+  {
+    "startTime": 500.989,
+    "endTime": 503.655,
+    "text": "They're molecules that we designed as engineers."
+  },
+  {
+    "startTime": 503.68,
+    "endTime": 506.858,
+    "text": "They're completely synthetic, and we can design them"
+  },
+  {
+    "startTime": 506.882,
+    "endTime": 510.121,
+    "text": "so they are compatible with our tool of choice."
+  },
+  {
+    "startTime": 510.145,
+    "endTime": 513.587,
+    "text": "If we want to use a really sensitive, fancy instrument"
+  },
+  {
+    "startTime": 513.611,
+    "endTime": 515.575,
+    "text": "called a mass spectrometer,"
+  },
+  {
+    "startTime": 515.599,
+    "endTime": 518.11,
+    "text": "then we make a molecule with a unique mass."
+  },
+  {
+    "startTime": 518.671,
+    "endTime": 522.37,
+    "text": "Or maybe we want make something that's more inexpensive and portable."
+  },
+  {
+    "startTime": 522.394,
+    "endTime": 526.177,
+    "text": "Then we make molecules that we can trap on paper,"
+  },
+  {
+    "startTime": 526.201,
+    "endTime": 527.905,
+    "text": "like a pregnancy test."
+  },
+  {
+    "startTime": 527.929,
+    "endTime": 530.555,
+    "text": "In fact, there's a whole world of paper tests"
+  },
+  {
+    "startTime": 530.579,
+    "endTime": 535.9,
+    "text": "that are becoming available in a field called paper diagnostics."
+  },
+  {
+    "startTime": 535.711,
+    "endTime": 538.37,
+    "text": "Alright, where are we going with this?"
+  },
+  {
+    "startTime": 538.724,
+    "endTime": 540.293,
+    "text": "What I'm going to tell you next,"
+  },
+  {
+    "startTime": 540.317,
+    "endTime": 542.143,
+    "text": "as a lifelong researcher,"
+  },
+  {
+    "startTime": 542.167,
+    "endTime": 544.46,
+    "text": "represents a dream of mine."
+  },
+  {
+    "startTime": 544.396,
+    "endTime": 546.4879999999999,
+    "text": "I can't say that's it's a promise;"
+  },
+  {
+    "startTime": 546.513,
+    "endTime": 548.5,
+    "text": "it's a dream."
+  },
+  {
+    "startTime": 548.29,
+    "endTime": 551.616,
+    "text": "But I think we all have to have dreams to keep us pushing forward,"
+  },
+  {
+    "startTime": 551.64,
+    "endTime": 555.577,
+    "text": "even -- and maybe especially -- cancer researchers."
+  },
+  {
+    "startTime": 555.601,
+    "endTime": 559.1,
+    "text": "I'm going to tell you what I hope will happen with my technology,"
+  },
+  {
+    "startTime": 559.124,
+    "endTime": 563.215,
+    "text": "that my team and I will put our hearts and souls"
+  },
+  {
+    "startTime": 563.239,
+    "endTime": 564.7610000000001,
+    "text": "into making a reality."
+  },
+  {
+    "startTime": 565.289,
+    "endTime": 566.987,
+    "text": "OK, here goes."
+  },
+  {
+    "startTime": 567.11,
+    "endTime": 570.366,
+    "text": "I dream that one day,"
+  },
+  {
+    "startTime": 570.39,
+    "endTime": 573.645,
+    "text": "instead of going into an expensive screening facility"
+  },
+  {
+    "startTime": 573.669,
+    "endTime": 575.174,
+    "text": "to get a colonoscopy,"
+  },
+  {
+    "startTime": 575.198,
+    "endTime": 576.521,
+    "text": "or a mammogram,"
+  },
+  {
+    "startTime": 576.545,
+    "endTime": 577.953,
+    "text": "or a pap smear,"
+  },
+  {
+    "startTime": 578.585,
+    "endTime": 580.3040000000001,
+    "text": "that you could get a shot,"
+  },
+  {
+    "startTime": 580.328,
+    "endTime": 581.9879999999999,
+    "text": "wait an hour,"
+  },
+  {
+    "startTime": 582.12,
+    "endTime": 584.806,
+    "text": "and do a urine test on a paper strip."
+  },
+  {
+    "startTime": 585.653,
+    "endTime": 588.46,
+    "text": "I imagine that this could even happen"
+  },
+  {
+    "startTime": 588.484,
+    "endTime": 591.147,
+    "text": "without the need for steady electricity,"
+  },
+  {
+    "startTime": 591.171,
+    "endTime": 593.7750000000001,
+    "text": "or a medical professional in the room."
+  },
+  {
+    "startTime": 593.799,
+    "endTime": 595.295,
+    "text": "Maybe they could be far away"
+  },
+  {
+    "startTime": 595.32,
+    "endTime": 598.13,
+    "text": "and connected only by the image on a smartphone."
+  },
+  {
+    "startTime": 598.854,
+    "endTime": 600.589,
+    "text": "Now I know this sounds like a dream,"
+  },
+  {
+    "startTime": 600.613,
+    "endTime": 603.7320000000001,
+    "text": "but in the lab we already have this working in mice,"
+  },
+  {
+    "startTime": 603.756,
+    "endTime": 605.834,
+    "text": "where it works better than existing methods"
+  },
+  {
+    "startTime": 605.859,
+    "endTime": 609.83,
+    "text": "for the detection of lung, colon and ovarian cancer."
+  },
+  {
+    "startTime": 610.603,
+    "endTime": 612.837,
+    "text": "And I hope that what this means"
+  },
+  {
+    "startTime": 612.861,
+    "endTime": 618.37,
+    "text": "is that one day we can detect tumors in patients"
+  },
+  {
+    "startTime": 618.61,
+    "endTime": 621.354,
+    "text": "sooner than 10 years after they've started growing,"
+  },
+  {
+    "startTime": 621.378,
+    "endTime": 623.363,
+    "text": "in all walks of life,"
+  },
+  {
+    "startTime": 623.387,
+    "endTime": 625.236,
+    "text": "all around the globe,"
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 627.995,
+    "text": "and that this would lead to earlier treatments,"
+  },
+  {
+    "startTime": 628.19,
+    "endTime": 631.6170000000001,
+    "text": "and that we could save more lives than we can today,"
+  },
+  {
+    "startTime": 631.641,
+    "endTime": 632.925,
+    "text": "with early detection."
+  },
+  {
+    "startTime": 633.686,
+    "endTime": 634.868,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 634.892,
+    "endTime": 642.375,
+    "text": "(Applause)"
+  }
+]

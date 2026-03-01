@@ -1,0 +1,1082 @@
+[
+  {
+    "startTime": 12.881,
+    "endTime": 14.111,
+    "text": "I have a question."
+  },
+  {
+    "startTime": 15.422,
+    "endTime": 17.365000000000002,
+    "text": "Can a computer write poetry?"
+  },
+  {
+    "startTime": 18.959,
+    "endTime": 21.36,
+    "text": "This is a provocative question."
+  },
+  {
+    "startTime": 21.715,
+    "endTime": 23.433,
+    "text": "You think about it for a minute,"
+  },
+  {
+    "startTime": 23.457,
+    "endTime": 26.47,
+    "text": "and you suddenly have a bunch of other questions like:"
+  },
+  {
+    "startTime": 26.769,
+    "endTime": 28.15,
+    "text": "What is a computer?"
+  },
+  {
+    "startTime": 28.71,
+    "endTime": 30.285,
+    "text": "What is poetry?"
+  },
+  {
+    "startTime": 30.707,
+    "endTime": 32.396,
+    "text": "What is creativity?"
+  },
+  {
+    "startTime": 33.65,
+    "endTime": 34.821,
+    "text": "But these are questions"
+  },
+  {
+    "startTime": 34.846,
+    "endTime": 37.916,
+    "text": "that people spend their entire lifetime trying to answer,"
+  },
+  {
+    "startTime": 37.94,
+    "endTime": 40.164,
+    "text": "not in a single TED Talk."
+  },
+  {
+    "startTime": 40.188,
+    "endTime": 42.633,
+    "text": "So we're going to have to try a different approach."
+  },
+  {
+    "startTime": 42.657,
+    "endTime": 44.8,
+    "text": "So up here, we have two poems."
+  },
+  {
+    "startTime": 45.839,
+    "endTime": 48.114,
+    "text": "One of them is written by a human,"
+  },
+  {
+    "startTime": 48.139,
+    "endTime": 50.241,
+    "text": "and the other one's written by a computer."
+  },
+  {
+    "startTime": 50.754,
+    "endTime": 53.164,
+    "text": "I'm going to ask you to tell me which one's which."
+  },
+  {
+    "startTime": 53.858,
+    "endTime": 55.129999999999995,
+    "text": "Have a go:"
+  },
+  {
+    "startTime": 55.38,
+    "endTime": 59.93,
+    "text": "Poem 1: Little Fly / Thy summer's play, / My thoughtless hand / Has brush'd away."
+  },
+  {
+    "startTime": 59.118,
+    "endTime": 62.512,
+    "text": "Am I not / A fly like thee? / Or art not thou / A man like me?"
+  },
+  {
+    "startTime": 62.536,
+    "endTime": 65.83500000000001,
+    "text": "Poem 2: We can feel / Activist through your life's / morning /"
+  },
+  {
+    "startTime": 65.859,
+    "endTime": 70.106,
+    "text": "Pauses to see, pope I hate the / Non all the night to start a / great otherwise (...)"
+  },
+  {
+    "startTime": 70.13,
+    "endTime": 71.488,
+    "text": "Alright, time's up."
+  },
+  {
+    "startTime": 71.513,
+    "endTime": 75.60900000000001,
+    "text": "Hands up if you think Poem 1 was written by a human."
+  },
+  {
+    "startTime": 77.547,
+    "endTime": 79.36,
+    "text": "OK, most of you."
+  },
+  {
+    "startTime": 79.61,
+    "endTime": 82.84,
+    "text": "Hands up if you think Poem 2 was written by a human."
+  },
+  {
+    "startTime": 83.172,
+    "endTime": 84.362,
+    "text": "Very brave of you,"
+  },
+  {
+    "startTime": 84.855,
+    "endTime": 89.14,
+    "text": "because the first one was written by the human poet William Blake."
+  },
+  {
+    "startTime": 89.784,
+    "endTime": 92.733,
+    "text": "The second one was written by an algorithm"
+  },
+  {
+    "startTime": 92.757,
+    "endTime": 96.44900000000001,
+    "text": "that took all the language from my Facebook feed on one day"
+  },
+  {
+    "startTime": 96.473,
+    "endTime": 99.236,
+    "text": "and then regenerated it algorithmically,"
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 102.85000000000001,
+    "text": "according to methods that I'll describe a little bit later on."
+  },
+  {
+    "startTime": 103.218,
+    "endTime": 105.622,
+    "text": "So let's try another test."
+  },
+  {
+    "startTime": 106.398,
+    "endTime": 108.491,
+    "text": "Again, you haven't got ages to read this,"
+  },
+  {
+    "startTime": 108.515,
+    "endTime": 110.127,
+    "text": "so just trust your gut."
+  },
+  {
+    "startTime": 110.151,
+    "endTime": 114.196,
+    "text": "Poem 1: A lion roars and a dog barks. It is interesting / and fascinating"
+  },
+  {
+    "startTime": 114.22,
+    "endTime": 118.523,
+    "text": "that a bird will fly and not / roar or bark. Enthralling stories about animals"
+  },
+  {
+    "startTime": 118.547,
+    "endTime": 122.607,
+    "text": "are in my dreams and I will sing them all if I / am not exhausted or weary."
+  },
+  {
+    "startTime": 122.631,
+    "endTime": 126.616,
+    "text": "Poem 2: Oh! kangaroos, sequins, chocolate sodas! / You are really beautiful!"
+  },
+  {
+    "startTime": 126.64,
+    "endTime": 130.997,
+    "text": "Pearls, / harmonicas, jujubes, aspirins! All / the stuff they've always talked about (...)"
+  },
+  {
+    "startTime": 131.21,
+    "endTime": 132.179,
+    "text": "Alright, time's up."
+  },
+  {
+    "startTime": 132.204,
+    "endTime": 135.341,
+    "text": "So if you think the first poem was written by a human,"
+  },
+  {
+    "startTime": 135.365,
+    "endTime": 136.58,
+    "text": "put your hand up."
+  },
+  {
+    "startTime": 137.687,
+    "endTime": 138.841,
+    "text": "OK."
+  },
+  {
+    "startTime": 138.865,
+    "endTime": 141.54000000000002,
+    "text": "And if you think the second poem was written by a human,"
+  },
+  {
+    "startTime": 141.564,
+    "endTime": 142.719,
+    "text": "put your hand up."
+  },
+  {
+    "startTime": 143.779,
+    "endTime": 147.589,
+    "text": "We have, more or less, a 50/50 split here."
+  },
+  {
+    "startTime": 148.157,
+    "endTime": 149.59300000000002,
+    "text": "It was much harder."
+  },
+  {
+    "startTime": 149.617,
+    "endTime": 151.328,
+    "text": "The answer is,"
+  },
+  {
+    "startTime": 151.353,
+    "endTime": 154.836,
+    "text": "the first poem was generated by an algorithm called Racter,"
+  },
+  {
+    "startTime": 154.86,
+    "endTime": 157.86200000000002,
+    "text": "that was created back in the 1970s,"
+  },
+  {
+    "startTime": 157.886,
+    "endTime": 161.75,
+    "text": "and the second poem was written by a guy called Frank O'Hara,"
+  },
+  {
+    "startTime": 161.99,
+    "endTime": 163.767,
+    "text": "who happens to be one of my favorite human poets."
+  },
+  {
+    "startTime": 164.631,
+    "endTime": 167.689,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 168.46,
+    "endTime": 171.274,
+    "text": "So what we've just done now is a Turing test for poetry."
+  },
+  {
+    "startTime": 172.18,
+    "endTime": 176.565,
+    "text": "The Turing test was first proposed by this guy, Alan Turing, in 1950,"
+  },
+  {
+    "startTime": 176.589,
+    "endTime": 178.153,
+    "text": "in order to answer the question,"
+  },
+  {
+    "startTime": 178.177,
+    "endTime": 179.814,
+    "text": "can computers think?"
+  },
+  {
+    "startTime": 180.245,
+    "endTime": 183.15,
+    "text": "Alan Turing believed that if a computer was able"
+  },
+  {
+    "startTime": 183.39,
+    "endTime": 186.117,
+    "text": "to have a to have a text-based conversation with a human,"
+  },
+  {
+    "startTime": 186.141,
+    "endTime": 188.911,
+    "text": "with such proficiency such that the human couldn't tell"
+  },
+  {
+    "startTime": 188.935,
+    "endTime": 191.901,
+    "text": "whether they are talking to a computer or a human,"
+  },
+  {
+    "startTime": 191.925,
+    "endTime": 194.781,
+    "text": "then the computer can be said to have intelligence."
+  },
+  {
+    "startTime": 195.27,
+    "endTime": 198.565,
+    "text": "So in 2013, my friend Benjamin Laird and I,"
+  },
+  {
+    "startTime": 198.589,
+    "endTime": 201.577,
+    "text": "we created a Turing test for poetry online."
+  },
+  {
+    "startTime": 201.601,
+    "endTime": 202.878,
+    "text": "It's called bot or not,"
+  },
+  {
+    "startTime": 202.902,
+    "endTime": 204.946,
+    "text": "and you can go and play it for yourselves."
+  },
+  {
+    "startTime": 204.97,
+    "endTime": 207.221,
+    "text": "But basically, it's the game we just played."
+  },
+  {
+    "startTime": 207.245,
+    "endTime": 208.773,
+    "text": "You're presented with a poem,"
+  },
+  {
+    "startTime": 208.797,
+    "endTime": 211.825,
+    "text": "you don't know whether it was written by a human or a computer"
+  },
+  {
+    "startTime": 211.849,
+    "endTime": 213.14999999999998,
+    "text": "and you have to guess."
+  },
+  {
+    "startTime": 213.39,
+    "endTime": 216.23,
+    "text": "So thousands and thousands of people have taken this test online,"
+  },
+  {
+    "startTime": 216.254,
+    "endTime": 217.703,
+    "text": "so we have results."
+  },
+  {
+    "startTime": 217.727,
+    "endTime": 219.155,
+    "text": "And what are the results?"
+  },
+  {
+    "startTime": 219.704,
+    "endTime": 222.583,
+    "text": "Well, Turing said that if a computer could fool a human"
+  },
+  {
+    "startTime": 222.607,
+    "endTime": 225.626,
+    "text": "30 percent of the time that it was a human,"
+  },
+  {
+    "startTime": 225.65,
+    "endTime": 228.47,
+    "text": "then it passes the Turing test for intelligence."
+  },
+  {
+    "startTime": 228.625,
+    "endTime": 231.63,
+    "text": "We have poems on the bot or not database"
+  },
+  {
+    "startTime": 231.87,
+    "endTime": 234.66,
+    "text": "that have fooled 65 percent of human readers into thinking"
+  },
+  {
+    "startTime": 234.9,
+    "endTime": 235.485,
+    "text": "it was written by a human."
+  },
+  {
+    "startTime": 235.959,
+    "endTime": 238.776,
+    "text": "So, I think we have an answer to our question."
+  },
+  {
+    "startTime": 239.546,
+    "endTime": 241.894,
+    "text": "According to the logic of the Turing test,"
+  },
+  {
+    "startTime": 241.918,
+    "endTime": 243.846,
+    "text": "can a computer write poetry?"
+  },
+  {
+    "startTime": 243.87,
+    "endTime": 246.221,
+    "text": "Well, yes, absolutely it can."
+  },
+  {
+    "startTime": 247.782,
+    "endTime": 250.12800000000001,
+    "text": "But if you're feeling a little bit uncomfortable"
+  },
+  {
+    "startTime": 250.152,
+    "endTime": 252.77999999999997,
+    "text": "with this answer, that's OK."
+  },
+  {
+    "startTime": 252.103,
+    "endTime": 254.419,
+    "text": "If you're having a bunch of gut reactions to it,"
+  },
+  {
+    "startTime": 254.443,
+    "endTime": 257.648,
+    "text": "that's also OK because this isn't the end of the story."
+  },
+  {
+    "startTime": 258.594,
+    "endTime": 260.918,
+    "text": "Let's play our third and final test."
+  },
+  {
+    "startTime": 262.0,
+    "endTime": 263.75,
+    "text": "Again, you're going to have to read"
+  },
+  {
+    "startTime": 263.774,
+    "endTime": 265.683,
+    "text": "and tell me which you think is human."
+  },
+  {
+    "startTime": 265.707,
+    "endTime": 269.425,
+    "text": "Poem 1: Red flags the reason for pretty flags. / And ribbons."
+  },
+  {
+    "startTime": 269.449,
+    "endTime": 273.77000000000004,
+    "text": "Ribbons of flags / And wearing material / Reasons for wearing material. (...)"
+  },
+  {
+    "startTime": 273.794,
+    "endTime": 277.712,
+    "text": "Poem 2: A wounded deer leaps highest, / I've heard the daffodil"
+  },
+  {
+    "startTime": 277.736,
+    "endTime": 281.182,
+    "text": "I've heard the flag to-day / I've heard the hunter tell; /"
+  },
+  {
+    "startTime": 281.206,
+    "endTime": 284.908,
+    "text": "'Tis but the ecstasy of death, / And then the brake is almost done (...)"
+  },
+  {
+    "startTime": 284.932,
+    "endTime": 286.531,
+    "text": "OK, time is up."
+  },
+  {
+    "startTime": 286.555,
+    "endTime": 290.392,
+    "text": "So hands up if you think Poem 1 was written by a human."
+  },
+  {
+    "startTime": 291.973,
+    "endTime": 295.11,
+    "text": "Hands up if you think Poem 2 was written by a human."
+  },
+  {
+    "startTime": 295.35,
+    "endTime": 297.36600000000004,
+    "text": "Whoa, that's a lot more people."
+  },
+  {
+    "startTime": 298.327,
+    "endTime": 301.295,
+    "text": "So you'd be surprised to find that Poem 1"
+  },
+  {
+    "startTime": 301.319,
+    "endTime": 305.312,
+    "text": "was written by the very human poet Gertrude Stein."
+  },
+  {
+    "startTime": 306.1,
+    "endTime": 311.13800000000003,
+    "text": "And Poem 2 was generated by an algorithm called RKCP."
+  },
+  {
+    "startTime": 311.162,
+    "endTime": 314.481,
+    "text": "Now before we go on, let me describe very quickly and simply,"
+  },
+  {
+    "startTime": 314.505,
+    "endTime": 316.286,
+    "text": "how RKCP works."
+  },
+  {
+    "startTime": 316.873,
+    "endTime": 320.723,
+    "text": "So RKCP is an algorithm designed by Ray Kurzweil,"
+  },
+  {
+    "startTime": 320.747,
+    "endTime": 322.969,
+    "text": "who's a director of engineering at Google"
+  },
+  {
+    "startTime": 322.993,
+    "endTime": 325.353,
+    "text": "and a firm believer in artificial intelligence."
+  },
+  {
+    "startTime": 325.822,
+    "endTime": 329.813,
+    "text": "So, you give RKCP a source text,"
+  },
+  {
+    "startTime": 329.837,
+    "endTime": 334.306,
+    "text": "it analyzes the source text in order to find out how it uses language,"
+  },
+  {
+    "startTime": 334.33,
+    "endTime": 336.277,
+    "text": "and then it regenerates language"
+  },
+  {
+    "startTime": 336.302,
+    "endTime": 338.83000000000004,
+    "text": "that emulates that first text."
+  },
+  {
+    "startTime": 338.854,
+    "endTime": 340.967,
+    "text": "So in the poem we just saw before,"
+  },
+  {
+    "startTime": 340.991,
+    "endTime": 343.616,
+    "text": "Poem 2, the one that you all thought was human,"
+  },
+  {
+    "startTime": 343.64,
+    "endTime": 345.19,
+    "text": "it was fed a bunch of poems"
+  },
+  {
+    "startTime": 345.214,
+    "endTime": 347.249,
+    "text": "by a poet called Emily Dickinson"
+  },
+  {
+    "startTime": 347.273,
+    "endTime": 349.46200000000005,
+    "text": "it looked at the way she used language,"
+  },
+  {
+    "startTime": 349.486,
+    "endTime": 350.651,
+    "text": "learned the model,"
+  },
+  {
+    "startTime": 350.675,
+    "endTime": 354.933,
+    "text": "and then it regenerated a model according to that same structure."
+  },
+  {
+    "startTime": 356.732,
+    "endTime": 358.91,
+    "text": "But the important thing to know about RKCP"
+  },
+  {
+    "startTime": 358.934,
+    "endTime": 361.77200000000005,
+    "text": "is that it doesn't know the meaning of the words it's using."
+  },
+  {
+    "startTime": 362.359,
+    "endTime": 364.635,
+    "text": "The language is just raw material,"
+  },
+  {
+    "startTime": 364.659,
+    "endTime": 366.819,
+    "text": "it could be Chinese, it could be in Swedish,"
+  },
+  {
+    "startTime": 366.843,
+    "endTime": 371.22,
+    "text": "it could be the collected language from your Facebook feed for one day."
+  },
+  {
+    "startTime": 371.46,
+    "endTime": 372.698,
+    "text": "It's just raw material."
+  },
+  {
+    "startTime": 373.38,
+    "endTime": 376.77,
+    "text": "And nevertheless, it's able to create a poem"
+  },
+  {
+    "startTime": 376.101,
+    "endTime": 379.428,
+    "text": "that seems more human than Gertrude Stein's poem,"
+  },
+  {
+    "startTime": 379.452,
+    "endTime": 381.605,
+    "text": "and Gertrude Stein is a human."
+  },
+  {
+    "startTime": 382.846,
+    "endTime": 386.918,
+    "text": "So what we've done here is, more or less, a reverse Turing test."
+  },
+  {
+    "startTime": 387.94,
+    "endTime": 393.11899999999997,
+    "text": "So Gertrude Stein, who's a human, is able to write a poem"
+  },
+  {
+    "startTime": 393.143,
+    "endTime": 396.881,
+    "text": "that fools a majority of human judges into thinking"
+  },
+  {
+    "startTime": 396.905,
+    "endTime": 398.731,
+    "text": "that it was written by a computer."
+  },
+  {
+    "startTime": 399.176,
+    "endTime": 403.317,
+    "text": "Therefore, according to the logic of the reverse Turing test,"
+  },
+  {
+    "startTime": 403.341,
+    "endTime": 405.257,
+    "text": "Gertrude Stein is a computer."
+  },
+  {
+    "startTime": 405.281,
+    "endTime": 406.743,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 407.358,
+    "endTime": 408.652,
+    "text": "Feeling confused?"
+  },
+  {
+    "startTime": 409.193,
+    "endTime": 410.707,
+    "text": "I think that's fair enough."
+  },
+  {
+    "startTime": 411.546,
+    "endTime": 415.662,
+    "text": "So far we've had humans that write like humans,"
+  },
+  {
+    "startTime": 415.686,
+    "endTime": 418.796,
+    "text": "we have computers that write like computers,"
+  },
+  {
+    "startTime": 418.821,
+    "endTime": 421.87600000000003,
+    "text": "we have computers that write like humans,"
+  },
+  {
+    "startTime": 421.9,
+    "endTime": 425.532,
+    "text": "but we also have, perhaps most confusingly,"
+  },
+  {
+    "startTime": 425.556,
+    "endTime": 427.931,
+    "text": "humans that write like computers."
+  },
+  {
+    "startTime": 428.938,
+    "endTime": 430.704,
+    "text": "So what do we take from all of this?"
+  },
+  {
+    "startTime": 431.611,
+    "endTime": 434.768,
+    "text": "Do we take that William Blake is somehow more of a human"
+  },
+  {
+    "startTime": 434.792,
+    "endTime": 436.40999999999997,
+    "text": "than Gertrude Stein?"
+  },
+  {
+    "startTime": 436.65,
+    "endTime": 439.111,
+    "text": "Or that Gertrude Stein is more of a computer than William Blake?"
+  },
+  {
+    "startTime": 439.135,
+    "endTime": 440.687,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 440.711,
+    "endTime": 443.34000000000003,
+    "text": "These are questions I've been asking myself"
+  },
+  {
+    "startTime": 443.58,
+    "endTime": 444.522,
+    "text": "for around two years now,"
+  },
+  {
+    "startTime": 444.547,
+    "endTime": 446.85600000000005,
+    "text": "and I don't have any answers."
+  },
+  {
+    "startTime": 446.88,
+    "endTime": 449.21,
+    "text": "But what I do have are a bunch of insights"
+  },
+  {
+    "startTime": 449.234,
+    "endTime": 451.768,
+    "text": "about our relationship with technology."
+  },
+  {
+    "startTime": 452.999,
+    "endTime": 456.608,
+    "text": "So my first insight is that, for some reason,"
+  },
+  {
+    "startTime": 456.632,
+    "endTime": 459.743,
+    "text": "we associate poetry with being human."
+  },
+  {
+    "startTime": 460.197,
+    "endTime": 463.912,
+    "text": "So that when we ask, \"Can a computer write poetry?\""
+  },
+  {
+    "startTime": 463.936,
+    "endTime": 465.128,
+    "text": "we're also asking,"
+  },
+  {
+    "startTime": 465.153,
+    "endTime": 466.951,
+    "text": "\"What does it mean to be human"
+  },
+  {
+    "startTime": 466.975,
+    "endTime": 470.14700000000005,
+    "text": "and how do we put boundaries around this category?"
+  },
+  {
+    "startTime": 470.171,
+    "endTime": 473.829,
+    "text": "How do we say who or what can be part of this category?\""
+  },
+  {
+    "startTime": 474.376,
+    "endTime": 477.727,
+    "text": "This is an essentially philosophical question, I believe,"
+  },
+  {
+    "startTime": 477.751,
+    "endTime": 479.979,
+    "text": "and it can't be answered with a yes or no test,"
+  },
+  {
+    "startTime": 480.4,
+    "endTime": 481.33099999999996,
+    "text": "like the Turing test."
+  },
+  {
+    "startTime": 481.805,
+    "endTime": 484.85,
+    "text": "I also believe that Alan Turing understood this,"
+  },
+  {
+    "startTime": 484.874,
+    "endTime": 488.17900000000003,
+    "text": "and that when he devised his test back in 1950,"
+  },
+  {
+    "startTime": 488.203,
+    "endTime": 491.5,
+    "text": "he was doing it as a philosophical provocation."
+  },
+  {
+    "startTime": 493.124,
+    "endTime": 498.665,
+    "text": "So my second insight is that, when we take the Turing test for poetry,"
+  },
+  {
+    "startTime": 498.689,
+    "endTime": 502.149,
+    "text": "we're not really testing the capacity of the computers"
+  },
+  {
+    "startTime": 502.173,
+    "endTime": 505.66,
+    "text": "because poetry-generating algorithms,"
+  },
+  {
+    "startTime": 505.9,
+    "endTime": 509.652,
+    "text": "they're pretty simple and have existed, more or less, since the 1950s."
+  },
+  {
+    "startTime": 511.55,
+    "endTime": 514.173,
+    "text": "What we are doing with the Turing test for poetry, rather,"
+  },
+  {
+    "startTime": 514.197,
+    "endTime": 518.812,
+    "text": "is collecting opinions about what constitutes humanness."
+  },
+  {
+    "startTime": 520.313,
+    "endTime": 523.42,
+    "text": "So, what I've figured out,"
+  },
+  {
+    "startTime": 523.66,
+    "endTime": 526.38,
+    "text": "we've seen this when earlier today,"
+  },
+  {
+    "startTime": 526.62,
+    "endTime": 528.54,
+    "text": "we say that William Blake is more of a human"
+  },
+  {
+    "startTime": 528.564,
+    "endTime": 530.129,
+    "text": "than Gertrude Stein."
+  },
+  {
+    "startTime": 530.153,
+    "endTime": 532.615,
+    "text": "Of course, this doesn't mean that William Blake"
+  },
+  {
+    "startTime": 532.639,
+    "endTime": 534.467,
+    "text": "was actually more human"
+  },
+  {
+    "startTime": 534.491,
+    "endTime": 536.818,
+    "text": "or that Gertrude Stein was more of a computer."
+  },
+  {
+    "startTime": 537.533,
+    "endTime": 542.2470000000001,
+    "text": "It simply means that the category of the human is unstable."
+  },
+  {
+    "startTime": 543.45,
+    "endTime": 545.524,
+    "text": "This has led me to understand"
+  },
+  {
+    "startTime": 545.548,
+    "endTime": 548.311,
+    "text": "that the human is not a cold, hard fact."
+  },
+  {
+    "startTime": 548.832,
+    "endTime": 551.9639999999999,
+    "text": "Rather, it is something that's constructed with our opinions"
+  },
+  {
+    "startTime": 551.988,
+    "endTime": 554.8430000000001,
+    "text": "and something that changes over time."
+  },
+  {
+    "startTime": 556.671,
+    "endTime": 561.1500000000001,
+    "text": "So my final insight is that the computer, more or less,"
+  },
+  {
+    "startTime": 561.174,
+    "endTime": 565.18,
+    "text": "works like a mirror that reflects any idea of a human"
+  },
+  {
+    "startTime": 565.204,
+    "endTime": 566.579,
+    "text": "that we show it."
+  },
+  {
+    "startTime": 566.958,
+    "endTime": 568.842,
+    "text": "We show it Emily Dickinson,"
+  },
+  {
+    "startTime": 568.866,
+    "endTime": 571.187,
+    "text": "it gives Emily Dickinson back to us."
+  },
+  {
+    "startTime": 571.768,
+    "endTime": 573.602,
+    "text": "We show it William Blake,"
+  },
+  {
+    "startTime": 573.626,
+    "endTime": 575.911,
+    "text": "that's what it reflects back to us."
+  },
+  {
+    "startTime": 575.935,
+    "endTime": 577.774,
+    "text": "We show it Gertrude Stein,"
+  },
+  {
+    "startTime": 577.798,
+    "endTime": 580.268,
+    "text": "what we get back is Gertrude Stein."
+  },
+  {
+    "startTime": 581.83,
+    "endTime": 583.451,
+    "text": "More than any other bit of technology,"
+  },
+  {
+    "startTime": 583.475,
+    "endTime": 588.64,
+    "text": "the computer is a mirror that reflects any idea of the human we teach it."
+  },
+  {
+    "startTime": 590.61,
+    "endTime": 592.3480000000001,
+    "text": "So I'm sure a lot of you have been hearing"
+  },
+  {
+    "startTime": 592.372,
+    "endTime": 595.233,
+    "text": "a lot about artificial intelligence recently."
+  },
+  {
+    "startTime": 596.694,
+    "endTime": 599.524,
+    "text": "And much of the conversation is,"
+  },
+  {
+    "startTime": 600.292,
+    "endTime": 601.481,
+    "text": "can we build it?"
+  },
+  {
+    "startTime": 602.383,
+    "endTime": 605.518,
+    "text": "Can we build an intelligent computer?"
+  },
+  {
+    "startTime": 605.542,
+    "endTime": 608.3050000000001,
+    "text": "Can we build a creative computer?"
+  },
+  {
+    "startTime": 608.329,
+    "endTime": 610.442,
+    "text": "What we seem to be asking over and over"
+  },
+  {
+    "startTime": 610.466,
+    "endTime": 613.19,
+    "text": "is can we build a human-like computer?"
+  },
+  {
+    "startTime": 613.961,
+    "endTime": 615.517,
+    "text": "But what we've seen just now"
+  },
+  {
+    "startTime": 615.541,
+    "endTime": 618.629,
+    "text": "is that the human is not a scientific fact,"
+  },
+  {
+    "startTime": 618.653,
+    "endTime": 622.183,
+    "text": "that it's an ever-shifting, concatenating idea"
+  },
+  {
+    "startTime": 622.207,
+    "endTime": 624.7379999999999,
+    "text": "and one that changes over time."
+  },
+  {
+    "startTime": 624.762,
+    "endTime": 627.914,
+    "text": "So that when we begin to grapple with the ideas"
+  },
+  {
+    "startTime": 627.938,
+    "endTime": 630.324,
+    "text": "of artificial intelligence in the future,"
+  },
+  {
+    "startTime": 630.348,
+    "endTime": 632.252,
+    "text": "we shouldn't only be asking ourselves,"
+  },
+  {
+    "startTime": 632.277,
+    "endTime": 633.6450000000001,
+    "text": "\"Can we build it?\""
+  },
+  {
+    "startTime": 633.669,
+    "endTime": 635.563,
+    "text": "But we should also be asking ourselves,"
+  },
+  {
+    "startTime": 635.587,
+    "endTime": 639.3,
+    "text": "\"What idea of the human do we want to have reflected back to us?\""
+  },
+  {
+    "startTime": 639.82,
+    "endTime": 642.513,
+    "text": "This is an essentially philosophical idea,"
+  },
+  {
+    "startTime": 642.537,
+    "endTime": 645.534,
+    "text": "and it's one that can't be answered with software alone,"
+  },
+  {
+    "startTime": 645.558,
+    "endTime": 650.535,
+    "text": "but I think requires a moment of species-wide, existential reflection."
+  },
+  {
+    "startTime": 651.4,
+    "endTime": 652.193,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 652.217,
+    "endTime": 654.912,
+    "text": "(Applause)"
+  }
+]

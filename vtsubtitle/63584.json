@@ -1,0 +1,742 @@
+[
+  {
+    "startTime": 12.92,
+    "endTime": 14.896,
+    "text": "What started as a platform for hobbyists"
+  },
+  {
+    "startTime": 14.92,
+    "endTime": 17.856,
+    "text": "is poised to become a multibillion-dollar industry."
+  },
+  {
+    "startTime": 17.88,
+    "endTime": 21.936,
+    "text": "Inspection, environmental monitoring, photography and film and journalism:"
+  },
+  {
+    "startTime": 21.96,
+    "endTime": 25.136000000000003,
+    "text": "these are some of the potential applications for commercial drones,"
+  },
+  {
+    "startTime": 25.16,
+    "endTime": 27.776,
+    "text": "and their enablers are the capabilities being developed"
+  },
+  {
+    "startTime": 27.8,
+    "endTime": 29.736,
+    "text": "at research facilities around the world."
+  },
+  {
+    "startTime": 29.76,
+    "endTime": 32.376000000000005,
+    "text": "For example, before aerial package delivery"
+  },
+  {
+    "startTime": 32.4,
+    "endTime": 34.216,
+    "text": "entered our social consciousness,"
+  },
+  {
+    "startTime": 34.24,
+    "endTime": 38.216,
+    "text": "an autonomous fleet of flying machines built a six-meter-tall tower"
+  },
+  {
+    "startTime": 38.24,
+    "endTime": 40.176,
+    "text": "composed of 1,500 bricks"
+  },
+  {
+    "startTime": 40.2,
+    "endTime": 43.136,
+    "text": "in front of a live audience at the FRAC Centre in France,"
+  },
+  {
+    "startTime": 43.16,
+    "endTime": 45.736,
+    "text": "and several years ago, they started to fly with ropes."
+  },
+  {
+    "startTime": 45.76,
+    "endTime": 47.175,
+    "text": "By tethering flying machines,"
+  },
+  {
+    "startTime": 47.2,
+    "endTime": 50.976,
+    "text": "they can achieve high speeds and accelerations in very tight spaces."
+  },
+  {
+    "startTime": 51.0,
+    "endTime": 54.96,
+    "text": "They can also autonomously build tensile structures."
+  },
+  {
+    "startTime": 54.12,
+    "endTime": 56.535,
+    "text": "Skills learned include how to carry loads,"
+  },
+  {
+    "startTime": 56.56,
+    "endTime": 58.160000000000004,
+    "text": "how to cope with disturbances,"
+  },
+  {
+    "startTime": 58.4,
+    "endTime": 61.135,
+    "text": "and in general, how to interact with the physical world."
+  },
+  {
+    "startTime": 61.16,
+    "endTime": 64.49499999999999,
+    "text": "Today we want to show you some new projects that we've been working on."
+  },
+  {
+    "startTime": 64.519,
+    "endTime": 67.45500000000001,
+    "text": "Their aim is to push the boundary of what can be achieved"
+  },
+  {
+    "startTime": 67.48,
+    "endTime": 69.16000000000001,
+    "text": "with autonomous flight."
+  },
+  {
+    "startTime": 69.4,
+    "endTime": 71.49600000000001,
+    "text": "Now, for a system to function autonomously,"
+  },
+  {
+    "startTime": 71.52,
+    "endTime": 75.976,
+    "text": "it must collectively know the location of its mobile objects in space."
+  },
+  {
+    "startTime": 76.0,
+    "endTime": 77.896,
+    "text": "Back at our lab at ETH Zurich,"
+  },
+  {
+    "startTime": 77.92,
+    "endTime": 80.776,
+    "text": "we often use external cameras to locate objects,"
+  },
+  {
+    "startTime": 80.8,
+    "endTime": 82.776,
+    "text": "which then allows us to focus our efforts"
+  },
+  {
+    "startTime": 82.8,
+    "endTime": 85.456,
+    "text": "on the rapid development of highly dynamic tasks."
+  },
+  {
+    "startTime": 85.48,
+    "endTime": 87.536,
+    "text": "For the demos you will see today, however,"
+  },
+  {
+    "startTime": 87.56,
+    "endTime": 90.85600000000001,
+    "text": "we will use new localization technology developed by Verity Studios,"
+  },
+  {
+    "startTime": 90.88,
+    "endTime": 92.496,
+    "text": "a spin-off from our lab."
+  },
+  {
+    "startTime": 92.52,
+    "endTime": 94.136,
+    "text": "There are no external cameras."
+  },
+  {
+    "startTime": 94.16,
+    "endTime": 99.216,
+    "text": "Each flying machine uses onboard sensors to determine its location in space"
+  },
+  {
+    "startTime": 99.24,
+    "endTime": 102.679,
+    "text": "and onboard computation to determine what its actions should be."
+  },
+  {
+    "startTime": 103.28,
+    "endTime": 105.456,
+    "text": "The only external commands are high-level ones"
+  },
+  {
+    "startTime": 105.48,
+    "endTime": 107.0,
+    "text": "such as \"take off\" and \"land.\""
+  },
+  {
+    "startTime": 130.56,
+    "endTime": 132.456,
+    "text": "This is a so-called tail-sitter."
+  },
+  {
+    "startTime": 132.48,
+    "endTime": 135.935,
+    "text": "It's an aircraft that tries to have its cake and eat it."
+  },
+  {
+    "startTime": 135.96,
+    "endTime": 139.216,
+    "text": "Like other fixed-wing aircraft, it is efficient in forward flight,"
+  },
+  {
+    "startTime": 139.24,
+    "endTime": 142.455,
+    "text": "much more so than helicopters and variations thereof."
+  },
+  {
+    "startTime": 142.479,
+    "endTime": 144.89600000000002,
+    "text": "Unlike most other fixed-wing aircraft, however,"
+  },
+  {
+    "startTime": 144.92,
+    "endTime": 146.416,
+    "text": "it is capable of hovering,"
+  },
+  {
+    "startTime": 146.44,
+    "endTime": 149.576,
+    "text": "which has huge advantages for takeoff, landing"
+  },
+  {
+    "startTime": 149.6,
+    "endTime": 150.84,
+    "text": "and general versatility."
+  },
+  {
+    "startTime": 151.48,
+    "endTime": 153.576,
+    "text": "There is no free lunch, unfortunately."
+  },
+  {
+    "startTime": 153.6,
+    "endTime": 155.536,
+    "text": "One of the limitations with tail-sitters"
+  },
+  {
+    "startTime": 155.56,
+    "endTime": 158.536,
+    "text": "is that they're susceptible to disturbances such as wind gusts."
+  },
+  {
+    "startTime": 158.56,
+    "endTime": 161.256,
+    "text": "We're developing new control architectures and algorithms"
+  },
+  {
+    "startTime": 161.28,
+    "endTime": 162.68,
+    "text": "that address this limitation."
+  },
+  {
+    "startTime": 170.56,
+    "endTime": 172.816,
+    "text": "The idea is for the aircraft to recover"
+  },
+  {
+    "startTime": 172.84,
+    "endTime": 175.48,
+    "text": "no matter what state it finds itself in,"
+  },
+  {
+    "startTime": 183.4,
+    "endTime": 186.32,
+    "text": "and through practice, improve its performance over time."
+  },
+  {
+    "startTime": 195.6,
+    "endTime": 200.0,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 203.2,
+    "text": "OK."
+  },
+  {
+    "startTime": 213.48,
+    "endTime": 214.696,
+    "text": "When doing research,"
+  },
+  {
+    "startTime": 214.72,
+    "endTime": 217.696,
+    "text": "we often ask ourselves fundamental abstract questions"
+  },
+  {
+    "startTime": 217.72,
+    "endTime": 220.28,
+    "text": "that try to get at the heart of a matter."
+  },
+  {
+    "startTime": 221.24,
+    "endTime": 223.45600000000002,
+    "text": "For example, one such question would be,"
+  },
+  {
+    "startTime": 223.48,
+    "endTime": 227.49499999999998,
+    "text": "what is the minimum number of moving parts needed for controlled flight?"
+  },
+  {
+    "startTime": 227.52,
+    "endTime": 229.96,
+    "text": "Now, there are practical reasons"
+  },
+  {
+    "startTime": 229.12,
+    "endTime": 231.73600000000002,
+    "text": "why you may want to know the answer to such a question."
+  },
+  {
+    "startTime": 231.76,
+    "endTime": 233.16,
+    "text": "Helicopters, for example,"
+  },
+  {
+    "startTime": 233.4,
+    "endTime": 236.89600000000002,
+    "text": "are affectionately known as machines with a thousand moving parts"
+  },
+  {
+    "startTime": 236.92,
+    "endTime": 239.6,
+    "text": "all conspiring to do you bodily harm."
+  },
+  {
+    "startTime": 240.64,
+    "endTime": 242.49499999999998,
+    "text": "It turns out that decades ago,"
+  },
+  {
+    "startTime": 242.52,
+    "endTime": 245.696,
+    "text": "skilled pilots were able to fly remote-controlled aircraft"
+  },
+  {
+    "startTime": 245.72,
+    "endTime": 247.61599999999999,
+    "text": "that had only two moving parts:"
+  },
+  {
+    "startTime": 247.64,
+    "endTime": 249.48,
+    "text": "a propeller and a tail rudder."
+  },
+  {
+    "startTime": 250.0,
+    "endTime": 253.12,
+    "text": "We recently discovered that it could be done with just one."
+  },
+  {
+    "startTime": 253.6,
+    "endTime": 254.856,
+    "text": "This is the monospinner,"
+  },
+  {
+    "startTime": 254.88,
+    "endTime": 258.135,
+    "text": "the world's mechanically simplest controllable flying machine,"
+  },
+  {
+    "startTime": 258.16,
+    "endTime": 259.93600000000004,
+    "text": "invented just a few months ago."
+  },
+  {
+    "startTime": 259.959,
+    "endTime": 263.96,
+    "text": "It has only one moving part, a propeller."
+  },
+  {
+    "startTime": 263.12,
+    "endTime": 266.696,
+    "text": "It has no flaps, no hinges, no ailerons,"
+  },
+  {
+    "startTime": 266.72,
+    "endTime": 269.25500000000005,
+    "text": "no other actuators, no other control surfaces,"
+  },
+  {
+    "startTime": 269.279,
+    "endTime": 270.56,
+    "text": "just a simple propeller."
+  },
+  {
+    "startTime": 271.32,
+    "endTime": 273.375,
+    "text": "Even though it's mechanically simple,"
+  },
+  {
+    "startTime": 273.399,
+    "endTime": 275.896,
+    "text": "there's a lot going on in its little electronic brain"
+  },
+  {
+    "startTime": 275.92,
+    "endTime": 280.136,
+    "text": "to allow it to fly in a stable fashion and to move anywhere it wants in space."
+  },
+  {
+    "startTime": 280.16,
+    "endTime": 281.61600000000004,
+    "text": "Even so, it doesn't yet have"
+  },
+  {
+    "startTime": 281.64,
+    "endTime": 283.976,
+    "text": "the sophisticated algorithms of the tail-sitter,"
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 286.0,
+    "text": "which means that in order to get it to fly,"
+  },
+  {
+    "startTime": 286.24,
+    "endTime": 287.744,
+    "text": "I have to throw it just right."
+  },
+  {
+    "startTime": 288.8,
+    "endTime": 292.81600000000003,
+    "text": "And because the probability of me throwing it just right is very low,"
+  },
+  {
+    "startTime": 292.84,
+    "endTime": 294.736,
+    "text": "given everybody watching me,"
+  },
+  {
+    "startTime": 294.76,
+    "endTime": 296.216,
+    "text": "what we're going to do instead"
+  },
+  {
+    "startTime": 296.24,
+    "endTime": 298.416,
+    "text": "is show you a video that we shot last night."
+  },
+  {
+    "startTime": 298.44,
+    "endTime": 300.0,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 310.32,
+    "endTime": 313.64,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 323.8,
+    "endTime": 326.81600000000003,
+    "text": "If the monospinner is an exercise in frugality,"
+  },
+  {
+    "startTime": 326.84,
+    "endTime": 330.296,
+    "text": "this machine here, the omnicopter, with its eight propellers,"
+  },
+  {
+    "startTime": 330.32,
+    "endTime": 332.4,
+    "text": "is an exercise in excess."
+  },
+  {
+    "startTime": 332.92,
+    "endTime": 335.56,
+    "text": "What can you do with all this surplus?"
+  },
+  {
+    "startTime": 335.8,
+    "endTime": 337.46000000000004,
+    "text": "The thing to notice is that it is highly symmetric."
+  },
+  {
+    "startTime": 337.92,
+    "endTime": 340.776,
+    "text": "As a result, it is ambivalent to orientation."
+  },
+  {
+    "startTime": 340.8,
+    "endTime": 343.49600000000004,
+    "text": "This gives it an extraordinary capability."
+  },
+  {
+    "startTime": 343.52,
+    "endTime": 345.736,
+    "text": "It can move anywhere it wants in space"
+  },
+  {
+    "startTime": 345.76,
+    "endTime": 348.496,
+    "text": "irrespective of where it is facing"
+  },
+  {
+    "startTime": 348.52,
+    "endTime": 350.32,
+    "text": "and even of how it is rotating."
+  },
+  {
+    "startTime": 351.4,
+    "endTime": 352.416,
+    "text": "It has its own complexities,"
+  },
+  {
+    "startTime": 352.44,
+    "endTime": 355.96,
+    "text": "mainly having to do with the interacting flows"
+  },
+  {
+    "startTime": 355.12,
+    "endTime": 356.36,
+    "text": "from its eight propellers."
+  },
+  {
+    "startTime": 356.68,
+    "endTime": 360.536,
+    "text": "Some of this can be modeled, while the rest can be learned on the fly."
+  },
+  {
+    "startTime": 360.56,
+    "endTime": 361.76,
+    "text": "Let's take a look."
+  },
+  {
+    "startTime": 404.76,
+    "endTime": 408.52,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 412.72,
+    "endTime": 415.625,
+    "text": "If flying machines are going to enter part of our daily lives,"
+  },
+  {
+    "startTime": 415.649,
+    "endTime": 418.126,
+    "text": "they will need to become extremely safe and reliable."
+  },
+  {
+    "startTime": 418.76,
+    "endTime": 420.135,
+    "text": "This machine over here"
+  },
+  {
+    "startTime": 420.16,
+    "endTime": 423.29600000000005,
+    "text": "is actually two separate two-propeller flying machines."
+  },
+  {
+    "startTime": 423.32,
+    "endTime": 425.56,
+    "text": "This one wants to spin clockwise."
+  },
+  {
+    "startTime": 425.8,
+    "endTime": 427.575,
+    "text": "This other one wants to spin counterclockwise."
+  },
+  {
+    "startTime": 427.6,
+    "endTime": 428.93600000000004,
+    "text": "When you put them together,"
+  },
+  {
+    "startTime": 428.96,
+    "endTime": 431.56,
+    "text": "they behave like one high-performance quadrocopter."
+  },
+  {
+    "startTime": 443.64,
+    "endTime": 445.296,
+    "text": "If anything goes wrong, however --"
+  },
+  {
+    "startTime": 445.32,
+    "endTime": 449.776,
+    "text": "a motor fails, a propeller fails, electronics, even a battery pack --"
+  },
+  {
+    "startTime": 449.8,
+    "endTime": 453.136,
+    "text": "the machine can still fly, albeit in a degraded fashion."
+  },
+  {
+    "startTime": 453.16,
+    "endTime": 456.68,
+    "text": "We're going to demonstrate this to you now by disabling one of its halves."
+  },
+  {
+    "startTime": 476.24,
+    "endTime": 479.40000000000003,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 483.32,
+    "endTime": 484.656,
+    "text": "This last demonstration"
+  },
+  {
+    "startTime": 484.68,
+    "endTime": 487.12,
+    "text": "is an exploration of synthetic swarms."
+  },
+  {
+    "startTime": 487.56,
+    "endTime": 490.536,
+    "text": "The large number of autonomous, coordinated entities"
+  },
+  {
+    "startTime": 490.56,
+    "endTime": 493.296,
+    "text": "offers a new palette for aesthetic expression."
+  },
+  {
+    "startTime": 493.32,
+    "endTime": 496.296,
+    "text": "We've taken commercially available micro quadcopters,"
+  },
+  {
+    "startTime": 496.32,
+    "endTime": 498.816,
+    "text": "each weighing less than a slice of bread, by the way,"
+  },
+  {
+    "startTime": 498.84,
+    "endTime": 501.256,
+    "text": "and outfitted them with our localization technology"
+  },
+  {
+    "startTime": 501.28,
+    "endTime": 502.856,
+    "text": "and custom algorithms."
+  },
+  {
+    "startTime": 502.88,
+    "endTime": 504.976,
+    "text": "Because each unit knows where it is in space"
+  },
+  {
+    "startTime": 505.0,
+    "endTime": 506.376,
+    "text": "and is self-controlled,"
+  },
+  {
+    "startTime": 506.4,
+    "endTime": 508.599,
+    "text": "there is really no limit to their number."
+  },
+  {
+    "startTime": 535.84,
+    "endTime": 539.2800000000001,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 559.36,
+    "endTime": 563.84,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 618.4,
+    "endTime": 621.68,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 635.96,
+    "endTime": 639.5600000000001,
+    "text": "Hopefully, these demonstrations will motivate you to dream up"
+  },
+  {
+    "startTime": 639.8,
+    "endTime": 641.4799999999999,
+    "text": "new revolutionary roles for flying machines."
+  },
+  {
+    "startTime": 642.56,
+    "endTime": 644.656,
+    "text": "That ultrasafe one over there for example"
+  },
+  {
+    "startTime": 644.68,
+    "endTime": 647.6949999999999,
+    "text": "has aspirations to become a flying lampshade on Broadway."
+  },
+  {
+    "startTime": 647.72,
+    "endTime": 649.7760000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 649.8,
+    "endTime": 651.976,
+    "text": "The reality is that it is difficult to predict"
+  },
+  {
+    "startTime": 652.0,
+    "endTime": 653.64,
+    "text": "the impact of nascent technology."
+  },
+  {
+    "startTime": 654.12,
+    "endTime": 658.976,
+    "text": "And for folks like us, the real reward is the journey and the act of creation."
+  },
+  {
+    "startTime": 659.0,
+    "endTime": 660.416,
+    "text": "It's a continual reminder"
+  },
+  {
+    "startTime": 660.44,
+    "endTime": 663.36,
+    "text": "of how wonderful and magical the universe we live in is,"
+  },
+  {
+    "startTime": 663.84,
+    "endTime": 666.7760000000001,
+    "text": "that it allows creative, clever creatures"
+  },
+  {
+    "startTime": 666.8,
+    "endTime": 669.319,
+    "text": "to sculpt it in such spectacular ways."
+  },
+  {
+    "startTime": 669.8,
+    "endTime": 671.5749999999999,
+    "text": "The fact that this technology"
+  },
+  {
+    "startTime": 671.6,
+    "endTime": 675.16,
+    "text": "has such huge commercial and economic potential"
+  },
+  {
+    "startTime": 675.4,
+    "endTime": 676.456,
+    "text": "is just icing on the cake."
+  },
+  {
+    "startTime": 676.48,
+    "endTime": 677.696,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 677.72,
+    "endTime": 680.96,
+    "text": "(Applause)"
+  }
+]

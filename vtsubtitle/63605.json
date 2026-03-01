@@ -1,0 +1,1267 @@
+[
+  {
+    "startTime": 12.844,
+    "endTime": 15.306,
+    "text": "So this is a talk about gene drives,"
+  },
+  {
+    "startTime": 15.33,
+    "endTime": 17.883,
+    "text": "but I'm going to start by telling you a brief story."
+  },
+  {
+    "startTime": 18.621,
+    "endTime": 21.843,
+    "text": "20 years ago, a biologist named Anthony James"
+  },
+  {
+    "startTime": 21.868,
+    "endTime": 24.186,
+    "text": "got obsessed with the idea of making mosquitos"
+  },
+  {
+    "startTime": 24.211,
+    "endTime": 26.79,
+    "text": "that didn't transmit malaria."
+  },
+  {
+    "startTime": 27.683,
+    "endTime": 31.739,
+    "text": "It was a great idea, and pretty much a complete failure."
+  },
+  {
+    "startTime": 32.595,
+    "endTime": 35.256,
+    "text": "For one thing, it turned out to be really hard"
+  },
+  {
+    "startTime": 35.28,
+    "endTime": 37.287,
+    "text": "to make a malaria-resistant mosquito."
+  },
+  {
+    "startTime": 38.286,
+    "endTime": 41.913000000000004,
+    "text": "James managed it, finally, just a few years ago,"
+  },
+  {
+    "startTime": 41.937,
+    "endTime": 44.699999999999996,
+    "text": "by adding some genes that make it impossible"
+  },
+  {
+    "startTime": 44.32,
+    "endTime": 46.745,
+    "text": "for the malaria parasite to survive inside the mosquito."
+  },
+  {
+    "startTime": 47.551,
+    "endTime": 49.373000000000005,
+    "text": "But that just created another problem."
+  },
+  {
+    "startTime": 50.43,
+    "endTime": 52.885,
+    "text": "Now that you've got a malaria-resistant mosquito,"
+  },
+  {
+    "startTime": 52.909,
+    "endTime": 56.495,
+    "text": "how do you get it to replace all the malaria-carrying mosquitos?"
+  },
+  {
+    "startTime": 58.107,
+    "endTime": 59.58,
+    "text": "There are a couple options,"
+  },
+  {
+    "startTime": 59.604,
+    "endTime": 61.627,
+    "text": "but plan A was basically to breed up"
+  },
+  {
+    "startTime": 61.651,
+    "endTime": 64.738,
+    "text": "a bunch of the new genetically-engineered mosquitos"
+  },
+  {
+    "startTime": 64.762,
+    "endTime": 66.88,
+    "text": "release them into the wild"
+  },
+  {
+    "startTime": 66.112,
+    "endTime": 68.78999999999999,
+    "text": "and hope that they pass on their genes."
+  },
+  {
+    "startTime": 68.673,
+    "endTime": 70.787,
+    "text": "The problem was that you'd have to release"
+  },
+  {
+    "startTime": 70.811,
+    "endTime": 75.111,
+    "text": "literally 10 times the number of native mosquitos to work."
+  },
+  {
+    "startTime": 75.135,
+    "endTime": 77.22200000000001,
+    "text": "So in a village with 10,000 mosquitos,"
+  },
+  {
+    "startTime": 77.246,
+    "endTime": 79.324,
+    "text": "you release an extra 100,000."
+  },
+  {
+    "startTime": 80.229,
+    "endTime": 81.379,
+    "text": "As you might guess,"
+  },
+  {
+    "startTime": 81.403,
+    "endTime": 84.15700000000001,
+    "text": "this was not a very popular strategy with the villagers."
+  },
+  {
+    "startTime": 84.181,
+    "endTime": 85.331,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 86.963,
+    "endTime": 90.666,
+    "text": "Then, last January, Anthony James got an email"
+  },
+  {
+    "startTime": 90.691,
+    "endTime": 92.642,
+    "text": "from a biologist named Ethan Bier."
+  },
+  {
+    "startTime": 93.4,
+    "endTime": 96.259,
+    "text": "Bier said that he and his grad student Valentino Gantz"
+  },
+  {
+    "startTime": 96.283,
+    "endTime": 99.227,
+    "text": "had stumbled on a tool that could not only guarantee"
+  },
+  {
+    "startTime": 99.251,
+    "endTime": 101.92500000000001,
+    "text": "that a particular genetic trait would be inherited,"
+  },
+  {
+    "startTime": 101.949,
+    "endTime": 104.27,
+    "text": "but that it would spread incredibly quickly."
+  },
+  {
+    "startTime": 104.734,
+    "endTime": 107.399,
+    "text": "If they were right, it would basically solve the problem"
+  },
+  {
+    "startTime": 107.424,
+    "endTime": 109.805,
+    "text": "that he and James had been working on for 20 years."
+  },
+  {
+    "startTime": 110.45,
+    "endTime": 115.108,
+    "text": "As a test, they engineered two mosquitos to carry the anti-malaria gene"
+  },
+  {
+    "startTime": 115.132,
+    "endTime": 117.29100000000001,
+    "text": "and also this new tool, a gene drive,"
+  },
+  {
+    "startTime": 117.315,
+    "endTime": 118.806,
+    "text": "which I'll explain in a minute."
+  },
+  {
+    "startTime": 119.506,
+    "endTime": 121.839,
+    "text": "Finally, they set it up so that any mosquitos"
+  },
+  {
+    "startTime": 121.863,
+    "endTime": 123.801,
+    "text": "that had inherited the anti-malaria gene"
+  },
+  {
+    "startTime": 123.825,
+    "endTime": 127.824,
+    "text": "wouldn't have the usual white eyes, but would instead have red eyes."
+  },
+  {
+    "startTime": 128.681,
+    "endTime": 130.732,
+    "text": "That was pretty much just for convenience"
+  },
+  {
+    "startTime": 130.756,
+    "endTime": 133.293,
+    "text": "so they could tell just at a glance which was which."
+  },
+  {
+    "startTime": 134.192,
+    "endTime": 136.949,
+    "text": "So they took their two anti-malarial, red-eyed mosquitos"
+  },
+  {
+    "startTime": 136.973,
+    "endTime": 139.632,
+    "text": "and put them in a box with 30 ordinary white-eyed ones,"
+  },
+  {
+    "startTime": 139.656,
+    "endTime": 140.83,
+    "text": "and let them breed."
+  },
+  {
+    "startTime": 141.383,
+    "endTime": 145.24,
+    "text": "In two generations, those had produced 3,800 grandchildren."
+  },
+  {
+    "startTime": 146.217,
+    "endTime": 148.10000000000002,
+    "text": "That is not the surprising part."
+  },
+  {
+    "startTime": 148.716,
+    "endTime": 150.638,
+    "text": "This is the surprising part:"
+  },
+  {
+    "startTime": 150.662,
+    "endTime": 153.56900000000002,
+    "text": "given that you started with just two red-eyed mosquitos"
+  },
+  {
+    "startTime": 153.593,
+    "endTime": 154.927,
+    "text": "and 30 white-eyed ones,"
+  },
+  {
+    "startTime": 154.951,
+    "endTime": 157.712,
+    "text": "you expect mostly white-eyed descendants."
+  },
+  {
+    "startTime": 158.514,
+    "endTime": 161.538,
+    "text": "Instead, when James opened the box,"
+  },
+  {
+    "startTime": 161.562,
+    "endTime": 164.90300000000002,
+    "text": "all 3,800 mosquitos had red eyes."
+  },
+  {
+    "startTime": 165.315,
+    "endTime": 167.355,
+    "text": "When I asked Ethan Bier about this moment,"
+  },
+  {
+    "startTime": 167.379,
+    "endTime": 170.893,
+    "text": "he became so excited that he was literally shouting into the phone."
+  },
+  {
+    "startTime": 171.886,
+    "endTime": 174.49,
+    "text": "That's because getting only red-eyed mosquitos"
+  },
+  {
+    "startTime": 174.73,
+    "endTime": 177.20999999999998,
+    "text": "violates a rule that is the absolute cornerstone of biology,"
+  },
+  {
+    "startTime": 177.45,
+    "endTime": 178.286,
+    "text": "Mendelian genetics."
+  },
+  {
+    "startTime": 178.912,
+    "endTime": 180.81,
+    "text": "I'll keep this quick,"
+  },
+  {
+    "startTime": 180.105,
+    "endTime": 182.869,
+    "text": "but Mendelian genetics says when a male and a female mate,"
+  },
+  {
+    "startTime": 182.893,
+    "endTime": 185.535,
+    "text": "their baby inherits half of its DNA from each parent."
+  },
+  {
+    "startTime": 185.559,
+    "endTime": 189.154,
+    "text": "So if our original mosquito was aa and our new mosquito is aB,"
+  },
+  {
+    "startTime": 189.178,
+    "endTime": 190.98,
+    "text": "where B is the anti-malarial gene,"
+  },
+  {
+    "startTime": 191.4,
+    "endTime": 193.39100000000002,
+    "text": "the babies should come out in four permutations:"
+  },
+  {
+    "startTime": 193.415,
+    "endTime": 195.988,
+    "text": "aa, aB, aa, Ba."
+  },
+  {
+    "startTime": 196.884,
+    "endTime": 199.172,
+    "text": "Instead, with the new gene drive,"
+  },
+  {
+    "startTime": 199.197,
+    "endTime": 200.709,
+    "text": "they all came out aB."
+  },
+  {
+    "startTime": 201.9,
+    "endTime": 204.452,
+    "text": "Biologically, that shouldn't even be possible."
+  },
+  {
+    "startTime": 204.476,
+    "endTime": 205.78,
+    "text": "So what happened?"
+  },
+  {
+    "startTime": 206.709,
+    "endTime": 208.153,
+    "text": "The first thing that happened"
+  },
+  {
+    "startTime": 208.177,
+    "endTime": 211.447,
+    "text": "was the arrival of a gene-editing tool known as CRISPR in 2012."
+  },
+  {
+    "startTime": 212.701,
+    "endTime": 214.811,
+    "text": "Many of you have probably heard about CRISPR,"
+  },
+  {
+    "startTime": 214.835,
+    "endTime": 218.136,
+    "text": "so I'll just say briefly that CRISPR is a tool that allows researchers"
+  },
+  {
+    "startTime": 218.16,
+    "endTime": 220.739,
+    "text": "to edit genes very precisely, easily and quickly."
+  },
+  {
+    "startTime": 221.533,
+    "endTime": 225.262,
+    "text": "It does this by harnessing a mechanism that already existed in bacteria."
+  },
+  {
+    "startTime": 225.286,
+    "endTime": 227.912,
+    "text": "Basically, there's a protein that acts like a scissors"
+  },
+  {
+    "startTime": 227.936,
+    "endTime": 229.17000000000002,
+    "text": "and cuts the DNA,"
+  },
+  {
+    "startTime": 229.194,
+    "endTime": 231.677,
+    "text": "and there's an RNA molecule that directs the scissors"
+  },
+  {
+    "startTime": 231.701,
+    "endTime": 233.418,
+    "text": "to any point on the genome you want."
+  },
+  {
+    "startTime": 233.443,
+    "endTime": 236.133,
+    "text": "The result is basically a word processor for genes."
+  },
+  {
+    "startTime": 236.157,
+    "endTime": 238.78300000000002,
+    "text": "You can take an entire gene out, put one in,"
+  },
+  {
+    "startTime": 238.807,
+    "endTime": 241.25099999999998,
+    "text": "or even edit just a single letter within a gene."
+  },
+  {
+    "startTime": 241.646,
+    "endTime": 243.599,
+    "text": "And you can do it in nearly any species."
+  },
+  {
+    "startTime": 245.328,
+    "endTime": 249.42000000000002,
+    "text": "OK, remember how I said that gene drives originally had two problems?"
+  },
+  {
+    "startTime": 249.835,
+    "endTime": 252.955,
+    "text": "The first was that it was hard to engineer a mosquito"
+  },
+  {
+    "startTime": 252.979,
+    "endTime": 254.366,
+    "text": "to be malaria-resistant."
+  },
+  {
+    "startTime": 254.39,
+    "endTime": 256.517,
+    "text": "That's basically gone now, thanks to CRISPR."
+  },
+  {
+    "startTime": 257.117,
+    "endTime": 258.879,
+    "text": "But the other problem was logistical."
+  },
+  {
+    "startTime": 259.307,
+    "endTime": 261.10900000000004,
+    "text": "How do you get your trait to spread?"
+  },
+  {
+    "startTime": 262.196,
+    "endTime": 263.672,
+    "text": "This is where it gets clever."
+  },
+  {
+    "startTime": 264.943,
+    "endTime": 268.544,
+    "text": "A couple years ago, a biologist at Harvard named Kevin Esvelt"
+  },
+  {
+    "startTime": 268.569,
+    "endTime": 269.91900000000004,
+    "text": "wondered what would happen"
+  },
+  {
+    "startTime": 269.943,
+    "endTime": 273.57,
+    "text": "if you made it so that CRISPR inserted not only your new gene"
+  },
+  {
+    "startTime": 273.594,
+    "endTime": 276.435,
+    "text": "but also the machinery that does the cutting and pasting."
+  },
+  {
+    "startTime": 277.233,
+    "endTime": 281.73,
+    "text": "In other words, what if CRISPR also copied and pasted itself."
+  },
+  {
+    "startTime": 282.145,
+    "endTime": 285.275,
+    "text": "You'd end up with a perpetual motion machine for gene editing."
+  },
+  {
+    "startTime": 286.458,
+    "endTime": 288.192,
+    "text": "And that's exactly what happened."
+  },
+  {
+    "startTime": 289.37,
+    "endTime": 291.914,
+    "text": "This CRISPR gene drive that Esvelt created"
+  },
+  {
+    "startTime": 291.939,
+    "endTime": 295.582,
+    "text": "not only guarantees that a trait will get passed on,"
+  },
+  {
+    "startTime": 295.606,
+    "endTime": 298.44,
+    "text": "but if it's used in the germline cells,"
+  },
+  {
+    "startTime": 298.68,
+    "endTime": 300.644,
+    "text": "it will automatically copy and paste your new gene"
+  },
+  {
+    "startTime": 300.668,
+    "endTime": 303.314,
+    "text": "into both chromosomes of every single individual."
+  },
+  {
+    "startTime": 303.743,
+    "endTime": 306.14,
+    "text": "It's like a global search and replace,"
+  },
+  {
+    "startTime": 306.164,
+    "endTime": 309.385,
+    "text": "or in science terms, it makes a heterozygous trait homozygous."
+  },
+  {
+    "startTime": 311.45,
+    "endTime": 313.656,
+    "text": "So, what does this mean?"
+  },
+  {
+    "startTime": 313.68,
+    "endTime": 316.404,
+    "text": "For one thing, it means we have a very powerful,"
+  },
+  {
+    "startTime": 316.428,
+    "endTime": 319.85,
+    "text": "but also somewhat alarming new tool."
+  },
+  {
+    "startTime": 320.576,
+    "endTime": 323.46500000000003,
+    "text": "Up until now, the fact that gene drives didn't work very well"
+  },
+  {
+    "startTime": 323.489,
+    "endTime": 324.972,
+    "text": "was actually kind of a relief."
+  },
+  {
+    "startTime": 325.425,
+    "endTime": 328.107,
+    "text": "Normally when we mess around with an organism's genes,"
+  },
+  {
+    "startTime": 328.131,
+    "endTime": 330.479,
+    "text": "we make that thing less evolutionarily fit."
+  },
+  {
+    "startTime": 330.504,
+    "endTime": 333.33700000000005,
+    "text": "So biologists can make all the mutant fruit flies they want"
+  },
+  {
+    "startTime": 333.361,
+    "endTime": 334.614,
+    "text": "without worrying about it."
+  },
+  {
+    "startTime": 334.638,
+    "endTime": 337.645,
+    "text": "If some escape, natural selection just takes care of them."
+  },
+  {
+    "startTime": 338.75,
+    "endTime": 341.973,
+    "text": "What's remarkable and powerful and frightening about gene drives"
+  },
+  {
+    "startTime": 341.997,
+    "endTime": 343.757,
+    "text": "is that that will no longer be true."
+  },
+  {
+    "startTime": 345.92,
+    "endTime": 348.656,
+    "text": "Assuming that your trait does not have a big evolutionary handicap,"
+  },
+  {
+    "startTime": 348.68,
+    "endTime": 350.759,
+    "text": "like a mosquito that can't fly,"
+  },
+  {
+    "startTime": 350.783,
+    "endTime": 354.236,
+    "text": "the CRISPR-based gene drive will spread the change relentlessly"
+  },
+  {
+    "startTime": 354.26,
+    "endTime": 357.265,
+    "text": "until it is in every single individual in the population."
+  },
+  {
+    "startTime": 359.101,
+    "endTime": 361.99,
+    "text": "Now, it isn't easy to make a gene drive that works that well,"
+  },
+  {
+    "startTime": 362.14,
+    "endTime": 364.188,
+    "text": "but James and Esvelt think that we can."
+  },
+  {
+    "startTime": 365.339,
+    "endTime": 369.163,
+    "text": "The good news is that this opens the door to some remarkable things."
+  },
+  {
+    "startTime": 369.187,
+    "endTime": 371.91,
+    "text": "If you put an anti-malarial gene drive"
+  },
+  {
+    "startTime": 371.115,
+    "endTime": 373.315,
+    "text": "in just 1 percent of Anopheles mosquitoes,"
+  },
+  {
+    "startTime": 373.339,
+    "endTime": 375.91,
+    "text": "the species that transmits malaria,"
+  },
+  {
+    "startTime": 375.488,
+    "endTime": 379.60699999999997,
+    "text": "researchers estimate that it would spread to the entire population in a year."
+  },
+  {
+    "startTime": 380.178,
+    "endTime": 383.46999999999997,
+    "text": "So in a year, you could virtually eliminate malaria."
+  },
+  {
+    "startTime": 383.455,
+    "endTime": 387.327,
+    "text": "In practice, we're still a few years out from being able to do that,"
+  },
+  {
+    "startTime": 387.351,
+    "endTime": 390.69,
+    "text": "but still, a 1,000 children a day die of malaria."
+  },
+  {
+    "startTime": 390.93,
+    "endTime": 392.283,
+    "text": "In a year, that number could be almost zero."
+  },
+  {
+    "startTime": 392.966,
+    "endTime": 395.862,
+    "text": "The same goes for dengue fever, chikungunya, yellow fever."
+  },
+  {
+    "startTime": 397.211,
+    "endTime": 398.616,
+    "text": "And it gets better."
+  },
+  {
+    "startTime": 399.215,
+    "endTime": 401.691,
+    "text": "Say you want to get rid of an invasive species,"
+  },
+  {
+    "startTime": 401.715,
+    "endTime": 403.837,
+    "text": "like get Asian carp out of the Great Lakes."
+  },
+  {
+    "startTime": 404.434,
+    "endTime": 406.458,
+    "text": "All you have to do is release a gene drive"
+  },
+  {
+    "startTime": 406.482,
+    "endTime": 408.79900000000004,
+    "text": "that makes the fish produce only male offspring."
+  },
+  {
+    "startTime": 409.386,
+    "endTime": 413.584,
+    "text": "In a few generations, there'll be no females left, no more carp."
+  },
+  {
+    "startTime": 413.608,
+    "endTime": 416.687,
+    "text": "In theory, this means we could restore hundreds of native species"
+  },
+  {
+    "startTime": 416.711,
+    "endTime": 418.378,
+    "text": "that have been pushed to the brink."
+  },
+  {
+    "startTime": 419.41,
+    "endTime": 422.697,
+    "text": "OK, that's the good news,"
+  },
+  {
+    "startTime": 422.721,
+    "endTime": 424.13,
+    "text": "this is the bad news."
+  },
+  {
+    "startTime": 425.7,
+    "endTime": 427.97999999999996,
+    "text": "Gene drives are so effective"
+  },
+  {
+    "startTime": 427.122,
+    "endTime": 430.947,
+    "text": "that even an accidental release could change an entire species,"
+  },
+  {
+    "startTime": 430.971,
+    "endTime": 432.161,
+    "text": "and often very quickly."
+  },
+  {
+    "startTime": 433.178,
+    "endTime": 435.304,
+    "text": "Anthony James took good precautions."
+  },
+  {
+    "startTime": 435.328,
+    "endTime": 437.49399999999997,
+    "text": "He bred his mosquitos in a bio-containment lab"
+  },
+  {
+    "startTime": 437.518,
+    "endTime": 440.106,
+    "text": "and he also used a species that's not native to the US"
+  },
+  {
+    "startTime": 440.13,
+    "endTime": 441.685,
+    "text": "so that even if some did escape,"
+  },
+  {
+    "startTime": 441.709,
+    "endTime": 444.724,
+    "text": "they'd just die off, there'd be nothing for them to mate with."
+  },
+  {
+    "startTime": 444.748,
+    "endTime": 448.771,
+    "text": "But it's also true that if a dozen Asian carp with the all-male gene drive"
+  },
+  {
+    "startTime": 448.795,
+    "endTime": 452.724,
+    "text": "accidentally got carried from the Great Lakes back to Asia,"
+  },
+  {
+    "startTime": 452.748,
+    "endTime": 456.176,
+    "text": "they could potentially wipe out the native Asian carp population."
+  },
+  {
+    "startTime": 457.93,
+    "endTime": 460.842,
+    "text": "And that's not so unlikely, given how connected our world is."
+  },
+  {
+    "startTime": 460.866,
+    "endTime": 463.437,
+    "text": "In fact, it's why we have an invasive species problem."
+  },
+  {
+    "startTime": 463.912,
+    "endTime": 465.79999999999995,
+    "text": "And that's fish."
+  },
+  {
+    "startTime": 465.428,
+    "endTime": 468.16,
+    "text": "Things like mosquitos and fruit flies,"
+  },
+  {
+    "startTime": 468.4,
+    "endTime": 470.0,
+    "text": "there's literally no way to contain them."
+  },
+  {
+    "startTime": 470.24,
+    "endTime": 472.135,
+    "text": "They cross borders and oceans all the time."
+  },
+  {
+    "startTime": 473.754,
+    "endTime": 475.93600000000004,
+    "text": "OK, the other piece of bad news"
+  },
+  {
+    "startTime": 475.96,
+    "endTime": 478.277,
+    "text": "is that a gene drive might not stay confined"
+  },
+  {
+    "startTime": 478.302,
+    "endTime": 480.115,
+    "text": "to what we call the target species."
+  },
+  {
+    "startTime": 480.556,
+    "endTime": 482.55,
+    "text": "That's because of gene flow,"
+  },
+  {
+    "startTime": 482.79,
+    "endTime": 484.67600000000004,
+    "text": "which is a fancy way of saying that neighboring species"
+  },
+  {
+    "startTime": 484.7,
+    "endTime": 485.948,
+    "text": "sometimes interbreed."
+  },
+  {
+    "startTime": 485.972,
+    "endTime": 489.123,
+    "text": "If that happens, it's possible a gene drive could cross over,"
+  },
+  {
+    "startTime": 489.147,
+    "endTime": 491.674,
+    "text": "like Asian carp could infect some other kind of carp."
+  },
+  {
+    "startTime": 491.698,
+    "endTime": 495.412,
+    "text": "That's not so bad if your drive just promotes a trait, like eye color."
+  },
+  {
+    "startTime": 495.437,
+    "endTime": 497.684,
+    "text": "In fact, there's a decent chance that we'll see"
+  },
+  {
+    "startTime": 497.708,
+    "endTime": 500.27900000000005,
+    "text": "a wave of very weird fruit flies in the near future."
+  },
+  {
+    "startTime": 501.39,
+    "endTime": 502.652,
+    "text": "But it could be a disaster"
+  },
+  {
+    "startTime": 502.677,
+    "endTime": 505.581,
+    "text": "if your drive is deigned to eliminate the species entirely."
+  },
+  {
+    "startTime": 506.351,
+    "endTime": 509.879,
+    "text": "The last worrisome thing is that the technology to do this,"
+  },
+  {
+    "startTime": 509.903,
+    "endTime": 513.594,
+    "text": "to genetically engineer an organism and include a gene drive,"
+  },
+  {
+    "startTime": 513.618,
+    "endTime": 516.952,
+    "text": "is something that basically any lab in the world can do."
+  },
+  {
+    "startTime": 516.976,
+    "endTime": 518.316,
+    "text": "An undergraduate can do it."
+  },
+  {
+    "startTime": 519.208,
+    "endTime": 522.491,
+    "text": "A talented high schooler with some equipment can do it."
+  },
+  {
+    "startTime": 524.526,
+    "endTime": 526.834,
+    "text": "Now, I'm guessing that this sounds terrifying."
+  },
+  {
+    "startTime": 527.351,
+    "endTime": 529.557,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 529.581,
+    "endTime": 532.471,
+    "text": "Interestingly though, nearly every scientist I talk to"
+  },
+  {
+    "startTime": 532.495,
+    "endTime": 536.376,
+    "text": "seemed to think that gene drives were not actually that frightening or dangerous."
+  },
+  {
+    "startTime": 536.4,
+    "endTime": 539.28,
+    "text": "Partly because they believe that scientists will be"
+  },
+  {
+    "startTime": 539.52,
+    "endTime": 541.256,
+    "text": "very cautious and responsible about using them."
+  },
+  {
+    "startTime": 541.28,
+    "endTime": 542.294,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 542.318,
+    "endTime": 543.548,
+    "text": "So far, that's been true."
+  },
+  {
+    "startTime": 544.302,
+    "endTime": 546.998,
+    "text": "But gene drives also have some actual limitations."
+  },
+  {
+    "startTime": 547.22,
+    "endTime": 550.331,
+    "text": "So for one thing, they work only in sexually reproducing species."
+  },
+  {
+    "startTime": 550.704,
+    "endTime": 554.132,
+    "text": "So thank goodness, they can't be used to engineer viruses or bacteria."
+  },
+  {
+    "startTime": 554.156,
+    "endTime": 557.346,
+    "text": "Also, the trait spreads only with each successive generation."
+  },
+  {
+    "startTime": 557.37,
+    "endTime": 559.363,
+    "text": "So changing or eliminating a population"
+  },
+  {
+    "startTime": 559.387,
+    "endTime": 562.713,
+    "text": "is practical only if that species has a fast reproductive cycle,"
+  },
+  {
+    "startTime": 562.737,
+    "endTime": 565.536,
+    "text": "like insects or maybe small vertebrates like mice or fish."
+  },
+  {
+    "startTime": 566.438,
+    "endTime": 568.699,
+    "text": "In elephants or people, it would take centuries"
+  },
+  {
+    "startTime": 568.723,
+    "endTime": 571.103,
+    "text": "for a trait to spread widely enough to matter."
+  },
+  {
+    "startTime": 572.79,
+    "endTime": 577.221,
+    "text": "Also, even with CRISPR, it's not that easy to engineer a truly devastating trait."
+  },
+  {
+    "startTime": 578.79,
+    "endTime": 579.808,
+    "text": "Say you wanted to make a fruit fly"
+  },
+  {
+    "startTime": 579.832,
+    "endTime": 582.387,
+    "text": "that feeds on ordinary fruit instead of rotting fruit,"
+  },
+  {
+    "startTime": 582.411,
+    "endTime": 585.4399999999999,
+    "text": "with the aim of sabotaging American agriculture."
+  },
+  {
+    "startTime": 585.68,
+    "endTime": 586.598,
+    "text": "First, you'd have to figure out"
+  },
+  {
+    "startTime": 586.622,
+    "endTime": 589.394,
+    "text": "which genes control what the fly wants to eat,"
+  },
+  {
+    "startTime": 589.418,
+    "endTime": 591.965,
+    "text": "which is already a very long and complicated project."
+  },
+  {
+    "startTime": 592.489,
+    "endTime": 595.793,
+    "text": "Then you'd have to alter those genes to change the fly's behavior"
+  },
+  {
+    "startTime": 595.817,
+    "endTime": 597.355,
+    "text": "to whatever you'd want it to be,"
+  },
+  {
+    "startTime": 597.379,
+    "endTime": 600.1800000000001,
+    "text": "which is an even longer and more complicated project."
+  },
+  {
+    "startTime": 600.204,
+    "endTime": 601.521,
+    "text": "And it might not even work,"
+  },
+  {
+    "startTime": 601.546,
+    "endTime": 604.4000000000001,
+    "text": "because the genes that control behavior are complex."
+  },
+  {
+    "startTime": 604.64,
+    "endTime": 606.72,
+    "text": "So if you're a terrorist and have to choose"
+  },
+  {
+    "startTime": 606.96,
+    "endTime": 608.4540000000001,
+    "text": "between starting a grueling basic research program"
+  },
+  {
+    "startTime": 608.478,
+    "endTime": 612.5,
+    "text": "that will require years of meticulous lab work and still might not pan out,"
+  },
+  {
+    "startTime": 612.29,
+    "endTime": 613.376,
+    "text": "or just blowing stuff up?"
+  },
+  {
+    "startTime": 613.4,
+    "endTime": 615.55,
+    "text": "You'll probably choose the later."
+  },
+  {
+    "startTime": 615.498,
+    "endTime": 617.918,
+    "text": "This is especially true because at least in theory,"
+  },
+  {
+    "startTime": 617.942,
+    "endTime": 621.76,
+    "text": "it should be pretty easy to build what's called a reversal drive."
+  },
+  {
+    "startTime": 621.1,
+    "endTime": 624.798,
+    "text": "That's one that basically overwrites the change made by the first gene drive."
+  },
+  {
+    "startTime": 624.822,
+    "endTime": 627.116,
+    "text": "So if you don't like the effects of a change,"
+  },
+  {
+    "startTime": 627.14,
+    "endTime": 629.973,
+    "text": "you can just release a second drive that will cancel it out,"
+  },
+  {
+    "startTime": 629.997,
+    "endTime": 631.146,
+    "text": "at least in theory."
+  },
+  {
+    "startTime": 633.374,
+    "endTime": 635.96,
+    "text": "OK, so where does this leave us?"
+  },
+  {
+    "startTime": 636.604,
+    "endTime": 640.1990000000001,
+    "text": "We now have the ability to change entire species at will."
+  },
+  {
+    "startTime": 641.17,
+    "endTime": 642.183,
+    "text": "Should we?"
+  },
+  {
+    "startTime": 642.552,
+    "endTime": 643.917,
+    "text": "Are we gods now?"
+  },
+  {
+    "startTime": 645.972,
+    "endTime": 647.305,
+    "text": "I'm not sure I'd say that."
+  },
+  {
+    "startTime": 648.94,
+    "endTime": 649.321,
+    "text": "But I would say this:"
+  },
+  {
+    "startTime": 650.329,
+    "endTime": 652.1859999999999,
+    "text": "first, some very smart people"
+  },
+  {
+    "startTime": 652.211,
+    "endTime": 655.67,
+    "text": "are even now debating how to regulate gene drives."
+  },
+  {
+    "startTime": 655.598,
+    "endTime": 658.161,
+    "text": "At the same time, some other very smart people"
+  },
+  {
+    "startTime": 658.186,
+    "endTime": 660.297,
+    "text": "are working hard to create safeguards,"
+  },
+  {
+    "startTime": 660.321,
+    "endTime": 663.873,
+    "text": "like gene drives that self-regulate or peter out after a few generations."
+  },
+  {
+    "startTime": 664.644,
+    "endTime": 665.844,
+    "text": "That's great."
+  },
+  {
+    "startTime": 666.313,
+    "endTime": 668.86,
+    "text": "But this technology still requires a conversation."
+  },
+  {
+    "startTime": 670.59,
+    "endTime": 671.789,
+    "text": "And given the nature of gene drives,"
+  },
+  {
+    "startTime": 671.813,
+    "endTime": 673.503,
+    "text": "that conversation has to be global."
+  },
+  {
+    "startTime": 674.131,
+    "endTime": 676.838,
+    "text": "What if Kenya wants to use a drive but Tanzania doesn't?"
+  },
+  {
+    "startTime": 677.241,
+    "endTime": 680.608,
+    "text": "Who decides whether to release a gene drive that can fly?"
+  },
+  {
+    "startTime": 682.874,
+    "endTime": 684.828,
+    "text": "I don't have the answer to that question."
+  },
+  {
+    "startTime": 685.618,
+    "endTime": 687.6260000000001,
+    "text": "All we can do going forward, I think,"
+  },
+  {
+    "startTime": 687.65,
+    "endTime": 690.483,
+    "text": "is talk honestly about the risks and benefits"
+  },
+  {
+    "startTime": 690.508,
+    "endTime": 692.73,
+    "text": "and take responsibility for our choices."
+  },
+  {
+    "startTime": 693.817,
+    "endTime": 697.73,
+    "text": "By that I mean, not just the choice to use a gene drive,"
+  },
+  {
+    "startTime": 697.754,
+    "endTime": 699.753,
+    "text": "but also the choice not to use one."
+  },
+  {
+    "startTime": 701.111,
+    "endTime": 704.88,
+    "text": "Humans have a tendency to assume that the safest option"
+  },
+  {
+    "startTime": 704.112,
+    "endTime": 705.904,
+    "text": "is to preserve the status quo."
+  },
+  {
+    "startTime": 706.905,
+    "endTime": 708.477,
+    "text": "But that's not always the case."
+  },
+  {
+    "startTime": 709.711,
+    "endTime": 713.112,
+    "text": "Gene drives have risks, and those need to be discussed,"
+  },
+  {
+    "startTime": 713.136,
+    "endTime": 716.286,
+    "text": "but malaria exists now and kills 1,000 people a day."
+  },
+  {
+    "startTime": 716.977,
+    "endTime": 720.54,
+    "text": "To combat it, we spray pesticides that do grave damage to other species,"
+  },
+  {
+    "startTime": 720.565,
+    "endTime": 722.1350000000001,
+    "text": "including amphibians and birds."
+  },
+  {
+    "startTime": 723.668,
+    "endTime": 726.532,
+    "text": "So when you hear about gene drives in the coming months,"
+  },
+  {
+    "startTime": 726.556,
+    "endTime": 728.8100000000001,
+    "text": "and trust me, you will be hearing about them,"
+  },
+  {
+    "startTime": 728.834,
+    "endTime": 730.377,
+    "text": "remember that."
+  },
+  {
+    "startTime": 730.402,
+    "endTime": 732.422,
+    "text": "It can be frightening to act,"
+  },
+  {
+    "startTime": 732.446,
+    "endTime": 734.583,
+    "text": "but sometimes, not acting is worse."
+  },
+  {
+    "startTime": 736.746,
+    "endTime": 744.566,
+    "text": "(Applause)"
+  }
+]
