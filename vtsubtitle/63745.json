@@ -1,0 +1,1192 @@
+[
+  {
+    "startTime": 12.929,
+    "endTime": 15.16,
+    "text": "I'm a radio glaciologist."
+  },
+  {
+    "startTime": 15.397,
+    "endTime": 19.269,
+    "text": "That means that I use radar to study glaciers and ice sheets."
+  },
+  {
+    "startTime": 19.705,
+    "endTime": 21.726999999999997,
+    "text": "And like most glaciologists right now,"
+  },
+  {
+    "startTime": 21.752,
+    "endTime": 23.82,
+    "text": "I'm working on the problem of estimating"
+  },
+  {
+    "startTime": 23.844,
+    "endTime": 28.400000000000002,
+    "text": "how much the ice is going to contribute to sea level rise in the future."
+  },
+  {
+    "startTime": 28.367,
+    "endTime": 30.142,
+    "text": "So today, I want to talk to you about"
+  },
+  {
+    "startTime": 30.166,
+    "endTime": 33.903,
+    "text": "why it's so hard to put good numbers on sea level rise,"
+  },
+  {
+    "startTime": 33.927,
+    "endTime": 37.967,
+    "text": "and why I believe that by changing the way we think about radar technology"
+  },
+  {
+    "startTime": 37.991,
+    "endTime": 39.379,
+    "text": "and earth-science education,"
+  },
+  {
+    "startTime": 39.403,
+    "endTime": 41.157,
+    "text": "we can get much better at it."
+  },
+  {
+    "startTime": 42.3,
+    "endTime": 44.331999999999994,
+    "text": "When most scientists talk about sea level rise,"
+  },
+  {
+    "startTime": 44.356,
+    "endTime": 45.737,
+    "text": "they show a plot like this."
+  },
+  {
+    "startTime": 45.761,
+    "endTime": 48.547000000000004,
+    "text": "This is produced using ice sheet and climate models."
+  },
+  {
+    "startTime": 48.966,
+    "endTime": 51.307,
+    "text": "On the right, you can see the range of sea level"
+  },
+  {
+    "startTime": 51.331,
+    "endTime": 54.529,
+    "text": "predicted by these models over the next 100 years."
+  },
+  {
+    "startTime": 54.553,
+    "endTime": 57.504,
+    "text": "For context, this is current sea level,"
+  },
+  {
+    "startTime": 57.529,
+    "endTime": 58.92700000000001,
+    "text": "and this is the sea level"
+  },
+  {
+    "startTime": 58.951,
+    "endTime": 62.505,
+    "text": "above which more than 4 million people could be vulnerable to displacement."
+  },
+  {
+    "startTime": 62.863,
+    "endTime": 64.632,
+    "text": "So in terms of planning,"
+  },
+  {
+    "startTime": 64.657,
+    "endTime": 67.839,
+    "text": "the uncertainty in this plot is already large."
+  },
+  {
+    "startTime": 67.863,
+    "endTime": 72.537,
+    "text": "However, beyond that, this plot comes with the asterisk and the caveat,"
+  },
+  {
+    "startTime": 72.561,
+    "endTime": 75.48200000000001,
+    "text": "\"... unless the West Antarctic Ice Sheet collapses.\""
+  },
+  {
+    "startTime": 75.506,
+    "endTime": 79.69,
+    "text": "And in that case, we would be talking about dramatically higher numbers."
+  },
+  {
+    "startTime": 79.93,
+    "endTime": 81.61000000000001,
+    "text": "They'd literally be off the chart."
+  },
+  {
+    "startTime": 81.671,
+    "endTime": 84.736,
+    "text": "And the reason we should take that possibility seriously"
+  },
+  {
+    "startTime": 84.76,
+    "endTime": 87.34,
+    "text": "is that we know from the geologic history of the Earth"
+  },
+  {
+    "startTime": 87.364,
+    "endTime": 89.522,
+    "text": "that there were periods in its history"
+  },
+  {
+    "startTime": 89.546,
+    "endTime": 92.18700000000001,
+    "text": "when sea level rose much more quickly than today."
+  },
+  {
+    "startTime": 92.211,
+    "endTime": 94.236,
+    "text": "And right now, we cannot rule out"
+  },
+  {
+    "startTime": 94.26,
+    "endTime": 96.712,
+    "text": "the possibility of that happening in the future."
+  },
+  {
+    "startTime": 97.625,
+    "endTime": 100.761,
+    "text": "So why can't we say with confidence"
+  },
+  {
+    "startTime": 100.785,
+    "endTime": 105.982,
+    "text": "whether or not a significant portion of a continent-scale ice sheet"
+  },
+  {
+    "startTime": 106.6,
+    "endTime": 108.107,
+    "text": "will or will not collapse?"
+  },
+  {
+    "startTime": 108.799,
+    "endTime": 110.784,
+    "text": "Well, in order to do that, we need models"
+  },
+  {
+    "startTime": 110.808,
+    "endTime": 114.38900000000001,
+    "text": "that we know include all of the processes, conditions and physics"
+  },
+  {
+    "startTime": 114.413,
+    "endTime": 116.81099999999999,
+    "text": "that would be involved in a collapse like that."
+  },
+  {
+    "startTime": 117.206,
+    "endTime": 118.666,
+    "text": "And that's hard to know,"
+  },
+  {
+    "startTime": 118.69,
+    "endTime": 121.423,
+    "text": "because those processes and conditions are taking place"
+  },
+  {
+    "startTime": 121.448,
+    "endTime": 123.28599999999999,
+    "text": "beneath kilometers of ice,"
+  },
+  {
+    "startTime": 123.311,
+    "endTime": 125.861,
+    "text": "and satellites, like the one that produced this image,"
+  },
+  {
+    "startTime": 125.885,
+    "endTime": 127.31,
+    "text": "are blind to observe them."
+  },
+  {
+    "startTime": 127.713,
+    "endTime": 131.99699999999999,
+    "text": "In fact, we have much more comprehensive observations of the surface of Mars"
+  },
+  {
+    "startTime": 132.21,
+    "endTime": 134.68300000000002,
+    "text": "than we do of what's beneath the Antarctic ice sheet."
+  },
+  {
+    "startTime": 135.829,
+    "endTime": 139.36,
+    "text": "And this is even more challenging in that we need these observations"
+  },
+  {
+    "startTime": 139.6,
+    "endTime": 142.256,
+    "text": "at a gigantic scale in both space and time."
+  },
+  {
+    "startTime": 142.687,
+    "endTime": 144.935,
+    "text": "In terms of space, this is a continent."
+  },
+  {
+    "startTime": 145.322,
+    "endTime": 147.442,
+    "text": "And in the same way that in North America,"
+  },
+  {
+    "startTime": 147.466,
+    "endTime": 151.506,
+    "text": "the Rocky Mountains, Everglades and Great Lakes regions are very distinct,"
+  },
+  {
+    "startTime": 151.53,
+    "endTime": 154.52100000000002,
+    "text": "so are the subsurface regions of Antarctica."
+  },
+  {
+    "startTime": 154.545,
+    "endTime": 156.188,
+    "text": "And in terms of time, we now know"
+  },
+  {
+    "startTime": 156.212,
+    "endTime": 160.553,
+    "text": "that ice sheets not only evolve over the timescale of millennia and centuries,"
+  },
+  {
+    "startTime": 160.577,
+    "endTime": 164.363,
+    "text": "but they're also changing over the scale of years and days."
+  },
+  {
+    "startTime": 164.387,
+    "endTime": 168.696,
+    "text": "So what we want is observations beneath kilometers of ice"
+  },
+  {
+    "startTime": 168.72,
+    "endTime": 170.649,
+    "text": "at the scale of a continent,"
+  },
+  {
+    "startTime": 170.673,
+    "endTime": 172.318,
+    "text": "and we want them all the time."
+  },
+  {
+    "startTime": 173.14,
+    "endTime": 174.414,
+    "text": "So how do we do this?"
+  },
+  {
+    "startTime": 174.814,
+    "endTime": 178.87,
+    "text": "Well, we're not totally blind to the subsurface."
+  },
+  {
+    "startTime": 178.894,
+    "endTime": 181.564,
+    "text": "I said in the beginning that I was a radio glaciologist,"
+  },
+  {
+    "startTime": 181.588,
+    "endTime": 183.465,
+    "text": "and the reason that that's a thing"
+  },
+  {
+    "startTime": 183.49,
+    "endTime": 187.26000000000002,
+    "text": "is that airborne ice-penetrating radar is the main tool we have"
+  },
+  {
+    "startTime": 187.284,
+    "endTime": 188.88,
+    "text": "to see inside of ice sheets."
+  },
+  {
+    "startTime": 189.212,
+    "endTime": 193.57999999999998,
+    "text": "So most of the data used by my group is collected by airplanes"
+  },
+  {
+    "startTime": 193.82,
+    "endTime": 195.307,
+    "text": "like this World War II-era DC-3,"
+  },
+  {
+    "startTime": 195.331,
+    "endTime": 197.783,
+    "text": "that actually fought in the Battle of the Bulge."
+  },
+  {
+    "startTime": 197.807,
+    "endTime": 200.387,
+    "text": "You can see the antennas underneath the wing."
+  },
+  {
+    "startTime": 200.411,
+    "endTime": 204.141,
+    "text": "These are used to transmit radar signals down into the ice."
+  },
+  {
+    "startTime": 204.165,
+    "endTime": 206.618,
+    "text": "And the echos that come back contain information"
+  },
+  {
+    "startTime": 206.642,
+    "endTime": 209.579,
+    "text": "about what's happening inside and beneath the ice sheet."
+  },
+  {
+    "startTime": 210.53,
+    "endTime": 211.847,
+    "text": "While this is happening,"
+  },
+  {
+    "startTime": 211.871,
+    "endTime": 214.156,
+    "text": "scientists and engineers are on the airplane"
+  },
+  {
+    "startTime": 214.18,
+    "endTime": 215.667,
+    "text": "for eight hours at a stretch,"
+  },
+  {
+    "startTime": 215.691,
+    "endTime": 217.56,
+    "text": "making sure that the radar's working."
+  },
+  {
+    "startTime": 217.996,
+    "endTime": 220.537,
+    "text": "And I think this is actually a misconception"
+  },
+  {
+    "startTime": 220.561,
+    "endTime": 222.5,
+    "text": "about this type of fieldwork,"
+  },
+  {
+    "startTime": 222.29,
+    "endTime": 225.176,
+    "text": "where people imagine scientists peering out the window,"
+  },
+  {
+    "startTime": 225.2,
+    "endTime": 228.113,
+    "text": "contemplating the landscape, its geologic context"
+  },
+  {
+    "startTime": 228.138,
+    "endTime": 229.856,
+    "text": "and the fate of the ice sheets."
+  },
+  {
+    "startTime": 230.327,
+    "endTime": 233.95,
+    "text": "We actually had a guy from the BBC's \"Frozen Planet\" on one of these flights."
+  },
+  {
+    "startTime": 233.974,
+    "endTime": 236.696,
+    "text": "And he spent, like, hours videotaping us turn knobs."
+  },
+  {
+    "startTime": 237.46,
+    "endTime": 239.649,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 239.673,
+    "endTime": 243.49,
+    "text": "And I was actually watching the series years later with my wife,"
+  },
+  {
+    "startTime": 243.73,
+    "endTime": 246.49599999999998,
+    "text": "and a scene like this came up, and I commented on how beautiful it was."
+  },
+  {
+    "startTime": 247.1,
+    "endTime": 249.93099999999998,
+    "text": "And she said, \"Weren't you on that flight?\""
+  },
+  {
+    "startTime": 249.955,
+    "endTime": 251.114,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 251.138,
+    "endTime": 254.83,
+    "text": "I said, \"Yeah, but I was looking at a computer screen.\""
+  },
+  {
+    "startTime": 254.107,
+    "endTime": 255.363,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 255.387,
+    "endTime": 257.594,
+    "text": "So when you think about this type of fieldwork,"
+  },
+  {
+    "startTime": 257.618,
+    "endTime": 259.641,
+    "text": "don't think about images like this."
+  },
+  {
+    "startTime": 259.665,
+    "endTime": 261.356,
+    "text": "Think about images like this."
+  },
+  {
+    "startTime": 261.38,
+    "endTime": 262.543,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 262.567,
+    "endTime": 265.909,
+    "text": "This is a radargram, which is a vertical profile through the ice sheet,"
+  },
+  {
+    "startTime": 265.933,
+    "endTime": 267.417,
+    "text": "kind of like a slice of cake."
+  },
+  {
+    "startTime": 267.768,
+    "endTime": 270.616,
+    "text": "The bright layer on the top is the surface of the ice sheet,"
+  },
+  {
+    "startTime": 270.641,
+    "endTime": 273.971,
+    "text": "the bright layer on the bottom is the bedrock of the continent itself,"
+  },
+  {
+    "startTime": 273.995,
+    "endTime": 276.521,
+    "text": "and the layers in between are kind of like tree rings,"
+  },
+  {
+    "startTime": 276.545,
+    "endTime": 279.752,
+    "text": "in that they contain information about the history of the ice sheet."
+  },
+  {
+    "startTime": 279.776,
+    "endTime": 282.6,
+    "text": "And it's amazing that this works this well."
+  },
+  {
+    "startTime": 282.321,
+    "endTime": 284.339,
+    "text": "The ground-penetrating radars that are used"
+  },
+  {
+    "startTime": 284.363,
+    "endTime": 287.291,
+    "text": "to investigate infrastructures of roads or detect land mines"
+  },
+  {
+    "startTime": 287.315,
+    "endTime": 289.474,
+    "text": "struggle to get through a few meters of earth."
+  },
+  {
+    "startTime": 289.498,
+    "endTime": 292.253,
+    "text": "And here we're peering through three kilometers of ice."
+  },
+  {
+    "startTime": 292.278,
+    "endTime": 296.118,
+    "text": "And there are sophisticated, interesting, electromagnetic reasons for that,"
+  },
+  {
+    "startTime": 296.142,
+    "endTime": 300.293,
+    "text": "but let's say for now that ice is basically the perfect target for radar,"
+  },
+  {
+    "startTime": 300.317,
+    "endTime": 303.545,
+    "text": "and radar is basically the perfect tool to study ice sheets."
+  },
+  {
+    "startTime": 304.641,
+    "endTime": 305.92,
+    "text": "These are the flight lines"
+  },
+  {
+    "startTime": 305.944,
+    "endTime": 308.988,
+    "text": "of most of the modern airborne radar-sounding profiles"
+  },
+  {
+    "startTime": 309.12,
+    "endTime": 310.726,
+    "text": "collected over Antarctica."
+  },
+  {
+    "startTime": 310.75,
+    "endTime": 313.72,
+    "text": "This is the result of heroic efforts over decades"
+  },
+  {
+    "startTime": 313.744,
+    "endTime": 317.369,
+    "text": "by teams from a variety of countries and international collaborations."
+  },
+  {
+    "startTime": 317.672,
+    "endTime": 320.52900000000005,
+    "text": "And when you put those together, you get an image like this,"
+  },
+  {
+    "startTime": 320.553,
+    "endTime": 323.259,
+    "text": "which is what the continent of Antarctica would look like"
+  },
+  {
+    "startTime": 323.283,
+    "endTime": 324.629,
+    "text": "without all the ice on top."
+  },
+  {
+    "startTime": 325.958,
+    "endTime": 330.49,
+    "text": "And you can really see the diversity of the continent in an image like this."
+  },
+  {
+    "startTime": 330.514,
+    "endTime": 332.926,
+    "text": "The red features are volcanoes or mountains;"
+  },
+  {
+    "startTime": 332.95,
+    "endTime": 335.59999999999997,
+    "text": "the areas that are blue would be open ocean"
+  },
+  {
+    "startTime": 335.84,
+    "endTime": 336.664,
+    "text": "if the ice sheet was removed."
+  },
+  {
+    "startTime": 336.688,
+    "endTime": 339.322,
+    "text": "This is that giant spatial scale."
+  },
+  {
+    "startTime": 339.807,
+    "endTime": 342.808,
+    "text": "However, all of this that took decades to produce"
+  },
+  {
+    "startTime": 342.832,
+    "endTime": 345.834,
+    "text": "is just one snapshot of the subsurface."
+  },
+  {
+    "startTime": 346.22,
+    "endTime": 350.43300000000005,
+    "text": "It does not give us any indication of how the ice sheet is changing in time."
+  },
+  {
+    "startTime": 351.338,
+    "endTime": 353.755,
+    "text": "Now, we're working on that, because it turns out"
+  },
+  {
+    "startTime": 353.779,
+    "endTime": 357.228,
+    "text": "that the very first radar observations of Antarctica were collected"
+  },
+  {
+    "startTime": 357.252,
+    "endTime": 359.63,
+    "text": "using 35 millimeter optical film."
+  },
+  {
+    "startTime": 360.21,
+    "endTime": 362.212,
+    "text": "And there were thousands of reels of this film"
+  },
+  {
+    "startTime": 362.236,
+    "endTime": 365.49,
+    "text": "in the archives of the museum of the Scott Polar Research Institute"
+  },
+  {
+    "startTime": 365.514,
+    "endTime": 367.16,
+    "text": "at the University of Cambridge."
+  },
+  {
+    "startTime": 367.4,
+    "endTime": 369.621,
+    "text": "So last summer, I took a state-of-the-art film scanner"
+  },
+  {
+    "startTime": 369.645,
+    "endTime": 373.2,
+    "text": "that was developed for digitizing Hollywood films and remastering them,"
+  },
+  {
+    "startTime": 373.225,
+    "endTime": 374.37600000000003,
+    "text": "and two art historians,"
+  },
+  {
+    "startTime": 374.4,
+    "endTime": 376.618,
+    "text": "and we went over to England, put on some gloves"
+  },
+  {
+    "startTime": 376.642,
+    "endTime": 379.156,
+    "text": "and archived and digitized all of that film."
+  },
+  {
+    "startTime": 379.744,
+    "endTime": 382.83900000000006,
+    "text": "So that produced two million high-resolution images"
+  },
+  {
+    "startTime": 382.863,
+    "endTime": 386.61,
+    "text": "that my group is now working on analyzing and processing"
+  },
+  {
+    "startTime": 386.85,
+    "endTime": 389.29,
+    "text": "for comparing with contemporary conditions in the ice sheet."
+  },
+  {
+    "startTime": 389.458,
+    "endTime": 391.85,
+    "text": "And, actually, that scanner -- I found out about it"
+  },
+  {
+    "startTime": 391.874,
+    "endTime": 395.26000000000005,
+    "text": "from an archivist at the Academy of Motion Picture Arts and Sciences."
+  },
+  {
+    "startTime": 395.284,
+    "endTime": 397.808,
+    "text": "So I'd like to thank the Academy --"
+  },
+  {
+    "startTime": 397.832,
+    "endTime": 400.77,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 400.101,
+    "endTime": 401.419,
+    "text": "for making this possible."
+  },
+  {
+    "startTime": 401.443,
+    "endTime": 402.498,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 402.522,
+    "endTime": 404.219,
+    "text": "And as amazing as it is"
+  },
+  {
+    "startTime": 404.243,
+    "endTime": 407.879,
+    "text": "that we can look at what was happening under the ice sheet 50 years ago,"
+  },
+  {
+    "startTime": 407.903,
+    "endTime": 410.58500000000004,
+    "text": "this is still just one more snapshot."
+  },
+  {
+    "startTime": 410.609,
+    "endTime": 412.726,
+    "text": "It doesn't give us observations"
+  },
+  {
+    "startTime": 412.75,
+    "endTime": 415.923,
+    "text": "of the variation at the annual or seasonal scale,"
+  },
+  {
+    "startTime": 415.947,
+    "endTime": 417.283,
+    "text": "that we know matters."
+  },
+  {
+    "startTime": 417.926,
+    "endTime": 419.49,
+    "text": "There's some progress here, too."
+  },
+  {
+    "startTime": 419.514,
+    "endTime": 423.38,
+    "text": "There are these recent ground-based radar systems that stay in one spot."
+  },
+  {
+    "startTime": 423.62,
+    "endTime": 425.675,
+    "text": "So you take these radars and put them on the ice sheet"
+  },
+  {
+    "startTime": 425.699,
+    "endTime": 427.589,
+    "text": "and you bury a cache of car batteries."
+  },
+  {
+    "startTime": 427.613,
+    "endTime": 430.423,
+    "text": "And you leave them out there for months or years at a time,"
+  },
+  {
+    "startTime": 430.447,
+    "endTime": 432.559,
+    "text": "and they send a pulse down into the ice sheet"
+  },
+  {
+    "startTime": 432.583,
+    "endTime": 434.81,
+    "text": "every so many minutes or hours."
+  },
+  {
+    "startTime": 434.105,
+    "endTime": 436.512,
+    "text": "So this gives you continuous observation in time --"
+  },
+  {
+    "startTime": 436.958,
+    "endTime": 438.108,
+    "text": "but at one spot."
+  },
+  {
+    "startTime": 438.418,
+    "endTime": 442.808,
+    "text": "So if you compare that imaging to the 2-D pictures provided by the airplane,"
+  },
+  {
+    "startTime": 442.832,
+    "endTime": 444.689,
+    "text": "this is just one vertical line."
+  },
+  {
+    "startTime": 445.498,
+    "endTime": 448.354,
+    "text": "And this is pretty much where we are as a field right now."
+  },
+  {
+    "startTime": 448.378,
+    "endTime": 451.36,
+    "text": "We can choose between good spatial coverage"
+  },
+  {
+    "startTime": 451.6,
+    "endTime": 452.553,
+    "text": "with airborne radar sounding"
+  },
+  {
+    "startTime": 452.577,
+    "endTime": 456.386,
+    "text": "and good temporal coverage in one spot with ground-based sounding."
+  },
+  {
+    "startTime": 456.41,
+    "endTime": 458.721,
+    "text": "But neither gives us what we really want:"
+  },
+  {
+    "startTime": 458.745,
+    "endTime": 460.86,
+    "text": "both at the same time."
+  },
+  {
+    "startTime": 460.753,
+    "endTime": 462.19,
+    "text": "And if we're going to do that,"
+  },
+  {
+    "startTime": 462.214,
+    "endTime": 465.221,
+    "text": "we're going to need totally new ways of observing the ice sheet."
+  },
+  {
+    "startTime": 465.245,
+    "endTime": 467.966,
+    "text": "And ideally, those should be extremely low-cost"
+  },
+  {
+    "startTime": 467.99,
+    "endTime": 471.225,
+    "text": "so that we can take lots of measurements from lots of sensors."
+  },
+  {
+    "startTime": 471.871,
+    "endTime": 474.13,
+    "text": "Well, for existing radar systems,"
+  },
+  {
+    "startTime": 474.38,
+    "endTime": 477.82,
+    "text": "the biggest driver of cost is the power required"
+  },
+  {
+    "startTime": 477.106,
+    "endTime": 479.403,
+    "text": "to transmit the radar signal itself."
+  },
+  {
+    "startTime": 480.187,
+    "endTime": 483.482,
+    "text": "So it'd be great if we were able to use existing radio systems"
+  },
+  {
+    "startTime": 483.506,
+    "endTime": 486.227,
+    "text": "or radio signals that are in the environment."
+  },
+  {
+    "startTime": 486.252,
+    "endTime": 489.101,
+    "text": "And fortunately, the entire field of radio astronomy"
+  },
+  {
+    "startTime": 489.125,
+    "endTime": 492.91,
+    "text": "is built on the fact that there are bright radio signals in the sky."
+  },
+  {
+    "startTime": 492.934,
+    "endTime": 495.235,
+    "text": "And a really bright one is our sun."
+  },
+  {
+    "startTime": 495.259,
+    "endTime": 498.719,
+    "text": "So, actually, one of the most exciting things my group is doing right now"
+  },
+  {
+    "startTime": 498.743,
+    "endTime": 502.33,
+    "text": "is trying to use the radio emissions from the sun as a type of radar signal."
+  },
+  {
+    "startTime": 502.354,
+    "endTime": 504.541,
+    "text": "This is one of our field tests at Big Sur."
+  },
+  {
+    "startTime": 504.565,
+    "endTime": 508.723,
+    "text": "That PVC pipe ziggurat is an antenna stand some undergrads in my lab built."
+  },
+  {
+    "startTime": 509.1,
+    "endTime": 512.82,
+    "text": "And the idea here is that we stay out at Big Sur,"
+  },
+  {
+    "startTime": 512.107,
+    "endTime": 514.544,
+    "text": "and we watch the sunset in radio frequencies,"
+  },
+  {
+    "startTime": 514.568,
+    "endTime": 519.13,
+    "text": "and we try and detect the reflection of the sun off the surface of the ocean."
+  },
+  {
+    "startTime": 519.585,
+    "endTime": 523.3810000000001,
+    "text": "Now, I know you're thinking, \"There are no glaciers at Big Sur.\""
+  },
+  {
+    "startTime": 523.405,
+    "endTime": 524.49,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 524.514,
+    "endTime": 525.672,
+    "text": "And that's true."
+  },
+  {
+    "startTime": 525.696,
+    "endTime": 526.876,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 526.9,
+    "endTime": 530.6,
+    "text": "But it turns out that detecting the reflection of the sun"
+  },
+  {
+    "startTime": 530.624,
+    "endTime": 531.982,
+    "text": "off the surface of the ocean"
+  },
+  {
+    "startTime": 532.6,
+    "endTime": 534.808,
+    "text": "and detecting the reflection off the bottom of an ice sheet"
+  },
+  {
+    "startTime": 534.832,
+    "endTime": 536.573,
+    "text": "are extremely geophysically similar."
+  },
+  {
+    "startTime": 536.597,
+    "endTime": 537.795,
+    "text": "And if this works,"
+  },
+  {
+    "startTime": 537.82,
+    "endTime": 541.225,
+    "text": "we should be able to apply the same measurement principle in Antarctica."
+  },
+  {
+    "startTime": 541.249,
+    "endTime": 543.289,
+    "text": "And this is not as far-fetched as it seems."
+  },
+  {
+    "startTime": 543.313,
+    "endTime": 547.66,
+    "text": "The seismic industry has gone through a similar technique-development exercise,"
+  },
+  {
+    "startTime": 547.9,
+    "endTime": 550.22,
+    "text": "where they were able to move from detonating dynamite as a source,"
+  },
+  {
+    "startTime": 550.244,
+    "endTime": 552.7330000000001,
+    "text": "to using ambient seismic noise in the environment."
+  },
+  {
+    "startTime": 552.757,
+    "endTime": 556.5889999999999,
+    "text": "And defense radars use TV signals and radio signals all the time,"
+  },
+  {
+    "startTime": 556.614,
+    "endTime": 559.193,
+    "text": "so they don't have to transmit a signal of radar"
+  },
+  {
+    "startTime": 559.217,
+    "endTime": 560.867,
+    "text": "and give away their position."
+  },
+  {
+    "startTime": 561.28,
+    "endTime": 563.877,
+    "text": "So what I'm saying is, this might really work."
+  },
+  {
+    "startTime": 563.902,
+    "endTime": 567.104,
+    "text": "And if it does, we're going to need extremely low-cost sensors"
+  },
+  {
+    "startTime": 567.128,
+    "endTime": 570.7170000000001,
+    "text": "so we can deploy networks of hundreds or thousands of these on an ice sheet"
+  },
+  {
+    "startTime": 570.741,
+    "endTime": 571.891,
+    "text": "to do imaging."
+  },
+  {
+    "startTime": 571.916,
+    "endTime": 575.522,
+    "text": "And that's where the technological stars have really aligned to help us."
+  },
+  {
+    "startTime": 575.546,
+    "endTime": 577.95,
+    "text": "Those earlier radar systems I talked about"
+  },
+  {
+    "startTime": 577.974,
+    "endTime": 581.6070000000001,
+    "text": "were developed by experienced engineers over the course of years"
+  },
+  {
+    "startTime": 581.631,
+    "endTime": 582.98,
+    "text": "at national facilities"
+  },
+  {
+    "startTime": 583.4,
+    "endTime": 584.98,
+    "text": "with expensive specialized equipment."
+  },
+  {
+    "startTime": 585.354,
+    "endTime": 588.244,
+    "text": "But the recent developments in software-defined radio,"
+  },
+  {
+    "startTime": 588.268,
+    "endTime": 590.514,
+    "text": "rapid fabrication and the maker movement,"
+  },
+  {
+    "startTime": 590.538,
+    "endTime": 593.49,
+    "text": "make it so that it's possible for a team of teenagers"
+  },
+  {
+    "startTime": 593.514,
+    "endTime": 596.1560000000001,
+    "text": "working in my lab over the course of a handful of months"
+  },
+  {
+    "startTime": 596.18,
+    "endTime": 597.625,
+    "text": "to build a prototype radar."
+  },
+  {
+    "startTime": 598.45,
+    "endTime": 600.8530000000001,
+    "text": "OK, they're not any teenagers, they're Stanford undergrads,"
+  },
+  {
+    "startTime": 600.878,
+    "endTime": 602.5250000000001,
+    "text": "but the point holds --"
+  },
+  {
+    "startTime": 602.549,
+    "endTime": 603.973,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 603.997,
+    "endTime": 607.3,
+    "text": "that these enabling technologies are letting us break down the barrier"
+  },
+  {
+    "startTime": 607.324,
+    "endTime": 611.135,
+    "text": "between engineers who build instruments and scientists that use them."
+  },
+  {
+    "startTime": 611.59,
+    "endTime": 615.5310000000001,
+    "text": "And by teaching engineering students to think like earth scientists"
+  },
+  {
+    "startTime": 615.555,
+    "endTime": 618.233,
+    "text": "and earth-science students who can think like engineers,"
+  },
+  {
+    "startTime": 618.257,
+    "endTime": 622.4889999999999,
+    "text": "my lab is building an environment in which we can build custom radar sensors"
+  },
+  {
+    "startTime": 622.514,
+    "endTime": 624.124,
+    "text": "for each problem at hand,"
+  },
+  {
+    "startTime": 624.148,
+    "endTime": 627.585,
+    "text": "that are optimized for low cost and high performance"
+  },
+  {
+    "startTime": 627.609,
+    "endTime": 629.77,
+    "text": "for that problem."
+  },
+  {
+    "startTime": 629.101,
+    "endTime": 632.578,
+    "text": "And that's going to totally change the way we observe ice sheets."
+  },
+  {
+    "startTime": 632.998,
+    "endTime": 638.7900000000001,
+    "text": "Look, the sea level problem and the role of the cryosphere in sea level rise"
+  },
+  {
+    "startTime": 638.103,
+    "endTime": 639.688,
+    "text": "is extremely important"
+  },
+  {
+    "startTime": 639.712,
+    "endTime": 641.386,
+    "text": "and will affect the entire world."
+  },
+  {
+    "startTime": 641.815,
+    "endTime": 643.903,
+    "text": "But that is not why I work on it."
+  },
+  {
+    "startTime": 644.458,
+    "endTime": 647.573,
+    "text": "I work on it for the opportunity to teach and mentor"
+  },
+  {
+    "startTime": 647.597,
+    "endTime": 649.384,
+    "text": "extremely brilliant students,"
+  },
+  {
+    "startTime": 649.804,
+    "endTime": 652.913,
+    "text": "because I deeply believe that teams of hypertalented,"
+  },
+  {
+    "startTime": 652.937,
+    "endTime": 655.429,
+    "text": "hyperdriven, hyperpassionate young people"
+  },
+  {
+    "startTime": 655.453,
+    "endTime": 658.0,
+    "text": "can solve most of the challenges facing the world,"
+  },
+  {
+    "startTime": 658.577,
+    "endTime": 662.5889999999999,
+    "text": "and that providing the observations required to estimate sea level rise"
+  },
+  {
+    "startTime": 662.613,
+    "endTime": 666.3030000000001,
+    "text": "is just one of the many such problems they can and will solve."
+  },
+  {
+    "startTime": 666.768,
+    "endTime": 667.9200000000001,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 667.944,
+    "endTime": 670.586,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "startTime": 12.76,
+    "endTime": 16.216,
+    "text": "Like every passionate software engineer out there,"
+  },
+  {
+    "startTime": 16.239,
+    "endTime": 19.575,
+    "text": "I closely follow technology companies in Silicon Valley,"
+  },
+  {
+    "startTime": 19.6,
+    "endTime": 22.720000000000002,
+    "text": "pretty much the same way soccer fans follow their teams in Europe."
+  },
+  {
+    "startTime": 23.64,
+    "endTime": 25.856,
+    "text": "I read articles on tech blogs"
+  },
+  {
+    "startTime": 25.88,
+    "endTime": 28.0,
+    "text": "and listen to podcasts on my phone."
+  },
+  {
+    "startTime": 29.8,
+    "endTime": 30.895,
+    "text": "But after I finish the article,"
+  },
+  {
+    "startTime": 30.92,
+    "endTime": 34.256,
+    "text": "lock my phone and unplug the headphones,"
+  },
+  {
+    "startTime": 34.28,
+    "endTime": 36.496,
+    "text": "I'm back in sub-Saharan Africa,"
+  },
+  {
+    "startTime": 36.52,
+    "endTime": 38.96,
+    "text": "where the landscape is not quite the same."
+  },
+  {
+    "startTime": 40.16,
+    "endTime": 42.8,
+    "text": "We have long and frequent power outages,"
+  },
+  {
+    "startTime": 43.72,
+    "endTime": 45.775,
+    "text": "low penetration of computers,"
+  },
+  {
+    "startTime": 45.8,
+    "endTime": 47.736,
+    "text": "slow internet connections"
+  },
+  {
+    "startTime": 47.76,
+    "endTime": 52.16,
+    "text": "and a lot of patients visiting understaffed hospitals."
+  },
+  {
+    "startTime": 52.4,
+    "endTime": 54.176,
+    "text": "Since the HIV epidemic,"
+  },
+  {
+    "startTime": 54.2,
+    "endTime": 59.856,
+    "text": "hospitals have been struggling to manage regular HIV treatment records"
+  },
+  {
+    "startTime": 59.88,
+    "endTime": 61.720000000000006,
+    "text": "for increasing volumes of patients."
+  },
+  {
+    "startTime": 62.72,
+    "endTime": 64.456,
+    "text": "For such environments,"
+  },
+  {
+    "startTime": 64.48,
+    "endTime": 68.376,
+    "text": "importing technology systems developed elsewhere has not worked,"
+  },
+  {
+    "startTime": 68.4,
+    "endTime": 71.616,
+    "text": "but in 2006, I joined Baobab Health,"
+  },
+  {
+    "startTime": 71.64,
+    "endTime": 75.176,
+    "text": "a team that uses locally based engineers"
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 77.816,
+    "text": "to develop suitable interventions"
+  },
+  {
+    "startTime": 77.84,
+    "endTime": 81.696,
+    "text": "that are addressing health care challenges in Malawi."
+  },
+  {
+    "startTime": 81.72,
+    "endTime": 85.136,
+    "text": "We designed an electronic health record system"
+  },
+  {
+    "startTime": 85.16,
+    "endTime": 88.496,
+    "text": "that is used by health care workers while seeing patients."
+  },
+  {
+    "startTime": 88.52,
+    "endTime": 93.94999999999999,
+    "text": "And in the process we realized that we not only had to design the software,"
+  },
+  {
+    "startTime": 93.12,
+    "endTime": 95.48,
+    "text": "we had to implement the infrastructure as well."
+  },
+  {
+    "startTime": 96.64,
+    "endTime": 98.856,
+    "text": "We don't have enough medical staff"
+  },
+  {
+    "startTime": 98.88,
+    "endTime": 101.735,
+    "text": "to comprehensively examine every patient,"
+  },
+  {
+    "startTime": 101.76,
+    "endTime": 104.816,
+    "text": "so we embedded clinical guidelines within the software"
+  },
+  {
+    "startTime": 104.84,
+    "endTime": 107.16,
+    "text": "to guide nurses and clerks"
+  },
+  {
+    "startTime": 107.4,
+    "endTime": 109.2,
+    "text": "who assist with handling some of the workload."
+  },
+  {
+    "startTime": 110.0,
+    "endTime": 111.656,
+    "text": "Everyone has a birthday,"
+  },
+  {
+    "startTime": 111.68,
+    "endTime": 114.176,
+    "text": "but not everyone knows their birthday,"
+  },
+  {
+    "startTime": 114.2,
+    "endTime": 118.16,
+    "text": "so we wrote algorithms to handle estimated birthdates"
+  },
+  {
+    "startTime": 118.4,
+    "endTime": 119.32000000000001,
+    "text": "as complete dates."
+  },
+  {
+    "startTime": 120.2,
+    "endTime": 124.136,
+    "text": "How do we follow up patients living in slums"
+  },
+  {
+    "startTime": 124.16,
+    "endTime": 126.36,
+    "text": "with no street and house numbers?"
+  },
+  {
+    "startTime": 127.2,
+    "endTime": 131.8,
+    "text": "We used landmarks to approximate their physical addresses."
+  },
+  {
+    "startTime": 132.4,
+    "endTime": 135.48000000000002,
+    "text": "Malawi had no IDs to uniquely identify patients,"
+  },
+  {
+    "startTime": 136.48,
+    "endTime": 139.61599999999999,
+    "text": "so we had to implement unique patient IDs"
+  },
+  {
+    "startTime": 139.64,
+    "endTime": 141.88,
+    "text": "to link patient records across clinics."
+  },
+  {
+    "startTime": 142.919,
+    "endTime": 145.36,
+    "text": "The IDs are printed as barcodes"
+  },
+  {
+    "startTime": 146.2,
+    "endTime": 149.54999999999998,
+    "text": "on labels that are stuck on personal health booklets"
+  },
+  {
+    "startTime": 149.8,
+    "endTime": 150.28,
+    "text": "kept by each patient."
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 152.976,
+    "text": "With this barcoded ID,"
+  },
+  {
+    "startTime": 153.0,
+    "endTime": 155.416,
+    "text": "a simple scan with a barcode reader"
+  },
+  {
+    "startTime": 155.44,
+    "endTime": 157.68,
+    "text": "quickly pulls up the patient's records."
+  },
+  {
+    "startTime": 158.44,
+    "endTime": 160.736,
+    "text": "No need to rewrite their personal details"
+  },
+  {
+    "startTime": 160.76,
+    "endTime": 163.176,
+    "text": "on paper registers at every visit."
+  },
+  {
+    "startTime": 163.2,
+    "endTime": 165.856,
+    "text": "And suddenly, queues became shorter."
+  },
+  {
+    "startTime": 165.88,
+    "endTime": 170.775,
+    "text": "This meant patients, typically mothers with little children on their backs,"
+  },
+  {
+    "startTime": 170.8,
+    "endTime": 173.936,
+    "text": "had to spend less time waiting to be assisted."
+  },
+  {
+    "startTime": 173.96,
+    "endTime": 175.89600000000002,
+    "text": "And if they lose their booklets,"
+  },
+  {
+    "startTime": 175.92,
+    "endTime": 179.95,
+    "text": "their records can still be pulled by searching with their names."
+  },
+  {
+    "startTime": 179.12,
+    "endTime": 183.84,
+    "text": "Now, the way we pronounce and spell names varies tremendously."
+  },
+  {
+    "startTime": 184.36,
+    "endTime": 186.64000000000001,
+    "text": "We freely mix R's and L's,"
+  },
+  {
+    "startTime": 187.8,
+    "endTime": 189.92000000000002,
+    "text": "English and vernacular versions of their names."
+  },
+  {
+    "startTime": 190.68,
+    "endTime": 192.96,
+    "text": "Even soundex,"
+  },
+  {
+    "startTime": 192.12,
+    "endTime": 196.536,
+    "text": "a standard method for grouping words by how similar they sound,"
+  },
+  {
+    "startTime": 196.56,
+    "endTime": 198.136,
+    "text": "was not good enough."
+  },
+  {
+    "startTime": 198.16,
+    "endTime": 199.856,
+    "text": "So we had to modify it"
+  },
+  {
+    "startTime": 199.88,
+    "endTime": 203.68,
+    "text": "to help us link and match existing records."
+  },
+  {
+    "startTime": 206.16,
+    "endTime": 207.359,
+    "text": "Before the iPhone,"
+  },
+  {
+    "startTime": 208.4,
+    "endTime": 211.856,
+    "text": "software engineers developed for personal computers,"
+  },
+  {
+    "startTime": 211.88,
+    "endTime": 213.136,
+    "text": "but from our experience,"
+  },
+  {
+    "startTime": 213.16,
+    "endTime": 216.536,
+    "text": "we knew our power system is not reliable enough"
+  },
+  {
+    "startTime": 216.56,
+    "endTime": 217.84,
+    "text": "for personal computers."
+  },
+  {
+    "startTime": 218.48,
+    "endTime": 223.136,
+    "text": "So we repurposed touch screen point-of-sale terminals"
+  },
+  {
+    "startTime": 223.16,
+    "endTime": 224.856,
+    "text": "that are meant for retail shops"
+  },
+  {
+    "startTime": 224.88,
+    "endTime": 226.64,
+    "text": "to become clinical workstations."
+  },
+  {
+    "startTime": 227.92,
+    "endTime": 232.79,
+    "text": "At the time, we imported internet appliances called i-Openers"
+  },
+  {
+    "startTime": 232.96,
+    "endTime": 235.976,
+    "text": "that were manufactured during the dot-com era"
+  },
+  {
+    "startTime": 236.0,
+    "endTime": 237.84,
+    "text": "by a failed US company."
+  },
+  {
+    "startTime": 239.8,
+    "endTime": 241.376,
+    "text": "We modified their screens"
+  },
+  {
+    "startTime": 241.4,
+    "endTime": 242.776,
+    "text": "to add touch sensors"
+  },
+  {
+    "startTime": 242.8,
+    "endTime": 246.12,
+    "text": "and their power system to run from rechargeable batteries."
+  },
+  {
+    "startTime": 246.68,
+    "endTime": 251.816,
+    "text": "When we started, we didn't find a reliable network to transmit data,"
+  },
+  {
+    "startTime": 251.84,
+    "endTime": 253.48,
+    "text": "especially from rural hospitals."
+  },
+  {
+    "startTime": 254.24,
+    "endTime": 256.96000000000004,
+    "text": "So we built our own towers,"
+  },
+  {
+    "startTime": 257.72,
+    "endTime": 259.61600000000004,
+    "text": "created a wireless network"
+  },
+  {
+    "startTime": 259.64,
+    "endTime": 262.55,
+    "text": "and linked clinics in Lilongwe,"
+  },
+  {
+    "startTime": 262.79,
+    "endTime": 263.28000000000003,
+    "text": "Malawi's capital."
+  },
+  {
+    "startTime": 264.6,
+    "endTime": 267.48,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 269.6,
+    "endTime": 271.20000000000005,
+    "text": "With a team of engineers"
+  },
+  {
+    "startTime": 272.2,
+    "endTime": 274.496,
+    "text": "working within a hospital campus,"
+  },
+  {
+    "startTime": 274.52,
+    "endTime": 277.176,
+    "text": "we observed health care workers use the system"
+  },
+  {
+    "startTime": 277.2,
+    "endTime": 280.416,
+    "text": "and iteratively build an information system"
+  },
+  {
+    "startTime": 280.44,
+    "endTime": 284.256,
+    "text": "that is now managing HIV records"
+  },
+  {
+    "startTime": 284.28,
+    "endTime": 287.895,
+    "text": "in all major public hospitals in Malawi."
+  },
+  {
+    "startTime": 287.92,
+    "endTime": 293.12,
+    "text": "These are hospitals serving over 2,000 HIV patients, each clinic."
+  },
+  {
+    "startTime": 294.68,
+    "endTime": 297.536,
+    "text": "Now, health care workers who used to spend days"
+  },
+  {
+    "startTime": 297.56,
+    "endTime": 299.696,
+    "text": "to tally and prepare quarterly reports"
+  },
+  {
+    "startTime": 299.72,
+    "endTime": 301.96000000000004,
+    "text": "are producing the same reports within minutes,"
+  },
+  {
+    "startTime": 302.96,
+    "endTime": 306.816,
+    "text": "and health care experts from all over the world"
+  },
+  {
+    "startTime": 306.84,
+    "endTime": 309.88,
+    "text": "are now coming to Malawi to learn how we did it."
+  },
+  {
+    "startTime": 310.88,
+    "endTime": 314.336,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 314.36,
+    "endTime": 316.93600000000004,
+    "text": "It is inspiring and fun"
+  },
+  {
+    "startTime": 316.96,
+    "endTime": 319.775,
+    "text": "to follow technology trends across the globe,"
+  },
+  {
+    "startTime": 319.8,
+    "endTime": 321.896,
+    "text": "but to make them work"
+  },
+  {
+    "startTime": 321.92,
+    "endTime": 324.96000000000004,
+    "text": "in low-resourced environments"
+  },
+  {
+    "startTime": 324.12,
+    "endTime": 327.296,
+    "text": "like public hospitals in sub-Saharan Africa,"
+  },
+  {
+    "startTime": 327.32,
+    "endTime": 331.96,
+    "text": "we have had to become jacks-of-all-trades"
+  },
+  {
+    "startTime": 331.12,
+    "endTime": 334.656,
+    "text": "and build whole systems, including the infrastructure,"
+  },
+  {
+    "startTime": 334.68,
+    "endTime": 335.92,
+    "text": "from the ground up."
+  },
+  {
+    "startTime": 336.56,
+    "endTime": 337.776,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 337.8,
+    "endTime": 342.8,
+    "text": "(Applause)"
+  }
+]
