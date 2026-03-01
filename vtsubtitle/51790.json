@@ -1,0 +1,202 @@
+[
+  {
+    "startTime": 6.4,
+    "endTime": 10.0,
+    "text": "How high can you count on your fingers?"
+  },
+  {
+    "startTime": 10.2,
+    "endTime": 12.799999999999999,
+    "text": "It seems like a question  with an obvious answer."
+  },
+  {
+    "startTime": 12.9,
+    "endTime": 19.0,
+    "text": "After all, most of us have ten fingers, or to be more precise, eight fingers and two thumbs."
+  },
+  {
+    "startTime": 19.1,
+    "endTime": 24.3,
+    "text": "This gives us a total of ten digits on our two hands, which we use to count to ten."
+  },
+  {
+    "startTime": 24.4,
+    "endTime": 30.5,
+    "text": "It's no coincidence that the ten symbols we use in our modern numbering system are called digits as well."
+  },
+  {
+    "startTime": 30.6,
+    "endTime": 32.7,
+    "text": "But that's not the only way to count."
+  },
+  {
+    "startTime": 33.0,
+    "endTime": 37.9,
+    "text": "In some places, it's customary to go up to twelve on just one hand."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 38.7,
+    "text": "How?"
+  },
+  {
+    "startTime": 38.8,
+    "endTime": 46.099999999999994,
+    "text": "Well, each finger is divided  into three sections, and we have a natural pointer to indicate each one, the thumb."
+  },
+  {
+    "startTime": 46.2,
+    "endTime": 49.6,
+    "text": "That gives us an easy way to count to twelve on one hand."
+  },
+  {
+    "startTime": 50.7,
+    "endTime": 60.2,
+    "text": "And if we want to count higher, we can use the digits on our other hand to keep track of each time we get to twelve, up to five groups of twelve, or 60."
+  },
+  {
+    "startTime": 62.3,
+    "endTime": 68.7,
+    "text": "Better yet, let's use the sections on the second hand to count twelve groups of twelve, up to 144."
+  },
+  {
+    "startTime": 70.5,
+    "endTime": 76.4,
+    "text": "That's a pretty big improvement, but we can go higher by finding more countable parts on each hand."
+  },
+  {
+    "startTime": 76.9,
+    "endTime": 83.10000000000001,
+    "text": "For example, each finger  has three sections and three creases for a total of six things to count."
+  },
+  {
+    "startTime": 83.3,
+    "endTime": 91.0,
+    "text": "Now we're up to 24 on each hand, and using our other hand to mark groups of 24 gets us all the way to 576."
+  },
+  {
+    "startTime": 91.5,
+    "endTime": 92.6,
+    "text": "Can we go any higher?"
+  },
+  {
+    "startTime": 93.0,
+    "endTime": 97.9,
+    "text": "It looks like we've reached the limit of how many different finger parts we can count with any precision."
+  },
+  {
+    "startTime": 98.763,
+    "endTime": 100.62,
+    "text": "So let's think of something different."
+  },
+  {
+    "startTime": 100.8,
+    "endTime": 112.8,
+    "text": "One of our greatest  mathematical inventions is the system of positional notation, where the placement of symbols allows for different magnitudes of value, as in the number 999."
+  },
+  {
+    "startTime": 112.9,
+    "endTime": 119.2,
+    "text": "Even though the same symbol is used three times, each position indicates a different order of magnitude."
+  },
+  {
+    "startTime": 120.1,
+    "endTime": 125.1,
+    "text": "So we can use positional value on our fingers to beat our previous record."
+  },
+  {
+    "startTime": 125.2,
+    "endTime": 133.2,
+    "text": "Let's forget about finger sections for a moment and look at the simplest case of having just two options per finger, up and down."
+  },
+  {
+    "startTime": 133.6,
+    "endTime": 141.5,
+    "text": "This won't allow us to represent  powers of ten, but it's perfect for the counting system that uses powers of two, otherwise known as binary."
+  },
+  {
+    "startTime": 142.2,
+    "endTime": 153.1,
+    "text": "In binary, each position has double the value of the previous one, so we can assign  our fingers values of one, two, four, eight, all the way up to 512."
+  },
+  {
+    "startTime": 154.2,
+    "endTime": 159.7,
+    "text": "And any positive integer, up to a certain limit, can be expressed  as a sum of these numbers."
+  },
+  {
+    "startTime": 159.8,
+    "endTime": 163.20000000000002,
+    "text": "For example, the number seven is 4+2+1."
+  },
+  {
+    "startTime": 163.5,
+    "endTime": 167.0,
+    "text": "so we can represent it by having just these three fingers raised."
+  },
+  {
+    "startTime": 167.4,
+    "endTime": 175.4,
+    "text": "Meanwhile, 250 is 128+64+32+16+8+2."
+  },
+  {
+    "startTime": 176.0,
+    "endTime": 177.3,
+    "text": "How high can we go now?"
+  },
+  {
+    "startTime": 177.6,
+    "endTime": 182.5,
+    "text": "That would be the number with all ten fingers raised, or 1,023."
+  },
+  {
+    "startTime": 183.1,
+    "endTime": 185.0,
+    "text": "Is it possible to go even higher?"
+  },
+  {
+    "startTime": 185.2,
+    "endTime": 187.29999999999998,
+    "text": "It depends on how dexterous you feel."
+  },
+  {
+    "startTime": 187.4,
+    "endTime": 195.0,
+    "text": "If you can bend each finger just halfway, that gives us three different states - down, half bent, and raised."
+  },
+  {
+    "startTime": 195.5,
+    "endTime": 202.8,
+    "text": "Now, we can count using  a base-three positional system, up to 59,048."
+  },
+  {
+    "startTime": 204.6,
+    "endTime": 209.79999999999998,
+    "text": "And if you can bend your fingers into four different states or more, you can get even higher."
+  },
+  {
+    "startTime": 210.3,
+    "endTime": 214.3,
+    "text": "That limit is up to you, and your own flexibility and ingenuity."
+  },
+  {
+    "startTime": 215.8,
+    "endTime": 220.70000000000002,
+    "text": "Even with our fingers in just two possible states, we're already working pretty efficiently."
+  },
+  {
+    "startTime": 221.1,
+    "endTime": 224.79999999999998,
+    "text": "In fact, our computers are based on the same principle."
+  },
+  {
+    "startTime": 225.1,
+    "endTime": 235.29999999999998,
+    "text": "Each microchip consists of tiny electrical switches that can be either on or off, meaning that base-two is the default way they represent numbers."
+  },
+  {
+    "startTime": 235.4,
+    "endTime": 247.0,
+    "text": "And just as we can use this system to count past 1,000 using only our fingers, computers can perform billions  of operations just by counting off 1's and 0's."
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.25,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.879,
+    "endTime": 9.88,
+    "text": "with every year machines surpass humans"
+  },
+  {
+    "startTime": 9.88,
+    "endTime": 12.0,
+    "text": "in more and more activities we once"
+  },
+  {
+    "startTime": 12.0,
+    "endTime": 15.28,
+    "text": "thought only we were capable of today's"
+  },
+  {
+    "startTime": 15.28,
+    "endTime": 17.68,
+    "text": "computers can beat us in complex board"
+  },
+  {
+    "startTime": 17.68,
+    "endTime": 20.32,
+    "text": "games transcribe speech in dozens of"
+  },
+  {
+    "startTime": 20.32,
+    "endTime": 23.16,
+    "text": "languages and instantly identify almost"
+  },
+  {
+    "startTime": 23.16,
+    "endTime": 26.119,
+    "text": "any object but the robots of tomorrow"
+  },
+  {
+    "startTime": 26.119,
+    "endTime": 28.8,
+    "text": "may go further by learning to figure out"
+  },
+  {
+    "startTime": 28.8,
+    "endTime": 30.759,
+    "text": "what we're feeling"
+  },
+  {
+    "startTime": 30.759,
+    "endTime": 32.599,
+    "text": "and why does that matter because if"
+  },
+  {
+    "startTime": 32.599,
+    "endTime": 34.76,
+    "text": "machines and the people who run them can"
+  },
+  {
+    "startTime": 34.76,
+    "endTime": 37.12,
+    "text": "accurately read our emotional states"
+  },
+  {
+    "startTime": 37.12,
+    "endTime": 39.2,
+    "text": "they may be able to assist us or"
+  },
+  {
+    "startTime": 39.2,
+    "endTime": 42.68,
+    "text": "manipulate us at unprecedented scales"
+  },
+  {
+    "startTime": 42.68,
+    "endTime": 44.64,
+    "text": "but before we get there how can"
+  },
+  {
+    "startTime": 44.64,
+    "endTime": 47.48,
+    "text": "something so complex as emotion be"
+  },
+  {
+    "startTime": 47.48,
+    "endTime": 49.76,
+    "text": "converted into mere numbers the only"
+  },
+  {
+    "startTime": 49.76,
+    "endTime": 52.079,
+    "text": "language machines"
+  },
+  {
+    "startTime": 52.079,
+    "endTime": 54.52,
+    "text": "understand essentially the same way our"
+  },
+  {
+    "startTime": 54.52,
+    "endTime": 56.8,
+    "text": "own brains interpret emotions by"
+  },
+  {
+    "startTime": 56.8,
+    "endTime": 59.28,
+    "text": "learning how to spot them American"
+  },
+  {
+    "startTime": 59.28,
+    "endTime": 61.84,
+    "text": "psychologist Paul emman identified"
+  },
+  {
+    "startTime": 61.84,
+    "endTime": 64.838,
+    "text": "certain Universal emotions whose visual"
+  },
+  {
+    "startTime": 64.839,
+    "endTime": 68.52,
+    "text": "cues are understood the same way across"
+  },
+  {
+    "startTime": 68.52,
+    "endTime": 71.799,
+    "text": "cultures for example an image of a smile"
+  },
+  {
+    "startTime": 71.799,
+    "endTime": 74.56,
+    "text": "signals joy to Modern urban dwellers and"
+  },
+  {
+    "startTime": 74.56,
+    "endTime": 77.4,
+    "text": "Aboriginal tribesmen alike and according"
+  },
+  {
+    "startTime": 77.4,
+    "endTime": 81.759,
+    "text": "to emman anger disgust fear Joy sadness"
+  },
+  {
+    "startTime": 81.759,
+    "endTime": 84.24,
+    "text": "and surprise are equally"
+  },
+  {
+    "startTime": 84.24,
+    "endTime": 86.84,
+    "text": "recognizable as it turns out computers"
+  },
+  {
+    "startTime": 86.84,
+    "endTime": 88.84,
+    "text": "are rapidly getting better at image"
+  },
+  {
+    "startTime": 88.84,
+    "endTime": 90.56,
+    "text": "recognition thank thanks to machine"
+  },
+  {
+    "startTime": 90.56,
+    "endTime": 92.799,
+    "text": "learning algorithms such as neural"
+  },
+  {
+    "startTime": 92.799,
+    "endTime": 95.24,
+    "text": "networks these consist of artificial"
+  },
+  {
+    "startTime": 95.24,
+    "endTime": 98.159,
+    "text": "nodes that mimic our biological neurons"
+  },
+  {
+    "startTime": 98.159,
+    "endTime": 100.52,
+    "text": "by forming connections and exchanging"
+  },
+  {
+    "startTime": 100.52,
+    "endTime": 103.32,
+    "text": "information to train the network sample"
+  },
+  {
+    "startTime": 103.32,
+    "endTime": 105.56,
+    "text": "inputs pre-classified into different"
+  },
+  {
+    "startTime": 105.56,
+    "endTime": 108.24,
+    "text": "categories such as photos marked happy"
+  },
+  {
+    "startTime": 108.24,
+    "endTime": 111.32,
+    "text": "or sad are fed into the system the"
+  },
+  {
+    "startTime": 111.32,
+    "endTime": 113.28,
+    "text": "network then learns to classify those"
+  },
+  {
+    "startTime": 113.28,
+    "endTime": 115.079,
+    "text": "samples by adjusting the relative"
+  },
+  {
+    "startTime": 115.079,
+    "endTime": 118.159,
+    "text": "weights assigned to particular features"
+  },
+  {
+    "startTime": 118.159,
+    "endTime": 120.119,
+    "text": "the more training data it's given the"
+  },
+  {
+    "startTime": 120.119,
+    "endTime": 121.96,
+    "text": "better the algorithm becomes at"
+  },
+  {
+    "startTime": 121.96,
+    "endTime": 124.88,
+    "text": "correctly identifying new images this is"
+  },
+  {
+    "startTime": 124.88,
+    "endTime": 126.96,
+    "text": "similar to our own brains which learn"
+  },
+  {
+    "startTime": 126.96,
+    "endTime": 129.16,
+    "text": "from previous experiences to shape how"
+  },
+  {
+    "startTime": 129.16,
+    "endTime": 132.12,
+    "text": "new stimuli are processed recognition"
+  },
+  {
+    "startTime": 132.12,
+    "endTime": 134.2,
+    "text": "algorithms aren't just limited to facial"
+  },
+  {
+    "startTime": 134.2,
+    "endTime": 136.8,
+    "text": "expressions our emotions manifest in"
+  },
+  {
+    "startTime": 136.8,
+    "endTime": 139.04,
+    "text": "many ways there's body language and"
+  },
+  {
+    "startTime": 139.04,
+    "endTime": 141.2,
+    "text": "vocal tone changes in heart rate"
+  },
+  {
+    "startTime": 141.2,
+    "endTime": 143.879,
+    "text": "complexion and skin temperature or even"
+  },
+  {
+    "startTime": 143.879,
+    "endTime": 146.12,
+    "text": "word frequency and sentence structure in"
+  },
+  {
+    "startTime": 146.12,
+    "endTime": 146.84,
+    "text": "our"
+  },
+  {
+    "startTime": 146.84,
+    "endTime": 149.08,
+    "text": "writing you might think that training"
+  },
+  {
+    "startTime": 149.08,
+    "endTime": 151.44,
+    "text": "neural network to recognize these would"
+  },
+  {
+    "startTime": 151.44,
+    "endTime": 154.28,
+    "text": "be a long and complicated task Until you"
+  },
+  {
+    "startTime": 154.28,
+    "endTime": 156.92,
+    "text": "realize just how much data is out there"
+  },
+  {
+    "startTime": 156.92,
+    "endTime": 159.04,
+    "text": "and how quickly modern computers can"
+  },
+  {
+    "startTime": 159.04,
+    "endTime": 161.76,
+    "text": "process it from social media posts"
+  },
+  {
+    "startTime": 161.76,
+    "endTime": 164.04,
+    "text": "uploaded photos and videos and phone"
+  },
+  {
+    "startTime": 164.04,
+    "endTime": 166.28,
+    "text": "recordings to heat sensitive security"
+  },
+  {
+    "startTime": 166.28,
+    "endTime": 168.4,
+    "text": "cameras and wearables that monitor"
+  },
+  {
+    "startTime": 168.4,
+    "endTime": 171.2,
+    "text": "physiological signs the big question is"
+  },
+  {
+    "startTime": 171.2,
+    "endTime": 173.4,
+    "text": "not how to collect enough data but what"
+  },
+  {
+    "startTime": 173.4,
+    "endTime": 175.68,
+    "text": "we're going to do with it there are"
+  },
+  {
+    "startTime": 175.68,
+    "endTime": 177.319,
+    "text": "plenty of beneficial uses for"
+  },
+  {
+    "startTime": 177.319,
+    "endTime": 179.84,
+    "text": "computerized emotion recognition robot"
+  },
+  {
+    "startTime": 179.84,
+    "endTime": 181.959,
+    "text": "SP using algorithms to identify facial"
+  },
+  {
+    "startTime": 181.959,
+    "endTime": 184.44,
+    "text": "expressions can help children learn or"
+  },
+  {
+    "startTime": 184.44,
+    "endTime": 186.599,
+    "text": "provide lonely people with a sense of"
+  },
+  {
+    "startTime": 186.599,
+    "endTime": 189.0,
+    "text": "companionship social media companies are"
+  },
+  {
+    "startTime": 189.0,
+    "endTime": 191.239,
+    "text": "considering using algorithms to help"
+  },
+  {
+    "startTime": 191.239,
+    "endTime": 194.2,
+    "text": "prevent suicides by flagging posts that"
+  },
+  {
+    "startTime": 194.2,
+    "endTime": 196.44,
+    "text": "contain specific words or"
+  },
+  {
+    "startTime": 196.44,
+    "endTime": 199.36,
+    "text": "phrases and emotion recognition software"
+  },
+  {
+    "startTime": 199.36,
+    "endTime": 201.72,
+    "text": "can help treat mental disorders or even"
+  },
+  {
+    "startTime": 201.72,
+    "endTime": 204.44,
+    "text": "provide people with lowcost automated"
+  },
+  {
+    "startTime": 204.44,
+    "endTime": 206.319,
+    "text": "Psychotherapy despite the potential"
+  },
+  {
+    "startTime": 206.319,
+    "endTime": 208.439,
+    "text": "benefits the prospect of a massive"
+  },
+  {
+    "startTime": 208.439,
+    "endTime": 210.4,
+    "text": "Network automatically scanning our"
+  },
+  {
+    "startTime": 210.4,
+    "endTime": 213.2,
+    "text": "photos Communications and physiological"
+  },
+  {
+    "startTime": 213.2,
+    "endTime": 215.68,
+    "text": "signs is also quite"
+  },
+  {
+    "startTime": 215.68,
+    "endTime": 217.84,
+    "text": "disturbing what are the implications for"
+  },
+  {
+    "startTime": 217.84,
+    "endTime": 220.56,
+    "text": "our privacy when such impersonal systems"
+  },
+  {
+    "startTime": 220.56,
+    "endTime": 223.12,
+    "text": "are used by corporations to exploit our"
+  },
+  {
+    "startTime": 223.12,
+    "endTime": 225.519,
+    "text": "emotions through advertising and What"
+  },
+  {
+    "startTime": 225.519,
+    "endTime": 227.519,
+    "text": "Becomes of our rights if authorities"
+  },
+  {
+    "startTime": 227.519,
+    "endTime": 229.239,
+    "text": "think they can identify the people"
+  },
+  {
+    "startTime": 229.239,
+    "endTime": 231.879,
+    "text": "likely to commit crimes before they even"
+  },
+  {
+    "startTime": 231.879,
+    "endTime": 235.2,
+    "text": "make a conscious decision to act robots"
+  },
+  {
+    "startTime": 235.2,
+    "endTime": 237.159,
+    "text": "currently have a long way to go in"
+  },
+  {
+    "startTime": 237.159,
+    "endTime": 240.2,
+    "text": "distinguishing emotional nuances like"
+  },
+  {
+    "startTime": 240.2,
+    "endTime": 243.04,
+    "text": "and scales of emotions just how happy or"
+  },
+  {
+    "startTime": 243.04,
+    "endTime": 246.36,
+    "text": "sad someone is nonetheless they may"
+  },
+  {
+    "startTime": 246.36,
+    "endTime": 248.4,
+    "text": "eventually be able to accurately read"
+  },
+  {
+    "startTime": 248.4,
+    "endTime": 251.2,
+    "text": "our emotions and respond to them whether"
+  },
+  {
+    "startTime": 251.2,
+    "endTime": 253.239,
+    "text": "they can empathize with our fear of"
+  },
+  {
+    "startTime": 253.239,
+    "endTime": 255.76,
+    "text": "unwanted intrusion however that's"
+  },
+  {
+    "startTime": 255.76,
+    "endTime": 256.29,
+    "text": "another"
+  },
+  {
+    "startTime": 256.29,
+    "endTime": 259.47,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 266.05,
+    "endTime": 268.72,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 268.72,
+    "endTime": 272.72,
+    "text": "story e"
+  }
+]
