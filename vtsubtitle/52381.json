@@ -1,0 +1,207 @@
+[
+  {
+    "startTime": 2.57,
+    "endTime": 7.75,
+    "text": "If you want your computer to recognize very complex patterns – then trust me on this"
+  },
+  {
+    "startTime": 7.75,
+    "endTime": 13.61,
+    "text": "– you really need to start using neural networks. When the patterns get really complex,"
+  },
+  {
+    "startTime": 13.61,
+    "endTime": 19.34,
+    "text": "neural nets start to outperform all of their competition. Plus, GPUs can train them faster"
+  },
+  {
+    "startTime": 19.34,
+    "endTime": 24.490000000000002,
+    "text": "than ever before! Let's take a look."
+  },
+  {
+    "startTime": 24.49,
+    "endTime": 30.189,
+    "text": "Neural nets truly have the potential to revolutionize the field of Artificial Intelligence. We all"
+  },
+  {
+    "startTime": 30.189,
+    "endTime": 35.01,
+    "text": "know that computers are very good with repetitive calculations and detailed instructions, but"
+  },
+  {
+    "startTime": 35.01,
+    "endTime": 40.519999999999996,
+    "text": "they've historically been bad at recognizing patterns. Thanks to deep learning, this is"
+  },
+  {
+    "startTime": 40.52,
+    "endTime": 44.690000000000005,
+    "text": "all about to change."
+  },
+  {
+    "startTime": 44.69,
+    "endTime": 50.39,
+    "text": "If you only need to analyze simple patterns, a basic classification tool like an SVM or"
+  },
+  {
+    "startTime": 50.39,
+    "endTime": 55.519,
+    "text": "Logistic Regression is typically good enough. But when your data has 10s of different inputs"
+  },
+  {
+    "startTime": 55.519,
+    "endTime": 60.809,
+    "text": "or more, neural nets start to win out over the other methods. Still, as the patterns"
+  },
+  {
+    "startTime": 60.809,
+    "endTime": 66.89,
+    "text": "get even more complex, neural networks with a small number of layers can become unusable."
+  },
+  {
+    "startTime": 66.89,
+    "endTime": 71.72,
+    "text": "The reason is that the number of nodes required in each layer grows exponentially with the"
+  },
+  {
+    "startTime": 71.72,
+    "endTime": 77.31,
+    "text": "number of possible patterns in the data. Eventually training becomes way too expensive and the"
+  },
+  {
+    "startTime": 77.31,
+    "endTime": 82.67,
+    "text": "accuracy starts to suffer. So for an intricate pattern – like an image of a human face,"
+  },
+  {
+    "startTime": 82.67,
+    "endTime": 87.67,
+    "text": "for example – basic classification engines and shallow neural nets simply aren’t good"
+  },
+  {
+    "startTime": 87.67,
+    "endTime": 91.549,
+    "text": "enough – the only practical choice is a deep net."
+  },
+  {
+    "startTime": 91.549,
+    "endTime": 97.99000000000001,
+    "text": "Have you ever run into a wall when trying to work with highly complex data? Please comment"
+  },
+  {
+    "startTime": 97.99,
+    "endTime": 101.53999999999999,
+    "text": "and let me know your thoughts."
+  },
+  {
+    "startTime": 101.54,
+    "endTime": 107.84,
+    "text": "But what enables a deep net to recognize these complex patterns? The key is that deep nets"
+  },
+  {
+    "startTime": 107.84,
+    "endTime": 113.56,
+    "text": "are able to break the complex patterns down into a series of simpler patterns. For example,"
+  },
+  {
+    "startTime": 113.56,
+    "endTime": 119.21000000000001,
+    "text": "let's say that a net had to decide whether or not an image contained a human face. A"
+  },
+  {
+    "startTime": 119.21,
+    "endTime": 124.99,
+    "text": "deep net would first use edges to detect different parts of the face – the lips, nose, eyes,"
+  },
+  {
+    "startTime": 124.99,
+    "endTime": 130.85999999999999,
+    "text": "ears, and so on – and would then combine the results together to form the whole face."
+  },
+  {
+    "startTime": 130.86,
+    "endTime": 136.19000000000003,
+    "text": "This important feature – using simpler patterns as building blocks to detect complex patterns"
+  },
+  {
+    "startTime": 136.19,
+    "endTime": 142.22,
+    "text": "– is what gives deep nets their strength. The accuracy of these nets has become very"
+  },
+  {
+    "startTime": 142.22,
+    "endTime": 148.19,
+    "text": "impressive – in fact, a deep net from google recently beat a human at a pattern recognition"
+  },
+  {
+    "startTime": 148.19,
+    "endTime": 149.63,
+    "text": "challenge."
+  },
+  {
+    "startTime": 149.63,
+    "endTime": 155.12,
+    "text": "It’s not surprising that deep nets were inspired by the structure of our own human"
+  },
+  {
+    "startTime": 155.12,
+    "endTime": 161.25,
+    "text": "brains. Even in the early days of neural networks, researches wanted to link a large number of"
+  },
+  {
+    "startTime": 161.25,
+    "endTime": 165.99,
+    "text": "perceptrons together in a layered web – an idea which helped improve their accuracy."
+  },
+  {
+    "startTime": 165.99,
+    "endTime": 171.69,
+    "text": "It is believed that our brains have a very deep architecture and that we decipher patterns"
+  },
+  {
+    "startTime": 171.69,
+    "endTime": 176.81,
+    "text": "just like a deep net – we detect complex patterns by first detecting, and combining,"
+  },
+  {
+    "startTime": 176.81,
+    "endTime": 180.09,
+    "text": "the simple ones."
+  },
+  {
+    "startTime": 180.09,
+    "endTime": 186.26,
+    "text": "There is one downside to all of this – deep nets take much longer to train. The good news"
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 190.53,
+    "text": "is that recent advances in computing have really reduced the amount of time it takes"
+  },
+  {
+    "startTime": 190.53,
+    "endTime": 196.07,
+    "text": "to properly train a net. High performance GPUs can finish training a complex net in"
+  },
+  {
+    "startTime": 196.07,
+    "endTime": 202.98,
+    "text": "under a week, when fast CPUs may have taken weeks or even months."
+  },
+  {
+    "startTime": 202.98,
+    "endTime": 206.73,
+    "text": "Before we talk more about the various Deep Learning models, we're going to briefly"
+  },
+  {
+    "startTime": 206.73,
+    "endTime": 211.92999999999998,
+    "text": "discuss which types of deep nets are suitable for different machine learning tasks. That's"
+  },
+  {
+    "startTime": 211.93,
+    "endTime": 221.93,
+    "text": "coming up in the next video."
+  }
+]

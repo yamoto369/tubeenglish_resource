@@ -1,0 +1,432 @@
+[
+  {
+    "startTime": 2.8,
+    "endTime": 4.96,
+    "text": "if you want your computer to recognize"
+  },
+  {
+    "startTime": 4.96,
+    "endTime": 7.64,
+    "text": "very complex patterns then trust me on"
+  },
+  {
+    "startTime": 7.64,
+    "endTime": 9.84,
+    "text": "this you really need to start using"
+  },
+  {
+    "startTime": 9.84,
+    "endTime": 12.12,
+    "text": "neural networks when the patterns get"
+  },
+  {
+    "startTime": 12.12,
+    "endTime": 14.4,
+    "text": "really complex neuron Nets start to"
+  },
+  {
+    "startTime": 14.4,
+    "endTime": 17.64,
+    "text": "outperform all of their competition plus"
+  },
+  {
+    "startTime": 17.64,
+    "endTime": 20.32,
+    "text": "gpus can train them faster than ever"
+  },
+  {
+    "startTime": 20.32,
+    "endTime": 23.119,
+    "text": "before let's take a"
+  },
+  {
+    "startTime": 23.119,
+    "endTime": 25.84,
+    "text": "look neural Nets truly have the"
+  },
+  {
+    "startTime": 25.84,
+    "endTime": 28.039,
+    "text": "potential to revolutionize the field of"
+  },
+  {
+    "startTime": 28.039,
+    "endTime": 30.519,
+    "text": "artificial intelligence we all know that"
+  },
+  {
+    "startTime": 30.519,
+    "endTime": 32.558,
+    "text": "computers are very good with repetitive"
+  },
+  {
+    "startTime": 32.559,
+    "endTime": 35.12,
+    "text": "calculations and detailed instructions"
+  },
+  {
+    "startTime": 35.12,
+    "endTime": 36.92,
+    "text": "but they've historically been bad at"
+  },
+  {
+    "startTime": 36.92,
+    "endTime": 39.559,
+    "text": "recognizing patterns thanks to deep"
+  },
+  {
+    "startTime": 39.559,
+    "endTime": 43.359,
+    "text": "learning this is all about to"
+  },
+  {
+    "startTime": 43.68,
+    "endTime": 46.199,
+    "text": "change if you only need to analyze"
+  },
+  {
+    "startTime": 46.199,
+    "endTime": 48.719,
+    "text": "simple patterns a basic classification"
+  },
+  {
+    "startTime": 48.719,
+    "endTime": 51.48,
+    "text": "tool like an svm or logistic regression"
+  },
+  {
+    "startTime": 51.48,
+    "endTime": 53.64,
+    "text": "is typically good enough but when your"
+  },
+  {
+    "startTime": 53.64,
+    "endTime": 55.68,
+    "text": "data has tens of different inputs or"
+  },
+  {
+    "startTime": 55.68,
+    "endTime": 58.079,
+    "text": "more neural Nets start to win out over"
+  },
+  {
+    "startTime": 58.079,
+    "endTime": 60.84,
+    "text": "the other methods still as the patterns"
+  },
+  {
+    "startTime": 60.84,
+    "endTime": 63.16,
+    "text": "get even more complex neural networks"
+  },
+  {
+    "startTime": 63.16,
+    "endTime": 65.799,
+    "text": "with a small number of layers can become"
+  },
+  {
+    "startTime": 65.799,
+    "endTime": 68.119,
+    "text": "unusable the reason is that the number"
+  },
+  {
+    "startTime": 68.119,
+    "endTime": 70.52,
+    "text": "of nodes required in each layer grows"
+  },
+  {
+    "startTime": 70.52,
+    "endTime": 72.2,
+    "text": "exponentially with the number of"
+  },
+  {
+    "startTime": 72.2,
+    "endTime": 75.04,
+    "text": "possible patterns in the data eventually"
+  },
+  {
+    "startTime": 75.04,
+    "endTime": 77.159,
+    "text": "training becomes way too expensive and"
+  },
+  {
+    "startTime": 77.159,
+    "endTime": 80.04,
+    "text": "the accuracy starts to suffer so for an"
+  },
+  {
+    "startTime": 80.04,
+    "endTime": 81.96,
+    "text": "intricate pattern like an image of a"
+  },
+  {
+    "startTime": 81.96,
+    "endTime": 84.2,
+    "text": "human face for example basic"
+  },
+  {
+    "startTime": 84.2,
+    "endTime": 86.0,
+    "text": "classification engines and shallow"
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 88.64,
+    "text": "neuron Nets simply aren't good enough"
+  },
+  {
+    "startTime": 88.64,
+    "endTime": 91.479,
+    "text": "the only practical choice is a deep"
+  },
+  {
+    "startTime": 91.479,
+    "endTime": 94.079,
+    "text": "net have you ever run into a wall when"
+  },
+  {
+    "startTime": 94.079,
+    "endTime": 97.28,
+    "text": "trying to work with highly complex data"
+  },
+  {
+    "startTime": 97.28,
+    "endTime": 100.399,
+    "text": "please comment and let me know your"
+  },
+  {
+    "startTime": 100.399,
+    "endTime": 103.36,
+    "text": "thoughts but what enables a deep net to"
+  },
+  {
+    "startTime": 103.36,
+    "endTime": 105.36,
+    "text": "recognize these complex"
+  },
+  {
+    "startTime": 105.36,
+    "endTime": 107.96,
+    "text": "patterns the key is that deep Nets are"
+  },
+  {
+    "startTime": 107.96,
+    "endTime": 110.2,
+    "text": "able to break the complex patterns down"
+  },
+  {
+    "startTime": 110.2,
+    "endTime": 113.079,
+    "text": "into a series of simpler patterns for"
+  },
+  {
+    "startTime": 113.079,
+    "endTime": 115.479,
+    "text": "example let's say that a net had to"
+  },
+  {
+    "startTime": 115.479,
+    "endTime": 117.64,
+    "text": "decide whether or not an image contained"
+  },
+  {
+    "startTime": 117.64,
+    "endTime": 120.6,
+    "text": "a human face a deep net would first use"
+  },
+  {
+    "startTime": 120.6,
+    "endTime": 122.92,
+    "text": "edges to detect different parts of the"
+  },
+  {
+    "startTime": 122.92,
+    "endTime": 126.88,
+    "text": "face the whips nose eyes ears and so on"
+  },
+  {
+    "startTime": 126.88,
+    "endTime": 128.52,
+    "text": "and would then combine the results"
+  },
+  {
+    "startTime": 128.52,
+    "endTime": 131.039,
+    "text": "together to form the whole face this"
+  },
+  {
+    "startTime": 131.039,
+    "endTime": 133.599,
+    "text": "important feature using simpler patterns"
+  },
+  {
+    "startTime": 133.599,
+    "endTime": 135.68,
+    "text": "as building blocks to detect complex"
+  },
+  {
+    "startTime": 135.68,
+    "endTime": 138.68,
+    "text": "patterns is what gives deep Nets their"
+  },
+  {
+    "startTime": 138.68,
+    "endTime": 141.36,
+    "text": "strength the accuracy of these nets has"
+  },
+  {
+    "startTime": 141.36,
+    "endTime": 144.68,
+    "text": "become very impressive in fact a deep"
+  },
+  {
+    "startTime": 144.68,
+    "endTime": 146.92,
+    "text": "net from Google recently beat a human at"
+  },
+  {
+    "startTime": 146.92,
+    "endTime": 150.84,
+    "text": "a pattern recognition challenge"
+  },
+  {
+    "startTime": 150.84,
+    "endTime": 152.8,
+    "text": "it's not surprising that deep Nets were"
+  },
+  {
+    "startTime": 152.8,
+    "endTime": 154.68,
+    "text": "inspired by the structure of our own"
+  },
+  {
+    "startTime": 154.68,
+    "endTime": 157.44,
+    "text": "human brains even in the early days of"
+  },
+  {
+    "startTime": 157.44,
+    "endTime": 159.84,
+    "text": "neuron networks researchers wanted to"
+  },
+  {
+    "startTime": 159.84,
+    "endTime": 162.04,
+    "text": "link a large number of perceptrons"
+  },
+  {
+    "startTime": 162.04,
+    "endTime": 164.4,
+    "text": "together in a layered web an idea which"
+  },
+  {
+    "startTime": 164.4,
+    "endTime": 167.08,
+    "text": "helped improve their accuracy It is"
+  },
+  {
+    "startTime": 167.08,
+    "endTime": 168.72,
+    "text": "believed that our brains have a very"
+  },
+  {
+    "startTime": 168.72,
+    "endTime": 171.2,
+    "text": "deep architecture and that we decipher"
+  },
+  {
+    "startTime": 171.2,
+    "endTime": 174.12,
+    "text": "patterns just like a deep net we detect"
+  },
+  {
+    "startTime": 174.12,
+    "endTime": 176.28,
+    "text": "complex patterns by first detecting and"
+  },
+  {
+    "startTime": 176.28,
+    "endTime": 179.959,
+    "text": "combining the simple ones"
+  },
+  {
+    "startTime": 179.959,
+    "endTime": 182.64,
+    "text": "there is one downside to all this deep"
+  },
+  {
+    "startTime": 182.64,
+    "endTime": 185.92,
+    "text": "Nets take much longer to train the good"
+  },
+  {
+    "startTime": 185.92,
+    "endTime": 187.68,
+    "text": "news is that recent advances in"
+  },
+  {
+    "startTime": 187.68,
+    "endTime": 189.76,
+    "text": "Computing have really reduced the amount"
+  },
+  {
+    "startTime": 189.76,
+    "endTime": 192.76,
+    "text": "of time it takes to properly train a net"
+  },
+  {
+    "startTime": 192.76,
+    "endTime": 194.519,
+    "text": "high performance gpus can finish"
+  },
+  {
+    "startTime": 194.519,
+    "endTime": 197.599,
+    "text": "training a complex net in under a week"
+  },
+  {
+    "startTime": 197.599,
+    "endTime": 200.04,
+    "text": "when fast CPUs may have taken weeks or"
+  },
+  {
+    "startTime": 200.04,
+    "endTime": 201.959,
+    "text": "even"
+  },
+  {
+    "startTime": 201.959,
+    "endTime": 204.2,
+    "text": "months before we talk more about the"
+  },
+  {
+    "startTime": 204.2,
+    "endTime": 206.239,
+    "text": "various deep learning models we're going"
+  },
+  {
+    "startTime": 206.239,
+    "endTime": 208.2,
+    "text": "to briefly discuss which types of deep"
+  },
+  {
+    "startTime": 208.2,
+    "endTime": 210.12,
+    "text": "Nets are suitable for different machine"
+  },
+  {
+    "startTime": 210.12,
+    "endTime": 212.56,
+    "text": "learning tasks that's coming up in the"
+  },
+  {
+    "startTime": 212.56,
+    "endTime": 215.84,
+    "text": "next video"
+  },
+  {
+    "startTime": 227.65,
+    "endTime": 230.758,
+    "text": "[Music]"
+  }
+]
