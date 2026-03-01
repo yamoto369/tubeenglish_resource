@@ -1,0 +1,542 @@
+[
+  {
+    "startTime": 0.11,
+    "endTime": 8.0,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 8.0,
+    "endTime": 9.48,
+    "text": "your research team has found a"
+  },
+  {
+    "startTime": 9.48,
+    "endTime": 11.48,
+    "text": "prehistoric virus preserved in the"
+  },
+  {
+    "startTime": 11.48,
+    "endTime": 15.0,
+    "text": "permafrost and isolated it for study"
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 17.279,
+    "text": "after a late night working you're just"
+  },
+  {
+    "startTime": 17.279,
+    "endTime": 19.199,
+    "text": "closing up the lab when a sudden"
+  },
+  {
+    "startTime": 19.199,
+    "endTime": 22.32,
+    "text": "earthquake hits and knocks out the power"
+  },
+  {
+    "startTime": 22.32,
+    "endTime": 24.72,
+    "text": "as the emergency generators kick in an"
+  },
+  {
+    "startTime": 24.72,
+    "endTime": 27.76,
+    "text": "alarm confirms your worst fears all the"
+  },
+  {
+    "startTime": 27.76,
+    "endTime": 30.48,
+    "text": "sample vials have broken"
+  },
+  {
+    "startTime": 30.48,
+    "endTime": 32.92,
+    "text": "the virus is contained for now but"
+  },
+  {
+    "startTime": 32.92,
+    "endTime": 35.2,
+    "text": "unless you can destroy it the vents will"
+  },
+  {
+    "startTime": 35.2,
+    "endTime": 38.879,
+    "text": "soon open and unleash a deadly airborn"
+  },
+  {
+    "startTime": 38.879,
+    "endTime": 41.68,
+    "text": "plague without hesitation you grab your"
+  },
+  {
+    "startTime": 41.68,
+    "endTime": 45.079,
+    "text": "hazmat suit and get ready to save the"
+  },
+  {
+    "startTime": 45.079,
+    "endTime": 49.039,
+    "text": "world the lab is a 4x4 compound of 16"
+  },
+  {
+    "startTime": 49.039,
+    "endTime": 51.399,
+    "text": "rooms with an entrance at the northwest"
+  },
+  {
+    "startTime": 51.399,
+    "endTime": 55.0,
+    "text": "corner and an exit at the southeast each"
+  },
+  {
+    "startTime": 55.0,
+    "endTime": 57.039,
+    "text": "room is connected to the adjacent ones"
+  },
+  {
+    "startTime": 57.039,
+    "endTime": 59.44,
+    "text": "by an airlock and the virus has been"
+  },
+  {
+    "startTime": 59.44,
+    "endTime": 61.68,
+    "text": "released in every room except the"
+  },
+  {
+    "startTime": 61.68,
+    "endTime": 64.518,
+    "text": "entrance to destroy it you must enter"
+  },
+  {
+    "startTime": 64.519,
+    "endTime": 66.799,
+    "text": "each contaminated room and pull its"
+  },
+  {
+    "startTime": 66.799,
+    "endTime": 69.68,
+    "text": "emergency self-destruct switch but"
+  },
+  {
+    "startTime": 69.68,
+    "endTime": 72.24,
+    "text": "there's a catch because the security"
+  },
+  {
+    "startTime": 72.24,
+    "endTime": 74.759,
+    "text": "system is on lock down once you enter a"
+  },
+  {
+    "startTime": 74.759,
+    "endTime": 77.68,
+    "text": "contaminated room you can't exit without"
+  },
+  {
+    "startTime": 77.68,
+    "endTime": 80.0,
+    "text": "activating the switch and once you've"
+  },
+  {
+    "startTime": 80.0,
+    "endTime": 82.32,
+    "text": "done so you won't be able to go back"
+  },
+  {
+    "startTime": 82.32,
+    "endTime": 84.24,
+    "text": "into that"
+  },
+  {
+    "startTime": 84.24,
+    "endTime": 87.0,
+    "text": "room you start to draw out possible"
+  },
+  {
+    "startTime": 87.0,
+    "endTime": 89.439,
+    "text": "routes on a pad of paper but nothing"
+  },
+  {
+    "startTime": 89.439,
+    "endTime": 91.799,
+    "text": "seems to get you to the exit without"
+  },
+  {
+    "startTime": 91.799,
+    "endTime": 95.0,
+    "text": "missing at least one room so how can you"
+  },
+  {
+    "startTime": 95.0,
+    "endTime": 97.64,
+    "text": "destroy the virus in every contaminated"
+  },
+  {
+    "startTime": 97.64,
+    "endTime": 101.759,
+    "text": "room and survive to tell the"
+  },
+  {
+    "startTime": 109.64,
+    "endTime": 112.28,
+    "text": "story if your first instinct is to try"
+  },
+  {
+    "startTime": 112.28,
+    "endTime": 114.719,
+    "text": "to graph your possible moves on a grid"
+  },
+  {
+    "startTime": 114.719,
+    "endTime": 117.6,
+    "text": "you've got the right idea this puzzle is"
+  },
+  {
+    "startTime": 117.6,
+    "endTime": 120.399,
+    "text": "related to the hamiltonian path problem"
+  },
+  {
+    "startTime": 120.399,
+    "endTime": 122.479,
+    "text": "named after the 19th century Irish"
+  },
+  {
+    "startTime": 122.479,
+    "endTime": 125.439,
+    "text": "mathematician William Rowan Hamilton the"
+  },
+  {
+    "startTime": 125.439,
+    "endTime": 127.56,
+    "text": "challenge of the path problem is to find"
+  },
+  {
+    "startTime": 127.56,
+    "endTime": 130.599,
+    "text": "whether a given graph has a hamiltonian"
+  },
+  {
+    "startTime": 130.599,
+    "endTime": 133.12,
+    "text": "path that's a route that visits every"
+  },
+  {
+    "startTime": 133.12,
+    "endTime": 136.28,
+    "text": "Point within it exactly once this type"
+  },
+  {
+    "startTime": 136.28,
+    "endTime": 139.879,
+    "text": "of problem classified as NP complete is"
+  },
+  {
+    "startTime": 139.879,
+    "endTime": 142.239,
+    "text": "notoriously difficult when the graph is"
+  },
+  {
+    "startTime": 142.239,
+    "endTime": 145.239,
+    "text": "sufficiently large although any proposed"
+  },
+  {
+    "startTime": 145.239,
+    "endTime": 147.879,
+    "text": "solution can be easily verified we have"
+  },
+  {
+    "startTime": 147.879,
+    "endTime": 150.36,
+    "text": "no reliable formula or short cut for"
+  },
+  {
+    "startTime": 150.36,
+    "endTime": 152.44,
+    "text": "finding one or determining that one"
+  },
+  {
+    "startTime": 152.44,
+    "endTime": 154.92,
+    "text": "exists and we're not even sure if it's"
+  },
+  {
+    "startTime": 154.92,
+    "endTime": 157.599,
+    "text": "possible for computers to reliably find"
+  },
+  {
+    "startTime": 157.599,
+    "endTime": 160.72,
+    "text": "such Solutions either da this puzzle"
+  },
+  {
+    "startTime": 160.72,
+    "endTime": 162.84,
+    "text": "adds a Twist to the hamiltonian path"
+  },
+  {
+    "startTime": 162.84,
+    "endTime": 164.8,
+    "text": "problem in that you have to start and"
+  },
+  {
+    "startTime": 164.8,
+    "endTime": 168.239,
+    "text": "end at specific points but before you"
+  },
+  {
+    "startTime": 168.239,
+    "endTime": 170.4,
+    "text": "waste a ton of graph paper you should"
+  },
+  {
+    "startTime": 170.4,
+    "endTime": 173.159,
+    "text": "know that a true hamiltonian path isn't"
+  },
+  {
+    "startTime": 173.159,
+    "endTime": 175.48,
+    "text": "possible with these endpoints that's"
+  },
+  {
+    "startTime": 175.48,
+    "endTime": 177.92,
+    "text": "because the rooms form a grid with an"
+  },
+  {
+    "startTime": 177.92,
+    "endTime": 180.959,
+    "text": "even number of rooms on each side side"
+  },
+  {
+    "startTime": 180.959,
+    "endTime": 183.44,
+    "text": "in any grid with that configuration a"
+  },
+  {
+    "startTime": 183.44,
+    "endTime": 186.68,
+    "text": "hamiltonian path that starts and ends in"
+  },
+  {
+    "startTime": 186.68,
+    "endTime": 189.28,
+    "text": "opposite Corners is"
+  },
+  {
+    "startTime": 189.28,
+    "endTime": 191.4,
+    "text": "impossible here's one way of"
+  },
+  {
+    "startTime": 191.4,
+    "endTime": 193.159,
+    "text": "understanding why consider a"
+  },
+  {
+    "startTime": 193.159,
+    "endTime": 195.4,
+    "text": "checkerboard grid with an even number of"
+  },
+  {
+    "startTime": 195.4,
+    "endTime": 198.28,
+    "text": "squares on each side every path through"
+  },
+  {
+    "startTime": 198.28,
+    "endTime": 201.159,
+    "text": "it will alternate black and white these"
+  },
+  {
+    "startTime": 201.159,
+    "endTime": 204.04,
+    "text": "grids will all also have an even total"
+  },
+  {
+    "startTime": 204.04,
+    "endTime": 206.599,
+    "text": "number of squares because an even number"
+  },
+  {
+    "startTime": 206.599,
+    "endTime": 209.799,
+    "text": "times an even number is even so a"
+  },
+  {
+    "startTime": 209.799,
+    "endTime": 212.76,
+    "text": "hamiltonian path on an even- sided grid"
+  },
+  {
+    "startTime": 212.76,
+    "endTime": 215.519,
+    "text": "that starts on black will have to end on"
+  },
+  {
+    "startTime": 215.519,
+    "endTime": 217.959,
+    "text": "white and one that starts on white will"
+  },
+  {
+    "startTime": 217.959,
+    "endTime": 221.519,
+    "text": "have to end on black however in any grid"
+  },
+  {
+    "startTime": 221.519,
+    "endTime": 223.76,
+    "text": "with even numbered sides opposite"
+  },
+  {
+    "startTime": 223.76,
+    "endTime": 226.36,
+    "text": "Corners are the same color so it's"
+  },
+  {
+    "startTime": 226.36,
+    "endTime": 228.519,
+    "text": "impossible to start and end a"
+  },
+  {
+    "startTime": 228.519,
+    "endTime": 231.56,
+    "text": "hamiltonian path on opposite"
+  },
+  {
+    "startTime": 231.56,
+    "endTime": 234.68,
+    "text": "Corners it seems like you're out of luck"
+  },
+  {
+    "startTime": 234.68,
+    "endTime": 236.959,
+    "text": "unless you look at the rules carefully"
+  },
+  {
+    "startTime": 236.959,
+    "endTime": 240.64,
+    "text": "and notice an important exception"
+  },
+  {
+    "startTime": 240.64,
+    "endTime": 242.439,
+    "text": "it's true that once you activate the"
+  },
+  {
+    "startTime": 242.439,
+    "endTime": 244.68,
+    "text": "switch in a contaminated room it's"
+  },
+  {
+    "startTime": 244.68,
+    "endTime": 247.239,
+    "text": "destroyed and you can never go back but"
+  },
+  {
+    "startTime": 247.239,
+    "endTime": 248.84,
+    "text": "there's one room that wasn't"
+  },
+  {
+    "startTime": 248.84,
+    "endTime": 251.76,
+    "text": "contaminated the entrance this means"
+  },
+  {
+    "startTime": 251.76,
+    "endTime": 253.68,
+    "text": "that you can leave it once without"
+  },
+  {
+    "startTime": 253.68,
+    "endTime": 256.199,
+    "text": "pulling the switch and return there when"
+  },
+  {
+    "startTime": 256.199,
+    "endTime": 258.68,
+    "text": "you've destroyed either of these two"
+  },
+  {
+    "startTime": 258.68,
+    "endTime": 261.079,
+    "text": "rooms The Corner Room may have been"
+  },
+  {
+    "startTime": 261.079,
+    "endTime": 263.32,
+    "text": "contaminated from the airlock opening"
+  },
+  {
+    "startTime": 263.32,
+    "endTime": 265.479,
+    "text": "but that's okay because you can destroy"
+  },
+  {
+    "startTime": 265.479,
+    "endTime": 268.44,
+    "text": "the entrance after your second visit"
+  },
+  {
+    "startTime": 268.44,
+    "endTime": 270.44,
+    "text": "that return trip gives gives you four"
+  },
+  {
+    "startTime": 270.44,
+    "endTime": 272.639,
+    "text": "options for a successful route and a"
+  },
+  {
+    "startTime": 272.639,
+    "endTime": 274.84,
+    "text": "similar set of options if you destroyed"
+  },
+  {
+    "startTime": 274.84,
+    "endTime": 275.919,
+    "text": "this room"
+  },
+  {
+    "startTime": 275.919,
+    "endTime": 279.0,
+    "text": "first congratulations you've prevented"
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 282.56,
+    "text": "an epidemic of apocalyptic proportions"
+  },
+  {
+    "startTime": 282.56,
+    "endTime": 284.8,
+    "text": "but after such a stressful episode you"
+  },
+  {
+    "startTime": 284.8,
+    "endTime": 286.88,
+    "text": "need a break maybe you should take up"
+  },
+  {
+    "startTime": 286.88,
+    "endTime": 288.8,
+    "text": "that recent job offer to become a"
+  },
+  {
+    "startTime": 288.8,
+    "endTime": 292.24,
+    "text": "traveling salesman"
+  },
+  {
+    "startTime": 299.76,
+    "endTime": 302.889,
+    "text": "[Music]"
+  }
+]

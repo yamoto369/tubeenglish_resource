@@ -1,0 +1,397 @@
+[
+  {
+    "startTime": 7.473,
+    "endTime": 12.078,
+    "text": "Your research team has found a prehistoric virus preserved in the permafrost"
+  },
+  {
+    "startTime": 12.078,
+    "endTime": 14.088999999999999,
+    "text": "and isolated it for study."
+  },
+  {
+    "startTime": 14.089,
+    "endTime": 16.37,
+    "text": "After a late night working,"
+  },
+  {
+    "startTime": 16.37,
+    "endTime": 20.059,
+    "text": "you're just closing up the lab when a sudden earthquake hits"
+  },
+  {
+    "startTime": 20.059,
+    "endTime": 21.589000000000002,
+    "text": "and knocks out the power."
+  },
+  {
+    "startTime": 21.589,
+    "endTime": 27.049,
+    "text": "As the emergency generators kick in, an alarm confirms your worst fears:"
+  },
+  {
+    "startTime": 27.049,
+    "endTime": 29.448999999999998,
+    "text": "all the sample vials have broken."
+  },
+  {
+    "startTime": 29.449,
+    "endTime": 32.634,
+    "text": "The virus is contained for now,"
+  },
+  {
+    "startTime": 32.634,
+    "endTime": 34.253,
+    "text": "but unless you can destroy it,"
+  },
+  {
+    "startTime": 34.253,
+    "endTime": 39.546,
+    "text": "the vents will soon open and unleash a deadly airborne plague."
+  },
+  {
+    "startTime": 39.546,
+    "endTime": 42.572,
+    "text": "Without hesitation, you grab your HazMat suit"
+  },
+  {
+    "startTime": 42.572,
+    "endTime": 44.34,
+    "text": "and get ready to save the world."
+  },
+  {
+    "startTime": 44.34,
+    "endTime": 49.35,
+    "text": "The lab is a four by four compound of 16 rooms"
+  },
+  {
+    "startTime": 49.35,
+    "endTime": 54.141000000000005,
+    "text": "with an entrance on the northwest corner and an exit at the southeast."
+  },
+  {
+    "startTime": 54.141,
+    "endTime": 57.991,
+    "text": "Each room is connected to the adjacent ones by an airlock,"
+  },
+  {
+    "startTime": 57.991,
+    "endTime": 62.612,
+    "text": "and the virus has been released in every room except the entrance."
+  },
+  {
+    "startTime": 62.612,
+    "endTime": 65.93,
+    "text": "To destroy it, you must enter each contaminated room"
+  },
+  {
+    "startTime": 65.93,
+    "endTime": 68.74000000000001,
+    "text": "and pull its emergency self-destruct switch."
+  },
+  {
+    "startTime": 68.74,
+    "endTime": 71.08,
+    "text": "But there's a catch."
+  },
+  {
+    "startTime": 71.08,
+    "endTime": 73.24,
+    "text": "Because the security system is on lockdown,"
+  },
+  {
+    "startTime": 73.24,
+    "endTime": 75.82199999999999,
+    "text": "once you enter the contaminated room,"
+  },
+  {
+    "startTime": 75.822,
+    "endTime": 78.811,
+    "text": "you can't exit without activating the switch,"
+  },
+  {
+    "startTime": 78.811,
+    "endTime": 80.78,
+    "text": "and once you've done so,"
+  },
+  {
+    "startTime": 80.78,
+    "endTime": 83.97,
+    "text": "you won't be able to go  back in to that room."
+  },
+  {
+    "startTime": 83.97,
+    "endTime": 88.601,
+    "text": "You start to draw out possible routes on a pad of paper,"
+  },
+  {
+    "startTime": 88.601,
+    "endTime": 93.45,
+    "text": "but nothing seems to get you to the exit without missing at least one room."
+  },
+  {
+    "startTime": 93.45,
+    "endTime": 98.12400000000001,
+    "text": "So how can you destroy the virus in every contaminated room"
+  },
+  {
+    "startTime": 98.124,
+    "endTime": 100.21,
+    "text": "and survive to tell the story?"
+  },
+  {
+    "startTime": 100.11,
+    "endTime": 105.041,
+    "text": "Pause here if you want to figure it out for yourself."
+  },
+  {
+    "startTime": 105.041,
+    "endTime": 106.432,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 106.432,
+    "endTime": 108.492,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 108.492,
+    "endTime": 110.236,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 110.236,
+    "endTime": 114.59,
+    "text": "If your first instinct is to try to graph your possible moves on a grid,"
+  },
+  {
+    "startTime": 114.59,
+    "endTime": 116.343,
+    "text": "you've got the right idea."
+  },
+  {
+    "startTime": 116.343,
+    "endTime": 120.10000000000001,
+    "text": "This puzzle is related to the Hamiltonian path problem"
+  },
+  {
+    "startTime": 120.1,
+    "endTime": 125.05999999999999,
+    "text": "named after the 19th century Irish mathematician William Rowan Hamilton."
+  },
+  {
+    "startTime": 125.06,
+    "endTime": 126.91,
+    "text": "The challenge of the path problem"
+  },
+  {
+    "startTime": 126.91,
+    "endTime": 130.791,
+    "text": "is to find whether a given graph has a Hamiltonian path."
+  },
+  {
+    "startTime": 130.791,
+    "endTime": 135.45,
+    "text": "That's a route that visits every point within it exactly once."
+  },
+  {
+    "startTime": 135.45,
+    "endTime": 139.21099999999998,
+    "text": "This type of problem, classified as NP-complete,"
+  },
+  {
+    "startTime": 139.211,
+    "endTime": 143.08100000000002,
+    "text": "is notoriously difficult when the graph is sufficiently large."
+  },
+  {
+    "startTime": 143.081,
+    "endTime": 147.541,
+    "text": "Although any proposed solution can be easily verified,"
+  },
+  {
+    "startTime": 147.541,
+    "endTime": 151.071,
+    "text": "we have no reliable formula or shortcut for finding one,"
+  },
+  {
+    "startTime": 151.071,
+    "endTime": 152.852,
+    "text": "or determining that one exists."
+  },
+  {
+    "startTime": 152.852,
+    "endTime": 156.061,
+    "text": "And we're not even sure if it's possible for computers"
+  },
+  {
+    "startTime": 156.061,
+    "endTime": 158.842,
+    "text": "to reliably find such solutions, either."
+  },
+  {
+    "startTime": 158.842,
+    "endTime": 162.991,
+    "text": "This puzzle adds a twist to the Hamiltonian path problem"
+  },
+  {
+    "startTime": 162.991,
+    "endTime": 166.651,
+    "text": "in that you have to start  and end at specific points."
+  },
+  {
+    "startTime": 166.651,
+    "endTime": 169.841,
+    "text": "But before you waste a ton of graph paper,"
+  },
+  {
+    "startTime": 169.841,
+    "endTime": 172.702,
+    "text": "you should know that a true Hamiltonian path"
+  },
+  {
+    "startTime": 172.702,
+    "endTime": 174.702,
+    "text": "isn't possible with these end points."
+  },
+  {
+    "startTime": 174.702,
+    "endTime": 180.572,
+    "text": "That's because the rooms form a grid with an even number of rooms on each side."
+  },
+  {
+    "startTime": 180.572,
+    "endTime": 183.27100000000002,
+    "text": "In any grid with that configuration,"
+  },
+  {
+    "startTime": 183.271,
+    "endTime": 188.783,
+    "text": "a Hamiltonian path that starts and ends in opposite corners is impossible."
+  },
+  {
+    "startTime": 188.783,
+    "endTime": 192.04199999999997,
+    "text": "Here's one way of understanding why."
+  },
+  {
+    "startTime": 192.042,
+    "endTime": 196.422,
+    "text": "Consider a checkerboard grid with an even number of squares on each side."
+  },
+  {
+    "startTime": 196.422,
+    "endTime": 200.331,
+    "text": "Every path through it will alternate black and white."
+  },
+  {
+    "startTime": 200.331,
+    "endTime": 205.262,
+    "text": "These grids will all also have an even total number of squares"
+  },
+  {
+    "startTime": 205.262,
+    "endTime": 208.612,
+    "text": "because an even number times and even number is even."
+  },
+  {
+    "startTime": 208.612,
+    "endTime": 214.202,
+    "text": "So a Hamiltonian path on an even-sided grid that starts on black"
+  },
+  {
+    "startTime": 214.202,
+    "endTime": 216.053,
+    "text": "will have to end on white."
+  },
+  {
+    "startTime": 216.053,
+    "endTime": 219.843,
+    "text": "And one that starts on white will have to end on black."
+  },
+  {
+    "startTime": 219.843,
+    "endTime": 222.98299999999998,
+    "text": "However, in any grid with even numbered sides,"
+  },
+  {
+    "startTime": 222.983,
+    "endTime": 225.794,
+    "text": "opposite corners are the same color,"
+  },
+  {
+    "startTime": 225.794,
+    "endTime": 231.752,
+    "text": "so it's impossible to start and end a Hamiltonian path on opposite corners."
+  },
+  {
+    "startTime": 231.752,
+    "endTime": 234.312,
+    "text": "It seems like you're out of luck,"
+  },
+  {
+    "startTime": 234.312,
+    "endTime": 239.25300000000001,
+    "text": "unless you look at the rules carefully and notice an important exception."
+  },
+  {
+    "startTime": 239.253,
+    "endTime": 244.134,
+    "text": "It's true that once you activate the switch in a contaminated room,"
+  },
+  {
+    "startTime": 244.134,
+    "endTime": 246.64399999999998,
+    "text": "it's destroyed and you can never go back."
+  },
+  {
+    "startTime": 246.644,
+    "endTime": 251.104,
+    "text": "But there's one room that wasn't contaminated - the entrance."
+  },
+  {
+    "startTime": 251.104,
+    "endTime": 254.58300000000003,
+    "text": "This means that you can leave it once without pulling the switch"
+  },
+  {
+    "startTime": 254.583,
+    "endTime": 259.473,
+    "text": "and return there when you've destroyed either of these two rooms."
+  },
+  {
+    "startTime": 259.473,
+    "endTime": 263.394,
+    "text": "The corner room may have been contaminated from the airlock opening,"
+  },
+  {
+    "startTime": 263.394,
+    "endTime": 268.07800000000003,
+    "text": "but that's okay because you can destroy the entrance after your second visit."
+  },
+  {
+    "startTime": 268.078,
+    "endTime": 272.234,
+    "text": "That return trip gives you four options for a successful route,"
+  },
+  {
+    "startTime": 272.234,
+    "endTime": 275.983,
+    "text": "and a similar set of options if you destroyed this room first."
+  },
+  {
+    "startTime": 275.983,
+    "endTime": 282.318,
+    "text": "Congratulations. You've prevented an epidemic of apocalyptic proportions,"
+  },
+  {
+    "startTime": 282.318,
+    "endTime": 285.688,
+    "text": "but after such a stressful episode, you need a break."
+  },
+  {
+    "startTime": 285.688,
+    "endTime": 290.25399999999996,
+    "text": "Maybe you should take up that recent job offer to become a traveling salesman."
+  }
+]
