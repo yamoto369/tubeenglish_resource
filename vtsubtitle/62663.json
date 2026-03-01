@@ -1,0 +1,1137 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 18.259,
+    "text": "If we look around us,"
+  },
+  {
+    "startTime": 18.26,
+    "endTime": 20.26,
+    "text": "much of what surrounds us"
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 23.26,
+    "text": "started life as various rocks and sludge"
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 26.26,
+    "text": "buried in the ground in various places in the world."
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 29.26,
+    "text": "But, of course, they don't look like rocks and sludge now."
+  },
+  {
+    "startTime": 29.26,
+    "endTime": 32.260000000000005,
+    "text": "They look like TV cameras, monitors,"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 34.26,
+    "text": "annoying radio mics."
+  },
+  {
+    "startTime": 34.26,
+    "endTime": 36.26,
+    "text": "And so this magical transformation"
+  },
+  {
+    "startTime": 36.26,
+    "endTime": 39.26,
+    "text": "is what I was trying to get at with my project,"
+  },
+  {
+    "startTime": 39.26,
+    "endTime": 41.26,
+    "text": "which became known as the Toaster Project."
+  },
+  {
+    "startTime": 41.26,
+    "endTime": 43.26,
+    "text": "And it was also inspired by this quote"
+  },
+  {
+    "startTime": 43.26,
+    "endTime": 45.26,
+    "text": "from Douglas Adams,"
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 48.26,
+    "text": "and the situation is from \"The Hitchhiker's Guide to the Galaxy.\""
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 50.26,
+    "text": "And the situation it describes"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 53.26,
+    "text": "is the hero of the book -- he's a 20th-century man --"
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 56.26,
+    "text": "finds himself alone on a strange planet"
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 59.26,
+    "text": "populated only by a technologically primitive people."
+  },
+  {
+    "startTime": 59.26,
+    "endTime": 61.26,
+    "text": "And he kind of assumes that, yes,"
+  },
+  {
+    "startTime": 61.26,
+    "endTime": 63.26,
+    "text": "he'll become -- these villagers --"
+  },
+  {
+    "startTime": 63.26,
+    "endTime": 65.259,
+    "text": "he'll become their emperor"
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 67.26,
+    "text": "and transform their society"
+  },
+  {
+    "startTime": 67.26,
+    "endTime": 69.26,
+    "text": "with his wonderful command of technology"
+  },
+  {
+    "startTime": 69.26,
+    "endTime": 71.26,
+    "text": "and science and the elements,"
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 73.26,
+    "text": "but, of course, realizes"
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 75.26,
+    "text": "that without the rest of human society,"
+  },
+  {
+    "startTime": 75.26,
+    "endTime": 78.26,
+    "text": "he can barely make a sandwich,"
+  },
+  {
+    "startTime": 78.26,
+    "endTime": 80.26,
+    "text": "let alone a toaster."
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 82.26,
+    "text": "But he didn't have Wikipedia."
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 84.26,
+    "text": "So I thought, okay,"
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 86.26,
+    "text": "I'll try and make an electric toaster from scratch."
+  },
+  {
+    "startTime": 86.26,
+    "endTime": 88.26,
+    "text": "And, working on the idea"
+  },
+  {
+    "startTime": 88.26,
+    "endTime": 90.26,
+    "text": "that the cheapest electric toaster"
+  },
+  {
+    "startTime": 90.26,
+    "endTime": 92.26,
+    "text": "would also be the simplest to reverse-engineer,"
+  },
+  {
+    "startTime": 92.26,
+    "endTime": 95.26,
+    "text": "I went and bought the cheapest toaster I could find,"
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 97.26,
+    "text": "took it home"
+  },
+  {
+    "startTime": 97.26,
+    "endTime": 99.26,
+    "text": "and was kind of dismayed to discover"
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 101.26,
+    "text": "that, inside this object,"
+  },
+  {
+    "startTime": 101.26,
+    "endTime": 104.26,
+    "text": "which I'd bought for just 3.49 pounds,"
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 107.26,
+    "text": "there were 400 different bits"
+  },
+  {
+    "startTime": 107.26,
+    "endTime": 111.26,
+    "text": "made out of a hundred-plus different materials."
+  },
+  {
+    "startTime": 111.26,
+    "endTime": 114.26,
+    "text": "I didn't have the rest of my life to do this project."
+  },
+  {
+    "startTime": 114.26,
+    "endTime": 116.26,
+    "text": "I had maybe nine months."
+  },
+  {
+    "startTime": 116.26,
+    "endTime": 118.26,
+    "text": "So I thought, okay, I'll start with five."
+  },
+  {
+    "startTime": 118.26,
+    "endTime": 120.26,
+    "text": "And these were steel, mica,"
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 123.26,
+    "text": "plastic, copper and nickel."
+  },
+  {
+    "startTime": 123.26,
+    "endTime": 126.26,
+    "text": "So, starting with steel: how do you make steel?"
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 128.25900000000001,
+    "text": "I went and knocked on the door"
+  },
+  {
+    "startTime": 128.259,
+    "endTime": 130.259,
+    "text": "of the Rio Tinto Chair"
+  },
+  {
+    "startTime": 130.259,
+    "endTime": 133.26,
+    "text": "of Advanced Mineral Extraction at the Royal School of Mines"
+  },
+  {
+    "startTime": 133.26,
+    "endTime": 135.26,
+    "text": "and said, \"How do you make steel?\""
+  },
+  {
+    "startTime": 135.26,
+    "endTime": 137.26,
+    "text": "And Professor Cilliers was very kind"
+  },
+  {
+    "startTime": 137.26,
+    "endTime": 139.26,
+    "text": "and talked me through it."
+  },
+  {
+    "startTime": 139.26,
+    "endTime": 142.26,
+    "text": "And my vague rememberings from GCSE science --"
+  },
+  {
+    "startTime": 142.26,
+    "endTime": 144.26,
+    "text": "well, steel comes from iron,"
+  },
+  {
+    "startTime": 144.26,
+    "endTime": 147.26,
+    "text": "so I phoned up an iron mine."
+  },
+  {
+    "startTime": 147.26,
+    "endTime": 149.26,
+    "text": "And said, \"Hi, I'm trying to make a toaster."
+  },
+  {
+    "startTime": 149.26,
+    "endTime": 152.26,
+    "text": "Can I come up and get some iron?\""
+  },
+  {
+    "startTime": 153.26,
+    "endTime": 156.26,
+    "text": "Unfortunately, when I got there -- emerges Ray."
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "He had misheard me"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 161.26,
+    "text": "and thought I was coming up because I was trying to make a poster,"
+  },
+  {
+    "startTime": 161.26,
+    "endTime": 164.26,
+    "text": "and so wasn't prepared to take me into the mines."
+  },
+  {
+    "startTime": 164.26,
+    "endTime": 166.26,
+    "text": "But after some nagging, I got him to do that."
+  },
+  {
+    "startTime": 166.26,
+    "endTime": 169.26,
+    "text": "(Video) Ray: It was Crease Limestone,"
+  },
+  {
+    "startTime": 170.26,
+    "endTime": 172.26,
+    "text": "and that was produced"
+  },
+  {
+    "startTime": 172.26,
+    "endTime": 175.26,
+    "text": "by sea creatures"
+  },
+  {
+    "startTime": 175.26,
+    "endTime": 178.26,
+    "text": "350 million years ago"
+  },
+  {
+    "startTime": 178.26,
+    "endTime": 180.26,
+    "text": "in a nice, warm,"
+  },
+  {
+    "startTime": 180.26,
+    "endTime": 182.26,
+    "text": "sunny atmosphere."
+  },
+  {
+    "startTime": 182.26,
+    "endTime": 184.26,
+    "text": "When you study geology,"
+  },
+  {
+    "startTime": 184.26,
+    "endTime": 187.26,
+    "text": "you can see what's happened in the past,"
+  },
+  {
+    "startTime": 187.26,
+    "endTime": 190.26,
+    "text": "and there were terrific changes in the earth."
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 199.26,
+    "text": "Thomas Thwaites: As you can see, they had the Christmas decorations up."
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 203.26,
+    "text": "And of course, it wasn't actually a working mine anymore,"
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 206.26,
+    "text": "because, though Ray was a miner there,"
+  },
+  {
+    "startTime": 206.26,
+    "endTime": 208.26,
+    "text": "the mine had closed"
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 211.26,
+    "text": "and had been reopened as a kind of tourist attraction,"
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 213.26,
+    "text": "because, of course, it can't compete"
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 216.26,
+    "text": "on the scale of operations which are happening"
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 219.26,
+    "text": "in South America, Australia, wherever."
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 222.26,
+    "text": "But anyway, I got my suitcase of iron ore"
+  },
+  {
+    "startTime": 222.26,
+    "endTime": 224.26,
+    "text": "and dragged it back to London on the train,"
+  },
+  {
+    "startTime": 224.26,
+    "endTime": 226.26,
+    "text": "and then was faced with the problem:"
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 228.26,
+    "text": "Okay, how do you make this rock"
+  },
+  {
+    "startTime": 228.26,
+    "endTime": 230.26,
+    "text": "into components for a toaster?"
+  },
+  {
+    "startTime": 230.26,
+    "endTime": 232.26,
+    "text": "So I went back to Professor Cilliers,"
+  },
+  {
+    "startTime": 232.26,
+    "endTime": 234.26,
+    "text": "and he said, \"Go to the library.\""
+  },
+  {
+    "startTime": 234.26,
+    "endTime": 236.26,
+    "text": "So I did"
+  },
+  {
+    "startTime": 236.26,
+    "endTime": 239.26,
+    "text": "and was looking through the undergraduate textbooks on metallurgy --"
+  },
+  {
+    "startTime": 239.26,
+    "endTime": 242.26,
+    "text": "completely useless for what I was trying to do."
+  },
+  {
+    "startTime": 242.26,
+    "endTime": 245.26,
+    "text": "Because, of course, they don't actually tell you how to do it"
+  },
+  {
+    "startTime": 245.26,
+    "endTime": 248.26,
+    "text": "if you want to do it yourself and you don't have a smelting plant."
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 250.26,
+    "text": "So I ended up going to the History of Science Library"
+  },
+  {
+    "startTime": 250.26,
+    "endTime": 252.26,
+    "text": "and looking at this book."
+  },
+  {
+    "startTime": 252.26,
+    "endTime": 254.26,
+    "text": "This is the first textbook on metallurgy"
+  },
+  {
+    "startTime": 254.26,
+    "endTime": 256.26,
+    "text": "written in the West, at least."
+  },
+  {
+    "startTime": 256.26,
+    "endTime": 258.26,
+    "text": "And there you can see that woodcut"
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 260.26,
+    "text": "is basically what I ended up doing."
+  },
+  {
+    "startTime": 260.26,
+    "endTime": 263.26,
+    "text": "But instead of a bellows, I had a leaf blower."
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 265.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 265.26,
+    "endTime": 268.26,
+    "text": "And that was something that reoccurred throughout the project,"
+  },
+  {
+    "startTime": 268.26,
+    "endTime": 270.26,
+    "text": "was, the smaller the scale you want to work on,"
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 273.26,
+    "text": "the further back in time you have to go."
+  },
+  {
+    "startTime": 273.26,
+    "endTime": 275.26,
+    "text": "And so this is after"
+  },
+  {
+    "startTime": 275.26,
+    "endTime": 277.26,
+    "text": "a day and about half a night"
+  },
+  {
+    "startTime": 277.26,
+    "endTime": 279.26,
+    "text": "smelting this iron."
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 281.26,
+    "text": "I dragged out this stuff,"
+  },
+  {
+    "startTime": 281.26,
+    "endTime": 283.26,
+    "text": "and it wasn't iron."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 285.26,
+    "text": "But luckily,"
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 287.26,
+    "text": "I found a patent online"
+  },
+  {
+    "startTime": 287.26,
+    "endTime": 290.26,
+    "text": "for industrial furnaces that use microwaves,"
+  },
+  {
+    "startTime": 290.26,
+    "endTime": 292.26,
+    "text": "and at 30 minutes at full power,"
+  },
+  {
+    "startTime": 292.26,
+    "endTime": 295.26,
+    "text": "and I was able to finish off the process."
+  },
+  {
+    "startTime": 297.26,
+    "endTime": 299.26,
+    "text": "So, my next --"
+  },
+  {
+    "startTime": 299.26,
+    "endTime": 301.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 306.26,
+    "text": "The next thing I was trying to get was copper."
+  },
+  {
+    "startTime": 306.26,
+    "endTime": 309.26,
+    "text": "Again, this mine"
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 311.26,
+    "text": "was once the largest copper mine in the world."
+  },
+  {
+    "startTime": 311.26,
+    "endTime": 313.26,
+    "text": "It's not anymore,"
+  },
+  {
+    "startTime": 313.26,
+    "endTime": 315.26,
+    "text": "but I found a retired geology professor"
+  },
+  {
+    "startTime": 315.26,
+    "endTime": 317.26,
+    "text": "to take me down,"
+  },
+  {
+    "startTime": 317.26,
+    "endTime": 320.26,
+    "text": "and he said, \"Okay, I'll let you have some water from the mine.\""
+  },
+  {
+    "startTime": 320.26,
+    "endTime": 323.26,
+    "text": "And the reason I was interested in getting water"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "is because water which goes through mines"
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 327.26,
+    "text": "becomes kind of acidic"
+  },
+  {
+    "startTime": 327.26,
+    "endTime": 329.26,
+    "text": "and will start picking up,"
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "dissolving the minerals from the mine."
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 334.26,
+    "text": "And a good example of this is the Rio Tinto,"
+  },
+  {
+    "startTime": 334.26,
+    "endTime": 336.26,
+    "text": "which is in Portugal."
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 339.26,
+    "text": "As you can see, it's got lots and lots of minerals dissolved in it."
+  },
+  {
+    "startTime": 339.26,
+    "endTime": 341.26,
+    "text": "So many such"
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 344.26,
+    "text": "that it's now just a home for bacteria"
+  },
+  {
+    "startTime": 344.26,
+    "endTime": 347.26,
+    "text": "who really like acidic, toxic conditions."
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 349.26,
+    "text": "But anyway, the water I dragged back"
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 351.26,
+    "text": "from the Isle of Anglesey where the mine was --"
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 353.26,
+    "text": "there was enough copper in it"
+  },
+  {
+    "startTime": 353.26,
+    "endTime": 355.26,
+    "text": "such that I could cast the pins"
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 357.26,
+    "text": "of my metal electric plug."
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 360.26,
+    "text": "So my next thing: I was off to Scotland"
+  },
+  {
+    "startTime": 360.26,
+    "endTime": 363.26,
+    "text": "to get mica."
+  },
+  {
+    "startTime": 363.26,
+    "endTime": 366.26,
+    "text": "And mica is a mineral"
+  },
+  {
+    "startTime": 366.26,
+    "endTime": 369.26,
+    "text": "which is a very good insulator"
+  },
+  {
+    "startTime": 369.26,
+    "endTime": 372.26,
+    "text": "and very good at insulating electricity."
+  },
+  {
+    "startTime": 372.26,
+    "endTime": 374.26,
+    "text": "That's me getting mica."
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 378.26,
+    "text": "And the last material I'm going to talk about today is plastic,"
+  },
+  {
+    "startTime": 378.26,
+    "endTime": 380.26,
+    "text": "and, of course,"
+  },
+  {
+    "startTime": 380.26,
+    "endTime": 382.26,
+    "text": "my toaster had to have a plastic case."
+  },
+  {
+    "startTime": 382.26,
+    "endTime": 384.26,
+    "text": "Plastic is the defining feature"
+  },
+  {
+    "startTime": 384.26,
+    "endTime": 386.26,
+    "text": "of cheap electrical goods."
+  },
+  {
+    "startTime": 386.26,
+    "endTime": 389.26,
+    "text": "And so plastic comes from oil, so I phoned up BP"
+  },
+  {
+    "startTime": 389.26,
+    "endTime": 391.26,
+    "text": "and spent a good half an hour"
+  },
+  {
+    "startTime": 391.26,
+    "endTime": 393.26,
+    "text": "trying to convince the PR office at BP"
+  },
+  {
+    "startTime": 393.26,
+    "endTime": 395.26,
+    "text": "that it would be fantastic for them"
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 397.26,
+    "text": "if they flew me to an oil rig"
+  },
+  {
+    "startTime": 397.26,
+    "endTime": 399.26,
+    "text": "and let me have a jug of oil."
+  },
+  {
+    "startTime": 399.26,
+    "endTime": 402.26,
+    "text": "BP obviously has a bit more on their mind now."
+  },
+  {
+    "startTime": 403.26,
+    "endTime": 405.26,
+    "text": "But even then"
+  },
+  {
+    "startTime": 405.26,
+    "endTime": 407.26,
+    "text": "they weren't convinced"
+  },
+  {
+    "startTime": 407.26,
+    "endTime": 410.26,
+    "text": "and said, \"Okay, we'll phone you back\" -- never did."
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 413.26,
+    "text": "So I looked at other ways of making plastic."
+  },
+  {
+    "startTime": 413.26,
+    "endTime": 415.26,
+    "text": "And you can actually make plastic"
+  },
+  {
+    "startTime": 415.26,
+    "endTime": 418.26,
+    "text": "from obviously oils which come from plants, but also from starches."
+  },
+  {
+    "startTime": 418.26,
+    "endTime": 420.26,
+    "text": "So this is attempting to make"
+  },
+  {
+    "startTime": 420.26,
+    "endTime": 422.26,
+    "text": "potato starch plastic."
+  },
+  {
+    "startTime": 422.26,
+    "endTime": 424.26,
+    "text": "And for a while that was looking really good."
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 426.26,
+    "text": "I poured it into the mold, which you can see there,"
+  },
+  {
+    "startTime": 426.26,
+    "endTime": 428.26,
+    "text": "which I've made from a tree trunk."
+  },
+  {
+    "startTime": 428.26,
+    "endTime": 430.26,
+    "text": "And it was looking good for a while,"
+  },
+  {
+    "startTime": 430.26,
+    "endTime": 433.26,
+    "text": "but I left it outside, because you had to leave it outside to dry,"
+  },
+  {
+    "startTime": 433.26,
+    "endTime": 435.26,
+    "text": "and unfortunately I came back"
+  },
+  {
+    "startTime": 435.26,
+    "endTime": 438.26,
+    "text": "and there were snails eating the unhydrolyzed bits of potato."
+  },
+  {
+    "startTime": 439.26,
+    "endTime": 442.26,
+    "text": "So kind of out of desperation,"
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 445.26,
+    "text": "I decided that I could think laterally."
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 447.26,
+    "text": "And geologists have actually christened --"
+  },
+  {
+    "startTime": 447.26,
+    "endTime": 449.26,
+    "text": "well, they're debating whether to christen --"
+  },
+  {
+    "startTime": 449.26,
+    "endTime": 451.26,
+    "text": "the age that we're living in --"
+  },
+  {
+    "startTime": 451.26,
+    "endTime": 454.26,
+    "text": "they're debating whether to make it a new geological epoch"
+  },
+  {
+    "startTime": 454.26,
+    "endTime": 457.26,
+    "text": "called the Anthropocene, the age of Man."
+  },
+  {
+    "startTime": 457.26,
+    "endTime": 459.26,
+    "text": "And that's because geologists of the future"
+  },
+  {
+    "startTime": 459.26,
+    "endTime": 461.26,
+    "text": "would kind of see a sharp shift"
+  },
+  {
+    "startTime": 461.26,
+    "endTime": 463.26,
+    "text": "in the strata of rock that is being laid down now."
+  },
+  {
+    "startTime": 463.26,
+    "endTime": 466.26,
+    "text": "So suddenly, it will become kind of radioactive from Chernobyl"
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 468.26,
+    "text": "and the 2,000 or so nuclear bombs"
+  },
+  {
+    "startTime": 468.26,
+    "endTime": 471.26,
+    "text": "that have been set off since 1945."
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 475.26,
+    "text": "And there'd also be an extinction event --"
+  },
+  {
+    "startTime": 475.26,
+    "endTime": 478.26,
+    "text": "like fossils would suddenly disappear."
+  },
+  {
+    "startTime": 478.26,
+    "endTime": 480.26,
+    "text": "And also, I thought"
+  },
+  {
+    "startTime": 480.26,
+    "endTime": 482.26,
+    "text": "that there would be"
+  },
+  {
+    "startTime": 482.26,
+    "endTime": 484.26,
+    "text": "synthetic polymers,"
+  },
+  {
+    "startTime": 484.26,
+    "endTime": 486.26,
+    "text": "plastics, embedded in the rock."
+  },
+  {
+    "startTime": 486.26,
+    "endTime": 488.26,
+    "text": "So I looked up a plastic --"
+  },
+  {
+    "startTime": 488.26,
+    "endTime": 490.26,
+    "text": "so I decided that I could mine"
+  },
+  {
+    "startTime": 490.26,
+    "endTime": 492.26,
+    "text": "some of this modern-day rock."
+  },
+  {
+    "startTime": 492.26,
+    "endTime": 494.26,
+    "text": "And I went up to Manchester"
+  },
+  {
+    "startTime": 494.26,
+    "endTime": 497.26,
+    "text": "to visit a place called Axion Recycling."
+  },
+  {
+    "startTime": 497.26,
+    "endTime": 500.26,
+    "text": "And they're at the sharp end of what's called the WEEE,"
+  },
+  {
+    "startTime": 500.26,
+    "endTime": 504.26,
+    "text": "which is this European electrical and electronic waste directive."
+  },
+  {
+    "startTime": 505.26,
+    "endTime": 507.26,
+    "text": "And that was brought into force"
+  },
+  {
+    "startTime": 507.26,
+    "endTime": 510.26,
+    "text": "to try and deal with the mountain of stuff"
+  },
+  {
+    "startTime": 510.26,
+    "endTime": 513.26,
+    "text": "that is just being made"
+  },
+  {
+    "startTime": 513.26,
+    "endTime": 515.26,
+    "text": "and then living for a while in our homes"
+  },
+  {
+    "startTime": 515.26,
+    "endTime": 517.26,
+    "text": "and then going to landfill."
+  },
+  {
+    "startTime": 517.26,
+    "endTime": 519.26,
+    "text": "But this is it."
+  },
+  {
+    "startTime": 526.26,
+    "endTime": 531.26,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 587.26,
+    "endTime": 589.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 589.26,
+    "endTime": 591.26,
+    "text": "So there's a picture"
+  },
+  {
+    "startTime": 591.26,
+    "endTime": 593.26,
+    "text": "of my toaster."
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 597.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 597.26,
+    "endTime": 600.26,
+    "text": "That's it without the case on."
+  },
+  {
+    "startTime": 600.26,
+    "endTime": 603.26,
+    "text": "And there it is on the shelves."
+  },
+  {
+    "startTime": 603.26,
+    "endTime": 605.26,
+    "text": "Thanks."
+  },
+  {
+    "startTime": 605.26,
+    "endTime": 609.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 609.26,
+    "endTime": 611.26,
+    "text": "Bruno Giussani: I'm told you did plug it in once."
+  },
+  {
+    "startTime": 611.26,
+    "endTime": 613.26,
+    "text": "TT: Yeah, I did plug it in."
+  },
+  {
+    "startTime": 613.26,
+    "endTime": 615.26,
+    "text": "I don't know if you could see,"
+  },
+  {
+    "startTime": 615.26,
+    "endTime": 618.26,
+    "text": "but I was never able to make insulation for the wires."
+  },
+  {
+    "startTime": 618.26,
+    "endTime": 620.26,
+    "text": "Kew Gardens were insistent"
+  },
+  {
+    "startTime": 620.26,
+    "endTime": 623.26,
+    "text": "that I couldn't come and hack into their rubber tree."
+  },
+  {
+    "startTime": 623.26,
+    "endTime": 625.26,
+    "text": "So the wires were uninsulated."
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 627.26,
+    "text": "So there was 240 volts"
+  },
+  {
+    "startTime": 627.26,
+    "endTime": 629.26,
+    "text": "going through these homemade copper wires,"
+  },
+  {
+    "startTime": 629.26,
+    "endTime": 631.26,
+    "text": "homemade plug."
+  },
+  {
+    "startTime": 631.26,
+    "endTime": 633.26,
+    "text": "And for about five seconds,"
+  },
+  {
+    "startTime": 633.26,
+    "endTime": 635.26,
+    "text": "the toaster toasted,"
+  },
+  {
+    "startTime": 635.26,
+    "endTime": 637.26,
+    "text": "but then, unfortunately,"
+  },
+  {
+    "startTime": 637.26,
+    "endTime": 640.26,
+    "text": "the element kind of melted itself."
+  },
+  {
+    "startTime": 640.26,
+    "endTime": 643.26,
+    "text": "But I considered it a partial success, to be honest."
+  },
+  {
+    "startTime": 643.26,
+    "endTime": 646.26,
+    "text": "BG: Thomas Thwaites. TT: Thanks."
+  }
+]

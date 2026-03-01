@@ -1,0 +1,1732 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 17.259,
+    "text": "We're 25, 26 years after"
+  },
+  {
+    "startTime": 17.26,
+    "endTime": 19.26,
+    "text": "the advent of the Macintosh,"
+  },
+  {
+    "startTime": 19.26,
+    "endTime": 21.26,
+    "text": "which was an astoundingly seminal event"
+  },
+  {
+    "startTime": 21.26,
+    "endTime": 23.26,
+    "text": "in the history"
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 25.26,
+    "text": "of human-machine interface"
+  },
+  {
+    "startTime": 25.26,
+    "endTime": 27.26,
+    "text": "and in computation in general."
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 29.26,
+    "text": "It fundamentally changed the way"
+  },
+  {
+    "startTime": 29.26,
+    "endTime": 31.26,
+    "text": "that people thought about computation,"
+  },
+  {
+    "startTime": 31.26,
+    "endTime": 33.260000000000005,
+    "text": "thought about computers,"
+  },
+  {
+    "startTime": 33.26,
+    "endTime": 36.26,
+    "text": "how they used them and who and how many people were able to use them."
+  },
+  {
+    "startTime": 36.26,
+    "endTime": 38.26,
+    "text": "It was such a radical change, in fact,"
+  },
+  {
+    "startTime": 38.26,
+    "endTime": 40.26,
+    "text": "that the early Macintosh development team"
+  },
+  {
+    "startTime": 40.26,
+    "endTime": 42.26,
+    "text": "in '82, '83, '84"
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 45.26,
+    "text": "had to write an entirely new operating system from the ground up."
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 47.26,
+    "text": "Now, this is an interesting little message,"
+  },
+  {
+    "startTime": 47.26,
+    "endTime": 49.26,
+    "text": "and it's a lesson that has since, I think,"
+  },
+  {
+    "startTime": 49.26,
+    "endTime": 51.26,
+    "text": "been forgotten or lost or something,"
+  },
+  {
+    "startTime": 51.26,
+    "endTime": 54.26,
+    "text": "and that is, namely, that the OS is the interface."
+  },
+  {
+    "startTime": 54.26,
+    "endTime": 56.26,
+    "text": "The interface is the OS."
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 59.26,
+    "text": "It's like the land and the king (i.e. Arthur) they're inseparable, they are one."
+  },
+  {
+    "startTime": 59.26,
+    "endTime": 62.26,
+    "text": "And to write a new operating system was not a capricious matter."
+  },
+  {
+    "startTime": 62.26,
+    "endTime": 65.259,
+    "text": "It wasn't just a matter of tuning up some graphics routines."
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 68.26,
+    "text": "There were no graphics routines. There were no mouse drivers."
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 70.26,
+    "text": "So it was a necessity."
+  },
+  {
+    "startTime": 70.26,
+    "endTime": 72.26,
+    "text": "But in the quarter-century since then,"
+  },
+  {
+    "startTime": 72.26,
+    "endTime": 74.26,
+    "text": "we've seen all of the fundamental"
+  },
+  {
+    "startTime": 74.26,
+    "endTime": 76.26,
+    "text": "supporting technologies go berserk."
+  },
+  {
+    "startTime": 76.26,
+    "endTime": 79.26,
+    "text": "So memory capacity and disk capacity"
+  },
+  {
+    "startTime": 79.26,
+    "endTime": 82.26,
+    "text": "have been multiplied by something between 10,000 and a million."
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 84.26,
+    "text": "Same thing for processor speeds."
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 86.26,
+    "text": "Networks, we didn't have networks at all"
+  },
+  {
+    "startTime": 86.26,
+    "endTime": 89.26,
+    "text": "at the time of the Macintosh's introduction,"
+  },
+  {
+    "startTime": 89.26,
+    "endTime": 91.26,
+    "text": "and that has become the single most salient aspect"
+  },
+  {
+    "startTime": 91.26,
+    "endTime": 93.26,
+    "text": "of how we live with computers."
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 95.26,
+    "text": "And, of course, graphics: Today"
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 98.26,
+    "text": "84 dollars and 97 cents at Best Buy"
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 100.26,
+    "text": "buys you more graphics power"
+  },
+  {
+    "startTime": 100.26,
+    "endTime": 103.26,
+    "text": "than you could have gotten for a million bucks from SGI only a decade ago."
+  },
+  {
+    "startTime": 103.26,
+    "endTime": 105.26,
+    "text": "So we've got that incredible ramp-up."
+  },
+  {
+    "startTime": 105.26,
+    "endTime": 107.26,
+    "text": "Then, on the side, we've got the Web"
+  },
+  {
+    "startTime": 107.26,
+    "endTime": 109.26,
+    "text": "and, increasingly, the cloud,"
+  },
+  {
+    "startTime": 109.26,
+    "endTime": 111.26,
+    "text": "which is fantastic,"
+  },
+  {
+    "startTime": 111.26,
+    "endTime": 114.26,
+    "text": "but also -- in the regard in which an interface is fundamental --"
+  },
+  {
+    "startTime": 114.26,
+    "endTime": 116.26,
+    "text": "kind of a distraction."
+  },
+  {
+    "startTime": 116.26,
+    "endTime": 118.26,
+    "text": "So we've forgotten to invent new interfaces."
+  },
+  {
+    "startTime": 118.26,
+    "endTime": 120.26,
+    "text": "Certainly we've seen in recent years a lot of change in that regard,"
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 123.26,
+    "text": "and people are starting to wake up about that."
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 126.26,
+    "text": "So what happens next? Where do we go from there?"
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 128.25900000000001,
+    "text": "The problem, as we see it,"
+  },
+  {
+    "startTime": 128.259,
+    "endTime": 130.259,
+    "text": "has to do with a single, simple word: \"space,\""
+  },
+  {
+    "startTime": 130.259,
+    "endTime": 132.26,
+    "text": "or a single, simple phrase:"
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 134.26,
+    "text": "\"real world geometry.\""
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 136.26,
+    "text": "Computers and the programming languages"
+  },
+  {
+    "startTime": 136.26,
+    "endTime": 138.26,
+    "text": "that we talk to them in, that we teach them in,"
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 141.26,
+    "text": "are hideously insensate when it comes to space."
+  },
+  {
+    "startTime": 141.26,
+    "endTime": 143.26,
+    "text": "They don't understand real world space."
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 146.26,
+    "text": "It's a funny thing because the rest of us occupy it quite frequently and quite well."
+  },
+  {
+    "startTime": 146.26,
+    "endTime": 149.26,
+    "text": "They also don't understand time, but that's a matter for a separate talk."
+  },
+  {
+    "startTime": 149.26,
+    "endTime": 151.26,
+    "text": "So what happens if you start to"
+  },
+  {
+    "startTime": 151.26,
+    "endTime": 153.26,
+    "text": "explain space to them?"
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 159.26,
+    "text": "One thing you might get is something like the Luminous Room."
+  },
+  {
+    "startTime": 159.26,
+    "endTime": 161.26,
+    "text": "The Luminous Room is a system"
+  },
+  {
+    "startTime": 161.26,
+    "endTime": 163.26,
+    "text": "in which it's considered that"
+  },
+  {
+    "startTime": 163.26,
+    "endTime": 165.26,
+    "text": "input and output spaces are co-located."
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 167.26,
+    "text": "That's a strangely simple,"
+  },
+  {
+    "startTime": 167.26,
+    "endTime": 169.26,
+    "text": "and yet unexplored idea, right?"
+  },
+  {
+    "startTime": 169.26,
+    "endTime": 172.26,
+    "text": "When you use a mouse, your hand is down here on the mouse pad."
+  },
+  {
+    "startTime": 172.26,
+    "endTime": 174.26,
+    "text": "It's not even on the same plane as what you're talking about:"
+  },
+  {
+    "startTime": 174.26,
+    "endTime": 176.26,
+    "text": "The pixels are up on the display."
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 179.26,
+    "text": "So here was a room in which all the walls, floors, ceilings,"
+  },
+  {
+    "startTime": 179.26,
+    "endTime": 181.26,
+    "text": "pets, potted plants, whatever was in there,"
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 184.26,
+    "text": "were capable, not only of display but of sensing as well."
+  },
+  {
+    "startTime": 184.26,
+    "endTime": 186.26,
+    "text": "And that means input and output are in the same space"
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 188.26,
+    "text": "enabling stuff like this."
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 190.26,
+    "text": "That's a digital storage in a physical container."
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 192.26,
+    "text": "The contract is the same"
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 195.26,
+    "text": "as with real word objects in real world containers."
+  },
+  {
+    "startTime": 195.26,
+    "endTime": 198.26,
+    "text": "Has to come back out, whatever you put in."
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 200.26,
+    "text": "This little design experiment"
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 203.26,
+    "text": "that was a small office here knew a few other tricks as well."
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 205.26,
+    "text": "If you presented it with a chess board,"
+  },
+  {
+    "startTime": 205.26,
+    "endTime": 207.26,
+    "text": "it tried to figure out what you might mean by that."
+  },
+  {
+    "startTime": 207.26,
+    "endTime": 209.26,
+    "text": "And if there was nothing for them to do,"
+  },
+  {
+    "startTime": 209.26,
+    "endTime": 211.26,
+    "text": "the chess pieces eventually got bored"
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 213.26,
+    "text": "and hopped away."
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 216.26,
+    "text": "The academics who were overseeing this work"
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 218.26,
+    "text": "thought that that was too frivolous,"
+  },
+  {
+    "startTime": 218.26,
+    "endTime": 220.26,
+    "text": "so we built deadly serious applications"
+  },
+  {
+    "startTime": 220.26,
+    "endTime": 222.26,
+    "text": "like this optics prototyping workbench"
+  },
+  {
+    "startTime": 222.26,
+    "endTime": 225.26,
+    "text": "in which a toothpaste cap on a cardboard box"
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 227.26,
+    "text": "becomes a laser."
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 230.26,
+    "text": "The beam splitters and lenses are represented by physical objects,"
+  },
+  {
+    "startTime": 230.26,
+    "endTime": 233.26,
+    "text": "and the system projects down the laser beam path."
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 235.26,
+    "text": "So you've got an interface that has no interface."
+  },
+  {
+    "startTime": 235.26,
+    "endTime": 238.26,
+    "text": "You operate the world as you operate the real world,"
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 240.26,
+    "text": "which is to say, with your hands."
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 242.26,
+    "text": "Similarly, a digital wind tunnel with digital wind"
+  },
+  {
+    "startTime": 242.26,
+    "endTime": 244.26,
+    "text": "flowing from right to left --"
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 247.26,
+    "text": "not that remarkable in a sense; we didn't invent the mathematics."
+  },
+  {
+    "startTime": 247.26,
+    "endTime": 249.26,
+    "text": "But if you displayed that on a CRT or flat panel display,"
+  },
+  {
+    "startTime": 249.26,
+    "endTime": 252.26,
+    "text": "it would be meaningless to hold up an arbitrary object,"
+  },
+  {
+    "startTime": 252.26,
+    "endTime": 254.26,
+    "text": "a real world object in that."
+  },
+  {
+    "startTime": 254.26,
+    "endTime": 257.26,
+    "text": "Here, the real world merges with the simulation."
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 260.26,
+    "text": "And finally, to pull out all the stops,"
+  },
+  {
+    "startTime": 260.26,
+    "endTime": 263.26,
+    "text": "this is a system called Urp, for urban planners,"
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 266.26,
+    "text": "in which we give architects and urban planners back"
+  },
+  {
+    "startTime": 266.26,
+    "endTime": 268.26,
+    "text": "the models that we confiscated"
+  },
+  {
+    "startTime": 268.26,
+    "endTime": 270.26,
+    "text": "when we insisted that they use CAD systems."
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 272.26,
+    "text": "And we make the machine meet them half way."
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 275.26,
+    "text": "It projects down digital shadows, as you see here."
+  },
+  {
+    "startTime": 275.26,
+    "endTime": 278.26,
+    "text": "And if you introduce tools like this inverse clock,"
+  },
+  {
+    "startTime": 278.26,
+    "endTime": 280.26,
+    "text": "then you can control the sun's position in the sky."
+  },
+  {
+    "startTime": 280.26,
+    "endTime": 282.26,
+    "text": "That's 8 a.m. shadows."
+  },
+  {
+    "startTime": 282.26,
+    "endTime": 284.26,
+    "text": "They get a little shorter at 9 a.m."
+  },
+  {
+    "startTime": 284.26,
+    "endTime": 286.26,
+    "text": "There you are, swinging the sun around."
+  },
+  {
+    "startTime": 286.26,
+    "endTime": 289.26,
+    "text": "Short shadows at noon and so forth."
+  },
+  {
+    "startTime": 290.26,
+    "endTime": 293.26,
+    "text": "And we built up a series of tools like this."
+  },
+  {
+    "startTime": 293.26,
+    "endTime": 295.26,
+    "text": "There are inter-shadowing studies"
+  },
+  {
+    "startTime": 295.26,
+    "endTime": 297.26,
+    "text": "that children can operate,"
+  },
+  {
+    "startTime": 297.26,
+    "endTime": 299.26,
+    "text": "even though they don't know anything about urban planning:"
+  },
+  {
+    "startTime": 299.26,
+    "endTime": 302.26,
+    "text": "To move a building, you simply reach out your hand and you move the building."
+  },
+  {
+    "startTime": 302.26,
+    "endTime": 304.26,
+    "text": "A material wand makes the building"
+  },
+  {
+    "startTime": 304.26,
+    "endTime": 307.26,
+    "text": "into a sort of Frank Gehry thing that reflects light in all directions."
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 310.26,
+    "text": "Are you blinding passers by and motorists on the freeways?"
+  },
+  {
+    "startTime": 310.26,
+    "endTime": 313.26,
+    "text": "A zoning tool connects distant structures, a building and a roadway."
+  },
+  {
+    "startTime": 313.26,
+    "endTime": 316.26,
+    "text": "Are you going to get sued by the zoning commission? And so forth."
+  },
+  {
+    "startTime": 317.26,
+    "endTime": 319.26,
+    "text": "Now, if these ideas seem familiar"
+  },
+  {
+    "startTime": 319.26,
+    "endTime": 321.26,
+    "text": "or perhaps even a little dated,"
+  },
+  {
+    "startTime": 321.26,
+    "endTime": 323.26,
+    "text": "that's great; they should seem familiar."
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "This work is 15 years old."
+  },
+  {
+    "startTime": 326.26,
+    "endTime": 329.26,
+    "text": "This stuff was undertaken at MIT and the Media Lab"
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 332.26,
+    "text": "under the incredible direction of Professor Hiroshi Ishii,"
+  },
+  {
+    "startTime": 332.26,
+    "endTime": 334.26,
+    "text": "director of the Tangible Media Group."
+  },
+  {
+    "startTime": 334.26,
+    "endTime": 336.26,
+    "text": "But it was that work that was seen"
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 338.26,
+    "text": "by Alex McDowell,"
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 341.26,
+    "text": "one of the world's legendary production designers."
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 344.26,
+    "text": "But Alex was preparing a little, sort of obscure, indie, arthouse film"
+  },
+  {
+    "startTime": 344.26,
+    "endTime": 347.26,
+    "text": "called \"Minority Report\" for Steven Spielberg,"
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 349.26,
+    "text": "and invited us to come out from MIT"
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 352.26,
+    "text": "and design the interfaces"
+  },
+  {
+    "startTime": 352.26,
+    "endTime": 355.26,
+    "text": "that would appear in that film."
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 357.26,
+    "text": "And the great thing about it was"
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 360.26,
+    "text": "that Alex was so dedicated to the idea of verisimilitude,"
+  },
+  {
+    "startTime": 360.26,
+    "endTime": 363.26,
+    "text": "the idea that the putative 2054"
+  },
+  {
+    "startTime": 363.26,
+    "endTime": 366.26,
+    "text": "that we were painting in the film be believable,"
+  },
+  {
+    "startTime": 366.26,
+    "endTime": 368.26,
+    "text": "that he allowed us to take on that design work"
+  },
+  {
+    "startTime": 368.26,
+    "endTime": 370.26,
+    "text": "as if it were an R&D effort."
+  },
+  {
+    "startTime": 370.26,
+    "endTime": 372.26,
+    "text": "And the result is sort of"
+  },
+  {
+    "startTime": 372.26,
+    "endTime": 374.26,
+    "text": "gratifyingly perpetual."
+  },
+  {
+    "startTime": 374.26,
+    "endTime": 377.26,
+    "text": "People still reference those sequences in \"Minority Report\""
+  },
+  {
+    "startTime": 377.26,
+    "endTime": 379.26,
+    "text": "when they talk about new UI design."
+  },
+  {
+    "startTime": 379.26,
+    "endTime": 381.26,
+    "text": "So this led full circle, in a strange way,"
+  },
+  {
+    "startTime": 381.26,
+    "endTime": 384.26,
+    "text": "to build these ideas into what we believe"
+  },
+  {
+    "startTime": 384.26,
+    "endTime": 387.26,
+    "text": "is the necessary future of human machine interface:"
+  },
+  {
+    "startTime": 387.26,
+    "endTime": 390.26,
+    "text": "the Spatial Operating Environment, we call it."
+  },
+  {
+    "startTime": 392.26,
+    "endTime": 395.26,
+    "text": "So here we have a bunch of stuff, some images."
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 397.26,
+    "text": "And, using a hand,"
+  },
+  {
+    "startTime": 397.26,
+    "endTime": 400.26,
+    "text": "we can actually exercise six degrees of freedom,"
+  },
+  {
+    "startTime": 400.26,
+    "endTime": 403.26,
+    "text": "six degrees of navigational control."
+  },
+  {
+    "startTime": 403.26,
+    "endTime": 405.26,
+    "text": "And it's fun to fly through Mr. Beckett's eye."
+  },
+  {
+    "startTime": 405.26,
+    "endTime": 407.26,
+    "text": "And you can come back out"
+  },
+  {
+    "startTime": 407.26,
+    "endTime": 409.26,
+    "text": "through the scary orangutan."
+  },
+  {
+    "startTime": 409.26,
+    "endTime": 412.26,
+    "text": "And that's all well and good."
+  },
+  {
+    "startTime": 412.26,
+    "endTime": 415.26,
+    "text": "Let's do something a little more difficult."
+  },
+  {
+    "startTime": 415.26,
+    "endTime": 417.26,
+    "text": "Here, we have a whole bunch of disparate images."
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 419.26,
+    "text": "We can fly around them."
+  },
+  {
+    "startTime": 419.26,
+    "endTime": 421.26,
+    "text": "So navigation is a fundamental issue."
+  },
+  {
+    "startTime": 421.26,
+    "endTime": 424.26,
+    "text": "You have to be able to navigate in 3D."
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 427.26,
+    "text": "Much of what we want computers to help us with in the first place"
+  },
+  {
+    "startTime": 427.26,
+    "endTime": 429.26,
+    "text": "is inherently spatial."
+  },
+  {
+    "startTime": 429.26,
+    "endTime": 431.26,
+    "text": "And the part that isn't spatial can often be spatialized"
+  },
+  {
+    "startTime": 431.26,
+    "endTime": 434.26,
+    "text": "to allow our wetware to make greater sense of it."
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 437.26,
+    "text": "Now we can distribute this stuff in many different ways."
+  },
+  {
+    "startTime": 437.26,
+    "endTime": 439.26,
+    "text": "So we can throw it out like that. Let's reset it."
+  },
+  {
+    "startTime": 439.26,
+    "endTime": 441.26,
+    "text": "We can organize it this way."
+  },
+  {
+    "startTime": 441.26,
+    "endTime": 444.26,
+    "text": "And, of course, it's not just about navigation,"
+  },
+  {
+    "startTime": 444.26,
+    "endTime": 446.26,
+    "text": "but about manipulation as well."
+  },
+  {
+    "startTime": 446.26,
+    "endTime": 448.26,
+    "text": "So if we don't like stuff,"
+  },
+  {
+    "startTime": 448.26,
+    "endTime": 450.26,
+    "text": "or we're intensely curious about"
+  },
+  {
+    "startTime": 450.26,
+    "endTime": 453.26,
+    "text": "Ernst Haeckel's scientific falsifications,"
+  },
+  {
+    "startTime": 453.26,
+    "endTime": 455.26,
+    "text": "we can pull them out like that."
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 458.26,
+    "text": "And then if it's time for analysis, we can pull back a little bit"
+  },
+  {
+    "startTime": 458.26,
+    "endTime": 461.26,
+    "text": "and ask for a different distribution."
+  },
+  {
+    "startTime": 463.26,
+    "endTime": 465.26,
+    "text": "Let's just come down a bit"
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 468.26,
+    "text": "and fly around."
+  },
+  {
+    "startTime": 469.26,
+    "endTime": 472.26,
+    "text": "So that's a different way to look at stuff."
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 474.26,
+    "text": "If you're of a more analytical nature"
+  },
+  {
+    "startTime": 474.26,
+    "endTime": 476.26,
+    "text": "then you might want, actually, to look at this"
+  },
+  {
+    "startTime": 476.26,
+    "endTime": 479.26,
+    "text": "as a color histogram."
+  },
+  {
+    "startTime": 479.26,
+    "endTime": 482.26,
+    "text": "So now we've got the stuff color-sorted,"
+  },
+  {
+    "startTime": 482.26,
+    "endTime": 485.26,
+    "text": "angle maps onto color."
+  },
+  {
+    "startTime": 485.26,
+    "endTime": 487.26,
+    "text": "And now, if we want to select stuff,"
+  },
+  {
+    "startTime": 487.26,
+    "endTime": 489.26,
+    "text": "3D, space,"
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 492.26,
+    "text": "the idea that we're tracking hands in real space"
+  },
+  {
+    "startTime": 492.26,
+    "endTime": 495.26,
+    "text": "becomes really important because we can reach in,"
+  },
+  {
+    "startTime": 495.26,
+    "endTime": 497.26,
+    "text": "not in 2D, not in fake 2D, but in actual 3D."
+  },
+  {
+    "startTime": 497.26,
+    "endTime": 499.26,
+    "text": "Here are some selection planes."
+  },
+  {
+    "startTime": 499.26,
+    "endTime": 502.26,
+    "text": "And we'll perform this Boolean operation"
+  },
+  {
+    "startTime": 502.26,
+    "endTime": 505.26,
+    "text": "because we really love yellow and tapirs on green grass."
+  },
+  {
+    "startTime": 514.26,
+    "endTime": 517.26,
+    "text": "So, from there to the world of real work."
+  },
+  {
+    "startTime": 517.26,
+    "endTime": 519.26,
+    "text": "Here's a logistics system,"
+  },
+  {
+    "startTime": 519.26,
+    "endTime": 521.26,
+    "text": "a small piece of one that we're currently building."
+  },
+  {
+    "startTime": 521.26,
+    "endTime": 523.26,
+    "text": "There're a lot of elements."
+  },
+  {
+    "startTime": 523.26,
+    "endTime": 526.26,
+    "text": "And one thing that's very important is to combine traditional tabular data"
+  },
+  {
+    "startTime": 526.26,
+    "endTime": 529.26,
+    "text": "with three-dimensional and geospatial information."
+  },
+  {
+    "startTime": 529.26,
+    "endTime": 532.26,
+    "text": "So here's a familiar place."
+  },
+  {
+    "startTime": 532.26,
+    "endTime": 535.26,
+    "text": "And we'll bring this back here for a second."
+  },
+  {
+    "startTime": 535.26,
+    "endTime": 538.26,
+    "text": "Maybe select a little bit of that."
+  },
+  {
+    "startTime": 538.26,
+    "endTime": 541.26,
+    "text": "And bring out this graph."
+  },
+  {
+    "startTime": 541.26,
+    "endTime": 543.26,
+    "text": "And we should, now,"
+  },
+  {
+    "startTime": 543.26,
+    "endTime": 546.26,
+    "text": "be able to fly in here"
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 549.26,
+    "text": "and have a closer look."
+  },
+  {
+    "startTime": 549.26,
+    "endTime": 551.26,
+    "text": "These are logistics elements"
+  },
+  {
+    "startTime": 551.26,
+    "endTime": 554.26,
+    "text": "that are scattered across the United States."
+  },
+  {
+    "startTime": 560.26,
+    "endTime": 563.26,
+    "text": "One thing that three-dimensional interactions"
+  },
+  {
+    "startTime": 563.26,
+    "endTime": 565.26,
+    "text": "and the general idea of imbuing"
+  },
+  {
+    "startTime": 565.26,
+    "endTime": 567.26,
+    "text": "computation with space affords you"
+  },
+  {
+    "startTime": 567.26,
+    "endTime": 569.26,
+    "text": "is a final destruction of that unfortunate"
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 572.26,
+    "text": "one-to-one pairing between human beings and computers."
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 574.26,
+    "text": "That's the old way, that's the old mantra:"
+  },
+  {
+    "startTime": 574.26,
+    "endTime": 576.26,
+    "text": "one machine, one human, one mouse, one screen."
+  },
+  {
+    "startTime": 576.26,
+    "endTime": 579.26,
+    "text": "Well, that doesn't really cut it anymore."
+  },
+  {
+    "startTime": 579.26,
+    "endTime": 582.26,
+    "text": "In the real world, we have people who collaborate;"
+  },
+  {
+    "startTime": 582.26,
+    "endTime": 585.26,
+    "text": "we have people who have to work together,"
+  },
+  {
+    "startTime": 585.26,
+    "endTime": 588.26,
+    "text": "and we have many different displays."
+  },
+  {
+    "startTime": 588.26,
+    "endTime": 591.26,
+    "text": "And we might want to look at these various images."
+  },
+  {
+    "startTime": 591.26,
+    "endTime": 593.26,
+    "text": "We might want to ask for some help."
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 596.26,
+    "text": "The author of this new pointing device"
+  },
+  {
+    "startTime": 596.26,
+    "endTime": 598.26,
+    "text": "is sitting over there,"
+  },
+  {
+    "startTime": 598.26,
+    "endTime": 600.26,
+    "text": "so I can pull this from there to there."
+  },
+  {
+    "startTime": 600.26,
+    "endTime": 603.26,
+    "text": "These are unrelated machines, right?"
+  },
+  {
+    "startTime": 603.26,
+    "endTime": 606.26,
+    "text": "So the computation is space soluble and network soluble."
+  },
+  {
+    "startTime": 606.26,
+    "endTime": 608.26,
+    "text": "So I'm going to leave that over there"
+  },
+  {
+    "startTime": 608.26,
+    "endTime": 610.26,
+    "text": "because I have a question for Paul."
+  },
+  {
+    "startTime": 610.26,
+    "endTime": 612.26,
+    "text": "Paul is the designer of this wand, and maybe its easiest"
+  },
+  {
+    "startTime": 612.26,
+    "endTime": 615.26,
+    "text": "for him to come over here and tell me in person what's going on."
+  },
+  {
+    "startTime": 615.26,
+    "endTime": 618.26,
+    "text": "So let me get some of these out of the way."
+  },
+  {
+    "startTime": 620.26,
+    "endTime": 622.26,
+    "text": "Let's pull this apart:"
+  },
+  {
+    "startTime": 623.26,
+    "endTime": 626.26,
+    "text": "I'll go ahead and explode it."
+  },
+  {
+    "startTime": 626.26,
+    "endTime": 628.26,
+    "text": "Kevin, can you help?"
+  },
+  {
+    "startTime": 633.26,
+    "endTime": 636.26,
+    "text": "Let me see if I can help us find the circuit board."
+  },
+  {
+    "startTime": 638.26,
+    "endTime": 641.26,
+    "text": "Mind you, it's a sort of gratuitous field-stripping exercise,"
+  },
+  {
+    "startTime": 641.26,
+    "endTime": 644.26,
+    "text": "but we do it in the lab all the time."
+  },
+  {
+    "startTime": 644.26,
+    "endTime": 646.26,
+    "text": "All right."
+  },
+  {
+    "startTime": 646.26,
+    "endTime": 649.26,
+    "text": "So collaborative work, whether it's immediately co-located"
+  },
+  {
+    "startTime": 649.26,
+    "endTime": 652.26,
+    "text": "or distant and distinct, is always important."
+  },
+  {
+    "startTime": 652.26,
+    "endTime": 654.26,
+    "text": "And again, that stuff"
+  },
+  {
+    "startTime": 654.26,
+    "endTime": 657.26,
+    "text": "needs to be undertaken in the context of space."
+  },
+  {
+    "startTime": 659.26,
+    "endTime": 662.26,
+    "text": "And finally, I'd like to leave you with a glimpse"
+  },
+  {
+    "startTime": 662.26,
+    "endTime": 664.26,
+    "text": "that takes us back to the world of imagery."
+  },
+  {
+    "startTime": 664.26,
+    "endTime": 666.26,
+    "text": "This is a system called TAMPER,"
+  },
+  {
+    "startTime": 666.26,
+    "endTime": 668.26,
+    "text": "which is a slightly whimsical look"
+  },
+  {
+    "startTime": 668.26,
+    "endTime": 670.26,
+    "text": "at what the future of editing"
+  },
+  {
+    "startTime": 670.26,
+    "endTime": 672.26,
+    "text": "and media manipulation systems might be."
+  },
+  {
+    "startTime": 672.26,
+    "endTime": 674.26,
+    "text": "We at Oblong believe that media should be"
+  },
+  {
+    "startTime": 674.26,
+    "endTime": 677.26,
+    "text": "accessible in much more fine-grained form."
+  },
+  {
+    "startTime": 677.26,
+    "endTime": 679.26,
+    "text": "So we have a large number of movies"
+  },
+  {
+    "startTime": 679.26,
+    "endTime": 681.26,
+    "text": "stuck inside here."
+  },
+  {
+    "startTime": 681.26,
+    "endTime": 684.26,
+    "text": "And let's just pick out a few elements."
+  },
+  {
+    "startTime": 684.26,
+    "endTime": 687.26,
+    "text": "We can zip through them"
+  },
+  {
+    "startTime": 687.26,
+    "endTime": 689.26,
+    "text": "as a possibility."
+  },
+  {
+    "startTime": 689.26,
+    "endTime": 691.26,
+    "text": "We can grab elements off the front,"
+  },
+  {
+    "startTime": 691.26,
+    "endTime": 694.26,
+    "text": "where upon they reanimate, come to life,"
+  },
+  {
+    "startTime": 694.26,
+    "endTime": 697.26,
+    "text": "and drag them down onto the table here."
+  },
+  {
+    "startTime": 699.26,
+    "endTime": 702.26,
+    "text": "We'll go over to Jacques Tati here"
+  },
+  {
+    "startTime": 702.26,
+    "endTime": 705.26,
+    "text": "and grab our blue friend"
+  },
+  {
+    "startTime": 705.26,
+    "endTime": 708.26,
+    "text": "and put him down on the table as well."
+  },
+  {
+    "startTime": 708.26,
+    "endTime": 711.26,
+    "text": "We may need more than one."
+  },
+  {
+    "startTime": 713.26,
+    "endTime": 715.26,
+    "text": "And we probably need,"
+  },
+  {
+    "startTime": 715.26,
+    "endTime": 717.26,
+    "text": "well, we probably need a cowboy"
+  },
+  {
+    "startTime": 717.26,
+    "endTime": 719.26,
+    "text": "to be quite honest."
+  },
+  {
+    "startTime": 719.26,
+    "endTime": 721.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 721.26,
+    "endTime": 724.26,
+    "text": "Yeah, let's"
+  },
+  {
+    "startTime": 724.26,
+    "endTime": 726.26,
+    "text": "take that one."
+  },
+  {
+    "startTime": 726.26,
+    "endTime": 728.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 728.26,
+    "endTime": 730.26,
+    "text": "You see, cowboys and French farce people"
+  },
+  {
+    "startTime": 730.26,
+    "endTime": 733.26,
+    "text": "don't go well together, and the system knows that."
+  },
+  {
+    "startTime": 735.26,
+    "endTime": 737.26,
+    "text": "Let me leave with one final thought,"
+  },
+  {
+    "startTime": 737.26,
+    "endTime": 739.26,
+    "text": "and that is that"
+  },
+  {
+    "startTime": 739.26,
+    "endTime": 741.26,
+    "text": "one of the greatest English language writers"
+  },
+  {
+    "startTime": 741.26,
+    "endTime": 743.26,
+    "text": "of the last three decades"
+  },
+  {
+    "startTime": 743.26,
+    "endTime": 746.26,
+    "text": "suggested that great art is always a gift."
+  },
+  {
+    "startTime": 746.26,
+    "endTime": 749.26,
+    "text": "And he wasn't talking about whether the novel costs 24.95 [dollars],"
+  },
+  {
+    "startTime": 749.26,
+    "endTime": 751.26,
+    "text": "or whether you have to spring 70 million bucks"
+  },
+  {
+    "startTime": 751.26,
+    "endTime": 753.26,
+    "text": "to buy the stolen Vermeer;"
+  },
+  {
+    "startTime": 753.26,
+    "endTime": 755.26,
+    "text": "he was talking about the circumstances of its creation"
+  },
+  {
+    "startTime": 755.26,
+    "endTime": 757.26,
+    "text": "and of its existence."
+  },
+  {
+    "startTime": 757.26,
+    "endTime": 759.26,
+    "text": "And I think that it's time that we asked"
+  },
+  {
+    "startTime": 759.26,
+    "endTime": 761.26,
+    "text": "for the same from technology."
+  },
+  {
+    "startTime": 761.26,
+    "endTime": 763.26,
+    "text": "Technology is capable of"
+  },
+  {
+    "startTime": 763.26,
+    "endTime": 766.26,
+    "text": "expressing and being imbued with"
+  },
+  {
+    "startTime": 766.26,
+    "endTime": 768.26,
+    "text": "a certain generosity,"
+  },
+  {
+    "startTime": 768.26,
+    "endTime": 770.26,
+    "text": "and we need to demand that, in fact."
+  },
+  {
+    "startTime": 770.26,
+    "endTime": 773.26,
+    "text": "For some of this kind of technology,"
+  },
+  {
+    "startTime": 773.26,
+    "endTime": 776.26,
+    "text": "ground center is"
+  },
+  {
+    "startTime": 776.26,
+    "endTime": 778.26,
+    "text": "a combination of design, which is crucially important."
+  },
+  {
+    "startTime": 778.26,
+    "endTime": 781.26,
+    "text": "We can't have advances in technology any longer"
+  },
+  {
+    "startTime": 781.26,
+    "endTime": 784.26,
+    "text": "unless design is integrated from the very start."
+  },
+  {
+    "startTime": 784.26,
+    "endTime": 787.26,
+    "text": "And, as well, as of efficacy, agency."
+  },
+  {
+    "startTime": 787.26,
+    "endTime": 790.26,
+    "text": "We're, as human beings, the creatures that create,"
+  },
+  {
+    "startTime": 790.26,
+    "endTime": 793.26,
+    "text": "and we should make sure that our machines aid us in that task"
+  },
+  {
+    "startTime": 793.26,
+    "endTime": 796.26,
+    "text": "and are built in that same image."
+  },
+  {
+    "startTime": 796.26,
+    "endTime": 798.26,
+    "text": "So I will leave you with that. Thank you."
+  },
+  {
+    "startTime": 798.26,
+    "endTime": 811.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 813.26,
+    "endTime": 816.26,
+    "text": "Chris Anderson: So to ask the obvious question --"
+  },
+  {
+    "startTime": 816.26,
+    "endTime": 818.26,
+    "text": "actually this is from Bill Gates --"
+  },
+  {
+    "startTime": 818.26,
+    "endTime": 821.26,
+    "text": "when? (John Underkoffler: When?)"
+  },
+  {
+    "startTime": 821.26,
+    "endTime": 824.26,
+    "text": "CA: When real? When for us, not just in a lab and on a stage?"
+  },
+  {
+    "startTime": 825.26,
+    "endTime": 828.26,
+    "text": "Can it be for every man, or is this just for corporations and movie producers?"
+  },
+  {
+    "startTime": 828.26,
+    "endTime": 830.26,
+    "text": "JU: No, it has to be for every human being."
+  },
+  {
+    "startTime": 830.26,
+    "endTime": 832.26,
+    "text": "That's our goal entirely."
+  },
+  {
+    "startTime": 832.26,
+    "endTime": 834.26,
+    "text": "We won't have succeeded"
+  },
+  {
+    "startTime": 834.26,
+    "endTime": 836.26,
+    "text": "unless we take that next big step."
+  },
+  {
+    "startTime": 836.26,
+    "endTime": 838.26,
+    "text": "I mean it's been 25 years."
+  },
+  {
+    "startTime": 838.26,
+    "endTime": 840.26,
+    "text": "Can there really be only one interface? There can't."
+  },
+  {
+    "startTime": 840.26,
+    "endTime": 842.26,
+    "text": "CA: But does that mean that, at your desk or in your home,"
+  },
+  {
+    "startTime": 842.26,
+    "endTime": 845.26,
+    "text": "you need projectors, cameras?"
+  },
+  {
+    "startTime": 845.26,
+    "endTime": 847.26,
+    "text": "You know, how can it work?"
+  },
+  {
+    "startTime": 847.26,
+    "endTime": 849.26,
+    "text": "JU: No, this stuff will be built into the bezel of every display."
+  },
+  {
+    "startTime": 849.26,
+    "endTime": 851.26,
+    "text": "It'll be built into architecture."
+  },
+  {
+    "startTime": 851.26,
+    "endTime": 854.26,
+    "text": "The gloves go away in a matter of months or years."
+  },
+  {
+    "startTime": 854.26,
+    "endTime": 856.26,
+    "text": "So this is the inevitability about it."
+  },
+  {
+    "startTime": 856.26,
+    "endTime": 858.26,
+    "text": "CA: So, in your mind, five years time,"
+  },
+  {
+    "startTime": 858.26,
+    "endTime": 860.26,
+    "text": "someone can buy this as part of"
+  },
+  {
+    "startTime": 860.26,
+    "endTime": 862.26,
+    "text": "a standard computer interface?"
+  },
+  {
+    "startTime": 862.26,
+    "endTime": 865.26,
+    "text": "JU: I think in five years time when you buy a computer,"
+  },
+  {
+    "startTime": 865.26,
+    "endTime": 867.26,
+    "text": "you'll get this."
+  },
+  {
+    "startTime": 867.26,
+    "endTime": 869.26,
+    "text": "CA: Well that's cool."
+  },
+  {
+    "startTime": 869.26,
+    "endTime": 873.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 873.26,
+    "endTime": 876.26,
+    "text": "The world has a habit of surprising us as to how these things are actually used."
+  },
+  {
+    "startTime": 876.26,
+    "endTime": 879.26,
+    "text": "What do you think, what in your mind is the first killer app for this?"
+  },
+  {
+    "startTime": 879.26,
+    "endTime": 882.26,
+    "text": "JU: That's a good question, and we ask ourselves that every day."
+  },
+  {
+    "startTime": 882.26,
+    "endTime": 885.26,
+    "text": "At the moment, our early-adopter customers --"
+  },
+  {
+    "startTime": 885.26,
+    "endTime": 888.26,
+    "text": "and these systems are deployed out in the real world --"
+  },
+  {
+    "startTime": 888.26,
+    "endTime": 891.26,
+    "text": "do all the big data intensive, data heavy problems with it."
+  },
+  {
+    "startTime": 891.26,
+    "endTime": 893.26,
+    "text": "So, whether it's logistics and supply chain management"
+  },
+  {
+    "startTime": 893.26,
+    "endTime": 896.26,
+    "text": "or natural gas and resource extraction,"
+  },
+  {
+    "startTime": 896.26,
+    "endTime": 899.26,
+    "text": "financial services, pharmaceuticals, bioinformatics,"
+  },
+  {
+    "startTime": 899.26,
+    "endTime": 901.26,
+    "text": "those are the topics right now, but that's not a killer app."
+  },
+  {
+    "startTime": 901.26,
+    "endTime": 903.26,
+    "text": "And I understand what you're asking."
+  },
+  {
+    "startTime": 903.26,
+    "endTime": 905.26,
+    "text": "CA: C'mon, c'mon. Martial arts, games. C'mon."
+  },
+  {
+    "startTime": 905.26,
+    "endTime": 907.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 907.26,
+    "endTime": 910.26,
+    "text": "John, thank you for making science-fiction real."
+  },
+  {
+    "startTime": 910.26,
+    "endTime": 912.26,
+    "text": "JU: It's been a great pleasure."
+  },
+  {
+    "startTime": 912.26,
+    "endTime": 914.26,
+    "text": "Thank you to you all."
+  },
+  {
+    "startTime": 914.26,
+    "endTime": 916.26,
+    "text": "(Applause)"
+  }
+]

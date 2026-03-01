@@ -1,0 +1,442 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 17.259,
+    "text": "As a boy,"
+  },
+  {
+    "startTime": 17.26,
+    "endTime": 19.26,
+    "text": "I loved cars."
+  },
+  {
+    "startTime": 19.26,
+    "endTime": 21.26,
+    "text": "When I turned 18,"
+  },
+  {
+    "startTime": 21.26,
+    "endTime": 24.26,
+    "text": "I lost my best friend to a car accident."
+  },
+  {
+    "startTime": 25.26,
+    "endTime": 27.26,
+    "text": "Like this."
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 30.26,
+    "text": "And then I decided I'd dedicate my life"
+  },
+  {
+    "startTime": 30.26,
+    "endTime": 32.260000000000005,
+    "text": "to saving one million people"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 34.26,
+    "text": "every year."
+  },
+  {
+    "startTime": 34.26,
+    "endTime": 37.26,
+    "text": "Now I haven't succeeded, so this is just a progress report,"
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 40.26,
+    "text": "but I'm here to tell you a little bit about self-driving cars."
+  },
+  {
+    "startTime": 40.26,
+    "endTime": 42.26,
+    "text": "I saw the concept first"
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 44.26,
+    "text": "in the DARPA Grand Challenges"
+  },
+  {
+    "startTime": 44.26,
+    "endTime": 46.26,
+    "text": "where the U.S. government issued a prize"
+  },
+  {
+    "startTime": 46.26,
+    "endTime": 49.26,
+    "text": "to build a self-driving car that could navigate a desert."
+  },
+  {
+    "startTime": 49.26,
+    "endTime": 52.26,
+    "text": "And even though a hundred teams were there,"
+  },
+  {
+    "startTime": 52.26,
+    "endTime": 55.26,
+    "text": "these cars went nowhere."
+  },
+  {
+    "startTime": 55.26,
+    "endTime": 58.26,
+    "text": "So we decided at Stanford to build a different self-driving car."
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 61.26,
+    "text": "We built the hardware and the software."
+  },
+  {
+    "startTime": 61.26,
+    "endTime": 63.26,
+    "text": "We made it learn from us,"
+  },
+  {
+    "startTime": 63.26,
+    "endTime": 66.259,
+    "text": "and we set it free in the desert."
+  },
+  {
+    "startTime": 66.26,
+    "endTime": 68.26,
+    "text": "And the unimaginable happened:"
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 70.26,
+    "text": "it became the first car"
+  },
+  {
+    "startTime": 70.26,
+    "endTime": 72.26,
+    "text": "to ever return from a DARPA Grand Challenge,"
+  },
+  {
+    "startTime": 72.26,
+    "endTime": 75.26,
+    "text": "winning Stanford 2 million dollars."
+  },
+  {
+    "startTime": 77.26,
+    "endTime": 80.26,
+    "text": "Yet I still hadn't saved a single life."
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 83.26,
+    "text": "Since, our work has focused"
+  },
+  {
+    "startTime": 83.26,
+    "endTime": 85.26,
+    "text": "on building driving cars"
+  },
+  {
+    "startTime": 85.26,
+    "endTime": 88.26,
+    "text": "that can drive anywhere by themselves --"
+  },
+  {
+    "startTime": 88.26,
+    "endTime": 90.26,
+    "text": "any street in California."
+  },
+  {
+    "startTime": 90.26,
+    "endTime": 93.26,
+    "text": "We've driven 140,000 miles."
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 96.26,
+    "text": "Our cars have sensors"
+  },
+  {
+    "startTime": 96.26,
+    "endTime": 99.26,
+    "text": "by which they magically can see"
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 101.26,
+    "text": "everything around them"
+  },
+  {
+    "startTime": 101.26,
+    "endTime": 103.26,
+    "text": "and make decisions"
+  },
+  {
+    "startTime": 103.26,
+    "endTime": 106.26,
+    "text": "about every aspect of driving."
+  },
+  {
+    "startTime": 106.26,
+    "endTime": 109.26,
+    "text": "It's the perfect driving mechanism."
+  },
+  {
+    "startTime": 109.26,
+    "endTime": 111.26,
+    "text": "We've driven in cities,"
+  },
+  {
+    "startTime": 111.26,
+    "endTime": 113.26,
+    "text": "like in San Francisco here."
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 117.26,
+    "text": "We've driven from San Francisco to Los Angeles on Highway 1."
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 119.26,
+    "text": "We've encountered joggers,"
+  },
+  {
+    "startTime": 119.26,
+    "endTime": 122.26,
+    "text": "busy highways, toll booths,"
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "and this is without a person in the loop;"
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 126.26,
+    "text": "the car just drives itself."
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 129.25900000000001,
+    "text": "In fact, while we drove 140,000 miles,"
+  },
+  {
+    "startTime": 129.259,
+    "endTime": 132.26,
+    "text": "people didn't even notice."
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 134.26,
+    "text": "Mountain roads,"
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 137.26,
+    "text": "day and night,"
+  },
+  {
+    "startTime": 137.26,
+    "endTime": 140.26,
+    "text": "and even crooked Lombard Street"
+  },
+  {
+    "startTime": 140.26,
+    "endTime": 142.26,
+    "text": "in San Francisco."
+  },
+  {
+    "startTime": 142.26,
+    "endTime": 144.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 148.26,
+    "text": "Sometimes our cars get so crazy,"
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 151.26,
+    "text": "they even do little stunts."
+  },
+  {
+    "startTime": 152.26,
+    "endTime": 154.26,
+    "text": "(Video) Man: Oh, my God."
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "What?"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 161.26,
+    "text": "Second Man: It's driving itself."
+  },
+  {
+    "startTime": 162.26,
+    "endTime": 165.26,
+    "text": "Sebastian Thrun: Now I can't get my friend Harold back to life,"
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 167.26,
+    "text": "but I can do something for all the people who died."
+  },
+  {
+    "startTime": 167.26,
+    "endTime": 170.26,
+    "text": "Do you know that driving accidents"
+  },
+  {
+    "startTime": 170.26,
+    "endTime": 173.26,
+    "text": "are the number one cause of death for young people?"
+  },
+  {
+    "startTime": 173.26,
+    "endTime": 176.26,
+    "text": "And do you realize that almost all of those"
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 179.26,
+    "text": "are due to human error"
+  },
+  {
+    "startTime": 179.26,
+    "endTime": 181.26,
+    "text": "and not machine error,"
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 184.26,
+    "text": "and can therefore be prevented by machines?"
+  },
+  {
+    "startTime": 185.26,
+    "endTime": 187.26,
+    "text": "Do you realize"
+  },
+  {
+    "startTime": 187.26,
+    "endTime": 190.26,
+    "text": "that we could change the capacity of highways"
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 193.26,
+    "text": "by a factor of two or three"
+  },
+  {
+    "startTime": 193.26,
+    "endTime": 195.26,
+    "text": "if we didn't rely on human precision"
+  },
+  {
+    "startTime": 195.26,
+    "endTime": 197.26,
+    "text": "on staying in the lane --"
+  },
+  {
+    "startTime": 197.26,
+    "endTime": 199.26,
+    "text": "improve body position"
+  },
+  {
+    "startTime": 199.26,
+    "endTime": 201.26,
+    "text": "and therefore drive a little bit closer together"
+  },
+  {
+    "startTime": 201.26,
+    "endTime": 203.26,
+    "text": "on a little bit narrower lanes,"
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 206.26,
+    "text": "and do away with all traffic jams on highways?"
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 211.26,
+    "text": "Do you realize that you, TED users,"
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 213.26,
+    "text": "spend an average"
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 215.26,
+    "text": "of 52 minutes per day"
+  },
+  {
+    "startTime": 215.26,
+    "endTime": 217.26,
+    "text": "in traffic,"
+  },
+  {
+    "startTime": 217.26,
+    "endTime": 219.26,
+    "text": "wasting your time"
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 222.26,
+    "text": "on your daily commute?"
+  },
+  {
+    "startTime": 222.26,
+    "endTime": 224.26,
+    "text": "You could regain this time."
+  },
+  {
+    "startTime": 224.26,
+    "endTime": 226.26,
+    "text": "This is four billion hours"
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 229.26,
+    "text": "wasted in this country alone."
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 233.26,
+    "text": "And it's 2.4 billion gallons of gasoline wasted."
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 236.26,
+    "text": "Now I think there's a vision here, a new technology,"
+  },
+  {
+    "startTime": 236.26,
+    "endTime": 238.26,
+    "text": "and I'm really looking forward to a time"
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 240.26,
+    "text": "when generations after us look back at us"
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 243.26,
+    "text": "and say how ridiculous it was that humans were driving cars."
+  },
+  {
+    "startTime": 243.26,
+    "endTime": 245.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 245.26,
+    "endTime": 247.26,
+    "text": "(Applause)"
+  }
+]

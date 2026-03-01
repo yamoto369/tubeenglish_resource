@@ -1,0 +1,777 @@
+[
+  {
+    "startTime": 0.69,
+    "endTime": 3.84,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 7.31,
+    "endTime": 11.09,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 12.25,
+    "endTime": 15.448,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 16.359,
+    "endTime": 17.8,
+    "text": "so if you're in the audience today or"
+  },
+  {
+    "startTime": 17.8,
+    "endTime": 19.279,
+    "text": "maybe you're watching this talk in some"
+  },
+  {
+    "startTime": 19.279,
+    "endTime": 21.279,
+    "text": "other time or place you are a"
+  },
+  {
+    "startTime": 21.279,
+    "endTime": 23.08,
+    "text": "participant in the digital rights"
+  },
+  {
+    "startTime": 23.08,
+    "endTime": 25.439,
+    "text": "ecosystem and whether you're an artist a"
+  },
+  {
+    "startTime": 25.439,
+    "endTime": 28.119,
+    "text": "technologist a lawyer or a fan the"
+  },
+  {
+    "startTime": 28.119,
+    "endTime": 30.08,
+    "text": "handling of copyright directly impacts"
+  },
+  {
+    "startTime": 30.08,
+    "endTime": 32.48,
+    "text": "your life now Rights Management is no"
+  },
+  {
+    "startTime": 32.48,
+    "endTime": 35.16,
+    "text": "longer simply a question of ownership"
+  },
+  {
+    "startTime": 35.16,
+    "endTime": 37.6,
+    "text": "it's a complex web of relationships and"
+  },
+  {
+    "startTime": 37.6,
+    "endTime": 39.16,
+    "text": "a critical part of our cultural"
+  },
+  {
+    "startTime": 39.16,
+    "endTime": 41.68,
+    "text": "landscape and YouTube cares deeply about"
+  },
+  {
+    "startTime": 41.68,
+    "endTime": 43.96,
+    "text": "the rights of content owners but in"
+  },
+  {
+    "startTime": 43.96,
+    "endTime": 45.559,
+    "text": "order to give them choices about what"
+  },
+  {
+    "startTime": 45.559,
+    "endTime": 48.28,
+    "text": "they can do with copies mashups and and"
+  },
+  {
+    "startTime": 48.28,
+    "endTime": 50.399,
+    "text": "more we need to First identify when"
+  },
+  {
+    "startTime": 50.399,
+    "endTime": 52.68,
+    "text": "copyrighted material is uploaded to our"
+  },
+  {
+    "startTime": 52.68,
+    "endTime": 55.16,
+    "text": "site let's look at a specific video so"
+  },
+  {
+    "startTime": 55.16,
+    "endTime": 57.76,
+    "text": "you can see how it works two years ago"
+  },
+  {
+    "startTime": 57.76,
+    "endTime": 59.239,
+    "text": "recording artist Chris Brown released"
+  },
+  {
+    "startTime": 59.239,
+    "endTime": 62.28,
+    "text": "the official video of a single forever a"
+  },
+  {
+    "startTime": 62.28,
+    "endTime": 64.96,
+    "text": "fan saw it on TV recorded it with her"
+  },
+  {
+    "startTime": 64.96,
+    "endTime": 68.04,
+    "text": "camera phone and uploaded it to YouTube"
+  },
+  {
+    "startTime": 68.04,
+    "endTime": 69.92,
+    "text": "now because Sony Music had registered"
+  },
+  {
+    "startTime": 69.92,
+    "endTime": 72.24,
+    "text": "Chris Brown's video in our Content ID"
+  },
+  {
+    "startTime": 72.24,
+    "endTime": 74.6,
+    "text": "system within seconds of attempting to"
+  },
+  {
+    "startTime": 74.6,
+    "endTime": 77.119,
+    "text": "upload the video the copy was detected"
+  },
+  {
+    "startTime": 77.119,
+    "endTime": 79.159,
+    "text": "giving Sony the choice of what to do"
+  },
+  {
+    "startTime": 79.159,
+    "endTime": 81.68,
+    "text": "next but how did we know that the user's"
+  },
+  {
+    "startTime": 81.68,
+    "endTime": 84.759,
+    "text": "video was a copy well it starts with"
+  },
+  {
+    "startTime": 84.759,
+    "endTime": 86.799,
+    "text": "content owners delivering assets into"
+  },
+  {
+    "startTime": 86.799,
+    "endTime": 89.72,
+    "text": "our database along with a usage policy"
+  },
+  {
+    "startTime": 89.72,
+    "endTime": 92.439,
+    "text": "that tells us what to do when we find a"
+  },
+  {
+    "startTime": 92.439,
+    "endTime": 95.88,
+    "text": "match We compare each upload against all"
+  },
+  {
+    "startTime": 95.88,
+    "endTime": 97.96,
+    "text": "of the reference files in our"
+  },
+  {
+    "startTime": 97.96,
+    "endTime": 100.2,
+    "text": "database now this heat map is going to"
+  },
+  {
+    "startTime": 100.2,
+    "endTime": 101.84,
+    "text": "show you how the brain of the system"
+  },
+  {
+    "startTime": 101.84,
+    "endTime": 103.6,
+    "text": "works here we can see the original"
+  },
+  {
+    "startTime": 103.6,
+    "endTime": 105.479,
+    "text": "reference file being compared to the"
+  },
+  {
+    "startTime": 105.479,
+    "endTime": 107.36,
+    "text": "user generated"
+  },
+  {
+    "startTime": 107.36,
+    "endTime": 109.88,
+    "text": "content the system Compares every moment"
+  },
+  {
+    "startTime": 109.88,
+    "endTime": 111.84,
+    "text": "of one to the other to see if there's a"
+  },
+  {
+    "startTime": 111.84,
+    "endTime": 113.52,
+    "text": "match now this means that we can"
+  },
+  {
+    "startTime": 113.52,
+    "endTime": 115.719,
+    "text": "identify a match even if the copy uses"
+  },
+  {
+    "startTime": 115.719,
+    "endTime": 117.64,
+    "text": "just a portion of the original file"
+  },
+  {
+    "startTime": 117.64,
+    "endTime": 120.079,
+    "text": "plays it in slow motion and has degraded"
+  },
+  {
+    "startTime": 120.079,
+    "endTime": 121.799,
+    "text": "audio and video"
+  },
+  {
+    "startTime": 121.799,
+    "endTime": 125.119,
+    "text": "quality and we do this every time that a"
+  },
+  {
+    "startTime": 125.119,
+    "endTime": 127.119,
+    "text": "video is uploaded to YouTube and that's"
+  },
+  {
+    "startTime": 127.119,
+    "endTime": 130.36,
+    "text": "over 20 hours of video every minute when"
+  },
+  {
+    "startTime": 130.36,
+    "endTime": 132.959,
+    "text": "we find a match we apply the policy that"
+  },
+  {
+    "startTime": 132.959,
+    "endTime": 135.04,
+    "text": "the rights owner has set"
+  },
+  {
+    "startTime": 135.04,
+    "endTime": 137.72,
+    "text": "down and the scale and the speed of this"
+  },
+  {
+    "startTime": 137.72,
+    "endTime": 139.519,
+    "text": "system is truly"
+  },
+  {
+    "startTime": 139.519,
+    "endTime": 141.84,
+    "text": "breathtaking we're not just talking"
+  },
+  {
+    "startTime": 141.84,
+    "endTime": 145.319,
+    "text": "about a few videos we're talking about"
+  },
+  {
+    "startTime": 145.319,
+    "endTime": 148.239,
+    "text": "over a hundred years of video every day"
+  },
+  {
+    "startTime": 148.239,
+    "endTime": 150.599,
+    "text": "between new uploads and the leg scans we"
+  },
+  {
+    "startTime": 150.599,
+    "endTime": 152.599,
+    "text": "regularly do across all of the content"
+  },
+  {
+    "startTime": 152.599,
+    "endTime": 153.64,
+    "text": "on the"
+  },
+  {
+    "startTime": 153.64,
+    "endTime": 156.12,
+    "text": "site and when we compare those 100 Years"
+  },
+  {
+    "startTime": 156.12,
+    "endTime": 157.72,
+    "text": "of video we're comparing it against"
+  },
+  {
+    "startTime": 157.72,
+    "endTime": 159.36,
+    "text": "millions of reference files in our"
+  },
+  {
+    "startTime": 159.36,
+    "endTime": 162.76,
+    "text": "database it' be like 36,000 people"
+  },
+  {
+    "startTime": 162.76,
+    "endTime": 165.56,
+    "text": "staring at 36,000 monitors each and"
+  },
+  {
+    "startTime": 165.56,
+    "endTime": 167.239,
+    "text": "every day without so much as a coffee"
+  },
+  {
+    "startTime": 167.239,
+    "endTime": 170.959,
+    "text": "break now what do we do when we find a"
+  },
+  {
+    "startTime": 170.959,
+    "endTime": 173.599,
+    "text": "match well most rights owners instead of"
+  },
+  {
+    "startTime": 173.599,
+    "endTime": 175.8,
+    "text": "blocking will allow the copy to be"
+  },
+  {
+    "startTime": 175.8,
+    "endTime": 177.64,
+    "text": "published and then they benefit through"
+  },
+  {
+    "startTime": 177.64,
+    "endTime": 180.12,
+    "text": "the exposure advertising and linked"
+  },
+  {
+    "startTime": 180.12,
+    "endTime": 182.319,
+    "text": "sales remember Chris Brown's video"
+  },
+  {
+    "startTime": 182.319,
+    "endTime": 184.28,
+    "text": "forever well it had its day in the Sun"
+  },
+  {
+    "startTime": 184.28,
+    "endTime": 186.08,
+    "text": "and then it dropped off the charts and"
+  },
+  {
+    "startTime": 186.08,
+    "endTime": 188.239,
+    "text": "that looked like the end of the story"
+  },
+  {
+    "startTime": 188.239,
+    "endTime": 190.239,
+    "text": "but sometime last year a young couple"
+  },
+  {
+    "startTime": 190.239,
+    "endTime": 192.799,
+    "text": "got married this is their wedding video"
+  },
+  {
+    "startTime": 192.799,
+    "endTime": 195.44,
+    "text": "you may have seen"
+  },
+  {
+    "startTime": 195.84,
+    "endTime": 198.2,
+    "text": "it what's amazing about this is if the"
+  },
+  {
+    "startTime": 198.2,
+    "endTime": 199.72,
+    "text": "processional of the wedding was this"
+  },
+  {
+    "startTime": 199.72,
+    "endTime": 201.2,
+    "text": "much fun can you imagine how much fun"
+  },
+  {
+    "startTime": 201.2,
+    "endTime": 203.799,
+    "text": "the reception must have been I mean who"
+  },
+  {
+    "startTime": 203.799,
+    "endTime": 205.519,
+    "text": "are these people I totally want to go to"
+  },
+  {
+    "startTime": 205.519,
+    "endTime": 206.72,
+    "text": "that"
+  },
+  {
+    "startTime": 206.72,
+    "endTime": 209.0,
+    "text": "wedding so their little wedding video"
+  },
+  {
+    "startTime": 209.0,
+    "endTime": 211.68,
+    "text": "went on to get over 40 million"
+  },
+  {
+    "startTime": 211.68,
+    "endTime": 215.0,
+    "text": "views and instead of Sony blocking they"
+  },
+  {
+    "startTime": 215.0,
+    "endTime": 217.36,
+    "text": "allowed the upload to occur and they put"
+  },
+  {
+    "startTime": 217.36,
+    "endTime": 219.239,
+    "text": "advertising against it and linked from"
+  },
+  {
+    "startTime": 219.239,
+    "endTime": 223.04,
+    "text": "it to iTunes and the song 18 months old"
+  },
+  {
+    "startTime": 223.04,
+    "endTime": 225.4,
+    "text": "went back to number four on the iTunes"
+  },
+  {
+    "startTime": 225.4,
+    "endTime": 228.12,
+    "text": "charts so Sony is generating revenue"
+  },
+  {
+    "startTime": 228.12,
+    "endTime": 230.799,
+    "text": "from both of these and Jill and Kevin"
+  },
+  {
+    "startTime": 230.799,
+    "endTime": 232.28,
+    "text": "the happy couple well they came back"
+  },
+  {
+    "startTime": 232.28,
+    "endTime": 233.4,
+    "text": "from their honeymoon and found that"
+  },
+  {
+    "startTime": 233.4,
+    "endTime": 236.239,
+    "text": "their video had gone crazy viral and"
+  },
+  {
+    "startTime": 236.239,
+    "endTime": 238.159,
+    "text": "they ended up on a bunch of talk shows"
+  },
+  {
+    "startTime": 238.159,
+    "endTime": 239.48,
+    "text": "and they used it as an opportunity to"
+  },
+  {
+    "startTime": 239.48,
+    "endTime": 241.84,
+    "text": "make difference the videos inspired over"
+  },
+  {
+    "startTime": 241.84,
+    "endTime": 244.92,
+    "text": "$26,000 in donations to end domestic"
+  },
+  {
+    "startTime": 244.92,
+    "endTime": 247.439,
+    "text": "violence and the JK Wedding Dance became"
+  },
+  {
+    "startTime": 247.439,
+    "endTime": 250.239,
+    "text": "so popular that NBC parody it on the"
+  },
+  {
+    "startTime": 250.239,
+    "endTime": 252.439,
+    "text": "season finale of the office which just"
+  },
+  {
+    "startTime": 252.439,
+    "endTime": 255.56,
+    "text": "goes to show it's truly an ecosystem of"
+  },
+  {
+    "startTime": 255.56,
+    "endTime": 257.519,
+    "text": "culture because it's not just amateurs"
+  },
+  {
+    "startTime": 257.519,
+    "endTime": 260.079,
+    "text": "borrowing from big studios but sometimes"
+  },
+  {
+    "startTime": 260.079,
+    "endTime": 261.799,
+    "text": "big studios borrowing"
+  },
+  {
+    "startTime": 261.8,
+    "endTime": 264.36,
+    "text": "back by empowering choice we can create"
+  },
+  {
+    "startTime": 264.36,
+    "endTime": 266.639,
+    "text": "a culture of opportunity and all it took"
+  },
+  {
+    "startTime": 266.639,
+    "endTime": 268.56,
+    "text": "to change things around was to allow for"
+  },
+  {
+    "startTime": 268.56,
+    "endTime": 269.759,
+    "text": "Choice through rights identific"
+  },
+  {
+    "startTime": 269.759,
+    "endTime": 272.32,
+    "text": "ification so why has no one ever solved"
+  },
+  {
+    "startTime": 272.32,
+    "endTime": 274.639,
+    "text": "this problem before it's because it's a"
+  },
+  {
+    "startTime": 274.639,
+    "endTime": 276.4,
+    "text": "big problem and it's complicated and"
+  },
+  {
+    "startTime": 276.4,
+    "endTime": 279.08,
+    "text": "messy it's not uncommon for a single"
+  },
+  {
+    "startTime": 279.08,
+    "endTime": 282.0,
+    "text": "video to have multiple rights owners"
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 284.479,
+    "text": "there's musical labels there's multiple"
+  },
+  {
+    "startTime": 284.479,
+    "endTime": 286.639,
+    "text": "music Publishers and each of these can"
+  },
+  {
+    "startTime": 286.639,
+    "endTime": 288.68,
+    "text": "vary by country and there's lots of"
+  },
+  {
+    "startTime": 288.68,
+    "endTime": 290.32,
+    "text": "cases where we have more than one work"
+  },
+  {
+    "startTime": 290.32,
+    "endTime": 292.6,
+    "text": "mashed together so we have to manage"
+  },
+  {
+    "startTime": 292.6,
+    "endTime": 295.6,
+    "text": "many claims to the same video YouTube's"
+  },
+  {
+    "startTime": 295.6,
+    "endTime": 297.759,
+    "text": "Content ID system addresses all of these"
+  },
+  {
+    "startTime": 297.759,
+    "endTime": 300.12,
+    "text": "cases but the system only works for the"
+  },
+  {
+    "startTime": 300.12,
+    "endTime": 302.919,
+    "text": "participation of Rights owners if you"
+  },
+  {
+    "startTime": 302.919,
+    "endTime": 304.6,
+    "text": "have content that others are uploading"
+  },
+  {
+    "startTime": 304.6,
+    "endTime": 306.52,
+    "text": "to YouTube you should register in the"
+  },
+  {
+    "startTime": 306.52,
+    "endTime": 308.6,
+    "text": "content ID system and then you'll have"
+  },
+  {
+    "startTime": 308.6,
+    "endTime": 310.199,
+    "text": "the choice about how your content is"
+  },
+  {
+    "startTime": 310.199,
+    "endTime": 312.44,
+    "text": "used and think carefully about the"
+  },
+  {
+    "startTime": 312.44,
+    "endTime": 314.88,
+    "text": "policies that you attach to that content"
+  },
+  {
+    "startTime": 314.88,
+    "endTime": 317.36,
+    "text": "by simply blocking all reuse you'll miss"
+  },
+  {
+    "startTime": 317.36,
+    "endTime": 320.84,
+    "text": "out on new art forms new audiences new"
+  },
+  {
+    "startTime": 320.84,
+    "endTime": 323.4,
+    "text": "distribution channels and new revenue"
+  },
+  {
+    "startTime": 323.4,
+    "endTime": 326.039,
+    "text": "streams but it's not just about dollars"
+  },
+  {
+    "startTime": 326.039,
+    "endTime": 329.08,
+    "text": "and Impressions just look at all the joy"
+  },
+  {
+    "startTime": 329.08,
+    "endTime": 330.919,
+    "text": "that was spread through Progressive"
+  },
+  {
+    "startTime": 330.919,
+    "endTime": 333.319,
+    "text": "Rights Management and new technology and"
+  },
+  {
+    "startTime": 333.319,
+    "endTime": 335.12,
+    "text": "I think we can all agree that Joy is"
+  },
+  {
+    "startTime": 335.12,
+    "endTime": 337.86,
+    "text": "definitely an idea worth spreading thank"
+  },
+  {
+    "startTime": 337.86,
+    "endTime": 342.619,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 345.479,
+    "endTime": 348.16,
+    "text": "you investment in Broadband high-speed"
+  },
+  {
+    "startTime": 348.16,
+    "endTime": 350.039,
+    "text": "internet can help small businesses"
+  },
+  {
+    "startTime": 350.039,
+    "endTime": 352.72,
+    "text": "create new American jobs small"
+  },
+  {
+    "startTime": 352.72,
+    "endTime": 355.12,
+    "text": "businesses are being formed dreams are"
+  },
+  {
+    "startTime": 355.12,
+    "endTime": 358.0,
+    "text": "being launched and at AT&T we're"
+  },
+  {
+    "startTime": 358.0,
+    "endTime": 359.84,
+    "text": "investing billions to upgrade upgrade"
+  },
+  {
+    "startTime": 359.84,
+    "endTime": 361.72,
+    "text": "and build out our wired and wireless"
+  },
+  {
+    "startTime": 361.72,
+    "endTime": 364.12,
+    "text": "networks now is not the time to stall"
+  },
+  {
+    "startTime": 364.12,
+    "endTime": 366.599,
+    "text": "momentum or stifle Innovation or"
+  },
+  {
+    "startTime": 366.599,
+    "endTime": 370.0,
+    "text": "investment jobs dreams and the future"
+  },
+  {
+    "startTime": 370.0,
+    "endTime": 376.639,
+    "text": "are at stake AT&T your world delivered"
+  }
+]

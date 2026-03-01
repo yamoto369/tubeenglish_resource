@@ -1,0 +1,1182 @@
+[
+  {
+    "startTime": 16.26,
+    "endTime": 18.26,
+    "text": "Up until now, our communication with machines"
+  },
+  {
+    "startTime": 18.26,
+    "endTime": 20.26,
+    "text": "has always been limited"
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 22.26,
+    "text": "to conscious and direct forms."
+  },
+  {
+    "startTime": 22.26,
+    "endTime": 24.26,
+    "text": "Whether it's something simple"
+  },
+  {
+    "startTime": 24.26,
+    "endTime": 26.26,
+    "text": "like turning on the lights with a switch,"
+  },
+  {
+    "startTime": 26.26,
+    "endTime": 29.26,
+    "text": "or even as complex as programming robotics,"
+  },
+  {
+    "startTime": 29.26,
+    "endTime": 32.260000000000005,
+    "text": "we have always had to give a command to a machine,"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 34.26,
+    "text": "or even a series of commands,"
+  },
+  {
+    "startTime": 34.26,
+    "endTime": 37.26,
+    "text": "in order for it to do something for us."
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 39.26,
+    "text": "Communication between people, on the other hand,"
+  },
+  {
+    "startTime": 39.26,
+    "endTime": 42.26,
+    "text": "is far more complex and a lot more interesting"
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 44.26,
+    "text": "because we take into account"
+  },
+  {
+    "startTime": 44.26,
+    "endTime": 47.26,
+    "text": "so much more than what is explicitly expressed."
+  },
+  {
+    "startTime": 47.26,
+    "endTime": 50.26,
+    "text": "We observe facial expressions, body language,"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 52.26,
+    "text": "and we can intuit feelings and emotions"
+  },
+  {
+    "startTime": 52.26,
+    "endTime": 55.26,
+    "text": "from our dialogue with one another."
+  },
+  {
+    "startTime": 55.26,
+    "endTime": 57.26,
+    "text": "This actually forms a large part"
+  },
+  {
+    "startTime": 57.26,
+    "endTime": 59.26,
+    "text": "of our decision-making process."
+  },
+  {
+    "startTime": 59.26,
+    "endTime": 61.26,
+    "text": "Our vision is to introduce"
+  },
+  {
+    "startTime": 61.26,
+    "endTime": 64.259,
+    "text": "this whole new realm of human interaction"
+  },
+  {
+    "startTime": 64.26,
+    "endTime": 66.26,
+    "text": "into human-computer interaction"
+  },
+  {
+    "startTime": 66.26,
+    "endTime": 68.26,
+    "text": "so that computers can understand"
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 70.26,
+    "text": "not only what you direct it to do,"
+  },
+  {
+    "startTime": 70.26,
+    "endTime": 72.26,
+    "text": "but it can also respond"
+  },
+  {
+    "startTime": 72.26,
+    "endTime": 74.26,
+    "text": "to your facial expressions"
+  },
+  {
+    "startTime": 74.26,
+    "endTime": 76.26,
+    "text": "and emotional experiences."
+  },
+  {
+    "startTime": 76.26,
+    "endTime": 78.26,
+    "text": "And what better way to do this"
+  },
+  {
+    "startTime": 78.26,
+    "endTime": 80.26,
+    "text": "than by interpreting the signals"
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 82.26,
+    "text": "naturally produced by our brain,"
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 85.26,
+    "text": "our center for control and experience."
+  },
+  {
+    "startTime": 85.26,
+    "endTime": 87.26,
+    "text": "Well, it sounds like a pretty good idea,"
+  },
+  {
+    "startTime": 87.26,
+    "endTime": 89.26,
+    "text": "but this task, as Bruno mentioned,"
+  },
+  {
+    "startTime": 89.26,
+    "endTime": 92.26,
+    "text": "isn't an easy one for two main reasons:"
+  },
+  {
+    "startTime": 92.26,
+    "endTime": 95.26,
+    "text": "First, the detection algorithms."
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 97.26,
+    "text": "Our brain is made up of"
+  },
+  {
+    "startTime": 97.26,
+    "endTime": 99.26,
+    "text": "billions of active neurons,"
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 102.26,
+    "text": "around 170,000 km"
+  },
+  {
+    "startTime": 102.26,
+    "endTime": 104.26,
+    "text": "of combined axon length."
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 106.26,
+    "text": "When these neurons interact,"
+  },
+  {
+    "startTime": 106.26,
+    "endTime": 108.26,
+    "text": "the chemical reaction emits an electrical impulse,"
+  },
+  {
+    "startTime": 108.26,
+    "endTime": 110.26,
+    "text": "which can be measured."
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 113.26,
+    "text": "The majority of our functional brain"
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 115.26,
+    "text": "is distributed over"
+  },
+  {
+    "startTime": 115.26,
+    "endTime": 117.26,
+    "text": "the outer surface layer of the brain,"
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 120.26,
+    "text": "and to increase the area that's available for mental capacity,"
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 123.26,
+    "text": "the brain surface is highly folded."
+  },
+  {
+    "startTime": 123.26,
+    "endTime": 125.26,
+    "text": "Now this cortical folding"
+  },
+  {
+    "startTime": 125.26,
+    "endTime": 127.26,
+    "text": "presents a significant challenge"
+  },
+  {
+    "startTime": 127.26,
+    "endTime": 130.25900000000001,
+    "text": "for interpreting surface electrical impulses."
+  },
+  {
+    "startTime": 130.259,
+    "endTime": 132.26,
+    "text": "Each individual's cortex"
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 134.26,
+    "text": "is folded differently,"
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 136.26,
+    "text": "very much like a fingerprint."
+  },
+  {
+    "startTime": 136.26,
+    "endTime": 138.26,
+    "text": "So even though a signal"
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 141.26,
+    "text": "may come from the same functional part of the brain,"
+  },
+  {
+    "startTime": 141.26,
+    "endTime": 143.26,
+    "text": "by the time the structure has been folded,"
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 145.26,
+    "text": "its physical location"
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 147.26,
+    "text": "is very different between individuals,"
+  },
+  {
+    "startTime": 147.26,
+    "endTime": 150.26,
+    "text": "even identical twins."
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 152.26,
+    "text": "There is no longer any consistency"
+  },
+  {
+    "startTime": 152.26,
+    "endTime": 154.26,
+    "text": "in the surface signals."
+  },
+  {
+    "startTime": 154.26,
+    "endTime": 156.26,
+    "text": "Our breakthrough was to create an algorithm"
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "that unfolds the cortex,"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 160.26,
+    "text": "so that we can map the signals"
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 162.26,
+    "text": "closer to its source,"
+  },
+  {
+    "startTime": 162.26,
+    "endTime": 165.26,
+    "text": "and therefore making it capable of working across a mass population."
+  },
+  {
+    "startTime": 166.26,
+    "endTime": 168.26,
+    "text": "The second challenge"
+  },
+  {
+    "startTime": 168.26,
+    "endTime": 171.26,
+    "text": "is the actual device for observing brainwaves."
+  },
+  {
+    "startTime": 171.26,
+    "endTime": 173.26,
+    "text": "EEG measurements typically involve"
+  },
+  {
+    "startTime": 173.26,
+    "endTime": 176.26,
+    "text": "a hairnet with an array of sensors,"
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 179.26,
+    "text": "like the one that you can see here in the photo."
+  },
+  {
+    "startTime": 179.26,
+    "endTime": 181.26,
+    "text": "A technician will put the electrodes"
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 183.26,
+    "text": "onto the scalp"
+  },
+  {
+    "startTime": 183.26,
+    "endTime": 185.26,
+    "text": "using a conductive gel or paste"
+  },
+  {
+    "startTime": 185.26,
+    "endTime": 188.26,
+    "text": "and usually after a procedure of preparing the scalp"
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 190.26,
+    "text": "by light abrasion."
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 192.26,
+    "text": "Now this is quite time consuming"
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "and isn't the most comfortable process."
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 196.26,
+    "text": "And on top of that, these systems"
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 199.26,
+    "text": "actually cost in the tens of thousands of dollars."
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 203.26,
+    "text": "So with that, I'd like to invite onstage"
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 205.26,
+    "text": "Evan Grant, who is one of last year's speakers,"
+  },
+  {
+    "startTime": 205.26,
+    "endTime": 207.26,
+    "text": "who's kindly agreed"
+  },
+  {
+    "startTime": 207.26,
+    "endTime": 209.26,
+    "text": "to help me to demonstrate"
+  },
+  {
+    "startTime": 209.26,
+    "endTime": 211.26,
+    "text": "what we've been able to develop."
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 217.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 217.26,
+    "endTime": 219.26,
+    "text": "So the device that you see"
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 221.26,
+    "text": "is a 14-channel, high-fidelity"
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 223.26,
+    "text": "EEG acquisition system."
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 226.26,
+    "text": "It doesn't require any scalp preparation,"
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 228.26,
+    "text": "no conductive gel or paste."
+  },
+  {
+    "startTime": 228.26,
+    "endTime": 231.26,
+    "text": "It only takes a few minutes to put on"
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 233.26,
+    "text": "and for the signals to settle."
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 235.26,
+    "text": "It's also wireless,"
+  },
+  {
+    "startTime": 235.26,
+    "endTime": 238.26,
+    "text": "so it gives you the freedom to move around."
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 241.26,
+    "text": "And compared to the tens of thousands of dollars"
+  },
+  {
+    "startTime": 241.26,
+    "endTime": 244.26,
+    "text": "for a traditional EEG system,"
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 246.26,
+    "text": "this headset only costs"
+  },
+  {
+    "startTime": 246.26,
+    "endTime": 248.26,
+    "text": "a few hundred dollars."
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 251.26,
+    "text": "Now on to the detection algorithms."
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 253.26,
+    "text": "So facial expressions --"
+  },
+  {
+    "startTime": 253.26,
+    "endTime": 255.26,
+    "text": "as I mentioned before in emotional experiences --"
+  },
+  {
+    "startTime": 255.26,
+    "endTime": 257.26,
+    "text": "are actually designed to work out of the box"
+  },
+  {
+    "startTime": 257.26,
+    "endTime": 259.26,
+    "text": "with some sensitivity adjustments"
+  },
+  {
+    "startTime": 259.26,
+    "endTime": 262.26,
+    "text": "available for personalization."
+  },
+  {
+    "startTime": 262.26,
+    "endTime": 264.26,
+    "text": "But with the limited time we have available,"
+  },
+  {
+    "startTime": 264.26,
+    "endTime": 266.26,
+    "text": "I'd like to show you the cognitive suite,"
+  },
+  {
+    "startTime": 266.26,
+    "endTime": 268.26,
+    "text": "which is the ability for you"
+  },
+  {
+    "startTime": 268.26,
+    "endTime": 271.26,
+    "text": "to basically move virtual objects with your mind."
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 274.26,
+    "text": "Now, Evan is new to this system,"
+  },
+  {
+    "startTime": 274.26,
+    "endTime": 276.26,
+    "text": "so what we have to do first"
+  },
+  {
+    "startTime": 276.26,
+    "endTime": 278.26,
+    "text": "is create a new profile for him."
+  },
+  {
+    "startTime": 278.26,
+    "endTime": 281.26,
+    "text": "He's obviously not Joanne -- so we'll \"add user.\""
+  },
+  {
+    "startTime": 281.26,
+    "endTime": 283.26,
+    "text": "Evan. Okay."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 286.26,
+    "text": "So the first thing we need to do with the cognitive suite"
+  },
+  {
+    "startTime": 286.26,
+    "endTime": 288.26,
+    "text": "is to start with training"
+  },
+  {
+    "startTime": 288.26,
+    "endTime": 290.26,
+    "text": "a neutral signal."
+  },
+  {
+    "startTime": 290.26,
+    "endTime": 292.26,
+    "text": "With neutral, there's nothing in particular"
+  },
+  {
+    "startTime": 292.26,
+    "endTime": 294.26,
+    "text": "that Evan needs to do."
+  },
+  {
+    "startTime": 294.26,
+    "endTime": 296.26,
+    "text": "He just hangs out. He's relaxed."
+  },
+  {
+    "startTime": 296.26,
+    "endTime": 298.26,
+    "text": "And the idea is to establish a baseline"
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.26,
+    "text": "or normal state for his brain,"
+  },
+  {
+    "startTime": 300.26,
+    "endTime": 302.26,
+    "text": "because every brain is different."
+  },
+  {
+    "startTime": 302.26,
+    "endTime": 304.26,
+    "text": "It takes eight seconds to do this,"
+  },
+  {
+    "startTime": 304.26,
+    "endTime": 306.26,
+    "text": "and now that that's done,"
+  },
+  {
+    "startTime": 306.26,
+    "endTime": 308.26,
+    "text": "we can choose a movement-based action."
+  },
+  {
+    "startTime": 308.26,
+    "endTime": 310.26,
+    "text": "So Evan, choose something"
+  },
+  {
+    "startTime": 310.26,
+    "endTime": 312.26,
+    "text": "that you can visualize clearly in your mind."
+  },
+  {
+    "startTime": 312.26,
+    "endTime": 314.26,
+    "text": "Evan Grant: Let's do \"pull.\""
+  },
+  {
+    "startTime": 314.26,
+    "endTime": 316.26,
+    "text": "Tan Le: Okay, so let's choose \"pull.\""
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 318.26,
+    "text": "So the idea here now"
+  },
+  {
+    "startTime": 318.26,
+    "endTime": 320.26,
+    "text": "is that Evan needs to"
+  },
+  {
+    "startTime": 320.26,
+    "endTime": 322.26,
+    "text": "imagine the object coming forward"
+  },
+  {
+    "startTime": 322.26,
+    "endTime": 324.26,
+    "text": "into the screen,"
+  },
+  {
+    "startTime": 324.26,
+    "endTime": 327.26,
+    "text": "and there's a progress bar that will scroll across the screen"
+  },
+  {
+    "startTime": 327.26,
+    "endTime": 329.26,
+    "text": "while he's doing that."
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "The first time, nothing will happen,"
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 334.26,
+    "text": "because the system has no idea how he thinks about \"pull.\""
+  },
+  {
+    "startTime": 334.26,
+    "endTime": 336.26,
+    "text": "But maintain that thought"
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 338.26,
+    "text": "for the entire duration of the eight seconds."
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 341.26,
+    "text": "So: one, two, three, go."
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 351.26,
+    "text": "Okay."
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 353.26,
+    "text": "So once we accept this,"
+  },
+  {
+    "startTime": 353.26,
+    "endTime": 355.26,
+    "text": "the cube is live."
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 357.26,
+    "text": "So let's see if Evan"
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 360.26,
+    "text": "can actually try and imagine pulling."
+  },
+  {
+    "startTime": 360.26,
+    "endTime": 362.26,
+    "text": "Ah, good job!"
+  },
+  {
+    "startTime": 362.26,
+    "endTime": 365.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 365.26,
+    "endTime": 367.26,
+    "text": "That's really amazing."
+  },
+  {
+    "startTime": 367.26,
+    "endTime": 371.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 371.26,
+    "endTime": 373.26,
+    "text": "So we have a little bit of time available,"
+  },
+  {
+    "startTime": 373.26,
+    "endTime": 375.26,
+    "text": "so I'm going to ask Evan"
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 377.26,
+    "text": "to do a really difficult task."
+  },
+  {
+    "startTime": 377.26,
+    "endTime": 379.26,
+    "text": "And this one is difficult"
+  },
+  {
+    "startTime": 379.26,
+    "endTime": 382.26,
+    "text": "because it's all about being able to visualize something"
+  },
+  {
+    "startTime": 382.26,
+    "endTime": 384.26,
+    "text": "that doesn't exist in our physical world."
+  },
+  {
+    "startTime": 384.26,
+    "endTime": 386.26,
+    "text": "This is \"disappear.\""
+  },
+  {
+    "startTime": 386.26,
+    "endTime": 388.26,
+    "text": "So what you want to do -- at least with movement-based actions,"
+  },
+  {
+    "startTime": 388.26,
+    "endTime": 391.26,
+    "text": "we do that all the time, so you can visualize it."
+  },
+  {
+    "startTime": 391.26,
+    "endTime": 393.26,
+    "text": "But with \"disappear,\" there's really no analogies --"
+  },
+  {
+    "startTime": 393.26,
+    "endTime": 395.26,
+    "text": "so Evan, what you want to do here"
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 398.26,
+    "text": "is to imagine the cube slowly fading out, okay."
+  },
+  {
+    "startTime": 398.26,
+    "endTime": 401.26,
+    "text": "Same sort of drill. So: one, two, three, go."
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 413.26,
+    "text": "Okay. Let's try that."
+  },
+  {
+    "startTime": 413.26,
+    "endTime": 416.26,
+    "text": "Oh, my goodness. He's just too good."
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 419.26,
+    "text": "Let's try that again."
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 426.26,
+    "text": "EG: Losing concentration."
+  },
+  {
+    "startTime": 426.26,
+    "endTime": 428.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 428.26,
+    "endTime": 430.26,
+    "text": "TL: But we can see that it actually works,"
+  },
+  {
+    "startTime": 430.26,
+    "endTime": 432.26,
+    "text": "even though you can only hold it"
+  },
+  {
+    "startTime": 432.26,
+    "endTime": 434.26,
+    "text": "for a little bit of time."
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 437.26,
+    "text": "As I said, it's a very difficult process"
+  },
+  {
+    "startTime": 437.26,
+    "endTime": 439.26,
+    "text": "to imagine this."
+  },
+  {
+    "startTime": 439.26,
+    "endTime": 441.26,
+    "text": "And the great thing about it is that"
+  },
+  {
+    "startTime": 441.26,
+    "endTime": 443.26,
+    "text": "we've only given the software one instance"
+  },
+  {
+    "startTime": 443.26,
+    "endTime": 446.26,
+    "text": "of how he thinks about \"disappear.\""
+  },
+  {
+    "startTime": 446.26,
+    "endTime": 449.26,
+    "text": "As there is a machine learning algorithm in this --"
+  },
+  {
+    "startTime": 449.26,
+    "endTime": 453.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 453.26,
+    "endTime": 455.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 458.26,
+    "text": "Good job. Good job."
+  },
+  {
+    "startTime": 458.26,
+    "endTime": 460.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 460.26,
+    "endTime": 463.26,
+    "text": "Thank you, Evan, you're a wonderful, wonderful"
+  },
+  {
+    "startTime": 463.26,
+    "endTime": 466.26,
+    "text": "example of the technology."
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 468.26,
+    "text": "So, as you can see, before,"
+  },
+  {
+    "startTime": 468.26,
+    "endTime": 471.26,
+    "text": "there is a leveling system built into this software"
+  },
+  {
+    "startTime": 471.26,
+    "endTime": 473.26,
+    "text": "so that as Evan, or any user,"
+  },
+  {
+    "startTime": 473.26,
+    "endTime": 475.26,
+    "text": "becomes more familiar with the system,"
+  },
+  {
+    "startTime": 475.26,
+    "endTime": 478.26,
+    "text": "they can continue to add more and more detections,"
+  },
+  {
+    "startTime": 478.26,
+    "endTime": 480.26,
+    "text": "so that the system begins to differentiate"
+  },
+  {
+    "startTime": 480.26,
+    "endTime": 483.26,
+    "text": "between different distinct thoughts."
+  },
+  {
+    "startTime": 484.26,
+    "endTime": 486.26,
+    "text": "And once you've trained up the detections,"
+  },
+  {
+    "startTime": 486.26,
+    "endTime": 488.26,
+    "text": "these thoughts can be assigned or mapped"
+  },
+  {
+    "startTime": 488.26,
+    "endTime": 490.26,
+    "text": "to any computing platform,"
+  },
+  {
+    "startTime": 490.26,
+    "endTime": 492.26,
+    "text": "application or device."
+  },
+  {
+    "startTime": 492.26,
+    "endTime": 494.26,
+    "text": "So I'd like to show you a few examples,"
+  },
+  {
+    "startTime": 494.26,
+    "endTime": 496.26,
+    "text": "because there are many possible applications"
+  },
+  {
+    "startTime": 496.26,
+    "endTime": 498.26,
+    "text": "for this new interface."
+  },
+  {
+    "startTime": 499.26,
+    "endTime": 501.26,
+    "text": "In games and virtual worlds, for example,"
+  },
+  {
+    "startTime": 501.26,
+    "endTime": 503.26,
+    "text": "your facial expressions"
+  },
+  {
+    "startTime": 503.26,
+    "endTime": 505.26,
+    "text": "can naturally and intuitively be used"
+  },
+  {
+    "startTime": 505.26,
+    "endTime": 508.26,
+    "text": "to control an avatar or virtual character."
+  },
+  {
+    "startTime": 509.26,
+    "endTime": 511.26,
+    "text": "Obviously, you can experience the fantasy of magic"
+  },
+  {
+    "startTime": 511.26,
+    "endTime": 514.26,
+    "text": "and control the world with your mind."
+  },
+  {
+    "startTime": 516.26,
+    "endTime": 519.26,
+    "text": "And also, colors, lighting,"
+  },
+  {
+    "startTime": 519.26,
+    "endTime": 521.26,
+    "text": "sound and effects"
+  },
+  {
+    "startTime": 521.26,
+    "endTime": 523.26,
+    "text": "can dynamically respond to your emotional state"
+  },
+  {
+    "startTime": 523.26,
+    "endTime": 526.26,
+    "text": "to heighten the experience that you're having, in real time."
+  },
+  {
+    "startTime": 527.26,
+    "endTime": 529.26,
+    "text": "And moving on to some applications"
+  },
+  {
+    "startTime": 529.26,
+    "endTime": 532.26,
+    "text": "developed by developers and researchers around the world,"
+  },
+  {
+    "startTime": 532.26,
+    "endTime": 535.26,
+    "text": "with robots and simple machines, for example --"
+  },
+  {
+    "startTime": 535.26,
+    "endTime": 537.26,
+    "text": "in this case, flying a toy helicopter"
+  },
+  {
+    "startTime": 537.26,
+    "endTime": 540.26,
+    "text": "simply by thinking \"lift\" with your mind."
+  },
+  {
+    "startTime": 540.26,
+    "endTime": 542.26,
+    "text": "The technology can also be applied"
+  },
+  {
+    "startTime": 542.26,
+    "endTime": 544.26,
+    "text": "to real world applications --"
+  },
+  {
+    "startTime": 544.26,
+    "endTime": 546.26,
+    "text": "in this example, a smart home."
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 549.26,
+    "text": "You know, from the user interface of the control system"
+  },
+  {
+    "startTime": 549.26,
+    "endTime": 551.26,
+    "text": "to opening curtains"
+  },
+  {
+    "startTime": 551.26,
+    "endTime": 554.26,
+    "text": "or closing curtains."
+  },
+  {
+    "startTime": 562.26,
+    "endTime": 565.26,
+    "text": "And of course, also to the lighting --"
+  },
+  {
+    "startTime": 565.26,
+    "endTime": 568.26,
+    "text": "turning them on"
+  },
+  {
+    "startTime": 568.26,
+    "endTime": 570.26,
+    "text": "or off."
+  },
+  {
+    "startTime": 570.26,
+    "endTime": 572.26,
+    "text": "And finally,"
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 574.26,
+    "text": "to real life-changing applications,"
+  },
+  {
+    "startTime": 574.26,
+    "endTime": 577.26,
+    "text": "such as being able to control an electric wheelchair."
+  },
+  {
+    "startTime": 577.26,
+    "endTime": 579.26,
+    "text": "In this example,"
+  },
+  {
+    "startTime": 579.26,
+    "endTime": 582.26,
+    "text": "facial expressions are mapped to the movement commands."
+  },
+  {
+    "startTime": 582.26,
+    "endTime": 585.26,
+    "text": "Man: Now blink right to go right."
+  },
+  {
+    "startTime": 590.26,
+    "endTime": 593.26,
+    "text": "Now blink left to turn back left."
+  },
+  {
+    "startTime": 602.26,
+    "endTime": 605.26,
+    "text": "Now smile to go straight."
+  },
+  {
+    "startTime": 608.26,
+    "endTime": 610.26,
+    "text": "TL: We really -- Thank you."
+  },
+  {
+    "startTime": 610.26,
+    "endTime": 615.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 615.26,
+    "endTime": 618.26,
+    "text": "We are really only scratching the surface of what is possible today,"
+  },
+  {
+    "startTime": 618.26,
+    "endTime": 620.26,
+    "text": "and with the community's input,"
+  },
+  {
+    "startTime": 620.26,
+    "endTime": 622.26,
+    "text": "and also with the involvement of developers"
+  },
+  {
+    "startTime": 622.26,
+    "endTime": 625.26,
+    "text": "and researchers from around the world,"
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 627.26,
+    "text": "we hope that you can help us to shape"
+  },
+  {
+    "startTime": 627.26,
+    "endTime": 630.26,
+    "text": "where the technology goes from here. Thank you so much."
+  }
+]

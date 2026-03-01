@@ -1,0 +1,1217 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 18.259,
+    "text": "The idea behind the Stuxnet computer worm"
+  },
+  {
+    "startTime": 18.26,
+    "endTime": 20.26,
+    "text": "is actually quite simple."
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 23.26,
+    "text": "We don't want Iran to get the bomb."
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 26.26,
+    "text": "Their major asset for developing nuclear weapons"
+  },
+  {
+    "startTime": 26.26,
+    "endTime": 30.26,
+    "text": "is the Natanz uranium enrichment facility."
+  },
+  {
+    "startTime": 30.26,
+    "endTime": 32.260000000000005,
+    "text": "The gray boxes that you see,"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 35.26,
+    "text": "these are real-time control systems."
+  },
+  {
+    "startTime": 35.26,
+    "endTime": 38.26,
+    "text": "Now if we manage to compromise these systems"
+  },
+  {
+    "startTime": 38.26,
+    "endTime": 41.26,
+    "text": "that control drive speeds and valves,"
+  },
+  {
+    "startTime": 41.26,
+    "endTime": 44.26,
+    "text": "we can actually cause a lot of problems"
+  },
+  {
+    "startTime": 44.26,
+    "endTime": 46.26,
+    "text": "with the centrifuge."
+  },
+  {
+    "startTime": 46.26,
+    "endTime": 48.26,
+    "text": "The gray boxes don't run Windows software;"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 51.26,
+    "text": "they are a completely different technology."
+  },
+  {
+    "startTime": 51.26,
+    "endTime": 53.26,
+    "text": "But if we manage"
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 56.26,
+    "text": "to place a good Windows virus"
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "on a notebook"
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 60.26,
+    "text": "that is used by a maintenance engineer"
+  },
+  {
+    "startTime": 60.26,
+    "endTime": 63.26,
+    "text": "to configure this gray box,"
+  },
+  {
+    "startTime": 63.26,
+    "endTime": 65.259,
+    "text": "then we are in business."
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 68.26,
+    "text": "And this is the plot behind Stuxnet."
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 73.26,
+    "text": "So we start with a Windows dropper."
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 76.26,
+    "text": "The payload goes onto the gray box,"
+  },
+  {
+    "startTime": 76.26,
+    "endTime": 78.26,
+    "text": "damages the centrifuge,"
+  },
+  {
+    "startTime": 78.26,
+    "endTime": 80.26,
+    "text": "and the Iranian nuclear program is delayed --"
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 82.26,
+    "text": "mission accomplished."
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 84.26,
+    "text": "That's easy, huh?"
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 87.26,
+    "text": "I want to tell you how we found that out."
+  },
+  {
+    "startTime": 87.26,
+    "endTime": 90.26,
+    "text": "When we started our research on Stuxnet six months ago,"
+  },
+  {
+    "startTime": 90.26,
+    "endTime": 93.26,
+    "text": "it was completely unknown what the purpose of this thing was."
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 95.26,
+    "text": "The only thing that was known"
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 98.26,
+    "text": "is it's very, very complex on the Windows part, the dropper part,"
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 101.26,
+    "text": "used multiple zero-day vulnerabilities."
+  },
+  {
+    "startTime": 101.26,
+    "endTime": 104.26,
+    "text": "And it seemed to want to do something"
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 106.26,
+    "text": "with these gray boxes, these real-time control systems."
+  },
+  {
+    "startTime": 106.26,
+    "endTime": 108.26,
+    "text": "So that got our attention,"
+  },
+  {
+    "startTime": 108.26,
+    "endTime": 110.26,
+    "text": "and we started a lab project"
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 114.26,
+    "text": "where we infected our environment with Stuxnet"
+  },
+  {
+    "startTime": 114.26,
+    "endTime": 116.26,
+    "text": "and checked this thing out."
+  },
+  {
+    "startTime": 116.26,
+    "endTime": 119.26,
+    "text": "And then some very funny things happened."
+  },
+  {
+    "startTime": 119.26,
+    "endTime": 122.26,
+    "text": "Stuxnet behaved like a lab rat"
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 125.26,
+    "text": "that didn't like our cheese --"
+  },
+  {
+    "startTime": 125.26,
+    "endTime": 127.26,
+    "text": "sniffed, but didn't want to eat."
+  },
+  {
+    "startTime": 127.26,
+    "endTime": 129.25900000000001,
+    "text": "Didn't make sense to me."
+  },
+  {
+    "startTime": 129.259,
+    "endTime": 132.26,
+    "text": "And after we experimented with different flavors of cheese,"
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 136.26,
+    "text": "I realized, well, this is a directed attack."
+  },
+  {
+    "startTime": 136.26,
+    "endTime": 138.26,
+    "text": "It's completely directed."
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 140.26,
+    "text": "The dropper is prowling actively"
+  },
+  {
+    "startTime": 140.26,
+    "endTime": 142.26,
+    "text": "on the gray box"
+  },
+  {
+    "startTime": 142.26,
+    "endTime": 145.26,
+    "text": "if a specific configuration is found,"
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 149.26,
+    "text": "and even if the actual program code that it's trying to infect"
+  },
+  {
+    "startTime": 149.26,
+    "endTime": 151.26,
+    "text": "is actually running on that target."
+  },
+  {
+    "startTime": 151.26,
+    "endTime": 154.26,
+    "text": "And if not, Stuxnet does nothing."
+  },
+  {
+    "startTime": 154.26,
+    "endTime": 156.26,
+    "text": "So that really got my attention,"
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "and we started to work on this"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 160.26,
+    "text": "nearly around the clock,"
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 163.26,
+    "text": "because I thought, \"Well, we don't know what the target is."
+  },
+  {
+    "startTime": 163.26,
+    "endTime": 165.26,
+    "text": "It could be, let's say for example,"
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 167.26,
+    "text": "a U.S. power plant,"
+  },
+  {
+    "startTime": 167.26,
+    "endTime": 169.26,
+    "text": "or a chemical plant in Germany."
+  },
+  {
+    "startTime": 169.26,
+    "endTime": 172.26,
+    "text": "So we better find out what the target is soon.\""
+  },
+  {
+    "startTime": 172.26,
+    "endTime": 174.26,
+    "text": "So we extracted and decompiled"
+  },
+  {
+    "startTime": 174.26,
+    "endTime": 176.26,
+    "text": "the attack code,"
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 179.26,
+    "text": "and we discovered that it's structured in two digital bombs --"
+  },
+  {
+    "startTime": 179.26,
+    "endTime": 182.26,
+    "text": "a smaller one and a bigger one."
+  },
+  {
+    "startTime": 182.26,
+    "endTime": 186.26,
+    "text": "And we also saw that they are very professionally engineered"
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 190.26,
+    "text": "by people who obviously had all insider information."
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 192.26,
+    "text": "They knew all the bits and bites"
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "that they had to attack."
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 197.26,
+    "text": "They probably even know the shoe size of the operator."
+  },
+  {
+    "startTime": 197.26,
+    "endTime": 199.26,
+    "text": "So they know everything."
+  },
+  {
+    "startTime": 199.26,
+    "endTime": 202.26,
+    "text": "And if you have heard that the dropper of Stuxnet"
+  },
+  {
+    "startTime": 202.26,
+    "endTime": 204.26,
+    "text": "is complex and high-tech,"
+  },
+  {
+    "startTime": 204.26,
+    "endTime": 206.26,
+    "text": "let me tell you this:"
+  },
+  {
+    "startTime": 206.26,
+    "endTime": 208.26,
+    "text": "the payload is rocket science."
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 210.26,
+    "text": "It's way above everything"
+  },
+  {
+    "startTime": 210.26,
+    "endTime": 213.26,
+    "text": "that we have ever seen before."
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 216.26,
+    "text": "Here you see a sample of this actual attack code."
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 218.26,
+    "text": "We are talking about --"
+  },
+  {
+    "startTime": 218.26,
+    "endTime": 221.26,
+    "text": "around about 15,000 lines of code."
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 224.26,
+    "text": "Looks pretty much like old-style assembly language."
+  },
+  {
+    "startTime": 224.26,
+    "endTime": 226.26,
+    "text": "And I want to tell you how we were able"
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 228.26,
+    "text": "to make sense out of this code."
+  },
+  {
+    "startTime": 228.26,
+    "endTime": 231.26,
+    "text": "So what we were looking for is, first of all, system function calls,"
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 233.26,
+    "text": "because we know what they do."
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 237.26,
+    "text": "And then we were looking for timers and data structures"
+  },
+  {
+    "startTime": 237.26,
+    "endTime": 239.26,
+    "text": "and trying to relate them to the real world --"
+  },
+  {
+    "startTime": 239.26,
+    "endTime": 241.26,
+    "text": "to potential real world targets."
+  },
+  {
+    "startTime": 241.26,
+    "endTime": 244.26,
+    "text": "So we do need target theories"
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 247.26,
+    "text": "that we can prove or disprove."
+  },
+  {
+    "startTime": 247.26,
+    "endTime": 249.26,
+    "text": "In order to get target theories,"
+  },
+  {
+    "startTime": 249.26,
+    "endTime": 251.26,
+    "text": "we remember"
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 253.26,
+    "text": "that it's definitely hardcore sabotage,"
+  },
+  {
+    "startTime": 253.26,
+    "endTime": 255.26,
+    "text": "it must be a high-value target"
+  },
+  {
+    "startTime": 255.26,
+    "endTime": 258.26,
+    "text": "and it is most likely located in Iran,"
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 262.26,
+    "text": "because that's where most of the infections had been reported."
+  },
+  {
+    "startTime": 262.26,
+    "endTime": 265.26,
+    "text": "Now you don't find several thousand targets in that area."
+  },
+  {
+    "startTime": 265.26,
+    "endTime": 267.26,
+    "text": "It basically boils down"
+  },
+  {
+    "startTime": 267.26,
+    "endTime": 269.26,
+    "text": "to the Bushehr nuclear power plant"
+  },
+  {
+    "startTime": 269.26,
+    "endTime": 271.26,
+    "text": "and to the Natanz fuel enrichment plant."
+  },
+  {
+    "startTime": 271.26,
+    "endTime": 273.26,
+    "text": "So I told my assistant,"
+  },
+  {
+    "startTime": 273.26,
+    "endTime": 276.26,
+    "text": "\"Get me a list of all centrifuge and power plant experts from our client base.\""
+  },
+  {
+    "startTime": 276.26,
+    "endTime": 278.26,
+    "text": "And I phoned them up and picked their brain"
+  },
+  {
+    "startTime": 278.26,
+    "endTime": 280.26,
+    "text": "in an effort to match their expertise"
+  },
+  {
+    "startTime": 280.26,
+    "endTime": 283.26,
+    "text": "with what we found in code and data."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 285.26,
+    "text": "And that worked pretty well."
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 287.26,
+    "text": "So we were able to associate"
+  },
+  {
+    "startTime": 287.26,
+    "endTime": 289.26,
+    "text": "the small digital warhead"
+  },
+  {
+    "startTime": 289.26,
+    "endTime": 291.26,
+    "text": "with the rotor control."
+  },
+  {
+    "startTime": 291.26,
+    "endTime": 294.26,
+    "text": "The rotor is that moving part within the centrifuge,"
+  },
+  {
+    "startTime": 294.26,
+    "endTime": 296.26,
+    "text": "that black object that you see."
+  },
+  {
+    "startTime": 296.26,
+    "endTime": 299.26,
+    "text": "And if you manipulate the speed of this rotor,"
+  },
+  {
+    "startTime": 299.26,
+    "endTime": 301.26,
+    "text": "you are actually able to crack the rotor"
+  },
+  {
+    "startTime": 301.26,
+    "endTime": 305.26,
+    "text": "and eventually even have the centrifuge explode."
+  },
+  {
+    "startTime": 305.26,
+    "endTime": 307.26,
+    "text": "What we also saw"
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 309.26,
+    "text": "is that the goal of the attack"
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 312.26,
+    "text": "was really to do it slowly and creepy --"
+  },
+  {
+    "startTime": 312.26,
+    "endTime": 314.26,
+    "text": "obviously in an effort"
+  },
+  {
+    "startTime": 314.26,
+    "endTime": 317.26,
+    "text": "to drive maintenance engineers crazy,"
+  },
+  {
+    "startTime": 317.26,
+    "endTime": 320.26,
+    "text": "that they would not be able to figure this out quickly."
+  },
+  {
+    "startTime": 320.26,
+    "endTime": 323.26,
+    "text": "The big digital warhead -- we had a shot at this"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "by looking very closely"
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 327.26,
+    "text": "at data and data structures."
+  },
+  {
+    "startTime": 327.26,
+    "endTime": 329.26,
+    "text": "So for example, the number 164"
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "really stands out in that code;"
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 333.26,
+    "text": "you can't overlook it."
+  },
+  {
+    "startTime": 333.26,
+    "endTime": 335.26,
+    "text": "I started to research scientific literature"
+  },
+  {
+    "startTime": 335.26,
+    "endTime": 337.26,
+    "text": "on how these centrifuges"
+  },
+  {
+    "startTime": 337.26,
+    "endTime": 339.26,
+    "text": "are actually built in Natanz"
+  },
+  {
+    "startTime": 339.26,
+    "endTime": 341.26,
+    "text": "and found they are structured"
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 343.26,
+    "text": "in what is called a cascade,"
+  },
+  {
+    "startTime": 343.26,
+    "endTime": 347.26,
+    "text": "and each cascade holds 164 centrifuges."
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 349.26,
+    "text": "So that made sense, that was a match."
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 351.26,
+    "text": "And it even got better."
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 353.26,
+    "text": "These centrifuges in Iran"
+  },
+  {
+    "startTime": 353.26,
+    "endTime": 357.26,
+    "text": "are subdivided into 15, what is called, stages."
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 359.26,
+    "text": "And guess what we found in the attack code?"
+  },
+  {
+    "startTime": 359.26,
+    "endTime": 361.26,
+    "text": "An almost identical structure."
+  },
+  {
+    "startTime": 361.26,
+    "endTime": 364.26,
+    "text": "So again, that was a real good match."
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 367.26,
+    "text": "And this gave us very high confidence for what we were looking at."
+  },
+  {
+    "startTime": 367.26,
+    "endTime": 370.26,
+    "text": "Now don't get me wrong here, it didn't go like this."
+  },
+  {
+    "startTime": 370.26,
+    "endTime": 373.26,
+    "text": "These results have been obtained"
+  },
+  {
+    "startTime": 373.26,
+    "endTime": 376.26,
+    "text": "over several weeks of really hard labor."
+  },
+  {
+    "startTime": 376.26,
+    "endTime": 379.26,
+    "text": "And we often went into just a dead end"
+  },
+  {
+    "startTime": 379.26,
+    "endTime": 381.26,
+    "text": "and had to recover."
+  },
+  {
+    "startTime": 381.26,
+    "endTime": 383.26,
+    "text": "Anyway, so we figured out"
+  },
+  {
+    "startTime": 383.26,
+    "endTime": 385.26,
+    "text": "that both digital warheads"
+  },
+  {
+    "startTime": 385.26,
+    "endTime": 387.26,
+    "text": "were actually aiming at one and the same target,"
+  },
+  {
+    "startTime": 387.26,
+    "endTime": 389.26,
+    "text": "but from different angles."
+  },
+  {
+    "startTime": 389.26,
+    "endTime": 392.26,
+    "text": "The small warhead is taking one cascade,"
+  },
+  {
+    "startTime": 392.26,
+    "endTime": 395.26,
+    "text": "and spinning up the rotors and slowing them down,"
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 397.26,
+    "text": "and the big warhead"
+  },
+  {
+    "startTime": 397.26,
+    "endTime": 399.26,
+    "text": "is talking to six cascades"
+  },
+  {
+    "startTime": 399.26,
+    "endTime": 401.26,
+    "text": "and manipulating valves."
+  },
+  {
+    "startTime": 401.26,
+    "endTime": 403.26,
+    "text": "So in all, we are very confident"
+  },
+  {
+    "startTime": 403.26,
+    "endTime": 405.26,
+    "text": "that we have actually determined what the target is."
+  },
+  {
+    "startTime": 405.26,
+    "endTime": 408.26,
+    "text": "It is Natanz, and it is only Natanz."
+  },
+  {
+    "startTime": 408.26,
+    "endTime": 410.26,
+    "text": "So we don't have to worry"
+  },
+  {
+    "startTime": 410.26,
+    "endTime": 412.26,
+    "text": "that other targets"
+  },
+  {
+    "startTime": 412.26,
+    "endTime": 414.26,
+    "text": "might be hit by Stuxnet."
+  },
+  {
+    "startTime": 414.26,
+    "endTime": 417.26,
+    "text": "Here's some very cool stuff that we saw --"
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 419.26,
+    "text": "really knocked my socks off."
+  },
+  {
+    "startTime": 419.26,
+    "endTime": 421.26,
+    "text": "Down there is the gray box,"
+  },
+  {
+    "startTime": 421.26,
+    "endTime": 424.26,
+    "text": "and on the top you see the centrifuges."
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 426.26,
+    "text": "Now what this thing does"
+  },
+  {
+    "startTime": 426.26,
+    "endTime": 429.26,
+    "text": "is it intercepts the input values from sensors --"
+  },
+  {
+    "startTime": 429.26,
+    "endTime": 431.26,
+    "text": "so for example, from pressure sensors"
+  },
+  {
+    "startTime": 431.26,
+    "endTime": 433.26,
+    "text": "and vibration sensors --"
+  },
+  {
+    "startTime": 433.26,
+    "endTime": 436.26,
+    "text": "and it provides legitimate program code,"
+  },
+  {
+    "startTime": 436.26,
+    "endTime": 438.26,
+    "text": "which is still running during the attack,"
+  },
+  {
+    "startTime": 438.26,
+    "endTime": 440.26,
+    "text": "with fake input data."
+  },
+  {
+    "startTime": 440.26,
+    "endTime": 442.26,
+    "text": "And as a matter of fact, this fake input data"
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 445.26,
+    "text": "is actually prerecorded by Stuxnet."
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 447.26,
+    "text": "So it's just like from the Hollywood movies"
+  },
+  {
+    "startTime": 447.26,
+    "endTime": 449.26,
+    "text": "where during the heist,"
+  },
+  {
+    "startTime": 449.26,
+    "endTime": 452.26,
+    "text": "the observation camera is fed with prerecorded video."
+  },
+  {
+    "startTime": 452.26,
+    "endTime": 454.26,
+    "text": "That's cool, huh?"
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 457.26,
+    "text": "The idea here is obviously"
+  },
+  {
+    "startTime": 457.26,
+    "endTime": 460.26,
+    "text": "not only to fool the operators in the control room."
+  },
+  {
+    "startTime": 460.26,
+    "endTime": 464.26,
+    "text": "It actually is much more dangerous and aggressive."
+  },
+  {
+    "startTime": 464.26,
+    "endTime": 466.26,
+    "text": "The idea"
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 469.26,
+    "text": "is to circumvent a digital safety system."
+  },
+  {
+    "startTime": 470.26,
+    "endTime": 472.26,
+    "text": "We need digital safety systems"
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 475.26,
+    "text": "where a human operator could not act quick enough."
+  },
+  {
+    "startTime": 475.26,
+    "endTime": 477.26,
+    "text": "So for example, in a power plant,"
+  },
+  {
+    "startTime": 477.26,
+    "endTime": 480.26,
+    "text": "when your big steam turbine gets too over speed,"
+  },
+  {
+    "startTime": 480.26,
+    "endTime": 483.26,
+    "text": "you must open relief valves within a millisecond."
+  },
+  {
+    "startTime": 483.26,
+    "endTime": 486.26,
+    "text": "Obviously, this cannot be done by a human operator."
+  },
+  {
+    "startTime": 486.26,
+    "endTime": 488.26,
+    "text": "So this is where we need digital safety systems."
+  },
+  {
+    "startTime": 488.26,
+    "endTime": 490.26,
+    "text": "And when they are compromised,"
+  },
+  {
+    "startTime": 490.26,
+    "endTime": 493.26,
+    "text": "then real bad things can happen."
+  },
+  {
+    "startTime": 493.26,
+    "endTime": 495.26,
+    "text": "Your plant can blow up."
+  },
+  {
+    "startTime": 495.26,
+    "endTime": 498.26,
+    "text": "And neither your operators nor your safety system will notice it."
+  },
+  {
+    "startTime": 498.26,
+    "endTime": 500.26,
+    "text": "That's scary."
+  },
+  {
+    "startTime": 500.26,
+    "endTime": 502.26,
+    "text": "But it gets worse."
+  },
+  {
+    "startTime": 502.26,
+    "endTime": 505.26,
+    "text": "And this is very important, what I'm going to say."
+  },
+  {
+    "startTime": 505.26,
+    "endTime": 507.26,
+    "text": "Think about this:"
+  },
+  {
+    "startTime": 507.26,
+    "endTime": 510.26,
+    "text": "this attack is generic."
+  },
+  {
+    "startTime": 510.26,
+    "endTime": 514.26,
+    "text": "It doesn't have anything to do, in specifics,"
+  },
+  {
+    "startTime": 514.26,
+    "endTime": 516.26,
+    "text": "with centrifuges,"
+  },
+  {
+    "startTime": 516.26,
+    "endTime": 519.26,
+    "text": "with uranium enrichment."
+  },
+  {
+    "startTime": 519.26,
+    "endTime": 522.26,
+    "text": "So it would work as well, for example,"
+  },
+  {
+    "startTime": 522.26,
+    "endTime": 524.26,
+    "text": "in a power plant"
+  },
+  {
+    "startTime": 524.26,
+    "endTime": 527.26,
+    "text": "or in an automobile factory."
+  },
+  {
+    "startTime": 527.26,
+    "endTime": 529.26,
+    "text": "It is generic."
+  },
+  {
+    "startTime": 529.26,
+    "endTime": 531.26,
+    "text": "And you don't have -- as an attacker --"
+  },
+  {
+    "startTime": 531.26,
+    "endTime": 534.26,
+    "text": "you don't have to deliver this payload"
+  },
+  {
+    "startTime": 534.26,
+    "endTime": 536.26,
+    "text": "by a USB stick,"
+  },
+  {
+    "startTime": 536.26,
+    "endTime": 538.26,
+    "text": "as we saw it in the case of Stuxnet."
+  },
+  {
+    "startTime": 538.26,
+    "endTime": 541.26,
+    "text": "You could also use conventional worm technology for spreading."
+  },
+  {
+    "startTime": 541.26,
+    "endTime": 544.26,
+    "text": "Just spread it as wide as possible."
+  },
+  {
+    "startTime": 544.26,
+    "endTime": 546.26,
+    "text": "And if you do that,"
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 548.26,
+    "text": "what you end up with"
+  },
+  {
+    "startTime": 548.26,
+    "endTime": 553.26,
+    "text": "is a cyber weapon of mass destruction."
+  },
+  {
+    "startTime": 554.26,
+    "endTime": 556.26,
+    "text": "That's the consequence"
+  },
+  {
+    "startTime": 556.26,
+    "endTime": 559.26,
+    "text": "that we have to face."
+  },
+  {
+    "startTime": 559.26,
+    "endTime": 562.26,
+    "text": "So unfortunately,"
+  },
+  {
+    "startTime": 562.26,
+    "endTime": 565.26,
+    "text": "the biggest number of targets for such attacks"
+  },
+  {
+    "startTime": 565.26,
+    "endTime": 567.26,
+    "text": "are not in the Middle East."
+  },
+  {
+    "startTime": 567.26,
+    "endTime": 570.26,
+    "text": "They're in the United States and Europe and in Japan."
+  },
+  {
+    "startTime": 570.26,
+    "endTime": 572.26,
+    "text": "So all of the green areas,"
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 575.26,
+    "text": "these are your target-rich environments."
+  },
+  {
+    "startTime": 575.26,
+    "endTime": 578.26,
+    "text": "We have to face the consequences,"
+  },
+  {
+    "startTime": 578.26,
+    "endTime": 581.26,
+    "text": "and we better start to prepare right now."
+  },
+  {
+    "startTime": 581.26,
+    "endTime": 583.26,
+    "text": "Thanks."
+  },
+  {
+    "startTime": 583.26,
+    "endTime": 589.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 589.26,
+    "endTime": 591.26,
+    "text": "Chris Anderson: I've got a question."
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 595.26,
+    "text": "Ralph, it's been quite widely reported"
+  },
+  {
+    "startTime": 595.26,
+    "endTime": 597.26,
+    "text": "that people assume that Mossad"
+  },
+  {
+    "startTime": 597.26,
+    "endTime": 599.26,
+    "text": "is the main entity behind this."
+  },
+  {
+    "startTime": 599.26,
+    "endTime": 602.26,
+    "text": "Is that your opinion?"
+  },
+  {
+    "startTime": 602.26,
+    "endTime": 604.26,
+    "text": "Ralph Langner: Okay, you really want to hear that?"
+  },
+  {
+    "startTime": 604.26,
+    "endTime": 606.26,
+    "text": "Yeah. Okay."
+  },
+  {
+    "startTime": 606.26,
+    "endTime": 609.26,
+    "text": "My opinion is that the Mossad is involved,"
+  },
+  {
+    "startTime": 609.26,
+    "endTime": 612.26,
+    "text": "but that the leading force is not Israel."
+  },
+  {
+    "startTime": 612.26,
+    "endTime": 614.26,
+    "text": "So the leading force behind that"
+  },
+  {
+    "startTime": 614.26,
+    "endTime": 617.26,
+    "text": "is the cyber superpower."
+  },
+  {
+    "startTime": 617.26,
+    "endTime": 619.26,
+    "text": "There is only one,"
+  },
+  {
+    "startTime": 619.26,
+    "endTime": 621.26,
+    "text": "and that's the United States --"
+  },
+  {
+    "startTime": 621.26,
+    "endTime": 623.26,
+    "text": "fortunately, fortunately."
+  },
+  {
+    "startTime": 623.26,
+    "endTime": 625.26,
+    "text": "Because otherwise,"
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 628.26,
+    "text": "our problems would even be bigger."
+  },
+  {
+    "startTime": 628.26,
+    "endTime": 632.26,
+    "text": "CA: Thank you for scaring the living daylights out of us. Thank you, Ralph."
+  },
+  {
+    "startTime": 632.26,
+    "endTime": 634.26,
+    "text": "(Applause)"
+  }
+]

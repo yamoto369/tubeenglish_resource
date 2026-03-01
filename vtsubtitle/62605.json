@@ -1,0 +1,677 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 17.259,
+    "text": "So, if you're in the audience today,"
+  },
+  {
+    "startTime": 17.26,
+    "endTime": 20.26,
+    "text": "or maybe you're watching this talk in some other time or place,"
+  },
+  {
+    "startTime": 20.26,
+    "endTime": 23.26,
+    "text": "you are a participant in the digital rights ecosystem."
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 25.26,
+    "text": "Whether you're an artist, a technologist,"
+  },
+  {
+    "startTime": 25.26,
+    "endTime": 27.26,
+    "text": "a lawyer or a fan,"
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 30.26,
+    "text": "the handling of copyright directly impacts your life."
+  },
+  {
+    "startTime": 30.26,
+    "endTime": 32.260000000000005,
+    "text": "Rights management is no longer"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 35.26,
+    "text": "simply a question of ownership,"
+  },
+  {
+    "startTime": 35.26,
+    "endTime": 37.26,
+    "text": "it's a complex web of relationships"
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 40.26,
+    "text": "and a critical part of our cultural landscape."
+  },
+  {
+    "startTime": 40.26,
+    "endTime": 43.26,
+    "text": "YouTube cares deeply about the rights of content owners,"
+  },
+  {
+    "startTime": 43.26,
+    "endTime": 45.26,
+    "text": "but in order to give them choices about what they can do"
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 48.26,
+    "text": "with copies, mashups and more,"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 50.26,
+    "text": "we need to first identify"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 53.26,
+    "text": "when copyrighted material is uploaded to our site."
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 56.26,
+    "text": "Let's look at a specific video so you can see how it works."
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "Two years ago, recording artist Chris Brown"
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 61.26,
+    "text": "released the official video of his single \"Forever.\""
+  },
+  {
+    "startTime": 61.26,
+    "endTime": 63.26,
+    "text": "A fan saw it on TV,"
+  },
+  {
+    "startTime": 63.26,
+    "endTime": 65.259,
+    "text": "recorded it with her camera phone,"
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 68.26,
+    "text": "and uploaded it to YouTube."
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 71.26,
+    "text": "Because Sony Music had registered Chris Brown's video"
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 73.26,
+    "text": "in our Content ID system,"
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 75.26,
+    "text": "within seconds of attempting to upload the video,"
+  },
+  {
+    "startTime": 75.26,
+    "endTime": 77.26,
+    "text": "the copy was detected,"
+  },
+  {
+    "startTime": 77.26,
+    "endTime": 80.26,
+    "text": "giving Sony the choice of what to do next."
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 83.26,
+    "text": "But how do we know that the user's video was a copy?"
+  },
+  {
+    "startTime": 83.26,
+    "endTime": 85.26,
+    "text": "Well, it starts with content owners"
+  },
+  {
+    "startTime": 85.26,
+    "endTime": 87.26,
+    "text": "delivering assets into our database,"
+  },
+  {
+    "startTime": 87.26,
+    "endTime": 89.26,
+    "text": "along with a usage policy"
+  },
+  {
+    "startTime": 89.26,
+    "endTime": 92.26,
+    "text": "that tells us what to do when we find a match."
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 95.26,
+    "text": "We compare each upload"
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 98.26,
+    "text": "against all of the reference files in our database."
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 100.26,
+    "text": "This heat map is going to show you"
+  },
+  {
+    "startTime": 100.26,
+    "endTime": 102.26,
+    "text": "how the brain of the system works."
+  },
+  {
+    "startTime": 102.26,
+    "endTime": 104.26,
+    "text": "Here we can see the original reference file"
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 107.26,
+    "text": "being compared to the user generated content."
+  },
+  {
+    "startTime": 108.26,
+    "endTime": 110.26,
+    "text": "The system compares every moment"
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 112.26,
+    "text": "of one to the other to see if there's a match."
+  },
+  {
+    "startTime": 112.26,
+    "endTime": 114.26,
+    "text": "This means that we can identify a match"
+  },
+  {
+    "startTime": 114.26,
+    "endTime": 117.26,
+    "text": "even if the copy used is just a portion of the original file,"
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 119.26,
+    "text": "plays it in slow motion"
+  },
+  {
+    "startTime": 119.26,
+    "endTime": 122.26,
+    "text": "and has degraded audio and video quality."
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "And we do this every time"
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 126.26,
+    "text": "that a video is uploaded to YouTube."
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 129.25900000000001,
+    "text": "And that's over 20 hours of video every minute."
+  },
+  {
+    "startTime": 129.259,
+    "endTime": 131.26,
+    "text": "When we find a match,"
+  },
+  {
+    "startTime": 131.26,
+    "endTime": 134.26,
+    "text": "we apply the policy that the rights owner has set down."
+  },
+  {
+    "startTime": 135.26,
+    "endTime": 138.26,
+    "text": "And the scale and the speed of this system"
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 140.26,
+    "text": "is truly breathtaking."
+  },
+  {
+    "startTime": 140.26,
+    "endTime": 143.26,
+    "text": "We're not just talking about a few videos,"
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 145.26,
+    "text": "we're talking about over"
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 148.26,
+    "text": "100 years of video every day,"
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 150.26,
+    "text": "between new uploads and the legacy scans"
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 153.26,
+    "text": "we regularly do across all of the content on the site."
+  },
+  {
+    "startTime": 154.26,
+    "endTime": 156.26,
+    "text": "When we compare those hundred years of video,"
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "we're comparing it against millions"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 160.26,
+    "text": "of reference files in our database."
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 162.26,
+    "text": "It would be like 36,000 people"
+  },
+  {
+    "startTime": 162.26,
+    "endTime": 165.26,
+    "text": "staring at 36,000 monitors"
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 168.26,
+    "text": "each and every day, without so much as a coffee break."
+  },
+  {
+    "startTime": 168.26,
+    "endTime": 171.26,
+    "text": "Now, what do we do when we find a match?"
+  },
+  {
+    "startTime": 171.26,
+    "endTime": 174.26,
+    "text": "Well, most rights owners, instead of blocking,"
+  },
+  {
+    "startTime": 174.26,
+    "endTime": 176.26,
+    "text": "will allow the copy to be published."
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 178.26,
+    "text": "And then they benefit through the exposure,"
+  },
+  {
+    "startTime": 178.26,
+    "endTime": 181.26,
+    "text": "advertising and linked sales."
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 183.26,
+    "text": "Remember Chris Brown's video \"Forever\"?"
+  },
+  {
+    "startTime": 183.26,
+    "endTime": 185.26,
+    "text": "Well, it had its day in the sun and then it dropped off the charts,"
+  },
+  {
+    "startTime": 185.26,
+    "endTime": 188.26,
+    "text": "and that looked like the end of the story,"
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 190.26,
+    "text": "but sometime last year, a young couple got married."
+  },
+  {
+    "startTime": 190.26,
+    "endTime": 192.26,
+    "text": "This is their wedding video."
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "You may have seen it."
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 196.26,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 198.26,
+    "text": "What's amazing about this is,"
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 200.26,
+    "text": "if the processional of the wedding was this much fun,"
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 202.26,
+    "text": "can you imagine how much fun the reception must have been?"
+  },
+  {
+    "startTime": 202.26,
+    "endTime": 204.26,
+    "text": "I mean, who are these people?"
+  },
+  {
+    "startTime": 204.26,
+    "endTime": 207.26,
+    "text": "I totally want to go to that wedding."
+  },
+  {
+    "startTime": 207.26,
+    "endTime": 209.26,
+    "text": "So their little wedding video went on"
+  },
+  {
+    "startTime": 209.26,
+    "endTime": 212.26,
+    "text": "to get over 40 million views."
+  },
+  {
+    "startTime": 212.26,
+    "endTime": 214.26,
+    "text": "And instead of Sony blocking,"
+  },
+  {
+    "startTime": 214.26,
+    "endTime": 216.26,
+    "text": "they allowed the upload to occur."
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 218.26,
+    "text": "And they put advertising against it"
+  },
+  {
+    "startTime": 218.26,
+    "endTime": 220.26,
+    "text": "and linked from it to iTunes."
+  },
+  {
+    "startTime": 220.26,
+    "endTime": 223.26,
+    "text": "And the song, 18 months old,"
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 226.26,
+    "text": "went back to number four on the iTunes charts."
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 229.26,
+    "text": "So Sony is generating revenue from both of these."
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 231.26,
+    "text": "And Jill and Kevin, the happy couple,"
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 233.26,
+    "text": "they came back from their honeymoon"
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 235.26,
+    "text": "and found that their video had gone crazy viral."
+  },
+  {
+    "startTime": 235.26,
+    "endTime": 238.26,
+    "text": "And they've ended up on a bunch of talk shows,"
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 240.26,
+    "text": "and they've used it as an opportunity to make a difference."
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 243.26,
+    "text": "The video's inspired over 26,000 dollars in donations"
+  },
+  {
+    "startTime": 243.26,
+    "endTime": 245.26,
+    "text": "to end domestic violence."
+  },
+  {
+    "startTime": 245.26,
+    "endTime": 248.26,
+    "text": "The \"JK Wedding [Entrance] Dance\" became so popular"
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 251.26,
+    "text": "that NBC parodied it on the season finale of \"The Office,\""
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 253.26,
+    "text": "which just goes to show,"
+  },
+  {
+    "startTime": 253.26,
+    "endTime": 256.26,
+    "text": "it's truly an ecosystem of culture."
+  },
+  {
+    "startTime": 256.26,
+    "endTime": 259.26,
+    "text": "Because it's not just amateurs borrowing from big studios,"
+  },
+  {
+    "startTime": 259.26,
+    "endTime": 262.26,
+    "text": "but sometimes big studios borrowing back."
+  },
+  {
+    "startTime": 262.26,
+    "endTime": 265.26,
+    "text": "By empowering choice, we can create a culture of opportunity."
+  },
+  {
+    "startTime": 265.26,
+    "endTime": 267.26,
+    "text": "And all it took to change things around"
+  },
+  {
+    "startTime": 267.26,
+    "endTime": 270.26,
+    "text": "was to allow for choice through rights identification."
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 273.26,
+    "text": "So why has no one ever solved this problem before?"
+  },
+  {
+    "startTime": 273.26,
+    "endTime": 275.26,
+    "text": "It's because it's a big problem,"
+  },
+  {
+    "startTime": 275.26,
+    "endTime": 277.26,
+    "text": "and it's complicated and messy."
+  },
+  {
+    "startTime": 277.26,
+    "endTime": 279.26,
+    "text": "It's not uncommon for a single video"
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 281.26,
+    "text": "to have multiple rights owners."
+  },
+  {
+    "startTime": 281.26,
+    "endTime": 283.26,
+    "text": "There's musical labels."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 285.26,
+    "text": "There's multiple music publishers."
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 287.26,
+    "text": "And each of these can vary by country."
+  },
+  {
+    "startTime": 287.26,
+    "endTime": 289.26,
+    "text": "There's lots of cases"
+  },
+  {
+    "startTime": 289.26,
+    "endTime": 291.26,
+    "text": "where we have more than one work mashed together."
+  },
+  {
+    "startTime": 291.26,
+    "endTime": 293.26,
+    "text": "So we have to manage many claims"
+  },
+  {
+    "startTime": 293.26,
+    "endTime": 295.26,
+    "text": "to the same video."
+  },
+  {
+    "startTime": 295.26,
+    "endTime": 298.26,
+    "text": "YouTube's Content ID system addresses all of these cases."
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.26,
+    "text": "But the system only works through"
+  },
+  {
+    "startTime": 300.26,
+    "endTime": 302.26,
+    "text": "the participation of rights owners."
+  },
+  {
+    "startTime": 302.26,
+    "endTime": 305.26,
+    "text": "If you have content that others are uploading to YouTube,"
+  },
+  {
+    "startTime": 305.26,
+    "endTime": 307.26,
+    "text": "you should register in the Content ID system,"
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 309.26,
+    "text": "and then you'll have the choice"
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 311.26,
+    "text": "about how your content is used."
+  },
+  {
+    "startTime": 311.26,
+    "endTime": 314.26,
+    "text": "And think carefully about the policies that you attach to that content."
+  },
+  {
+    "startTime": 314.26,
+    "endTime": 316.26,
+    "text": "By simply blocking all reuse,"
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 318.26,
+    "text": "you'll miss out on new art forms,"
+  },
+  {
+    "startTime": 318.26,
+    "endTime": 320.26,
+    "text": "new audiences,"
+  },
+  {
+    "startTime": 320.26,
+    "endTime": 322.26,
+    "text": "new distribution channels"
+  },
+  {
+    "startTime": 322.26,
+    "endTime": 324.26,
+    "text": "and new revenue streams."
+  },
+  {
+    "startTime": 324.26,
+    "endTime": 327.26,
+    "text": "But it's not just about dollars and impressions."
+  },
+  {
+    "startTime": 327.26,
+    "endTime": 329.26,
+    "text": "Just look at all the joy"
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "that was spread through progressive rights management"
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 333.26,
+    "text": "and new technology."
+  },
+  {
+    "startTime": 333.26,
+    "endTime": 336.26,
+    "text": "And I think we can all agree that joy is definitely an idea worth spreading."
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 338.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 340.26,
+    "text": "(Applause)"
+  }
+]

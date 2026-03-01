@@ -1,0 +1,2062 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 19.259,
+    "text": "I will start by posing a little bit of a challenge:"
+  },
+  {
+    "startTime": 19.26,
+    "endTime": 22.26,
+    "text": "the challenge of dealing with data,"
+  },
+  {
+    "startTime": 22.26,
+    "endTime": 24.26,
+    "text": "data that we have to deal with"
+  },
+  {
+    "startTime": 24.26,
+    "endTime": 26.26,
+    "text": "in medical situations."
+  },
+  {
+    "startTime": 26.26,
+    "endTime": 28.26,
+    "text": "It's really a huge challenge for us."
+  },
+  {
+    "startTime": 28.26,
+    "endTime": 30.26,
+    "text": "And this is our beast of burden --"
+  },
+  {
+    "startTime": 30.26,
+    "endTime": 32.260000000000005,
+    "text": "this is a Computer Tomography machine,"
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 34.26,
+    "text": "a CT machine."
+  },
+  {
+    "startTime": 34.26,
+    "endTime": 36.26,
+    "text": "It's a fantastic device."
+  },
+  {
+    "startTime": 36.26,
+    "endTime": 38.26,
+    "text": "It uses X-rays, X-ray beams,"
+  },
+  {
+    "startTime": 38.26,
+    "endTime": 41.26,
+    "text": "that are rotating very fast around the human body."
+  },
+  {
+    "startTime": 41.26,
+    "endTime": 43.26,
+    "text": "It takes about 30 seconds to go through the whole machine"
+  },
+  {
+    "startTime": 43.26,
+    "endTime": 45.26,
+    "text": "and is generating enormous amounts of information"
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 47.26,
+    "text": "that comes out of the machine."
+  },
+  {
+    "startTime": 47.26,
+    "endTime": 49.26,
+    "text": "So this is a fantastic machine"
+  },
+  {
+    "startTime": 49.26,
+    "endTime": 51.26,
+    "text": "that we can use"
+  },
+  {
+    "startTime": 51.26,
+    "endTime": 53.26,
+    "text": "for improving health care,"
+  },
+  {
+    "startTime": 53.26,
+    "endTime": 55.26,
+    "text": "but as I said, it's also a challenge for us."
+  },
+  {
+    "startTime": 55.26,
+    "endTime": 58.26,
+    "text": "And the challenge is really found in this picture here."
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 60.26,
+    "text": "It's the medical data explosion"
+  },
+  {
+    "startTime": 60.26,
+    "endTime": 62.26,
+    "text": "that we're having right now."
+  },
+  {
+    "startTime": 62.26,
+    "endTime": 64.259,
+    "text": "We're facing this problem."
+  },
+  {
+    "startTime": 64.26,
+    "endTime": 66.26,
+    "text": "And let me step back in time."
+  },
+  {
+    "startTime": 66.26,
+    "endTime": 69.26,
+    "text": "Let's go back a few years in time and see what happened back then."
+  },
+  {
+    "startTime": 69.26,
+    "endTime": 71.26,
+    "text": "These machines that came out --"
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 73.26,
+    "text": "they started coming in the 1970s --"
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 75.26,
+    "text": "they would scan human bodies,"
+  },
+  {
+    "startTime": 75.26,
+    "endTime": 77.26,
+    "text": "and they would generate about 100 images"
+  },
+  {
+    "startTime": 77.26,
+    "endTime": 79.26,
+    "text": "of the human body."
+  },
+  {
+    "startTime": 79.26,
+    "endTime": 81.26,
+    "text": "And I've taken the liberty, just for clarity,"
+  },
+  {
+    "startTime": 81.26,
+    "endTime": 84.26,
+    "text": "to translate that to data slices."
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 86.26,
+    "text": "That would correspond to about 50 megabytes of data,"
+  },
+  {
+    "startTime": 86.26,
+    "endTime": 88.26,
+    "text": "which is small"
+  },
+  {
+    "startTime": 88.26,
+    "endTime": 91.26,
+    "text": "when you think about the data we can handle today"
+  },
+  {
+    "startTime": 91.26,
+    "endTime": 93.26,
+    "text": "just on normal mobile devices."
+  },
+  {
+    "startTime": 93.26,
+    "endTime": 95.26,
+    "text": "If you translate that to phone books,"
+  },
+  {
+    "startTime": 95.26,
+    "endTime": 98.26,
+    "text": "it's about one meter of phone books in the pile."
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 100.26,
+    "text": "Looking at what we're doing today"
+  },
+  {
+    "startTime": 100.26,
+    "endTime": 102.26,
+    "text": "with these machines that we have,"
+  },
+  {
+    "startTime": 102.26,
+    "endTime": 104.26,
+    "text": "we can, just in a few seconds,"
+  },
+  {
+    "startTime": 104.26,
+    "endTime": 106.26,
+    "text": "get 24,000 images out of a body,"
+  },
+  {
+    "startTime": 106.26,
+    "endTime": 109.26,
+    "text": "and that would correspond to about 20 gigabytes of data,"
+  },
+  {
+    "startTime": 109.26,
+    "endTime": 111.26,
+    "text": "or 800 phone books,"
+  },
+  {
+    "startTime": 111.26,
+    "endTime": 113.26,
+    "text": "and the pile would then be 200 meters of phone books."
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 115.26,
+    "text": "What's about to happen --"
+  },
+  {
+    "startTime": 115.26,
+    "endTime": 117.26,
+    "text": "and we're seeing this; it's beginning --"
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 119.26,
+    "text": "a technology trend that's happening right now"
+  },
+  {
+    "startTime": 119.26,
+    "endTime": 122.26,
+    "text": "is that we're starting to look at time-resolved situations as well."
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 125.26,
+    "text": "So we're getting the dynamics out of the body as well."
+  },
+  {
+    "startTime": 125.26,
+    "endTime": 127.26,
+    "text": "And just assume"
+  },
+  {
+    "startTime": 127.26,
+    "endTime": 130.25900000000001,
+    "text": "that we will be collecting data during five seconds,"
+  },
+  {
+    "startTime": 130.259,
+    "endTime": 132.26,
+    "text": "and that would correspond to one terabyte of data --"
+  },
+  {
+    "startTime": 132.26,
+    "endTime": 134.26,
+    "text": "that's 800,000 books"
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 136.26,
+    "text": "and 16 kilometers of phone books."
+  },
+  {
+    "startTime": 136.26,
+    "endTime": 138.26,
+    "text": "That's one patient, one data set."
+  },
+  {
+    "startTime": 138.26,
+    "endTime": 140.26,
+    "text": "And this is what we have to deal with."
+  },
+  {
+    "startTime": 140.26,
+    "endTime": 143.26,
+    "text": "So this is really the enormous challenge that we have."
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 146.26,
+    "text": "And already today -- this is 25,000 images."
+  },
+  {
+    "startTime": 146.26,
+    "endTime": 148.26,
+    "text": "Imagine the days"
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 150.26,
+    "text": "when we had radiologists doing this."
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 152.26,
+    "text": "They would put up 25,000 images,"
+  },
+  {
+    "startTime": 152.26,
+    "endTime": 155.26,
+    "text": "they would go like this, \"25,0000, okay, okay."
+  },
+  {
+    "startTime": 155.26,
+    "endTime": 157.26,
+    "text": "There is the problem.\""
+  },
+  {
+    "startTime": 157.26,
+    "endTime": 159.26,
+    "text": "They can't do that anymore. That's impossible."
+  },
+  {
+    "startTime": 159.26,
+    "endTime": 162.26,
+    "text": "So we have to do something that's a little bit more intelligent than doing this."
+  },
+  {
+    "startTime": 163.26,
+    "endTime": 165.26,
+    "text": "So what we do is that we put all these slices together."
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 168.26,
+    "text": "Imagine that you slice your body in all these directions,"
+  },
+  {
+    "startTime": 168.26,
+    "endTime": 171.26,
+    "text": "and then you try to put the slices back together again"
+  },
+  {
+    "startTime": 171.26,
+    "endTime": 173.26,
+    "text": "into a pile of data, into a block of data."
+  },
+  {
+    "startTime": 173.26,
+    "endTime": 175.26,
+    "text": "So this is really what we're doing."
+  },
+  {
+    "startTime": 175.26,
+    "endTime": 178.26,
+    "text": "So this gigabyte or terabyte of data, we're putting it into this block."
+  },
+  {
+    "startTime": 178.26,
+    "endTime": 180.26,
+    "text": "But of course, the block of data"
+  },
+  {
+    "startTime": 180.26,
+    "endTime": 182.26,
+    "text": "just contains the amount of X-ray"
+  },
+  {
+    "startTime": 182.26,
+    "endTime": 184.26,
+    "text": "that's been absorbed in each point in the human body."
+  },
+  {
+    "startTime": 184.26,
+    "endTime": 186.26,
+    "text": "So what we need to do is to figure out a way"
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 189.26,
+    "text": "of looking at the things we do want to look at"
+  },
+  {
+    "startTime": 189.26,
+    "endTime": 192.26,
+    "text": "and make things transparent that we don't want to look at."
+  },
+  {
+    "startTime": 192.26,
+    "endTime": 194.26,
+    "text": "So transforming the data set"
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 196.26,
+    "text": "into something that looks like this."
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 198.26,
+    "text": "And this is a challenge."
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 201.26,
+    "text": "This is a huge challenge for us to do that."
+  },
+  {
+    "startTime": 201.26,
+    "endTime": 204.26,
+    "text": "Using computers, even though they're getting faster and better all the time,"
+  },
+  {
+    "startTime": 204.26,
+    "endTime": 206.26,
+    "text": "it's a challenge to deal with gigabytes of data,"
+  },
+  {
+    "startTime": 206.26,
+    "endTime": 208.26,
+    "text": "terabytes of data"
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 210.26,
+    "text": "and extracting the relevant information."
+  },
+  {
+    "startTime": 210.26,
+    "endTime": 212.26,
+    "text": "I want to look at the heart."
+  },
+  {
+    "startTime": 212.26,
+    "endTime": 214.26,
+    "text": "I want to look at the blood vessels. I want to look at the liver."
+  },
+  {
+    "startTime": 214.26,
+    "endTime": 216.26,
+    "text": "Maybe even find a tumor,"
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 218.26,
+    "text": "in some cases."
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 221.26,
+    "text": "So this is where this little dear comes into play."
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 223.26,
+    "text": "This is my daughter."
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 225.26,
+    "text": "This is as of 9 a.m. this morning."
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 227.26,
+    "text": "She's playing a computer game."
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 229.26,
+    "text": "She's only two years old,"
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 231.26,
+    "text": "and she's having a blast."
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 234.26,
+    "text": "So she's really the driving force"
+  },
+  {
+    "startTime": 234.26,
+    "endTime": 237.26,
+    "text": "behind the development of graphics-processing units."
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 240.26,
+    "text": "As long as kids are playing computer games,"
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 242.26,
+    "text": "graphics is getting better and better and better."
+  },
+  {
+    "startTime": 242.26,
+    "endTime": 244.26,
+    "text": "So please go back home, tell your kids to play more games,"
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 246.26,
+    "text": "because that's what I need."
+  },
+  {
+    "startTime": 246.26,
+    "endTime": 248.26,
+    "text": "So what's inside of this machine"
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 250.26,
+    "text": "is what enables me to do the things that I'm doing"
+  },
+  {
+    "startTime": 250.26,
+    "endTime": 252.26,
+    "text": "with the medical data."
+  },
+  {
+    "startTime": 252.26,
+    "endTime": 255.26,
+    "text": "So really what I'm doing is using these fantastic little devices."
+  },
+  {
+    "startTime": 255.26,
+    "endTime": 257.26,
+    "text": "And you know, going back"
+  },
+  {
+    "startTime": 257.26,
+    "endTime": 259.26,
+    "text": "maybe 10 years in time"
+  },
+  {
+    "startTime": 259.26,
+    "endTime": 261.26,
+    "text": "when I got the funding"
+  },
+  {
+    "startTime": 261.26,
+    "endTime": 263.26,
+    "text": "to buy my first graphics computer --"
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 265.26,
+    "text": "it was a huge machine."
+  },
+  {
+    "startTime": 265.26,
+    "endTime": 268.26,
+    "text": "It was cabinets of processors and storage and everything."
+  },
+  {
+    "startTime": 268.26,
+    "endTime": 271.26,
+    "text": "I paid about one million dollars for that machine."
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 275.26,
+    "text": "That machine is, today, about as fast as my iPhone."
+  },
+  {
+    "startTime": 277.26,
+    "endTime": 279.26,
+    "text": "So every month there are new graphics cards coming out,"
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 282.26,
+    "text": "and here is a few of the latest ones from the vendors --"
+  },
+  {
+    "startTime": 282.26,
+    "endTime": 285.26,
+    "text": "NVIDIA, ATI, Intel is out there as well."
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 287.26,
+    "text": "And you know, for a few hundred bucks"
+  },
+  {
+    "startTime": 287.26,
+    "endTime": 289.26,
+    "text": "you can get these things and put them into your computer,"
+  },
+  {
+    "startTime": 289.26,
+    "endTime": 292.26,
+    "text": "and you can do fantastic things with these graphics cards."
+  },
+  {
+    "startTime": 292.26,
+    "endTime": 294.26,
+    "text": "So this is really what's enabling us"
+  },
+  {
+    "startTime": 294.26,
+    "endTime": 297.26,
+    "text": "to deal with the explosion of data in medicine,"
+  },
+  {
+    "startTime": 297.26,
+    "endTime": 299.26,
+    "text": "together with some really nifty work"
+  },
+  {
+    "startTime": 299.26,
+    "endTime": 301.26,
+    "text": "in terms of algorithms --"
+  },
+  {
+    "startTime": 301.26,
+    "endTime": 303.26,
+    "text": "compressing data,"
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 306.26,
+    "text": "extracting the relevant information that people are doing research on."
+  },
+  {
+    "startTime": 306.26,
+    "endTime": 309.26,
+    "text": "So I'm going to show you a few examples of what we can do."
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 312.26,
+    "text": "This is a data set that was captured using a CT scanner."
+  },
+  {
+    "startTime": 312.26,
+    "endTime": 315.26,
+    "text": "You can see that this is a full data [set]."
+  },
+  {
+    "startTime": 315.26,
+    "endTime": 318.26,
+    "text": "It's a woman. You can see the hair."
+  },
+  {
+    "startTime": 318.26,
+    "endTime": 321.26,
+    "text": "You can see the individual structures of the woman."
+  },
+  {
+    "startTime": 321.26,
+    "endTime": 324.26,
+    "text": "You can see that there is [a] scattering of X-rays"
+  },
+  {
+    "startTime": 324.26,
+    "endTime": 326.26,
+    "text": "on the teeth, the metal in the teeth."
+  },
+  {
+    "startTime": 326.26,
+    "endTime": 329.26,
+    "text": "That's where those artifacts are coming from."
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "But fully interactively"
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 334.26,
+    "text": "on standard graphics cards on a normal computer,"
+  },
+  {
+    "startTime": 334.26,
+    "endTime": 336.26,
+    "text": "I can just put in a clip plane."
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 338.26,
+    "text": "And of course all the data is inside,"
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 341.26,
+    "text": "so I can start rotating, I can look at it from different angles,"
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 344.26,
+    "text": "and I can see that this woman had a problem."
+  },
+  {
+    "startTime": 344.26,
+    "endTime": 346.26,
+    "text": "She had a bleeding up in the brain,"
+  },
+  {
+    "startTime": 346.26,
+    "endTime": 348.26,
+    "text": "and that's been fixed with a little stent,"
+  },
+  {
+    "startTime": 348.26,
+    "endTime": 350.26,
+    "text": "a metal clamp that's tightening up the vessel."
+  },
+  {
+    "startTime": 350.26,
+    "endTime": 352.26,
+    "text": "And just by changing the functions,"
+  },
+  {
+    "startTime": 352.26,
+    "endTime": 355.26,
+    "text": "then I can decide what's going to be transparent"
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 357.26,
+    "text": "and what's going to be visible."
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 359.26,
+    "text": "I can look at the skull structure,"
+  },
+  {
+    "startTime": 359.26,
+    "endTime": 362.26,
+    "text": "and I can see that, okay, this is where they opened up the skull on this woman,"
+  },
+  {
+    "startTime": 362.26,
+    "endTime": 364.26,
+    "text": "and that's where they went in."
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 366.26,
+    "text": "So these are fantastic images."
+  },
+  {
+    "startTime": 366.26,
+    "endTime": 368.26,
+    "text": "They're really high resolution,"
+  },
+  {
+    "startTime": 368.26,
+    "endTime": 370.26,
+    "text": "and they're really showing us what we can do"
+  },
+  {
+    "startTime": 370.26,
+    "endTime": 373.26,
+    "text": "with standard graphics cards today."
+  },
+  {
+    "startTime": 373.26,
+    "endTime": 375.26,
+    "text": "Now we have really made use of this,"
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 378.26,
+    "text": "and we have tried to squeeze a lot of data"
+  },
+  {
+    "startTime": 378.26,
+    "endTime": 380.26,
+    "text": "into the system."
+  },
+  {
+    "startTime": 380.26,
+    "endTime": 382.26,
+    "text": "And one of the applications that we've been working on --"
+  },
+  {
+    "startTime": 382.26,
+    "endTime": 385.26,
+    "text": "and this has gotten a little bit of traction worldwide --"
+  },
+  {
+    "startTime": 385.26,
+    "endTime": 387.26,
+    "text": "is the application of virtual autopsies."
+  },
+  {
+    "startTime": 387.26,
+    "endTime": 389.26,
+    "text": "So again, looking at very, very large data sets,"
+  },
+  {
+    "startTime": 389.26,
+    "endTime": 392.26,
+    "text": "and you saw those full-body scans that we can do."
+  },
+  {
+    "startTime": 392.26,
+    "endTime": 395.26,
+    "text": "We're just pushing the body through the whole CT scanner,"
+  },
+  {
+    "startTime": 395.26,
+    "endTime": 398.26,
+    "text": "and just in a few seconds we can get a full-body data set."
+  },
+  {
+    "startTime": 398.26,
+    "endTime": 400.26,
+    "text": "So this is from a virtual autopsy."
+  },
+  {
+    "startTime": 400.26,
+    "endTime": 402.26,
+    "text": "And you can see how I'm gradually peeling off."
+  },
+  {
+    "startTime": 402.26,
+    "endTime": 405.26,
+    "text": "First you saw the body bag that the body came in,"
+  },
+  {
+    "startTime": 405.26,
+    "endTime": 408.26,
+    "text": "then I'm peeling off the skin -- you can see the muscles --"
+  },
+  {
+    "startTime": 408.26,
+    "endTime": 411.26,
+    "text": "and eventually you can see the bone structure of this woman."
+  },
+  {
+    "startTime": 411.26,
+    "endTime": 414.26,
+    "text": "Now at this point, I would also like to emphasize"
+  },
+  {
+    "startTime": 414.26,
+    "endTime": 416.26,
+    "text": "that, with the greatest respect"
+  },
+  {
+    "startTime": 416.26,
+    "endTime": 418.26,
+    "text": "for the people that I'm now going to show --"
+  },
+  {
+    "startTime": 418.26,
+    "endTime": 420.26,
+    "text": "I'm going to show you a few cases of virtual autopsies --"
+  },
+  {
+    "startTime": 420.26,
+    "endTime": 422.26,
+    "text": "so it's with great respect for the people"
+  },
+  {
+    "startTime": 422.26,
+    "endTime": 424.26,
+    "text": "that have died under violent circumstances"
+  },
+  {
+    "startTime": 424.26,
+    "endTime": 427.26,
+    "text": "that I'm showing these pictures to you."
+  },
+  {
+    "startTime": 428.26,
+    "endTime": 430.26,
+    "text": "In the forensic case --"
+  },
+  {
+    "startTime": 430.26,
+    "endTime": 432.26,
+    "text": "and this is something"
+  },
+  {
+    "startTime": 432.26,
+    "endTime": 434.26,
+    "text": "that ... there's been approximately 400 cases so far"
+  },
+  {
+    "startTime": 434.26,
+    "endTime": 436.26,
+    "text": "just in the part of Sweden that I come from"
+  },
+  {
+    "startTime": 436.26,
+    "endTime": 438.26,
+    "text": "that has been undergoing virtual autopsies"
+  },
+  {
+    "startTime": 438.26,
+    "endTime": 440.26,
+    "text": "in the past four years."
+  },
+  {
+    "startTime": 440.26,
+    "endTime": 443.26,
+    "text": "So this will be the typical workflow situation."
+  },
+  {
+    "startTime": 443.26,
+    "endTime": 445.26,
+    "text": "The police will decide --"
+  },
+  {
+    "startTime": 445.26,
+    "endTime": 447.26,
+    "text": "in the evening, when there's a case coming in --"
+  },
+  {
+    "startTime": 447.26,
+    "endTime": 450.26,
+    "text": "they will decide, okay, is this a case where we need to do an autopsy?"
+  },
+  {
+    "startTime": 450.26,
+    "endTime": 453.26,
+    "text": "So in the morning, in between six and seven in the morning,"
+  },
+  {
+    "startTime": 453.26,
+    "endTime": 455.26,
+    "text": "the body is then transported inside of the body bag"
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 457.26,
+    "text": "to our center"
+  },
+  {
+    "startTime": 457.26,
+    "endTime": 459.26,
+    "text": "and is being scanned through one of the CT scanners."
+  },
+  {
+    "startTime": 459.26,
+    "endTime": 461.26,
+    "text": "And then the radiologist, together with the pathologist"
+  },
+  {
+    "startTime": 461.26,
+    "endTime": 463.26,
+    "text": "and sometimes the forensic scientist,"
+  },
+  {
+    "startTime": 463.26,
+    "endTime": 465.26,
+    "text": "looks at the data that's coming out,"
+  },
+  {
+    "startTime": 465.26,
+    "endTime": 467.26,
+    "text": "and they have a joint session."
+  },
+  {
+    "startTime": 467.26,
+    "endTime": 470.26,
+    "text": "And then they decide what to do in the real physical autopsy after that."
+  },
+  {
+    "startTime": 472.26,
+    "endTime": 474.26,
+    "text": "Now looking at a few cases,"
+  },
+  {
+    "startTime": 474.26,
+    "endTime": 476.26,
+    "text": "here's one of the first cases that we had."
+  },
+  {
+    "startTime": 476.26,
+    "endTime": 479.26,
+    "text": "You can really see the details of the data set."
+  },
+  {
+    "startTime": 479.26,
+    "endTime": 481.26,
+    "text": "It's very high-resolution,"
+  },
+  {
+    "startTime": 481.26,
+    "endTime": 483.26,
+    "text": "and it's our algorithms that allow us"
+  },
+  {
+    "startTime": 483.26,
+    "endTime": 485.26,
+    "text": "to zoom in on all the details."
+  },
+  {
+    "startTime": 485.26,
+    "endTime": 487.26,
+    "text": "And again, it's fully interactive,"
+  },
+  {
+    "startTime": 487.26,
+    "endTime": 489.26,
+    "text": "so you can rotate and you can look at things in real time"
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 491.26,
+    "text": "on these systems here."
+  },
+  {
+    "startTime": 491.26,
+    "endTime": 493.26,
+    "text": "Without saying too much about this case,"
+  },
+  {
+    "startTime": 493.26,
+    "endTime": 495.26,
+    "text": "this is a traffic accident,"
+  },
+  {
+    "startTime": 495.26,
+    "endTime": 497.26,
+    "text": "a drunk driver hit a woman."
+  },
+  {
+    "startTime": 497.26,
+    "endTime": 500.26,
+    "text": "And it's very, very easy to see the damages on the bone structure."
+  },
+  {
+    "startTime": 500.26,
+    "endTime": 503.26,
+    "text": "And the cause of death is the broken neck."
+  },
+  {
+    "startTime": 503.26,
+    "endTime": 505.26,
+    "text": "And this women also ended up under the car,"
+  },
+  {
+    "startTime": 505.26,
+    "endTime": 507.26,
+    "text": "so she's quite badly beaten up"
+  },
+  {
+    "startTime": 507.26,
+    "endTime": 509.26,
+    "text": "by this injury."
+  },
+  {
+    "startTime": 509.26,
+    "endTime": 512.26,
+    "text": "Here's another case, a knifing."
+  },
+  {
+    "startTime": 512.26,
+    "endTime": 514.26,
+    "text": "And this is also again showing us what we can do."
+  },
+  {
+    "startTime": 514.26,
+    "endTime": 516.26,
+    "text": "It's very easy to look at metal artifacts"
+  },
+  {
+    "startTime": 516.26,
+    "endTime": 519.26,
+    "text": "that we can show inside of the body."
+  },
+  {
+    "startTime": 519.26,
+    "endTime": 522.26,
+    "text": "You can also see some of the artifacts from the teeth --"
+  },
+  {
+    "startTime": 522.26,
+    "endTime": 524.26,
+    "text": "that's actually the filling of the teeth --"
+  },
+  {
+    "startTime": 524.26,
+    "endTime": 527.26,
+    "text": "but because I've set the functions to show me metal"
+  },
+  {
+    "startTime": 527.26,
+    "endTime": 529.26,
+    "text": "and make everything else transparent."
+  },
+  {
+    "startTime": 529.26,
+    "endTime": 532.26,
+    "text": "Here's another violent case. This really didn't kill the person."
+  },
+  {
+    "startTime": 532.26,
+    "endTime": 534.26,
+    "text": "The person was killed by stabs in the heart,"
+  },
+  {
+    "startTime": 534.26,
+    "endTime": 536.26,
+    "text": "but they just deposited the knife"
+  },
+  {
+    "startTime": 536.26,
+    "endTime": 538.26,
+    "text": "by putting it through one of the eyeballs."
+  },
+  {
+    "startTime": 538.26,
+    "endTime": 540.26,
+    "text": "Here's another case."
+  },
+  {
+    "startTime": 540.26,
+    "endTime": 542.26,
+    "text": "It's very interesting for us"
+  },
+  {
+    "startTime": 542.26,
+    "endTime": 544.26,
+    "text": "to be able to look at things like knife stabbings."
+  },
+  {
+    "startTime": 544.26,
+    "endTime": 547.26,
+    "text": "Here you can see that knife went through the heart."
+  },
+  {
+    "startTime": 547.26,
+    "endTime": 549.26,
+    "text": "It's very easy to see how air has been leaking"
+  },
+  {
+    "startTime": 549.26,
+    "endTime": 551.26,
+    "text": "from one part to another part,"
+  },
+  {
+    "startTime": 551.26,
+    "endTime": 554.26,
+    "text": "which is difficult to do in a normal, standard, physical autopsy."
+  },
+  {
+    "startTime": 554.26,
+    "endTime": 556.26,
+    "text": "So it really, really helps"
+  },
+  {
+    "startTime": 556.26,
+    "endTime": 558.26,
+    "text": "the criminal investigation"
+  },
+  {
+    "startTime": 558.26,
+    "endTime": 560.26,
+    "text": "to establish the cause of death,"
+  },
+  {
+    "startTime": 560.26,
+    "endTime": 563.26,
+    "text": "and in some cases also directing the investigation in the right direction"
+  },
+  {
+    "startTime": 563.26,
+    "endTime": 565.26,
+    "text": "to find out who the killer really was."
+  },
+  {
+    "startTime": 565.26,
+    "endTime": 567.26,
+    "text": "Here's another case that I think is interesting."
+  },
+  {
+    "startTime": 567.26,
+    "endTime": 569.26,
+    "text": "Here you can see a bullet"
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 572.26,
+    "text": "that has lodged just next to the spine on this person."
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 575.26,
+    "text": "And what we've done is that we've turned the bullet into a light source,"
+  },
+  {
+    "startTime": 575.26,
+    "endTime": 577.26,
+    "text": "so that bullet is actually shining,"
+  },
+  {
+    "startTime": 577.26,
+    "endTime": 580.26,
+    "text": "and it makes it really easy to find these fragments."
+  },
+  {
+    "startTime": 580.26,
+    "endTime": 582.26,
+    "text": "During a physical autopsy,"
+  },
+  {
+    "startTime": 582.26,
+    "endTime": 584.26,
+    "text": "if you actually have to dig through the body to find these fragments,"
+  },
+  {
+    "startTime": 584.26,
+    "endTime": 586.26,
+    "text": "that's actually quite hard to do."
+  },
+  {
+    "startTime": 588.26,
+    "endTime": 590.26,
+    "text": "One of the things that I'm really, really happy"
+  },
+  {
+    "startTime": 590.26,
+    "endTime": 593.26,
+    "text": "to be able to show you here today"
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 595.26,
+    "text": "is our virtual autopsy table."
+  },
+  {
+    "startTime": 595.26,
+    "endTime": 597.26,
+    "text": "It's a touch device that we have developed"
+  },
+  {
+    "startTime": 597.26,
+    "endTime": 600.26,
+    "text": "based on these algorithms, using standard graphics GPUs."
+  },
+  {
+    "startTime": 600.26,
+    "endTime": 602.26,
+    "text": "It actually looks like this,"
+  },
+  {
+    "startTime": 602.26,
+    "endTime": 605.26,
+    "text": "just to give you a feeling for what it looks like."
+  },
+  {
+    "startTime": 605.26,
+    "endTime": 608.26,
+    "text": "It really just works like a huge iPhone."
+  },
+  {
+    "startTime": 608.26,
+    "endTime": 610.26,
+    "text": "So we've implemented"
+  },
+  {
+    "startTime": 610.26,
+    "endTime": 613.26,
+    "text": "all the gestures you can do on the table,"
+  },
+  {
+    "startTime": 613.26,
+    "endTime": 617.26,
+    "text": "and you can think of it as an enormous touch interface."
+  },
+  {
+    "startTime": 617.26,
+    "endTime": 619.26,
+    "text": "So if you were thinking of buying an iPad,"
+  },
+  {
+    "startTime": 619.26,
+    "endTime": 622.26,
+    "text": "forget about it. This is what you want instead."
+  },
+  {
+    "startTime": 622.26,
+    "endTime": 625.26,
+    "text": "Steve, I hope you're listening to this, all right."
+  },
+  {
+    "startTime": 626.26,
+    "endTime": 628.26,
+    "text": "So it's a very nice little device."
+  },
+  {
+    "startTime": 628.26,
+    "endTime": 630.26,
+    "text": "So if you have the opportunity, please try it out."
+  },
+  {
+    "startTime": 630.26,
+    "endTime": 633.26,
+    "text": "It's really a hands-on experience."
+  },
+  {
+    "startTime": 633.26,
+    "endTime": 636.26,
+    "text": "So it gained some traction, and we're trying to roll this out"
+  },
+  {
+    "startTime": 636.26,
+    "endTime": 638.26,
+    "text": "and trying to use it for educational purposes,"
+  },
+  {
+    "startTime": 638.26,
+    "endTime": 640.26,
+    "text": "but also, perhaps in the future,"
+  },
+  {
+    "startTime": 640.26,
+    "endTime": 643.26,
+    "text": "in a more clinical situation."
+  },
+  {
+    "startTime": 643.26,
+    "endTime": 645.26,
+    "text": "There's a YouTube video that you can download and look at this,"
+  },
+  {
+    "startTime": 645.26,
+    "endTime": 647.26,
+    "text": "if you want to convey the information to other people"
+  },
+  {
+    "startTime": 647.26,
+    "endTime": 650.26,
+    "text": "about virtual autopsies."
+  },
+  {
+    "startTime": 650.26,
+    "endTime": 652.26,
+    "text": "Okay, now that we're talking about touch,"
+  },
+  {
+    "startTime": 652.26,
+    "endTime": 654.26,
+    "text": "let me move on to really \"touching\" data."
+  },
+  {
+    "startTime": 654.26,
+    "endTime": 656.26,
+    "text": "And this is a bit of science fiction now,"
+  },
+  {
+    "startTime": 656.26,
+    "endTime": 659.26,
+    "text": "so we're moving into really the future."
+  },
+  {
+    "startTime": 659.26,
+    "endTime": 662.26,
+    "text": "This is not really what the medical doctors are using right now,"
+  },
+  {
+    "startTime": 662.26,
+    "endTime": 664.26,
+    "text": "but I hope they will in the future."
+  },
+  {
+    "startTime": 664.26,
+    "endTime": 667.26,
+    "text": "So what you're seeing on the left is a touch device."
+  },
+  {
+    "startTime": 667.26,
+    "endTime": 669.26,
+    "text": "It's a little mechanical pen"
+  },
+  {
+    "startTime": 669.26,
+    "endTime": 672.26,
+    "text": "that has very, very fast step motors inside of the pen."
+  },
+  {
+    "startTime": 672.26,
+    "endTime": 674.26,
+    "text": "And so I can generate a force feedback."
+  },
+  {
+    "startTime": 674.26,
+    "endTime": 676.26,
+    "text": "So when I virtually touch data,"
+  },
+  {
+    "startTime": 676.26,
+    "endTime": 679.26,
+    "text": "it will generate forces in the pen, so I get a feedback."
+  },
+  {
+    "startTime": 679.26,
+    "endTime": 681.26,
+    "text": "So in this particular situation,"
+  },
+  {
+    "startTime": 681.26,
+    "endTime": 683.26,
+    "text": "it's a scan of a living person."
+  },
+  {
+    "startTime": 683.26,
+    "endTime": 686.26,
+    "text": "I have this pen, and I look at the data,"
+  },
+  {
+    "startTime": 686.26,
+    "endTime": 688.26,
+    "text": "and I move the pen towards the head,"
+  },
+  {
+    "startTime": 688.26,
+    "endTime": 690.26,
+    "text": "and all of a sudden I feel resistance."
+  },
+  {
+    "startTime": 690.26,
+    "endTime": 692.26,
+    "text": "So I can feel the skin."
+  },
+  {
+    "startTime": 692.26,
+    "endTime": 694.26,
+    "text": "If I push a little bit harder, I'll go through the skin,"
+  },
+  {
+    "startTime": 694.26,
+    "endTime": 697.26,
+    "text": "and I can feel the bone structure inside."
+  },
+  {
+    "startTime": 697.26,
+    "endTime": 699.26,
+    "text": "If I push even harder, I'll go through the bone structure,"
+  },
+  {
+    "startTime": 699.26,
+    "endTime": 702.26,
+    "text": "especially close to the ear where the bone is very soft."
+  },
+  {
+    "startTime": 702.26,
+    "endTime": 705.26,
+    "text": "And then I can feel the brain inside, and this will be the slushy like this."
+  },
+  {
+    "startTime": 705.26,
+    "endTime": 707.26,
+    "text": "So this is really nice."
+  },
+  {
+    "startTime": 707.26,
+    "endTime": 710.26,
+    "text": "And to take that even further, this is a heart."
+  },
+  {
+    "startTime": 710.26,
+    "endTime": 713.26,
+    "text": "And this is also due to these fantastic new scanners,"
+  },
+  {
+    "startTime": 713.26,
+    "endTime": 715.26,
+    "text": "that just in 0.3 seconds,"
+  },
+  {
+    "startTime": 715.26,
+    "endTime": 717.26,
+    "text": "I can scan the whole heart,"
+  },
+  {
+    "startTime": 717.26,
+    "endTime": 719.26,
+    "text": "and I can do that with time resolution."
+  },
+  {
+    "startTime": 719.26,
+    "endTime": 721.26,
+    "text": "So just looking at this heart,"
+  },
+  {
+    "startTime": 721.26,
+    "endTime": 723.26,
+    "text": "I can play back a video here."
+  },
+  {
+    "startTime": 723.26,
+    "endTime": 725.26,
+    "text": "And this is Karljohan, one of my graduate students"
+  },
+  {
+    "startTime": 725.26,
+    "endTime": 727.26,
+    "text": "who's been working on this project."
+  },
+  {
+    "startTime": 727.26,
+    "endTime": 730.26,
+    "text": "And he's sitting there in front of the Haptic device, the force feedback system,"
+  },
+  {
+    "startTime": 730.26,
+    "endTime": 733.26,
+    "text": "and he's moving his pen towards the heart,"
+  },
+  {
+    "startTime": 733.26,
+    "endTime": 735.26,
+    "text": "and the heart is now beating in front of him,"
+  },
+  {
+    "startTime": 735.26,
+    "endTime": 737.26,
+    "text": "so he can see how the heart is beating."
+  },
+  {
+    "startTime": 737.26,
+    "endTime": 739.26,
+    "text": "He's taken the pen, and he's moving it towards the heart,"
+  },
+  {
+    "startTime": 739.26,
+    "endTime": 741.26,
+    "text": "and he's putting it on the heart,"
+  },
+  {
+    "startTime": 741.26,
+    "endTime": 744.26,
+    "text": "and then he feels the heartbeats from the real living patient."
+  },
+  {
+    "startTime": 744.26,
+    "endTime": 746.26,
+    "text": "Then he can examine how the heart is moving."
+  },
+  {
+    "startTime": 746.26,
+    "endTime": 748.26,
+    "text": "He can go inside, push inside of the heart,"
+  },
+  {
+    "startTime": 748.26,
+    "endTime": 751.26,
+    "text": "and really feel how the valves are moving."
+  },
+  {
+    "startTime": 751.26,
+    "endTime": 754.26,
+    "text": "And this, I think, is really the future for heart surgeons."
+  },
+  {
+    "startTime": 754.26,
+    "endTime": 757.26,
+    "text": "I mean it's probably the wet dream for a heart surgeon"
+  },
+  {
+    "startTime": 757.26,
+    "endTime": 760.26,
+    "text": "to be able to go inside of the patient's heart"
+  },
+  {
+    "startTime": 760.26,
+    "endTime": 762.26,
+    "text": "before you actually do surgery,"
+  },
+  {
+    "startTime": 762.26,
+    "endTime": 764.26,
+    "text": "and do that with high-quality resolution data."
+  },
+  {
+    "startTime": 764.26,
+    "endTime": 766.26,
+    "text": "So this is really neat."
+  },
+  {
+    "startTime": 767.26,
+    "endTime": 770.26,
+    "text": "Now we're going even further into science fiction."
+  },
+  {
+    "startTime": 770.26,
+    "endTime": 773.26,
+    "text": "And we heard a little bit about functional MRI."
+  },
+  {
+    "startTime": 773.26,
+    "endTime": 776.26,
+    "text": "Now this is really an interesting project."
+  },
+  {
+    "startTime": 776.26,
+    "endTime": 778.26,
+    "text": "MRI is using magnetic fields"
+  },
+  {
+    "startTime": 778.26,
+    "endTime": 780.26,
+    "text": "and radio frequencies"
+  },
+  {
+    "startTime": 780.26,
+    "endTime": 783.26,
+    "text": "to scan the brain, or any part of the body."
+  },
+  {
+    "startTime": 783.26,
+    "endTime": 785.26,
+    "text": "So what we're really getting out of this"
+  },
+  {
+    "startTime": 785.26,
+    "endTime": 787.26,
+    "text": "is information of the structure of the brain,"
+  },
+  {
+    "startTime": 787.26,
+    "endTime": 789.26,
+    "text": "but we can also measure the difference"
+  },
+  {
+    "startTime": 789.26,
+    "endTime": 792.26,
+    "text": "in magnetic properties of blood that's oxygenated"
+  },
+  {
+    "startTime": 792.26,
+    "endTime": 795.26,
+    "text": "and blood that's depleted of oxygen."
+  },
+  {
+    "startTime": 795.26,
+    "endTime": 797.26,
+    "text": "That means that it's possible"
+  },
+  {
+    "startTime": 797.26,
+    "endTime": 799.26,
+    "text": "to map out the activity of the brain."
+  },
+  {
+    "startTime": 799.26,
+    "endTime": 801.26,
+    "text": "So this is something that we've been working on."
+  },
+  {
+    "startTime": 801.26,
+    "endTime": 804.26,
+    "text": "And you just saw Motts the research engineer, there,"
+  },
+  {
+    "startTime": 804.26,
+    "endTime": 806.26,
+    "text": "going into the MRI system,"
+  },
+  {
+    "startTime": 806.26,
+    "endTime": 808.26,
+    "text": "and he was wearing goggles."
+  },
+  {
+    "startTime": 808.26,
+    "endTime": 810.26,
+    "text": "So he could actually see things in the goggles."
+  },
+  {
+    "startTime": 810.26,
+    "endTime": 813.26,
+    "text": "So I could present things to him while he's in the scanner."
+  },
+  {
+    "startTime": 813.26,
+    "endTime": 815.26,
+    "text": "And this is a little bit freaky,"
+  },
+  {
+    "startTime": 815.26,
+    "endTime": 817.26,
+    "text": "because what Motts is seeing is actually this."
+  },
+  {
+    "startTime": 817.26,
+    "endTime": 820.26,
+    "text": "He's seeing his own brain."
+  },
+  {
+    "startTime": 820.26,
+    "endTime": 822.26,
+    "text": "So Motts is doing something here,"
+  },
+  {
+    "startTime": 822.26,
+    "endTime": 824.26,
+    "text": "and probably he is going like this with his right hand,"
+  },
+  {
+    "startTime": 824.26,
+    "endTime": 826.26,
+    "text": "because the left side is activated"
+  },
+  {
+    "startTime": 826.26,
+    "endTime": 828.26,
+    "text": "on the motor cortex."
+  },
+  {
+    "startTime": 828.26,
+    "endTime": 830.26,
+    "text": "And then he can see that at the same time."
+  },
+  {
+    "startTime": 830.26,
+    "endTime": 832.26,
+    "text": "These visualizations are brand new."
+  },
+  {
+    "startTime": 832.26,
+    "endTime": 835.26,
+    "text": "And this is something that we've been researching for a little while."
+  },
+  {
+    "startTime": 835.26,
+    "endTime": 838.26,
+    "text": "This is another sequence of Motts' brain."
+  },
+  {
+    "startTime": 838.26,
+    "endTime": 841.26,
+    "text": "And here we asked Motts to calculate backwards from 100."
+  },
+  {
+    "startTime": 841.26,
+    "endTime": 843.26,
+    "text": "So he's going \"100, 97, 94.\""
+  },
+  {
+    "startTime": 843.26,
+    "endTime": 845.26,
+    "text": "And then he's going backwards."
+  },
+  {
+    "startTime": 845.26,
+    "endTime": 848.26,
+    "text": "And you can see how the little math processor is working up here in his brain"
+  },
+  {
+    "startTime": 848.26,
+    "endTime": 850.26,
+    "text": "and is lighting up the whole brain."
+  },
+  {
+    "startTime": 850.26,
+    "endTime": 852.26,
+    "text": "Well this is fantastic. We can do this in real time."
+  },
+  {
+    "startTime": 852.26,
+    "endTime": 854.26,
+    "text": "We can investigate things. We can tell him to do things."
+  },
+  {
+    "startTime": 854.26,
+    "endTime": 856.26,
+    "text": "You can also see that his visual cortex"
+  },
+  {
+    "startTime": 856.26,
+    "endTime": 858.26,
+    "text": "is activated in the back of the head,"
+  },
+  {
+    "startTime": 858.26,
+    "endTime": 860.26,
+    "text": "because that's where he's seeing, he's seeing his own brain."
+  },
+  {
+    "startTime": 860.26,
+    "endTime": 862.26,
+    "text": "And he's also hearing our instructions"
+  },
+  {
+    "startTime": 862.26,
+    "endTime": 864.26,
+    "text": "when we tell him to do things."
+  },
+  {
+    "startTime": 864.26,
+    "endTime": 866.26,
+    "text": "The signal is really deep inside of the brain as well,"
+  },
+  {
+    "startTime": 866.26,
+    "endTime": 868.26,
+    "text": "and it's shining through,"
+  },
+  {
+    "startTime": 868.26,
+    "endTime": 870.26,
+    "text": "because all of the data is inside this volume."
+  },
+  {
+    "startTime": 870.26,
+    "endTime": 872.26,
+    "text": "And in just a second here you will see --"
+  },
+  {
+    "startTime": 872.26,
+    "endTime": 874.26,
+    "text": "okay, here. Motts, now move your left foot."
+  },
+  {
+    "startTime": 874.26,
+    "endTime": 876.26,
+    "text": "So he's going like this."
+  },
+  {
+    "startTime": 876.26,
+    "endTime": 878.26,
+    "text": "For 20 seconds he's going like that,"
+  },
+  {
+    "startTime": 878.26,
+    "endTime": 880.26,
+    "text": "and all of a sudden it lights up up here."
+  },
+  {
+    "startTime": 880.26,
+    "endTime": 882.26,
+    "text": "So we've got motor cortex activation up there."
+  },
+  {
+    "startTime": 882.26,
+    "endTime": 884.26,
+    "text": "So this is really, really nice,"
+  },
+  {
+    "startTime": 884.26,
+    "endTime": 886.26,
+    "text": "and I think this is a great tool."
+  },
+  {
+    "startTime": 886.26,
+    "endTime": 888.26,
+    "text": "And connecting also with the previous talk here,"
+  },
+  {
+    "startTime": 888.26,
+    "endTime": 890.26,
+    "text": "this is something that we could use as a tool"
+  },
+  {
+    "startTime": 890.26,
+    "endTime": 892.26,
+    "text": "to really understand"
+  },
+  {
+    "startTime": 892.26,
+    "endTime": 894.26,
+    "text": "how the neurons are working, how the brain is working,"
+  },
+  {
+    "startTime": 894.26,
+    "endTime": 897.26,
+    "text": "and we can do this with very, very high visual quality"
+  },
+  {
+    "startTime": 897.26,
+    "endTime": 900.26,
+    "text": "and very fast resolution."
+  },
+  {
+    "startTime": 900.26,
+    "endTime": 902.26,
+    "text": "Now we're also having a bit of fun at the center."
+  },
+  {
+    "startTime": 902.26,
+    "endTime": 905.26,
+    "text": "So this is a CAT scan -- Computer Aided Tomography."
+  },
+  {
+    "startTime": 906.26,
+    "endTime": 908.26,
+    "text": "So this is a lion from the local zoo"
+  },
+  {
+    "startTime": 908.26,
+    "endTime": 911.26,
+    "text": "outside of Norrkoping in Kolmarden, Elsa."
+  },
+  {
+    "startTime": 911.26,
+    "endTime": 913.26,
+    "text": "So she came to the center,"
+  },
+  {
+    "startTime": 913.26,
+    "endTime": 915.26,
+    "text": "and they sedated her"
+  },
+  {
+    "startTime": 915.26,
+    "endTime": 917.26,
+    "text": "and then put her straight into the scanner."
+  },
+  {
+    "startTime": 917.26,
+    "endTime": 920.26,
+    "text": "And then, of course, I get the whole data set from the lion."
+  },
+  {
+    "startTime": 920.26,
+    "endTime": 922.26,
+    "text": "And I can do very nice images like this."
+  },
+  {
+    "startTime": 922.26,
+    "endTime": 924.26,
+    "text": "I can peel off the layer of the lion."
+  },
+  {
+    "startTime": 924.26,
+    "endTime": 926.26,
+    "text": "I can look inside of it."
+  },
+  {
+    "startTime": 926.26,
+    "endTime": 928.26,
+    "text": "And we've been experimenting with this."
+  },
+  {
+    "startTime": 928.26,
+    "endTime": 930.26,
+    "text": "And I think this is a great application"
+  },
+  {
+    "startTime": 930.26,
+    "endTime": 932.26,
+    "text": "for the future of this technology,"
+  },
+  {
+    "startTime": 932.26,
+    "endTime": 935.26,
+    "text": "because there's very little known about the animal anatomy."
+  },
+  {
+    "startTime": 935.26,
+    "endTime": 938.26,
+    "text": "What's known out there for veterinarians is kind of basic information."
+  },
+  {
+    "startTime": 938.26,
+    "endTime": 940.26,
+    "text": "We can scan all sorts of things,"
+  },
+  {
+    "startTime": 940.26,
+    "endTime": 942.26,
+    "text": "all sorts of animals."
+  },
+  {
+    "startTime": 942.26,
+    "endTime": 945.26,
+    "text": "The only problem is to fit it into the machine."
+  },
+  {
+    "startTime": 945.26,
+    "endTime": 947.26,
+    "text": "So here's a bear."
+  },
+  {
+    "startTime": 947.26,
+    "endTime": 949.26,
+    "text": "It was kind of hard to get it in."
+  },
+  {
+    "startTime": 949.26,
+    "endTime": 952.26,
+    "text": "And the bear is a cuddly, friendly animal."
+  },
+  {
+    "startTime": 952.26,
+    "endTime": 955.26,
+    "text": "And here it is. Here is the nose of the bear."
+  },
+  {
+    "startTime": 955.26,
+    "endTime": 958.26,
+    "text": "And you might want to cuddle this one,"
+  },
+  {
+    "startTime": 958.26,
+    "endTime": 961.26,
+    "text": "until you change the functions and look at this."
+  },
+  {
+    "startTime": 961.26,
+    "endTime": 963.26,
+    "text": "So be aware of the bear."
+  },
+  {
+    "startTime": 963.26,
+    "endTime": 965.26,
+    "text": "So with that,"
+  },
+  {
+    "startTime": 965.26,
+    "endTime": 967.26,
+    "text": "I'd like to thank all the people"
+  },
+  {
+    "startTime": 967.26,
+    "endTime": 969.26,
+    "text": "who have helped me to generate these images."
+  },
+  {
+    "startTime": 969.26,
+    "endTime": 971.26,
+    "text": "It's a huge effort that goes into doing this,"
+  },
+  {
+    "startTime": 971.26,
+    "endTime": 974.26,
+    "text": "gathering the data and developing the algorithms,"
+  },
+  {
+    "startTime": 974.26,
+    "endTime": 976.26,
+    "text": "writing all the software."
+  },
+  {
+    "startTime": 976.26,
+    "endTime": 979.26,
+    "text": "So, some very talented people."
+  },
+  {
+    "startTime": 979.26,
+    "endTime": 982.26,
+    "text": "My motto is always, I only hire people that are smarter than I am"
+  },
+  {
+    "startTime": 982.26,
+    "endTime": 984.26,
+    "text": "and most of these are smarter than I am."
+  },
+  {
+    "startTime": 984.26,
+    "endTime": 986.26,
+    "text": "So thank you very much."
+  },
+  {
+    "startTime": 986.26,
+    "endTime": 990.26,
+    "text": "(Applause)"
+  }
+]
