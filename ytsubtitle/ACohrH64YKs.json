@@ -1,0 +1,427 @@
+[
+  {
+    "startTime": 2.61,
+    "endTime": 13.269,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 16.279,
+    "endTime": 18.76,
+    "text": "let me introduce to You"
+  },
+  {
+    "startTime": 18.76,
+    "endTime": 21.68,
+    "text": "REO this little fell was developed by a"
+  },
+  {
+    "startTime": 21.68,
+    "endTime": 23.56,
+    "text": "group of 10 undergraduate students at"
+  },
+  {
+    "startTime": 23.56,
+    "endTime": 26.0,
+    "text": "the autonomous systems laboratory at e"
+  },
+  {
+    "startTime": 26.0,
+    "endTime": 28.599,
+    "text": "Zurich our robot belongs to a family of"
+  },
+  {
+    "startTime": 28.599,
+    "endTime": 30.72,
+    "text": "robots called bulots"
+  },
+  {
+    "startTime": 30.72,
+    "endTime": 32.8,
+    "text": "instead of Wheels a ball B is balancing"
+  },
+  {
+    "startTime": 32.8,
+    "endTime": 35.52,
+    "text": "and moving on one single ball the main"
+  },
+  {
+    "startTime": 35.52,
+    "endTime": 37.68,
+    "text": "characteristics of such a system is that"
+  },
+  {
+    "startTime": 37.68,
+    "endTime": 39.44,
+    "text": "there's one sole contact point to the"
+  },
+  {
+    "startTime": 39.44,
+    "endTime": 41.92,
+    "text": "ground this means that the robot is"
+  },
+  {
+    "startTime": 41.92,
+    "endTime": 44.719,
+    "text": "inherently unstable it's like when I'm"
+  },
+  {
+    "startTime": 44.719,
+    "endTime": 46.52,
+    "text": "trying to stand on one"
+  },
+  {
+    "startTime": 46.52,
+    "endTime": 49.079,
+    "text": "foot you might ask yourself what's the"
+  },
+  {
+    "startTime": 49.079,
+    "endTime": 51.32,
+    "text": "usefulness of a robot that's unstable"
+  },
+  {
+    "startTime": 51.32,
+    "endTime": 53.359,
+    "text": "and I will explain that in a second let"
+  },
+  {
+    "startTime": 53.359,
+    "endTime": 55.68,
+    "text": "me first explain how rero actually keeps"
+  },
+  {
+    "startTime": 55.68,
+    "endTime": 59.199,
+    "text": "his balance rero keeps his balance by"
+  },
+  {
+    "startTime": 59.199,
+    "endTime": 60.96,
+    "text": "constantly measuring his pitch angle"
+  },
+  {
+    "startTime": 60.96,
+    "endTime": 62.239,
+    "text": "with a"
+  },
+  {
+    "startTime": 62.239,
+    "endTime": 64.799,
+    "text": "sensor he then counteracts and avoids"
+  },
+  {
+    "startTime": 64.799,
+    "endTime": 67.28,
+    "text": "toppling over by turning the motors"
+  },
+  {
+    "startTime": 67.28,
+    "endTime": 70.04,
+    "text": "appropriately this happens 160 times per"
+  },
+  {
+    "startTime": 70.04,
+    "endTime": 71.92,
+    "text": "second and if anything fa during this"
+  },
+  {
+    "startTime": 71.92,
+    "endTime": 74.0,
+    "text": "process rero would immediately fall to"
+  },
+  {
+    "startTime": 74.0,
+    "endTime": 76.84,
+    "text": "the ground now to move and to balance"
+  },
+  {
+    "startTime": 76.84,
+    "endTime": 79.119,
+    "text": "rero needs to turn the ball the ball is"
+  },
+  {
+    "startTime": 79.119,
+    "endTime": 81.079,
+    "text": "driven by three special wheels that"
+  },
+  {
+    "startTime": 81.079,
+    "endTime": 84.079,
+    "text": "allow rero to move into any direction"
+  },
+  {
+    "startTime": 84.079,
+    "endTime": 86.0,
+    "text": "and also move around his own axis at the"
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 88.32,
+    "text": "same"
+  },
+  {
+    "startTime": 88.4,
+    "endTime": 91.52,
+    "text": "time due to his instability RoR is"
+  },
+  {
+    "startTime": 91.52,
+    "endTime": 94.0,
+    "text": "always in motion now here's the trick"
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 96.28,
+    "text": "it's indeed exactly this instability"
+  },
+  {
+    "startTime": 96.28,
+    "endTime": 98.72,
+    "text": "that allows a robot to move very"
+  },
+  {
+    "startTime": 98.72,
+    "endTime": 101.24,
+    "text": "Dynamic let's play a little you might"
+  },
+  {
+    "startTime": 101.24,
+    "endTime": 103.119,
+    "text": "have wondered what happens if I give the"
+  },
+  {
+    "startTime": 103.119,
+    "endTime": 105.799,
+    "text": "robot the little"
+  },
+  {
+    "startTime": 107.04,
+    "endTime": 109.079,
+    "text": "push in this mode he's trying to"
+  },
+  {
+    "startTime": 109.079,
+    "endTime": 111.56,
+    "text": "maintain his"
+  },
+  {
+    "startTime": 112.159,
+    "endTime": 114.68,
+    "text": "position for the next demo I'd like you"
+  },
+  {
+    "startTime": 114.68,
+    "endTime": 116.88,
+    "text": "to introduce to my colleagues Michael on"
+  },
+  {
+    "startTime": 116.88,
+    "endTime": 118.719,
+    "text": "the computer and Thomas who's helping me"
+  },
+  {
+    "startTime": 118.719,
+    "endTime": 121.84,
+    "text": "on stage"
+  },
+  {
+    "startTime": 122.68,
+    "endTime": 124.96,
+    "text": "in the next mode rero is passive and we"
+  },
+  {
+    "startTime": 124.96,
+    "endTime": 127.119,
+    "text": "can move him"
+  },
+  {
+    "startTime": 127.119,
+    "endTime": 129.44,
+    "text": "around with almost no Force I can"
+  },
+  {
+    "startTime": 129.44,
+    "endTime": 132.84,
+    "text": "control his position and his"
+  },
+  {
+    "startTime": 135.84,
+    "endTime": 140.56,
+    "text": "velocity we can also make him spin"
+  },
+  {
+    "startTime": 150.16,
+    "endTime": 152.12,
+    "text": "in the next mode we can get res hero to"
+  },
+  {
+    "startTime": 152.12,
+    "endTime": 154.68,
+    "text": "follow a"
+  },
+  {
+    "startTime": 154.959,
+    "endTime": 157.2,
+    "text": "person he's now keeping a constant"
+  },
+  {
+    "startTime": 157.2,
+    "endTime": 159.72,
+    "text": "distance to"
+  },
+  {
+    "startTime": 162.319,
+    "endTime": 164.68,
+    "text": "thas this works with a laser sensor"
+  },
+  {
+    "startTime": 164.68,
+    "endTime": 167.64,
+    "text": "that's mounted on top of"
+  },
+  {
+    "startTime": 170.48,
+    "endTime": 172.879,
+    "text": "rero with the same method we can also"
+  },
+  {
+    "startTime": 172.879,
+    "endTime": 175.92,
+    "text": "get him to circulate"
+  },
+  {
+    "startTime": 176.519,
+    "endTime": 181.8,
+    "text": "person we call this the orbiting mode"
+  },
+  {
+    "startTime": 190.2,
+    "endTime": 193.12,
+    "text": "all right thank you"
+  },
+  {
+    "startTime": 196.28,
+    "endTime": 200.64,
+    "text": "Thomas now what's the use of this"
+  },
+  {
+    "startTime": 201.28,
+    "endTime": 204.319,
+    "text": "technology for now it's an experiment"
+  },
+  {
+    "startTime": 204.319,
+    "endTime": 207.68,
+    "text": "but let me show you some possible future"
+  },
+  {
+    "startTime": 207.68,
+    "endTime": 209.84,
+    "text": "applications rero could be used"
+  },
+  {
+    "startTime": 209.84,
+    "endTime": 212.04,
+    "text": "exhibitions or parks with his scen he"
+  },
+  {
+    "startTime": 212.04,
+    "endTime": 213.64,
+    "text": "could inform people or show them around"
+  },
+  {
+    "startTime": 213.64,
+    "endTime": 215.84,
+    "text": "in a fun and entertaining way in a"
+  },
+  {
+    "startTime": 215.84,
+    "endTime": 217.799,
+    "text": "hospital this device could be used to"
+  },
+  {
+    "startTime": 217.799,
+    "endTime": 220.12,
+    "text": "carry around medical equipment due to"
+  },
+  {
+    "startTime": 220.12,
+    "endTime": 221.799,
+    "text": "the balot system it has a very small"
+  },
+  {
+    "startTime": 221.799,
+    "endTime": 223.72,
+    "text": "footprint and it's also easy to move"
+  },
+  {
+    "startTime": 223.72,
+    "endTime": 226.04,
+    "text": "around and of course who wouldn't like"
+  },
+  {
+    "startTime": 226.04,
+    "endTime": 228.12,
+    "text": "to take a ride on one of"
+  },
+  {
+    "startTime": 228.12,
+    "endTime": 230.64,
+    "text": "these now these are more practical"
+  },
+  {
+    "startTime": 230.64,
+    "endTime": 232.76,
+    "text": "applications but there's also a certain"
+  },
+  {
+    "startTime": 232.76,
+    "endTime": 235.13,
+    "text": "beauty within this technology"
+  },
+  {
+    "startTime": 235.13,
+    "endTime": 240.63,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 240.63,
+    "endTime": 243.979,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 251.85,
+    "endTime": 268.94,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 268.94,
+    "endTime": 270.37,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 270.37,
+    "endTime": 280.12,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 286.25,
+    "endTime": 289.43,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 297.18,
+    "endTime": 300.4,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 300.4,
+    "endTime": 302.6,
+    "text": "thank"
+  },
+  {
+    "startTime": 304.72,
+    "endTime": 308.919,
+    "text": "you thank you"
+  }
+]

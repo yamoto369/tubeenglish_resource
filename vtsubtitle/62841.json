@@ -1,0 +1,1807 @@
+[
+  {
+    "startTime": 15.33,
+    "endTime": 18.33,
+    "text": "Everybody in our society's life is touched by cancer --"
+  },
+  {
+    "startTime": 18.33,
+    "endTime": 20.33,
+    "text": "if not personally,"
+  },
+  {
+    "startTime": 20.33,
+    "endTime": 23.33,
+    "text": "then through a loved one, a family member,"
+  },
+  {
+    "startTime": 23.33,
+    "endTime": 25.33,
+    "text": "colleague, friend."
+  },
+  {
+    "startTime": 25.33,
+    "endTime": 28.33,
+    "text": "And once our lives are touched by cancer,"
+  },
+  {
+    "startTime": 28.33,
+    "endTime": 30.33,
+    "text": "we quickly learn"
+  },
+  {
+    "startTime": 30.33,
+    "endTime": 32.33,
+    "text": "that there are basically"
+  },
+  {
+    "startTime": 32.33,
+    "endTime": 35.33,
+    "text": "three weapons, or three tools, that are available"
+  },
+  {
+    "startTime": 35.33,
+    "endTime": 38.33,
+    "text": "to fight the disease:"
+  },
+  {
+    "startTime": 38.33,
+    "endTime": 41.33,
+    "text": "surgery, radiation and chemotherapy."
+  },
+  {
+    "startTime": 41.33,
+    "endTime": 44.33,
+    "text": "And once we get involved"
+  },
+  {
+    "startTime": 44.33,
+    "endTime": 47.33,
+    "text": "in the therapeutic decisions,"
+  },
+  {
+    "startTime": 47.33,
+    "endTime": 49.33,
+    "text": "again either personally"
+  },
+  {
+    "startTime": 49.33,
+    "endTime": 52.33,
+    "text": "or with our loved ones and family members,"
+  },
+  {
+    "startTime": 52.33,
+    "endTime": 55.33,
+    "text": "we also very quickly learn"
+  },
+  {
+    "startTime": 55.33,
+    "endTime": 58.33,
+    "text": "the benefits, the trade-offs and the limitations"
+  },
+  {
+    "startTime": 58.33,
+    "endTime": 60.33,
+    "text": "of these tools."
+  },
+  {
+    "startTime": 60.33,
+    "endTime": 62.33,
+    "text": "I'm very thankful to Jay and to Mark"
+  },
+  {
+    "startTime": 62.33,
+    "endTime": 64.33,
+    "text": "and the TEDMED team"
+  },
+  {
+    "startTime": 64.33,
+    "endTime": 66.33,
+    "text": "for inviting me today"
+  },
+  {
+    "startTime": 66.33,
+    "endTime": 69.33,
+    "text": "to describe a fourth tool, a new tool,"
+  },
+  {
+    "startTime": 69.33,
+    "endTime": 72.33,
+    "text": "that we call Tumor Treating Fields."
+  },
+  {
+    "startTime": 72.33,
+    "endTime": 74.33,
+    "text": "Tumor Treating Fields"
+  },
+  {
+    "startTime": 74.33,
+    "endTime": 77.33,
+    "text": "were invented by Dr. Yoram Palti,"
+  },
+  {
+    "startTime": 77.33,
+    "endTime": 80.33,
+    "text": "professor emeritus at the Technion in Israel."
+  },
+  {
+    "startTime": 80.33,
+    "endTime": 82.33,
+    "text": "And they use low-intensity"
+  },
+  {
+    "startTime": 82.33,
+    "endTime": 84.33,
+    "text": "electric fields"
+  },
+  {
+    "startTime": 84.33,
+    "endTime": 86.33,
+    "text": "to fight cancer."
+  },
+  {
+    "startTime": 86.33,
+    "endTime": 89.33,
+    "text": "To understand how Tumor Treating Fields work,"
+  },
+  {
+    "startTime": 89.33,
+    "endTime": 91.33,
+    "text": "we first need to understand"
+  },
+  {
+    "startTime": 91.33,
+    "endTime": 93.33,
+    "text": "what are electric fields."
+  },
+  {
+    "startTime": 93.33,
+    "endTime": 96.33,
+    "text": "Let me first address"
+  },
+  {
+    "startTime": 96.33,
+    "endTime": 99.33,
+    "text": "a few popular misconceptions."
+  },
+  {
+    "startTime": 99.33,
+    "endTime": 101.33,
+    "text": "First of all, electric fields"
+  },
+  {
+    "startTime": 101.33,
+    "endTime": 103.33,
+    "text": "are not an electric current"
+  },
+  {
+    "startTime": 103.33,
+    "endTime": 106.33,
+    "text": "that is coursing through the tissue."
+  },
+  {
+    "startTime": 106.33,
+    "endTime": 108.33,
+    "text": "Electric fields"
+  },
+  {
+    "startTime": 108.33,
+    "endTime": 110.33,
+    "text": "are not ionizing radiation,"
+  },
+  {
+    "startTime": 110.33,
+    "endTime": 112.33,
+    "text": "like X-rays or proton beams,"
+  },
+  {
+    "startTime": 112.33,
+    "endTime": 114.33,
+    "text": "that bombard tissue"
+  },
+  {
+    "startTime": 114.33,
+    "endTime": 116.33,
+    "text": "to disrupt DNA."
+  },
+  {
+    "startTime": 116.33,
+    "endTime": 118.33,
+    "text": "And electric fields"
+  },
+  {
+    "startTime": 118.33,
+    "endTime": 120.33,
+    "text": "are not magnetism."
+  },
+  {
+    "startTime": 120.33,
+    "endTime": 122.33,
+    "text": "What electric fields are"
+  },
+  {
+    "startTime": 122.33,
+    "endTime": 125.33,
+    "text": "are a field of forces."
+  },
+  {
+    "startTime": 125.33,
+    "endTime": 127.33,
+    "text": "And these forces"
+  },
+  {
+    "startTime": 127.33,
+    "endTime": 130.329,
+    "text": "act on, attract, bodies"
+  },
+  {
+    "startTime": 130.33,
+    "endTime": 133.33,
+    "text": "that have an electrical charge."
+  },
+  {
+    "startTime": 133.33,
+    "endTime": 135.33,
+    "text": "The best way to visualize an electric field"
+  },
+  {
+    "startTime": 135.33,
+    "endTime": 137.33,
+    "text": "is to think of gravity."
+  },
+  {
+    "startTime": 137.33,
+    "endTime": 140.33,
+    "text": "Gravity is also a field of forces"
+  },
+  {
+    "startTime": 140.33,
+    "endTime": 142.33,
+    "text": "that act on masses."
+  },
+  {
+    "startTime": 142.33,
+    "endTime": 145.33,
+    "text": "We can all picture astronauts in space."
+  },
+  {
+    "startTime": 145.33,
+    "endTime": 147.33,
+    "text": "They float freely in three dimensions"
+  },
+  {
+    "startTime": 147.33,
+    "endTime": 149.33,
+    "text": "without any forces acting on them."
+  },
+  {
+    "startTime": 149.33,
+    "endTime": 152.33,
+    "text": "But as that space shuttle"
+  },
+  {
+    "startTime": 152.33,
+    "endTime": 154.33,
+    "text": "returns to Earth,"
+  },
+  {
+    "startTime": 154.33,
+    "endTime": 157.33,
+    "text": "and as the astronauts enter the Earth's gravitational field,"
+  },
+  {
+    "startTime": 157.33,
+    "endTime": 160.33,
+    "text": "they begin to see the effects of gravity."
+  },
+  {
+    "startTime": 160.33,
+    "endTime": 162.33,
+    "text": "They begin to be attracted towards Earth."
+  },
+  {
+    "startTime": 162.33,
+    "endTime": 164.33,
+    "text": "And as they land,"
+  },
+  {
+    "startTime": 164.33,
+    "endTime": 166.33,
+    "text": "they're fully aligned in the gravitational field."
+  },
+  {
+    "startTime": 166.33,
+    "endTime": 169.33,
+    "text": "We're, of course, all stuck in the Earth's gravitational field right now."
+  },
+  {
+    "startTime": 169.33,
+    "endTime": 172.33,
+    "text": "That's why you're all in your chairs."
+  },
+  {
+    "startTime": 172.33,
+    "endTime": 174.33,
+    "text": "And that's why we have to use our muscle energy"
+  },
+  {
+    "startTime": 174.33,
+    "endTime": 176.33,
+    "text": "to stand up, to walk around"
+  },
+  {
+    "startTime": 176.33,
+    "endTime": 179.33,
+    "text": "and to lift things."
+  },
+  {
+    "startTime": 179.33,
+    "endTime": 181.33,
+    "text": "In cancer,"
+  },
+  {
+    "startTime": 181.33,
+    "endTime": 183.33,
+    "text": "cells rapidly divide"
+  },
+  {
+    "startTime": 183.33,
+    "endTime": 186.33,
+    "text": "and lead to uncontrolled tumor growth."
+  },
+  {
+    "startTime": 186.33,
+    "endTime": 189.33,
+    "text": "We can think of a cell"
+  },
+  {
+    "startTime": 189.33,
+    "endTime": 191.33,
+    "text": "from an electrical perspective"
+  },
+  {
+    "startTime": 191.33,
+    "endTime": 194.33,
+    "text": "as if it's a mini space station."
+  },
+  {
+    "startTime": 194.33,
+    "endTime": 196.33,
+    "text": "And in that space station"
+  },
+  {
+    "startTime": 196.33,
+    "endTime": 199.33,
+    "text": "we have the genetic material, the chromosomes,"
+  },
+  {
+    "startTime": 199.33,
+    "endTime": 201.33,
+    "text": "within a nucleus."
+  },
+  {
+    "startTime": 201.33,
+    "endTime": 203.33,
+    "text": "And out in the cytoplasmic soup"
+  },
+  {
+    "startTime": 203.33,
+    "endTime": 205.33,
+    "text": "we have special proteins"
+  },
+  {
+    "startTime": 205.33,
+    "endTime": 207.33,
+    "text": "that are required for cell division"
+  },
+  {
+    "startTime": 207.33,
+    "endTime": 209.33,
+    "text": "that float freely in this soup"
+  },
+  {
+    "startTime": 209.33,
+    "endTime": 211.33,
+    "text": "in three dimensions."
+  },
+  {
+    "startTime": 211.33,
+    "endTime": 214.33,
+    "text": "Importantly, those special proteins"
+  },
+  {
+    "startTime": 214.33,
+    "endTime": 217.33,
+    "text": "are among the most highly charged objects"
+  },
+  {
+    "startTime": 217.33,
+    "endTime": 219.33,
+    "text": "in our body."
+  },
+  {
+    "startTime": 219.33,
+    "endTime": 221.33,
+    "text": "As cell division begins"
+  },
+  {
+    "startTime": 221.33,
+    "endTime": 223.33,
+    "text": "the nucleus disintegrates,"
+  },
+  {
+    "startTime": 223.33,
+    "endTime": 225.33,
+    "text": "the chromosomes line up"
+  },
+  {
+    "startTime": 225.33,
+    "endTime": 227.33,
+    "text": "in the middle of the cell"
+  },
+  {
+    "startTime": 227.33,
+    "endTime": 229.33,
+    "text": "and those special proteins"
+  },
+  {
+    "startTime": 229.33,
+    "endTime": 233.33,
+    "text": "undergo a three-dimensional sequence"
+  },
+  {
+    "startTime": 233.33,
+    "endTime": 235.33,
+    "text": "whereby they attach"
+  },
+  {
+    "startTime": 235.33,
+    "endTime": 238.33,
+    "text": "and they literally click into place end-on-end"
+  },
+  {
+    "startTime": 238.33,
+    "endTime": 240.33,
+    "text": "to form chains."
+  },
+  {
+    "startTime": 240.33,
+    "endTime": 242.33,
+    "text": "These chains"
+  },
+  {
+    "startTime": 242.33,
+    "endTime": 244.33,
+    "text": "then progress and attach"
+  },
+  {
+    "startTime": 244.33,
+    "endTime": 247.33,
+    "text": "to the genetic material"
+  },
+  {
+    "startTime": 247.33,
+    "endTime": 249.33,
+    "text": "and pull the genetic material"
+  },
+  {
+    "startTime": 249.33,
+    "endTime": 251.33,
+    "text": "from one cell into two cells."
+  },
+  {
+    "startTime": 251.33,
+    "endTime": 253.33,
+    "text": "And this is exactly how"
+  },
+  {
+    "startTime": 253.33,
+    "endTime": 255.33,
+    "text": "one cancer cell becomes two cancer cells,"
+  },
+  {
+    "startTime": 255.33,
+    "endTime": 257.33000000000004,
+    "text": "two cancer cells become four cancer cells,"
+  },
+  {
+    "startTime": 257.329,
+    "endTime": 259.329,
+    "text": "and we have ultimately"
+  },
+  {
+    "startTime": 259.329,
+    "endTime": 262.33,
+    "text": "uncontrolled tumor growth."
+  },
+  {
+    "startTime": 262.33,
+    "endTime": 265.33,
+    "text": "Tumor Treating Fields"
+  },
+  {
+    "startTime": 265.33,
+    "endTime": 269.33,
+    "text": "use externally placed transducers"
+  },
+  {
+    "startTime": 269.33,
+    "endTime": 272.33,
+    "text": "attached to a field generator"
+  },
+  {
+    "startTime": 272.33,
+    "endTime": 276.33,
+    "text": "to create an artificial electric field"
+  },
+  {
+    "startTime": 276.33,
+    "endTime": 279.33,
+    "text": "on that space station."
+  },
+  {
+    "startTime": 279.33,
+    "endTime": 282.33,
+    "text": "And when that cellular space station"
+  },
+  {
+    "startTime": 282.33,
+    "endTime": 284.33,
+    "text": "is within the electric field,"
+  },
+  {
+    "startTime": 284.33,
+    "endTime": 288.33,
+    "text": "it acts on those highly charged proteins"
+  },
+  {
+    "startTime": 288.33,
+    "endTime": 290.33,
+    "text": "and aligns them."
+  },
+  {
+    "startTime": 290.33,
+    "endTime": 293.33,
+    "text": "And it prevents them from forming those chains,"
+  },
+  {
+    "startTime": 293.33,
+    "endTime": 295.33,
+    "text": "those mitotic spindles,"
+  },
+  {
+    "startTime": 295.33,
+    "endTime": 298.33,
+    "text": "that are necessary to pull the genetic material"
+  },
+  {
+    "startTime": 298.33,
+    "endTime": 300.33,
+    "text": "into the daughter cells."
+  },
+  {
+    "startTime": 300.33,
+    "endTime": 303.33,
+    "text": "What we see is that the cells will attempt to divide"
+  },
+  {
+    "startTime": 303.33,
+    "endTime": 305.33,
+    "text": "for several hours."
+  },
+  {
+    "startTime": 305.33,
+    "endTime": 308.33,
+    "text": "And they will either enter into"
+  },
+  {
+    "startTime": 308.33,
+    "endTime": 310.33,
+    "text": "this so-called cellular suicide,"
+  },
+  {
+    "startTime": 310.33,
+    "endTime": 312.33,
+    "text": "programmed cell death,"
+  },
+  {
+    "startTime": 312.33,
+    "endTime": 315.33,
+    "text": "or they will form unhealthy daughter cells"
+  },
+  {
+    "startTime": 315.33,
+    "endTime": 318.33,
+    "text": "and enter into apoptosis"
+  },
+  {
+    "startTime": 318.33,
+    "endTime": 320.33,
+    "text": "once they have divided."
+  },
+  {
+    "startTime": 320.33,
+    "endTime": 322.33,
+    "text": "And we can observe this."
+  },
+  {
+    "startTime": 322.33,
+    "endTime": 324.33,
+    "text": "What I'm going to show you next"
+  },
+  {
+    "startTime": 324.33,
+    "endTime": 326.33,
+    "text": "are two in vitro experiments."
+  },
+  {
+    "startTime": 326.33,
+    "endTime": 329.33,
+    "text": "This is cultures, identical cultures,"
+  },
+  {
+    "startTime": 329.33,
+    "endTime": 331.33,
+    "text": "of cervical cancer cells."
+  },
+  {
+    "startTime": 331.33,
+    "endTime": 333.33,
+    "text": "And we've stained these cultures"
+  },
+  {
+    "startTime": 333.33,
+    "endTime": 335.33,
+    "text": "with a green florescent dye"
+  },
+  {
+    "startTime": 335.33,
+    "endTime": 338.33,
+    "text": "so that we can look at these proteins"
+  },
+  {
+    "startTime": 338.33,
+    "endTime": 340.33,
+    "text": "that form these chains."
+  },
+  {
+    "startTime": 340.33,
+    "endTime": 342.33,
+    "text": "The first clip shows"
+  },
+  {
+    "startTime": 342.33,
+    "endTime": 345.33,
+    "text": "a normal cell division"
+  },
+  {
+    "startTime": 345.33,
+    "endTime": 348.33,
+    "text": "without the Tumor Treating Fields."
+  },
+  {
+    "startTime": 348.33,
+    "endTime": 350.33,
+    "text": "What we see"
+  },
+  {
+    "startTime": 350.33,
+    "endTime": 352.33,
+    "text": "are, first of all, a very active culture,"
+  },
+  {
+    "startTime": 352.33,
+    "endTime": 354.33,
+    "text": "a lot of divisions,"
+  },
+  {
+    "startTime": 354.33,
+    "endTime": 356.33,
+    "text": "and then very clear nuclei"
+  },
+  {
+    "startTime": 356.33,
+    "endTime": 358.33,
+    "text": "once the cells have separated."
+  },
+  {
+    "startTime": 358.33,
+    "endTime": 360.33,
+    "text": "And we can see them dividing throughout."
+  },
+  {
+    "startTime": 360.33,
+    "endTime": 362.33,
+    "text": "When we apply the fields --"
+  },
+  {
+    "startTime": 362.33,
+    "endTime": 364.33,
+    "text": "again, in the identical time-scale"
+  },
+  {
+    "startTime": 364.33,
+    "endTime": 366.33,
+    "text": "to the identical culture --"
+  },
+  {
+    "startTime": 366.33,
+    "endTime": 368.33,
+    "text": "you're going to see something different."
+  },
+  {
+    "startTime": 368.33,
+    "endTime": 370.33,
+    "text": "The cells round up for division,"
+  },
+  {
+    "startTime": 370.33,
+    "endTime": 373.33,
+    "text": "but they're very static in that position."
+  },
+  {
+    "startTime": 373.33,
+    "endTime": 375.33,
+    "text": "We'll see two cells"
+  },
+  {
+    "startTime": 375.33,
+    "endTime": 380.33,
+    "text": "in the upper part of the screen"
+  },
+  {
+    "startTime": 380.33,
+    "endTime": 382.33,
+    "text": "attempting to divide."
+  },
+  {
+    "startTime": 382.33,
+    "endTime": 384.33,
+    "text": "The one within the circle manages."
+  },
+  {
+    "startTime": 384.33,
+    "endTime": 386.33,
+    "text": "But see how much of the protein"
+  },
+  {
+    "startTime": 386.33,
+    "endTime": 388.33,
+    "text": "is still throughout the nucleus,"
+  },
+  {
+    "startTime": 388.33,
+    "endTime": 390.33,
+    "text": "even in the dividing cell."
+  },
+  {
+    "startTime": 390.33,
+    "endTime": 392.33,
+    "text": "The one up there can't divide at all."
+  },
+  {
+    "startTime": 392.33,
+    "endTime": 395.33,
+    "text": "And then this bubbling, this membrane bubbling,"
+  },
+  {
+    "startTime": 395.33,
+    "endTime": 397.33,
+    "text": "is the hallmark"
+  },
+  {
+    "startTime": 397.33,
+    "endTime": 400.33,
+    "text": "of apoptosis in this cell."
+  },
+  {
+    "startTime": 400.33,
+    "endTime": 404.33,
+    "text": "Formation of healthy mitotic spindles"
+  },
+  {
+    "startTime": 404.33,
+    "endTime": 407.33,
+    "text": "is necessary for division"
+  },
+  {
+    "startTime": 407.33,
+    "endTime": 409.33,
+    "text": "in all cell types."
+  },
+  {
+    "startTime": 409.33,
+    "endTime": 411.33,
+    "text": "We've applied Tumor Treating Fields"
+  },
+  {
+    "startTime": 411.33,
+    "endTime": 414.33,
+    "text": "to over 20 different cancers in the lab,"
+  },
+  {
+    "startTime": 414.33,
+    "endTime": 416.33,
+    "text": "and we see this effect"
+  },
+  {
+    "startTime": 416.33,
+    "endTime": 419.33,
+    "text": "in all of them."
+  },
+  {
+    "startTime": 419.33,
+    "endTime": 421.33,
+    "text": "Now importantly,"
+  },
+  {
+    "startTime": 421.33,
+    "endTime": 424.33,
+    "text": "these Tumor Treating Fields have no effect"
+  },
+  {
+    "startTime": 424.33,
+    "endTime": 426.33,
+    "text": "on normal undividing cells."
+  },
+  {
+    "startTime": 426.33,
+    "endTime": 428.33,
+    "text": "10 years ago,"
+  },
+  {
+    "startTime": 428.33,
+    "endTime": 431.33,
+    "text": "Dr. Palti founded a company called Novocure"
+  },
+  {
+    "startTime": 431.33,
+    "endTime": 434.33,
+    "text": "to develop his discovery"
+  },
+  {
+    "startTime": 434.33,
+    "endTime": 437.33,
+    "text": "into a practical therapy for patients."
+  },
+  {
+    "startTime": 437.33,
+    "endTime": 441.33,
+    "text": "In that time, Novocure's developed two systems --"
+  },
+  {
+    "startTime": 441.33,
+    "endTime": 444.33,
+    "text": "one system for cancers in the head"
+  },
+  {
+    "startTime": 444.33,
+    "endTime": 447.33,
+    "text": "and another system for cancers in the trunk of the body."
+  },
+  {
+    "startTime": 447.33,
+    "endTime": 450.33,
+    "text": "The first cancer that we have focused on"
+  },
+  {
+    "startTime": 450.33,
+    "endTime": 453.33,
+    "text": "is the deadly brain cancer, GBM."
+  },
+  {
+    "startTime": 453.33,
+    "endTime": 456.33,
+    "text": "GBM affects about 10,000 people"
+  },
+  {
+    "startTime": 456.33,
+    "endTime": 459.33,
+    "text": "in the U.S. each year."
+  },
+  {
+    "startTime": 459.33,
+    "endTime": 461.33,
+    "text": "It's a death sentence."
+  },
+  {
+    "startTime": 461.33,
+    "endTime": 463.33,
+    "text": "The expected five year survival"
+  },
+  {
+    "startTime": 463.33,
+    "endTime": 465.33,
+    "text": "is less than five percent."
+  },
+  {
+    "startTime": 465.33,
+    "endTime": 467.33,
+    "text": "And the typical patient"
+  },
+  {
+    "startTime": 467.33,
+    "endTime": 469.33,
+    "text": "with optimal therapy"
+  },
+  {
+    "startTime": 469.33,
+    "endTime": 472.33,
+    "text": "survives just a little over a year,"
+  },
+  {
+    "startTime": 472.33,
+    "endTime": 474.33,
+    "text": "and only about seven months"
+  },
+  {
+    "startTime": 474.33,
+    "endTime": 477.33,
+    "text": "from the time that the cancer is first treated"
+  },
+  {
+    "startTime": 477.33,
+    "endTime": 480.33,
+    "text": "and then comes back and starts growing again."
+  },
+  {
+    "startTime": 482.33,
+    "endTime": 484.33,
+    "text": "Novocure conducted"
+  },
+  {
+    "startTime": 484.33,
+    "endTime": 486.33,
+    "text": "its first phase three randomized trial"
+  },
+  {
+    "startTime": 486.33,
+    "endTime": 488.33,
+    "text": "in patients with recurrent GBM."
+  },
+  {
+    "startTime": 488.33,
+    "endTime": 490.33,
+    "text": "So these are patients"
+  },
+  {
+    "startTime": 490.33,
+    "endTime": 494.33,
+    "text": "who had received surgery,"
+  },
+  {
+    "startTime": 494.33,
+    "endTime": 496.33,
+    "text": "high dose radiation to the head"
+  },
+  {
+    "startTime": 496.33,
+    "endTime": 498.33,
+    "text": "and first-line chemotherapy,"
+  },
+  {
+    "startTime": 498.33,
+    "endTime": 501.33,
+    "text": "and that had failed and their tumors had grown back."
+  },
+  {
+    "startTime": 501.33,
+    "endTime": 504.33,
+    "text": "We divided the patients into two groups."
+  },
+  {
+    "startTime": 504.33,
+    "endTime": 507.33,
+    "text": "The first group received second-line chemotherapy,"
+  },
+  {
+    "startTime": 507.33,
+    "endTime": 510.33,
+    "text": "which is expected to double the life expectancy,"
+  },
+  {
+    "startTime": 510.33,
+    "endTime": 512.329,
+    "text": "versus no treatment at all."
+  },
+  {
+    "startTime": 512.33,
+    "endTime": 514.33,
+    "text": "And then the second group"
+  },
+  {
+    "startTime": 514.33,
+    "endTime": 517.33,
+    "text": "received only Tumor Treating Field therapy."
+  },
+  {
+    "startTime": 517.33,
+    "endTime": 519.33,
+    "text": "What we saw in that trial"
+  },
+  {
+    "startTime": 519.33,
+    "endTime": 522.33,
+    "text": "is that that the life expectancies of both groups --"
+  },
+  {
+    "startTime": 522.33,
+    "endTime": 524.33,
+    "text": "so the chemotherapy treated group"
+  },
+  {
+    "startTime": 524.33,
+    "endTime": 526.33,
+    "text": "and the Tumor Treating Field group --"
+  },
+  {
+    "startTime": 526.33,
+    "endTime": 528.33,
+    "text": "was the same."
+  },
+  {
+    "startTime": 528.33,
+    "endTime": 530.33,
+    "text": "But importantly,"
+  },
+  {
+    "startTime": 530.33,
+    "endTime": 533.33,
+    "text": "the Tumor Treating Field group"
+  },
+  {
+    "startTime": 533.33,
+    "endTime": 536.33,
+    "text": "suffered none of the side effects"
+  },
+  {
+    "startTime": 536.33,
+    "endTime": 539.33,
+    "text": "typical of chemotherapy patients."
+  },
+  {
+    "startTime": 539.33,
+    "endTime": 541.33,
+    "text": "They had no pain,"
+  },
+  {
+    "startTime": 541.33,
+    "endTime": 544.33,
+    "text": "suffered none of the infections."
+  },
+  {
+    "startTime": 544.33,
+    "endTime": 547.33,
+    "text": "They had no nausea, diarrhea,"
+  },
+  {
+    "startTime": 547.33,
+    "endTime": 550.33,
+    "text": "constipation, fatigue"
+  },
+  {
+    "startTime": 550.33,
+    "endTime": 552.33,
+    "text": "that would be expected."
+  },
+  {
+    "startTime": 552.33,
+    "endTime": 554.33,
+    "text": "Based on this trial,"
+  },
+  {
+    "startTime": 554.33,
+    "endTime": 556.33,
+    "text": "in April of this year,"
+  },
+  {
+    "startTime": 556.33,
+    "endTime": 559.33,
+    "text": "the FDA approved Tumor Treating Fields"
+  },
+  {
+    "startTime": 559.33,
+    "endTime": 561.33,
+    "text": "for the treatment of patients"
+  },
+  {
+    "startTime": 561.33,
+    "endTime": 564.33,
+    "text": "with recurrent GBM."
+  },
+  {
+    "startTime": 564.33,
+    "endTime": 567.33,
+    "text": "Importantly, it was the first time ever"
+  },
+  {
+    "startTime": 567.33,
+    "endTime": 569.33,
+    "text": "that the FDA included"
+  },
+  {
+    "startTime": 569.33,
+    "endTime": 572.33,
+    "text": "in their approval of an oncology treatment"
+  },
+  {
+    "startTime": 572.33,
+    "endTime": 574.33,
+    "text": "a quality of life claim."
+  },
+  {
+    "startTime": 576.33,
+    "endTime": 579.33,
+    "text": "So I'm going to show you now"
+  },
+  {
+    "startTime": 579.33,
+    "endTime": 581.33,
+    "text": "one of the patients"
+  },
+  {
+    "startTime": 581.33,
+    "endTime": 584.33,
+    "text": "from this trial."
+  },
+  {
+    "startTime": 584.33,
+    "endTime": 586.33,
+    "text": "Robert Dill-Bundi"
+  },
+  {
+    "startTime": 586.33,
+    "endTime": 588.33,
+    "text": "is a famous Swiss cycling champion."
+  },
+  {
+    "startTime": 588.33,
+    "endTime": 590.33,
+    "text": "He won the gold medal in Moscow"
+  },
+  {
+    "startTime": 590.33,
+    "endTime": 593.33,
+    "text": "in the 4,000 meter pursuit."
+  },
+  {
+    "startTime": 593.33,
+    "endTime": 596.33,
+    "text": "And five years ago,"
+  },
+  {
+    "startTime": 596.33,
+    "endTime": 599.33,
+    "text": "Robert was diagnosed with GBM."
+  },
+  {
+    "startTime": 599.33,
+    "endTime": 601.33,
+    "text": "He received the standard treatments."
+  },
+  {
+    "startTime": 601.33,
+    "endTime": 604.33,
+    "text": "He received surgery."
+  },
+  {
+    "startTime": 604.33,
+    "endTime": 607.33,
+    "text": "He received high dose radiation to the head."
+  },
+  {
+    "startTime": 607.33,
+    "endTime": 610.33,
+    "text": "And he received first-line chemotherapy."
+  },
+  {
+    "startTime": 610.33,
+    "endTime": 612.33,
+    "text": "A year after this treatment --"
+  },
+  {
+    "startTime": 612.33,
+    "endTime": 615.33,
+    "text": "in fact, this is his baseline MRI."
+  },
+  {
+    "startTime": 615.33,
+    "endTime": 618.33,
+    "text": "You can see that the black regions"
+  },
+  {
+    "startTime": 618.33,
+    "endTime": 620.33,
+    "text": "in the upper right quadrant"
+  },
+  {
+    "startTime": 620.33,
+    "endTime": 622.33,
+    "text": "are the areas where he had surgery."
+  },
+  {
+    "startTime": 622.33,
+    "endTime": 624.33,
+    "text": "And a year after that treatment,"
+  },
+  {
+    "startTime": 624.33,
+    "endTime": 627.33,
+    "text": "his tumor grew back with a vengeance."
+  },
+  {
+    "startTime": 627.33,
+    "endTime": 630.33,
+    "text": "That cloudy white mass that you see"
+  },
+  {
+    "startTime": 630.33,
+    "endTime": 633.33,
+    "text": "is the recurrence of the tumor."
+  },
+  {
+    "startTime": 633.33,
+    "endTime": 636.33,
+    "text": "At this point, he was told by his doctors"
+  },
+  {
+    "startTime": 636.33,
+    "endTime": 639.33,
+    "text": "that he had about 3 months to live."
+  },
+  {
+    "startTime": 639.33,
+    "endTime": 641.33,
+    "text": "He entered our trial."
+  },
+  {
+    "startTime": 641.33,
+    "endTime": 644.33,
+    "text": "And here we can see him getting the therapy."
+  },
+  {
+    "startTime": 644.33,
+    "endTime": 647.33,
+    "text": "First of all, these electrodes are noninvasive."
+  },
+  {
+    "startTime": 647.33,
+    "endTime": 649.33,
+    "text": "They're attached to the skin"
+  },
+  {
+    "startTime": 649.33,
+    "endTime": 651.33,
+    "text": "in the area of the tumor."
+  },
+  {
+    "startTime": 651.33,
+    "endTime": 653.33,
+    "text": "Here you can see"
+  },
+  {
+    "startTime": 653.33,
+    "endTime": 656.33,
+    "text": "that a technician is placing them on there much like bandages."
+  },
+  {
+    "startTime": 656.33,
+    "endTime": 659.33,
+    "text": "The patients learn to do this themselves"
+  },
+  {
+    "startTime": 659.33,
+    "endTime": 662.33,
+    "text": "And then the patients"
+  },
+  {
+    "startTime": 662.33,
+    "endTime": 665.33,
+    "text": "can undergo all the activities of their daily life."
+  },
+  {
+    "startTime": 665.33,
+    "endTime": 667.33,
+    "text": "There's none of the tiredness."
+  },
+  {
+    "startTime": 667.33,
+    "endTime": 670.33,
+    "text": "There's none of what is called the \"chemo head.\""
+  },
+  {
+    "startTime": 670.33,
+    "endTime": 672.33,
+    "text": "There's no sensation."
+  },
+  {
+    "startTime": 672.33,
+    "endTime": 674.33,
+    "text": "It doesn't interfere"
+  },
+  {
+    "startTime": 674.33,
+    "endTime": 677.33,
+    "text": "with computers or electrical equipment."
+  },
+  {
+    "startTime": 677.33,
+    "endTime": 679.33,
+    "text": "And the therapy is delivered continuously"
+  },
+  {
+    "startTime": 679.33,
+    "endTime": 681.33,
+    "text": "at home,"
+  },
+  {
+    "startTime": 681.33,
+    "endTime": 683.33,
+    "text": "without having to go into the hospital"
+  },
+  {
+    "startTime": 683.33,
+    "endTime": 686.33,
+    "text": "either periodically or continually."
+  },
+  {
+    "startTime": 686.33,
+    "endTime": 689.33,
+    "text": "These are Robert's MRIs,"
+  },
+  {
+    "startTime": 689.33,
+    "endTime": 692.33,
+    "text": "again, under only TTField treatment."
+  },
+  {
+    "startTime": 692.33,
+    "endTime": 695.33,
+    "text": "This is a therapy that takes time to work."
+  },
+  {
+    "startTime": 695.33,
+    "endTime": 697.33,
+    "text": "It's a medical device;"
+  },
+  {
+    "startTime": 697.33,
+    "endTime": 699.33,
+    "text": "it works when it's on."
+  },
+  {
+    "startTime": 699.33,
+    "endTime": 701.33,
+    "text": "But what we can see is, by month six,"
+  },
+  {
+    "startTime": 701.33,
+    "endTime": 704.33,
+    "text": "the tumor has responded"
+  },
+  {
+    "startTime": 704.33,
+    "endTime": 707.33,
+    "text": "and it's begun to melt away."
+  },
+  {
+    "startTime": 707.33,
+    "endTime": 709.33,
+    "text": "It's still there."
+  },
+  {
+    "startTime": 709.33,
+    "endTime": 711.33,
+    "text": "By month 12,"
+  },
+  {
+    "startTime": 711.33,
+    "endTime": 713.33,
+    "text": "we could argue whether"
+  },
+  {
+    "startTime": 713.33,
+    "endTime": 715.33,
+    "text": "there's a little bit of material around the edges,"
+  },
+  {
+    "startTime": 715.33,
+    "endTime": 718.33,
+    "text": "but it's essentially completely gone."
+  },
+  {
+    "startTime": 718.33,
+    "endTime": 720.33,
+    "text": "It's now five years"
+  },
+  {
+    "startTime": 720.33,
+    "endTime": 722.33,
+    "text": "since Robert's diagnosis,"
+  },
+  {
+    "startTime": 722.33,
+    "endTime": 725.33,
+    "text": "and he's alive,"
+  },
+  {
+    "startTime": 725.33,
+    "endTime": 727.33,
+    "text": "but importantly, he's healthy"
+  },
+  {
+    "startTime": 727.33,
+    "endTime": 729.33,
+    "text": "and he's at work."
+  },
+  {
+    "startTime": 729.33,
+    "endTime": 731.33,
+    "text": "I'm going to let him, in this very short clip,"
+  },
+  {
+    "startTime": 731.33,
+    "endTime": 733.33,
+    "text": "describe his impressions of the therapy"
+  },
+  {
+    "startTime": 733.33,
+    "endTime": 735.33,
+    "text": "in his own words."
+  },
+  {
+    "startTime": 735.33,
+    "endTime": 737.33,
+    "text": "(Video) Robert Dill-Bundi: My quality of life,"
+  },
+  {
+    "startTime": 737.33,
+    "endTime": 739.33,
+    "text": "I rate what I have today"
+  },
+  {
+    "startTime": 739.33,
+    "endTime": 743.33,
+    "text": "a bit different than what most people would assume."
+  },
+  {
+    "startTime": 743.33,
+    "endTime": 748.33,
+    "text": "I am the happiest, the happiest person in the world."
+  },
+  {
+    "startTime": 748.33,
+    "endTime": 752.33,
+    "text": "And every single morning I appreciate life."
+  },
+  {
+    "startTime": 752.33,
+    "endTime": 755.33,
+    "text": "Every night I fall asleep very well,"
+  },
+  {
+    "startTime": 755.33,
+    "endTime": 758.33,
+    "text": "and I am, I repeat,"
+  },
+  {
+    "startTime": 758.33,
+    "endTime": 760.33,
+    "text": "the happiest man in the world,"
+  },
+  {
+    "startTime": 760.33,
+    "endTime": 763.33,
+    "text": "and I'm thankful I am alive."
+  },
+  {
+    "startTime": 765.33,
+    "endTime": 768.33,
+    "text": "BD: Novocure's also working on lung cancer"
+  },
+  {
+    "startTime": 768.33,
+    "endTime": 770.33,
+    "text": "as the second target."
+  },
+  {
+    "startTime": 770.33,
+    "endTime": 772.33,
+    "text": "We've run a phase two trial"
+  },
+  {
+    "startTime": 772.33,
+    "endTime": 774.33,
+    "text": "in Switzerland"
+  },
+  {
+    "startTime": 774.33,
+    "endTime": 776.33,
+    "text": "on, again, recurrent patients --"
+  },
+  {
+    "startTime": 776.33,
+    "endTime": 779.33,
+    "text": "patients who have received standard therapy"
+  },
+  {
+    "startTime": 779.33,
+    "endTime": 782.33,
+    "text": "and whose cancer has come back."
+  },
+  {
+    "startTime": 782.33,
+    "endTime": 784.33,
+    "text": "I'm going to show you another clip"
+  },
+  {
+    "startTime": 784.33,
+    "endTime": 786.33,
+    "text": "of a woman named Lydia."
+  },
+  {
+    "startTime": 786.33,
+    "endTime": 788.33,
+    "text": "Lydia's a 66 year-old farmer"
+  },
+  {
+    "startTime": 788.33,
+    "endTime": 790.33,
+    "text": "in Switzerland."
+  },
+  {
+    "startTime": 790.33,
+    "endTime": 792.33,
+    "text": "She was diagnosed with lung cancer"
+  },
+  {
+    "startTime": 792.33,
+    "endTime": 794.33,
+    "text": "five years ago."
+  },
+  {
+    "startTime": 794.33,
+    "endTime": 797.33,
+    "text": "She underwent four different regimes of chemotherapy"
+  },
+  {
+    "startTime": 797.33,
+    "endTime": 799.33,
+    "text": "over two years,"
+  },
+  {
+    "startTime": 799.33,
+    "endTime": 801.33,
+    "text": "none of which had an effect."
+  },
+  {
+    "startTime": 801.33,
+    "endTime": 803.33,
+    "text": "Her cancer continued to grow."
+  },
+  {
+    "startTime": 803.33,
+    "endTime": 805.33,
+    "text": "Three years ago,"
+  },
+  {
+    "startTime": 805.33,
+    "endTime": 809.33,
+    "text": "she entered the Novocure lung cancer trial."
+  },
+  {
+    "startTime": 809.33,
+    "endTime": 811.33,
+    "text": "You can see, in her case,"
+  },
+  {
+    "startTime": 811.33,
+    "endTime": 813.33,
+    "text": "she's wearing her transducer arrays,"
+  },
+  {
+    "startTime": 813.33,
+    "endTime": 816.33,
+    "text": "one of the front of her chest, one on the back,"
+  },
+  {
+    "startTime": 816.33,
+    "endTime": 819.33,
+    "text": "and then the second pair side-to-side over the liver."
+  },
+  {
+    "startTime": 819.33,
+    "endTime": 822.33,
+    "text": "You can see the Tumor Treating Field field generator,"
+  },
+  {
+    "startTime": 822.33,
+    "endTime": 825.33,
+    "text": "but importantly you can also see that she is living her life."
+  },
+  {
+    "startTime": 825.33,
+    "endTime": 827.33,
+    "text": "She is managing her farm."
+  },
+  {
+    "startTime": 827.33,
+    "endTime": 830.33,
+    "text": "She's interacting with her kids and her grand kids."
+  },
+  {
+    "startTime": 830.33,
+    "endTime": 833.33,
+    "text": "And when we talked to her,"
+  },
+  {
+    "startTime": 833.33,
+    "endTime": 835.33,
+    "text": "she said that when she was undergoing chemotherapy,"
+  },
+  {
+    "startTime": 835.33,
+    "endTime": 838.33,
+    "text": "she had to go to the hospital every month for her infusions."
+  },
+  {
+    "startTime": 838.33,
+    "endTime": 840.33,
+    "text": "Her whole family suffered"
+  },
+  {
+    "startTime": 840.33,
+    "endTime": 842.33,
+    "text": "as her side effect profile came and went."
+  },
+  {
+    "startTime": 842.33,
+    "endTime": 844.33,
+    "text": "Now she can run"
+  },
+  {
+    "startTime": 844.33,
+    "endTime": 847.33,
+    "text": "all of the activities of her farm."
+  },
+  {
+    "startTime": 847.33,
+    "endTime": 849.33,
+    "text": "It's only the beginning."
+  },
+  {
+    "startTime": 849.33,
+    "endTime": 856.33,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 856.33,
+    "endTime": 860.33,
+    "text": "In the lab, we've observed tremendous synergies"
+  },
+  {
+    "startTime": 860.33,
+    "endTime": 863.33,
+    "text": "between chemotherapy and Tumor Treating Fields."
+  },
+  {
+    "startTime": 863.33,
+    "endTime": 866.33,
+    "text": "There's research underway now at Harvard Medical School"
+  },
+  {
+    "startTime": 866.33,
+    "endTime": 868.33,
+    "text": "to pick the optimum pairs"
+  },
+  {
+    "startTime": 868.33,
+    "endTime": 870.33,
+    "text": "to maximize that benefit."
+  },
+  {
+    "startTime": 870.33,
+    "endTime": 873.33,
+    "text": "We also believe that Tumor Treating Fields will work with radiation"
+  },
+  {
+    "startTime": 873.33,
+    "endTime": 877.33,
+    "text": "and interrupt the self-repair mechanisms that we have."
+  },
+  {
+    "startTime": 877.33,
+    "endTime": 879.33,
+    "text": "There's now a new research project underway"
+  },
+  {
+    "startTime": 879.33,
+    "endTime": 881.33,
+    "text": "at the Karolinska in Sweden"
+  },
+  {
+    "startTime": 881.33,
+    "endTime": 883.33,
+    "text": "to prove that hypothesis."
+  },
+  {
+    "startTime": 883.33,
+    "endTime": 885.33,
+    "text": "We have more trials planned"
+  },
+  {
+    "startTime": 885.33,
+    "endTime": 887.33,
+    "text": "for lung cancer,"
+  },
+  {
+    "startTime": 887.33,
+    "endTime": 889.33,
+    "text": "pancreatic cancer, ovarian cancer"
+  },
+  {
+    "startTime": 889.33,
+    "endTime": 891.33,
+    "text": "and breast cancer."
+  },
+  {
+    "startTime": 891.33,
+    "endTime": 893.33,
+    "text": "And I firmly believe"
+  },
+  {
+    "startTime": 893.33,
+    "endTime": 895.33,
+    "text": "that in the next 10 years"
+  },
+  {
+    "startTime": 895.33,
+    "endTime": 897.33,
+    "text": "Tumor Treating Fields"
+  },
+  {
+    "startTime": 897.33,
+    "endTime": 900.33,
+    "text": "will be a weapon available to doctors and patients"
+  },
+  {
+    "startTime": 900.33,
+    "endTime": 905.33,
+    "text": "for all of these most-difficult-to-treat solid tumors."
+  },
+  {
+    "startTime": 906.33,
+    "endTime": 908.33,
+    "text": "I'm also very hopeful"
+  },
+  {
+    "startTime": 908.33,
+    "endTime": 910.33,
+    "text": "that in the next decades,"
+  },
+  {
+    "startTime": 910.33,
+    "endTime": 912.33,
+    "text": "we will make big strides"
+  },
+  {
+    "startTime": 912.33,
+    "endTime": 915.33,
+    "text": "on reducing that death rate"
+  },
+  {
+    "startTime": 915.33,
+    "endTime": 918.33,
+    "text": "that has been so challenging in this disease."
+  },
+  {
+    "startTime": 918.33,
+    "endTime": 920.33,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 920.33,
+    "endTime": 929.33,
+    "text": "(Applause)"
+  }
+]

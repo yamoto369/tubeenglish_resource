@@ -1,0 +1,2422 @@
+[
+  {
+    "startTime": 2.61,
+    "endTime": 12.29,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 12.29,
+    "endTime": 12.51,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 12.51,
+    "endTime": 15.779,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 17.119,
+    "endTime": 19.279,
+    "text": "because I usually take the role of"
+  },
+  {
+    "startTime": 19.279,
+    "endTime": 21.48,
+    "text": "trying to explain to people how"
+  },
+  {
+    "startTime": 21.48,
+    "endTime": 23.279,
+    "text": "wonderful the new technologies that are"
+  },
+  {
+    "startTime": 23.279,
+    "endTime": 26.039,
+    "text": "coming along are going to be and I"
+  },
+  {
+    "startTime": 26.039,
+    "endTime": 27.92,
+    "text": "thought that since I was among friends"
+  },
+  {
+    "startTime": 27.92,
+    "endTime": 29.759,
+    "text": "here I would tell you what I really"
+  },
+  {
+    "startTime": 29.759,
+    "endTime": 31.84,
+    "text": "think"
+  },
+  {
+    "startTime": 31.84,
+    "endTime": 34.399,
+    "text": "um and try to look back and try to"
+  },
+  {
+    "startTime": 34.399,
+    "endTime": 37.52,
+    "text": "understand what is really going on here"
+  },
+  {
+    "startTime": 37.52,
+    "endTime": 41.76,
+    "text": "um with these amazing uh jumps in"
+  },
+  {
+    "startTime": 41.76,
+    "endTime": 44.039,
+    "text": "technology that seems so fast that we"
+  },
+  {
+    "startTime": 44.039,
+    "endTime": 46.28,
+    "text": "can we can barely keep on top of it so"
+  },
+  {
+    "startTime": 46.28,
+    "endTime": 47.6,
+    "text": "I'm going to start out by showing just"
+  },
+  {
+    "startTime": 47.6,
+    "endTime": 50.64,
+    "text": "one very boring technology slide and"
+  },
+  {
+    "startTime": 50.64,
+    "endTime": 53.399,
+    "text": "then so if you can just turn on the"
+  },
+  {
+    "startTime": 53.399,
+    "endTime": 55.879,
+    "text": "slide that's"
+  },
+  {
+    "startTime": 55.879,
+    "endTime": 59.399,
+    "text": "on this is just a random slide that I I"
+  },
+  {
+    "startTime": 59.399,
+    "endTime": 61.76,
+    "text": "picked out of my file and what I want to"
+  },
+  {
+    "startTime": 61.76,
+    "endTime": 63.719,
+    "text": "show you is not so much the details of"
+  },
+  {
+    "startTime": 63.719,
+    "endTime": 65.36,
+    "text": "this slide but the general form of it"
+  },
+  {
+    "startTime": 65.36,
+    "endTime": 66.799,
+    "text": "this happens to be a slide of some"
+  },
+  {
+    "startTime": 66.799,
+    "endTime": 69.799,
+    "text": "analysis that we were doing about uh the"
+  },
+  {
+    "startTime": 69.799,
+    "endTime": 72.32,
+    "text": "power of risk microprocessors versus the"
+  },
+  {
+    "startTime": 72.32,
+    "endTime": 74.84,
+    "text": "power of local area networks the"
+  },
+  {
+    "startTime": 74.84,
+    "endTime": 78.64,
+    "text": "interesting thing about it is that this"
+  },
+  {
+    "startTime": 78.64,
+    "endTime": 80.84,
+    "text": "slide like so many technology slides"
+  },
+  {
+    "startTime": 80.84,
+    "endTime": 83.079,
+    "text": "that we're used to is a sort of a"
+  },
+  {
+    "startTime": 83.079,
+    "endTime": 86.56,
+    "text": "straight line on a semi log curve in"
+  },
+  {
+    "startTime": 86.56,
+    "endTime": 88.439,
+    "text": "other words every step here represents"
+  },
+  {
+    "startTime": 88.439,
+    "endTime": 91.0,
+    "text": "an order of magnitude and performance"
+  },
+  {
+    "startTime": 91.0,
+    "endTime": 94.28,
+    "text": "game and we're sort of the this is a new"
+  },
+  {
+    "startTime": 94.28,
+    "endTime": 96.36,
+    "text": "thing that we talk about technology on"
+  },
+  {
+    "startTime": 96.36,
+    "endTime": 99.04,
+    "text": "semi log curves something really weird"
+  },
+  {
+    "startTime": 99.04,
+    "endTime": 101.079,
+    "text": "is going on here and that's basically"
+  },
+  {
+    "startTime": 101.079,
+    "endTime": 102.759,
+    "text": "what I'm going to be talking about so if"
+  },
+  {
+    "startTime": 102.759,
+    "endTime": 105.32,
+    "text": "you bring up the"
+  },
+  {
+    "startTime": 107.24,
+    "endTime": 109.64,
+    "text": "lights if you bring up the lights higher"
+  },
+  {
+    "startTime": 109.64,
+    "endTime": 110.68,
+    "text": "because I'm just going to use a piece of"
+  },
+  {
+    "startTime": 110.68,
+    "endTime": 114.56,
+    "text": "paper here now why do we draw technology"
+  },
+  {
+    "startTime": 114.56,
+    "endTime": 116.84,
+    "text": "curves on semi log curves well the"
+  },
+  {
+    "startTime": 116.84,
+    "endTime": 118.6,
+    "text": "answer is if if I drew it on a normal"
+  },
+  {
+    "startTime": 118.6,
+    "endTime": 122.039,
+    "text": "curve where let's say this is years this"
+  },
+  {
+    "startTime": 122.039,
+    "endTime": 124.32,
+    "text": "is time of some sort and this is"
+  },
+  {
+    "startTime": 124.32,
+    "endTime": 126.079,
+    "text": "whatever measure of the"
+  },
+  {
+    "startTime": 126.079,
+    "endTime": 129.479,
+    "text": "technology that that I'm trying to graph"
+  },
+  {
+    "startTime": 129.479,
+    "endTime": 132.76,
+    "text": "um the graphs look sort of silly they"
+  },
+  {
+    "startTime": 132.76,
+    "endTime": 135.4,
+    "text": "sort of go like"
+  },
+  {
+    "startTime": 135.4,
+    "endTime": 138.0,
+    "text": "this and they don't tell us"
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 141.599,
+    "text": "much now if I graph for instance some"
+  },
+  {
+    "startTime": 141.599,
+    "endTime": 143.64,
+    "text": "other technology say transportation"
+  },
+  {
+    "startTime": 143.64,
+    "endTime": 146.2,
+    "text": "technology on a semi log curve it would"
+  },
+  {
+    "startTime": 146.2,
+    "endTime": 147.4,
+    "text": "look very stupid it would look like a"
+  },
+  {
+    "startTime": 147.4,
+    "endTime": 149.56,
+    "text": "flat line when something like this"
+  },
+  {
+    "startTime": 149.56,
+    "endTime": 150.56,
+    "text": "happens"
+  },
+  {
+    "startTime": 150.56,
+    "endTime": 152.44,
+    "text": "things are qualitatively changing so if"
+  },
+  {
+    "startTime": 152.44,
+    "endTime": 154.36,
+    "text": "transportation technology was moving"
+  },
+  {
+    "startTime": 154.36,
+    "endTime": 156.56,
+    "text": "along as fast as microprocessor"
+  },
+  {
+    "startTime": 156.56,
+    "endTime": 159.239,
+    "text": "technology uh then sort of day after"
+  },
+  {
+    "startTime": 159.239,
+    "endTime": 160.76,
+    "text": "tomorrow I would be able to get in a"
+  },
+  {
+    "startTime": 160.76,
+    "endTime": 164.2,
+    "text": "taxi cab and be in Tokyo in 30 seconds"
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 165.879,
+    "text": "it's not it's not moving like that and"
+  },
+  {
+    "startTime": 165.879,
+    "endTime": 167.48,
+    "text": "there's nothing precedented in the"
+  },
+  {
+    "startTime": 167.48,
+    "endTime": 169.84,
+    "text": "history of Technology development of"
+  },
+  {
+    "startTime": 169.84,
+    "endTime": 171.8,
+    "text": "this kind of self-feeding growth where"
+  },
+  {
+    "startTime": 171.8,
+    "endTime": 174.28,
+    "text": "you go by orders of magnitude every few"
+  },
+  {
+    "startTime": 174.28,
+    "endTime": 177.2,
+    "text": "years now the question that I'd like to"
+  },
+  {
+    "startTime": 177.2,
+    "endTime": 179.84,
+    "text": "ask is if you look at these these"
+  },
+  {
+    "startTime": 179.84,
+    "endTime": 183.0,
+    "text": "exponential curves they don't go on"
+  },
+  {
+    "startTime": 183.0,
+    "endTime": 185.599,
+    "text": "forever we can't things just can't"
+  },
+  {
+    "startTime": 185.599,
+    "endTime": 188.04,
+    "text": "possibly keep changing as fast as they"
+  },
+  {
+    "startTime": 188.04,
+    "endTime": 191.56,
+    "text": "are one of two things is going to happen"
+  },
+  {
+    "startTime": 191.56,
+    "endTime": 193.2,
+    "text": "either it's going to turn into sort of"
+  },
+  {
+    "startTime": 193.2,
+    "endTime": 196.68,
+    "text": "classical S curve like this until"
+  },
+  {
+    "startTime": 196.68,
+    "endTime": 199.72,
+    "text": "something totally different comes along"
+  },
+  {
+    "startTime": 199.72,
+    "endTime": 203.08,
+    "text": "uh or maybe it's going to do this that's"
+  },
+  {
+    "startTime": 203.08,
+    "endTime": 206.04,
+    "text": "about all it can do now I'm an optimist"
+  },
+  {
+    "startTime": 206.04,
+    "endTime": 207.599,
+    "text": "so I sort of think it's probably going"
+  },
+  {
+    "startTime": 207.599,
+    "endTime": 210.239,
+    "text": "to do something like that if so that"
+  },
+  {
+    "startTime": 210.239,
+    "endTime": 211.879,
+    "text": "means that what we're in the middle of"
+  },
+  {
+    "startTime": 211.879,
+    "endTime": 214.4,
+    "text": "right now is a transition we're sort of"
+  },
+  {
+    "startTime": 214.4,
+    "endTime": 216.84,
+    "text": "on this line in a transition from the"
+  },
+  {
+    "startTime": 216.84,
+    "endTime": 218.599,
+    "text": "way that the world used to be to some"
+  },
+  {
+    "startTime": 218.599,
+    "endTime": 221.439,
+    "text": "new way that the world is and so what"
+  },
+  {
+    "startTime": 221.439,
+    "endTime": 223.519,
+    "text": "I'm trying to ask what I've been asking"
+  },
+  {
+    "startTime": 223.519,
+    "endTime": 226.04,
+    "text": "myself is what's this new way that the"
+  },
+  {
+    "startTime": 226.04,
+    "endTime": 227.879,
+    "text": "world is what's that new state that the"
+  },
+  {
+    "startTime": 227.879,
+    "endTime": 230.0,
+    "text": "world is heading toward because the"
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 232.68,
+    "text": "transition seems very very confusing"
+  },
+  {
+    "startTime": 232.68,
+    "endTime": 235.319,
+    "text": "when we're right in the middle of it now"
+  },
+  {
+    "startTime": 235.319,
+    "endTime": 237.4,
+    "text": "when I was a kid growing"
+  },
+  {
+    "startTime": 237.4,
+    "endTime": 240.599,
+    "text": "up the future was kind of the year 2000"
+  },
+  {
+    "startTime": 240.599,
+    "endTime": 242.079,
+    "text": "and people used to talk about what would"
+  },
+  {
+    "startTime": 242.079,
+    "endTime": 243.72,
+    "text": "happen in the year"
+  },
+  {
+    "startTime": 243.72,
+    "endTime": 247.48,
+    "text": "2000 um now here's a conference in which"
+  },
+  {
+    "startTime": 247.48,
+    "endTime": 249.439,
+    "text": "people talk about the future and you"
+  },
+  {
+    "startTime": 249.439,
+    "endTime": 251.0,
+    "text": "notice that the future is still at about"
+  },
+  {
+    "startTime": 251.0,
+    "endTime": 253.079,
+    "text": "the year 2000 it's about as far as we go"
+  },
+  {
+    "startTime": 253.079,
+    "endTime": 255.159,
+    "text": "out so in other words the future has"
+  },
+  {
+    "startTime": 255.159,
+    "endTime": 259.239,
+    "text": "kind of been shrinking one year per"
+  },
+  {
+    "startTime": 259.239,
+    "endTime": 262.44,
+    "text": "year for my whole"
+  },
+  {
+    "startTime": 262.44,
+    "endTime": 265.36,
+    "text": "lifetime now I think that the reason is"
+  },
+  {
+    "startTime": 265.36,
+    "endTime": 267.8,
+    "text": "is because we all feel that this"
+  },
+  {
+    "startTime": 267.8,
+    "endTime": 269.0,
+    "text": "something's happening there that"
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 270.199,
+    "text": "transition is happen happening we can"
+  },
+  {
+    "startTime": 270.199,
+    "endTime": 272.32,
+    "text": "all sense it and we know that it just"
+  },
+  {
+    "startTime": 272.32,
+    "endTime": 274.32,
+    "text": "doesn't make too much sense to think out"
+  },
+  {
+    "startTime": 274.32,
+    "endTime": 276.12,
+    "text": "30 50 years because everything's going"
+  },
+  {
+    "startTime": 276.12,
+    "endTime": 278.4,
+    "text": "to be so different that a simple"
+  },
+  {
+    "startTime": 278.4,
+    "endTime": 280.16,
+    "text": "extrapolation of what we're doing just"
+  },
+  {
+    "startTime": 280.16,
+    "endTime": 281.8,
+    "text": "doesn't make any sense at"
+  },
+  {
+    "startTime": 281.8,
+    "endTime": 285.08,
+    "text": "all so what I would like to talk about"
+  },
+  {
+    "startTime": 285.08,
+    "endTime": 286.52,
+    "text": "is what that could be what that"
+  },
+  {
+    "startTime": 286.52,
+    "endTime": 288.96,
+    "text": "transition could be that we're going"
+  },
+  {
+    "startTime": 288.96,
+    "endTime": 291.88,
+    "text": "through now in order to do"
+  },
+  {
+    "startTime": 291.88,
+    "endTime": 293.96,
+    "text": "that uh I'm going to have to talk about"
+  },
+  {
+    "startTime": 293.96,
+    "endTime": 295.8,
+    "text": "a bunch of stuff that really has nothing"
+  },
+  {
+    "startTime": 295.8,
+    "endTime": 298.56,
+    "text": "to do with technology and computers"
+  },
+  {
+    "startTime": 298.56,
+    "endTime": 300.039,
+    "text": "because I think the only one understand"
+  },
+  {
+    "startTime": 300.039,
+    "endTime": 302.56,
+    "text": "this is to really step back and take a"
+  },
+  {
+    "startTime": 302.56,
+    "endTime": 305.479,
+    "text": "long time scale look at things so the"
+  },
+  {
+    "startTime": 305.479,
+    "endTime": 307.52,
+    "text": "time scale that I would like to look at"
+  },
+  {
+    "startTime": 307.52,
+    "endTime": 310.4,
+    "text": "this on it's this time scale of of life"
+  },
+  {
+    "startTime": 310.4,
+    "endTime": 312.919,
+    "text": "on Earth"
+  },
+  {
+    "startTime": 312.919,
+    "endTime": 316.08,
+    "text": "so I think this this picture makes sense"
+  },
+  {
+    "startTime": 316.08,
+    "endTime": 317.8,
+    "text": "if you look at it a few billion years at"
+  },
+  {
+    "startTime": 317.8,
+    "endTime": 318.96,
+    "text": "a"
+  },
+  {
+    "startTime": 318.96,
+    "endTime": 321.84,
+    "text": "time so if you go back about 2 and a"
+  },
+  {
+    "startTime": 321.84,
+    "endTime": 323.199,
+    "text": "half billion"
+  },
+  {
+    "startTime": 323.199,
+    "endTime": 325.88,
+    "text": "years the earth was this big sterile"
+  },
+  {
+    "startTime": 325.88,
+    "endTime": 327.44,
+    "text": "hunk of Rock with a lot of chemicals"
+  },
+  {
+    "startTime": 327.44,
+    "endTime": 330.6,
+    "text": "floating around on it"
+  },
+  {
+    "startTime": 330.6,
+    "endTime": 332.44,
+    "text": "and if you look at the way that the"
+  },
+  {
+    "startTime": 332.44,
+    "endTime": 334.4,
+    "text": "chemicals got organized we begin to get"
+  },
+  {
+    "startTime": 334.4,
+    "endTime": 337.68,
+    "text": "a pretty good idea of how they do it um"
+  },
+  {
+    "startTime": 337.68,
+    "endTime": 339.84,
+    "text": "and I think that there's theories that"
+  },
+  {
+    "startTime": 339.84,
+    "endTime": 341.28,
+    "text": "are beginning to understand about how it"
+  },
+  {
+    "startTime": 341.28,
+    "endTime": 342.8,
+    "text": "started with RNA but I'm going to tell a"
+  },
+  {
+    "startTime": 342.8,
+    "endTime": 346.52,
+    "text": "sort of simple story of it which is that"
+  },
+  {
+    "startTime": 346.52,
+    "endTime": 348.28,
+    "text": "at that time there were little drops of"
+  },
+  {
+    "startTime": 348.28,
+    "endTime": 350.36,
+    "text": "oil floating around with all kinds of"
+  },
+  {
+    "startTime": 350.36,
+    "endTime": 353.08,
+    "text": "different recipes of chemicals in them"
+  },
+  {
+    "startTime": 353.08,
+    "endTime": 354.919,
+    "text": "and some of those drops of oils had a"
+  },
+  {
+    "startTime": 354.919,
+    "endTime": 356.72,
+    "text": "particular combination of chemicals in"
+  },
+  {
+    "startTime": 356.72,
+    "endTime": 359.0,
+    "text": "them which caused them to incorporate"
+  },
+  {
+    "startTime": 359.0,
+    "endTime": 361.24,
+    "text": "chemicals from the outside and grow the"
+  },
+  {
+    "startTime": 361.24,
+    "endTime": 364.12,
+    "text": "drops of oil and those that were like"
+  },
+  {
+    "startTime": 364.12,
+    "endTime": 367.0,
+    "text": "that started to split and divide and"
+  },
+  {
+    "startTime": 367.0,
+    "endTime": 368.8,
+    "text": "those were the most primitive forms of"
+  },
+  {
+    "startTime": 368.8,
+    "endTime": 370.52,
+    "text": "of cells in a sense those little drops"
+  },
+  {
+    "startTime": 370.52,
+    "endTime": 373.44,
+    "text": "of oil but now those drops of oil"
+  },
+  {
+    "startTime": 373.44,
+    "endTime": 375.44,
+    "text": "weren't really Life as we say it now"
+  },
+  {
+    "startTime": 375.44,
+    "endTime": 376.88,
+    "text": "because every one of them was a little"
+  },
+  {
+    "startTime": 376.88,
+    "endTime": 379.16,
+    "text": "random recipe of chemicals and every"
+  },
+  {
+    "startTime": 379.16,
+    "endTime": 381.44,
+    "text": "time it divided something different I"
+  },
+  {
+    "startTime": 381.44,
+    "endTime": 384.84,
+    "text": "mean it got sort of unequal division of"
+  },
+  {
+    "startTime": 384.84,
+    "endTime": 386.72,
+    "text": "the chemicals within it and so every"
+  },
+  {
+    "startTime": 386.72,
+    "endTime": 389.08,
+    "text": "drop was a little bit different in fact"
+  },
+  {
+    "startTime": 389.08,
+    "endTime": 391.039,
+    "text": "the drops that were different in a way"
+  },
+  {
+    "startTime": 391.039,
+    "endTime": 392.52,
+    "text": "that caused them to be better at"
+  },
+  {
+    "startTime": 392.52,
+    "endTime": 395.319,
+    "text": "incorporating chemicals around them grew"
+  },
+  {
+    "startTime": 395.319,
+    "endTime": 396.96,
+    "text": "more Incorporated more chemicals and"
+  },
+  {
+    "startTime": 396.96,
+    "endTime": 399.84,
+    "text": "divided more so those tended to live"
+  },
+  {
+    "startTime": 399.84,
+    "endTime": 401.84,
+    "text": "longer get expressed"
+  },
+  {
+    "startTime": 401.84,
+    "endTime": 406.24,
+    "text": "more now that's sort of just a very"
+  },
+  {
+    "startTime": 406.24,
+    "endTime": 408.36,
+    "text": "simple chemical form of life but when"
+  },
+  {
+    "startTime": 408.36,
+    "endTime": 409.72,
+    "text": "things got"
+  },
+  {
+    "startTime": 409.72,
+    "endTime": 413.12,
+    "text": "interesting was when these drops learned"
+  },
+  {
+    "startTime": 413.12,
+    "endTime": 414.759,
+    "text": "a trick of"
+  },
+  {
+    "startTime": 414.759,
+    "endTime": 417.919,
+    "text": "abstraction somehow by ways that we"
+  },
+  {
+    "startTime": 417.919,
+    "endTime": 419.96,
+    "text": "don't quite understand these little"
+  },
+  {
+    "startTime": 419.96,
+    "endTime": 422.24,
+    "text": "drops learn to write down information"
+  },
+  {
+    "startTime": 422.24,
+    "endTime": 423.919,
+    "text": "they learn to record the information"
+  },
+  {
+    "startTime": 423.919,
+    "endTime": 427.199,
+    "text": "that was the recipe of the cell onto a"
+  },
+  {
+    "startTime": 427.199,
+    "endTime": 429.84,
+    "text": "particular kind of chemical called DNA"
+  },
+  {
+    "startTime": 429.84,
+    "endTime": 432.08,
+    "text": "so in other words they worked out in"
+  },
+  {
+    "startTime": 432.08,
+    "endTime": 435.039,
+    "text": "this sort of mindless evolutionary way a"
+  },
+  {
+    "startTime": 435.039,
+    "endTime": 437.52,
+    "text": "form of writing that let them write down"
+  },
+  {
+    "startTime": 437.52,
+    "endTime": 439.28,
+    "text": "what they were so that that way of"
+  },
+  {
+    "startTime": 439.28,
+    "endTime": 441.68,
+    "text": "writing it down could get copied the"
+  },
+  {
+    "startTime": 441.68,
+    "endTime": 443.319,
+    "text": "amazing thing is that that way of"
+  },
+  {
+    "startTime": 443.319,
+    "endTime": 445.52,
+    "text": "writing seems to have stayed steady"
+  },
+  {
+    "startTime": 445.52,
+    "endTime": 447.319,
+    "text": "since it evolved 2 and 1 half billion"
+  },
+  {
+    "startTime": 447.319,
+    "endTime": 450.039,
+    "text": "years ago in fact the recipe for us our"
+  },
+  {
+    "startTime": 450.039,
+    "endTime": 452.28,
+    "text": "genes is exactly that same code in that"
+  },
+  {
+    "startTime": 452.28,
+    "endTime": 454.72,
+    "text": "same way of writing in fact every living"
+  },
+  {
+    "startTime": 454.72,
+    "endTime": 457.16,
+    "text": "creature is sort of written in exactly"
+  },
+  {
+    "startTime": 457.16,
+    "endTime": 459.479,
+    "text": "the same set of letters in the same code"
+  },
+  {
+    "startTime": 459.479,
+    "endTime": 461.08,
+    "text": "in fact one of the things that I did"
+  },
+  {
+    "startTime": 461.08,
+    "endTime": 463.16,
+    "text": "just for amusement purposes is we can"
+  },
+  {
+    "startTime": 463.16,
+    "endTime": 465.319,
+    "text": "now write things in this code and I've"
+  },
+  {
+    "startTime": 465.319,
+    "endTime": 466.56,
+    "text": "got here a"
+  },
+  {
+    "startTime": 466.56,
+    "endTime": 469.639,
+    "text": "little 100 micrograms of white"
+  },
+  {
+    "startTime": 469.639,
+    "endTime": 472.96,
+    "text": "powder um which I try not to let the"
+  },
+  {
+    "startTime": 472.96,
+    "endTime": 476.08,
+    "text": "security people see at airports"
+  },
+  {
+    "startTime": 476.08,
+    "endTime": 479.0,
+    "text": "um but this has in it what I did is I"
+  },
+  {
+    "startTime": 479.0,
+    "endTime": 481.599,
+    "text": "took this code and the code has standard"
+  },
+  {
+    "startTime": 481.599,
+    "endTime": 483.68,
+    "text": "letters that that we use for symbolizing"
+  },
+  {
+    "startTime": 483.68,
+    "endTime": 485.52,
+    "text": "it and I wrote my business card onto a"
+  },
+  {
+    "startTime": 485.52,
+    "endTime": 488.159,
+    "text": "piece of DNA and Amplified it 10 to the"
+  },
+  {
+    "startTime": 488.159,
+    "endTime": 491.199,
+    "text": "22 times so if anyone would like a 100"
+  },
+  {
+    "startTime": 491.199,
+    "endTime": 493.12,
+    "text": "million copies of my business card I"
+  },
+  {
+    "startTime": 493.12,
+    "endTime": 494.639,
+    "text": "have plenty for everyone in the room and"
+  },
+  {
+    "startTime": 494.639,
+    "endTime": 497.52,
+    "text": "in fact everyone in the world and it's"
+  },
+  {
+    "startTime": 497.52,
+    "endTime": 498.599,
+    "text": "it's right"
+  },
+  {
+    "startTime": 498.599,
+    "endTime": 501.599,
+    "text": "here"
+  },
+  {
+    "startTime": 506.12,
+    "endTime": 508.599,
+    "text": "so if I had really been an egotist I"
+  },
+  {
+    "startTime": 508.599,
+    "endTime": 510.319,
+    "text": "would have uh put it into a virus and"
+  },
+  {
+    "startTime": 510.319,
+    "endTime": 511.53,
+    "text": "released it in the"
+  },
+  {
+    "startTime": 511.53,
+    "endTime": 516.969,
+    "text": "[Laughter]"
+  },
+  {
+    "startTime": 518.56,
+    "endTime": 521.24,
+    "text": "room so what what was the next step"
+  },
+  {
+    "startTime": 521.24,
+    "endTime": 523.2,
+    "text": "writing down the DNA was an interesting"
+  },
+  {
+    "startTime": 523.2,
+    "endTime": 525.8,
+    "text": "step and that caused these cells to that"
+  },
+  {
+    "startTime": 525.8,
+    "endTime": 527.36,
+    "text": "kept them happy for another billion"
+  },
+  {
+    "startTime": 527.36,
+    "endTime": 529.519,
+    "text": "years but then there was another really"
+  },
+  {
+    "startTime": 529.519,
+    "endTime": 531.24,
+    "text": "interesting step where things came"
+  },
+  {
+    "startTime": 531.24,
+    "endTime": 533.56,
+    "text": "completely different which is the cells"
+  },
+  {
+    "startTime": 533.56,
+    "endTime": 535.279,
+    "text": "started exchanging and communicating"
+  },
+  {
+    "startTime": 535.279,
+    "endTime": 537.08,
+    "text": "information so that they began to get"
+  },
+  {
+    "startTime": 537.08,
+    "endTime": 539.12,
+    "text": "communities of cells I don't know if you"
+  },
+  {
+    "startTime": 539.12,
+    "endTime": 540.72,
+    "text": "know this but bacteria can actually"
+  },
+  {
+    "startTime": 540.72,
+    "endTime": 543.56,
+    "text": "exchange DNA uh that's why for instance"
+  },
+  {
+    "startTime": 543.56,
+    "endTime": 545.92,
+    "text": "antibiotic resistance has evolved some"
+  },
+  {
+    "startTime": 545.92,
+    "endTime": 547.399,
+    "text": "bacteria figured out how to stay away"
+  },
+  {
+    "startTime": 547.399,
+    "endTime": 550.16,
+    "text": "from billin and it went around sort of"
+  },
+  {
+    "startTime": 550.16,
+    "endTime": 552.399,
+    "text": "creating its little DNA information with"
+  },
+  {
+    "startTime": 552.399,
+    "endTime": 554.519,
+    "text": "with other bacteria and now we have a"
+  },
+  {
+    "startTime": 554.519,
+    "endTime": 556.12,
+    "text": "lot of bacteria that are resistant to"
+  },
+  {
+    "startTime": 556.12,
+    "endTime": 558.16,
+    "text": "penicillin because bacteria"
+  },
+  {
+    "startTime": 558.16,
+    "endTime": 560.6,
+    "text": "communicate now what this communication"
+  },
+  {
+    "startTime": 560.6,
+    "endTime": 563.92,
+    "text": "allowed was communities to form that in"
+  },
+  {
+    "startTime": 563.92,
+    "endTime": 565.16,
+    "text": "some sense were in the same boat"
+  },
+  {
+    "startTime": 565.16,
+    "endTime": 568.0,
+    "text": "together they were synergistic so they"
+  },
+  {
+    "startTime": 568.0,
+    "endTime": 570.64,
+    "text": "they survived or they fail together"
+  },
+  {
+    "startTime": 570.64,
+    "endTime": 572.24,
+    "text": "which means that if a community was very"
+  },
+  {
+    "startTime": 572.24,
+    "endTime": 574.839,
+    "text": "successful all the individuals in that"
+  },
+  {
+    "startTime": 574.839,
+    "endTime": 577.64,
+    "text": "Community were repeated more and they"
+  },
+  {
+    "startTime": 577.64,
+    "endTime": 579.16,
+    "text": "were favored by"
+  },
+  {
+    "startTime": 579.16,
+    "endTime": 581.399,
+    "text": "Evolution now the transition Point"
+  },
+  {
+    "startTime": 581.399,
+    "endTime": 583.839,
+    "text": "happened when these communities got so"
+  },
+  {
+    "startTime": 583.839,
+    "endTime": 585.68,
+    "text": "close that in fact they got together and"
+  },
+  {
+    "startTime": 585.68,
+    "endTime": 588.04,
+    "text": "decided to write down the whole recipe"
+  },
+  {
+    "startTime": 588.04,
+    "endTime": 590.56,
+    "text": "for the community together on one string"
+  },
+  {
+    "startTime": 590.56,
+    "endTime": 593.8,
+    "text": "of DNA and so the next stage that's"
+  },
+  {
+    "startTime": 593.8,
+    "endTime": 595.279,
+    "text": "interesting in life took about another"
+  },
+  {
+    "startTime": 595.279,
+    "endTime": 598.399,
+    "text": "billion years and at that stage we had"
+  },
+  {
+    "startTime": 598.399,
+    "endTime": 600.56,
+    "text": "multicellular communities communities of"
+  },
+  {
+    "startTime": 600.56,
+    "endTime": 603.12,
+    "text": "lots of different types of cells working"
+  },
+  {
+    "startTime": 603.12,
+    "endTime": 604.68,
+    "text": "together as a single organism and in"
+  },
+  {
+    "startTime": 604.68,
+    "endTime": 606.399,
+    "text": "fact we're such a multicellular"
+  },
+  {
+    "startTime": 606.399,
+    "endTime": 609.24,
+    "text": "Community we have lots of cells that are"
+  },
+  {
+    "startTime": 609.24,
+    "endTime": 611.279,
+    "text": "not out for themselves anymore your skin"
+  },
+  {
+    "startTime": 611.279,
+    "endTime": 615.12,
+    "text": "cell is really useless without a heart"
+  },
+  {
+    "startTime": 615.12,
+    "endTime": 618.16,
+    "text": "cell muscle cell a brain cell and so on"
+  },
+  {
+    "startTime": 618.16,
+    "endTime": 620.519,
+    "text": "so these communities began to evolve so"
+  },
+  {
+    "startTime": 620.519,
+    "endTime": 622.279,
+    "text": "that the interesting level on which"
+  },
+  {
+    "startTime": 622.279,
+    "endTime": 624.16,
+    "text": "Evolution was taking place was no longer"
+  },
+  {
+    "startTime": 624.16,
+    "endTime": 628.0,
+    "text": "a cell but a community which we call an"
+  },
+  {
+    "startTime": 628.0,
+    "endTime": 631.24,
+    "text": "organism now The Next Step that happened"
+  },
+  {
+    "startTime": 631.24,
+    "endTime": 633.36,
+    "text": "is Within These communities these"
+  },
+  {
+    "startTime": 633.36,
+    "endTime": 635.519,
+    "text": "communities of cells again began to"
+  },
+  {
+    "startTime": 635.519,
+    "endTime": 637.6,
+    "text": "abstract information and they began"
+  },
+  {
+    "startTime": 637.6,
+    "endTime": 639.6,
+    "text": "building very special structures that"
+  },
+  {
+    "startTime": 639.6,
+    "endTime": 641.48,
+    "text": "did nothing but process information"
+  },
+  {
+    "startTime": 641.48,
+    "endTime": 643.44,
+    "text": "within the community and those are the"
+  },
+  {
+    "startTime": 643.44,
+    "endTime": 645.92,
+    "text": "neural structures so neurons are the"
+  },
+  {
+    "startTime": 645.92,
+    "endTime": 647.959,
+    "text": "information processing apparatus that"
+  },
+  {
+    "startTime": 647.959,
+    "endTime": 650.839,
+    "text": "those communities have cell built up and"
+  },
+  {
+    "startTime": 650.839,
+    "endTime": 652.72,
+    "text": "in fact they began to get specialists in"
+  },
+  {
+    "startTime": 652.72,
+    "endTime": 654.88,
+    "text": "the community and special structures"
+  },
+  {
+    "startTime": 654.88,
+    "endTime": 656.88,
+    "text": "that were responsible for"
+  },
+  {
+    "startTime": 656.88,
+    "endTime": 659.32,
+    "text": "recording understanding learning"
+  },
+  {
+    "startTime": 659.32,
+    "endTime": 661.04,
+    "text": "information and that was the brains and"
+  },
+  {
+    "startTime": 661.04,
+    "endTime": 663.12,
+    "text": "the nervous systems of of those"
+  },
+  {
+    "startTime": 663.12,
+    "endTime": 665.079,
+    "text": "communities and that gave them an"
+  },
+  {
+    "startTime": 665.079,
+    "endTime": 668.639,
+    "text": "evolutionary Advantage because at that"
+  },
+  {
+    "startTime": 668.639,
+    "endTime": 670.44,
+    "text": "point an"
+  },
+  {
+    "startTime": 670.44,
+    "endTime": 672.92,
+    "text": "individual things learning could happen"
+  },
+  {
+    "startTime": 672.92,
+    "endTime": 674.76,
+    "text": "within the time span of a single"
+  },
+  {
+    "startTime": 674.76,
+    "endTime": 676.6,
+    "text": "organism instead of over this"
+  },
+  {
+    "startTime": 676.6,
+    "endTime": 680.24,
+    "text": "evolutionary time span so an organism"
+  },
+  {
+    "startTime": 680.24,
+    "endTime": 682.0,
+    "text": "could for instance learn not to eat a"
+  },
+  {
+    "startTime": 682.0,
+    "endTime": 683.839,
+    "text": "certain kind of fruit because it tasted"
+  },
+  {
+    "startTime": 683.839,
+    "endTime": 686.72,
+    "text": "bad and it got sick last time it ate it"
+  },
+  {
+    "startTime": 686.72,
+    "endTime": 688.56,
+    "text": "that could happen within the lifetime of"
+  },
+  {
+    "startTime": 688.56,
+    "endTime": 690.92,
+    "text": "a single organis whereas before they had"
+  },
+  {
+    "startTime": 690.92,
+    "endTime": 692.76,
+    "text": "built the special information processing"
+  },
+  {
+    "startTime": 692.76,
+    "endTime": 694.48,
+    "text": "structures that would have had to be"
+  },
+  {
+    "startTime": 694.48,
+    "endTime": 695.44,
+    "text": "learned"
+  },
+  {
+    "startTime": 695.44,
+    "endTime": 698.04,
+    "text": "evolutionarily over hundreds of"
+  },
+  {
+    "startTime": 698.04,
+    "endTime": 700.32,
+    "text": "thousands of years by by the individuals"
+  },
+  {
+    "startTime": 700.32,
+    "endTime": 702.76,
+    "text": "dying off that ate that kind of fruit so"
+  },
+  {
+    "startTime": 702.76,
+    "endTime": 704.44,
+    "text": "that nervous system the fact that they"
+  },
+  {
+    "startTime": 704.44,
+    "endTime": 706.079,
+    "text": "built those special information"
+  },
+  {
+    "startTime": 706.079,
+    "endTime": 708.6,
+    "text": "structures tremendously speeded up the"
+  },
+  {
+    "startTime": 708.6,
+    "endTime": 710.56,
+    "text": "whole process of evolution because"
+  },
+  {
+    "startTime": 710.56,
+    "endTime": 712.639,
+    "text": "Evolution could now happen within an"
+  },
+  {
+    "startTime": 712.639,
+    "endTime": 714.56,
+    "text": "individual it could happen in learning"
+  },
+  {
+    "startTime": 714.56,
+    "endTime": 715.56,
+    "text": "time"
+  },
+  {
+    "startTime": 715.56,
+    "endTime": 718.04,
+    "text": "scales then what happened was the"
+  },
+  {
+    "startTime": 718.04,
+    "endTime": 719.92,
+    "text": "individuals worked out of course tricks"
+  },
+  {
+    "startTime": 719.92,
+    "endTime": 720.959,
+    "text": "of"
+  },
+  {
+    "startTime": 720.959,
+    "endTime": 723.48,
+    "text": "communicating uh and for example the"
+  },
+  {
+    "startTime": 723.48,
+    "endTime": 725.24,
+    "text": "most sophisticated version that we're"
+  },
+  {
+    "startTime": 725.24,
+    "endTime": 727.88,
+    "text": "aware of is human language it's really a"
+  },
+  {
+    "startTime": 727.88,
+    "endTime": 729.639,
+    "text": "pretty amazing invention if you think"
+  },
+  {
+    "startTime": 729.639,
+    "endTime": 732.079,
+    "text": "about it here I have a very complicated"
+  },
+  {
+    "startTime": 732.079,
+    "endTime": 734.92,
+    "text": "messy confused idea in my head I'm"
+  },
+  {
+    "startTime": 734.92,
+    "endTime": 736.76,
+    "text": "sitting here making grunting sounds"
+  },
+  {
+    "startTime": 736.76,
+    "endTime": 739.04,
+    "text": "basically and hopefully constructing a"
+  },
+  {
+    "startTime": 739.04,
+    "endTime": 741.12,
+    "text": "similar messy confused idea in your head"
+  },
+  {
+    "startTime": 741.12,
+    "endTime": 743.56,
+    "text": "that bears some analogy to it but we're"
+  },
+  {
+    "startTime": 743.56,
+    "endTime": 745.12,
+    "text": "taking something very complicated"
+  },
+  {
+    "startTime": 745.12,
+    "endTime": 747.959,
+    "text": "turning it into sound sequence of sounds"
+  },
+  {
+    "startTime": 747.959,
+    "endTime": 749.68,
+    "text": "and producing something very complicated"
+  },
+  {
+    "startTime": 749.68,
+    "endTime": 750.519,
+    "text": "in your"
+  },
+  {
+    "startTime": 750.519,
+    "endTime": 755.12,
+    "text": "brain so this allows us now to begin to"
+  },
+  {
+    "startTime": 755.12,
+    "endTime": 757.88,
+    "text": "start functioning as a single"
+  },
+  {
+    "startTime": 757.88,
+    "endTime": 761.76,
+    "text": "organism and so in fact what we've done"
+  },
+  {
+    "startTime": 761.76,
+    "endTime": 765.56,
+    "text": "is we Humanity have started abstracting"
+  },
+  {
+    "startTime": 765.56,
+    "endTime": 767.24,
+    "text": "out we're going through the same levels"
+  },
+  {
+    "startTime": 767.24,
+    "endTime": 769.0,
+    "text": "that multicellular organisms have gone"
+  },
+  {
+    "startTime": 769.0,
+    "endTime": 771.519,
+    "text": "through abstracting out our methods of"
+  },
+  {
+    "startTime": 771.519,
+    "endTime": 774.12,
+    "text": "recording presenting processing"
+  },
+  {
+    "startTime": 774.12,
+    "endTime": 776.36,
+    "text": "information so for example the invention"
+  },
+  {
+    "startTime": 776.36,
+    "endTime": 778.32,
+    "text": "of language was a tiny step in that"
+  },
+  {
+    "startTime": 778.32,
+    "endTime": 782.6,
+    "text": "direction uh telepan computers videotape"
+  },
+  {
+    "startTime": 782.6,
+    "endTime": 786.32,
+    "text": "CD ROMs so on are all our specialized"
+  },
+  {
+    "startTime": 786.32,
+    "endTime": 788.48,
+    "text": "mechanisms that we've now built within"
+  },
+  {
+    "startTime": 788.48,
+    "endTime": 790.399,
+    "text": "our society for handling that"
+  },
+  {
+    "startTime": 790.399,
+    "endTime": 793.32,
+    "text": "information and it all connects us"
+  },
+  {
+    "startTime": 793.32,
+    "endTime": 797.959,
+    "text": "together into something that is much"
+  },
+  {
+    "startTime": 797.959,
+    "endTime": 801.76,
+    "text": "bigger and much faster able to evolve"
+  },
+  {
+    "startTime": 801.76,
+    "endTime": 804.36,
+    "text": "than than what we were before so now"
+  },
+  {
+    "startTime": 804.36,
+    "endTime": 806.68,
+    "text": "Evolution can take place on the scale of"
+  },
+  {
+    "startTime": 806.68,
+    "endTime": 809.16,
+    "text": "microseconds and you saw Kai's little"
+  },
+  {
+    "startTime": 809.16,
+    "endTime": 810.839,
+    "text": "evolutionary example where he sort of"
+  },
+  {
+    "startTime": 810.839,
+    "endTime": 812.839,
+    "text": "did a little bit of evolution of a"
+  },
+  {
+    "startTime": 812.839,
+    "endTime": 814.399,
+    "text": "convolution program right before your"
+  },
+  {
+    "startTime": 814.399,
+    "endTime": 816.639,
+    "text": "eyes so now we've speeded up the time"
+  },
+  {
+    "startTime": 816.639,
+    "endTime": 818.72,
+    "text": "scales once again so the first steps of"
+  },
+  {
+    "startTime": 818.72,
+    "endTime": 820.279,
+    "text": "the story that I told you about took a"
+  },
+  {
+    "startTime": 820.279,
+    "endTime": 822.72,
+    "text": "billion years a piece and the next steps"
+  },
+  {
+    "startTime": 822.72,
+    "endTime": 825.56,
+    "text": "like like nervous systems and brains"
+  },
+  {
+    "startTime": 825.56,
+    "endTime": 828.0,
+    "text": "took a few hundred million years then"
+  },
+  {
+    "startTime": 828.0,
+    "endTime": 830.88,
+    "text": "the next steps like language and so on"
+  },
+  {
+    "startTime": 830.88,
+    "endTime": 832.839,
+    "text": "took less than a million years and these"
+  },
+  {
+    "startTime": 832.839,
+    "endTime": 834.92,
+    "text": "next steps like Electronics seems to be"
+  },
+  {
+    "startTime": 834.92,
+    "endTime": 836.92,
+    "text": "taking only a few decades and the"
+  },
+  {
+    "startTime": 836.92,
+    "endTime": 838.6,
+    "text": "process is feeding on itself and"
+  },
+  {
+    "startTime": 838.6,
+    "endTime": 840.32,
+    "text": "becoming"
+  },
+  {
+    "startTime": 840.32,
+    "endTime": 842.44,
+    "text": "I guess autocatalytic is the word for it"
+  },
+  {
+    "startTime": 842.44,
+    "endTime": 844.72,
+    "text": "when something reinforces its rate of"
+  },
+  {
+    "startTime": 844.72,
+    "endTime": 846.68,
+    "text": "change the more it changes the faster it"
+  },
+  {
+    "startTime": 846.68,
+    "endTime": 848.639,
+    "text": "changes and I think that that's what"
+  },
+  {
+    "startTime": 848.639,
+    "endTime": 850.56,
+    "text": "we're seeing here in this explosion of"
+  },
+  {
+    "startTime": 850.56,
+    "endTime": 852.279,
+    "text": "curb we're seeing this process feeding"
+  },
+  {
+    "startTime": 852.279,
+    "endTime": 855.959,
+    "text": "back on itself now I design computers"
+  },
+  {
+    "startTime": 855.959,
+    "endTime": 858.839,
+    "text": "for a living and I know that the"
+  },
+  {
+    "startTime": 858.839,
+    "endTime": 861.399,
+    "text": "mechanisms that I use to design"
+  },
+  {
+    "startTime": 861.399,
+    "endTime": 864.32,
+    "text": "computers would be impossible without"
+  },
+  {
+    "startTime": 864.32,
+    "endTime": 867.079,
+    "text": "recent advances in computers so right"
+  },
+  {
+    "startTime": 867.079,
+    "endTime": 869.36,
+    "text": "now what I do is I design objects it's"
+  },
+  {
+    "startTime": 869.36,
+    "endTime": 871.72,
+    "text": "such complexity that it's really"
+  },
+  {
+    "startTime": 871.72,
+    "endTime": 873.399,
+    "text": "impossible for me to design them in the"
+  },
+  {
+    "startTime": 873.399,
+    "endTime": 874.759,
+    "text": "traditional sense I don't know what"
+  },
+  {
+    "startTime": 874.759,
+    "endTime": 876.16,
+    "text": "every transistor in the connection"
+  },
+  {
+    "startTime": 876.16,
+    "endTime": 880.12,
+    "text": "machine does there are billions of them"
+  },
+  {
+    "startTime": 880.12,
+    "endTime": 883.12,
+    "text": "instead what I do and what the designers"
+  },
+  {
+    "startTime": 883.12,
+    "endTime": 885.399,
+    "text": "at at thinking machines do is we think"
+  },
+  {
+    "startTime": 885.399,
+    "endTime": 887.92,
+    "text": "at some level of abstraction and then we"
+  },
+  {
+    "startTime": 887.92,
+    "endTime": 889.519,
+    "text": "hand it to the machine and the machine"
+  },
+  {
+    "startTime": 889.519,
+    "endTime": 891.8,
+    "text": "takes it beyond what we could ever do"
+  },
+  {
+    "startTime": 891.8,
+    "endTime": 893.399,
+    "text": "much farther and faster than what we"
+  },
+  {
+    "startTime": 893.399,
+    "endTime": 895.759,
+    "text": "could ever do and in fact sometimes it"
+  },
+  {
+    "startTime": 895.759,
+    "endTime": 897.639,
+    "text": "takes it by methods that we don't quite"
+  },
+  {
+    "startTime": 897.639,
+    "endTime": 901.079,
+    "text": "even understand one method uh that's"
+  },
+  {
+    "startTime": 901.079,
+    "endTime": 902.959,
+    "text": "particularly interesting that that I've"
+  },
+  {
+    "startTime": 902.959,
+    "endTime": 906.0,
+    "text": "been using a lot lately is evolution"
+  },
+  {
+    "startTime": 906.0,
+    "endTime": 909.48,
+    "text": "itself so what we do is we put inside"
+  },
+  {
+    "startTime": 909.48,
+    "endTime": 912.44,
+    "text": "the machine a process of evolution that"
+  },
+  {
+    "startTime": 912.44,
+    "endTime": 915.839,
+    "text": "takes place on the microsc time scale so"
+  },
+  {
+    "startTime": 915.839,
+    "endTime": 918.68,
+    "text": "for example in the most extreme cases we"
+  },
+  {
+    "startTime": 918.68,
+    "endTime": 921.399,
+    "text": "can actually evolve a program by"
+  },
+  {
+    "startTime": 921.399,
+    "endTime": 924.36,
+    "text": "starting out with random sequences of"
+  },
+  {
+    "startTime": 924.36,
+    "endTime": 926.399,
+    "text": "instructions say computer would you"
+  },
+  {
+    "startTime": 926.399,
+    "endTime": 927.72,
+    "text": "please make a 100 million random"
+  },
+  {
+    "startTime": 927.72,
+    "endTime": 929.759,
+    "text": "sequences of instructions"
+  },
+  {
+    "startTime": 929.759,
+    "endTime": 931.36,
+    "text": "now would you please run all of those"
+  },
+  {
+    "startTime": 931.36,
+    "endTime": 933.04,
+    "text": "random sequences of instructions run all"
+  },
+  {
+    "startTime": 933.04,
+    "endTime": 935.279,
+    "text": "of those programs and pick out the ones"
+  },
+  {
+    "startTime": 935.279,
+    "endTime": 938.399,
+    "text": "that came closest to do what I wanted so"
+  },
+  {
+    "startTime": 938.399,
+    "endTime": 940.04,
+    "text": "in other words I Define what I wanted"
+  },
+  {
+    "startTime": 940.04,
+    "endTime": 941.6,
+    "text": "let's say I want to sort numbers as a"
+  },
+  {
+    "startTime": 941.6,
+    "endTime": 944.319,
+    "text": "simple example I've done it with so find"
+  },
+  {
+    "startTime": 944.319,
+    "endTime": 945.88,
+    "text": "the programs that come closest to"
+  },
+  {
+    "startTime": 945.88,
+    "endTime": 948.319,
+    "text": "sorting numbers so of course random"
+  },
+  {
+    "startTime": 948.319,
+    "endTime": 950.04,
+    "text": "sequences of instructions are very"
+  },
+  {
+    "startTime": 950.04,
+    "endTime": 952.759,
+    "text": "unlikely to sort numbers so none of them"
+  },
+  {
+    "startTime": 952.759,
+    "endTime": 954.24,
+    "text": "will really do it but one of them by"
+  },
+  {
+    "startTime": 954.24,
+    "endTime": 957.24,
+    "text": "luck May uh put two numbers in the right"
+  },
+  {
+    "startTime": 957.24,
+    "endTime": 960.279,
+    "text": "order I say the computer"
+  },
+  {
+    "startTime": 960.279,
+    "endTime": 962.399,
+    "text": "uh would you please now take the 10% of"
+  },
+  {
+    "startTime": 962.399,
+    "endTime": 964.199,
+    "text": "those random sequences that did the best"
+  },
+  {
+    "startTime": 964.199,
+    "endTime": 967.639,
+    "text": "job save those kill off the rest and now"
+  },
+  {
+    "startTime": 967.639,
+    "endTime": 970.24,
+    "text": "let's reproduce the ones that sorted"
+  },
+  {
+    "startTime": 970.24,
+    "endTime": 972.48,
+    "text": "numbers the best and let's reproduce"
+  },
+  {
+    "startTime": 972.48,
+    "endTime": 974.48,
+    "text": "them by a process of recombination"
+  },
+  {
+    "startTime": 974.48,
+    "endTime": 977.16,
+    "text": "analogous to sex I take two programs and"
+  },
+  {
+    "startTime": 977.16,
+    "endTime": 979.12,
+    "text": "they produce children by exchanging"
+  },
+  {
+    "startTime": 979.12,
+    "endTime": 981.16,
+    "text": "their sub routines and the children"
+  },
+  {
+    "startTime": 981.16,
+    "endTime": 983.16,
+    "text": "inherit the traits the sub routines of"
+  },
+  {
+    "startTime": 983.16,
+    "endTime": 985.48,
+    "text": "the two programs so I've got now a new"
+  },
+  {
+    "startTime": 985.48,
+    "endTime": 987.48,
+    "text": "generation of programs that are produced"
+  },
+  {
+    "startTime": 987.48,
+    "endTime": 989.639,
+    "text": "by combinations of are the programs that"
+  },
+  {
+    "startTime": 989.639,
+    "endTime": 992.079,
+    "text": "did a little bit better job say please"
+  },
+  {
+    "startTime": 992.079,
+    "endTime": 994.759,
+    "text": "repeat that process score them again"
+  },
+  {
+    "startTime": 994.759,
+    "endTime": 997.399,
+    "text": "introduce the mutations perhaps and try"
+  },
+  {
+    "startTime": 997.399,
+    "endTime": 998.72,
+    "text": "that again and do that for another"
+  },
+  {
+    "startTime": 998.72,
+    "endTime": 1000.399,
+    "text": "Generation Well every one of those"
+  },
+  {
+    "startTime": 1000.399,
+    "endTime": 1002.48,
+    "text": "Generations just takes a few"
+  },
+  {
+    "startTime": 1002.48,
+    "endTime": 1004.759,
+    "text": "milliseconds so I can do the equivalent"
+  },
+  {
+    "startTime": 1004.759,
+    "endTime": 1006.759,
+    "text": "of millions of years of evolution on"
+  },
+  {
+    "startTime": 1006.759,
+    "endTime": 1009.48,
+    "text": "that within the computer uh in a few"
+  },
+  {
+    "startTime": 1009.48,
+    "endTime": 1011.319,
+    "text": "minutes or in the complicated cases in a"
+  },
+  {
+    "startTime": 1011.319,
+    "endTime": 1013.839,
+    "text": "few hours at the end of that I end up"
+  },
+  {
+    "startTime": 1013.839,
+    "endTime": 1015.6,
+    "text": "with programs that are absolutely"
+  },
+  {
+    "startTime": 1015.6,
+    "endTime": 1017.68,
+    "text": "perfect at sorting numbers in fact there"
+  },
+  {
+    "startTime": 1017.68,
+    "endTime": 1019.199,
+    "text": "are programs that are much more"
+  },
+  {
+    "startTime": 1019.199,
+    "endTime": 1020.8,
+    "text": "efficient than programs I could have"
+  },
+  {
+    "startTime": 1020.8,
+    "endTime": 1023.36,
+    "text": "ever written by him now if I look at"
+  },
+  {
+    "startTime": 1023.36,
+    "endTime": 1025.438,
+    "text": "those programs I can't tell you how they"
+  },
+  {
+    "startTime": 1025.439,
+    "endTime": 1027.12,
+    "text": "work I've tried looking at them and tell"
+  },
+  {
+    "startTime": 1027.12,
+    "endTime": 1029.64,
+    "text": "you how they work they're obscure weird"
+  },
+  {
+    "startTime": 1029.64,
+    "endTime": 1032.839,
+    "text": "programs but they do the job and in fact"
+  },
+  {
+    "startTime": 1032.839,
+    "endTime": 1034.52,
+    "text": "I know I'm very confident that they do"
+  },
+  {
+    "startTime": 1034.52,
+    "endTime": 1036.48,
+    "text": "the job because they come from a line of"
+  },
+  {
+    "startTime": 1036.48,
+    "endTime": 1038.12,
+    "text": "hundreds of thousands of programs that"
+  },
+  {
+    "startTime": 1038.12,
+    "endTime": 1040.16,
+    "text": "did the job in fact their life depended"
+  },
+  {
+    "startTime": 1040.16,
+    "endTime": 1042.799,
+    "text": "on doing the"
+  },
+  {
+    "startTime": 1046.88,
+    "endTime": 1049.919,
+    "text": "job I was I was writing in a 747 with"
+  },
+  {
+    "startTime": 1049.919,
+    "endTime": 1051.72,
+    "text": "Marvin Minsky once and he pulls out this"
+  },
+  {
+    "startTime": 1051.72,
+    "endTime": 1054.72,
+    "text": "card and said oh look look at this it"
+  },
+  {
+    "startTime": 1054.72,
+    "endTime": 1057.2,
+    "text": "says this plane has hundreds of"
+  },
+  {
+    "startTime": 1057.2,
+    "endTime": 1059.36,
+    "text": "thousands of tiny Parts working together"
+  },
+  {
+    "startTime": 1059.36,
+    "endTime": 1062.16,
+    "text": "to make you a safe plight doesn't that"
+  },
+  {
+    "startTime": 1062.16,
+    "endTime": 1064.76,
+    "text": "make you feel"
+  },
+  {
+    "startTime": 1064.799,
+    "endTime": 1067.0,
+    "text": "confident in fact we know that the"
+  },
+  {
+    "startTime": 1067.0,
+    "endTime": 1068.84,
+    "text": "Engineering Process doesn't work very"
+  },
+  {
+    "startTime": 1068.84,
+    "endTime": 1071.0,
+    "text": "well when it gets complicated so we're"
+  },
+  {
+    "startTime": 1071.0,
+    "endTime": 1073.799,
+    "text": "beginning to depend on computers to do a"
+  },
+  {
+    "startTime": 1073.799,
+    "endTime": 1076.159,
+    "text": "process that's very different than than"
+  },
+  {
+    "startTime": 1076.159,
+    "endTime": 1077.96,
+    "text": "engineering and it lets us produce"
+  },
+  {
+    "startTime": 1077.96,
+    "endTime": 1080.44,
+    "text": "things of much more more complexity than"
+  },
+  {
+    "startTime": 1080.44,
+    "endTime": 1082.64,
+    "text": "normal engineering lets us produce and"
+  },
+  {
+    "startTime": 1082.64,
+    "endTime": 1084.08,
+    "text": "yet we don't quite understand the"
+  },
+  {
+    "startTime": 1084.08,
+    "endTime": 1086.039,
+    "text": "objects of it so in a sense it's getting"
+  },
+  {
+    "startTime": 1086.039,
+    "endTime": 1088.679,
+    "text": "ahead of us we're now using those"
+  },
+  {
+    "startTime": 1088.679,
+    "endTime": 1090.96,
+    "text": "programs to make much faster computers"
+  },
+  {
+    "startTime": 1090.96,
+    "endTime": 1092.6,
+    "text": "so that we'll be able to run this"
+  },
+  {
+    "startTime": 1092.6,
+    "endTime": 1095.2,
+    "text": "process much faster so it's feeding back"
+  },
+  {
+    "startTime": 1095.2,
+    "endTime": 1098.32,
+    "text": "on itself the thing is becoming faster"
+  },
+  {
+    "startTime": 1098.32,
+    "endTime": 1100.28,
+    "text": "and that's why I think it seems so"
+  },
+  {
+    "startTime": 1100.28,
+    "endTime": 1101.48,
+    "text": "confusing because all of these"
+  },
+  {
+    "startTime": 1101.48,
+    "endTime": 1103.2,
+    "text": "Technologies are feeding back on"
+  },
+  {
+    "startTime": 1103.2,
+    "endTime": 1106.32,
+    "text": "themselves we're taking off and what we"
+  },
+  {
+    "startTime": 1106.32,
+    "endTime": 1109.12,
+    "text": "are is we're at a point in time which is"
+  },
+  {
+    "startTime": 1109.12,
+    "endTime": 1111.48,
+    "text": "analogous to when single cell organisms"
+  },
+  {
+    "startTime": 1111.48,
+    "endTime": 1113.64,
+    "text": "were turning into multicell organisms so"
+  },
+  {
+    "startTime": 1113.64,
+    "endTime": 1115.36,
+    "text": "we're the amibas and we can't quite"
+  },
+  {
+    "startTime": 1115.36,
+    "endTime": 1117.44,
+    "text": "figure out what the hell this thing is"
+  },
+  {
+    "startTime": 1117.44,
+    "endTime": 1119.12,
+    "text": "we're created we're right at that point"
+  },
+  {
+    "startTime": 1119.12,
+    "endTime": 1119.84,
+    "text": "of"
+  },
+  {
+    "startTime": 1119.84,
+    "endTime": 1122.039,
+    "text": "transition but I think that there really"
+  },
+  {
+    "startTime": 1122.039,
+    "endTime": 1124.48,
+    "text": "is something coming along after us I"
+  },
+  {
+    "startTime": 1124.48,
+    "endTime": 1126.52,
+    "text": "think it's very hoty of us to think that"
+  },
+  {
+    "startTime": 1126.52,
+    "endTime": 1129.0,
+    "text": "we're the in product of evolution and I"
+  },
+  {
+    "startTime": 1129.0,
+    "endTime": 1131.84,
+    "text": "think all of us here are a part of"
+  },
+  {
+    "startTime": 1131.84,
+    "endTime": 1135.559,
+    "text": "producing whatever that next thing is so"
+  },
+  {
+    "startTime": 1135.559,
+    "endTime": 1138.799,
+    "text": "lunch is coming along and I think I will"
+  },
+  {
+    "startTime": 1138.799,
+    "endTime": 1140.679,
+    "text": "stop at that point before I get selected"
+  },
+  {
+    "startTime": 1140.679,
+    "endTime": 1143.679,
+    "text": "out"
+  }
+]

@@ -1,0 +1,1647 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 17.259,
+    "text": "Good afternoon, everybody."
+  },
+  {
+    "startTime": 17.26,
+    "endTime": 20.26,
+    "text": "I've got something to show you."
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 39.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 39.26,
+    "endTime": 42.26,
+    "text": "Think about this as a pixel, a flying pixel."
+  },
+  {
+    "startTime": 42.26,
+    "endTime": 45.26,
+    "text": "This is what we call, in our lab, sensible design."
+  },
+  {
+    "startTime": 45.26,
+    "endTime": 47.26,
+    "text": "Let me tell you a bit about it."
+  },
+  {
+    "startTime": 47.26,
+    "endTime": 50.26,
+    "text": "Now if you take this picture -- I'm Italian originally,"
+  },
+  {
+    "startTime": 50.26,
+    "endTime": 52.26,
+    "text": "and every boy in Italy grows up"
+  },
+  {
+    "startTime": 52.26,
+    "endTime": 54.26,
+    "text": "with this picture on the wall of his bedroom --"
+  },
+  {
+    "startTime": 54.26,
+    "endTime": 56.26,
+    "text": "but the reason I'm showing you this"
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "is that something very interesting"
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 60.26,
+    "text": "happened in Formula 1 racing"
+  },
+  {
+    "startTime": 60.26,
+    "endTime": 62.26,
+    "text": "over the past couple of decades."
+  },
+  {
+    "startTime": 62.26,
+    "endTime": 64.259,
+    "text": "Now some time ago,"
+  },
+  {
+    "startTime": 64.26,
+    "endTime": 66.26,
+    "text": "if you wanted to win a Formula 1 race,"
+  },
+  {
+    "startTime": 66.26,
+    "endTime": 68.26,
+    "text": "you take a budget, and you bet your budget"
+  },
+  {
+    "startTime": 68.26,
+    "endTime": 71.26,
+    "text": "on a good driver and a good car."
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 74.26,
+    "text": "And if the car and the driver were good enough, then you'd win the race."
+  },
+  {
+    "startTime": 74.26,
+    "endTime": 76.26,
+    "text": "Now today, if you want to win the race,"
+  },
+  {
+    "startTime": 76.26,
+    "endTime": 79.26,
+    "text": "actually you need also something like this --"
+  },
+  {
+    "startTime": 79.26,
+    "endTime": 82.26,
+    "text": "something that monitors the car in real time,"
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 84.26,
+    "text": "has a few thousand sensors"
+  },
+  {
+    "startTime": 84.26,
+    "endTime": 86.26,
+    "text": "collecting information from the car,"
+  },
+  {
+    "startTime": 86.26,
+    "endTime": 89.26,
+    "text": "transmitting this information into the system,"
+  },
+  {
+    "startTime": 89.26,
+    "endTime": 91.26,
+    "text": "and then processing it"
+  },
+  {
+    "startTime": 91.26,
+    "endTime": 94.26,
+    "text": "and using it in order to go back to the car with decisions"
+  },
+  {
+    "startTime": 94.26,
+    "endTime": 96.26,
+    "text": "and changing things in real time"
+  },
+  {
+    "startTime": 96.26,
+    "endTime": 98.26,
+    "text": "as information is collected."
+  },
+  {
+    "startTime": 98.26,
+    "endTime": 100.26,
+    "text": "This is what, in engineering terms,"
+  },
+  {
+    "startTime": 100.26,
+    "endTime": 103.26,
+    "text": "you would call a real time control system."
+  },
+  {
+    "startTime": 103.26,
+    "endTime": 106.26,
+    "text": "And basically, it's a system made of two components --"
+  },
+  {
+    "startTime": 106.26,
+    "endTime": 108.26,
+    "text": "a sensing and an actuating component."
+  },
+  {
+    "startTime": 108.26,
+    "endTime": 110.26,
+    "text": "What is interesting today"
+  },
+  {
+    "startTime": 110.26,
+    "endTime": 112.26,
+    "text": "is that real time control systems"
+  },
+  {
+    "startTime": 112.26,
+    "endTime": 115.26,
+    "text": "are starting to enter into our lives."
+  },
+  {
+    "startTime": 115.26,
+    "endTime": 118.26,
+    "text": "Our cities, over the past few years,"
+  },
+  {
+    "startTime": 118.26,
+    "endTime": 120.26,
+    "text": "just have been blanketed"
+  },
+  {
+    "startTime": 120.26,
+    "endTime": 122.26,
+    "text": "with networks, electronics."
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "They're becoming like computers in open air."
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 126.26,
+    "text": "And, as computers in open air,"
+  },
+  {
+    "startTime": 126.26,
+    "endTime": 128.25900000000001,
+    "text": "they're starting to respond in a different way"
+  },
+  {
+    "startTime": 128.259,
+    "endTime": 131.26,
+    "text": "to be able to be sensed and to be actuated."
+  },
+  {
+    "startTime": 131.26,
+    "endTime": 133.26,
+    "text": "If we fix cities, actually it's a big deal."
+  },
+  {
+    "startTime": 133.26,
+    "endTime": 135.26,
+    "text": "Just as an aside, I wanted to mention,"
+  },
+  {
+    "startTime": 135.26,
+    "endTime": 139.26,
+    "text": "cities are only two percent of the Earth's crust,"
+  },
+  {
+    "startTime": 139.26,
+    "endTime": 142.26,
+    "text": "but they are 50 percent of the world's population."
+  },
+  {
+    "startTime": 142.26,
+    "endTime": 145.26,
+    "text": "They are 75 percent of the energy consumption --"
+  },
+  {
+    "startTime": 145.26,
+    "endTime": 148.26,
+    "text": "up to 80 percent of CO2 emissions."
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 151.26,
+    "text": "So if we're able to do something with cities, that's a big deal."
+  },
+  {
+    "startTime": 151.26,
+    "endTime": 153.26,
+    "text": "Beyond cities,"
+  },
+  {
+    "startTime": 153.26,
+    "endTime": 156.26,
+    "text": "all of this sensing and actuating"
+  },
+  {
+    "startTime": 156.26,
+    "endTime": 158.26,
+    "text": "is entering our everyday objects."
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 160.26,
+    "text": "That's from an exhibition that"
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 162.26,
+    "text": "Paola Antonelli is organizing"
+  },
+  {
+    "startTime": 162.26,
+    "endTime": 164.26,
+    "text": "at MoMA later this year, during the summer."
+  },
+  {
+    "startTime": 164.26,
+    "endTime": 166.26,
+    "text": "It's called \"Talk to Me.\""
+  },
+  {
+    "startTime": 166.26,
+    "endTime": 168.26,
+    "text": "Well our objects, our environment"
+  },
+  {
+    "startTime": 168.26,
+    "endTime": 170.26,
+    "text": "is starting to talk back to us."
+  },
+  {
+    "startTime": 170.26,
+    "endTime": 173.26,
+    "text": "In a certain sense, it's almost as if every atom out there"
+  },
+  {
+    "startTime": 173.26,
+    "endTime": 176.26,
+    "text": "were becoming both a sensor and an actuator."
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 179.26,
+    "text": "And that is radically changing the interaction we have as humans"
+  },
+  {
+    "startTime": 179.26,
+    "endTime": 181.26,
+    "text": "with the environment out there."
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 183.26,
+    "text": "In a certain sense,"
+  },
+  {
+    "startTime": 183.26,
+    "endTime": 186.26,
+    "text": "it's almost as if the old dream of Michelangelo ..."
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 188.26,
+    "text": "you know, when Michelangelo sculpted the Moses,"
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 191.26,
+    "text": "at the end it said that he took the hammer, threw it at the Moses --"
+  },
+  {
+    "startTime": 191.26,
+    "endTime": 194.26,
+    "text": "actually you can still see a small chip underneath --"
+  },
+  {
+    "startTime": 194.26,
+    "endTime": 196.26,
+    "text": "and said, shouted,"
+  },
+  {
+    "startTime": 196.26,
+    "endTime": 198.26,
+    "text": "\"Perché non parli? Why don't you talk?\""
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 200.26,
+    "text": "Well today, for the first time,"
+  },
+  {
+    "startTime": 200.26,
+    "endTime": 203.26,
+    "text": "our environment is starting to talk back to us."
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 205.26,
+    "text": "And I'll show just a few examples --"
+  },
+  {
+    "startTime": 205.26,
+    "endTime": 208.26,
+    "text": "again, with this idea of sensing our environment and actuating it."
+  },
+  {
+    "startTime": 208.26,
+    "endTime": 211.26,
+    "text": "Let's starting with sensing."
+  },
+  {
+    "startTime": 211.26,
+    "endTime": 213.26,
+    "text": "Well, the first project I wanted to share with you"
+  },
+  {
+    "startTime": 213.26,
+    "endTime": 216.26,
+    "text": "is actually one of the first projects by our lab."
+  },
+  {
+    "startTime": 216.26,
+    "endTime": 219.26,
+    "text": "It was four and a half years ago in Italy."
+  },
+  {
+    "startTime": 219.26,
+    "endTime": 221.26,
+    "text": "And what we did there"
+  },
+  {
+    "startTime": 221.26,
+    "endTime": 223.26,
+    "text": "was actually use a new type of network at the time"
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 225.26,
+    "text": "that had been deployed all across the world --"
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 227.26,
+    "text": "that's a cellphone network --"
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 229.26,
+    "text": "and use anonymous and aggregated information from that network,"
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 231.26,
+    "text": "that's collected anyway by the operator,"
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 233.26,
+    "text": "in order to understand"
+  },
+  {
+    "startTime": 233.26,
+    "endTime": 235.26,
+    "text": "how the city works."
+  },
+  {
+    "startTime": 235.26,
+    "endTime": 238.26,
+    "text": "The summer was a lucky summer -- 2006."
+  },
+  {
+    "startTime": 238.26,
+    "endTime": 241.26,
+    "text": "It's when Italy won the soccer World Cup."
+  },
+  {
+    "startTime": 241.26,
+    "endTime": 244.26,
+    "text": "Some of you might remember, it was Italy and France playing,"
+  },
+  {
+    "startTime": 244.26,
+    "endTime": 246.26,
+    "text": "and then Zidane at the end, the headbutt."
+  },
+  {
+    "startTime": 246.26,
+    "endTime": 248.26,
+    "text": "And anyway, Italy won at the end."
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 250.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 250.26,
+    "endTime": 252.26,
+    "text": "Now look at what happened that day"
+  },
+  {
+    "startTime": 252.26,
+    "endTime": 254.26,
+    "text": "just by monitoring activity"
+  },
+  {
+    "startTime": 254.26,
+    "endTime": 256.26,
+    "text": "happening on the network."
+  },
+  {
+    "startTime": 256.26,
+    "endTime": 258.26,
+    "text": "Here you see the city."
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 261.26,
+    "text": "You see the Colosseum in the middle,"
+  },
+  {
+    "startTime": 261.26,
+    "endTime": 264.26,
+    "text": "the river Tiber."
+  },
+  {
+    "startTime": 264.26,
+    "endTime": 266.26,
+    "text": "It's morning, before the match."
+  },
+  {
+    "startTime": 266.26,
+    "endTime": 268.26,
+    "text": "You see the timeline on the top."
+  },
+  {
+    "startTime": 268.26,
+    "endTime": 270.26,
+    "text": "Early afternoon,"
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 272.26,
+    "text": "people here and there,"
+  },
+  {
+    "startTime": 272.26,
+    "endTime": 274.26,
+    "text": "making calls and moving."
+  },
+  {
+    "startTime": 274.26,
+    "endTime": 277.26,
+    "text": "The match begins -- silence."
+  },
+  {
+    "startTime": 277.26,
+    "endTime": 280.26,
+    "text": "France scores. Italy scores."
+  },
+  {
+    "startTime": 280.26,
+    "endTime": 284.26,
+    "text": "Halftime, people make a quick call and go to the bathroom."
+  },
+  {
+    "startTime": 284.26,
+    "endTime": 286.26,
+    "text": "Second half. End of normal time."
+  },
+  {
+    "startTime": 286.26,
+    "endTime": 288.26,
+    "text": "First overtime, second."
+  },
+  {
+    "startTime": 288.26,
+    "endTime": 291.26,
+    "text": "Zidane, the headbutt in a moment."
+  },
+  {
+    "startTime": 291.26,
+    "endTime": 293.26,
+    "text": "Italy wins. Yeah."
+  },
+  {
+    "startTime": 293.26,
+    "endTime": 295.26,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 295.26,
+    "endTime": 298.26,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 300.26,
+    "text": "Well, that night, everybody went to celebrate in the center."
+  },
+  {
+    "startTime": 300.26,
+    "endTime": 302.26,
+    "text": "You saw the big peak."
+  },
+  {
+    "startTime": 302.26,
+    "endTime": 304.26,
+    "text": "The following day, again everybody went to the center"
+  },
+  {
+    "startTime": 304.26,
+    "endTime": 307.26,
+    "text": "to meet the winning team"
+  },
+  {
+    "startTime": 307.26,
+    "endTime": 309.26,
+    "text": "and the prime minister at the time."
+  },
+  {
+    "startTime": 309.26,
+    "endTime": 311.26,
+    "text": "And then everybody moved down."
+  },
+  {
+    "startTime": 311.26,
+    "endTime": 313.26,
+    "text": "You see the image of the place called Circo Massimo,"
+  },
+  {
+    "startTime": 313.26,
+    "endTime": 316.26,
+    "text": "where, since Roman times, people go to celebrate,"
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 319.26,
+    "text": "to have a big party, and you see the peak at the end of the day."
+  },
+  {
+    "startTime": 319.26,
+    "endTime": 321.26,
+    "text": "Well, that's just one example of how we can sense the city today"
+  },
+  {
+    "startTime": 321.26,
+    "endTime": 323.26,
+    "text": "in a way that we couldn't have done"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "just a few years ago."
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 327.26,
+    "text": "Another quick example about sensing:"
+  },
+  {
+    "startTime": 327.26,
+    "endTime": 329.26,
+    "text": "it's not about people,"
+  },
+  {
+    "startTime": 329.26,
+    "endTime": 331.26,
+    "text": "but about things we use and consume."
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 333.26,
+    "text": "Well today, we know everything"
+  },
+  {
+    "startTime": 333.26,
+    "endTime": 336.26,
+    "text": "about where our objects come from."
+  },
+  {
+    "startTime": 336.26,
+    "endTime": 338.26,
+    "text": "This is a map that shows you"
+  },
+  {
+    "startTime": 338.26,
+    "endTime": 341.26,
+    "text": "all the chips that form a Mac computer, how they came together."
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 344.26,
+    "text": "But we know very little about where things go."
+  },
+  {
+    "startTime": 344.26,
+    "endTime": 346.26,
+    "text": "So in this project,"
+  },
+  {
+    "startTime": 346.26,
+    "endTime": 348.26,
+    "text": "we actually developed some small tags"
+  },
+  {
+    "startTime": 348.26,
+    "endTime": 351.26,
+    "text": "to track trash as it moves through the system."
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 354.26,
+    "text": "So we actually started with a number of volunteers"
+  },
+  {
+    "startTime": 354.26,
+    "endTime": 356.26,
+    "text": "who helped us in Seattle,"
+  },
+  {
+    "startTime": 356.26,
+    "endTime": 358.26,
+    "text": "just over a year ago,"
+  },
+  {
+    "startTime": 358.26,
+    "endTime": 361.26,
+    "text": "to tag what they were throwing away --"
+  },
+  {
+    "startTime": 361.26,
+    "endTime": 364.26,
+    "text": "different types of things, as you can see here --"
+  },
+  {
+    "startTime": 364.26,
+    "endTime": 366.26,
+    "text": "things they would throw away anyway."
+  },
+  {
+    "startTime": 366.26,
+    "endTime": 368.26,
+    "text": "Then we put a little chip, little tag,"
+  },
+  {
+    "startTime": 368.26,
+    "endTime": 370.26,
+    "text": "onto the trash"
+  },
+  {
+    "startTime": 370.26,
+    "endTime": 372.26,
+    "text": "and then started following it."
+  },
+  {
+    "startTime": 372.26,
+    "endTime": 375.26,
+    "text": "Here are the results we just obtained."
+  },
+  {
+    "startTime": 375.26,
+    "endTime": 378.26,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 378.26,
+    "endTime": 381.26,
+    "text": "From Seattle ..."
+  },
+  {
+    "startTime": 386.26,
+    "endTime": 388.26,
+    "text": "after one week."
+  },
+  {
+    "startTime": 413.26,
+    "endTime": 415.26,
+    "text": "With this information we realized"
+  },
+  {
+    "startTime": 415.26,
+    "endTime": 417.26,
+    "text": "there's a lot of inefficiencies in the system."
+  },
+  {
+    "startTime": 417.26,
+    "endTime": 420.26,
+    "text": "We can actually do the same thing with much less energy."
+  },
+  {
+    "startTime": 420.26,
+    "endTime": 422.26,
+    "text": "This data was not available before."
+  },
+  {
+    "startTime": 422.26,
+    "endTime": 425.26,
+    "text": "But there's a lot of wasted transportation and convoluted things happening."
+  },
+  {
+    "startTime": 425.26,
+    "endTime": 427.26,
+    "text": "But the other thing is that we believe"
+  },
+  {
+    "startTime": 427.26,
+    "endTime": 429.26,
+    "text": "that if we see every day"
+  },
+  {
+    "startTime": 429.26,
+    "endTime": 431.26,
+    "text": "that the cup we're throwing away, it doesn't disappear,"
+  },
+  {
+    "startTime": 431.26,
+    "endTime": 433.26,
+    "text": "it's still somewhere on the planet."
+  },
+  {
+    "startTime": 433.26,
+    "endTime": 436.26,
+    "text": "And the plastic bottle we're throwing away every day still stays there."
+  },
+  {
+    "startTime": 436.26,
+    "endTime": 438.26,
+    "text": "And if we show that to people,"
+  },
+  {
+    "startTime": 438.26,
+    "endTime": 440.26,
+    "text": "then we can also promote some behavioral change."
+  },
+  {
+    "startTime": 440.26,
+    "endTime": 442.26,
+    "text": "So that was the reason for the project."
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 444.26,
+    "text": "My colleague at MIT, Assaf Biderman,"
+  },
+  {
+    "startTime": 444.26,
+    "endTime": 446.26,
+    "text": "he could tell you much more about sensing"
+  },
+  {
+    "startTime": 446.26,
+    "endTime": 448.26,
+    "text": "and many other wonderful things we can do with sensing,"
+  },
+  {
+    "startTime": 448.26,
+    "endTime": 451.26,
+    "text": "but I wanted to go to the second part we discussed at the beginning,"
+  },
+  {
+    "startTime": 451.26,
+    "endTime": 453.26,
+    "text": "and that's actuating our environment."
+  },
+  {
+    "startTime": 453.26,
+    "endTime": 455.26,
+    "text": "And the first project"
+  },
+  {
+    "startTime": 455.26,
+    "endTime": 458.26,
+    "text": "is something we did a couple of years ago in Zaragoza, Spain."
+  },
+  {
+    "startTime": 458.26,
+    "endTime": 461.26,
+    "text": "It started with a question by the mayor of the city,"
+  },
+  {
+    "startTime": 461.26,
+    "endTime": 463.26,
+    "text": "who came to us saying"
+  },
+  {
+    "startTime": 463.26,
+    "endTime": 466.26,
+    "text": "that Spain and Southern Europe have a beautiful tradition"
+  },
+  {
+    "startTime": 466.26,
+    "endTime": 469.26,
+    "text": "of using water in public space, in architecture."
+  },
+  {
+    "startTime": 469.26,
+    "endTime": 471.26,
+    "text": "And the question was: How could technology, new technology,"
+  },
+  {
+    "startTime": 471.26,
+    "endTime": 473.26,
+    "text": "be added to that?"
+  },
+  {
+    "startTime": 473.26,
+    "endTime": 476.26,
+    "text": "And one of the ideas that was developed at MIT in a workshop"
+  },
+  {
+    "startTime": 476.26,
+    "endTime": 479.26,
+    "text": "was, imagine this pipe, and you've got valves,"
+  },
+  {
+    "startTime": 479.26,
+    "endTime": 481.26,
+    "text": "solenoid valves, taps,"
+  },
+  {
+    "startTime": 481.26,
+    "endTime": 483.26,
+    "text": "opening and closing."
+  },
+  {
+    "startTime": 483.26,
+    "endTime": 486.26,
+    "text": "You create like a water curtain with pixels made of water."
+  },
+  {
+    "startTime": 486.26,
+    "endTime": 488.26,
+    "text": "If those pixels fall,"
+  },
+  {
+    "startTime": 488.26,
+    "endTime": 490.26,
+    "text": "you can write on it,"
+  },
+  {
+    "startTime": 490.26,
+    "endTime": 492.26,
+    "text": "you can show patterns, images, text."
+  },
+  {
+    "startTime": 492.26,
+    "endTime": 494.26,
+    "text": "And even you can approach it, and it will open up"
+  },
+  {
+    "startTime": 494.26,
+    "endTime": 496.26,
+    "text": "to let you jump through,"
+  },
+  {
+    "startTime": 496.26,
+    "endTime": 498.26,
+    "text": "as you see in this image."
+  },
+  {
+    "startTime": 498.26,
+    "endTime": 500.26,
+    "text": "Well, we presented this to Mayor Belloch."
+  },
+  {
+    "startTime": 500.26,
+    "endTime": 502.26,
+    "text": "He liked it very much."
+  },
+  {
+    "startTime": 502.26,
+    "endTime": 504.26,
+    "text": "And we got a commission to design a building"
+  },
+  {
+    "startTime": 504.26,
+    "endTime": 506.26,
+    "text": "at the entrance of the expo."
+  },
+  {
+    "startTime": 506.26,
+    "endTime": 508.26,
+    "text": "We called it Digital Water Pavilion."
+  },
+  {
+    "startTime": 508.26,
+    "endTime": 511.26,
+    "text": "The whole building is made of water."
+  },
+  {
+    "startTime": 513.26,
+    "endTime": 515.26,
+    "text": "There's no doors or windows,"
+  },
+  {
+    "startTime": 515.26,
+    "endTime": 517.26,
+    "text": "but when you approach it,"
+  },
+  {
+    "startTime": 517.26,
+    "endTime": 519.26,
+    "text": "it will open up to let you in."
+  },
+  {
+    "startTime": 519.26,
+    "endTime": 525.26,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 532.26,
+    "endTime": 535.26,
+    "text": "The roof also is covered with water."
+  },
+  {
+    "startTime": 537.26,
+    "endTime": 539.26,
+    "text": "And if there's a bit of wind,"
+  },
+  {
+    "startTime": 539.26,
+    "endTime": 542.26,
+    "text": "if you want to minimize splashing, you can actually lower the roof."
+  },
+  {
+    "startTime": 544.26,
+    "endTime": 546.26,
+    "text": "Or you could close the building,"
+  },
+  {
+    "startTime": 546.26,
+    "endTime": 548.26,
+    "text": "and the whole architecture will disappear,"
+  },
+  {
+    "startTime": 548.26,
+    "endTime": 550.26,
+    "text": "like in this case."
+  },
+  {
+    "startTime": 550.26,
+    "endTime": 552.26,
+    "text": "You know, these days, you always get images during the winter,"
+  },
+  {
+    "startTime": 552.26,
+    "endTime": 554.26,
+    "text": "when they take the roof down,"
+  },
+  {
+    "startTime": 554.26,
+    "endTime": 557.26,
+    "text": "of people who have been there and said, \"They demolished the building.\""
+  },
+  {
+    "startTime": 557.26,
+    "endTime": 559.26,
+    "text": "No, they didn't demolish it, just when it goes down,"
+  },
+  {
+    "startTime": 559.26,
+    "endTime": 561.26,
+    "text": "the architecture almost disappears."
+  },
+  {
+    "startTime": 561.26,
+    "endTime": 564.26,
+    "text": "Here's the building working."
+  },
+  {
+    "startTime": 564.26,
+    "endTime": 567.26,
+    "text": "You see the person puzzled about what was going on inside."
+  },
+  {
+    "startTime": 567.26,
+    "endTime": 569.26,
+    "text": "And here was myself trying not to get wet,"
+  },
+  {
+    "startTime": 569.26,
+    "endTime": 572.26,
+    "text": "testing the sensors that open the water."
+  },
+  {
+    "startTime": 572.26,
+    "endTime": 574.26,
+    "text": "Well, I should tell you now what happened one night"
+  },
+  {
+    "startTime": 574.26,
+    "endTime": 577.26,
+    "text": "when all of the sensors stopped working."
+  },
+  {
+    "startTime": 577.26,
+    "endTime": 580.26,
+    "text": "But actually that night, it was even more fun."
+  },
+  {
+    "startTime": 580.26,
+    "endTime": 582.26,
+    "text": "All the kids from Zaragoza came to the building,"
+  },
+  {
+    "startTime": 582.26,
+    "endTime": 585.26,
+    "text": "because the way of engaging with the building became something different."
+  },
+  {
+    "startTime": 585.26,
+    "endTime": 588.26,
+    "text": "Not anymore a building that would open up to let you in,"
+  },
+  {
+    "startTime": 588.26,
+    "endTime": 591.26,
+    "text": "but a building that would still make cuts and holes through the water,"
+  },
+  {
+    "startTime": 591.26,
+    "endTime": 593.26,
+    "text": "and you had to jump without getting wet."
+  },
+  {
+    "startTime": 593.26,
+    "endTime": 606.26,
+    "text": "(Video) (Crowd Noise)"
+  },
+  {
+    "startTime": 606.26,
+    "endTime": 608.26,
+    "text": "And that was, for us, was very interesting,"
+  },
+  {
+    "startTime": 608.26,
+    "endTime": 611.26,
+    "text": "because, as architects, as engineers, as designers,"
+  },
+  {
+    "startTime": 611.26,
+    "endTime": 614.26,
+    "text": "we always think about how people will use the things we design."
+  },
+  {
+    "startTime": 614.26,
+    "endTime": 617.26,
+    "text": "But then reality's always unpredictable."
+  },
+  {
+    "startTime": 617.26,
+    "endTime": 619.26,
+    "text": "And that's the beauty of doing things"
+  },
+  {
+    "startTime": 619.26,
+    "endTime": 621.26,
+    "text": "that are used and interact with people."
+  },
+  {
+    "startTime": 621.26,
+    "endTime": 623.26,
+    "text": "Here is an image then of the building"
+  },
+  {
+    "startTime": 623.26,
+    "endTime": 625.26,
+    "text": "with the physical pixels, the pixels made of water,"
+  },
+  {
+    "startTime": 625.26,
+    "endTime": 628.26,
+    "text": "and then projections on them."
+  },
+  {
+    "startTime": 628.26,
+    "endTime": 630.26,
+    "text": "And this is what led us to think about"
+  },
+  {
+    "startTime": 630.26,
+    "endTime": 632.26,
+    "text": "the following project I'll show you now."
+  },
+  {
+    "startTime": 632.26,
+    "endTime": 635.26,
+    "text": "That's, imagine those pixels could actually start flying."
+  },
+  {
+    "startTime": 635.26,
+    "endTime": 637.26,
+    "text": "Imagine you could have small helicopters"
+  },
+  {
+    "startTime": 637.26,
+    "endTime": 639.26,
+    "text": "that move in the air,"
+  },
+  {
+    "startTime": 639.26,
+    "endTime": 642.26,
+    "text": "and then each of them with a small pixel in changing lights --"
+  },
+  {
+    "startTime": 642.26,
+    "endTime": 645.26,
+    "text": "almost as a cloud that can move in space."
+  },
+  {
+    "startTime": 645.26,
+    "endTime": 647.26,
+    "text": "Here is the video."
+  },
+  {
+    "startTime": 647.26,
+    "endTime": 653.26,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 653.26,
+    "endTime": 656.26,
+    "text": "So imagine one helicopter,"
+  },
+  {
+    "startTime": 656.26,
+    "endTime": 659.26,
+    "text": "like the one we saw before,"
+  },
+  {
+    "startTime": 661.26,
+    "endTime": 664.26,
+    "text": "moving with others,"
+  },
+  {
+    "startTime": 664.26,
+    "endTime": 666.26,
+    "text": "in synchrony."
+  },
+  {
+    "startTime": 666.26,
+    "endTime": 669.26,
+    "text": "So you can have this cloud."
+  },
+  {
+    "startTime": 675.26,
+    "endTime": 679.26,
+    "text": "You can have a kind of flexible screen or display, like this --"
+  },
+  {
+    "startTime": 679.26,
+    "endTime": 682.26,
+    "text": "a regular configuration in two dimensions."
+  },
+  {
+    "startTime": 689.26,
+    "endTime": 692.26,
+    "text": "Or in regular, but in three dimensions,"
+  },
+  {
+    "startTime": 692.26,
+    "endTime": 694.26,
+    "text": "where the thing that changes is the light,"
+  },
+  {
+    "startTime": 694.26,
+    "endTime": 696.26,
+    "text": "not the pixels' position."
+  },
+  {
+    "startTime": 706.26,
+    "endTime": 708.26,
+    "text": "You can play with a different type."
+  },
+  {
+    "startTime": 708.26,
+    "endTime": 710.26,
+    "text": "Imagine your screen could just appear"
+  },
+  {
+    "startTime": 710.26,
+    "endTime": 713.26,
+    "text": "in different scales or sizes,"
+  },
+  {
+    "startTime": 713.26,
+    "endTime": 716.26,
+    "text": "different types of resolution."
+  },
+  {
+    "startTime": 725.26,
+    "endTime": 727.26,
+    "text": "But then the whole thing can be"
+  },
+  {
+    "startTime": 727.26,
+    "endTime": 729.26,
+    "text": "just a 3D cloud of pixels"
+  },
+  {
+    "startTime": 729.26,
+    "endTime": 732.26,
+    "text": "that you can approach and move through it"
+  },
+  {
+    "startTime": 732.26,
+    "endTime": 735.26,
+    "text": "and see from many, many directions."
+  },
+  {
+    "startTime": 735.26,
+    "endTime": 737.26,
+    "text": "Here is the real Flyfire"
+  },
+  {
+    "startTime": 737.26,
+    "endTime": 741.26,
+    "text": "control and going down to form the regular grid as before."
+  },
+  {
+    "startTime": 741.26,
+    "endTime": 744.26,
+    "text": "When you turn on the light, actually you see this. So the same as we saw before."
+  },
+  {
+    "startTime": 744.26,
+    "endTime": 746.26,
+    "text": "And imagine each of them then controlled by people."
+  },
+  {
+    "startTime": 746.26,
+    "endTime": 748.26,
+    "text": "You can have each pixel"
+  },
+  {
+    "startTime": 748.26,
+    "endTime": 750.26,
+    "text": "having an input that comes from people,"
+  },
+  {
+    "startTime": 750.26,
+    "endTime": 752.26,
+    "text": "from people's movement, or so and so."
+  },
+  {
+    "startTime": 752.26,
+    "endTime": 755.26,
+    "text": "I want to show you something here for the first time."
+  },
+  {
+    "startTime": 755.26,
+    "endTime": 757.26,
+    "text": "We've been working with Roberto Bolle,"
+  },
+  {
+    "startTime": 757.26,
+    "endTime": 759.26,
+    "text": "one of today's top ballet dancers --"
+  },
+  {
+    "startTime": 759.26,
+    "endTime": 761.26,
+    "text": "the étoile at Metropolitan in New York"
+  },
+  {
+    "startTime": 761.26,
+    "endTime": 763.26,
+    "text": "and La Scala in Milan --"
+  },
+  {
+    "startTime": 763.26,
+    "endTime": 765.26,
+    "text": "and actually captured his movement in 3D"
+  },
+  {
+    "startTime": 765.26,
+    "endTime": 768.26,
+    "text": "in order to use it as an input for Flyfire."
+  },
+  {
+    "startTime": 768.26,
+    "endTime": 771.26,
+    "text": "And here you can see Roberto dancing."
+  },
+  {
+    "startTime": 773.26,
+    "endTime": 775.26,
+    "text": "You see on the left the pixels,"
+  },
+  {
+    "startTime": 775.26,
+    "endTime": 777.26,
+    "text": "the different resolutions being captured."
+  },
+  {
+    "startTime": 777.26,
+    "endTime": 779.26,
+    "text": "It's both 3D scanning in real time"
+  },
+  {
+    "startTime": 779.26,
+    "endTime": 782.26,
+    "text": "and motion capture."
+  },
+  {
+    "startTime": 783.26,
+    "endTime": 786.26,
+    "text": "So you can reconstruct a whole movement."
+  },
+  {
+    "startTime": 790.26,
+    "endTime": 793.26,
+    "text": "You can go all the way through."
+  },
+  {
+    "startTime": 796.26,
+    "endTime": 798.26,
+    "text": "But then, once we have the pixels, then you can play with them"
+  },
+  {
+    "startTime": 798.26,
+    "endTime": 801.26,
+    "text": "and play with color and movement"
+  },
+  {
+    "startTime": 801.26,
+    "endTime": 804.26,
+    "text": "and gravity and rotation."
+  },
+  {
+    "startTime": 804.26,
+    "endTime": 806.26,
+    "text": "So we want to use this as one of the possible inputs"
+  },
+  {
+    "startTime": 806.26,
+    "endTime": 808.26,
+    "text": "for Flyfire."
+  },
+  {
+    "startTime": 827.26,
+    "endTime": 829.26,
+    "text": "I wanted to show you the last project we are working on."
+  },
+  {
+    "startTime": 829.26,
+    "endTime": 831.26,
+    "text": "It's something we're working on for the London Olympics."
+  },
+  {
+    "startTime": 831.26,
+    "endTime": 833.26,
+    "text": "It's called The Cloud."
+  },
+  {
+    "startTime": 833.26,
+    "endTime": 835.26,
+    "text": "And the idea here is, imagine, again,"
+  },
+  {
+    "startTime": 835.26,
+    "endTime": 837.26,
+    "text": "we can involve people"
+  },
+  {
+    "startTime": 837.26,
+    "endTime": 840.26,
+    "text": "in doing something and changing our environment --"
+  },
+  {
+    "startTime": 840.26,
+    "endTime": 842.26,
+    "text": "almost to impart what we call cloud raising --"
+  },
+  {
+    "startTime": 842.26,
+    "endTime": 844.26,
+    "text": "like barn raising, but with a cloud."
+  },
+  {
+    "startTime": 844.26,
+    "endTime": 848.26,
+    "text": "Imagine you can have everybody make a small donation for one pixel."
+  },
+  {
+    "startTime": 848.26,
+    "endTime": 850.26,
+    "text": "And I think what is remarkable"
+  },
+  {
+    "startTime": 850.26,
+    "endTime": 852.26,
+    "text": "that has happened over the past couple of years"
+  },
+  {
+    "startTime": 852.26,
+    "endTime": 854.26,
+    "text": "is that, over the past couple of decades,"
+  },
+  {
+    "startTime": 854.26,
+    "endTime": 857.26,
+    "text": "we went from the physical world to the digital one."
+  },
+  {
+    "startTime": 857.26,
+    "endTime": 859.26,
+    "text": "This has been digitizing everything, knowledge,"
+  },
+  {
+    "startTime": 859.26,
+    "endTime": 861.26,
+    "text": "and making that accessible through the Internet."
+  },
+  {
+    "startTime": 861.26,
+    "endTime": 863.26,
+    "text": "Now today, for the first time --"
+  },
+  {
+    "startTime": 863.26,
+    "endTime": 865.26,
+    "text": "and the Obama campaign showed us this --"
+  },
+  {
+    "startTime": 865.26,
+    "endTime": 867.26,
+    "text": "we can go from the digital world,"
+  },
+  {
+    "startTime": 867.26,
+    "endTime": 869.26,
+    "text": "from the self-organizing power of networks,"
+  },
+  {
+    "startTime": 869.26,
+    "endTime": 871.26,
+    "text": "to the physical one."
+  },
+  {
+    "startTime": 871.26,
+    "endTime": 873.26,
+    "text": "This can be, in our case,"
+  },
+  {
+    "startTime": 873.26,
+    "endTime": 875.26,
+    "text": "we want to use it for designing and doing a symbol."
+  },
+  {
+    "startTime": 875.26,
+    "endTime": 877.26,
+    "text": "That means something built in a city."
+  },
+  {
+    "startTime": 877.26,
+    "endTime": 879.26,
+    "text": "But tomorrow it can be,"
+  },
+  {
+    "startTime": 879.26,
+    "endTime": 882.26,
+    "text": "in order to tackle today's pressing challenges --"
+  },
+  {
+    "startTime": 882.26,
+    "endTime": 884.26,
+    "text": "think about climate change or CO2 emissions --"
+  },
+  {
+    "startTime": 884.26,
+    "endTime": 887.26,
+    "text": "how we can go from the digital world to the physical one."
+  },
+  {
+    "startTime": 887.26,
+    "endTime": 889.26,
+    "text": "So the idea that we can actually involve people"
+  },
+  {
+    "startTime": 889.26,
+    "endTime": 891.26,
+    "text": "in doing this thing together, collectively."
+  },
+  {
+    "startTime": 891.26,
+    "endTime": 894.26,
+    "text": "The cloud is a cloud, again, made of pixels,"
+  },
+  {
+    "startTime": 894.26,
+    "endTime": 896.26,
+    "text": "in the same way as the real cloud"
+  },
+  {
+    "startTime": 896.26,
+    "endTime": 898.26,
+    "text": "is a cloud made of particles."
+  },
+  {
+    "startTime": 898.26,
+    "endTime": 900.26,
+    "text": "And those particles are water,"
+  },
+  {
+    "startTime": 900.26,
+    "endTime": 902.26,
+    "text": "where our cloud is a cloud of pixels."
+  },
+  {
+    "startTime": 902.26,
+    "endTime": 905.26,
+    "text": "It's a physical structure in London, but covered with pixels."
+  },
+  {
+    "startTime": 905.26,
+    "endTime": 907.26,
+    "text": "You can move inside, have different types of experiences."
+  },
+  {
+    "startTime": 907.26,
+    "endTime": 909.26,
+    "text": "You can actually see from underneath,"
+  },
+  {
+    "startTime": 909.26,
+    "endTime": 911.26,
+    "text": "sharing the main moments"
+  },
+  {
+    "startTime": 911.26,
+    "endTime": 914.26,
+    "text": "for the Olympics in 2012 and beyond,"
+  },
+  {
+    "startTime": 914.26,
+    "endTime": 918.26,
+    "text": "and really using it as a way to connect with the community."
+  },
+  {
+    "startTime": 918.26,
+    "endTime": 922.26,
+    "text": "So both the physical cloud in the sky"
+  },
+  {
+    "startTime": 922.26,
+    "endTime": 925.26,
+    "text": "and something you can go to the top [of],"
+  },
+  {
+    "startTime": 925.26,
+    "endTime": 927.26,
+    "text": "like London's new mountaintop."
+  },
+  {
+    "startTime": 927.26,
+    "endTime": 929.26,
+    "text": "You can enter inside it."
+  },
+  {
+    "startTime": 929.26,
+    "endTime": 932.26,
+    "text": "And a kind of new digital beacon for the night --"
+  },
+  {
+    "startTime": 932.26,
+    "endTime": 934.26,
+    "text": "but most importantly,"
+  },
+  {
+    "startTime": 934.26,
+    "endTime": 937.26,
+    "text": "a new type of experience for anybody who will go to the top."
+  },
+  {
+    "startTime": 937.26,
+    "endTime": 939.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 939.26,
+    "endTime": 941.26,
+    "text": "(Applause)"
+  }
+]

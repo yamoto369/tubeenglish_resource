@@ -1,0 +1,1542 @@
+[
+  {
+    "startTime": 12.08,
+    "endTime": 16.16,
+    "text": "I want to talk to you about um uh or"
+  },
+  {
+    "startTime": 16.16,
+    "endTime": 17.84,
+    "text": "share with you a breakthrough new"
+  },
+  {
+    "startTime": 17.84,
+    "endTime": 20.76,
+    "text": "approach uh for managing items of"
+  },
+  {
+    "startTime": 20.76,
+    "endTime": 22.6,
+    "text": "inventory inside of a warehouse we're"
+  },
+  {
+    "startTime": 22.6,
+    "endTime": 24.359,
+    "text": "talking about a ppack and ship setting"
+  },
+  {
+    "startTime": 24.359,
+    "endTime": 29.24,
+    "text": "here so uh as a hint uh this solution"
+  },
+  {
+    "startTime": 29.24,
+    "endTime": 32.439,
+    "text": "involves hundreds of mobile robots"
+  },
+  {
+    "startTime": 32.439,
+    "endTime": 34.36,
+    "text": "sometimes thousands of mobile robots"
+  },
+  {
+    "startTime": 34.36,
+    "endTime": 35.879,
+    "text": "moving around a warehouse and I'll get"
+  },
+  {
+    "startTime": 35.879,
+    "endTime": 38.0,
+    "text": "to the solution but for a moment just"
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 39.399,
+    "text": "think about the last time that you"
+  },
+  {
+    "startTime": 39.399,
+    "endTime": 41.559,
+    "text": "ordered something online you were"
+  },
+  {
+    "startTime": 41.559,
+    "endTime": 44.559,
+    "text": "sitting on your couch uh and you decided"
+  },
+  {
+    "startTime": 44.559,
+    "endTime": 46.32,
+    "text": "that you absolutely had to have this red"
+  },
+  {
+    "startTime": 46.32,
+    "endTime": 48.12,
+    "text": "t-shirt so click you put it into your"
+  },
+  {
+    "startTime": 48.12,
+    "endTime": 50.6,
+    "text": "shopping cart and then you decided that"
+  },
+  {
+    "startTime": 50.6,
+    "endTime": 52.039,
+    "text": "green pair of pants looks pretty good"
+  },
+  {
+    "startTime": 52.039,
+    "endTime": 54.239,
+    "text": "too click and maybe a blue pair of shoes"
+  },
+  {
+    "startTime": 54.239,
+    "endTime": 56.399,
+    "text": "click so at this point you've assembled"
+  },
+  {
+    "startTime": 56.399,
+    "endTime": 58.12,
+    "text": "your order you didn't stop to think for"
+  },
+  {
+    "startTime": 58.12,
+    "endTime": 59.559,
+    "text": "a moment that that might not be a great"
+  },
+  {
+    "startTime": 59.559,
+    "endTime": 62.64,
+    "text": "outfit but you hit submit order and 2"
+  },
+  {
+    "startTime": 62.64,
+    "endTime": 65.158,
+    "text": "days later uh this package shows up on"
+  },
+  {
+    "startTime": 65.159,
+    "endTime": 67.36,
+    "text": "your doorstep and you open the box"
+  },
+  {
+    "startTime": 67.36,
+    "endTime": 69.759,
+    "text": "you're like wow there's my goo did you"
+  },
+  {
+    "startTime": 69.759,
+    "endTime": 71.84,
+    "text": "ever stop to think about how those items"
+  },
+  {
+    "startTime": 71.84,
+    "endTime": 73.799,
+    "text": "of inventory actually found their way"
+  },
+  {
+    "startTime": 73.799,
+    "endTime": 77.0,
+    "text": "inside that box in the warehouse so I'm"
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 79.52,
+    "text": "here to tell you it's that guy right"
+  },
+  {
+    "startTime": 79.52,
+    "endTime": 82.6,
+    "text": "there so in deep in the middle of that v"
+  },
+  {
+    "startTime": 82.6,
+    "endTime": 85.4,
+    "text": "in that picture you see a classic"
+  },
+  {
+    "startTime": 85.4,
+    "endTime": 87.32,
+    "text": "pickpack worker in a distribution or"
+  },
+  {
+    "startTime": 87.32,
+    "endTime": 90.479,
+    "text": "order fulfillment setting um classically"
+  },
+  {
+    "startTime": 90.479,
+    "endTime": 92.88,
+    "text": "these pick workers will spend 60 70% of"
+  },
+  {
+    "startTime": 92.88,
+    "endTime": 95.439,
+    "text": "their day wandering around a warehouse"
+  },
+  {
+    "startTime": 95.439,
+    "endTime": 98.2,
+    "text": "they'll often walk as much as 5 10 miles"
+  },
+  {
+    "startTime": 98.2,
+    "endTime": 101.04,
+    "text": "in pursuit of those items of inventory"
+  },
+  {
+    "startTime": 101.04,
+    "endTime": 103.84,
+    "text": "not only is this an unproductive way to"
+  },
+  {
+    "startTime": 103.84,
+    "endTime": 106.52,
+    "text": "fill uh orders it also turns out to be"
+  },
+  {
+    "startTime": 106.52,
+    "endTime": 110.04,
+    "text": "an unfulfilling way to fill orders so"
+  },
+  {
+    "startTime": 110.04,
+    "endTime": 111.799,
+    "text": "let me tell you where I first bumped"
+  },
+  {
+    "startTime": 111.799,
+    "endTime": 114.159,
+    "text": "into this problem I was out in the Bay"
+  },
+  {
+    "startTime": 114.159,
+    "endTime": 118.2,
+    "text": "Area in 99200 the boom uh I worked for a"
+  },
+  {
+    "startTime": 118.2,
+    "endTime": 122.0,
+    "text": "fabulously spectacular Flame out called"
+  },
+  {
+    "startTime": 122.0,
+    "endTime": 124.2,
+    "text": "webband this company raised hundreds of"
+  },
+  {
+    "startTime": 124.2,
+    "endTime": 125.759,
+    "text": "millions of dollars with the notion that"
+  },
+  {
+    "startTime": 125.759,
+    "endTime": 128.72,
+    "text": "we will deliver grocery orders online"
+  },
+  {
+    "startTime": 128.72,
+    "endTime": 130.959,
+    "text": "and it really came down to the fact that"
+  },
+  {
+    "startTime": 130.959,
+    "endTime": 133.0,
+    "text": "we couldn't do it cost effectively turns"
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 135.12,
+    "text": "out e-commerce fulfillment is very hard"
+  },
+  {
+    "startTime": 135.12,
+    "endTime": 137.68,
+    "text": "and very costly in in this particular"
+  },
+  {
+    "startTime": 137.68,
+    "endTime": 139.8,
+    "text": "instance we were trying to assemble 30"
+  },
+  {
+    "startTime": 139.8,
+    "endTime": 142.12,
+    "text": "items of inventory into a few totes to"
+  },
+  {
+    "startTime": 142.12,
+    "endTime": 145.12,
+    "text": "on onto a van to deliver to the home and"
+  },
+  {
+    "startTime": 145.12,
+    "endTime": 147.0,
+    "text": "when you think about it 30 it was"
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 150.72,
+    "text": "costing us $30 imagine we had an8 9 C"
+  },
+  {
+    "startTime": 150.72,
+    "endTime": 153.48,
+    "text": "can of soup that was costing us $1 to"
+  },
+  {
+    "startTime": 153.48,
+    "endTime": 155.959,
+    "text": "Pick and Pack into that tote and that's"
+  },
+  {
+    "startTime": 155.959,
+    "endTime": 157.44,
+    "text": "before we actually tried to deliver it"
+  },
+  {
+    "startTime": 157.44,
+    "endTime": 160.04,
+    "text": "to the home so long story short during"
+  },
+  {
+    "startTime": 160.04,
+    "endTime": 162.599,
+    "text": "my one year at webband what I realized"
+  },
+  {
+    "startTime": 162.599,
+    "endTime": 164.2,
+    "text": "by talking to all the material handling"
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 166.879,
+    "text": "providers was that there was no solution"
+  },
+  {
+    "startTime": 166.879,
+    "endTime": 168.879,
+    "text": "designed specifically to solve each base"
+  },
+  {
+    "startTime": 168.879,
+    "endTime": 171.44,
+    "text": "picking red item green blue getting"
+  },
+  {
+    "startTime": 171.44,
+    "endTime": 174.12,
+    "text": "those three things in a box so he said"
+  },
+  {
+    "startTime": 174.12,
+    "endTime": 175.36,
+    "text": "you know there's just got to be a better"
+  },
+  {
+    "startTime": 175.36,
+    "endTime": 177.12,
+    "text": "way to do this existing Material"
+  },
+  {
+    "startTime": 177.12,
+    "endTime": 179.4,
+    "text": "Handling was set up to pump pallets and"
+  },
+  {
+    "startTime": 179.4,
+    "endTime": 182.92,
+    "text": "cases of Goo to retail stores of course"
+  },
+  {
+    "startTime": 182.92,
+    "endTime": 185.04,
+    "text": "web ban uh went out of business and"
+  },
+  {
+    "startTime": 185.04,
+    "endTime": 186.68,
+    "text": "about a year and a half later I was"
+  },
+  {
+    "startTime": 186.68,
+    "endTime": 188.64,
+    "text": "still noodling on this problem it was"
+  },
+  {
+    "startTime": 188.64,
+    "endTime": 190.64,
+    "text": "still nagging at me and I started"
+  },
+  {
+    "startTime": 190.64,
+    "endTime": 192.4,
+    "text": "thinking about it again and I said let"
+  },
+  {
+    "startTime": 192.4,
+    "endTime": 195.879,
+    "text": "me just focus briefly on what I wanted"
+  },
+  {
+    "startTime": 195.879,
+    "endTime": 198.519,
+    "text": "as a pick worker or my vision for how it"
+  },
+  {
+    "startTime": 198.519,
+    "endTime": 199.799,
+    "text": "should"
+  },
+  {
+    "startTime": 199.799,
+    "endTime": 202.76,
+    "text": "work I said let's focus on the problem I"
+  },
+  {
+    "startTime": 202.76,
+    "endTime": 205.879,
+    "text": "have an order here and what I want to do"
+  },
+  {
+    "startTime": 205.879,
+    "endTime": 207.4,
+    "text": "is I want to put red green and blue in"
+  },
+  {
+    "startTime": 207.4,
+    "endTime": 209.84,
+    "text": "this box right here what I need is a"
+  },
+  {
+    "startTime": 209.84,
+    "endTime": 211.599,
+    "text": "system where I put out my hand and poof"
+  },
+  {
+    "startTime": 211.599,
+    "endTime": 213.599,
+    "text": "the product shows up and I pack it into"
+  },
+  {
+    "startTime": 213.599,
+    "endTime": 216.159,
+    "text": "the order and now we're thinking this"
+  },
+  {
+    "startTime": 216.159,
+    "endTime": 218.28,
+    "text": "would be a very operator Centric"
+  },
+  {
+    "startTime": 218.28,
+    "endTime": 220.04,
+    "text": "approach to solving the problem this is"
+  },
+  {
+    "startTime": 220.04,
+    "endTime": 222.28,
+    "text": "what I need what technology is available"
+  },
+  {
+    "startTime": 222.28,
+    "endTime": 225.239,
+    "text": "to solve this problem uh but uh as you"
+  },
+  {
+    "startTime": 225.239,
+    "endTime": 227.08,
+    "text": "can see orders can come and go products"
+  },
+  {
+    "startTime": 227.08,
+    "endTime": 229.04,
+    "text": "can come and go it makes for it allows"
+  },
+  {
+    "startTime": 229.04,
+    "endTime": 231.319,
+    "text": "us to focus on making the pick worker"
+  },
+  {
+    "startTime": 231.319,
+    "endTime": 233.28,
+    "text": "the center of the problem and providing"
+  },
+  {
+    "startTime": 233.28,
+    "endTime": 235.2,
+    "text": "them the tools to make them as as"
+  },
+  {
+    "startTime": 235.2,
+    "endTime": 238.2,
+    "text": "productive as possible so how did I"
+  },
+  {
+    "startTime": 238.2,
+    "endTime": 240.439,
+    "text": "arrive at this notion well it"
+  },
+  {
+    "startTime": 240.439,
+    "endTime": 242.959,
+    "text": "came from a brainstorming exercise"
+  },
+  {
+    "startTime": 242.959,
+    "endTime": 244.56,
+    "text": "probably a technique that many of you"
+  },
+  {
+    "startTime": 244.56,
+    "endTime": 247.36,
+    "text": "use uh it's this notion of testing your"
+  },
+  {
+    "startTime": 247.36,
+    "endTime": 249.28,
+    "text": "ideas take a blank sheet of course but"
+  },
+  {
+    "startTime": 249.28,
+    "endTime": 251.56,
+    "text": "then test your ideas at the limits uh"
+  },
+  {
+    "startTime": 251.56,
+    "endTime": 255.239,
+    "text": "infinity zero in this particular case"
+  },
+  {
+    "startTime": 255.239,
+    "endTime": 256.959,
+    "text": "challenged ourselves with the idea what"
+  },
+  {
+    "startTime": 256.959,
+    "endTime": 259.199,
+    "text": "if we had to build a distribution center"
+  },
+  {
+    "startTime": 259.199,
+    "endTime": 261.639,
+    "text": "in China where it's a very very lowcost"
+  },
+  {
+    "startTime": 261.639,
+    "endTime": 265.0,
+    "text": "market and say labor is cheap land is"
+  },
+  {
+    "startTime": 265.0,
+    "endTime": 267.32,
+    "text": "cheap uh and we said specifically what"
+  },
+  {
+    "startTime": 267.32,
+    "endTime": 269.88,
+    "text": "if it was $0 an hour for for Direct"
+  },
+  {
+    "startTime": 269.88,
+    "endTime": 271.36,
+    "text": "labor and we could build a million"
+  },
+  {
+    "startTime": 271.36,
+    "endTime": 273.32,
+    "text": "square foot Distribution Center so"
+  },
+  {
+    "startTime": 273.32,
+    "endTime": 275.039,
+    "text": "naturally that led to ideas that said"
+  },
+  {
+    "startTime": 275.039,
+    "endTime": 276.12,
+    "text": "let's put lots of people in the"
+  },
+  {
+    "startTime": 276.12,
+    "endTime": 278.96,
+    "text": "warehouse and I said hold on0 doar per"
+  },
+  {
+    "startTime": 278.96,
+    "endTime": 281.72,
+    "text": "hour what I would do is hire quote"
+  },
+  {
+    "startTime": 281.72,
+    "endTime": 284.479,
+    "text": "unquote 10,000 workers to come to the"
+  },
+  {
+    "startTime": 284.479,
+    "endTime": 286.68,
+    "text": "warehouse every morning at 8: a.m. walk"
+  },
+  {
+    "startTime": 286.68,
+    "endTime": 288.8,
+    "text": "into the warehouse and pick up one item"
+  },
+  {
+    "startTime": 288.8,
+    "endTime": 291.24,
+    "text": "of inventory and then just stand there"
+  },
+  {
+    "startTime": 291.24,
+    "endTime": 293.16,
+    "text": "so you hold Captain Crunch you hold the"
+  },
+  {
+    "startTime": 293.16,
+    "endTime": 295.32,
+    "text": "Mountain Dew you hold the diet coke if I"
+  },
+  {
+    "startTime": 295.32,
+    "endTime": 296.72,
+    "text": "need it I'll call you otherwise just"
+  },
+  {
+    "startTime": 296.72,
+    "endTime": 298.759,
+    "text": "stand there but when I need Diet Coke"
+  },
+  {
+    "startTime": 298.759,
+    "endTime": 300.199,
+    "text": "and I call it you guys Talk Amongst"
+  },
+  {
+    "startTime": 300.199,
+    "endTime": 302.16,
+    "text": "yourselves Diet Coke walks up to the"
+  },
+  {
+    "startTime": 302.16,
+    "endTime": 304.759,
+    "text": "front pick it put it in the tote away it"
+  },
+  {
+    "startTime": 304.759,
+    "endTime": 307.88,
+    "text": "goes like wow what if the products could"
+  },
+  {
+    "startTime": 307.88,
+    "endTime": 310.199,
+    "text": "walk and talk on their own that's a very"
+  },
+  {
+    "startTime": 310.199,
+    "endTime": 312.32,
+    "text": "interesting very powerful way uh that we"
+  },
+  {
+    "startTime": 312.32,
+    "endTime": 313.6,
+    "text": "could potentially organize this"
+  },
+  {
+    "startTime": 313.6,
+    "endTime": 316.8,
+    "text": "Warehouse so of course labor isn't free"
+  },
+  {
+    "startTime": 316.8,
+    "endTime": 319.0,
+    "text": "uh on that practical practical versus"
+  },
+  {
+    "startTime": 319.0,
+    "endTime": 323.039,
+    "text": "awesome Spectrum uh uh so we said mobile"
+  },
+  {
+    "startTime": 323.039,
+    "endTime": 324.6,
+    "text": "shelving we'll put them on mobile"
+  },
+  {
+    "startTime": 324.6,
+    "endTime": 327.12,
+    "text": "shelving we'll use mobile pods uh excuse"
+  },
+  {
+    "startTime": 327.12,
+    "endTime": 328.44,
+    "text": "me mobile robots and we'll move the"
+  },
+  {
+    "startTime": 328.44,
+    "endTime": 331.199,
+    "text": "inventory around and so we got in uh got"
+  },
+  {
+    "startTime": 331.199,
+    "endTime": 332.639,
+    "text": "underway on that and then I'm sitting on"
+  },
+  {
+    "startTime": 332.639,
+    "endTime": 335.28,
+    "text": "my couch in 2008 did any of you see the"
+  },
+  {
+    "startTime": 335.28,
+    "endTime": 338.039,
+    "text": "Beijing Olympics The Opening Ceremonies"
+  },
+  {
+    "startTime": 338.039,
+    "endTime": 340.68,
+    "text": "I about fell out of my couch when I saw"
+  },
+  {
+    "startTime": 340.68,
+    "endTime": 344.16,
+    "text": "this like that was the"
+  },
+  {
+    "startTime": 344.63,
+    "endTime": 346.08,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 346.08,
+    "endTime": 348.759,
+    "text": "idea we'll put thousands of people on"
+  },
+  {
+    "startTime": 348.759,
+    "endTime": 351.0,
+    "text": "the warehouse floor the stadium floor"
+  },
+  {
+    "startTime": 351.0,
+    "endTime": 353.8,
+    "text": "but uh interesting enough this actually"
+  },
+  {
+    "startTime": 353.8,
+    "endTime": 356.16,
+    "text": "relates to the idea in that these guys"
+  },
+  {
+    "startTime": 356.16,
+    "endTime": 358.759,
+    "text": "were creating some incredibly powerful"
+  },
+  {
+    "startTime": 358.759,
+    "endTime": 361.16,
+    "text": "impressive dig digital art all without"
+  },
+  {
+    "startTime": 361.16,
+    "endTime": 362.96,
+    "text": "computers I'm told it was all"
+  },
+  {
+    "startTime": 362.96,
+    "endTime": 364.36,
+    "text": "peer-to-peer coordination and"
+  },
+  {
+    "startTime": 364.36,
+    "endTime": 366.199,
+    "text": "communication you stand up all squat"
+  },
+  {
+    "startTime": 366.199,
+    "endTime": 368.36,
+    "text": "down and they made some fabulous art it"
+  },
+  {
+    "startTime": 368.36,
+    "endTime": 371.52,
+    "text": "speaks to the power of emergence in uh"
+  },
+  {
+    "startTime": 371.52,
+    "endTime": 372.96,
+    "text": "systems when you let things start to"
+  },
+  {
+    "startTime": 372.96,
+    "endTime": 376.44,
+    "text": "talk with each other so uh that was a"
+  },
+  {
+    "startTime": 376.44,
+    "endTime": 378.199,
+    "text": "little bit of the uh a little bit of the"
+  },
+  {
+    "startTime": 378.199,
+    "endTime": 379.919,
+    "text": "journey so of course now what became the"
+  },
+  {
+    "startTime": 379.919,
+    "endTime": 383.759,
+    "text": "Practical reality of this idea here is a"
+  },
+  {
+    "startTime": 383.759,
+    "endTime": 385.639,
+    "text": "warehouse It's a pck package ship center"
+  },
+  {
+    "startTime": 385.639,
+    "endTime": 388.28,
+    "text": "that has about 10,000 different skus"
+  },
+  {
+    "startTime": 388.28,
+    "endTime": 390.28,
+    "text": "we'll call them red pens green plans"
+  },
+  {
+    "startTime": 390.28,
+    "endTime": 393.16,
+    "text": "yellow Post-it notes we send the little"
+  },
+  {
+    "startTime": 393.16,
+    "endTime": 394.919,
+    "text": "orange robots out to pick up the blue"
+  },
+  {
+    "startTime": 394.919,
+    "endTime": 396.759,
+    "text": "shelving pods and we deliver them to the"
+  },
+  {
+    "startTime": 396.759,
+    "endTime": 398.479,
+    "text": "side of the building so all the pick"
+  },
+  {
+    "startTime": 398.479,
+    "endTime": 401.28,
+    "text": "workers now get to say on the perimeter"
+  },
+  {
+    "startTime": 401.28,
+    "endTime": 402.919,
+    "text": "and the game here is to pick up the"
+  },
+  {
+    "startTime": 402.919,
+    "endTime": 404.52,
+    "text": "shelves take them down the highway and"
+  },
+  {
+    "startTime": 404.52,
+    "endTime": 406.639,
+    "text": "deliver them straight to the pick worker"
+  },
+  {
+    "startTime": 406.639,
+    "endTime": 408.36,
+    "text": "this pick worker's life is completely"
+  },
+  {
+    "startTime": 408.36,
+    "endTime": 410.0,
+    "text": "different rather than wandering around"
+  },
+  {
+    "startTime": 410.0,
+    "endTime": 412.319,
+    "text": "the warehouse she gets to stay still in"
+  },
+  {
+    "startTime": 412.319,
+    "endTime": 414.44,
+    "text": "a pck station like this and every"
+  },
+  {
+    "startTime": 414.44,
+    "endTime": 416.8,
+    "text": "product in the building can now come to"
+  },
+  {
+    "startTime": 416.8,
+    "endTime": 420.16,
+    "text": "her so the process is very is is very"
+  },
+  {
+    "startTime": 420.16,
+    "endTime": 423.12,
+    "text": "productive reach in pick an item scan"
+  },
+  {
+    "startTime": 423.12,
+    "endTime": 426.0,
+    "text": "the barcode pack it out by the time you"
+  },
+  {
+    "startTime": 426.0,
+    "endTime": 427.879,
+    "text": "turn around there's another product"
+  },
+  {
+    "startTime": 427.879,
+    "endTime": 430.4,
+    "text": "there ready to be picked and packed so"
+  },
+  {
+    "startTime": 430.4,
+    "endTime": 432.039,
+    "text": "what we've done is take out all of the"
+  },
+  {
+    "startTime": 432.039,
+    "endTime": 434.0,
+    "text": "non-value added walking searching"
+  },
+  {
+    "startTime": 434.0,
+    "endTime": 436.4,
+    "text": "wasting weighted time and we've"
+  },
+  {
+    "startTime": 436.4,
+    "endTime": 438.96,
+    "text": "developed a a very high fidelity way to"
+  },
+  {
+    "startTime": 438.96,
+    "endTime": 441.199,
+    "text": "pick these orders where you point at it"
+  },
+  {
+    "startTime": 441.199,
+    "endTime": 444.36,
+    "text": "with a laser scan the UPC BARC code and"
+  },
+  {
+    "startTime": 444.36,
+    "endTime": 446.08,
+    "text": "then indicate with a light which box it"
+  },
+  {
+    "startTime": 446.08,
+    "endTime": 448.96,
+    "text": "needs to go into so more productive more"
+  },
+  {
+    "startTime": 448.96,
+    "endTime": 451.28,
+    "text": "accurate um and it turns out it's an"
+  },
+  {
+    "startTime": 451.28,
+    "endTime": 453.4,
+    "text": "more interesting office environment for"
+  },
+  {
+    "startTime": 453.4,
+    "endTime": 456.36,
+    "text": "these pick workers they actually"
+  },
+  {
+    "startTime": 456.36,
+    "endTime": 458.199,
+    "text": "complete the whole order so they do red"
+  },
+  {
+    "startTime": 458.199,
+    "endTime": 459.759,
+    "text": "green and blue not just a part of the"
+  },
+  {
+    "startTime": 459.759,
+    "endTime": 461.52,
+    "text": "order and they feel a little bit more in"
+  },
+  {
+    "startTime": 461.52,
+    "endTime": 464.479,
+    "text": "control of their environment"
+  },
+  {
+    "startTime": 464.479,
+    "endTime": 467.12,
+    "text": "so the side effects of this approach are"
+  },
+  {
+    "startTime": 467.12,
+    "endTime": 468.56,
+    "text": "what really surprised us we knew it was"
+  },
+  {
+    "startTime": 468.56,
+    "endTime": 470.159,
+    "text": "going to be more productive but we"
+  },
+  {
+    "startTime": 470.159,
+    "endTime": 473.24,
+    "text": "didn't realize how just how pervasive uh"
+  },
+  {
+    "startTime": 473.24,
+    "endTime": 476.84,
+    "text": "this way of thinking uh uh extended to"
+  },
+  {
+    "startTime": 476.84,
+    "endTime": 480.12,
+    "text": "other functions in the warehouse but"
+  },
+  {
+    "startTime": 480.12,
+    "endTime": 482.919,
+    "text": "what effectively this approach is doing"
+  },
+  {
+    "startTime": 482.919,
+    "endTime": 485.44,
+    "text": "inside of the DC is turning it into a"
+  },
+  {
+    "startTime": 485.44,
+    "endTime": 488.759,
+    "text": "massively parallel uh processing engine"
+  },
+  {
+    "startTime": 488.759,
+    "endTime": 490.56,
+    "text": "so this is again a cross fertilization"
+  },
+  {
+    "startTime": 490.56,
+    "endTime": 492.639,
+    "text": "of ideas here's a warehouse but we're"
+  },
+  {
+    "startTime": 492.639,
+    "endTime": 494.28,
+    "text": "thinking about parallel processing"
+  },
+  {
+    "startTime": 494.28,
+    "endTime": 495.599,
+    "text": "supercomputer"
+  },
+  {
+    "startTime": 495.599,
+    "endTime": 498.36,
+    "text": "architectures the uh notion here is that"
+  },
+  {
+    "startTime": 498.36,
+    "endTime": 501.159,
+    "text": "you have uh 10 workers on the right side"
+  },
+  {
+    "startTime": 501.159,
+    "endTime": 503.24,
+    "text": "of the screen that out that are that are"
+  },
+  {
+    "startTime": 503.24,
+    "endTime": 505.52,
+    "text": "now all independent autonomous pick"
+  },
+  {
+    "startTime": 505.52,
+    "endTime": 508.0,
+    "text": "workers if the worker in station three"
+  },
+  {
+    "startTime": 508.0,
+    "endTime": 510.159,
+    "text": "decides to leave and go to the bathroom"
+  },
+  {
+    "startTime": 510.159,
+    "endTime": 512.12,
+    "text": "it has no impact on the productivity of"
+  },
+  {
+    "startTime": 512.12,
+    "endTime": 514.8,
+    "text": "the other nine workers contrast that for"
+  },
+  {
+    "startTime": 514.8,
+    "endTime": 517.0,
+    "text": "a moment with the traditional method of"
+  },
+  {
+    "startTime": 517.0,
+    "endTime": 519.44,
+    "text": "using a conveyor when one person passes"
+  },
+  {
+    "startTime": 519.44,
+    "endTime": 521.039,
+    "text": "the order to you you put something in"
+  },
+  {
+    "startTime": 521.039,
+    "endTime": 523.12,
+    "text": "and pass it Downstream everyone has to"
+  },
+  {
+    "startTime": 523.12,
+    "endTime": 525.08,
+    "text": "be in place for that serial process to"
+  },
+  {
+    "startTime": 525.08,
+    "endTime": 527.44,
+    "text": "work this becomes a more robust way to"
+  },
+  {
+    "startTime": 527.44,
+    "endTime": 529.16,
+    "text": "think about the warehouse and then"
+  },
+  {
+    "startTime": 529.16,
+    "endTime": 531.8,
+    "text": "underneath the hoods gets interesting in"
+  },
+  {
+    "startTime": 531.8,
+    "endTime": 534.16,
+    "text": "that we're tracking the popularity of"
+  },
+  {
+    "startTime": 534.16,
+    "endTime": 536.24,
+    "text": "the products and we're using Dynamic and"
+  },
+  {
+    "startTime": 536.24,
+    "endTime": 540.2,
+    "text": "adaptive algorithms to uh tune the uh"
+  },
+  {
+    "startTime": 540.2,
+    "endTime": 543.2,
+    "text": "floor of the warehouse so what you see"
+  },
+  {
+    "startTime": 543.2,
+    "endTime": 545.76,
+    "text": "here uh potentially uh the week leading"
+  },
+  {
+    "startTime": 545.76,
+    "endTime": 548.279,
+    "text": "up to Valentine's Day all that pink"
+  },
+  {
+    "startTime": 548.279,
+    "endTime": 550.48,
+    "text": "chalky candy has moved to the front of"
+  },
+  {
+    "startTime": 550.48,
+    "endTime": 552.24,
+    "text": "the building is now being picked into a"
+  },
+  {
+    "startTime": 552.24,
+    "endTime": 554.92,
+    "text": "lot of orders in those pick stations"
+  },
+  {
+    "startTime": 554.92,
+    "endTime": 557.12,
+    "text": "come in two days after Valentine's Day"
+  },
+  {
+    "startTime": 557.12,
+    "endTime": 559.24,
+    "text": "and that candy the leftover candy has"
+  },
+  {
+    "startTime": 559.24,
+    "endTime": 561.32,
+    "text": "all drifted to the back of the warehouse"
+  },
+  {
+    "startTime": 561.32,
+    "endTime": 563.56,
+    "text": "and is occupying the cooler Zone on the"
+  },
+  {
+    "startTime": 563.56,
+    "endTime": 566.76,
+    "text": "thermal map there one other side effect"
+  },
+  {
+    "startTime": 566.76,
+    "endTime": 568.399,
+    "text": "of this approach using the parallel"
+  },
+  {
+    "startTime": 568.399,
+    "endTime": 571.12,
+    "text": "processing as these things can scale uh"
+  },
+  {
+    "startTime": 571.12,
+    "endTime": 574.839,
+    "text": "to ginormous so whether you're doing two"
+  },
+  {
+    "startTime": 574.839,
+    "endTime": 577.2,
+    "text": "pick stations 20 pick stations or 200"
+  },
+  {
+    "startTime": 577.2,
+    "endTime": 579.12,
+    "text": "pic stations the path planning"
+  },
+  {
+    "startTime": 579.12,
+    "endTime": 581.079,
+    "text": "algorithms and all of the inventory"
+  },
+  {
+    "startTime": 581.079,
+    "endTime": 583.24,
+    "text": "algorithms just work in this example you"
+  },
+  {
+    "startTime": 583.24,
+    "endTime": 585.519,
+    "text": "see that the workers have now uh sorry"
+  },
+  {
+    "startTime": 585.519,
+    "endTime": 587.519,
+    "text": "that the uh inventory has now occupied"
+  },
+  {
+    "startTime": 587.519,
+    "endTime": 588.959,
+    "text": "all the perimeter of the building"
+  },
+  {
+    "startTime": 588.959,
+    "endTime": 590.36,
+    "text": "because that's where the pck stations"
+  },
+  {
+    "startTime": 590.36,
+    "endTime": 593.079,
+    "text": "were they sorted it out for themselves"
+  },
+  {
+    "startTime": 593.079,
+    "endTime": 595.04,
+    "text": "so I I'll conclude with just one final"
+  },
+  {
+    "startTime": 595.04,
+    "endTime": 598.399,
+    "text": "video that shows how this comes to bear"
+  },
+  {
+    "startTime": 598.399,
+    "endTime": 600.959,
+    "text": "on the pick worker actual kind of day in"
+  },
+  {
+    "startTime": 600.959,
+    "endTime": 603.519,
+    "text": "the life of so as we mentioned the"
+  },
+  {
+    "startTime": 603.519,
+    "endTime": 605.88,
+    "text": "process is to move inventory along the"
+  },
+  {
+    "startTime": 605.88,
+    "endTime": 607.72,
+    "text": "highway and then find your way into"
+  },
+  {
+    "startTime": 607.72,
+    "endTime": 610.519,
+    "text": "these Pig stations and our software in"
+  },
+  {
+    "startTime": 610.519,
+    "endTime": 612.399,
+    "text": "the background is understands what's"
+  },
+  {
+    "startTime": 612.399,
+    "endTime": 615.24,
+    "text": "going on in each station we D we direct"
+  },
+  {
+    "startTime": 615.24,
+    "endTime": 617.32,
+    "text": "the pods across the highway and we're"
+  },
+  {
+    "startTime": 617.32,
+    "endTime": 619.88,
+    "text": "attempting to get into a queuing system"
+  },
+  {
+    "startTime": 619.88,
+    "endTime": 622.68,
+    "text": "to present the work to the pick worker"
+  },
+  {
+    "startTime": 622.68,
+    "endTime": 624.36,
+    "text": "what's interesting is we can even adapt"
+  },
+  {
+    "startTime": 624.36,
+    "endTime": 625.88,
+    "text": "to the speed of the pick workers the"
+  },
+  {
+    "startTime": 625.88,
+    "endTime": 628.0,
+    "text": "faster Pickers get more pods and the"
+  },
+  {
+    "startTime": 628.0,
+    "endTime": 629.839,
+    "text": "slower Pickers get few"
+  },
+  {
+    "startTime": 629.839,
+    "endTime": 631.959,
+    "text": "but this pick worker now is literally"
+  },
+  {
+    "startTime": 631.959,
+    "endTime": 633.839,
+    "text": "having that experience that we described"
+  },
+  {
+    "startTime": 633.839,
+    "endTime": 636.6,
+    "text": "before she puts out her hand the product"
+  },
+  {
+    "startTime": 636.6,
+    "endTime": 638.12,
+    "text": "jumps into it where she has to reach in"
+  },
+  {
+    "startTime": 638.12,
+    "endTime": 640.88,
+    "text": "and get it uh she scans it and she puts"
+  },
+  {
+    "startTime": 640.88,
+    "endTime": 642.92,
+    "text": "it in the bucket and all of the rest of"
+  },
+  {
+    "startTime": 642.92,
+    "endTime": 645.079,
+    "text": "the technology is kind of behind the"
+  },
+  {
+    "startTime": 645.079,
+    "endTime": 647.399,
+    "text": "scenes so she gets to now focus on the"
+  },
+  {
+    "startTime": 647.399,
+    "endTime": 649.639,
+    "text": "picking and packing portion of her job"
+  },
+  {
+    "startTime": 649.639,
+    "endTime": 651.36,
+    "text": "never has any idle time never has to"
+  },
+  {
+    "startTime": 651.36,
+    "endTime": 654.8,
+    "text": "leave her mat um and actually so we"
+  },
+  {
+    "startTime": 654.8,
+    "endTime": 657.399,
+    "text": "think not only a more productive and"
+  },
+  {
+    "startTime": 657.399,
+    "endTime": 660.36,
+    "text": "more accurate uh way to to fill orders"
+  },
+  {
+    "startTime": 660.36,
+    "endTime": 662.48,
+    "text": "we think it's a more fulfilling way to"
+  },
+  {
+    "startTime": 662.48,
+    "endTime": 664.8,
+    "text": "fill orders uh the reason we can say"
+  },
+  {
+    "startTime": 664.8,
+    "endTime": 667.399,
+    "text": "that though is that workers in a lot of"
+  },
+  {
+    "startTime": 667.399,
+    "endTime": 669.36,
+    "text": "these buildings now compete for the"
+  },
+  {
+    "startTime": 669.36,
+    "endTime": 671.32,
+    "text": "privilege of working in the Kea Zone"
+  },
+  {
+    "startTime": 671.32,
+    "endTime": 673.56,
+    "text": "that day uh and sometimes we'll catch"
+  },
+  {
+    "startTime": 673.56,
+    "endTime": 676.079,
+    "text": "them on testimonial videos saying such"
+  },
+  {
+    "startTime": 676.079,
+    "endTime": 678.6,
+    "text": "things as they have more energy after"
+  },
+  {
+    "startTime": 678.6,
+    "endTime": 680.32,
+    "text": "the uh after the day to play with their"
+  },
+  {
+    "startTime": 680.32,
+    "endTime": 683.279,
+    "text": "grandchildren or in one case a guy said"
+  },
+  {
+    "startTime": 683.279,
+    "endTime": 686.16,
+    "text": "the key the keone is so stressfree that"
+  },
+  {
+    "startTime": 686.16,
+    "endTime": 687.8,
+    "text": "I've actually stopped taking my blood"
+  },
+  {
+    "startTime": 687.8,
+    "endTime": 690.72,
+    "text": "pressure medication"
+  },
+  {
+    "startTime": 690.72,
+    "endTime": 692.76,
+    "text": "that was at a pharmaceutical distributor"
+  },
+  {
+    "startTime": 692.76,
+    "endTime": 696.2,
+    "text": "so they told us not to use that"
+  },
+  {
+    "startTime": 697.44,
+    "endTime": 700.2,
+    "text": "video so what I wanted to leave you with"
+  },
+  {
+    "startTime": 700.2,
+    "endTime": 701.68,
+    "text": "today is the notion that that when you"
+  },
+  {
+    "startTime": 701.68,
+    "endTime": 703.88,
+    "text": "let things uh start to kind of think and"
+  },
+  {
+    "startTime": 703.88,
+    "endTime": 706.36,
+    "text": "walk and talk on their own interesting"
+  },
+  {
+    "startTime": 706.36,
+    "endTime": 708.76,
+    "text": "um uh processes and productivities can"
+  },
+  {
+    "startTime": 708.76,
+    "endTime": 711.48,
+    "text": "emerge uh and now I think next time you"
+  },
+  {
+    "startTime": 711.48,
+    "endTime": 713.279,
+    "text": "go to your front step and pick up that"
+  },
+  {
+    "startTime": 713.279,
+    "endTime": 715.2,
+    "text": "box that you just ordered online you"
+  },
+  {
+    "startTime": 715.2,
+    "endTime": 717.12,
+    "text": "break open and the goo is in there"
+  },
+  {
+    "startTime": 717.12,
+    "endTime": 718.68,
+    "text": "you'll have some wonderment as to"
+  },
+  {
+    "startTime": 718.68,
+    "endTime": 721.12,
+    "text": "whether a robot assisted in the picking"
+  },
+  {
+    "startTime": 721.12,
+    "endTime": 723.24,
+    "text": "and packing of that order thank"
+  },
+  {
+    "startTime": 723.24,
+    "endTime": 724.54,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 724.54,
+    "endTime": 728.449,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 729.8,
+    "endTime": 732.8,
+    "text": "you"
+  }
+]

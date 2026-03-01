@@ -1,0 +1,1247 @@
+[
+  {
+    "startTime": 16.68,
+    "endTime": 17.529,
+    "text": "I'm going to talk to you today"
+  },
+  {
+    "startTime": 17.554,
+    "endTime": 21.369999999999997,
+    "text": "about the design of medical technology for low-resource settings."
+  },
+  {
+    "startTime": 21.61,
+    "endTime": 23.413999999999998,
+    "text": "I study health systems in these countries."
+  },
+  {
+    "startTime": 23.438,
+    "endTime": 25.352,
+    "text": "And one of the major gaps in care,"
+  },
+  {
+    "startTime": 25.377,
+    "endTime": 27.349999999999998,
+    "text": "almost across the board,"
+  },
+  {
+    "startTime": 27.6,
+    "endTime": 29.226000000000003,
+    "text": "is access to safe surgery."
+  },
+  {
+    "startTime": 29.251,
+    "endTime": 31.91,
+    "text": "Now one of the major bottlenecks that we've found"
+  },
+  {
+    "startTime": 31.934,
+    "endTime": 35.169000000000004,
+    "text": "that's sort of preventing both the access in the first place,"
+  },
+  {
+    "startTime": 35.193,
+    "endTime": 38.629,
+    "text": "and the safety of those surgeries that do happen, is anesthesia."
+  },
+  {
+    "startTime": 39.106,
+    "endTime": 41.498000000000005,
+    "text": "And actually, it's the model that we expect to work"
+  },
+  {
+    "startTime": 41.522,
+    "endTime": 44.221,
+    "text": "for delivering anesthesia in these environments."
+  },
+  {
+    "startTime": 44.88,
+    "endTime": 48.733000000000004,
+    "text": "Here, we have a scene that you would find in any operating room across the US,"
+  },
+  {
+    "startTime": 48.757,
+    "endTime": 50.233,
+    "text": "or any other developed country."
+  },
+  {
+    "startTime": 50.258,
+    "endTime": 51.445,
+    "text": "In the background there"
+  },
+  {
+    "startTime": 51.469,
+    "endTime": 54.4,
+    "text": "is a very sophisticated anesthesia machine."
+  },
+  {
+    "startTime": 54.64,
+    "endTime": 57.913000000000004,
+    "text": "And this machine is able to enable surgery and save lives"
+  },
+  {
+    "startTime": 57.937,
+    "endTime": 61.236,
+    "text": "because it was designed with this environment in mind."
+  },
+  {
+    "startTime": 61.589,
+    "endTime": 64.521,
+    "text": "In order to operate, this machine needs a number of things"
+  },
+  {
+    "startTime": 64.545,
+    "endTime": 66.44500000000001,
+    "text": "that this hospital has to offer."
+  },
+  {
+    "startTime": 66.469,
+    "endTime": 69.836,
+    "text": "It needs an extremely well-trained anesthesiologist"
+  },
+  {
+    "startTime": 69.861,
+    "endTime": 72.312,
+    "text": "with years of training with complex machines"
+  },
+  {
+    "startTime": 72.336,
+    "endTime": 74.757,
+    "text": "to help her monitor the flows of the gas"
+  },
+  {
+    "startTime": 74.781,
+    "endTime": 77.34400000000001,
+    "text": "and keep her patients safe and anesthetized"
+  },
+  {
+    "startTime": 77.368,
+    "endTime": 78.818,
+    "text": "throughout the surgery."
+  },
+  {
+    "startTime": 78.843,
+    "endTime": 81.61,
+    "text": "It's a delicate machine running on computer algorithms,"
+  },
+  {
+    "startTime": 81.634,
+    "endTime": 84.852,
+    "text": "and it needs special care, TLC, to keep it up and running,"
+  },
+  {
+    "startTime": 84.876,
+    "endTime": 86.73400000000001,
+    "text": "and it's going to break pretty easily."
+  },
+  {
+    "startTime": 86.758,
+    "endTime": 89.67,
+    "text": "And when it does, it needs a team of biomedical engineers"
+  },
+  {
+    "startTime": 89.694,
+    "endTime": 93.3,
+    "text": "who understand its complexities, can fix it, can source the parts"
+  },
+  {
+    "startTime": 93.27,
+    "endTime": 95.259,
+    "text": "and keep it saving lives."
+  },
+  {
+    "startTime": 95.948,
+    "endTime": 97.482,
+    "text": "It's a pretty expensive machine."
+  },
+  {
+    "startTime": 97.506,
+    "endTime": 100.147,
+    "text": "It needs a hospital whose budget can allow it"
+  },
+  {
+    "startTime": 100.171,
+    "endTime": 105.65,
+    "text": "to support one machine costing upwards of 50 or $100,000."
+  },
+  {
+    "startTime": 105.556,
+    "endTime": 107.455,
+    "text": "And perhaps most obviously,"
+  },
+  {
+    "startTime": 107.479,
+    "endTime": 108.993,
+    "text": "but also most importantly --"
+  },
+  {
+    "startTime": 109.17,
+    "endTime": 111.85300000000001,
+    "text": "and the path to concepts that we've heard about"
+  },
+  {
+    "startTime": 111.877,
+    "endTime": 113.163,
+    "text": "kind of illustrates this --"
+  },
+  {
+    "startTime": 113.187,
+    "endTime": 118.333,
+    "text": "it needs infrastructure that can supply an uninterrupted source of electricity,"
+  },
+  {
+    "startTime": 118.357,
+    "endTime": 121.369,
+    "text": "of compressed oxygen, and other medical supplies"
+  },
+  {
+    "startTime": 121.393,
+    "endTime": 125.671,
+    "text": "that are so critical to the functioning of this machine."
+  },
+  {
+    "startTime": 125.695,
+    "endTime": 128.994,
+    "text": "In other words, this machine requires a lot of stuff"
+  },
+  {
+    "startTime": 129.18,
+    "endTime": 130.991,
+    "text": "that this hospital cannot offer."
+  },
+  {
+    "startTime": 131.592,
+    "endTime": 134.61200000000002,
+    "text": "This is the electrical supply for a hospital in rural Malawi."
+  },
+  {
+    "startTime": 135.413,
+    "endTime": 136.574,
+    "text": "In this hospital,"
+  },
+  {
+    "startTime": 136.598,
+    "endTime": 139.269,
+    "text": "there is one person qualified to deliver anesthesia,"
+  },
+  {
+    "startTime": 139.293,
+    "endTime": 140.445,
+    "text": "and she's qualified"
+  },
+  {
+    "startTime": 140.469,
+    "endTime": 145.45,
+    "text": "because she has 12, maybe 18 months of training in anesthesia."
+  },
+  {
+    "startTime": 145.69,
+    "endTime": 147.315,
+    "text": "In the hospital and in the entire region"
+  },
+  {
+    "startTime": 147.34,
+    "endTime": 149.347,
+    "text": "there's not a single biomedical engineer."
+  },
+  {
+    "startTime": 149.371,
+    "endTime": 150.94,
+    "text": "So when this machine breaks,"
+  },
+  {
+    "startTime": 150.964,
+    "endTime": 153.173,
+    "text": "the machines that they have to work with break,"
+  },
+  {
+    "startTime": 153.197,
+    "endTime": 154.966,
+    "text": "they've got to try and figure it out,"
+  },
+  {
+    "startTime": 154.99,
+    "endTime": 157.282,
+    "text": "but most of the time, that's the end of the road."
+  },
+  {
+    "startTime": 157.306,
+    "endTime": 159.52300000000002,
+    "text": "Those machines go the proverbial junkyard."
+  },
+  {
+    "startTime": 159.547,
+    "endTime": 161.876,
+    "text": "And the price tag of the machine that I mentioned"
+  },
+  {
+    "startTime": 161.9,
+    "endTime": 163.961,
+    "text": "could represent maybe a quarter or a third"
+  },
+  {
+    "startTime": 163.985,
+    "endTime": 166.79700000000003,
+    "text": "of the annual operating budget for this hospital."
+  },
+  {
+    "startTime": 167.84,
+    "endTime": 171.224,
+    "text": "And finally, I think you can see that infrastructure is not very strong."
+  },
+  {
+    "startTime": 171.248,
+    "endTime": 173.922,
+    "text": "This hospital is connected to a very weak power grid,"
+  },
+  {
+    "startTime": 173.946,
+    "endTime": 175.728,
+    "text": "one that goes down frequently."
+  },
+  {
+    "startTime": 175.752,
+    "endTime": 178.298,
+    "text": "So it runs frequently, the entire hospital,"
+  },
+  {
+    "startTime": 178.322,
+    "endTime": 179.745,
+    "text": "just on a generator."
+  },
+  {
+    "startTime": 179.769,
+    "endTime": 181.925,
+    "text": "And you can imagine, the generator breaks down"
+  },
+  {
+    "startTime": 181.949,
+    "endTime": 183.26100000000002,
+    "text": "or runs out of fuel."
+  },
+  {
+    "startTime": 183.621,
+    "endTime": 185.648,
+    "text": "And the World Bank sees this"
+  },
+  {
+    "startTime": 185.672,
+    "endTime": 189.203,
+    "text": "and estimates that a hospital in this setting in a low-income country"
+  },
+  {
+    "startTime": 189.227,
+    "endTime": 192.303,
+    "text": "can expect up to 18 power outages per month."
+  },
+  {
+    "startTime": 193.918,
+    "endTime": 197.11100000000002,
+    "text": "Similarly, compressed oxygen and other medical supplies"
+  },
+  {
+    "startTime": 197.135,
+    "endTime": 198.316,
+    "text": "are really a luxury,"
+  },
+  {
+    "startTime": 198.341,
+    "endTime": 201.62300000000002,
+    "text": "and can often be out of stock for months or even a year."
+  },
+  {
+    "startTime": 201.647,
+    "endTime": 204.81,
+    "text": "So it seems crazy, but the model that we have right now"
+  },
+  {
+    "startTime": 204.835,
+    "endTime": 207.4,
+    "text": "is taking those machines that were designed"
+  },
+  {
+    "startTime": 207.64,
+    "endTime": 209.34599999999998,
+    "text": "for that first environment that I showed you"
+  },
+  {
+    "startTime": 209.371,
+    "endTime": 213.235,
+    "text": "and donating or selling them to hospitals in this environment."
+  },
+  {
+    "startTime": 214.121,
+    "endTime": 215.697,
+    "text": "It's not just inappropriate,"
+  },
+  {
+    "startTime": 215.721,
+    "endTime": 218.25900000000001,
+    "text": "it becomes really unsafe."
+  },
+  {
+    "startTime": 218.776,
+    "endTime": 220.698,
+    "text": "One of our partners at Johns Hopkins"
+  },
+  {
+    "startTime": 220.722,
+    "endTime": 224.901,
+    "text": "was observing surgeries in Sierra Leone about a year ago."
+  },
+  {
+    "startTime": 225.485,
+    "endTime": 228.818,
+    "text": "And the first surgery of the day happened to be an obstetrical case."
+  },
+  {
+    "startTime": 228.842,
+    "endTime": 231.82500000000002,
+    "text": "A woman came in, she needed an emergency C-section"
+  },
+  {
+    "startTime": 231.849,
+    "endTime": 234.578,
+    "text": "to save her life and the life of her baby."
+  },
+  {
+    "startTime": 235.65,
+    "endTime": 237.19,
+    "text": "And everything began pretty auspiciously."
+  },
+  {
+    "startTime": 237.43,
+    "endTime": 239.29600000000002,
+    "text": "The surgeon was on call and scrubbed in."
+  },
+  {
+    "startTime": 239.32,
+    "endTime": 240.608,
+    "text": "The nurse was there."
+  },
+  {
+    "startTime": 240.632,
+    "endTime": 243.493,
+    "text": "She was able to anesthetize her quickly, and it was important"
+  },
+  {
+    "startTime": 243.517,
+    "endTime": 245.853,
+    "text": "because of the emergency nature of the situation."
+  },
+  {
+    "startTime": 245.877,
+    "endTime": 247.59400000000002,
+    "text": "And everything began well"
+  },
+  {
+    "startTime": 247.618,
+    "endTime": 249.69,
+    "text": "until the power went out."
+  },
+  {
+    "startTime": 251.33,
+    "endTime": 252.857,
+    "text": "And now in the middle of this surgery,"
+  },
+  {
+    "startTime": 252.881,
+    "endTime": 255.95,
+    "text": "the surgeon is racing against the clock to finish his case,"
+  },
+  {
+    "startTime": 255.974,
+    "endTime": 258.325,
+    "text": "which he can do -- he's got a headlamp."
+  },
+  {
+    "startTime": 258.35,
+    "endTime": 262.411,
+    "text": "But the nurse is literally running around a darkened operating theater"
+  },
+  {
+    "startTime": 262.435,
+    "endTime": 265.39,
+    "text": "trying to find anything she can use to anesthetize her patient,"
+  },
+  {
+    "startTime": 265.414,
+    "endTime": 267.103,
+    "text": "to keep her patient asleep."
+  },
+  {
+    "startTime": 267.127,
+    "endTime": 270.1,
+    "text": "Because her machine doesn't work when there's no power."
+  },
+  {
+    "startTime": 270.697,
+    "endTime": 273.751,
+    "text": "This routine surgery that many of you have probably experienced,"
+  },
+  {
+    "startTime": 273.775,
+    "endTime": 278.248,
+    "text": "and others are probably the product of, has now become a tragedy."
+  },
+  {
+    "startTime": 278.915,
+    "endTime": 281.651,
+    "text": "And what's so frustrating is this is not a singular event;"
+  },
+  {
+    "startTime": 281.675,
+    "endTime": 284.17400000000004,
+    "text": "this happens across the developing world."
+  },
+  {
+    "startTime": 284.198,
+    "endTime": 287.15,
+    "text": "35 million surgeries are attempted every year"
+  },
+  {
+    "startTime": 287.175,
+    "endTime": 288.771,
+    "text": "without safe anesthesia."
+  },
+  {
+    "startTime": 289.47,
+    "endTime": 292.382,
+    "text": "My colleague, Dr. Paul Fenton, was living this reality."
+  },
+  {
+    "startTime": 292.406,
+    "endTime": 294.236,
+    "text": "He was the chief of anesthesiology"
+  },
+  {
+    "startTime": 294.26,
+    "endTime": 296.76,
+    "text": "in a hospital in Malawi, a teaching hospital."
+  },
+  {
+    "startTime": 297.288,
+    "endTime": 298.78200000000004,
+    "text": "He went to work every day"
+  },
+  {
+    "startTime": 298.806,
+    "endTime": 300.774,
+    "text": "in an operating theater like this one,"
+  },
+  {
+    "startTime": 300.798,
+    "endTime": 303.937,
+    "text": "trying to deliver anesthesia and teach others how to do so"
+  },
+  {
+    "startTime": 303.961,
+    "endTime": 305.236,
+    "text": "using that same equipment"
+  },
+  {
+    "startTime": 305.26,
+    "endTime": 309.57,
+    "text": "that became so unreliable, and frankly unsafe, in his hospital."
+  },
+  {
+    "startTime": 310.299,
+    "endTime": 312.78,
+    "text": "And after umpteen surgeries"
+  },
+  {
+    "startTime": 312.103,
+    "endTime": 314.671,
+    "text": "and, you can imagine, really unspeakable tragedy,"
+  },
+  {
+    "startTime": 314.695,
+    "endTime": 317.37,
+    "text": "he just said, \"That's it. I'm done. That's enough."
+  },
+  {
+    "startTime": 317.61,
+    "endTime": 319.13100000000003,
+    "text": "There has to be something better.\""
+  },
+  {
+    "startTime": 319.489,
+    "endTime": 321.35999999999996,
+    "text": "He took a walk down the hall"
+  },
+  {
+    "startTime": 321.6,
+    "endTime": 324.49100000000004,
+    "text": "to where they threw all those machines that had just crapped out on them,"
+  },
+  {
+    "startTime": 324.515,
+    "endTime": 326.192,
+    "text": "I think that's the scientific term,"
+  },
+  {
+    "startTime": 326.216,
+    "endTime": 327.558,
+    "text": "and he started tinkering."
+  },
+  {
+    "startTime": 327.582,
+    "endTime": 329.935,
+    "text": "He took one part from here and another from there,"
+  },
+  {
+    "startTime": 329.959,
+    "endTime": 332.541,
+    "text": "and he tried to come up with a machine that would work"
+  },
+  {
+    "startTime": 332.565,
+    "endTime": 334.193,
+    "text": "in the reality that he was facing."
+  },
+  {
+    "startTime": 334.217,
+    "endTime": 335.431,
+    "text": "And what he came up with:"
+  },
+  {
+    "startTime": 335.455,
+    "endTime": 336.777,
+    "text": "was this guy."
+  },
+  {
+    "startTime": 336.802,
+    "endTime": 340.339,
+    "text": "The prototype for the Universal Anesthesia Machine --"
+  },
+  {
+    "startTime": 340.363,
+    "endTime": 343.66,
+    "text": "a machine that would work and anesthetize his patients"
+  },
+  {
+    "startTime": 343.684,
+    "endTime": 347.259,
+    "text": "no matter the circumstances that his hospital had to offer."
+  },
+  {
+    "startTime": 347.779,
+    "endTime": 349.26,
+    "text": "Here it is, back at home"
+  },
+  {
+    "startTime": 349.284,
+    "endTime": 352.712,
+    "text": "at that same hospital, developed a little further, 12 years later,"
+  },
+  {
+    "startTime": 352.737,
+    "endTime": 355.91700000000003,
+    "text": "working on patients from pediatrics to geriatrics."
+  },
+  {
+    "startTime": 356.397,
+    "endTime": 359.167,
+    "text": "Let me show you a little bit about how this machine works."
+  },
+  {
+    "startTime": 359.191,
+    "endTime": 361.67999999999995,
+    "text": "Voila!"
+  },
+  {
+    "startTime": 361.712,
+    "endTime": 362.919,
+    "text": "Here she is."
+  },
+  {
+    "startTime": 362.943,
+    "endTime": 364.187,
+    "text": "When you have electricity,"
+  },
+  {
+    "startTime": 364.211,
+    "endTime": 367.229,
+    "text": "everything in this machine begins in the base."
+  },
+  {
+    "startTime": 367.253,
+    "endTime": 369.849,
+    "text": "There's a built-in oxygen concentrator down there."
+  },
+  {
+    "startTime": 369.874,
+    "endTime": 373.3,
+    "text": "Now you've heard me mention oxygen a few times at this point."
+  },
+  {
+    "startTime": 373.27,
+    "endTime": 376.815,
+    "text": "Essentially, to deliver anesthesia, you want as pure oxygen as possible,"
+  },
+  {
+    "startTime": 376.839,
+    "endTime": 380.262,
+    "text": "because eventually you're going to dilute it, essentially, with the gas."
+  },
+  {
+    "startTime": 380.286,
+    "endTime": 382.722,
+    "text": "And the mixture that the patient inhales"
+  },
+  {
+    "startTime": 382.746,
+    "endTime": 385.56,
+    "text": "needs to be at least a certain percentage oxygen"
+  },
+  {
+    "startTime": 385.81,
+    "endTime": 386.767,
+    "text": "or else it can become dangerous."
+  },
+  {
+    "startTime": 386.791,
+    "endTime": 388.709,
+    "text": "But so in here when there's electricity,"
+  },
+  {
+    "startTime": 388.733,
+    "endTime": 391.608,
+    "text": "the oxygen concentrator takes in room air."
+  },
+  {
+    "startTime": 391.632,
+    "endTime": 394.911,
+    "text": "Now we know room air is gloriously free,"
+  },
+  {
+    "startTime": 394.935,
+    "endTime": 396.236,
+    "text": "it is abundant,"
+  },
+  {
+    "startTime": 396.26,
+    "endTime": 398.259,
+    "text": "and it's already 21 percent oxygen."
+  },
+  {
+    "startTime": 398.696,
+    "endTime": 402.37300000000005,
+    "text": "So all this concentrator does is take that room air in, filter it"
+  },
+  {
+    "startTime": 402.397,
+    "endTime": 406.217,
+    "text": "and send 95 percent pure oxygen up and across here,"
+  },
+  {
+    "startTime": 406.241,
+    "endTime": 408.447,
+    "text": "where it mixes with the anesthetic agent."
+  },
+  {
+    "startTime": 409.3,
+    "endTime": 412.627,
+    "text": "Now before that mixture hits the patient's lungs,"
+  },
+  {
+    "startTime": 412.651,
+    "endTime": 414.865,
+    "text": "it's going to pass by here -- you can't see it,"
+  },
+  {
+    "startTime": 414.889,
+    "endTime": 416.671,
+    "text": "but there's an oxygen sensor here --"
+  },
+  {
+    "startTime": 416.695,
+    "endTime": 420.9,
+    "text": "that's going to read out on this screen the percentage of oxygen being delivered."
+  },
+  {
+    "startTime": 421.544,
+    "endTime": 423.518,
+    "text": "Now if you don't have power,"
+  },
+  {
+    "startTime": 423.542,
+    "endTime": 427.147,
+    "text": "or, God forbid, the power cuts out in the middle of a surgery,"
+  },
+  {
+    "startTime": 427.172,
+    "endTime": 429.516,
+    "text": "this machine transitions automatically,"
+  },
+  {
+    "startTime": 429.54,
+    "endTime": 431.28900000000004,
+    "text": "without even having to touch it,"
+  },
+  {
+    "startTime": 431.313,
+    "endTime": 433.644,
+    "text": "to drawing in room air from this inlet."
+  },
+  {
+    "startTime": 434.65,
+    "endTime": 435.40099999999995,
+    "text": "Everything else is the same."
+  },
+  {
+    "startTime": 435.425,
+    "endTime": 437.21000000000004,
+    "text": "The only difference is that now"
+  },
+  {
+    "startTime": 437.45,
+    "endTime": 440.259,
+    "text": "you're only working with 21 percent oxygen."
+  },
+  {
+    "startTime": 440.666,
+    "endTime": 443.487,
+    "text": "Now that used to be a dangerous guessing game,"
+  },
+  {
+    "startTime": 443.511,
+    "endTime": 445.89700000000005,
+    "text": "because you only knew if you gave too little oxygen"
+  },
+  {
+    "startTime": 445.921,
+    "endTime": 447.296,
+    "text": "once something bad happened."
+  },
+  {
+    "startTime": 447.321,
+    "endTime": 450.34000000000003,
+    "text": "But we've put a long-life battery backup on here."
+  },
+  {
+    "startTime": 450.58,
+    "endTime": 452.252,
+    "text": "This is the only part that's battery backed up."
+  },
+  {
+    "startTime": 452.276,
+    "endTime": 455.681,
+    "text": "But this gives control to the provider, whether there's power or not,"
+  },
+  {
+    "startTime": 455.705,
+    "endTime": 457.298,
+    "text": "because they can adjust the flows"
+  },
+  {
+    "startTime": 457.322,
+    "endTime": 461.29,
+    "text": "based on the percentage of oxygen they see that they're giving the patient."
+  },
+  {
+    "startTime": 461.314,
+    "endTime": 464.65900000000005,
+    "text": "In both cases, whether you have power or not,"
+  },
+  {
+    "startTime": 464.683,
+    "endTime": 466.723,
+    "text": "sometimes the patient needs help breathing."
+  },
+  {
+    "startTime": 466.747,
+    "endTime": 469.94800000000004,
+    "text": "It's just a reality of anesthesia, the lungs can be paralyzed."
+  },
+  {
+    "startTime": 469.972,
+    "endTime": 472.56,
+    "text": "And so we've just added this manual bellows."
+  },
+  {
+    "startTime": 472.8,
+    "endTime": 475.7,
+    "text": "We've seen surgeries for three or four hours"
+  },
+  {
+    "startTime": 475.95,
+    "endTime": 476.953,
+    "text": "to ventilate the patient on this."
+  },
+  {
+    "startTime": 477.684,
+    "endTime": 480.672,
+    "text": "So it's a straightforward machine."
+  },
+  {
+    "startTime": 480.696,
+    "endTime": 483.601,
+    "text": "I shudder to say simple; it's straightforward."
+  },
+  {
+    "startTime": 484.196,
+    "endTime": 486.97,
+    "text": "And it's by design."
+  },
+  {
+    "startTime": 486.121,
+    "endTime": 491.32,
+    "text": "You do not need to be a highly trained, specialized anesthesiologist"
+  },
+  {
+    "startTime": 491.345,
+    "endTime": 492.516,
+    "text": "to use this machine,"
+  },
+  {
+    "startTime": 492.54,
+    "endTime": 495.29200000000003,
+    "text": "which is good because, in these rural district hospitals,"
+  },
+  {
+    "startTime": 495.316,
+    "endTime": 497.911,
+    "text": "you're not going to get that level of training."
+  },
+  {
+    "startTime": 497.935,
+    "endTime": 501.63,
+    "text": "It's also designed for the environment that it will be used in."
+  },
+  {
+    "startTime": 501.87,
+    "endTime": 502.86400000000003,
+    "text": "This is an incredibly rugged machine."
+  },
+  {
+    "startTime": 502.888,
+    "endTime": 506.342,
+    "text": "It has to stand up to the heat and the wear and tear"
+  },
+  {
+    "startTime": 506.367,
+    "endTime": 509.485,
+    "text": "that happens in hospitals in these rural districts."
+  },
+  {
+    "startTime": 509.509,
+    "endTime": 511.904,
+    "text": "And so it's not going to break very easily,"
+  },
+  {
+    "startTime": 511.928,
+    "endTime": 515.202,
+    "text": "but if it does, virtually every piece in this machine"
+  },
+  {
+    "startTime": 515.226,
+    "endTime": 517.236,
+    "text": "can be swapped out and replaced"
+  },
+  {
+    "startTime": 517.26,
+    "endTime": 519.254,
+    "text": "with a hex wrench and a screwdriver."
+  },
+  {
+    "startTime": 521.1,
+    "endTime": 523.27,
+    "text": "And finally, it's affordable."
+  },
+  {
+    "startTime": 523.294,
+    "endTime": 526.947,
+    "text": "This machine comes in at an eighth of the cost"
+  },
+  {
+    "startTime": 526.971,
+    "endTime": 530.49,
+    "text": "of the conventional machine that I showed you earlier."
+  },
+  {
+    "startTime": 530.73,
+    "endTime": 534.561,
+    "text": "So in other words, what we have here is a machine that can enable surgery"
+  },
+  {
+    "startTime": 534.585,
+    "endTime": 535.7570000000001,
+    "text": "and save lives,"
+  },
+  {
+    "startTime": 535.781,
+    "endTime": 538.771,
+    "text": "because it was designed for its environment,"
+  },
+  {
+    "startTime": 538.795,
+    "endTime": 541.213,
+    "text": "just like the first machine I showed you."
+  },
+  {
+    "startTime": 541.237,
+    "endTime": 543.241,
+    "text": "But we're not content to stop there."
+  },
+  {
+    "startTime": 543.265,
+    "endTime": 544.439,
+    "text": "Is it working?"
+  },
+  {
+    "startTime": 544.464,
+    "endTime": 547.46,
+    "text": "Is this the design that's going to work in place?"
+  },
+  {
+    "startTime": 547.7,
+    "endTime": 548.837,
+    "text": "Well, we've seen good results so far."
+  },
+  {
+    "startTime": 548.861,
+    "endTime": 552.246,
+    "text": "This is in 13 hospitals in four countries,"
+  },
+  {
+    "startTime": 552.27,
+    "endTime": 556.203,
+    "text": "and since 2010, we've done well over 2,000 surgeries"
+  },
+  {
+    "startTime": 556.227,
+    "endTime": 558.459,
+    "text": "with no clinically adverse events."
+  },
+  {
+    "startTime": 558.8,
+    "endTime": 559.967,
+    "text": "So we're thrilled."
+  },
+  {
+    "startTime": 559.991,
+    "endTime": 564.413,
+    "text": "This really seems like a cost-effective, scalable solution"
+  },
+  {
+    "startTime": 564.437,
+    "endTime": 566.47,
+    "text": "to a problem that's really pervasive."
+  },
+  {
+    "startTime": 566.958,
+    "endTime": 568.558,
+    "text": "But we still want to be sure"
+  },
+  {
+    "startTime": 568.582,
+    "endTime": 570.999,
+    "text": "that this is the most effective and safe device"
+  },
+  {
+    "startTime": 571.23,
+    "endTime": 573.8000000000001,
+    "text": "that we can be putting into hospitals."
+  },
+  {
+    "startTime": 573.104,
+    "endTime": 575.628,
+    "text": "So to do that, we've launched a number of partnerships"
+  },
+  {
+    "startTime": 575.652,
+    "endTime": 577.138,
+    "text": "with NGOs and universities,"
+  },
+  {
+    "startTime": 577.162,
+    "endTime": 579.811,
+    "text": "to gather data on the user interface,"
+  },
+  {
+    "startTime": 579.835,
+    "endTime": 582.27,
+    "text": "on the types of surgeries it's appropriate for,"
+  },
+  {
+    "startTime": 582.51,
+    "endTime": 584.438,
+    "text": "and ways we can enhance the device itself."
+  },
+  {
+    "startTime": 584.462,
+    "endTime": 587.116,
+    "text": "One of those partnerships is with Johns Hopkins"
+  },
+  {
+    "startTime": 587.14,
+    "endTime": 588.513,
+    "text": "just here in Baltimore."
+  },
+  {
+    "startTime": 588.537,
+    "endTime": 592.815,
+    "text": "They have a really cool anesthesia simulation lab out in Baltimore."
+  },
+  {
+    "startTime": 592.839,
+    "endTime": 594.72,
+    "text": "So we're taking this machine"
+  },
+  {
+    "startTime": 594.744,
+    "endTime": 598.318,
+    "text": "and recreating some of the operating theater crises"
+  },
+  {
+    "startTime": 598.342,
+    "endTime": 599.848,
+    "text": "that this machine might face"
+  },
+  {
+    "startTime": 599.873,
+    "endTime": 602.2360000000001,
+    "text": "in one of the hospitals that it's intended for,"
+  },
+  {
+    "startTime": 602.26,
+    "endTime": 604.384,
+    "text": "and in a contained, safe environment,"
+  },
+  {
+    "startTime": 604.408,
+    "endTime": 606.125,
+    "text": "evaluating its effectiveness."
+  },
+  {
+    "startTime": 606.607,
+    "endTime": 610.2379999999999,
+    "text": "We're then able to compare the results from that study"
+  },
+  {
+    "startTime": 610.263,
+    "endTime": 611.683,
+    "text": "with real-world experience,"
+  },
+  {
+    "startTime": 611.707,
+    "endTime": 613.904,
+    "text": "because we're putting two of these in hospitals"
+  },
+  {
+    "startTime": 613.928,
+    "endTime": 616.79,
+    "text": "that Johns Hopkins works with in Sierra Leone,"
+  },
+  {
+    "startTime": 616.103,
+    "endTime": 619.217,
+    "text": "including the hospital where that emergency C-section happened."
+  },
+  {
+    "startTime": 620.645,
+    "endTime": 623.773,
+    "text": "So I've talked a lot about anesthesia, and I tend to do that."
+  },
+  {
+    "startTime": 623.797,
+    "endTime": 627.889,
+    "text": "I think it is incredibly fascinating and an important component of health."
+  },
+  {
+    "startTime": 627.913,
+    "endTime": 630.544,
+    "text": "And it really seems peripheral, we never think about it,"
+  },
+  {
+    "startTime": 630.568,
+    "endTime": 632.771,
+    "text": "until we don't have access to it,"
+  },
+  {
+    "startTime": 632.796,
+    "endTime": 634.758,
+    "text": "and then it becomes a gatekeeper."
+  },
+  {
+    "startTime": 634.782,
+    "endTime": 636.7510000000001,
+    "text": "Who gets surgery and who doesn't?"
+  },
+  {
+    "startTime": 637.84,
+    "endTime": 639.8140000000001,
+    "text": "Who gets safe surgery and who doesn't?"
+  },
+  {
+    "startTime": 640.476,
+    "endTime": 642.939,
+    "text": "But you know, it's just one of so many ways"
+  },
+  {
+    "startTime": 642.963,
+    "endTime": 646.6899999999999,
+    "text": "that design, appropriate design,"
+  },
+  {
+    "startTime": 646.94,
+    "endTime": 648.7,
+    "text": "can have an impact on health outcomes."
+  },
+  {
+    "startTime": 648.578,
+    "endTime": 650.697,
+    "text": "If more people in the health-delivery space"
+  },
+  {
+    "startTime": 650.721,
+    "endTime": 654.29,
+    "text": "really working on some of these challenges in low-income countries"
+  },
+  {
+    "startTime": 654.314,
+    "endTime": 657.967,
+    "text": "could start their design process, their solution search,"
+  },
+  {
+    "startTime": 657.991,
+    "endTime": 659.929,
+    "text": "from outside of that proverbial box"
+  },
+  {
+    "startTime": 659.953,
+    "endTime": 661.891,
+    "text": "and inside of the hospital --"
+  },
+  {
+    "startTime": 661.915,
+    "endTime": 663.746,
+    "text": "In other words, if we could design"
+  },
+  {
+    "startTime": 663.77,
+    "endTime": 666.961,
+    "text": "for the environment that exists in so many parts of the world,"
+  },
+  {
+    "startTime": 666.985,
+    "endTime": 669.394,
+    "text": "rather than the one that we wished existed --"
+  },
+  {
+    "startTime": 669.418,
+    "endTime": 671.5840000000001,
+    "text": "we might just save a lot of lives."
+  },
+  {
+    "startTime": 672.47,
+    "endTime": 673.515,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 673.539,
+    "endTime": 677.973,
+    "text": "(Applause)"
+  }
+]

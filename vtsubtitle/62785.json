@@ -1,0 +1,737 @@
+[
+  {
+    "startTime": 15.26,
+    "endTime": 17.259,
+    "text": "Today I'd like to show you"
+  },
+  {
+    "startTime": 17.26,
+    "endTime": 19.26,
+    "text": "the future of the way we make things."
+  },
+  {
+    "startTime": 19.26,
+    "endTime": 21.26,
+    "text": "I believe that soon our buildings and machines"
+  },
+  {
+    "startTime": 21.26,
+    "endTime": 23.26,
+    "text": "will be self-assembling,"
+  },
+  {
+    "startTime": 23.26,
+    "endTime": 25.26,
+    "text": "replicating and repairing themselves."
+  },
+  {
+    "startTime": 25.26,
+    "endTime": 27.26,
+    "text": "So I'm going to show you"
+  },
+  {
+    "startTime": 27.26,
+    "endTime": 29.26,
+    "text": "what I believe is the current state of manufacturing,"
+  },
+  {
+    "startTime": 29.26,
+    "endTime": 32.260000000000005,
+    "text": "and then compare that to some natural systems."
+  },
+  {
+    "startTime": 32.259,
+    "endTime": 35.26,
+    "text": "So in the current state of manufacturing, we have skyscrapers --"
+  },
+  {
+    "startTime": 35.26,
+    "endTime": 37.26,
+    "text": "two and a half years [of assembly time],"
+  },
+  {
+    "startTime": 37.26,
+    "endTime": 39.26,
+    "text": "500,000 to a million parts,"
+  },
+  {
+    "startTime": 39.26,
+    "endTime": 41.26,
+    "text": "fairly complex,"
+  },
+  {
+    "startTime": 41.26,
+    "endTime": 44.26,
+    "text": "new, exciting technologies in steel, concrete, glass."
+  },
+  {
+    "startTime": 44.26,
+    "endTime": 46.26,
+    "text": "We have exciting machines"
+  },
+  {
+    "startTime": 46.26,
+    "endTime": 48.26,
+    "text": "that can take us into space --"
+  },
+  {
+    "startTime": 48.26,
+    "endTime": 51.26,
+    "text": "five years [of assembly time], 2.5 million parts."
+  },
+  {
+    "startTime": 51.26,
+    "endTime": 54.26,
+    "text": "But on the other side, if you look at the natural systems,"
+  },
+  {
+    "startTime": 54.26,
+    "endTime": 56.26,
+    "text": "we have proteins"
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 58.26,
+    "text": "that have two million types,"
+  },
+  {
+    "startTime": 58.26,
+    "endTime": 60.26,
+    "text": "can fold in 10,000 nanoseconds,"
+  },
+  {
+    "startTime": 60.26,
+    "endTime": 62.26,
+    "text": "or DNA with three billion base pairs"
+  },
+  {
+    "startTime": 62.26,
+    "endTime": 65.259,
+    "text": "we can replicate in roughly an hour."
+  },
+  {
+    "startTime": 65.26,
+    "endTime": 67.26,
+    "text": "So there's all of this complexity"
+  },
+  {
+    "startTime": 67.26,
+    "endTime": 69.26,
+    "text": "in our natural systems,"
+  },
+  {
+    "startTime": 69.26,
+    "endTime": 71.26,
+    "text": "but they're extremely efficient,"
+  },
+  {
+    "startTime": 71.26,
+    "endTime": 73.26,
+    "text": "far more efficient than anything we can build,"
+  },
+  {
+    "startTime": 73.26,
+    "endTime": 75.26,
+    "text": "far more complex than anything we can build."
+  },
+  {
+    "startTime": 75.26,
+    "endTime": 77.26,
+    "text": "They're far more efficient in terms of energy."
+  },
+  {
+    "startTime": 77.26,
+    "endTime": 80.26,
+    "text": "They hardly ever make mistakes."
+  },
+  {
+    "startTime": 80.26,
+    "endTime": 82.26,
+    "text": "And they can repair themselves for longevity."
+  },
+  {
+    "startTime": 82.26,
+    "endTime": 85.26,
+    "text": "So there's something super interesting about natural systems."
+  },
+  {
+    "startTime": 85.26,
+    "endTime": 87.26,
+    "text": "And if we can translate that"
+  },
+  {
+    "startTime": 87.26,
+    "endTime": 89.26,
+    "text": "into our built environment,"
+  },
+  {
+    "startTime": 89.26,
+    "endTime": 91.26,
+    "text": "then there's some exciting potential for the way that we build things."
+  },
+  {
+    "startTime": 91.26,
+    "endTime": 94.26,
+    "text": "And I think the key to that is self-assembly."
+  },
+  {
+    "startTime": 94.26,
+    "endTime": 97.26,
+    "text": "So if we want to utilize self-assembly in our physical environment,"
+  },
+  {
+    "startTime": 97.26,
+    "endTime": 99.26,
+    "text": "I think there's four key factors."
+  },
+  {
+    "startTime": 99.26,
+    "endTime": 101.26,
+    "text": "The first is that we need to decode"
+  },
+  {
+    "startTime": 101.26,
+    "endTime": 103.26,
+    "text": "all of the complexity of what we want to build --"
+  },
+  {
+    "startTime": 103.26,
+    "endTime": 105.26,
+    "text": "so our buildings and machines."
+  },
+  {
+    "startTime": 105.26,
+    "endTime": 107.26,
+    "text": "And we need to decode that into simple sequences --"
+  },
+  {
+    "startTime": 107.26,
+    "endTime": 109.26,
+    "text": "basically the DNA of how our buildings work."
+  },
+  {
+    "startTime": 109.26,
+    "endTime": 111.26,
+    "text": "Then we need programmable parts"
+  },
+  {
+    "startTime": 111.26,
+    "endTime": 113.26,
+    "text": "that can take that sequence"
+  },
+  {
+    "startTime": 113.26,
+    "endTime": 116.26,
+    "text": "and use that to fold up, or reconfigure."
+  },
+  {
+    "startTime": 116.26,
+    "endTime": 119.26,
+    "text": "We need some energy that's going to allow that to activate,"
+  },
+  {
+    "startTime": 119.26,
+    "endTime": 122.26,
+    "text": "allow our parts to be able to fold up from the program."
+  },
+  {
+    "startTime": 122.26,
+    "endTime": 124.26,
+    "text": "And we need some type of error correction redundancy"
+  },
+  {
+    "startTime": 124.26,
+    "endTime": 127.26,
+    "text": "to guarantee that we have successfully built what we want."
+  },
+  {
+    "startTime": 127.26,
+    "endTime": 129.25900000000001,
+    "text": "So I'm going to show you a number of projects"
+  },
+  {
+    "startTime": 129.259,
+    "endTime": 131.26,
+    "text": "that my colleagues and I at MIT are working on"
+  },
+  {
+    "startTime": 131.26,
+    "endTime": 133.26,
+    "text": "to achieve this self-assembling future."
+  },
+  {
+    "startTime": 133.26,
+    "endTime": 136.26,
+    "text": "The first two are the MacroBot and DeciBot."
+  },
+  {
+    "startTime": 136.26,
+    "endTime": 140.26,
+    "text": "So these projects are large-scale reconfigurable robots --"
+  },
+  {
+    "startTime": 140.26,
+    "endTime": 143.26,
+    "text": "8 ft., 12 ft. long proteins."
+  },
+  {
+    "startTime": 143.26,
+    "endTime": 146.26,
+    "text": "They're embedded with mechanical electrical devices, sensors."
+  },
+  {
+    "startTime": 146.26,
+    "endTime": 148.26,
+    "text": "You decode what you want to fold up into,"
+  },
+  {
+    "startTime": 148.26,
+    "endTime": 150.26,
+    "text": "into a sequence of angles --"
+  },
+  {
+    "startTime": 150.26,
+    "endTime": 152.26,
+    "text": "so negative 120, negative 120, 0, 0,"
+  },
+  {
+    "startTime": 152.26,
+    "endTime": 155.26,
+    "text": "120, negative 120 -- something like that;"
+  },
+  {
+    "startTime": 155.26,
+    "endTime": 157.26,
+    "text": "so a sequence of angles, or turns,"
+  },
+  {
+    "startTime": 157.26,
+    "endTime": 160.26,
+    "text": "and you send that sequence through the string."
+  },
+  {
+    "startTime": 160.26,
+    "endTime": 163.26,
+    "text": "Each unit takes its message -- so negative 120 --"
+  },
+  {
+    "startTime": 163.26,
+    "endTime": 165.26,
+    "text": "it rotates to that, checks if it got there"
+  },
+  {
+    "startTime": 165.26,
+    "endTime": 168.26,
+    "text": "and then passes it to its neighbor."
+  },
+  {
+    "startTime": 168.26,
+    "endTime": 170.26,
+    "text": "So these are the brilliant scientists,"
+  },
+  {
+    "startTime": 170.26,
+    "endTime": 172.26,
+    "text": "engineers, designers that worked on this project."
+  },
+  {
+    "startTime": 172.26,
+    "endTime": 174.26,
+    "text": "And I think it really brings to light:"
+  },
+  {
+    "startTime": 174.26,
+    "endTime": 176.26,
+    "text": "Is this really scalable?"
+  },
+  {
+    "startTime": 176.26,
+    "endTime": 178.26,
+    "text": "I mean, thousands of dollars, lots of man hours"
+  },
+  {
+    "startTime": 178.26,
+    "endTime": 181.26,
+    "text": "made to make this eight-foot robot."
+  },
+  {
+    "startTime": 181.26,
+    "endTime": 184.26,
+    "text": "Can we really scale this up? Can we really embed robotics into every part?"
+  },
+  {
+    "startTime": 184.26,
+    "endTime": 186.26,
+    "text": "The next one questions that"
+  },
+  {
+    "startTime": 186.26,
+    "endTime": 188.26,
+    "text": "and looks at passive nature,"
+  },
+  {
+    "startTime": 188.26,
+    "endTime": 191.26,
+    "text": "or passively trying to have reconfiguration programmability."
+  },
+  {
+    "startTime": 191.26,
+    "endTime": 193.26,
+    "text": "But it goes a step further,"
+  },
+  {
+    "startTime": 193.26,
+    "endTime": 195.26,
+    "text": "and it tries to have actual computation."
+  },
+  {
+    "startTime": 195.26,
+    "endTime": 197.26,
+    "text": "It basically embeds the most fundamental building block of computing,"
+  },
+  {
+    "startTime": 197.26,
+    "endTime": 199.26,
+    "text": "the digital logic gate,"
+  },
+  {
+    "startTime": 199.26,
+    "endTime": 201.26,
+    "text": "directly into your parts."
+  },
+  {
+    "startTime": 201.26,
+    "endTime": 203.26,
+    "text": "So this is a NAND gate."
+  },
+  {
+    "startTime": 203.26,
+    "endTime": 205.26,
+    "text": "You have one tetrahedron which is the gate"
+  },
+  {
+    "startTime": 205.26,
+    "endTime": 207.26,
+    "text": "that's going to do your computing,"
+  },
+  {
+    "startTime": 207.26,
+    "endTime": 209.26,
+    "text": "and you have two input tetrahedrons."
+  },
+  {
+    "startTime": 209.26,
+    "endTime": 212.26,
+    "text": "One of them is the input from the user, as you're building your bricks."
+  },
+  {
+    "startTime": 212.26,
+    "endTime": 215.26,
+    "text": "The other one is from the previous brick that was placed."
+  },
+  {
+    "startTime": 215.26,
+    "endTime": 218.26,
+    "text": "And then it gives you an output in 3D space."
+  },
+  {
+    "startTime": 218.26,
+    "endTime": 220.26,
+    "text": "So what this means"
+  },
+  {
+    "startTime": 220.26,
+    "endTime": 223.26,
+    "text": "is that the user can start plugging in what they want the bricks to do."
+  },
+  {
+    "startTime": 223.26,
+    "endTime": 225.26,
+    "text": "It computes on what it was doing before"
+  },
+  {
+    "startTime": 225.26,
+    "endTime": 227.26,
+    "text": "and what you said you wanted it to do."
+  },
+  {
+    "startTime": 227.26,
+    "endTime": 229.26,
+    "text": "And now it starts moving in three-dimensional space --"
+  },
+  {
+    "startTime": 229.26,
+    "endTime": 231.26,
+    "text": "so up or down."
+  },
+  {
+    "startTime": 231.26,
+    "endTime": 234.26,
+    "text": "So on the left-hand side, [1,1] input equals 0 output, which goes down."
+  },
+  {
+    "startTime": 234.26,
+    "endTime": 236.26,
+    "text": "On the right-hand side,"
+  },
+  {
+    "startTime": 236.26,
+    "endTime": 239.26,
+    "text": "[0,0] input is a 1 output, which goes up."
+  },
+  {
+    "startTime": 239.26,
+    "endTime": 241.26,
+    "text": "And so what that really means"
+  },
+  {
+    "startTime": 241.26,
+    "endTime": 243.26,
+    "text": "is that our structures now contain the blueprints"
+  },
+  {
+    "startTime": 243.26,
+    "endTime": 245.26,
+    "text": "of what we want to build."
+  },
+  {
+    "startTime": 245.26,
+    "endTime": 248.26,
+    "text": "So they have all of the information embedded in them of what was constructed."
+  },
+  {
+    "startTime": 248.26,
+    "endTime": 251.26,
+    "text": "So that means that we can have some form of self-replication."
+  },
+  {
+    "startTime": 251.26,
+    "endTime": 254.26,
+    "text": "In this case I call it self-guided replication,"
+  },
+  {
+    "startTime": 254.26,
+    "endTime": 256.26,
+    "text": "because your structure contains the exact blueprints."
+  },
+  {
+    "startTime": 256.26,
+    "endTime": 258.26,
+    "text": "If you have errors, you can replace a part."
+  },
+  {
+    "startTime": 258.26,
+    "endTime": 261.26,
+    "text": "All the local information is embedded to tell you how to fix it."
+  },
+  {
+    "startTime": 261.26,
+    "endTime": 263.26,
+    "text": "So you could have something that climbs along and reads it"
+  },
+  {
+    "startTime": 263.26,
+    "endTime": 265.26,
+    "text": "and can output at one to one."
+  },
+  {
+    "startTime": 265.26,
+    "endTime": 267.26,
+    "text": "It's directly embedded; there's no external instructions."
+  },
+  {
+    "startTime": 267.26,
+    "endTime": 270.26,
+    "text": "So the last project I'll show is called Biased Chains,"
+  },
+  {
+    "startTime": 270.26,
+    "endTime": 273.26,
+    "text": "and it's probably the most exciting example that we have right now"
+  },
+  {
+    "startTime": 273.26,
+    "endTime": 275.26,
+    "text": "of passive self-assembly systems."
+  },
+  {
+    "startTime": 275.26,
+    "endTime": 277.26,
+    "text": "So it takes the reconfigurability"
+  },
+  {
+    "startTime": 277.26,
+    "endTime": 279.26,
+    "text": "and programmability"
+  },
+  {
+    "startTime": 279.26,
+    "endTime": 282.26,
+    "text": "and makes it a completely passive system."
+  },
+  {
+    "startTime": 283.26,
+    "endTime": 285.26,
+    "text": "So basically you have a chain of elements."
+  },
+  {
+    "startTime": 285.26,
+    "endTime": 287.26,
+    "text": "Each element is completely identical,"
+  },
+  {
+    "startTime": 287.26,
+    "endTime": 289.26,
+    "text": "and they're biased."
+  },
+  {
+    "startTime": 289.26,
+    "endTime": 292.26,
+    "text": "So each chain, or each element, wants to turn right or left."
+  },
+  {
+    "startTime": 292.26,
+    "endTime": 295.26,
+    "text": "So as you assemble the chain, you're basically programming it."
+  },
+  {
+    "startTime": 295.26,
+    "endTime": 298.26,
+    "text": "You're telling each unit if it should turn right or left."
+  },
+  {
+    "startTime": 298.26,
+    "endTime": 301.26,
+    "text": "So when you shake the chain,"
+  },
+  {
+    "startTime": 301.26,
+    "endTime": 303.26,
+    "text": "it then folds up"
+  },
+  {
+    "startTime": 303.26,
+    "endTime": 306.26,
+    "text": "into any configuration that you've programmed in --"
+  },
+  {
+    "startTime": 306.26,
+    "endTime": 308.26,
+    "text": "so in this case, a spiral,"
+  },
+  {
+    "startTime": 308.26,
+    "endTime": 311.26,
+    "text": "or in this case,"
+  },
+  {
+    "startTime": 311.26,
+    "endTime": 314.26,
+    "text": "two cubes next to each other."
+  },
+  {
+    "startTime": 314.26,
+    "endTime": 316.26,
+    "text": "So you can basically program"
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 318.26,
+    "text": "any three-dimensional shape --"
+  },
+  {
+    "startTime": 318.26,
+    "endTime": 321.26,
+    "text": "or one-dimensional, two-dimensional -- up into this chain completely passively."
+  },
+  {
+    "startTime": 321.26,
+    "endTime": 323.26,
+    "text": "So what does this tell us about the future?"
+  },
+  {
+    "startTime": 323.26,
+    "endTime": 325.26,
+    "text": "I think that it's telling us"
+  },
+  {
+    "startTime": 325.26,
+    "endTime": 328.26,
+    "text": "that there's new possibilities for self-assembly, replication, repair"
+  },
+  {
+    "startTime": 328.26,
+    "endTime": 331.26,
+    "text": "in our physical structures, our buildings, machines."
+  },
+  {
+    "startTime": 331.26,
+    "endTime": 333.26,
+    "text": "There's new programmability in these parts."
+  },
+  {
+    "startTime": 333.26,
+    "endTime": 335.26,
+    "text": "And from that you have new possibilities for computing."
+  },
+  {
+    "startTime": 335.26,
+    "endTime": 337.26,
+    "text": "We'll have spatial computing."
+  },
+  {
+    "startTime": 337.26,
+    "endTime": 339.26,
+    "text": "Imagine if our buildings, our bridges, machines,"
+  },
+  {
+    "startTime": 339.26,
+    "endTime": 341.26,
+    "text": "all of our bricks could actually compute."
+  },
+  {
+    "startTime": 341.26,
+    "endTime": 343.26,
+    "text": "That's amazing parallel and distributed computing power,"
+  },
+  {
+    "startTime": 343.26,
+    "endTime": 345.26,
+    "text": "new design possibilities."
+  },
+  {
+    "startTime": 345.26,
+    "endTime": 347.26,
+    "text": "So it's exciting potential for this."
+  },
+  {
+    "startTime": 347.26,
+    "endTime": 349.26,
+    "text": "So I think these projects I've showed here"
+  },
+  {
+    "startTime": 349.26,
+    "endTime": 351.26,
+    "text": "are just a tiny step towards this future,"
+  },
+  {
+    "startTime": 351.26,
+    "endTime": 353.26,
+    "text": "if we implement these new technologies"
+  },
+  {
+    "startTime": 353.26,
+    "endTime": 355.26,
+    "text": "for a new self-assembling world."
+  },
+  {
+    "startTime": 355.26,
+    "endTime": 357.26,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 357.26,
+    "endTime": 359.26,
+    "text": "(Applause)"
+  }
+]
