@@ -1,0 +1,872 @@
+[
+  {
+    "startTime": 13.381,
+    "endTime": 17.396,
+    "text": "I work on helping computers communicate about the world around us."
+  },
+  {
+    "startTime": 17.754,
+    "endTime": 19.547,
+    "text": "There are a lot of ways to do this,"
+  },
+  {
+    "startTime": 19.571,
+    "endTime": 22.163,
+    "text": "and I like to focus on helping computers"
+  },
+  {
+    "startTime": 22.187,
+    "endTime": 25.61,
+    "text": "to talk about what they see and understand."
+  },
+  {
+    "startTime": 25.514,
+    "endTime": 27.849999999999998,
+    "text": "Given a scene like this,"
+  },
+  {
+    "startTime": 27.109,
+    "endTime": 29.14,
+    "text": "a modern computer-vision algorithm"
+  },
+  {
+    "startTime": 29.38,
+    "endTime": 32.132999999999996,
+    "text": "can tell you that there's a woman and there's a dog."
+  },
+  {
+    "startTime": 32.156,
+    "endTime": 34.863,
+    "text": "It can tell you that the woman is smiling."
+  },
+  {
+    "startTime": 34.887,
+    "endTime": 38.76,
+    "text": "It might even be able to tell you that the dog is incredibly cute."
+  },
+  {
+    "startTime": 38.784,
+    "endTime": 40.132,
+    "text": "I work on this problem"
+  },
+  {
+    "startTime": 40.157,
+    "endTime": 44.369,
+    "text": "thinking about how humans understand and process the world."
+  },
+  {
+    "startTime": 45.577,
+    "endTime": 48.528999999999996,
+    "text": "The thoughts, memories and stories"
+  },
+  {
+    "startTime": 48.553,
+    "endTime": 51.37,
+    "text": "that a scene like this might evoke for humans."
+  },
+  {
+    "startTime": 51.395,
+    "endTime": 55.68000000000001,
+    "text": "All the interconnections of related situations."
+  },
+  {
+    "startTime": 55.704,
+    "endTime": 58.83,
+    "text": "Maybe you've seen a dog like this one before,"
+  },
+  {
+    "startTime": 58.854,
+    "endTime": 61.823,
+    "text": "or you've spent time running on a beach like this one,"
+  },
+  {
+    "startTime": 61.847,
+    "endTime": 66.625,
+    "text": "and that further evokes thoughts and memories of a past vacation,"
+  },
+  {
+    "startTime": 66.649,
+    "endTime": 68.569,
+    "text": "past times to the beach,"
+  },
+  {
+    "startTime": 68.593,
+    "endTime": 71.196,
+    "text": "times spent running around with other dogs."
+  },
+  {
+    "startTime": 71.688,
+    "endTime": 76.895,
+    "text": "One of my guiding principles is that by helping computers to understand"
+  },
+  {
+    "startTime": 76.919,
+    "endTime": 79.815,
+    "text": "what it's like to have these experiences,"
+  },
+  {
+    "startTime": 79.839,
+    "endTime": 85.15,
+    "text": "to understand what we share and believe and feel,"
+  },
+  {
+    "startTime": 86.94,
+    "endTime": 90.404,
+    "text": "then we're in a great position to start evolving computer technology"
+  },
+  {
+    "startTime": 90.428,
+    "endTime": 95.14999999999999,
+    "text": "in a way that's complementary with our own experiences."
+  },
+  {
+    "startTime": 95.539,
+    "endTime": 98.926,
+    "text": "So, digging more deeply into this,"
+  },
+  {
+    "startTime": 98.95,
+    "endTime": 104.855,
+    "text": "a few years ago I began working on helping computers to generate human-like stories"
+  },
+  {
+    "startTime": 104.879,
+    "endTime": 106.545,
+    "text": "from sequences of images."
+  },
+  {
+    "startTime": 107.427,
+    "endTime": 109.331,
+    "text": "So, one day,"
+  },
+  {
+    "startTime": 109.355,
+    "endTime": 113.977,
+    "text": "I was working with my computer to ask it what it thought about a trip to Australia."
+  },
+  {
+    "startTime": 114.768,
+    "endTime": 117.688,
+    "text": "It took a look at the pictures, and it saw a koala."
+  },
+  {
+    "startTime": 118.236,
+    "endTime": 119.879,
+    "text": "It didn't know what the koala was,"
+  },
+  {
+    "startTime": 119.903,
+    "endTime": 122.902,
+    "text": "but it said it thought it was an interesting-looking creature."
+  },
+  {
+    "startTime": 124.53,
+    "endTime": 128.56,
+    "text": "Then I shared with it a sequence of images about a house burning down."
+  },
+  {
+    "startTime": 129.704,
+    "endTime": 132.989,
+    "text": "It took a look at the images and it said,"
+  },
+  {
+    "startTime": 133.13,
+    "endTime": 136.513,
+    "text": "\"This is an amazing view! This is spectacular!\""
+  },
+  {
+    "startTime": 137.45,
+    "endTime": 139.545,
+    "text": "It sent chills down my spine."
+  },
+  {
+    "startTime": 140.983,
+    "endTime": 145.555,
+    "text": "It saw a horrible, life-changing and life-destroying event"
+  },
+  {
+    "startTime": 145.579,
+    "endTime": 147.961,
+    "text": "and thought it was something positive."
+  },
+  {
+    "startTime": 147.985,
+    "endTime": 151.42600000000002,
+    "text": "I realized that it recognized the contrast,"
+  },
+  {
+    "startTime": 151.45,
+    "endTime": 154.149,
+    "text": "the reds, the yellows,"
+  },
+  {
+    "startTime": 154.173,
+    "endTime": 157.251,
+    "text": "and thought it was something worth remarking on positively."
+  },
+  {
+    "startTime": 157.928,
+    "endTime": 159.543,
+    "text": "And part of why it was doing this"
+  },
+  {
+    "startTime": 159.577,
+    "endTime": 162.522,
+    "text": "was because most of the images I had given it"
+  },
+  {
+    "startTime": 162.546,
+    "endTime": 164.386,
+    "text": "were positive images."
+  },
+  {
+    "startTime": 164.903,
+    "endTime": 168.56,
+    "text": "That's because people tend to share positive images"
+  },
+  {
+    "startTime": 168.585,
+    "endTime": 170.775,
+    "text": "when they talk about their experiences."
+  },
+  {
+    "startTime": 171.267,
+    "endTime": 173.808,
+    "text": "When was the last time you saw a selfie at a funeral?"
+  },
+  {
+    "startTime": 175.434,
+    "endTime": 178.529,
+    "text": "I realized that, as I worked on improving AI"
+  },
+  {
+    "startTime": 178.553,
+    "endTime": 182.267,
+    "text": "task by task, dataset by dataset,"
+  },
+  {
+    "startTime": 182.291,
+    "endTime": 185.188,
+    "text": "that I was creating massive gaps,"
+  },
+  {
+    "startTime": 185.212,
+    "endTime": 189.20999999999998,
+    "text": "holes and blind spots in what it could understand."
+  },
+  {
+    "startTime": 190.307,
+    "endTime": 191.641,
+    "text": "And while doing so,"
+  },
+  {
+    "startTime": 191.665,
+    "endTime": 194.148,
+    "text": "I was encoding all kinds of biases."
+  },
+  {
+    "startTime": 195.29,
+    "endTime": 198.34699999999998,
+    "text": "Biases that reflect a limited viewpoint,"
+  },
+  {
+    "startTime": 198.371,
+    "endTime": 200.632,
+    "text": "limited to a single dataset --"
+  },
+  {
+    "startTime": 201.283,
+    "endTime": 205.141,
+    "text": "biases that can reflect human biases found in the data,"
+  },
+  {
+    "startTime": 205.165,
+    "endTime": 208.269,
+    "text": "such as prejudice and stereotyping."
+  },
+  {
+    "startTime": 209.554,
+    "endTime": 212.611,
+    "text": "I thought back to the evolution of the technology"
+  },
+  {
+    "startTime": 212.635,
+    "endTime": 215.137,
+    "text": "that brought me to where I was that day --"
+  },
+  {
+    "startTime": 215.966,
+    "endTime": 218.199,
+    "text": "how the first color images"
+  },
+  {
+    "startTime": 218.223,
+    "endTime": 221.27100000000002,
+    "text": "were calibrated against a white woman's skin,"
+  },
+  {
+    "startTime": 221.665,
+    "endTime": 225.81,
+    "text": "meaning that color photography was biased against black faces."
+  },
+  {
+    "startTime": 226.514,
+    "endTime": 229.43900000000002,
+    "text": "And that same bias, that same blind spot"
+  },
+  {
+    "startTime": 229.463,
+    "endTime": 231.329,
+    "text": "continued well into the '90s."
+  },
+  {
+    "startTime": 231.701,
+    "endTime": 234.855,
+    "text": "And the same blind spot continues even today"
+  },
+  {
+    "startTime": 234.879,
+    "endTime": 238.577,
+    "text": "in how well we can recognize different people's faces"
+  },
+  {
+    "startTime": 238.601,
+    "endTime": 240.801,
+    "text": "in facial recognition technology."
+  },
+  {
+    "startTime": 241.323,
+    "endTime": 244.466,
+    "text": "I though about the state of the art in research today,"
+  },
+  {
+    "startTime": 244.49,
+    "endTime": 249.4,
+    "text": "where we tend to limit our thinking to one dataset and one problem."
+  },
+  {
+    "startTime": 249.688,
+    "endTime": 254.569,
+    "text": "And that in doing so, we were creating more blind spots and biases"
+  },
+  {
+    "startTime": 254.593,
+    "endTime": 256.87,
+    "text": "that the AI could further amplify."
+  },
+  {
+    "startTime": 257.712,
+    "endTime": 259.791,
+    "text": "I realized then that we had to think deeply"
+  },
+  {
+    "startTime": 259.815,
+    "endTime": 265.334,
+    "text": "about how the technology we work on today looks in five years, in 10 years."
+  },
+  {
+    "startTime": 265.99,
+    "endTime": 269.132,
+    "text": "Humans evolve slowly, with time to correct for issues"
+  },
+  {
+    "startTime": 269.156,
+    "endTime": 272.69,
+    "text": "in the interaction of humans and their environment."
+  },
+  {
+    "startTime": 273.276,
+    "endTime": 278.705,
+    "text": "In contrast, artificial intelligence is evolving at an incredibly fast rate."
+  },
+  {
+    "startTime": 279.13,
+    "endTime": 280.786,
+    "text": "And that means that it really matters"
+  },
+  {
+    "startTime": 280.81,
+    "endTime": 283.127,
+    "text": "that we think about this carefully right now --"
+  },
+  {
+    "startTime": 284.18,
+    "endTime": 287.188,
+    "text": "that we reflect on our own blind spots,"
+  },
+  {
+    "startTime": 287.212,
+    "endTime": 289.529,
+    "text": "our own biases,"
+  },
+  {
+    "startTime": 289.553,
+    "endTime": 293.41,
+    "text": "and think about how that's informing the technology we're creating"
+  },
+  {
+    "startTime": 293.434,
+    "endTime": 297.336,
+    "text": "and discuss what the technology of today will mean for tomorrow."
+  },
+  {
+    "startTime": 298.593,
+    "endTime": 301.784,
+    "text": "CEOs and scientists have weighed in on what they think"
+  },
+  {
+    "startTime": 301.808,
+    "endTime": 305.133,
+    "text": "the artificial intelligence technology of the future will be."
+  },
+  {
+    "startTime": 305.157,
+    "endTime": 306.775,
+    "text": "Stephen Hawking warns that"
+  },
+  {
+    "startTime": 306.799,
+    "endTime": 309.806,
+    "text": "\"Artificial intelligence could end mankind.\""
+  },
+  {
+    "startTime": 310.307,
+    "endTime": 312.99,
+    "text": "Elon Musk warns that it's an existential risk"
+  },
+  {
+    "startTime": 313.14,
+    "endTime": 316.58799999999997,
+    "text": "and one of the greatest risks that we face as a civilization."
+  },
+  {
+    "startTime": 317.665,
+    "endTime": 319.117,
+    "text": "Bill Gates has made the point,"
+  },
+  {
+    "startTime": 319.141,
+    "endTime": 322.326,
+    "text": "\"I don't understand why people aren't more concerned.\""
+  },
+  {
+    "startTime": 323.412,
+    "endTime": 324.729,
+    "text": "But these views --"
+  },
+  {
+    "startTime": 325.618,
+    "endTime": 327.352,
+    "text": "they're part of the story."
+  },
+  {
+    "startTime": 328.79,
+    "endTime": 330.499,
+    "text": "The math, the models,"
+  },
+  {
+    "startTime": 330.523,
+    "endTime": 333.593,
+    "text": "the basic building blocks of artificial intelligence"
+  },
+  {
+    "startTime": 333.617,
+    "endTime": 336.752,
+    "text": "are something that we call access and all work with."
+  },
+  {
+    "startTime": 336.776,
+    "endTime": 340.56100000000004,
+    "text": "We have open-source tools for machine learning and intelligence"
+  },
+  {
+    "startTime": 340.585,
+    "endTime": 342.318,
+    "text": "that we can contribute to."
+  },
+  {
+    "startTime": 342.919,
+    "endTime": 346.258,
+    "text": "And beyond that, we can share our experience."
+  },
+  {
+    "startTime": 346.76,
+    "endTime": 350.228,
+    "text": "We can share our experiences with technology and how it concerns us"
+  },
+  {
+    "startTime": 350.252,
+    "endTime": 351.719,
+    "text": "and how it excites us."
+  },
+  {
+    "startTime": 352.251,
+    "endTime": 354.118,
+    "text": "We can discuss what we love."
+  },
+  {
+    "startTime": 355.244,
+    "endTime": 357.27500000000003,
+    "text": "We can communicate with foresight"
+  },
+  {
+    "startTime": 357.299,
+    "endTime": 362.156,
+    "text": "about the aspects of technology that could be more beneficial"
+  },
+  {
+    "startTime": 362.18,
+    "endTime": 364.78000000000003,
+    "text": "or could be more problematic over time."
+  },
+  {
+    "startTime": 365.799,
+    "endTime": 369.941,
+    "text": "If we all focus on opening up the discussion on AI"
+  },
+  {
+    "startTime": 369.966,
+    "endTime": 371.77500000000003,
+    "text": "with foresight towards the future,"
+  },
+  {
+    "startTime": 373.93,
+    "endTime": 377.363,
+    "text": "this will help create a general conversation and awareness"
+  },
+  {
+    "startTime": 377.387,
+    "endTime": 379.9,
+    "text": "about what AI is now,"
+  },
+  {
+    "startTime": 381.212,
+    "endTime": 383.212,
+    "text": "what it can become"
+  },
+  {
+    "startTime": 383.237,
+    "endTime": 385.22,
+    "text": "and all the things that we need to do"
+  },
+  {
+    "startTime": 385.46,
+    "endTime": 388.799,
+    "text": "in order to enable that outcome that best suits us."
+  },
+  {
+    "startTime": 389.49,
+    "endTime": 393.164,
+    "text": "We already see and know this in the technology that we use today."
+  },
+  {
+    "startTime": 393.767,
+    "endTime": 397.647,
+    "text": "We use smart phones and digital assistants and Roombas."
+  },
+  {
+    "startTime": 398.457,
+    "endTime": 399.60699999999997,
+    "text": "Are they evil?"
+  },
+  {
+    "startTime": 400.268,
+    "endTime": 401.815,
+    "text": "Maybe sometimes."
+  },
+  {
+    "startTime": 402.664,
+    "endTime": 403.997,
+    "text": "Are they beneficial?"
+  },
+  {
+    "startTime": 405.5,
+    "endTime": 406.538,
+    "text": "Yes, they're that, too."
+  },
+  {
+    "startTime": 408.236,
+    "endTime": 409.997,
+    "text": "And they're not all the same."
+  },
+  {
+    "startTime": 410.489,
+    "endTime": 414.28999999999996,
+    "text": "And there you already see a light shining on what the future holds."
+  },
+  {
+    "startTime": 414.942,
+    "endTime": 418.56100000000004,
+    "text": "The future continues on from what we build and create right now."
+  },
+  {
+    "startTime": 419.165,
+    "endTime": 421.807,
+    "text": "We set into motion that domino effect"
+  },
+  {
+    "startTime": 421.831,
+    "endTime": 424.43100000000004,
+    "text": "that carves out AI's evolutionary path."
+  },
+  {
+    "startTime": 425.173,
+    "endTime": 428.44,
+    "text": "In our time right now, we shape the AI of tomorrow."
+  },
+  {
+    "startTime": 428.566,
+    "endTime": 432.265,
+    "text": "Technology that immerses us in augmented realities"
+  },
+  {
+    "startTime": 432.289,
+    "endTime": 434.854,
+    "text": "bringing to life past worlds."
+  },
+  {
+    "startTime": 435.844,
+    "endTime": 440.156,
+    "text": "Technology that helps people to share their experiences"
+  },
+  {
+    "startTime": 440.18,
+    "endTime": 442.442,
+    "text": "when they have difficulty communicating."
+  },
+  {
+    "startTime": 443.323,
+    "endTime": 447.854,
+    "text": "Technology built on understanding the streaming visual worlds"
+  },
+  {
+    "startTime": 447.879,
+    "endTime": 450.958,
+    "text": "used as technology for self-driving cars."
+  },
+  {
+    "startTime": 452.49,
+    "endTime": 455.903,
+    "text": "Technology built on understanding images and generating language,"
+  },
+  {
+    "startTime": 455.927,
+    "endTime": 459.99,
+    "text": "evolving into technology that helps people who are visually impaired"
+  },
+  {
+    "startTime": 460.14,
+    "endTime": 462.81399999999996,
+    "text": "be better able to access the visual world."
+  },
+  {
+    "startTime": 462.838,
+    "endTime": 466.99,
+    "text": "And we also see how technology can lead to problems."
+  },
+  {
+    "startTime": 466.885,
+    "endTime": 468.313,
+    "text": "We have technology today"
+  },
+  {
+    "startTime": 468.337,
+    "endTime": 472.171,
+    "text": "that analyzes physical characteristics we're born with --"
+  },
+  {
+    "startTime": 472.196,
+    "endTime": 475.468,
+    "text": "such as the color of our skin or the look of our face --"
+  },
+  {
+    "startTime": 475.492,
+    "endTime": 479.296,
+    "text": "in order to determine whether or not we might be criminals or terrorists."
+  },
+  {
+    "startTime": 479.688,
+    "endTime": 482.592,
+    "text": "We have technology that crunches through our data,"
+  },
+  {
+    "startTime": 482.617,
+    "endTime": 485.51300000000003,
+    "text": "even data relating to our gender or our race,"
+  },
+  {
+    "startTime": 485.537,
+    "endTime": 488.402,
+    "text": "in order to determine whether or not we might get a loan."
+  },
+  {
+    "startTime": 489.494,
+    "endTime": 491.73,
+    "text": "All that we see now"
+  },
+  {
+    "startTime": 491.97,
+    "endTime": 494.71400000000006,
+    "text": "is a snapshot in the evolution of artificial intelligence."
+  },
+  {
+    "startTime": 495.763,
+    "endTime": 497.541,
+    "text": "Because where we are right now,"
+  },
+  {
+    "startTime": 497.565,
+    "endTime": 499.803,
+    "text": "is within a moment of that evolution."
+  },
+  {
+    "startTime": 500.69,
+    "endTime": 504.492,
+    "text": "That means that what we do now will affect what happens down the line"
+  },
+  {
+    "startTime": 504.516,
+    "endTime": 505.716,
+    "text": "and in the future."
+  },
+  {
+    "startTime": 506.63,
+    "endTime": 510.14,
+    "text": "If we want AI to evolve in a way that helps humans,"
+  },
+  {
+    "startTime": 510.38,
+    "endTime": 512.8389999999999,
+    "text": "then we need to define the goals and strategies"
+  },
+  {
+    "startTime": 512.863,
+    "endTime": 514.596,
+    "text": "that enable that path now."
+  },
+  {
+    "startTime": 515.679,
+    "endTime": 519.418,
+    "text": "What I'd like to see is something that fits well with humans,"
+  },
+  {
+    "startTime": 519.442,
+    "endTime": 522.241,
+    "text": "with our culture and with the environment."
+  },
+  {
+    "startTime": 523.434,
+    "endTime": 527.919,
+    "text": "Technology that aids and assists those of us with neurological conditions"
+  },
+  {
+    "startTime": 527.943,
+    "endTime": 529.664,
+    "text": "or other disabilities"
+  },
+  {
+    "startTime": 529.688,
+    "endTime": 532.904,
+    "text": "in order to make life equally challenging for everyone."
+  },
+  {
+    "startTime": 534.97,
+    "endTime": 535.518,
+    "text": "Technology that works"
+  },
+  {
+    "startTime": 535.542,
+    "endTime": 539.475,
+    "text": "regardless of your demographics or the color of your skin."
+  },
+  {
+    "startTime": 540.383,
+    "endTime": 545.125,
+    "text": "And so today, what I focus on is the technology for tomorrow"
+  },
+  {
+    "startTime": 545.149,
+    "endTime": 546.882,
+    "text": "and for 10 years from now."
+  },
+  {
+    "startTime": 548.53,
+    "endTime": 551.164,
+    "text": "AI can turn out in many different ways."
+  },
+  {
+    "startTime": 551.688,
+    "endTime": 552.913,
+    "text": "But in this case,"
+  },
+  {
+    "startTime": 552.937,
+    "endTime": 556.265,
+    "text": "it isn't a self-driving car without any destination."
+  },
+  {
+    "startTime": 556.884,
+    "endTime": 559.284,
+    "text": "This is the car that we are driving."
+  },
+  {
+    "startTime": 559.953,
+    "endTime": 563.548,
+    "text": "We choose when to speed up and when to slow down."
+  },
+  {
+    "startTime": 563.572,
+    "endTime": 565.972,
+    "text": "We choose if we need to make a turn."
+  },
+  {
+    "startTime": 566.868,
+    "endTime": 569.868,
+    "text": "We choose what the AI of the future will be."
+  },
+  {
+    "startTime": 571.186,
+    "endTime": 572.523,
+    "text": "There's a vast playing field"
+  },
+  {
+    "startTime": 572.547,
+    "endTime": 575.5120000000001,
+    "text": "of all the things that artificial intelligence can become."
+  },
+  {
+    "startTime": 576.64,
+    "endTime": 577.8629999999999,
+    "text": "It will become many things."
+  },
+  {
+    "startTime": 579.694,
+    "endTime": 581.425,
+    "text": "And it's up to us now,"
+  },
+  {
+    "startTime": 581.45,
+    "endTime": 584.5110000000001,
+    "text": "in order to figure out what we need to put in place"
+  },
+  {
+    "startTime": 584.535,
+    "endTime": 588.342,
+    "text": "to make sure the outcomes of artificial intelligence"
+  },
+  {
+    "startTime": 588.366,
+    "endTime": 591.432,
+    "text": "are the ones that will be better for all of us."
+  },
+  {
+    "startTime": 591.456,
+    "endTime": 592.606,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 592.63,
+    "endTime": 594.817,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,977 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Translator: Joseph Geni Reviewer: Morton Bast"
+  },
+  {
+    "startTime": 12.349,
+    "endTime": 15.543,
+    "text": "Living in Africa is to be on the edge,"
+  },
+  {
+    "startTime": 15.543,
+    "endTime": 18.297,
+    "text": "metaphorically, and quite literally"
+  },
+  {
+    "startTime": 18.297,
+    "endTime": 21.929000000000002,
+    "text": "when you think about connectivity before 2008."
+  },
+  {
+    "startTime": 21.929,
+    "endTime": 25.641,
+    "text": "Though many human intellectual and technological leaps"
+  },
+  {
+    "startTime": 25.641,
+    "endTime": 28.665,
+    "text": "had happened in Europe and the rest of the world,"
+  },
+  {
+    "startTime": 28.665,
+    "endTime": 31.253,
+    "text": "but Africa was sort of cut off."
+  },
+  {
+    "startTime": 31.254,
+    "endTime": 33.881,
+    "text": "And that changed, first with ships"
+  },
+  {
+    "startTime": 33.881,
+    "endTime": 37.158,
+    "text": "when we had the Renaissance, the Scientific Revolution"
+  },
+  {
+    "startTime": 37.158,
+    "endTime": 39.259,
+    "text": "and also the Industrial Revolution."
+  },
+  {
+    "startTime": 39.259,
+    "endTime": 42.286,
+    "text": "And now we've got the digital revolution."
+  },
+  {
+    "startTime": 42.286,
+    "endTime": 45.286,
+    "text": "These revolutions have not been evenly distributed"
+  },
+  {
+    "startTime": 45.286,
+    "endTime": 47.619,
+    "text": "across continents and nations."
+  },
+  {
+    "startTime": 47.619,
+    "endTime": 50.349,
+    "text": "Never have been."
+  },
+  {
+    "startTime": 50.349,
+    "endTime": 54.114,
+    "text": "Now, this is a map of the undersea fiber optic cables"
+  },
+  {
+    "startTime": 54.114,
+    "endTime": 57.18,
+    "text": "that connect Africa to the rest of the world."
+  },
+  {
+    "startTime": 57.18,
+    "endTime": 59.58,
+    "text": "What I find amazing is that Africa"
+  },
+  {
+    "startTime": 59.58,
+    "endTime": 61.867999999999995,
+    "text": "is transcending its geography problem."
+  },
+  {
+    "startTime": 61.868,
+    "endTime": 63.682,
+    "text": "Africa is connecting to the rest of the world"
+  },
+  {
+    "startTime": 63.682,
+    "endTime": 65.518,
+    "text": "and within itself."
+  },
+  {
+    "startTime": 65.518,
+    "endTime": 68.794,
+    "text": "The connectivity situation has improved greatly,"
+  },
+  {
+    "startTime": 68.794,
+    "endTime": 70.994,
+    "text": "but some barriers remain."
+  },
+  {
+    "startTime": 70.995,
+    "endTime": 74.683,
+    "text": "It is with this context that Ushahidi came to be."
+  },
+  {
+    "startTime": 74.683,
+    "endTime": 79.21900000000001,
+    "text": "In 2008, one of the problems that we faced"
+  },
+  {
+    "startTime": 79.219,
+    "endTime": 81.756,
+    "text": "was lack of information flow."
+  },
+  {
+    "startTime": 81.757,
+    "endTime": 84.53,
+    "text": "There was a media blackout in 2008,"
+  },
+  {
+    "startTime": 84.53,
+    "endTime": 86.429,
+    "text": "when there was post-election violence in Kenya."
+  },
+  {
+    "startTime": 86.429,
+    "endTime": 89.253,
+    "text": "It was a very tragic time. It was a very difficult time."
+  },
+  {
+    "startTime": 89.253,
+    "endTime": 92.3,
+    "text": "So we came together and we created software"
+  },
+  {
+    "startTime": 92.3,
+    "endTime": 93.569,
+    "text": "called Ushahidi."
+  },
+  {
+    "startTime": 93.569,
+    "endTime": 97.169,
+    "text": "And Ushahidi means \"testimony\" or \"witness\" in Swahili."
+  },
+  {
+    "startTime": 97.169,
+    "endTime": 100.339,
+    "text": "I'm very lucky to work with two amazing collaborators."
+  },
+  {
+    "startTime": 100.339,
+    "endTime": 102.445,
+    "text": "This is David and Erik."
+  },
+  {
+    "startTime": 102.445,
+    "endTime": 104.517,
+    "text": "I call them brothers from another mother."
+  },
+  {
+    "startTime": 104.517,
+    "endTime": 107.529,
+    "text": "Clearly I have a German mother somewhere."
+  },
+  {
+    "startTime": 107.529,
+    "endTime": 110.118,
+    "text": "And we worked together first with building"
+  },
+  {
+    "startTime": 110.118,
+    "endTime": 111.565,
+    "text": "and growing Ushahidi."
+  },
+  {
+    "startTime": 111.566,
+    "endTime": 114.565,
+    "text": "And the idea of the software was to gather information"
+  },
+  {
+    "startTime": 114.565,
+    "endTime": 117.338,
+    "text": "from SMS, email and web, and put a map"
+  },
+  {
+    "startTime": 117.338,
+    "endTime": 120.253,
+    "text": "so that you could see what was happening where,"
+  },
+  {
+    "startTime": 120.253,
+    "endTime": 122.357,
+    "text": "and you could visualize that data."
+  },
+  {
+    "startTime": 122.357,
+    "endTime": 124.613,
+    "text": "And after that initial prototype,"
+  },
+  {
+    "startTime": 124.613,
+    "endTime": 127.108,
+    "text": "we set out to make free and open-source software"
+  },
+  {
+    "startTime": 127.108,
+    "endTime": 131.959,
+    "text": "so that others do not have to start from scratch like we did."
+  },
+  {
+    "startTime": 131.959,
+    "endTime": 133.93,
+    "text": "All the while, we also wanted to give back"
+  },
+  {
+    "startTime": 133.93,
+    "endTime": 136.162,
+    "text": "to the local tech community that helped us"
+  },
+  {
+    "startTime": 136.162,
+    "endTime": 139.667,
+    "text": "grow Ushahidi and supported us in those early days."
+  },
+  {
+    "startTime": 139.667,
+    "endTime": 142.25,
+    "text": "And that's why we set up the iHub in Nairobi,"
+  },
+  {
+    "startTime": 142.25,
+    "endTime": 144.274,
+    "text": "an actual physical space"
+  },
+  {
+    "startTime": 144.274,
+    "endTime": 146.74,
+    "text": "where we could collaborate,"
+  },
+  {
+    "startTime": 146.74,
+    "endTime": 151.297,
+    "text": "and it is now part of an integral tech ecosystem in Kenya."
+  },
+  {
+    "startTime": 151.297,
+    "endTime": 154.67,
+    "text": "We did that with the support of different organizations"
+  },
+  {
+    "startTime": 154.67,
+    "endTime": 157.72,
+    "text": "like the MacArthur Foundation and Omidyar Network."
+  },
+  {
+    "startTime": 157.72,
+    "endTime": 160.249,
+    "text": "And we were able to grow this software footprint,"
+  },
+  {
+    "startTime": 160.249,
+    "endTime": 163.15,
+    "text": "and a few years later it became"
+  },
+  {
+    "startTime": 163.15,
+    "endTime": 165.71200000000002,
+    "text": "very useful software,"
+  },
+  {
+    "startTime": 165.712,
+    "endTime": 168.939,
+    "text": "and we were quite humbled when it was used in Haiti"
+  },
+  {
+    "startTime": 168.939,
+    "endTime": 172.7,
+    "text": "where citizens could indicate where they are"
+  },
+  {
+    "startTime": 172.8,
+    "endTime": 173.40200000000002,
+    "text": "and what their needs were,"
+  },
+  {
+    "startTime": 173.402,
+    "endTime": 176.69799999999998,
+    "text": "and also to deal with the fallout from the nuclear crisis"
+  },
+  {
+    "startTime": 176.699,
+    "endTime": 178.738,
+    "text": "and the tsunami in Japan."
+  },
+  {
+    "startTime": 178.738,
+    "endTime": 182.132,
+    "text": "Now, this year the Internet turns 20,"
+  },
+  {
+    "startTime": 182.132,
+    "endTime": 184.41400000000002,
+    "text": "and Ushahidi turned five."
+  },
+  {
+    "startTime": 184.414,
+    "endTime": 187.214,
+    "text": "Ushahidi is not only the software that we made."
+  },
+  {
+    "startTime": 187.215,
+    "endTime": 190.272,
+    "text": "It is the team, and it's also the community"
+  },
+  {
+    "startTime": 190.272,
+    "endTime": 194.557,
+    "text": "that uses this technology in ways that we could not foresee."
+  },
+  {
+    "startTime": 194.557,
+    "endTime": 197.87599999999998,
+    "text": "We did not imagine that there would be this many maps"
+  },
+  {
+    "startTime": 197.877,
+    "endTime": 199.388,
+    "text": "around the world."
+  },
+  {
+    "startTime": 199.388,
+    "endTime": 202.91,
+    "text": "There are crisis maps, election maps, corruption maps,"
+  },
+  {
+    "startTime": 202.91,
+    "endTime": 206.436,
+    "text": "and even environmental monitoring crowd maps."
+  },
+  {
+    "startTime": 206.437,
+    "endTime": 209.893,
+    "text": "We are humbled that this has roots in Kenya"
+  },
+  {
+    "startTime": 209.893,
+    "endTime": 212.609,
+    "text": "and that it has some use to people around the world"
+  },
+  {
+    "startTime": 212.609,
+    "endTime": 215.96,
+    "text": "trying to figure out the different issues that they're dealing with."
+  },
+  {
+    "startTime": 215.96,
+    "endTime": 218.83100000000002,
+    "text": "There is more that we're doing to explore this idea"
+  },
+  {
+    "startTime": 218.831,
+    "endTime": 221.446,
+    "text": "of collective intelligence, that I, as a citizen,"
+  },
+  {
+    "startTime": 221.446,
+    "endTime": 224.382,
+    "text": "if I share the information with whatever device that I have,"
+  },
+  {
+    "startTime": 224.382,
+    "endTime": 226.925,
+    "text": "could inform you about what is going on,"
+  },
+  {
+    "startTime": 226.925,
+    "endTime": 229.78300000000002,
+    "text": "and that if you do the same, we can have a bigger picture"
+  },
+  {
+    "startTime": 229.783,
+    "endTime": 231.62599999999998,
+    "text": "of what's going on."
+  },
+  {
+    "startTime": 231.627,
+    "endTime": 233.68800000000002,
+    "text": "I moved back to Kenya in 2011."
+  },
+  {
+    "startTime": 233.688,
+    "endTime": 235.83499999999998,
+    "text": "Erik moved in 2010."
+  },
+  {
+    "startTime": 235.836,
+    "endTime": 237.983,
+    "text": "Very different reality. I used to live in Chicago"
+  },
+  {
+    "startTime": 237.983,
+    "endTime": 240.133,
+    "text": "where there was abundant Internet access."
+  },
+  {
+    "startTime": 240.133,
+    "endTime": 242.965,
+    "text": "I had never had to deal with a blackout."
+  },
+  {
+    "startTime": 242.965,
+    "endTime": 245.849,
+    "text": "And in Kenya, it's a very different reality,"
+  },
+  {
+    "startTime": 245.849,
+    "endTime": 248.946,
+    "text": "and one thing that remains despite the leaps in progress"
+  },
+  {
+    "startTime": 248.946,
+    "endTime": 252.73,
+    "text": "and the digital revolution is the electricity problem."
+  },
+  {
+    "startTime": 252.73,
+    "endTime": 255.5,
+    "text": "The day-to-day frustrations of dealing with this"
+  },
+  {
+    "startTime": 255.501,
+    "endTime": 258.737,
+    "text": "can be, let's just say very annoying."
+  },
+  {
+    "startTime": 258.737,
+    "endTime": 260.702,
+    "text": "Blackouts are not fun."
+  },
+  {
+    "startTime": 260.702,
+    "endTime": 263.615,
+    "text": "Imagine sitting down to start working, and all of a sudden"
+  },
+  {
+    "startTime": 263.615,
+    "endTime": 265.295,
+    "text": "the power goes out,"
+  },
+  {
+    "startTime": 265.295,
+    "endTime": 267.97,
+    "text": "your Internet connection goes down with it,"
+  },
+  {
+    "startTime": 267.97,
+    "endTime": 271.61800000000005,
+    "text": "so you have to figure out, okay, now, where's the modem,"
+  },
+  {
+    "startTime": 271.618,
+    "endTime": 273.60699999999997,
+    "text": "how do I switch back?"
+  },
+  {
+    "startTime": 273.607,
+    "endTime": 276.32500000000005,
+    "text": "And then, guess what? You have to deal with it again."
+  },
+  {
+    "startTime": 276.325,
+    "endTime": 279.517,
+    "text": "Now, this is the reality of Kenya, where we live now,"
+  },
+  {
+    "startTime": 279.517,
+    "endTime": 281.882,
+    "text": "and other parts of Africa."
+  },
+  {
+    "startTime": 281.882,
+    "endTime": 283.838,
+    "text": "The other problem that we're facing"
+  },
+  {
+    "startTime": 283.838,
+    "endTime": 288.125,
+    "text": "is that communication costs are also still a challenge."
+  },
+  {
+    "startTime": 288.125,
+    "endTime": 290.289,
+    "text": "It costs me five Kenyan shillings,"
+  },
+  {
+    "startTime": 290.289,
+    "endTime": 296.342,
+    "text": "or .06 USD to call the U.S., Canada or China."
+  },
+  {
+    "startTime": 296.342,
+    "endTime": 300.912,
+    "text": "Guess how much it costs to call Rwanda, Ghana, Nigeria?"
+  },
+  {
+    "startTime": 300.912,
+    "endTime": 304.186,
+    "text": "Thirty Kenyan shillings. That's six times the cost"
+  },
+  {
+    "startTime": 304.186,
+    "endTime": 306.296,
+    "text": "to connect within Africa."
+  },
+  {
+    "startTime": 306.296,
+    "endTime": 308.43,
+    "text": "And also, when traveling within Africa,"
+  },
+  {
+    "startTime": 308.43,
+    "endTime": 311.696,
+    "text": "you've got different settings for different mobile providers."
+  },
+  {
+    "startTime": 311.696,
+    "endTime": 314.40500000000003,
+    "text": "This is the reality that we deal with."
+  },
+  {
+    "startTime": 314.405,
+    "endTime": 317.2,
+    "text": "So we've got a joke in Ushahidi"
+  },
+  {
+    "startTime": 317.2,
+    "endTime": 321.818,
+    "text": "where we say, \"If it works in Africa, it'll work anywhere.\""
+  },
+  {
+    "startTime": 321.818,
+    "endTime": 323.969,
+    "text": "[Most use technology to define the function. We use function to drive the technology.]"
+  },
+  {
+    "startTime": 323.97,
+    "endTime": 326.216,
+    "text": "What if we could overcome the problem"
+  },
+  {
+    "startTime": 326.216,
+    "endTime": 330.81,
+    "text": "of unreliable Internet and electricity"
+  },
+  {
+    "startTime": 330.81,
+    "endTime": 332.106,
+    "text": "and reduce the cost of connection?"
+  },
+  {
+    "startTime": 332.106,
+    "endTime": 334.71999999999997,
+    "text": "Could we leverage the cloud?"
+  },
+  {
+    "startTime": 334.72,
+    "endTime": 335.903,
+    "text": "We've built a crowd map, we've built Ushahidi."
+  },
+  {
+    "startTime": 335.903,
+    "endTime": 338.32800000000003,
+    "text": "Could we leverage these technologies"
+  },
+  {
+    "startTime": 338.328,
+    "endTime": 343.393,
+    "text": "to switch smartly whenever you travel from country to country?"
+  },
+  {
+    "startTime": 343.393,
+    "endTime": 344.691,
+    "text": "So we looked at the modem,"
+  },
+  {
+    "startTime": 344.691,
+    "endTime": 347.969,
+    "text": "an important part of the infrastructure of the Internet,"
+  },
+  {
+    "startTime": 347.97,
+    "endTime": 350.48100000000005,
+    "text": "and asked ourselves why"
+  },
+  {
+    "startTime": 350.481,
+    "endTime": 352.436,
+    "text": "the modems that we are using right now"
+  },
+  {
+    "startTime": 352.436,
+    "endTime": 354.659,
+    "text": "are built for a different context, where you've got"
+  },
+  {
+    "startTime": 354.66,
+    "endTime": 358.615,
+    "text": "ubiquitous internet, you've got ubiquitous electricity,"
+  },
+  {
+    "startTime": 358.615,
+    "endTime": 363.652,
+    "text": "yet we sit here in Nairobi and we do not have that luxury."
+  },
+  {
+    "startTime": 363.652,
+    "endTime": 366.149,
+    "text": "We wanted to redesign the modem"
+  },
+  {
+    "startTime": 366.149,
+    "endTime": 369.196,
+    "text": "for the developing world, for our context,"
+  },
+  {
+    "startTime": 369.196,
+    "endTime": 371.107,
+    "text": "and for our reality."
+  },
+  {
+    "startTime": 371.107,
+    "endTime": 374.78400000000005,
+    "text": "What if we could have connectivity with less friction?"
+  },
+  {
+    "startTime": 374.784,
+    "endTime": 378.313,
+    "text": "This is the BRCK."
+  },
+  {
+    "startTime": 378.313,
+    "endTime": 381.217,
+    "text": "It acts as a backup to the Internet"
+  },
+  {
+    "startTime": 381.217,
+    "endTime": 384.99399999999997,
+    "text": "so that, when the power goes out,"
+  },
+  {
+    "startTime": 384.994,
+    "endTime": 391.14200000000005,
+    "text": "it fails over and connects to the nearest GSM network."
+  },
+  {
+    "startTime": 391.142,
+    "endTime": 393.983,
+    "text": "Mobile connectivity in Africa is pervasive."
+  },
+  {
+    "startTime": 393.983,
+    "endTime": 396.323,
+    "text": "It's actually everywhere."
+  },
+  {
+    "startTime": 396.323,
+    "endTime": 399.251,
+    "text": "Most towns at least have a 3G connection."
+  },
+  {
+    "startTime": 399.251,
+    "endTime": 402.159,
+    "text": "So why don't we leverage that? And that's why we built this."
+  },
+  {
+    "startTime": 402.16,
+    "endTime": 404.358,
+    "text": "The other reason that we built this"
+  },
+  {
+    "startTime": 404.358,
+    "endTime": 406.944,
+    "text": "is when electricity goes down, this has eight hours"
+  },
+  {
+    "startTime": 406.944,
+    "endTime": 408.958,
+    "text": "of battery left, so you can continue working,"
+  },
+  {
+    "startTime": 408.958,
+    "endTime": 411.46000000000004,
+    "text": "you can continue being productive,"
+  },
+  {
+    "startTime": 411.46,
+    "endTime": 415.268,
+    "text": "and let's just say you are less stressed."
+  },
+  {
+    "startTime": 415.268,
+    "endTime": 417.597,
+    "text": "And for rural areas, it can be"
+  },
+  {
+    "startTime": 417.598,
+    "endTime": 419.701,
+    "text": "the primary means of connection."
+  },
+  {
+    "startTime": 419.701,
+    "endTime": 422.437,
+    "text": "The software sensibility at Ushahidi is still at play"
+  },
+  {
+    "startTime": 422.437,
+    "endTime": 425.49600000000004,
+    "text": "when we wondered how can we use the cloud"
+  },
+  {
+    "startTime": 425.496,
+    "endTime": 427.438,
+    "text": "to be more intelligent so that"
+  },
+  {
+    "startTime": 427.438,
+    "endTime": 429.823,
+    "text": "you can analyze the different networks,"
+  },
+  {
+    "startTime": 429.823,
+    "endTime": 432.962,
+    "text": "and whenever you switch on the backup,"
+  },
+  {
+    "startTime": 432.962,
+    "endTime": 435.471,
+    "text": "you pick on the fastest network,"
+  },
+  {
+    "startTime": 435.471,
+    "endTime": 437.87,
+    "text": "so we'll have multi-SIM capability"
+  },
+  {
+    "startTime": 437.87,
+    "endTime": 439.966,
+    "text": "so that you can put multiple SIMs,"
+  },
+  {
+    "startTime": 439.966,
+    "endTime": 443.38,
+    "text": "and if one network is faster, that's the one you hop on,"
+  },
+  {
+    "startTime": 443.38,
+    "endTime": 446.729,
+    "text": "and if the up time on that is not very good,"
+  },
+  {
+    "startTime": 446.729,
+    "endTime": 449.144,
+    "text": "then you hop onto the next one."
+  },
+  {
+    "startTime": 449.144,
+    "endTime": 452.88100000000003,
+    "text": "The idea here is for you to be able to connect anywhere."
+  },
+  {
+    "startTime": 452.881,
+    "endTime": 455.768,
+    "text": "With load balancing, this can be possible."
+  },
+  {
+    "startTime": 455.769,
+    "endTime": 459.622,
+    "text": "The other interesting thing for us -- we like sensors --"
+  },
+  {
+    "startTime": 459.622,
+    "endTime": 463.5,
+    "text": "is this idea that you could have an on-ramp"
+  },
+  {
+    "startTime": 463.5,
+    "endTime": 464.977,
+    "text": "for the Internet of things."
+  },
+  {
+    "startTime": 464.977,
+    "endTime": 468.597,
+    "text": "Imagine a weather station that can be attached to this."
+  },
+  {
+    "startTime": 468.597,
+    "endTime": 471.335,
+    "text": "It's built in a modular way so that you can also attach"
+  },
+  {
+    "startTime": 471.336,
+    "endTime": 473.106,
+    "text": "a satellite module so that you could have"
+  },
+  {
+    "startTime": 473.106,
+    "endTime": 476.631,
+    "text": "Internet connectivity even in very remote areas."
+  },
+  {
+    "startTime": 476.631,
+    "endTime": 479.376,
+    "text": "Out of adversity can come innovation,"
+  },
+  {
+    "startTime": 479.376,
+    "endTime": 483.414,
+    "text": "and how can we help the ambitious coders and makers"
+  },
+  {
+    "startTime": 483.415,
+    "endTime": 487.494,
+    "text": "in Kenya to be resilient in the face of problematic infrastructure?"
+  },
+  {
+    "startTime": 487.494,
+    "endTime": 489.75,
+    "text": "And for us, we begin with solving the problem"
+  },
+  {
+    "startTime": 489.75,
+    "endTime": 492.694,
+    "text": "in our own backyard in Kenya."
+  },
+  {
+    "startTime": 492.694,
+    "endTime": 495.94,
+    "text": "It is not without challenge."
+  },
+  {
+    "startTime": 495.94,
+    "endTime": 497.847,
+    "text": "Our team has basically been mules carrying components"
+  },
+  {
+    "startTime": 497.847,
+    "endTime": 501.40999999999997,
+    "text": "from the U.S. to Kenya. We've had very interesting conversations"
+  },
+  {
+    "startTime": 501.41,
+    "endTime": 502.96900000000005,
+    "text": "with customs border agents."
+  },
+  {
+    "startTime": 502.969,
+    "endTime": 504.767,
+    "text": "\"What are you carrying?\""
+  },
+  {
+    "startTime": 504.767,
+    "endTime": 507.537,
+    "text": "And the local financing is not"
+  },
+  {
+    "startTime": 507.537,
+    "endTime": 512.888,
+    "text": "part of the ecosystem for supporting hardware projects."
+  },
+  {
+    "startTime": 512.888,
+    "endTime": 515.6070000000001,
+    "text": "So we put it on Kickstarter, and I'm happy to say that,"
+  },
+  {
+    "startTime": 515.607,
+    "endTime": 517.847,
+    "text": "through the support of many people,"
+  },
+  {
+    "startTime": 517.847,
+    "endTime": 519.847,
+    "text": "not only here but online,"
+  },
+  {
+    "startTime": 519.847,
+    "endTime": 522.102,
+    "text": "the BRCK has been Kickstarted,"
+  },
+  {
+    "startTime": 522.102,
+    "endTime": 526.192,
+    "text": "and now the interesting part of bringing this to market begins."
+  },
+  {
+    "startTime": 526.192,
+    "endTime": 529.86,
+    "text": "I will close by saying that, if we solve this"
+  },
+  {
+    "startTime": 529.86,
+    "endTime": 531.646,
+    "text": "for the local market, it could be impactful"
+  },
+  {
+    "startTime": 531.646,
+    "endTime": 534.9599999999999,
+    "text": "not only for the coders in Nairobi"
+  },
+  {
+    "startTime": 534.96,
+    "endTime": 536.4480000000001,
+    "text": "but also for small business owners"
+  },
+  {
+    "startTime": 536.448,
+    "endTime": 539.112,
+    "text": "who need reliable connectivity,"
+  },
+  {
+    "startTime": 539.112,
+    "endTime": 541.312,
+    "text": "and it can reduce the cost of connecting,"
+  },
+  {
+    "startTime": 541.312,
+    "endTime": 545.992,
+    "text": "and hopefully collaboration within African countries."
+  },
+  {
+    "startTime": 545.992,
+    "endTime": 550.9639999999999,
+    "text": "The idea is that the building blocks of the digital economy"
+  },
+  {
+    "startTime": 550.964,
+    "endTime": 554.4830000000001,
+    "text": "are connectivity and entrepreneurship."
+  },
+  {
+    "startTime": 554.483,
+    "endTime": 556.923,
+    "text": "The BRCK is our part"
+  },
+  {
+    "startTime": 556.923,
+    "endTime": 559.507,
+    "text": "to keep Africans connected,"
+  },
+  {
+    "startTime": 559.507,
+    "endTime": 563.29,
+    "text": "and to help them drive the global digital revolution."
+  },
+  {
+    "startTime": 563.291,
+    "endTime": 564.5050000000001,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 564.505,
+    "endTime": 568.744,
+    "text": "(Applause)"
+  }
+]
