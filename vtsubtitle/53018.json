@@ -1,0 +1,817 @@
+[
+  {
+    "startTime": 22.369,
+    "endTime": 25.151,
+    "text": "One year ago I acquired a social disease"
+  },
+  {
+    "startTime": 25.151,
+    "endTime": 28.726,
+    "text": "and in the next 10 minutes I'm hoping you will get it too."
+  },
+  {
+    "startTime": 28.726,
+    "endTime": 30.149,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 30.149,
+    "endTime": 33.296,
+    "text": "Forewarned is forearmed."
+  },
+  {
+    "startTime": 33.296,
+    "endTime": 37.481,
+    "text": "Our, our - Sorry. Our story -"
+  },
+  {
+    "startTime": 37.481,
+    "endTime": 42.576,
+    "text": "Our story begins with what it's all about."
+  },
+  {
+    "startTime": 42.576,
+    "endTime": 45.036,
+    "text": "This is young Shea and as you can see,"
+  },
+  {
+    "startTime": 45.036,
+    "endTime": 47.437,
+    "text": "she's missing the fingers on her right hand."
+  },
+  {
+    "startTime": 47.437,
+    "endTime": 50.824999999999996,
+    "text": "But at this moment she's teaming up with a member of e-NABLE"
+  },
+  {
+    "startTime": 50.825,
+    "endTime": 57.415000000000006,
+    "text": "to try on this 3D printed prosthetic hand, given to her for free"
+  },
+  {
+    "startTime": 57.415,
+    "endTime": 60.058,
+    "text": "and she likes it and she smiles."
+  },
+  {
+    "startTime": 60.058,
+    "endTime": 64.991,
+    "text": "And is this just the best thing ever or what?"
+  },
+  {
+    "startTime": 64.991,
+    "endTime": 70.451,
+    "text": "Our story begins when this South African carpenter on the right"
+  },
+  {
+    "startTime": 70.451,
+    "endTime": 73.205,
+    "text": "cut the fingers off of his hand in an accident."
+  },
+  {
+    "startTime": 73.205,
+    "endTime": 76.019,
+    "text": "Discovered that prosthetics are unbelievably expensive"
+  },
+  {
+    "startTime": 76.019,
+    "endTime": 80.87700000000001,
+    "text": "and virtually unavailable if you've got a good hand but no fingers"
+  },
+  {
+    "startTime": 80.877,
+    "endTime": 85.455,
+    "text": "and he teamed up with Ivan Owen, a prop maker"
+  },
+  {
+    "startTime": 85.455,
+    "endTime": 88.215,
+    "text": "and puppeteer in the Pacific Northwest,"
+  },
+  {
+    "startTime": 88.215,
+    "endTime": 95.917,
+    "text": "and together they designed a 3D printable prosthetic hand."
+  },
+  {
+    "startTime": 95.917,
+    "endTime": 101.214,
+    "text": "Richard Van As, the carpenter, made a YouTube video 1 year ago,"
+  },
+  {
+    "startTime": 101.214,
+    "endTime": 106.478,
+    "text": "which I found, and in it he mentioned that he had discovered his invention"
+  },
+  {
+    "startTime": 106.478,
+    "endTime": 110.806,
+    "text": "would also help the approximately 1 in 2,000 children"
+  },
+  {
+    "startTime": 110.806,
+    "endTime": 113.812,
+    "text": "who are born missing fingers or hands or wrists."
+  },
+  {
+    "startTime": 113.812,
+    "endTime": 119.456,
+    "text": "That he was open sourcing the design and suddenly I perked up."
+  },
+  {
+    "startTime": 119.456,
+    "endTime": 122.405,
+    "text": "Because a year earlier I had been at a conference"
+  },
+  {
+    "startTime": 122.405,
+    "endTime": 125.229,
+    "text": "of the National Collegiate Inventors and Innovators Alliance"
+  },
+  {
+    "startTime": 125.229,
+    "endTime": 127.89,
+    "text": "and I went to not 1, but 2 talks,"
+  },
+  {
+    "startTime": 127.89,
+    "endTime": 131.239,
+    "text": "in which engineering professors"
+  },
+  {
+    "startTime": 131.239,
+    "endTime": 134.798,
+    "text": "reported that they'd taken a team of engineering students,"
+  },
+  {
+    "startTime": 134.798,
+    "endTime": 137.629,
+    "text": "teamed them up with someone who needed a custom prosthetic"
+  },
+  {
+    "startTime": 137.629,
+    "endTime": 140.119,
+    "text": "and together, by the end of the year,"
+  },
+  {
+    "startTime": 140.119,
+    "endTime": 143.788,
+    "text": "the client had a new custom prosthetic and a changed life."
+  },
+  {
+    "startTime": 143.788,
+    "endTime": 147.668,
+    "text": "The students felt great, the professor gave them an A,"
+  },
+  {
+    "startTime": 147.668,
+    "endTime": 152.11700000000002,
+    "text": "and after the second of these presentations I asked a question."
+  },
+  {
+    "startTime": 152.117,
+    "endTime": 154.44199999999998,
+    "text": "It occurred to me that if they had one person"
+  },
+  {
+    "startTime": 154.442,
+    "endTime": 156.83700000000002,
+    "text": "who needed a custom prosthetic in their home town,"
+  },
+  {
+    "startTime": 156.837,
+    "endTime": 159.732,
+    "text": "there were probably another 100,000 people around the world"
+  },
+  {
+    "startTime": 159.732,
+    "endTime": 164.178,
+    "text": "who would benefit from the very same basic design."
+  },
+  {
+    "startTime": 164.178,
+    "endTime": 167.18099999999998,
+    "text": "Did they have any way of disseminating, distributing these,"
+  },
+  {
+    "startTime": 167.181,
+    "endTime": 169.056,
+    "text": "making these available to other people?"
+  },
+  {
+    "startTime": 169.056,
+    "endTime": 170.781,
+    "text": "Their answer was, \"Well actually no."
+  },
+  {
+    "startTime": 170.781,
+    "endTime": 174.066,
+    "text": "The projects go into a filing cabinet, the students go and get jobs"
+  },
+  {
+    "startTime": 174.066,
+    "endTime": 176.77100000000002,
+    "text": "and I start preparing my next course.\""
+  },
+  {
+    "startTime": 176.771,
+    "endTime": 180.759,
+    "text": "I immediately had a grandiose and complicated vision"
+  },
+  {
+    "startTime": 180.759,
+    "endTime": 184.357,
+    "text": "for a multi-university consortium (Laughter)"
+  },
+  {
+    "startTime": 184.357,
+    "endTime": 187.797,
+    "text": "that would collaboratively develop, disseminate these designs,"
+  },
+  {
+    "startTime": 187.797,
+    "endTime": 189.524,
+    "text": "allow students to add to them,"
+  },
+  {
+    "startTime": 189.524,
+    "endTime": 192.442,
+    "text": "and of course also make use of and emerging network,"
+  },
+  {
+    "startTime": 192.442,
+    "endTime": 196.23000000000002,
+    "text": "that was anticipated of 3D printers."
+  },
+  {
+    "startTime": 196.23,
+    "endTime": 198.058,
+    "text": "But if you're familar with academia,"
+  },
+  {
+    "startTime": 198.058,
+    "endTime": 202.14,
+    "text": "you know that getting even one university to agree with itself is impossible."
+  },
+  {
+    "startTime": 202.14,
+    "endTime": 203.307,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 203.307,
+    "endTime": 205.93699999999998,
+    "text": "And after a few months I gave up."
+  },
+  {
+    "startTime": 205.937,
+    "endTime": 210.387,
+    "text": "But when I saw this video 1 year ago, I did something simple."
+  },
+  {
+    "startTime": 210.387,
+    "endTime": 216.53,
+    "text": "I took 20 mintues, rather than preparing my own course, and I created a Google map"
+  },
+  {
+    "startTime": 216.53,
+    "endTime": 220.947,
+    "text": "and I added a comment to the YouTube video saying,"
+  },
+  {
+    "startTime": 220.947,
+    "endTime": 226.963,
+    "text": "\"If you have a printer or need a hand, put yourself on this map.\""
+  },
+  {
+    "startTime": 226.963,
+    "endTime": 230.802,
+    "text": "Because as you know Youtube video comments are rarely inspirational."
+  },
+  {
+    "startTime": 230.802,
+    "endTime": 233.513,
+    "text": "But in this case - (Laughter)"
+  },
+  {
+    "startTime": 233.513,
+    "endTime": 238.375,
+    "text": "I saw 2 comments saying, you know, \"I got a printer. I would do this.\""
+  },
+  {
+    "startTime": 238.375,
+    "endTime": 242.049,
+    "text": "So I called their bluff and they called mine."
+  },
+  {
+    "startTime": 242.049,
+    "endTime": 247.512,
+    "text": "I had set up a simple map and I described it as"
+  },
+  {
+    "startTime": 247.512,
+    "endTime": 252.53,
+    "text": "\"a global, volunteer assistive technology network built on an infrastructure"
+  },
+  {
+    "startTime": 252.53,
+    "endTime": 257.346,
+    "text": "of electronic communications, 3D printing, and good will.\""
+  },
+  {
+    "startTime": 257.346,
+    "endTime": 261.146,
+    "text": "And this I think may be a really important recipe."
+  },
+  {
+    "startTime": 261.146,
+    "endTime": 264.935,
+    "text": "Within 6 weeks, we had 70 people on the map,"
+  },
+  {
+    "startTime": 264.935,
+    "endTime": 268.719,
+    "text": "and it actually began to work as fantasized."
+  },
+  {
+    "startTime": 268.719,
+    "endTime": 275.248,
+    "text": "Here's the story: people become aware of a 3D printed hand,"
+  },
+  {
+    "startTime": 275.248,
+    "endTime": 279.509,
+    "text": "they go to a website called \"Thingiverse\", they download this thing,"
+  },
+  {
+    "startTime": 279.509,
+    "endTime": 283.487,
+    "text": "and what they actually get is a 3D model which they can customize to fit"
+  },
+  {
+    "startTime": 283.487,
+    "endTime": 286.209,
+    "text": "the needs of a particular individual."
+  },
+  {
+    "startTime": 286.209,
+    "endTime": 289.727,
+    "text": "They then use a 3D printer which is bascially a glue gun"
+  },
+  {
+    "startTime": 289.727,
+    "endTime": 295.512,
+    "text": "on a mechanical arm that lays down really thin layer by layer of plastic"
+  },
+  {
+    "startTime": 295.512,
+    "endTime": 299.342,
+    "text": "which immediately hardens to become these kinds of pieces."
+  },
+  {
+    "startTime": 299.342,
+    "endTime": 301.59,
+    "text": "The pieces are then assembled by hand"
+  },
+  {
+    "startTime": 301.59,
+    "endTime": 303.878,
+    "text": "in a process that can take a number of hours,"
+  },
+  {
+    "startTime": 303.878,
+    "endTime": 307.40799999999996,
+    "text": "although we are making the designs easier and easier."
+  },
+  {
+    "startTime": 307.408,
+    "endTime": 313.43100000000004,
+    "text": "And once assembled, these are then custom-fit to the client."
+  },
+  {
+    "startTime": 313.431,
+    "endTime": 317.361,
+    "text": "And the client can pick up a spoon."
+  },
+  {
+    "startTime": 317.361,
+    "endTime": 322.45099999999996,
+    "text": "The client gets to pick up a cup."
+  },
+  {
+    "startTime": 322.451,
+    "endTime": 326.961,
+    "text": "The client gets to be the coolest kid in the class,"
+  },
+  {
+    "startTime": 326.961,
+    "endTime": 332.342,
+    "text": "having previously been, you know, that odd kid with the funny hand."
+  },
+  {
+    "startTime": 332.342,
+    "endTime": 338.786,
+    "text": "They love it."
+  },
+  {
+    "startTime": 338.786,
+    "endTime": 344.33,
+    "text": "So that was a year ago."
+  },
+  {
+    "startTime": 344.33,
+    "endTime": 350.859,
+    "text": "One of our members and I developed this Google Plus community,"
+  },
+  {
+    "startTime": 350.859,
+    "endTime": 354.888,
+    "text": "which has been growing by about 10% a week since we started it."
+  },
+  {
+    "startTime": 354.888,
+    "endTime": 359.46799999999996,
+    "text": "We crossed the 1,000-member mark this week."
+  },
+  {
+    "startTime": 359.468,
+    "endTime": 364.18,
+    "text": "A high school student created a facebook page."
+  },
+  {
+    "startTime": 364.18,
+    "endTime": 368.741,
+    "text": "Another member now maintains the website which is our go-to place."
+  },
+  {
+    "startTime": 368.741,
+    "endTime": 375.84,
+    "text": "It's called E-NablingTheFuture.org and we seem to have unleashed"
+  },
+  {
+    "startTime": 375.84,
+    "endTime": 379.75,
+    "text": "a virtual Cambrian explosion of innovative hand designs."
+  },
+  {
+    "startTime": 379.75,
+    "endTime": 383.668,
+    "text": "This is the original MakerBot Robohand,"
+  },
+  {
+    "startTime": 383.668,
+    "endTime": 390.046,
+    "text": "but in fact it spawned the Cyborg Beast, which is what Shea has."
+  },
+  {
+    "startTime": 390.046,
+    "endTime": 394.304,
+    "text": "And then Peregrine Hawthorne, which is his real name,"
+  },
+  {
+    "startTime": 394.304,
+    "endTime": 400.02799999999996,
+    "text": "is a 19-year-old who worked with his dad to produce this called the talon hand."
+  },
+  {
+    "startTime": 400.028,
+    "endTime": 403.158,
+    "text": "Which Peregrine, when he got his 2.0 talon hand,"
+  },
+  {
+    "startTime": 403.158,
+    "endTime": 406.834,
+    "text": "discovered that he was crushing a soda can while sitting at the bus station."
+  },
+  {
+    "startTime": 406.834,
+    "endTime": 408.657,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 408.657,
+    "endTime": 413.048,
+    "text": "And they are recombining like hybrid species."
+  },
+  {
+    "startTime": 413.048,
+    "endTime": 418.847,
+    "text": "So we have a talon beast and in fact an Ody Hand,"
+  },
+  {
+    "startTime": 418.847,
+    "endTime": 421.16999999999996,
+    "text": "which has three fingers for young Odysseus,"
+  },
+  {
+    "startTime": 421.17,
+    "endTime": 424.00800000000004,
+    "text": "a 6-year-old in Greece whose hand was too small."
+  },
+  {
+    "startTime": 424.008,
+    "endTime": 429.183,
+    "text": "He needed something that would require less mechanical pressure,"
+  },
+  {
+    "startTime": 429.183,
+    "endTime": 432.348,
+    "text": "and indeed the kids and the parents who are making these"
+  },
+  {
+    "startTime": 432.348,
+    "endTime": 435.187,
+    "text": "are becoming part of the design process as well."
+  },
+  {
+    "startTime": 435.187,
+    "endTime": 437.04900000000004,
+    "text": "This is Luke Dennison."
+  },
+  {
+    "startTime": 437.049,
+    "endTime": 440.947,
+    "text": "We call him cool hand Luke, because his dad Greg -"
+  },
+  {
+    "startTime": 440.947,
+    "endTime": 444.539,
+    "text": "because his dad Greg, who learned how to do 3D printing"
+  },
+  {
+    "startTime": 444.539,
+    "endTime": 446.781,
+    "text": "from another dad in our community,"
+  },
+  {
+    "startTime": 446.781,
+    "endTime": 451.363,
+    "text": "realized that he'd be better off with a thumb on each side of his hand."
+  },
+  {
+    "startTime": 451.363,
+    "endTime": 453.853,
+    "text": "It's not just the dads who are adding to the design."
+  },
+  {
+    "startTime": 453.853,
+    "endTime": 456.09700000000004,
+    "text": "This is Tully in North Carolina."
+  },
+  {
+    "startTime": 456.097,
+    "endTime": 458.715,
+    "text": "Tully was asked, \"What color would you like your hand?\""
+  },
+  {
+    "startTime": 458.715,
+    "endTime": 462.11899999999997,
+    "text": "He said, \"Could it glow in the dark?\" (Laughter)"
+  },
+  {
+    "startTime": 462.119,
+    "endTime": 466.062,
+    "text": "That is a really good idea. (Laughter)"
+  },
+  {
+    "startTime": 466.062,
+    "endTime": 470.64300000000003,
+    "text": "For that matter, 2 weeks ago I sat down with young Derek"
+  },
+  {
+    "startTime": 470.643,
+    "endTime": 473.926,
+    "text": "whose arm ends around here and while I'm carefully explaining to him"
+  },
+  {
+    "startTime": 473.926,
+    "endTime": 475.19,
+    "text": "what we're working on,"
+  },
+  {
+    "startTime": 475.19,
+    "endTime": 478.84499999999997,
+    "text": "he took the demo model I had and another demo model that I had"
+  },
+  {
+    "startTime": 478.845,
+    "endTime": 480.50500000000005,
+    "text": "and he put them together and said,"
+  },
+  {
+    "startTime": 480.505,
+    "endTime": 484.29699999999997,
+    "text": "\"I want mine to be this long.\" Also a good idea."
+  },
+  {
+    "startTime": 484.297,
+    "endTime": 488.76700000000005,
+    "text": "Why shouldn't he be the kid who can reach for the top of the shelf"
+  },
+  {
+    "startTime": 488.767,
+    "endTime": 492.477,
+    "text": "where other kids can't?"
+  },
+  {
+    "startTime": 492.477,
+    "endTime": 495.97999999999996,
+    "text": "The kids love the fact that they look like toys."
+  },
+  {
+    "startTime": 495.98,
+    "endTime": 498.411,
+    "text": "They give them superpowers, they love that part."
+  },
+  {
+    "startTime": 498.411,
+    "endTime": 500.033,
+    "text": "But they're not actually toys."
+  },
+  {
+    "startTime": 500.033,
+    "endTime": 503.26300000000003,
+    "text": "There was a piece on Fox News about a month ago"
+  },
+  {
+    "startTime": 503.263,
+    "endTime": 508.51399999999995,
+    "text": "in which Jose Delgado demonstrated his really cool $42,000 prosthetic arm."
+  },
+  {
+    "startTime": 508.514,
+    "endTime": 512.182,
+    "text": "And he said: \"Look I can press this button and my fingers will open,"
+  },
+  {
+    "startTime": 512.182,
+    "endTime": 515.612,
+    "text": "and I can press this button and my fingers will close."
+  },
+  {
+    "startTime": 515.612,
+    "endTime": 517.4169999999999,
+    "text": "But I like yours better,\" he said,"
+  },
+  {
+    "startTime": 517.417,
+    "endTime": 524.287,
+    "text": "and ours cost about $20 in materials and is given to him for free."
+  },
+  {
+    "startTime": 524.287,
+    "endTime": 529.431,
+    "text": "We now are taking E-Nable Tables to Maker fairs through ImagineRIT."
+  },
+  {
+    "startTime": 529.431,
+    "endTime": 533.0250000000001,
+    "text": "We're developing Hand-O-Matic software for public libraries"
+  },
+  {
+    "startTime": 533.025,
+    "endTime": 536.869,
+    "text": "where you put your hand in front of the webcam, it takes some pictures,"
+  },
+  {
+    "startTime": 536.869,
+    "endTime": 538.738,
+    "text": "gives you measurements and the model,"
+  },
+  {
+    "startTime": 538.738,
+    "endTime": 543.3670000000001,
+    "text": "and if there's a 3D printer there, you get your hand."
+  },
+  {
+    "startTime": 543.367,
+    "endTime": 548.081,
+    "text": "And we are growing like crazy and this is the point"
+  },
+  {
+    "startTime": 548.081,
+    "endTime": 551.668,
+    "text": "where you get to acquire the social disease as well."
+  },
+  {
+    "startTime": 551.668,
+    "endTime": 557.719,
+    "text": "What you see here, hot off the presses - as we used to say in the print business -"
+  },
+  {
+    "startTime": 557.719,
+    "endTime": 562.369,
+    "text": "is the first active opening and closing prosthetic arm."
+  },
+  {
+    "startTime": 562.369,
+    "endTime": 564.119,
+    "text": "We actually use some elbow motion"
+  },
+  {
+    "startTime": 564.119,
+    "endTime": 566.927,
+    "text": "and I actually got to do some engineering for the first time"
+  },
+  {
+    "startTime": 566.927,
+    "endTime": 569.309,
+    "text": "because there's just a little bit of Cordage here"
+  },
+  {
+    "startTime": 569.309,
+    "endTime": 571.937,
+    "text": "that causes it to pull open as well as pull close."
+  },
+  {
+    "startTime": 571.937,
+    "endTime": 575.094,
+    "text": "It's a little thin, but here's the big thing."
+  },
+  {
+    "startTime": 575.094,
+    "endTime": 576.663,
+    "text": "This had to be made in 3 parts"
+  },
+  {
+    "startTime": 576.663,
+    "endTime": 581.967,
+    "text": "because our printer is not large enough for a grownup-sized arm."
+  },
+  {
+    "startTime": 581.967,
+    "endTime": 585.2379999999999,
+    "text": "There's a contest going on this week"
+  },
+  {
+    "startTime": 585.238,
+    "endTime": 591.099,
+    "text": "for a 2 foot by 2 foot arm-sized 3D printer,"
+  },
+  {
+    "startTime": 591.099,
+    "endTime": 595.2810000000001,
+    "text": "and if you look in the Flower City Twitter stream,"
+  },
+  {
+    "startTime": 595.281,
+    "endTime": 599.082,
+    "text": "you'll find that there's a link where you can press a button to vote for us,"
+  },
+  {
+    "startTime": 599.082,
+    "endTime": 605.182,
+    "text": "so that we will win a $6,000 2 foot by 2 foot Gigabot computer"
+  },
+  {
+    "startTime": 605.182,
+    "endTime": 608.352,
+    "text": "and you too will have been inducted into the cult."
+  },
+  {
+    "startTime": 608.352,
+    "endTime": 611.571,
+    "text": "If that's not your game there's a lot more you can do."
+  },
+  {
+    "startTime": 611.571,
+    "endTime": 613.739,
+    "text": "We are trying to organize."
+  },
+  {
+    "startTime": 613.739,
+    "endTime": 617.109,
+    "text": "We have people who love 3D printers and don't particularly like people."
+  },
+  {
+    "startTime": 617.109,
+    "endTime": 620.287,
+    "text": "There are people who love people and don't understand 3D printers."
+  },
+  {
+    "startTime": 620.287,
+    "endTime": 624.33,
+    "text": "There are people who are organizing so that we can accept donations,"
+  },
+  {
+    "startTime": 624.33,
+    "endTime": 628.2570000000001,
+    "text": "about which I will be happy to entertain any questions you may have."
+  },
+  {
+    "startTime": 628.257,
+    "endTime": 629.952,
+    "text": "We would like you to join us."
+  },
+  {
+    "startTime": 629.952,
+    "endTime": 631.433,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 631.433,
+    "endTime": 641.433,
+    "text": "(Applause)"
+  }
+]
