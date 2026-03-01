@@ -1,0 +1,422 @@
+[
+  {
+    "startTime": 7.785,
+    "endTime": 9.304,
+    "text": "In the world of math,"
+  },
+  {
+    "startTime": 9.304,
+    "endTime": 13.384,
+    "text": "many strange results are possible  when we change the rules."
+  },
+  {
+    "startTime": 13.384,
+    "endTime": 17.226,
+    "text": "But there's one rule that most of us  have been warned not to break:"
+  },
+  {
+    "startTime": 17.226,
+    "endTime": 19.605,
+    "text": "don't divide by zero."
+  },
+  {
+    "startTime": 19.605,
+    "endTime": 22.584,
+    "text": "How can the simple combination  of an everyday number"
+  },
+  {
+    "startTime": 22.584,
+    "endTime": 26.463,
+    "text": "and a basic operation  cause such problems?"
+  },
+  {
+    "startTime": 26.463,
+    "endTime": 29.693,
+    "text": "Normally, dividing by smaller  and smaller numbers"
+  },
+  {
+    "startTime": 29.693,
+    "endTime": 32.32,
+    "text": "gives you bigger and bigger answers."
+  },
+  {
+    "startTime": 32.32,
+    "endTime": 34.844,
+    "text": "Ten divided by two is five,"
+  },
+  {
+    "startTime": 34.844,
+    "endTime": 36.443,
+    "text": "by one is ten,"
+  },
+  {
+    "startTime": 36.443,
+    "endTime": 39.22,
+    "text": "by one-millionth is 10 million,"
+  },
+  {
+    "startTime": 39.22,
+    "endTime": 39.98,
+    "text": "and so on."
+  },
+  {
+    "startTime": 39.98,
+    "endTime": 42.291,
+    "text": "So it seems like if you divide by numbers"
+  },
+  {
+    "startTime": 42.291,
+    "endTime": 44.9,
+    "text": "that keep shrinking  all the way down to zero,"
+  },
+  {
+    "startTime": 44.9,
+    "endTime": 48.61,
+    "text": "the answer will grow  to the largest thing possible."
+  },
+  {
+    "startTime": 48.61,
+    "endTime": 52.723,
+    "text": "Then, isn't the answer to 10  divided by zero actually infinity?"
+  },
+  {
+    "startTime": 52.723,
+    "endTime": 54.683,
+    "text": "That may sound plausible."
+  },
+  {
+    "startTime": 54.683,
+    "endTime": 57.733,
+    "text": "But all we really know is  that if we divide 10"
+  },
+  {
+    "startTime": 57.733,
+    "endTime": 60.674,
+    "text": "by a number that tends towards zero,"
+  },
+  {
+    "startTime": 60.674,
+    "endTime": 63.734,
+    "text": "the answer tends towards infinity."
+  },
+  {
+    "startTime": 63.734,
+    "endTime": 67.864,
+    "text": "And that's not the same thing as saying that 10 divided by zero"
+  },
+  {
+    "startTime": 67.864,
+    "endTime": 70.51400000000001,
+    "text": "is equal to infinity."
+  },
+  {
+    "startTime": 70.514,
+    "endTime": 71.833,
+    "text": "Why not?"
+  },
+  {
+    "startTime": 71.833,
+    "endTime": 76.222,
+    "text": "Well, let's take a closer look  at what division really means."
+  },
+  {
+    "startTime": 76.222,
+    "endTime": 78.574,
+    "text": "Ten divided by two could mean,"
+  },
+  {
+    "startTime": 78.574,
+    "endTime": 82.67,
+    "text": "\"How many times must  we add two together to make 10,”"
+  },
+  {
+    "startTime": 82.671,
+    "endTime": 86.113,
+    "text": "or, “two times what equals 10?”"
+  },
+  {
+    "startTime": 86.113,
+    "endTime": 90.453,
+    "text": "Dividing by a number is essentially  the reverse of multiplying by it,"
+  },
+  {
+    "startTime": 90.453,
+    "endTime": 92.401,
+    "text": "in the following way:"
+  },
+  {
+    "startTime": 92.401,
+    "endTime": 95.423,
+    "text": "if we multiply any number  by a given number x,"
+  },
+  {
+    "startTime": 95.423,
+    "endTime": 99.653,
+    "text": "we can ask if there's a new number  we can multiply by afterwards"
+  },
+  {
+    "startTime": 99.653,
+    "endTime": 102.286,
+    "text": "to get back to where we started."
+  },
+  {
+    "startTime": 102.286,
+    "endTime": 107.344,
+    "text": "If there is, the new number is called  the multiplicative inverse of x."
+  },
+  {
+    "startTime": 107.344,
+    "endTime": 111.445,
+    "text": "For example, if you multiply  three by two to get six,"
+  },
+  {
+    "startTime": 111.445,
+    "endTime": 115.564,
+    "text": "you can then multiply  by one-half to get back to three."
+  },
+  {
+    "startTime": 115.564,
+    "endTime": 119.39299999999999,
+    "text": "So the multiplicative inverse  of two is one-half,"
+  },
+  {
+    "startTime": 119.394,
+    "endTime": 123.964,
+    "text": "and the multiplicative inverse  of 10 is one-tenth."
+  },
+  {
+    "startTime": 123.964,
+    "endTime": 129.234,
+    "text": "As you might notice, the product of any number and its multiplicative inverse"
+  },
+  {
+    "startTime": 129.234,
+    "endTime": 131.264,
+    "text": "is always one."
+  },
+  {
+    "startTime": 131.264,
+    "endTime": 133.46300000000002,
+    "text": "If we want to divide by zero,"
+  },
+  {
+    "startTime": 133.463,
+    "endTime": 135.843,
+    "text": "we need to find  its multiplicative inverse,"
+  },
+  {
+    "startTime": 135.843,
+    "endTime": 139.143,
+    "text": "which should be one over zero."
+  },
+  {
+    "startTime": 139.144,
+    "endTime": 144.972,
+    "text": "This would have to be such a number that multiplying it by zero would give one."
+  },
+  {
+    "startTime": 144.972,
+    "endTime": 149.143,
+    "text": "But because anything multiplied by zero is still zero,"
+  },
+  {
+    "startTime": 149.143,
+    "endTime": 151.556,
+    "text": "such a number is impossible,"
+  },
+  {
+    "startTime": 151.556,
+    "endTime": 154.842,
+    "text": "so zero has no multiplicative inverse."
+  },
+  {
+    "startTime": 154.842,
+    "endTime": 157.34300000000002,
+    "text": "Does that really settle things, though?"
+  },
+  {
+    "startTime": 157.343,
+    "endTime": 160.982,
+    "text": "After all, mathematicians  have broken rules before."
+  },
+  {
+    "startTime": 160.983,
+    "endTime": 162.713,
+    "text": "For example, for a long time,"
+  },
+  {
+    "startTime": 162.713,
+    "endTime": 166.774,
+    "text": "there was no such thing as taking  the square root of negative numbers."
+  },
+  {
+    "startTime": 166.774,
+    "endTime": 170.861,
+    "text": "But then mathematicians defined  the square root of negative one"
+  },
+  {
+    "startTime": 170.861,
+    "endTime": 173.284,
+    "text": "as a new number called i,"
+  },
+  {
+    "startTime": 173.284,
+    "endTime": 177.803,
+    "text": "opening up a whole new mathematical world of complex numbers."
+  },
+  {
+    "startTime": 177.803,
+    "endTime": 179.245,
+    "text": "So if they can do that,"
+  },
+  {
+    "startTime": 179.245,
+    "endTime": 181.203,
+    "text": "couldn't we just make up a new rule,"
+  },
+  {
+    "startTime": 181.203,
+    "endTime": 185.264,
+    "text": "say, that the symbol infinity  means one over zero,"
+  },
+  {
+    "startTime": 185.264,
+    "endTime": 187.543,
+    "text": "and see what happens?"
+  },
+  {
+    "startTime": 187.543,
+    "endTime": 188.59300000000002,
+    "text": "Let's try it,"
+  },
+  {
+    "startTime": 188.593,
+    "endTime": 191.72199999999998,
+    "text": "imagining we don't know  anything about infinity already."
+  },
+  {
+    "startTime": 191.723,
+    "endTime": 194.292,
+    "text": "Based on the definition  of a multiplicative inverse,"
+  },
+  {
+    "startTime": 194.292,
+    "endTime": 198.474,
+    "text": "zero times infinity must be equal to one."
+  },
+  {
+    "startTime": 198.474,
+    "endTime": 204.53,
+    "text": "That means zero times infinity plus zero times infinity should equal two."
+  },
+  {
+    "startTime": 204.53,
+    "endTime": 206.487,
+    "text": "Now, by the distributive property,"
+  },
+  {
+    "startTime": 206.487,
+    "endTime": 209.388,
+    "text": "the left side of the equation  can be rearranged"
+  },
+  {
+    "startTime": 209.388,
+    "endTime": 212.619,
+    "text": "to zero plus zero times infinity."
+  },
+  {
+    "startTime": 212.619,
+    "endTime": 216.188,
+    "text": "And since zero plus zero  is definitely zero,"
+  },
+  {
+    "startTime": 216.188,
+    "endTime": 220.48,
+    "text": "that reduces down to zero times infinity."
+  },
+  {
+    "startTime": 220.49,
+    "endTime": 223.717,
+    "text": "Unfortunately, we've already defined  this as equal to one,"
+  },
+  {
+    "startTime": 223.717,
+    "endTime": 228.353,
+    "text": "while the other side of the equation  is still telling us it's equal to two."
+  },
+  {
+    "startTime": 228.353,
+    "endTime": 231.238,
+    "text": "So, one equals two."
+  },
+  {
+    "startTime": 231.238,
+    "endTime": 234.464,
+    "text": "Oddly enough,  that's not necessarily wrong;"
+  },
+  {
+    "startTime": 234.464,
+    "endTime": 238.132,
+    "text": "it's just not true  in our normal world of numbers."
+  },
+  {
+    "startTime": 238.132,
+    "endTime": 240.714,
+    "text": "There's still a way it could be mathematically valid,"
+  },
+  {
+    "startTime": 240.714,
+    "endTime": 245.221,
+    "text": "if one, two, and every other number  were equal to zero."
+  },
+  {
+    "startTime": 245.221,
+    "endTime": 247.714,
+    "text": "But having infinity equal to zero"
+  },
+  {
+    "startTime": 247.714,
+    "endTime": 252.884,
+    "text": "is ultimately not all that useful  to mathematicians, or anyone else."
+  },
+  {
+    "startTime": 252.884,
+    "endTime": 256.113,
+    "text": "There actually is something called  the Riemann sphere"
+  },
+  {
+    "startTime": 256.113,
+    "endTime": 259.409,
+    "text": "that involves dividing by zero  by a different method,"
+  },
+  {
+    "startTime": 259.409,
+    "endTime": 261.772,
+    "text": "but that's a story for another day."
+  },
+  {
+    "startTime": 261.773,
+    "endTime": 265.96500000000003,
+    "text": "In the meantime, dividing by zero  in the most obvious way"
+  },
+  {
+    "startTime": 265.965,
+    "endTime": 267.73199999999997,
+    "text": "doesn't work out so great."
+  },
+  {
+    "startTime": 267.733,
+    "endTime": 270.674,
+    "text": "But that shouldn't stop us  from living dangerously"
+  },
+  {
+    "startTime": 270.674,
+    "endTime": 273.604,
+    "text": "and experimenting  with breaking mathematical rules"
+  },
+  {
+    "startTime": 273.605,
+    "endTime": 277.483,
+    "text": "to see if we can invent  fun, new worlds to explore."
+  }
+]

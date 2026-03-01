@@ -1,0 +1,892 @@
+[
+  {
+    "startTime": 7.63,
+    "endTime": 15.37,
+    "text": "I am a translator I translate from"
+  },
+  {
+    "startTime": 15.37,
+    "endTime": 18.4,
+    "text": "biology into mathematics and vice versa"
+  },
+  {
+    "startTime": 18.4,
+    "endTime": 21.79,
+    "text": "I write mathematical models which in my"
+  },
+  {
+    "startTime": 21.79,
+    "endTime": 23.2,
+    "text": "case are systems of differential"
+  },
+  {
+    "startTime": 23.2,
+    "endTime": 25.36,
+    "text": "equations to describe biological"
+  },
+  {
+    "startTime": 25.36,
+    "endTime": 27.689,
+    "text": "mechanisms such as cell growth"
+  },
+  {
+    "startTime": 27.689,
+    "endTime": 29.82,
+    "text": "essentially it works like this"
+  },
+  {
+    "startTime": 29.82,
+    "endTime": 33.16,
+    "text": "first identify the key elements that I"
+  },
+  {
+    "startTime": 33.16,
+    "endTime": 35.17,
+    "text": "believe may be driving behavior over"
+  },
+  {
+    "startTime": 35.17,
+    "endTime": 38.77,
+    "text": "time of a particular mechanism then I"
+  },
+  {
+    "startTime": 38.77,
+    "endTime": 40.9,
+    "text": "formulate assumptions about how these"
+  },
+  {
+    "startTime": 40.9,
+    "endTime": 42.91,
+    "text": "elements interact with each other and"
+  },
+  {
+    "startTime": 42.91,
+    "endTime": 44.14,
+    "text": "with their environment"
+  },
+  {
+    "startTime": 44.14,
+    "endTime": 47.35,
+    "text": "may look something like this then I"
+  },
+  {
+    "startTime": 47.35,
+    "endTime": 49.06,
+    "text": "translate these assumptions into"
+  },
+  {
+    "startTime": 49.06,
+    "endTime": 51.52,
+    "text": "equations which may look something like"
+  },
+  {
+    "startTime": 51.52,
+    "endTime": 52.83,
+    "text": "this"
+  },
+  {
+    "startTime": 52.83,
+    "endTime": 55.39,
+    "text": "finally I analyze my equations and"
+  },
+  {
+    "startTime": 55.39,
+    "endTime": 57.01,
+    "text": "translate the results back into the"
+  },
+  {
+    "startTime": 57.01,
+    "endTime": 61.21,
+    "text": "language of biology a key aspect of"
+  },
+  {
+    "startTime": 61.21,
+    "endTime": 63.34,
+    "text": "mathematical modeling is that we as"
+  },
+  {
+    "startTime": 63.34,
+    "endTime": 65.53,
+    "text": "modelers do not think about what things"
+  },
+  {
+    "startTime": 65.53,
+    "endTime": 68.71,
+    "text": "are we think about what they do we think"
+  },
+  {
+    "startTime": 68.71,
+    "endTime": 70.689,
+    "text": "about relationships between individuals"
+  },
+  {
+    "startTime": 70.689,
+    "endTime": 73.03,
+    "text": "whether they be cells animals or people"
+  },
+  {
+    "startTime": 73.03,
+    "endTime": 75.219,
+    "text": "and how they interact with each other"
+  },
+  {
+    "startTime": 75.219,
+    "endTime": 77.979,
+    "text": "and with their environment let me give"
+  },
+  {
+    "startTime": 77.979,
+    "endTime": 78.929,
+    "text": "you an example"
+  },
+  {
+    "startTime": 78.929,
+    "endTime": 82.719,
+    "text": "what do foxes and immune cells have in"
+  },
+  {
+    "startTime": 82.719,
+    "endTime": 87.13,
+    "text": "common they're both predators except"
+  },
+  {
+    "startTime": 87.13,
+    "endTime": 90.189,
+    "text": "foxes feed on rabbits and Orion cells"
+  },
+  {
+    "startTime": 90.189,
+    "endTime": 92.38,
+    "text": "feed on invaders such as cancer cells"
+  },
+  {
+    "startTime": 92.38,
+    "endTime": 95.52,
+    "text": "but from a mathematical point of view a"
+  },
+  {
+    "startTime": 95.52,
+    "endTime": 98.17,
+    "text": "qualitatively same system of predator"
+  },
+  {
+    "startTime": 98.17,
+    "endTime": 100.359,
+    "text": "prey type equations will describe"
+  },
+  {
+    "startTime": 100.359,
+    "endTime": 102.459,
+    "text": "interactions between foxes and rabbits"
+  },
+  {
+    "startTime": 102.459,
+    "endTime": 105.999,
+    "text": "and cancer and immune cells predator"
+  },
+  {
+    "startTime": 105.999,
+    "endTime": 107.59,
+    "text": "prey type systems have been studied"
+  },
+  {
+    "startTime": 107.59,
+    "endTime": 108.99,
+    "text": "extensively in scientific literature"
+  },
+  {
+    "startTime": 108.99,
+    "endTime": 111.009,
+    "text": "describing interactions of two"
+  },
+  {
+    "startTime": 111.009,
+    "endTime": 112.99,
+    "text": "populations where survival of one"
+  },
+  {
+    "startTime": 112.99,
+    "endTime": 116.139,
+    "text": "depends on consuming the other and these"
+  },
+  {
+    "startTime": 116.139,
+    "endTime": 118.27,
+    "text": "same equations provide a framework for"
+  },
+  {
+    "startTime": 118.27,
+    "endTime": 120.009,
+    "text": "understanding cancer immune interactions"
+  },
+  {
+    "startTime": 120.009,
+    "endTime": 122.799,
+    "text": "where cancer is the prey and the immune"
+  },
+  {
+    "startTime": 122.799,
+    "endTime": 125.049,
+    "text": "system is a predator and the prey"
+  },
+  {
+    "startTime": 125.049,
+    "endTime": 127.299,
+    "text": "employs all sorts of tricks to prevent"
+  },
+  {
+    "startTime": 127.299,
+    "endTime": 129.16,
+    "text": "the predator from killing it ranging"
+  },
+  {
+    "startTime": 129.16,
+    "endTime": 131.23,
+    "text": "from camouflaging itself to steal in the"
+  },
+  {
+    "startTime": 131.23,
+    "endTime": 134.26,
+    "text": "Predators food this can have some very"
+  },
+  {
+    "startTime": 134.26,
+    "endTime": 136.48,
+    "text": "interesting implications for example"
+  },
+  {
+    "startTime": 136.48,
+    "endTime": 139.42,
+    "text": "despite enormous successes in the field"
+  },
+  {
+    "startTime": 139.42,
+    "endTime": 141.13,
+    "text": "of immunotherapy there's"
+  },
+  {
+    "startTime": 141.13,
+    "endTime": 142.84,
+    "text": "still remain somewhat limited efficacy"
+  },
+  {
+    "startTime": 142.84,
+    "endTime": 145.93,
+    "text": "when it comes to solid tumors but if you"
+  },
+  {
+    "startTime": 145.93,
+    "endTime": 148.81,
+    "text": "think about it ecologically both cancer"
+  },
+  {
+    "startTime": 148.81,
+    "endTime": 150.88,
+    "text": "and immune cells the prey and the"
+  },
+  {
+    "startTime": 150.88,
+    "endTime": 153.43,
+    "text": "predator require nutrients such as"
+  },
+  {
+    "startTime": 153.43,
+    "endTime": 156.61,
+    "text": "glucose to survive if cancer cells"
+  },
+  {
+    "startTime": 156.61,
+    "endTime": 159.61,
+    "text": "out-compete the immune cells for shared"
+  },
+  {
+    "startTime": 159.61,
+    "endTime": 161.07,
+    "text": "nutrients in the tumor microenvironment"
+  },
+  {
+    "startTime": 161.07,
+    "endTime": 163.69,
+    "text": "the new moon cells will physically not"
+  },
+  {
+    "startTime": 163.69,
+    "endTime": 167.2,
+    "text": "be able to do their job this predator"
+  },
+  {
+    "startTime": 167.2,
+    "endTime": 169.15,
+    "text": "prey shared resource type model is"
+  },
+  {
+    "startTime": 169.15,
+    "endTime": 170.23,
+    "text": "something I've worked on in my own"
+  },
+  {
+    "startTime": 170.23,
+    "endTime": 172.87,
+    "text": "research and it was recently shown"
+  },
+  {
+    "startTime": 172.87,
+    "endTime": 175.18,
+    "text": "experimentally that restoring the"
+  },
+  {
+    "startTime": 175.18,
+    "endTime": 176.95,
+    "text": "metabolic balance in the tumor"
+  },
+  {
+    "startTime": 176.95,
+    "endTime": 179.62,
+    "text": "microenvironment that is making sure"
+  },
+  {
+    "startTime": 179.62,
+    "endTime": 182.23,
+    "text": "immune cells get their food can give"
+  },
+  {
+    "startTime": 182.23,
+    "endTime": 185.02,
+    "text": "them the Predators back their edge in"
+  },
+  {
+    "startTime": 185.02,
+    "endTime": 189.01,
+    "text": "fighting cancer the prey this means that"
+  },
+  {
+    "startTime": 189.01,
+    "endTime": 191.29,
+    "text": "if you abstract a bit you can think"
+  },
+  {
+    "startTime": 191.29,
+    "endTime": 193.02,
+    "text": "about cancer itself as an ecosystem"
+  },
+  {
+    "startTime": 193.02,
+    "endTime": 196.05,
+    "text": "where heterogeneous populations of cells"
+  },
+  {
+    "startTime": 196.05,
+    "endTime": 198.76,
+    "text": "compete and cooperate for space and"
+  },
+  {
+    "startTime": 198.76,
+    "endTime": 201.67,
+    "text": "nutrients interact with predators the"
+  },
+  {
+    "startTime": 201.67,
+    "endTime": 205.51,
+    "text": "immune system migrate metastases always"
+  },
+  {
+    "startTime": 205.51,
+    "endTime": 207.6,
+    "text": "in the ecosystem of the human body and"
+  },
+  {
+    "startTime": 207.6,
+    "endTime": 210.49,
+    "text": "what do we know about most ecosystems"
+  },
+  {
+    "startTime": 210.49,
+    "endTime": 213.19,
+    "text": "from conservation biology that one of"
+  },
+  {
+    "startTime": 213.19,
+    "endTime": 215.53,
+    "text": "the best ways to extinguish species is"
+  },
+  {
+    "startTime": 215.53,
+    "endTime": 217.81,
+    "text": "not to target them directly but to"
+  },
+  {
+    "startTime": 217.81,
+    "endTime": 222.22,
+    "text": "target their environment and so once we"
+  },
+  {
+    "startTime": 222.22,
+    "endTime": 223.9,
+    "text": "have identified the key components of"
+  },
+  {
+    "startTime": 223.9,
+    "endTime": 226.51,
+    "text": "the tumor environment we can propose"
+  },
+  {
+    "startTime": 226.51,
+    "endTime": 229.21,
+    "text": "hypotheses and simulate scenarios and"
+  },
+  {
+    "startTime": 229.21,
+    "endTime": 231.37,
+    "text": "therapeutic interventions all in a"
+  },
+  {
+    "startTime": 231.37,
+    "endTime": 234.52,
+    "text": "completely safe and affordable way aimed"
+  },
+  {
+    "startTime": 234.52,
+    "endTime": 236.83,
+    "text": "at targeting different components of the"
+  },
+  {
+    "startTime": 236.83,
+    "endTime": 238.66,
+    "text": "micro environment in such a way as to"
+  },
+  {
+    "startTime": 238.66,
+    "endTime": 241.18,
+    "text": "kill the cancer without harming the host"
+  },
+  {
+    "startTime": 241.18,
+    "endTime": 246.4,
+    "text": "such as me or you and so while the"
+  },
+  {
+    "startTime": 246.4,
+    "endTime": 248.2,
+    "text": "immediate goal of my research is to"
+  },
+  {
+    "startTime": 248.2,
+    "endTime": 250.69,
+    "text": "advance research and innovation and to"
+  },
+  {
+    "startTime": 250.69,
+    "endTime": 253.12,
+    "text": "reduce its cost the real intent of"
+  },
+  {
+    "startTime": 253.12,
+    "endTime": 255.7,
+    "text": "course is to save lives and that's what"
+  },
+  {
+    "startTime": 255.7,
+    "endTime": 257.92,
+    "text": "I try to do through mathematical"
+  },
+  {
+    "startTime": 257.92,
+    "endTime": 260.049,
+    "text": "modeling applied to biology and in"
+  },
+  {
+    "startTime": 260.049,
+    "endTime": 262.019,
+    "text": "particular to the development of drugs"
+  },
+  {
+    "startTime": 262.02,
+    "endTime": 264.55,
+    "text": "it's a field that until relatively"
+  },
+  {
+    "startTime": 264.55,
+    "endTime": 266.56,
+    "text": "recently has remained somewhat marginal"
+  },
+  {
+    "startTime": 266.56,
+    "endTime": 268.93,
+    "text": "but it has matured and there are now"
+  },
+  {
+    "startTime": 268.93,
+    "endTime": 271.12,
+    "text": "very well developed mathematical methods"
+  },
+  {
+    "startTime": 271.12,
+    "endTime": 273.84,
+    "text": "a lot of pre-programmed tools in"
+  },
+  {
+    "startTime": 273.84,
+    "endTime": 276.51,
+    "text": "every once and an ever-increasing amount"
+  },
+  {
+    "startTime": 276.51,
+    "endTime": 279.86,
+    "text": "of computational power available to us"
+  },
+  {
+    "startTime": 279.86,
+    "endTime": 283.29,
+    "text": "the power and beauty of mathematical"
+  },
+  {
+    "startTime": 283.29,
+    "endTime": 285.75,
+    "text": "modeling lies in the fact that it makes"
+  },
+  {
+    "startTime": 285.75,
+    "endTime": 288.03,
+    "text": "you formalize in a very rigorous way"
+  },
+  {
+    "startTime": 288.03,
+    "endTime": 291.419,
+    "text": "what we think we know we make"
+  },
+  {
+    "startTime": 291.419,
+    "endTime": 293.13,
+    "text": "assumptions translate them into"
+  },
+  {
+    "startTime": 293.13,
+    "endTime": 295.979,
+    "text": "equations run simulations all to answer"
+  },
+  {
+    "startTime": 295.979,
+    "endTime": 298.05,
+    "text": "the question in a world where my"
+  },
+  {
+    "startTime": 298.05,
+    "endTime": 300.449,
+    "text": "assumptions are true what do I expect to"
+  },
+  {
+    "startTime": 300.449,
+    "endTime": 303.21,
+    "text": "see it's a pretty simple conceptual"
+  },
+  {
+    "startTime": 303.21,
+    "endTime": 305.22,
+    "text": "framework it's all about asking the"
+  },
+  {
+    "startTime": 305.22,
+    "endTime": 307.169,
+    "text": "right questions but it can unleash"
+  },
+  {
+    "startTime": 307.169,
+    "endTime": 309.09,
+    "text": "numerous opportunities for testing"
+  },
+  {
+    "startTime": 309.09,
+    "endTime": 312.96,
+    "text": "biological hypotheses if our predictions"
+  },
+  {
+    "startTime": 312.96,
+    "endTime": 315.45,
+    "text": "match observations great we got it right"
+  },
+  {
+    "startTime": 315.45,
+    "endTime": 317.49,
+    "text": "so it can make further predictions by"
+  },
+  {
+    "startTime": 317.49,
+    "endTime": 319.38,
+    "text": "changing this or that aspect of the"
+  },
+  {
+    "startTime": 319.38,
+    "endTime": 319.86,
+    "text": "model"
+  },
+  {
+    "startTime": 319.86,
+    "endTime": 323.13,
+    "text": "if however our predictions do not match"
+  },
+  {
+    "startTime": 323.13,
+    "endTime": 325.59,
+    "text": "our observations that means that some of"
+  },
+  {
+    "startTime": 325.59,
+    "endTime": 327.6,
+    "text": "our assumptions are wrong and so our"
+  },
+  {
+    "startTime": 327.6,
+    "endTime": 329.58,
+    "text": "understanding of the key mechanisms of"
+  },
+  {
+    "startTime": 329.58,
+    "endTime": 332.27,
+    "text": "underlying biology is still incomplete"
+  },
+  {
+    "startTime": 332.27,
+    "endTime": 335.91,
+    "text": "luckily since this is a model we control"
+  },
+  {
+    "startTime": 335.91,
+    "endTime": 337.889,
+    "text": "all the assumptions so we can go through"
+  },
+  {
+    "startTime": 337.889,
+    "endTime": 339.03,
+    "text": "them one by one"
+  },
+  {
+    "startTime": 339.03,
+    "endTime": 341.58,
+    "text": "identifying which one or ones are"
+  },
+  {
+    "startTime": 341.58,
+    "endTime": 344.61,
+    "text": "causing the discrepancy and then we can"
+  },
+  {
+    "startTime": 344.61,
+    "endTime": 346.32,
+    "text": "fill this newly identified gap in"
+  },
+  {
+    "startTime": 346.32,
+    "endTime": 348.24,
+    "text": "knowledge using both experimental and"
+  },
+  {
+    "startTime": 348.24,
+    "endTime": 351.3,
+    "text": "theoretical approaches of course an"
+  },
+  {
+    "startTime": 351.3,
+    "endTime": 353.43,
+    "text": "ecosystem is extremely complex and"
+  },
+  {
+    "startTime": 353.43,
+    "endTime": 355.68,
+    "text": "trying to describe all the moving parts"
+  },
+  {
+    "startTime": 355.68,
+    "endTime": 357.99,
+    "text": "is not only very difficult but also not"
+  },
+  {
+    "startTime": 357.99,
+    "endTime": 360.24,
+    "text": "very informative there's also the issue"
+  },
+  {
+    "startTime": 360.24,
+    "endTime": 362.639,
+    "text": "of time scales because some processes"
+  },
+  {
+    "startTime": 362.639,
+    "endTime": 364.62,
+    "text": "take place on the scale of seconds some"
+  },
+  {
+    "startTime": 364.62,
+    "endTime": 366.99,
+    "text": "minutes some days months and years it"
+  },
+  {
+    "startTime": 366.99,
+    "endTime": 369.18,
+    "text": "may not always be possible to separate"
+  },
+  {
+    "startTime": 369.18,
+    "endTime": 372.06,
+    "text": "those out experimentally and some things"
+  },
+  {
+    "startTime": 372.06,
+    "endTime": 374.669,
+    "text": "happen so quickly or so slowly that you"
+  },
+  {
+    "startTime": 374.669,
+    "endTime": 376.139,
+    "text": "may physically never be able to measure"
+  },
+  {
+    "startTime": 376.139,
+    "endTime": 380.37,
+    "text": "them but as mathematicians we have the"
+  },
+  {
+    "startTime": 380.37,
+    "endTime": 383.849,
+    "text": "power to zoom in on any subsystem in any"
+  },
+  {
+    "startTime": 383.849,
+    "endTime": 386.55,
+    "text": "time scale and simulate effects of"
+  },
+  {
+    "startTime": 386.55,
+    "endTime": 388.8,
+    "text": "interventions that take place in any"
+  },
+  {
+    "startTime": 388.8,
+    "endTime": 393.24,
+    "text": "time scale of course this isn't the work"
+  },
+  {
+    "startTime": 393.24,
+    "endTime": 395.82,
+    "text": "of our modeler alone it has to happen in"
+  },
+  {
+    "startTime": 395.82,
+    "endTime": 397.8,
+    "text": "close collaborations with biologists and"
+  },
+  {
+    "startTime": 397.8,
+    "endTime": 400.11,
+    "text": "it does demand some capacity of"
+  },
+  {
+    "startTime": 400.11,
+    "endTime": 404.31,
+    "text": "translation on both sides but starting"
+  },
+  {
+    "startTime": 404.31,
+    "endTime": 406.56,
+    "text": "with a theoretical formulation of a"
+  },
+  {
+    "startTime": 406.56,
+    "endTime": 407.61,
+    "text": "problem can"
+  },
+  {
+    "startTime": 407.61,
+    "endTime": 409.979,
+    "text": "numerous opportunities for testing"
+  },
+  {
+    "startTime": 409.979,
+    "endTime": 412.349,
+    "text": "hypotheses and simulating scenarios and"
+  },
+  {
+    "startTime": 412.349,
+    "endTime": 414.539,
+    "text": "therapeutic interventions all in a"
+  },
+  {
+    "startTime": 414.539,
+    "endTime": 419.49,
+    "text": "completely safe way it can identify gaps"
+  },
+  {
+    "startTime": 419.49,
+    "endTime": 421.289,
+    "text": "in knowledge and logical inconsistencies"
+  },
+  {
+    "startTime": 421.289,
+    "endTime": 424.08,
+    "text": "and can help guide us as to where we"
+  },
+  {
+    "startTime": 424.08,
+    "endTime": 425.819,
+    "text": "should keep looking and where there may"
+  },
+  {
+    "startTime": 425.819,
+    "endTime": 426.719,
+    "text": "be a dead end"
+  },
+  {
+    "startTime": 426.719,
+    "endTime": 430.469,
+    "text": "in other words mathematical modeling can"
+  },
+  {
+    "startTime": 430.469,
+    "endTime": 433.05,
+    "text": "help us answer questions that directly"
+  },
+  {
+    "startTime": 433.05,
+    "endTime": 436.56,
+    "text": "affect people's health that affect each"
+  },
+  {
+    "startTime": 436.56,
+    "endTime": 438.93,
+    "text": "person's health actually because"
+  },
+  {
+    "startTime": 438.93,
+    "endTime": 441.509,
+    "text": "mathematical modeling will be key to"
+  },
+  {
+    "startTime": 441.509,
+    "endTime": 444.33,
+    "text": "propelling personalized medicine and it"
+  },
+  {
+    "startTime": 444.33,
+    "endTime": 446.25,
+    "text": "all comes down to asking the right"
+  },
+  {
+    "startTime": 446.25,
+    "endTime": 448.919,
+    "text": "question and translating it to the right"
+  },
+  {
+    "startTime": 448.919,
+    "endTime": 453.24,
+    "text": "equation and back thank you"
+  },
+  {
+    "startTime": 453.24,
+    "endTime": 458.22,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 458.22,
+    "endTime": 461.529,
+    "text": "[Music]"
+  }
+]
