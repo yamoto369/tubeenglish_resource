@@ -1,0 +1,572 @@
+[
+  {
+    "startTime": 0.02,
+    "endTime": 3.02,
+    "text": "On the internet, the algorithms are all around you."
+  },
+  {
+    "startTime": 3.02,
+    "endTime": 7.32,
+    "text": "You are watching this video because an algorithm brought it to you (among others) to click, which you did, and the algorithm took note."
+  },
+  {
+    "startTime": 10.16,
+    "endTime": 13.66,
+    "text": "When you open the TweetBook, A the algorithm decides what you see."
+  },
+  {
+    "startTime": 13.66,
+    "endTime": 16.96,
+    "text": "When you search through your photos, A the algorithm does the finding."
+  },
+  {
+    "startTime": 16.96,
+    "endTime": 18.96,
+    "text": "Maybe even makes a little movie for you."
+  },
+  {
+    "startTime": 18.96,
+    "endTime": 26.0,
+    "text": "When you buy something, A the algorithm sets the price and A the algorithm is at your bank watching transactions for fraud."
+  },
+  {
+    "startTime": 26.0,
+    "endTime": 28.18,
+    "text": "The stock market is full of algorithms trading with algorithms."
+  },
+  {
+    "startTime": 29.74,
+    "endTime": 34.239999999999995,
+    "text": "Given this, you might want to know how these little algorithmic bots shaping your world work, especially when they don't."
+  },
+  {
+    "startTime": 36.04,
+    "endTime": 37.08,
+    "text": "In Ye Olden Days, humans built algorithmic bots by giving them instructions the humans could explain."
+  },
+  {
+    "startTime": 41.9,
+    "endTime": 43.78,
+    "text": "\"If this, then that.\""
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 49.08,
+    "text": "But many problems are just too big and hard for a human to write simple instructions for."
+  },
+  {
+    "startTime": 49.08,
+    "endTime": 53.56,
+    "text": "There's a gazillion financial transactions a second, which ones are fraudulent?"
+  },
+  {
+    "startTime": 53.56,
+    "endTime": 55.980000000000004,
+    "text": "There's octillion videos on NetMeTube."
+  },
+  {
+    "startTime": 55.98,
+    "endTime": 61.68,
+    "text": "Which eight should the user see as recommendations? Which shouldn't be allowed on the site at all?"
+  },
+  {
+    "startTime": 61.68,
+    "endTime": 65.94,
+    "text": "For this airline seat, what is the maximum price this user will pay right now?"
+  },
+  {
+    "startTime": 66.22,
+    "endTime": 68.5,
+    "text": "Algorithmic bots give answers to these questions."
+  },
+  {
+    "startTime": 68.5,
+    "endTime": 71.92,
+    "text": "Not perfect answers, but much better than a human could do."
+  },
+  {
+    "startTime": 71.92,
+    "endTime": 75.82000000000001,
+    "text": "But how these bots work exactly, more and more, no one knows."
+  },
+  {
+    "startTime": 75.86,
+    "endTime": 77.92,
+    "text": "Not even the humans who built them, or \"built them\", as we will see..."
+  },
+  {
+    "startTime": 79.86,
+    "endTime": 83.42,
+    "text": "Now companies that use these bots don't want to talk about how they work because the bots are valuable employees."
+  },
+  {
+    "startTime": 85.82,
+    "endTime": 87.3,
+    "text": "Very, VERY valuable."
+  },
+  {
+    "startTime": 87.3,
+    "endTime": 90.66,
+    "text": "And how their brains are built is a fiercely-guarded trade secret."
+  },
+  {
+    "startTime": 90.7,
+    "endTime": 93.0,
+    "text": "Right now the cutting edge is most likely very \"I hope you like linear algebra.\""
+  },
+  {
+    "startTime": 94.64,
+    "endTime": 97.34,
+    "text": "But what the current hotness is on any particular site and how the bots work,  is a bit \"I dunno,\" and always will be."
+  },
+  {
+    "startTime": 101.3,
+    "endTime": 105.6,
+    "text": "So let's talk about one of the more quaint but understandable ways bots CAN be \"built\" without understanding how their brains work."
+  },
+  {
+    "startTime": 108.32,
+    "endTime": 111.24,
+    "text": "Say you want a bot that can recognize what is in a picture."
+  },
+  {
+    "startTime": 111.24,
+    "endTime": 113.22,
+    "text": "Is it a bee, or is it a three?"
+  },
+  {
+    "startTime": 113.22,
+    "endTime": 115.76,
+    "text": "It's easy for humans (even little humans)."
+  },
+  {
+    "startTime": 115.76,
+    "endTime": 119.82000000000001,
+    "text": "But it's impossible to just tell a bot  in bot language how to do it, because really we just know that's a bee and that's a three."
+  },
+  {
+    "startTime": 123.68,
+    "endTime": 127.10000000000001,
+    "text": "We can say in words what makes them different, but bots don't understand words."
+  },
+  {
+    "startTime": 127.1,
+    "endTime": 130.98,
+    "text": "And it's the wiring in our brains that makes it happen anyway."
+  },
+  {
+    "startTime": 130.98,
+    "endTime": 136.79999999999998,
+    "text": "While an individual neuron may be understood, and clusters of neurons' general purpose vaguely grasped, the whole is beyond."
+  },
+  {
+    "startTime": 138.46,
+    "endTime": 140.02,
+    "text": "Nonetheless, it works."
+  },
+  {
+    "startTime": 140.02,
+    "endTime": 142.12,
+    "text": "So to get a bot that can do this sorting, you don't build it yourself."
+  },
+  {
+    "startTime": 143.42,
+    "endTime": 147.2,
+    "text": "You build a bot that builds bots, and a bot that teaches bots."
+  },
+  {
+    "startTime": 147.2,
+    "endTime": 151.67999999999998,
+    "text": "These bots' brains are simpler, something a smart human programmer can make."
+  },
+  {
+    "startTime": 151.68,
+    "endTime": 155.14000000000001,
+    "text": "The builder bot builds bots,  though it's not very good at it."
+  },
+  {
+    "startTime": 155.14,
+    "endTime": 159.35999999999999,
+    "text": "At first it connects the wires and modules in the bot brains almost at random."
+  },
+  {
+    "startTime": 159.36,
+    "endTime": 161.48000000000002,
+    "text": "This leads to some very... \"special\" student bots sent to teacher bot to teach."
+  },
+  {
+    "startTime": 164.44,
+    "endTime": 167.7,
+    "text": "Of course, teacher bot can't tell a bee from a three either."
+  },
+  {
+    "startTime": 167.7,
+    "endTime": 171.22,
+    "text": "If the human could build teacher bot to do that,  well, then, problem solved."
+  },
+  {
+    "startTime": 171.22,
+    "endTime": 174.78,
+    "text": "Instead the human gives teacher bot a bunch of \"bee\" photos, and \"three\" photos, and an answer key to which is what."
+  },
+  {
+    "startTime": 176.96,
+    "endTime": 178.44,
+    "text": "Teacher bot can't teach, but teacher bot can TEST."
+  },
+  {
+    "startTime": 180.68,
+    "endTime": 183.84,
+    "text": "The adorkable student bots stick out their tongues, try very hard, but they are bad at what they do."
+  },
+  {
+    "startTime": 185.78,
+    "endTime": 187.16,
+    "text": "Very, VERY, bad."
+  },
+  {
+    "startTime": 187.16,
+    "endTime": 190.04,
+    "text": "And it's not their fault, really, they were built that way."
+  },
+  {
+    "startTime": 190.04,
+    "endTime": 193.6,
+    "text": "Grades in hand, the student bots take a march of shame back to builder bot."
+  },
+  {
+    "startTime": 193.6,
+    "endTime": 195.76,
+    "text": "Those that did best are put to one side, the others recycled."
+  },
+  {
+    "startTime": 197.42,
+    "endTime": 199.7,
+    "text": "Builder bot still isn't good at building bots, but now it takes those left and makes copies with changes in new combinations."
+  },
+  {
+    "startTime": 203.52,
+    "endTime": 205.48000000000002,
+    "text": "Back to school they go."
+  },
+  {
+    "startTime": 205.48,
+    "endTime": 208.94,
+    "text": "Teacher bot teaches - er, tests again, and builder bot builds again."
+  },
+  {
+    "startTime": 208.94,
+    "endTime": 210.92,
+    "text": "And again, and again."
+  },
+  {
+    "startTime": 210.92,
+    "endTime": 214.23999999999998,
+    "text": "Now a builder that builds at random,  and a teacher that doesn't teach, just tests, and students who can't learn, they just are what they are, in theory shouldn't work, but in practice, it does."
+  },
+  {
+    "startTime": 219.76,
+    "endTime": 225.0,
+    "text": "Partly because in every iteration, builder bot's slaughterhouse keeps the best and discards the rest."
+  },
+  {
+    "startTime": 225.0,
+    "endTime": 230.84,
+    "text": "And partly because teacher bot isn't overseeing an old-timey, one-room schoolhouse with a dozen students, but an infinite warehouse with thousands of students."
+  },
+  {
+    "startTime": 234.48,
+    "endTime": 237.73999999999998,
+    "text": "The test isn't ten questions, but a million questions."
+  },
+  {
+    "startTime": 237.74,
+    "endTime": 241.42000000000002,
+    "text": "And how many times does the test, build, test loop repeat?"
+  },
+  {
+    "startTime": 241.42,
+    "endTime": 243.92,
+    "text": "As many as necessary."
+  },
+  {
+    "startTime": 243.94,
+    "endTime": 246.579,
+    "text": "At first students that survive are just lucky, but by combining enough lucky bots, and keeping only what works, and randomly messing around with new copies of that, eventually a student bot emerges that isn't lucky, that can perhaps barely tell bees from threes."
+  },
+  {
+    "startTime": 259.66,
+    "endTime": 263.32000000000005,
+    "text": "As this bot is copied and changed, slowly the average test score rises."
+  },
+  {
+    "startTime": 263.32,
+    "endTime": 267.12,
+    "text": "And thus the grade needed to survive the next round gets higher and higher."
+  },
+  {
+    "startTime": 267.66,
+    "endTime": 270.58000000000004,
+    "text": "Keep this up and eventually from the infinite warehouse (slaughterhouse) a student bot will emerge, who can tell a bee from a three in a photo it's never seen before pretty well."
+  },
+  {
+    "startTime": 276.76,
+    "endTime": 280.76,
+    "text": "But how the student bot does this, neither the teacher bot nor the builder bot, nor the human overseer, can understand."
+  },
+  {
+    "startTime": 283.1,
+    "endTime": 285.5,
+    "text": "Nor the student bot itself."
+  },
+  {
+    "startTime": 285.5,
+    "endTime": 291.32,
+    "text": "After keeping so many useful random changes, the wiring in its head is incredibly complicated."
+  },
+  {
+    "startTime": 291.32,
+    "endTime": 297.14,
+    "text": "And while an individual line of code may be understood, and clusters of code's general purpose vaguely grasped, the whole is beyond, nonetheless, it works."
+  },
+  {
+    "startTime": 300.6,
+    "endTime": 305.22,
+    "text": "But this is frustrating, especially as the student bot is very good at exactly only the kinds of questions it's been taught to."
+  },
+  {
+    "startTime": 308.0,
+    "endTime": 313.52,
+    "text": "It's great with photos, but useless with videos or baffled if the photos are upside down, or things that are obviously not bees, it's confident are."
+  },
+  {
+    "startTime": 317.12,
+    "endTime": 318.52,
+    "text": "Since teacher bot can't teach, all the human overseer can do is give it more questions, to make the test even longer, to include the kinds of questions the best bots get wrong."
+  },
+  {
+    "startTime": 326.72,
+    "endTime": 328.64000000000004,
+    "text": "This is important to understand."
+  },
+  {
+    "startTime": 328.64,
+    "endTime": 332.53999999999996,
+    "text": "It's a reason why companies are  obsessed with collecting data."
+  },
+  {
+    "startTime": 332.54,
+    "endTime": 335.86,
+    "text": "More data equals longer tests equals better bots."
+  },
+  {
+    "startTime": 335.86,
+    "endTime": 338.86,
+    "text": "So when you get the \"Are you human?\" test on a website, you are not only proving that you are human,  (hopefully), but you are also helping to build the test to make bots that can read, or count, or tell lakes from mountains, or horses from humans."
+  },
+  {
+    "startTime": 347.64,
+    "endTime": 350.08,
+    "text": "Seeing lots of questions about driving lately?"
+  },
+  {
+    "startTime": 350.08,
+    "endTime": 352.88,
+    "text": "Hmm...! What could that be building a test for?"
+  },
+  {
+    "startTime": 352.88,
+    "endTime": 356.38,
+    "text": "Now figuring out what's in a photo, or on a sign, or filtering videos, requires humans to make correct enough tests."
+  },
+  {
+    "startTime": 359.26,
+    "endTime": 362.21999999999997,
+    "text": "But there is another kind of test that makes itself."
+  },
+  {
+    "startTime": 362.22,
+    "endTime": 364.52000000000004,
+    "text": "Tests ON the humans."
+  },
+  {
+    "startTime": 364.52,
+    "endTime": 371.18,
+    "text": "For example, say entirely hypothetical NetMeTube wanted users to keep watching as long as possible?"
+  },
+  {
+    "startTime": 371.18,
+    "endTime": 374.54,
+    "text": "Well, how long a user stays on the site is easy to measure."
+  },
+  {
+    "startTime": 374.54,
+    "endTime": 378.62,
+    "text": "So, teacher bot gives each student bot a bunch of NetMeTube users to oversee, the student bots watch what their user watches, looks at their files, and do their best to pick the videos that keep the user on the site."
+  },
+  {
+    "startTime": 384.82,
+    "endTime": 387.3,
+    "text": "The longer the average, the higher their test score."
+  },
+  {
+    "startTime": 387.3,
+    "endTime": 389.38,
+    "text": "Build, test, repeat."
+  },
+  {
+    "startTime": 389.4,
+    "endTime": 394.03999999999996,
+    "text": "A million cycles later, there's a student bot who's pretty good at keeping the users watching, at least compared to what a human could build."
+  },
+  {
+    "startTime": 396.64,
+    "endTime": 400.2,
+    "text": "But when people ask: \"How does the NetMeTube algorithm select videos?\""
+  },
+  {
+    "startTime": 400.2,
+    "endTime": 404.03999999999996,
+    "text": "Once again, there isn't a great answer other than pointing to the bot, and the user data it had access to."
+  },
+  {
+    "startTime": 406.14,
+    "endTime": 411.41999999999996,
+    "text": "And most vitally, how the human overseers  direct teacher bot to score the test."
+  },
+  {
+    "startTime": 411.42,
+    "endTime": 414.8,
+    "text": "That's what the bot is trying to be good at to survive."
+  },
+  {
+    "startTime": 414.8,
+    "endTime": 419.42,
+    "text": "But what the bot is thinking, or how it thinks it, is not really knowable."
+  },
+  {
+    "startTime": 419.42,
+    "endTime": 423.0,
+    "text": "All that's knowable is this student bot gets to be the algorithm, because it's point one percent better than the previous bot at the test the humans designed."
+  },
+  {
+    "startTime": 429.16,
+    "endTime": 433.78000000000003,
+    "text": "So everywhere on the internet, behind the scenes, there are tests to increase user interaction, or set prices just right to maximize revenue, or pick the posts from all your friends you'll like the most, or articles people will share the most, or whatever."
+  },
+  {
+    "startTime": 442.18,
+    "endTime": 444.84000000000003,
+    "text": "If it's testable, it's teachable. Well, \"teachable,\" and a student bot will graduate from the warehouse  to be the algorithm of its domain."
+  },
+  {
+    "startTime": 449.9,
+    "endTime": 451.53999999999996,
+    "text": "At least, for a little while."
+  },
+  {
+    "startTime": 451.54,
+    "endTime": 456.44,
+    "text": "We're used to the idea that the tools we use, even if we don't understand them, someone does."
+  },
+  {
+    "startTime": 456.44,
+    "endTime": 460.98,
+    "text": "But with our machines that learn, we are increasingly in a position where we use tools, or are used by tools, that no one, not even their creators, understand."
+  },
+  {
+    "startTime": 465.72,
+    "endTime": 469.22,
+    "text": "We can only hope to guide them with the tests we make."
+  },
+  {
+    "startTime": 469.22,
+    "endTime": 470.94000000000005,
+    "text": "And we need to get comfortable with that, as our algorithmic bot buddies are all around, and not going anywhere."
+  },
+  {
+    "startTime": 478.24,
+    "endTime": 480.14,
+    "text": "OK. The bots are watching."
+  },
+  {
+    "startTime": 480.7,
+    "endTime": 481.96,
+    "text": "You know what's coming."
+  },
+  {
+    "startTime": 482.32,
+    "endTime": 484.48,
+    "text": "This is where I need to ask you... to like... comment ...and subscribe."
+  },
+  {
+    "startTime": 489.48,
+    "endTime": 490.62,
+    "text": "And bell me."
+  },
+  {
+    "startTime": 491.3,
+    "endTime": 493.04,
+    "text": "And share on the TweetBook."
+  },
+  {
+    "startTime": 493.76,
+    "endTime": 495.14,
+    "text": "The algorithm is watching."
+  },
+  {
+    "startTime": 495.78,
+    "endTime": 498.2,
+    "text": "It won't show people the video... unless you do this."
+  },
+  {
+    "startTime": 501.18,
+    "endTime": 503.06,
+    "text": "Look what you've reduced me to, bots."
+  },
+  {
+    "startTime": 504.26,
+    "endTime": 506.34,
+    "text": "What do you want? Do you want watch time?"
+  },
+  {
+    "startTime": 506.34,
+    "endTime": 507.59999999999997,
+    "text": "Is that what you want?"
+  },
+  {
+    "startTime": 508.12,
+    "endTime": 508.82,
+    "text": "Fine. (sigh...)"
+  },
+  {
+    "startTime": 510.3,
+    "endTime": 514.26,
+    "text": "Hey guys, did you know I also have podcasts you can listen to?"
+  },
+  {
+    "startTime": 514.26,
+    "endTime": 520.2,
+    "text": "Maybe even just in the background while you're tidying up your all room for hours? Or whatever?"
+  },
+  {
+    "startTime": 520.6,
+    "endTime": 527.02,
+    "text": "There's hours of audio entertainment for you,  and watch time for the bots overseeing your actions."
+  },
+  {
+    "startTime": 527.02,
+    "endTime": 529.9,
+    "text": "Go ahead and - and take a click. Entertain yourself."
+  },
+  {
+    "startTime": 530.52,
+    "endTime": 531.34,
+    "text": "Help me."
+  },
+  {
+    "startTime": 531.74,
+    "endTime": 533.42,
+    "text": "Help the bots."
+  }
+]
