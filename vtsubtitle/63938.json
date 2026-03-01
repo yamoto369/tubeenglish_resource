@@ -1,0 +1,1527 @@
+[
+  {
+    "startTime": 19.85,
+    "endTime": 20.885,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 24.323,
+    "endTime": 25.473,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 36.71,
+    "endTime": 37.86,
+    "text": "That's SpotMini."
+  },
+  {
+    "startTime": 37.884,
+    "endTime": 39.502,
+    "text": "He'll be back in a little while."
+  },
+  {
+    "startTime": 39.526,
+    "endTime": 40.690000000000005,
+    "text": "I --"
+  },
+  {
+    "startTime": 40.714,
+    "endTime": 44.552,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 45.472,
+    "endTime": 47.209,
+    "text": "I love building robots."
+  },
+  {
+    "startTime": 48.419,
+    "endTime": 50.87,
+    "text": "And my long-term goal is to build robots"
+  },
+  {
+    "startTime": 50.895,
+    "endTime": 52.977000000000004,
+    "text": "that can do what people and animals do."
+  },
+  {
+    "startTime": 53.964,
+    "endTime": 57.629999999999995,
+    "text": "And there's three things in particular"
+  },
+  {
+    "startTime": 57.541,
+    "endTime": 59.244,
+    "text": "that we're interested in."
+  },
+  {
+    "startTime": 60.8,
+    "endTime": 63.309999999999995,
+    "text": "One is balance and dynamic mobility,"
+  },
+  {
+    "startTime": 63.334,
+    "endTime": 65.964,
+    "text": "the second one is mobile manipulation,"
+  },
+  {
+    "startTime": 65.988,
+    "endTime": 68.353,
+    "text": "and the third one is mobile perception."
+  },
+  {
+    "startTime": 68.944,
+    "endTime": 71.855,
+    "text": "So, dynamic mobility and balance --"
+  },
+  {
+    "startTime": 71.879,
+    "endTime": 73.516,
+    "text": "I'm going to do a demo for you."
+  },
+  {
+    "startTime": 75.99,
+    "endTime": 76.646,
+    "text": "I'm standing here, balancing."
+  },
+  {
+    "startTime": 78.121,
+    "endTime": 80.835,
+    "text": "I can see you're not very impressed. OK, how about now?"
+  },
+  {
+    "startTime": 80.859,
+    "endTime": 82.17999999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 82.43,
+    "endTime": 83.236,
+    "text": "How about now?"
+  },
+  {
+    "startTime": 83.26,
+    "endTime": 85.30300000000001,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 86.49,
+    "endTime": 90.422,
+    "text": "Those simple capabilities mean that people can go almost anywhere on earth,"
+  },
+  {
+    "startTime": 90.446,
+    "endTime": 92.98,
+    "text": "on any kind of terrain."
+  },
+  {
+    "startTime": 92.122,
+    "endTime": 94.777,
+    "text": "We want to capture that for robots."
+  },
+  {
+    "startTime": 95.772,
+    "endTime": 97.164,
+    "text": "What about manipulation?"
+  },
+  {
+    "startTime": 97.614,
+    "endTime": 99.33,
+    "text": "I'm holding this clicker in my hand;"
+  },
+  {
+    "startTime": 99.354,
+    "endTime": 100.646,
+    "text": "I'm not even looking at it,"
+  },
+  {
+    "startTime": 100.67,
+    "endTime": 103.4,
+    "text": "and I can manipulate it without any problem."
+  },
+  {
+    "startTime": 103.424,
+    "endTime": 106.64,
+    "text": "But even more important,"
+  },
+  {
+    "startTime": 106.88,
+    "endTime": 111.247,
+    "text": "I can move my body while I hold the manipulator, the clicker,"
+  },
+  {
+    "startTime": 112.115,
+    "endTime": 114.289,
+    "text": "and stabilize and coordinate my body,"
+  },
+  {
+    "startTime": 114.313,
+    "endTime": 115.83500000000001,
+    "text": "and I can even walk around."
+  },
+  {
+    "startTime": 116.367,
+    "endTime": 119.265,
+    "text": "And that means I can move around in the world"
+  },
+  {
+    "startTime": 119.289,
+    "endTime": 122.59100000000001,
+    "text": "and expand the range of my arms and my hands"
+  },
+  {
+    "startTime": 122.615,
+    "endTime": 124.783,
+    "text": "and really be able to handle almost anything."
+  },
+  {
+    "startTime": 124.808,
+    "endTime": 126.4,
+    "text": "So that's mobile manipulation."
+  },
+  {
+    "startTime": 127.454,
+    "endTime": 129.22799999999998,
+    "text": "And all of you can do this."
+  },
+  {
+    "startTime": 129.252,
+    "endTime": 131.17000000000002,
+    "text": "Third is perception."
+  },
+  {
+    "startTime": 131.194,
+    "endTime": 134.458,
+    "text": "I'm looking at a room with over 1,000 people in it,"
+  },
+  {
+    "startTime": 134.483,
+    "endTime": 139.258,
+    "text": "and my amazing visual system can see every one of you --"
+  },
+  {
+    "startTime": 139.282,
+    "endTime": 141.24300000000002,
+    "text": "you're all stable in space,"
+  },
+  {
+    "startTime": 141.267,
+    "endTime": 142.585,
+    "text": "even when I move my head,"
+  },
+  {
+    "startTime": 142.61,
+    "endTime": 144.156,
+    "text": "even when I move around."
+  },
+  {
+    "startTime": 144.18,
+    "endTime": 147.959,
+    "text": "That kind of mobile perception is really important for robots"
+  },
+  {
+    "startTime": 147.983,
+    "endTime": 149.627,
+    "text": "that are going to move and act"
+  },
+  {
+    "startTime": 149.651,
+    "endTime": 150.864,
+    "text": "out in the world."
+  },
+  {
+    "startTime": 151.865,
+    "endTime": 154.143,
+    "text": "I'm going to give you a little status report"
+  },
+  {
+    "startTime": 154.167,
+    "endTime": 158.13,
+    "text": "on where we are in developing robots toward these ends."
+  },
+  {
+    "startTime": 160.338,
+    "endTime": 164.878,
+    "text": "The first three robots are all dynamically stabilized robots."
+  },
+  {
+    "startTime": 164.902,
+    "endTime": 167.54899999999998,
+    "text": "This one goes back a little over 10 years ago --"
+  },
+  {
+    "startTime": 167.574,
+    "endTime": 168.74200000000002,
+    "text": "\"BigDog.\""
+  },
+  {
+    "startTime": 168.766,
+    "endTime": 172.76,
+    "text": "It's got a gyroscope that helps stabilize it."
+  },
+  {
+    "startTime": 172.1,
+    "endTime": 175.436,
+    "text": "It's got sensors and a control computer."
+  },
+  {
+    "startTime": 175.46,
+    "endTime": 178.627,
+    "text": "Here's a Cheetah robot that's running with a galloping gait,"
+  },
+  {
+    "startTime": 178.651,
+    "endTime": 180.347,
+    "text": "where it recycles its energy,"
+  },
+  {
+    "startTime": 180.371,
+    "endTime": 181.93800000000002,
+    "text": "it bounces on the ground,"
+  },
+  {
+    "startTime": 181.962,
+    "endTime": 183.516,
+    "text": "and it's computing all the time"
+  },
+  {
+    "startTime": 183.54,
+    "endTime": 186.427,
+    "text": "in order to keep itself stabilized and propelled."
+  },
+  {
+    "startTime": 187.934,
+    "endTime": 189.762,
+    "text": "And here's a bigger robot"
+  },
+  {
+    "startTime": 189.786,
+    "endTime": 192.491,
+    "text": "that's got such good locomotion using its legs,"
+  },
+  {
+    "startTime": 192.515,
+    "endTime": 193.91799999999998,
+    "text": "that it can go in deep snow."
+  },
+  {
+    "startTime": 193.943,
+    "endTime": 196.354,
+    "text": "This is about 10 inches deep,"
+  },
+  {
+    "startTime": 196.378,
+    "endTime": 198.488,
+    "text": "and it doesn't really have any trouble."
+  },
+  {
+    "startTime": 200.166,
+    "endTime": 202.795,
+    "text": "This is Spot, a new generation of robot --"
+  },
+  {
+    "startTime": 202.819,
+    "endTime": 205.62599999999998,
+    "text": "just slightly older than the one that came out onstage."
+  },
+  {
+    "startTime": 206.258,
+    "endTime": 208.9,
+    "text": "And we've been asking the question --"
+  },
+  {
+    "startTime": 208.114,
+    "endTime": 210.88,
+    "text": "you've all heard about drone delivery:"
+  },
+  {
+    "startTime": 210.112,
+    "endTime": 212.73399999999998,
+    "text": "Can we deliver packages to your houses with drones?"
+  },
+  {
+    "startTime": 212.759,
+    "endTime": 215.546,
+    "text": "Well, what about plain old legged-robot delivery?"
+  },
+  {
+    "startTime": 215.57,
+    "endTime": 216.702,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 216.726,
+    "endTime": 220.123,
+    "text": "So we've been taking our robot to our employees' homes"
+  },
+  {
+    "startTime": 220.147,
+    "endTime": 221.73,
+    "text": "to see whether we could get in --"
+  },
+  {
+    "startTime": 221.754,
+    "endTime": 222.778,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 222.802,
+    "endTime": 224.29999999999998,
+    "text": "the various access ways."
+  },
+  {
+    "startTime": 224.54,
+    "endTime": 225.938,
+    "text": "And believe me, in the Boston area,"
+  },
+  {
+    "startTime": 225.962,
+    "endTime": 229.136,
+    "text": "there's every manner of stairway twists and turns."
+  },
+  {
+    "startTime": 229.16,
+    "endTime": 230.397,
+    "text": "So it's a real challenge."
+  },
+  {
+    "startTime": 230.421,
+    "endTime": 233.238,
+    "text": "But we're doing very well, about 70 percent of the way."
+  },
+  {
+    "startTime": 234.479,
+    "endTime": 236.44000000000003,
+    "text": "And here's mobile manipulation,"
+  },
+  {
+    "startTime": 236.68,
+    "endTime": 238.65900000000002,
+    "text": "where we've put an arm on the robot,"
+  },
+  {
+    "startTime": 238.683,
+    "endTime": 241.17,
+    "text": "and it's finding its way through the door."
+  },
+  {
+    "startTime": 241.742,
+    "endTime": 244.89999999999998,
+    "text": "Now, one of the important things about making autonomous robots"
+  },
+  {
+    "startTime": 244.925,
+    "endTime": 248.145,
+    "text": "is to make them not do just exactly what you say,"
+  },
+  {
+    "startTime": 248.169,
+    "endTime": 253.31,
+    "text": "but make them deal with the uncertainty of what happens in the real world."
+  },
+  {
+    "startTime": 254.54,
+    "endTime": 257.65,
+    "text": "So we have Steve there, one of the engineers,"
+  },
+  {
+    "startTime": 257.89,
+    "endTime": 258.697,
+    "text": "giving the robot a hard time."
+  },
+  {
+    "startTime": 258.721,
+    "endTime": 259.753,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 259.777,
+    "endTime": 263.967,
+    "text": "And the fact that the programming still tolerates all that disturbance --"
+  },
+  {
+    "startTime": 263.991,
+    "endTime": 265.488,
+    "text": "it does what it's supposed to."
+  },
+  {
+    "startTime": 265.512,
+    "endTime": 268.303,
+    "text": "Here's another example, where Eric is tugging on the robot"
+  },
+  {
+    "startTime": 268.327,
+    "endTime": 269.625,
+    "text": "as it goes up the stairs."
+  },
+  {
+    "startTime": 269.649,
+    "endTime": 270.801,
+    "text": "And believe me,"
+  },
+  {
+    "startTime": 270.825,
+    "endTime": 274.96999999999997,
+    "text": "getting it to do what it's supposed to do in those circumstances"
+  },
+  {
+    "startTime": 274.121,
+    "endTime": 275.462,
+    "text": "is a real challenge,"
+  },
+  {
+    "startTime": 275.486,
+    "endTime": 278.226,
+    "text": "but the result is something that's going to generalize"
+  },
+  {
+    "startTime": 278.25,
+    "endTime": 282.121,
+    "text": "and make robots much more autonomous than they would be otherwise."
+  },
+  {
+    "startTime": 283.317,
+    "endTime": 285.748,
+    "text": "This is Atlas, a humanoid robot."
+  },
+  {
+    "startTime": 286.427,
+    "endTime": 290.332,
+    "text": "It's a third-generation humanoid that we've been building."
+  },
+  {
+    "startTime": 290.671,
+    "endTime": 293.489,
+    "text": "I'll tell you a little bit about the hardware design later."
+  },
+  {
+    "startTime": 293.513,
+    "endTime": 294.688,
+    "text": "And we've been saying:"
+  },
+  {
+    "startTime": 294.713,
+    "endTime": 299.136,
+    "text": "How close to human levels of performance and speed could we get"
+  },
+  {
+    "startTime": 299.16,
+    "endTime": 300.735,
+    "text": "in an ordinary task,"
+  },
+  {
+    "startTime": 300.759,
+    "endTime": 303.228,
+    "text": "like moving boxes around on a conveyor?"
+  },
+  {
+    "startTime": 303.931,
+    "endTime": 309.236,
+    "text": "We're getting up to about two-thirds of the speed that a human operates"
+  },
+  {
+    "startTime": 309.261,
+    "endTime": 310.423,
+    "text": "on average."
+  },
+  {
+    "startTime": 310.758,
+    "endTime": 313.686,
+    "text": "And this robot is using both hands, it's using its body,"
+  },
+  {
+    "startTime": 313.711,
+    "endTime": 314.88,
+    "text": "it's stepping,"
+  },
+  {
+    "startTime": 314.904,
+    "endTime": 317.631,
+    "text": "so it's really an example of dynamic stability,"
+  },
+  {
+    "startTime": 317.655,
+    "endTime": 319.34,
+    "text": "mobile manipulation"
+  },
+  {
+    "startTime": 319.58,
+    "endTime": 320.669,
+    "text": "and mobile perception."
+  },
+  {
+    "startTime": 322.192,
+    "endTime": 323.365,
+    "text": "Here --"
+  },
+  {
+    "startTime": 323.905,
+    "endTime": 325.811,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 326.389,
+    "endTime": 327.999,
+    "text": "We actually have two Atlases."
+  },
+  {
+    "startTime": 328.483,
+    "endTime": 329.668,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 330.198,
+    "endTime": 333.594,
+    "text": "Now, everything doesn't go exactly the way it's supposed to."
+  },
+  {
+    "startTime": 333.618,
+    "endTime": 335.32,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 338.318,
+    "endTime": 339.846,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 340.536,
+    "endTime": 342.407,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 345.292,
+    "endTime": 347.835,
+    "text": "And here's our latest robot, called \"Handle.\""
+  },
+  {
+    "startTime": 348.457,
+    "endTime": 352.575,
+    "text": "Handle is interesting, because it's sort of half like an animal,"
+  },
+  {
+    "startTime": 352.599,
+    "endTime": 354.913,
+    "text": "and it's half something else"
+  },
+  {
+    "startTime": 354.937,
+    "endTime": 357.693,
+    "text": "with these leg-like things and wheels."
+  },
+  {
+    "startTime": 358.141,
+    "endTime": 361.16700000000003,
+    "text": "It's got its arms on in kind of a funny way,"
+  },
+  {
+    "startTime": 361.191,
+    "endTime": 363.287,
+    "text": "but it really does some remarkable things."
+  },
+  {
+    "startTime": 363.311,
+    "endTime": 366.642,
+    "text": "It can carry 100 pounds."
+  },
+  {
+    "startTime": 366.666,
+    "endTime": 368.725,
+    "text": "It's probably going to lift more than that,"
+  },
+  {
+    "startTime": 368.749,
+    "endTime": 370.52700000000004,
+    "text": "but so far we've done 100."
+  },
+  {
+    "startTime": 370.551,
+    "endTime": 372.986,
+    "text": "It's got some pretty good rough-terrain capability,"
+  },
+  {
+    "startTime": 373.11,
+    "endTime": 374.439,
+    "text": "even though it has wheels."
+  },
+  {
+    "startTime": 377.881,
+    "endTime": 380.246,
+    "text": "And Handle loves to put on a show."
+  },
+  {
+    "startTime": 380.686,
+    "endTime": 382.44,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 384.644,
+    "endTime": 389.773,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 390.74,
+    "endTime": 393.738,
+    "text": "I'm going to give you a little bit of robot religion."
+  },
+  {
+    "startTime": 394.356,
+    "endTime": 398.685,
+    "text": "A lot of people think that a robot is a machine where there's a computer"
+  },
+  {
+    "startTime": 398.709,
+    "endTime": 400.343,
+    "text": "that's telling it what to do,"
+  },
+  {
+    "startTime": 400.9,
+    "endTime": 403.715,
+    "text": "and the computer is listening through its sensors."
+  },
+  {
+    "startTime": 404.349,
+    "endTime": 406.753,
+    "text": "But that's really only half of the story."
+  },
+  {
+    "startTime": 406.777,
+    "endTime": 409.885,
+    "text": "The real story is that the computer is on one side,"
+  },
+  {
+    "startTime": 409.91,
+    "endTime": 411.85400000000004,
+    "text": "making suggestions to the robot,"
+  },
+  {
+    "startTime": 411.878,
+    "endTime": 414.37,
+    "text": "and on the other side are the physics of the world."
+  },
+  {
+    "startTime": 414.778,
+    "endTime": 419.70000000000005,
+    "text": "And that physics involves gravity, friction, bouncing into things."
+  },
+  {
+    "startTime": 420.238,
+    "endTime": 422.73,
+    "text": "In order to have a successful robot,"
+  },
+  {
+    "startTime": 422.97,
+    "endTime": 426.68800000000005,
+    "text": "my religion is that you have to do a holistic design,"
+  },
+  {
+    "startTime": 426.712,
+    "endTime": 430.265,
+    "text": "where you're designing the software, the hardware and the behavior"
+  },
+  {
+    "startTime": 430.289,
+    "endTime": 431.525,
+    "text": "all at one time,"
+  },
+  {
+    "startTime": 431.549,
+    "endTime": 435.251,
+    "text": "and all these parts really intermesh and cooperate with each other."
+  },
+  {
+    "startTime": 435.275,
+    "endTime": 438.382,
+    "text": "And when you get the perfect design, you get a real harmony"
+  },
+  {
+    "startTime": 438.406,
+    "endTime": 441.285,
+    "text": "between all those parts interacting with each other."
+  },
+  {
+    "startTime": 442.269,
+    "endTime": 444.529,
+    "text": "So it's half software and half hardware,"
+  },
+  {
+    "startTime": 444.553,
+    "endTime": 445.844,
+    "text": "plus the behavior."
+  },
+  {
+    "startTime": 446.698,
+    "endTime": 450.239,
+    "text": "We've done some work lately on the hardware, where we tried to go --"
+  },
+  {
+    "startTime": 450.264,
+    "endTime": 452.741,
+    "text": "the picture on the left is a conventional design,"
+  },
+  {
+    "startTime": 452.765,
+    "endTime": 455.664,
+    "text": "where you have parts that are all bolted together,"
+  },
+  {
+    "startTime": 455.689,
+    "endTime": 458.42900000000003,
+    "text": "conductors, tubes, connectors."
+  },
+  {
+    "startTime": 458.453,
+    "endTime": 460.501,
+    "text": "And on the right is a more integrated thing;"
+  },
+  {
+    "startTime": 460.526,
+    "endTime": 462.927,
+    "text": "it's supposed to look like an anatomy drawing."
+  },
+  {
+    "startTime": 463.33,
+    "endTime": 465.84,
+    "text": "Using the miracle of 3-D printing,"
+  },
+  {
+    "startTime": 465.864,
+    "endTime": 468.501,
+    "text": "we're starting to build parts of robots"
+  },
+  {
+    "startTime": 468.525,
+    "endTime": 471.421,
+    "text": "that look a lot more like the anatomy of an animal."
+  },
+  {
+    "startTime": 471.446,
+    "endTime": 474.79,
+    "text": "So that's an upper-leg part that has hydraulic pathways --"
+  },
+  {
+    "startTime": 474.814,
+    "endTime": 476.744,
+    "text": "actuators, filters --"
+  },
+  {
+    "startTime": 476.768,
+    "endTime": 479.147,
+    "text": "all embedded, all printed as one piece,"
+  },
+  {
+    "startTime": 479.172,
+    "endTime": 482.374,
+    "text": "and the whole structure is developed"
+  },
+  {
+    "startTime": 482.398,
+    "endTime": 485.434,
+    "text": "with a knowledge of what the loads and behavior are going to be,"
+  },
+  {
+    "startTime": 485.458,
+    "endTime": 488.36100000000005,
+    "text": "which is available from data recorded from robots"
+  },
+  {
+    "startTime": 488.385,
+    "endTime": 490.194,
+    "text": "and simulations and things like that."
+  },
+  {
+    "startTime": 490.218,
+    "endTime": 493.15500000000003,
+    "text": "So it's a data-driven hardware design."
+  },
+  {
+    "startTime": 493.547,
+    "endTime": 495.273,
+    "text": "And using processes like that,"
+  },
+  {
+    "startTime": 495.297,
+    "endTime": 497.54100000000005,
+    "text": "not only the upper leg but some other things,"
+  },
+  {
+    "startTime": 497.565,
+    "endTime": 502.705,
+    "text": "we've gotten our robots to go from big, behemoth, bulky, slow, bad robots --"
+  },
+  {
+    "startTime": 502.729,
+    "endTime": 506.348,
+    "text": "that one on the right, weighing almost 400 pounds --"
+  },
+  {
+    "startTime": 506.372,
+    "endTime": 509.481,
+    "text": "down to the one in the middle which was just in the video,"
+  },
+  {
+    "startTime": 509.505,
+    "endTime": 511.68,
+    "text": "weighs about 190 pounds,"
+  },
+  {
+    "startTime": 511.92,
+    "endTime": 512.789,
+    "text": "just a little bit more than me,"
+  },
+  {
+    "startTime": 512.813,
+    "endTime": 514.299,
+    "text": "and we have a new one,"
+  },
+  {
+    "startTime": 514.323,
+    "endTime": 517.64,
+    "text": "which is working but I'm not going to show it to you yet,"
+  },
+  {
+    "startTime": 517.89,
+    "endTime": 518.251,
+    "text": "on the left,"
+  },
+  {
+    "startTime": 518.275,
+    "endTime": 519.919,
+    "text": "which weighs just 165 pounds,"
+  },
+  {
+    "startTime": 519.943,
+    "endTime": 522.208,
+    "text": "with all the same strength and capabilities."
+  },
+  {
+    "startTime": 522.232,
+    "endTime": 524.963,
+    "text": "So these things are really getting better very quickly."
+  },
+  {
+    "startTime": 526.28,
+    "endTime": 529.5409999999999,
+    "text": "So it's time for Spot to come back out,"
+  },
+  {
+    "startTime": 529.566,
+    "endTime": 533.3140000000001,
+    "text": "and we're going to demonstrate a little bit of mobility,"
+  },
+  {
+    "startTime": 533.338,
+    "endTime": 534.938,
+    "text": "dexterity and perception."
+  },
+  {
+    "startTime": 535.681,
+    "endTime": 539.445,
+    "text": "This is Seth Davis, who's my robot wrangler today,"
+  },
+  {
+    "startTime": 539.469,
+    "endTime": 542.509,
+    "text": "and he's giving Spot some general direction"
+  },
+  {
+    "startTime": 542.533,
+    "endTime": 544.359,
+    "text": "by steering it around,"
+  },
+  {
+    "startTime": 544.383,
+    "endTime": 547.4540000000001,
+    "text": "but all the coordination of the legs and the sensors"
+  },
+  {
+    "startTime": 547.478,
+    "endTime": 549.987,
+    "text": "is done by the robot's computers on board."
+  },
+  {
+    "startTime": 550.543,
+    "endTime": 553.989,
+    "text": "The robot can walk with a number of different gaits;"
+  },
+  {
+    "startTime": 554.13,
+    "endTime": 556.172,
+    "text": "it's got a gyro,"
+  },
+  {
+    "startTime": 556.196,
+    "endTime": 557.533,
+    "text": "or a solid-state gyro,"
+  },
+  {
+    "startTime": 557.557,
+    "endTime": 558.977,
+    "text": "an IMU on board."
+  },
+  {
+    "startTime": 559.442,
+    "endTime": 562.469,
+    "text": "Obviously, it's got a battery, and things like that."
+  },
+  {
+    "startTime": 563.352,
+    "endTime": 565.858,
+    "text": "One of the cool things about a legged robot is,"
+  },
+  {
+    "startTime": 565.882,
+    "endTime": 567.3299999999999,
+    "text": "it's omnidirectional."
+  },
+  {
+    "startTime": 567.355,
+    "endTime": 570.128,
+    "text": "In addition to going forward, it can go sideways,"
+  },
+  {
+    "startTime": 571.413,
+    "endTime": 572.8530000000001,
+    "text": "it can turn in place."
+  },
+  {
+    "startTime": 576.482,
+    "endTime": 578.75,
+    "text": "And this robot is a little bit of a show-off."
+  },
+  {
+    "startTime": 579.675,
+    "endTime": 581.635,
+    "text": "It loves to use its dynamic gaits,"
+  },
+  {
+    "startTime": 581.659,
+    "endTime": 582.817,
+    "text": "like running --"
+  },
+  {
+    "startTime": 582.841,
+    "endTime": 583.885,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 583.909,
+    "endTime": 585.425,
+    "text": "And it's got one more."
+  },
+  {
+    "startTime": 587.104,
+    "endTime": 588.9340000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 589.858,
+    "endTime": 593.93,
+    "text": "Now if it were really a show-off, it would be hopping on one foot,"
+  },
+  {
+    "startTime": 593.118,
+    "endTime": 594.2860000000001,
+    "text": "but, you know."
+  },
+  {
+    "startTime": 594.31,
+    "endTime": 598.353,
+    "text": "Now, Spot has a set of cameras here, stereo cameras,"
+  },
+  {
+    "startTime": 598.377,
+    "endTime": 600.207,
+    "text": "and we have a feed up in the center."
+  },
+  {
+    "startTime": 600.591,
+    "endTime": 602.415,
+    "text": "It's kind of dark out in the audience,"
+  },
+  {
+    "startTime": 602.439,
+    "endTime": 605.659,
+    "text": "but it's going to use those cameras in order to look at the terrain"
+  },
+  {
+    "startTime": 605.683,
+    "endTime": 606.856,
+    "text": "right in front of it,"
+  },
+  {
+    "startTime": 606.88,
+    "endTime": 609.641,
+    "text": "while it goes over these obstacles back here."
+  },
+  {
+    "startTime": 609.665,
+    "endTime": 612.978,
+    "text": "For this demo, Seth is steering,"
+  },
+  {
+    "startTime": 613.2,
+    "endTime": 615.5070000000001,
+    "text": "but the robot's doing all its own terrain planning."
+  },
+  {
+    "startTime": 615.531,
+    "endTime": 617.3199999999999,
+    "text": "This is a terrain map,"
+  },
+  {
+    "startTime": 617.57,
+    "endTime": 622.2270000000001,
+    "text": "where the data from the cameras is being developed in real time,"
+  },
+  {
+    "startTime": 622.251,
+    "endTime": 625.4879999999999,
+    "text": "showing the red spots, which are where it doesn't want to step,"
+  },
+  {
+    "startTime": 625.512,
+    "endTime": 627.502,
+    "text": "and the green spots are the good places."
+  },
+  {
+    "startTime": 627.527,
+    "endTime": 629.976,
+    "text": "And here it's treating them like stepping-stones."
+  },
+  {
+    "startTime": 630.0,
+    "endTime": 632.755,
+    "text": "So it's trying to stay up on the blocks,"
+  },
+  {
+    "startTime": 632.779,
+    "endTime": 634.52,
+    "text": "and it adjusts its stride,"
+  },
+  {
+    "startTime": 634.76,
+    "endTime": 635.537,
+    "text": "and there's a ton of planning"
+  },
+  {
+    "startTime": 635.561,
+    "endTime": 637.802,
+    "text": "that has to go into an operation like that,"
+  },
+  {
+    "startTime": 637.826,
+    "endTime": 640.88,
+    "text": "and it does all that planning in real time,"
+  },
+  {
+    "startTime": 640.112,
+    "endTime": 642.5409999999999,
+    "text": "where it adjusts the steps a little bit longer"
+  },
+  {
+    "startTime": 642.566,
+    "endTime": 643.842,
+    "text": "or a little bit shorter."
+  },
+  {
+    "startTime": 645.216,
+    "endTime": 647.646,
+    "text": "Now we're going to change it into a different mode,"
+  },
+  {
+    "startTime": 647.67,
+    "endTime": 651.93,
+    "text": "where it's just going to treat the blocks like terrain"
+  },
+  {
+    "startTime": 651.117,
+    "endTime": 654.836,
+    "text": "and decide whether to step up or down"
+  },
+  {
+    "startTime": 654.86,
+    "endTime": 656.145,
+    "text": "as it goes."
+  },
+  {
+    "startTime": 657.85,
+    "endTime": 660.5400000000001,
+    "text": "So this is using dynamic balance"
+  },
+  {
+    "startTime": 660.78,
+    "endTime": 661.935,
+    "text": "and mobile perception,"
+  },
+  {
+    "startTime": 661.96,
+    "endTime": 667.347,
+    "text": "because it has to coordinate what it sees along with how it's moving."
+  },
+  {
+    "startTime": 668.988,
+    "endTime": 673.306,
+    "text": "The other thing Spot has is a robot arm."
+  },
+  {
+    "startTime": 674.337,
+    "endTime": 676.827,
+    "text": "Some of you may see that as a head and a neck,"
+  },
+  {
+    "startTime": 676.851,
+    "endTime": 678.436,
+    "text": "but believe me, it's an arm."
+  },
+  {
+    "startTime": 678.46,
+    "endTime": 680.225,
+    "text": "Seth is driving it around."
+  },
+  {
+    "startTime": 680.249,
+    "endTime": 684.1700000000001,
+    "text": "He's actually driving the hand and the body is following."
+  },
+  {
+    "startTime": 684.41,
+    "endTime": 688.174,
+    "text": "So the two are coordinated in the way I was talking about before --"
+  },
+  {
+    "startTime": 688.198,
+    "endTime": 690.62,
+    "text": "in the way people can do that."
+  },
+  {
+    "startTime": 690.86,
+    "endTime": 694.729,
+    "text": "In fact, one of the cool things Spot can do we call, \"chicken-head mode,\""
+  },
+  {
+    "startTime": 694.753,
+    "endTime": 697.937,
+    "text": "and it keeps its head in one place in space,"
+  },
+  {
+    "startTime": 697.961,
+    "endTime": 699.806,
+    "text": "and it moves its body all around."
+  },
+  {
+    "startTime": 700.553,
+    "endTime": 703.155,
+    "text": "There's a variation of this that's called \"twerking\" --"
+  },
+  {
+    "startTime": 703.179,
+    "endTime": 704.194,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 704.219,
+    "endTime": 706.4200000000001,
+    "text": "but we're not going to use that today."
+  },
+  {
+    "startTime": 706.66,
+    "endTime": 707.137,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 707.161,
+    "endTime": 710.747,
+    "text": "So, Spot: I'm feeling a little thirsty. Could you get me a soda?"
+  },
+  {
+    "startTime": 711.293,
+    "endTime": 715.66,
+    "text": "For this demo, Seth is not doing any driving."
+  },
+  {
+    "startTime": 715.9,
+    "endTime": 717.203,
+    "text": "We have a LIDAR on the back of the robot,"
+  },
+  {
+    "startTime": 717.227,
+    "endTime": 719.764,
+    "text": "and it's using these props we've put on the stage"
+  },
+  {
+    "startTime": 719.788,
+    "endTime": 721.181,
+    "text": "to localize itself."
+  },
+  {
+    "startTime": 721.205,
+    "endTime": 723.486,
+    "text": "It's gone over to that location."
+  },
+  {
+    "startTime": 723.51,
+    "endTime": 726.391,
+    "text": "Now it's using a camera that's in its hand"
+  },
+  {
+    "startTime": 726.416,
+    "endTime": 728.202,
+    "text": "to find the cup,"
+  },
+  {
+    "startTime": 728.853,
+    "endTime": 730.108,
+    "text": "picks it up --"
+  },
+  {
+    "startTime": 730.132,
+    "endTime": 732.8299999999999,
+    "text": "and again, Seth's not driving."
+  },
+  {
+    "startTime": 733.372,
+    "endTime": 736.6129999999999,
+    "text": "We've planned out a path for it to go --"
+  },
+  {
+    "startTime": 736.637,
+    "endTime": 738.7429999999999,
+    "text": "it looked like it was going off the path --"
+  },
+  {
+    "startTime": 738.768,
+    "endTime": 741.126,
+    "text": "and now Seth's going to take over control again,"
+  },
+  {
+    "startTime": 741.15,
+    "endTime": 744.598,
+    "text": "because I'm a little bit chicken about having it do this by itself."
+  },
+  {
+    "startTime": 744.623,
+    "endTime": 745.999,
+    "text": "Thank you, Spot."
+  },
+  {
+    "startTime": 748.231,
+    "endTime": 753.514,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 754.889,
+    "endTime": 756.479,
+    "text": "So, Spot:"
+  },
+  {
+    "startTime": 756.503,
+    "endTime": 760.7,
+    "text": "How do you feel about having just finished your TED performance?"
+  },
+  {
+    "startTime": 761.14,
+    "endTime": 763.703,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 764.68,
+    "endTime": 765.2199999999999,
+    "text": "Me, too!"
+  },
+  {
+    "startTime": 765.244,
+    "endTime": 766.2760000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 766.3,
+    "endTime": 768.116,
+    "text": "Thank you all,"
+  },
+  {
+    "startTime": 768.14,
+    "endTime": 770.535,
+    "text": "and thanks to the team at Boston Dynamics,"
+  },
+  {
+    "startTime": 770.559,
+    "endTime": 772.673,
+    "text": "who did all the hard work behind this."
+  },
+  {
+    "startTime": 772.697,
+    "endTime": 774.82,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 783.59,
+    "endTime": 785.222,
+    "text": "Helen Walters: Marc, come back in the middle."
+  },
+  {
+    "startTime": 785.246,
+    "endTime": 786.4,
+    "text": "Thank you so much."
+  },
+  {
+    "startTime": 786.424,
+    "endTime": 788.519,
+    "text": "Come over here, I have questions."
+  },
+  {
+    "startTime": 788.543,
+    "endTime": 791.958,
+    "text": "So, you mentioned the UPS and the package delivery."
+  },
+  {
+    "startTime": 791.982,
+    "endTime": 795.919,
+    "text": "What are the other applications that you see for your robots?"
+  },
+  {
+    "startTime": 795.943,
+    "endTime": 797.97,
+    "text": "Marc Raibert: You know, I think that robots"
+  },
+  {
+    "startTime": 797.994,
+    "endTime": 800.4,
+    "text": "that have the capabilities I've been talking about"
+  },
+  {
+    "startTime": 800.424,
+    "endTime": 802.84,
+    "text": "are going to be incredibly useful."
+  },
+  {
+    "startTime": 802.108,
+    "endTime": 804.6039999999999,
+    "text": "About a year ago, I went to Fukushima"
+  },
+  {
+    "startTime": 804.629,
+    "endTime": 806.66,
+    "text": "to see what the situation was there,"
+  },
+  {
+    "startTime": 806.684,
+    "endTime": 808.56,
+    "text": "and there's just a huge need"
+  },
+  {
+    "startTime": 808.585,
+    "endTime": 811.923,
+    "text": "for machines that can go into some of the dirty places"
+  },
+  {
+    "startTime": 811.947,
+    "endTime": 813.915,
+    "text": "and help remediate that."
+  },
+  {
+    "startTime": 814.528,
+    "endTime": 819.1270000000001,
+    "text": "I think it won't be too long until we have robots like this in our homes,"
+  },
+  {
+    "startTime": 819.151,
+    "endTime": 824.472,
+    "text": "and one of the big needs is to take care of the aging"
+  },
+  {
+    "startTime": 824.496,
+    "endTime": 825.862,
+    "text": "and invalids."
+  },
+  {
+    "startTime": 825.886,
+    "endTime": 829.875,
+    "text": "I think that it won't be too long till we're using robots"
+  },
+  {
+    "startTime": 829.899,
+    "endTime": 832.361,
+    "text": "to help take care of our parents,"
+  },
+  {
+    "startTime": 832.385,
+    "endTime": 836.8,
+    "text": "or probably more likely, have our children help take care of us."
+  },
+  {
+    "startTime": 837.721,
+    "endTime": 839.471,
+    "text": "And there's a bunch of other things."
+  },
+  {
+    "startTime": 839.495,
+    "endTime": 840.861,
+    "text": "I think the sky's the limit."
+  },
+  {
+    "startTime": 840.885,
+    "endTime": 843.143,
+    "text": "Many of the ideas we haven't thought of yet,"
+  },
+  {
+    "startTime": 843.167,
+    "endTime": 846.7620000000001,
+    "text": "and people like you will help us think of new applications."
+  },
+  {
+    "startTime": 846.786,
+    "endTime": 848.372,
+    "text": "HW: So what about the dark side?"
+  },
+  {
+    "startTime": 848.397,
+    "endTime": 850.23,
+    "text": "What about the military?"
+  },
+  {
+    "startTime": 850.254,
+    "endTime": 851.7570000000001,
+    "text": "Are they interested?"
+  },
+  {
+    "startTime": 852.441,
+    "endTime": 856.75,
+    "text": "MR: Sure, the military has been a big funder of robotics."
+  },
+  {
+    "startTime": 856.99,
+    "endTime": 860.301,
+    "text": "I don't think the military is the dark side myself,"
+  },
+  {
+    "startTime": 860.325,
+    "endTime": 864.196,
+    "text": "but I think, as with all advanced technology,"
+  },
+  {
+    "startTime": 864.22,
+    "endTime": 866.267,
+    "text": "it can be used for all kinds of things."
+  },
+  {
+    "startTime": 866.291,
+    "endTime": 867.932,
+    "text": "HW: Awesome. Thank you so much."
+  },
+  {
+    "startTime": 867.956,
+    "endTime": 869.361,
+    "text": "MR: OK, you're welcome."
+  },
+  {
+    "startTime": 869.385,
+    "endTime": 870.537,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 870.561,
+    "endTime": 872.147,
+    "text": "(Applause)"
+  }
+]

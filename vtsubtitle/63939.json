@@ -1,0 +1,1287 @@
+[
+  {
+    "startTime": 12.82,
+    "endTime": 16.9,
+    "text": "Today I'm going to talk about technology and society."
+  },
+  {
+    "startTime": 18.86,
+    "endTime": 22.556,
+    "text": "The Department of Transport estimated that last year"
+  },
+  {
+    "startTime": 22.58,
+    "endTime": 26.659,
+    "text": "35,000 people died from traffic crashes in the US alone."
+  },
+  {
+    "startTime": 27.86,
+    "endTime": 32.659,
+    "text": "Worldwide, 1.2 million people die every year in traffic accidents."
+  },
+  {
+    "startTime": 33.58,
+    "endTime": 37.676,
+    "text": "If there was a way we could eliminate 90 percent of those accidents,"
+  },
+  {
+    "startTime": 37.7,
+    "endTime": 38.900000000000006,
+    "text": "would you support it?"
+  },
+  {
+    "startTime": 39.54,
+    "endTime": 40.836,
+    "text": "Of course you would."
+  },
+  {
+    "startTime": 40.86,
+    "endTime": 44.515,
+    "text": "This is what driverless car technology promises to achieve"
+  },
+  {
+    "startTime": 44.54,
+    "endTime": 47.356,
+    "text": "by eliminating the main source of accidents --"
+  },
+  {
+    "startTime": 47.38,
+    "endTime": 48.580000000000005,
+    "text": "human error."
+  },
+  {
+    "startTime": 49.74,
+    "endTime": 55.156000000000006,
+    "text": "Now picture yourself in a driverless car in the year 2030,"
+  },
+  {
+    "startTime": 55.18,
+    "endTime": 58.636,
+    "text": "sitting back and watching this vintage TEDxCambridge video."
+  },
+  {
+    "startTime": 58.66,
+    "endTime": 60.66,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 61.34,
+    "endTime": 62.556000000000004,
+    "text": "All of a sudden,"
+  },
+  {
+    "startTime": 62.58,
+    "endTime": 65.86,
+    "text": "the car experiences mechanical failure and is unable to stop."
+  },
+  {
+    "startTime": 67.18,
+    "endTime": 68.7,
+    "text": "If the car continues,"
+  },
+  {
+    "startTime": 69.54,
+    "endTime": 73.66000000000001,
+    "text": "it will crash into a bunch of pedestrians crossing the street,"
+  },
+  {
+    "startTime": 74.9,
+    "endTime": 77.35000000000001,
+    "text": "but the car may swerve,"
+  },
+  {
+    "startTime": 77.59,
+    "endTime": 78.916,
+    "text": "hitting one bystander,"
+  },
+  {
+    "startTime": 78.94,
+    "endTime": 81.2,
+    "text": "killing them to save the pedestrians."
+  },
+  {
+    "startTime": 81.86,
+    "endTime": 84.46,
+    "text": "What should the car do, and who should decide?"
+  },
+  {
+    "startTime": 85.34,
+    "endTime": 88.876,
+    "text": "What if instead the car could swerve into a wall,"
+  },
+  {
+    "startTime": 88.9,
+    "endTime": 92.19600000000001,
+    "text": "crashing and killing you, the passenger,"
+  },
+  {
+    "startTime": 92.22,
+    "endTime": 94.539,
+    "text": "in order to save those pedestrians?"
+  },
+  {
+    "startTime": 95.6,
+    "endTime": 98.14,
+    "text": "This scenario is inspired by the trolley problem,"
+  },
+  {
+    "startTime": 98.78,
+    "endTime": 102.556,
+    "text": "which was invented by philosophers a few decades ago"
+  },
+  {
+    "startTime": 102.58,
+    "endTime": 103.82,
+    "text": "to think about ethics."
+  },
+  {
+    "startTime": 105.94,
+    "endTime": 108.43599999999999,
+    "text": "Now, the way we think about this problem matters."
+  },
+  {
+    "startTime": 108.46,
+    "endTime": 111.75999999999999,
+    "text": "We may for example not think about it at all."
+  },
+  {
+    "startTime": 111.1,
+    "endTime": 114.476,
+    "text": "We may say this scenario is unrealistic,"
+  },
+  {
+    "startTime": 114.5,
+    "endTime": 116.82,
+    "text": "incredibly unlikely, or just silly."
+  },
+  {
+    "startTime": 117.58,
+    "endTime": 120.316,
+    "text": "But I think this criticism misses the point"
+  },
+  {
+    "startTime": 120.34,
+    "endTime": 122.5,
+    "text": "because it takes the scenario too literally."
+  },
+  {
+    "startTime": 123.74,
+    "endTime": 126.476,
+    "text": "Of course no accident is going to look like this;"
+  },
+  {
+    "startTime": 126.5,
+    "endTime": 129.836,
+    "text": "no accident has two or three options"
+  },
+  {
+    "startTime": 129.86,
+    "endTime": 131.86,
+    "text": "where everybody dies somehow."
+  },
+  {
+    "startTime": 133.3,
+    "endTime": 135.876,
+    "text": "Instead, the car is going to calculate something"
+  },
+  {
+    "startTime": 135.9,
+    "endTime": 140.796,
+    "text": "like the probability of hitting a certain group of people,"
+  },
+  {
+    "startTime": 140.82,
+    "endTime": 144.156,
+    "text": "if you swerve one direction versus another direction,"
+  },
+  {
+    "startTime": 144.18,
+    "endTime": 147.636,
+    "text": "you might slightly increase the risk to passengers or other drivers"
+  },
+  {
+    "startTime": 147.66,
+    "endTime": 149.196,
+    "text": "versus pedestrians."
+  },
+  {
+    "startTime": 149.22,
+    "endTime": 151.38,
+    "text": "It's going to be a more complex calculation,"
+  },
+  {
+    "startTime": 152.3,
+    "endTime": 154.82000000000002,
+    "text": "but it's still going to involve trade-offs,"
+  },
+  {
+    "startTime": 155.66,
+    "endTime": 158.54,
+    "text": "and trade-offs often require ethics."
+  },
+  {
+    "startTime": 159.66,
+    "endTime": 162.396,
+    "text": "We might say then, \"Well, let's not worry about this."
+  },
+  {
+    "startTime": 162.42,
+    "endTime": 167.58999999999997,
+    "text": "Let's wait until technology is fully ready and 100 percent safe.\""
+  },
+  {
+    "startTime": 168.34,
+    "endTime": 172.20000000000002,
+    "text": "Suppose that we can indeed eliminate 90 percent of those accidents,"
+  },
+  {
+    "startTime": 172.9,
+    "endTime": 175.74,
+    "text": "or even 99 percent in the next 10 years."
+  },
+  {
+    "startTime": 176.74,
+    "endTime": 179.916,
+    "text": "What if eliminating the last one percent of accidents"
+  },
+  {
+    "startTime": 179.94,
+    "endTime": 183.6,
+    "text": "requires 50 more years of research?"
+  },
+  {
+    "startTime": 184.22,
+    "endTime": 186.2,
+    "text": "Should we not adopt the technology?"
+  },
+  {
+    "startTime": 186.54,
+    "endTime": 191.316,
+    "text": "That's 60 million people dead in car accidents"
+  },
+  {
+    "startTime": 191.34,
+    "endTime": 193.1,
+    "text": "if we maintain the current rate."
+  },
+  {
+    "startTime": 194.58,
+    "endTime": 195.79600000000002,
+    "text": "So the point is,"
+  },
+  {
+    "startTime": 195.82,
+    "endTime": 199.436,
+    "text": "waiting for full safety is also a choice,"
+  },
+  {
+    "startTime": 199.46,
+    "endTime": 201.62,
+    "text": "and it also involves trade-offs."
+  },
+  {
+    "startTime": 203.38,
+    "endTime": 207.716,
+    "text": "People online on social media have been coming up with all sorts of ways"
+  },
+  {
+    "startTime": 207.74,
+    "endTime": 209.756,
+    "text": "to not think about this problem."
+  },
+  {
+    "startTime": 209.78,
+    "endTime": 212.996,
+    "text": "One person suggested the car should just swerve somehow"
+  },
+  {
+    "startTime": 213.2,
+    "endTime": 215.15599999999998,
+    "text": "in between the passengers --"
+  },
+  {
+    "startTime": 215.18,
+    "endTime": 216.196,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 216.22,
+    "endTime": 217.476,
+    "text": "and the bystander."
+  },
+  {
+    "startTime": 217.5,
+    "endTime": 220.86,
+    "text": "Of course if that's what the car can do, that's what the car should do."
+  },
+  {
+    "startTime": 221.74,
+    "endTime": 224.58,
+    "text": "We're interested in scenarios in which this is not possible."
+  },
+  {
+    "startTime": 225.1,
+    "endTime": 230.516,
+    "text": "And my personal favorite was a suggestion by a blogger"
+  },
+  {
+    "startTime": 230.54,
+    "endTime": 233.55499999999998,
+    "text": "to have an eject button in the car that you press --"
+  },
+  {
+    "startTime": 233.58,
+    "endTime": 234.79600000000002,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 234.82,
+    "endTime": 236.487,
+    "text": "just before the car self-destructs."
+  },
+  {
+    "startTime": 236.511,
+    "endTime": 238.191,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 239.66,
+    "endTime": 244.859,
+    "text": "So if we acknowledge that cars will have to make trade-offs on the road,"
+  },
+  {
+    "startTime": 246.2,
+    "endTime": 247.89999999999998,
+    "text": "how do we think about those trade-offs,"
+  },
+  {
+    "startTime": 249.14,
+    "endTime": 250.71499999999997,
+    "text": "and how do we decide?"
+  },
+  {
+    "startTime": 250.74,
+    "endTime": 253.876,
+    "text": "Well, maybe we should run a survey to find out what society wants,"
+  },
+  {
+    "startTime": 253.9,
+    "endTime": 255.356,
+    "text": "because ultimately,"
+  },
+  {
+    "startTime": 255.38,
+    "endTime": 259.339,
+    "text": "regulations and the law are a reflection of societal values."
+  },
+  {
+    "startTime": 259.86,
+    "endTime": 261.1,
+    "text": "So this is what we did."
+  },
+  {
+    "startTime": 261.7,
+    "endTime": 263.316,
+    "text": "With my collaborators,"
+  },
+  {
+    "startTime": 263.34,
+    "endTime": 265.676,
+    "text": "Jean-François Bonnefon and Azim Shariff,"
+  },
+  {
+    "startTime": 265.7,
+    "endTime": 267.316,
+    "text": "we ran a survey"
+  },
+  {
+    "startTime": 267.34,
+    "endTime": 270.195,
+    "text": "in which we presented people with these types of scenarios."
+  },
+  {
+    "startTime": 270.219,
+    "endTime": 273.996,
+    "text": "We gave them two options inspired by two philosophers:"
+  },
+  {
+    "startTime": 274.2,
+    "endTime": 276.659,
+    "text": "Jeremy Bentham and Immanuel Kant."
+  },
+  {
+    "startTime": 277.42,
+    "endTime": 280.516,
+    "text": "Bentham says the car should follow utilitarian ethics:"
+  },
+  {
+    "startTime": 280.54,
+    "endTime": 283.956,
+    "text": "it should take the action that will minimize total harm --"
+  },
+  {
+    "startTime": 283.98,
+    "endTime": 286.796,
+    "text": "even if that action will kill a bystander"
+  },
+  {
+    "startTime": 286.82,
+    "endTime": 289.26,
+    "text": "and even if that action will kill the passenger."
+  },
+  {
+    "startTime": 289.94,
+    "endTime": 294.916,
+    "text": "Immanuel Kant says the car should follow duty-bound principles,"
+  },
+  {
+    "startTime": 294.94,
+    "endTime": 296.5,
+    "text": "like \"Thou shalt not kill.\""
+  },
+  {
+    "startTime": 297.3,
+    "endTime": 301.75600000000003,
+    "text": "So you should not take an action that explicitly harms a human being,"
+  },
+  {
+    "startTime": 301.78,
+    "endTime": 304.236,
+    "text": "and you should let the car take its course"
+  },
+  {
+    "startTime": 304.26,
+    "endTime": 306.219,
+    "text": "even if that's going to harm more people."
+  },
+  {
+    "startTime": 307.46,
+    "endTime": 308.659,
+    "text": "What do you think?"
+  },
+  {
+    "startTime": 309.18,
+    "endTime": 310.7,
+    "text": "Bentham or Kant?"
+  },
+  {
+    "startTime": 311.58,
+    "endTime": 312.835,
+    "text": "Here's what we found."
+  },
+  {
+    "startTime": 312.86,
+    "endTime": 314.66,
+    "text": "Most people sided with Bentham."
+  },
+  {
+    "startTime": 315.98,
+    "endTime": 319.75600000000003,
+    "text": "So it seems that people want cars to be utilitarian,"
+  },
+  {
+    "startTime": 319.78,
+    "endTime": 321.195,
+    "text": "minimize total harm,"
+  },
+  {
+    "startTime": 321.22,
+    "endTime": 322.79600000000005,
+    "text": "and that's what we should all do."
+  },
+  {
+    "startTime": 322.82,
+    "endTime": 324.2,
+    "text": "Problem solved."
+  },
+  {
+    "startTime": 325.6,
+    "endTime": 326.54,
+    "text": "But there is a little catch."
+  },
+  {
+    "startTime": 327.74,
+    "endTime": 331.476,
+    "text": "When we asked people whether they would purchase such cars,"
+  },
+  {
+    "startTime": 331.5,
+    "endTime": 333.116,
+    "text": "they said, \"Absolutely not.\""
+  },
+  {
+    "startTime": 333.14,
+    "endTime": 335.436,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 335.46,
+    "endTime": 339.356,
+    "text": "They would like to buy cars that protect them at all costs,"
+  },
+  {
+    "startTime": 339.38,
+    "endTime": 342.996,
+    "text": "but they want everybody else to buy cars that minimize harm."
+  },
+  {
+    "startTime": 343.2,
+    "endTime": 345.539,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 346.54,
+    "endTime": 348.396,
+    "text": "We've seen this problem before."
+  },
+  {
+    "startTime": 348.42,
+    "endTime": 349.98,
+    "text": "It's called a social dilemma."
+  },
+  {
+    "startTime": 350.98,
+    "endTime": 352.796,
+    "text": "And to understand the social dilemma,"
+  },
+  {
+    "startTime": 352.82,
+    "endTime": 354.86,
+    "text": "we have to go a little bit back in history."
+  },
+  {
+    "startTime": 355.82,
+    "endTime": 358.396,
+    "text": "In the 1800s,"
+  },
+  {
+    "startTime": 358.42,
+    "endTime": 362.156,
+    "text": "English economist William Forster Lloyd published a pamphlet"
+  },
+  {
+    "startTime": 362.18,
+    "endTime": 364.396,
+    "text": "which describes the following scenario."
+  },
+  {
+    "startTime": 364.42,
+    "endTime": 366.76,
+    "text": "You have a group of farmers --"
+  },
+  {
+    "startTime": 366.1,
+    "endTime": 367.43600000000004,
+    "text": "English farmers --"
+  },
+  {
+    "startTime": 367.46,
+    "endTime": 370.14,
+    "text": "who are sharing a common land for their sheep to graze."
+  },
+  {
+    "startTime": 371.34,
+    "endTime": 373.916,
+    "text": "Now, if each farmer brings a certain number of sheep --"
+  },
+  {
+    "startTime": 373.94,
+    "endTime": 375.436,
+    "text": "let's say three sheep --"
+  },
+  {
+    "startTime": 375.46,
+    "endTime": 377.556,
+    "text": "the land will be rejuvenated,"
+  },
+  {
+    "startTime": 377.58,
+    "endTime": 378.796,
+    "text": "the farmers are happy,"
+  },
+  {
+    "startTime": 378.82,
+    "endTime": 380.436,
+    "text": "the sheep are happy,"
+  },
+  {
+    "startTime": 380.46,
+    "endTime": 381.659,
+    "text": "everything is good."
+  },
+  {
+    "startTime": 382.26,
+    "endTime": 384.78,
+    "text": "Now, if one farmer brings one extra sheep,"
+  },
+  {
+    "startTime": 385.62,
+    "endTime": 390.34000000000003,
+    "text": "that farmer will do slightly better, and no one else will be harmed."
+  },
+  {
+    "startTime": 390.98,
+    "endTime": 394.62,
+    "text": "But if every farmer made that individually rational decision,"
+  },
+  {
+    "startTime": 395.66,
+    "endTime": 398.38000000000005,
+    "text": "the land will be overrun, and it will be depleted"
+  },
+  {
+    "startTime": 399.18,
+    "endTime": 401.356,
+    "text": "to the detriment of all the farmers,"
+  },
+  {
+    "startTime": 401.38,
+    "endTime": 403.5,
+    "text": "and of course, to the detriment of the sheep."
+  },
+  {
+    "startTime": 404.54,
+    "endTime": 408.22,
+    "text": "We see this problem in many places:"
+  },
+  {
+    "startTime": 408.9,
+    "endTime": 412.75,
+    "text": "in the difficulty of managing overfishing,"
+  },
+  {
+    "startTime": 412.1,
+    "endTime": 416.66,
+    "text": "or in reducing carbon emissions to mitigate climate change."
+  },
+  {
+    "startTime": 418.98,
+    "endTime": 421.90000000000003,
+    "text": "When it comes to the regulation of driverless cars,"
+  },
+  {
+    "startTime": 422.9,
+    "endTime": 427.236,
+    "text": "the common land now is basically public safety --"
+  },
+  {
+    "startTime": 427.26,
+    "endTime": 428.5,
+    "text": "that's the common good --"
+  },
+  {
+    "startTime": 429.22,
+    "endTime": 431.196,
+    "text": "and the farmers are the passengers"
+  },
+  {
+    "startTime": 431.22,
+    "endTime": 434.82000000000005,
+    "text": "or the car owners who are choosing to ride in those cars."
+  },
+  {
+    "startTime": 436.78,
+    "endTime": 439.395,
+    "text": "And by making the individually rational choice"
+  },
+  {
+    "startTime": 439.42,
+    "endTime": 442.236,
+    "text": "of prioritizing their own safety,"
+  },
+  {
+    "startTime": 442.26,
+    "endTime": 445.396,
+    "text": "they may collectively be diminishing the common good,"
+  },
+  {
+    "startTime": 445.42,
+    "endTime": 447.62,
+    "text": "which is minimizing total harm."
+  },
+  {
+    "startTime": 450.14,
+    "endTime": 452.276,
+    "text": "It's called the tragedy of the commons,"
+  },
+  {
+    "startTime": 452.3,
+    "endTime": 453.596,
+    "text": "traditionally,"
+  },
+  {
+    "startTime": 453.62,
+    "endTime": 456.716,
+    "text": "but I think in the case of driverless cars,"
+  },
+  {
+    "startTime": 456.74,
+    "endTime": 459.596,
+    "text": "the problem may be a little bit more insidious"
+  },
+  {
+    "startTime": 459.62,
+    "endTime": 463.116,
+    "text": "because there is not necessarily an individual human being"
+  },
+  {
+    "startTime": 463.14,
+    "endTime": 464.836,
+    "text": "making those decisions."
+  },
+  {
+    "startTime": 464.86,
+    "endTime": 468.156,
+    "text": "So car manufacturers may simply program cars"
+  },
+  {
+    "startTime": 468.18,
+    "endTime": 470.7,
+    "text": "that will maximize safety for their clients,"
+  },
+  {
+    "startTime": 471.9,
+    "endTime": 474.876,
+    "text": "and those cars may learn automatically on their own"
+  },
+  {
+    "startTime": 474.9,
+    "endTime": 478.419,
+    "text": "that doing so requires slightly increasing risk for pedestrians."
+  },
+  {
+    "startTime": 479.34,
+    "endTime": 480.756,
+    "text": "So to use the sheep metaphor,"
+  },
+  {
+    "startTime": 480.78,
+    "endTime": 484.395,
+    "text": "it's like we now have electric sheep that have a mind of their own."
+  },
+  {
+    "startTime": 484.42,
+    "endTime": 485.87600000000003,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 485.9,
+    "endTime": 488.979,
+    "text": "And they may go and graze even if the farmer doesn't know it."
+  },
+  {
+    "startTime": 490.46,
+    "endTime": 494.436,
+    "text": "So this is what we may call the tragedy of the algorithmic commons,"
+  },
+  {
+    "startTime": 494.46,
+    "endTime": 496.82,
+    "text": "and if offers new types of challenges."
+  },
+  {
+    "startTime": 502.34,
+    "endTime": 504.236,
+    "text": "Typically, traditionally,"
+  },
+  {
+    "startTime": 504.26,
+    "endTime": 507.596,
+    "text": "we solve these types of social dilemmas using regulation,"
+  },
+  {
+    "startTime": 507.62,
+    "endTime": 510.356,
+    "text": "so either governments or communities get together,"
+  },
+  {
+    "startTime": 510.38,
+    "endTime": 514.116,
+    "text": "and they decide collectively what kind of outcome they want"
+  },
+  {
+    "startTime": 514.14,
+    "endTime": 516.795,
+    "text": "and what sort of constraints on individual behavior"
+  },
+  {
+    "startTime": 516.82,
+    "endTime": 518.2,
+    "text": "they need to implement."
+  },
+  {
+    "startTime": 519.419,
+    "endTime": 522.35,
+    "text": "And then using monitoring and enforcement,"
+  },
+  {
+    "startTime": 522.59,
+    "endTime": 524.618,
+    "text": "they can make sure that the public good is preserved."
+  },
+  {
+    "startTime": 525.26,
+    "endTime": 526.835,
+    "text": "So why don't we just,"
+  },
+  {
+    "startTime": 526.859,
+    "endTime": 528.355,
+    "text": "as regulators,"
+  },
+  {
+    "startTime": 528.379,
+    "endTime": 531.2760000000001,
+    "text": "require that all cars minimize harm?"
+  },
+  {
+    "startTime": 531.3,
+    "endTime": 533.54,
+    "text": "After all, this is what people say they want."
+  },
+  {
+    "startTime": 535.2,
+    "endTime": 536.436,
+    "text": "And more importantly,"
+  },
+  {
+    "startTime": 536.46,
+    "endTime": 539.556,
+    "text": "I can be sure that as an individual,"
+  },
+  {
+    "startTime": 539.58,
+    "endTime": 543.436,
+    "text": "if I buy a car that may sacrifice me in a very rare case,"
+  },
+  {
+    "startTime": 543.46,
+    "endTime": 545.116,
+    "text": "I'm not the only sucker doing that"
+  },
+  {
+    "startTime": 545.14,
+    "endTime": 547.819,
+    "text": "while everybody else enjoys unconditional protection."
+  },
+  {
+    "startTime": 548.94,
+    "endTime": 552.2760000000001,
+    "text": "In our survey, we did ask people whether they would support regulation"
+  },
+  {
+    "startTime": 552.3,
+    "endTime": 553.5,
+    "text": "and here's what we found."
+  },
+  {
+    "startTime": 554.18,
+    "endTime": 557.939,
+    "text": "First of all, people said no to regulation;"
+  },
+  {
+    "startTime": 559.1,
+    "endTime": 560.356,
+    "text": "and second, they said,"
+  },
+  {
+    "startTime": 560.38,
+    "endTime": 564.316,
+    "text": "\"Well if you regulate cars to do this and to minimize total harm,"
+  },
+  {
+    "startTime": 564.34,
+    "endTime": 565.82,
+    "text": "I will not buy those cars.\""
+  },
+  {
+    "startTime": 567.22,
+    "endTime": 568.596,
+    "text": "So ironically,"
+  },
+  {
+    "startTime": 568.62,
+    "endTime": 572.116,
+    "text": "by regulating cars to minimize harm,"
+  },
+  {
+    "startTime": 572.14,
+    "endTime": 573.98,
+    "text": "we may actually end up with more harm"
+  },
+  {
+    "startTime": 574.86,
+    "endTime": 578.516,
+    "text": "because people may not opt into the safer technology"
+  },
+  {
+    "startTime": 578.54,
+    "endTime": 580.62,
+    "text": "even if it's much safer than human drivers."
+  },
+  {
+    "startTime": 582.18,
+    "endTime": 585.596,
+    "text": "I don't have the final answer to this riddle,"
+  },
+  {
+    "startTime": 585.62,
+    "endTime": 587.196,
+    "text": "but I think as a starting point,"
+  },
+  {
+    "startTime": 587.22,
+    "endTime": 590.5160000000001,
+    "text": "we need society to come together"
+  },
+  {
+    "startTime": 590.54,
+    "endTime": 593.3,
+    "text": "to decide what trade-offs we are comfortable with"
+  },
+  {
+    "startTime": 594.18,
+    "endTime": 597.66,
+    "text": "and to come up with ways in which we can enforce those trade-offs."
+  },
+  {
+    "startTime": 598.34,
+    "endTime": 600.876,
+    "text": "As a starting point, my brilliant students,"
+  },
+  {
+    "startTime": 600.9,
+    "endTime": 603.356,
+    "text": "Edmond Awad and Sohan Dsouza,"
+  },
+  {
+    "startTime": 603.38,
+    "endTime": 605.18,
+    "text": "built the Moral Machine website,"
+  },
+  {
+    "startTime": 606.2,
+    "endTime": 608.6990000000001,
+    "text": "which generates random scenarios at you --"
+  },
+  {
+    "startTime": 609.9,
+    "endTime": 612.356,
+    "text": "basically a bunch of random dilemmas in a sequence"
+  },
+  {
+    "startTime": 612.38,
+    "endTime": 616.3,
+    "text": "where you have to choose what the car should do in a given scenario."
+  },
+  {
+    "startTime": 616.86,
+    "endTime": 621.46,
+    "text": "And we vary the ages and even the species of the different victims."
+  },
+  {
+    "startTime": 622.86,
+    "endTime": 626.556,
+    "text": "So far we've collected over five million decisions"
+  },
+  {
+    "startTime": 626.58,
+    "endTime": 628.7800000000001,
+    "text": "by over one million people worldwide"
+  },
+  {
+    "startTime": 630.22,
+    "endTime": 631.4200000000001,
+    "text": "from the website."
+  },
+  {
+    "startTime": 632.18,
+    "endTime": 634.596,
+    "text": "And this is helping us form an early picture"
+  },
+  {
+    "startTime": 634.62,
+    "endTime": 637.236,
+    "text": "of what trade-offs people are comfortable with"
+  },
+  {
+    "startTime": 637.26,
+    "endTime": 639.156,
+    "text": "and what matters to them --"
+  },
+  {
+    "startTime": 639.18,
+    "endTime": 640.62,
+    "text": "even across cultures."
+  },
+  {
+    "startTime": 642.6,
+    "endTime": 643.5550000000001,
+    "text": "But more importantly,"
+  },
+  {
+    "startTime": 643.58,
+    "endTime": 646.956,
+    "text": "doing this exercise is helping people recognize"
+  },
+  {
+    "startTime": 646.98,
+    "endTime": 649.796,
+    "text": "the difficulty of making those choices"
+  },
+  {
+    "startTime": 649.82,
+    "endTime": 653.62,
+    "text": "and that the regulators are tasked with impossible choices."
+  },
+  {
+    "startTime": 655.18,
+    "endTime": 658.756,
+    "text": "And maybe this will help us as a society understand the kinds of trade-offs"
+  },
+  {
+    "startTime": 658.78,
+    "endTime": 661.836,
+    "text": "that will be implemented ultimately in regulation."
+  },
+  {
+    "startTime": 661.86,
+    "endTime": 663.596,
+    "text": "And indeed, I was very happy to hear"
+  },
+  {
+    "startTime": 663.62,
+    "endTime": 665.636,
+    "text": "that the first set of regulations"
+  },
+  {
+    "startTime": 665.66,
+    "endTime": 667.795,
+    "text": "that came from the Department of Transport --"
+  },
+  {
+    "startTime": 667.82,
+    "endTime": 669.196,
+    "text": "announced last week --"
+  },
+  {
+    "startTime": 669.22,
+    "endTime": 675.796,
+    "text": "included a 15-point checklist for all carmakers to provide,"
+  },
+  {
+    "startTime": 675.82,
+    "endTime": 679.7600000000001,
+    "text": "and number 14 was ethical consideration --"
+  },
+  {
+    "startTime": 679.1,
+    "endTime": 680.82,
+    "text": "how are you going to deal with that."
+  },
+  {
+    "startTime": 683.62,
+    "endTime": 686.276,
+    "text": "We also have people reflect on their own decisions"
+  },
+  {
+    "startTime": 686.3,
+    "endTime": 689.3,
+    "text": "by giving them summaries of what they chose."
+  },
+  {
+    "startTime": 690.26,
+    "endTime": 691.915,
+    "text": "I'll give you one example --"
+  },
+  {
+    "startTime": 691.94,
+    "endTime": 695.476,
+    "text": "I'm just going to warn you that this is not your typical example,"
+  },
+  {
+    "startTime": 695.5,
+    "endTime": 696.876,
+    "text": "your typical user."
+  },
+  {
+    "startTime": 696.9,
+    "endTime": 700.516,
+    "text": "This is the most sacrificed and the most saved character for this person."
+  },
+  {
+    "startTime": 700.54,
+    "endTime": 705.74,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 706.5,
+    "endTime": 708.396,
+    "text": "Some of you may agree with him,"
+  },
+  {
+    "startTime": 708.42,
+    "endTime": 710.5999999999999,
+    "text": "or her, we don't know."
+  },
+  {
+    "startTime": 712.3,
+    "endTime": 718.435,
+    "text": "But this person also seems to slightly prefer passengers over pedestrians"
+  },
+  {
+    "startTime": 718.46,
+    "endTime": 720.556,
+    "text": "in their choices"
+  },
+  {
+    "startTime": 720.58,
+    "endTime": 723.3960000000001,
+    "text": "and is very happy to punish jaywalking."
+  },
+  {
+    "startTime": 723.42,
+    "endTime": 726.459,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 729.14,
+    "endTime": 730.356,
+    "text": "So let's wrap up."
+  },
+  {
+    "startTime": 730.379,
+    "endTime": 733.7950000000001,
+    "text": "We started with the question -- let's call it the ethical dilemma --"
+  },
+  {
+    "startTime": 733.82,
+    "endTime": 736.8760000000001,
+    "text": "of what the car should do in a specific scenario:"
+  },
+  {
+    "startTime": 736.9,
+    "endTime": 738.1,
+    "text": "swerve or stay?"
+  },
+  {
+    "startTime": 739.6,
+    "endTime": 741.7950000000001,
+    "text": "But then we realized that the problem was a different one."
+  },
+  {
+    "startTime": 741.82,
+    "endTime": 746.356,
+    "text": "It was the problem of how to get society to agree on and enforce"
+  },
+  {
+    "startTime": 746.38,
+    "endTime": 748.316,
+    "text": "the trade-offs they're comfortable with."
+  },
+  {
+    "startTime": 748.34,
+    "endTime": 749.596,
+    "text": "It's a social dilemma."
+  },
+  {
+    "startTime": 749.62,
+    "endTime": 754.636,
+    "text": "In the 1940s, Isaac Asimov wrote his famous laws of robotics --"
+  },
+  {
+    "startTime": 754.66,
+    "endTime": 755.98,
+    "text": "the three laws of robotics."
+  },
+  {
+    "startTime": 757.6,
+    "endTime": 759.5160000000001,
+    "text": "A robot may not harm a human being,"
+  },
+  {
+    "startTime": 759.54,
+    "endTime": 762.75,
+    "text": "a robot may not disobey a human being,"
+  },
+  {
+    "startTime": 762.1,
+    "endTime": 765.356,
+    "text": "and a robot may not allow itself to come to harm --"
+  },
+  {
+    "startTime": 765.38,
+    "endTime": 767.34,
+    "text": "in this order of importance."
+  },
+  {
+    "startTime": 768.18,
+    "endTime": 770.3149999999999,
+    "text": "But after 40 years or so"
+  },
+  {
+    "startTime": 770.34,
+    "endTime": 774.76,
+    "text": "and after so many stories pushing these laws to the limit,"
+  },
+  {
+    "startTime": 774.1,
+    "endTime": 777.796,
+    "text": "Asimov introduced the zeroth law"
+  },
+  {
+    "startTime": 777.82,
+    "endTime": 780.7600000000001,
+    "text": "which takes precedence above all,"
+  },
+  {
+    "startTime": 780.1,
+    "endTime": 783.38,
+    "text": "and it's that a robot may not harm humanity as a whole."
+  },
+  {
+    "startTime": 784.3,
+    "endTime": 788.675,
+    "text": "I don't know what this means in the context of driverless cars"
+  },
+  {
+    "startTime": 788.7,
+    "endTime": 791.436,
+    "text": "or any specific situation,"
+  },
+  {
+    "startTime": 791.46,
+    "endTime": 793.676,
+    "text": "and I don't know how we can implement it,"
+  },
+  {
+    "startTime": 793.7,
+    "endTime": 795.236,
+    "text": "but I think that by recognizing"
+  },
+  {
+    "startTime": 795.26,
+    "endTime": 801.396,
+    "text": "that the regulation of driverless cars is not only a technological problem"
+  },
+  {
+    "startTime": 801.42,
+    "endTime": 804.699,
+    "text": "but also a societal cooperation problem,"
+  },
+  {
+    "startTime": 805.62,
+    "endTime": 808.5,
+    "text": "I hope that we can at least begin to ask the right questions."
+  },
+  {
+    "startTime": 809.2,
+    "endTime": 810.236,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 810.26,
+    "endTime": 813.18,
+    "text": "(Applause)"
+  }
+]

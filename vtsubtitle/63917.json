@@ -1,0 +1,1097 @@
+[
+  {
+    "startTime": 13.14,
+    "endTime": 16.674,
+    "text": "Today, I'm going to talk about AI and us."
+  },
+  {
+    "startTime": 18.206,
+    "endTime": 20.349,
+    "text": "AI researchers have always said"
+  },
+  {
+    "startTime": 20.373,
+    "endTime": 22.967000000000002,
+    "text": "that we humans do not need to worry,"
+  },
+  {
+    "startTime": 22.991,
+    "endTime": 26.57,
+    "text": "because only menial jobs will be taken over by machines."
+  },
+  {
+    "startTime": 27.274,
+    "endTime": 28.877000000000002,
+    "text": "Is that really true?"
+  },
+  {
+    "startTime": 30.365,
+    "endTime": 34.192,
+    "text": "They have also said that AI will create new jobs,"
+  },
+  {
+    "startTime": 34.216,
+    "endTime": 37.627,
+    "text": "so those who lose their jobs will find a new one."
+  },
+  {
+    "startTime": 38.264,
+    "endTime": 39.619,
+    "text": "Of course."
+  },
+  {
+    "startTime": 39.643,
+    "endTime": 41.815,
+    "text": "But the real question is:"
+  },
+  {
+    "startTime": 41.839,
+    "endTime": 45.944,
+    "text": "How many of those who may lose their jobs to AI"
+  },
+  {
+    "startTime": 45.968,
+    "endTime": 48.457,
+    "text": "will be able to land a new one,"
+  },
+  {
+    "startTime": 48.481,
+    "endTime": 54.331,
+    "text": "especially when AI is smart enough to learn better than most of us?"
+  },
+  {
+    "startTime": 55.397,
+    "endTime": 57.582,
+    "text": "Let me ask you a question:"
+  },
+  {
+    "startTime": 58.666,
+    "endTime": 60.464,
+    "text": "How many of you think"
+  },
+  {
+    "startTime": 60.488,
+    "endTime": 66.582,
+    "text": "that AI will pass the entrance examination of a top university by 2020?"
+  },
+  {
+    "startTime": 67.836,
+    "endTime": 70.292,
+    "text": "Oh, so many. OK."
+  },
+  {
+    "startTime": 70.317,
+    "endTime": 74.675,
+    "text": "So some of you may say, \"Of course, yes!\""
+  },
+  {
+    "startTime": 75.369,
+    "endTime": 77.503,
+    "text": "Now singularity is the issue."
+  },
+  {
+    "startTime": 78.59,
+    "endTime": 81.685,
+    "text": "And some others may say, \"Maybe,"
+  },
+  {
+    "startTime": 81.709,
+    "endTime": 86.217,
+    "text": "because AI already won against a top Go player.\""
+  },
+  {
+    "startTime": 87.213,
+    "endTime": 90.893,
+    "text": "And others may say, \"No, never. Uh-uh.\""
+  },
+  {
+    "startTime": 92.195,
+    "endTime": 95.788,
+    "text": "That means we do not know the answer yet, right?"
+  },
+  {
+    "startTime": 96.268,
+    "endTime": 101.228,
+    "text": "So that was the reason why I started Todai Robot Project,"
+  },
+  {
+    "startTime": 101.252,
+    "endTime": 105.124,
+    "text": "making an AI which passes the entrance examination"
+  },
+  {
+    "startTime": 105.148,
+    "endTime": 107.737,
+    "text": "of the University of Tokyo,"
+  },
+  {
+    "startTime": 107.761,
+    "endTime": 110.298,
+    "text": "the top university in Japan."
+  },
+  {
+    "startTime": 111.464,
+    "endTime": 114.12,
+    "text": "This is our Todai Robot."
+  },
+  {
+    "startTime": 116.131,
+    "endTime": 121.941,
+    "text": "And, of course, the brain of the robot is working in the remote server."
+  },
+  {
+    "startTime": 122.747,
+    "endTime": 126.969,
+    "text": "It is now writing a 600-word essay"
+  },
+  {
+    "startTime": 126.993,
+    "endTime": 131.112,
+    "text": "on maritime trade in the 17th century."
+  },
+  {
+    "startTime": 131.136,
+    "endTime": 132.9,
+    "text": "How does that sound?"
+  },
+  {
+    "startTime": 134.113,
+    "endTime": 138.217,
+    "text": "Why did I take the entrance exam as its benchmark?"
+  },
+  {
+    "startTime": 139.98,
+    "endTime": 143.839,
+    "text": "Because I thought we had to study the performance of AI"
+  },
+  {
+    "startTime": 143.863,
+    "endTime": 145.977,
+    "text": "in comparison to humans,"
+  },
+  {
+    "startTime": 146.1,
+    "endTime": 148.861,
+    "text": "especially on the skills and expertise"
+  },
+  {
+    "startTime": 148.885,
+    "endTime": 152.97199999999998,
+    "text": "which are believed to be acquired only by humans"
+  },
+  {
+    "startTime": 152.997,
+    "endTime": 155.33200000000002,
+    "text": "and only through education."
+  },
+  {
+    "startTime": 155.782,
+    "endTime": 159.82500000000002,
+    "text": "To enter Todai, the University of Tokyo,"
+  },
+  {
+    "startTime": 159.849,
+    "endTime": 164.26899999999998,
+    "text": "you have to pass two different types of exams."
+  },
+  {
+    "startTime": 164.294,
+    "endTime": 168.54000000000002,
+    "text": "The first one is a national standardized test"
+  },
+  {
+    "startTime": 168.78,
+    "endTime": 170.481,
+    "text": "in multiple-choice style."
+  },
+  {
+    "startTime": 170.505,
+    "endTime": 172.96,
+    "text": "You have to take seven subjects"
+  },
+  {
+    "startTime": 172.984,
+    "endTime": 174.93900000000002,
+    "text": "and achieve a high score --"
+  },
+  {
+    "startTime": 174.963,
+    "endTime": 179.73399999999998,
+    "text": "I would say like an 85 percent or more accuracy rate --"
+  },
+  {
+    "startTime": 179.759,
+    "endTime": 183.845,
+    "text": "to be allowed to take the second stage written test"
+  },
+  {
+    "startTime": 183.87,
+    "endTime": 186.29,
+    "text": "prepared by Todai."
+  },
+  {
+    "startTime": 186.994,
+    "endTime": 192.311,
+    "text": "So let me first explain how modern AI works,"
+  },
+  {
+    "startTime": 192.335,
+    "endTime": 195.404,
+    "text": "taking the \"Jeopardy!\" challenge as an example."
+  },
+  {
+    "startTime": 197.539,
+    "endTime": 200.618,
+    "text": "Here is a typical \"Jeopardy!\" question:"
+  },
+  {
+    "startTime": 200.642,
+    "endTime": 205.103,
+    "text": "\"Mozart's last symphony shares its name with this planet.\""
+  },
+  {
+    "startTime": 206.195,
+    "endTime": 210.208,
+    "text": "Interestingly, a \"Jeopardy!\" question always asks,"
+  },
+  {
+    "startTime": 210.232,
+    "endTime": 213.56,
+    "text": "always ends with \"this\" something:"
+  },
+  {
+    "startTime": 213.584,
+    "endTime": 216.411,
+    "text": "\"this\" planet, \"this\" country,"
+  },
+  {
+    "startTime": 216.435,
+    "endTime": 219.43,
+    "text": "\"this\" rock musician, and so on."
+  },
+  {
+    "startTime": 219.67,
+    "endTime": 223.36599999999999,
+    "text": "In other words, \"Jeopardy!\" doesn't ask many different types of questions,"
+  },
+  {
+    "startTime": 223.39,
+    "endTime": 225.226,
+    "text": "but a single type,"
+  },
+  {
+    "startTime": 225.251,
+    "endTime": 227.787,
+    "text": "which we call \"factoid questions.\""
+  },
+  {
+    "startTime": 228.975,
+    "endTime": 231.142,
+    "text": "By the way, do you know the answer?"
+  },
+  {
+    "startTime": 233.98,
+    "endTime": 238.35,
+    "text": "If you do not know the answer and if you want to know the answer,"
+  },
+  {
+    "startTime": 238.59,
+    "endTime": 239.346,
+    "text": "what would you do?"
+  },
+  {
+    "startTime": 240.16,
+    "endTime": 243.292,
+    "text": "You Google, right? Of course."
+  },
+  {
+    "startTime": 243.316,
+    "endTime": 244.796,
+    "text": "Why not?"
+  },
+  {
+    "startTime": 244.82,
+    "endTime": 248.412,
+    "text": "But you have to pick appropriate keywords"
+  },
+  {
+    "startTime": 248.436,
+    "endTime": 252.8,
+    "text": "like \"Mozart,\" \"last\" and \"symphony\" to search."
+  },
+  {
+    "startTime": 253.462,
+    "endTime": 255.862,
+    "text": "The machine basically does the same."
+  },
+  {
+    "startTime": 256.457,
+    "endTime": 261.117,
+    "text": "Then this Wikipedia page will be ranked top."
+  },
+  {
+    "startTime": 261.839,
+    "endTime": 263.748,
+    "text": "Then the machine reads the page."
+  },
+  {
+    "startTime": 263.772,
+    "endTime": 264.943,
+    "text": "No, uh-uh."
+  },
+  {
+    "startTime": 265.47,
+    "endTime": 268.932,
+    "text": "Unfortunately, none of the modern AIs,"
+  },
+  {
+    "startTime": 268.956,
+    "endTime": 272.92400000000004,
+    "text": "including Watson, Siri and Todai Robot,"
+  },
+  {
+    "startTime": 272.948,
+    "endTime": 274.609,
+    "text": "is able to read."
+  },
+  {
+    "startTime": 275.437,
+    "endTime": 279.237,
+    "text": "But they are very good at searching and optimizing."
+  },
+  {
+    "startTime": 280.158,
+    "endTime": 282.18100000000004,
+    "text": "It will recognize"
+  },
+  {
+    "startTime": 282.866,
+    "endTime": 285.801,
+    "text": "that the keywords \"Mozart,\" \"last\" and \"symphony\""
+  },
+  {
+    "startTime": 285.825,
+    "endTime": 288.728,
+    "text": "are appearing heavily around here."
+  },
+  {
+    "startTime": 289.79,
+    "endTime": 294.165,
+    "text": "So if it can find a word which is a planet"
+  },
+  {
+    "startTime": 294.189,
+    "endTime": 297.83700000000005,
+    "text": "and which is co-occurring with these keywords,"
+  },
+  {
+    "startTime": 297.861,
+    "endTime": 299.849,
+    "text": "that must be the answer."
+  },
+  {
+    "startTime": 300.762,
+    "endTime": 305.948,
+    "text": "This is how Watson finds the answer \"Jupiter,\" in this case."
+  },
+  {
+    "startTime": 308.433,
+    "endTime": 312.48199999999997,
+    "text": "Our Todai Robot works similarly, but a bit smarter"
+  },
+  {
+    "startTime": 312.506,
+    "endTime": 315.74399999999997,
+    "text": "in answering history yes-no questions,"
+  },
+  {
+    "startTime": 316.56,
+    "endTime": 322.223,
+    "text": "like, \"'Charlemagne repelled the Magyars.' Is this sentence true or false?\""
+  },
+  {
+    "startTime": 323.181,
+    "endTime": 327.253,
+    "text": "Our robot starts producing a factoid question,"
+  },
+  {
+    "startTime": 327.278,
+    "endTime": 332.177,
+    "text": "like: \"Charlemagne repelled [this person type]\" by itself."
+  },
+  {
+    "startTime": 332.995,
+    "endTime": 337.72700000000003,
+    "text": "Then, \"Avars\" but not \"Magyars\" is ranked top."
+  },
+  {
+    "startTime": 338.357,
+    "endTime": 341.406,
+    "text": "This sentence is likely to be false."
+  },
+  {
+    "startTime": 342.772,
+    "endTime": 347.632,
+    "text": "Our robot does not read, does not understand,"
+  },
+  {
+    "startTime": 348.335,
+    "endTime": 352.479,
+    "text": "but it is statistically correct in many cases."
+  },
+  {
+    "startTime": 354.147,
+    "endTime": 356.655,
+    "text": "For the second stage written test,"
+  },
+  {
+    "startTime": 356.679,
+    "endTime": 361.784,
+    "text": "it is required to write a 600-word essay like this one:"
+  },
+  {
+    "startTime": 361.809,
+    "endTime": 364.87,
+    "text": "[Discuss the rise and fall of the maritime trade"
+  },
+  {
+    "startTime": 364.111,
+    "endTime": 366.533,
+    "text": "in East and Southeast Asia in the 17th century ...]"
+  },
+  {
+    "startTime": 366.557,
+    "endTime": 367.944,
+    "text": "and as I have shown earlier,"
+  },
+  {
+    "startTime": 367.968,
+    "endTime": 372.16200000000003,
+    "text": "our robot took the sentences from the textbooks and Wikipedia,"
+  },
+  {
+    "startTime": 372.186,
+    "endTime": 374.147,
+    "text": "combined them together,"
+  },
+  {
+    "startTime": 374.171,
+    "endTime": 377.79,
+    "text": "and optimized it to produce an essay"
+  },
+  {
+    "startTime": 377.814,
+    "endTime": 380.21000000000004,
+    "text": "without understanding a thing."
+  },
+  {
+    "startTime": 380.45,
+    "endTime": 381.782,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 381.806,
+    "endTime": 386.7,
+    "text": "But surprisingly, it wrote a better essay"
+  },
+  {
+    "startTime": 386.725,
+    "endTime": 388.286,
+    "text": "than most of the students."
+  },
+  {
+    "startTime": 388.31,
+    "endTime": 390.701,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 390.725,
+    "endTime": 392.254,
+    "text": "How about mathematics?"
+  },
+  {
+    "startTime": 393.354,
+    "endTime": 396.512,
+    "text": "A fully automatic math-solving machine"
+  },
+  {
+    "startTime": 396.536,
+    "endTime": 398.167,
+    "text": "has been a dream"
+  },
+  {
+    "startTime": 398.191,
+    "endTime": 402.86899999999997,
+    "text": "since the birth of the word \"artificial intelligence,\""
+  },
+  {
+    "startTime": 403.785,
+    "endTime": 409.79200000000003,
+    "text": "but it has stayed at the level of arithmetic for a long, long time."
+  },
+  {
+    "startTime": 411.53,
+    "endTime": 416.88,
+    "text": "Last year, we finally succeeded in developing a system"
+  },
+  {
+    "startTime": 416.904,
+    "endTime": 422.77,
+    "text": "which solved pre-university-level problems from end to end,"
+  },
+  {
+    "startTime": 422.101,
+    "endTime": 423.363,
+    "text": "like this one."
+  },
+  {
+    "startTime": 425.648,
+    "endTime": 429.65000000000003,
+    "text": "This is the original problem written in Japanese,"
+  },
+  {
+    "startTime": 429.674,
+    "endTime": 434.7,
+    "text": "and we had to teach it 2,000 mathematical axioms"
+  },
+  {
+    "startTime": 434.95,
+    "endTime": 436.86899999999997,
+    "text": "and 8,000 Japanese words"
+  },
+  {
+    "startTime": 436.893,
+    "endTime": 441.45,
+    "text": "to make it accept the problems written in natural language."
+  },
+  {
+    "startTime": 442.234,
+    "endTime": 445.775,
+    "text": "And it is now translating the original problems"
+  },
+  {
+    "startTime": 445.8,
+    "endTime": 448.939,
+    "text": "into machine-readable formulas."
+  },
+  {
+    "startTime": 450.578,
+    "endTime": 456.676,
+    "text": "Weird, but it is now ready to solve it, I think."
+  },
+  {
+    "startTime": 456.701,
+    "endTime": 458.112,
+    "text": "Go and solve it."
+  },
+  {
+    "startTime": 458.818,
+    "endTime": 463.102,
+    "text": "Yes! It is now executing symbolic computation."
+  },
+  {
+    "startTime": 464.3,
+    "endTime": 465.60900000000004,
+    "text": "Even more weird,"
+  },
+  {
+    "startTime": 465.634,
+    "endTime": 470.459,
+    "text": "but probably this is the most fun part for the machine."
+  },
+  {
+    "startTime": 470.483,
+    "endTime": 472.834,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 472.858,
+    "endTime": 475.673,
+    "text": "Now it outputs a perfect answer,"
+  },
+  {
+    "startTime": 475.697,
+    "endTime": 480.404,
+    "text": "though its proof is impossible to read, even for mathematicians."
+  },
+  {
+    "startTime": 482.773,
+    "endTime": 489.73400000000004,
+    "text": "Anyway, last year our robot was among the top one percent"
+  },
+  {
+    "startTime": 490.199,
+    "endTime": 493.832,
+    "text": "in the second stage written exam in mathematics."
+  },
+  {
+    "startTime": 494.652,
+    "endTime": 497.861,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 498.412,
+    "endTime": 499.722,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 499.747,
+    "endTime": 502.218,
+    "text": "So, did it enter Todai?"
+  },
+  {
+    "startTime": 502.981,
+    "endTime": 506.39,
+    "text": "No, not as I expected."
+  },
+  {
+    "startTime": 506.783,
+    "endTime": 508.182,
+    "text": "Why?"
+  },
+  {
+    "startTime": 508.206,
+    "endTime": 510.845,
+    "text": "Because it doesn't understand any meaning."
+  },
+  {
+    "startTime": 512.308,
+    "endTime": 516.386,
+    "text": "Let me show you a typical error it made in the English test."
+  },
+  {
+    "startTime": 516.41,
+    "endTime": 519.387,
+    "text": "[Nate: We're almost at the bookstore. Just a few more minutes."
+  },
+  {
+    "startTime": 519.412,
+    "endTime": 522.451,
+    "text": "Sunil: Wait. ______ . Nate: Thank you! That always happens ...]"
+  },
+  {
+    "startTime": 522.475,
+    "endTime": 523.626,
+    "text": "Two people are talking."
+  },
+  {
+    "startTime": 523.65,
+    "endTime": 525.704,
+    "text": "For us, who can understand the situation --"
+  },
+  {
+    "startTime": 525.704,
+    "endTime": 528.477,
+    "text": "[1. \"We walked for a long time.\" 2. \"We're almost there.\""
+  },
+  {
+    "startTime": 528.501,
+    "endTime": 531.533,
+    "text": "3. \"Your shoes look expensive.\" 4. \"Your shoelace is untied.\"]"
+  },
+  {
+    "startTime": 531.557,
+    "endTime": 534.4300000000001,
+    "text": "it is obvious number four is the correct answer, right?"
+  },
+  {
+    "startTime": 534.454,
+    "endTime": 536.692,
+    "text": "But Todai Robot chose number two,"
+  },
+  {
+    "startTime": 536.716,
+    "endTime": 542.76,
+    "text": "even after learning 15 billion English sentences"
+  },
+  {
+    "startTime": 542.1,
+    "endTime": 544.828,
+    "text": "using deep learning technologies."
+  },
+  {
+    "startTime": 547.6,
+    "endTime": 551.772,
+    "text": "OK, so now you might understand what I said:"
+  },
+  {
+    "startTime": 552.399,
+    "endTime": 555.47,
+    "text": "modern AIs do not read,"
+  },
+  {
+    "startTime": 555.71,
+    "endTime": 556.484,
+    "text": "do not understand."
+  },
+  {
+    "startTime": 557.516,
+    "endTime": 560.685,
+    "text": "They only disguise as if they do."
+  },
+  {
+    "startTime": 564.867,
+    "endTime": 567.848,
+    "text": "This is the distribution graph"
+  },
+  {
+    "startTime": 567.872,
+    "endTime": 573.649,
+    "text": "of half a million students who took the same exam as Todai Robot."
+  },
+  {
+    "startTime": 574.558,
+    "endTime": 579.723,
+    "text": "Now our Todai Robot is among the top 20 percent,"
+  },
+  {
+    "startTime": 580.986,
+    "endTime": 583.401,
+    "text": "and it was capable to pass"
+  },
+  {
+    "startTime": 583.425,
+    "endTime": 587.366,
+    "text": "more than 60 percent of the universities in Japan --"
+  },
+  {
+    "startTime": 587.39,
+    "endTime": 588.766,
+    "text": "but not Todai."
+  },
+  {
+    "startTime": 590.116,
+    "endTime": 594.141,
+    "text": "But see how it is beyond the volume zone"
+  },
+  {
+    "startTime": 594.165,
+    "endTime": 597.29,
+    "text": "of to-be white-collar workers."
+  },
+  {
+    "startTime": 600.6,
+    "endTime": 602.917,
+    "text": "You might think I was delighted."
+  },
+  {
+    "startTime": 603.939,
+    "endTime": 607.91,
+    "text": "After all, my robot was surpassing students everywhere."
+  },
+  {
+    "startTime": 609.22,
+    "endTime": 611.7130000000001,
+    "text": "Instead, I was alarmed."
+  },
+  {
+    "startTime": 613.86,
+    "endTime": 618.693,
+    "text": "How on earth could this unintelligent machine outperform students --"
+  },
+  {
+    "startTime": 618.717,
+    "endTime": 620.9,
+    "text": "our children?"
+  },
+  {
+    "startTime": 620.33,
+    "endTime": 621.186,
+    "text": "Right?"
+  },
+  {
+    "startTime": 622.101,
+    "endTime": 626.503,
+    "text": "I decided to investigate what was going on in the human world."
+  },
+  {
+    "startTime": 628.542,
+    "endTime": 633.2710000000001,
+    "text": "I took hundreds of sentences from high school textbooks"
+  },
+  {
+    "startTime": 633.859,
+    "endTime": 637.172,
+    "text": "and made easy multiple-choice quizzes,"
+  },
+  {
+    "startTime": 637.196,
+    "endTime": 641.339,
+    "text": "and asked thousands of high school students to answer."
+  },
+  {
+    "startTime": 642.69,
+    "endTime": 643.8660000000001,
+    "text": "Here is an example:"
+  },
+  {
+    "startTime": 643.89,
+    "endTime": 646.708,
+    "text": "[Buddhism spread to ... , Christianity to ... and Oceania,"
+  },
+  {
+    "startTime": 646.732,
+    "endTime": 647.882,
+    "text": "and Islam to ...]"
+  },
+  {
+    "startTime": 647.907,
+    "endTime": 650.647,
+    "text": "Of course, the original problems are written in Japanese,"
+  },
+  {
+    "startTime": 650.671,
+    "endTime": 651.826,
+    "text": "their mother tongue."
+  },
+  {
+    "startTime": 651.85,
+    "endTime": 653.365,
+    "text": "[ ______ has spread to Oceania."
+  },
+  {
+    "startTime": 653.389,
+    "endTime": 655.806,
+    "text": "1. Hinduism 2. Christianity 3. Islam 4. Buddhism ]"
+  },
+  {
+    "startTime": 655.83,
+    "endTime": 658.129,
+    "text": "Obviously, Christianity is the answer, isn't it?"
+  },
+  {
+    "startTime": 658.153,
+    "endTime": 659.3670000000001,
+    "text": "It's written!"
+  },
+  {
+    "startTime": 661.482,
+    "endTime": 665.507,
+    "text": "And Todai Robot chose the correct answer, too."
+  },
+  {
+    "startTime": 666.758,
+    "endTime": 671.6370000000001,
+    "text": "But one-third of junior high school students"
+  },
+  {
+    "startTime": 671.661,
+    "endTime": 674.2719999999999,
+    "text": "failed to answer this question."
+  },
+  {
+    "startTime": 676.456,
+    "endTime": 679.615,
+    "text": "Do you think it is only the case in Japan?"
+  },
+  {
+    "startTime": 679.639,
+    "endTime": 681.615,
+    "text": "I do not think so,"
+  },
+  {
+    "startTime": 681.639,
+    "endTime": 688.1,
+    "text": "because Japan is always ranked among the top in OECD PISA tests,"
+  },
+  {
+    "startTime": 688.34,
+    "endTime": 691.961,
+    "text": "measuring 15-year-old students' performance in mathematics,"
+  },
+  {
+    "startTime": 691.985,
+    "endTime": 693.9490000000001,
+    "text": "science and reading"
+  },
+  {
+    "startTime": 693.973,
+    "endTime": 695.608,
+    "text": "every three years."
+  },
+  {
+    "startTime": 699.39,
+    "endTime": 701.443,
+    "text": "We have been believing"
+  },
+  {
+    "startTime": 701.467,
+    "endTime": 703.51,
+    "text": "that everybody can learn"
+  },
+  {
+    "startTime": 703.534,
+    "endTime": 705.439,
+    "text": "and learn well,"
+  },
+  {
+    "startTime": 705.463,
+    "endTime": 709.16,
+    "text": "as long as we provide good learning materials"
+  },
+  {
+    "startTime": 709.184,
+    "endTime": 710.639,
+    "text": "free on the web"
+  },
+  {
+    "startTime": 710.663,
+    "endTime": 713.732,
+    "text": "so that they can access through the internet."
+  },
+  {
+    "startTime": 713.756,
+    "endTime": 719.615,
+    "text": "But such wonderful materials may benefit only those who can read well,"
+  },
+  {
+    "startTime": 720.534,
+    "endTime": 724.468,
+    "text": "and the percentage of those who can read well"
+  },
+  {
+    "startTime": 724.493,
+    "endTime": 727.8710000000001,
+    "text": "may be much less than we expected."
+  },
+  {
+    "startTime": 730.4,
+    "endTime": 734.281,
+    "text": "How we humans will coexist with AI"
+  },
+  {
+    "startTime": 734.305,
+    "endTime": 737.827,
+    "text": "is something we have to think about carefully,"
+  },
+  {
+    "startTime": 737.851,
+    "endTime": 739.9879999999999,
+    "text": "based on solid evidence."
+  },
+  {
+    "startTime": 741.63,
+    "endTime": 745.4,
+    "text": "At the same time, we have to think in a hurry"
+  },
+  {
+    "startTime": 745.64,
+    "endTime": 747.466,
+    "text": "because time is running out."
+  },
+  {
+    "startTime": 748.106,
+    "endTime": 749.268,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 749.626,
+    "endTime": 753.559,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 754.211,
+    "endTime": 756.291,
+    "text": "Chris Anderson: Noriko, thank you."
+  },
+  {
+    "startTime": 756.315,
+    "endTime": 758.8000000000001,
+    "text": "Noriko Arai: Thank you."
+  },
+  {
+    "startTime": 758.104,
+    "endTime": 763.408,
+    "text": "CA: In your talk, you so beautifully give us a sense of how AIs think,"
+  },
+  {
+    "startTime": 763.432,
+    "endTime": 764.996,
+    "text": "what they can do amazingly"
+  },
+  {
+    "startTime": 765.2,
+    "endTime": 766.715,
+    "text": "and what they can't do."
+  },
+  {
+    "startTime": 766.739,
+    "endTime": 768.2330000000001,
+    "text": "But -- do I read you right,"
+  },
+  {
+    "startTime": 768.257,
+    "endTime": 773.526,
+    "text": "that you think we really need quite an urgent revolution in education"
+  },
+  {
+    "startTime": 773.551,
+    "endTime": 777.706,
+    "text": "to help kids do the things that humans can do better than AIs?"
+  },
+  {
+    "startTime": 777.73,
+    "endTime": 779.58,
+    "text": "NA: Yes, yes, yes."
+  },
+  {
+    "startTime": 779.82,
+    "endTime": 783.1170000000001,
+    "text": "Because we humans can understand the meaning."
+  },
+  {
+    "startTime": 783.141,
+    "endTime": 788.4599999999999,
+    "text": "That is something which is very, very lacking in AI."
+  },
+  {
+    "startTime": 788.71,
+    "endTime": 792.4390000000001,
+    "text": "But most of the students just pack the knowledge"
+  },
+  {
+    "startTime": 792.463,
+    "endTime": 796.366,
+    "text": "without understanding the meaning of the knowledge,"
+  },
+  {
+    "startTime": 796.39,
+    "endTime": 799.199,
+    "text": "so that is not knowledge, that is just memorizing,"
+  },
+  {
+    "startTime": 799.223,
+    "endTime": 801.673,
+    "text": "and AI can do the same thing."
+  },
+  {
+    "startTime": 801.697,
+    "endTime": 805.328,
+    "text": "So we have to think about a new type of education."
+  },
+  {
+    "startTime": 805.352,
+    "endTime": 808.641,
+    "text": "CA: A shift from knowledge, rote knowledge, to meaning."
+  },
+  {
+    "startTime": 808.665,
+    "endTime": 809.8149999999999,
+    "text": "NA: Mm-hmm."
+  },
+  {
+    "startTime": 809.84,
+    "endTime": 813.8000000000001,
+    "text": "CA: Well, there's a challenge for the educators. Thank you so much."
+  },
+  {
+    "startTime": 813.104,
+    "endTime": 814.802,
+    "text": "NA: Thank you very much. Thank you."
+  },
+  {
+    "startTime": 814.826,
+    "endTime": 816.11,
+    "text": "(Applause)"
+  }
+]

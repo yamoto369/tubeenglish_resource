@@ -1,0 +1,1592 @@
+[
+  {
+    "startTime": 12.92,
+    "endTime": 17.04,
+    "text": "someday we may have robots the smartest"
+  },
+  {
+    "startTime": 17.04,
+    "endTime": 20.669,
+    "text": "people artificial intelligence AI how"
+  },
+  {
+    "startTime": 20.669,
+    "endTime": 23.849,
+    "text": "could that happen one route is that"
+  },
+  {
+    "startTime": 23.849,
+    "endTime": 25.439,
+    "text": "we'll just keep accumulating better"
+  },
+  {
+    "startTime": 25.439,
+    "endTime": 27.45,
+    "text": "software like we've been doing for 70"
+  },
+  {
+    "startTime": 27.45,
+    "endTime": 30.3,
+    "text": "years at past rates of progress that may"
+  },
+  {
+    "startTime": 30.3,
+    "endTime": 33.719,
+    "text": "take centuries some say it'll happen a"
+  },
+  {
+    "startTime": 33.719,
+    "endTime": 36.18,
+    "text": "lot faster as we discover grand new"
+  },
+  {
+    "startTime": 36.18,
+    "endTime": 38.489,
+    "text": "powerful theories of intelligence I'm"
+  },
+  {
+    "startTime": 38.489,
+    "endTime": 39.769,
+    "text": "skeptical"
+  },
+  {
+    "startTime": 39.769,
+    "endTime": 44.28,
+    "text": "but a third scenario it's what I'm going"
+  },
+  {
+    "startTime": 44.28,
+    "endTime": 45.12,
+    "text": "to talk about today"
+  },
+  {
+    "startTime": 45.12,
+    "endTime": 46.949,
+    "text": "the idea is to port the software from"
+  },
+  {
+    "startTime": 46.949,
+    "endTime": 49.71,
+    "text": "the human brain to do this we're going"
+  },
+  {
+    "startTime": 49.71,
+    "endTime": 51.12,
+    "text": "to need three technologies to be good"
+  },
+  {
+    "startTime": 51.12,
+    "endTime": 51.51,
+    "text": "enough"
+  },
+  {
+    "startTime": 51.51,
+    "endTime": 55.649,
+    "text": "and none of other there yet first we're"
+  },
+  {
+    "startTime": 55.649,
+    "endTime": 58.109,
+    "text": "gonna need lots of cheap fast parallel"
+  },
+  {
+    "startTime": 58.109,
+    "endTime": 63.48,
+    "text": "computers second we're gonna need the"
+  },
+  {
+    "startTime": 63.48,
+    "endTime": 65.518,
+    "text": "scan individual human brains and fine"
+  },
+  {
+    "startTime": 65.519,
+    "endTime": 67.68,
+    "text": "spatial and chemical detail to see"
+  },
+  {
+    "startTime": 67.68,
+    "endTime": 70.14,
+    "text": "exactly what cells are we're connected"
+  },
+  {
+    "startTime": 70.14,
+    "endTime": 73.53,
+    "text": "of what are what type and third we're"
+  },
+  {
+    "startTime": 73.53,
+    "endTime": 75.96,
+    "text": "going to need computer models of how"
+  },
+  {
+    "startTime": 75.96,
+    "endTime": 79.38,
+    "text": "each kind of brain cell works taking"
+  },
+  {
+    "startTime": 79.38,
+    "endTime": 81.54,
+    "text": "input signals changing in turmoil State"
+  },
+  {
+    "startTime": 81.54,
+    "endTime": 83.04,
+    "text": "and sending output signals we have good"
+  },
+  {
+    "startTime": 83.04,
+    "endTime": 86.16,
+    "text": "enough models of all the kinds of brain"
+  },
+  {
+    "startTime": 86.16,
+    "endTime": 87.84,
+    "text": "cells and a good enough model of a brain"
+  },
+  {
+    "startTime": 87.84,
+    "endTime": 89.31,
+    "text": "we can put it together to can make it"
+  },
+  {
+    "startTime": 89.31,
+    "endTime": 91.2,
+    "text": "good enough model of an entire brain and"
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 93.33,
+    "text": "that model would have the same"
+  },
+  {
+    "startTime": 93.33,
+    "endTime": 95.37,
+    "text": "input-output behavior as the original so"
+  },
+  {
+    "startTime": 95.37,
+    "endTime": 98.58,
+    "text": "if you talk to it it might talk back if"
+  },
+  {
+    "startTime": 98.58,
+    "endTime": 99.75,
+    "text": "you ask them to do things they might do"
+  },
+  {
+    "startTime": 99.75,
+    "endTime": 102.39,
+    "text": "them and if we could do that everything"
+  },
+  {
+    "startTime": 102.39,
+    "endTime": 104.28,
+    "text": "would change people have been talking"
+  },
+  {
+    "startTime": 104.28,
+    "endTime": 106.47,
+    "text": "about this idea for decades under the"
+  },
+  {
+    "startTime": 106.47,
+    "endTime": 108.57,
+    "text": "name of uploads I'm going to call them"
+  },
+  {
+    "startTime": 108.57,
+    "endTime": 112.29,
+    "text": "Em's when they talk about it they say is"
+  },
+  {
+    "startTime": 112.29,
+    "endTime": 115.83,
+    "text": "this even possible if you made one would"
+  },
+  {
+    "startTime": 115.83,
+    "endTime": 117.24,
+    "text": "it be conscious or is just an empty"
+  },
+  {
+    "startTime": 117.24,
+    "endTime": 119.34,
+    "text": "machine if you made one of me is that me"
+  },
+  {
+    "startTime": 119.34,
+    "endTime": 121.47,
+    "text": "or someone else these are all"
+  },
+  {
+    "startTime": 121.47,
+    "endTime": 123.24,
+    "text": "fascinating questions that I'm going to"
+  },
+  {
+    "startTime": 123.24,
+    "endTime": 125.6,
+    "text": "ignore"
+  },
+  {
+    "startTime": 126.34,
+    "endTime": 129.41,
+    "text": "because I see a neglected question what"
+  },
+  {
+    "startTime": 129.41,
+    "endTime": 133.01,
+    "text": "would actually happen I became obsessed"
+  },
+  {
+    "startTime": 133.01,
+    "endTime": 137.02,
+    "text": "with this question I spent four years"
+  },
+  {
+    "startTime": 137.02,
+    "endTime": 139.67,
+    "text": "trying to analyze using standard"
+  },
+  {
+    "startTime": 139.67,
+    "endTime": 141.59,
+    "text": "academic tools to guess what would"
+  },
+  {
+    "startTime": 141.59,
+    "endTime": 143.48,
+    "text": "happen and I'm here to tell you what I"
+  },
+  {
+    "startTime": 143.48,
+    "endTime": 147.35,
+    "text": "found but be warned I'm not offering"
+  },
+  {
+    "startTime": 147.35,
+    "endTime": 150.5,
+    "text": "inspiration I'm offering analysis I see"
+  },
+  {
+    "startTime": 150.5,
+    "endTime": 152.27,
+    "text": "my job as telling you what's most likely"
+  },
+  {
+    "startTime": 152.27,
+    "endTime": 154.1,
+    "text": "to happen if we did the least to avoid"
+  },
+  {
+    "startTime": 154.1,
+    "endTime": 157.37,
+    "text": "it if you aren't at least a bit"
+  },
+  {
+    "startTime": 157.37,
+    "endTime": 158.87,
+    "text": "disturbed by something I tell you here"
+  },
+  {
+    "startTime": 158.87,
+    "endTime": 162.74,
+    "text": "you're just not paying attention okay"
+  },
+  {
+    "startTime": 162.74,
+    "endTime": 165.25,
+    "text": "the first thing I can tell you is that"
+  },
+  {
+    "startTime": 165.25,
+    "endTime": 167.66,
+    "text": "Anna spent most of their life in virtual"
+  },
+  {
+    "startTime": 167.66,
+    "endTime": 170.33,
+    "text": "reality this is what you might look like"
+  },
+  {
+    "startTime": 170.33,
+    "endTime": 173.77,
+    "text": "if you were using virtual reality and"
+  },
+  {
+    "startTime": 173.77,
+    "endTime": 177.68,
+    "text": "this is what you might see sunlight"
+  },
+  {
+    "startTime": 177.68,
+    "endTime": 179.39,
+    "text": "glinting off of water you might hear"
+  },
+  {
+    "startTime": 179.39,
+    "endTime": 181.7,
+    "text": "gulls flying above you might even feel"
+  },
+  {
+    "startTime": 181.7,
+    "endTime": 183.32,
+    "text": "the wind on their cheeks or smell"
+  },
+  {
+    "startTime": 183.32,
+    "endTime": 186.5,
+    "text": "seawater with advanced hardware now if"
+  },
+  {
+    "startTime": 186.5,
+    "endTime": 187.97,
+    "text": "you were in spent a lot of time here you"
+  },
+  {
+    "startTime": 187.97,
+    "endTime": 189.769,
+    "text": "might want a dashboard where you could"
+  },
+  {
+    "startTime": 189.769,
+    "endTime": 192.35,
+    "text": "do things like make a phone call move to"
+  },
+  {
+    "startTime": 192.35,
+    "endTime": 194.06,
+    "text": "a new virtual world check your bank"
+  },
+  {
+    "startTime": 194.06,
+    "endTime": 197.69,
+    "text": "account now while this is what you would"
+  },
+  {
+    "startTime": 197.69,
+    "endTime": 200.03,
+    "text": "look like in virtual reality this is"
+  },
+  {
+    "startTime": 200.03,
+    "endTime": 202.04,
+    "text": "what an M would look like when virtual"
+  },
+  {
+    "startTime": 202.04,
+    "endTime": 204.11,
+    "text": "reality it's computer hardware sitting"
+  },
+  {
+    "startTime": 204.11,
+    "endTime": 206.269,
+    "text": "in a server rack somewhere but still it"
+  },
+  {
+    "startTime": 206.269,
+    "endTime": 208.36,
+    "text": "could see and experience the same thing"
+  },
+  {
+    "startTime": 208.36,
+    "endTime": 210.97,
+    "text": "but some things are different for MS"
+  },
+  {
+    "startTime": 210.97,
+    "endTime": 213.709,
+    "text": "first while you'll probably always"
+  },
+  {
+    "startTime": 213.709,
+    "endTime": 215.3,
+    "text": "notice that virtual reality isn't"
+  },
+  {
+    "startTime": 215.3,
+    "endTime": 217.58,
+    "text": "entirely real to an M it can feel as"
+  },
+  {
+    "startTime": 217.58,
+    "endTime": 219.41,
+    "text": "real to them as this room feels to now"
+  },
+  {
+    "startTime": 219.41,
+    "endTime": 222.019,
+    "text": "as anything ever feels and Em's also"
+  },
+  {
+    "startTime": 222.019,
+    "endTime": 224.45,
+    "text": "have some more action possibilities for"
+  },
+  {
+    "startTime": 224.45,
+    "endTime": 226.07,
+    "text": "example your mind just always runs at"
+  },
+  {
+    "startTime": 226.07,
+    "endTime": 227.87,
+    "text": "the same speed but an M can add more or"
+  },
+  {
+    "startTime": 227.87,
+    "endTime": 229.67,
+    "text": "less computer hardware to run faster or"
+  },
+  {
+    "startTime": 229.67,
+    "endTime": 232.459,
+    "text": "slower and therefore if the world around"
+  },
+  {
+    "startTime": 232.459,
+    "endTime": 235.01,
+    "text": "them seems to be going too fast they can"
+  },
+  {
+    "startTime": 235.01,
+    "endTime": 236.45,
+    "text": "just speed up their mine in the world"
+  },
+  {
+    "startTime": 236.45,
+    "endTime": 238.7,
+    "text": "around them will seem to slow down in"
+  },
+  {
+    "startTime": 238.7,
+    "endTime": 241.63,
+    "text": "addition an M can make a copy of itself"
+  },
+  {
+    "startTime": 241.63,
+    "endTime": 245.269,
+    "text": "at that moment this copy will remember"
+  },
+  {
+    "startTime": 245.269,
+    "endTime": 246.799,
+    "text": "everything the same and if it starts out"
+  },
+  {
+    "startTime": 246.799,
+    "endTime": 249.019,
+    "text": "with the same speed listening looking at"
+  },
+  {
+    "startTime": 249.019,
+    "endTime": 250.28,
+    "text": "the same speed at night even they'd be"
+  },
+  {
+    "startTime": 250.28,
+    "endTime": 253.459,
+    "text": "told you are the copy and M can make an"
+  },
+  {
+    "startTime": 253.459,
+    "endTime": 255.44,
+    "text": "archive copies and with enough redundant"
+  },
+  {
+    "startTime": 255.44,
+    "endTime": 258.47,
+    "text": "archives and M can be immortal"
+  },
+  {
+    "startTime": 258.47,
+    "endTime": 259.88,
+    "text": "principal though not usually in practice"
+  },
+  {
+    "startTime": 259.88,
+    "endTime": 264.02,
+    "text": "and an M can move its brain the computer"
+  },
+  {
+    "startTime": 264.02,
+    "endTime": 265.25,
+    "text": "that represents its brain from one"
+  },
+  {
+    "startTime": 265.25,
+    "endTime": 268.37,
+    "text": "physical location to another and can"
+  },
+  {
+    "startTime": 268.37,
+    "endTime": 269.87,
+    "text": "actually move around the world at the"
+  },
+  {
+    "startTime": 269.87,
+    "endTime": 272.33,
+    "text": "speed of light and by moving to a new"
+  },
+  {
+    "startTime": 272.33,
+    "endTime": 273.71,
+    "text": "location they can interact more quickly"
+  },
+  {
+    "startTime": 273.71,
+    "endTime": 275.47,
+    "text": "with Em's near that new location"
+  },
+  {
+    "startTime": 275.47,
+    "endTime": 278.62,
+    "text": "so far I've been talking about what ms"
+  },
+  {
+    "startTime": 278.62,
+    "endTime": 284.51,
+    "text": "can do what two M's choose to do to"
+  },
+  {
+    "startTime": 284.51,
+    "endTime": 285.8,
+    "text": "understand that we'll need to understand"
+  },
+  {
+    "startTime": 285.8,
+    "endTime": 292.55,
+    "text": "three key facts first M by definition do"
+  },
+  {
+    "startTime": 292.55,
+    "endTime": 294.35,
+    "text": "what the human they emulate would do in"
+  },
+  {
+    "startTime": 294.35,
+    "endTime": 297.38,
+    "text": "the same situation so their lives and"
+  },
+  {
+    "startTime": 297.38,
+    "endTime": 299.09,
+    "text": "the behavior is very human they're"
+  },
+  {
+    "startTime": 299.09,
+    "endTime": 300.29,
+    "text": "mainly different because they're living"
+  },
+  {
+    "startTime": 300.29,
+    "endTime": 301.39,
+    "text": "in a different world"
+  },
+  {
+    "startTime": 301.39,
+    "endTime": 304.7,
+    "text": "second M's need real resources to"
+  },
+  {
+    "startTime": 304.7,
+    "endTime": 308.27,
+    "text": "survive you need food and shelter or"
+  },
+  {
+    "startTime": 308.27,
+    "endTime": 310.22,
+    "text": "you'll die also M's"
+  },
+  {
+    "startTime": 310.22,
+    "endTime": 312.5,
+    "text": "need computer hardware energy cooling or"
+  },
+  {
+    "startTime": 312.5,
+    "endTime": 314.54,
+    "text": "they can't exist for every subjective"
+  },
+  {
+    "startTime": 314.54,
+    "endTime": 316.76,
+    "text": "minute that an M experiences someone"
+  },
+  {
+    "startTime": 316.76,
+    "endTime": 319.57,
+    "text": "usually that M had to work to pay for it"
+  },
+  {
+    "startTime": 319.57,
+    "endTime": 325.04,
+    "text": "third M's report the M population could"
+  },
+  {
+    "startTime": 325.04,
+    "endTime": 326.57,
+    "text": "grow quicker than the M economy so that"
+  },
+  {
+    "startTime": 326.57,
+    "endTime": 328.669,
+    "text": "means wages fall down to M subsistence"
+  },
+  {
+    "startTime": 328.669,
+    "endTime": 330.98,
+    "text": "levels that means M's have to be working"
+  },
+  {
+    "startTime": 330.98,
+    "endTime": 333.71,
+    "text": "most of the time so that means this is"
+  },
+  {
+    "startTime": 333.71,
+    "endTime": 336.2,
+    "text": "what M is usually see beautiful and"
+  },
+  {
+    "startTime": 336.2,
+    "endTime": 338.87,
+    "text": "luxurious but desks there working most"
+  },
+  {
+    "startTime": 338.87,
+    "endTime": 342.29,
+    "text": "of the time now a subsistence wage"
+  },
+  {
+    "startTime": 342.29,
+    "endTime": 343.85,
+    "text": "scenario you might think is exotic and"
+  },
+  {
+    "startTime": 343.85,
+    "endTime": 345.44,
+    "text": "strange but it's actually the usual case"
+  },
+  {
+    "startTime": 345.44,
+    "endTime": 347.27,
+    "text": "in human history and is how pretty much"
+  },
+  {
+    "startTime": 347.27,
+    "endTime": 348.8,
+    "text": "all wild animals have ever lived so we"
+  },
+  {
+    "startTime": 348.8,
+    "endTime": 350.979,
+    "text": "know what humans do in this situation"
+  },
+  {
+    "startTime": 350.979,
+    "endTime": 353.33,
+    "text": "humans basically do what it takes to"
+  },
+  {
+    "startTime": 353.33,
+    "endTime": 356.419,
+    "text": "survive and this is what lets me say so"
+  },
+  {
+    "startTime": 356.419,
+    "endTime": 359.72,
+    "text": "much about the M world when creatures"
+  },
+  {
+    "startTime": 359.72,
+    "endTime": 361.85,
+    "text": "are rich like you you have to know a lot"
+  },
+  {
+    "startTime": 361.85,
+    "endTime": 363.26,
+    "text": "about what they want to figure out what"
+  },
+  {
+    "startTime": 363.26,
+    "endTime": 365.479,
+    "text": "they do when creatures are poor you know"
+  },
+  {
+    "startTime": 365.479,
+    "endTime": 366.83,
+    "text": "that they mostly do what it takes to"
+  },
+  {
+    "startTime": 366.83,
+    "endTime": 369.89,
+    "text": "survive so we've been talking about the"
+  },
+  {
+    "startTime": 369.89,
+    "endTime": 371.63,
+    "text": "M world from the point of view of the"
+  },
+  {
+    "startTime": 371.63,
+    "endTime": 372.86,
+    "text": "ends now let's step back and look at"
+  },
+  {
+    "startTime": 372.86,
+    "endTime": 376.28,
+    "text": "their whole world first the M world"
+  },
+  {
+    "startTime": 376.28,
+    "endTime": 378.38,
+    "text": "grows much faster than ours roughly a"
+  },
+  {
+    "startTime": 378.38,
+    "endTime": 381.169,
+    "text": "hundred times faster so the same amount"
+  },
+  {
+    "startTime": 381.169,
+    "endTime": 382.76,
+    "text": "of change we would experience in a"
+  },
+  {
+    "startTime": 382.76,
+    "endTime": 384.229,
+    "text": "century or two they would experience in"
+  },
+  {
+    "startTime": 384.229,
+    "endTime": 385.88,
+    "text": "a year or two and I'm not really willing"
+  },
+  {
+    "startTime": 385.88,
+    "endTime": 387.38,
+    "text": "to project this age much beyond that"
+  },
+  {
+    "startTime": 387.38,
+    "endTime": 388.88,
+    "text": "because plausibly by then something else"
+  },
+  {
+    "startTime": 388.88,
+    "endTime": 391.7,
+    "text": "will happen I don't know what"
+  },
+  {
+    "startTime": 391.7,
+    "endTime": 394.31,
+    "text": "the typical emulation runs even faster"
+  },
+  {
+    "startTime": 394.31,
+    "endTime": 397.52,
+    "text": "roughly a thousand times human speed so"
+  },
+  {
+    "startTime": 397.52,
+    "endTime": 400.13,
+    "text": "for them they experience thousands of"
+  },
+  {
+    "startTime": 400.13,
+    "endTime": 403.4,
+    "text": "years in this year or two and for them"
+  },
+  {
+    "startTime": 403.4,
+    "endTime": 404.42,
+    "text": "the world around them is actually"
+  },
+  {
+    "startTime": 404.42,
+    "endTime": 406.04,
+    "text": "changing more slowly than your world"
+  },
+  {
+    "startTime": 406.04,
+    "endTime": 407.56,
+    "text": "seems to change for you"
+  },
+  {
+    "startTime": 407.56,
+    "endTime": 411.05,
+    "text": "third M's are crammed together in a"
+  },
+  {
+    "startTime": 411.05,
+    "endTime": 413.06,
+    "text": "small number of very densities this is"
+  },
+  {
+    "startTime": 413.06,
+    "endTime": 414.5,
+    "text": "not only how they see themselves in"
+  },
+  {
+    "startTime": 414.5,
+    "endTime": 416.87,
+    "text": "virtual reality it's also how they"
+  },
+  {
+    "startTime": 416.87,
+    "endTime": 418.66,
+    "text": "actually are physically crammed together"
+  },
+  {
+    "startTime": 418.66,
+    "endTime": 421.82,
+    "text": "so at M speeds physical travel feels"
+  },
+  {
+    "startTime": 421.82,
+    "endTime": 424.49,
+    "text": "really painfully slow so most M cities"
+  },
+  {
+    "startTime": 424.49,
+    "endTime": 426.62,
+    "text": "are self-sufficient most war is cyber"
+  },
+  {
+    "startTime": 426.62,
+    "endTime": 428.66,
+    "text": "war and most of the rest of the earth"
+  },
+  {
+    "startTime": 428.66,
+    "endTime": 430.4,
+    "text": "away from the M cities is left to the"
+  },
+  {
+    "startTime": 430.4,
+    "endTime": 432.11,
+    "text": "humans because the M s really aren't"
+  },
+  {
+    "startTime": 432.11,
+    "endTime": 435.17,
+    "text": "that interested in it speaking of humans"
+  },
+  {
+    "startTime": 435.17,
+    "endTime": 437.05,
+    "text": "you were wanting to hear about that"
+  },
+  {
+    "startTime": 437.05,
+    "endTime": 442.06,
+    "text": "humans must retire at once for good"
+  },
+  {
+    "startTime": 442.06,
+    "endTime": 446.0,
+    "text": "they just can't compete now humans start"
+  },
+  {
+    "startTime": 446.0,
+    "endTime": 447.5,
+    "text": "our owning all of the capital in this"
+  },
+  {
+    "startTime": 447.5,
+    "endTime": 448.91,
+    "text": "world and the economy grows very fast"
+  },
+  {
+    "startTime": 448.91,
+    "endTime": 450.62,
+    "text": "their wealth grows very fast"
+  },
+  {
+    "startTime": 450.62,
+    "endTime": 454.7,
+    "text": "humans get rich collectively as you may"
+  },
+  {
+    "startTime": 454.7,
+    "endTime": 456.68,
+    "text": "know most humans do they don't actually"
+  },
+  {
+    "startTime": 456.68,
+    "endTime": 458.33,
+    "text": "known that much besides their ability to"
+  },
+  {
+    "startTime": 458.33,
+    "endTime": 461.15,
+    "text": "work so between now and then they need"
+  },
+  {
+    "startTime": 461.15,
+    "endTime": 463.43,
+    "text": "to acquire sufficient assets insurance"
+  },
+  {
+    "startTime": 463.43,
+    "endTime": 465.17,
+    "text": "or sharing arrangements or they may"
+  },
+  {
+    "startTime": 465.17,
+    "endTime": 467.78,
+    "text": "starve I highly recommend avoiding this"
+  },
+  {
+    "startTime": 467.78,
+    "endTime": 471.8,
+    "text": "outcome now you might wonder why would M"
+  },
+  {
+    "startTime": 471.8,
+    "endTime": 473.96,
+    "text": "let humans exist why not kill them take"
+  },
+  {
+    "startTime": 473.96,
+    "endTime": 476.72,
+    "text": "their stuff but notice we have many"
+  },
+  {
+    "startTime": 476.72,
+    "endTime": 479.03,
+    "text": "unproductive retirees around us today we"
+  },
+  {
+    "startTime": 479.03,
+    "endTime": 482.08,
+    "text": "don't kill them and take their stuff in"
+  },
+  {
+    "startTime": 482.08,
+    "endTime": 485.15,
+    "text": "part that's because it would disrupt the"
+  },
+  {
+    "startTime": 485.15,
+    "endTime": 487.64,
+    "text": "institution's we share with them other"
+  },
+  {
+    "startTime": 487.64,
+    "endTime": 489.2,
+    "text": "groups would wonder who's next"
+  },
+  {
+    "startTime": 489.2,
+    "endTime": 491.99,
+    "text": "so plausibly m's may well let humans"
+  },
+  {
+    "startTime": 491.99,
+    "endTime": 494.51,
+    "text": "retire in peace during the Age of M you"
+  },
+  {
+    "startTime": 494.51,
+    "endTime": 496.04,
+    "text": "should worry more that the age of M only"
+  },
+  {
+    "startTime": 496.04,
+    "endTime": 497.39,
+    "text": "lasts a year or two and you don't know"
+  },
+  {
+    "startTime": 497.39,
+    "endTime": 499.99,
+    "text": "what happens next"
+  },
+  {
+    "startTime": 499.99,
+    "endTime": 503.84,
+    "text": "M s are very much like humans but they"
+  },
+  {
+    "startTime": 503.84,
+    "endTime": 506.54,
+    "text": "are not like the typical human the"
+  },
+  {
+    "startTime": 506.54,
+    "endTime": 510.98,
+    "text": "typical M is a copy of the few hundred"
+  },
+  {
+    "startTime": 510.98,
+    "endTime": 515.03,
+    "text": "most productive humans so in fact they"
+  },
+  {
+    "startTime": 515.03,
+    "endTime": 516.5,
+    "text": "are as elite compared to the typical"
+  },
+  {
+    "startTime": 516.5,
+    "endTime": 518.33,
+    "text": "human as a typical billionaire Nobel"
+  },
+  {
+    "startTime": 518.33,
+    "endTime": 520.729,
+    "text": "Prize winner Olympic gold medalist head"
+  },
+  {
+    "startTime": 520.729,
+    "endTime": 523.469,
+    "text": "of state MS"
+  },
+  {
+    "startTime": 523.47,
+    "endTime": 525.69,
+    "text": "look on humans perhaps with nostalgia"
+  },
+  {
+    "startTime": 525.69,
+    "endTime": 528.18,
+    "text": "and gratitude but not so much respect"
+  },
+  {
+    "startTime": 528.18,
+    "endTime": 529.5,
+    "text": "which is if you think about it how you"
+  },
+  {
+    "startTime": 529.5,
+    "endTime": 531.78,
+    "text": "think about your ancestors we know many"
+  },
+  {
+    "startTime": 531.78,
+    "endTime": 533.64,
+    "text": "things about how humans differ in terms"
+  },
+  {
+    "startTime": 533.64,
+    "endTime": 534.93,
+    "text": "of productivity we could just use those"
+  },
+  {
+    "startTime": 534.93,
+    "endTime": 536.73,
+    "text": "to predict features of em's for example"
+  },
+  {
+    "startTime": 536.73,
+    "endTime": 538.32,
+    "text": "they tend to be smart conscientious"
+  },
+  {
+    "startTime": 538.32,
+    "endTime": 540.99,
+    "text": "hard-working married religious"
+  },
+  {
+    "startTime": 540.99,
+    "endTime": 543.36,
+    "text": "middle-aged these are features of Em's"
+  },
+  {
+    "startTime": 543.36,
+    "endTime": 545.84,
+    "text": "and world also contains enormous variety"
+  },
+  {
+    "startTime": 545.84,
+    "endTime": 548.04,
+    "text": "not only does it continue on with most"
+  },
+  {
+    "startTime": 548.04,
+    "endTime": 549.69,
+    "text": "of the kinds of variety that humans do"
+  },
+  {
+    "startTime": 549.69,
+    "endTime": 551.52,
+    "text": "including variety of industry and"
+  },
+  {
+    "startTime": 551.52,
+    "endTime": 554.4,
+    "text": "profession they also have many new kinds"
+  },
+  {
+    "startTime": 554.4,
+    "endTime": 555.9,
+    "text": "of variety and one of the most important"
+  },
+  {
+    "startTime": 555.9,
+    "endTime": 559.71,
+    "text": "is mind speed and complies ibly go from"
+  },
+  {
+    "startTime": 559.71,
+    "endTime": 562.17,
+    "text": "up to what human speed up to a million"
+  },
+  {
+    "startTime": 562.17,
+    "endTime": 564.99,
+    "text": "times faster than human speed and down"
+  },
+  {
+    "startTime": 564.99,
+    "endTime": 566.76,
+    "text": "to a billion times slower than human"
+  },
+  {
+    "startTime": 566.76,
+    "endTime": 570.45,
+    "text": "speed faster m/s tend to have markers of"
+  },
+  {
+    "startTime": 570.45,
+    "endTime": 572.25,
+    "text": "high status they embody more wealth they"
+  },
+  {
+    "startTime": 572.25,
+    "endTime": 573.66,
+    "text": "win arguments they've set a premium"
+  },
+  {
+    "startTime": 573.66,
+    "endTime": 576.45,
+    "text": "locations slower m/s or mostly retirees"
+  },
+  {
+    "startTime": 576.45,
+    "endTime": 577.77,
+    "text": "and they are like the ghosts of our"
+  },
+  {
+    "startTime": 577.77,
+    "endTime": 580.44,
+    "text": "literature if you recall ghosts are all"
+  },
+  {
+    "startTime": 580.44,
+    "endTime": 581.76,
+    "text": "around us you can interact with them if"
+  },
+  {
+    "startTime": 581.76,
+    "endTime": 583.41,
+    "text": "you pay the price but they don't know"
+  },
+  {
+    "startTime": 583.41,
+    "endTime": 584.94,
+    "text": "much that can't influence much and"
+  },
+  {
+    "startTime": 584.94,
+    "endTime": 586.35,
+    "text": "they're obsessed with the past so what's"
+  },
+  {
+    "startTime": 586.35,
+    "endTime": 588.589,
+    "text": "the point"
+  },
+  {
+    "startTime": 588.8,
+    "endTime": 591.18,
+    "text": "Emma also have more variety in the"
+  },
+  {
+    "startTime": 591.18,
+    "endTime": 593.1,
+    "text": "structure of their lives this is your"
+  },
+  {
+    "startTime": 593.1,
+    "endTime": 595.35,
+    "text": "life you start in un really simple this"
+  },
+  {
+    "startTime": 595.35,
+    "endTime": 597.6,
+    "text": "is the life of an M who every day splits"
+  },
+  {
+    "startTime": 597.6,
+    "endTime": 598.77,
+    "text": "off some short-term copies to do"
+  },
+  {
+    "startTime": 598.77,
+    "endTime": 601.79,
+    "text": "short-term tasks and then end this M"
+  },
+  {
+    "startTime": 601.79,
+    "endTime": 603.87,
+    "text": "we'll talk more about those short terms"
+  },
+  {
+    "startTime": 603.87,
+    "endTime": 605.73,
+    "text": "that have versions in a moment but they"
+  },
+  {
+    "startTime": 605.73,
+    "endTime": 606.75,
+    "text": "are much more efficient because they"
+  },
+  {
+    "startTime": 606.75,
+    "endTime": 609.15,
+    "text": "don't have to rest for the next day this"
+  },
+  {
+    "startTime": 609.15,
+    "endTime": 611.76,
+    "text": "M is more opportunistic they make more"
+  },
+  {
+    "startTime": 611.76,
+    "endTime": 612.96,
+    "text": "copies of themselves when there's more"
+  },
+  {
+    "startTime": 612.96,
+    "endTime": 614.73,
+    "text": "demand for that they don't know which"
+  },
+  {
+    "startTime": 614.73,
+    "endTime": 616.77,
+    "text": "way the future is going this is an M"
+  },
+  {
+    "startTime": 616.77,
+    "endTime": 618.9,
+    "text": "designer who conceives of a large system"
+  },
+  {
+    "startTime": 618.9,
+    "endTime": 620.67,
+    "text": "and then breaks into recursively in two"
+  },
+  {
+    "startTime": 620.67,
+    "endTime": 623.4,
+    "text": "copies who elaborate that so Emma's can"
+  },
+  {
+    "startTime": 623.4,
+    "endTime": 625.17,
+    "text": "implement MA the larger more coherent"
+  },
+  {
+    "startTime": 625.17,
+    "endTime": 627.78,
+    "text": "designs this is animation plumber who"
+  },
+  {
+    "startTime": 627.78,
+    "endTime": 629.85,
+    "text": "remembers that every day for the last 20"
+  },
+  {
+    "startTime": 629.85,
+    "endTime": 631.38,
+    "text": "years they only ever worked two hours a"
+  },
+  {
+    "startTime": 631.38,
+    "endTime": 633.45,
+    "text": "day a life of leisure but what really"
+  },
+  {
+    "startTime": 633.45,
+    "endTime": 634.95,
+    "text": "happened is every day that had a"
+  },
+  {
+    "startTime": 634.95,
+    "endTime": 636.66,
+    "text": "thousand copies each of whom did a two"
+  },
+  {
+    "startTime": 636.66,
+    "endTime": 638.31,
+    "text": "hour plumbing job and only one of them"
+  },
+  {
+    "startTime": 638.31,
+    "endTime": 640.29,
+    "text": "went on to the next day objectively"
+  },
+  {
+    "startTime": 640.29,
+    "endTime": 641.85,
+    "text": "they're working well over 99% of the"
+  },
+  {
+    "startTime": 641.85,
+    "endTime": 644.25,
+    "text": "time subjectively they remember a life"
+  },
+  {
+    "startTime": 644.25,
+    "endTime": 647.37,
+    "text": "of leisure this again is you you start"
+  },
+  {
+    "startTime": 647.37,
+    "endTime": 649.71,
+    "text": "in un this could be you if at the start"
+  },
+  {
+    "startTime": 649.71,
+    "endTime": 651.27,
+    "text": "of a party you took a drug that meant"
+  },
+  {
+    "startTime": 651.27,
+    "endTime": 653.28,
+    "text": "you would not remember that party ever"
+  },
+  {
+    "startTime": 653.28,
+    "endTime": 656.31,
+    "text": "after that day some people do this I'm"
+  },
+  {
+    "startTime": 656.31,
+    "endTime": 656.88,
+    "text": "told"
+  },
+  {
+    "startTime": 656.88,
+    "endTime": 659.1,
+    "text": "my question for you is toward the end of"
+  },
+  {
+    "startTime": 659.1,
+    "endTime": 660.779,
+    "text": "the party will you say to yourself I'm"
+  },
+  {
+    "startTime": 660.779,
+    "endTime": 662.339,
+    "text": "about to die this is terrible"
+  },
+  {
+    "startTime": 662.339,
+    "endTime": 663.63,
+    "text": "that person tomorrow isn't me because"
+  },
+  {
+    "startTime": 663.63,
+    "endTime": 665.37,
+    "text": "they won't remember what I do you could"
+  },
+  {
+    "startTime": 665.37,
+    "endTime": 666.72,
+    "text": "say that or you could say I will go on"
+  },
+  {
+    "startTime": 666.72,
+    "endTime": 668.1,
+    "text": "tomorrow I just don't remember what I"
+  },
+  {
+    "startTime": 668.1,
+    "endTime": 671.639,
+    "text": "did this is the M who splits off a short"
+  },
+  {
+    "startTime": 671.639,
+    "endTime": 673.199,
+    "text": "term copy to do a short term task in the"
+  },
+  {
+    "startTime": 673.199,
+    "endTime": 674.579,
+    "text": "end they have the same two attitude"
+  },
+  {
+    "startTime": 674.579,
+    "endTime": 676.74,
+    "text": "possibilities they can say I'm a new"
+  },
+  {
+    "startTime": 676.74,
+    "endTime": 678.18,
+    "text": "short-term creature with a short life I"
+  },
+  {
+    "startTime": 678.18,
+    "endTime": 679.8,
+    "text": "hate this or they can say I'm a part of"
+  },
+  {
+    "startTime": 679.8,
+    "endTime": 681.3,
+    "text": "a larger creature who won't remember"
+  },
+  {
+    "startTime": 681.3,
+    "endTime": 683.009,
+    "text": "this part I predict they'll have that"
+  },
+  {
+    "startTime": 683.009,
+    "endTime": 683.759,
+    "text": "second attitude"
+  },
+  {
+    "startTime": 683.759,
+    "endTime": 685.35,
+    "text": "not because it's philosophically correct"
+  },
+  {
+    "startTime": 685.35,
+    "endTime": 686.73,
+    "text": "but because it let help someone get"
+  },
+  {
+    "startTime": 686.73,
+    "endTime": 689.519,
+    "text": "along in this world today if the"
+  },
+  {
+    "startTime": 689.519,
+    "endTime": 691.29,
+    "text": "president says we must invade Iraq and"
+  },
+  {
+    "startTime": 691.29,
+    "endTime": 693.269,
+    "text": "you say why they say can't tell you the"
+  },
+  {
+    "startTime": 693.269,
+    "endTime": 694.41,
+    "text": "state secret you're not sure if you can"
+  },
+  {
+    "startTime": 694.41,
+    "endTime": 696.36,
+    "text": "trust them but for Em's a copy of the"
+  },
+  {
+    "startTime": 696.36,
+    "endTime": 697.68,
+    "text": "president and a copy of you can go"
+  },
+  {
+    "startTime": 697.68,
+    "endTime": 699.389,
+    "text": "inside a safe and inside the safe think"
+  },
+  {
+    "startTime": 699.389,
+    "endTime": 700.829,
+    "text": "letting all their secret reasons and"
+  },
+  {
+    "startTime": 700.829,
+    "endTime": 702.93,
+    "text": "then one bit comes out from your copy to"
+  },
+  {
+    "startTime": 702.93,
+    "endTime": 704.639,
+    "text": "yourself telling if you were convinced"
+  },
+  {
+    "startTime": 704.639,
+    "endTime": 706.769,
+    "text": "so now you can know there is a good"
+  },
+  {
+    "startTime": 706.769,
+    "endTime": 709.319,
+    "text": "reason I know you guys are all eager to"
+  },
+  {
+    "startTime": 709.319,
+    "endTime": 710.67,
+    "text": "evaluate this world you're eager to"
+  },
+  {
+    "startTime": 710.67,
+    "endTime": 712.98,
+    "text": "decide if you love it or hate it but"
+  },
+  {
+    "startTime": 712.98,
+    "endTime": 714.72,
+    "text": "think your ancestors from thousands of"
+  },
+  {
+    "startTime": 714.72,
+    "endTime": 716.37,
+    "text": "years ago would have loved or hated your"
+  },
+  {
+    "startTime": 716.37,
+    "endTime": 717.66,
+    "text": "world based on the first few things"
+  },
+  {
+    "startTime": 717.66,
+    "endTime": 718.98,
+    "text": "they'd heard about it because your world"
+  },
+  {
+    "startTime": 718.98,
+    "endTime": 720.29,
+    "text": "is really just weird"
+  },
+  {
+    "startTime": 720.29,
+    "endTime": 723.209,
+    "text": "so before judging a strange future world"
+  },
+  {
+    "startTime": 723.209,
+    "endTime": 724.47,
+    "text": "you should really learn a lot about it"
+  },
+  {
+    "startTime": 724.47,
+    "endTime": 725.85,
+    "text": "maybe even read a whole book about it"
+  },
+  {
+    "startTime": 725.85,
+    "endTime": 728.37,
+    "text": "and then if you don't like it work to"
+  },
+  {
+    "startTime": 728.37,
+    "endTime": 729.93,
+    "text": "change it thank you"
+  },
+  {
+    "startTime": 729.93,
+    "endTime": 734.15,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 734.15,
+    "endTime": 737.24,
+    "text": "[Music]"
+  }
+]
