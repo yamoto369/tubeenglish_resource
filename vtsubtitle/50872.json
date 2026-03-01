@@ -1,0 +1,1307 @@
+[
+  {
+    "startTime": 16.331,
+    "endTime": 17.506999999999998,
+    "text": "Ladies and gentlemen,"
+  },
+  {
+    "startTime": 17.507,
+    "endTime": 19.658,
+    "text": "I present to you the human genome."
+  },
+  {
+    "startTime": 19.658,
+    "endTime": 23.561,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 23.561,
+    "endTime": 27.518,
+    "text": "Chromosome one -- top left, bottom right -- are the sex chromosomes."
+  },
+  {
+    "startTime": 27.518,
+    "endTime": 30.27,
+    "text": "Women have two copies of that big X chromosome;"
+  },
+  {
+    "startTime": 30.27,
+    "endTime": 33.459,
+    "text": "men have the X and, of course, that small copy of the Y."
+  },
+  {
+    "startTime": 33.459,
+    "endTime": 37.17400000000001,
+    "text": "Sorry boys, but it's just a tiny little thing that makes you different."
+  },
+  {
+    "startTime": 37.174,
+    "endTime": 40.19,
+    "text": "So if you zoom in on this genome,"
+  },
+  {
+    "startTime": 40.19,
+    "endTime": 43.832,
+    "text": "then what you see, of course, is this double-helix structure --"
+  },
+  {
+    "startTime": 43.832,
+    "endTime": 46.99,
+    "text": "the code of life spelled out with these four biochemical letters,"
+  },
+  {
+    "startTime": 46.99,
+    "endTime": 49.260000000000005,
+    "text": "or we call them bases: A, C, G and T."
+  },
+  {
+    "startTime": 49.26,
+    "endTime": 51.855999999999995,
+    "text": "How many are there in the human genome? Three billion."
+  },
+  {
+    "startTime": 51.856,
+    "endTime": 53.06,
+    "text": "Is that a big number?"
+  },
+  {
+    "startTime": 53.06,
+    "endTime": 55.303000000000004,
+    "text": "Well, everybody can throw around big numbers."
+  },
+  {
+    "startTime": 55.303,
+    "endTime": 57.427,
+    "text": "But in fact, if I were to place one base"
+  },
+  {
+    "startTime": 57.427,
+    "endTime": 61.214,
+    "text": "on each pixel of this 1280x800-resolution screen,"
+  },
+  {
+    "startTime": 61.214,
+    "endTime": 64.517,
+    "text": "we would need 3,000 screens to take a look at the genome."
+  },
+  {
+    "startTime": 64.517,
+    "endTime": 65.749,
+    "text": "So it's really quite big."
+  },
+  {
+    "startTime": 65.749,
+    "endTime": 67.66799999999999,
+    "text": "And perhaps because of its size,"
+  },
+  {
+    "startTime": 67.668,
+    "endTime": 70.543,
+    "text": "a group of people -- all, by the way, with Y chromosomes --"
+  },
+  {
+    "startTime": 70.543,
+    "endTime": 72.57700000000001,
+    "text": "decided they would want to sequence it."
+  },
+  {
+    "startTime": 72.577,
+    "endTime": 74.616,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 74.616,
+    "endTime": 77.897,
+    "text": "And so 15 years, actually, and about four billion dollars later,"
+  },
+  {
+    "startTime": 77.897,
+    "endTime": 79.796,
+    "text": "the genome was sequenced and published."
+  },
+  {
+    "startTime": 79.796,
+    "endTime": 83.14,
+    "text": "In 2003, the final version was published, and they keep working on it."
+  },
+  {
+    "startTime": 83.14,
+    "endTime": 85.153,
+    "text": "That was all done on a machine like this."
+  },
+  {
+    "startTime": 85.153,
+    "endTime": 88.494,
+    "text": "It costs about a dollar for each base -- a very slow way of doing it."
+  },
+  {
+    "startTime": 88.494,
+    "endTime": 90.113,
+    "text": "Well, folks, I'm here to tell you"
+  },
+  {
+    "startTime": 90.113,
+    "endTime": 92.228,
+    "text": "that the world has completely changed,"
+  },
+  {
+    "startTime": 92.228,
+    "endTime": 94.062,
+    "text": "and none of you know about it."
+  },
+  {
+    "startTime": 94.062,
+    "endTime": 96.77499999999999,
+    "text": "So now what we do is take a genome,"
+  },
+  {
+    "startTime": 96.775,
+    "endTime": 98.33800000000001,
+    "text": "we make maybe 50 copies of it,"
+  },
+  {
+    "startTime": 98.338,
+    "endTime": 101.38199999999999,
+    "text": "we cut all those copies up into little 50-base reads,"
+  },
+  {
+    "startTime": 101.382,
+    "endTime": 103.747,
+    "text": "and then we sequence them, massively parallel."
+  },
+  {
+    "startTime": 103.747,
+    "endTime": 106.858,
+    "text": "Then we bring that into software and reassemble it,"
+  },
+  {
+    "startTime": 106.858,
+    "endTime": 108.452,
+    "text": "and tell you what the story is."
+  },
+  {
+    "startTime": 108.452,
+    "endTime": 110.791,
+    "text": "So to give you a picture of what this looks like,"
+  },
+  {
+    "startTime": 110.791,
+    "endTime": 113.298,
+    "text": "the Human Genome Project: 3 gigabases, right?"
+  },
+  {
+    "startTime": 113.298,
+    "endTime": 117.974,
+    "text": "One run on one of these modern machines: 200 gigabases in a week."
+  },
+  {
+    "startTime": 117.974,
+    "endTime": 120.51100000000001,
+    "text": "And that 200 is going to change to 600 this summer,"
+  },
+  {
+    "startTime": 120.511,
+    "endTime": 123.06899999999999,
+    "text": "and there's no sign of this pace slowing."
+  },
+  {
+    "startTime": 123.069,
+    "endTime": 126.678,
+    "text": "The price of a base, to sequence a base,"
+  },
+  {
+    "startTime": 126.678,
+    "endTime": 129.45499999999998,
+    "text": "has fallen 100 million times."
+  },
+  {
+    "startTime": 129.455,
+    "endTime": 133.25500000000002,
+    "text": "That's the equivalent of you filling up your car with gas in 1998,"
+  },
+  {
+    "startTime": 133.255,
+    "endTime": 134.50799999999998,
+    "text": "waiting until 2011,"
+  },
+  {
+    "startTime": 134.508,
+    "endTime": 136.94500000000002,
+    "text": "and now you can drive to Jupiter and back twice."
+  },
+  {
+    "startTime": 136.945,
+    "endTime": 141.709,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 141.709,
+    "endTime": 144.121,
+    "text": "World population,"
+  },
+  {
+    "startTime": 144.121,
+    "endTime": 145.971,
+    "text": "PC placements,"
+  },
+  {
+    "startTime": 145.971,
+    "endTime": 148.757,
+    "text": "the archive of all of medical literature,"
+  },
+  {
+    "startTime": 148.757,
+    "endTime": 150.479,
+    "text": "Moore's law,"
+  },
+  {
+    "startTime": 150.479,
+    "endTime": 152.33200000000002,
+    "text": "the old way of sequencing,"
+  },
+  {
+    "startTime": 152.332,
+    "endTime": 154.113,
+    "text": "and here's all the new stuff."
+  },
+  {
+    "startTime": 154.113,
+    "endTime": 155.478,
+    "text": "Guys, this is a long scale;"
+  },
+  {
+    "startTime": 155.478,
+    "endTime": 158.702,
+    "text": "you don't typically see lines that go up like that."
+  },
+  {
+    "startTime": 158.702,
+    "endTime": 162.184,
+    "text": "So the worldwide capacity to sequence human genomes"
+  },
+  {
+    "startTime": 162.184,
+    "endTime": 165.377,
+    "text": "is something like 50,000 to 100,000 human genomes this year."
+  },
+  {
+    "startTime": 165.377,
+    "endTime": 168.104,
+    "text": "We know this based on the machines that are being placed."
+  },
+  {
+    "startTime": 168.104,
+    "endTime": 170.645,
+    "text": "This is expected to double, triple or maybe quadruple"
+  },
+  {
+    "startTime": 170.645,
+    "endTime": 172.87900000000002,
+    "text": "year over year for the foreseeable future."
+  },
+  {
+    "startTime": 172.879,
+    "endTime": 174.88799999999998,
+    "text": "In fact, there's one lab in particular"
+  },
+  {
+    "startTime": 174.888,
+    "endTime": 177.848,
+    "text": "that represents 20 percent of all that capacity:"
+  },
+  {
+    "startTime": 177.848,
+    "endTime": 180.66600000000003,
+    "text": "It's called the Beijing Genomics Institute."
+  },
+  {
+    "startTime": 180.666,
+    "endTime": 184.395,
+    "text": "The Chinese are absolutely winning this race to the new Moon, by the way."
+  },
+  {
+    "startTime": 184.395,
+    "endTime": 186.72,
+    "text": "What does this mean for medicine?"
+  },
+  {
+    "startTime": 186.72,
+    "endTime": 189.468,
+    "text": "So a woman, age 37,"
+  },
+  {
+    "startTime": 189.468,
+    "endTime": 192.706,
+    "text": "presents with stage 2 estrogen receptor-positive breast cancer."
+  },
+  {
+    "startTime": 192.706,
+    "endTime": 195.897,
+    "text": "She is treated with surgery, chemotherapy and radiation."
+  },
+  {
+    "startTime": 195.897,
+    "endTime": 197.105,
+    "text": "She goes home."
+  },
+  {
+    "startTime": 197.105,
+    "endTime": 198.28,
+    "text": "Two years later,"
+  },
+  {
+    "startTime": 198.28,
+    "endTime": 201.478,
+    "text": "she comes back with stage 3C ovarian cancer, unfortunately;"
+  },
+  {
+    "startTime": 201.478,
+    "endTime": 203.93900000000002,
+    "text": "treated again with surgery and chemotherapy."
+  },
+  {
+    "startTime": 203.939,
+    "endTime": 206.21699999999998,
+    "text": "She comes back three years later at age 42"
+  },
+  {
+    "startTime": 206.217,
+    "endTime": 208.598,
+    "text": "with more ovarian cancer, more chemotherapy."
+  },
+  {
+    "startTime": 208.598,
+    "endTime": 210.091,
+    "text": "Six months later,"
+  },
+  {
+    "startTime": 210.091,
+    "endTime": 214.81900000000002,
+    "text": "she comes back with acute myeloid leukemia."
+  },
+  {
+    "startTime": 214.819,
+    "endTime": 217.849,
+    "text": "She goes into respiratory failure and dies eight days later."
+  },
+  {
+    "startTime": 217.849,
+    "endTime": 220.231,
+    "text": "So first: the way in which this woman was treated,"
+  },
+  {
+    "startTime": 220.231,
+    "endTime": 223.698,
+    "text": "in as little as 10 years, will look like bloodletting."
+  },
+  {
+    "startTime": 223.698,
+    "endTime": 226.547,
+    "text": "And it's because of people like my colleague, Rick Wilson,"
+  },
+  {
+    "startTime": 226.547,
+    "endTime": 228.91,
+    "text": "at the Genome Institute at Washington University,"
+  },
+  {
+    "startTime": 228.91,
+    "endTime": 231.393,
+    "text": "who decided to take a look at this woman postmortem."
+  },
+  {
+    "startTime": 231.393,
+    "endTime": 233.9,
+    "text": "And he took skin cells, healthy skin"
+  },
+  {
+    "startTime": 233.9,
+    "endTime": 235.862,
+    "text": "and cancerous bone marrow,"
+  },
+  {
+    "startTime": 235.862,
+    "endTime": 238.172,
+    "text": "and sequenced the whole genomes of both of them"
+  },
+  {
+    "startTime": 238.172,
+    "endTime": 240.26,
+    "text": "in a couple of weeks, no big deal."
+  },
+  {
+    "startTime": 240.26,
+    "endTime": 242.48499999999999,
+    "text": "Then he compared those two genomes in software,"
+  },
+  {
+    "startTime": 242.485,
+    "endTime": 244.334,
+    "text": "and what he found, among other things,"
+  },
+  {
+    "startTime": 244.334,
+    "endTime": 248.971,
+    "text": "was a deletion -- a 2,000-base deletion across three billion bases"
+  },
+  {
+    "startTime": 248.971,
+    "endTime": 251.154,
+    "text": "in a particular gene called TP53."
+  },
+  {
+    "startTime": 251.154,
+    "endTime": 253.59,
+    "text": "If you have this deleterious mutation in this gene,"
+  },
+  {
+    "startTime": 253.59,
+    "endTime": 256.336,
+    "text": "you're 90 percent likely to get cancer in your life."
+  },
+  {
+    "startTime": 256.336,
+    "endTime": 258.584,
+    "text": "So unfortunately, this doesn't help this woman,"
+  },
+  {
+    "startTime": 258.584,
+    "endTime": 261.26,
+    "text": "but it does have severe -- profound, if you will --"
+  },
+  {
+    "startTime": 261.26,
+    "endTime": 264.061,
+    "text": "implications to her family."
+  },
+  {
+    "startTime": 264.061,
+    "endTime": 265.96799999999996,
+    "text": "I mean, if they have the same mutation,"
+  },
+  {
+    "startTime": 265.968,
+    "endTime": 268.53700000000003,
+    "text": "and they get this genetic test and they understand it,"
+  },
+  {
+    "startTime": 268.537,
+    "endTime": 271.44199999999995,
+    "text": "then they can get regular screens and can catch cancer early,"
+  },
+  {
+    "startTime": 271.442,
+    "endTime": 273.786,
+    "text": "and potentially live a significantly longer life."
+  },
+  {
+    "startTime": 273.786,
+    "endTime": 275.74,
+    "text": "Let me introduce you to the Beery twins,"
+  },
+  {
+    "startTime": 275.74,
+    "endTime": 278.096,
+    "text": "diagnosed with cerebral palsy at the age of two."
+  },
+  {
+    "startTime": 278.096,
+    "endTime": 280.668,
+    "text": "Their mom is a very brave woman who didn't believe it;"
+  },
+  {
+    "startTime": 280.668,
+    "endTime": 282.295,
+    "text": "the symptoms weren't matching up."
+  },
+  {
+    "startTime": 282.295,
+    "endTime": 285.327,
+    "text": "And through some heroic efforts and a lot of Internet searching,"
+  },
+  {
+    "startTime": 285.327,
+    "endTime": 287.522,
+    "text": "she was able to convince the medical community"
+  },
+  {
+    "startTime": 287.522,
+    "endTime": 289.442,
+    "text": "that, in fact, they had something else."
+  },
+  {
+    "startTime": 289.442,
+    "endTime": 291.632,
+    "text": "They had dopa-responsive dystonia."
+  },
+  {
+    "startTime": 291.632,
+    "endTime": 293.635,
+    "text": "And so they were given L-Dopa,"
+  },
+  {
+    "startTime": 293.635,
+    "endTime": 295.976,
+    "text": "and their symptoms did improve,"
+  },
+  {
+    "startTime": 295.976,
+    "endTime": 297.843,
+    "text": "but they weren't totally asymptomatic."
+  },
+  {
+    "startTime": 297.843,
+    "endTime": 299.334,
+    "text": "Significant problems remained."
+  },
+  {
+    "startTime": 299.334,
+    "endTime": 302.527,
+    "text": "Turns out the gentleman in this picture is a guy named Joe Beery,"
+  },
+  {
+    "startTime": 302.527,
+    "endTime": 304.19399999999996,
+    "text": "who was lucky enough to be the CIO"
+  },
+  {
+    "startTime": 304.194,
+    "endTime": 306.339,
+    "text": "of a company called Life Technologies."
+  },
+  {
+    "startTime": 306.339,
+    "endTime": 307.705,
+    "text": "They're one of two companies"
+  },
+  {
+    "startTime": 307.705,
+    "endTime": 310.87899999999996,
+    "text": "that makes these massive whole-genome sequencing tools."
+  },
+  {
+    "startTime": 310.879,
+    "endTime": 313.916,
+    "text": "And so he got his kids sequenced."
+  },
+  {
+    "startTime": 313.916,
+    "endTime": 317.018,
+    "text": "What they found was a series of mutations in a gene called SPR,"
+  },
+  {
+    "startTime": 317.018,
+    "endTime": 320.43899999999996,
+    "text": "which is responsible for producing serotonin, among other things."
+  },
+  {
+    "startTime": 320.439,
+    "endTime": 323.952,
+    "text": "So on top of L-Dopa, they gave these kids a serotonin precursor drug,"
+  },
+  {
+    "startTime": 323.952,
+    "endTime": 325.698,
+    "text": "and they're effectively normal now."
+  },
+  {
+    "startTime": 325.698,
+    "endTime": 329.013,
+    "text": "Guys, this would never have happened without whole-genome sequencing."
+  },
+  {
+    "startTime": 329.013,
+    "endTime": 331.87699999999995,
+    "text": "At the time -- this was a few years ago -- it cost $100,000."
+  },
+  {
+    "startTime": 331.877,
+    "endTime": 333.728,
+    "text": "Today it's $10,000, next year, $1,000,"
+  },
+  {
+    "startTime": 333.728,
+    "endTime": 335.781,
+    "text": "the year after, $100, give or take a year."
+  },
+  {
+    "startTime": 335.781,
+    "endTime": 337.305,
+    "text": "That's how fast this is moving."
+  },
+  {
+    "startTime": 337.305,
+    "endTime": 339.186,
+    "text": "So here's little Nick --"
+  },
+  {
+    "startTime": 339.186,
+    "endTime": 340.926,
+    "text": "likes Batman and squirt guns."
+  },
+  {
+    "startTime": 340.926,
+    "endTime": 344.645,
+    "text": "And it turns out Nick shows up at the children's hospital"
+  },
+  {
+    "startTime": 344.645,
+    "endTime": 346.931,
+    "text": "with this distended belly, like a famine victim."
+  },
+  {
+    "startTime": 346.931,
+    "endTime": 349.791,
+    "text": "And it's not that he's not eating; it's that when he eats,"
+  },
+  {
+    "startTime": 349.791,
+    "endTime": 353.226,
+    "text": "his intestine basically opens up and feces spill out into his gut."
+  },
+  {
+    "startTime": 353.226,
+    "endTime": 354.885,
+    "text": "So a hundred surgeries later,"
+  },
+  {
+    "startTime": 354.885,
+    "endTime": 358.584,
+    "text": "he looks at his mom and says, \"Mom, please pray for me."
+  },
+  {
+    "startTime": 358.584,
+    "endTime": 360.408,
+    "text": "I'm in so much pain.\""
+  },
+  {
+    "startTime": 360.408,
+    "endTime": 363.547,
+    "text": "His pediatrician happens to have a background in clinical genetics"
+  },
+  {
+    "startTime": 363.547,
+    "endTime": 365.26000000000005,
+    "text": "and he has no idea what's going on,"
+  },
+  {
+    "startTime": 365.26,
+    "endTime": 367.827,
+    "text": "but he says, \"Let's get this kid's genome sequenced.\""
+  },
+  {
+    "startTime": 367.827,
+    "endTime": 369.991,
+    "text": "And what they find is a single-point mutation"
+  },
+  {
+    "startTime": 369.991,
+    "endTime": 372.864,
+    "text": "in a gene responsible for controlling programmed cell death."
+  },
+  {
+    "startTime": 372.864,
+    "endTime": 375.96599999999995,
+    "text": "So the theory is that he's having some immunological reaction"
+  },
+  {
+    "startTime": 375.966,
+    "endTime": 378.40500000000003,
+    "text": "to what's going on -- to the food, essentially."
+  },
+  {
+    "startTime": 378.405,
+    "endTime": 381.799,
+    "text": "And that's a natural reaction, which causes some programmed cell death,"
+  },
+  {
+    "startTime": 381.799,
+    "endTime": 384.09299999999996,
+    "text": "but the gene that regulates that down is broken."
+  },
+  {
+    "startTime": 384.093,
+    "endTime": 386.535,
+    "text": "And so this informs, among other things, of course,"
+  },
+  {
+    "startTime": 386.535,
+    "endTime": 389.53000000000003,
+    "text": "a treatment for bone marrow transplant, which he undertakes."
+  },
+  {
+    "startTime": 389.53,
+    "endTime": 391.57399999999996,
+    "text": "And after nine months of grueling recovery,"
+  },
+  {
+    "startTime": 391.574,
+    "endTime": 393.503,
+    "text": "he's now eating steak with A1 sauce."
+  },
+  {
+    "startTime": 393.503,
+    "endTime": 394.62399999999997,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 394.624,
+    "endTime": 398.747,
+    "text": "The prospect of using the genome as a universal diagnostic"
+  },
+  {
+    "startTime": 398.747,
+    "endTime": 401.462,
+    "text": "is upon us today."
+  },
+  {
+    "startTime": 401.462,
+    "endTime": 403.025,
+    "text": "Today. It's here."
+  },
+  {
+    "startTime": 403.025,
+    "endTime": 404.541,
+    "text": "And what it means for all of us"
+  },
+  {
+    "startTime": 404.541,
+    "endTime": 407.852,
+    "text": "is that everybody in this room could live an extra 5, 10, 20 years,"
+  },
+  {
+    "startTime": 407.852,
+    "endTime": 409.54299999999995,
+    "text": "just because of this one thing."
+  },
+  {
+    "startTime": 409.543,
+    "endTime": 411.63,
+    "text": "Which is a fantastic story,"
+  },
+  {
+    "startTime": 411.63,
+    "endTime": 414.532,
+    "text": "unless you think about humanity's footprint on the planet,"
+  },
+  {
+    "startTime": 414.532,
+    "endTime": 417.031,
+    "text": "and our ability to keep up food production."
+  },
+  {
+    "startTime": 417.031,
+    "endTime": 418.627,
+    "text": "So it turns out"
+  },
+  {
+    "startTime": 418.627,
+    "endTime": 422.592,
+    "text": "that the very same technology is also being used to grow new lines"
+  },
+  {
+    "startTime": 422.592,
+    "endTime": 425.745,
+    "text": "of corn, wheat, soybean and other crops"
+  },
+  {
+    "startTime": 425.745,
+    "endTime": 427.944,
+    "text": "that are highly tolerant of drought, of flood,"
+  },
+  {
+    "startTime": 427.944,
+    "endTime": 429.49100000000004,
+    "text": "of pests and pesticides."
+  },
+  {
+    "startTime": 429.491,
+    "endTime": 431.18399999999997,
+    "text": "Now, look --"
+  },
+  {
+    "startTime": 431.184,
+    "endTime": 433.58200000000005,
+    "text": "as long as we continue to increase the population,"
+  },
+  {
+    "startTime": 433.582,
+    "endTime": 436.78499999999997,
+    "text": "we'll have to continue to grow and eat genetically modified foods."
+  },
+  {
+    "startTime": 436.785,
+    "endTime": 438.96000000000004,
+    "text": "And that's the only position I'll take today."
+  },
+  {
+    "startTime": 438.96,
+    "endTime": 440.80199999999996,
+    "text": "Unless there's anybody in the audience"
+  },
+  {
+    "startTime": 440.802,
+    "endTime": 443.047,
+    "text": "who'd like to volunteer to stop eating?"
+  },
+  {
+    "startTime": 443.047,
+    "endTime": 444.961,
+    "text": "None, not one."
+  },
+  {
+    "startTime": 444.961,
+    "endTime": 446.696,
+    "text": "This is a typewriter,"
+  },
+  {
+    "startTime": 446.696,
+    "endTime": 449.339,
+    "text": "a staple of every desktop for decades."
+  },
+  {
+    "startTime": 449.339,
+    "endTime": 453.503,
+    "text": "And, in fact, the typewriter was essentially deleted by this thing."
+  },
+  {
+    "startTime": 453.503,
+    "endTime": 456.792,
+    "text": "And then more general versions of word processors came about."
+  },
+  {
+    "startTime": 456.792,
+    "endTime": 459.59499999999997,
+    "text": "But ultimately, it was a disruption on top of a disruption."
+  },
+  {
+    "startTime": 459.595,
+    "endTime": 461.687,
+    "text": "It was Bob Metcalfe inventing the Ethernet,"
+  },
+  {
+    "startTime": 461.687,
+    "endTime": 463.68,
+    "text": "and the connection of all these computers"
+  },
+  {
+    "startTime": 463.68,
+    "endTime": 465.55400000000003,
+    "text": "that fundamentally changed everything."
+  },
+  {
+    "startTime": 465.554,
+    "endTime": 468.37899999999996,
+    "text": "Suddenly we had Netscape, we had Yahoo."
+  },
+  {
+    "startTime": 468.379,
+    "endTime": 471.94800000000004,
+    "text": "And we had, indeed, the entire dot-com bubble."
+  },
+  {
+    "startTime": 471.948,
+    "endTime": 474.78,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 474.78,
+    "endTime": 476.027,
+    "text": "Not to worry though,"
+  },
+  {
+    "startTime": 476.027,
+    "endTime": 478.626,
+    "text": "that was quickly rescued by the iPod, Facebook"
+  },
+  {
+    "startTime": 478.626,
+    "endTime": 480.753,
+    "text": "and, indeed, Angry Birds."
+  },
+  {
+    "startTime": 480.753,
+    "endTime": 483.125,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 483.125,
+    "endTime": 485.675,
+    "text": "Look, this is where we are today."
+  },
+  {
+    "startTime": 485.675,
+    "endTime": 488.48900000000003,
+    "text": "This is the genomic revolution today. This is where we are."
+  },
+  {
+    "startTime": 488.489,
+    "endTime": 490.09299999999996,
+    "text": "What I'd like you to consider is:"
+  },
+  {
+    "startTime": 490.093,
+    "endTime": 491.522,
+    "text": "What does it mean"
+  },
+  {
+    "startTime": 491.522,
+    "endTime": 494.90299999999996,
+    "text": "when these dots don't represent the individual bases of your genome,"
+  },
+  {
+    "startTime": 494.903,
+    "endTime": 497.778,
+    "text": "but they connect to genomes all across the planet?"
+  },
+  {
+    "startTime": 497.778,
+    "endTime": 501.39000000000004,
+    "text": "I just recently had to buy life insurance, and I was required to answer:"
+  },
+  {
+    "startTime": 501.39,
+    "endTime": 503.54499999999996,
+    "text": "A. I have never had a genetic test;"
+  },
+  {
+    "startTime": 503.545,
+    "endTime": 505.052,
+    "text": "B. I've had one, here you go;"
+  },
+  {
+    "startTime": 505.052,
+    "endTime": 507.021,
+    "text": "or C. I've had one and I'm not telling."
+  },
+  {
+    "startTime": 507.021,
+    "endTime": 508.761,
+    "text": "Thankfully, I was able to answer A,"
+  },
+  {
+    "startTime": 508.761,
+    "endTime": 512.333,
+    "text": "and I say that honestly, in case my life insurance agent is listening."
+  },
+  {
+    "startTime": 512.333,
+    "endTime": 514.756,
+    "text": "But what would have happened if I had said C?"
+  },
+  {
+    "startTime": 514.756,
+    "endTime": 517.1809999999999,
+    "text": "Consumer applications for genomics will flourish."
+  },
+  {
+    "startTime": 517.181,
+    "endTime": 519.654,
+    "text": "Do you want to see if you're genetically compatible"
+  },
+  {
+    "startTime": 519.654,
+    "endTime": 520.908,
+    "text": "with your girlfriend?"
+  },
+  {
+    "startTime": 520.908,
+    "endTime": 523.895,
+    "text": "DNA sequencing on your iPhone? There's an app for that."
+  },
+  {
+    "startTime": 523.895,
+    "endTime": 525.7049999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 525.705,
+    "endTime": 529.038,
+    "text": "Personalized genomic massage, anyone?"
+  },
+  {
+    "startTime": 529.038,
+    "endTime": 533.629,
+    "text": "There's already a lab today that tests for allele 334 of the AVPR1 gene,"
+  },
+  {
+    "startTime": 533.629,
+    "endTime": 535.037,
+    "text": "the so-called cheating gene."
+  },
+  {
+    "startTime": 535.037,
+    "endTime": 537.076,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 537.076,
+    "endTime": 539.727,
+    "text": "So anybody who's here today with your significant other,"
+  },
+  {
+    "startTime": 539.727,
+    "endTime": 542.6179999999999,
+    "text": "just turn over to them, swab their mouth, send it to the lab"
+  },
+  {
+    "startTime": 542.618,
+    "endTime": 543.9110000000001,
+    "text": "and you'll know for sure."
+  },
+  {
+    "startTime": 543.911,
+    "endTime": 545.0459999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 545.046,
+    "endTime": 547.0120000000001,
+    "text": "Do you really want to elect a president"
+  },
+  {
+    "startTime": 547.012,
+    "endTime": 549.2979999999999,
+    "text": "whose genome suggests cardiomyopathy?"
+  },
+  {
+    "startTime": 549.298,
+    "endTime": 551.182,
+    "text": "Think of it -- it's 2016,"
+  },
+  {
+    "startTime": 551.182,
+    "endTime": 552.912,
+    "text": "and the leading candidate releases"
+  },
+  {
+    "startTime": 552.912,
+    "endTime": 555.018,
+    "text": "not only her four years of back-tax returns,"
+  },
+  {
+    "startTime": 555.018,
+    "endTime": 556.495,
+    "text": "but also her personal genome."
+  },
+  {
+    "startTime": 556.495,
+    "endTime": 557.729,
+    "text": "And it looks really good."
+  },
+  {
+    "startTime": 557.729,
+    "endTime": 560.349,
+    "text": "Then she challenges all her competitors to do the same."
+  },
+  {
+    "startTime": 560.349,
+    "endTime": 562.308,
+    "text": "Do you think that's not going to happen?"
+  },
+  {
+    "startTime": 562.308,
+    "endTime": 564.566,
+    "text": "Do you think it would have helped John McCain?"
+  },
+  {
+    "startTime": 564.566,
+    "endTime": 566.383,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 566.383,
+    "endTime": 569.625,
+    "text": "How many people in the audience have the last name Resnick, like me?"
+  },
+  {
+    "startTime": 569.625,
+    "endTime": 570.807,
+    "text": "Raise your hand."
+  },
+  {
+    "startTime": 570.807,
+    "endTime": 572.4350000000001,
+    "text": "Anybody? Nobody."
+  },
+  {
+    "startTime": 572.435,
+    "endTime": 573.904,
+    "text": "Typically, there's one or two."
+  },
+  {
+    "startTime": 573.904,
+    "endTime": 576.481,
+    "text": "So my father's father was one of 10 Resnick brothers."
+  },
+  {
+    "startTime": 576.481,
+    "endTime": 580.59,
+    "text": "They all hated each other, and all moved to different parts of the planet."
+  },
+  {
+    "startTime": 580.59,
+    "endTime": 583.533,
+    "text": "So it's likely I'm related to every Resnick that I ever meet,"
+  },
+  {
+    "startTime": 583.533,
+    "endTime": 584.708,
+    "text": "but I don't know."
+  },
+  {
+    "startTime": 584.708,
+    "endTime": 587.769,
+    "text": "So imagine if my genome were De-identified, sitting in software,"
+  },
+  {
+    "startTime": 587.769,
+    "endTime": 590.177,
+    "text": "And a third cousin's genome was also sitting there,"
+  },
+  {
+    "startTime": 590.177,
+    "endTime": 592.5020000000001,
+    "text": "and there was software that could compare the two"
+  },
+  {
+    "startTime": 592.502,
+    "endTime": 593.8829999999999,
+    "text": "and make these associations."
+  },
+  {
+    "startTime": 593.883,
+    "endTime": 597.215,
+    "text": "Not hard to imagine. My company has software that does this right now."
+  },
+  {
+    "startTime": 597.215,
+    "endTime": 598.407,
+    "text": "Imagine one more thing,"
+  },
+  {
+    "startTime": 598.407,
+    "endTime": 601.666,
+    "text": "that that software is able to ask both parties for mutual consent:"
+  },
+  {
+    "startTime": 601.666,
+    "endTime": 604.0150000000001,
+    "text": "\"Would you be willing to meet your third cousin?\""
+  },
+  {
+    "startTime": 604.015,
+    "endTime": 605.689,
+    "text": "And if we both say yes -- voilà!"
+  },
+  {
+    "startTime": 605.689,
+    "endTime": 607.49,
+    "text": "Welcome to Chromosomally LinkedIn."
+  },
+  {
+    "startTime": 607.49,
+    "endTime": 611.808,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 611.808,
+    "endTime": 613.825,
+    "text": "Now this is probably a good thing, right?"
+  },
+  {
+    "startTime": 613.825,
+    "endTime": 615.437,
+    "text": "Bigger clan gatherings and so on."
+  },
+  {
+    "startTime": 615.437,
+    "endTime": 617.162,
+    "text": "But maybe it's a bad thing as well."
+  },
+  {
+    "startTime": 617.162,
+    "endTime": 619.467,
+    "text": "How many fathers in the room? Raise your hands."
+  },
+  {
+    "startTime": 619.467,
+    "endTime": 622.819,
+    "text": "OK, so experts think that one to three percent of you"
+  },
+  {
+    "startTime": 622.819,
+    "endTime": 624.9459999999999,
+    "text": "are not actually the father of your child."
+  },
+  {
+    "startTime": 624.946,
+    "endTime": 626.724,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 626.724,
+    "endTime": 627.9240000000001,
+    "text": "Look --"
+  },
+  {
+    "startTime": 627.924,
+    "endTime": 632.871,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 632.871,
+    "endTime": 635.26,
+    "text": "These genomes, these 23 chromosomes,"
+  },
+  {
+    "startTime": 635.26,
+    "endTime": 638.649,
+    "text": "they don't in any way represent the quality of our relationships"
+  },
+  {
+    "startTime": 638.649,
+    "endTime": 641.366,
+    "text": "or the nature of our society -- at least not yet."
+  },
+  {
+    "startTime": 641.366,
+    "endTime": 643.185,
+    "text": "And like any new technology,"
+  },
+  {
+    "startTime": 643.185,
+    "endTime": 644.9979999999999,
+    "text": "it's really in humanity's hands"
+  },
+  {
+    "startTime": 644.998,
+    "endTime": 647.22,
+    "text": "to wield it for the betterment of mankind"
+  },
+  {
+    "startTime": 647.22,
+    "endTime": 648.395,
+    "text": "or not."
+  },
+  {
+    "startTime": 648.395,
+    "endTime": 650.6419999999999,
+    "text": "And so I urge you all to wake up and to tune in"
+  },
+  {
+    "startTime": 650.642,
+    "endTime": 654.062,
+    "text": "and to influence the genomic revolution that's happening all around you."
+  },
+  {
+    "startTime": 654.062,
+    "endTime": 655.237,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 655.237,
+    "endTime": 665.237,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "startTime": 6.994,
+    "endTime": 9.434,
+    "text": "It's a good day to be a pirate."
+  },
+  {
+    "startTime": 9.434,
+    "endTime": 11.244,
+    "text": "Amaro and his four mateys,"
+  },
+  {
+    "startTime": 11.244,
+    "endTime": 12.044,
+    "text": "Bart,"
+  },
+  {
+    "startTime": 12.044,
+    "endTime": 12.746,
+    "text": "Charlotte,"
+  },
+  {
+    "startTime": 12.746,
+    "endTime": 13.514000000000001,
+    "text": "Daniel,"
+  },
+  {
+    "startTime": 13.514,
+    "endTime": 14.225,
+    "text": "and Eliza"
+  },
+  {
+    "startTime": 14.225,
+    "endTime": 15.715,
+    "text": "have struck gold:"
+  },
+  {
+    "startTime": 15.715,
+    "endTime": 18.804,
+    "text": "a chest with 100 coins."
+  },
+  {
+    "startTime": 18.804,
+    "endTime": 24.584,
+    "text": "But now, they must divvy up the booty according to the pirate code."
+  },
+  {
+    "startTime": 24.584,
+    "endTime": 29.349,
+    "text": "As captain, Amaro gets to propose how to distribute the coins."
+  },
+  {
+    "startTime": 29.349,
+    "endTime": 32.321,
+    "text": "Then, each pirate,  including Amaro himself,"
+  },
+  {
+    "startTime": 32.321,
+    "endTime": 36.727999999999994,
+    "text": "gets to vote either yarr or nay."
+  },
+  {
+    "startTime": 36.728,
+    "endTime": 42.604,
+    "text": "If the vote passes, or if there's a tie, the coins are divided according to plan."
+  },
+  {
+    "startTime": 42.604,
+    "endTime": 44.663,
+    "text": "But if the majority votes nay,"
+  },
+  {
+    "startTime": 44.663,
+    "endTime": 46.995,
+    "text": "Amaro must walk the plank"
+  },
+  {
+    "startTime": 46.995,
+    "endTime": 50.046,
+    "text": "and Bart becomes captain."
+  },
+  {
+    "startTime": 50.046,
+    "endTime": 52.854,
+    "text": "Then, Bart gets to propose a new distribution"
+  },
+  {
+    "startTime": 52.854,
+    "endTime": 56.746,
+    "text": "and all remaining pirates vote again."
+  },
+  {
+    "startTime": 56.746,
+    "endTime": 60.036,
+    "text": "If his plan is rejected, he walks the plank, too,"
+  },
+  {
+    "startTime": 60.036,
+    "endTime": 62.245000000000005,
+    "text": "and Charlotte takes his place."
+  },
+  {
+    "startTime": 62.245,
+    "endTime": 63.826,
+    "text": "This process repeats,"
+  },
+  {
+    "startTime": 63.826,
+    "endTime": 66.988,
+    "text": "with the captain's hat moving to Daniel and then Eliza"
+  },
+  {
+    "startTime": 66.988,
+    "endTime": 72.526,
+    "text": "until either a proposal is accepted or there's only one pirate left."
+  },
+  {
+    "startTime": 72.526,
+    "endTime": 78.42699999999999,
+    "text": "Naturally, each pirate wants to stay alive while getting as much gold as possible."
+  },
+  {
+    "startTime": 78.427,
+    "endTime": 81.759,
+    "text": "But being pirates,  none of them trust each other,"
+  },
+  {
+    "startTime": 81.759,
+    "endTime": 85.107,
+    "text": "so they can't collaborate in advance."
+  },
+  {
+    "startTime": 85.107,
+    "endTime": 87.108,
+    "text": "And being blood-thirsty pirates,"
+  },
+  {
+    "startTime": 87.108,
+    "endTime": 91.14800000000001,
+    "text": "if anyone thinks they'll end up with the same amount of gold either way,"
+  },
+  {
+    "startTime": 91.148,
+    "endTime": 96.297,
+    "text": "they'll vote to make the captain walk the plank just for fun."
+  },
+  {
+    "startTime": 96.297,
+    "endTime": 100.158,
+    "text": "Finally, each pirate is excellent at logical deduction"
+  },
+  {
+    "startTime": 100.158,
+    "endTime": 103.368,
+    "text": "and knows that the others are, too."
+  },
+  {
+    "startTime": 103.368,
+    "endTime": 108.28699999999999,
+    "text": "What distribution should Amaro propose to make sure he lives?"
+  },
+  {
+    "startTime": 108.287,
+    "endTime": 113.399,
+    "text": "Pause here if you want to figure it out for yourself!"
+  },
+  {
+    "startTime": 113.399,
+    "endTime": 114.378,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 114.378,
+    "endTime": 115.308,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 115.308,
+    "endTime": 116.44900000000001,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 116.449,
+    "endTime": 118.068,
+    "text": "If we follow our intuition,"
+  },
+  {
+    "startTime": 118.068,
+    "endTime": 122.798,
+    "text": "it seems like Amaro should try to bribe the other pirates with most of the gold"
+  },
+  {
+    "startTime": 122.798,
+    "endTime": 126.17,
+    "text": "to increase the chances of his plan being accepted."
+  },
+  {
+    "startTime": 126.17,
+    "endTime": 131.129,
+    "text": "But it turns out he can do much better than that. Why?"
+  },
+  {
+    "startTime": 131.129,
+    "endTime": 136.57,
+    "text": "Like we said, the pirates all know each other to be top-notch logicians."
+  },
+  {
+    "startTime": 136.57,
+    "endTime": 141.069,
+    "text": "So when each votes, they won't just be thinking about the current proposal,"
+  },
+  {
+    "startTime": 141.069,
+    "endTime": 145.968,
+    "text": "but about all possible outcomes down the line."
+  },
+  {
+    "startTime": 145.968,
+    "endTime": 148.832,
+    "text": "And because the rank order is known in advance,"
+  },
+  {
+    "startTime": 148.832,
+    "endTime": 154.15099999999998,
+    "text": "each can accurately predict how the others would vote in any situation"
+  },
+  {
+    "startTime": 154.151,
+    "endTime": 157.80100000000002,
+    "text": "and adjust their own votes accordingly."
+  },
+  {
+    "startTime": 157.801,
+    "endTime": 162.17,
+    "text": "Because Eliza's last, she has the most outcomes to consider,"
+  },
+  {
+    "startTime": 162.17,
+    "endTime": 164.98899999999998,
+    "text": "so let's start by following  her thought process."
+  },
+  {
+    "startTime": 164.989,
+    "endTime": 169.431,
+    "text": "She'd reason this out by working backwards from the last possible scenario"
+  },
+  {
+    "startTime": 169.431,
+    "endTime": 173.20100000000002,
+    "text": "with only her and Daniel remaining."
+  },
+  {
+    "startTime": 173.201,
+    "endTime": 176.701,
+    "text": "Daniel would obviously propose to keep all the gold"
+  },
+  {
+    "startTime": 176.701,
+    "endTime": 180.471,
+    "text": "and Eliza's one vote would not be enough to override him,"
+  },
+  {
+    "startTime": 180.471,
+    "endTime": 185.631,
+    "text": "so Eliza wants to avoid this situation at all costs."
+  },
+  {
+    "startTime": 185.631,
+    "endTime": 188.271,
+    "text": "Now we move to the previous decision point"
+  },
+  {
+    "startTime": 188.271,
+    "endTime": 192.55999999999997,
+    "text": "with three pirates left  and Charlotte making the proposal."
+  },
+  {
+    "startTime": 192.56,
+    "endTime": 196.501,
+    "text": "Everyone knows that if she's outvoted, the decision moves to Daniel,"
+  },
+  {
+    "startTime": 196.501,
+    "endTime": 199.941,
+    "text": "who will then get all the gold while Eliza gets nothing."
+  },
+  {
+    "startTime": 199.941,
+    "endTime": 202.156,
+    "text": "So to secure Eliza's vote,"
+  },
+  {
+    "startTime": 202.156,
+    "endTime": 207.291,
+    "text": "Charlotte only needs to offer her slightly more than nothing, one coin."
+  },
+  {
+    "startTime": 207.291,
+    "endTime": 209.113,
+    "text": "Since this ensures her support,"
+  },
+  {
+    "startTime": 209.113,
+    "endTime": 213.821,
+    "text": "Charlotte doesn't need to offer Daniel anything at all."
+  },
+  {
+    "startTime": 213.821,
+    "endTime": 215.713,
+    "text": "What if there are four pirates?"
+  },
+  {
+    "startTime": 215.713,
+    "endTime": 220.862,
+    "text": "As captain, Bart would still only need one other vote for his plan to pass."
+  },
+  {
+    "startTime": 220.862,
+    "endTime": 225.34199999999998,
+    "text": "He knows that Daniel wouldn't want  the decision to pass to Charlotte,"
+  },
+  {
+    "startTime": 225.342,
+    "endTime": 229.02200000000002,
+    "text": "so he would offer Daniel one coin for his support"
+  },
+  {
+    "startTime": 229.022,
+    "endTime": 232.172,
+    "text": "with nothing for Charlotte or Eliza."
+  },
+  {
+    "startTime": 232.172,
+    "endTime": 237.543,
+    "text": "Now we're back at the initial vote with all five pirates standing."
+  },
+  {
+    "startTime": 237.543,
+    "endTime": 239.952,
+    "text": "Having considered all the other scenarios,"
+  },
+  {
+    "startTime": 239.952,
+    "endTime": 242.423,
+    "text": "Amaro knows that if he goes overboard,"
+  },
+  {
+    "startTime": 242.423,
+    "endTime": 244.211,
+    "text": "the decision comes down to Bart,"
+  },
+  {
+    "startTime": 244.211,
+    "endTime": 248.102,
+    "text": "which would be bad news  for Charlotte and Eliza."
+  },
+  {
+    "startTime": 248.102,
+    "endTime": 253.25300000000001,
+    "text": "So he offers them one coin each, keeping 98 for himself."
+  },
+  {
+    "startTime": 253.253,
+    "endTime": 255.14999999999998,
+    "text": "Bart and Daniel vote nay,"
+  },
+  {
+    "startTime": 255.15,
+    "endTime": 259.30400000000003,
+    "text": "but Charlotte and Eliza  grudgingly vote yarr"
+  },
+  {
+    "startTime": 259.304,
+    "endTime": 263.414,
+    "text": "knowing that the alternative  would be worse for them."
+  },
+  {
+    "startTime": 263.414,
+    "endTime": 267.383,
+    "text": "The pirate game involves some interesting concepts from game theory."
+  },
+  {
+    "startTime": 267.383,
+    "endTime": 270.12399999999997,
+    "text": "One is the concept of common knowledge"
+  },
+  {
+    "startTime": 270.124,
+    "endTime": 273.064,
+    "text": "where each person is aware of what the others know"
+  },
+  {
+    "startTime": 273.064,
+    "endTime": 276.40700000000004,
+    "text": "and uses this to predict their reasoning."
+  },
+  {
+    "startTime": 276.407,
+    "endTime": 280.334,
+    "text": "And the final distribution is an example of a Nash equilibrium"
+  },
+  {
+    "startTime": 280.334,
+    "endTime": 283.593,
+    "text": "where each player knows every other players' strategy"
+  },
+  {
+    "startTime": 283.593,
+    "endTime": 286.394,
+    "text": "and chooses theirs accordingly."
+  },
+  {
+    "startTime": 286.394,
+    "endTime": 289.355,
+    "text": "Even though it may lead to a worse outcome for everyone"
+  },
+  {
+    "startTime": 289.355,
+    "endTime": 290.97900000000004,
+    "text": "than cooperating would,"
+  },
+  {
+    "startTime": 290.979,
+    "endTime": 296.555,
+    "text": "no individual player can benefit by changing their strategy."
+  },
+  {
+    "startTime": 296.555,
+    "endTime": 299.826,
+    "text": "So it looks like Amaro gets to keep most of the gold,"
+  },
+  {
+    "startTime": 299.826,
+    "endTime": 302.53900000000004,
+    "text": "and the other pirates might need to find better ways"
+  },
+  {
+    "startTime": 302.539,
+    "endTime": 305.214,
+    "text": "to use those impressive logic skills,"
+  },
+  {
+    "startTime": 305.214,
+    "endTime": 315.214,
+    "text": "like revising this absurd pirate code."
+  }
+]
