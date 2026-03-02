@@ -1,0 +1,307 @@
+[
+  {
+    "startTime": 3.0,
+    "endTime": 6.0,
+    "text": "My name is Steve Bush, and I am a professional zookeeper."
+  },
+  {
+    "startTime": 6.2,
+    "endTime": 10.1,
+    "text": "Have you ever seen a group of birds flying overhead and wondered where they're going?"
+  },
+  {
+    "startTime": 10.2,
+    "endTime": 16.7,
+    "text": "Why can birds fly hundreds or thousands of miles to a feeding ground, while I get lost on the way to the store?"
+  },
+  {
+    "startTime": 16.8,
+    "endTime": 19.5,
+    "text": "How do they know which way is north or south?"
+  },
+  {
+    "startTime": 19.55,
+    "endTime": 23.6,
+    "text": "I looked into this question and found some surprising answers."
+  },
+  {
+    "startTime": 23.65,
+    "endTime": 26.779999999999998,
+    "text": "Let's look at the interesting ways that birds navigate."
+  },
+  {
+    "startTime": 32.8,
+    "endTime": 36.4,
+    "text": "Many birds fly between areas with lots of food."
+  },
+  {
+    "startTime": 36.5,
+    "endTime": 39.3,
+    "text": "Parrots fly a few hundred miles."
+  },
+  {
+    "startTime": 39.4,
+    "endTime": 44.4,
+    "text": "Canada geese fly 2 to 3 thousand miles in their annual migration."
+  },
+  {
+    "startTime": 44.5,
+    "endTime": 55.0,
+    "text": "And Arctic Terns take the prize for most ridiculously long migration by flying a 12,000 mile migration from the Arctic to the Antarctic circle."
+  },
+  {
+    "startTime": 55.1,
+    "endTime": 57.5,
+    "text": "But we're not here to talk about migration."
+  },
+  {
+    "startTime": 57.6,
+    "endTime": 62.5,
+    "text": "We're here to talk about how they maintain the sense of direction as they travel."
+  },
+  {
+    "startTime": 63.0,
+    "endTime": 69.8,
+    "text": "Dead Reckoning. First off, and most simple, is the White Crowned Sparrow."
+  },
+  {
+    "startTime": 70.0,
+    "endTime": 71.5,
+    "text": "They use dead reckoning."
+  },
+  {
+    "startTime": 72.0,
+    "endTime": 78.0,
+    "text": "That means they know which direction to travel, and they know how long to travel that direction."
+  },
+  {
+    "startTime": 78.1,
+    "endTime": 82.0,
+    "text": "But they don't know what their destination is."
+  },
+  {
+    "startTime": 82.1,
+    "endTime": 83.89999999999999,
+    "text": "Some researchers did an experiment."
+  },
+  {
+    "startTime": 83.93,
+    "endTime": 91.30000000000001,
+    "text": "They captured White-crowned Sparrows migrating due south between Washington and Southern California."
+  },
+  {
+    "startTime": 91.9,
+    "endTime": 96.80000000000001,
+    "text": "They loaded them onto airplanes and flew them across the country to New Jersey."
+  },
+  {
+    "startTime": 96.9,
+    "endTime": 98.60000000000001,
+    "text": "The birds continued migrating."
+  },
+  {
+    "startTime": 98.7,
+    "endTime": 105.3,
+    "text": "Juvenile sparrows that had never migrated before just continued flying south as if nothing happened."
+  },
+  {
+    "startTime": 105.7,
+    "endTime": 110.0,
+    "text": "So we are pretty sure that they have a built-in set of migration instructions."
+  },
+  {
+    "startTime": 110.3,
+    "endTime": 116.3,
+    "text": "Fly south for roughly so long, you'll end up where you need to be with all the other White-crowned sparrows."
+  },
+  {
+    "startTime": 116.8,
+    "endTime": 120.5,
+    "text": "An interesting effect was noticed in that experiment."
+  },
+  {
+    "startTime": 121.0,
+    "endTime": 128.5,
+    "text": "While juvenile white-crowned sparrows did not react to their plane flight, adults almost universally noticed that something happened."
+  },
+  {
+    "startTime": 128.7,
+    "endTime": 136.5,
+    "text": "So adults either headed southwest, correctly compensating for their cross-country detour and aiming toward Southern California."
+  },
+  {
+    "startTime": 136.7,
+    "endTime": 142.1,
+    "text": "Or they went due west, which aimed them back toward their original migration path."
+  },
+  {
+    "startTime": 142.4,
+    "endTime": 148.0,
+    "text": "So what did the adult sparrows use to determine that they were in the wrong place?"
+  },
+  {
+    "startTime": 148.1,
+    "endTime": 153.0,
+    "text": "Scientists have looked at several different possible answers."
+  },
+  {
+    "startTime": 153.1,
+    "endTime": 159.5,
+    "text": "Sun compass. Birds can look at the sun and figure out which direction to go."
+  },
+  {
+    "startTime": 159.6,
+    "endTime": 165.0,
+    "text": "This is more difficult than it sounds, because obviously the sun changes position throughout the day."
+  },
+  {
+    "startTime": 165.1,
+    "endTime": 177.5,
+    "text": "So for this to work, birds need both the ability to see the sun and an internal clock so they know exactly what time it is and therefore where the sun should be."
+  },
+  {
+    "startTime": 177.6,
+    "endTime": 184.0,
+    "text": "Researchers trained European Starlings to get food from a feeder in a particular compass direction."
+  },
+  {
+    "startTime": 184.4,
+    "endTime": 190.1,
+    "text": "Then, using a mirror, they flipped the apparent position of the sun."
+  },
+  {
+    "startTime": 190.2,
+    "endTime": 195.0,
+    "text": "The bird responded by checking the feeder in the opposite direction of what it was trained."
+  },
+  {
+    "startTime": 195.1,
+    "endTime": 202.79999999999998,
+    "text": "Further experiments like this found that birds are able to compensate for time of day, latitude, and season."
+  },
+  {
+    "startTime": 202.8,
+    "endTime": 206.0,
+    "text": "So, looking good that birds have a sun compass."
+  },
+  {
+    "startTime": 206.9,
+    "endTime": 216.0,
+    "text": "Star compass. Not only do birds use obvious information like the sun, they are able to use the position of stars to navigate!"
+  },
+  {
+    "startTime": 216.3,
+    "endTime": 221.70000000000002,
+    "text": "Researchers put birds in a planetarium and projected a starry sky for the birds to look at."
+  },
+  {
+    "startTime": 221.9,
+    "endTime": 228.0,
+    "text": "But the stars in their projection were rotated, meaning that the northern constellations were in the East."
+  },
+  {
+    "startTime": 229.0,
+    "endTime": 239.5,
+    "text": "The birds may have been confused, but they adapted quickly and oriented in the new \"correct\" direction and moved toward the new \"south\" for their migration."
+  },
+  {
+    "startTime": 239.7,
+    "endTime": 244.5,
+    "text": "Birds didn't seem to use the North Star, but did use constellations."
+  },
+  {
+    "startTime": 244.6,
+    "endTime": 252.0,
+    "text": "The use of constellations means that they could use this ability even in the southern hemisphere, where they can't see the north star."
+  },
+  {
+    "startTime": 252.2,
+    "endTime": 261.5,
+    "text": "Unfamiliar constellations were useless to the birds, which means that they learn constellations as they migrate and use them to navigate on future migrations."
+  },
+  {
+    "startTime": 261.8,
+    "endTime": 271.0,
+    "text": "Magnetic compass.  We use magnetic compasses like this one all the time, and so do birds."
+  },
+  {
+    "startTime": 271.2,
+    "endTime": 275.3,
+    "text": "Magnetic compasses respond to the Earth's magnetic field."
+  },
+  {
+    "startTime": 275.4,
+    "endTime": 283.79999999999995,
+    "text": "Researchers put birds in weak artificial magnetic fields and the birds reacted as it changed direction and intensity."
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 289.0,
+    "text": "We're not sure exactly how birds sense the Earth's magnetic field at this time."
+  },
+  {
+    "startTime": 289.1,
+    "endTime": 294.90000000000003,
+    "text": "There's evidence to support the sense as located in their beak, ears or eyes."
+  },
+  {
+    "startTime": 297.0,
+    "endTime": 303.8,
+    "text": "Personally, I like the idea of them seeing magnetic fields with special eye cells, because it would be such a cool sense to have."
+  },
+  {
+    "startTime": 303.9,
+    "endTime": 306.0,
+    "text": "But for now, we don't know for sure."
+  },
+  {
+    "startTime": 307.0,
+    "endTime": 310.5,
+    "text": "Scientists have discovered other methods used by birds."
+  },
+  {
+    "startTime": 310.7,
+    "endTime": 312.5,
+    "text": "Landmarks are important."
+  },
+  {
+    "startTime": 312.6,
+    "endTime": 318.70000000000005,
+    "text": "Birds use rivers, mountains, and forests to find their way along a migration route."
+  },
+  {
+    "startTime": 318.8,
+    "endTime": 325.40000000000003,
+    "text": "Some birds appear to use smell landmarks, sniffing their way across a map of familiar smells."
+  },
+  {
+    "startTime": 325.6,
+    "endTime": 332.50100000000003,
+    "text": "They also use polarized light that passes through clouds if they can't see the sun or stars due to weather."
+  },
+  {
+    "startTime": 332.6,
+    "endTime": 336.5,
+    "text": "There may be even more senses that we don't know about."
+  },
+  {
+    "startTime": 336.6,
+    "endTime": 339.90000000000003,
+    "text": "Thanks for taking the time to learn about bird navigation."
+  },
+  {
+    "startTime": 339.92,
+    "endTime": 342.0,
+    "text": "I hope you enjoyed your time here."
+  },
+  {
+    "startTime": 342.4,
+    "endTime": 348.0,
+    "text": "If you did, navigate to the subscribe button below so you don't miss future videos."
+  },
+  {
+    "startTime": 348.1,
+    "endTime": 349.5,
+    "text": "Thanks and have a great day!"
+  }
+]
