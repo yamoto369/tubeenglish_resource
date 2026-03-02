@@ -1,0 +1,417 @@
+[
+  {
+    "startTime": 0.1,
+    "endTime": 2.18,
+    "text": "Buying plane tickets can be exhausting."
+  },
+  {
+    "startTime": 2.18,
+    "endTime": 5.5,
+    "text": "Many of us spend hours on the internet researching flight deals,"
+  },
+  {
+    "startTime": 5.5,
+    "endTime": 9.7,
+    "text": "trying to figure out an airfare pricing system that seems random."
+  },
+  {
+    "startTime": 9.7,
+    "endTime": 15.639,
+    "text": "Fees appear to fluctuate without reason, and longer flights aren't always more expensive than shorter ones."
+  },
+  {
+    "startTime": 15.64,
+    "endTime": 19.0,
+    "text": "But behind this is actually the science of dynamic pricing,"
+  },
+  {
+    "startTime": 19.0,
+    "endTime": 22.82,
+    "text": "which has less to do with cost and more to do with artificial intelligence."
+  },
+  {
+    "startTime": 27.96,
+    "endTime": 31.399,
+    "text": "It's been more than a hundred years since the first scheduled flight."
+  },
+  {
+    "startTime": 31.58,
+    "endTime": 34.699999999999996,
+    "text": "With the Comet scheduled by British Overseas Airways Corporation"
+  },
+  {
+    "startTime": 34.7,
+    "endTime": 38.379000000000005,
+    "text": "to start the world's first jet passenger air service—"
+  },
+  {
+    "startTime": 38.38,
+    "endTime": 42.5,
+    "text": "In the beginning, commercial aviation was a tightly regulated marketplace,"
+  },
+  {
+    "startTime": 42.5,
+    "endTime": 47.0,
+    "text": "where airfares were based on distance traveled rather than passenger demand."
+  },
+  {
+    "startTime": 47.0,
+    "endTime": 50.4,
+    "text": "Most international routes were operated by a single national carrier,"
+  },
+  {
+    "startTime": 50.4,
+    "endTime": 54.56,
+    "text": "and the lack of choice resulted in uncompetitive fares for consumers."
+  },
+  {
+    "startTime": 54.56,
+    "endTime": 57.0,
+    "text": "Deregulation, however, changed all that."
+  },
+  {
+    "startTime": 57.0,
+    "endTime": 62.0,
+    "text": "In 1978, the U.S. government began the process of removing government controls"
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 65.0,
+    "text": "over routes and market entry for new airlines."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 67.32,
+    "text": "In 1983, fares followed."
+  },
+  {
+    "startTime": 67.32,
+    "endTime": 73.5,
+    "text": "And by the early 1990s, the liberalization of the aviation industry had spread around the world,"
+  },
+  {
+    "startTime": 73.5,
+    "endTime": 76.74,
+    "text": "making pricing more competitive."
+  },
+  {
+    "startTime": 76.74,
+    "endTime": 81.479,
+    "text": "Critics also say there was too much competition in the first years after deregulation."
+  },
+  {
+    "startTime": 81.48,
+    "endTime": 83.8,
+    "text": "Airlines merged and became more dominant,"
+  },
+  {
+    "startTime": 83.8,
+    "endTime": 88.86,
+    "text": "changing the industry from a regulated cartel into an unregulated cartel."
+  },
+  {
+    "startTime": 88.86,
+    "endTime": 94.52,
+    "text": "In the U.S., just 4 airlines control 68% of the domestic airline capacity."
+  },
+  {
+    "startTime": 94.52,
+    "endTime": 97.8,
+    "text": "While ticket prices have been falling between major hub airports,"
+  },
+  {
+    "startTime": 97.8,
+    "endTime": 104.88,
+    "text": "the lack of competition and a reduction in flights has resulted in higher average airfare for smaller, less competitive cities."
+  },
+  {
+    "startTime": 104.88,
+    "endTime": 107.42,
+    "text": "But this hasn't halted the demand in air travel."
+  },
+  {
+    "startTime": 107.42,
+    "endTime": 110.7,
+    "text": "The number of airline passengers across the globe has continued to grow,"
+  },
+  {
+    "startTime": 110.7,
+    "endTime": 117.8,
+    "text": "particularly in the last 10 years, with the amount of people choosing to fly skyrocketing by nearly 1.8 billion."
+  },
+  {
+    "startTime": 118.6,
+    "endTime": 122.11999999999999,
+    "text": "So what does this increasing volume of passengers mean for pricing tickets?"
+  },
+  {
+    "startTime": 122.12,
+    "endTime": 127.0,
+    "text": "Despite steep surcharges and baggage fees tacked on during the '07-'08 oil shock,"
+  },
+  {
+    "startTime": 127.0,
+    "endTime": 132.62,
+    "text": "ticket prices aren't actually focused on the seats' combined cost such as taxes and fuel."
+  },
+  {
+    "startTime": 132.62,
+    "endTime": 137.46,
+    "text": "Instead, airlines price tickets using a strategy called airline revenue management."
+  },
+  {
+    "startTime": 137.46,
+    "endTime": 140.22,
+    "text": "Its end goal? Make as much money as possible."
+  },
+  {
+    "startTime": 140.22,
+    "endTime": 142.1,
+    "text": "This is working in real time."
+  },
+  {
+    "startTime": 142.1,
+    "endTime": 146.5,
+    "text": "So when a customer goes to book a seat, the airline determines the price they see"
+  },
+  {
+    "startTime": 146.5,
+    "endTime": 151.92,
+    "text": "by analyzing a wide range of factors including the status of their entire network."
+  },
+  {
+    "startTime": 151.92,
+    "endTime": 155.39999999999998,
+    "text": "Of course, these decisions aren't being made by humans."
+  },
+  {
+    "startTime": 155.4,
+    "endTime": 160.0,
+    "text": "Algorithms adjust fares by using information like past bookings, remaining capacity,"
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 164.92,
+    "text": "average demand for certain routes, and the probability of selling more seats later."
+  },
+  {
+    "startTime": 164.92,
+    "endTime": 168.899,
+    "text": "One example of this process being used is for pricing connecting routes."
+  },
+  {
+    "startTime": 168.9,
+    "endTime": 171.3,
+    "text": "Let's say you want to fly London to Miami."
+  },
+  {
+    "startTime": 171.3,
+    "endTime": 176.60000000000002,
+    "text": "The flight you want to book also serves as the first leg of a connected flight to Bogota."
+  },
+  {
+    "startTime": 176.6,
+    "endTime": 178.2,
+    "text": "While you're traveling less distance to Miami,"
+  },
+  {
+    "startTime": 178.2,
+    "endTime": 181.95899999999997,
+    "text": "you may end up paying more than passengers flying through to Bogota."
+  },
+  {
+    "startTime": 181.96,
+    "endTime": 185.3,
+    "text": "That's because airlines are trying to discourage you from buying seats"
+  },
+  {
+    "startTime": 185.3,
+    "endTime": 188.42000000000002,
+    "text": "that they want to keep available for the full journey."
+  },
+  {
+    "startTime": 188.42,
+    "endTime": 191.0,
+    "text": "This entire thought process is done by an algorithm,"
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 194.88,
+    "text": "which predicts those seats will sell for a higher price in the future."
+  },
+  {
+    "startTime": 195.86,
+    "endTime": 199.399,
+    "text": "Airlines also profile their customers to help them adjust prices."
+  },
+  {
+    "startTime": 199.398,
+    "endTime": 205.16,
+    "text": "This often means placing passengers into one of two groups: leisure or business."
+  },
+  {
+    "startTime": 205.16,
+    "endTime": 208.74,
+    "text": "And the way each group is priced is very different."
+  },
+  {
+    "startTime": 208.74,
+    "endTime": 214.449,
+    "text": "An airline offering a flight from London to Bali can assume that the people on that route are largely holidaymakers,"
+  },
+  {
+    "startTime": 214.449,
+    "endTime": 217.119,
+    "text": "so it places them in the leisure bracket."
+  },
+  {
+    "startTime": 217.12,
+    "endTime": 219.8,
+    "text": "These passengers usually book months in advance,"
+  },
+  {
+    "startTime": 219.8,
+    "endTime": 223.72,
+    "text": "so airlines tend to start the price for these seats relatively high."
+  },
+  {
+    "startTime": 223.72,
+    "endTime": 228.5,
+    "text": "It then adjusts the price according to market response, making sure it's high enough to maximize profit,"
+  },
+  {
+    "startTime": 228.5,
+    "endTime": 231.9,
+    "text": "but low enough so that it doesn't result in unused capacity."
+  },
+  {
+    "startTime": 231.9,
+    "endTime": 234.8,
+    "text": "While on a typical business route, such as London to Hong Kong,"
+  },
+  {
+    "startTime": 234.8,
+    "endTime": 238.78,
+    "text": "airlines usually start with low prices to fill a minimum capacity."
+  },
+  {
+    "startTime": 238.78,
+    "endTime": 242.96,
+    "text": "Then it increases prices steeply for business travelers who book last minute."
+  },
+  {
+    "startTime": 242.96,
+    "endTime": 246.0,
+    "text": "That's because airlines know business travelers tend to book later"
+  },
+  {
+    "startTime": 246.0,
+    "endTime": 249.66,
+    "text": "and are far less price sensitive than their leisure counterparts."
+  },
+  {
+    "startTime": 249.66,
+    "endTime": 254.72,
+    "text": "In fact, business travelers are willing to pay 60% more on average to secure a seat."
+  },
+  {
+    "startTime": 255.88,
+    "endTime": 260.0,
+    "text": "Some analysts believe airlines use consumers' internet browser cookies"
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 262.919,
+    "text": "to determine what flights they've been looking at."
+  },
+  {
+    "startTime": 262.92,
+    "endTime": 266.94,
+    "text": "This way, they can increase those prices to encourage them to buy."
+  },
+  {
+    "startTime": 266.94,
+    "endTime": 269.5,
+    "text": "But solid proof of this practice is hard to come by,"
+  },
+  {
+    "startTime": 269.5,
+    "endTime": 273.46,
+    "text": "and it's something airlines and price comparison sites strongly deny."
+  },
+  {
+    "startTime": 273.46,
+    "endTime": 279.5,
+    "text": "Targeted dynamic prices however can increase customer satisfaction and encourage consumer bookings."
+  },
+  {
+    "startTime": 279.5,
+    "endTime": 283.2,
+    "text": "For example, a member of an airline loyalty program could receive"
+  },
+  {
+    "startTime": 283.3,
+    "endTime": 286.86,
+    "text": "'just for you' price displays based on their purchasing history."
+  },
+  {
+    "startTime": 286.86,
+    "endTime": 290.7,
+    "text": "Technology has also allowed some airlines to create a 'basic economy fare'"
+  },
+  {
+    "startTime": 290.7,
+    "endTime": 295.18,
+    "text": "with limited amenities to compete with minimal service, low cost carriers."
+  },
+  {
+    "startTime": 295.18,
+    "endTime": 302.2,
+    "text": "That lower fare is key if full service carriers want to appear on the first page of search engines like Google Flights."
+  },
+  {
+    "startTime": 302.2,
+    "endTime": 306.3,
+    "text": "But it's not just airlines that are using AI technology to their advantage."
+  },
+  {
+    "startTime": 306.3,
+    "endTime": 311.7,
+    "text": "Consumers now have access to sites which monitor fares, using their own algorithms and past data,"
+  },
+  {
+    "startTime": 311.7,
+    "endTime": 315.86,
+    "text": "to predict the lowest price a seat will reach to then alert their customers."
+  },
+  {
+    "startTime": 315.86,
+    "endTime": 319.8,
+    "text": "The threat airfare search sites pose to airlines' dynamic pricing system"
+  },
+  {
+    "startTime": 319.8,
+    "endTime": 326.48,
+    "text": "even saw United Airlines suing the website Skiplagged, which helps passengers find loopholes for cheaper tickets."
+  },
+  {
+    "startTime": 326.48,
+    "endTime": 330.3,
+    "text": "With AI having such an important role in the field of air travel pricing,"
+  },
+  {
+    "startTime": 330.3,
+    "endTime": 334.97,
+    "text": "it's likely that complex algorithms will continue to fight the airfare war."
+  },
+  {
+    "startTime": 334.97,
+    "endTime": 339.34900000000005,
+    "text": "That may not be a bad thing, as airlines manage a growing number of passengers"
+  },
+  {
+    "startTime": 339.349,
+    "endTime": 343.3,
+    "text": "and consumers push for better choices and easier ways to book their trips."
+  }
+]

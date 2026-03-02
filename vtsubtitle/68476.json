@@ -1,0 +1,1357 @@
+[
+  {
+    "startTime": 13.388,
+    "endTime": 16.563,
+    "text": "Alright, let me tell you about building synthetic cells"
+  },
+  {
+    "startTime": 16.587,
+    "endTime": 18.532,
+    "text": "and printing life."
+  },
+  {
+    "startTime": 18.556,
+    "endTime": 21.39,
+    "text": "But first, let me tell you a quick story."
+  },
+  {
+    "startTime": 21.63,
+    "endTime": 23.569,
+    "text": "On March 31, 2013,"
+  },
+  {
+    "startTime": 23.593,
+    "endTime": 27.776,
+    "text": "my team and I received an email from an international health organization,"
+  },
+  {
+    "startTime": 27.8,
+    "endTime": 30.633000000000003,
+    "text": "alerting us that two men died in China"
+  },
+  {
+    "startTime": 30.657,
+    "endTime": 33.712,
+    "text": "shortly after contracting the H7N9 bird flu."
+  },
+  {
+    "startTime": 34.149,
+    "endTime": 36.6,
+    "text": "There were fears of a global pandemic"
+  },
+  {
+    "startTime": 36.3,
+    "endTime": 39.363,
+    "text": "as the virus started rapidly moving across China."
+  },
+  {
+    "startTime": 40.4,
+    "endTime": 42.786,
+    "text": "Although methods existed to produce a flu vaccine"
+  },
+  {
+    "startTime": 42.81,
+    "endTime": 44.782000000000004,
+    "text": "and stop the disease from spreading,"
+  },
+  {
+    "startTime": 44.806,
+    "endTime": 48.65,
+    "text": "at best, it would not be available for at least six months."
+  },
+  {
+    "startTime": 49.474,
+    "endTime": 54.202999999999996,
+    "text": "This is because a slow, antiquated flu vaccine manufacturing process"
+  },
+  {
+    "startTime": 54.228,
+    "endTime": 58.186,
+    "text": "developed over 70 years ago was the only option."
+  },
+  {
+    "startTime": 59.14,
+    "endTime": 62.592,
+    "text": "The virus would need to be isolated from infected patients,"
+  },
+  {
+    "startTime": 62.616,
+    "endTime": 64.91,
+    "text": "packaged up and then sent to a facility"
+  },
+  {
+    "startTime": 64.934,
+    "endTime": 68.95,
+    "text": "where scientists would inject the virus into chicken eggs,"
+  },
+  {
+    "startTime": 68.974,
+    "endTime": 71.545,
+    "text": "and incubate those chicken eggs for several weeks"
+  },
+  {
+    "startTime": 71.569,
+    "endTime": 75.291,
+    "text": "in order to prepare the virus for the start of a multistep,"
+  },
+  {
+    "startTime": 75.315,
+    "endTime": 78.597,
+    "text": "multimonth flu vaccine manufacturing process."
+  },
+  {
+    "startTime": 79.363,
+    "endTime": 81.357,
+    "text": "My team and I received this email"
+  },
+  {
+    "startTime": 81.381,
+    "endTime": 85.267,
+    "text": "because we had just invented a biological printer,"
+  },
+  {
+    "startTime": 85.291,
+    "endTime": 87.712,
+    "text": "which would allow for the flu vaccine instructions"
+  },
+  {
+    "startTime": 87.736,
+    "endTime": 91.57000000000001,
+    "text": "to be instantly downloaded from the internet and printed."
+  },
+  {
+    "startTime": 91.633,
+    "endTime": 94.919,
+    "text": "Drastically speeding up the way in which flu vaccines are made,"
+  },
+  {
+    "startTime": 94.943,
+    "endTime": 97.743,
+    "text": "and potentially saving thousands of lives."
+  },
+  {
+    "startTime": 98.776,
+    "endTime": 103.75,
+    "text": "The biological printer leverages our ability to read and write DNA"
+  },
+  {
+    "startTime": 103.774,
+    "endTime": 105.744,
+    "text": "and starts to bring into focus"
+  },
+  {
+    "startTime": 105.768,
+    "endTime": 108.901,
+    "text": "what we like to call biological teleportation."
+  },
+  {
+    "startTime": 109.704,
+    "endTime": 113.904,
+    "text": "I am a biologist and an engineer who builds stuff out of DNA."
+  },
+  {
+    "startTime": 114.577,
+    "endTime": 116.926,
+    "text": "Believe it or not, one of my favorite things to do"
+  },
+  {
+    "startTime": 116.95,
+    "endTime": 119.327,
+    "text": "is to take DNA apart and put it back together"
+  },
+  {
+    "startTime": 119.351,
+    "endTime": 122.109,
+    "text": "so that I can understand better how it works."
+  },
+  {
+    "startTime": 122.442,
+    "endTime": 127.101,
+    "text": "I can edit and program DNA to do things, just like coders programing a computer."
+  },
+  {
+    "startTime": 127.797,
+    "endTime": 129.597,
+    "text": "But my apps are different."
+  },
+  {
+    "startTime": 129.622,
+    "endTime": 130.86800000000002,
+    "text": "They create life."
+  },
+  {
+    "startTime": 130.892,
+    "endTime": 135.164,
+    "text": "Self-replicating living cells and things like vaccines and therapeutics"
+  },
+  {
+    "startTime": 135.188,
+    "endTime": 138.295,
+    "text": "that work in ways that were previously impossible."
+  },
+  {
+    "startTime": 139.141,
+    "endTime": 142.441,
+    "text": "Here's National Medal of Science recipient Craig Venter"
+  },
+  {
+    "startTime": 142.466,
+    "endTime": 144.601,
+    "text": "and Nobel laureate Ham Smith."
+  },
+  {
+    "startTime": 145.38,
+    "endTime": 147.347,
+    "text": "These two guys shared a similar vision."
+  },
+  {
+    "startTime": 147.371,
+    "endTime": 151.768,
+    "text": "That vision was, because all of the functions and characteristics"
+  },
+  {
+    "startTime": 151.792,
+    "endTime": 155.949,
+    "text": "of all biological entities, including viruses and living cells,"
+  },
+  {
+    "startTime": 155.973,
+    "endTime": 158.40300000000002,
+    "text": "are written into the code of DNA,"
+  },
+  {
+    "startTime": 158.427,
+    "endTime": 161.822,
+    "text": "if one can read and write that code of DNA,"
+  },
+  {
+    "startTime": 161.847,
+    "endTime": 165.11,
+    "text": "then they can be reconstructed in a distant location."
+  },
+  {
+    "startTime": 166.43,
+    "endTime": 169.377,
+    "text": "This is what we mean by biological teleportation."
+  },
+  {
+    "startTime": 170.21,
+    "endTime": 171.55200000000002,
+    "text": "To prove out this vision,"
+  },
+  {
+    "startTime": 171.576,
+    "endTime": 174.569,
+    "text": "Craig and Ham set a goal of creating, for the first time,"
+  },
+  {
+    "startTime": 174.593,
+    "endTime": 177.74499999999998,
+    "text": "a synthetic cell, starting from DNA code in the computer."
+  },
+  {
+    "startTime": 178.284,
+    "endTime": 183.141,
+    "text": "I mean, come on, as a scientist looking for a job,"
+  },
+  {
+    "startTime": 183.165,
+    "endTime": 186.227,
+    "text": "doing cutting-edge research, it doesn't get any better than this."
+  },
+  {
+    "startTime": 186.252,
+    "endTime": 188.11,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 188.35,
+    "endTime": 192.561,
+    "text": "OK, a genome is a complete set of DNA within an organism."
+  },
+  {
+    "startTime": 193.138,
+    "endTime": 195.847,
+    "text": "Following the Human Genome Project in 2003,"
+  },
+  {
+    "startTime": 195.871,
+    "endTime": 198.70000000000002,
+    "text": "which was an international effort to identify"
+  },
+  {
+    "startTime": 198.94,
+    "endTime": 201.251,
+    "text": "the complete genetic blueprint of a human being,"
+  },
+  {
+    "startTime": 201.276,
+    "endTime": 203.529,
+    "text": "a genomics revolution happened."
+  },
+  {
+    "startTime": 203.553,
+    "endTime": 207.245,
+    "text": "Scientists started mastering the techniques for reading DNA."
+  },
+  {
+    "startTime": 207.269,
+    "endTime": 210.56300000000002,
+    "text": "In order to determine the order of the As, Cs, Ts and Gs"
+  },
+  {
+    "startTime": 210.587,
+    "endTime": 211.85199999999998,
+    "text": "within an organism."
+  },
+  {
+    "startTime": 212.475,
+    "endTime": 214.31,
+    "text": "But my job was far different."
+  },
+  {
+    "startTime": 214.412,
+    "endTime": 217.418,
+    "text": "I needed to master the techniques for writing DNA."
+  },
+  {
+    "startTime": 217.442,
+    "endTime": 218.71200000000002,
+    "text": "Like an author of a book,"
+  },
+  {
+    "startTime": 218.736,
+    "endTime": 220.917,
+    "text": "this started out as writing short sentences,"
+  },
+  {
+    "startTime": 220.942,
+    "endTime": 223.45000000000002,
+    "text": "or sequences of DNA code,"
+  },
+  {
+    "startTime": 223.69,
+    "endTime": 225.346,
+    "text": "but this soon turned into writing paragraphs"
+  },
+  {
+    "startTime": 225.371,
+    "endTime": 227.73600000000002,
+    "text": "and then full-on novels of DNA code,"
+  },
+  {
+    "startTime": 227.76,
+    "endTime": 231.989,
+    "text": "to make important biological instructions for proteins and living cells."
+  },
+  {
+    "startTime": 232.466,
+    "endTime": 235.966,
+    "text": "Living cells are nature's most efficient machines at making new products,"
+  },
+  {
+    "startTime": 235.99,
+    "endTime": 237.649,
+    "text": "accounting for the production"
+  },
+  {
+    "startTime": 237.673,
+    "endTime": 241.244,
+    "text": "of 25 percent of the total pharmaceutical market,"
+  },
+  {
+    "startTime": 241.268,
+    "endTime": 243.201,
+    "text": "which is billions of dollars."
+  },
+  {
+    "startTime": 243.823,
+    "endTime": 247.704,
+    "text": "We knew that writing DNA would drive this bioeconomy even more,"
+  },
+  {
+    "startTime": 247.728,
+    "endTime": 250.894,
+    "text": "once cells could be programmed just like computers."
+  },
+  {
+    "startTime": 251.339,
+    "endTime": 255.99,
+    "text": "We also knew that writing DNA would enable biological teleportation ..."
+  },
+  {
+    "startTime": 257.185,
+    "endTime": 260.94,
+    "text": "the printing of defined, biological material,"
+  },
+  {
+    "startTime": 260.118,
+    "endTime": 261.813,
+    "text": "starting from DNA code."
+  },
+  {
+    "startTime": 262.575,
+    "endTime": 265.537,
+    "text": "As a step toward bringing these promises to fruition,"
+  },
+  {
+    "startTime": 265.561,
+    "endTime": 268.282,
+    "text": "our team set out to create, for the first time,"
+  },
+  {
+    "startTime": 268.307,
+    "endTime": 270.545,
+    "text": "a synthetic bacterial cell,"
+  },
+  {
+    "startTime": 270.569,
+    "endTime": 273.168,
+    "text": "starting from DNA code in the computer."
+  },
+  {
+    "startTime": 273.918,
+    "endTime": 276.45,
+    "text": "Synthetic DNA is a commodity."
+  },
+  {
+    "startTime": 276.69,
+    "endTime": 279.68,
+    "text": "You can order very short pieces of DNA from a number of companies,"
+  },
+  {
+    "startTime": 279.704,
+    "endTime": 283.371,
+    "text": "and they will start from these four bottles of chemicals that make up DNA,"
+  },
+  {
+    "startTime": 283.395,
+    "endTime": 284.84,
+    "text": "G, A, T and C,"
+  },
+  {
+    "startTime": 284.864,
+    "endTime": 288.11899999999997,
+    "text": "and they will build those very short pieces of DNA for you."
+  },
+  {
+    "startTime": 288.986,
+    "endTime": 290.819,
+    "text": "Over the past 15 years or so,"
+  },
+  {
+    "startTime": 290.843,
+    "endTime": 293.166,
+    "text": "my teams have been developing the technology"
+  },
+  {
+    "startTime": 293.19,
+    "endTime": 295.945,
+    "text": "for stitching together those short pieces of DNA"
+  },
+  {
+    "startTime": 295.97,
+    "endTime": 298.16,
+    "text": "into complete bacterial genomes."
+  },
+  {
+    "startTime": 298.871,
+    "endTime": 303.204,
+    "text": "The largest genome that we constructed contained over one million letters."
+  },
+  {
+    "startTime": 303.942,
+    "endTime": 306.60200000000003,
+    "text": "Which is more than twice the size of your average novel,"
+  },
+  {
+    "startTime": 306.626,
+    "endTime": 310.67999999999995,
+    "text": "and we had to put every single one of those letters in the correct order,"
+  },
+  {
+    "startTime": 310.93,
+    "endTime": 311.362,
+    "text": "without a single typo."
+  },
+  {
+    "startTime": 311.386,
+    "endTime": 315.67900000000003,
+    "text": "We were able to accomplish this by developing a procedure"
+  },
+  {
+    "startTime": 315.703,
+    "endTime": 320.75,
+    "text": "that I tried to call the \"one-step isothermal in vitro recombination method.\""
+  },
+  {
+    "startTime": 320.774,
+    "endTime": 322.863,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 322.887,
+    "endTime": 327.879,
+    "text": "But, surprisingly, the science community didn't like this technically accurate name"
+  },
+  {
+    "startTime": 327.903,
+    "endTime": 330.50300000000004,
+    "text": "and decided to call it Gibson Assembly."
+  },
+  {
+    "startTime": 331.625,
+    "endTime": 334.482,
+    "text": "Gibson Assembly is now the gold standard tool,"
+  },
+  {
+    "startTime": 334.506,
+    "endTime": 336.974,
+    "text": "used in laboratories around the world"
+  },
+  {
+    "startTime": 336.998,
+    "endTime": 339.798,
+    "text": "for building short and long pieces of DNA."
+  },
+  {
+    "startTime": 340.236,
+    "endTime": 345.569,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 345.593,
+    "endTime": 348.918,
+    "text": "Once we chemically synthesized the complete bacterial genome,"
+  },
+  {
+    "startTime": 348.942,
+    "endTime": 351.252,
+    "text": "our next challenge was to find a way"
+  },
+  {
+    "startTime": 351.276,
+    "endTime": 354.744,
+    "text": "to convert it into a free-living, self-replicating cell."
+  },
+  {
+    "startTime": 355.427,
+    "endTime": 359.252,
+    "text": "Our approach was to think of the genome as the operating system of the cell,"
+  },
+  {
+    "startTime": 359.276,
+    "endTime": 363.771,
+    "text": "with the cell containing the hardware necessary to boot up the genome."
+  },
+  {
+    "startTime": 364.553,
+    "endTime": 366.172,
+    "text": "Through a lot of trial and error,"
+  },
+  {
+    "startTime": 366.196,
+    "endTime": 369.331,
+    "text": "we developed a procedure where we could reprogram cells"
+  },
+  {
+    "startTime": 369.355,
+    "endTime": 372.704,
+    "text": "and even convert one bacterial species into another,"
+  },
+  {
+    "startTime": 372.728,
+    "endTime": 376.252,
+    "text": "by replacing the genome of one cell with that of another."
+  },
+  {
+    "startTime": 377.363,
+    "endTime": 381.427,
+    "text": "This genome transplantation technology then paved the way"
+  },
+  {
+    "startTime": 381.451,
+    "endTime": 384.68,
+    "text": "for the booting-up of genomes written by scientists"
+  },
+  {
+    "startTime": 384.704,
+    "endTime": 386.371,
+    "text": "and not by Mother Nature."
+  },
+  {
+    "startTime": 386.768,
+    "endTime": 389.387,
+    "text": "In 2010, all of the technologies"
+  },
+  {
+    "startTime": 389.411,
+    "endTime": 392.196,
+    "text": "that we had been developing for reading and writing DNA"
+  },
+  {
+    "startTime": 392.22,
+    "endTime": 395.141,
+    "text": "all came together when we announced the creation"
+  },
+  {
+    "startTime": 395.165,
+    "endTime": 397.379,
+    "text": "of the first synthetic cell,"
+  },
+  {
+    "startTime": 397.403,
+    "endTime": 399.56100000000004,
+    "text": "which of course, we called Synthia."
+  },
+  {
+    "startTime": 399.585,
+    "endTime": 401.585,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 401.61,
+    "endTime": 406.19,
+    "text": "Ever since the first bacterial genome was sequenced, back in 1995,"
+  },
+  {
+    "startTime": 406.214,
+    "endTime": 409.673,
+    "text": "thousands more whole bacterial genomes have been sequenced and stored"
+  },
+  {
+    "startTime": 409.697,
+    "endTime": 411.103,
+    "text": "in computer databases."
+  },
+  {
+    "startTime": 411.601,
+    "endTime": 413.988,
+    "text": "Our synthetic cell work was the proof of concept"
+  },
+  {
+    "startTime": 414.12,
+    "endTime": 416.22,
+    "text": "that we could reverse this process:"
+  },
+  {
+    "startTime": 416.46,
+    "endTime": 419.64099999999996,
+    "text": "pull a complete bacterial genome sequence out of the computer"
+  },
+  {
+    "startTime": 419.665,
+    "endTime": 424.42600000000004,
+    "text": "and convert that information into a free-living, self-replicating cell,"
+  },
+  {
+    "startTime": 424.45,
+    "endTime": 428.788,
+    "text": "with all of the expected characteristics of the species that we constructed."
+  },
+  {
+    "startTime": 430.409,
+    "endTime": 432.957,
+    "text": "Now I can understand why there may be concerns"
+  },
+  {
+    "startTime": 432.982,
+    "endTime": 436.17600000000004,
+    "text": "about the safety of this level of genetic manipulation."
+  },
+  {
+    "startTime": 436.918,
+    "endTime": 441.69,
+    "text": "While the technology has the potential for great societal benefit,"
+  },
+  {
+    "startTime": 441.93,
+    "endTime": 443.533,
+    "text": "it also has the potential for doing harm."
+  },
+  {
+    "startTime": 444.355,
+    "endTime": 448.418,
+    "text": "With this in mind, even before carrying out the very first experiment,"
+  },
+  {
+    "startTime": 448.442,
+    "endTime": 451.307,
+    "text": "our team started to work with the public and the government"
+  },
+  {
+    "startTime": 451.331,
+    "endTime": 453.934,
+    "text": "to find solutions together"
+  },
+  {
+    "startTime": 453.958,
+    "endTime": 457.75800000000004,
+    "text": "to responsibly develop and regulate this new technology."
+  },
+  {
+    "startTime": 458.331,
+    "endTime": 462.13300000000004,
+    "text": "One of the outcomes from those discussions was to screen every customer"
+  },
+  {
+    "startTime": 462.157,
+    "endTime": 464.752,
+    "text": "and every customer's DNA synthesis orders,"
+  },
+  {
+    "startTime": 464.776,
+    "endTime": 469.672,
+    "text": "to make sure that pathogens or toxins are not being made by bad guys,"
+  },
+  {
+    "startTime": 469.696,
+    "endTime": 471.63000000000005,
+    "text": "or accidentally by scientists."
+  },
+  {
+    "startTime": 472.974,
+    "endTime": 476.361,
+    "text": "All suspicious orders are reported to the FBI"
+  },
+  {
+    "startTime": 476.386,
+    "endTime": 479.156,
+    "text": "and other relevant law-enforcement agencies."
+  },
+  {
+    "startTime": 480.641,
+    "endTime": 484.911,
+    "text": "Synthetic cell technologies will power the next industrial revolution"
+  },
+  {
+    "startTime": 484.935,
+    "endTime": 487.799,
+    "text": "and transform industries and economies"
+  },
+  {
+    "startTime": 487.823,
+    "endTime": 491.489,
+    "text": "in ways that address global sustainability challenges."
+  },
+  {
+    "startTime": 492.6,
+    "endTime": 494.21200000000005,
+    "text": "The possibilities are endless."
+  },
+  {
+    "startTime": 494.236,
+    "endTime": 495.824,
+    "text": "I mean, you can think of clothes"
+  },
+  {
+    "startTime": 495.848,
+    "endTime": 499.545,
+    "text": "constructed form renewable biobased sources,"
+  },
+  {
+    "startTime": 499.569,
+    "endTime": 503.22,
+    "text": "cars running on biofuel from engineered microbes,"
+  },
+  {
+    "startTime": 503.244,
+    "endTime": 506.82300000000004,
+    "text": "plastics made from biodegradable polymers"
+  },
+  {
+    "startTime": 506.847,
+    "endTime": 510.566,
+    "text": "and customized therapies, printed at a patient's bedside."
+  },
+  {
+    "startTime": 511.196,
+    "endTime": 513.783,
+    "text": "The massive efforts to create synthetic cells"
+  },
+  {
+    "startTime": 513.807,
+    "endTime": 516.607,
+    "text": "have made us world leaders at writing DNA."
+  },
+  {
+    "startTime": 517.149,
+    "endTime": 520.871,
+    "text": "Throughout the process, we found ways to write DNA faster,"
+  },
+  {
+    "startTime": 520.895,
+    "endTime": 523.9499999999999,
+    "text": "more accurately and more reliably."
+  },
+  {
+    "startTime": 523.688,
+    "endTime": 525.982,
+    "text": "Because of the robustness of these technologies,"
+  },
+  {
+    "startTime": 526.6,
+    "endTime": 529.6,
+    "text": "we found that we could readily automate the processes"
+  },
+  {
+    "startTime": 529.3,
+    "endTime": 532.6959999999999,
+    "text": "and move the laboratory workflows out of the scientist's hands"
+  },
+  {
+    "startTime": 532.72,
+    "endTime": 533.986,
+    "text": "and onto a machine."
+  },
+  {
+    "startTime": 535.4,
+    "endTime": 538.4,
+    "text": "In 2013, we built the first DNA printer."
+  },
+  {
+    "startTime": 538.631,
+    "endTime": 540.939,
+    "text": "We call it the BioXp."
+  },
+  {
+    "startTime": 540.964,
+    "endTime": 544.1600000000001,
+    "text": "And it has been absolutely essential in writing DNA"
+  },
+  {
+    "startTime": 544.184,
+    "endTime": 545.799,
+    "text": "across a number of applications"
+  },
+  {
+    "startTime": 545.823,
+    "endTime": 549.622,
+    "text": "my team and researchers around the world are working on."
+  },
+  {
+    "startTime": 550.77,
+    "endTime": 552.9399999999999,
+    "text": "It was shortly after we built the BioXp"
+  },
+  {
+    "startTime": 552.118,
+    "endTime": 557.4000000000001,
+    "text": "that we received that email about the H7N9 bird flu scare in China."
+  },
+  {
+    "startTime": 557.498,
+    "endTime": 560.9190000000001,
+    "text": "A team of Chinese scientists had already isolated the virus,"
+  },
+  {
+    "startTime": 560.943,
+    "endTime": 564.459,
+    "text": "sequenced its DNA and uploaded the DNA sequence to the internet."
+  },
+  {
+    "startTime": 565.616,
+    "endTime": 569.131,
+    "text": "At the request of the US government, we downloaded the DNA sequence"
+  },
+  {
+    "startTime": 569.155,
+    "endTime": 572.72,
+    "text": "and in less than 12 hours, we printed it on the BioXp."
+  },
+  {
+    "startTime": 573.529,
+    "endTime": 575.107,
+    "text": "Our collaborators at Novartis"
+  },
+  {
+    "startTime": 575.131,
+    "endTime": 579.146,
+    "text": "then quickly started turning that synthetic DNA into a flu vaccine."
+  },
+  {
+    "startTime": 579.497,
+    "endTime": 584.26,
+    "text": "Meanwhile, the CDC, using technology dating back to the 1940s,"
+  },
+  {
+    "startTime": 584.51,
+    "endTime": 586.981,
+    "text": "was still waiting for the virus to arrive from China"
+  },
+  {
+    "startTime": 587.5,
+    "endTime": 589.745,
+    "text": "so that they could begin their egg-based approach."
+  },
+  {
+    "startTime": 590.234,
+    "endTime": 593.783,
+    "text": "For the first time, we had a flu vaccine developed ahead of time"
+  },
+  {
+    "startTime": 593.807,
+    "endTime": 596.2760000000001,
+    "text": "for a new and potentially dangerous strain,"
+  },
+  {
+    "startTime": 596.3,
+    "endTime": 598.9399999999999,
+    "text": "and the US government ordered a stockpile."
+  },
+  {
+    "startTime": 598.965,
+    "endTime": 604.5930000000001,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 604.617,
+    "endTime": 607.8399999999999,
+    "text": "This was when I began to appreciate, more than ever,"
+  },
+  {
+    "startTime": 607.109,
+    "endTime": 609.863,
+    "text": "the power of biological teleportation."
+  },
+  {
+    "startTime": 609.887,
+    "endTime": 611.3599999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 611.61,
+    "endTime": 613.149,
+    "text": "Naturally, with this in mind,"
+  },
+  {
+    "startTime": 613.173,
+    "endTime": 615.379,
+    "text": "we started to build a biological teleporter."
+  },
+  {
+    "startTime": 616.402,
+    "endTime": 618.591,
+    "text": "We call it the DBC."
+  },
+  {
+    "startTime": 618.615,
+    "endTime": 621.747,
+    "text": "That's short for digital-to-biological converter."
+  },
+  {
+    "startTime": 622.267,
+    "endTime": 623.601,
+    "text": "Unlike the BioXp,"
+  },
+  {
+    "startTime": 623.625,
+    "endTime": 626.704,
+    "text": "which starts from pre-manufactured short pieces of DNA,"
+  },
+  {
+    "startTime": 626.728,
+    "endTime": 629.8299999999999,
+    "text": "the DBC starts from digitized DNA code"
+  },
+  {
+    "startTime": 629.855,
+    "endTime": 632.91,
+    "text": "and converts that DNA code into biological entities,"
+  },
+  {
+    "startTime": 632.934,
+    "endTime": 636.467,
+    "text": "such as DNA, RNA, proteins or even viruses."
+  },
+  {
+    "startTime": 637.188,
+    "endTime": 640.61,
+    "text": "You can think of the BioXp as a DVD player,"
+  },
+  {
+    "startTime": 640.85,
+    "endTime": 643.133,
+    "text": "requiring a physical DVD to be inserted,"
+  },
+  {
+    "startTime": 643.157,
+    "endTime": 645.49,
+    "text": "whereas the DBC is Netflix."
+  },
+  {
+    "startTime": 647.974,
+    "endTime": 649.206,
+    "text": "To build the DBC,"
+  },
+  {
+    "startTime": 649.23,
+    "endTime": 654.79,
+    "text": "my team of scientists worked with software and instrumentation engineers"
+  },
+  {
+    "startTime": 654.103,
+    "endTime": 656.871,
+    "text": "to collapse multiple laboratory workflows,"
+  },
+  {
+    "startTime": 656.895,
+    "endTime": 658.3629999999999,
+    "text": "all in a single box."
+  },
+  {
+    "startTime": 658.696,
+    "endTime": 662.577,
+    "text": "This included software algorithms to predict what DNA to build,"
+  },
+  {
+    "startTime": 662.601,
+    "endTime": 667.53,
+    "text": "chemistry to link the G, A, T and C building blocks of DNA into short pieces,"
+  },
+  {
+    "startTime": 667.77,
+    "endTime": 671.355,
+    "text": "Gibson Assembly to stitch together those short pieces into much longer ones,"
+  },
+  {
+    "startTime": 671.379,
+    "endTime": 674.938,
+    "text": "and biology to convert the DNA into other biological entities,"
+  },
+  {
+    "startTime": 674.962,
+    "endTime": 676.144,
+    "text": "such as proteins."
+  },
+  {
+    "startTime": 677.89,
+    "endTime": 678.716,
+    "text": "This is the prototype."
+  },
+  {
+    "startTime": 678.74,
+    "endTime": 680.9300000000001,
+    "text": "Although it wasn't pretty, it was effective."
+  },
+  {
+    "startTime": 680.954,
+    "endTime": 683.247,
+    "text": "It made therapeutic drugs and vaccines."
+  },
+  {
+    "startTime": 683.271,
+    "endTime": 687.4499999999999,
+    "text": "And laboratory workflows that once took weeks or months"
+  },
+  {
+    "startTime": 687.69,
+    "endTime": 690.6170000000001,
+    "text": "could now be carried out in just one to two days."
+  },
+  {
+    "startTime": 690.641,
+    "endTime": 693.228,
+    "text": "And that's all without any human intervention"
+  },
+  {
+    "startTime": 693.252,
+    "endTime": 695.843,
+    "text": "and simply activated by the receipt of an email"
+  },
+  {
+    "startTime": 695.867,
+    "endTime": 698.41,
+    "text": "which could be sent from anywhere in the world."
+  },
+  {
+    "startTime": 699.69,
+    "endTime": 702.1880000000001,
+    "text": "We like to compare the DBC to fax machines."
+  },
+  {
+    "startTime": 703.16,
+    "endTime": 706.381,
+    "text": "But whereas fax machines received images and documents,"
+  },
+  {
+    "startTime": 706.405,
+    "endTime": 709.143,
+    "text": "the DBC receives biological materials."
+  },
+  {
+    "startTime": 710.24,
+    "endTime": 712.706,
+    "text": "Now, consider how fax machines have evolved."
+  },
+  {
+    "startTime": 713.553,
+    "endTime": 716.736,
+    "text": "The prototype of the 1840s is unrecognizable,"
+  },
+  {
+    "startTime": 716.76,
+    "endTime": 719.278,
+    "text": "compared with the fax machines of today."
+  },
+  {
+    "startTime": 719.958,
+    "endTime": 723.7669999999999,
+    "text": "In the 1980s, most people still didn't know what a fax machine was,"
+  },
+  {
+    "startTime": 723.792,
+    "endTime": 725.188,
+    "text": "and if they did,"
+  },
+  {
+    "startTime": 725.212,
+    "endTime": 727.571,
+    "text": "it was difficult for them to grasp the concept"
+  },
+  {
+    "startTime": 727.595,
+    "endTime": 731.216,
+    "text": "of instantly reproducing an image on the other side of the world."
+  },
+  {
+    "startTime": 731.672,
+    "endTime": 733.966,
+    "text": "But nowadays, everything that a fax machine does"
+  },
+  {
+    "startTime": 733.99,
+    "endTime": 735.665,
+    "text": "is integrated on our smart phones,"
+  },
+  {
+    "startTime": 735.689,
+    "endTime": 740.107,
+    "text": "and of course, we take this rapid exchange of digital information for granted."
+  },
+  {
+    "startTime": 740.831,
+    "endTime": 743.283,
+    "text": "Here's what our DBC looks like today."
+  },
+  {
+    "startTime": 743.307,
+    "endTime": 747.694,
+    "text": "We imagine the DBC evolving in similar ways as fax machines have."
+  },
+  {
+    "startTime": 748.212,
+    "endTime": 750.8389999999999,
+    "text": "We're working to reduce the size of the instrument,"
+  },
+  {
+    "startTime": 750.863,
+    "endTime": 753.4820000000001,
+    "text": "and we're working to make the underlying technology"
+  },
+  {
+    "startTime": 753.506,
+    "endTime": 757.26,
+    "text": "more reliable, cheaper, faster and more accurate."
+  },
+  {
+    "startTime": 758.61,
+    "endTime": 761.823,
+    "text": "Accuracy is extremely important when synthesizing DNA,"
+  },
+  {
+    "startTime": 761.847,
+    "endTime": 763.8629999999999,
+    "text": "because a single change to a DNA letter"
+  },
+  {
+    "startTime": 763.887,
+    "endTime": 766.911,
+    "text": "could mean the difference between a medicine working or not"
+  },
+  {
+    "startTime": 766.935,
+    "endTime": 769.468,
+    "text": "or synthetic cell being alive or dead."
+  },
+  {
+    "startTime": 770.292,
+    "endTime": 773.7520000000001,
+    "text": "The DBC will be useful for the distributed manufacturing"
+  },
+  {
+    "startTime": 773.776,
+    "endTime": 775.776,
+    "text": "of medicine starting from DNA."
+  },
+  {
+    "startTime": 776.649,
+    "endTime": 779.412,
+    "text": "Every hospital in the world could use a DBC"
+  },
+  {
+    "startTime": 779.436,
+    "endTime": 783.167,
+    "text": "for printing personalized medicines for a patient at their bedside."
+  },
+  {
+    "startTime": 783.846,
+    "endTime": 788.856,
+    "text": "I can even imagine a day when it's routine for people to have a DBC"
+  },
+  {
+    "startTime": 788.88,
+    "endTime": 791.149,
+    "text": "to connect to their home computer or smart phone"
+  },
+  {
+    "startTime": 791.173,
+    "endTime": 793.188,
+    "text": "as a means to download their prescriptions,"
+  },
+  {
+    "startTime": 793.212,
+    "endTime": 795.331,
+    "text": "such as insulin or antibody therapies."
+  },
+  {
+    "startTime": 795.355,
+    "endTime": 799.808,
+    "text": "The DBC will also be valuable when placed in strategic areas around the world,"
+  },
+  {
+    "startTime": 799.832,
+    "endTime": 802.499,
+    "text": "for rapid response to disease outbreaks."
+  },
+  {
+    "startTime": 802.879,
+    "endTime": 805.982,
+    "text": "For example, the CDC in Atlanta, Georgia"
+  },
+  {
+    "startTime": 806.6,
+    "endTime": 810.799,
+    "text": "could send flu vaccine instructions to a DBC on the other side of the world,"
+  },
+  {
+    "startTime": 810.823,
+    "endTime": 814.766,
+    "text": "where the flu vaccine is manufactured right on the front lines."
+  },
+  {
+    "startTime": 815.85,
+    "endTime": 820.315,
+    "text": "That flu vaccine could even be specifically tailored to the flu strain"
+  },
+  {
+    "startTime": 820.339,
+    "endTime": 823.561,
+    "text": "that's circulating in that local area."
+  },
+  {
+    "startTime": 823.585,
+    "endTime": 826.77,
+    "text": "Sending vaccines around in a digital file,"
+  },
+  {
+    "startTime": 826.101,
+    "endTime": 829.918,
+    "text": "rather than stockpiling those same vaccines and shipping them out,"
+  },
+  {
+    "startTime": 829.942,
+    "endTime": 832.573,
+    "text": "promises to save thousands of lives."
+  },
+  {
+    "startTime": 833.212,
+    "endTime": 837.412,
+    "text": "Of course, the applications go as far as the imagination goes."
+  },
+  {
+    "startTime": 838.164,
+    "endTime": 842.159,
+    "text": "It's not hard to imagine placing a DBC on another planet."
+  },
+  {
+    "startTime": 843.315,
+    "endTime": 848.4190000000001,
+    "text": "Scientists on Earth could then send the digital instructions to that DBC"
+  },
+  {
+    "startTime": 848.443,
+    "endTime": 852.449,
+    "text": "to make new medicines or to make synthetic organisms"
+  },
+  {
+    "startTime": 852.474,
+    "endTime": 856.1410000000001,
+    "text": "that produce oxygen, food, fuel or building materials,"
+  },
+  {
+    "startTime": 856.165,
+    "endTime": 859.3389999999999,
+    "text": "as a means for making the planet more habitable for humans."
+  },
+  {
+    "startTime": 860.2,
+    "endTime": 864.442,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 864.466,
+    "endTime": 867.807,
+    "text": "With digital information traveling at the speed of light,"
+  },
+  {
+    "startTime": 867.831,
+    "endTime": 870.7280000000001,
+    "text": "it would only take minutes to send those digital instructions"
+  },
+  {
+    "startTime": 870.752,
+    "endTime": 871.942,
+    "text": "from Earth to Mars,"
+  },
+  {
+    "startTime": 871.966,
+    "endTime": 875.815,
+    "text": "but it would take months to physically deliver those same samples"
+  },
+  {
+    "startTime": 875.839,
+    "endTime": 876.989,
+    "text": "on a spacecraft."
+  },
+  {
+    "startTime": 877.821,
+    "endTime": 882.424,
+    "text": "But for now, I would be satisfied beaming new medicines across the globe,"
+  },
+  {
+    "startTime": 882.448,
+    "endTime": 884.638,
+    "text": "fully automated and on demand,"
+  },
+  {
+    "startTime": 884.662,
+    "endTime": 888.26,
+    "text": "saving lives from emerging infectious diseases"
+  },
+  {
+    "startTime": 888.284,
+    "endTime": 893.36,
+    "text": "and printing personalized cancer medicines for those who don't have time to wait."
+  },
+  {
+    "startTime": 893.6,
+    "endTime": 894.234,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 894.259,
+    "endTime": 901.259,
+    "text": "(Applause)"
+  }
+]
