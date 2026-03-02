@@ -1,0 +1,502 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.25,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 6.44,
+    "endTime": 9.04,
+    "text": "if you line up the entire text of Moby"
+  },
+  {
+    "startTime": 9.04,
+    "endTime": 12.519,
+    "text": "Dick which was published in 1851 into a"
+  },
+  {
+    "startTime": 12.519,
+    "endTime": 14.879,
+    "text": "giant rectangle you may notice some"
+  },
+  {
+    "startTime": 14.879,
+    "endTime": 18.119,
+    "text": "peculiar patterns like these words which"
+  },
+  {
+    "startTime": 18.119,
+    "endTime": 20.439,
+    "text": "seem to predict the assassination of"
+  },
+  {
+    "startTime": 20.439,
+    "endTime": 23.519,
+    "text": "Martin Luther King or these references"
+  },
+  {
+    "startTime": 23.519,
+    "endTime": 28.439,
+    "text": "to the 1997 death of Princess Dy so was"
+  },
+  {
+    "startTime": 28.439,
+    "endTime": 30.72,
+    "text": "Herman Melville a secret"
+  },
+  {
+    "startTime": 30.72,
+    "endTime": 34.0,
+    "text": "profit the answer is no and we know that"
+  },
+  {
+    "startTime": 34.0,
+    "endTime": 35.879,
+    "text": "thanks to a mathematical principle"
+  },
+  {
+    "startTime": 35.879,
+    "endTime": 38.52,
+    "text": "called ramsy Theory it's the reason we"
+  },
+  {
+    "startTime": 38.52,
+    "endTime": 40.52,
+    "text": "can find geometric shapes in the night"
+  },
+  {
+    "startTime": 40.52,
+    "endTime": 42.8,
+    "text": "sky it's why we can know without"
+  },
+  {
+    "startTime": 42.8,
+    "endTime": 44.879,
+    "text": "checking that at least two people in"
+  },
+  {
+    "startTime": 44.879,
+    "endTime": 47.44,
+    "text": "London have exactly the same number of"
+  },
+  {
+    "startTime": 47.44,
+    "endTime": 50.64,
+    "text": "hairs on their head and it explains why"
+  },
+  {
+    "startTime": 50.64,
+    "endTime": 53.359,
+    "text": "patterns can be found in just about any"
+  },
+  {
+    "startTime": 53.359,
+    "endTime": 57.359,
+    "text": "text even Vanilla Ice lyrics so what is"
+  },
+  {
+    "startTime": 57.359,
+    "endTime": 60.359,
+    "text": "Ramsey Theory simply put it's states"
+  },
+  {
+    "startTime": 60.359,
+    "endTime": 62.76,
+    "text": "that given enough elements in a set or"
+  },
+  {
+    "startTime": 62.76,
+    "endTime": 65.119,
+    "text": "structure some particular interesting"
+  },
+  {
+    "startTime": 65.119,
+    "endTime": 68.52,
+    "text": "pattern among them is guaranteed to"
+  },
+  {
+    "startTime": 68.52,
+    "endTime": 71.28,
+    "text": "emerge as a simple example let's look at"
+  },
+  {
+    "startTime": 71.28,
+    "endTime": 73.24,
+    "text": "what's called the party problem a"
+  },
+  {
+    "startTime": 73.24,
+    "endTime": 75.72,
+    "text": "classic illustration of ramsy theory"
+  },
+  {
+    "startTime": 75.72,
+    "endTime": 77.96,
+    "text": "Suppose there are at least six people at"
+  },
+  {
+    "startTime": 77.96,
+    "endTime": 80.92,
+    "text": "a party amazingly enough we can say for"
+  },
+  {
+    "startTime": 80.92,
+    "endTime": 83.64,
+    "text": "sure that some group of three of them"
+  },
+  {
+    "startTime": 83.64,
+    "endTime": 86.119,
+    "text": "either all know each other or have never"
+  },
+  {
+    "startTime": 86.119,
+    "endTime": 88.439,
+    "text": "met before without knowing a single"
+  },
+  {
+    "startTime": 88.439,
+    "endTime": 91.159,
+    "text": "thing about them we can demonstrate that"
+  },
+  {
+    "startTime": 91.159,
+    "endTime": 93.84,
+    "text": "by graphing out all the possibilities"
+  },
+  {
+    "startTime": 93.84,
+    "endTime": 96.119,
+    "text": "each point represents a person and a"
+  },
+  {
+    "startTime": 96.119,
+    "endTime": 98.04,
+    "text": "line indicates that the pair know each"
+  },
+  {
+    "startTime": 98.04,
+    "endTime": 100.479,
+    "text": "other every pair only has two"
+  },
+  {
+    "startTime": 100.479,
+    "endTime": 102.2,
+    "text": "possibilities they either know each"
+  },
+  {
+    "startTime": 102.2,
+    "endTime": 105.119,
+    "text": "other or they don't there are a lot of"
+  },
+  {
+    "startTime": 105.119,
+    "endTime": 107.64,
+    "text": "possibilities but every single one has"
+  },
+  {
+    "startTime": 107.64,
+    "endTime": 110.159,
+    "text": "the property that we're looking for six"
+  },
+  {
+    "startTime": 110.159,
+    "endTime": 112.2,
+    "text": "is the lowest number of guests where"
+  },
+  {
+    "startTime": 112.2,
+    "endTime": 114.399,
+    "text": "that's guaranteed to be the case which"
+  },
+  {
+    "startTime": 114.399,
+    "endTime": 117.719,
+    "text": "we can express like this ramsy Theory"
+  },
+  {
+    "startTime": 117.719,
+    "endTime": 120.36,
+    "text": "gives us a guarantee that such a minimum"
+  },
+  {
+    "startTime": 120.36,
+    "endTime": 123.24,
+    "text": "number exists for certain patterns but"
+  },
+  {
+    "startTime": 123.24,
+    "endTime": 126.24,
+    "text": "no easy way to find it in this case as"
+  },
+  {
+    "startTime": 126.24,
+    "endTime": 128.52,
+    "text": "the total number of guests grows higher"
+  },
+  {
+    "startTime": 128.52,
+    "endTime": 131.4,
+    "text": "the combinations get out of control for"
+  },
+  {
+    "startTime": 131.4,
+    "endTime": 133.4,
+    "text": "instance say you're trying to find out"
+  },
+  {
+    "startTime": 133.4,
+    "endTime": 135.2,
+    "text": "the minimum size of a party where"
+  },
+  {
+    "startTime": 135.2,
+    "endTime": 137.36,
+    "text": "there's a group of five people who all"
+  },
+  {
+    "startTime": 137.36,
+    "endTime": 140.16,
+    "text": "know each other or all don't despite"
+  },
+  {
+    "startTime": 140.16,
+    "endTime": 142.519,
+    "text": "five being a small number the answer is"
+  },
+  {
+    "startTime": 142.519,
+    "endTime": 144.68,
+    "text": "virtually impossible to discover through"
+  },
+  {
+    "startTime": 144.68,
+    "endTime": 147.4,
+    "text": "an exhaustive search like this that's"
+  },
+  {
+    "startTime": 147.4,
+    "endTime": 149.2,
+    "text": "because of the sheer volume of"
+  },
+  {
+    "startTime": 149.2,
+    "endTime": 150.519,
+    "text": "possibilities"
+  },
+  {
+    "startTime": 150.519,
+    "endTime": 155.2,
+    "text": "a party with 48 guests has two to the"
+  },
+  {
+    "startTime": 155.2,
+    "endTime": 158.879,
+    "text": "1,128 power possible configurations more"
+  },
+  {
+    "startTime": 158.879,
+    "endTime": 161.519,
+    "text": "than the number of atoms in the universe"
+  },
+  {
+    "startTime": 161.519,
+    "endTime": 163.68,
+    "text": "even with the help of computers the best"
+  },
+  {
+    "startTime": 163.68,
+    "endTime": 165.519,
+    "text": "we know is that the answer to this"
+  },
+  {
+    "startTime": 165.519,
+    "endTime": 169.64,
+    "text": "question is somewhere between 43 and 49"
+  },
+  {
+    "startTime": 169.64,
+    "endTime": 172.12,
+    "text": "guests what this shows us is that"
+  },
+  {
+    "startTime": 172.12,
+    "endTime": 174.04,
+    "text": "specific patterns with seemingly"
+  },
+  {
+    "startTime": 174.04,
+    "endTime": 176.519,
+    "text": "astronomical odds can emerge from a"
+  },
+  {
+    "startTime": 176.519,
+    "endTime": 179.159,
+    "text": "relatively small set and with a very"
+  },
+  {
+    "startTime": 179.159,
+    "endTime": 182.08,
+    "text": "large set the possibilities are almost"
+  },
+  {
+    "startTime": 182.08,
+    "endTime": 185.08,
+    "text": "endless any four stars where no three"
+  },
+  {
+    "startTime": 185.08,
+    "endTime": 187.44,
+    "text": "lie in a straight line will form some"
+  },
+  {
+    "startTime": 187.44,
+    "endTime": 190.36,
+    "text": "quadrilateral shape expand that to the"
+  },
+  {
+    "startTime": 190.36,
+    "endTime": 192.72,
+    "text": "thousands of stars we can see in the sky"
+  },
+  {
+    "startTime": 192.72,
+    "endTime": 194.44,
+    "text": "and it's no surprise that we can find"
+  },
+  {
+    "startTime": 194.44,
+    "endTime": 196.799,
+    "text": "all sorts of familiar shapes and even"
+  },
+  {
+    "startTime": 196.799,
+    "endTime": 199.319,
+    "text": "creatures if we look for them so what"
+  },
+  {
+    "startTime": 199.319,
+    "endTime": 202.12,
+    "text": "are the chances of a text concealing a"
+  },
+  {
+    "startTime": 202.12,
+    "endTime": 204.44,
+    "text": "prophecy well when you factor in the"
+  },
+  {
+    "startTime": 204.44,
+    "endTime": 206.72,
+    "text": "number of letters the variety of"
+  },
+  {
+    "startTime": 206.72,
+    "endTime": 209.2,
+    "text": "possible related words and all their"
+  },
+  {
+    "startTime": 209.2,
+    "endTime": 210.239,
+    "text": "abbreviation"
+  },
+  {
+    "startTime": 210.239,
+    "endTime": 212.64,
+    "text": "and Alternate spellings they're pretty"
+  },
+  {
+    "startTime": 212.64,
+    "endTime": 215.439,
+    "text": "high you can try it yourself just pick a"
+  },
+  {
+    "startTime": 215.439,
+    "endTime": 217.48,
+    "text": "favorite text arrange the letters in a"
+  },
+  {
+    "startTime": 217.48,
+    "endTime": 219.439,
+    "text": "grid and see what you can"
+  },
+  {
+    "startTime": 219.439,
+    "endTime": 222.799,
+    "text": "find the mathematician TS mskin once"
+  },
+  {
+    "startTime": 222.799,
+    "endTime": 224.799,
+    "text": "remarked that while disorder is more"
+  },
+  {
+    "startTime": 224.799,
+    "endTime": 228.28,
+    "text": "probable in general complete disorder is"
+  },
+  {
+    "startTime": 228.28,
+    "endTime": 230.4,
+    "text": "impossible the sheer size of the"
+  },
+  {
+    "startTime": 230.4,
+    "endTime": 232.879,
+    "text": "universe guarantees that some of its"
+  },
+  {
+    "startTime": 232.879,
+    "endTime": 235.799,
+    "text": "random elements will fall into specific"
+  },
+  {
+    "startTime": 235.799,
+    "endTime": 238.4,
+    "text": "arrangements and because we evolved to"
+  },
+  {
+    "startTime": 238.4,
+    "endTime": 240.799,
+    "text": "notice patterns and pick out signals"
+  },
+  {
+    "startTime": 240.799,
+    "endTime": 243.4,
+    "text": "among the noise we are often tempted to"
+  },
+  {
+    "startTime": 243.4,
+    "endTime": 245.64,
+    "text": "find intentional meaning where there may"
+  },
+  {
+    "startTime": 245.64,
+    "endTime": 248.959,
+    "text": "not be any so while we may be awed by"
+  },
+  {
+    "startTime": 248.959,
+    "endTime": 251.439,
+    "text": "hidden messages in everything from books"
+  },
+  {
+    "startTime": 251.439,
+    "endTime": 254.159,
+    "text": "to pieces of toast to the night sky"
+  },
+  {
+    "startTime": 254.159,
+    "endTime": 257.799,
+    "text": "their real origin is usually our own"
+  },
+  {
+    "startTime": 257.8,
+    "endTime": 261.448,
+    "text": "[Music]"
+  },
+  {
+    "startTime": 268.6,
+    "endTime": 271.6,
+    "text": "minds"
+  }
+]

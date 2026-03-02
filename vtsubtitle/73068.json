@@ -1,0 +1,1242 @@
+[
+  {
+    "startTime": 12.802,
+    "endTime": 16.198,
+    "text": "It's 4am, you've been awake for forty hours,"
+  },
+  {
+    "startTime": 16.222,
+    "endTime": 19.603,
+    "text": "when you unlock a puzzle containing this video"
+  },
+  {
+    "startTime": 19.627,
+    "endTime": 24.601999999999997,
+    "text": "of some kind of dance-off between a chicken and a roller-skating beaver."
+  },
+  {
+    "startTime": 24.627,
+    "endTime": 26.151,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 26.175,
+    "endTime": 28.462,
+    "text": "The confusion and delight you're experiencing"
+  },
+  {
+    "startTime": 28.486,
+    "endTime": 31.579,
+    "text": "is a typical moment at the MIT Mystery Hunt,"
+  },
+  {
+    "startTime": 31.603,
+    "endTime": 33.944,
+    "text": "which is basically the Olympics meets Burning Man"
+  },
+  {
+    "startTime": 33.968,
+    "endTime": 35.672000000000004,
+    "text": "for a specific type of nerd."
+  },
+  {
+    "startTime": 35.696,
+    "endTime": 36.696,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 36.721,
+    "endTime": 39.62,
+    "text": "Today, I'm going to take you inside this strange,"
+  },
+  {
+    "startTime": 39.87,
+    "endTime": 42.378,
+    "text": "intellectually masochistic and incredibly joyful world."
+  },
+  {
+    "startTime": 42.858,
+    "endTime": 46.143,
+    "text": "But first, I have to explain what I mean when I say \"puzzle.\""
+  },
+  {
+    "startTime": 46.715,
+    "endTime": 49.953,
+    "text": "A puzzle-hunt-style puzzle is a data set."
+  },
+  {
+    "startTime": 49.977,
+    "endTime": 54.787,
+    "text": "It can be a grid of letters, a sudoku, a video, an audio --"
+  },
+  {
+    "startTime": 54.811,
+    "endTime": 57.837,
+    "text": "it can be anything that contains hidden information"
+  },
+  {
+    "startTime": 57.861,
+    "endTime": 62.169,
+    "text": "that can eventually resolve into an answer that is a word or a phrase."
+  },
+  {
+    "startTime": 62.194,
+    "endTime": 63.514,
+    "text": "So, to give you an example,"
+  },
+  {
+    "startTime": 63.538,
+    "endTime": 66.155,
+    "text": "this is a puzzle called \"Master Pieces.\""
+  },
+  {
+    "startTime": 66.18,
+    "endTime": 71.21000000000001,
+    "text": "It consists of 10 images of LEGO people looking at piles of LEGOs."
+  },
+  {
+    "startTime": 71.37,
+    "endTime": 74.72,
+    "text": "And to save us some time, I'm going to explain what's going on here."
+  },
+  {
+    "startTime": 74.744,
+    "endTime": 79.149,
+    "text": "Each of the piles of LEGOs is a deconstructed work of art"
+  },
+  {
+    "startTime": 79.173,
+    "endTime": 81.22,
+    "text": "in the style of a famous artist."
+  },
+  {
+    "startTime": 81.46,
+    "endTime": 84.19999999999999,
+    "text": "So, does anybody recognize the artist on the left?"
+  },
+  {
+    "startTime": 84.641,
+    "endTime": 86.174,
+    "text": "They used a lot of red."
+  },
+  {
+    "startTime": 86.865,
+    "endTime": 88.265,
+    "text": "I heard \"Rothko,\" yeah."
+  },
+  {
+    "startTime": 88.873,
+    "endTime": 90.24000000000001,
+    "text": "The second one?"
+  },
+  {
+    "startTime": 90.48,
+    "endTime": 91.199,
+    "text": "(Audience) Mondrian."
+  },
+  {
+    "startTime": 91.223,
+    "endTime": 92.785,
+    "text": "Alex Rosenthal: Yeah, well done."
+  },
+  {
+    "startTime": 92.809,
+    "endTime": 95.658,
+    "text": "And the third one? This is the hardest one --"
+  },
+  {
+    "startTime": 97.404,
+    "endTime": 98.631,
+    "text": "Yeah, Klimt, I heard it."
+  },
+  {
+    "startTime": 98.95,
+    "endTime": 102.171,
+    "text": "Well done, the color is the biggest clue there."
+  },
+  {
+    "startTime": 102.195,
+    "endTime": 104.86,
+    "text": "So the puzzle has various clues"
+  },
+  {
+    "startTime": 104.884,
+    "endTime": 107.133,
+    "text": "that tell you what matters here are the artists,"
+  },
+  {
+    "startTime": 107.157,
+    "endTime": 108.776,
+    "text": "not the specific works of art."
+  },
+  {
+    "startTime": 108.8,
+    "endTime": 112.277,
+    "text": "And what you need to do is then look at what you haven't used yet,"
+  },
+  {
+    "startTime": 112.301,
+    "endTime": 115.20400000000001,
+    "text": "which is the number of LEGO people in each painting."
+  },
+  {
+    "startTime": 115.228,
+    "endTime": 116.681,
+    "text": "And you can count them"
+  },
+  {
+    "startTime": 116.706,
+    "endTime": 120.736,
+    "text": "and then count into the artists' last names by the same number of letters."
+  },
+  {
+    "startTime": 120.76,
+    "endTime": 123.926,
+    "text": "So there's three people in front of the Rothko on the left,"
+  },
+  {
+    "startTime": 123.95,
+    "endTime": 126.60900000000001,
+    "text": "so you take the third letter, which is a T."
+  },
+  {
+    "startTime": 126.633,
+    "endTime": 130.204,
+    "text": "There's only one in front of the Mondrian, so you take the first letter, M."
+  },
+  {
+    "startTime": 130.228,
+    "endTime": 133.961,
+    "text": "And there's three again in front of Klimt, so you take the third letter, I."
+  },
+  {
+    "startTime": 134.419,
+    "endTime": 136.911,
+    "text": "You do that for all 10 of the original artists"
+  },
+  {
+    "startTime": 136.935,
+    "endTime": 138.34,
+    "text": "and put them in the order,"
+  },
+  {
+    "startTime": 138.364,
+    "endTime": 141.171,
+    "text": "and you get the answer, which is \"illuminate.\""
+  },
+  {
+    "startTime": 141.195,
+    "endTime": 143.63,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 143.6,
+    "endTime": 146.98999999999998,
+    "text": "Puzzles like this are about communicating an idea."
+  },
+  {
+    "startTime": 147.211,
+    "endTime": 150.68,
+    "text": "But where I'm trying to be as clear as possible for you now,"
+  },
+  {
+    "startTime": 150.92,
+    "endTime": 153.665,
+    "text": "puzzles have to navigate the line between abstraction and clarity."
+  },
+  {
+    "startTime": 154.601,
+    "endTime": 158.465,
+    "text": "They have to be obtuse enough to make you work for it,"
+  },
+  {
+    "startTime": 158.489,
+    "endTime": 161.315,
+    "text": "but elegant enough so you can get to the aha moment,"
+  },
+  {
+    "startTime": 161.339,
+    "endTime": 163.212,
+    "text": "where everything clicks into place."
+  },
+  {
+    "startTime": 163.546,
+    "endTime": 165.926,
+    "text": "Puzzle solvers are junkies for this aha moment --"
+  },
+  {
+    "startTime": 165.95,
+    "endTime": 170.327,
+    "text": "it feels like a brief high and an instant of pristine clarity."
+  },
+  {
+    "startTime": 171.77,
+    "endTime": 174.685,
+    "text": "And there's also a deeper fulfillment at play here,"
+  },
+  {
+    "startTime": 174.709,
+    "endTime": 177.847,
+    "text": "which is that humans are innate problem-solvers."
+  },
+  {
+    "startTime": 177.871,
+    "endTime": 180.68800000000002,
+    "text": "That's why we love crosswords and escape rooms"
+  },
+  {
+    "startTime": 180.712,
+    "endTime": 184.78,
+    "text": "and figuring out how to explore the bottom of the ocean."
+  },
+  {
+    "startTime": 184.704,
+    "endTime": 189.268,
+    "text": "Solving deviously difficult puzzles expands our minds in new directions,"
+  },
+  {
+    "startTime": 189.292,
+    "endTime": 194.51500000000001,
+    "text": "and it also helps us come at problems from diverse perspectives."
+  },
+  {
+    "startTime": 195.927,
+    "endTime": 198.236,
+    "text": "These puzzles come in various puzzle hunts,"
+  },
+  {
+    "startTime": 198.26,
+    "endTime": 200.149,
+    "text": "which come in various shapes and sizes."
+  },
+  {
+    "startTime": 200.173,
+    "endTime": 202.831,
+    "text": "There's one-hour ones designed for novices,"
+  },
+  {
+    "startTime": 202.855,
+    "endTime": 204.577,
+    "text": "24-hour road rallies,"
+  },
+  {
+    "startTime": 204.601,
+    "endTime": 208.253,
+    "text": "and the puzzle hunt of puzzle hunts, the MIT Mystery Hunt."
+  },
+  {
+    "startTime": 208.753,
+    "endTime": 210.92,
+    "text": "This is an event that takes place once a year"
+  },
+  {
+    "startTime": 210.944,
+    "endTime": 216.332,
+    "text": "and has around 2,000 people descending on MIT's campus"
+  },
+  {
+    "startTime": 216.356,
+    "endTime": 220.804,
+    "text": "and solving puzzles in teams that range from a single person to over 100."
+  },
+  {
+    "startTime": 221.19,
+    "endTime": 223.547,
+    "text": "My team has 60 people on it --"
+  },
+  {
+    "startTime": 223.571,
+    "endTime": 227.49099999999999,
+    "text": "that includes a national crossword puzzle tournament champion,"
+  },
+  {
+    "startTime": 227.515,
+    "endTime": 230.188,
+    "text": "a particle physicist, a composer,"
+  },
+  {
+    "startTime": 230.212,
+    "endTime": 232.536,
+    "text": "an actual deep-sea explorer,"
+  },
+  {
+    "startTime": 232.561,
+    "endTime": 235.92600000000002,
+    "text": "and me, feeling like \"Mr. Bean goes to Bletchley Park.\""
+  },
+  {
+    "startTime": 235.95,
+    "endTime": 238.482,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 238.506,
+    "endTime": 242.82,
+    "text": "That's actually an apt comparison, because one year involved a puzzle"
+  },
+  {
+    "startTime": 242.106,
+    "endTime": 244.894,
+    "text": "where you had to construct a working Enigma machine"
+  },
+  {
+    "startTime": 244.919,
+    "endTime": 246.556,
+    "text": "out of pieces of cardboard."
+  },
+  {
+    "startTime": 246.58,
+    "endTime": 248.762,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 248.786,
+    "endTime": 250.603,
+    "text": "Each Mystery Hunt has a theme."
+  },
+  {
+    "startTime": 250.627,
+    "endTime": 253.857,
+    "text": "Past ones have included \"The Matrix\" and \"Alice in Wonderland.\""
+  },
+  {
+    "startTime": 253.881,
+    "endTime": 257.685,
+    "text": "It's often pop culture- and literary-based themes."
+  },
+  {
+    "startTime": 258.57,
+    "endTime": 260.191,
+    "text": "And the goal is to find the coin"
+  },
+  {
+    "startTime": 260.214,
+    "endTime": 263.8,
+    "text": "that's been hidden somewhere on MIT's campus."
+  },
+  {
+    "startTime": 263.33,
+    "endTime": 266.477,
+    "text": "And in order to get there, you have to solve around 150 puzzles"
+  },
+  {
+    "startTime": 266.501,
+    "endTime": 268.904,
+    "text": "and do various events and challenges."
+  },
+  {
+    "startTime": 269.353,
+    "endTime": 273.67,
+    "text": "I had done this for about 10 years without ever dreaming of winning,"
+  },
+  {
+    "startTime": 273.91,
+    "endTime": 275.416,
+    "text": "until January of 2016,"
+  },
+  {
+    "startTime": 275.44,
+    "endTime": 279.752,
+    "text": "where 53 hours into a hunt whose theme is the movie \"Inception,\""
+  },
+  {
+    "startTime": 279.776,
+    "endTime": 282.999,
+    "text": "we haven't slept in days, so everything is hilarious ..."
+  },
+  {
+    "startTime": 283.23,
+    "endTime": 284.207,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 284.231,
+    "endTime": 289.149,
+    "text": "The tables are covered in piles of papers, of our notes and completed puzzles."
+  },
+  {
+    "startTime": 289.173,
+    "endTime": 293.206,
+    "text": "The whiteboards are an unintelligible mess of three days' worth of insights."
+  },
+  {
+    "startTime": 293.729,
+    "endTime": 295.34,
+    "text": "And we're stuck on two puzzles."
+  },
+  {
+    "startTime": 295.364,
+    "endTime": 298.489,
+    "text": "If we could crack them, we would get into the endgame,"
+  },
+  {
+    "startTime": 298.514,
+    "endTime": 301.53000000000003,
+    "text": "and after hours of work, in a magical moment,"
+  },
+  {
+    "startTime": 301.77,
+    "endTime": 303.656,
+    "text": "they both fall within 10 seconds of each other,"
+  },
+  {
+    "startTime": 303.68,
+    "endTime": 305.759,
+    "text": "and soon, we're on the final runaround,"
+  },
+  {
+    "startTime": 305.783,
+    "endTime": 308.76,
+    "text": "a series of clues that will lead us to the coin,"
+  },
+  {
+    "startTime": 308.784,
+    "endTime": 311.195,
+    "text": "and we're racing through the halls of MIT,"
+  },
+  {
+    "startTime": 311.22,
+    "endTime": 314.54200000000003,
+    "text": "trying not to knock over or terrify tour groups,"
+  },
+  {
+    "startTime": 314.566,
+    "endTime": 316.145,
+    "text": "when we realize we're not alone,"
+  },
+  {
+    "startTime": 316.169,
+    "endTime": 318.457,
+    "text": "there's another team on the runaround as well,"
+  },
+  {
+    "startTime": 318.481,
+    "endTime": 320.518,
+    "text": "and we don't know who's ahead."
+  },
+  {
+    "startTime": 320.542,
+    "endTime": 323.203,
+    "text": "So, we're a mess of anxiety,"
+  },
+  {
+    "startTime": 323.228,
+    "endTime": 326.307,
+    "text": "anticipation, exhilaration and sleep deprivation,"
+  },
+  {
+    "startTime": 326.331,
+    "endTime": 328.58500000000004,
+    "text": "when we arrive at the Alchemist,"
+  },
+  {
+    "startTime": 328.609,
+    "endTime": 330.902,
+    "text": "a sculpture in which we find ..."
+  },
+  {
+    "startTime": 331.91,
+    "endTime": 333.178,
+    "text": "this coin."
+  },
+  {
+    "startTime": 333.202,
+    "endTime": 334.35699999999997,
+    "text": "(Cheers)"
+  },
+  {
+    "startTime": 334.381,
+    "endTime": 335.532,
+    "text": "Yeah."
+  },
+  {
+    "startTime": 335.557,
+    "endTime": 337.661,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 337.685,
+    "endTime": 340.107,
+    "text": "And in claiming it, we win the MIT Mystery Hunt"
+  },
+  {
+    "startTime": 340.131,
+    "endTime": 342.621,
+    "text": "by a tiny margin of five minutes."
+  },
+  {
+    "startTime": 343.506,
+    "endTime": 344.95,
+    "text": "What I didn't mention before"
+  },
+  {
+    "startTime": 344.974,
+    "endTime": 346.371,
+    "text": "is that the prize for winning"
+  },
+  {
+    "startTime": 346.395,
+    "endTime": 349.609,
+    "text": "is that you get to construct the whole hunt for the following year."
+  },
+  {
+    "startTime": 349.633,
+    "endTime": 351.371,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 351.395,
+    "endTime": 352.65,
+    "text": "The punishment for winning"
+  },
+  {
+    "startTime": 352.674,
+    "endTime": 357.126,
+    "text": "is that you have to construct the whole hunt for the following year."
+  },
+  {
+    "startTime": 358.8,
+    "endTime": 361.455,
+    "text": "At the beginning of 2016, I had never constructed a puzzle before --"
+  },
+  {
+    "startTime": 361.479,
+    "endTime": 363.27,
+    "text": "I had solved plenty of puzzles,"
+  },
+  {
+    "startTime": 363.52,
+    "endTime": 366.371,
+    "text": "but constructing and solving are entirely different beasts."
+  },
+  {
+    "startTime": 366.395,
+    "endTime": 367.577,
+    "text": "But once again,"
+  },
+  {
+    "startTime": 367.601,
+    "endTime": 371.101,
+    "text": "I was lucky to be on a team full of brilliant mentors and collaborators."
+  },
+  {
+    "startTime": 371.125,
+    "endTime": 373.53,
+    "text": "So, from a constructor's point of view,"
+  },
+  {
+    "startTime": 373.77,
+    "endTime": 375.553,
+    "text": "a puzzle is where I have an idea,"
+  },
+  {
+    "startTime": 375.577,
+    "endTime": 377.427,
+    "text": "and instead of telling you what it is,"
+  },
+  {
+    "startTime": 377.451,
+    "endTime": 381.273,
+    "text": "I'm going to leave a trail of breadcrumbs so you can figure it out for yourself,"
+  },
+  {
+    "startTime": 381.297,
+    "endTime": 384.29,
+    "text": "and have the joy and experience of the aha moment."
+  },
+  {
+    "startTime": 384.53,
+    "endTime": 386.85499999999996,
+    "text": "This is another way of looking at the aha moment."
+  },
+  {
+    "startTime": 386.879,
+    "endTime": 389.59200000000004,
+    "text": "And what's incredible to me is that this experience,"
+  },
+  {
+    "startTime": 389.616,
+    "endTime": 392.519,
+    "text": "which is very emotional and kind of almost physical,"
+  },
+  {
+    "startTime": 392.543,
+    "endTime": 394.67,
+    "text": "is something that can be carefully designed."
+  },
+  {
+    "startTime": 395.28,
+    "endTime": 396.71,
+    "text": "So, to show you what I mean,"
+  },
+  {
+    "startTime": 396.734,
+    "endTime": 400.234,
+    "text": "this is a puzzle I co-constructed with my friend Matt Gruskin."
+  },
+  {
+    "startTime": 400.258,
+    "endTime": 401.98199999999997,
+    "text": "It's a text adventure,"
+  },
+  {
+    "startTime": 402.6,
+    "endTime": 404.856,
+    "text": "which is the old-school adventure game format,"
+  },
+  {
+    "startTime": 404.88,
+    "endTime": 408.188,
+    "text": "where you're exploring, going north, east, south and west,"
+  },
+  {
+    "startTime": 408.212,
+    "endTime": 410.625,
+    "text": "picking up items and using them."
+  },
+  {
+    "startTime": 410.649,
+    "endTime": 412.831,
+    "text": "And you could get to the end of the game part,"
+  },
+  {
+    "startTime": 412.855,
+    "endTime": 414.65700000000004,
+    "text": "but you won't have solved the puzzle."
+  },
+  {
+    "startTime": 414.681,
+    "endTime": 418.776,
+    "text": "In order to do so, you have to recognize a hidden layer of information,"
+  },
+  {
+    "startTime": 418.8,
+    "endTime": 421.712,
+    "text": "and the easiest way of seeing it is by mapping the game out."
+  },
+  {
+    "startTime": 421.736,
+    "endTime": 423.433,
+    "text": "That looks something like this."
+  },
+  {
+    "startTime": 423.736,
+    "endTime": 426.135,
+    "text": "Does anybody recognize what this is?"
+  },
+  {
+    "startTime": 427.22,
+    "endTime": 428.759,
+    "text": "Yeah, exactly."
+  },
+  {
+    "startTime": 428.783,
+    "endTime": 432.81100000000004,
+    "text": "This text adventure takes place within \"Settlers of Catan.\""
+  },
+  {
+    "startTime": 433.22,
+    "endTime": 435.17900000000003,
+    "text": "Who here knows what \"Settlers\" is?"
+  },
+  {
+    "startTime": 435.887,
+    "endTime": 437.45,
+    "text": "Nerds."
+  },
+  {
+    "startTime": 437.69,
+    "endTime": 438.926,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 438.95,
+    "endTime": 441.61,
+    "text": "If you don't know, \"Settlers\" is a board game"
+  },
+  {
+    "startTime": 441.85,
+    "endTime": 443.125,
+    "text": "where you're competing against other people"
+  },
+  {
+    "startTime": 443.149,
+    "endTime": 446.283,
+    "text": "to collect resources and use them to build structures."
+  },
+  {
+    "startTime": 446.307,
+    "endTime": 451.149,
+    "text": "And within the text adventure, we hid information in various ways,"
+  },
+  {
+    "startTime": 451.173,
+    "endTime": 453.807,
+    "text": "with which you could reconstruct an entire game."
+  },
+  {
+    "startTime": 453.831,
+    "endTime": 456.776,
+    "text": "You could figure out the roads, the cities, the towns,"
+  },
+  {
+    "startTime": 456.8,
+    "endTime": 459.73,
+    "text": "the resources, the numbers on the tiles, even the dice rolls."
+  },
+  {
+    "startTime": 459.754,
+    "endTime": 463.11,
+    "text": "You put all that information together and you could extract an answer"
+  },
+  {
+    "startTime": 463.35,
+    "endTime": 465.73,
+    "text": "in a way that's too complicated to explain right now."
+  },
+  {
+    "startTime": 465.754,
+    "endTime": 467.286,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 467.31,
+    "endTime": 469.677,
+    "text": "But find me afterwards if you really want to know."
+  },
+  {
+    "startTime": 469.701,
+    "endTime": 470.735,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 470.759,
+    "endTime": 472.696,
+    "text": "But what this puzzle emphasized for me"
+  },
+  {
+    "startTime": 472.72,
+    "endTime": 476.13300000000004,
+    "text": "is the value of perspective shifts in inspiring an aha."
+  },
+  {
+    "startTime": 476.157,
+    "endTime": 477.323,
+    "text": "So, in this puzzle,"
+  },
+  {
+    "startTime": 477.347,
+    "endTime": 480.426,
+    "text": "you go from experiencing the world on the ground, as a character,"
+  },
+  {
+    "startTime": 480.45,
+    "endTime": 483.615,
+    "text": "to looking down on it from above as if you're playing a board game,"
+  },
+  {
+    "startTime": 483.639,
+    "endTime": 484.926,
+    "text": "and in that shift,"
+  },
+  {
+    "startTime": 484.95,
+    "endTime": 488.09999999999997,
+    "text": "you completely reframe all the information you've been given."
+  },
+  {
+    "startTime": 489.26,
+    "endTime": 493.582,
+    "text": "The hardest part of construction for me is coming up with a great idea for an aha."
+  },
+  {
+    "startTime": 493.607,
+    "endTime": 497.432,
+    "text": "Fortunately, the world is a torrent of ideas and information."
+  },
+  {
+    "startTime": 497.456,
+    "endTime": 501.966,
+    "text": "I've seen fantastic puzzles constructed out of the waggle dances of bees,"
+  },
+  {
+    "startTime": 501.99,
+    "endTime": 505.76800000000003,
+    "text": "and the remarkable coincidence that the 88 keys of a piano"
+  },
+  {
+    "startTime": 505.792,
+    "endTime": 509.378,
+    "text": "can be perfectly mapped to the 88 constellations in the sky."
+  },
+  {
+    "startTime": 509.403,
+    "endTime": 512.768,
+    "text": "Once you find that out, you can't not construct the puzzle,"
+  },
+  {
+    "startTime": 512.792,
+    "endTime": 514.9820000000001,
+    "text": "and it's going to be about having the solvers"
+  },
+  {
+    "startTime": 515.6,
+    "endTime": 516.966,
+    "text": "make that connection in their own minds."
+  },
+  {
+    "startTime": 516.99,
+    "endTime": 518.967,
+    "text": "Whether you give them stars on a keyboard"
+  },
+  {
+    "startTime": 518.991,
+    "endTime": 521.53,
+    "text": "or play the celestial music of the cosmos,"
+  },
+  {
+    "startTime": 521.77,
+    "endTime": 523.244,
+    "text": "you're getting them there, one way or another."
+  },
+  {
+    "startTime": 523.268,
+    "endTime": 525.664,
+    "text": "Before long, you find yourself staring at a turtle,"
+  },
+  {
+    "startTime": 525.688,
+    "endTime": 527.871,
+    "text": "and asking yourself, \"Is this a puzzle?\""
+  },
+  {
+    "startTime": 527.895,
+    "endTime": 529.537,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 529.561,
+    "endTime": 531.553,
+    "text": "And also, staring at a turtle and saying,"
+  },
+  {
+    "startTime": 531.577,
+    "endTime": 535.106,
+    "text": "\"I never appreciated what multitudes this contains in its shell alone.\""
+  },
+  {
+    "startTime": 535.64,
+    "endTime": 537.656,
+    "text": "This might be a familiar experience to you,"
+  },
+  {
+    "startTime": 537.68,
+    "endTime": 541.434,
+    "text": "if you've ever been watching a TED Talk and asked yourself, \"Is this a puzzle?\""
+  },
+  {
+    "startTime": 541.458,
+    "endTime": 542.91,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 542.934,
+    "endTime": 544.322,
+    "text": "I'm not telling."
+  },
+  {
+    "startTime": 544.346,
+    "endTime": 545.57,
+    "text": "But what I will say"
+  },
+  {
+    "startTime": 545.594,
+    "endTime": 549.138,
+    "text": "is that puzzles can be found in the most unexpected of places."
+  },
+  {
+    "startTime": 549.569,
+    "endTime": 552.49,
+    "text": "That brings us back to one of my favorite puzzles of all time,"
+  },
+  {
+    "startTime": 552.514,
+    "endTime": 554.249,
+    "text": "which was constructed by Trip Payne."
+  },
+  {
+    "startTime": 554.273,
+    "endTime": 557.21,
+    "text": "And this time, I'm going to play it for you with the sound on,"
+  },
+  {
+    "startTime": 557.234,
+    "endTime": 558.8230000000001,
+    "text": "so get ready to name that tune."
+  },
+  {
+    "startTime": 558.847,
+    "endTime": 561.108,
+    "text": "(Slowed-down mock clucking)"
+  },
+  {
+    "startTime": 561.974,
+    "endTime": 564.537,
+    "text": "(Slowed-down mock clucking)"
+  },
+  {
+    "startTime": 565.117,
+    "endTime": 571.452,
+    "text": "(Slowed-down mock clucking)"
+  },
+  {
+    "startTime": 571.476,
+    "endTime": 572.626,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 572.65,
+    "endTime": 574.11,
+    "text": "Who knows what that is?"
+  },
+  {
+    "startTime": 574.825,
+    "endTime": 576.999,
+    "text": "Yeah, \"You Make Me Feel Like a Natural Woman.\""
+  },
+  {
+    "startTime": 577.23,
+    "endTime": 581.851,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 581.875,
+    "endTime": 585.232,
+    "text": "So you can identify that and seven other songs and clips,"
+  },
+  {
+    "startTime": 585.256,
+    "endTime": 587.803,
+    "text": "and then look at the videos themselves for clues,"
+  },
+  {
+    "startTime": 587.827,
+    "endTime": 591.109,
+    "text": "where the way that they are filmed and edited together"
+  },
+  {
+    "startTime": 591.133,
+    "endTime": 594.196,
+    "text": "plus things like the cutaways to the panel of five people"
+  },
+  {
+    "startTime": 594.22,
+    "endTime": 595.474,
+    "text": "sitting at a table,"
+  },
+  {
+    "startTime": 595.498,
+    "endTime": 597.95,
+    "text": "which is reminiscent of a panel of judges,"
+  },
+  {
+    "startTime": 597.974,
+    "endTime": 601.2280000000001,
+    "text": "all of this can suggest \"reality competition show.\""
+  },
+  {
+    "startTime": 601.252,
+    "endTime": 603.149,
+    "text": "And either through internet research,"
+  },
+  {
+    "startTime": 603.173,
+    "endTime": 606.807,
+    "text": "or from just recognizing this, you can get to the aha,"
+  },
+  {
+    "startTime": 606.831,
+    "endTime": 609.871,
+    "text": "which is that these clips are shot-for-shot recreations"
+  },
+  {
+    "startTime": 609.895,
+    "endTime": 612.379,
+    "text": "of lip-synch battles from \"RuPaul's Drag Race.\""
+  },
+  {
+    "startTime": 612.403,
+    "endTime": 615.299,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 615.323,
+    "endTime": 616.942,
+    "text": "So, why do we do this?"
+  },
+  {
+    "startTime": 616.966,
+    "endTime": 619.879,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 619.903,
+    "endTime": 622.903,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 622.927,
+    "endTime": 624.522,
+    "text": "You tell me, I don't know."
+  },
+  {
+    "startTime": 624.546,
+    "endTime": 627.196,
+    "text": "So, first of all, it's really fun."
+  },
+  {
+    "startTime": 627.22,
+    "endTime": 630.672,
+    "text": "But I think it also improves our lives in various ways."
+  },
+  {
+    "startTime": 630.696,
+    "endTime": 634.157,
+    "text": "Being able to solve puzzles, when I'm confronted with a challenge,"
+  },
+  {
+    "startTime": 634.181,
+    "endTime": 637.332,
+    "text": "has allowed me to explore it from multiple perspectives"
+  },
+  {
+    "startTime": 637.356,
+    "endTime": 639.418,
+    "text": "before I lock in an approach."
+  },
+  {
+    "startTime": 639.442,
+    "endTime": 643.434,
+    "text": "Also, the process of solving is great training for working with a team,"
+  },
+  {
+    "startTime": 643.458,
+    "endTime": 645.942,
+    "text": "knowing when to listen, when to share,"
+  },
+  {
+    "startTime": 645.966,
+    "endTime": 648.371,
+    "text": "and how to recognize and celebrate insight"
+  },
+  {
+    "startTime": 648.395,
+    "endTime": 652.649,
+    "text": "and being able to construct ahas is a very powerful tool."
+  },
+  {
+    "startTime": 652.673,
+    "endTime": 657.507,
+    "text": "Think of how powerful and exciting and convincing an idea is"
+  },
+  {
+    "startTime": 657.531,
+    "endTime": 659.697,
+    "text": "that comes from your own mind,"
+  },
+  {
+    "startTime": 659.721,
+    "endTime": 662.141,
+    "text": "where you make all the connections yourself."
+  },
+  {
+    "startTime": 663.94,
+    "endTime": 665.3950000000001,
+    "text": "So in January of 2017,"
+  },
+  {
+    "startTime": 665.419,
+    "endTime": 669.466,
+    "text": "after tens of thousands of hours of work,"
+  },
+  {
+    "startTime": 669.49,
+    "endTime": 671.593,
+    "text": "we finally run our Mystery Hunt."
+  },
+  {
+    "startTime": 671.99,
+    "endTime": 676.553,
+    "text": "And it's a different sort of satisfaction than the quick high of an aha moment."
+  },
+  {
+    "startTime": 676.577,
+    "endTime": 681.268,
+    "text": "Instead, it's the slow burn of saying something through perplexing abstraction,"
+  },
+  {
+    "startTime": 681.292,
+    "endTime": 682.692,
+    "text": "yet being understood."
+  },
+  {
+    "startTime": 683.85,
+    "endTime": 684.6560000000001,
+    "text": "And when it was all over,"
+  },
+  {
+    "startTime": 684.68,
+    "endTime": 687.991,
+    "text": "in our exhaustion, we turned to each other and the world, and we said,"
+  },
+  {
+    "startTime": 688.15,
+    "endTime": 690.434,
+    "text": "\"We're never doing this again. It's too much work."
+  },
+  {
+    "startTime": 690.821,
+    "endTime": 693.385,
+    "text": "It's really fun, but no more winning.\""
+  },
+  {
+    "startTime": 694.109,
+    "endTime": 697.5060000000001,
+    "text": "One year later, in January of 2018,"
+  },
+  {
+    "startTime": 697.53,
+    "endTime": 699.515,
+    "text": "we won the MIT Mystery Hunt again."
+  },
+  {
+    "startTime": 699.539,
+    "endTime": 701.221,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 701.245,
+    "endTime": 705.7,
+    "text": "So, we're currently I don't know how many tens of thousands of hours of work in,"
+  },
+  {
+    "startTime": 705.31,
+    "endTime": 707.434,
+    "text": "and we're two months out from the 2019 Hunt."
+  },
+  {
+    "startTime": 707.458,
+    "endTime": 710.151,
+    "text": "So, thank you for listening, I have to go write a puzzle."
+  },
+  {
+    "startTime": 710.175,
+    "endTime": 711.42,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 711.444,
+    "endTime": 714.87,
+    "text": "(Applause)"
+  }
+]
