@@ -1,0 +1,477 @@
+[
+  {
+    "startTime": 0.1,
+    "endTime": 5.3,
+    "text": "This is gonna sound like a scam, but I found a way to make extremely small amounts of money online."
+  },
+  {
+    "startTime": 5.4,
+    "endTime": 8.9,
+    "text": "So, the one that caught my eye here is Pinterest, which⏤we all know and love Pinterest."
+  },
+  {
+    "startTime": 9.0,
+    "endTime": 14.4,
+    "text": "\"Determine the topical relatedness between pieces of text\", 40 cents."
+  },
+  {
+    "startTime": 14.5,
+    "endTime": 18.0,
+    "text": "Wait, there's one more⏤so, this one's \"find info from an email\" for 3 cents."
+  },
+  {
+    "startTime": 18.1,
+    "endTime": 21.0,
+    "text": "They're just gonna email me, and then I, like, find info from it?"
+  },
+  {
+    "startTime": 21.1,
+    "endTime": 22.1,
+    "text": "Which seems cool."
+  },
+  {
+    "startTime": 22.2,
+    "endTime": 28.2,
+    "text": "It turns out, Amazon runs an online marketplace that farms out basic tasks computer programs have a hard time with."
+  },
+  {
+    "startTime": 28.3,
+    "endTime": 32.3,
+    "text": "It's called Mechanical Turk, named after a robot from the 1700's."
+  },
+  {
+    "startTime": 32.4,
+    "endTime": 34.1,
+    "text": "But people just call it MTurk."
+  },
+  {
+    "startTime": 34.2,
+    "endTime": 41.1,
+    "text": "So, what I wanna do now is, Leonard Monteiro will pay me 3 cents to write the prices shown in an image."
+  },
+  {
+    "startTime": 41.2,
+    "endTime": 45.400000000000006,
+    "text": "I'm not totally sure why this is, like, worth-doing money, but, okay, let's do it."
+  },
+  {
+    "startTime": 45.5,
+    "endTime": 46.9,
+    "text": "It looks like a parking meter?"
+  },
+  {
+    "startTime": 47.0,
+    "endTime": 53.1,
+    "text": "I hope that this is for a good cause somehow, that this is, like, this app is helping people rather than just sending bills to people."
+  },
+  {
+    "startTime": 53.2,
+    "endTime": 58.6,
+    "text": "So, I feel like on the other end of this task, there's some sort of automated parking meter app, which is weird."
+  },
+  {
+    "startTime": 58.7,
+    "endTime": 61.7,
+    "text": "But it turns out, stuff like this happens all the time."
+  },
+  {
+    "startTime": 61.8,
+    "endTime": 65.8,
+    "text": "Nearly every successful AI product has human beings behind it."
+  },
+  {
+    "startTime": 65.9,
+    "endTime": 69.60000000000001,
+    "text": "You just don't see them until you look at the big picture."
+  },
+  {
+    "startTime": 71.7,
+    "endTime": 72.8,
+    "text": "So, what's going on here?"
+  },
+  {
+    "startTime": 72.9,
+    "endTime": 78.10000000000001,
+    "text": "Is there actually an app that claims to read parking meter fines, but it's actually humans doing it?"
+  },
+  {
+    "startTime": 78.2,
+    "endTime": 83.2,
+    "text": "Or, am I helping train their AI and these meters are just hypothetical examples?"
+  },
+  {
+    "startTime": 83.3,
+    "endTime": 87.39999999999999,
+    "text": "To figure that out, I asked a resident AI expert James Vincent."
+  },
+  {
+    "startTime": 87.5,
+    "endTime": 92.8,
+    "text": "So, I did a little Googling here, and, yeah, sorry, Russell, this is not a parking meter at all."
+  },
+  {
+    "startTime": 92.9,
+    "endTime": 97.60000000000001,
+    "text": "This is actually a little gadget you put in supermarkets and you scan barcodes to check the prices."
+  },
+  {
+    "startTime": 97.7,
+    "endTime": 102.78,
+    "text": "Now, the bigger question is: Why does someone want you to write down all these prices?"
+  },
+  {
+    "startTime": 102.8,
+    "endTime": 103.8,
+    "text": "And I have two answers for you."
+  },
+  {
+    "startTime": 103.9,
+    "endTime": 106.2,
+    "text": "In the first case, creating training data."
+  },
+  {
+    "startTime": 106.3,
+    "endTime": 110.3,
+    "text": "Say you want to make a machine vision system that automatically does what you're doing."
+  },
+  {
+    "startTime": 110.4,
+    "endTime": 112.9,
+    "text": "How does it actually know where to look in the picture?"
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 116.6,
+    "text": "How does it know what the⏤what this barcode scanner looks like?"
+  },
+  {
+    "startTime": 116.7,
+    "endTime": 120.10000000000001,
+    "text": "To teach it that information, you need to feed it labeled data."
+  },
+  {
+    "startTime": 120.2,
+    "endTime": 123.5,
+    "text": "You need to get a human to do that labeling, in this case, Russell."
+  },
+  {
+    "startTime": 123.6,
+    "endTime": 128.29999999999998,
+    "text": "He labels the data, it goes into the system, and the system learns what these things look like."
+  },
+  {
+    "startTime": 128.4,
+    "endTime": 129.70000000000002,
+    "text": "Oh, there's so much more!"
+  },
+  {
+    "startTime": 129.8,
+    "endTime": 132.3,
+    "text": "That is how you train an AI system."
+  },
+  {
+    "startTime": 132.4,
+    "endTime": 134.9,
+    "text": "But, sometimes, these systems, they don't work, right?"
+  },
+  {
+    "startTime": 135.0,
+    "endTime": 137.2,
+    "text": "So, you use case number two⏤what's that?"
+  },
+  {
+    "startTime": 137.3,
+    "endTime": 143.0,
+    "text": "Well, that might be where the AI system actually can't do what it says it can do."
+  },
+  {
+    "startTime": 143.1,
+    "endTime": 147.4,
+    "text": "It might be that there's too much glare in the picture and it can't read the numbers on the screen very well."
+  },
+  {
+    "startTime": 147.5,
+    "endTime": 152.7,
+    "text": "In those cases, you need to throw the data to someone who has the intelligence to work out what's going on."
+  },
+  {
+    "startTime": 152.8,
+    "endTime": 155.10000000000002,
+    "text": "That's not a machine, that's a human, like Russell."
+  },
+  {
+    "startTime": 155.2,
+    "endTime": 159.1,
+    "text": "And they will label the data for the machine and return it back to the end user."
+  },
+  {
+    "startTime": 159.2,
+    "endTime": 163.6,
+    "text": "Sometimes companies are upfront about this, and sometimes they lie about it, too."
+  },
+  {
+    "startTime": 163.65,
+    "endTime": 169.20000000000002,
+    "text": "Sometimes, they will say, \"Yes, we've got a whizzy AI system that's doing all this automatically.\""
+  },
+  {
+    "startTime": 169.3,
+    "endTime": 170.3,
+    "text": "And, actually, they don't."
+  },
+  {
+    "startTime": 170.4,
+    "endTime": 179.1,
+    "text": "Turns out that that AI is a lot of low-paid workers on a system like Mechanical Turk, like Russell, providing this data in the background."
+  },
+  {
+    "startTime": 179.2,
+    "endTime": 184.29999999999998,
+    "text": "If you've ever filled out a CAPTCHA, you've probably done some of that work yourself."
+  },
+  {
+    "startTime": 184.4,
+    "endTime": 191.4,
+    "text": "In theory, those tests are meant to verify that you're human, but Google has started using them to collect data for other products, too."
+  },
+  {
+    "startTime": 191.5,
+    "endTime": 196.4,
+    "text": "Typing out this blurry word could help the character recognition algorithm in Google Books."
+  },
+  {
+    "startTime": 196.5,
+    "endTime": 201.1,
+    "text": "These skewed numbers are probably helping confirm an address in Google Street View."
+  },
+  {
+    "startTime": 201.2,
+    "endTime": 211.7,
+    "text": "The most recent CAPTCHAs ask you to identify all the squares of a picture that have a car in it, at the same time, the Google's Waymo branch is trying to train self-driving cars."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 220.9,
+    "text": "Even a simple task like setting a timer with Google Assistant can require an army of contractors manually annotating the data, as a recent \"Guardian\" investigation showed."
+  },
+  {
+    "startTime": 221.2,
+    "endTime": 223.5,
+    "text": "Sometimes, users do the labeling themselves."
+  },
+  {
+    "startTime": 223.6,
+    "endTime": 229.9,
+    "text": "Facebook has some of the best facial recognition data in the world because they already have dozens of pictures of your face."
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 231.5,
+    "text": "You added them yourself."
+  },
+  {
+    "startTime": 231.6,
+    "endTime": 241.1,
+    "text": "Multiply that across billions of users, and it's all the data you need to build a facial recognition system, which can then start automatically tagging your friends in the next set of pictures you upload."
+  },
+  {
+    "startTime": 241.2,
+    "endTime": 247.6,
+    "text": "Suddenly, Facebook has one of the most advanced facial recognition systems in the world, and they didn't have to pay a dime for it."
+  },
+  {
+    "startTime": 247.7,
+    "endTime": 252.1,
+    "text": "When researchers at Google were trying to build a depth-sensing camera, they went even further."
+  },
+  {
+    "startTime": 252.2,
+    "endTime": 258.2,
+    "text": "What they really needed were a bunch of videos where mobile cameras explored static space from different angles."
+  },
+  {
+    "startTime": 258.3,
+    "endTime": 259.5,
+    "text": "But where would they find that?"
+  },
+  {
+    "startTime": 265.6,
+    "endTime": 272.8,
+    "text": "Google downloaded 2,000 mannequin challenge videos, fed them into an algorithm, and a new kind of depth-sensing software was born."
+  },
+  {
+    "startTime": 272.9,
+    "endTime": 277.59999999999997,
+    "text": "Think about it: Every minute, 500 new hours of content are added to YouTube."
+  },
+  {
+    "startTime": 277.7,
+    "endTime": 281.0,
+    "text": "If you're training an AI, that's a lot of video to draw on."
+  },
+  {
+    "startTime": 281.1,
+    "endTime": 285.0,
+    "text": "And there are no copyright restrictions on what you can use for training data."
+  },
+  {
+    "startTime": 285.1,
+    "endTime": 290.0,
+    "text": "The same goes for websites, images, Wikipedia pages⏤it's all just there for the taking."
+  },
+  {
+    "startTime": 290.1,
+    "endTime": 293.5,
+    "text": "This has been a huge driving force for the AI boom."
+  },
+  {
+    "startTime": 293.6,
+    "endTime": 297.6,
+    "text": "These systems need lots of examples to recognize even the most basic patterns."
+  },
+  {
+    "startTime": 297.7,
+    "endTime": 303.5,
+    "text": "That used to mean months of data entry, but now you can scrape everything you need from the internet in a matter of hours."
+  },
+  {
+    "startTime": 303.6,
+    "endTime": 308.90000000000003,
+    "text": "And the people who made the mannequin challenge videos, they didn't think they were encoding depth information."
+  },
+  {
+    "startTime": 309.0,
+    "endTime": 313.5,
+    "text": "If the researchers hadn't talked about their training system, it would feel like they'd done it all on their own."
+  },
+  {
+    "startTime": 313.6,
+    "endTime": 320.1,
+    "text": "The remarkable thing about AI systems is that even though they are built on a foundation of human intelligence,"
+  },
+  {
+    "startTime": 320.2,
+    "endTime": 326.0,
+    "text": "they regularly transcend that and do something that surprises us or goes beyond what we thought was possible."
+  },
+  {
+    "startTime": 326.1,
+    "endTime": 332.90000000000003,
+    "text": "One fantastic example of this is the AlphaGo program, which was designed by DeepMind, which is Google's AI lab here in London."
+  },
+  {
+    "startTime": 333.1,
+    "endTime": 340.1,
+    "text": "And in 2016 and 2017, it played and beat the human champions of the ancient board game, Go."
+  },
+  {
+    "startTime": 340.2,
+    "endTime": 344.59999999999997,
+    "text": "There's one particularly famous moment⏤it's now known simply as move 37."
+  },
+  {
+    "startTime": 344.7,
+    "endTime": 352.09999999999997,
+    "text": "It was a move that was so unusual, so counter to human expectations, that the match's commentators thought it was a mistake."
+  },
+  {
+    "startTime": 352.2,
+    "endTime": 353.3,
+    "text": "But it wasn't."
+  },
+  {
+    "startTime": 353.4,
+    "endTime": 359.2,
+    "text": "It was a beautiful play that completely undermined Lee's match, and led to AlphaGo winning the game."
+  },
+  {
+    "startTime": 359.3,
+    "endTime": 364.6,
+    "text": "And it was something that humans couldn't teach; it was something that the machine had learned by itself."
+  },
+  {
+    "startTime": 364.7,
+    "endTime": 368.59999999999997,
+    "text": "Yes, it started from a foundation of human intelligence, but it went beyond that."
+  },
+  {
+    "startTime": 368.7,
+    "endTime": 372.0,
+    "text": "This, I think, is where people get so excited by AI."
+  },
+  {
+    "startTime": 372.1,
+    "endTime": 379.6,
+    "text": "We're a long, long way away from building computers that are as flexibly intelligent and, sort of, sophisticated as humans,"
+  },
+  {
+    "startTime": 379.7,
+    "endTime": 386.7,
+    "text": "but we can still build algorithms and systems that exceed human intelligence, even in very specific domains."
+  },
+  {
+    "startTime": 386.8,
+    "endTime": 388.90000000000003,
+    "text": "But that's AI at its best."
+  },
+  {
+    "startTime": 389.0,
+    "endTime": 395.4,
+    "text": "The flip side is when an app needs a description of what's in a photo, and the photo-recognizing algorithm just doesn't work."
+  },
+  {
+    "startTime": 395.5,
+    "endTime": 399.4,
+    "text": "So you get a human being to fill it in, usually through a post on Mechanical Turk."
+  },
+  {
+    "startTime": 399.5,
+    "endTime": 404.2,
+    "text": "That's a very old trick, going all the way back to the machine that gave the site its name."
+  },
+  {
+    "startTime": 404.7,
+    "endTime": 412.5,
+    "text": "The original Mechanical Turk was this guy, a master chess-playing robot, hundreds of years before there was anything we would think of as a computer."
+  },
+  {
+    "startTime": 412.6,
+    "endTime": 418.0,
+    "text": "The Turk could beat most chess players, playing so well that people thought it was a technological marvel."
+  },
+  {
+    "startTime": 418.1,
+    "endTime": 419.90000000000003,
+    "text": "But, really, it was just a trick."
+  },
+  {
+    "startTime": 420.0,
+    "endTime": 424.5,
+    "text": "There was a human being inside, hiding under the table and directing the moves from below."
+  },
+  {
+    "startTime": 424.6,
+    "endTime": 429.90000000000003,
+    "text": "It was a human being dressed up as a machine, a trick no one had thought of until then."
+  },
+  {
+    "startTime": 430.0,
+    "endTime": 433.4,
+    "text": "And as Amazon can tell you, the trick still works."
+  },
+  {
+    "startTime": 433.5,
+    "endTime": 435.5,
+    "text": "Thanks for watching; I hope you liked the video."
+  },
+  {
+    "startTime": 436.0,
+    "endTime": 444.6,
+    "text": "If you wanna know more about AI, we did a whole video about, sort of, what these changes look like at a social scale, whether AI's destroying jobs or gonna make everything free."
+  },
+  {
+    "startTime": 444.8,
+    "endTime": 447.353,
+    "text": "So, you can check that out here or like and subscribe."
+  }
+]
