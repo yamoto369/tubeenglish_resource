@@ -1,0 +1,782 @@
+[
+  {
+    "startTime": 11.41,
+    "endTime": 13.88,
+    "text": "mine reading you've seen this in sci-fi"
+  },
+  {
+    "startTime": 13.88,
+    "endTime": 15.92,
+    "text": "movies machines in the future that can"
+  },
+  {
+    "startTime": 15.92,
+    "endTime": 17.72,
+    "text": "read our thoughts however there are"
+  },
+  {
+    "startTime": 17.72,
+    "endTime": 19.61,
+    "text": "devices today that can read the"
+  },
+  {
+    "startTime": 19.61,
+    "endTime": 21.35,
+    "text": "electrical activity from our brains we"
+  },
+  {
+    "startTime": 21.35,
+    "endTime": 24.59,
+    "text": "call this the EEG is there information"
+  },
+  {
+    "startTime": 24.59,
+    "endTime": 27.05,
+    "text": "contained in these brainwaves and if so"
+  },
+  {
+    "startTime": 27.05,
+    "endTime": 28.73,
+    "text": "could we train a computer to read our"
+  },
+  {
+    "startTime": 28.73,
+    "endTime": 30.619,
+    "text": "thoughts my buddy Nathan has been"
+  },
+  {
+    "startTime": 30.619,
+    "endTime": 32.72,
+    "text": "working to hack the EEG to build a"
+  },
+  {
+    "startTime": 32.72,
+    "endTime": 37.43,
+    "text": "mind-reading machine so this is how the"
+  },
+  {
+    "startTime": 37.43,
+    "endTime": 40.04,
+    "text": "EEG works inside your head is a brain"
+  },
+  {
+    "startTime": 40.04,
+    "endTime": 41.93,
+    "text": "and that brain is made out of billions"
+  },
+  {
+    "startTime": 41.93,
+    "endTime": 44.09,
+    "text": "of neurons each of those neurons send an"
+  },
+  {
+    "startTime": 44.09,
+    "endTime": 46.01,
+    "text": "electrical message to each other now"
+  },
+  {
+    "startTime": 46.01,
+    "endTime": 47.69,
+    "text": "these small messages can combine to make"
+  },
+  {
+    "startTime": 47.69,
+    "endTime": 49.28,
+    "text": "an electrical wave that we could detect"
+  },
+  {
+    "startTime": 49.28,
+    "endTime": 51.47,
+    "text": "on a monitor now traditionally the EEG"
+  },
+  {
+    "startTime": 51.47,
+    "endTime": 53.329,
+    "text": "can tell us large-scale things for"
+  },
+  {
+    "startTime": 53.329,
+    "endTime": 55.01,
+    "text": "example if you're asleep or if you're"
+  },
+  {
+    "startTime": 55.01,
+    "endTime": 56.809,
+    "text": "alert but could tell us anything else"
+  },
+  {
+    "startTime": 56.809,
+    "endTime": 58.94,
+    "text": "they actually read our thoughts we're"
+  },
+  {
+    "startTime": 58.94,
+    "endTime": 60.8,
+    "text": "gonna test this we're not gonna start"
+  },
+  {
+    "startTime": 60.8,
+    "endTime": 62.329,
+    "text": "with some complex thoughts we're gonna"
+  },
+  {
+    "startTime": 62.329,
+    "endTime": 64.009,
+    "text": "do something very simple can we"
+  },
+  {
+    "startTime": 64.009,
+    "endTime": 65.93,
+    "text": "interpret what someone is seen using"
+  },
+  {
+    "startTime": 65.93,
+    "endTime": 68.39,
+    "text": "only their brainwaves Nathan's gonna"
+  },
+  {
+    "startTime": 68.39,
+    "endTime": 70.58,
+    "text": "begin by placing electrodes on Christy's"
+  },
+  {
+    "startTime": 70.58,
+    "endTime": 74.6,
+    "text": "head my life is tangled and then he's"
+  },
+  {
+    "startTime": 74.6,
+    "endTime": 75.92,
+    "text": "going to show her a bunch of pictures"
+  },
+  {
+    "startTime": 75.92,
+    "endTime": 77.99,
+    "text": "from four different categories face"
+  },
+  {
+    "startTime": 77.99,
+    "endTime": 80.63,
+    "text": "house scenario and marriage pictures as"
+  },
+  {
+    "startTime": 80.63,
+    "endTime": 83.0,
+    "text": "we show Kristy hundreds of these images"
+  },
+  {
+    "startTime": 83.0,
+    "endTime": 85.07,
+    "text": "we are also capturing the electrical"
+  },
+  {
+    "startTime": 85.07,
+    "endTime": 87.47,
+    "text": "waves on to Nathan's computer we want to"
+  },
+  {
+    "startTime": 87.47,
+    "endTime": 88.79,
+    "text": "see if we can detect any visual"
+  },
+  {
+    "startTime": 88.79,
+    "endTime": 90.38,
+    "text": "information about the photos contained"
+  },
+  {
+    "startTime": 90.38,
+    "endTime": 92.27,
+    "text": "in the brain waves so when we're done"
+  },
+  {
+    "startTime": 92.27,
+    "endTime": 94.64,
+    "text": "we're gonna see if the EEG can tell us"
+  },
+  {
+    "startTime": 94.64,
+    "endTime": 96.35,
+    "text": "what kind of picture Christy is looking"
+  },
+  {
+    "startTime": 96.35,
+    "endTime": 98.689,
+    "text": "at and if it does each category should"
+  },
+  {
+    "startTime": 98.689,
+    "endTime": 101.119,
+    "text": "trigger a different brain signal okay so"
+  },
+  {
+    "startTime": 101.119,
+    "endTime": 103.159,
+    "text": "we collected all the raw EEG data and"
+  },
+  {
+    "startTime": 103.159,
+    "endTime": 105.95,
+    "text": "this is what we got it all looks pretty"
+  },
+  {
+    "startTime": 105.95,
+    "endTime": 108.009,
+    "text": "messy so let's arrange them by picture"
+  },
+  {
+    "startTime": 108.009,
+    "endTime": 110.57,
+    "text": "now still a bit too noisy to see any"
+  },
+  {
+    "startTime": 110.57,
+    "endTime": 112.909,
+    "text": "differences but if we average the EEG"
+  },
+  {
+    "startTime": 112.909,
+    "endTime": 115.34,
+    "text": "across all image types by aligning them"
+  },
+  {
+    "startTime": 115.34,
+    "endTime": 117.35,
+    "text": "to when the image first appeared we can"
+  },
+  {
+    "startTime": 117.35,
+    "endTime": 119.78,
+    "text": "remove this noise and pretty soon we can"
+  },
+  {
+    "startTime": 119.78,
+    "endTime": 121.64,
+    "text": "see some dominant patterns emerge for"
+  },
+  {
+    "startTime": 121.64,
+    "endTime": 123.92,
+    "text": "each category now the signals all still"
+  },
+  {
+    "startTime": 123.92,
+    "endTime": 125.479,
+    "text": "look pretty similar let's take a closer"
+  },
+  {
+    "startTime": 125.479,
+    "endTime": 127.49,
+    "text": "look about a hundred milliseconds after"
+  },
+  {
+    "startTime": 127.49,
+    "endTime": 129.2,
+    "text": "the image comes on we see a positive"
+  },
+  {
+    "startTime": 129.2,
+    "endTime": 132.11,
+    "text": "bump in all four cases we call this the"
+  },
+  {
+    "startTime": 132.11,
+    "endTime": 134.39,
+    "text": "p100 what we think that is is what"
+  },
+  {
+    "startTime": 134.39,
+    "endTime": 135.98,
+    "text": "happens in your brain when you recognize"
+  },
+  {
+    "startTime": 135.98,
+    "endTime": 138.56,
+    "text": "an object but damn look at that signal"
+  },
+  {
+    "startTime": 138.56,
+    "endTime": 140.15,
+    "text": "for the face it looks different than the"
+  },
+  {
+    "startTime": 140.15,
+    "endTime": 141.83,
+    "text": "others there's a negative"
+  },
+  {
+    "startTime": 141.83,
+    "endTime": 143.18,
+    "text": "dip about a hundred and seventy"
+  },
+  {
+    "startTime": 143.18,
+    "endTime": 144.98,
+    "text": "milliseconds after the image comes on"
+  },
+  {
+    "startTime": 144.98,
+    "endTime": 147.74,
+    "text": "what could be going on here research"
+  },
+  {
+    "startTime": 147.74,
+    "endTime": 149.21,
+    "text": "shows that our brain has a lot of"
+  },
+  {
+    "startTime": 149.21,
+    "endTime": 150.5,
+    "text": "neurons that are dedicated to"
+  },
+  {
+    "startTime": 150.5,
+    "endTime": 151.94,
+    "text": "recognizing human faces"
+  },
+  {
+    "startTime": 151.94,
+    "endTime": 154.31,
+    "text": "so this n170 splay could be all those"
+  },
+  {
+    "startTime": 154.31,
+    "endTime": 156.05,
+    "text": "neurons firing at once in the same"
+  },
+  {
+    "startTime": 156.05,
+    "endTime": 158.26,
+    "text": "location you can detect that in the EEG"
+  },
+  {
+    "startTime": 158.26,
+    "endTime": 161.81,
+    "text": "so there are two takeaways here one our"
+  },
+  {
+    "startTime": 161.81,
+    "endTime": 163.58,
+    "text": "eyes can't really detect the differences"
+  },
+  {
+    "startTime": 163.58,
+    "endTime": 165.08,
+    "text": "in patterns without averaging out the"
+  },
+  {
+    "startTime": 165.08,
+    "endTime": 167.75,
+    "text": "noise and two even after removing the"
+  },
+  {
+    "startTime": 167.75,
+    "endTime": 169.1,
+    "text": "noise our eyes can only pick up the"
+  },
+  {
+    "startTime": 169.1,
+    "endTime": 171.44,
+    "text": "signals associated with faces so this is"
+  },
+  {
+    "startTime": 171.44,
+    "endTime": 172.88,
+    "text": "where we turn to machine learning"
+  },
+  {
+    "startTime": 172.88,
+    "endTime": 174.86,
+    "text": "now our eyes are not very good at"
+  },
+  {
+    "startTime": 174.86,
+    "endTime": 177.5,
+    "text": "picking up patterns and noisy data but"
+  },
+  {
+    "startTime": 177.5,
+    "endTime": 179.36,
+    "text": "machine learning algorithms are designed"
+  },
+  {
+    "startTime": 179.36,
+    "endTime": 180.32,
+    "text": "to do just that"
+  },
+  {
+    "startTime": 180.32,
+    "endTime": 182.54,
+    "text": "so can we take a lot of pictures and a"
+  },
+  {
+    "startTime": 182.54,
+    "endTime": 184.43,
+    "text": "lot of data and feed it in and train a"
+  },
+  {
+    "startTime": 184.43,
+    "endTime": 187.13,
+    "text": "computer to be able to interpret what"
+  },
+  {
+    "startTime": 187.13,
+    "endTime": 189.41,
+    "text": "Kristi's looking at in real time we're"
+  },
+  {
+    "startTime": 189.41,
+    "endTime": 191.209,
+    "text": "trying to decode the information that's"
+  },
+  {
+    "startTime": 191.209,
+    "endTime": 193.82,
+    "text": "coming out of her her EEG in real-time"
+  },
+  {
+    "startTime": 193.82,
+    "endTime": 196.07,
+    "text": "and predict what it is that her eyes are"
+  },
+  {
+    "startTime": 196.07,
+    "endTime": 197.84,
+    "text": "looking at and if it works what we"
+  },
+  {
+    "startTime": 197.84,
+    "endTime": 199.79,
+    "text": "should see is every time that sure gives"
+  },
+  {
+    "startTime": 199.79,
+    "endTime": 201.08,
+    "text": "a picture of scenery it should say"
+  },
+  {
+    "startTime": 201.08,
+    "endTime": 203.42,
+    "text": "scenery scenery scenery scenery a face"
+  },
+  {
+    "startTime": 203.42,
+    "endTime": 207.11,
+    "text": "face face face face but it's not quite"
+  },
+  {
+    "startTime": 207.11,
+    "endTime": 208.1,
+    "text": "working that way is what we're"
+  },
+  {
+    "startTime": 208.1,
+    "endTime": 222.01,
+    "text": "discovering we need a new career I think"
+  },
+  {
+    "startTime": 222.01,
+    "endTime": 225.41,
+    "text": "ok so that was a massive failure but"
+  },
+  {
+    "startTime": 225.41,
+    "endTime": 227.06,
+    "text": "we're still curious how far can we push"
+  },
+  {
+    "startTime": 227.06,
+    "endTime": 229.4,
+    "text": "this technology and we look back at what"
+  },
+  {
+    "startTime": 229.4,
+    "endTime": 231.019,
+    "text": "we did we noticed that the data was"
+  },
+  {
+    "startTime": 231.019,
+    "endTime": 232.43,
+    "text": "coming into our computer very quickly"
+  },
+  {
+    "startTime": 232.43,
+    "endTime": 234.44,
+    "text": "without any timing of when the images"
+  },
+  {
+    "startTime": 234.44,
+    "endTime": 236.54,
+    "text": "came on and that's the equivalent of"
+  },
+  {
+    "startTime": 236.54,
+    "endTime": 238.28,
+    "text": "reading a very long sentence without"
+  },
+  {
+    "startTime": 238.28,
+    "endTime": 240.38,
+    "text": "spaces between the words something like"
+  },
+  {
+    "startTime": 240.38,
+    "endTime": 242.45,
+    "text": "that would be hard to read but once we"
+  },
+  {
+    "startTime": 242.45,
+    "endTime": 245.12,
+    "text": "add the spaces individual words appear"
+  },
+  {
+    "startTime": 245.12,
+    "endTime": 246.709,
+    "text": "and it becomes a lot more understandable"
+  },
+  {
+    "startTime": 246.709,
+    "endTime": 249.38,
+    "text": "but what if we cheat a little bit by"
+  },
+  {
+    "startTime": 249.38,
+    "endTime": 251.09,
+    "text": "using a sensor we can tell the computer"
+  },
+  {
+    "startTime": 251.09,
+    "endTime": 253.22,
+    "text": "where the image first appears that way"
+  },
+  {
+    "startTime": 253.22,
+    "endTime": 254.78,
+    "text": "the brain wave stopped being a"
+  },
+  {
+    "startTime": 254.78,
+    "endTime": 256.579,
+    "text": "continuous stream of information and"
+  },
+  {
+    "startTime": 256.58,
+    "endTime": 258.41,
+    "text": "instead become individual packets of"
+  },
+  {
+    "startTime": 258.41,
+    "endTime": 260.87,
+    "text": "meaning also we're gonna cheat a little"
+  },
+  {
+    "startTime": 260.87,
+    "endTime": 262.82,
+    "text": "bit more by eliminating the categories -"
+  },
+  {
+    "startTime": 262.82,
+    "endTime": 264.56,
+    "text": "- let's see if we can do some real-time"
+  },
+  {
+    "startTime": 264.56,
+    "endTime": 266.84,
+    "text": "mind-reading in this new experiment"
+  },
+  {
+    "startTime": 266.84,
+    "endTime": 268.46,
+    "text": "we're gonna sort of constrict it a"
+  },
+  {
+    "startTime": 268.46,
+    "endTime": 269.84,
+    "text": "little bit more so that we know the"
+  },
+  {
+    "startTime": 269.84,
+    "endTime": 272.09,
+    "text": "onset of the image and we're going to"
+  },
+  {
+    "startTime": 272.09,
+    "endTime": 274.24,
+    "text": "limit the categories to face"
+  },
+  {
+    "startTime": 274.24,
+    "endTime": 280.509,
+    "text": "scenery face correct scenery correct so"
+  },
+  {
+    "startTime": 280.509,
+    "endTime": 282.46,
+    "text": "right now every time the image comes on"
+  },
+  {
+    "startTime": 282.46,
+    "endTime": 284.139,
+    "text": "right we're taking a picture of the odds"
+  },
+  {
+    "startTime": 284.139,
+    "endTime": 286.599,
+    "text": "of the image and decoding the EOG is"
+  },
+  {
+    "startTime": 286.599,
+    "endTime": 288.58,
+    "text": "getting correct yes"
+  },
+  {
+    "startTime": 288.58,
+    "endTime": 291.16,
+    "text": "faces there is information in the EEG"
+  },
+  {
+    "startTime": 291.16,
+    "endTime": 292.84,
+    "text": "signal which is cool we just headed"
+  },
+  {
+    "startTime": 292.84,
+    "endTime": 294.96,
+    "text": "aligned into the onset of the image"
+  },
+  {
+    "startTime": 294.96,
+    "endTime": 300.699,
+    "text": "scenery correct face what this means"
+  },
+  {
+    "startTime": 300.699,
+    "endTime": 302.199,
+    "text": "that there is some information there so"
+  },
+  {
+    "startTime": 302.199,
+    "endTime": 304.509,
+    "text": "we can tell if we know that at what time"
+  },
+  {
+    "startTime": 304.509,
+    "endTime": 306.94,
+    "text": "the picture came on we can tell what"
+  },
+  {
+    "startTime": 306.94,
+    "endTime": 308.889,
+    "text": "type of picture it was possibly at least"
+  },
+  {
+    "startTime": 308.889,
+    "endTime": 311.349,
+    "text": "on average by looking at the looking at"
+  },
+  {
+    "startTime": 311.349,
+    "endTime": 314.74,
+    "text": "these evoke potentials exactly now if"
+  },
+  {
+    "startTime": 314.74,
+    "endTime": 315.699,
+    "text": "you would have told me at the beginning"
+  },
+  {
+    "startTime": 315.699,
+    "endTime": 317.08,
+    "text": "of this project this was possible I"
+  },
+  {
+    "startTime": 317.08,
+    "endTime": 318.88,
+    "text": "would have said no way I literally did"
+  },
+  {
+    "startTime": 318.88,
+    "endTime": 320.44,
+    "text": "not think he could do this did our"
+  },
+  {
+    "startTime": 320.44,
+    "endTime": 323.68,
+    "text": "mind-reading experiment really work yes"
+  },
+  {
+    "startTime": 323.68,
+    "endTime": 325.509,
+    "text": "but we had to do a lot of cheating now"
+  },
+  {
+    "startTime": 325.509,
+    "endTime": 326.68,
+    "text": "it turns out you can't find some"
+  },
+  {
+    "startTime": 326.68,
+    "endTime": 328.09,
+    "text": "interesting things in the EEG for"
+  },
+  {
+    "startTime": 328.09,
+    "endTime": 329.68,
+    "text": "example if you're looking at someone's"
+  },
+  {
+    "startTime": 329.68,
+    "endTime": 331.75,
+    "text": "face but it does have a lot of"
+  },
+  {
+    "startTime": 331.75,
+    "endTime": 332.62,
+    "text": "limitations"
+  },
+  {
+    "startTime": 332.62,
+    "endTime": 334.509,
+    "text": "perhaps advances in machine learning"
+  },
+  {
+    "startTime": 334.509,
+    "endTime": 336.61,
+    "text": "will make huge strides and one day we'll"
+  },
+  {
+    "startTime": 336.61,
+    "endTime": 338.02,
+    "text": "be able to decode what's going on our"
+  },
+  {
+    "startTime": 338.02,
+    "endTime": 340.9,
+    "text": "thoughts but for now the next time a"
+  },
+  {
+    "startTime": 340.9,
+    "endTime": 342.61,
+    "text": "company says that they can harness your"
+  },
+  {
+    "startTime": 342.61,
+    "endTime": 344.44,
+    "text": "brainwaves to be able to control devices"
+  },
+  {
+    "startTime": 344.44,
+    "endTime": 347.65,
+    "text": "it is your right it is your duty to be"
+  },
+  {
+    "startTime": 347.65,
+    "endTime": 348.68,
+    "text": "skeptical"
+  },
+  {
+    "startTime": 348.68,
+    "endTime": 353.199,
+    "text": "[Music]"
+  }
+]
