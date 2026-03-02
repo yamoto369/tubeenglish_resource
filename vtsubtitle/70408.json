@@ -1,0 +1,572 @@
+[
+  {
+    "startTime": 12.913,
+    "endTime": 16.341,
+    "text": "About two and a half years ago, I watched this movie called \"Her.\""
+  },
+  {
+    "startTime": 16.364,
+    "endTime": 21.491,
+    "text": "And it features Samantha, a superintelligent form of AI"
+  },
+  {
+    "startTime": 21.516,
+    "endTime": 23.276,
+    "text": "that cannot take physical form."
+  },
+  {
+    "startTime": 23.858,
+    "endTime": 26.88,
+    "text": "And because she can't appear in photographs,"
+  },
+  {
+    "startTime": 26.112,
+    "endTime": 28.128,
+    "text": "Samantha decides to write a piece of music"
+  },
+  {
+    "startTime": 28.152,
+    "endTime": 31.618000000000002,
+    "text": "that will capture a moment of her life just like a photograph would."
+  },
+  {
+    "startTime": 32.953,
+    "endTime": 37.361000000000004,
+    "text": "As a musician and an engineer, and someone raised in a family of artists,"
+  },
+  {
+    "startTime": 37.385,
+    "endTime": 41.561,
+    "text": "I thought that this idea of musical photographs was really powerful."
+  },
+  {
+    "startTime": 41.955,
+    "endTime": 44.823,
+    "text": "And I decided to create an AI composer."
+  },
+  {
+    "startTime": 44.847,
+    "endTime": 48.335,
+    "text": "Her name is AIVA, and she's an artificial intelligence"
+  },
+  {
+    "startTime": 48.359,
+    "endTime": 50.752,
+    "text": "that has learned the art of music composition"
+  },
+  {
+    "startTime": 50.776,
+    "endTime": 53.56100000000001,
+    "text": "by reading over 30,000 scores of history's greatest."
+  },
+  {
+    "startTime": 54.165,
+    "endTime": 56.621,
+    "text": "So here's what one score looks like to the algorithm"
+  },
+  {
+    "startTime": 56.645,
+    "endTime": 58.847,
+    "text": "in a matrix-like representation."
+  },
+  {
+    "startTime": 58.871,
+    "endTime": 61.117000000000004,
+    "text": "And here's what 30,000 scores,"
+  },
+  {
+    "startTime": 61.141,
+    "endTime": 63.236,
+    "text": "written by the likes of Mozart and Beethoven,"
+  },
+  {
+    "startTime": 63.261,
+    "endTime": 65.292,
+    "text": "look like in a single frame."
+  },
+  {
+    "startTime": 67.609,
+    "endTime": 71.949,
+    "text": "So, using deep neural networks, AIVA looks for patterns in the scores."
+  },
+  {
+    "startTime": 72.26,
+    "endTime": 75.82300000000001,
+    "text": "And from a couple of bars of existing music,"
+  },
+  {
+    "startTime": 75.847,
+    "endTime": 79.55399999999999,
+    "text": "it actually tries to infer what notes should come next in those tracks."
+  },
+  {
+    "startTime": 79.887,
+    "endTime": 82.385,
+    "text": "And once AIVA gets good at those predictions,"
+  },
+  {
+    "startTime": 82.409,
+    "endTime": 86.22,
+    "text": "it can actually build a set of mathematical rules"
+  },
+  {
+    "startTime": 86.46,
+    "endTime": 87.21199999999999,
+    "text": "for that style of music"
+  },
+  {
+    "startTime": 87.236,
+    "endTime": 90.24000000000001,
+    "text": "in order to create its own original compositions."
+  },
+  {
+    "startTime": 90.49,
+    "endTime": 94.199,
+    "text": "And in a way, this is kind of how we, humans, compose music, too."
+  },
+  {
+    "startTime": 94.561,
+    "endTime": 96.53,
+    "text": "It's a trial-and-error process,"
+  },
+  {
+    "startTime": 96.77,
+    "endTime": 99.85,
+    "text": "during which we may not get the right notes all the time."
+  },
+  {
+    "startTime": 99.109,
+    "endTime": 100.497,
+    "text": "But we can correct ourselves,"
+  },
+  {
+    "startTime": 100.522,
+    "endTime": 103.81500000000001,
+    "text": "either with our musical ear or our musical knowledge."
+  },
+  {
+    "startTime": 105.495,
+    "endTime": 109.638,
+    "text": "But for AIVA, this process is taken from years and years of learning,"
+  },
+  {
+    "startTime": 109.662,
+    "endTime": 112.924,
+    "text": "decades of learning as an artist, as a musician and a composer,"
+  },
+  {
+    "startTime": 112.948,
+    "endTime": 114.681,
+    "text": "down to a couple of hours."
+  },
+  {
+    "startTime": 115.3,
+    "endTime": 117.91,
+    "text": "But music is also a supersubjective art."
+  },
+  {
+    "startTime": 117.934,
+    "endTime": 119.497,
+    "text": "And we needed to teach AIVA"
+  },
+  {
+    "startTime": 119.522,
+    "endTime": 121.967,
+    "text": "how to compose the right music for the right person,"
+  },
+  {
+    "startTime": 121.991,
+    "endTime": 124.132,
+    "text": "because people have different preferences."
+  },
+  {
+    "startTime": 124.156,
+    "endTime": 128.346,
+    "text": "And to do that, we show to the algorithm over 30 different category labels"
+  },
+  {
+    "startTime": 128.37,
+    "endTime": 130.315,
+    "text": "for each score in our database."
+  },
+  {
+    "startTime": 130.339,
+    "endTime": 132.855,
+    "text": "So those category labels are like mood"
+  },
+  {
+    "startTime": 132.879,
+    "endTime": 135.798,
+    "text": "or note density or composer style of a piece"
+  },
+  {
+    "startTime": 135.823,
+    "endTime": 138.347,
+    "text": "or the epoch during which it was written."
+  },
+  {
+    "startTime": 138.371,
+    "endTime": 140.306,
+    "text": "And by seeing all this data,"
+  },
+  {
+    "startTime": 140.33,
+    "endTime": 143.38600000000002,
+    "text": "AIVA can actually respond to very precise requirements."
+  },
+  {
+    "startTime": 143.966,
+    "endTime": 147.69,
+    "text": "Like the ones, for example, we had for a project recently,"
+  },
+  {
+    "startTime": 147.93,
+    "endTime": 150.12800000000001,
+    "text": "where we were commissioned to create a piece"
+  },
+  {
+    "startTime": 150.152,
+    "endTime": 153.178,
+    "text": "that would be reminiscent of a science-fiction film soundtrack."
+  },
+  {
+    "startTime": 153.839,
+    "endTime": 158.339,
+    "text": "And the piece that was created is called \"Among the Stars\""
+  },
+  {
+    "startTime": 158.363,
+    "endTime": 161.68,
+    "text": "and it was recorded with CMG Orchestra in Hollywood,"
+  },
+  {
+    "startTime": 161.704,
+    "endTime": 163.418,
+    "text": "under great conductor John Beal,"
+  },
+  {
+    "startTime": 163.442,
+    "endTime": 166.50900000000001,
+    "text": "and this is what they recorded, made by AIVA."
+  },
+  {
+    "startTime": 167.657,
+    "endTime": 174.657,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 210.196,
+    "endTime": 212.386,
+    "text": "(Music ends)"
+  },
+  {
+    "startTime": 214.719,
+    "endTime": 215.926,
+    "text": "What do you think?"
+  },
+  {
+    "startTime": 215.95,
+    "endTime": 220.32899999999998,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 220.354,
+    "endTime": 221.50400000000002,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 222.1,
+    "endTime": 226.56,
+    "text": "So, as you've seen, AI can create beautiful pieces of music,"
+  },
+  {
+    "startTime": 226.8,
+    "endTime": 227.883,
+    "text": "and the best part of it"
+  },
+  {
+    "startTime": 227.907,
+    "endTime": 230.488,
+    "text": "is that humans can actually bring them to life."
+  },
+  {
+    "startTime": 231.506,
+    "endTime": 233.344,
+    "text": "And it's not the first time in history"
+  },
+  {
+    "startTime": 233.368,
+    "endTime": 236.712,
+    "text": "that technology has augmented human creativity."
+  },
+  {
+    "startTime": 236.736,
+    "endTime": 239.808,
+    "text": "Live music was almost always used in silent films"
+  },
+  {
+    "startTime": 239.832,
+    "endTime": 241.498,
+    "text": "to augment the experience."
+  },
+  {
+    "startTime": 241.522,
+    "endTime": 244.703,
+    "text": "But the problem with live music is that it didn't scale."
+  },
+  {
+    "startTime": 244.728,
+    "endTime": 248.157,
+    "text": "It's really hard to cram a full symphony into a small theater,"
+  },
+  {
+    "startTime": 248.181,
+    "endTime": 251.17200000000003,
+    "text": "and it's really hard to do that for every theater in the world."
+  },
+  {
+    "startTime": 251.196,
+    "endTime": 254.45,
+    "text": "So when music recording was actually invented,"
+  },
+  {
+    "startTime": 254.69,
+    "endTime": 256.418,
+    "text": "it allowed content creators, like film creators,"
+  },
+  {
+    "startTime": 256.442,
+    "endTime": 259.228,
+    "text": "to have prerecorded and original music"
+  },
+  {
+    "startTime": 259.252,
+    "endTime": 262.125,
+    "text": "tailored to each and every frame of their stories."
+  },
+  {
+    "startTime": 262.149,
+    "endTime": 264.775,
+    "text": "And that was really an enhancer of creativity."
+  },
+  {
+    "startTime": 266.617,
+    "endTime": 269.903,
+    "text": "Two and a half years ago, when I watched this movie \"Her,\""
+  },
+  {
+    "startTime": 269.927,
+    "endTime": 272.834,
+    "text": "I thought to myself that personalized music"
+  },
+  {
+    "startTime": 272.858,
+    "endTime": 277.275,
+    "text": "would be the next single biggest change in how we consume and create music."
+  },
+  {
+    "startTime": 278.187,
+    "endTime": 282.409,
+    "text": "Because nowadays, we have interactive content, like video games,"
+  },
+  {
+    "startTime": 282.433,
+    "endTime": 285.448,
+    "text": "that have hundreds of hours of interactive game plays,"
+  },
+  {
+    "startTime": 285.472,
+    "endTime": 287.585,
+    "text": "but only two hours of music, on average."
+  },
+  {
+    "startTime": 287.609,
+    "endTime": 290.101,
+    "text": "And it means that the music loops and loops and loops"
+  },
+  {
+    "startTime": 290.125,
+    "endTime": 292.457,
+    "text": "over and over again, and it's not very immersive."
+  },
+  {
+    "startTime": 292.467,
+    "endTime": 296.418,
+    "text": "So what we're working on is to make sure that AI can compose"
+  },
+  {
+    "startTime": 296.442,
+    "endTime": 298.744,
+    "text": "hundreds of hours of personalized music"
+  },
+  {
+    "startTime": 298.768,
+    "endTime": 302.633,
+    "text": "for those use cases where human creativity doesn't scale."
+  },
+  {
+    "startTime": 303.363,
+    "endTime": 305.569,
+    "text": "And we don't just want to do that for games."
+  },
+  {
+    "startTime": 306.657,
+    "endTime": 311.84999999999997,
+    "text": "Beethoven actually wrote a piece for his beloved, called \"Für Elise,\""
+  },
+  {
+    "startTime": 311.109,
+    "endTime": 314.76,
+    "text": "and imagine if we could bring back Beethoven to life."
+  },
+  {
+    "startTime": 314.784,
+    "endTime": 320.14,
+    "text": "And if he was sitting next to you, composing a music for your personality"
+  },
+  {
+    "startTime": 320.38,
+    "endTime": 321.371,
+    "text": "and your life story."
+  },
+  {
+    "startTime": 322.632,
+    "endTime": 325.411,
+    "text": "Or imagine if someone like Martin Luther King, for example,"
+  },
+  {
+    "startTime": 325.435,
+    "endTime": 327.474,
+    "text": "had a personalized AI composer."
+  },
+  {
+    "startTime": 327.498,
+    "endTime": 328.871,
+    "text": "Maybe then we would remember"
+  },
+  {
+    "startTime": 328.895,
+    "endTime": 330.95,
+    "text": "\"I had a dream\" not only as a great speech,"
+  },
+  {
+    "startTime": 330.975,
+    "endTime": 333.601,
+    "text": "but also as a great piece of music, part of our history,"
+  },
+  {
+    "startTime": 333.625,
+    "endTime": 335.758,
+    "text": "and capturing Dr. King's ideals."
+  },
+  {
+    "startTime": 336.69,
+    "endTime": 337.95799999999997,
+    "text": "And this is our vision at AIVA:"
+  },
+  {
+    "startTime": 337.982,
+    "endTime": 340.56,
+    "text": "to personalize music so that each and every one of you"
+  },
+  {
+    "startTime": 340.584,
+    "endTime": 342.233,
+    "text": "and every individual in the world"
+  },
+  {
+    "startTime": 342.257,
+    "endTime": 345.331,
+    "text": "can have access to a personalized live soundtrack,"
+  },
+  {
+    "startTime": 345.355,
+    "endTime": 347.86,
+    "text": "based on their story and their personality."
+  },
+  {
+    "startTime": 349.915,
+    "endTime": 353.994,
+    "text": "So this moment here together at TED is now part of our life story."
+  },
+  {
+    "startTime": 354.18,
+    "endTime": 358.18600000000004,
+    "text": "So it only felt fitting that AIVA would compose music for this moment."
+  },
+  {
+    "startTime": 358.674,
+    "endTime": 361.118,
+    "text": "And that's exactly what we did."
+  },
+  {
+    "startTime": 361.436,
+    "endTime": 366.457,
+    "text": "So my team and I worked on biasing AIVA on the style of the TED jingle,"
+  },
+  {
+    "startTime": 366.482,
+    "endTime": 369.92600000000004,
+    "text": "and on music that makes us feel a sense of awe and wonder."
+  },
+  {
+    "startTime": 369.95,
+    "endTime": 373.863,
+    "text": "And the result is called \"The Age of Amazement.\""
+  },
+  {
+    "startTime": 373.887,
+    "endTime": 376.283,
+    "text": "Didn't take an AI to figure that one out."
+  },
+  {
+    "startTime": 376.307,
+    "endTime": 377.457,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 378.152,
+    "endTime": 380.554,
+    "text": "And I couldn't be more proud to show it to you,"
+  },
+  {
+    "startTime": 380.578,
+    "endTime": 383.59999999999997,
+    "text": "so if you can, close your eyes and enjoy the music."
+  },
+  {
+    "startTime": 383.3,
+    "endTime": 384.363,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 385.537,
+    "endTime": 389.73199999999997,
+    "text": "(Music)"
+  },
+  {
+    "startTime": 395.176,
+    "endTime": 397.842,
+    "text": "[The Age of Amazement Composed by AIVA]"
+  },
+  {
+    "startTime": 499.649,
+    "endTime": 500.8,
+    "text": "(Music ends)"
+  },
+  {
+    "startTime": 500.824,
+    "endTime": 502.197,
+    "text": "This was for all of you."
+  },
+  {
+    "startTime": 502.221,
+    "endTime": 503.387,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 503.411,
+    "endTime": 507.984,
+    "text": "(Applause)"
+  }
+]
