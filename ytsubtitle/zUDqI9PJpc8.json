@@ -1,0 +1,757 @@
+[
+  {
+    "startTime": 0.72,
+    "endTime": 1.68,
+    "text": "[Applause]"
+  },
+  {
+    "startTime": 1.68,
+    "endTime": 2.96,
+    "text": "Have you ever noticed that people"
+  },
+  {
+    "startTime": 2.96,
+    "endTime": 4.48,
+    "text": "speaking Spanish sound like they're"
+  },
+  {
+    "startTime": 4.48,
+    "endTime": 8.04,
+    "text": "talking really fast?"
+  },
+  {
+    "startTime": 10.08,
+    "endTime": 11.36,
+    "text": "Does this mean they're able to"
+  },
+  {
+    "startTime": 11.36,
+    "endTime": 13.28,
+    "text": "communicate information faster than"
+  },
+  {
+    "startTime": 13.28,
+    "endTime": 15.28,
+    "text": "English speakers?"
+  },
+  {
+    "startTime": 15.28,
+    "endTime": 17.44,
+    "text": "One reason why Spanish sounds so fast is"
+  },
+  {
+    "startTime": 17.44,
+    "endTime": 19.199,
+    "text": "because more syllables are spoken per"
+  },
+  {
+    "startTime": 19.199,
+    "endTime": 21.039,
+    "text": "minute than in English. However,"
+  },
+  {
+    "startTime": 21.039,
+    "endTime": 23.119,
+    "text": "analysis has shown that each Spanish"
+  },
+  {
+    "startTime": 23.119,
+    "endTime": 24.88,
+    "text": "syllable conveys less information than"
+  },
+  {
+    "startTime": 24.88,
+    "endTime": 26.64,
+    "text": "each English syllable. So, the"
+  },
+  {
+    "startTime": 26.64,
+    "endTime": 28.32,
+    "text": "information per minute is almost"
+  },
+  {
+    "startTime": 28.32,
+    "endTime": 30.72,
+    "text": "identical. But what about written"
+  },
+  {
+    "startTime": 30.72,
+    "endTime": 33.36,
+    "text": "language? The square format of Chinese"
+  },
+  {
+    "startTime": 33.36,
+    "endTime": 35.52,
+    "text": "characters appears to fit better into"
+  },
+  {
+    "startTime": 35.52,
+    "endTime": 37.68,
+    "text": "our central visual field than the"
+  },
+  {
+    "startTime": 37.68,
+    "endTime": 39.68,
+    "text": "longer, slimmer words of English. This"
+  },
+  {
+    "startTime": 39.68,
+    "endTime": 41.52,
+    "text": "led linguists to suspect that Chinese"
+  },
+  {
+    "startTime": 41.52,
+    "endTime": 43.84,
+    "text": "would be read faster than English. But"
+  },
+  {
+    "startTime": 43.84,
+    "endTime": 45.6,
+    "text": "experiments show that English readers"
+  },
+  {
+    "startTime": 45.6,
+    "endTime": 48.64,
+    "text": "can perceive 7 to eight letters at once"
+  },
+  {
+    "startTime": 48.64,
+    "endTime": 50.719,
+    "text": "compared to just 2.6 characters for"
+  },
+  {
+    "startTime": 50.719,
+    "endTime": 53.039,
+    "text": "Chinese. However, those Chinese"
+  },
+  {
+    "startTime": 53.039,
+    "endTime": 54.8,
+    "text": "characters are denser in meaning than"
+  },
+  {
+    "startTime": 54.8,
+    "endTime": 56.96,
+    "text": "the English letters. And so both"
+  },
+  {
+    "startTime": 56.96,
+    "endTime": 58.96,
+    "text": "languages have basically an identical"
+  },
+  {
+    "startTime": 58.96,
+    "endTime": 62.0,
+    "text": "reading rate of 380 words equivalent per"
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 63.84,
+    "text": "minute. This suggests that what limits"
+  },
+  {
+    "startTime": 63.84,
+    "endTime": 65.76,
+    "text": "the speed of our communication is not"
+  },
+  {
+    "startTime": 65.76,
+    "endTime": 68.24,
+    "text": "language but our cognitive ability to"
+  },
+  {
+    "startTime": 68.24,
+    "endTime": 70.96,
+    "text": "process information. But how can you"
+  },
+  {
+    "startTime": 70.96,
+    "endTime": 73.2,
+    "text": "really quantify information? Well, the"
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 74.64,
+    "text": "smallest amount of information you can"
+  },
+  {
+    "startTime": 74.64,
+    "endTime": 77.119,
+    "text": "have is the answer to a yes no question."
+  },
+  {
+    "startTime": 77.119,
+    "endTime": 79.759,
+    "text": "Like have you seen the movie Frozen?"
+  },
+  {
+    "startTime": 79.759,
+    "endTime": 83.52,
+    "text": "Yes. Yes or no? Heads or tails? We can"
+  },
+  {
+    "startTime": 83.52,
+    "endTime": 86.0,
+    "text": "represent this single outcome with a one"
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 89.6,
+    "text": "or a zero. One binary digit, it's one"
+  },
+  {
+    "startTime": 89.6,
+    "endTime": 92.159,
+    "text": "bit of information."
+  },
+  {
+    "startTime": 92.159,
+    "endTime": 94.32,
+    "text": "A roll of the dice has six possible"
+  },
+  {
+    "startTime": 94.32,
+    "endTime": 96.479,
+    "text": "outcomes. So, three bits of information"
+  },
+  {
+    "startTime": 96.479,
+    "endTime": 98.88,
+    "text": "are required to cover all the options."
+  },
+  {
+    "startTime": 98.88,
+    "endTime": 101.439,
+    "text": "To uniquely represent all 26 letters of"
+  },
+  {
+    "startTime": 101.439,
+    "endTime": 103.6,
+    "text": "the English alphabet requires five bits"
+  },
+  {
+    "startTime": 103.6,
+    "endTime": 105.52,
+    "text": "of information. But if you include"
+  },
+  {
+    "startTime": 105.52,
+    "endTime": 107.28,
+    "text": "lowercase, punctuation, special"
+  },
+  {
+    "startTime": 107.28,
+    "endTime": 108.88,
+    "text": "characters, and numbers, that takes the"
+  },
+  {
+    "startTime": 108.88,
+    "endTime": 111.36,
+    "text": "total number of symbols to 95. So you"
+  },
+  {
+    "startTime": 111.36,
+    "endTime": 112.96,
+    "text": "actually need seven bits of information"
+  },
+  {
+    "startTime": 112.96,
+    "endTime": 115.36,
+    "text": "to encode all these symbols. That was"
+  },
+  {
+    "startTime": 115.36,
+    "endTime": 118.079,
+    "text": "first done in 1963 as the American"
+  },
+  {
+    "startTime": 118.079,
+    "endTime": 119.759,
+    "text": "standard code for information"
+  },
+  {
+    "startTime": 119.759,
+    "endTime": 122.64,
+    "text": "interchange or ASKI for short. Now as"
+  },
+  {
+    "startTime": 122.64,
+    "endTime": 124.719,
+    "text": "the next closest power of two, computers"
+  },
+  {
+    "startTime": 124.719,
+    "endTime": 127.119,
+    "text": "adopted 8 bits as the fundamental unit"
+  },
+  {
+    "startTime": 127.119,
+    "endTime": 129.28,
+    "text": "of computation and they called it the"
+  },
+  {
+    "startTime": 129.28,
+    "endTime": 131.12,
+    "text": "bite where they intentionally replaced"
+  },
+  {
+    "startTime": 131.12,
+    "endTime": 133.28,
+    "text": "the I with a Y so that it couldn't"
+  },
+  {
+    "startTime": 133.28,
+    "endTime": 136.64,
+    "text": "accidentally be confused with a bit. So"
+  },
+  {
+    "startTime": 136.64,
+    "endTime": 138.4,
+    "text": "how much information does it take to"
+  },
+  {
+    "startTime": 138.4,
+    "endTime": 140.8,
+    "text": "make you? Well, your entire genetic code"
+  },
+  {
+    "startTime": 140.8,
+    "endTime": 142.72,
+    "text": "is contained in the sequence of four"
+  },
+  {
+    "startTime": 142.72,
+    "endTime": 145.12,
+    "text": "molecules represented by the letters T,"
+  },
+  {
+    "startTime": 145.12,
+    "endTime": 148.239,
+    "text": "A, G, and C in your DNA. Each of these"
+  },
+  {
+    "startTime": 148.239,
+    "endTime": 150.4,
+    "text": "four options can be encoded by two bits"
+  },
+  {
+    "startTime": 150.4,
+    "endTime": 152.879,
+    "text": "of information. And multiplying by the 6"
+  },
+  {
+    "startTime": 152.879,
+    "endTime": 154.64,
+    "text": "billion letters of genetic code in your"
+  },
+  {
+    "startTime": 154.64,
+    "endTime": 156.8,
+    "text": "genome, and dividing by 8 bits per bite,"
+  },
+  {
+    "startTime": 156.8,
+    "endTime": 160.4,
+    "text": "that yields 1.5 GB of information. So,"
+  },
+  {
+    "startTime": 160.4,
+    "endTime": 162.239,
+    "text": "you could fit your entire genetic code"
+  },
+  {
+    "startTime": 162.239,
+    "endTime": 165.84,
+    "text": "on a single DVD with room to spare. Now,"
+  },
+  {
+    "startTime": 165.84,
+    "endTime": 168.16,
+    "text": "your body has an estimated 40 trillion"
+  },
+  {
+    "startTime": 168.16,
+    "endTime": 170.239,
+    "text": "cells in it. and each one contains a"
+  },
+  {
+    "startTime": 170.239,
+    "endTime": 173.12,
+    "text": "full copy of your DNA. So you actually"
+  },
+  {
+    "startTime": 173.12,
+    "endTime": 176.08,
+    "text": "contain 60 zetabytes of information."
+  },
+  {
+    "startTime": 176.08,
+    "endTime": 179.599,
+    "text": "That's 60 followed by 21 zeros. Just to"
+  },
+  {
+    "startTime": 179.599,
+    "endTime": 181.28,
+    "text": "put this in perspective, by the year"
+  },
+  {
+    "startTime": 181.28,
+    "endTime": 184.0,
+    "text": "2020, all of the digital information in"
+  },
+  {
+    "startTime": 184.0,
+    "endTime": 186.64,
+    "text": "the world is estimated to be equal to 40"
+  },
+  {
+    "startTime": 186.64,
+    "endTime": 188.8,
+    "text": "zetabytes of information. You could"
+  },
+  {
+    "startTime": 188.8,
+    "endTime": 192.319,
+    "text": "store all of that on 100 g of DNA. That"
+  },
+  {
+    "startTime": 192.319,
+    "endTime": 195.2,
+    "text": "is less than you have inside your body."
+  },
+  {
+    "startTime": 195.2,
+    "endTime": 199.2,
+    "text": "But now consider this. You share 99.9%"
+  },
+  {
+    "startTime": 199.2,
+    "endTime": 201.2,
+    "text": "of your genetic information with"
+  },
+  {
+    "startTime": 201.2,
+    "endTime": 203.44,
+    "text": "everyone else on Earth. Meaning that"
+  },
+  {
+    "startTime": 203.44,
+    "endTime": 205.68,
+    "text": "less than one part in a thousand is"
+  },
+  {
+    "startTime": 205.68,
+    "endTime": 208.239,
+    "text": "unique. So the information that makes"
+  },
+  {
+    "startTime": 208.239,
+    "endTime": 211.2,
+    "text": "you you could be stored in less than a"
+  },
+  {
+    "startTime": 211.2,
+    "endTime": 213.36,
+    "text": "megabyte. You could put it on one of"
+  },
+  {
+    "startTime": 213.36,
+    "endTime": 216.08,
+    "text": "these, a floppy disc. In case you don't"
+  },
+  {
+    "startTime": 216.08,
+    "endTime": 218.159,
+    "text": "know what that is. In contrast, video"
+  },
+  {
+    "startTime": 218.159,
+    "endTime": 220.56,
+    "text": "can contain a lot of information. To"
+  },
+  {
+    "startTime": 220.56,
+    "endTime": 222.64,
+    "text": "specify the color of each of 2 million"
+  },
+  {
+    "startTime": 222.64,
+    "endTime": 224.879,
+    "text": "pixels 30 times a second for this entire"
+  },
+  {
+    "startTime": 224.879,
+    "endTime": 227.519,
+    "text": "video would require a 100 gigabytes of"
+  },
+  {
+    "startTime": 227.519,
+    "endTime": 229.44,
+    "text": "information. But you can watch this"
+  },
+  {
+    "startTime": 229.44,
+    "endTime": 232.0,
+    "text": "video in HD on YouTube with just a"
+  },
+  {
+    "startTime": 232.0,
+    "endTime": 234.48,
+    "text": "thousandth that amount. Now the reason"
+  },
+  {
+    "startTime": 234.48,
+    "endTime": 236.64,
+    "text": "you can send such a big video with such"
+  },
+  {
+    "startTime": 236.64,
+    "endTime": 239.519,
+    "text": "a small file size is because video like"
+  },
+  {
+    "startTime": 239.519,
+    "endTime": 241.76,
+    "text": "Spanish has a lot of parts that are"
+  },
+  {
+    "startTime": 241.76,
+    "endTime": 243.12,
+    "text": "redundant."
+  },
+  {
+    "startTime": 243.12,
+    "endTime": 244.64,
+    "text": "Hey Michael, you know what I've been"
+  },
+  {
+    "startTime": 244.64,
+    "endTime": 246.159,
+    "text": "thinking about?"
+  },
+  {
+    "startTime": 246.159,
+    "endTime": 247.84,
+    "text": "What are you thinking about Derek?"
+  },
+  {
+    "startTime": 247.84,
+    "endTime": 250.08,
+    "text": "Information. Go on. It's a physical"
+  },
+  {
+    "startTime": 250.08,
+    "endTime": 255.36,
+    "text": "thing. It's embodied in actual objects."
+  },
+  {
+    "startTime": 255.36,
+    "endTime": 256.32,
+    "text": "How's that?"
+  },
+  {
+    "startTime": 256.32,
+    "endTime": 258.079,
+    "text": "Well, you know, like the words we say,"
+  },
+  {
+    "startTime": 258.079,
+    "endTime": 260.56,
+    "text": "they're actual vibrations in the air,"
+  },
+  {
+    "startTime": 260.56,
+    "endTime": 262.56,
+    "text": "right? They're not just concepts. They"
+  },
+  {
+    "startTime": 262.56,
+    "endTime": 264.4,
+    "text": "are real physical things that you could"
+  },
+  {
+    "startTime": 264.4,
+    "endTime": 265.68,
+    "text": "measure and detect."
+  },
+  {
+    "startTime": 265.68,
+    "endTime": 268.08,
+    "text": "That's true. And they don't go away."
+  },
+  {
+    "startTime": 268.08,
+    "endTime": 270.32,
+    "text": "They don't disappear even after they've,"
+  },
+  {
+    "startTime": 270.32,
+    "endTime": 272.08,
+    "text": "for instance, moved through the air."
+  },
+  {
+    "startTime": 272.08,
+    "endTime": 273.919,
+    "text": "Right. After we've said these words,"
+  },
+  {
+    "startTime": 273.919,
+    "endTime": 275.6,
+    "text": "they have actually interacted with"
+  },
+  {
+    "startTime": 275.6,
+    "endTime": 278.4,
+    "text": "everything around us. So, you're saying"
+  },
+  {
+    "startTime": 278.4,
+    "endTime": 280.8,
+    "text": "that technically I could look at the"
+  },
+  {
+    "startTime": 280.8,
+    "endTime": 282.96,
+    "text": "world and if I knew enough about it and"
+  },
+  {
+    "startTime": 282.96,
+    "endTime": 284.8,
+    "text": "the position of its particles, I could"
+  },
+  {
+    "startTime": 284.8,
+    "endTime": 287.36,
+    "text": "trace back and extrapolate all the"
+  },
+  {
+    "startTime": 287.36,
+    "endTime": 289.6,
+    "text": "information that's ever occurred through"
+  },
+  {
+    "startTime": 289.6,
+    "endTime": 291.199,
+    "text": "them or at them."
+  },
+  {
+    "startTime": 291.199,
+    "endTime": 293.84,
+    "text": "That's right. You could in principle"
+  },
+  {
+    "startTime": 293.84,
+    "endTime": 296.8,
+    "text": "figure out exactly what we've said here"
+  },
+  {
+    "startTime": 296.8,
+    "endTime": 298.8,
+    "text": "today."
+  },
+  {
+    "startTime": 298.8,
+    "endTime": 301.8,
+    "text": "Whoa."
+  },
+  {
+    "startTime": 306.0,
+    "endTime": 308.24,
+    "text": "This episode of Veritasium was inspired"
+  },
+  {
+    "startTime": 308.24,
+    "endTime": 310.4,
+    "text": "by the book The Information by James"
+  },
+  {
+    "startTime": 310.4,
+    "endTime": 312.08,
+    "text": "Gleak. And you can actually download"
+  },
+  {
+    "startTime": 312.08,
+    "endTime": 313.36,
+    "text": "this book for free by going to"
+  },
+  {
+    "startTime": 313.36,
+    "endTime": 315.44,
+    "text": "audible.com/veritassium."
+  },
+  {
+    "startTime": 315.44,
+    "endTime": 316.96,
+    "text": "Or you can pick any other book of your"
+  },
+  {
+    "startTime": 316.96,
+    "endTime": 319.44,
+    "text": "choosing for a one month free trial."
+  },
+  {
+    "startTime": 319.44,
+    "endTime": 320.96,
+    "text": "Audible is a leading provider of"
+  },
+  {
+    "startTime": 320.96,
+    "endTime": 323.6,
+    "text": "audiobooks with over 150,000 titles in"
+  },
+  {
+    "startTime": 323.6,
+    "endTime": 325.199,
+    "text": "all areas of literature, including"
+  },
+  {
+    "startTime": 325.199,
+    "endTime": 327.759,
+    "text": "fiction, non-fiction, and periodicals."
+  },
+  {
+    "startTime": 327.759,
+    "endTime": 329.12,
+    "text": "Now, if you've already read the"
+  },
+  {
+    "startTime": 329.12,
+    "endTime": 330.56,
+    "text": "information, you may want to check out"
+  },
+  {
+    "startTime": 330.56,
+    "endTime": 332.56,
+    "text": "Surely You're Joking, Mr. Fineman by"
+  },
+  {
+    "startTime": 332.56,
+    "endTime": 335.36,
+    "text": "Richard Feman. It's my favorite book by"
+  },
+  {
+    "startTime": 335.36,
+    "endTime": 337.759,
+    "text": "a scientist. It is absolutely hilarious."
+  },
+  {
+    "startTime": 337.759,
+    "endTime": 339.68,
+    "text": "You will thank me for downloading it."
+  },
+  {
+    "startTime": 339.68,
+    "endTime": 341.68,
+    "text": "So, go check it out. I really want to"
+  },
+  {
+    "startTime": 341.68,
+    "endTime": 343.36,
+    "text": "thank Audible for supporting me and I"
+  },
+  {
+    "startTime": 343.36,
+    "endTime": 347.319,
+    "text": "want to thank you for watching."
+  }
+]

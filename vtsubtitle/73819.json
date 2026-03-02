@@ -1,0 +1,282 @@
+[
+  {
+    "startTime": 1.0,
+    "endTime": 5.0,
+    "text": "Have you ever noticed that people speaking Spanish sound like they're talking really fast?"
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 14.0,
+    "text": "Does this mean they are able to communicate information faster than English speakers?"
+  },
+  {
+    "startTime": 14.5,
+    "endTime": 19.5,
+    "text": "One reason why Spanish sounds so fast is because more syllables are spoken per minute than in English."
+  },
+  {
+    "startTime": 20.0,
+    "endTime": 28.5,
+    "text": "However, analysis has shown that each Spanish syllable conveys less information than each English syllable, so the information per minute is almost identical."
+  },
+  {
+    "startTime": 29.0,
+    "endTime": 31.0,
+    "text": "But what about written language?"
+  },
+  {
+    "startTime": 31.0,
+    "endTime": 38.7,
+    "text": "The square format of Chinese characters appears to fit better into our central visual field than the longer, slimmer words of English."
+  },
+  {
+    "startTime": 39.0,
+    "endTime": 43.0,
+    "text": "This led linguists to suspect that Chinese would be read faster than English."
+  },
+  {
+    "startTime": 43.5,
+    "endTime": 51.0,
+    "text": "But experiments show that English readers can perceive seven to eight letters at once, compared to just 2.6 characters for Chinese."
+  },
+  {
+    "startTime": 51.4,
+    "endTime": 62.0,
+    "text": "However, those Chinese characters are denser in meaning than the English letters and so both languages have basically an identical reading rate of 380 words equivalent per minute."
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 69.0,
+    "text": "This suggests that what limits the speed of our communication is not language but our cognitive ability to process information."
+  },
+  {
+    "startTime": 69.8,
+    "endTime": 72.0,
+    "text": "But how can you really quantify information?"
+  },
+  {
+    "startTime": 72.6,
+    "endTime": 79.0,
+    "text": "Well the smallest amount of information you can have is the answer to a yes/no question, like have you seen the movie Frozen?"
+  },
+  {
+    "startTime": 79.0,
+    "endTime": 86.5,
+    "text": "Yes. Yes or no, heads or tails, we can represent this single outcomes with a one or a zero."
+  },
+  {
+    "startTime": 87.0,
+    "endTime": 90.0,
+    "text": "One binary digit, it's one bit of information."
+  },
+  {
+    "startTime": 92.0,
+    "endTime": 99.4,
+    "text": "A roll of the dice has six possible outcomes, so three bits of information are required to cover all the options."
+  },
+  {
+    "startTime": 99.0,
+    "endTime": 104.0,
+    "text": "To uniquely represent all 26 letters of the English alphabet requires five bits of information."
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 110.0,
+    "text": "But if you include lower case, punctuations, specially characters and number, that takes the total number of symbols to 95."
+  },
+  {
+    "startTime": 110.5,
+    "endTime": 114.5,
+    "text": "So you actually need seven bits of information to encode all these symbols."
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 121.5,
+    "text": "That was first done in 1963 as the American Standard Code for Information Interchange, or ASCII for short."
+  },
+  {
+    "startTime": 122.0,
+    "endTime": 135.5,
+    "text": "Now as the next closest power of two, computers adopted eight bits as the fundamental unit of computation, and they called it the bite, where they intentionally replaced the i with a y, so that it couldn't accidentally be confused with a bit."
+  },
+  {
+    "startTime": 136.0,
+    "endTime": 138.0,
+    "text": "So how much information does it take to make you?"
+  },
+  {
+    "startTime": 138.8,
+    "endTime": 146.5,
+    "text": "Well, your entire genetic code is contained in the sequence of four molecules, represented by the letters T, A, G, and C in your DNA."
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 150.5,
+    "text": "Each of these four options can be encoded by two bits of information."
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 159.5,
+    "text": "And multiplying by the six billion letters of genetic code in your genome, and dividing by eight bits per byte, that yields 1.5 GB of information."
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 164.5,
+    "text": "So you could fit your entire genetic code on a single DVD with room to spare."
+  },
+  {
+    "startTime": 165.0,
+    "endTime": 171.0,
+    "text": "Now your body has an estimated 40 trillion cells in it and each one contains a full copy of your DNA."
+  },
+  {
+    "startTime": 171.6,
+    "endTime": 178.5,
+    "text": "So you actually contain sixty zettabytes of information. That's sixty followed by 21 zeroes."
+  },
+  {
+    "startTime": 179.0,
+    "endTime": 187.5,
+    "text": "Just to put this in perspective, by the year 2020, all of the digital information in the world is estimated to be equal to forty zettabytes of information."
+  },
+  {
+    "startTime": 188.0,
+    "endTime": 191.5,
+    "text": "You could store all of that on 100 grams of DNA."
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 194.0,
+    "text": "That is less than you have inside your body."
+  },
+  {
+    "startTime": 194.5,
+    "endTime": 206.0,
+    "text": "But now consider this, you share 99.9% of your genetic information with everyone else on Earth, meaning that less than one part in a thousand is unique."
+  },
+  {
+    "startTime": 206.5,
+    "endTime": 211.5,
+    "text": "So the information that makes you you could be stored in less than a megabyte."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 216.5,
+    "text": "You could put it on one of these, a floppy disk, in case you don't know what that is."
+  },
+  {
+    "startTime": 217.0,
+    "endTime": 219.5,
+    "text": "In contrast, video can contain a lot of information."
+  },
+  {
+    "startTime": 220.0,
+    "endTime": 227.5,
+    "text": "To specify the colour of each of two million pixels thirty times a second for this entire video would require 100 gigabytes of information."
+  },
+  {
+    "startTime": 228.0,
+    "endTime": 232.5,
+    "text": "But you can watch this video in HD on Youtube with just a thousand that amount."
+  },
+  {
+    "startTime": 233.0,
+    "endTime": 242.5,
+    "text": "Now the reason you can send such a big video with such a small file size is because video, like Spanish, has a lot of parts that are redundant."
+  },
+  {
+    "startTime": 243.0,
+    "endTime": 245.5,
+    "text": "Hey Michael, you know what I've been thinking about?"
+  },
+  {
+    "startTime": 246.0,
+    "endTime": 247.0,
+    "text": "What have you been thinking about Derek?"
+  },
+  {
+    "startTime": 247.0,
+    "endTime": 248.5,
+    "text": "Information. Go on."
+  },
+  {
+    "startTime": 249.0,
+    "endTime": 254.5,
+    "text": "It's a physical thing. It's embodied in actual objects."
+  },
+  {
+    "startTime": 255.0,
+    "endTime": 255.5,
+    "text": "How's that?"
+  },
+  {
+    "startTime": 256.0,
+    "endTime": 260.5,
+    "text": "We know like the words we say, they are actual vibrations in the air, right?"
+  },
+  {
+    "startTime": 261.0,
+    "endTime": 265.0,
+    "text": "They're not just concepts. They are real physical things that you could measure and detect."
+  },
+  {
+    "startTime": 265.5,
+    "endTime": 272.0,
+    "text": "That's true and they don't go away, they don't disappear even after they've, for instance, moved through the air. Right."
+  },
+  {
+    "startTime": 272.5,
+    "endTime": 276.0,
+    "text": "After we've said these words, they have actually interacted with everything around us."
+  },
+  {
+    "startTime": 276.5,
+    "endTime": 290.0,
+    "text": "So you're saying that technically, I could look at the world and if I knew enough about it and the position of its particles, I could trace back and extrapolate all the information that's ever occurred through them or at them?"
+  },
+  {
+    "startTime": 290.5,
+    "endTime": 290.5,
+    "text": "That's right."
+  },
+  {
+    "startTime": 291.0,
+    "endTime": 305.5,
+    "text": "You could in principle figure out exactly what we've said here, today. Woah."
+  },
+  {
+    "startTime": 306.0,
+    "endTime": 310.5,
+    "text": "This episode of Veritasium was inspired by the book The Information by James Gleick."
+  },
+  {
+    "startTime": 311.0,
+    "endTime": 318.5,
+    "text": "You can actually download this book for free by going to Audible.com/Veritasium or you can pick any other book of your choosing for a one month free trial."
+  },
+  {
+    "startTime": 319.0,
+    "endTime": 327.0,
+    "text": "Audible is a leading provider of audiobooks with over 150,000 titles in all areas of literature including fiction, non-fiction, and periodicals."
+  },
+  {
+    "startTime": 327.5,
+    "endTime": 333.0,
+    "text": "Now if you've already read The Information you may want to check out Surely You're Joking Mr. Feynman by Richard Feynman."
+  },
+  {
+    "startTime": 333.5,
+    "endTime": 339.0,
+    "text": "It's my favourite book by a scientist. It is absolutely hilarious and you will thank you for downloading it."
+  },
+  {
+    "startTime": 339.5,
+    "endTime": 340.5,
+    "text": "So go, check it out."
+  },
+  {
+    "startTime": 341.0,
+    "endTime": 344.0,
+    "text": "I really wanna thank Audible for supporting me, and I want to thank you for watching."
+  }
+]
