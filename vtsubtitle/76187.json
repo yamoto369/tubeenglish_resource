@@ -1,0 +1,212 @@
+[
+  {
+    "startTime": 0.24,
+    "endTime": 11.0,
+    "text": "You're looking at a 3D bioprinted lung-mimicking air sac, that's able to pump air into airways, mimic blood flow and was built using living cells."
+  },
+  {
+    "startTime": 11.19,
+    "endTime": 22.799999999999997,
+    "text": "Granted it's smaller than a penny, but this lung-mimicking air sac could bring us one step closer to understanding how we could replicate human organs using a patient's cells which could one day help to avoid organ rejection."
+  },
+  {
+    "startTime": 22.849,
+    "endTime": 32.0,
+    "text": "The team behind this model is trying to replicate the complicated architectural structures of our organs using 3D bioprinting and used the lung as their proof of concept."
+  },
+  {
+    "startTime": 32.0,
+    "endTime": 39.0,
+    "text": "\"It is a very complicated structure, yet it has extremely clear readouts for its function.\""
+  },
+  {
+    "startTime": 39.0,
+    "endTime": 44.5,
+    "text": "\"If we have a mimic of lung tissue, we can pump in deoxygenated red blood cells.\""
+  },
+  {
+    "startTime": 44.5,
+    "endTime": 55.9,
+    "text": "\"We can ventilate in the airway oxygen, and we can see to what extent those red blood cells will take up the oxygen that we've been putting into the air sac.\""
+  },
+  {
+    "startTime": 55.92,
+    "endTime": 62.6,
+    "text": "Being able to print multiple independent vessel architectures has been one of the biggest challenges in the world of artificial organs."
+  },
+  {
+    "startTime": 62.64,
+    "endTime": 65.5,
+    "text": "That's because our organs are, well, pretty complicated."
+  },
+  {
+    "startTime": 65.5,
+    "endTime": 72.5,
+    "text": "You see, each tissue has its own knotted mess of blood vessels, which are physically and biochemically mixed."
+  },
+  {
+    "startTime": 72.5,
+    "endTime": 77.0,
+    "text": "And they serve crucial purposes by supplying organs with essential nutrients."
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 78.4,
+    "text": "Take the liver for example."
+  },
+  {
+    "startTime": 78.4,
+    "endTime": 86.0,
+    "text": "It has over 500 functions, like producing bile for digestion and maintaining the right amounts of blood sugar within the body."
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 91.0,
+    "text": "All these functions depend on the intricate network of vessels to get their necessary nutrients."
+  },
+  {
+    "startTime": 91.0,
+    "endTime": 97.2,
+    "text": "It's this multi-vascular architecture that makes mimicking and replicating human organs so difficult."
+  },
+  {
+    "startTime": 97.2,
+    "endTime": 100.5,
+    "text": "If we could figure it out, the payoff would be huge."
+  },
+  {
+    "startTime": 100.5,
+    "endTime": 109.7,
+    "text": "Over 100,000 people are waiting for organs in the U.S. and bioprinting healthy organs could be a way to address this shortage by supplying replacement organs."
+  },
+  {
+    "startTime": 109.7,
+    "endTime": 116.5,
+    "text": "It could also reduce the incidents of organ rejection since bioprinted organs would contain the patient's own cells."
+  },
+  {
+    "startTime": 116.57,
+    "endTime": 119.39999999999999,
+    "text": "But, working with living cells isn't easy."
+  },
+  {
+    "startTime": 119.4,
+    "endTime": 128.5,
+    "text": "They're extremely fragile outside of the body and once they've been extracted, they need to be placed into their final structure as quickly as possible to ensure survival."
+  },
+  {
+    "startTime": 128.5,
+    "endTime": 136.7,
+    "text": "The cells are then encapsulated within a hydrogel, a water-based material which emulates a cell's environment, to allow them to survive for longer periods."
+  },
+  {
+    "startTime": 136.7,
+    "endTime": 139.45,
+    "text": "So how did Jordan and his team print the lung model?"
+  },
+  {
+    "startTime": 139.45,
+    "endTime": 144.92999999999998,
+    "text": "They used a technique called stereolithography apparatus for tissue engineering, or SLATE."
+  },
+  {
+    "startTime": 144.93,
+    "endTime": 154.20000000000002,
+    "text": "It's an open-source bioprinting technology that uses additive manufacturing to create soft hydrogels layer-by-layer by using light from a digital projector."
+  },
+  {
+    "startTime": 154.2,
+    "endTime": 158.0,
+    "text": "So this is a light-based polymerization system."
+  },
+  {
+    "startTime": 158.0,
+    "endTime": 173.0,
+    "text": "So we have a light-sensitive liquid, that when you shine the right color of light at the right intensity of energy, the right number of photons hit that sample, you can convert that liquid into a solid only in that region."
+  },
+  {
+    "startTime": 173.0,
+    "endTime": 180.8,
+    "text": "But using light also created some issues, since the light could get into previously solidified layers, thus disrupting the intended pattern."
+  },
+  {
+    "startTime": 180.8,
+    "endTime": 186.5,
+    "text": "To address this, the team searched to find an element that could block light and that was biocompatible."
+  },
+  {
+    "startTime": 186.5,
+    "endTime": 188.0,
+    "text": "And the winner was food dye."
+  },
+  {
+    "startTime": 188.0,
+    "endTime": 195.0,
+    "text": "\"These biocompatible food additives that all of us are eating all the time anyway, we already know that they're biocompatible.\""
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 207.35,
+    "text": "\"They're compatible with live cells, and they can be used as potent photo absorbers to block the light penetrating previous layers, getting us our complex architecture.\""
+  },
+  {
+    "startTime": 207.35,
+    "endTime": 214.0,
+    "text": "The food dyes were able to confine the solidification to a thin layer, creating the desired internal structures."
+  },
+  {
+    "startTime": 214.0,
+    "endTime": 223.0,
+    "text": "In the end, these tissues proved to be sturdy enough to withstand blood flow and pulsating breathing, the rhythm that mimics the pressures and frequencies of how we breathe."
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 227.3,
+    "text": "So this model may be tiny, but it's just the beginning for Jordan and his team."
+  },
+  {
+    "startTime": 227.3,
+    "endTime": 230.59,
+    "text": "They plan to make more complex designs and scale them up."
+  },
+  {
+    "startTime": 230.59,
+    "endTime": 236.5,
+    "text": "And in the spirit of teamwork and advancing research, they've made their work's source data freely available."
+  },
+  {
+    "startTime": 236.5,
+    "endTime": 243.3,
+    "text": "\"We're using open-source to be able to make the 3D printer, we're giving back to the open-source community our designs.\""
+  },
+  {
+    "startTime": 243.3,
+    "endTime": 254.8,
+    "text": "\"But I think scientists in general, get a little bit nervous about releasing things into the open, because they're like,\"Well, what are people going to use this for? I don't really know.\""
+  },
+  {
+    "startTime": 254.8,
+    "endTime": 259.5,
+    "text": "\"You actually want to open-source your stuff because you don't know what people are going to use it for."
+  },
+  {
+    "startTime": 259.5,
+    "endTime": 264.7,
+    "text": "\"And that's really the power behind open-source, and it's really the power behind science.\""
+  },
+  {
+    "startTime": 264.7,
+    "endTime": 272.0,
+    "text": "And thanks to collaborative efforts like these, we'll one day be able to 3D bioprint organs to help address the organ shortage."
+  },
+  {
+    "startTime": 272.0,
+    "endTime": 281.44,
+    "text": "If you liked this video, check out our other 3D printing video where a new 3D printer can shape objects, all-at-once, using specialized synthetic resin and rays of light."
+  },
+  {
+    "startTime": 281.44,
+    "endTime": 0.0,
+    "text": "Make sure to subscribe to Seeker and thanks for watching."
+  }
+]

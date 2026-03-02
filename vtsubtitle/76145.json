@@ -1,0 +1,972 @@
+[
+  {
+    "startTime": 13.247,
+    "endTime": 18.86,
+    "text": "The world is awash with divisive arguments,"
+  },
+  {
+    "startTime": 18.884,
+    "endTime": 20.757,
+    "text": "conflict,"
+  },
+  {
+    "startTime": 20.781,
+    "endTime": 22.593,
+    "text": "fake news,"
+  },
+  {
+    "startTime": 22.618,
+    "endTime": 24.203,
+    "text": "victimhood,"
+  },
+  {
+    "startTime": 25.146,
+    "endTime": 30.847,
+    "text": "exploitation, prejudice, bigotry, blame, shouting"
+  },
+  {
+    "startTime": 30.871,
+    "endTime": 33.794,
+    "text": "and minuscule attention spans."
+  },
+  {
+    "startTime": 34.859,
+    "endTime": 40.480000000000004,
+    "text": "It can sometimes seem that we are doomed to take sides,"
+  },
+  {
+    "startTime": 40.72,
+    "endTime": 42.333999999999996,
+    "text": "be stuck in echo chambers"
+  },
+  {
+    "startTime": 42.358,
+    "endTime": 44.675,
+    "text": "and never agree again."
+  },
+  {
+    "startTime": 45.342,
+    "endTime": 48.342999999999996,
+    "text": "It can sometimes seem like a race to the bottom,"
+  },
+  {
+    "startTime": 48.367,
+    "endTime": 52.385,
+    "text": "where everyone is calling out somebody else's privilege"
+  },
+  {
+    "startTime": 52.409,
+    "endTime": 57.522,
+    "text": "and vying to show that they are the most hard-done-by person"
+  },
+  {
+    "startTime": 57.547,
+    "endTime": 59.839999999999996,
+    "text": "in the conversation."
+  },
+  {
+    "startTime": 61.33,
+    "endTime": 62.863,
+    "text": "How can we make sense"
+  },
+  {
+    "startTime": 62.887,
+    "endTime": 65.291,
+    "text": "in a world that doesn't?"
+  },
+  {
+    "startTime": 67.604,
+    "endTime": 72.361,
+    "text": "I have a tool for understanding this confusing world of ours,"
+  },
+  {
+    "startTime": 72.385,
+    "endTime": 75.293,
+    "text": "a tool that you might not expect:"
+  },
+  {
+    "startTime": 76.194,
+    "endTime": 77.848,
+    "text": "abstract mathematics."
+  },
+  {
+    "startTime": 79.268,
+    "endTime": 81.651,
+    "text": "I am a pure mathematician."
+  },
+  {
+    "startTime": 82.63,
+    "endTime": 86.75999999999999,
+    "text": "Traditionally, pure maths is like the theory of maths,"
+  },
+  {
+    "startTime": 86.1,
+    "endTime": 91.268,
+    "text": "where applied maths is applied to real problems like building bridges"
+  },
+  {
+    "startTime": 91.293,
+    "endTime": 92.808,
+    "text": "and flying planes"
+  },
+  {
+    "startTime": 92.832,
+    "endTime": 95.175,
+    "text": "and controlling traffic flow."
+  },
+  {
+    "startTime": 95.894,
+    "endTime": 100.82000000000001,
+    "text": "But I'm going to talk about a way that pure maths applies directly"
+  },
+  {
+    "startTime": 100.844,
+    "endTime": 102.353,
+    "text": "to our daily lives"
+  },
+  {
+    "startTime": 102.377,
+    "endTime": 104.222,
+    "text": "as a way of thinking."
+  },
+  {
+    "startTime": 104.931,
+    "endTime": 109.119,
+    "text": "I don't solve quadratic equations to help me with my daily life,"
+  },
+  {
+    "startTime": 109.143,
+    "endTime": 114.285,
+    "text": "but I do use mathematical thinking to help me understand arguments"
+  },
+  {
+    "startTime": 114.309,
+    "endTime": 116.818,
+    "text": "and to empathize with other people."
+  },
+  {
+    "startTime": 117.501,
+    "endTime": 123.10900000000001,
+    "text": "And so pure maths helps me with the entire human world."
+  },
+  {
+    "startTime": 124.434,
+    "endTime": 127.545,
+    "text": "But before I talk about the entire human world,"
+  },
+  {
+    "startTime": 127.569,
+    "endTime": 130.62800000000001,
+    "text": "I need to talk about something that you might think of"
+  },
+  {
+    "startTime": 130.652,
+    "endTime": 133.339,
+    "text": "as irrelevant schools maths:"
+  },
+  {
+    "startTime": 133.974,
+    "endTime": 136.53,
+    "text": "factors of numbers."
+  },
+  {
+    "startTime": 136.77,
+    "endTime": 139.633,
+    "text": "We're going to start by thinking about the factors of 30."
+  },
+  {
+    "startTime": 139.657,
+    "endTime": 144.37300000000002,
+    "text": "Now, if this makes you shudder with bad memories of school maths lessons,"
+  },
+  {
+    "startTime": 144.397,
+    "endTime": 148.995,
+    "text": "I sympathize, because I found school maths lessons boring, too."
+  },
+  {
+    "startTime": 149.48,
+    "endTime": 153.363,
+    "text": "But I'm pretty sure we are going to take this in a direction"
+  },
+  {
+    "startTime": 153.387,
+    "endTime": 156.828,
+    "text": "that is very different from what happened at school."
+  },
+  {
+    "startTime": 157.718,
+    "endTime": 159.444,
+    "text": "So what are the factors of 30?"
+  },
+  {
+    "startTime": 159.468,
+    "endTime": 162.69199999999998,
+    "text": "Well, they're the numbers that go into 30."
+  },
+  {
+    "startTime": 162.717,
+    "endTime": 165.11800000000002,
+    "text": "Maybe you can remember them. We'll work them out."
+  },
+  {
+    "startTime": 165.142,
+    "endTime": 168.956,
+    "text": "It's one, two, three,"
+  },
+  {
+    "startTime": 168.98,
+    "endTime": 171.72,
+    "text": "five, six,"
+  },
+  {
+    "startTime": 171.96,
+    "endTime": 173.95600000000002,
+    "text": "10, 15 and 30."
+  },
+  {
+    "startTime": 173.98,
+    "endTime": 175.457,
+    "text": "It's not very interesting."
+  },
+  {
+    "startTime": 175.957,
+    "endTime": 178.356,
+    "text": "It's a bunch of numbers in a straight line."
+  },
+  {
+    "startTime": 178.826,
+    "endTime": 180.349,
+    "text": "We can make it more interesting"
+  },
+  {
+    "startTime": 180.373,
+    "endTime": 184.63,
+    "text": "by thinking about which of these numbers are also factors of each other"
+  },
+  {
+    "startTime": 184.87,
+    "endTime": 186.614,
+    "text": "and drawing a picture, a bit like a family tree,"
+  },
+  {
+    "startTime": 186.639,
+    "endTime": 188.345,
+    "text": "to show those relationships."
+  },
+  {
+    "startTime": 188.369,
+    "endTime": 192.439,
+    "text": "So 30 is going to be at the top like a kind of great-grandparent."
+  },
+  {
+    "startTime": 192.463,
+    "endTime": 195.6,
+    "text": "Six, 10 and 15 go into 30."
+  },
+  {
+    "startTime": 195.689,
+    "endTime": 198.489,
+    "text": "Five goes into 10 and 15."
+  },
+  {
+    "startTime": 198.945,
+    "endTime": 201.632,
+    "text": "Two goes into six and 10."
+  },
+  {
+    "startTime": 201.656,
+    "endTime": 204.943,
+    "text": "Three goes into six and 15."
+  },
+  {
+    "startTime": 204.967,
+    "endTime": 209.151,
+    "text": "And one goes into two, three and five."
+  },
+  {
+    "startTime": 209.175,
+    "endTime": 212.91000000000003,
+    "text": "So now we see that 10 is not divisible by three,"
+  },
+  {
+    "startTime": 212.934,
+    "endTime": 216.114,
+    "text": "but that this is the corners of a cube,"
+  },
+  {
+    "startTime": 216.138,
+    "endTime": 218.219,
+    "text": "which is, I think, a bit more interesting"
+  },
+  {
+    "startTime": 218.243,
+    "endTime": 220.367,
+    "text": "than a bunch of numbers in a straight line."
+  },
+  {
+    "startTime": 221.756,
+    "endTime": 224.666,
+    "text": "We can see something more here. There's a hierarchy going on."
+  },
+  {
+    "startTime": 224.69,
+    "endTime": 226.561,
+    "text": "At the bottom level is the number one,"
+  },
+  {
+    "startTime": 226.585,
+    "endTime": 228.829,
+    "text": "then there's the numbers two, three and five,"
+  },
+  {
+    "startTime": 228.853,
+    "endTime": 231.663,
+    "text": "and nothing goes into those except one and themselves."
+  },
+  {
+    "startTime": 231.687,
+    "endTime": 234.11700000000002,
+    "text": "You might remember this means they're prime."
+  },
+  {
+    "startTime": 234.141,
+    "endTime": 237.173,
+    "text": "At the next level up, we have six, 10 and 15,"
+  },
+  {
+    "startTime": 237.198,
+    "endTime": 240.70600000000002,
+    "text": "and each of those is a product of two prime factors."
+  },
+  {
+    "startTime": 240.73,
+    "endTime": 242.672,
+    "text": "So six is two times three,"
+  },
+  {
+    "startTime": 242.696,
+    "endTime": 244.367,
+    "text": "10 is two times five,"
+  },
+  {
+    "startTime": 244.391,
+    "endTime": 246.352,
+    "text": "15 is three times five."
+  },
+  {
+    "startTime": 246.376,
+    "endTime": 248.341,
+    "text": "And then at the top, we have 30,"
+  },
+  {
+    "startTime": 248.365,
+    "endTime": 250.86,
+    "text": "which is a product of three prime numbers --"
+  },
+  {
+    "startTime": 250.884,
+    "endTime": 252.93599999999998,
+    "text": "two times three times five."
+  },
+  {
+    "startTime": 252.961,
+    "endTime": 257.58000000000004,
+    "text": "So I could redraw this diagram using those numbers instead."
+  },
+  {
+    "startTime": 258.334,
+    "endTime": 261.402,
+    "text": "We see that we've got two, three and five at the top,"
+  },
+  {
+    "startTime": 261.427,
+    "endTime": 264.499,
+    "text": "we have pairs of numbers at the next level,"
+  },
+  {
+    "startTime": 264.523,
+    "endTime": 266.91,
+    "text": "and we have single elements at the next level"
+  },
+  {
+    "startTime": 266.934,
+    "endTime": 268.85200000000003,
+    "text": "and then the empty set at the bottom."
+  },
+  {
+    "startTime": 269.271,
+    "endTime": 274.65000000000003,
+    "text": "And each of those arrows shows losing one of your numbers in the set."
+  },
+  {
+    "startTime": 274.674,
+    "endTime": 277.291,
+    "text": "Now maybe it can be clear"
+  },
+  {
+    "startTime": 277.315,
+    "endTime": 280.173,
+    "text": "that it doesn't really matter what those numbers are."
+  },
+  {
+    "startTime": 280.197,
+    "endTime": 282.156,
+    "text": "In fact, it doesn't matter what they are."
+  },
+  {
+    "startTime": 282.18,
+    "endTime": 286.576,
+    "text": "So we could replace them with something like A, B and C instead,"
+  },
+  {
+    "startTime": 286.6,
+    "endTime": 288.33500000000004,
+    "text": "and we get the same picture."
+  },
+  {
+    "startTime": 289.25,
+    "endTime": 291.142,
+    "text": "So now this has become very abstract."
+  },
+  {
+    "startTime": 291.626,
+    "endTime": 293.609,
+    "text": "The numbers have turned into letters."
+  },
+  {
+    "startTime": 294.91,
+    "endTime": 297.569,
+    "text": "But there is a point to this abstraction,"
+  },
+  {
+    "startTime": 297.593,
+    "endTime": 302.178,
+    "text": "which is that it now suddenly becomes very widely applicable,"
+  },
+  {
+    "startTime": 302.202,
+    "endTime": 305.876,
+    "text": "because A, B and C could be anything."
+  },
+  {
+    "startTime": 306.291,
+    "endTime": 310.609,
+    "text": "For example, they could be three types of privilege:"
+  },
+  {
+    "startTime": 310.633,
+    "endTime": 313.325,
+    "text": "rich, white and male."
+  },
+  {
+    "startTime": 314.386,
+    "endTime": 317.576,
+    "text": "So then at the next level, we have rich white people."
+  },
+  {
+    "startTime": 318.368,
+    "endTime": 320.849,
+    "text": "Here we have rich male people."
+  },
+  {
+    "startTime": 320.873,
+    "endTime": 322.921,
+    "text": "Here we have white male people."
+  },
+  {
+    "startTime": 322.946,
+    "endTime": 326.56100000000004,
+    "text": "Then we have rich, white and male."
+  },
+  {
+    "startTime": 327.209,
+    "endTime": 330.341,
+    "text": "And finally, people with none of those types of privilege."
+  },
+  {
+    "startTime": 330.365,
+    "endTime": 333.634,
+    "text": "And I'm going to put back in the rest of the adjectives for emphasis."
+  },
+  {
+    "startTime": 333.658,
+    "endTime": 336.688,
+    "text": "So here we have rich, white non-male people,"
+  },
+  {
+    "startTime": 336.712,
+    "endTime": 339.76,
+    "text": "to remind us that there are nonbinary people we need to include."
+  },
+  {
+    "startTime": 339.785,
+    "endTime": 342.43800000000005,
+    "text": "Here we have rich, nonwhite male people."
+  },
+  {
+    "startTime": 342.462,
+    "endTime": 345.758,
+    "text": "Here we have non-rich, white male people,"
+  },
+  {
+    "startTime": 345.782,
+    "endTime": 348.484,
+    "text": "rich, nonwhite, non-male,"
+  },
+  {
+    "startTime": 348.508,
+    "endTime": 351.58,
+    "text": "non-rich, white, non-male"
+  },
+  {
+    "startTime": 351.83,
+    "endTime": 353.418,
+    "text": "and non-rich, nonwhite, male."
+  },
+  {
+    "startTime": 353.442,
+    "endTime": 355.639,
+    "text": "And at the bottom, with the least privilege,"
+  },
+  {
+    "startTime": 355.663,
+    "endTime": 359.706,
+    "text": "non-rich, nonwhite, non-male people."
+  },
+  {
+    "startTime": 359.73,
+    "endTime": 363.54200000000003,
+    "text": "We have gone from a diagram of factors of 30"
+  },
+  {
+    "startTime": 363.566,
+    "endTime": 367.496,
+    "text": "to a diagram of interaction of different types of privilege."
+  },
+  {
+    "startTime": 368.68,
+    "endTime": 371.69,
+    "text": "And there are many things we can learn from this diagram, I think."
+  },
+  {
+    "startTime": 371.714,
+    "endTime": 378.525,
+    "text": "The first is that each arrow represents a direct loss of one type of privilege."
+  },
+  {
+    "startTime": 379.331,
+    "endTime": 383.814,
+    "text": "Sometimes people mistakenly think that white privilege means"
+  },
+  {
+    "startTime": 383.838,
+    "endTime": 388.386,
+    "text": "all white people are better off than all nonwhite people."
+  },
+  {
+    "startTime": 388.41,
+    "endTime": 392.122,
+    "text": "Some people point at superrich black sports stars and say,"
+  },
+  {
+    "startTime": 392.146,
+    "endTime": 395.60200000000003,
+    "text": "\\\"See? They're really rich. White privilege doesn't exist.\\\""
+  },
+  {
+    "startTime": 396.116,
+    "endTime": 399.145,
+    "text": "But that's not what the theory of white privilege says."
+  },
+  {
+    "startTime": 399.169,
+    "endTime": 404.407,
+    "text": "It says that if that superrich sports star had all the same characteristics"
+  },
+  {
+    "startTime": 404.431,
+    "endTime": 405.907,
+    "text": "but they were also white,"
+  },
+  {
+    "startTime": 405.931,
+    "endTime": 409.363,
+    "text": "we would expect them to be better off in society."
+  },
+  {
+    "startTime": 411.302,
+    "endTime": 414.87,
+    "text": "There is something else we can understand from this diagram"
+  },
+  {
+    "startTime": 414.111,
+    "endTime": 416.96999999999997,
+    "text": "if we look along a row."
+  },
+  {
+    "startTime": 416.121,
+    "endTime": 420.402,
+    "text": "If we look along the second-to-top row, where people have two types of privilege,"
+  },
+  {
+    "startTime": 420.426,
+    "endTime": 424.382,
+    "text": "we might be able to see that they're not all particularly equal."
+  },
+  {
+    "startTime": 424.406,
+    "endTime": 430.485,
+    "text": "For example, rich white women are probably much better off in society"
+  },
+  {
+    "startTime": 430.509,
+    "endTime": 432.704,
+    "text": "than poor white men,"
+  },
+  {
+    "startTime": 432.728,
+    "endTime": 435.734,
+    "text": "and rich black men are probably somewhere in between."
+  },
+  {
+    "startTime": 435.758,
+    "endTime": 438.534,
+    "text": "So it's really more skewed like this,"
+  },
+  {
+    "startTime": 438.559,
+    "endTime": 440.492,
+    "text": "and the same on the bottom level."
+  },
+  {
+    "startTime": 440.99,
+    "endTime": 443.81,
+    "text": "But we can actually take it further"
+  },
+  {
+    "startTime": 443.105,
+    "endTime": 446.67600000000004,
+    "text": "and look at the interactions between those two middle levels."
+  },
+  {
+    "startTime": 447.76,
+    "endTime": 453.12,
+    "text": "Because rich, nonwhite non-men might well be better off in society"
+  },
+  {
+    "startTime": 453.36,
+    "endTime": 455.129,
+    "text": "than poor white men."
+  },
+  {
+    "startTime": 455.153,
+    "endTime": 459.61,
+    "text": "Think about some extreme examples, like Michelle Obama,"
+  },
+  {
+    "startTime": 459.85,
+    "endTime": 460.50300000000004,
+    "text": "Oprah Winfrey."
+  },
+  {
+    "startTime": 460.527,
+    "endTime": 465.539,
+    "text": "They're definitely better off than poor, white, unemployed homeless men."
+  },
+  {
+    "startTime": 466.164,
+    "endTime": 468.943,
+    "text": "So actually, the diagram is more skewed like this."
+  },
+  {
+    "startTime": 469.519,
+    "endTime": 472.222,
+    "text": "And that tension exists"
+  },
+  {
+    "startTime": 472.246,
+    "endTime": 475.484,
+    "text": "between the layers of privilege in the diagram"
+  },
+  {
+    "startTime": 475.509,
+    "endTime": 479.17400000000004,
+    "text": "and the absolute privilege that people experience in society."
+  },
+  {
+    "startTime": 479.198,
+    "endTime": 482.871,
+    "text": "And this has helped me to understand why some poor white men"
+  },
+  {
+    "startTime": 482.896,
+    "endTime": 486.305,
+    "text": "are so angry in society at the moment."
+  },
+  {
+    "startTime": 486.329,
+    "endTime": 490.75600000000003,
+    "text": "Because they are considered to be high up in this cuboid of privilege,"
+  },
+  {
+    "startTime": 490.78,
+    "endTime": 495.563,
+    "text": "but in terms of absolute privilege, they don't actually feel the effect of it."
+  },
+  {
+    "startTime": 495.587,
+    "endTime": 499.33,
+    "text": "And I believe that understanding the root of that anger"
+  },
+  {
+    "startTime": 499.57,
+    "endTime": 503.344,
+    "text": "is much more productive than just being angry at them in return."
+  },
+  {
+    "startTime": 505.289,
+    "endTime": 509.839,
+    "text": "Seeing these abstract structures can also help us switch contexts"
+  },
+  {
+    "startTime": 509.863,
+    "endTime": 513.509,
+    "text": "and see that different people are at the top in different contexts."
+  },
+  {
+    "startTime": 513.533,
+    "endTime": 515.313,
+    "text": "In our original diagram,"
+  },
+  {
+    "startTime": 515.337,
+    "endTime": 517.34,
+    "text": "rich white men were at the top,"
+  },
+  {
+    "startTime": 517.364,
+    "endTime": 521.6600000000001,
+    "text": "but if we restricted our attention to non-men,"
+  },
+  {
+    "startTime": 521.9,
+    "endTime": 522.78,
+    "text": "we would see that they are here,"
+  },
+  {
+    "startTime": 522.804,
+    "endTime": 525.535,
+    "text": "and now the rich, white non-men are at the top."
+  },
+  {
+    "startTime": 525.559,
+    "endTime": 528.404,
+    "text": "So we could move to a whole context of women,"
+  },
+  {
+    "startTime": 528.428,
+    "endTime": 533.572,
+    "text": "and our three types of privilege could now be rich, white and cisgendered."
+  },
+  {
+    "startTime": 533.596,
+    "endTime": 537.301,
+    "text": "Remember that \\\"cisgendered\\\" means that your gender identity does match"
+  },
+  {
+    "startTime": 537.325,
+    "endTime": 539.2900000000001,
+    "text": "the gender you were assigned at birth."
+  },
+  {
+    "startTime": 540.21,
+    "endTime": 546.32,
+    "text": "So now we see that rich, white cis women occupy the analogous situation"
+  },
+  {
+    "startTime": 546.57,
+    "endTime": 549.231,
+    "text": "that rich white men did in broader society."
+  },
+  {
+    "startTime": 549.255,
+    "endTime": 552.683,
+    "text": "And this has helped me understand why there is so much anger"
+  },
+  {
+    "startTime": 552.707,
+    "endTime": 554.36,
+    "text": "towards rich white women,"
+  },
+  {
+    "startTime": 554.384,
+    "endTime": 557.9060000000001,
+    "text": "especially in some parts of the feminist movement at the moment,"
+  },
+  {
+    "startTime": 557.93,
+    "endTime": 561.5889999999999,
+    "text": "because perhaps they're prone to seeing themselves as underprivileged"
+  },
+  {
+    "startTime": 561.614,
+    "endTime": 563.427,
+    "text": "relative to white men,"
+  },
+  {
+    "startTime": 563.451,
+    "endTime": 568.562,
+    "text": "and they forget how overprivileged they are relative to nonwhite women."
+  },
+  {
+    "startTime": 570.554,
+    "endTime": 575.994,
+    "text": "We can all use these abstract structures to help us pivot between situations"
+  },
+  {
+    "startTime": 576.18,
+    "endTime": 578.6099999999999,
+    "text": "in which we are more privileged and less privileged."
+  },
+  {
+    "startTime": 578.634,
+    "endTime": 581.157,
+    "text": "We are all more privileged than somebody"
+  },
+  {
+    "startTime": 581.181,
+    "endTime": 583.619,
+    "text": "and less privileged than somebody else."
+  },
+  {
+    "startTime": 584.738,
+    "endTime": 589.522,
+    "text": "For example, I know and I feel that as an Asian person,"
+  },
+  {
+    "startTime": 589.546,
+    "endTime": 592.2760000000001,
+    "text": "I am less privileged than white people"
+  },
+  {
+    "startTime": 592.3,
+    "endTime": 593.775,
+    "text": "because of white privilege."
+  },
+  {
+    "startTime": 593.799,
+    "endTime": 595.447,
+    "text": "But I also understand"
+  },
+  {
+    "startTime": 595.471,
+    "endTime": 599.6,
+    "text": "that I am probably among the most privileged of nonwhite people,"
+  },
+  {
+    "startTime": 599.624,
+    "endTime": 602.743,
+    "text": "and this helps me pivot between those two contexts."
+  },
+  {
+    "startTime": 603.595,
+    "endTime": 605.288,
+    "text": "And in terms of wealth,"
+  },
+  {
+    "startTime": 605.312,
+    "endTime": 607.155,
+    "text": "I don't think I'm super rich."
+  },
+  {
+    "startTime": 607.179,
+    "endTime": 610.223,
+    "text": "I'm not as rich as the kind of people who don't have to work."
+  },
+  {
+    "startTime": 610.248,
+    "endTime": 611.796,
+    "text": "But I am doing fine,"
+  },
+  {
+    "startTime": 611.82,
+    "endTime": 613.975,
+    "text": "and that's a much better situation to be in"
+  },
+  {
+    "startTime": 613.999,
+    "endTime": 615.8100000000001,
+    "text": "than people who are really struggling,"
+  },
+  {
+    "startTime": 615.834,
+    "endTime": 618.895,
+    "text": "maybe are unemployed or working at minimum wage."
+  },
+  {
+    "startTime": 620.566,
+    "endTime": 623.9920000000001,
+    "text": "I perform these pivots in my head"
+  },
+  {
+    "startTime": 624.16,
+    "endTime": 629.255,
+    "text": "to help me understand experiences from other people's points of view,"
+  },
+  {
+    "startTime": 630.412,
+    "endTime": 634.4010000000001,
+    "text": "which brings me to this possibly surprising conclusion:"
+  },
+  {
+    "startTime": 635.242,
+    "endTime": 642.75,
+    "text": "that abstract mathematics is highly relevant to our daily lives"
+  },
+  {
+    "startTime": 642.1,
+    "endTime": 648.82,
+    "text": "and can even help us to understand and empathize with other people."
+  },
+  {
+    "startTime": 650.584,
+    "endTime": 656.223,
+    "text": "My wish is that everybody would try to understand other people more"
+  },
+  {
+    "startTime": 656.247,
+    "endTime": 658.163,
+    "text": "and work with them together,"
+  },
+  {
+    "startTime": 658.187,
+    "endTime": 660.208,
+    "text": "rather than competing with them"
+  },
+  {
+    "startTime": 660.232,
+    "endTime": 662.843,
+    "text": "and trying to show that they're wrong."
+  },
+  {
+    "startTime": 664.31,
+    "endTime": 668.598,
+    "text": "And I believe that abstract mathematical thinking"
+  },
+  {
+    "startTime": 668.622,
+    "endTime": 670.702,
+    "text": "can help us achieve that."
+  },
+  {
+    "startTime": 672.265,
+    "endTime": 673.47,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 673.494,
+    "endTime": 677.649,
+    "text": "(Applause)"
+  }
+]
