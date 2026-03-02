@@ -1,0 +1,407 @@
+[
+  {
+    "startTime": 8.0,
+    "endTime": 14.0,
+    "text": "It's late, pitch dark, and a self-driving  car winds down a narrow country road."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 18.0,
+    "text": "Suddenly, three hazards appear  at the same time."
+  },
+  {
+    "startTime": 18.0,
+    "endTime": 20.0,
+    "text": "What happens next?"
+  },
+  {
+    "startTime": 20.0,
+    "endTime": 23.0,
+    "text": "Before it can navigate this  onslaught of obstacles,"
+  },
+  {
+    "startTime": 24.0,
+    "endTime": 26.0,
+    "text": "the car has to detect them—"
+  },
+  {
+    "startTime": 26.0,
+    "endTime": 29.0,
+    "text": "gleaning enough information about  their size, shape, and position,"
+  },
+  {
+    "startTime": 29.0,
+    "endTime": 33.0,
+    "text": "so that its control algorithms  can plot the safest course."
+  },
+  {
+    "startTime": 34.0,
+    "endTime": 35.0,
+    "text": "With no human at the wheel,"
+  },
+  {
+    "startTime": 35.0,
+    "endTime": 39.0,
+    "text": "the car needs smart eyes, sensors  that'll resolve these details—"
+  },
+  {
+    "startTime": 40.0,
+    "endTime": 43.0,
+    "text": "no matter the environment,  weather, or how dark it is—"
+  },
+  {
+    "startTime": 43.0,
+    "endTime": 45.0,
+    "text": "all in a split-second."
+  },
+  {
+    "startTime": 45.0,
+    "endTime": 49.0,
+    "text": "That's a tall order, but there's a  solution that partners two things:"
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 53.0,
+    "text": "a special kind of laser-based probe  called LIDAR,"
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 55.0,
+    "text": "and a miniature version of  the communications technology"
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 60.0,
+    "text": "that keeps the internet humming, called integrated photonics."
+  },
+  {
+    "startTime": 60.0,
+    "endTime": 65.0,
+    "text": "To understand LIDAR, it helps to start  with a related technology— radar."
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 67.0,
+    "text": "In aviation,"
+  },
+  {
+    "startTime": 67.0,
+    "endTime": 71.0,
+    "text": "radar antennas launch pulses  of radio or microwaves at planes"
+  },
+  {
+    "startTime": 71.0,
+    "endTime": 75.0,
+    "text": "to learn their locations by timing  how long the beams take to bounce back."
+  },
+  {
+    "startTime": 76.0,
+    "endTime": 77.0,
+    "text": "That's a limited way of seeing, though,"
+  },
+  {
+    "startTime": 78.0,
+    "endTime": 82.0,
+    "text": "because the large beam-size  can't visualize fine details."
+  },
+  {
+    "startTime": 82.0,
+    "endTime": 85.0,
+    "text": "In contrast, a self-driving car's  LIDAR system,"
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 88.0,
+    "text": "which stands for Light Detection  and Ranging,"
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 91.0,
+    "text": "uses a narrow invisible infrared laser."
+  },
+  {
+    "startTime": 92.0,
+    "endTime": 96.0,
+    "text": "It can image features as small as the  button on a pedestrian's shirt"
+  },
+  {
+    "startTime": 96.0,
+    "endTime": 97.0,
+    "text": "across the street."
+  },
+  {
+    "startTime": 98.0,
+    "endTime": 102.0,
+    "text": "But how do we determine the shape,  or depth, of these features?"
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 107.0,
+    "text": "LIDAR fires a train of super-short laser  pulses to give depth resolution."
+  },
+  {
+    "startTime": 108.0,
+    "endTime": 110.0,
+    "text": "Take the moose on the country road."
+  },
+  {
+    "startTime": 110.0,
+    "endTime": 115.0,
+    "text": "As the car drives by, one LIDAR pulse  scatters off the base of its antlers,"
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 119.0,
+    "text": "while the next may travel to the tip  of one antler before bouncing back."
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 123.0,
+    "text": "Measuring how much longer  the second pulse takes to return"
+  },
+  {
+    "startTime": 124.0,
+    "endTime": 126.0,
+    "text": "provides data about the antler's shape."
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 132.0,
+    "text": "With a lot of short pulses, a LIDAR system quickly renders a detailed profile."
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 138.0,
+    "text": "The most obvious way to create a pulse  of light is to switch a laser on and off."
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 142.0,
+    "text": "But this makes a laser unstable and  affects the precise timing of its pulses,"
+  },
+  {
+    "startTime": 143.0,
+    "endTime": 145.0,
+    "text": "which limits depth resolution."
+  },
+  {
+    "startTime": 145.0,
+    "endTime": 146.0,
+    "text": "Better to leave it on,"
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 152.0,
+    "text": "and use something else to periodically  block the light reliably and rapidly."
+  },
+  {
+    "startTime": 153.0,
+    "endTime": 155.0,
+    "text": "That's where integrated photonics come in."
+  },
+  {
+    "startTime": 155.0,
+    "endTime": 156.0,
+    "text": "The digital data of the internet"
+  },
+  {
+    "startTime": 157.0,
+    "endTime": 160.0,
+    "text": "is carried by precision-timed  pulses of light,"
+  },
+  {
+    "startTime": 161.0,
+    "endTime": 164.0,
+    "text": "some as short as a hundred picoseconds."
+  },
+  {
+    "startTime": 164.0,
+    "endTime": 168.0,
+    "text": "One way to create these pulses is  with a Mach-Zehnder modulator."
+  },
+  {
+    "startTime": 169.0,
+    "endTime": 172.0,
+    "text": "This device takes advantage of a  particular wave property,"
+  },
+  {
+    "startTime": 172.0,
+    "endTime": 173.0,
+    "text": "called interference."
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 176.0,
+    "text": "Imagine dropping pebbles into a pond:"
+  },
+  {
+    "startTime": 177.0,
+    "endTime": 180.0,
+    "text": "as the ripples spread and overlap,  a pattern forms."
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 184.0,
+    "text": "In some places, wave peaks add  up to become very large;"
+  },
+  {
+    "startTime": 185.0,
+    "endTime": 187.0,
+    "text": "in other places, they completely  cancel out."
+  },
+  {
+    "startTime": 188.0,
+    "endTime": 191.0,
+    "text": "The Mach-Zehnder modulator  does something similar."
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 196.0,
+    "text": "It splits waves of light along two  parallel arms and eventually rejoins them."
+  },
+  {
+    "startTime": 197.0,
+    "endTime": 200.0,
+    "text": "If the light is slowed down and  delayed in one arm,"
+  },
+  {
+    "startTime": 200.0,
+    "endTime": 204.0,
+    "text": "the waves recombine out of sync and  cancel, blocking the light."
+  },
+  {
+    "startTime": 205.0,
+    "endTime": 207.0,
+    "text": "By toggling this delay in one arm,"
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 213.0,
+    "text": "the modulator acts like an on/off switch,  emitting pulses of light."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 215.0,
+    "text": "A light pulse lasting a hundred  picoseconds"
+  },
+  {
+    "startTime": 216.0,
+    "endTime": 219.0,
+    "text": "leads to a depth resolution of a  few centimeters,"
+  },
+  {
+    "startTime": 219.0,
+    "endTime": 222.0,
+    "text": "but tomorrow's cars will need  to see better than that."
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 227.0,
+    "text": "By pairing the modulator with a super- sensitive, fast-acting light detector,"
+  },
+  {
+    "startTime": 227.0,
+    "endTime": 230.0,
+    "text": "the resolution can be refined  to a millimeter."
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 231.0,
+    "text": "That's more than a hundred times better"
+  },
+  {
+    "startTime": 232.0,
+    "endTime": 236.0,
+    "text": "than what we can make out with  20/20 vision, from across a street."
+  },
+  {
+    "startTime": 237.0,
+    "endTime": 242.0,
+    "text": "The first generation of automobile LIDAR  has relied on complex spinning assemblies"
+  },
+  {
+    "startTime": 242.0,
+    "endTime": 244.0,
+    "text": "that scan from rooftops or hoods."
+  },
+  {
+    "startTime": 245.0,
+    "endTime": 246.0,
+    "text": "With integrated photonics,"
+  },
+  {
+    "startTime": 247.0,
+    "endTime": 252.0,
+    "text": "modulators and detectors are being shrunk  to less than a tenth of a millimeter,"
+  },
+  {
+    "startTime": 252.0,
+    "endTime": 257.0,
+    "text": "and packed into tiny chips that'll one  day fit inside a car's lights."
+  },
+  {
+    "startTime": 257.0,
+    "endTime": 260.0,
+    "text": "These chips will also include a clever  variation on the modulator"
+  },
+  {
+    "startTime": 261.0,
+    "endTime": 266.0,
+    "text": "to help do away with moving parts  and scan at rapid speeds."
+  },
+  {
+    "startTime": 267.0,
+    "endTime": 270.0,
+    "text": "By slowing the light in a modulator  arm only a tiny bit,"
+  },
+  {
+    "startTime": 271.0,
+    "endTime": 276.0,
+    "text": "this additional device will act more  like a dimmer than an on/off switch."
+  },
+  {
+    "startTime": 276.0,
+    "endTime": 280.0,
+    "text": "If an array of many such arms, each with  a tiny controlled delay,"
+  },
+  {
+    "startTime": 280.0,
+    "endTime": 284.0,
+    "text": "is stacked in parallel, something novel  can be designed:"
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 286.0,
+    "text": "a steerable laser beam."
+  },
+  {
+    "startTime": 287.0,
+    "endTime": 288.0,
+    "text": "From their new vantage,"
+  },
+  {
+    "startTime": 288.0,
+    "endTime": 291.0,
+    "text": "these smart eyes will probe and  see more thoroughly"
+  },
+  {
+    "startTime": 292.0,
+    "endTime": 294.0,
+    "text": "than anything nature could've imagined—"
+  },
+  {
+    "startTime": 294.0,
+    "endTime": 296.0,
+    "text": "and help navigate any number  of obstacles."
+  },
+  {
+    "startTime": 297.0,
+    "endTime": 299.0,
+    "text": "All without anyone breaking a sweat—"
+  },
+  {
+    "startTime": 300.0,
+    "endTime": 303.0,
+    "text": "except for maybe one disoriented moose."
+  }
+]
