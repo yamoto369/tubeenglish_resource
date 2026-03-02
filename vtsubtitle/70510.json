@@ -1,0 +1,1357 @@
+[
+  {
+    "startTime": 13.407,
+    "endTime": 14.988,
+    "text": "If there's one city in the world"
+  },
+  {
+    "startTime": 15.12,
+    "endTime": 17.345,
+    "text": "where it's hard to find a place to buy or rent,"
+  },
+  {
+    "startTime": 17.369,
+    "endTime": 18.519,
+    "text": "it's Sydney."
+  },
+  {
+    "startTime": 19.43,
+    "endTime": 21.41,
+    "text": "And if you've tried to find a home here recently,"
+  },
+  {
+    "startTime": 21.434,
+    "endTime": 23.274,
+    "text": "you're familiar with the problem."
+  },
+  {
+    "startTime": 23.298,
+    "endTime": 25.311,
+    "text": "Every time you walk into an open house,"
+  },
+  {
+    "startTime": 25.336,
+    "endTime": 27.526,
+    "text": "you get some information about what's out there"
+  },
+  {
+    "startTime": 27.551,
+    "endTime": 28.944,
+    "text": "and what's on the market,"
+  },
+  {
+    "startTime": 28.968,
+    "endTime": 30.398,
+    "text": "but every time you walk out,"
+  },
+  {
+    "startTime": 30.422,
+    "endTime": 33.636,
+    "text": "you're running the risk of the very best place passing you by."
+  },
+  {
+    "startTime": 33.66,
+    "endTime": 36.48,
+    "text": "So how do you know when to switch from looking"
+  },
+  {
+    "startTime": 36.504,
+    "endTime": 38.65,
+    "text": "to being ready to make an offer?"
+  },
+  {
+    "startTime": 39.663,
+    "endTime": 42.629999999999995,
+    "text": "This is such a cruel and familiar problem"
+  },
+  {
+    "startTime": 42.88,
+    "endTime": 45.162000000000006,
+    "text": "that it might come as a surprise that it has a simple solution."
+  },
+  {
+    "startTime": 45.588,
+    "endTime": 46.791000000000004,
+    "text": "37 percent."
+  },
+  {
+    "startTime": 46.815,
+    "endTime": 48.643,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 48.667,
+    "endTime": 52.603,
+    "text": "If you want to maximize the probability that you find the very best place,"
+  },
+  {
+    "startTime": 52.627,
+    "endTime": 55.452000000000005,
+    "text": "you should look at 37 percent of what's on the market,"
+  },
+  {
+    "startTime": 55.476,
+    "endTime": 57.786,
+    "text": "and then make an offer on the next place you see,"
+  },
+  {
+    "startTime": 57.81,
+    "endTime": 60.334,
+    "text": "which is better than anything that you've seen so far."
+  },
+  {
+    "startTime": 60.358,
+    "endTime": 64.163,
+    "text": "Or if you're looking for a month, take 37 percent of that time --"
+  },
+  {
+    "startTime": 64.187,
+    "endTime": 67.102,
+    "text": "11 days, to set a standard --"
+  },
+  {
+    "startTime": 67.126,
+    "endTime": 68.70100000000001,
+    "text": "and then you're ready to act."
+  },
+  {
+    "startTime": 69.829,
+    "endTime": 72.538,
+    "text": "We know this because trying to find a place to live"
+  },
+  {
+    "startTime": 72.562,
+    "endTime": 74.887,
+    "text": "is an example of an optimal stopping problem."
+  },
+  {
+    "startTime": 74.911,
+    "endTime": 77.394,
+    "text": "A class of problems that has been studied extensively"
+  },
+  {
+    "startTime": 77.418,
+    "endTime": 79.52300000000001,
+    "text": "by mathematicians and computer scientists."
+  },
+  {
+    "startTime": 81.502,
+    "endTime": 84.21,
+    "text": "I'm a computational cognitive scientist."
+  },
+  {
+    "startTime": 84.45,
+    "endTime": 86.5,
+    "text": "I spend my time trying to understand"
+  },
+  {
+    "startTime": 86.29,
+    "endTime": 87.82700000000001,
+    "text": "how it is that human minds work,"
+  },
+  {
+    "startTime": 87.851,
+    "endTime": 91.522,
+    "text": "from our amazing successes to our dismal failures."
+  },
+  {
+    "startTime": 92.552,
+    "endTime": 95.45,
+    "text": "To do that, I think about the computational structure"
+  },
+  {
+    "startTime": 95.69,
+    "endTime": 97.728,
+    "text": "of the problems that arise in everyday life,"
+  },
+  {
+    "startTime": 97.752,
+    "endTime": 100.127,
+    "text": "and compare the ideal solutions to those problems"
+  },
+  {
+    "startTime": 100.151,
+    "endTime": 101.898,
+    "text": "to the way that we actually behave."
+  },
+  {
+    "startTime": 102.725,
+    "endTime": 103.91,
+    "text": "As a side effect,"
+  },
+  {
+    "startTime": 103.934,
+    "endTime": 106.649,
+    "text": "I get to see how applying a little bit of computer science"
+  },
+  {
+    "startTime": 106.673,
+    "endTime": 108.533,
+    "text": "can make human decision-making easier."
+  },
+  {
+    "startTime": 109.828,
+    "endTime": 111.675,
+    "text": "I have a personal motivation for this."
+  },
+  {
+    "startTime": 112.153,
+    "endTime": 115.319,
+    "text": "Growing up in Perth as an overly cerebral kid ..."
+  },
+  {
+    "startTime": 115.343,
+    "endTime": 120.74000000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 120.98,
+    "endTime": 123.245,
+    "text": "I would always try and act in the way that I thought was rational,"
+  },
+  {
+    "startTime": 123.269,
+    "endTime": 124.866,
+    "text": "reasoning through every decision,"
+  },
+  {
+    "startTime": 124.89,
+    "endTime": 127.293,
+    "text": "trying to figure out the very best action to take."
+  },
+  {
+    "startTime": 127.972,
+    "endTime": 130.162,
+    "text": "But this is an approach that doesn't scale up"
+  },
+  {
+    "startTime": 130.186,
+    "endTime": 132.428,
+    "text": "when you start to run into the sorts of problems"
+  },
+  {
+    "startTime": 132.452,
+    "endTime": 133.952,
+    "text": "that arise in adult life."
+  },
+  {
+    "startTime": 133.976,
+    "endTime": 136.704,
+    "text": "At one point, I even tried to break up with my girlfriend"
+  },
+  {
+    "startTime": 136.728,
+    "endTime": 140.78,
+    "text": "because trying to take into account her preferences as well as my own"
+  },
+  {
+    "startTime": 140.102,
+    "endTime": 141.785,
+    "text": "and then find perfect solutions --"
+  },
+  {
+    "startTime": 141.809,
+    "endTime": 144.67,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 144.92,
+    "endTime": 145.844,
+    "text": "was just leaving me exhausted."
+  },
+  {
+    "startTime": 145.868,
+    "endTime": 148.4,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 148.425,
+    "endTime": 150.854,
+    "text": "She pointed out that I was taking the wrong approach"
+  },
+  {
+    "startTime": 150.878,
+    "endTime": 152.487,
+    "text": "to solving this problem --"
+  },
+  {
+    "startTime": 152.511,
+    "endTime": 153.893,
+    "text": "and she later became my wife."
+  },
+  {
+    "startTime": 153.917,
+    "endTime": 155.979,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 156.3,
+    "endTime": 160.97400000000002,
+    "text": "(Applause)"
+  },
+  {
+    "startTime": 160.998,
+    "endTime": 164.459,
+    "text": "Whether it's as basic as trying to decide what restaurant to go to"
+  },
+  {
+    "startTime": 164.483,
+    "endTime": 168.538,
+    "text": "or as important as trying to decide who to spend the rest of your life with,"
+  },
+  {
+    "startTime": 168.562,
+    "endTime": 170.937,
+    "text": "human lives are filled with computational problems"
+  },
+  {
+    "startTime": 170.961,
+    "endTime": 175.157,
+    "text": "that are just too hard to solve by applying sheer effort."
+  },
+  {
+    "startTime": 175.65,
+    "endTime": 176.816,
+    "text": "For those problems,"
+  },
+  {
+    "startTime": 176.84,
+    "endTime": 178.80100000000002,
+    "text": "it's worth consulting the experts:"
+  },
+  {
+    "startTime": 178.825,
+    "endTime": 179.976,
+    "text": "computer scientists."
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 181.784,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 181.808,
+    "endTime": 183.626,
+    "text": "When you're looking for life advice,"
+  },
+  {
+    "startTime": 183.651,
+    "endTime": 187.291,
+    "text": "computer scientists probably aren't the first people you think to talk to."
+  },
+  {
+    "startTime": 187.315,
+    "endTime": 189.19,
+    "text": "Living life like a computer --"
+  },
+  {
+    "startTime": 189.214,
+    "endTime": 191.792,
+    "text": "stereotypically deterministic, exhaustive and exact --"
+  },
+  {
+    "startTime": 191.816,
+    "endTime": 193.368,
+    "text": "doesn't sound like a lot of fun."
+  },
+  {
+    "startTime": 194.153,
+    "endTime": 197.79,
+    "text": "But thinking about the computer science of human decisions"
+  },
+  {
+    "startTime": 197.104,
+    "endTime": 199.512,
+    "text": "reveals that in fact, we've got this backwards."
+  },
+  {
+    "startTime": 199.536,
+    "endTime": 201.734,
+    "text": "When applied to the sorts of difficult problems"
+  },
+  {
+    "startTime": 201.758,
+    "endTime": 202.997,
+    "text": "that arise in human lives,"
+  },
+  {
+    "startTime": 203.21,
+    "endTime": 205.74800000000002,
+    "text": "the way that computers actually solve those problems"
+  },
+  {
+    "startTime": 205.772,
+    "endTime": 208.667,
+    "text": "looks a lot more like the way that people really act."
+  },
+  {
+    "startTime": 209.267,
+    "endTime": 212.189,
+    "text": "Take the example of trying to decide what restaurant to go to."
+  },
+  {
+    "startTime": 213.9,
+    "endTime": 216.178,
+    "text": "This is a problem that has a particular computational structure."
+  },
+  {
+    "startTime": 216.202,
+    "endTime": 217.726,
+    "text": "You've got a set of options,"
+  },
+  {
+    "startTime": 217.75,
+    "endTime": 219.799,
+    "text": "you're going to choose one of those options,"
+  },
+  {
+    "startTime": 219.823,
+    "endTime": 222.63400000000001,
+    "text": "and you're going to face exactly the same decision tomorrow."
+  },
+  {
+    "startTime": 222.658,
+    "endTime": 223.809,
+    "text": "In that situation,"
+  },
+  {
+    "startTime": 223.833,
+    "endTime": 226.128,
+    "text": "you run up against what computer scientists call"
+  },
+  {
+    "startTime": 226.152,
+    "endTime": 228.524,
+    "text": "the \"explore-exploit trade-off.\""
+  },
+  {
+    "startTime": 229.115,
+    "endTime": 230.449,
+    "text": "You have to make a decision"
+  },
+  {
+    "startTime": 230.473,
+    "endTime": 232.80700000000002,
+    "text": "about whether you're going to try something new --"
+  },
+  {
+    "startTime": 232.831,
+    "endTime": 235.13,
+    "text": "exploring, gathering some information"
+  },
+  {
+    "startTime": 235.38,
+    "endTime": 237.323,
+    "text": "that you might be able to use in the future --"
+  },
+  {
+    "startTime": 237.347,
+    "endTime": 241.14000000000001,
+    "text": "or whether you're going to go to a place that you already know is pretty good --"
+  },
+  {
+    "startTime": 241.164,
+    "endTime": 244.166,
+    "text": "exploiting the information that you've already gathered so far."
+  },
+  {
+    "startTime": 245.488,
+    "endTime": 248.584,
+    "text": "The explore/exploit trade-off shows up any time you have to choose"
+  },
+  {
+    "startTime": 248.608,
+    "endTime": 249.958,
+    "text": "between trying something new"
+  },
+  {
+    "startTime": 249.982,
+    "endTime": 252.962,
+    "text": "and going with something that you already know is pretty good,"
+  },
+  {
+    "startTime": 252.986,
+    "endTime": 254.536,
+    "text": "whether it's listening to music"
+  },
+  {
+    "startTime": 254.56,
+    "endTime": 257.194,
+    "text": "or trying to decide who you're going to spend time with."
+  },
+  {
+    "startTime": 257.218,
+    "endTime": 259.71200000000005,
+    "text": "It's also the problem that technology companies face"
+  },
+  {
+    "startTime": 259.736,
+    "endTime": 263.402,
+    "text": "when they're trying to do something like decide what ad to show on a web page."
+  },
+  {
+    "startTime": 263.417,
+    "endTime": 265.989,
+    "text": "Should they show a new ad and learn something about it,"
+  },
+  {
+    "startTime": 266.3,
+    "endTime": 267.385,
+    "text": "or should they show you an ad"
+  },
+  {
+    "startTime": 267.42,
+    "endTime": 270.726,
+    "text": "that they already know there's a good chance you're going to click on?"
+  },
+  {
+    "startTime": 270.75,
+    "endTime": 271.901,
+    "text": "Over the last 60 years,"
+  },
+  {
+    "startTime": 271.925,
+    "endTime": 274.817,
+    "text": "computer scientists have made a lot of progress understanding"
+  },
+  {
+    "startTime": 274.841,
+    "endTime": 276.293,
+    "text": "the explore/exploit trade-off,"
+  },
+  {
+    "startTime": 276.317,
+    "endTime": 278.71500000000003,
+    "text": "and their results offer some surprising insights."
+  },
+  {
+    "startTime": 279.291,
+    "endTime": 281.889,
+    "text": "When you're trying to decide what restaurant to go to,"
+  },
+  {
+    "startTime": 281.913,
+    "endTime": 283.913,
+    "text": "the first question you should ask yourself"
+  },
+  {
+    "startTime": 283.937,
+    "endTime": 286.116,
+    "text": "is how much longer you're going to be in town."
+  },
+  {
+    "startTime": 286.505,
+    "endTime": 288.847,
+    "text": "If you're just going to be there for a short time,"
+  },
+  {
+    "startTime": 288.871,
+    "endTime": 290.385,
+    "text": "then you should exploit."
+  },
+  {
+    "startTime": 290.41,
+    "endTime": 292.315,
+    "text": "There's no point gathering information."
+  },
+  {
+    "startTime": 292.339,
+    "endTime": 294.387,
+    "text": "Just go to a place you already know is good."
+  },
+  {
+    "startTime": 294.411,
+    "endTime": 297.34,
+    "text": "But if you're going to be there for a longer time, explore."
+  },
+  {
+    "startTime": 297.364,
+    "endTime": 299.751,
+    "text": "Try something new, because the information you get"
+  },
+  {
+    "startTime": 299.775,
+    "endTime": 302.748,
+    "text": "is something that can improve your choices in the future."
+  },
+  {
+    "startTime": 302.773,
+    "endTime": 304.752,
+    "text": "The value of information increases"
+  },
+  {
+    "startTime": 304.776,
+    "endTime": 307.37600000000003,
+    "text": "the more opportunities you're going to have to use it."
+  },
+  {
+    "startTime": 308.193,
+    "endTime": 309.947,
+    "text": "This principle can give us insight"
+  },
+  {
+    "startTime": 309.971,
+    "endTime": 312.41,
+    "text": "into the structure of a human life as well."
+  },
+  {
+    "startTime": 313.104,
+    "endTime": 316.157,
+    "text": "Babies don't have a reputation for being particularly rational."
+  },
+  {
+    "startTime": 317.98,
+    "endTime": 318.923,
+    "text": "They're always trying new things,"
+  },
+  {
+    "startTime": 318.947,
+    "endTime": 321.783,
+    "text": "and you know, trying to stick them in their mouths."
+  },
+  {
+    "startTime": 322.621,
+    "endTime": 325.573,
+    "text": "But in fact, this is exactly what they should be doing."
+  },
+  {
+    "startTime": 325.597,
+    "endTime": 328.27,
+    "text": "They're in the explore phase of their lives,"
+  },
+  {
+    "startTime": 328.51,
+    "endTime": 330.671,
+    "text": "and some of those things could turn out to be delicious."
+  },
+  {
+    "startTime": 332.4,
+    "endTime": 333.61199999999997,
+    "text": "At the other end of the spectrum,"
+  },
+  {
+    "startTime": 333.636,
+    "endTime": 336.142,
+    "text": "the old guy who always goes to the same restaurant"
+  },
+  {
+    "startTime": 336.166,
+    "endTime": 337.801,
+    "text": "and always eats the same thing"
+  },
+  {
+    "startTime": 337.825,
+    "endTime": 339.152,
+    "text": "isn't boring --"
+  },
+  {
+    "startTime": 339.177,
+    "endTime": 340.68600000000004,
+    "text": "he's optimal."
+  },
+  {
+    "startTime": 340.71,
+    "endTime": 344.539,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 344.564,
+    "endTime": 346.79200000000003,
+    "text": "He's exploiting the knowledge that he's earned"
+  },
+  {
+    "startTime": 346.816,
+    "endTime": 348.582,
+    "text": "through a lifetime's experience."
+  },
+  {
+    "startTime": 350.406,
+    "endTime": 351.557,
+    "text": "More generally,"
+  },
+  {
+    "startTime": 351.581,
+    "endTime": 353.612,
+    "text": "knowing about the explore/exploit trade-off"
+  },
+  {
+    "startTime": 353.636,
+    "endTime": 357.303,
+    "text": "can make it a little easier for you to sort of relax and go easier on yourself"
+  },
+  {
+    "startTime": 357.327,
+    "endTime": 359.137,
+    "text": "when you're trying to make a decision."
+  },
+  {
+    "startTime": 359.161,
+    "endTime": 361.889,
+    "text": "You don't have to go to the best restaurant every night."
+  },
+  {
+    "startTime": 361.913,
+    "endTime": 364.892,
+    "text": "Take a chance, try something new, explore."
+  },
+  {
+    "startTime": 364.916,
+    "endTime": 366.543,
+    "text": "You might learn something."
+  },
+  {
+    "startTime": 366.567,
+    "endTime": 368.156,
+    "text": "And the information that you gain"
+  },
+  {
+    "startTime": 368.18,
+    "endTime": 370.723,
+    "text": "is going to be worth more than one pretty good dinner."
+  },
+  {
+    "startTime": 372.178,
+    "endTime": 374.877,
+    "text": "Computer science can also help to make it easier on us"
+  },
+  {
+    "startTime": 374.901,
+    "endTime": 377.53000000000003,
+    "text": "in other places at home and in the office."
+  },
+  {
+    "startTime": 377.86,
+    "endTime": 380.313,
+    "text": "If you've ever had to tidy up your wardrobe,"
+  },
+  {
+    "startTime": 380.337,
+    "endTime": 383.8,
+    "text": "you've run into a particularly agonizing decision:"
+  },
+  {
+    "startTime": 383.32,
+    "endTime": 385.414,
+    "text": "you have to decide what things you're going to keep"
+  },
+  {
+    "startTime": 385.438,
+    "endTime": 387.447,
+    "text": "and what things you're going to give away."
+  },
+  {
+    "startTime": 387.974,
+    "endTime": 390.974,
+    "text": "Martha Stewart turns out to have thought very hard about this --"
+  },
+  {
+    "startTime": 390.998,
+    "endTime": 392.203,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 392.227,
+    "endTime": 393.905,
+    "text": "and she has some good advice."
+  },
+  {
+    "startTime": 393.929,
+    "endTime": 396.224,
+    "text": "She says, \"Ask yourself four questions:"
+  },
+  {
+    "startTime": 396.248,
+    "endTime": 397.774,
+    "text": "How long have I had it?"
+  },
+  {
+    "startTime": 397.798,
+    "endTime": 399.248,
+    "text": "Does it still function?"
+  },
+  {
+    "startTime": 399.272,
+    "endTime": 402.471,
+    "text": "Is it a duplicate of something that I already own?"
+  },
+  {
+    "startTime": 402.495,
+    "endTime": 404.906,
+    "text": "And when was the last time I wore it or used it?\""
+  },
+  {
+    "startTime": 406.648,
+    "endTime": 408.363,
+    "text": "But there's another group of experts"
+  },
+  {
+    "startTime": 408.387,
+    "endTime": 411.517,
+    "text": "who perhaps thought even harder about this problem,"
+  },
+  {
+    "startTime": 411.541,
+    "endTime": 415.201,
+    "text": "and they would say one of these questions is more important than the others."
+  },
+  {
+    "startTime": 415.819,
+    "endTime": 416.969,
+    "text": "Those experts?"
+  },
+  {
+    "startTime": 417.281,
+    "endTime": 420.129,
+    "text": "The people who design the memory systems of computers."
+  },
+  {
+    "startTime": 420.153,
+    "endTime": 422.40700000000004,
+    "text": "Most computers have two kinds of memory systems:"
+  },
+  {
+    "startTime": 422.431,
+    "endTime": 423.818,
+    "text": "a fast memory system,"
+  },
+  {
+    "startTime": 423.842,
+    "endTime": 427.09999999999997,
+    "text": "like a set of memory chips that has limited capacity,"
+  },
+  {
+    "startTime": 427.35,
+    "endTime": 429.87,
+    "text": "because those chips are expensive,"
+  },
+  {
+    "startTime": 429.111,
+    "endTime": 432.371,
+    "text": "and a slow memory system, which is much larger."
+  },
+  {
+    "startTime": 433.239,
+    "endTime": 436.239,
+    "text": "In order for the computer to operate as efficiently as possible,"
+  },
+  {
+    "startTime": 436.263,
+    "endTime": 437.414,
+    "text": "you want to make sure"
+  },
+  {
+    "startTime": 437.438,
+    "endTime": 439.789,
+    "text": "that the pieces of information you want to access"
+  },
+  {
+    "startTime": 439.814,
+    "endTime": 441.291,
+    "text": "are in the fast memory system,"
+  },
+  {
+    "startTime": 441.315,
+    "endTime": 443.69,
+    "text": "so that you can get to them quickly."
+  },
+  {
+    "startTime": 443.93,
+    "endTime": 445.154,
+    "text": "Each time you access a piece of information,"
+  },
+  {
+    "startTime": 445.178,
+    "endTime": 446.703,
+    "text": "it's loaded into the fast memory"
+  },
+  {
+    "startTime": 446.727,
+    "endTime": 450.604,
+    "text": "and the computer has to decide which item it has to remove from that memory,"
+  },
+  {
+    "startTime": 450.628,
+    "endTime": 452.36899999999997,
+    "text": "because it has limited capacity."
+  },
+  {
+    "startTime": 453.794,
+    "endTime": 454.945,
+    "text": "Over the years,"
+  },
+  {
+    "startTime": 454.969,
+    "endTime": 457.707,
+    "text": "computer scientists have tried a few different strategies"
+  },
+  {
+    "startTime": 457.732,
+    "endTime": 460.24,
+    "text": "for deciding what to remove from the fast memory."
+  },
+  {
+    "startTime": 460.48,
+    "endTime": 463.22400000000005,
+    "text": "They've tried things like choosing something at random"
+  },
+  {
+    "startTime": 463.248,
+    "endTime": 466.154,
+    "text": "or applying what's called the \"first-in, first-out principle,\""
+  },
+  {
+    "startTime": 466.178,
+    "endTime": 467.577,
+    "text": "which means removing the item"
+  },
+  {
+    "startTime": 467.601,
+    "endTime": 469.777,
+    "text": "which has been in the memory for the longest."
+  },
+  {
+    "startTime": 470.91,
+    "endTime": 472.80400000000003,
+    "text": "But the strategy that's most effective"
+  },
+  {
+    "startTime": 472.828,
+    "endTime": 476.56,
+    "text": "focuses on the items which have been least recently used."
+  },
+  {
+    "startTime": 476.972,
+    "endTime": 480.162,
+    "text": "This says if you're going to decide to remove something from memory,"
+  },
+  {
+    "startTime": 480.187,
+    "endTime": 485.15500000000003,
+    "text": "you should take out the thing which was last accessed the furthest in the past."
+  },
+  {
+    "startTime": 485.179,
+    "endTime": 487.337,
+    "text": "And there's a certain kind of logic to this."
+  },
+  {
+    "startTime": 487.362,
+    "endTime": 490.96000000000004,
+    "text": "If it's been a long time since you last accessed that piece of information,"
+  },
+  {
+    "startTime": 490.984,
+    "endTime": 492.746,
+    "text": "it's probably going to be a long time"
+  },
+  {
+    "startTime": 492.77,
+    "endTime": 494.962,
+    "text": "before you're going to need to access it again."
+  },
+  {
+    "startTime": 495.787,
+    "endTime": 498.561,
+    "text": "Your wardrobe is just like the computer's memory."
+  },
+  {
+    "startTime": 498.585,
+    "endTime": 500.614,
+    "text": "You have limited capacity,"
+  },
+  {
+    "startTime": 500.639,
+    "endTime": 505.966,
+    "text": "and you need to try and get in there the things that you're most likely to need"
+  },
+  {
+    "startTime": 505.99,
+    "endTime": 508.409,
+    "text": "so that you can get to them as quickly as possible."
+  },
+  {
+    "startTime": 509.16,
+    "endTime": 510.16700000000003,
+    "text": "Recognizing that,"
+  },
+  {
+    "startTime": 510.191,
+    "endTime": 513.4,
+    "text": "maybe it's worth applying the least recently used principle"
+  },
+  {
+    "startTime": 513.28,
+    "endTime": 514.977,
+    "text": "to organizing your wardrobe as well."
+  },
+  {
+    "startTime": 515.1,
+    "endTime": 517.82,
+    "text": "So if we go back to Martha's four questions,"
+  },
+  {
+    "startTime": 517.107,
+    "endTime": 519.967,
+    "text": "the computer scientists would say that of these,"
+  },
+  {
+    "startTime": 519.991,
+    "endTime": 521.933,
+    "text": "the last one is the most important."
+  },
+  {
+    "startTime": 523.472,
+    "endTime": 525.5269999999999,
+    "text": "This idea of organizing things"
+  },
+  {
+    "startTime": 525.552,
+    "endTime": 528.681,
+    "text": "so that the things you are most likely to need are most accessible"
+  },
+  {
+    "startTime": 528.705,
+    "endTime": 530.3810000000001,
+    "text": "can also be applied in your office."
+  },
+  {
+    "startTime": 531.91,
+    "endTime": 533.2099999999999,
+    "text": "The Japanese economist Yukio Noguchi"
+  },
+  {
+    "startTime": 533.45,
+    "endTime": 536.99,
+    "text": "actually invented a filing system that has exactly this property."
+  },
+  {
+    "startTime": 537.161,
+    "endTime": 538.77,
+    "text": "He started with a cardboard box,"
+  },
+  {
+    "startTime": 538.794,
+    "endTime": 541.734,
+    "text": "and he put his documents into the box from the left-hand side."
+  },
+  {
+    "startTime": 542.67,
+    "endTime": 543.501,
+    "text": "Each time he'd add a document,"
+  },
+  {
+    "startTime": 543.525,
+    "endTime": 545.146,
+    "text": "he'd move what was in there along"
+  },
+  {
+    "startTime": 545.17,
+    "endTime": 547.9789999999999,
+    "text": "and he'd add that document to the left-hand side of the box."
+  },
+  {
+    "startTime": 548.4,
+    "endTime": 550.6709999999999,
+    "text": "And each time he accessed a document, he'd take it out,"
+  },
+  {
+    "startTime": 550.695,
+    "endTime": 553.303,
+    "text": "consult it and put it back in on the left-hand side."
+  },
+  {
+    "startTime": 553.327,
+    "endTime": 556.608,
+    "text": "As a result, the documents would be ordered from left to right"
+  },
+  {
+    "startTime": 556.632,
+    "endTime": 558.3919999999999,
+    "text": "by how recently they had been used."
+  },
+  {
+    "startTime": 558.417,
+    "endTime": 561.191,
+    "text": "And he found he could quickly find what he was looking for"
+  },
+  {
+    "startTime": 561.215,
+    "endTime": 563.269,
+    "text": "by starting at the left-hand side of the box"
+  },
+  {
+    "startTime": 563.293,
+    "endTime": 564.865,
+    "text": "and working his way to the right."
+  },
+  {
+    "startTime": 565.215,
+    "endTime": 567.836,
+    "text": "Before you dash home and implement this filing system --"
+  },
+  {
+    "startTime": 567.86,
+    "endTime": 569.591,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 569.615,
+    "endTime": 572.253,
+    "text": "it's worth recognizing that you probably already have."
+  },
+  {
+    "startTime": 572.891,
+    "endTime": 576.1999999999999,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 576.225,
+    "endTime": 579.91,
+    "text": "That pile of papers on your desk ..."
+  },
+  {
+    "startTime": 579.115,
+    "endTime": 581.589,
+    "text": "typically maligned as messy and disorganized,"
+  },
+  {
+    "startTime": 581.613,
+    "endTime": 584.1780000000001,
+    "text": "a pile of papers is, in fact, perfectly organized --"
+  },
+  {
+    "startTime": 584.202,
+    "endTime": 585.202,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 585.226,
+    "endTime": 587.24,
+    "text": "as long as you, when you take a paper out,"
+  },
+  {
+    "startTime": 587.264,
+    "endTime": 589.696,
+    "text": "put it back on the top of the pile,"
+  },
+  {
+    "startTime": 589.72,
+    "endTime": 592.546,
+    "text": "then those papers are going to be ordered from top to bottom"
+  },
+  {
+    "startTime": 592.57,
+    "endTime": 594.1220000000001,
+    "text": "by how recently they were used,"
+  },
+  {
+    "startTime": 594.146,
+    "endTime": 596.847,
+    "text": "and you can probably quickly find what you're looking for"
+  },
+  {
+    "startTime": 596.871,
+    "endTime": 598.571,
+    "text": "by starting at the top of the pile."
+  },
+  {
+    "startTime": 599.988,
+    "endTime": 601.836,
+    "text": "Organizing your wardrobe or your desk"
+  },
+  {
+    "startTime": 601.86,
+    "endTime": 604.541,
+    "text": "are probably not the most pressing problems in your life."
+  },
+  {
+    "startTime": 605.588,
+    "endTime": 609.189,
+    "text": "Sometimes the problems we have to solve are simply very, very hard."
+  },
+  {
+    "startTime": 609.716,
+    "endTime": 610.866,
+    "text": "But even in those cases,"
+  },
+  {
+    "startTime": 610.89,
+    "endTime": 612.911,
+    "text": "computer science can offer some strategies"
+  },
+  {
+    "startTime": 612.935,
+    "endTime": 614.603,
+    "text": "and perhaps some solace."
+  },
+  {
+    "startTime": 616.48,
+    "endTime": 619.123,
+    "text": "The best algorithms are about doing what makes the most sense"
+  },
+  {
+    "startTime": 619.147,
+    "endTime": 620.649,
+    "text": "in the least amount of time."
+  },
+  {
+    "startTime": 622.627,
+    "endTime": 624.584,
+    "text": "When computers face hard problems,"
+  },
+  {
+    "startTime": 624.609,
+    "endTime": 627.371,
+    "text": "they deal with them by making them into simpler problems --"
+  },
+  {
+    "startTime": 627.395,
+    "endTime": 628.741,
+    "text": "by making use of randomness,"
+  },
+  {
+    "startTime": 628.765,
+    "endTime": 632.582,
+    "text": "by removing constraints or by allowing approximations."
+  },
+  {
+    "startTime": 632.606,
+    "endTime": 634.1,
+    "text": "Solving those simpler problems"
+  },
+  {
+    "startTime": 634.124,
+    "endTime": 637.44,
+    "text": "can give you insight into the harder problems,"
+  },
+  {
+    "startTime": 637.68,
+    "endTime": 640.9799999999999,
+    "text": "and sometimes produces pretty good solutions in their own right."
+  },
+  {
+    "startTime": 641.658,
+    "endTime": 645.227,
+    "text": "Knowing all of this has helped me to relax when I have to make decisions."
+  },
+  {
+    "startTime": 645.251,
+    "endTime": 648.506,
+    "text": "You could take the 37 percent rule for finding a home as an example."
+  },
+  {
+    "startTime": 649.15,
+    "endTime": 651.717,
+    "text": "There's no way that you can consider all of the options,"
+  },
+  {
+    "startTime": 651.741,
+    "endTime": 653.321,
+    "text": "so you have to take a chance."
+  },
+  {
+    "startTime": 653.888,
+    "endTime": 656.748,
+    "text": "And even if you follow the optimal strategy,"
+  },
+  {
+    "startTime": 656.772,
+    "endTime": 658.7030000000001,
+    "text": "you're not guaranteed a perfect outcome."
+  },
+  {
+    "startTime": 659.198,
+    "endTime": 661.352,
+    "text": "If you follow the 37 percent rule,"
+  },
+  {
+    "startTime": 661.376,
+    "endTime": 664.655,
+    "text": "the probability that you find the very best place is --"
+  },
+  {
+    "startTime": 664.679,
+    "endTime": 666.187,
+    "text": "funnily enough ..."
+  },
+  {
+    "startTime": 666.211,
+    "endTime": 667.225,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 667.249,
+    "endTime": 668.669,
+    "text": "37 percent."
+  },
+  {
+    "startTime": 669.966,
+    "endTime": 671.655,
+    "text": "You fail most of the time."
+  },
+  {
+    "startTime": 672.522,
+    "endTime": 674.2660000000001,
+    "text": "But that's the best that you can do."
+  },
+  {
+    "startTime": 674.846,
+    "endTime": 677.898,
+    "text": "Ultimately, computer science can help to make us more forgiving"
+  },
+  {
+    "startTime": 677.922,
+    "endTime": 679.831,
+    "text": "of our own limitations."
+  },
+  {
+    "startTime": 680.333,
+    "endTime": 682.872,
+    "text": "You can't control outcomes, just processes."
+  },
+  {
+    "startTime": 682.896,
+    "endTime": 685.15,
+    "text": "And as long as you've used the best process,"
+  },
+  {
+    "startTime": 685.39,
+    "endTime": 686.802,
+    "text": "you've done the best that you can."
+  },
+  {
+    "startTime": 686.826,
+    "endTime": 690.514,
+    "text": "Sometimes those best processes involve taking a chance --"
+  },
+  {
+    "startTime": 690.538,
+    "endTime": 692.653,
+    "text": "not considering all of your options,"
+  },
+  {
+    "startTime": 692.677,
+    "endTime": 695.4060000000001,
+    "text": "or being willing to settle for a pretty good solution."
+  },
+  {
+    "startTime": 695.43,
+    "endTime": 698.78,
+    "text": "These aren't the concessions that we make when we can't be rational --"
+  },
+  {
+    "startTime": 698.804,
+    "endTime": 700.433,
+    "text": "they're what being rational means."
+  },
+  {
+    "startTime": 700.833,
+    "endTime": 701.983,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 702.8,
+    "endTime": 706.555,
+    "text": "(Applause)"
+  }
+]
