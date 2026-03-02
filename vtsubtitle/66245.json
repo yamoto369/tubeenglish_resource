@@ -1,0 +1,367 @@
+[
+  {
+    "startTime": 6.912,
+    "endTime": 9.798,
+    "text": "Mining unobtainium is hard work."
+  },
+  {
+    "startTime": 9.798,
+    "endTime": 13.959,
+    "text": "The rare mineral appears  in only 1% of rocks in the mine."
+  },
+  {
+    "startTime": 13.959,
+    "endTime": 17.883,
+    "text": "But your friend Tricky Joe  has something up his sleeve."
+  },
+  {
+    "startTime": 17.883,
+    "endTime": 22.732,
+    "text": "The unobtainium detector he's been  perfecting for months is finally ready."
+  },
+  {
+    "startTime": 22.732,
+    "endTime": 27.642,
+    "text": "The device never fails  to detect unobtainium if any is present."
+  },
+  {
+    "startTime": 27.642,
+    "endTime": 30.133,
+    "text": "Otherwise, it's still highly reliable,"
+  },
+  {
+    "startTime": 30.133,
+    "endTime": 34.141,
+    "text": "returning accurate  readings 90% of the time."
+  },
+  {
+    "startTime": 34.142,
+    "endTime": 36.273,
+    "text": "On his first day trying  it out in the field,"
+  },
+  {
+    "startTime": 36.273,
+    "endTime": 41.32,
+    "text": "the device goes off, and  Joe happily places the rock in his cart."
+  },
+  {
+    "startTime": 41.32,
+    "endTime": 44.821,
+    "text": "As the two of you head back to camp  where the ore can be examined,"
+  },
+  {
+    "startTime": 44.822,
+    "endTime": 46.742000000000004,
+    "text": "Joe makes you an offer:"
+  },
+  {
+    "startTime": 46.742,
+    "endTime": 50.641,
+    "text": "he'll sell you the ore for just $200."
+  },
+  {
+    "startTime": 50.641,
+    "endTime": 56.461,
+    "text": "You know that a piece of unobtanium  that size would easily be worth $1000,"
+  },
+  {
+    "startTime": 56.462,
+    "endTime": 60.598000000000006,
+    "text": "but any other minerals  would be effectively worthless."
+  },
+  {
+    "startTime": 60.598,
+    "endTime": 63.479,
+    "text": "Should you make the trade?"
+  },
+  {
+    "startTime": 63.479,
+    "endTime": 66.87,
+    "text": "Pause here if you want  to figure it out for yourself."
+  },
+  {
+    "startTime": 66.87,
+    "endTime": 68.41000000000001,
+    "text": "Answer in: 3"
+  },
+  {
+    "startTime": 68.41,
+    "endTime": 69.202,
+    "text": "Answer in: 2"
+  },
+  {
+    "startTime": 69.202,
+    "endTime": 70.703,
+    "text": "Answer in: 1"
+  },
+  {
+    "startTime": 70.703,
+    "endTime": 73.12,
+    "text": "Intuitively, it seems like a good deal."
+  },
+  {
+    "startTime": 73.12,
+    "endTime": 75.691,
+    "text": "Since the detector  is correct most of the time,"
+  },
+  {
+    "startTime": 75.691,
+    "endTime": 78.549,
+    "text": "shouldn't you be able to trust its reading?"
+  },
+  {
+    "startTime": 78.549,
+    "endTime": 80.23200000000001,
+    "text": "Unfortunately, no."
+  },
+  {
+    "startTime": 80.232,
+    "endTime": 81.839,
+    "text": "Here's why."
+  },
+  {
+    "startTime": 81.839,
+    "endTime": 85.587,
+    "text": "Imagine the mine  has exactly 1,000 pieces of ore."
+  },
+  {
+    "startTime": 85.587,
+    "endTime": 88.49900000000001,
+    "text": "An unobtainium rarity of 1%"
+  },
+  {
+    "startTime": 88.499,
+    "endTime": 92.93299999999999,
+    "text": "means that there are only 10 rocks  with the precious mineral inside."
+  },
+  {
+    "startTime": 92.933,
+    "endTime": 95.411,
+    "text": "All 10 would set off the detector."
+  },
+  {
+    "startTime": 95.411,
+    "endTime": 99.862,
+    "text": "But what about the other 990 rocks without unobtainium?"
+  },
+  {
+    "startTime": 99.862,
+    "endTime": 103.961,
+    "text": "Well, 90% of them, 891 rocks, to be exact,"
+  },
+  {
+    "startTime": 103.962,
+    "endTime": 105.88300000000001,
+    "text": "won't set off anything."
+  },
+  {
+    "startTime": 105.883,
+    "endTime": 110.652,
+    "text": "But 10%, or 99 rocks,  will set off the detector"
+  },
+  {
+    "startTime": 110.653,
+    "endTime": 113.93,
+    "text": "despite not having unobtanium,"
+  },
+  {
+    "startTime": 113.93,
+    "endTime": 116.281,
+    "text": "a result known as a false positive."
+  },
+  {
+    "startTime": 116.281,
+    "endTime": 117.772,
+    "text": "Why does that matter?"
+  },
+  {
+    "startTime": 117.772,
+    "endTime": 119.409,
+    "text": "Because it means that all in all,"
+  },
+  {
+    "startTime": 119.409,
+    "endTime": 122.83200000000001,
+    "text": "109 rocks will have  triggered the detector."
+  },
+  {
+    "startTime": 122.832,
+    "endTime": 125.54199999999999,
+    "text": "And Joe's rock could be any one of them,"
+  },
+  {
+    "startTime": 125.543,
+    "endTime": 127.37,
+    "text": "from the 10 that contain the mineral"
+  },
+  {
+    "startTime": 127.37,
+    "endTime": 129.511,
+    "text": "to the 99 that don't,"
+  },
+  {
+    "startTime": 129.511,
+    "endTime": 136.683,
+    "text": "which means the chances of it containing  unobtainium are 10 out of 109 – about 9%."
+  },
+  {
+    "startTime": 136.683,
+    "endTime": 144.257,
+    "text": "And paying $200 for a 9% chance of getting $1000 isn't great odds."
+  },
+  {
+    "startTime": 144.258,
+    "endTime": 147.29000000000002,
+    "text": "So why is this result so unexpected,"
+  },
+  {
+    "startTime": 147.29,
+    "endTime": 151.13,
+    "text": "and why did Joe's rock seem  like such a sure bet?"
+  },
+  {
+    "startTime": 151.13,
+    "endTime": 155.253,
+    "text": "The key is something called  the base rate fallacy."
+  },
+  {
+    "startTime": 155.253,
+    "endTime": 159.113,
+    "text": "While we're focused on the relatively  high accuracy of the detector,"
+  },
+  {
+    "startTime": 159.113,
+    "endTime": 161.791,
+    "text": "our intuition makes us forget to account"
+  },
+  {
+    "startTime": 161.791,
+    "endTime": 165.87199999999999,
+    "text": "for how rare the unobtanium  was in the first place."
+  },
+  {
+    "startTime": 165.872,
+    "endTime": 168.70200000000003,
+    "text": "But because the device's error rate of 10%"
+  },
+  {
+    "startTime": 168.702,
+    "endTime": 172.322,
+    "text": "is still higher than  the mineral's overall occurrence,"
+  },
+  {
+    "startTime": 172.322,
+    "endTime": 176.442,
+    "text": "any time it goes off is still more likely  to be a false positive"
+  },
+  {
+    "startTime": 176.442,
+    "endTime": 178.592,
+    "text": "than a real finding."
+  },
+  {
+    "startTime": 178.592,
+    "endTime": 182.53,
+    "text": "This problem is an example  of conditional probability."
+  },
+  {
+    "startTime": 182.53,
+    "endTime": 186.171,
+    "text": "The answer lies neither in the overall  chance of finding unobtainium,"
+  },
+  {
+    "startTime": 186.171,
+    "endTime": 190.578,
+    "text": "nor the overall chance  of receiving a false positive reading."
+  },
+  {
+    "startTime": 190.579,
+    "endTime": 195.32,
+    "text": "This kind of background information  that we're given before anything happens"
+  },
+  {
+    "startTime": 195.32,
+    "endTime": 199.733,
+    "text": "is known as unconditional,  or prior probability."
+  },
+  {
+    "startTime": 199.733,
+    "endTime": 203.38,
+    "text": "What we're looking for, though, is the chance of finding unobtainium"
+  },
+  {
+    "startTime": 203.38,
+    "endTime": 207.94,
+    "text": "once we know that the device did return a positive reading."
+  },
+  {
+    "startTime": 207.94,
+    "endTime": 211.341,
+    "text": "This is known as the conditional,  or posterior probability,"
+  },
+  {
+    "startTime": 211.341,
+    "endTime": 216.58,
+    "text": "determined once the possibilities have  been narrowed down through observation."
+  },
+  {
+    "startTime": 216.58,
+    "endTime": 219.84300000000002,
+    "text": "Many people are confused  by the false positive paradox"
+  },
+  {
+    "startTime": 219.843,
+    "endTime": 223.542,
+    "text": "because we have a bias  for focusing on specific information"
+  },
+  {
+    "startTime": 223.542,
+    "endTime": 225.313,
+    "text": "over the more general,"
+  },
+  {
+    "startTime": 225.313,
+    "endTime": 229.101,
+    "text": "especially when immediate decisions  come into play."
+  },
+  {
+    "startTime": 229.101,
+    "endTime": 232.733,
+    "text": "And while in many cases  it's better to be safe than sorry,"
+  },
+  {
+    "startTime": 232.733,
+    "endTime": 235.869,
+    "text": "false positives can have  real negative consequences."
+  },
+  {
+    "startTime": 235.869,
+    "endTime": 240.129,
+    "text": "False positives in medical testing  are preferable to false negatives,"
+  },
+  {
+    "startTime": 240.129,
+    "endTime": 244.183,
+    "text": "but they can still lead to stress or unnecessary treatment."
+  },
+  {
+    "startTime": 244.183,
+    "endTime": 246.379,
+    "text": "And false positives in mass surveillance"
+  },
+  {
+    "startTime": 246.379,
+    "endTime": 251.54,
+    "text": "can cause innocent people to be wrongfully arrested, jailed, or worse."
+  },
+  {
+    "startTime": 251.54,
+    "endTime": 255.249,
+    "text": "As for this case, the one thing  you can be positive about"
+  },
+  {
+    "startTime": 255.249,
+    "endTime": 258.682,
+    "text": "is that Tricky Joe is trying  to take you for a ride."
+  }
+]
