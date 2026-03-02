@@ -1,0 +1,1157 @@
+[
+  {
+    "startTime": 12.896,
+    "endTime": 16.642,
+    "text": "We know more about other planets than our own,"
+  },
+  {
+    "startTime": 17.446,
+    "endTime": 20.67,
+    "text": "and today, I want to show you a new type of robot"
+  },
+  {
+    "startTime": 20.693,
+    "endTime": 24.733,
+    "text": "designed to help us better understand our own planet."
+  },
+  {
+    "startTime": 25.408,
+    "endTime": 27.200000000000003,
+    "text": "It belongs to a category"
+  },
+  {
+    "startTime": 27.44,
+    "endTime": 31.998,
+    "text": "known in the oceanographic community as an unmanned surface vehicle, or USV."
+  },
+  {
+    "startTime": 32.665,
+    "endTime": 34.595,
+    "text": "And it uses no fuel."
+  },
+  {
+    "startTime": 35.47,
+    "endTime": 38.98,
+    "text": "Instead, it relies on wind power for propulsion."
+  },
+  {
+    "startTime": 39.5,
+    "endTime": 42.76,
+    "text": "And yet, it can sail around the globe for months at a time."
+  },
+  {
+    "startTime": 43.474,
+    "endTime": 46.352,
+    "text": "So I want to share with you why we built it,"
+  },
+  {
+    "startTime": 46.376,
+    "endTime": 47.867,
+    "text": "and what it means for you."
+  },
+  {
+    "startTime": 49.814,
+    "endTime": 54.397,
+    "text": "A few years ago, I was on a sailboat making its way across the Pacific,"
+  },
+  {
+    "startTime": 54.422,
+    "endTime": 56.62,
+    "text": "from San Francisco to Hawaii."
+  },
+  {
+    "startTime": 57.296,
+    "endTime": 60.65,
+    "text": "I had just spent the past 10 years working nonstop,"
+  },
+  {
+    "startTime": 60.674,
+    "endTime": 63.79,
+    "text": "developing video games for hundreds of millions of users,"
+  },
+  {
+    "startTime": 63.814,
+    "endTime": 67.335,
+    "text": "and I wanted to take a step back and look at the big picture"
+  },
+  {
+    "startTime": 67.359,
+    "endTime": 69.29499999999999,
+    "text": "and get some much-needed thinking time."
+  },
+  {
+    "startTime": 69.918,
+    "endTime": 71.46300000000001,
+    "text": "I was the navigator on board,"
+  },
+  {
+    "startTime": 72.34,
+    "endTime": 75.69800000000001,
+    "text": "and one evening, after a long session analyzing weather data"
+  },
+  {
+    "startTime": 75.722,
+    "endTime": 77.351,
+    "text": "and plotting our course,"
+  },
+  {
+    "startTime": 77.375,
+    "endTime": 80.449,
+    "text": "I came up on deck and saw this beautiful sunset."
+  },
+  {
+    "startTime": 80.814,
+    "endTime": 82.247,
+    "text": "And a thought occurred to me:"
+  },
+  {
+    "startTime": 82.747,
+    "endTime": 86.101,
+    "text": "How much do we really know about our oceans?"
+  },
+  {
+    "startTime": 87.252,
+    "endTime": 91.131,
+    "text": "The Pacific was stretching all around me as far as the eye could see,"
+  },
+  {
+    "startTime": 91.155,
+    "endTime": 93.47,
+    "text": "and the waves were rocking our boat forcefully,"
+  },
+  {
+    "startTime": 93.494,
+    "endTime": 96.7,
+    "text": "a sort of constant reminder of its untold power."
+  },
+  {
+    "startTime": 97.291,
+    "endTime": 100.523,
+    "text": "How much do we really know about our oceans?"
+  },
+  {
+    "startTime": 101.235,
+    "endTime": 102.773,
+    "text": "I decided to find out."
+  },
+  {
+    "startTime": 104.362,
+    "endTime": 107.47,
+    "text": "What I quickly learned is that we don't know very much."
+  },
+  {
+    "startTime": 107.495,
+    "endTime": 110.62100000000001,
+    "text": "The first reason is just how vast oceans are,"
+  },
+  {
+    "startTime": 110.645,
+    "endTime": 112.985,
+    "text": "covering 70 percent of the planet,"
+  },
+  {
+    "startTime": 113.1,
+    "endTime": 116.55499999999999,
+    "text": "and yet we know they drive complex planetary systems"
+  },
+  {
+    "startTime": 116.579,
+    "endTime": 117.759,
+    "text": "like global weather,"
+  },
+  {
+    "startTime": 117.783,
+    "endTime": 120.228,
+    "text": "which affect all of us on a daily basis,"
+  },
+  {
+    "startTime": 120.252,
+    "endTime": 121.869,
+    "text": "sometimes dramatically."
+  },
+  {
+    "startTime": 122.562,
+    "endTime": 125.746,
+    "text": "And yet, those activities are mostly invisible to us."
+  },
+  {
+    "startTime": 126.944,
+    "endTime": 130.709,
+    "text": "Ocean data is scarce by any standard."
+  },
+  {
+    "startTime": 131.268,
+    "endTime": 136.372,
+    "text": "Back on land, I had grown used to accessing lots of sensors --"
+  },
+  {
+    "startTime": 136.396,
+    "endTime": 138.23,
+    "text": "billions of them, actually."
+  },
+  {
+    "startTime": 138.576,
+    "endTime": 145.29999999999998,
+    "text": "But at sea, in situ data is scarce and expensive."
+  },
+  {
+    "startTime": 145.535,
+    "endTime": 149.53,
+    "text": "Why? Because it relies on a small number of ships and buoys."
+  },
+  {
+    "startTime": 149.919,
+    "endTime": 152.79000000000002,
+    "text": "How small a number was actually a great surprise."
+  },
+  {
+    "startTime": 153.329,
+    "endTime": 156.45000000000002,
+    "text": "Our National Oceanic and Atmospheric Administration,"
+  },
+  {
+    "startTime": 156.474,
+    "endTime": 158.95999999999998,
+    "text": "better known as NOAA,"
+  },
+  {
+    "startTime": 158.121,
+    "endTime": 160.45000000000002,
+    "text": "only has 16 ships,"
+  },
+  {
+    "startTime": 160.969,
+    "endTime": 165.22199999999998,
+    "text": "and there are less than 200 buoys offshore globally."
+  },
+  {
+    "startTime": 165.77,
+    "endTime": 167.441,
+    "text": "It is easy to understand why:"
+  },
+  {
+    "startTime": 167.465,
+    "endTime": 169.605,
+    "text": "the oceans are an unforgiving place,"
+  },
+  {
+    "startTime": 169.629,
+    "endTime": 172.963,
+    "text": "and to collect in situ data, you need a big ship,"
+  },
+  {
+    "startTime": 172.987,
+    "endTime": 175.321,
+    "text": "capable of carrying a vast amount of fuel"
+  },
+  {
+    "startTime": 175.345,
+    "endTime": 177.163,
+    "text": "and large crews,"
+  },
+  {
+    "startTime": 177.187,
+    "endTime": 180.366,
+    "text": "costing hundreds of millions of dollars each,"
+  },
+  {
+    "startTime": 180.39,
+    "endTime": 185.712,
+    "text": "or, big buoys tethered to the ocean floor with a four-mile-long cable"
+  },
+  {
+    "startTime": 186.513,
+    "endTime": 189.508,
+    "text": "and weighted down by a set of train wheels,"
+  },
+  {
+    "startTime": 189.532,
+    "endTime": 194.14100000000002,
+    "text": "which is both dangerous to deploy and expensive to maintain."
+  },
+  {
+    "startTime": 194.628,
+    "endTime": 196.553,
+    "text": "What about satellites, you might ask?"
+  },
+  {
+    "startTime": 197.28,
+    "endTime": 198.93,
+    "text": "Well, satellites are fantastic,"
+  },
+  {
+    "startTime": 198.955,
+    "endTime": 201.45800000000003,
+    "text": "and they have taught us so much about the big picture"
+  },
+  {
+    "startTime": 201.482,
+    "endTime": 203.503,
+    "text": "over the past few decades."
+  },
+  {
+    "startTime": 203.527,
+    "endTime": 205.903,
+    "text": "However, the problem with satellites"
+  },
+  {
+    "startTime": 205.927,
+    "endTime": 210.207,
+    "text": "is they can only see through one micron of the surface of the ocean."
+  },
+  {
+    "startTime": 211.124,
+    "endTime": 214.697,
+    "text": "They have relatively poor spatial and temporal resolution,"
+  },
+  {
+    "startTime": 215.45,
+    "endTime": 219.724,
+    "text": "and their signal needs to be corrected for cloud cover and land effects"
+  },
+  {
+    "startTime": 219.748,
+    "endTime": 220.956,
+    "text": "and other factors."
+  },
+  {
+    "startTime": 222.94,
+    "endTime": 225.364,
+    "text": "So what is going on in the oceans?"
+  },
+  {
+    "startTime": 225.929,
+    "endTime": 227.561,
+    "text": "And what are we trying to measure?"
+  },
+  {
+    "startTime": 228.283,
+    "endTime": 230.869,
+    "text": "And how could a robot be of any use?"
+  },
+  {
+    "startTime": 231.361,
+    "endTime": 235.259,
+    "text": "Let's zoom in on a small cube in the ocean."
+  },
+  {
+    "startTime": 235.283,
+    "endTime": 238.58999999999997,
+    "text": "One of the key things we want to understand is the surface,"
+  },
+  {
+    "startTime": 238.615,
+    "endTime": 240.654,
+    "text": "because the surface, if you think about it,"
+  },
+  {
+    "startTime": 240.678,
+    "endTime": 243.977,
+    "text": "is the nexus of all air-sea interaction."
+  },
+  {
+    "startTime": 244.1,
+    "endTime": 248.995,
+    "text": "It is the interface through which all energy and gases must flow."
+  },
+  {
+    "startTime": 249.552,
+    "endTime": 251.652,
+    "text": "Our sun radiates energy,"
+  },
+  {
+    "startTime": 251.676,
+    "endTime": 254.571,
+    "text": "which is absorbed by oceans as heat"
+  },
+  {
+    "startTime": 254.596,
+    "endTime": 257.452,
+    "text": "and then partially released into the atmosphere."
+  },
+  {
+    "startTime": 257.476,
+    "endTime": 261.644,
+    "text": "Gases in our atmosphere like CO2 get dissolved into our oceans."
+  },
+  {
+    "startTime": 262.99,
+    "endTime": 265.728,
+    "text": "Actually, about 30 percent of all global CO2 gets absorbed."
+  },
+  {
+    "startTime": 266.603,
+    "endTime": 270.211,
+    "text": "Plankton and microorganisms release oxygen into the atmosphere,"
+  },
+  {
+    "startTime": 270.235,
+    "endTime": 274.406,
+    "text": "so much so that every other breath you take comes from the ocean."
+  },
+  {
+    "startTime": 274.43,
+    "endTime": 277.462,
+    "text": "Some of that heat generates evaporation, which creates clouds"
+  },
+  {
+    "startTime": 277.486,
+    "endTime": 279.78,
+    "text": "and then eventually leads to precipitation."
+  },
+  {
+    "startTime": 279.804,
+    "endTime": 282.55999999999995,
+    "text": "And pressure gradients create surface wind,"
+  },
+  {
+    "startTime": 282.81,
+    "endTime": 284.878,
+    "text": "which moves the moisture through the atmosphere."
+  },
+  {
+    "startTime": 285.731,
+    "endTime": 289.564,
+    "text": "Some of the heat radiates down into the deep ocean"
+  },
+  {
+    "startTime": 289.588,
+    "endTime": 291.716,
+    "text": "and gets stored in different layers,"
+  },
+  {
+    "startTime": 291.74,
+    "endTime": 295.45,
+    "text": "the ocean acting as some kind of planetary-scale boiler"
+  },
+  {
+    "startTime": 295.69,
+    "endTime": 296.69,
+    "text": "to store all that energy,"
+  },
+  {
+    "startTime": 296.714,
+    "endTime": 300.451,
+    "text": "which later might be released in short-term events like hurricanes"
+  },
+  {
+    "startTime": 300.475,
+    "endTime": 302.856,
+    "text": "or long-term phenomena like El Niño."
+  },
+  {
+    "startTime": 303.329,
+    "endTime": 307.644,
+    "text": "These layers can get mixed up by vertical upwelling currents"
+  },
+  {
+    "startTime": 307.668,
+    "endTime": 311.11400000000003,
+    "text": "or horizontal currents, which are key in transporting heat"
+  },
+  {
+    "startTime": 311.138,
+    "endTime": 313.111,
+    "text": "from the tropics to the poles."
+  },
+  {
+    "startTime": 313.623,
+    "endTime": 316.421,
+    "text": "And of course, there is marine life,"
+  },
+  {
+    "startTime": 316.446,
+    "endTime": 321.46200000000005,
+    "text": "occupying the largest ecosystem in volume on the planet,"
+  },
+  {
+    "startTime": 321.486,
+    "endTime": 325.188,
+    "text": "from microorganisms to fish to marine mammals,"
+  },
+  {
+    "startTime": 325.212,
+    "endTime": 328.219,
+    "text": "like seals, dolphins and whales."
+  },
+  {
+    "startTime": 328.244,
+    "endTime": 331.821,
+    "text": "But all of these are mostly invisible to us."
+  },
+  {
+    "startTime": 333.821,
+    "endTime": 339.197,
+    "text": "The challenge in studying those ocean variables at scale"
+  },
+  {
+    "startTime": 339.221,
+    "endTime": 341.395,
+    "text": "is one of energy,"
+  },
+  {
+    "startTime": 341.419,
+    "endTime": 345.542,
+    "text": "the energy that it takes to deploy sensors into the deep ocean."
+  },
+  {
+    "startTime": 346.597,
+    "endTime": 348.89,
+    "text": "And of course, many solutions have been tried --"
+  },
+  {
+    "startTime": 348.914,
+    "endTime": 350.525,
+    "text": "from wave-actuated devices"
+  },
+  {
+    "startTime": 350.549,
+    "endTime": 352.9,
+    "text": "to surface drifters"
+  },
+  {
+    "startTime": 352.114,
+    "endTime": 354.835,
+    "text": "to sun-powered electrical drives --"
+  },
+  {
+    "startTime": 354.86,
+    "endTime": 356.97200000000004,
+    "text": "each with their own compromises."
+  },
+  {
+    "startTime": 357.745,
+    "endTime": 360.915,
+    "text": "Our team breakthrough came from an unlikely source --"
+  },
+  {
+    "startTime": 360.939,
+    "endTime": 365.288,
+    "text": "the pursuit of the world speed record in a wind-powered land yacht."
+  },
+  {
+    "startTime": 365.742,
+    "endTime": 368.43,
+    "text": "It took 10 years of research and development"
+  },
+  {
+    "startTime": 368.67,
+    "endTime": 370.596,
+    "text": "to come up with a novel wing concept"
+  },
+  {
+    "startTime": 370.62,
+    "endTime": 374.428,
+    "text": "that only uses three watts of power to control"
+  },
+  {
+    "startTime": 374.452,
+    "endTime": 377.54,
+    "text": "and yet can propel a vehicle all around the globe"
+  },
+  {
+    "startTime": 377.564,
+    "endTime": 379.764,
+    "text": "with seemingly unlimited autonomy."
+  },
+  {
+    "startTime": 380.262,
+    "endTime": 383.608,
+    "text": "By adapting this wing concept into a marine vehicle,"
+  },
+  {
+    "startTime": 384.356,
+    "endTime": 386.662,
+    "text": "we had the genesis of an ocean drone."
+  },
+  {
+    "startTime": 387.28,
+    "endTime": 389.614,
+    "text": "Now, these are larger than they appear."
+  },
+  {
+    "startTime": 389.638,
+    "endTime": 394.214,
+    "text": "They are about 15 feet high, 23 feet long, seven feet deep."
+  },
+  {
+    "startTime": 394.238,
+    "endTime": 396.291,
+    "text": "Think of them as surface satellites."
+  },
+  {
+    "startTime": 396.315,
+    "endTime": 399.453,
+    "text": "They're laden with an array of science-grade sensors"
+  },
+  {
+    "startTime": 399.477,
+    "endTime": 401.284,
+    "text": "that measure all key variables,"
+  },
+  {
+    "startTime": 401.309,
+    "endTime": 404.307,
+    "text": "both oceanographic and atmospheric,"
+  },
+  {
+    "startTime": 404.331,
+    "endTime": 408.68800000000005,
+    "text": "and a live satellite link transmits this high-resolution data"
+  },
+  {
+    "startTime": 408.712,
+    "endTime": 410.753,
+    "text": "back to shore in real time."
+  },
+  {
+    "startTime": 411.515,
+    "endTime": 414.393,
+    "text": "Our team has been hard at work over the past few years,"
+  },
+  {
+    "startTime": 414.417,
+    "endTime": 417.924,
+    "text": "conducting missions in some of the toughest ocean conditions"
+  },
+  {
+    "startTime": 417.949,
+    "endTime": 419.173,
+    "text": "on the planet,"
+  },
+  {
+    "startTime": 419.197,
+    "endTime": 421.662,
+    "text": "from the Arctic to the tropical Pacific."
+  },
+  {
+    "startTime": 421.686,
+    "endTime": 424.409,
+    "text": "We have sailed all the way to the polar ice shelf."
+  },
+  {
+    "startTime": 424.434,
+    "endTime": 426.773,
+    "text": "We have sailed into Atlantic hurricanes."
+  },
+  {
+    "startTime": 427.159,
+    "endTime": 429.117,
+    "text": "We have rounded Cape Horn,"
+  },
+  {
+    "startTime": 429.141,
+    "endTime": 432.38,
+    "text": "and we have slalomed between the oil rigs of the Gulf of Mexico."
+  },
+  {
+    "startTime": 432.404,
+    "endTime": 434.734,
+    "text": "This is one tough robot."
+  },
+  {
+    "startTime": 435.629,
+    "endTime": 438.61,
+    "text": "Let me share with you recent work that we did"
+  },
+  {
+    "startTime": 438.634,
+    "endTime": 440.50800000000004,
+    "text": "around the Pribilof Islands."
+  },
+  {
+    "startTime": 440.532,
+    "endTime": 444.45,
+    "text": "This is a small group of islands deep in the cold Bering Sea"
+  },
+  {
+    "startTime": 444.475,
+    "endTime": 446.637,
+    "text": "between the US and Russia."
+  },
+  {
+    "startTime": 446.661,
+    "endTime": 450.111,
+    "text": "Now, the Bering Sea is the home of the walleye pollock,"
+  },
+  {
+    "startTime": 450.135,
+    "endTime": 452.71,
+    "text": "which is a whitefish you might not recognize,"
+  },
+  {
+    "startTime": 452.734,
+    "endTime": 457.421,
+    "text": "but you might likely have tasted if you enjoy fish sticks or surimi."
+  },
+  {
+    "startTime": 457.445,
+    "endTime": 461.67,
+    "text": "Yes, surimi looks like crabmeat, but it's actually pollock."
+  },
+  {
+    "startTime": 461.908,
+    "endTime": 464.918,
+    "text": "And the pollock fishery is the largest fishery in the nation,"
+  },
+  {
+    "startTime": 464.942,
+    "endTime": 467.487,
+    "text": "both in terms of value and volume --"
+  },
+  {
+    "startTime": 467.511,
+    "endTime": 470.98,
+    "text": "about 3.1 billion pounds of fish caught every year."
+  },
+  {
+    "startTime": 471.695,
+    "endTime": 474.394,
+    "text": "So over the past few years, a fleet of ocean drones"
+  },
+  {
+    "startTime": 474.418,
+    "endTime": 476.644,
+    "text": "has been hard at work in the Bering Sea"
+  },
+  {
+    "startTime": 476.668,
+    "endTime": 481.123,
+    "text": "with the goal to help assess the size of the pollock fish stock."
+  },
+  {
+    "startTime": 481.147,
+    "endTime": 484.918,
+    "text": "This helps improve the quota system that's used to manage the fishery"
+  },
+  {
+    "startTime": 484.942,
+    "endTime": 487.11,
+    "text": "and help prevent a collapse of the fish stock"
+  },
+  {
+    "startTime": 487.134,
+    "endTime": 490.78000000000003,
+    "text": "and protects this fragile ecosystem."
+  },
+  {
+    "startTime": 490.538,
+    "endTime": 495.34700000000004,
+    "text": "Now, the drones survey the fishing ground using acoustics,"
+  },
+  {
+    "startTime": 495.371,
+    "endTime": 496.895,
+    "text": "i.e., a sonar."
+  },
+  {
+    "startTime": 496.919,
+    "endTime": 500.14,
+    "text": "This sends a sound wave downwards,"
+  },
+  {
+    "startTime": 500.164,
+    "endTime": 502.674,
+    "text": "and then the reflection, the echo from the sound wave"
+  },
+  {
+    "startTime": 502.698,
+    "endTime": 504.455,
+    "text": "from the seabed or schools of fish,"
+  },
+  {
+    "startTime": 504.48,
+    "endTime": 507.39000000000004,
+    "text": "gives us an idea of what's happening below the surface."
+  },
+  {
+    "startTime": 507.849,
+    "endTime": 511.855,
+    "text": "Our ocean drones are actually pretty good at this repetitive task,"
+  },
+  {
+    "startTime": 511.879,
+    "endTime": 515.784,
+    "text": "so they have been gridding the Bering Sea day in, day out."
+  },
+  {
+    "startTime": 515.808,
+    "endTime": 522.766,
+    "text": "Now, the Pribilof Islands are also the home of a large colony of fur seals."
+  },
+  {
+    "startTime": 523.174,
+    "endTime": 527.664,
+    "text": "In the 1950s, there were about two million individuals in that colony."
+  },
+  {
+    "startTime": 528.374,
+    "endTime": 532.134,
+    "text": "Sadly, these days, the population has rapidly declined."
+  },
+  {
+    "startTime": 532.158,
+    "endTime": 534.501,
+    "text": "There's less than 50 percent of that number left,"
+  },
+  {
+    "startTime": 534.525,
+    "endTime": 537.3299999999999,
+    "text": "and the population continues to fall rapidly."
+  },
+  {
+    "startTime": 537.904,
+    "endTime": 540.7,
+    "text": "So to understand why,"
+  },
+  {
+    "startTime": 540.31,
+    "endTime": 543.52,
+    "text": "our science partner at the National Marine Mammal Laboratory"
+  },
+  {
+    "startTime": 543.544,
+    "endTime": 546.881,
+    "text": "has fitted a GPS tag on some of the mother seals,"
+  },
+  {
+    "startTime": 546.905,
+    "endTime": 548.382,
+    "text": "glued to their furs."
+  },
+  {
+    "startTime": 548.406,
+    "endTime": 551.406,
+    "text": "And this tag measures location and depth"
+  },
+  {
+    "startTime": 551.431,
+    "endTime": 553.763,
+    "text": "and also has a really cool little camera"
+  },
+  {
+    "startTime": 553.787,
+    "endTime": 556.183,
+    "text": "that's triggered by sudden acceleration."
+  },
+  {
+    "startTime": 556.207,
+    "endTime": 560.121,
+    "text": "Here is a movie taken by an artistically inclined seal,"
+  },
+  {
+    "startTime": 560.145,
+    "endTime": 563.886,
+    "text": "giving us unprecedented insight into an underwater hunt"
+  },
+  {
+    "startTime": 563.91,
+    "endTime": 565.723,
+    "text": "deep in the Arctic,"
+  },
+  {
+    "startTime": 565.748,
+    "endTime": 568.12,
+    "text": "and the shot of this pollock prey"
+  },
+  {
+    "startTime": 568.144,
+    "endTime": 570.91,
+    "text": "just seconds before it gets devoured."
+  },
+  {
+    "startTime": 570.934,
+    "endTime": 574.7189999999999,
+    "text": "Now, doing work in the Arctic is very tough, even for a robot."
+  },
+  {
+    "startTime": 574.744,
+    "endTime": 577.3340000000001,
+    "text": "They had to survive a snowstorm in August"
+  },
+  {
+    "startTime": 577.358,
+    "endTime": 580.848,
+    "text": "and interferences from bystanders --"
+  },
+  {
+    "startTime": 580.873,
+    "endTime": 584.1310000000001,
+    "text": "that little spotted seal enjoying a ride."
+  },
+  {
+    "startTime": 584.155,
+    "endTime": 586.716,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 587.378,
+    "endTime": 593.6650000000001,
+    "text": "Now, the seal tags have recorded over 200,000 dives over the season,"
+  },
+  {
+    "startTime": 594.395,
+    "endTime": 596.353,
+    "text": "and upon a closer look,"
+  },
+  {
+    "startTime": 596.378,
+    "endTime": 600.909,
+    "text": "we get to see the individual seal tracks and the repetitive dives."
+  },
+  {
+    "startTime": 601.413,
+    "endTime": 604.27,
+    "text": "We are on our way to decode what is really happening"
+  },
+  {
+    "startTime": 604.294,
+    "endTime": 605.973,
+    "text": "over that foraging ground,"
+  },
+  {
+    "startTime": 605.997,
+    "endTime": 607.342,
+    "text": "and it's quite beautiful."
+  },
+  {
+    "startTime": 608.362,
+    "endTime": 611.765,
+    "text": "Once you superimpose the acoustic data collected by the drones,"
+  },
+  {
+    "startTime": 611.789,
+    "endTime": 613.913,
+    "text": "a picture starts to emerge."
+  },
+  {
+    "startTime": 613.937,
+    "endTime": 618.309,
+    "text": "As the seals leave the islands and swim from left to right,"
+  },
+  {
+    "startTime": 618.333,
+    "endTime": 622.746,
+    "text": "they are observed to dive at a relatively shallow depth of about 20 meters,"
+  },
+  {
+    "startTime": 622.77,
+    "endTime": 626.859,
+    "text": "which the drone identifies is populated by small young pollock"
+  },
+  {
+    "startTime": 626.883,
+    "endTime": 628.966,
+    "text": "with low calorific content."
+  },
+  {
+    "startTime": 628.99,
+    "endTime": 633.114,
+    "text": "The seals then swim much greater distance and start to dive deeper"
+  },
+  {
+    "startTime": 633.138,
+    "endTime": 637.8100000000001,
+    "text": "to a place where the drone identifies larger, more adult pollock,"
+  },
+  {
+    "startTime": 637.834,
+    "endTime": 640.93,
+    "text": "which are more nutritious as fish."
+  },
+  {
+    "startTime": 640.117,
+    "endTime": 644.2379999999999,
+    "text": "Unfortunately, the calories expended by the mother seals"
+  },
+  {
+    "startTime": 644.263,
+    "endTime": 646.3860000000001,
+    "text": "to swim this extra distance"
+  },
+  {
+    "startTime": 646.41,
+    "endTime": 651.326,
+    "text": "don't leave them with enough energy to lactate their pups back on the island,"
+  },
+  {
+    "startTime": 651.35,
+    "endTime": 653.384,
+    "text": "leading to the population decline."
+  },
+  {
+    "startTime": 654.408,
+    "endTime": 659.755,
+    "text": "Further, the drones identify that the water temperature around the island"
+  },
+  {
+    "startTime": 659.779,
+    "endTime": 661.4639999999999,
+    "text": "has significantly warmed."
+  },
+  {
+    "startTime": 661.488,
+    "endTime": 665.788,
+    "text": "It might be one of the driving forces that's pushing the pollock north,"
+  },
+  {
+    "startTime": 665.812,
+    "endTime": 668.267,
+    "text": "and to spread in search of colder regions."
+  },
+  {
+    "startTime": 668.765,
+    "endTime": 670.55,
+    "text": "So the data analysis is ongoing,"
+  },
+  {
+    "startTime": 670.574,
+    "endTime": 673.953,
+    "text": "but already we can see that some of the pieces of the puzzle"
+  },
+  {
+    "startTime": 673.977,
+    "endTime": 675.35,
+    "text": "from the fur seal mystery"
+  },
+  {
+    "startTime": 675.374,
+    "endTime": 676.975,
+    "text": "are coming into focus."
+  },
+  {
+    "startTime": 678.69,
+    "endTime": 680.7790000000001,
+    "text": "But if you look back at the big picture,"
+  },
+  {
+    "startTime": 680.803,
+    "endTime": 682.304,
+    "text": "we are mammals, too."
+  },
+  {
+    "startTime": 683.32,
+    "endTime": 686.856,
+    "text": "And actually, the oceans provide up to 20 kilos of fish per human per year."
+  },
+  {
+    "startTime": 686.88,
+    "endTime": 690.9,
+    "text": "As we deplete our fish stocks, what can we humans learn"
+  },
+  {
+    "startTime": 690.33,
+    "endTime": 691.618,
+    "text": "from the fur seal story?"
+  },
+  {
+    "startTime": 692.719,
+    "endTime": 695.5920000000001,
+    "text": "And beyond fish, the oceans affect all of us daily"
+  },
+  {
+    "startTime": 695.616,
+    "endTime": 697.49,
+    "text": "as they drive global weather systems,"
+  },
+  {
+    "startTime": 697.514,
+    "endTime": 700.275,
+    "text": "which affect things like global agricultural output"
+  },
+  {
+    "startTime": 700.299,
+    "endTime": 703.928,
+    "text": "or can lead to devastating destruction of lives and property"
+  },
+  {
+    "startTime": 703.952,
+    "endTime": 707.153,
+    "text": "through hurricanes, extreme heat and floods."
+  },
+  {
+    "startTime": 707.756,
+    "endTime": 711.536,
+    "text": "Our oceans are pretty much unexplored and undersampled,"
+  },
+  {
+    "startTime": 711.56,
+    "endTime": 715.997,
+    "text": "and today, we still know more about other planets than our own."
+  },
+  {
+    "startTime": 716.21,
+    "endTime": 719.8090000000001,
+    "text": "But if you divide this vast ocean in six-by-six-degree squares,"
+  },
+  {
+    "startTime": 719.833,
+    "endTime": 722.65,
+    "text": "each about 400 miles long,"
+  },
+  {
+    "startTime": 723.539,
+    "endTime": 725.693,
+    "text": "you'd get about 1,000 such squares."
+  },
+  {
+    "startTime": 725.717,
+    "endTime": 728.13,
+    "text": "So little by little, working with our partners,"
+  },
+  {
+    "startTime": 728.37,
+    "endTime": 732.135,
+    "text": "we are deploying one ocean drone in each of those boxes,"
+  },
+  {
+    "startTime": 732.159,
+    "endTime": 734.581,
+    "text": "the hope being that achieving planetary coverage"
+  },
+  {
+    "startTime": 734.605,
+    "endTime": 737.785,
+    "text": "will give us better insights into those planetary systems"
+  },
+  {
+    "startTime": 737.809,
+    "endTime": 739.12,
+    "text": "that affect humanity."
+  },
+  {
+    "startTime": 739.603,
+    "endTime": 743.2139999999999,
+    "text": "We have been using robots to study distant worlds in our solar system"
+  },
+  {
+    "startTime": 743.239,
+    "endTime": 744.4290000000001,
+    "text": "for a while now."
+  },
+  {
+    "startTime": 744.939,
+    "endTime": 747.569,
+    "text": "Now it is time to quantify our own planet,"
+  },
+  {
+    "startTime": 748.44,
+    "endTime": 752.2790000000001,
+    "text": "because we cannot fix what we cannot measure,"
+  },
+  {
+    "startTime": 752.303,
+    "endTime": 755.195,
+    "text": "and we cannot prepare for what we don't know."
+  },
+  {
+    "startTime": 755.761,
+    "endTime": 756.92,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 756.945,
+    "endTime": 760.19,
+    "text": "(Applause)"
+  }
+]
