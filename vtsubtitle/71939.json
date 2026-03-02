@@ -1,0 +1,812 @@
+[
+  {
+    "startTime": 13.2,
+    "endTime": 14.44,
+    "text": "Three years ago,"
+  },
+  {
+    "startTime": 14.48,
+    "endTime": 17.496000000000002,
+    "text": "I started building a decentralized web"
+  },
+  {
+    "startTime": 17.52,
+    "endTime": 20.8,
+    "text": "because I was worried about the future of our internet."
+  },
+  {
+    "startTime": 21.68,
+    "endTime": 24.296,
+    "text": "The current internet we are using is about gatekeepers."
+  },
+  {
+    "startTime": 24.32,
+    "endTime": 26.696,
+    "text": "If you want to reach something on the web,"
+  },
+  {
+    "startTime": 26.72,
+    "endTime": 29.96,
+    "text": "then you need to go through multiple middlemen."
+  },
+  {
+    "startTime": 29.12,
+    "endTime": 31.576,
+    "text": "First, a domain name server,"
+  },
+  {
+    "startTime": 31.6,
+    "endTime": 34.136,
+    "text": "then a server hosting company,"
+  },
+  {
+    "startTime": 34.16,
+    "endTime": 37.894999999999996,
+    "text": "which usually points you to a third party,"
+  },
+  {
+    "startTime": 37.92,
+    "endTime": 39.88,
+    "text": "to a web hosting service."
+  },
+  {
+    "startTime": 41.8,
+    "endTime": 44.599999999999994,
+    "text": "And this happens every time you want to reach a website on the web."
+  },
+  {
+    "startTime": 45.44,
+    "endTime": 49.896,
+    "text": "But these gatekeepers are vulnerable to internet attacks"
+  },
+  {
+    "startTime": 49.92,
+    "endTime": 53.72,
+    "text": "and also makes the censorship and the surveillance easier."
+  },
+  {
+    "startTime": 55.4,
+    "endTime": 56.76,
+    "text": "And the situation is getting worse."
+  },
+  {
+    "startTime": 57.84,
+    "endTime": 59.536,
+    "text": "Everything is moving to the cloud,"
+  },
+  {
+    "startTime": 59.56,
+    "endTime": 62.64,
+    "text": "where the data is hosted by giant corporations."
+  },
+  {
+    "startTime": 63.4,
+    "endTime": 67.679,
+    "text": "This move creates much, much more powerful middlemen."
+  },
+  {
+    "startTime": 68.56,
+    "endTime": 70.85600000000001,
+    "text": "Now, move to the cloud makes sense"
+  },
+  {
+    "startTime": 70.88,
+    "endTime": 72.93599999999999,
+    "text": "because this way it's easier and cheaper"
+  },
+  {
+    "startTime": 72.96,
+    "endTime": 75.94999999999999,
+    "text": "for the developers and the service operators."
+  },
+  {
+    "startTime": 75.12,
+    "endTime": 79.32000000000001,
+    "text": "They don't have to worry about maintaining the physical servers."
+  },
+  {
+    "startTime": 80.72,
+    "endTime": 85.93599999999999,
+    "text": "I can't blame them, but I found this trend to be very dangerous,"
+  },
+  {
+    "startTime": 85.96,
+    "endTime": 88.216,
+    "text": "because this way, these giant corporations"
+  },
+  {
+    "startTime": 88.24,
+    "endTime": 92.8,
+    "text": "have unlimited control over the hosting services."
+  },
+  {
+    "startTime": 92.92,
+    "endTime": 95.92,
+    "text": "And it's very easy to abuse this power."
+  },
+  {
+    "startTime": 97.44,
+    "endTime": 101.216,
+    "text": "For example, last year, a CEO of a company"
+  },
+  {
+    "startTime": 101.24,
+    "endTime": 105.856,
+    "text": "that acts as a gatekeeper for nine million websites"
+  },
+  {
+    "startTime": 105.88,
+    "endTime": 107.976,
+    "text": "decided, after some public pressure,"
+  },
+  {
+    "startTime": 108.0,
+    "endTime": 110.416,
+    "text": "that one of the sites it manages,"
+  },
+  {
+    "startTime": 110.44,
+    "endTime": 113.39,
+    "text": "a far right page, should be blocked."
+  },
+  {
+    "startTime": 114.52,
+    "endTime": 117.399,
+    "text": "He then sent an internal email to his coworkers."
+  },
+  {
+    "startTime": 119.0,
+    "endTime": 121.2,
+    "text": "\"This was an arbitrary decision."
+  },
+  {
+    "startTime": 122.64,
+    "endTime": 125.176,
+    "text": "I woke up this morning in a bad mood"
+  },
+  {
+    "startTime": 125.2,
+    "endTime": 127.84,
+    "text": "and decided to kick them off the Internet.\""
+  },
+  {
+    "startTime": 129.96,
+    "endTime": 131.856,
+    "text": "Even he admits,"
+  },
+  {
+    "startTime": 131.88,
+    "endTime": 133.92,
+    "text": "\"No one should have this power.\""
+  },
+  {
+    "startTime": 135.72,
+    "endTime": 138.61599999999999,
+    "text": "As a response, one of the employees asked him,"
+  },
+  {
+    "startTime": 138.64,
+    "endTime": 141.279,
+    "text": "\"Is this the day the Internet dies?\""
+  },
+  {
+    "startTime": 143.8,
+    "endTime": 146.216,
+    "text": "I don't think we are actually killing the internet,"
+  },
+  {
+    "startTime": 146.24,
+    "endTime": 148.17600000000002,
+    "text": "but I do think that we are in the middle"
+  },
+  {
+    "startTime": 148.2,
+    "endTime": 150.976,
+    "text": "of a kind of irresponsible centralization process"
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 153.64,
+    "text": "that makes our internet more fragile."
+  },
+  {
+    "startTime": 155.12,
+    "endTime": 158.45600000000002,
+    "text": "The decentralized, people-to-people web"
+  },
+  {
+    "startTime": 158.48,
+    "endTime": 161.536,
+    "text": "solves this problem by removing the central points,"
+  },
+  {
+    "startTime": 161.56,
+    "endTime": 163.16,
+    "text": "the web-hosting services."
+  },
+  {
+    "startTime": 163.88,
+    "endTime": 166.136,
+    "text": "It empowers the users"
+  },
+  {
+    "startTime": 166.16,
+    "endTime": 169.68,
+    "text": "to have host sites they want to preserve."
+  },
+  {
+    "startTime": 171.8,
+    "endTime": 176.28,
+    "text": "On this network, the sites get downloaded directly from other visitors."
+  },
+  {
+    "startTime": 177.12,
+    "endTime": 179.45600000000002,
+    "text": "This means, if you have a site with 100 visitors,"
+  },
+  {
+    "startTime": 179.48,
+    "endTime": 182.679,
+    "text": "then it's hosted [by] 100 computers around the world."
+  },
+  {
+    "startTime": 184.4,
+    "endTime": 189.4,
+    "text": "Basically, this is a people-powered version of the internet."
+  },
+  {
+    "startTime": 190.72,
+    "endTime": 194.736,
+    "text": "The security of the network is provided by public-key cryptography."
+  },
+  {
+    "startTime": 194.76,
+    "endTime": 198.256,
+    "text": "This makes sure that no one can modify the sites"
+  },
+  {
+    "startTime": 198.28,
+    "endTime": 199.96,
+    "text": "but only the real owner."
+  },
+  {
+    "startTime": 201.36,
+    "endTime": 205.816,
+    "text": "Think of it like instead of getting electricity from big power plants,"
+  },
+  {
+    "startTime": 205.84,
+    "endTime": 207.89600000000002,
+    "text": "you put solar panels on top of your house,"
+  },
+  {
+    "startTime": 207.92,
+    "endTime": 210.815,
+    "text": "and if your neighbor down the street needs some extra energy,"
+  },
+  {
+    "startTime": 210.84,
+    "endTime": 213.52,
+    "text": "then they can just download some from your house."
+  },
+  {
+    "startTime": 216.76,
+    "endTime": 219.576,
+    "text": "So by using the decentralized web,"
+  },
+  {
+    "startTime": 219.6,
+    "endTime": 223.92,
+    "text": "we can help to keep content accessible for other visitors."
+  },
+  {
+    "startTime": 224.8,
+    "endTime": 227.496,
+    "text": "And by that, it means"
+  },
+  {
+    "startTime": 227.52,
+    "endTime": 231.17600000000002,
+    "text": "that we can also fight against things"
+  },
+  {
+    "startTime": 231.2,
+    "endTime": 232.839,
+    "text": "that we feel are unjust,"
+  },
+  {
+    "startTime": 234.0,
+    "endTime": 235.2,
+    "text": "like censorship."
+  },
+  {
+    "startTime": 236.48,
+    "endTime": 239.399,
+    "text": "In China, the internet is tightly controlled."
+  },
+  {
+    "startTime": 240.6,
+    "endTime": 244.456,
+    "text": "They can't criticize the government,"
+  },
+  {
+    "startTime": 244.48,
+    "endTime": 246.49499999999998,
+    "text": "organize a protest,"
+  },
+  {
+    "startTime": 246.52,
+    "endTime": 249.256,
+    "text": "and it's also forbidden to post"
+  },
+  {
+    "startTime": 249.28,
+    "endTime": 253.84,
+    "text": "a kind of emoticon to remember the victims of the Tiananmen Square Massacre."
+  },
+  {
+    "startTime": 255.4,
+    "endTime": 258.101,
+    "text": "With the decentralized web, it's not the government that decides"
+  },
+  {
+    "startTime": 258.125,
+    "endTime": 260.12,
+    "text": "what gets seen and what doesn't."
+  },
+  {
+    "startTime": 261.79,
+    "endTime": 263.96000000000004,
+    "text": "It's the people,"
+  },
+  {
+    "startTime": 263.12,
+    "endTime": 265.28000000000003,
+    "text": "which makes the web more democratic."
+  },
+  {
+    "startTime": 266.6,
+    "endTime": 269.16,
+    "text": "But at the same time, it's hard to use this network"
+  },
+  {
+    "startTime": 269.4,
+    "endTime": 271.815,
+    "text": "to do something that is clearly illegal"
+  },
+  {
+    "startTime": 271.839,
+    "endTime": 273.216,
+    "text": "everywhere in the world,"
+  },
+  {
+    "startTime": 273.24,
+    "endTime": 276.776,
+    "text": "as the users probably don't want to endanger themselves"
+  },
+  {
+    "startTime": 276.8,
+    "endTime": 279.28000000000003,
+    "text": "hosting these kinds of problematic content."
+  },
+  {
+    "startTime": 281.72,
+    "endTime": 284.656,
+    "text": "Another increasing threat"
+  },
+  {
+    "startTime": 284.68,
+    "endTime": 286.44,
+    "text": "to internet freedom"
+  },
+  {
+    "startTime": 287.4,
+    "endTime": 288.84,
+    "text": "is overregulation."
+  },
+  {
+    "startTime": 291.16,
+    "endTime": 293.25600000000003,
+    "text": "I have the impression"
+  },
+  {
+    "startTime": 293.28,
+    "endTime": 294.976,
+    "text": "that our delegates"
+  },
+  {
+    "startTime": 295.0,
+    "endTime": 297.856,
+    "text": "who vote on the internet regulation laws"
+  },
+  {
+    "startTime": 297.88,
+    "endTime": 301.8,
+    "text": "are not fully aware of their decisions."
+  },
+  {
+    "startTime": 301.76,
+    "endTime": 305.416,
+    "text": "For example, the European Parliament has a new law on the table,"
+  },
+  {
+    "startTime": 305.44,
+    "endTime": 307.416,
+    "text": "a new copyright protection law,"
+  },
+  {
+    "startTime": 307.44,
+    "endTime": 310.8,
+    "text": "that has a part called Article 13."
+  },
+  {
+    "startTime": 311.68,
+    "endTime": 316.16,
+    "text": "If it passes, it would require every big website"
+  },
+  {
+    "startTime": 316.4,
+    "endTime": 318.296,
+    "text": "to implement a filter"
+  },
+  {
+    "startTime": 318.32,
+    "endTime": 321.616,
+    "text": "that automatically blocks content"
+  },
+  {
+    "startTime": 321.64,
+    "endTime": 324.56,
+    "text": "based on rules controlled by big corporations."
+  },
+  {
+    "startTime": 325.8,
+    "endTime": 328.456,
+    "text": "The original idea is to protect copyrighted materials,"
+  },
+  {
+    "startTime": 328.48,
+    "endTime": 331.976,
+    "text": "but it would endanger many other things we do on the internet:"
+  },
+  {
+    "startTime": 332.0,
+    "endTime": 335.52,
+    "text": "blogging, criticizing, discussing, linking and sharing."
+  },
+  {
+    "startTime": 336.76,
+    "endTime": 340.575,
+    "text": "Google and YouTube already have similar systems"
+  },
+  {
+    "startTime": 340.6,
+    "endTime": 345.88,
+    "text": "and they are receiving 100,000 takedown requests every hour."
+  },
+  {
+    "startTime": 347.44,
+    "endTime": 350.656,
+    "text": "Of course, they can't process this amount of data by hand,"
+  },
+  {
+    "startTime": 350.68,
+    "endTime": 352.336,
+    "text": "so they are using machine learning"
+  },
+  {
+    "startTime": 352.36,
+    "endTime": 354.92,
+    "text": "to decide if it's really a copyright violation or not."
+  },
+  {
+    "startTime": 356.6,
+    "endTime": 360.40000000000003,
+    "text": "But these filters do make mistakes."
+  },
+  {
+    "startTime": 361.0,
+    "endTime": 366.816,
+    "text": "They're removing everything from documentation of human rights abuses,"
+  },
+  {
+    "startTime": 366.84,
+    "endTime": 369.736,
+    "text": "lectures about copyrights"
+  },
+  {
+    "startTime": 369.76,
+    "endTime": 371.976,
+    "text": "and search results"
+  },
+  {
+    "startTime": 372.0,
+    "endTime": 377.4,
+    "text": "that point to criticism of this new Article 13."
+  },
+  {
+    "startTime": 378.84,
+    "endTime": 381.599,
+    "text": "Beside of that, they are also removing many other things."
+  },
+  {
+    "startTime": 384.48,
+    "endTime": 390.776,
+    "text": "And sometimes, these filters aren't just removing the specific content,"
+  },
+  {
+    "startTime": 390.8,
+    "endTime": 395.576,
+    "text": "but it could also lead to loss of your linked accounts:"
+  },
+  {
+    "startTime": 395.6,
+    "endTime": 399.776,
+    "text": "your email address, your documents, your photos,"
+  },
+  {
+    "startTime": 399.8,
+    "endTime": 401.976,
+    "text": "or your unfinished book,"
+  },
+  {
+    "startTime": 402.0,
+    "endTime": 404.72,
+    "text": "which happened with the writer Dennis Cooper."
+  },
+  {
+    "startTime": 405.92,
+    "endTime": 410.416,
+    "text": "It's not hard to see how a system like this could be abused"
+  },
+  {
+    "startTime": 410.44,
+    "endTime": 413.64,
+    "text": "by politicians and corporate competitors."
+  },
+  {
+    "startTime": 415.76,
+    "endTime": 422.56,
+    "text": "This Article 13, the extension of these automated filters to the whole internet,"
+  },
+  {
+    "startTime": 422.8,
+    "endTime": 424.216,
+    "text": "got strong opposition"
+  },
+  {
+    "startTime": 424.24,
+    "endTime": 429.616,
+    "text": "from Wikipedia, Github, Mozilla, and many others,"
+  },
+  {
+    "startTime": 429.64,
+    "endTime": 435.176,
+    "text": "including the original founders of the internet and the World Wide Web,"
+  },
+  {
+    "startTime": 435.2,
+    "endTime": 437.8,
+    "text": "Vint Cerf and Tim Berners-Lee."
+  },
+  {
+    "startTime": 438.12,
+    "endTime": 441.16,
+    "text": "But despite this strong opposition,"
+  },
+  {
+    "startTime": 441.4,
+    "endTime": 443.416,
+    "text": "on the last European Parliament vote,"
+  },
+  {
+    "startTime": 443.44,
+    "endTime": 447.32,
+    "text": "two thirds of the representatives supported this law."
+  },
+  {
+    "startTime": 449.8,
+    "endTime": 451.8,
+    "text": "The final vote will be early 2019."
+  },
+  {
+    "startTime": 452.92,
+    "endTime": 454.896,
+    "text": "The result is important,"
+  },
+  {
+    "startTime": 454.92,
+    "endTime": 457.61600000000004,
+    "text": "but whatever happens,"
+  },
+  {
+    "startTime": 457.64,
+    "endTime": 462.936,
+    "text": "I'm pretty sure it will be followed by many other similar proposals"
+  },
+  {
+    "startTime": 462.96,
+    "endTime": 464.159,
+    "text": "around the world."
+  },
+  {
+    "startTime": 465.28,
+    "endTime": 468.455,
+    "text": "These kinds of regulations would be very hard to enforce"
+  },
+  {
+    "startTime": 468.48,
+    "endTime": 469.93600000000004,
+    "text": "through a decentralized web,"
+  },
+  {
+    "startTime": 469.96,
+    "endTime": 472.239,
+    "text": "as there is no hosting companies."
+  },
+  {
+    "startTime": 473.28,
+    "endTime": 476.28,
+    "text": "The websites are served by the visitors themselves."
+  },
+  {
+    "startTime": 478.24,
+    "endTime": 481.92,
+    "text": "I started to build this network three years ago."
+  },
+  {
+    "startTime": 483.12,
+    "endTime": 487.376,
+    "text": "Since then, I've spent thousands, tens of thousands of hours"
+  },
+  {
+    "startTime": 487.4,
+    "endTime": 488.599,
+    "text": "on the development."
+  },
+  {
+    "startTime": 489.8,
+    "endTime": 491.37600000000003,
+    "text": "Why?"
+  },
+  {
+    "startTime": 491.4,
+    "endTime": 495.176,
+    "text": "Why would anyone spend thousands of hours on something anyone can freely copy,"
+  },
+  {
+    "startTime": 495.2,
+    "endTime": 497.4,
+    "text": "rename, or even sell?"
+  },
+  {
+    "startTime": 499.6,
+    "endTime": 501.336,
+    "text": "Well, in my case,"
+  },
+  {
+    "startTime": 501.36,
+    "endTime": 503.8,
+    "text": "one of the reasons was to do something meaningful."
+  },
+  {
+    "startTime": 504.72,
+    "endTime": 507.25600000000003,
+    "text": "During my daily regular job as a web developer,"
+  },
+  {
+    "startTime": 507.28,
+    "endTime": 510.496,
+    "text": "I didn't have the feeling that I'm working on something"
+  },
+  {
+    "startTime": 510.52,
+    "endTime": 513.159,
+    "text": "that had a chance to be a bigger than me."
+  },
+  {
+    "startTime": 515.0,
+    "endTime": 518.816,
+    "text": "Simply, I just wanted to make my short presence in this world"
+  },
+  {
+    "startTime": 518.84,
+    "endTime": 520.4,
+    "text": "to be meaningful."
+  },
+  {
+    "startTime": 523.0,
+    "endTime": 528.8,
+    "text": "Last year, the Great Firewall of China started blocking this network I created."
+  },
+  {
+    "startTime": 529.4,
+    "endTime": 532.655,
+    "text": "This move officially made me the enemy"
+  },
+  {
+    "startTime": 532.679,
+    "endTime": 536.12,
+    "text": "of the government-supported internet censorship."
+  },
+  {
+    "startTime": 537.68,
+    "endTime": 540.6949999999999,
+    "text": "Since then, it's been really a game of cat and mouse."
+  },
+  {
+    "startTime": 540.72,
+    "endTime": 543.456,
+    "text": "They make new rules in the firewall"
+  },
+  {
+    "startTime": 543.48,
+    "endTime": 546.496,
+    "text": "and I try to react to it as fast as I can"
+  },
+  {
+    "startTime": 546.52,
+    "endTime": 550.616,
+    "text": "so the users can keep hosting content and create websites"
+  },
+  {
+    "startTime": 550.64,
+    "endTime": 556.0,
+    "text": "that otherwise would be censored by the centralized Chinese internet."
+  },
+  {
+    "startTime": 557.68,
+    "endTime": 561.76,
+    "text": "My other motivation to create this network was worry."
+  },
+  {
+    "startTime": 563.8,
+    "endTime": 568.2959999999999,
+    "text": "I fear that the future of our internet is out of our control."
+  },
+  {
+    "startTime": 568.32,
+    "endTime": 571.7360000000001,
+    "text": "The increasing centralization and the proposed laws"
+  },
+  {
+    "startTime": 571.76,
+    "endTime": 574.295,
+    "text": "are threatening our freedom of speech"
+  },
+  {
+    "startTime": 574.32,
+    "endTime": 576.5600000000001,
+    "text": "and, by that, our democracy."
+  },
+  {
+    "startTime": 577.44,
+    "endTime": 580.7760000000001,
+    "text": "So for me, building a decentralized web"
+  },
+  {
+    "startTime": 580.8,
+    "endTime": 584.16,
+    "text": "means creating a safe harbor,"
+  },
+  {
+    "startTime": 584.4,
+    "endTime": 590.856,
+    "text": "a space where the rules are not written by big corporations and political parties,"
+  },
+  {
+    "startTime": 590.88,
+    "endTime": 592.64,
+    "text": "but by the people."
+  },
+  {
+    "startTime": 593.84,
+    "endTime": 595.5600000000001,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 595.8,
+    "endTime": 599.4799999999999,
+    "text": "(Applause)"
+  }
+]

@@ -1,0 +1,1557 @@
+[
+  {
+    "startTime": 13.675,
+    "endTime": 16.595,
+    "text": "Belle Gibson was a happy young Australian."
+  },
+  {
+    "startTime": 16.619,
+    "endTime": 19.642,
+    "text": "She lived in Perth, and she loved skateboarding."
+  },
+  {
+    "startTime": 20.173,
+    "endTime": 24.622,
+    "text": "But in 2009, Belle learned that she had brain cancer and four months to live."
+  },
+  {
+    "startTime": 25.34,
+    "endTime": 28.567,
+    "text": "Two months of chemo and radiotherapy had no effect."
+  },
+  {
+    "startTime": 29.145,
+    "endTime": 30.645,
+    "text": "But Belle was determined."
+  },
+  {
+    "startTime": 30.669,
+    "endTime": 32.799,
+    "text": "She'd been a fighter her whole life."
+  },
+  {
+    "startTime": 32.823,
+    "endTime": 36.117,
+    "text": "From age six, she had to cook for her brother, who had autism,"
+  },
+  {
+    "startTime": 36.141,
+    "endTime": 38.528999999999996,
+    "text": "and her mother, who had multiple sclerosis."
+  },
+  {
+    "startTime": 38.553,
+    "endTime": 40.306,
+    "text": "Her father was out of the picture."
+  },
+  {
+    "startTime": 40.736,
+    "endTime": 44.22,
+    "text": "So Belle fought, with exercise, with meditation"
+  },
+  {
+    "startTime": 44.46,
+    "endTime": 46.885,
+    "text": "and by ditching meat for fruit and vegetables."
+  },
+  {
+    "startTime": 47.387,
+    "endTime": 49.587,
+    "text": "And she made a complete recovery."
+  },
+  {
+    "startTime": 50.784,
+    "endTime": 52.363,
+    "text": "Belle's story went viral."
+  },
+  {
+    "startTime": 52.387,
+    "endTime": 55.78,
+    "text": "It was tweeted, blogged about, shared and reached millions of people."
+  },
+  {
+    "startTime": 56.246,
+    "endTime": 59.357,
+    "text": "It showed the benefits of shunning traditional medicine"
+  },
+  {
+    "startTime": 59.381,
+    "endTime": 60.848,
+    "text": "for diet and exercise."
+  },
+  {
+    "startTime": 61.381,
+    "endTime": 65.879,
+    "text": "In August 2013, Belle launched a healthy eating app,"
+  },
+  {
+    "startTime": 65.903,
+    "endTime": 67.25200000000001,
+    "text": "The Whole Pantry,"
+  },
+  {
+    "startTime": 67.276,
+    "endTime": 71.298,
+    "text": "downloaded 200,000 times in the first month."
+  },
+  {
+    "startTime": 73.228,
+    "endTime": 76.27,
+    "text": "But Belle's story was a lie."
+  },
+  {
+    "startTime": 77.227,
+    "endTime": 78.76100000000001,
+    "text": "Belle never had cancer."
+  },
+  {
+    "startTime": 79.601,
+    "endTime": 83.734,
+    "text": "People shared her story without ever checking if it was true."
+  },
+  {
+    "startTime": 84.815,
+    "endTime": 88.35,
+    "text": "This is a classic example of confirmation bias."
+  },
+  {
+    "startTime": 88.403,
+    "endTime": 93.79,
+    "text": "We accept a story uncritically if it confirms what we'd like to be true."
+  },
+  {
+    "startTime": 93.484,
+    "endTime": 95.99,
+    "text": "And we reject any story that contradicts it."
+  },
+  {
+    "startTime": 96.937,
+    "endTime": 98.762,
+    "text": "How often do we see this"
+  },
+  {
+    "startTime": 98.786,
+    "endTime": 101.831,
+    "text": "in the stories that we share and we ignore?"
+  },
+  {
+    "startTime": 101.855,
+    "endTime": 106.37,
+    "text": "In politics, in business, in health advice."
+  },
+  {
+    "startTime": 107.18,
+    "endTime": 111.286,
+    "text": "The Oxford Dictionary's word of 2016 was \"post-truth.\""
+  },
+  {
+    "startTime": 111.768,
+    "endTime": 115.26,
+    "text": "And the recognition that we now live in a post-truth world"
+  },
+  {
+    "startTime": 115.284,
+    "endTime": 118.64800000000001,
+    "text": "has led to a much needed emphasis on checking the facts."
+  },
+  {
+    "startTime": 119.339,
+    "endTime": 120.736,
+    "text": "But the punch line of my talk"
+  },
+  {
+    "startTime": 120.76,
+    "endTime": 123.751,
+    "text": "is that just checking the facts is not enough."
+  },
+  {
+    "startTime": 124.347,
+    "endTime": 127.274,
+    "text": "Even if Belle's story were true,"
+  },
+  {
+    "startTime": 127.298,
+    "endTime": 129.365,
+    "text": "it would be just as irrelevant."
+  },
+  {
+    "startTime": 130.457,
+    "endTime": 131.607,
+    "text": "Why?"
+  },
+  {
+    "startTime": 131.957,
+    "endTime": 135.465,
+    "text": "Well, let's look at one of the most fundamental techniques in statistics."
+  },
+  {
+    "startTime": 135.489,
+    "endTime": 137.899,
+    "text": "It's called Bayesian inference."
+  },
+  {
+    "startTime": 138.251,
+    "endTime": 141.187,
+    "text": "And the very simple version is this:"
+  },
+  {
+    "startTime": 141.211,
+    "endTime": 144.479,
+    "text": "We care about \"does the data support the theory?\""
+  },
+  {
+    "startTime": 145.53,
+    "endTime": 148.50900000000001,
+    "text": "Does the data increase our belief that the theory is true?"
+  },
+  {
+    "startTime": 149.52,
+    "endTime": 153.90300000000002,
+    "text": "But instead, we end up asking, \"Is the data consistent with the theory?\""
+  },
+  {
+    "startTime": 154.838,
+    "endTime": 157.352,
+    "text": "But being consistent with the theory"
+  },
+  {
+    "startTime": 157.377,
+    "endTime": 160.306,
+    "text": "does not mean that the data supports the theory."
+  },
+  {
+    "startTime": 160.799,
+    "endTime": 161.958,
+    "text": "Why?"
+  },
+  {
+    "startTime": 161.982,
+    "endTime": 165.807,
+    "text": "Because of a crucial but forgotten third term --"
+  },
+  {
+    "startTime": 165.831,
+    "endTime": 169.38799999999998,
+    "text": "the data could also be consistent with rival theories."
+  },
+  {
+    "startTime": 169.918,
+    "endTime": 174.585,
+    "text": "But due to confirmation bias, we never consider the rival theories,"
+  },
+  {
+    "startTime": 174.609,
+    "endTime": 177.76000000000002,
+    "text": "because we're so protective of our own pet theory."
+  },
+  {
+    "startTime": 178.688,
+    "endTime": 181.101,
+    "text": "Now, let's look at this for Belle's story."
+  },
+  {
+    "startTime": 181.125,
+    "endTime": 185.339,
+    "text": "Well, we care about: Does Belle's story support the theory"
+  },
+  {
+    "startTime": 185.363,
+    "endTime": 186.966,
+    "text": "that diet cures cancer?"
+  },
+  {
+    "startTime": 186.99,
+    "endTime": 188.77700000000002,
+    "text": "But instead, we end up asking,"
+  },
+  {
+    "startTime": 188.801,
+    "endTime": 192.845,
+    "text": "\"Is Belle's story consistent with diet curing cancer?\""
+  },
+  {
+    "startTime": 193.79,
+    "endTime": 195.394,
+    "text": "And the answer is yes."
+  },
+  {
+    "startTime": 195.839,
+    "endTime": 199.942,
+    "text": "If diet did cure cancer, we'd see stories like Belle's."
+  },
+  {
+    "startTime": 200.839,
+    "endTime": 203.688,
+    "text": "But even if diet did not cure cancer,"
+  },
+  {
+    "startTime": 203.712,
+    "endTime": 206.355,
+    "text": "we'd still see stories like Belle's."
+  },
+  {
+    "startTime": 206.744,
+    "endTime": 211.934,
+    "text": "A single story in which a patient apparently self-cured"
+  },
+  {
+    "startTime": 211.958,
+    "endTime": 215.132,
+    "text": "just due to being misdiagnosed in the first place."
+  },
+  {
+    "startTime": 215.68,
+    "endTime": 219.6,
+    "text": "Just like, even if smoking was bad for your health,"
+  },
+  {
+    "startTime": 219.3,
+    "endTime": 222.334,
+    "text": "you'd still see one smoker who lived until 100."
+  },
+  {
+    "startTime": 222.664,
+    "endTime": 223.814,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 224.157,
+    "endTime": 226.71900000000002,
+    "text": "Just like, even if education was good for your income,"
+  },
+  {
+    "startTime": 226.743,
+    "endTime": 231.24,
+    "text": "you'd still see one multimillionaire who didn't go to university."
+  },
+  {
+    "startTime": 231.48,
+    "endTime": 236.32,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 236.56,
+    "endTime": 239.967,
+    "text": "So the biggest problem with Belle's story is not that it was false."
+  },
+  {
+    "startTime": 239.991,
+    "endTime": 242.52200000000002,
+    "text": "It's that it's only one story."
+  },
+  {
+    "startTime": 243.94,
+    "endTime": 247.475,
+    "text": "There might be thousands of other stories where diet alone failed,"
+  },
+  {
+    "startTime": 247.499,
+    "endTime": 249.433,
+    "text": "but we never hear about them."
+  },
+  {
+    "startTime": 250.141,
+    "endTime": 254.35999999999999,
+    "text": "We share the outlier cases because they are new,"
+  },
+  {
+    "startTime": 254.61,
+    "endTime": 255.92800000000003,
+    "text": "and therefore they are news."
+  },
+  {
+    "startTime": 256.656,
+    "endTime": 259.132,
+    "text": "We never share the ordinary cases."
+  },
+  {
+    "startTime": 259.156,
+    "endTime": 262.37,
+    "text": "They're too ordinary, they're what normally happens."
+  },
+  {
+    "startTime": 263.125,
+    "endTime": 266.22,
+    "text": "And that's the true 99 percent that we ignore."
+  },
+  {
+    "startTime": 266.244,
+    "endTime": 269.21200000000005,
+    "text": "Just like in society, you can't just listen to the one percent,"
+  },
+  {
+    "startTime": 269.236,
+    "endTime": 270.394,
+    "text": "the outliers,"
+  },
+  {
+    "startTime": 270.418,
+    "endTime": 273.84000000000003,
+    "text": "and ignore the 99 percent, the ordinary."
+  },
+  {
+    "startTime": 274.22,
+    "endTime": 277.276,
+    "text": "Because that's the second example of confirmation bias."
+  },
+  {
+    "startTime": 277.3,
+    "endTime": 280.69,
+    "text": "We accept a fact as data."
+  },
+  {
+    "startTime": 281.38,
+    "endTime": 285.6,
+    "text": "The biggest problem is not that we live in a post-truth world;"
+  },
+  {
+    "startTime": 285.3,
+    "endTime": 288.79900000000004,
+    "text": "it's that we live in a post-data world."
+  },
+  {
+    "startTime": 289.792,
+    "endTime": 293.536,
+    "text": "We prefer a single story to tons of data."
+  },
+  {
+    "startTime": 294.752,
+    "endTime": 297.76800000000003,
+    "text": "Now, stories are powerful, they're vivid, they bring it to life."
+  },
+  {
+    "startTime": 297.792,
+    "endTime": 300.13,
+    "text": "They tell you to start every talk with a story."
+  },
+  {
+    "startTime": 300.38,
+    "endTime": 301.188,
+    "text": "I did."
+  },
+  {
+    "startTime": 301.696,
+    "endTime": 306.45000000000005,
+    "text": "But a single story is meaningless and misleading"
+  },
+  {
+    "startTime": 306.474,
+    "endTime": 309.323,
+    "text": "unless it's backed up by large-scale data."
+  },
+  {
+    "startTime": 311.236,
+    "endTime": 313.593,
+    "text": "But even if we had large-scale data,"
+  },
+  {
+    "startTime": 313.617,
+    "endTime": 315.77500000000003,
+    "text": "that might still not be enough."
+  },
+  {
+    "startTime": 316.26,
+    "endTime": 319.397,
+    "text": "Because it could still be consistent with rival theories."
+  },
+  {
+    "startTime": 320.136,
+    "endTime": 321.286,
+    "text": "Let me explain."
+  },
+  {
+    "startTime": 322.72,
+    "endTime": 325.334,
+    "text": "A classic study by psychologist Peter Wason"
+  },
+  {
+    "startTime": 325.358,
+    "endTime": 327.31,
+    "text": "gives you a set of three numbers"
+  },
+  {
+    "startTime": 327.334,
+    "endTime": 330.239,
+    "text": "and asks you to think of the rule that generated them."
+  },
+  {
+    "startTime": 330.585,
+    "endTime": 335.60999999999996,
+    "text": "So if you're given two, four, six,"
+  },
+  {
+    "startTime": 335.85,
+    "endTime": 336.23400000000004,
+    "text": "what's the rule?"
+  },
+  {
+    "startTime": 336.895,
+    "endTime": 340.114,
+    "text": "Well, most people would think, it's successive even numbers."
+  },
+  {
+    "startTime": 340.767,
+    "endTime": 342.282,
+    "text": "How would you test it?"
+  },
+  {
+    "startTime": 342.306,
+    "endTime": 345.568,
+    "text": "Well, you'd propose other sets of successive even numbers:"
+  },
+  {
+    "startTime": 345.592,
+    "endTime": 348.909,
+    "text": "4, 6, 8 or 12, 14, 16."
+  },
+  {
+    "startTime": 349.546,
+    "endTime": 352.346,
+    "text": "And Peter would say these sets also work."
+  },
+  {
+    "startTime": 353.124,
+    "endTime": 355.68800000000005,
+    "text": "But knowing that these sets also work,"
+  },
+  {
+    "startTime": 355.712,
+    "endTime": 360.477,
+    "text": "knowing that perhaps hundreds of sets of successive even numbers also work,"
+  },
+  {
+    "startTime": 360.501,
+    "endTime": 361.849,
+    "text": "tells you nothing."
+  },
+  {
+    "startTime": 362.572,
+    "endTime": 365.93,
+    "text": "Because this is still consistent with rival theories."
+  },
+  {
+    "startTime": 366.889,
+    "endTime": 370.94,
+    "text": "Perhaps the rule is any three even numbers."
+  },
+  {
+    "startTime": 371.0,
+    "endTime": 373.133,
+    "text": "Or any three increasing numbers."
+  },
+  {
+    "startTime": 374.365,
+    "endTime": 377.253,
+    "text": "And that's the third example of confirmation bias:"
+  },
+  {
+    "startTime": 377.277,
+    "endTime": 380.966,
+    "text": "accepting data as evidence,"
+  },
+  {
+    "startTime": 380.99,
+    "endTime": 383.99,
+    "text": "even if it's consistent with rival theories."
+  },
+  {
+    "startTime": 384.704,
+    "endTime": 387.656,
+    "text": "Data is just a collection of facts."
+  },
+  {
+    "startTime": 388.402,
+    "endTime": 393.325,
+    "text": "Evidence is data that supports one theory and rules out others."
+  },
+  {
+    "startTime": 394.665,
+    "endTime": 397.148,
+    "text": "So the best way to support your theory"
+  },
+  {
+    "startTime": 397.172,
+    "endTime": 401.10200000000003,
+    "text": "is actually to try to disprove it, to play devil's advocate."
+  },
+  {
+    "startTime": 401.466,
+    "endTime": 406.184,
+    "text": "So test something, like 4, 12, 26."
+  },
+  {
+    "startTime": 406.938,
+    "endTime": 410.621,
+    "text": "If you got a yes to that, that would disprove your theory"
+  },
+  {
+    "startTime": 410.645,
+    "endTime": 412.58,
+    "text": "of successive even numbers."
+  },
+  {
+    "startTime": 413.232,
+    "endTime": 415.24800000000005,
+    "text": "Yet this test is powerful,"
+  },
+  {
+    "startTime": 415.272,
+    "endTime": 420.117,
+    "text": "because if you got a no, it would rule out \"any three even numbers\""
+  },
+  {
+    "startTime": 420.141,
+    "endTime": 421.853,
+    "text": "and \"any three increasing numbers.\""
+  },
+  {
+    "startTime": 421.877,
+    "endTime": 425.218,
+    "text": "It would rule out the rival theories, but not rule out yours."
+  },
+  {
+    "startTime": 425.968,
+    "endTime": 430.762,
+    "text": "But most people are too afraid of testing the 4, 12, 26,"
+  },
+  {
+    "startTime": 430.786,
+    "endTime": 434.949,
+    "text": "because they don't want to get a yes and prove their pet theory to be wrong."
+  },
+  {
+    "startTime": 436.727,
+    "endTime": 442.402,
+    "text": "Confirmation bias is not only about failing to search for new data,"
+  },
+  {
+    "startTime": 442.427,
+    "endTime": 445.5,
+    "text": "but it's also about misinterpreting data once you receive it."
+  },
+  {
+    "startTime": 446.339,
+    "endTime": 449.887,
+    "text": "And this applies outside the lab to important, real-world problems."
+  },
+  {
+    "startTime": 449.911,
+    "endTime": 453.22,
+    "text": "Indeed, Thomas Edison famously said,"
+  },
+  {
+    "startTime": 453.244,
+    "endTime": 455.132,
+    "text": "\"I have not failed,"
+  },
+  {
+    "startTime": 455.156,
+    "endTime": 459.344,
+    "text": "I have found 10,000 ways that won't work.\""
+  },
+  {
+    "startTime": 460.281,
+    "endTime": 462.908,
+    "text": "Finding out that you're wrong"
+  },
+  {
+    "startTime": 462.932,
+    "endTime": 465.665,
+    "text": "is the only way to find out what's right."
+  },
+  {
+    "startTime": 466.654,
+    "endTime": 469.6,
+    "text": "Say you're a university admissions director"
+  },
+  {
+    "startTime": 469.624,
+    "endTime": 472.187,
+    "text": "and your theory is that only students with good grades"
+  },
+  {
+    "startTime": 472.211,
+    "endTime": 473.974,
+    "text": "from rich families do well."
+  },
+  {
+    "startTime": 474.339,
+    "endTime": 476.529,
+    "text": "So you only let in such students."
+  },
+  {
+    "startTime": 476.553,
+    "endTime": 477.703,
+    "text": "And they do well."
+  },
+  {
+    "startTime": 478.482,
+    "endTime": 481.254,
+    "text": "But that's also consistent with the rival theory."
+  },
+  {
+    "startTime": 481.593,
+    "endTime": 484.34000000000003,
+    "text": "Perhaps all students with good grades do well,"
+  },
+  {
+    "startTime": 484.364,
+    "endTime": 485.544,
+    "text": "rich or poor."
+  },
+  {
+    "startTime": 486.307,
+    "endTime": 490.37,
+    "text": "But you never test that theory because you never let in poor students"
+  },
+  {
+    "startTime": 490.61,
+    "endTime": 492.861,
+    "text": "because you don't want to be proven wrong."
+  },
+  {
+    "startTime": 494.577,
+    "endTime": 496.434,
+    "text": "So, what have we learned?"
+  },
+  {
+    "startTime": 497.315,
+    "endTime": 500.875,
+    "text": "A story is not fact, because it may not be true."
+  },
+  {
+    "startTime": 501.498,
+    "endTime": 503.585,
+    "text": "A fact is not data,"
+  },
+  {
+    "startTime": 503.609,
+    "endTime": 507.647,
+    "text": "it may not be representative if it's only one data point."
+  },
+  {
+    "startTime": 508.68,
+    "endTime": 511.29,
+    "text": "And data is not evidence --"
+  },
+  {
+    "startTime": 511.53,
+    "endTime": 514.731,
+    "text": "it may not be supportive if it's consistent with rival theories."
+  },
+  {
+    "startTime": 516.145,
+    "endTime": 518.423,
+    "text": "So, what do you do?"
+  },
+  {
+    "startTime": 519.464,
+    "endTime": 522.1460000000001,
+    "text": "When you're at the inflection points of life,"
+  },
+  {
+    "startTime": 522.169,
+    "endTime": 524.736,
+    "text": "deciding on a strategy for your business,"
+  },
+  {
+    "startTime": 524.76,
+    "endTime": 527.371,
+    "text": "a parenting technique for your child"
+  },
+  {
+    "startTime": 527.395,
+    "endTime": 529.823,
+    "text": "or a regimen for your health,"
+  },
+  {
+    "startTime": 529.847,
+    "endTime": 533.386,
+    "text": "how do you ensure that you don't have a story"
+  },
+  {
+    "startTime": 533.41,
+    "endTime": 534.877,
+    "text": "but you have evidence?"
+  },
+  {
+    "startTime": 536.268,
+    "endTime": 537.8870000000001,
+    "text": "Let me give you three tips."
+  },
+  {
+    "startTime": 538.641,
+    "endTime": 542.625,
+    "text": "The first is to actively seek other viewpoints."
+  },
+  {
+    "startTime": 542.649,
+    "endTime": 546.243,
+    "text": "Read and listen to people you flagrantly disagree with."
+  },
+  {
+    "startTime": 546.267,
+    "endTime": 549.7550000000001,
+    "text": "Ninety percent of what they say may be wrong, in your view."
+  },
+  {
+    "startTime": 550.728,
+    "endTime": 552.861,
+    "text": "But what if 10 percent is right?"
+  },
+  {
+    "startTime": 553.851,
+    "endTime": 555.47,
+    "text": "As Aristotle said,"
+  },
+  {
+    "startTime": 555.494,
+    "endTime": 557.7080000000001,
+    "text": "\"The mark of an educated man"
+  },
+  {
+    "startTime": 557.732,
+    "endTime": 561.129,
+    "text": "is the ability to entertain a thought"
+  },
+  {
+    "startTime": 561.153,
+    "endTime": 563.486,
+    "text": "without necessarily accepting it.\""
+  },
+  {
+    "startTime": 564.649,
+    "endTime": 566.903,
+    "text": "Surround yourself with people who challenge you,"
+  },
+  {
+    "startTime": 566.917,
+    "endTime": 570.616,
+    "text": "and create a culture that actively encourages dissent."
+  },
+  {
+    "startTime": 571.347,
+    "endTime": 573.665,
+    "text": "Some banks suffered from groupthink,"
+  },
+  {
+    "startTime": 573.689,
+    "endTime": 577.997,
+    "text": "where staff were too afraid to challenge management's lending decisions,"
+  },
+  {
+    "startTime": 578.22,
+    "endTime": 580.488,
+    "text": "contributing to the financial crisis."
+  },
+  {
+    "startTime": 581.29,
+    "endTime": 585.228,
+    "text": "In a meeting, appoint someone to be devil's advocate"
+  },
+  {
+    "startTime": 585.252,
+    "endTime": 586.894,
+    "text": "against your pet idea."
+  },
+  {
+    "startTime": 587.72,
+    "endTime": 590.291,
+    "text": "And don't just hear another viewpoint --"
+  },
+  {
+    "startTime": 590.315,
+    "endTime": 592.4910000000001,
+    "text": "listen to it, as well."
+  },
+  {
+    "startTime": 593.389,
+    "endTime": 595.793,
+    "text": "As psychologist Stephen Covey said,"
+  },
+  {
+    "startTime": 595.817,
+    "endTime": 599.214,
+    "text": "\"Listen with the intent to understand,"
+  },
+  {
+    "startTime": 599.238,
+    "endTime": 600.9040000000001,
+    "text": "not the intent to reply.\""
+  },
+  {
+    "startTime": 601.642,
+    "endTime": 605.134,
+    "text": "A dissenting viewpoint is something to learn from"
+  },
+  {
+    "startTime": 605.158,
+    "endTime": 606.706,
+    "text": "not to argue against."
+  },
+  {
+    "startTime": 607.69,
+    "endTime": 611.556,
+    "text": "Which takes us to the other forgotten terms in Bayesian inference."
+  },
+  {
+    "startTime": 612.198,
+    "endTime": 614.521,
+    "text": "Because data allows you to learn,"
+  },
+  {
+    "startTime": 614.546,
+    "endTime": 618.61,
+    "text": "but learning is only relative to a starting point."
+  },
+  {
+    "startTime": 618.85,
+    "endTime": 623.801,
+    "text": "If you started with complete certainty that your pet theory must be true,"
+  },
+  {
+    "startTime": 623.825,
+    "endTime": 625.7220000000001,
+    "text": "then your view won't change --"
+  },
+  {
+    "startTime": 625.746,
+    "endTime": 628.212,
+    "text": "regardless of what data you see."
+  },
+  {
+    "startTime": 628.641,
+    "endTime": 633.31,
+    "text": "Only if you are truly open to the possibility of being wrong"
+  },
+  {
+    "startTime": 633.56,
+    "endTime": 634.323,
+    "text": "can you ever learn."
+  },
+  {
+    "startTime": 635.58,
+    "endTime": 637.6750000000001,
+    "text": "As Leo Tolstoy wrote,"
+  },
+  {
+    "startTime": 637.699,
+    "endTime": 639.881,
+    "text": "\"The most difficult subjects"
+  },
+  {
+    "startTime": 639.905,
+    "endTime": 643.4,
+    "text": "can be explained to the most slow-witted man"
+  },
+  {
+    "startTime": 643.64,
+    "endTime": 645.817,
+    "text": "if he has not formed any idea of them already."
+  },
+  {
+    "startTime": 646.365,
+    "endTime": 648.238,
+    "text": "But the simplest thing"
+  },
+  {
+    "startTime": 648.262,
+    "endTime": 651.333,
+    "text": "cannot be made clear to the most intelligent man"
+  },
+  {
+    "startTime": 651.357,
+    "endTime": 654.6899999999999,
+    "text": "if he is firmly persuaded that he knows already.\""
+  },
+  {
+    "startTime": 656.5,
+    "endTime": 660.243,
+    "text": "Tip number two is \"listen to experts.\""
+  },
+  {
+    "startTime": 661.4,
+    "endTime": 664.531,
+    "text": "Now, that's perhaps the most unpopular advice that I could give you."
+  },
+  {
+    "startTime": 664.556,
+    "endTime": 665.7760000000001,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 665.8,
+    "endTime": 670.538,
+    "text": "British politician Michael Gove famously said that people in this country"
+  },
+  {
+    "startTime": 670.562,
+    "endTime": 672.838,
+    "text": "have had enough of experts."
+  },
+  {
+    "startTime": 673.696,
+    "endTime": 677.2040000000001,
+    "text": "A recent poll showed that more people would trust their hairdresser --"
+  },
+  {
+    "startTime": 677.228,
+    "endTime": 679.512,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 679.537,
+    "endTime": 681.37,
+    "text": "or the man on the street"
+  },
+  {
+    "startTime": 681.394,
+    "endTime": 685.699,
+    "text": "than they would leaders of businesses, the health service and even charities."
+  },
+  {
+    "startTime": 686.227,
+    "endTime": 690.204,
+    "text": "So we respect a teeth-whitening formula discovered by a mom,"
+  },
+  {
+    "startTime": 690.228,
+    "endTime": 693.425,
+    "text": "or we listen to an actress's view on vaccination."
+  },
+  {
+    "startTime": 693.45,
+    "endTime": 696.315,
+    "text": "We like people who tell it like it is, who go with their gut,"
+  },
+  {
+    "startTime": 696.339,
+    "endTime": 698.139,
+    "text": "and we call them authentic."
+  },
+  {
+    "startTime": 698.847,
+    "endTime": 702.61,
+    "text": "But gut feel can only get you so far."
+  },
+  {
+    "startTime": 702.736,
+    "endTime": 707.172,
+    "text": "Gut feel would tell you never to give water to a baby with diarrhea,"
+  },
+  {
+    "startTime": 707.196,
+    "endTime": 709.514,
+    "text": "because it would just flow out the other end."
+  },
+  {
+    "startTime": 709.538,
+    "endTime": 712.116,
+    "text": "Expertise tells you otherwise."
+  },
+  {
+    "startTime": 713.149,
+    "endTime": 716.577,
+    "text": "You'd never trust your surgery to the man on the street."
+  },
+  {
+    "startTime": 716.887,
+    "endTime": 720.473,
+    "text": "You'd want an expert who spent years doing surgery"
+  },
+  {
+    "startTime": 720.498,
+    "endTime": 722.498,
+    "text": "and knows the best techniques."
+  },
+  {
+    "startTime": 723.514,
+    "endTime": 726.647,
+    "text": "But that should apply to every major decision."
+  },
+  {
+    "startTime": 727.255,
+    "endTime": 731.811,
+    "text": "Politics, business, health advice"
+  },
+  {
+    "startTime": 731.835,
+    "endTime": 734.731,
+    "text": "require expertise, just like surgery."
+  },
+  {
+    "startTime": 736.474,
+    "endTime": 740.13,
+    "text": "So then, why are experts so mistrusted?"
+  },
+  {
+    "startTime": 740.981,
+    "endTime": 744.22,
+    "text": "Well, one reason is they're seen as out of touch."
+  },
+  {
+    "startTime": 744.244,
+    "endTime": 748.3340000000001,
+    "text": "A millionaire CEO couldn't possibly speak for the man on the street."
+  },
+  {
+    "startTime": 749.455,
+    "endTime": 753.14,
+    "text": "But true expertise is found on evidence."
+  },
+  {
+    "startTime": 753.447,
+    "endTime": 756.352,
+    "text": "And evidence stands up for the man on the street"
+  },
+  {
+    "startTime": 756.376,
+    "endTime": 757.909,
+    "text": "and against the elites."
+  },
+  {
+    "startTime": 758.456,
+    "endTime": 761.123,
+    "text": "Because evidence forces you to prove it."
+  },
+  {
+    "startTime": 761.774,
+    "endTime": 766.195,
+    "text": "Evidence prevents the elites from imposing their own view"
+  },
+  {
+    "startTime": 766.219,
+    "endTime": 767.369,
+    "text": "without proof."
+  },
+  {
+    "startTime": 769.6,
+    "endTime": 771.77,
+    "text": "A second reason why experts are not trusted"
+  },
+  {
+    "startTime": 771.101,
+    "endTime": 774.188,
+    "text": "is that different experts say different things."
+  },
+  {
+    "startTime": 774.212,
+    "endTime": 778.688,
+    "text": "For every expert who claimed that leaving the EU would be bad for Britain,"
+  },
+  {
+    "startTime": 778.712,
+    "endTime": 781.141,
+    "text": "another expert claimed it would be good."
+  },
+  {
+    "startTime": 781.165,
+    "endTime": 784.932,
+    "text": "Half of these so-called experts will be wrong."
+  },
+  {
+    "startTime": 785.774,
+    "endTime": 790.17,
+    "text": "And I have to admit that most papers written by experts are wrong."
+  },
+  {
+    "startTime": 790.52,
+    "endTime": 794.25,
+    "text": "Or at best, make claims that the evidence doesn't actually support."
+  },
+  {
+    "startTime": 794.99,
+    "endTime": 798.123,
+    "text": "So we can't just take an expert's word for it."
+  },
+  {
+    "startTime": 798.776,
+    "endTime": 804.81,
+    "text": "In November 2016, a study on executive pay hit national headlines."
+  },
+  {
+    "startTime": 805.24,
+    "endTime": 808.13,
+    "text": "Even though none of the newspapers who covered the study"
+  },
+  {
+    "startTime": 808.154,
+    "endTime": 809.754,
+    "text": "had even seen the study."
+  },
+  {
+    "startTime": 810.685,
+    "endTime": 812.218,
+    "text": "It wasn't even out yet."
+  },
+  {
+    "startTime": 812.708,
+    "endTime": 814.911,
+    "text": "They just took the author's word for it,"
+  },
+  {
+    "startTime": 815.768,
+    "endTime": 817.168,
+    "text": "just like with Belle."
+  },
+  {
+    "startTime": 818.93,
+    "endTime": 820.529,
+    "text": "Nor does it mean that we can just handpick any study"
+  },
+  {
+    "startTime": 820.553,
+    "endTime": 822.664,
+    "text": "that happens to support our viewpoint --"
+  },
+  {
+    "startTime": 822.688,
+    "endTime": 824.79,
+    "text": "that would, again, be confirmation bias."
+  },
+  {
+    "startTime": 824.815,
+    "endTime": 827.37,
+    "text": "Nor does it mean that if seven studies show A"
+  },
+  {
+    "startTime": 827.394,
+    "endTime": 829.62,
+    "text": "and three show B,"
+  },
+  {
+    "startTime": 829.86,
+    "endTime": 830.569,
+    "text": "that A must be true."
+  },
+  {
+    "startTime": 831.109,
+    "endTime": 833.768,
+    "text": "What matters is the quality,"
+  },
+  {
+    "startTime": 833.792,
+    "endTime": 836.609,
+    "text": "and not the quantity of expertise."
+  },
+  {
+    "startTime": 837.879,
+    "endTime": 839.679,
+    "text": "So we should do two things."
+  },
+  {
+    "startTime": 840.434,
+    "endTime": 845.12,
+    "text": "First, we should critically examine the credentials of the authors."
+  },
+  {
+    "startTime": 845.807,
+    "endTime": 849.95,
+    "text": "Just like you'd critically examine the credentials of a potential surgeon."
+  },
+  {
+    "startTime": 850.347,
+    "endTime": 853.553,
+    "text": "Are they truly experts in the matter,"
+  },
+  {
+    "startTime": 853.577,
+    "endTime": 855.844,
+    "text": "or do they have a vested interest?"
+  },
+  {
+    "startTime": 856.768,
+    "endTime": 859.291,
+    "text": "Second, we should pay particular attention"
+  },
+  {
+    "startTime": 859.315,
+    "endTime": 863.2040000000001,
+    "text": "to papers published in the top academic journals."
+  },
+  {
+    "startTime": 864.38,
+    "endTime": 867.899,
+    "text": "Now, academics are often accused of being detached from the real world."
+  },
+  {
+    "startTime": 868.585,
+    "endTime": 872.315,
+    "text": "But this detachment gives you years to spend on a study."
+  },
+  {
+    "startTime": 872.339,
+    "endTime": 874.244,
+    "text": "To really nail down a result,"
+  },
+  {
+    "startTime": 874.268,
+    "endTime": 876.283,
+    "text": "to rule out those rival theories,"
+  },
+  {
+    "startTime": 876.307,
+    "endTime": 879.441,
+    "text": "and to distinguish correlation from causation."
+  },
+  {
+    "startTime": 880.172,
+    "endTime": 883.649,
+    "text": "And academic journals involve peer review,"
+  },
+  {
+    "startTime": 883.673,
+    "endTime": 885.967,
+    "text": "where a paper is rigorously scrutinized"
+  },
+  {
+    "startTime": 885.991,
+    "endTime": 887.41,
+    "text": "(Laughter)"
+  },
+  {
+    "startTime": 887.434,
+    "endTime": 889.367,
+    "text": "by the world's leading minds."
+  },
+  {
+    "startTime": 890.434,
+    "endTime": 892.99,
+    "text": "The better the journal, the higher the standard."
+  },
+  {
+    "startTime": 893.14,
+    "endTime": 898.162,
+    "text": "The most elite journals reject 95 percent of papers."
+  },
+  {
+    "startTime": 899.434,
+    "endTime": 902.766,
+    "text": "Now, academic evidence is not everything."
+  },
+  {
+    "startTime": 903.109,
+    "endTime": 905.7760000000001,
+    "text": "Real-world experience is critical, also."
+  },
+  {
+    "startTime": 906.465,
+    "endTime": 909.865,
+    "text": "And peer review is not perfect, mistakes are made."
+  },
+  {
+    "startTime": 910.53,
+    "endTime": 912.593,
+    "text": "But it's better to go with something checked"
+  },
+  {
+    "startTime": 912.617,
+    "endTime": 914.284,
+    "text": "than something unchecked."
+  },
+  {
+    "startTime": 914.696,
+    "endTime": 917.895,
+    "text": "If we latch onto a study because we like the findings,"
+  },
+  {
+    "startTime": 917.919,
+    "endTime": 921.807,
+    "text": "without considering who it's by or whether it's even been vetted,"
+  },
+  {
+    "startTime": 921.831,
+    "endTime": 925.458,
+    "text": "there is a massive chance that that study is misleading."
+  },
+  {
+    "startTime": 926.894,
+    "endTime": 929.474,
+    "text": "And those of us who claim to be experts"
+  },
+  {
+    "startTime": 929.498,
+    "endTime": 932.7510000000001,
+    "text": "should recognize the limitations of our analysis."
+  },
+  {
+    "startTime": 933.244,
+    "endTime": 937.807,
+    "text": "Very rarely is it possible to prove or predict something with certainty,"
+  },
+  {
+    "startTime": 938.292,
+    "endTime": 942.6610000000001,
+    "text": "yet it's so tempting to make a sweeping, unqualified statement."
+  },
+  {
+    "startTime": 943.69,
+    "endTime": 947.413,
+    "text": "It's easier to turn into a headline or to be tweeted in 140 characters."
+  },
+  {
+    "startTime": 948.417,
+    "endTime": 951.5590000000001,
+    "text": "But even evidence may not be proof."
+  },
+  {
+    "startTime": 952.481,
+    "endTime": 956.691,
+    "text": "It may not be universal, it may not apply in every setting."
+  },
+  {
+    "startTime": 957.252,
+    "endTime": 962.1709999999999,
+    "text": "So don't say, \"Red wine causes longer life,\""
+  },
+  {
+    "startTime": 962.196,
+    "endTime": 966.878,
+    "text": "when the evidence is only that red wine is correlated with longer life."
+  },
+  {
+    "startTime": 967.379,
+    "endTime": 970.149,
+    "text": "And only then in people who exercise as well."
+  },
+  {
+    "startTime": 971.868,
+    "endTime": 975.8340000000001,
+    "text": "Tip number three is \"pause before sharing anything.\""
+  },
+  {
+    "startTime": 976.907,
+    "endTime": 980.3710000000001,
+    "text": "The Hippocratic oath says, \"First, do no harm.\""
+  },
+  {
+    "startTime": 981.46,
+    "endTime": 984.1800000000001,
+    "text": "What we share is potentially contagious,"
+  },
+  {
+    "startTime": 984.204,
+    "endTime": 987.887,
+    "text": "so be very careful about what we spread."
+  },
+  {
+    "startTime": 988.632,
+    "endTime": 991.584,
+    "text": "Our goal should not be to get likes or retweets."
+  },
+  {
+    "startTime": 991.609,
+    "endTime": 995.594,
+    "text": "Otherwise, we only share the consensus; we don't challenge anyone's thinking."
+  },
+  {
+    "startTime": 996.85,
+    "endTime": 998.99,
+    "text": "Otherwise, we only share what sounds good,"
+  },
+  {
+    "startTime": 999.14,
+    "endTime": 1001.414,
+    "text": "regardless of whether it's evidence."
+  },
+  {
+    "startTime": 1002.19,
+    "endTime": 1004.6560000000001,
+    "text": "Instead, we should ask the following:"
+  },
+  {
+    "startTime": 1005.57,
+    "endTime": 1007.705,
+    "text": "If it's a story, is it true?"
+  },
+  {
+    "startTime": 1007.73,
+    "endTime": 1010.595,
+    "text": "If it's true, is it backed up by large-scale evidence?"
+  },
+  {
+    "startTime": 1010.62,
+    "endTime": 1013.215,
+    "text": "If it is, who is it by, what are their credentials?"
+  },
+  {
+    "startTime": 1013.24,
+    "endTime": 1015.996,
+    "text": "Is it published, how rigorous is the journal?"
+  },
+  {
+    "startTime": 1016.73,
+    "endTime": 1019.4970000000001,
+    "text": "And ask yourself the million-dollar question:"
+  },
+  {
+    "startTime": 1019.98,
+    "endTime": 1024.2,
+    "text": "If the same study was written by the same authors with the same credentials"
+  },
+  {
+    "startTime": 1025.13,
+    "endTime": 1026.717,
+    "text": "but found the opposite results,"
+  },
+  {
+    "startTime": 1027.61,
+    "endTime": 1031.3029999999999,
+    "text": "would you still be willing to believe it and to share it?"
+  },
+  {
+    "startTime": 1033.44,
+    "endTime": 1035.6860000000001,
+    "text": "Treating any problem --"
+  },
+  {
+    "startTime": 1035.71,
+    "endTime": 1039.501,
+    "text": "a nation's economic problem or an individual's health problem,"
+  },
+  {
+    "startTime": 1039.53,
+    "endTime": 1040.68,
+    "text": "is difficult."
+  },
+  {
+    "startTime": 1041.24,
+    "endTime": 1045.623,
+    "text": "So we must ensure that we have the very best evidence to guide us."
+  },
+  {
+    "startTime": 1046.19,
+    "endTime": 1048.871,
+    "text": "Only if it's true can it be fact."
+  },
+  {
+    "startTime": 1049.6,
+    "endTime": 1052.3809999999999,
+    "text": "Only if it's representative can it be data."
+  },
+  {
+    "startTime": 1053.13,
+    "endTime": 1056.295,
+    "text": "Only if it's supportive can it be evidence."
+  },
+  {
+    "startTime": 1056.32,
+    "endTime": 1061.4869999999999,
+    "text": "And only with evidence can we move from a post-truth world"
+  },
+  {
+    "startTime": 1061.51,
+    "endTime": 1063.912,
+    "text": "to a pro-truth world."
+  },
+  {
+    "startTime": 1064.18,
+    "endTime": 1065.5140000000001,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 1065.54,
+    "endTime": 1066.69,
+    "text": "(Applause)"
+  }
+]
