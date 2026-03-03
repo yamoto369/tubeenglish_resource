@@ -1,0 +1,292 @@
+[
+  {
+    "startTime": 1.02,
+    "endTime": 5.800000000000001,
+    "text": "I hate math, but there's this statistics problem that has me geeking out."
+  },
+  {
+    "startTime": 5.8,
+    "endTime": 10.0,
+    "text": "It's a question that seems really, really simple, but it's stumped me."
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 16.5,
+    "text": "And not just me, it has stumped thousands of people around the world including math professors and leading statisticians."
+  },
+  {
+    "startTime": 16.5,
+    "endTime": 20.1,
+    "text": "But before we dive in, I'm going to introduce you to Zachery Crockett."
+  },
+  {
+    "startTime": 20.1,
+    "endTime": 23.900000000000002,
+    "text": "He first introduced me to the puzzle, and I called him up to talk about it."
+  },
+  {
+    "startTime": 23.9,
+    "endTime": 27.0,
+    "text": "My name is Zachery Crockett, I'm a writer for Priceonomics."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 30.0,
+    "text": "Zachery and his girlfriend were stumped by the problem too."
+  },
+  {
+    "startTime": 30.0,
+    "endTime": 36.0,
+    "text": "We just sat there debating the answer to this problem for two hours, and I don't think any of us really understood it."
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 43.5,
+    "text": "The puzzle we were all stumped by is called the Monty Hall Problem, named after the host of the game show that made it famous."
+  },
+  {
+    "startTime": 43.5,
+    "endTime": 48.6,
+    "text": "You see the problem goes like this: there's a brand new car behind one of three doors."
+  },
+  {
+    "startTime": 48.6,
+    "endTime": 50.7,
+    "text": "Behind the other two are goats."
+  },
+  {
+    "startTime": 50.7,
+    "endTime": 52.5,
+    "text": "Say you pick door number one."
+  },
+  {
+    "startTime": 52.5,
+    "endTime": 58.2,
+    "text": "Monty then shows you the goat behind one of the doors you didn't choose - say, door three."
+  },
+  {
+    "startTime": 58.2,
+    "endTime": 63.2,
+    "text": "Now here's the question: you're allowed to change your answer to Door two."
+  },
+  {
+    "startTime": 63.2,
+    "endTime": 67.2,
+    "text": "Do you switch? Or do you stick with your original choice?"
+  },
+  {
+    "startTime": 67.2,
+    "endTime": 76.3,
+    "text": "But yeah, I got interested in the Monty Hall Problem, did a little research, and then I found out there was this whole second angle to the story."
+  },
+  {
+    "startTime": 76.3,
+    "endTime": 81.0,
+    "text": "You've never met a man who feared you a little bit because he thought you were much brighter than he was?"
+  },
+  {
+    "startTime": 81.0,
+    "endTime": 86.0,
+    "text": "That's Marilyn Vos Savant in 1988 being interviewed by Joe Franklyn."
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 90.1,
+    "text": "Well, yeah maybe I've met a man or two, maybe a couple a hundred like that."
+  },
+  {
+    "startTime": 90.1,
+    "endTime": 92.19999999999999,
+    "text": "Marilyn is very intelligent."
+  },
+  {
+    "startTime": 92.2,
+    "endTime": 98.3,
+    "text": "In fact, back when the Guinness World Records actually kept track of this, she was the world's highest IQ."
+  },
+  {
+    "startTime": 98.3,
+    "endTime": 102.2,
+    "text": "She now writes for Parade Magazine and has for the last 20 years."
+  },
+  {
+    "startTime": 102.2,
+    "endTime": 111.3,
+    "text": "So the premise of the column was of course, like, here is the person with the world's highest IQ, here to answer your challenging math questions."
+  },
+  {
+    "startTime": 111.3,
+    "endTime": 117.5,
+    "text": "This brings us to September 9th, 1990, when a reader submitted to Marilyn... the Monty Hall Problem."
+  },
+  {
+    "startTime": 117.5,
+    "endTime": 120.9,
+    "text": "Is it to your advantage to switch your choice of doors?"
+  },
+  {
+    "startTime": 120.9,
+    "endTime": 125.5,
+    "text": "Now, if you're like me the obvious answer is no."
+  },
+  {
+    "startTime": 125.5,
+    "endTime": 130.4,
+    "text": "There are two doors so the chance of getting a car and not a goat is 50/50."
+  },
+  {
+    "startTime": 130.4,
+    "endTime": 131.70000000000002,
+    "text": "Bing. Bang. Boom."
+  },
+  {
+    "startTime": 131.7,
+    "endTime": 135.79999999999998,
+    "text": "But that's the wrong answer, and Marilyn knew that."
+  },
+  {
+    "startTime": 135.8,
+    "endTime": 139.0,
+    "text": "She replied: “Yes; you should switch.”"
+  },
+  {
+    "startTime": 139.0,
+    "endTime": 140.6,
+    "text": "And here's why."
+  },
+  {
+    "startTime": 140.6,
+    "endTime": 142.29999999999998,
+    "text": "Here are three doors."
+  },
+  {
+    "startTime": 142.3,
+    "endTime": 145.0,
+    "text": "There's a goat behind two and a car behind one."
+  },
+  {
+    "startTime": 145.0,
+    "endTime": 148.7,
+    "text": "In a blind test, you're more likely to pick a goat than a car."
+  },
+  {
+    "startTime": 148.7,
+    "endTime": 154.2,
+    "text": "In fact, you're two-thirds likely, so let's use that as our main scenario."
+  },
+  {
+    "startTime": 154.2,
+    "endTime": 155.79999999999998,
+    "text": "You pick door one."
+  },
+  {
+    "startTime": 155.8,
+    "endTime": 162.0,
+    "text": "So now, Monty Hall, who knows what's behind all the doors, is forced to reveal a goat regardless of the door you pick."
+  },
+  {
+    "startTime": 162.0,
+    "endTime": 168.2,
+    "text": "Since, in the most probable scenario you've also picked a goat, the only door left is the one with the car."
+  },
+  {
+    "startTime": 168.2,
+    "endTime": 173.79999999999998,
+    "text": "So, now Monty Hall asks, \"Would you rather keep the door you've picked, or would you switch?”"
+  },
+  {
+    "startTime": 173.8,
+    "endTime": 176.5,
+    "text": "Well, you should most definitely switch."
+  },
+  {
+    "startTime": 176.5,
+    "endTime": 179.5,
+    "text": "If you do you get the car two-thirds of the time."
+  },
+  {
+    "startTime": 179.5,
+    "endTime": 188.5,
+    "text": "Turns out when Marilyn correctly answered the Monty Hall Problem, she received thousands of letters from across the world telling her she was flat out wrong."
+  },
+  {
+    "startTime": 188.5,
+    "endTime": 193.7,
+    "text": "I think part of her was a little bit surprised that she received 10,000 letters calling her an idiot."
+  },
+  {
+    "startTime": 193.7,
+    "endTime": 197.5,
+    "text": "There was, without a doubt, a little bit of sexism at play here."
+  },
+  {
+    "startTime": 197.5,
+    "endTime": 201.1,
+    "text": "Not only was her answer right, it wasn't anything new."
+  },
+  {
+    "startTime": 201.1,
+    "endTime": 205.29999999999998,
+    "text": "The first time the Monty Hall problem was really conceived was in 1975."
+  },
+  {
+    "startTime": 205.3,
+    "endTime": 213.20000000000002,
+    "text": "So, this guy named Steve Selvin at Berkeley presented this problem in The American Statistician."
+  },
+  {
+    "startTime": 213.2,
+    "endTime": 217.29999999999998,
+    "text": "He contested that the odds were two out of three, and no one argued with him."
+  },
+  {
+    "startTime": 217.3,
+    "endTime": 225.3,
+    "text": "You know, over the next 15 years multiple other academics reiterated the same problem, and no one ever told them that they were wrong."
+  },
+  {
+    "startTime": 225.3,
+    "endTime": 231.20000000000002,
+    "text": "Then in 1990 Marilyn answered the same question correctly, and people went bananas."
+  },
+  {
+    "startTime": 231.2,
+    "endTime": 237.5,
+    "text": "Marilyn ended up tallying up what percentage of the 10,000 responses claimed she was wrong."
+  },
+  {
+    "startTime": 237.5,
+    "endTime": 245.7,
+    "text": "Only 8% of readers actually agreed with her, and after subsequent columns, she was able to raise that to 56%."
+  },
+  {
+    "startTime": 245.7,
+    "endTime": 252.1,
+    "text": "And among academics: It was 35% among academics initially supporting it."
+  },
+  {
+    "startTime": 252.1,
+    "endTime": 256.7,
+    "text": "Around 70% of academics ultimately decided to agree with her."
+  },
+  {
+    "startTime": 256.7,
+    "endTime": 262.5,
+    "text": "The only way she managed to get people on her side was by asking them to do the experiment themselves."
+  },
+  {
+    "startTime": 262.5,
+    "endTime": 271.0,
+    "text": "Elementary, middle school, and high school teachers from all over the country wrote in, astounded that their students were able to prove her right."
+  },
+  {
+    "startTime": 271.0,
+    "endTime": 278.0,
+    "text": "It's easy now to do a simple google search of this little sucker of a problem and get a million explanations on how to arrive at the right answer."
+  },
+  {
+    "startTime": 278.0,
+    "endTime": 288.0,
+    "text": "There's something about this problem that really strikes a chord with, not only statisticians, but just everyday problem solvers and people."
+  }
+]

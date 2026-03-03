@@ -1,0 +1,177 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 5.22,
+    "text": "Have you ever tried typing something but your phone keeps changing it to something else?"
+  },
+  {
+    "startTime": 5.22,
+    "endTime": 8.92,
+    "text": "This ducking keyboard can be so frustrating!"
+  },
+  {
+    "startTime": 8.92,
+    "endTime": 13.83,
+    "text": "It can seem like autocorrect is working against you instead of helping you."
+  },
+  {
+    "startTime": 13.83,
+    "endTime": 18.02,
+    "text": "But the iPhone has had autocorrect for over ten years."
+  },
+  {
+    "startTime": 18.02,
+    "endTime": 22.77,
+    "text": "Why does it still suck?"
+  },
+  {
+    "startTime": 22.77,
+    "endTime": 31.46,
+    "text": "Whether you're on iPhone or Android, using the default keyboard, or a third-party app you deal with autocorrect every single day."
+  },
+  {
+    "startTime": 31.46,
+    "endTime": 38.15,
+    "text": "Usually, it works great, but sometimes it completely refuses to understand what you typed."
+  },
+  {
+    "startTime": 38.15,
+    "endTime": 40.43,
+    "text": "To figure out what's happening we have to understand how autocorrect works."
+  },
+  {
+    "startTime": 44.01,
+    "endTime": 49.059999999999995,
+    "text": "When you type something on a phone, there's a lot of work going on in the background."
+  },
+  {
+    "startTime": 49.06,
+    "endTime": 55.050000000000004,
+    "text": "The phone analyzes your input and compares it to stored dictionaries and language models."
+  },
+  {
+    "startTime": 55.05,
+    "endTime": 59.89,
+    "text": "The phone then tries to correctly interpret the word or phrase you're trying to type."
+  },
+  {
+    "startTime": 59.89,
+    "endTime": 69.08,
+    "text": "So when you type \"fopd\" your phone changes it to \"food\" because \"fopd\" isn't a word, but it's only one letter away from \"food.\""
+  },
+  {
+    "startTime": 69.08,
+    "endTime": 71.63,
+    "text": "But not every example is this obvious."
+  },
+  {
+    "startTime": 71.63,
+    "endTime": 84.09,
+    "text": "The vowels U, I, and O are very close to each other, so a word like put, pit, and pot those, those were real challenges."
+  },
+  {
+    "startTime": 84.09,
+    "endTime": 88.47,
+    "text": "That's Ken Kocienda, he's one of the people who developed autocorrect for Apple."
+  },
+  {
+    "startTime": 88.47,
+    "endTime": 92.92,
+    "text": "We spoke with Ken to find out what's happening inside of autocorrect."
+  },
+  {
+    "startTime": 92.92,
+    "endTime": 101.31,
+    "text": "My job was to come up with a way to make speedy and accurate typing possible on a sheet of glass."
+  },
+  {
+    "startTime": 101.31,
+    "endTime": 108.38,
+    "text": "The hardest part isn't correcting spelling or grammar, it's interpreting what you meant to say from what you wrote."
+  },
+  {
+    "startTime": 108.38,
+    "endTime": 116.13,
+    "text": "And autocorrect is actually pretty good at this, but users tend to notice autocorrect only when it makes mistakes."
+  },
+  {
+    "startTime": 116.13,
+    "endTime": 134.59,
+    "text": "If it does what it's supposed to do 19 times, and then that 20th time it makes a mistake that is either distracting or embarrassing, that one mistake wipes out the positive feelings that people have for the 19 times where it just worked."
+  },
+  {
+    "startTime": 134.59,
+    "endTime": 140.15,
+    "text": "This is especially obvious when autocorrect leads to unwanted changes."
+  },
+  {
+    "startTime": 140.15,
+    "endTime": 143.47,
+    "text": "Sometimes it can feel like you're fighting against your keyboard."
+  },
+  {
+    "startTime": 143.47,
+    "endTime": 146.92,
+    "text": "Mostly people complain about how autocorrect gets in the way of their swearing."
+  },
+  {
+    "startTime": 148.12,
+    "endTime": 150.18,
+    "text": "The ducking keyboard."
+  },
+  {
+    "startTime": 150.18,
+    "endTime": 158.29000000000002,
+    "text": "The iPhone keyboard will let you swear, it just wants to prevent you from accidentally sending a word that you didn't mean to send."
+  },
+  {
+    "startTime": 158.29,
+    "endTime": 164.62,
+    "text": "It might seem like you're always wrestling with autocorrect, but you can take control of your dictionary."
+  },
+  {
+    "startTime": 164.62,
+    "endTime": 173.61,
+    "text": "On iOS go into Settings, General, Keyboard, and then tap \"Add Shortcut\" or \"Text Replacement.\""
+  },
+  {
+    "startTime": 173.61,
+    "endTime": 179.13000000000002,
+    "text": "Here you can add a new word or a shortcut that fills in a word when you type a few letters."
+  },
+  {
+    "startTime": 179.13,
+    "endTime": 185.795,
+    "text": "You can Google around to find out how to add words to the various versions of Android or third-party keyboards."
+  },
+  {
+    "startTime": 185.795,
+    "endTime": 200.54999999999998,
+    "text": "So, you might still think autocorrect sucks, but it's actually gotten a lot better since version one, and some developers have introduced new tools like swipe to type to make typing on a smartphone easier."
+  },
+  {
+    "startTime": 200.55,
+    "endTime": 212.03,
+    "text": "In the future, machine learning might create an autocorrect that's more accurate than ever, but whatever the technology is we can't lose sight of the original goal of autocorrect."
+  },
+  {
+    "startTime": 212.03,
+    "endTime": 217.05,
+    "text": "The goal that I like to think about for the product is for it to have the software melt away."
+  },
+  {
+    "startTime": 217.05,
+    "endTime": 219.69500000000002,
+    "text": "Autocorrection is not supposed to be glamorous, right?"
+  },
+  {
+    "startTime": 219.695,
+    "endTime": 221.85999999999999,
+    "text": "It's just supposed to be useful."
+  },
+  {
+    "startTime": 221.86,
+    "endTime": 224.8,
+    "text": "Autocorrect is far from perfect, but our messages would look a lot worse without it."
+  }
+]

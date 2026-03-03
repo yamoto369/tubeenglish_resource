@@ -1,0 +1,237 @@
+[
+  {
+    "startTime": 7.928,
+    "endTime": 18.128,
+    "text": "One of the top chefs from Pasta Palace has been kidnapped by operatives from Burger Bazaar, hoping to learn the location of their secret sauce recipe."
+  },
+  {
+    "startTime": 18.128,
+    "endTime": 25.055,
+    "text": "Little do they know that a third party—Sausage Saloon—has sent you to take advantage of the situation."
+  },
+  {
+    "startTime": 25.055,
+    "endTime": 33.945,
+    "text": "As their top spy, your skills range from infiltration and subterfuge, to safe cracking and reading faces for signs of deception."
+  },
+  {
+    "startTime": 33.945,
+    "endTime": 38.01,
+    "text": "You've tracked the captors to where they're holding the chef prisoner."
+  },
+  {
+    "startTime": 38.01,
+    "endTime": 47.561,
+    "text": "From your hiding spot, you can see him on the other side of the glass, while in front of you an interrogator wearing headphones speaks into a microphone."
+  },
+  {
+    "startTime": 47.561,
+    "endTime": 54.94,
+    "text": "\"We already know the recipe is on the 13th floor of the bank vault, in a safe deposit box numbered between 13 and 1300.”"
+  },
+  {
+    "startTime": 54.941,
+    "endTime": 59.101,
+    "text": "\"Now tell us, is the number less than 500?”"
+  },
+  {
+    "startTime": 59.101,
+    "endTime": 62.881,
+    "text": "You can't hear the chef's answer, but you can see that he's lying."
+  },
+  {
+    "startTime": 62.881,
+    "endTime": 66.206,
+    "text": "The interrogator, however, falls for it."
+  },
+  {
+    "startTime": 66.206,
+    "endTime": 69.806,
+    "text": "He follows up by asking, \"Is it a perfect square?”"
+  },
+  {
+    "startTime": 69.806,
+    "endTime": 76.947,
+    "text": "Again, you can't hear the answer but can tell the chef is lying, while the interrogator takes him at his word."
+  },
+  {
+    "startTime": 76.947,
+    "endTime": 79.937,
+    "text": "He then asks, \"is it a perfect cube?”"
+  },
+  {
+    "startTime": 79.937,
+    "endTime": 83.077,
+    "text": "This time the chef answers truthfully."
+  },
+  {
+    "startTime": 83.077,
+    "endTime": 91.29299999999999,
+    "text": "The interrogator thinks for a minute and says, \"Good. now if you just tell me whether or not the number's second digit is a one, we'll be done here.”"
+  },
+  {
+    "startTime": 91.293,
+    "endTime": 97.44300000000001,
+    "text": "But as the chef starts to answer, the interrogator stands up, blocking your view."
+  },
+  {
+    "startTime": 97.443,
+    "endTime": 104.62299999999999,
+    "text": "Within moments, he rushes out of the room, announcing that he's got the answer, and is sending agents to retrieve the recipe."
+  },
+  {
+    "startTime": 104.623,
+    "endTime": 112.363,
+    "text": "You know that the Burger Bazaar people have the wrong box number, but can you figure out the right one and retrieve the recipe yourself?"
+  },
+  {
+    "startTime": 112.363,
+    "endTime": 114.623,
+    "text": "Pause the video to figure it  out for yourself."
+  },
+  {
+    "startTime": 114.623,
+    "endTime": 115.333,
+    "text": "Answer in 3"
+  },
+  {
+    "startTime": 115.333,
+    "endTime": 118.123,
+    "text": "Answer in 2"
+  },
+  {
+    "startTime": 118.123,
+    "endTime": 120.0,
+    "text": "Answer in 1"
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 123.103,
+    "text": "The key here is to work backwards."
+  },
+  {
+    "startTime": 123.103,
+    "endTime": 128.173,
+    "text": "We don't know what the chef answers to the final question or whether he answers truthfully."
+  },
+  {
+    "startTime": 128.173,
+    "endTime": 138.403,
+    "text": "But we do know that by the time the interrogator asks it, he's narrowed the options down to two numbers - one where the second digit is 1, and one where it isn't."
+  },
+  {
+    "startTime": 138.403,
+    "endTime": 145.047,
+    "text": "Our goal, then, is to find answers to the previous questions that lead to just two possibilities."
+  },
+  {
+    "startTime": 145.047,
+    "endTime": 151.537,
+    "text": "Of the three constraints offered, the one that narrows our options the most is if the number is a perfect cube."
+  },
+  {
+    "startTime": 151.537,
+    "endTime": 156.352,
+    "text": "That leaves us with only eight answers between 13 and 1300."
+  },
+  {
+    "startTime": 156.352,
+    "endTime": 161.303,
+    "text": "So let's assume the answer to the third question was a truthful yes."
+  },
+  {
+    "startTime": 161.303,
+    "endTime": 163.474,
+    "text": "Now, let's look at the second question."
+  },
+  {
+    "startTime": 163.474,
+    "endTime": 177.00699999999998,
+    "text": "If the chef answered yes to the number being a perfect square, it would narrow the interrogator's options to just 64 and 729 - the only numbers in our range that are both a square and a cube."
+  },
+  {
+    "startTime": 177.007,
+    "endTime": 180.0,
+    "text": "But neither of these has a 1 as the second digit."
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 184.295,
+    "text": "So the given answer to the second question must've been no."
+  },
+  {
+    "startTime": 184.295,
+    "endTime": 192.20399999999998,
+    "text": "And that also means we can eliminate these two squares from the interrogator's list, leaving only six numbers."
+  },
+  {
+    "startTime": 192.205,
+    "endTime": 196.29500000000002,
+    "text": "Now for the first question, which allows us to divide this list."
+  },
+  {
+    "startTime": 196.295,
+    "endTime": 202.862,
+    "text": "If the chef answered yes to the number being less than 500, we'd have four options, which is too many."
+  },
+  {
+    "startTime": 202.862,
+    "endTime": 210.792,
+    "text": "But a no leaves us with two numbers greater than 500, one of which does have a 1 as its second digit."
+  },
+  {
+    "startTime": 210.792,
+    "endTime": 218.952,
+    "text": "We don't know which of these numbers the interrogator thinks is correct, but that doesn't matter - remember, his conclusion was based on lies."
+  },
+  {
+    "startTime": 218.952,
+    "endTime": 224.152,
+    "text": "You, on the other hand, are now in a position to reconstruct the truth."
+  },
+  {
+    "startTime": 224.152,
+    "endTime": 231.904,
+    "text": "First, the chef said the number was greater than 500, but lied, meaning it's actually less than 500."
+  },
+  {
+    "startTime": 231.904,
+    "endTime": 239.21099999999998,
+    "text": "Second, the chef said it wasn't a perfect square, but lied again, meaning the number is indeed a square."
+  },
+  {
+    "startTime": 239.211,
+    "endTime": 243.20100000000002,
+    "text": "And finally, he truthfully confirmed that it was also a cube."
+  },
+  {
+    "startTime": 243.201,
+    "endTime": 250.671,
+    "text": "And as we've already seen, the only number under 500 that's both a square and a cube is 64."
+  },
+  {
+    "startTime": 250.671,
+    "endTime": 255.301,
+    "text": "You find the secret recipe and are gone before anyone's the wiser."
+  },
+  {
+    "startTime": 255.301,
+    "endTime": 261.75,
+    "text": "Corporate espionage is not an easy game - but sometimes, that's just how the sausage is made."
+  },
+  {
+    "startTime": 261.75,
+    "endTime": 265.0,
+    "text": "Don't take a break just yet - the world needs you."
+  },
+  {
+    "startTime": 264.7,
+    "endTime": 269.0,
+    "text": "An evil syndicate is primed to use its powerful death ray."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 272.0,
+    "text": "Use your espionage skills to infiltrate their secret lair and save us all."
+  }
+]
