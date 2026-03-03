@@ -1,0 +1,337 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 2.63,
+    "text": "The dark doesn't look very good these days."
+  },
+  {
+    "startTime": 2.63,
+    "endTime": 8.91,
+    "text": "And I'm really sorry if you're one of the lucky ones who's never noticed this, because now I point it out,"
+  },
+  {
+    "startTime": 8.91,
+    "endTime": 17.12,
+    "text": "now I artificially increase the brightness on the dark parts in this video so you can see what the shadows behind me actually look like...."
+  },
+  {
+    "startTime": 17.12,
+    "endTime": 19.310000000000002,
+    "text": "Now, you'll notice."
+  },
+  {
+    "startTime": 19.31,
+    "endTime": 31.119999999999997,
+    "text": "In movie trailers, in dark scenes in even prestige television, in YouTube videos where there are nice, calm gradient backgrounds: you see this dreadful color banding."
+  },
+  {
+    "startTime": 31.12,
+    "endTime": 32.660000000000004,
+    "text": "There are three reasons for it."
+  },
+  {
+    "startTime": 32.66,
+    "endTime": 37.029999999999994,
+    "text": "And the first is that there aren't enough colors."
+  },
+  {
+    "startTime": 37.03,
+    "endTime": 42.42,
+    "text": "Alright, I'll, I'll turn the lights on."
+  },
+  {
+    "startTime": 42.42,
+    "endTime": 48.92,
+    "text": "In most modern digital video, there is a grand total of about 16.7 million possible colors."
+  },
+  {
+    "startTime": 48.92,
+    "endTime": 51.33,
+    "text": "And that number comes from how your screen works."
+  },
+  {
+    "startTime": 51.33,
+    "endTime": 58.36,
+    "text": "When you watch a video, your phone, computer or TV takes that compressed digital signal that's being sent to you, and it converts it into instructions."
+  },
+  {
+    "startTime": 58.36,
+    "endTime": 67.43,
+    "text": "Those instructions go to the screen, which changes the brightness of each of the millions of red, green, and blue lights that make up your screen, up to 60 times a second, perfectly."
+  },
+  {
+    "startTime": 67.43,
+    "endTime": 70.52000000000001,
+    "text": "It's incredible technology that we just take for granted."
+  },
+  {
+    "startTime": 70.52,
+    "endTime": 74.45,
+    "text": "But those little lights can't be adjusted to any brightness."
+  },
+  {
+    "startTime": 74.45,
+    "endTime": 78.63,
+    "text": "The simplest digital signal would just tell the screen whether to turn each light on or off."
+  },
+  {
+    "startTime": 78.63,
+    "endTime": 81.39,
+    "text": "Each instruction would take a single bit, a single one or zero."
+  },
+  {
+    "startTime": 81.39,
+    "endTime": 88.41,
+    "text": "So for each pixel, each combination of red green and blue, that gives you eight possible colors: two times two times two."
+  },
+  {
+    "startTime": 88.41,
+    "endTime": 90.64999999999999,
+    "text": "Which doesn't look great."
+  },
+  {
+    "startTime": 90.65,
+    "endTime": 93.01,
+    "text": "So, okay, let's add another bit for each color."
+  },
+  {
+    "startTime": 93.01,
+    "endTime": 97.34,
+    "text": "Two bits gives us four options for each light: off, dark, sorta-bright, and completely on."
+  },
+  {
+    "startTime": 97.34,
+    "endTime": 101.22,
+    "text": "Now we've got four times four times four, 64 colors!"
+  },
+  {
+    "startTime": 101.22,
+    "endTime": 102.38,
+    "text": "Still doesn't look great."
+  },
+  {
+    "startTime": 102.38,
+    "endTime": 111.55,
+    "text": "For a modern screen, you need eight bits for each pixel, so you've got 256 shades each of red, green, and blue, which gives you those 16 million colors that you're used to."
+  },
+  {
+    "startTime": 111.55,
+    "endTime": 114.85,
+    "text": "And that ought to be enough, right? It seemed to be, when the standards were written."
+  },
+  {
+    "startTime": 114.85,
+    "endTime": 119.91,
+    "text": "And to be fair, every bit you add means more data to transmit and more expensive equipment."
+  },
+  {
+    "startTime": 119.91,
+    "endTime": 122.49,
+    "text": "It seemed like a pretty good compromise at the time."
+  },
+  {
+    "startTime": 122.49,
+    "endTime": 130.18,
+    "text": "Professionals, like people working in digital cinema, they go further, they might use ten bits for each pixel, giving them about a billion total possible colors instead."
+  },
+  {
+    "startTime": 130.18,
+    "endTime": 138.74,
+    "text": "And you may well have a fancy screen that can show those more precise billion colors, but the picture quality is determined by the weakest link in the chain."
+  },
+  {
+    "startTime": 138.74,
+    "endTime": 144.81,
+    "text": "A ludicrously expensive HDR monitor isn't going to fix the color banding on that regular YouTube video."
+  },
+  {
+    "startTime": 144.81,
+    "endTime": 150.96,
+    "text": "Anyway, it was decided that 256 shades each of red, green, and blue, combined however you like, that should be enough for most people."
+  },
+  {
+    "startTime": 150.96,
+    "endTime": 153.97,
+    "text": "And for almost everything, it is."
+  },
+  {
+    "startTime": 153.97,
+    "endTime": 157.64,
+    "text": "But at full resolution, this video is 1,920 pixels wide."
+  },
+  {
+    "startTime": 157.64,
+    "endTime": 160.23999999999998,
+    "text": "And there are only 256 shades of green."
+  },
+  {
+    "startTime": 160.24,
+    "endTime": 169.79000000000002,
+    "text": "So if I have a green gradient across the whole video, even if you use every single shade of pure green that's possible on this format, then you're still going to have a color band every seven or eight pixels."
+  },
+  {
+    "startTime": 169.79,
+    "endTime": 176.97,
+    "text": "And if everything's much darker than that, suddenly you might only have half a dozen different shades of green available across the whole picture."
+  },
+  {
+    "startTime": 176.97,
+    "endTime": 183.49,
+    "text": "Even if you're using a bit of red and blue in there as well, there just aren't that many available dark colors."
+  },
+  {
+    "startTime": 183.49,
+    "endTime": 188.21,
+    "text": "But if you've got plain, bright background, why doesn't that have color-banding all over it?"
+  },
+  {
+    "startTime": 188.21,
+    "endTime": 191.84,
+    "text": "Well, the second reason is how human eyesight works."
+  },
+  {
+    "startTime": 191.84,
+    "endTime": 195.54,
+    "text": "There is color banding all over this video. Right now."
+  },
+  {
+    "startTime": 195.54,
+    "endTime": 203.17999999999998,
+    "text": "If we take a sample of the bright gradient behind me and massively increase the contrast, you can see it's there... but normally, it's invisible."
+  },
+  {
+    "startTime": 203.18,
+    "endTime": 208.97,
+    "text": "And that's because while the absolute difference between two bands is still the same, the relative difference is tiny."
+  },
+  {
+    "startTime": 208.97,
+    "endTime": 213.08,
+    "text": "It's the same reason that this chart looks a lot closer than this chart."
+  },
+  {
+    "startTime": 213.08,
+    "endTime": 218.82000000000002,
+    "text": "Going from 201 to 202 feels like a tiny change, but going from 1 to 2 is a doubling."
+  },
+  {
+    "startTime": 218.82,
+    "endTime": 226.26,
+    "text": "Even in both cases, the absolute change is the same: one, we perceive one as being bigger than the other."
+  },
+  {
+    "startTime": 226.26,
+    "endTime": 231.31,
+    "text": "But even if you don't have enough colors, you can break up gradients another way. You can use dithering."
+  },
+  {
+    "startTime": 231.31,
+    "endTime": 236.14000000000001,
+    "text": "Instead of going from one color to another at a line, you can steadily transition from one to the other."
+  },
+  {
+    "startTime": 236.14,
+    "endTime": 241.11999999999998,
+    "text": "You can make the boundary fuzzy, so that from a distance the colors appear to blend."
+  },
+  {
+    "startTime": 241.12,
+    "endTime": 247.81,
+    "text": "And if you're filming a real-life scene, then that'll happen in-camera, the natural light and the noise in the signal and the sensor will do that for you."
+  },
+  {
+    "startTime": 247.81,
+    "endTime": 253.44,
+    "text": "And it actually works really well, it more or less solves the problem... but it won't look like that here."
+  },
+  {
+    "startTime": 253.44,
+    "endTime": 256.25,
+    "text": "And that brings me to the third reason: compression."
+  },
+  {
+    "startTime": 256.25,
+    "endTime": 261.72,
+    "text": "A raw HD video, uncompressed, needs somewhere around a gigabit per second of data."
+  },
+  {
+    "startTime": 261.72,
+    "endTime": 269.23,
+    "text": "Even if you have an internet connection that can somehow support streaming all that, it's incredibly wasteful and expensive to use all that data."
+  },
+  {
+    "startTime": 269.23,
+    "endTime": 274.42,
+    "text": "So every streaming service, YouTube, Netflix, everyone, uses lossy compression:"
+  },
+  {
+    "startTime": 274.42,
+    "endTime": 281.11,
+    "text": "a program called an 'encoder' takes a massive high-quality video file, and then throws away fine detail to save data."
+  },
+  {
+    "startTime": 281.11,
+    "endTime": 289.54,
+    "text": "The more the video is compressed, the worse it looks, but it'll work on slower and slower connections, and it'll be cheaper and cheaper to run your streaming service."
+  },
+  {
+    "startTime": 289.54,
+    "endTime": 294.66,
+    "text": "But at some point, the viewers are going to notice that the picture doesn't look great."
+  },
+  {
+    "startTime": 294.66,
+    "endTime": 298.66900000000004,
+    "text": "But the encoder, the compression software, is written by very clever people:"
+  },
+  {
+    "startTime": 298.669,
+    "endTime": 305.94,
+    "text": "and it works out which bits of the scene the viewer is probably going to be interested in, and puts most of its effort into making that part look good."
+  },
+  {
+    "startTime": 305.94,
+    "endTime": 312.96999999999997,
+    "text": "And that's usually a bright, sharp part of the scene, something well lit and in focus, and probably the bits that are moving."
+  },
+  {
+    "startTime": 312.97,
+    "endTime": 317.52000000000004,
+    "text": "Now there are exceptions, where there's some slow, menacing threat out of focus in the background,"
+  },
+  {
+    "startTime": 317.52,
+    "endTime": 323.88,
+    "text": "but for almost every scene, if it's dark, or out of focus, chances are the director and the viewer doesn't care about it."
+  },
+  {
+    "startTime": 323.88,
+    "endTime": 330.62,
+    "text": "So the encoder doesn't care about it either: if there are only fifty kilobits, fifty thousand ones and zeros available to describe each frame of video,"
+  },
+  {
+    "startTime": 330.62,
+    "endTime": 336.91,
+    "text": "then the encoder will make sure that most of those are spent on where the viewer's likely to be looking."
+  },
+  {
+    "startTime": 336.91,
+    "endTime": 339.94,
+    "text": "All that dithering, all the fancy stuff in the background?"
+  },
+  {
+    "startTime": 339.94,
+    "endTime": 344.91,
+    "text": "Too expensive. Smear it out into just big blocks of solid color, no-one'll notice."
+  },
+  {
+    "startTime": 344.91,
+    "endTime": 346.32000000000005,
+    "text": "And we won't."
+  },
+  {
+    "startTime": 346.32,
+    "endTime": 354.54,
+    "text": "Unless it's also very dark. At which point, there will be something nasty lurking in the shadows."
+  }
+]

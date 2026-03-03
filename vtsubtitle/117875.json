@@ -1,0 +1,382 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 4.14,
+    "text": "Measles is one of the most contagious diseases we know."
+  },
+  {
+    "startTime": 4.14,
+    "endTime": 9.6,
+    "text": "Just one person is likely to infect between 12 and 18 people."
+  },
+  {
+    "startTime": 9.6,
+    "endTime": 14.7,
+    "text": "That number is called a disease's \"basic reproduction number,\" or R-naught."
+  },
+  {
+    "startTime": 14.7,
+    "endTime": 18.52,
+    "text": "Scientists use it to describe how contagious a disease is."
+  },
+  {
+    "startTime": 18.52,
+    "endTime": 18.95,
+    "text": "Zika?"
+  },
+  {
+    "startTime": 18.95,
+    "endTime": 21.74,
+    "text": "It has an R-naught of up to 6.6."
+  },
+  {
+    "startTime": 21.74,
+    "endTime": 23.419999999999998,
+    "text": "Super contagious."
+  },
+  {
+    "startTime": 23.42,
+    "endTime": 24.3,
+    "text": "But the seasonal flu?"
+  },
+  {
+    "startTime": 24.3,
+    "endTime": 26.580000000000002,
+    "text": "Just a little over one."
+  },
+  {
+    "startTime": 26.58,
+    "endTime": 29.88,
+    "text": "And Covid-19, the disease caused by the [2019 novel] coronavirus?"
+  },
+  {
+    "startTime": 29.88,
+    "endTime": 31.919999999999998,
+    "text": "Just about two."
+  },
+  {
+    "startTime": 31.92,
+    "endTime": 36.46,
+    "text": "That difference, between the flu and COVID-19, doesn't seem so big."
+  },
+  {
+    "startTime": 36.46,
+    "endTime": 40.46,
+    "text": "Especially when you look at them next to these really contagious diseases."
+  },
+  {
+    "startTime": 40.46,
+    "endTime": 51.22,
+    "text": "Plus, a lot of the symptoms of the flu and COVID-19 are really similar: a fever, cough, they can even both lead to pneumonia, which is ultimately how they can both be fatal."
+  },
+  {
+    "startTime": 51.22,
+    "endTime": 57.48,
+    "text": "So, thinking of COVID-19 and the flu as similar is a common, and frankly, understandable comparison to want to make."
+  },
+  {
+    "startTime": 57.48,
+    "endTime": 58.599999999999994,
+    "text": "\"This is like the flu.\""
+  },
+  {
+    "startTime": 58.61,
+    "endTime": 59.6,
+    "text": "\"It's a lot like the flu.\""
+  },
+  {
+    "startTime": 59.6,
+    "endTime": 62.980000000000004,
+    "text": "\"I'd like to believe that it's going to end up more like the flu virus.\""
+  },
+  {
+    "startTime": 62.98,
+    "endTime": 65.78,
+    "text": "But wait, let's go back to those R-naught numbers again."
+  },
+  {
+    "startTime": 65.78,
+    "endTime": 72.92,
+    "text": "If the flu has an R-naught of 1.3, that means each person gets either one or two people sick."
+  },
+  {
+    "startTime": 72.92,
+    "endTime": 77.9,
+    "text": "After ten rounds, that's 56 total people."
+  },
+  {
+    "startTime": 77.909,
+    "endTime": 85.2,
+    "text": "And if we run the model with COVID-19's R-naught at two, if one person with it gets two people sick, who get two people sick…"
+  },
+  {
+    "startTime": 85.2,
+    "endTime": 90.32000000000001,
+    "text": "After ten rounds, that's more than 2,000 people."
+  },
+  {
+    "startTime": 90.32,
+    "endTime": 92.77999999999999,
+    "text": "This does not happen with the flu."
+  },
+  {
+    "startTime": 92.78,
+    "endTime": 103.46000000000001,
+    "text": "Because COVID-19 is very different and understanding \"How?\" is crucial to understanding how dangerous it really is and why we have to take it so seriously."
+  },
+  {
+    "startTime": 107.08,
+    "endTime": 113.82,
+    "text": "When we start to like, look for that comparison to the flu, we almost like, calm ourselves down."
+  },
+  {
+    "startTime": 113.82,
+    "endTime": 117.66,
+    "text": "But unfortunately, that's not quite the right reaction here."
+  },
+  {
+    "startTime": 117.66,
+    "endTime": 121.899,
+    "text": "Every year, the seasonal flu kills as many as 60,000 Americans."
+  },
+  {
+    "startTime": 121.899,
+    "endTime": 126.869,
+    "text": "As of late March, COVID-19 has killed about 34,000—across the whole world."
+  },
+  {
+    "startTime": 126.869,
+    "endTime": 130.099,
+    "text": "But scientists expect that number to go up, way up."
+  },
+  {
+    "startTime": 130.099,
+    "endTime": 134.6,
+    "text": "Tens of thousands of people a year die of the flu—but we haven't had this for a year yet."
+  },
+  {
+    "startTime": 134.6,
+    "endTime": 137.46,
+    "text": "We've only had this for a few months."
+  },
+  {
+    "startTime": 137.46,
+    "endTime": 143.70000000000002,
+    "text": "The trouble is coming, and we can predict it, and we can see what's coming, at least to a certain extent."
+  },
+  {
+    "startTime": 143.7,
+    "endTime": 149.16,
+    "text": "The first really big difference between COVID-19 and the flu is how long it takes you to feel sick."
+  },
+  {
+    "startTime": 149.16,
+    "endTime": 155.02,
+    "text": "From the moment you're infected with COVID-19, it usually takes five days before you start to feel symptoms."
+  },
+  {
+    "startTime": 155.02,
+    "endTime": 159.10000000000002,
+    "text": "But it can take as long as 12 or even 14 days."
+  },
+  {
+    "startTime": 159.11,
+    "endTime": 165.26000000000002,
+    "text": "This is the incubation period: the time between when you catch it, and when you first realize you're sick."
+  },
+  {
+    "startTime": 165.28,
+    "endTime": 169.72,
+    "text": "And scientists think you could be contagious during most of this period."
+  },
+  {
+    "startTime": 169.72,
+    "endTime": 174.329,
+    "text": "The flu, by comparison, has an average incubation period of just two days."
+  },
+  {
+    "startTime": 174.329,
+    "endTime": 178.68,
+    "text": "You get sick, and pretty soon you feel sick, and you know you're contagious."
+  },
+  {
+    "startTime": 178.68,
+    "endTime": 180.92000000000002,
+    "text": "This is what we're used to."
+  },
+  {
+    "startTime": 180.92,
+    "endTime": 183.689,
+    "text": "But COVID-19 flips that around."
+  },
+  {
+    "startTime": 183.689,
+    "endTime": 190.819,
+    "text": "You can be contagious and spreading it around for several days, and up to two weeks, before it even occurs to you that you're sick."
+  },
+  {
+    "startTime": 190.819,
+    "endTime": 193.819,
+    "text": "And that leads to the next big difference."
+  },
+  {
+    "startTime": 193.819,
+    "endTime": 197.129,
+    "text": "No human immune system had seen this virus before."
+  },
+  {
+    "startTime": 197.129,
+    "endTime": 200.79999999999998,
+    "text": "Nobody has a natural immunity to it."
+  },
+  {
+    "startTime": 200.8,
+    "endTime": 206.26000000000002,
+    "text": "In flu season, there's always a number of people in the population who are already immune to the flu."
+  },
+  {
+    "startTime": 206.26,
+    "endTime": 210.28,
+    "text": "That can be because they got their flu shot, or maybe because they've already had that flu strain."
+  },
+  {
+    "startTime": 210.28,
+    "endTime": 212.76,
+    "text": "And that limits the spread of the virus."
+  },
+  {
+    "startTime": 212.86,
+    "endTime": 220.08,
+    "text": "When one person is contagious with the flu, they can only spread it to people who aren't immune who can only spread it to other people who aren't immune."
+  },
+  {
+    "startTime": 220.08,
+    "endTime": 223.8,
+    "text": "That's why scientists and doctors urge us to get our flu shot every year."
+  },
+  {
+    "startTime": 223.8,
+    "endTime": 228.31900000000002,
+    "text": "If enough people have immunity, they can kind of shield the virus from reaching others."
+  },
+  {
+    "startTime": 228.32,
+    "endTime": 232.72,
+    "text": "The more immunized people, the more they can protect those that are susceptible to the virus."
+  },
+  {
+    "startTime": 232.8,
+    "endTime": 235.34,
+    "text": "But COVID-19 is brand new."
+  },
+  {
+    "startTime": 235.34,
+    "endTime": 241.98,
+    "text": "None of us have had it before, and there's no vaccine, which means nearly everyone on the planet is susceptible."
+  },
+  {
+    "startTime": 241.98,
+    "endTime": 251.12,
+    "text": "So when a contagious person, who may not even know they're infected, comes into contact with others, it can spread like wildfire."
+  },
+  {
+    "startTime": 251.12,
+    "endTime": 255.18,
+    "text": "And then you see how much more dangerous COVID-19 can be."
+  },
+  {
+    "startTime": 255.18,
+    "endTime": 258.68,
+    "text": "Only 2 percent of people with the flu need to be hospitalized."
+  },
+  {
+    "startTime": 258.68,
+    "endTime": 262.78000000000003,
+    "text": "But 20 to even 30 percent of people who test positive for COVID-19 do."
+  },
+  {
+    "startTime": 262.79,
+    "endTime": 270.05,
+    "text": "And we're still learning about COVID-19's fatality rate, but scientists think it's somewhere between 1 and 3 percent."
+  },
+  {
+    "startTime": 270.05,
+    "endTime": 274.11,
+    "text": "But the flu's rate is even lower: 0.1 percent."
+  },
+  {
+    "startTime": 274.11,
+    "endTime": 278.199,
+    "text": "And that's a disease that can kill 60,000 people a year in the U.S. alone."
+  },
+  {
+    "startTime": 278.2,
+    "endTime": 284.09999999999997,
+    "text": "That's what Dr. Anthony Fauci, the US's leading infectious disease expert, tried to clear up to Congress."
+  },
+  {
+    "startTime": 284.1,
+    "endTime": 298.12,
+    "text": "\"People always say, well, the flu does this, the flu does that. The flu has a mortality of 0.1 percent. This has a mortality of ten times that. This is a really serious problem that we have to take seriously.\""
+  },
+  {
+    "startTime": 298.12,
+    "endTime": 301.27,
+    "text": "And he's just talking about the average across all age groups."
+  },
+  {
+    "startTime": 301.27,
+    "endTime": 305.88,
+    "text": "For older people, or people with compromised immune systems, it can be way higher."
+  },
+  {
+    "startTime": 305.88,
+    "endTime": 315.75,
+    "text": "And that's especially scary when you remember all the other things that are different about COVID-19: the infectiousness, how hard it is to know that you have it, how susceptible we all are to it."
+  },
+  {
+    "startTime": 315.75,
+    "endTime": 325.4,
+    "text": "Estimates vary, but some scientists have warned that between 20 and 60 percent of the world's population could become infected with the virus."
+  },
+  {
+    "startTime": 325.4,
+    "endTime": 332.26,
+    "text": "Because COVID-19 has no cure and no vaccine, the only defense we have against it is social."
+  },
+  {
+    "startTime": 332.27,
+    "endTime": 338.229,
+    "text": "We can take ourselves out of the chain—not with immunity, but with social distancing."
+  },
+  {
+    "startTime": 338.229,
+    "endTime": 343.11,
+    "text": "Just physically not being around anyone, and staying home as much as possible."
+  },
+  {
+    "startTime": 343.11,
+    "endTime": 350.92,
+    "text": "But that only works if each of us takes it seriously, which is why comparing it to the flu, while understandable, is not helpful."
+  },
+  {
+    "startTime": 350.92,
+    "endTime": 356.96000000000004,
+    "text": "It's natural to want to find a comparison, to want to make this seem small."
+  },
+  {
+    "startTime": 356.96,
+    "endTime": 365.91999999999996,
+    "text": "When we use the flu as the backdrop, it almost numbs us, or it can numb us, and make us maybe even feel better about the current situation."
+  },
+  {
+    "startTime": 365.92,
+    "endTime": 370.34000000000003,
+    "text": "Because the current situation is bad so now is not the time to be numb."
+  },
+  {
+    "startTime": 370.34,
+    "endTime": 376.32,
+    "text": "We need to be vigilant, and then use our vigilance for useful actions."
+  }
+]

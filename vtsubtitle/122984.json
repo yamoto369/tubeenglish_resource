@@ -1,0 +1,427 @@
+[
+  {
+    "startTime": 0.08,
+    "endTime": 2.739,
+    "text": "On day one, no one you know is sick."
+  },
+  {
+    "startTime": 2.739,
+    "endTime": 4.388999999999999,
+    "text": "It feels like a normal day."
+  },
+  {
+    "startTime": 4.389,
+    "endTime": 10.689,
+    "text": "It may stay like this for a long time, until one day, a few people you know are sick."
+  },
+  {
+    "startTime": 10.689,
+    "endTime": 17.75,
+    "text": "And suddenly a few days later, it will seem like everyone is sick, and it will feel like it happened instantly."
+  },
+  {
+    "startTime": 17.75,
+    "endTime": 21.769,
+    "text": "Everything looks fine, until it isn't fine."
+  },
+  {
+    "startTime": 21.769,
+    "endTime": 34.79,
+    "text": "This is the paradox of pandemics, and it's why with an outbreak like COVID-19 you hear health officials calling for huge, drastic, and rapid responses in the early days when infection numbers are still relatively small."
+  },
+  {
+    "startTime": 34.79,
+    "endTime": 38.55,
+    "text": "Some people worry these actions are overreactions."
+  },
+  {
+    "startTime": 38.55,
+    "endTime": 42.39,
+    "text": "Sports teams playing to empty stadiums, or not playing at all."
+  },
+  {
+    "startTime": 42.39,
+    "endTime": 45.05,
+    "text": "Canceling huge gatherings and festivals."
+  },
+  {
+    "startTime": 45.05,
+    "endTime": 47.489999999999995,
+    "text": "Temporarily closing schools and offices."
+  },
+  {
+    "startTime": 47.49,
+    "endTime": 49.910000000000004,
+    "text": "Telling people to avoid personal contact?"
+  },
+  {
+    "startTime": 49.91,
+    "endTime": 51.705999999999996,
+    "text": "Media sensationalism."
+  },
+  {
+    "startTime": 51.706,
+    "endTime": 57.007000000000005,
+    "text": "But this way of thinking fails to appreciate how disease outbreaks work:"
+  },
+  {
+    "startTime": 57.007,
+    "endTime": 66.98,
+    "text": "It was really never fine to begin with, but we don't notice until it's too late."
+  },
+  {
+    "startTime": 66.98,
+    "endTime": 69.53,
+    "text": "Hey smart people, Joe here."
+  },
+  {
+    "startTime": 69.53,
+    "endTime": 72.83,
+    "text": "How bad will the coronavirus outbreak get?"
+  },
+  {
+    "startTime": 72.83,
+    "endTime": 77.78,
+    "text": "That's what we all want to know, and the answer is in one of these curves."
+  },
+  {
+    "startTime": 77.78,
+    "endTime": 81.36,
+    "text": "This is what a rapid global pandemic looks like."
+  },
+  {
+    "startTime": 81.36,
+    "endTime": 86.89,
+    "text": "Little to nothing to slow the number of new infections means a lot of people sick in a short amount of time."
+  },
+  {
+    "startTime": 86.89,
+    "endTime": 89.88,
+    "text": "A slower global pandemic looks like this."
+  },
+  {
+    "startTime": 89.88,
+    "endTime": 94.39999999999999,
+    "text": "The rate of new cases is lowered, and they're spread out over a longer period of time."
+  },
+  {
+    "startTime": 94.4,
+    "endTime": 99.04,
+    "text": "And which one of these paths we end up on is important because of this line."
+  },
+  {
+    "startTime": 99.04,
+    "endTime": 105.17,
+    "text": "It represents the capacity of our health care system: the number of beds, doctors, respirators, and everything else."
+  },
+  {
+    "startTime": 105.17,
+    "endTime": 110.03,
+    "text": "What experts fear is a sudden explosion like this overwhelming this capacity."
+  },
+  {
+    "startTime": 110.03,
+    "endTime": 124.36,
+    "text": "And what's really interesting here is that even if these two curves represent the same total number of people that eventually get infected, in the rapid outbreak scenario more people will die because there won't be enough hospital beds or ventilators to keep them alive."
+  },
+  {
+    "startTime": 124.36,
+    "endTime": 125.82,
+    "text": "This is a strange idea."
+  },
+  {
+    "startTime": 125.82,
+    "endTime": 138.41,
+    "text": "That even if the same number of people eventually get sick in the end, even without a vaccine or a cure, taking drastic action before we see things get bad, that will save lives all on its own."
+  },
+  {
+    "startTime": 138.41,
+    "endTime": 140.46,
+    "text": "What we're doing isn't overreacting."
+  },
+  {
+    "startTime": 140.46,
+    "endTime": 144.11,
+    "text": "It's exactly what the science of epidemics tells us will work."
+  },
+  {
+    "startTime": 144.11,
+    "endTime": 150.917,
+    "text": "And that's counterintuitive, because our intuition doesn't really \"get\" exponential growth."
+  },
+  {
+    "startTime": 150.917,
+    "endTime": 157.22,
+    "text": "Instead of thinking about viruses, let's say you have a pond, and on the pond is a single lily pad."
+  },
+  {
+    "startTime": 157.22,
+    "endTime": 162.60999999999999,
+    "text": "This type of lily pad reproduces once a day, so on day two, you have two lily pads."
+  },
+  {
+    "startTime": 162.61,
+    "endTime": 165.369,
+    "text": "On day three, you have four, etc."
+  },
+  {
+    "startTime": 165.369,
+    "endTime": 173.17,
+    "text": "If it takes the lily pads 60 days to cover the pond completely, how long will it take for the pond to be covered halfway?"
+  },
+  {
+    "startTime": 173.17,
+    "endTime": 175.67,
+    "text": "The answer is 59 days."
+  },
+  {
+    "startTime": 175.67,
+    "endTime": 180.67999999999998,
+    "text": "The area covered doubles from half to the whole pond on the last day."
+  },
+  {
+    "startTime": 180.68,
+    "endTime": 183.42000000000002,
+    "text": "I bet some of you knew that, though, because you're pretty smart."
+  },
+  {
+    "startTime": 183.42,
+    "endTime": 188.79,
+    "text": "But on what day do the lily pads cover a mere 1 percent of the pond?"
+  },
+  {
+    "startTime": 188.79,
+    "endTime": 191.92,
+    "text": "Surprisingly, that doesn't happen until day 54."
+  },
+  {
+    "startTime": 191.92,
+    "endTime": 196.39,
+    "text": "The pond is basically empty, until it's very suddenly not empty."
+  },
+  {
+    "startTime": 196.39,
+    "endTime": 202.069,
+    "text": "We go from covering less than a percent to covering the whole pond in just the final seven days."
+  },
+  {
+    "startTime": 202.069,
+    "endTime": 206.13,
+    "text": "This is exponential growth and it's how pandemics work."
+  },
+  {
+    "startTime": 206.13,
+    "endTime": 210.01,
+    "text": "We multiply today by some constant to get the value for the next day."
+  },
+  {
+    "startTime": 210.01,
+    "endTime": 217.53,
+    "text": "The time doesn't have to be days, but that's helpful to use for something like lily pads—our constant was two—or COVID-19."
+  },
+  {
+    "startTime": 217.53,
+    "endTime": 223.12,
+    "text": "Starting in mid-February we've seen between 1.1-and-1.4-times more cases each day."
+  },
+  {
+    "startTime": 223.12,
+    "endTime": 228.52,
+    "text": "A number over one tells us every day we're seeing more new cases than the day before."
+  },
+  {
+    "startTime": 228.52,
+    "endTime": 233.08,
+    "text": "You can see the number of total cases starts to add up really fast."
+  },
+  {
+    "startTime": 233.08,
+    "endTime": 234.78900000000002,
+    "text": "Exponential growth can be scary."
+  },
+  {
+    "startTime": 234.789,
+    "endTime": 239.82999999999998,
+    "text": "But obviously this can't go on forever and fill the known universe with viruses, for a few reasons."
+  },
+  {
+    "startTime": 239.83,
+    "endTime": 256.05,
+    "text": "The virus will either infect everybody, like our lilies filling up the pond, or what actually happens is the virus stops finding people to infect: either by running into people who are already sick, or we isolate people who are sick, or thanks to something like a vaccine spreading resistance in the population."
+  },
+  {
+    "startTime": 256.05,
+    "endTime": 263.689,
+    "text": "But over time the growth rate will naturally slow down, and we end up with a curve for the total number of cases that looks like this."
+  },
+  {
+    "startTime": 263.689,
+    "endTime": 272.84900000000005,
+    "text": "This is called \"logistic growth\" and we call this curve a sigmoid, which is a weird name, but luckily it starts with \"s\" which also happens to be the shape of the curve."
+  },
+  {
+    "startTime": 272.849,
+    "endTime": 285.699,
+    "text": "While I was working on this, Grant from 3Blue1Brown released a really good video digging into more of the math behind why and how this all changes, and he's definitely my go-to when it comes to math, so I'll put a link down below so you can watch that later."
+  },
+  {
+    "startTime": 285.699,
+    "endTime": 292.229,
+    "text": "Now, remember that the height of any point on our S curve tells us how many total cases the outbreak has caused as of that day."
+  },
+  {
+    "startTime": 292.229,
+    "endTime": 297.07,
+    "text": "But if we take the slope at that point, that shows how many new cases that day."
+  },
+  {
+    "startTime": 297.07,
+    "endTime": 306.629,
+    "text": "Which makes sense, not many new cases early on, then a whole lot each day, and then not many new cases again as the virus dies out or goes quiet."
+  },
+  {
+    "startTime": 306.629,
+    "endTime": 311.189,
+    "text": "If you've taken calculus and worked out derivatives before, then you may see where I'm going here."
+  },
+  {
+    "startTime": 311.189,
+    "endTime": 316.439,
+    "text": "Plotting the different slopes along our S-shaped curve, we get this."
+  },
+  {
+    "startTime": 316.439,
+    "endTime": 321.05,
+    "text": "This is what health officials are worried could overwhelm our health care system."
+  },
+  {
+    "startTime": 321.05,
+    "endTime": 327.499,
+    "text": "But luckily, we can make it look like this instead, if we change how our S curve looks."
+  },
+  {
+    "startTime": 327.499,
+    "endTime": 333.1,
+    "text": "How we do that is by lowering the constant we multiply by from day to day in our exponential growth."
+  },
+  {
+    "startTime": 333.1,
+    "endTime": 341.09000000000003,
+    "text": "The really important thing here is, for a virus that humans have never encountered before, like this one that's causing COVID-19, no one is immune to it."
+  },
+  {
+    "startTime": 341.09,
+    "endTime": 345.529,
+    "text": "The only way to lower the growth rate, isn't medicine or anything like that, it's to slow down those infections and keep them from happening in the first place."
+  },
+  {
+    "startTime": 349.729,
+    "endTime": 355.079,
+    "text": "A real outbreak plays out like this: You have a bucket of infectious people, I."
+  },
+  {
+    "startTime": 355.079,
+    "endTime": 358.97,
+    "text": "And you have a bucket of people who haven't gotten sick yet, S."
+  },
+  {
+    "startTime": 358.97,
+    "endTime": 364.81500000000005,
+    "text": "The I bucket is tied to the S bucket so that the more full I is, the faster S empties into it."
+  },
+  {
+    "startTime": 364.815,
+    "endTime": 367.599,
+    "text": "But people are also getting better all the time."
+  },
+  {
+    "startTime": 367.599,
+    "endTime": 373.5,
+    "text": "So the I bucket has a hole in it that empties into a bucket R for recovered people at some constant rate."
+  },
+  {
+    "startTime": 373.5,
+    "endTime": 382.909,
+    "text": "So if we can lower how fast S empties into I through some drastic action, I will empty out into R, and we'll stop emptying S."
+  },
+  {
+    "startTime": 382.909,
+    "endTime": 387.829,
+    "text": "If our bucket of infectious people is empty, we starve the virus out."
+  },
+  {
+    "startTime": 387.829,
+    "endTime": 406.299,
+    "text": "So even if we somehow did nothing else to stop a disease outbreak or pandemic, and the same total number of people get infected in the end, it is so, so important to slow down how many new cases we see every day, to flatten the curve and keep a pandemic from overwhelming health care."
+  },
+  {
+    "startTime": 406.299,
+    "endTime": 415.75899999999996,
+    "text": "In 1918, in the early days of the worst influenza pandemic in history, the city of Philadelphia ignored warnings and held a parade attended by 200,000 people."
+  },
+  {
+    "startTime": 415.759,
+    "endTime": 422.499,
+    "text": "Three days later, every bed in Philadelphia's hospitals was full, and 4,500 people died within a week."
+  },
+  {
+    "startTime": 422.499,
+    "endTime": 429.269,
+    "text": "At the same time, St. Louis, two days after detecting the first cases, closed schools, playgrounds, even churches."
+  },
+  {
+    "startTime": 429.269,
+    "endTime": 430.749,
+    "text": "Work shifts were changed."
+  },
+  {
+    "startTime": 430.749,
+    "endTime": 433.579,
+    "text": "Public gatherings of more than 20 people were banned."
+  },
+  {
+    "startTime": 433.579,
+    "endTime": 437.909,
+    "text": "And this was the result: a tale of two cities."
+  },
+  {
+    "startTime": 437.909,
+    "endTime": 449.609,
+    "text": "That's why officials are calling for such drastic action so early on, canceling events and school and everything else, before most of us actually know anyone who's sick."
+  },
+  {
+    "startTime": 449.609,
+    "endTime": 459.55899999999997,
+    "text": "Because with something like this, everything looks fine until it isn't fine, and if we wait until it's our turn to get sick, it's too late."
+  },
+  {
+    "startTime": 459.559,
+    "endTime": 460.74,
+    "text": "Stay curious."
+  },
+  {
+    "startTime": 460.74,
+    "endTime": 462.349,
+    "text": "And wash your hands."
+  },
+  {
+    "startTime": 462.349,
+    "endTime": 465.069,
+    "text": "We'll be talking more about that soon."
+  },
+  {
+    "startTime": 465.069,
+    "endTime": 469.579,
+    "text": "And as always, a huge thank you to everyone who supports the show on Patreon."
+  },
+  {
+    "startTime": 469.579,
+    "endTime": 477.619,
+    "text": "Your support helps us make videos like this faster than we normally could to get good information out to people who really, really need it."
+  },
+  {
+    "startTime": 477.619,
+    "endTime": 480.0,
+    "text": "If you'd like to join our community, just check out the link down in the description."
+  }
+]
