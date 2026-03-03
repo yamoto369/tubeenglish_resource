@@ -1,0 +1,207 @@
+[
+  {
+    "startTime": 0.73,
+    "endTime": 7.025,
+    "text": "Everyone knows that Spotify collects your data to find new unheard music for you to listen to."
+  },
+  {
+    "startTime": 7.025,
+    "endTime": 20.200000000000003,
+    "text": "But Spotify is not the only one interested in user behavior, banks and even governments are finding reasons to be interested in what we're listening to."
+  },
+  {
+    "startTime": 20.2,
+    "endTime": 23.575,
+    "text": "Before we get into this, click subscribe."
+  },
+  {
+    "startTime": 23.575,
+    "endTime": 27.405,
+    "text": "We promise we won't use your clicks to predict economic trends."
+  },
+  {
+    "startTime": 27.405,
+    "endTime": 32.515,
+    "text": "Spotify is constantly compiling playlists and recommending new songs."
+  },
+  {
+    "startTime": 32.515,
+    "endTime": 35.59,
+    "text": "But how do they know what people are going to like?"
+  },
+  {
+    "startTime": 35.59,
+    "endTime": 44.735,
+    "text": "They use an algorithm which categorizes every song with labels like energy, danceability, loudness, and valance."
+  },
+  {
+    "startTime": 44.735,
+    "endTime": 48.519999999999996,
+    "text": "It does this by sorting them into eight emotions."
+  },
+  {
+    "startTime": 48.52,
+    "endTime": 54.445,
+    "text": "The software then counts up the number of times each emotion is queued within a song's lyrics."
+  },
+  {
+    "startTime": 54.445,
+    "endTime": 59.365,
+    "text": "But why do economists care about how danceable popular music is?"
+  },
+  {
+    "startTime": 59.365,
+    "endTime": 62.77,
+    "text": "It's because of something called economic sentiment."
+  },
+  {
+    "startTime": 62.77,
+    "endTime": 73.51,
+    "text": "It's a way of gauging how people feel about the economy and behavioral economists use it to predict how the economy will react to different events and policies."
+  },
+  {
+    "startTime": 73.51,
+    "endTime": 79.10000000000001,
+    "text": "It's like using your boss's mood as an indicator to see if they're mad that you came in late."
+  },
+  {
+    "startTime": 80.07,
+    "endTime": 95.91999999999999,
+    "text": "But the correlation between music choice and economic behavior wasn't even thought of before Hisam Sabouni, an assistant professor at Claremont Graduate University decided to take a look at the music data just to see if there was anything interesting."
+  },
+  {
+    "startTime": 95.92,
+    "endTime": 99.155,
+    "text": "He found something really exciting."
+  },
+  {
+    "startTime": 99.155,
+    "endTime": 110.41,
+    "text": "Sabouni and his researchers took the top 100 songs from two different charts, from 2000-2016, and looked them up in the Spotify developer API."
+  },
+  {
+    "startTime": 110.41,
+    "endTime": 115.84,
+    "text": "Then they plotted them in comparison to the S&P 500 and the Nasdaq."
+  },
+  {
+    "startTime": 115.84,
+    "endTime": 133.91,
+    "text": "When they looked at the songs most popular during the global financial crisis of 2008, they found that songs labeled anticipation, disgust, sadness, fear, and anger peaked in popularity from 2008-2009 and then began to fall."
+  },
+  {
+    "startTime": 133.91,
+    "endTime": 149.07,
+    "text": "An increase of one percent in anticipation songs like Bring me to Life by Evanescence, correspond to a drop in the Nasdaq and S&P 500."
+  },
+  {
+    "startTime": 149.07,
+    "endTime": 164.11499999999998,
+    "text": "An increase in joy songs like All My Friends by Luke Bryan, correspond to an increase in the Nasdaq and S&P 500."
+  },
+  {
+    "startTime": 164.115,
+    "endTime": 181.32,
+    "text": "Increases in the danceability of songs like Wait a Minute by the Pussycat Dolls, correspond to an even bigger increase in the Nasdaq and S&P 500."
+  },
+  {
+    "startTime": 181.32,
+    "endTime": 190.635,
+    "text": "According to Sabouni's paper, these plots indicate that individuals are projecting their current states of mind into the music they choose to listen to."
+  },
+  {
+    "startTime": 190.635,
+    "endTime": 195.14999999999998,
+    "text": "You might be thinking duh, of course we listen to sad music when we're sad."
+  },
+  {
+    "startTime": 195.15,
+    "endTime": 200.34,
+    "text": "But having this data proved it which made it really useful to economists."
+  },
+  {
+    "startTime": 200.34,
+    "endTime": 205.32,
+    "text": "Andy Haldane, the Chief Economist at the Bank of England thinks that this is going to be big."
+  },
+  {
+    "startTime": 205.32,
+    "endTime": 212.805,
+    "text": "\"The resulting index of sentiment does at least as well in tracking consumer spending as the Michigan survey of consumer confidence.\""
+  },
+  {
+    "startTime": 212.805,
+    "endTime": 214.425,
+    "text": "He said in a speech."
+  },
+  {
+    "startTime": 214.425,
+    "endTime": 221.97,
+    "text": "According to Andy, understanding how economies operate is much more about how we feel rather than what we think we're doing."
+  },
+  {
+    "startTime": 221.97,
+    "endTime": 225.27,
+    "text": "Almost all behavioral economists agree with him."
+  },
+  {
+    "startTime": 225.27,
+    "endTime": 227.82000000000002,
+    "text": "But definitely not all of them."
+  },
+  {
+    "startTime": 227.82,
+    "endTime": 235.47,
+    "text": "\"You can find almost anything if you look hard enough because there are billions of bits of data produced every single day.\""
+  },
+  {
+    "startTime": 235.47,
+    "endTime": 238.56,
+    "text": "BBC Economics Editor, Kamal Ahmed said."
+  },
+  {
+    "startTime": 238.56,
+    "endTime": 246.06,
+    "text": "It's estimated that 90 percent of all data ever created has been in the past two years."
+  },
+  {
+    "startTime": 246.06,
+    "endTime": 260.22,
+    "text": "Sabouni says in his paper that they found significant short run effects where changes of frequency of words associated with anticipation and joy affect the Nasdaq's returns as well as the S&P 500's returns."
+  },
+  {
+    "startTime": 260.22,
+    "endTime": 264.18,
+    "text": "Obviously, the music we listen to doesn't change the economy."
+  },
+  {
+    "startTime": 264.18,
+    "endTime": 274.98,
+    "text": "It just indicates how people are feeling in general which in turn is an indicator of how much money people are in the mood to spend and what decisions they might make."
+  },
+  {
+    "startTime": 274.98,
+    "endTime": 280.72,
+    "text": "What's significant is who's noticed and who's going to use that information."
+  },
+  {
+    "startTime": 281.96,
+    "endTime": 285.40999999999997,
+    "text": "We are just scratching the surface with this video."
+  },
+  {
+    "startTime": 285.41,
+    "endTime": 290.27000000000004,
+    "text": "We recommend checking out Sabouni's paper which we're going to link in the description box below."
+  },
+  {
+    "startTime": 290.27,
+    "endTime": 298.62,
+    "text": "Let us know in the comments what music you listen to, and don't forget to like, click, subscribe, ring the bell for post notifications."
+  },
+  {
+    "startTime": 298.62,
+    "endTime": 301.66,
+    "text": "Bye."
+  }
+]
