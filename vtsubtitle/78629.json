@@ -1,0 +1,272 @@
+[
+  {
+    "startTime": 1.12,
+    "endTime": 3.132,
+    "text": "We've all been here."
+  },
+  {
+    "startTime": 3.133,
+    "endTime": 7.489,
+    "text": "You wanna stream a show, but when you go to load it, it does this."
+  },
+  {
+    "startTime": 7.49,
+    "endTime": 11.856,
+    "text": "In the age of high speed internet the circle can be maddening."
+  },
+  {
+    "startTime": 11.857,
+    "endTime": 19.569,
+    "text": "But before you call your provider know that you're probably already paying for faster internet speeds than you actually use."
+  },
+  {
+    "startTime": 19.57,
+    "endTime": 20.603,
+    "text": "We'll explain."
+  },
+  {
+    "startTime": 22.15,
+    "endTime": 26.009,
+    "text": "This is your computer, it connects to your router."
+  },
+  {
+    "startTime": 26.01,
+    "endTime": 30.809,
+    "text": "Your router is one of many routers which make up your provider's network."
+  },
+  {
+    "startTime": 30.81,
+    "endTime": 36.897,
+    "text": "Your provider's network is one of more than 70,000 such networks that make up the internet."
+  },
+  {
+    "startTime": 36.898,
+    "endTime": 44.451,
+    "text": "When you try to load a video or type really anything into your browser, your router sends the request on a journey across the internet."
+  },
+  {
+    "startTime": 44.452,
+    "endTime": 49.455999999999996,
+    "text": "Often, it's the journey back where things can get a little complicated and crowded."
+  },
+  {
+    "startTime": 49.457,
+    "endTime": 53.466,
+    "text": "Imagine a network of highways with delivery trucks running across it."
+  },
+  {
+    "startTime": 53.467,
+    "endTime": 57.619,
+    "text": "Each of these are packets, the basic unit of internet traffic."
+  },
+  {
+    "startTime": 57.62,
+    "endTime": 62.931999999999995,
+    "text": "Some are Amazon, some are Netflix and some might be a photo you're e-mailing to your aunt."
+  },
+  {
+    "startTime": 62.933,
+    "endTime": 68.082,
+    "text": "And they're all taking different routes based on agreements the networks have with each other."
+  },
+  {
+    "startTime": 68.083,
+    "endTime": 72.883,
+    "text": "Your video might be passed from one network to another until it gets back to you."
+  },
+  {
+    "startTime": 72.884,
+    "endTime": 78.185,
+    "text": "Or the content provider might pay a transit provider to carry the request back."
+  },
+  {
+    "startTime": 78.186,
+    "endTime": 81.869,
+    "text": "Either way, it's sharing the road with a lot of other content."
+  },
+  {
+    "startTime": 81.695,
+    "endTime": 85.45899999999999,
+    "text": "So there are plenty of places where things can get jammed up."
+  },
+  {
+    "startTime": 85.459,
+    "endTime": 94.327,
+    "text": "Anytime one network hands off content to another, there's potential for a traffic jam, which can slow down your video and cause a spinning wheel."
+  },
+  {
+    "startTime": 94.328,
+    "endTime": 103.098,
+    "text": "The important thing to understand is that you can't fix a bottleneck out here by paying your provider for higher speeds within your own network."
+  },
+  {
+    "startTime": 103.099,
+    "endTime": 107.20100000000001,
+    "text": "Your network is only responsible for this leg of the journey."
+  },
+  {
+    "startTime": 107.202,
+    "endTime": 115.241,
+    "text": "Paying for faster internet just because you encountered a spinning wheel is kind of like getting a bigger driveway in hopes you'll get to work faster."
+  },
+  {
+    "startTime": 115.242,
+    "endTime": 118.76700000000001,
+    "text": "So, what does all of this look like in real life?"
+  },
+  {
+    "startTime": 118.768,
+    "endTime": 129.464,
+    "text": "In real life, these networks are made of millions of miles of fiber and cable running around the world and connecting with each other in big data centers full of servers."
+  },
+  {
+    "startTime": 129.465,
+    "endTime": 137.602,
+    "text": "Here's an actual request for the homepage of a local broadcaster in New Zealand, provided to us by researchers at The University of Chicago."
+  },
+  {
+    "startTime": 137.603,
+    "endTime": 146.92100000000002,
+    "text": "It starts in Vienna, Virginia, outside of Washington D.C. with a Verizon Fios user and travels across the country on Verizon's network."
+  },
+  {
+    "startTime": 146.922,
+    "endTime": 153.978,
+    "text": "In California, it connects to a different network which sends it to Austin, Texas and then back to California."
+  },
+  {
+    "startTime": 153.979,
+    "endTime": 160.008,
+    "text": "It then gets handed to a transit provider which sends it across the Pacific Ocean to Auckland, New Zealand."
+  },
+  {
+    "startTime": 160.009,
+    "endTime": 163.224,
+    "text": "It likely takes a similar path back."
+  },
+  {
+    "startTime": 163.225,
+    "endTime": 166.40099999999998,
+    "text": "See all the opportunities for traffic jams?"
+  },
+  {
+    "startTime": 166.402,
+    "endTime": 169.59599999999998,
+    "text": "Other trips have few or even no hand offs."
+  },
+  {
+    "startTime": 169.597,
+    "endTime": 180.168,
+    "text": "Powerful tech companies like Google, Netflix and Amazon and content delivery networks have rolled out thousands of servers spanning the globe to get copies of popular content closer to you."
+  },
+  {
+    "startTime": 180.169,
+    "endTime": 184.93800000000002,
+    "text": "Smaller sites can rent space from some of these companies to speed up their journey."
+  },
+  {
+    "startTime": 184.939,
+    "endTime": 189.5,
+    "text": "Here's a request for netflix.com that starts in Los Angeles, California."
+  },
+  {
+    "startTime": 189.501,
+    "endTime": 192.81900000000002,
+    "text": "It goes to a server in Calipatria, California."
+  },
+  {
+    "startTime": 192.82,
+    "endTime": 193.653,
+    "text": "That's it."
+  },
+  {
+    "startTime": 194.318,
+    "endTime": 200.669,
+    "text": "So why do you sometimes get a spinning wheel when you request content from Netflix or other big tech companies?"
+  },
+  {
+    "startTime": 200.67,
+    "endTime": 206.89,
+    "text": "Well, sometimes their servers can crash and cause an outage, or maybe they took a longer route that got congested."
+  },
+  {
+    "startTime": 206.891,
+    "endTime": 209.33499999999998,
+    "text": "But the problem could be closer to home."
+  },
+  {
+    "startTime": 209.336,
+    "endTime": 213.04000000000002,
+    "text": "Are you trying to stream video during peak evening hours?"
+  },
+  {
+    "startTime": 213.041,
+    "endTime": 216.74,
+    "text": "In many networks you're sharing bandwidth with your neighbors."
+  },
+  {
+    "startTime": 216.741,
+    "endTime": 218.72400000000002,
+    "text": "Or maybe it's your WiFi."
+  },
+  {
+    "startTime": 218.725,
+    "endTime": 224.833,
+    "text": "Maybe you're leasing an out of date modem or router from your provider that isn't capable of receiving the speeds you're paying for."
+  },
+  {
+    "startTime": 224.834,
+    "endTime": 226.957,
+    "text": "It might be worth an upgrade."
+  },
+  {
+    "startTime": 226.958,
+    "endTime": 235.339,
+    "text": "You may also have an interference problem from another device, like your neighbor's baby monitor or maybe you're just too far away from your router."
+  },
+  {
+    "startTime": 235.34,
+    "endTime": 237.687,
+    "text": "Or it just could be your own device."
+  },
+  {
+    "startTime": 237.688,
+    "endTime": 241.96699999999998,
+    "text": "Are you using an old laptop or phone, or an outdated streaming box?"
+  },
+  {
+    "startTime": 241.968,
+    "endTime": 244.52599999999998,
+    "text": "Your device could be slowing you down."
+  },
+  {
+    "startTime": 244.527,
+    "endTime": 249.00799999999998,
+    "text": "It could help to restart your modem or router or even invest in a better one."
+  },
+  {
+    "startTime": 249.009,
+    "endTime": 250.52999999999997,
+    "text": "Same for your devices."
+  },
+  {
+    "startTime": 250.531,
+    "endTime": 252.466,
+    "text": "But a lot is still out of your control."
+  },
+  {
+    "startTime": 252.467,
+    "endTime": 256.106,
+    "text": "Like if your neighbor's son is downloading 15 video games one night."
+  },
+  {
+    "startTime": 256.107,
+    "endTime": 258.65200000000004,
+    "text": "Or a traffic jam out in the internet."
+  },
+  {
+    "startTime": 258.653,
+    "endTime": 266.32300000000004,
+    "text": "So next time this happens and you call your provider, they'll likely try to sell you more speed for your connection, but now you know better."
+  }
+]
