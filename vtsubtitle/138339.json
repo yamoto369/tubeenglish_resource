@@ -1,0 +1,272 @@
+[
+  {
+    "startTime": 7.025,
+    "endTime": 14.225000000000001,
+    "text": "You're a biologist on a mission to keep the rare honeybee, Apis Trifecta, from going extinct."
+  },
+  {
+    "startTime": 14.132,
+    "endTime": 18.789,
+    "text": "The last 60 bees of the species are in your terrarium."
+  },
+  {
+    "startTime": 18.789,
+    "endTime": 24.163,
+    "text": "You've already constructed wire frames of the appropriate size and shape."
+  },
+  {
+    "startTime": 24.163,
+    "endTime": 32.233000000000004,
+    "text": "Now you need to turn them into working beehives by helping the bees fill every hex with wax."
+  },
+  {
+    "startTime": 32.164,
+    "endTime": 35.424,
+    "text": "There are two ways to fill a given hex."
+  },
+  {
+    "startTime": 35.424,
+    "endTime": 38.263999999999996,
+    "text": "The first is to place a bee into it."
+  },
+  {
+    "startTime": 38.264,
+    "endTime": 42.727000000000004,
+    "text": "Once placed, a bee cannot  be removed without killing it."
+  },
+  {
+    "startTime": 42.727,
+    "endTime": 54.857,
+    "text": "The second: if at any point an unfilled hex has three or more neighboring wax-filled hexes, the bees already in the hive will move in and transform it."
+  },
+  {
+    "startTime": 54.95,
+    "endTime": 64.65,
+    "text": "Once the bees have transformed every hex in a hive, you can place an additional bee inside and it'll specialize into a queen."
+  },
+  {
+    "startTime": 64.735,
+    "endTime": 71.196,
+    "text": "The hive, if well cared for, will eventually produce new bees and continue the species."
+  },
+  {
+    "startTime": 71.286,
+    "endTime": 78.431,
+    "text": "If there are no hexes with three or more transformed neighbors, the bees will just sit and wait."
+  },
+  {
+    "startTime": 78.501,
+    "endTime": 83.78500000000001,
+    "text": "And once a bee transforms a hex, it can never become a queen."
+  },
+  {
+    "startTime": 83.785,
+    "endTime": 92.39699999999999,
+    "text": "You could put 59 bees in one wire hive, wait till they transform all the hexes, and then create a queen."
+  },
+  {
+    "startTime": 92.437,
+    "endTime": 96.437,
+    "text": "But then just one collapse would end the species."
+  },
+  {
+    "startTime": 96.437,
+    "endTime": 100.717,
+    "text": "The more viable hives you can make now, the better."
+  },
+  {
+    "startTime": 100.717,
+    "endTime": 103.817,
+    "text": "So how many can you make with 60 bees?"
+  },
+  {
+    "startTime": 103.817,
+    "endTime": 105.78699999999999,
+    "text": "Pause the video to figure it out yourself."
+  },
+  {
+    "startTime": 105.787,
+    "endTime": 106.48700000000001,
+    "text": "Answer in 3"
+  },
+  {
+    "startTime": 106.487,
+    "endTime": 108.707,
+    "text": "Answer in 2"
+  },
+  {
+    "startTime": 108.707,
+    "endTime": 110.738,
+    "text": "Answer in 1"
+  },
+  {
+    "startTime": 110.738,
+    "endTime": 111.707,
+    "text": "Answer in 0"
+  },
+  {
+    "startTime": 111.707,
+    "endTime": 121.395,
+    "text": "What you're looking for here is some  kind of self-sustaining chain reaction, where a small number of bees will transform an entire hive."
+  },
+  {
+    "startTime": 121.494,
+    "endTime": 125.144,
+    "text": "The lower the number of bees needed, the better."
+  },
+  {
+    "startTime": 125.144,
+    "endTime": 132.145,
+    "text": "So how low can we go, and how can we engineer a chain reaction?"
+  },
+  {
+    "startTime": 132.145,
+    "endTime": 133.91500000000002,
+    "text": "Let's start with the first question."
+  },
+  {
+    "startTime": 133.915,
+    "endTime": 141.975,
+    "text": "There's a really clever approach to this, which involves counting the sides of the filled-in hexes, and examining their total perimeter."
+  },
+  {
+    "startTime": 142.035,
+    "endTime": 145.615,
+    "text": "Let's suppose we put bees in these three hexes."
+  },
+  {
+    "startTime": 145.615,
+    "endTime": 149.615,
+    "text": "The total transformed perimeter has 18 sides."
+  },
+  {
+    "startTime": 149.615,
+    "endTime": 156.145,
+    "text": "But the middle hex has three transformed neighbors, so the bees will transform it too."
+  },
+  {
+    "startTime": 156.205,
+    "endTime": 157.905,
+    "text": "What happens to the perimeter?"
+  },
+  {
+    "startTime": 157.905,
+    "endTime": 159.885,
+    "text": "It's still 18!"
+  },
+  {
+    "startTime": 159.885,
+    "endTime": 167.034,
+    "text": "And even after the bees transform the next sets of hexes with three neighbors, it still won't change."
+  },
+  {
+    "startTime": 167.044,
+    "endTime": 169.09400000000002,
+    "text": "What's going on here?"
+  },
+  {
+    "startTime": 169.094,
+    "endTime": 178.646,
+    "text": "Each hex that has at least three sides touching the bee-friendly space will remove those sides from the perimeter when it transforms."
+  },
+  {
+    "startTime": 178.732,
+    "endTime": 183.388,
+    "text": "Then it adds at most three new sides to the perimeter."
+  },
+  {
+    "startTime": 183.388,
+    "endTime": 188.943,
+    "text": "So the perimeter of the transformed hexes will either stay the same or shrink."
+  },
+  {
+    "startTime": 188.943,
+    "endTime": 200.74300000000002,
+    "text": "The final perimeter of the entire hive is 54, so the total perimeter of the hexes we place bees in at the start must be at least 54 as well."
+  },
+  {
+    "startTime": 200.781,
+    "endTime": 211.35,
+    "text": "Dividing that fifty-four by the six sides on each non-adjacent hex tells us it'll take at least 9 bees to transform the entire hive."
+  },
+  {
+    "startTime": 211.49,
+    "endTime": 220.19,
+    "text": "That's a great start, but we still have the tough question of where the nine bees should go, and if we'll need more."
+  },
+  {
+    "startTime": 220.23,
+    "endTime": 221.64999999999998,
+    "text": "Let's think smaller."
+  },
+  {
+    "startTime": 221.65,
+    "endTime": 227.93,
+    "text": "We already know that three bees could completely transform a hive this big."
+  },
+  {
+    "startTime": 227.93,
+    "endTime": 229.81,
+    "text": "What about a slightly bigger one?"
+  },
+  {
+    "startTime": 229.81,
+    "endTime": 235.22,
+    "text": "The perimeter of this hive is 30, which means we'll need at least 5 bees to fill it in."
+  },
+  {
+    "startTime": 235.24,
+    "endTime": 237.17000000000002,
+    "text": "With 6 it'd be easy."
+  },
+  {
+    "startTime": 237.17,
+    "endTime": 241.64,
+    "text": "Placing them like this would fill out the whole hive in just three steps."
+  },
+  {
+    "startTime": 244.634,
+    "endTime": 246.10299999999998,
+    "text": "But we can do better!"
+  },
+  {
+    "startTime": 246.103,
+    "endTime": 253.68300000000002,
+    "text": "We don't actually need to place a bee on this hex, since the other bees will transform that spot on their own."
+  },
+  {
+    "startTime": 259.481,
+    "endTime": 262.431,
+    "text": "It looks like we have the beginning of a pattern."
+  },
+  {
+    "startTime": 262.431,
+    "endTime": 264.941,
+    "text": "Can we extend it to our full hive?"
+  },
+  {
+    "startTime": 264.941,
+    "endTime": 268.28099999999995,
+    "text": "That would mean placing our 9 bees like so."
+  },
+  {
+    "startTime": 268.281,
+    "endTime": 276.224,
+    "text": "Once they get to work, they'll create a chain reaction that fills in the center of the hive and extend it to its edges."
+  },
+  {
+    "startTime": 278.879,
+    "endTime": 283.875,
+    "text": "Add a 10th bee to the completed hive and it becomes a queen."
+  },
+  {
+    "startTime": 283.875,
+    "endTime": 293.455,
+    "text": "Repeat that process five more times and you've helped the last 60 members of Apis trifecta create 6 producing hives."
+  },
+  {
+    "startTime": 293.535,
+    "endTime": 296.70500000000004,
+    "text": "All in all, it's a pretty good bee-ginning."
+  }
+]

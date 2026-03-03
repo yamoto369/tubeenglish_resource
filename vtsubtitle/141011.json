@@ -1,0 +1,142 @@
+[
+  {
+    "startTime": 0.4,
+    "endTime": 2.9499999999999997,
+    "text": "Here's how to zoom in Minecraft on PC."
+  },
+  {
+    "startTime": 5.67,
+    "endTime": 15.07,
+    "text": "With no mods, your ability to zoom in Minecraft is limited to the FOV setting, which changes how wide or narrow your character's point of view is."
+  },
+  {
+    "startTime": 15.07,
+    "endTime": 19.793,
+    "text": "In the pause menu, click \"Options\" and you'll see the FOV slider on top."
+  },
+  {
+    "startTime": 20.96,
+    "endTime": 25.02,
+    "text": "By default, it will be set to normal, which is numerically set to 70."
+  },
+  {
+    "startTime": 26.33,
+    "endTime": 35.81,
+    "text": "By bringing the FOV to 30, your point of view will become much narrower and zoomed in, letting you see further but with minimal peripheral view."
+  },
+  {
+    "startTime": 35.81,
+    "endTime": 45.003,
+    "text": "You can see the opposite effect by widening the FOV to a higher number, which lets you see much more to your left and right but makes the distant objects feel even further."
+  },
+  {
+    "startTime": 49.7,
+    "endTime": 54.345,
+    "text": "For a more streamlined ability to zoom in-game, you'll need to download a mod."
+  },
+  {
+    "startTime": 55.29,
+    "endTime": 63.274,
+    "text": "For Java edition, the mod OptiFine is hosted on Optifine.net, where you can find the latest release under \"Downloads.\""
+  },
+  {
+    "startTime": 63.274,
+    "endTime": 66.67,
+    "text": "Make sure you download a version that matches your Minecraft version."
+  },
+  {
+    "startTime": 76.41,
+    "endTime": 81.53,
+    "text": "If you don't have it already, you may need to install Java SE to open the mod."
+  },
+  {
+    "startTime": 81.53,
+    "endTime": 86.88,
+    "text": "Go to the download page on the Oracle site to grab the latest version and install it on your computer."
+  },
+  {
+    "startTime": 91.54,
+    "endTime": 96.02000000000001,
+    "text": "With Java installed, go to your OptiFine file and open with Java."
+  },
+  {
+    "startTime": 96.02,
+    "endTime": 99.1,
+    "text": "The installer will walk you through a few simple prompts."
+  },
+  {
+    "startTime": 99.1,
+    "endTime": 104.86099999999999,
+    "text": "Once finished, you'll be prompted to click \"OK,\" which will install OptiFine as a module in the game."
+  },
+  {
+    "startTime": 106.16,
+    "endTime": 113.253,
+    "text": "Start the Minecraft launcher, and on the bottom left, confirm OptiFine appears or is selected where it says latest release."
+  },
+  {
+    "startTime": 120.14,
+    "endTime": 127.2,
+    "text": "Now in-game, you can confirm your zoom mod is installed by pressing and holding the C key to zoom in and out with a simple press."
+  },
+  {
+    "startTime": 127.2,
+    "endTime": 138.595,
+    "text": "If you'd like to change that hotkey, navigate in the game menu to \"Options,\" \"Controls,\" then scroll to the bottom to the miscellaneous section."
+  },
+  {
+    "startTime": 140.6,
+    "endTime": 143.14,
+    "text": "Here, you'll find an entry for zoom."
+  },
+  {
+    "startTime": 143.14,
+    "endTime": 148.313,
+    "text": "From here, you can select whichever key you prefer to utilize the OptiFine functionality in-game."
+  },
+  {
+    "startTime": 149.62,
+    "endTime": 152.928,
+    "text": "If you're running Bedrock, your mod options are smaller."
+  },
+  {
+    "startTime": 154.11,
+    "endTime": 159.32000000000002,
+    "text": "A recent release called Windows 10 FOV Changer on GitHub will do the trick."
+  },
+  {
+    "startTime": 159.32,
+    "endTime": 164.166,
+    "text": "Scroll down on the page to click the direct-download link and open the zip file."
+  },
+  {
+    "startTime": 172.12,
+    "endTime": 176.28300000000002,
+    "text": "Once unpacked, you may get an error opening the FOV Changer application."
+  },
+  {
+    "startTime": 178.3,
+    "endTime": 182.32000000000002,
+    "text": "This is because it only works if Minecraft Bedrock is already launched."
+  },
+  {
+    "startTime": 183.84,
+    "endTime": 186.933,
+    "text": "With Bedrock open, relaunch the FOV Changer app."
+  },
+  {
+    "startTime": 190.66,
+    "endTime": 196.31,
+    "text": "On the left, you should see a start button, and clicking that will produce a series of green check marks to confirm it's running."
+  },
+  {
+    "startTime": 199.41,
+    "endTime": 205.341,
+    "text": "With your Minecraft world loaded, pressing the V key by default will activate the FOV Changer function."
+  },
+  {
+    "startTime": 208.13,
+    "endTime": 214.253,
+    "text": "To change that hotkey, go into the FOV Changer application and adjust the button under \"Features.\""
+  }
+]
