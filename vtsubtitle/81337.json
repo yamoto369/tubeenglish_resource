@@ -1,0 +1,212 @@
+[
+  {
+    "startTime": 6.646,
+    "endTime": 10.302,
+    "text": "A few months ago we posed a challenge to our community."
+  },
+  {
+    "startTime": 10.302,
+    "endTime": 22.0,
+    "text": "We asked everyone: given a range of integers from 0 to 100, guess the whole number closest to ⅔  of the average of all numbers guessed."
+  },
+  {
+    "startTime": 22.0,
+    "endTime": 26.776,
+    "text": "So if the average of all guesses is 60, the correct guess will be 40."
+  },
+  {
+    "startTime": 26.776,
+    "endTime": 31.414,
+    "text": "What number do you think was the correct guess at ⅔ of the average?"
+  },
+  {
+    "startTime": 32.732,
+    "endTime": 36.107,
+    "text": "Let's see if we can try and reason our way to the answer."
+  },
+  {
+    "startTime": 36.107,
+    "endTime": 41.406,
+    "text": "This game is played under conditions known to game theorists as common knowledge."
+  },
+  {
+    "startTime": 41.406,
+    "endTime": 52.6,
+    "text": "Not only does every player have the same information, they also know that everyone else does, and that everyone else knows that everyone else does, and so on, infinitely."
+  },
+  {
+    "startTime": 52.618,
+    "endTime": 58.538000000000004,
+    "text": "Now, the highest possible average would occur if every person guessed 100."
+  },
+  {
+    "startTime": 58.538,
+    "endTime": 63.268,
+    "text": "In that case, ⅔ of the average would be 66.66."
+  },
+  {
+    "startTime": 63.268,
+    "endTime": 69.6,
+    "text": "Since everyone can figure this out, it wouldn't make sense to guess anything higher than 67."
+  },
+  {
+    "startTime": 69.625,
+    "endTime": 75.5,
+    "text": "If everyone playing comes to  this same conclusion, no one will guess higher than 67."
+  },
+  {
+    "startTime": 75.517,
+    "endTime": 85.39999999999999,
+    "text": "Now 67 is the new highest possible average, so no reasonable guess should be higher than ⅔ of that, which is 44."
+  },
+  {
+    "startTime": 85.439,
+    "endTime": 88.979,
+    "text": "This logic can be extended further and further."
+  },
+  {
+    "startTime": 88.98,
+    "endTime": 93.71000000000001,
+    "text": "With each step, the highest possible logical answer keeps getting smaller."
+  },
+  {
+    "startTime": 93.71,
+    "endTime": 98.274,
+    "text": "So it would seem sensible to guess the lowest number possible."
+  },
+  {
+    "startTime": 98.275,
+    "endTime": 105.0,
+    "text": "And indeed, if everyone chose zero, the game would reach what's known as a Nash Equilibrium."
+  },
+  {
+    "startTime": 105.065,
+    "endTime": 117.3,
+    "text": "This is a state where every player has chosen the best possible strategy for themselves given  everyone else playing, and no individual player can benefit by choosing differently."
+  },
+  {
+    "startTime": 117.3,
+    "endTime": 121.514,
+    "text": "But, that's not what happens in the real world."
+  },
+  {
+    "startTime": 121.514,
+    "endTime": 129.0,
+    "text": "People, as it turns out, either aren't perfectly rational, or don't expect each other to be perfectly rational."
+  },
+  {
+    "startTime": 129.038,
+    "endTime": 132.369,
+    "text": "Or, perhaps, it's some combination of the two."
+  },
+  {
+    "startTime": 132.369,
+    "endTime": 140.2,
+    "text": "When this game is played in real-world settings, the average tends to be somewhere between 20 and 35."
+  },
+  {
+    "startTime": 140.219,
+    "endTime": 152.055,
+    "text": "Danish newspaper Politiken ran the game with over 19,000 readers participating, resulting in an average of roughly 22, making the correct answer 14."
+  },
+  {
+    "startTime": 152.056,
+    "endTime": 155.758,
+    "text": "For our audience, the average was 31.3."
+  },
+  {
+    "startTime": 155.758,
+    "endTime": 161.018,
+    "text": "So if you guessed 21 as ⅔ of  the average, well done."
+  },
+  {
+    "startTime": 161.018,
+    "endTime": 169.8,
+    "text": "Economic game theorists have a way of modeling this interplay between rationality and practicality called k-level reasoning."
+  },
+  {
+    "startTime": 169.802,
+    "endTime": 174.642,
+    "text": "K stands for the number of times a cycle of reasoning is repeated."
+  },
+  {
+    "startTime": 174.642,
+    "endTime": 182.6,
+    "text": "A person playing at k-level 0 would  approach our game naively, guessing a number at random without thinking about the other players."
+  },
+  {
+    "startTime": 182.6,
+    "endTime": 192.4,
+    "text": "At k-level 1, a player would assume everyone else was playing at level 0, resulting in an average of 50, and thus guess 33."
+  },
+  {
+    "startTime": 192.416,
+    "endTime": 199.5,
+    "text": "At k-level 2, they'd assume that everyone else was playing at level 1, leading them to guess 22."
+  },
+  {
+    "startTime": 199.5,
+    "endTime": 203.096,
+    "text": "It would take 12 k-levels to reach 0."
+  },
+  {
+    "startTime": 203.096,
+    "endTime": 207.916,
+    "text": "The evidence suggests that most people stop at 1 or 2 k-levels."
+  },
+  {
+    "startTime": 207.916,
+    "endTime": 214.0,
+    "text": "And that's useful to know, because k-level thinking comes into play in high-stakes situations."
+  },
+  {
+    "startTime": 214.0,
+    "endTime": 223.1,
+    "text": "For example, stock traders evaluate stocks not only based on earnings reports, but also on the value that others  place on those numbers."
+  },
+  {
+    "startTime": 223.112,
+    "endTime": 232.73,
+    "text": "And during penalty kicks in soccer, both the shooter and the goalie decide whether to go right or left based on what they think the other person is thinking."
+  },
+  {
+    "startTime": 232.735,
+    "endTime": 240.0,
+    "text": "Goalies often memorize the patterns of their opponents ahead of time, but penalty shooters know that  and can plan accordingly."
+  },
+  {
+    "startTime": 240.0,
+    "endTime": 250.14,
+    "text": "In each case, participants must weigh their own understanding of the best course of action against how well they think other participants understand the situation."
+  },
+  {
+    "startTime": 250.144,
+    "endTime": 260.3,
+    "text": "But 1 or 2 k-levels is by no means a hard and fast rule— simply being conscious of this tendency can make people adjust their expectations."
+  },
+  {
+    "startTime": 260.345,
+    "endTime": 269.8,
+    "text": "For instance, what would happen if people played the ⅔ game after understanding the difference between the most logical approach and the most common?"
+  },
+  {
+    "startTime": 269.85,
+    "endTime": 277.8,
+    "text": "Submit your own guess at what ⅔ of the new average will be by using the form below, and we'll find out."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 282.0,
+    "text": "Want more game theory? How about this?"
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 287.2,
+    "text": "Why are so many gas stations built across the street from each other?"
+  },
+  {
+    "startTime": 287.2,
+    "endTime": 290.0,
+    "text": "Find out the answer in this video."
+  }
+]
