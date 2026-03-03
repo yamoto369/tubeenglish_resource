@@ -1,0 +1,307 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.16,
+    "text": "This video was made possible by CuriosityStream."
+  },
+  {
+    "startTime": 3.16,
+    "endTime": 6.0,
+    "text": "When you sign up for an annual subscription, you'll also get access to Nebula."
+  },
+  {
+    "startTime": 6.0,
+    "endTime": 10.4,
+    "text": "Now streaming HAI's first ever 40-minute special, which premiered yesterday."
+  },
+  {
+    "startTime": 10.4,
+    "endTime": 12.84,
+    "text": "It's about bricks."
+  },
+  {
+    "startTime": 12.84,
+    "endTime": 14.71,
+    "text": "Happy now?"
+  },
+  {
+    "startTime": 14.71,
+    "endTime": 21.0,
+    "text": "Alright so, here's the deal: there's this group of nerds called ICANN—the Internet Corporation for Assigned Names and Numbers."
+  },
+  {
+    "startTime": 21.0,
+    "endTime": 29.67,
+    "text": "And they have handed out seven keys to seven individuals spread out across the world, and with those keys, you can shut down, and reboot the Internet."
+  },
+  {
+    "startTime": 29.67,
+    "endTime": 38.0,
+    "text": "Now normally, this is where I would make a bunch of bad jokes, and call them stuff like the Fellowship of the Keys, or the Key-I Joes, or You, Key, and Dupree."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 48.42,
+    "text": "But we don't have time for that, because to understand these keys, you need to understand a bunch of complicated internet stuff that was very confusing for me to figure out, starting with DNS."
+  },
+  {
+    "startTime": 48.42,
+    "endTime": 53.0,
+    "text": "In case you don't know what DNS is, because I don't know, you had friends in college, I'll explain."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 58.0,
+    "text": "All the computers that make up the internet are identified via long numbers called IP addresses."
+  },
+  {
+    "startTime": 58.5,
+    "endTime": 65.0,
+    "text": "But when I want to go to, for example, Twitter, because I want to scroll through an endless mix of hot takes, anger, harassment, product placement."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 69.0,
+    "text": "And videos of Kanye West saying problematic things but then it turns out that he's actually a cake."
+  },
+  {
+    "startTime": 69.0,
+    "endTime": 75.27,
+    "text": "I don't want to have to type in 199.59.148.0 which is the IP address of one of the servers that hosts Twitter."
+  },
+  {
+    "startTime": 75.27,
+    "endTime": 82.28,
+    "text": "I just want to type www.twitter.com, and then be taken there so I can get to my seeing-photos-of-people-partying-during-Covid induced panic attack."
+  },
+  {
+    "startTime": 82.28,
+    "endTime": 89.0,
+    "text": "So my computer has to translate www.twitter.com into the right IP address, and it does that first by asking a whole long line of things."
+  },
+  {
+    "startTime": 89.0,
+    "endTime": 92.0,
+    "text": "First, of course, it asks Clippy, but Clippy doesn't know."
+  },
+  {
+    "startTime": 92.0,
+    "endTime": 99.0,
+    "text": "So instead, it asks your Operating System, which maybe knows, but if it doesn't it asks something called a recursive name server, which also maybe knows."
+  },
+  {
+    "startTime": 99.0,
+    "endTime": 104.409,
+    "text": "But if it doesn't, it asks the world's 13 root servers, which send you to the appropriate top-level domain server."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 114.91,
+    "text": "In this case, the one that runs all the dotcoms who sends you to the right authoritative name server, which eventually is like “oh yeah, twitter is 199.59.148.0.”"
+  },
+  {
+    "startTime": 114.91,
+    "endTime": 117.0,
+    "text": "But you need someone to administer this whole system."
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 123.25,
+    "text": "To make sure, first of all, that IP addresses aren't handed out willy nilly, and more importantly, to keep everything secure."
+  },
+  {
+    "startTime": 123.25,
+    "endTime": 126.57,
+    "text": "So people can't come in and mess with it, and say “hey check it out, this IP address for irs.gov is actually this IP address, which goes to a site called free-money-just-give-me-your-bank-info-first.totally-legit.net."
+  },
+  {
+    "startTime": 134.069,
+    "endTime": 137.929,
+    "text": "So the DNS is authenticated through a system called DNSSEC."
+  },
+  {
+    "startTime": 137.93,
+    "endTime": 144.33,
+    "text": "And I promise we're going to get to their mystical internet keys soon, but first, you need to understand how DNSSEC works."
+  },
+  {
+    "startTime": 144.33,
+    "endTime": 152.18,
+    "text": "The first important idea is asymmetrical encryption, which involves a private key and a public key, which are long numbers that are linked mathematically."
+  },
+  {
+    "startTime": 152.18,
+    "endTime": 158.579,
+    "text": "The public key is a number everybody can know, but the private key is very secret, and only held by one entity."
+  },
+  {
+    "startTime": 158.58,
+    "endTime": 167.59,
+    "text": "And this is what's important: with the private key, you can make something called a digital signature over a document, that someone can, by looking at the corresponding public key go,"
+  },
+  {
+    "startTime": 167.59,
+    "endTime": 175.299,
+    "text": "“Oh man, based on what this public key says, I know that that signature was definitely made by the person with the corresponding private key.”"
+  },
+  {
+    "startTime": 175.3,
+    "endTime": 177.0,
+    "text": "And that's how DNS is authenticated."
+  },
+  {
+    "startTime": 177.0,
+    "endTime": 185.359,
+    "text": "The information saying “twitter.com is 199.59.148.0” is signed by Twitter using their private key, and then my computer uses Twitter's public key."
+  },
+  {
+    "startTime": 185.36,
+    "endTime": 193.37900000000002,
+    "text": "Looks at the signature, and says, “yep, this signature was definitely made using Twitter's private key, so the information must be legitimate.”"
+  },
+  {
+    "startTime": 193.379,
+    "endTime": 200.41,
+    "text": "The problem is, we have to be sure that Twitter's public key, off of which I'm basing this analysis, is legit too."
+  },
+  {
+    "startTime": 200.41,
+    "endTime": 208.28,
+    "text": "So Twitter's public key is signed by a higher authority, the top-level domain server who runs all dotcoms, using their private key."
+  },
+  {
+    "startTime": 208.28,
+    "endTime": 213.89000000000001,
+    "text": "And then I use their public key to be like, “yup, this signature was made by the dotcom people.”"
+  },
+  {
+    "startTime": 213.89,
+    "endTime": 224.51899999999998,
+    "text": "But to know that public key is legit, it's signed by an even higher authority, up and up and up, until it's signed off on by ICANN, that nonprofit I mentioned earlier, using a single private key."
+  },
+  {
+    "startTime": 224.519,
+    "endTime": 231.43,
+    "text": "Every single website's IP address in DNS is ultimately secured by ICANN's single public and private key, which is called the trust anchor."
+  },
+  {
+    "startTime": 231.43,
+    "endTime": 236.18,
+    "text": "In fact, I can even show you ICANN's public key, It's this."
+  },
+  {
+    "startTime": 236.18,
+    "endTime": 245.0,
+    "text": "And I shouldn't say this, but, their private key, the super top-top-top-secret number that secures the whole internet, is seven… four… two."
+  },
+  {
+    "startTime": 245.0,
+    "endTime": 249.459,
+    "text": "Okay look, I don't know their private key, I just wanted you to think I'm cool."
+  },
+  {
+    "startTime": 249.459,
+    "endTime": 255.0,
+    "text": "Now, the numbers that make up the private key that secures the whole DNS are stored on hard drives inside physical boxes."
+  },
+  {
+    "startTime": 255.0,
+    "endTime": 261.0,
+    "text": "Called Hardware Security Modules, or HSMs for short, or H's for shorter, or “huh's” for shortest."
+  },
+  {
+    "startTime": 261.0,
+    "endTime": 269.08,
+    "text": "And there are four of them, kept in pairs in ICANN stations 2,500 miles apart: one in Culpepper, Virginia and one in El Segundo, California."
+  },
+  {
+    "startTime": 269.08,
+    "endTime": 274.0,
+    "text": "Once you get past the armed guards and pin pads, and card scanners, and biometric security stops, and sword-fighting bears."
+  },
+  {
+    "startTime": 274.0,
+    "endTime": 279.0,
+    "text": "To get into those physical HSM boxes that hold that secret number, you need several smart cards."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 287.18,
+    "text": "And those smart cards are kept inside other boxes, which can only be opened with physical keys, which are finally, held by seven people across the world."
+  },
+  {
+    "startTime": 287.18,
+    "endTime": 293.06,
+    "text": "Oh, I was kidding about the sword-fighting bears, by the way. ICANN actually uses nunchuck wielding fish."
+  },
+  {
+    "startTime": 293.06,
+    "endTime": 298.24,
+    "text": "The key-holders aren't world leaders or anything, but just security experts designated by ICANN."
+  },
+  {
+    "startTime": 298.24,
+    "endTime": 301.03000000000003,
+    "text": "In fact, I can show you who they are: it's these people."
+  },
+  {
+    "startTime": 301.03,
+    "endTime": 303.008,
+    "text": "I know, not that exciting."
+  },
+  {
+    "startTime": 303.009,
+    "endTime": 312.37,
+    "text": "Should DNS ever be compromised, five of the seven key-holders would have to go to an ICANN facility, use their keys, in what's called a “key ceremony” to get to the smart-cards."
+  },
+  {
+    "startTime": 312.37,
+    "endTime": 323.44,
+    "text": "Then use those smart-cards to physically open the box with ICANN's private key in it, and use that to shut DNS, and with it much of the functionality of the internet, down, and reset it."
+  },
+  {
+    "startTime": 323.44,
+    "endTime": 327.46,
+    "text": "Some people say the keyholders are the most powerful people in the world."
+  },
+  {
+    "startTime": 327.46,
+    "endTime": 337.0,
+    "text": "But whoever said that is an idiot, because clearly the most powerful people in the world are the Half As Interesting commenters who spent literal years demanding that we make a video about bricks."
+  },
+  {
+    "startTime": 337.0,
+    "endTime": 340.24,
+    "text": "Because guess what, we finally did it."
+  },
+  {
+    "startTime": 340.24,
+    "endTime": 343.0,
+    "text": "And it's way more than just another HAI video."
+  },
+  {
+    "startTime": 343.0,
+    "endTime": 353.0,
+    "text": "It's a 40-minute long special called The Brick Façade: A True Crime Drama and it's got action and drama and suspense and cameos and, more than anything, it's got bricks."
+  },
+  {
+    "startTime": 353.0,
+    "endTime": 356.159,
+    "text": "And it's available right now on Nebula."
+  },
+  {
+    "startTime": 356.16,
+    "endTime": 359.0,
+    "text": "The best way to get Nebula is through the CuriosityStream bundle."
+  },
+  {
+    "startTime": 359.0,
+    "endTime": 369.5,
+    "text": "For just $15 a year, for a limited time, you'll get an annual subscription to CuriosityStream, where you can watch all sorts of great full-length documentaries, and Nebula."
+  },
+  {
+    "startTime": 369.5,
+    "endTime": 371.21,
+    "text": "Just go to curiositystream.com/HAI."
+  }
+]
