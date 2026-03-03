@@ -1,0 +1,242 @@
+[
+  {
+    "startTime": 10.7,
+    "endTime": 14.049999999999999,
+    "text": "People have been keeping track of time, pretty much since people were people."
+  },
+  {
+    "startTime": 14.2,
+    "endTime": 19.939999999999998,
+    "text": "At first we just needed to have an idea of what season it was, and maybe what season was coming up next, and around when."
+  },
+  {
+    "startTime": 20.0,
+    "endTime": 24.5,
+    "text": "But after the invention of agriculture, it started being important to keep track of each day of the year."
+  },
+  {
+    "startTime": 24.66,
+    "endTime": 35.9,
+    "text": "Once you start trying to count the days of the year though, it doesn't take long to notice a problem: you just can't make a consistent calendar with the same number of days every year, because there aren't a whole number of days in the year."
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 37.601,
+    "text": "That is why today's date exists!"
+  },
+  {
+    "startTime": 37.7,
+    "endTime": 42.620000000000005,
+    "text": "We have to add an extra day to the calendar every now and then and we do it on February 29th."
+  },
+  {
+    "startTime": 42.74,
+    "endTime": 47.730000000000004,
+    "text": "The main issue is that the Earth's orbit and its rotation don't have anything to do with each other."
+  },
+  {
+    "startTime": 47.84,
+    "endTime": 54.800000000000004,
+    "text": "When our planet spins once around on its axis we call that a day, and when it completes a full orbit of the sun, we call that a solar year."
+  },
+  {
+    "startTime": 54.9,
+    "endTime": 63.28,
+    "text": "Now it'd be nice if Earth always got back to the same place in its orbit after a set number of complete rotations, which would be an exact number of days, but it doesn't."
+  },
+  {
+    "startTime": 63.28,
+    "endTime": 75.0,
+    "text": "Earth orbits the sun once every 365.2425 rotations, so if your calendar has a whole number of days, like 365 or 366, then you're counting either too few days or too many."
+  },
+  {
+    "startTime": 75.06,
+    "endTime": 83.2,
+    "text": "And if you're counting wrong, then things like the solstices, the longest and shortest days of the year, which always happen at the same point in the Earth's orbit, will move around the calendar."
+  },
+  {
+    "startTime": 83.2,
+    "endTime": 88.9,
+    "text": "That makes it a little tricky to plan for events that you want to happen on the same day every year, say a solstice celebration."
+  },
+  {
+    "startTime": 89.0,
+    "endTime": 95.7,
+    "text": "And if that wasn't complicated enough, a lot of ancient cultures, like the Babylonians, Chinese, and Romans, used calendars based on the moon."
+  },
+  {
+    "startTime": 95.8,
+    "endTime": 99.82,
+    "text": "But, the behavior of the moon, again, has nothing to do with our rotation or our orbit."
+  },
+  {
+    "startTime": 99.88,
+    "endTime": 106.69999999999999,
+    "text": "The moon goes through a little more than 12 cycles, each a little more than 29 days, in the time that it takes for the Earth to go around the sun."
+  },
+  {
+    "startTime": 106.6,
+    "endTime": 112.83999999999999,
+    "text": "And that means they had a similar problem: 12 lunar months a year is too few, but 13 lunar months in a year is too many."
+  },
+  {
+    "startTime": 112.98,
+    "endTime": 122.7,
+    "text": "So most people using a lunar calendar would have 12 months most years but then, they'd add an extra month every couple of years to keep things, like harvest, around roughly the same solar date."
+  },
+  {
+    "startTime": 122.7,
+    "endTime": 126.3,
+    "text": "Then there were the Romans, always trying to keep things interesting."
+  },
+  {
+    "startTime": 126.3,
+    "endTime": 133.78,
+    "text": "Instead of having a system in place, for how often there should be an extra month, they left it up to their highest religious authority: the Pontifex Maximus."
+  },
+  {
+    "startTime": 133.93,
+    "endTime": 137.43,
+    "text": "Which kinda worked for a while, at least until Julius Caesar came along."
+  },
+  {
+    "startTime": 137.48,
+    "endTime": 145.26,
+    "text": "The Romans thought adding those extra months was super bad luck, so they didn't want to do it while they were at war, and Julius was at war all the time."
+  },
+  {
+    "startTime": 145.32,
+    "endTime": 147.79999999999998,
+    "text": "So, the calendar got way off from where it should have been."
+  },
+  {
+    "startTime": 147.9,
+    "endTime": 155.72,
+    "text": "So eventually, Caesar decided that the Romans should just use a brand new calendar, that relied on a set system of when and where to add extra days."
+  },
+  {
+    "startTime": 155.85,
+    "endTime": 160.9,
+    "text": "And that's how we got the Julian Calendar, which Western Europe and Christian churches used for a really long time."
+  },
+  {
+    "startTime": 161.0,
+    "endTime": 171.27,
+    "text": "Most Julian years had 365 days, but like we said earlier, the year is about a quarter of a day longer than that, so every 4th year got an extra 366th day."
+  },
+  {
+    "startTime": 171.27,
+    "endTime": 173.9,
+    "text": "Seems like a good fix, but things are not that simple."
+  },
+  {
+    "startTime": 173.9,
+    "endTime": 184.0,
+    "text": "The four year system ends up slightly over-estimating the length of the year by about 10 minutes, something the designers of the Julian calendar knew about, but they decided it wasn't worth complicating the calendar over."
+  },
+  {
+    "startTime": 184.1,
+    "endTime": 186.48,
+    "text": "It's 10 minutes a year, what could go wrong?"
+  },
+  {
+    "startTime": 186.48,
+    "endTime": 189.7,
+    "text": "Well, 10 minutes a year, over a lot of years, can really add up."
+  },
+  {
+    "startTime": 189.7,
+    "endTime": 196.6,
+    "text": "By the late 1500s, around 1600 years after Caesar, the calendar was about 13 days off from where it should have been."
+  },
+  {
+    "startTime": 196.8,
+    "endTime": 203.8,
+    "text": "That's when Pope Gregory XIII, the Pontifex Maximus of the Catholic Church at the time, decided that the Julian calendar needed an overhaul."
+  },
+  {
+    "startTime": 203.93,
+    "endTime": 210.32,
+    "text": "So he put together the Gregorian calendar, the one that we still use today, which is really just the Julian Calendar with a couple of changes."
+  },
+  {
+    "startTime": 210.4,
+    "endTime": 220.8,
+    "text": "The Gregorian calendar's new rules were every four years add an extra day, except, don't add it when the year is divisible by 100 except, actually, do add it if the year is divisible by 400."
+  },
+  {
+    "startTime": 221.0,
+    "endTime": 227.48,
+    "text": "So 1700, 1800, and 1900, weren't leap years because they were all divisible by 100, but not by 400."
+  },
+  {
+    "startTime": 227.48,
+    "endTime": 231.7,
+    "text": "The year 2000 was a leap year since 2000 is divisible by 400."
+  },
+  {
+    "startTime": 231.7,
+    "endTime": 233.89999999999998,
+    "text": "And, of course, 2016 is a leap year as well."
+  },
+  {
+    "startTime": 233.94,
+    "endTime": 237.68,
+    "text": "If we were still using the Julian calendar, 2016 would still be a leap year."
+  },
+  {
+    "startTime": 237.73,
+    "endTime": 240.79999999999998,
+    "text": "But the calendar would now be behind by 16 days."
+  },
+  {
+    "startTime": 240.92,
+    "endTime": 247.5,
+    "text": "So this video would have been uploaded on February 13th, 2016 not February 29th, so it wouldn't have made any sense."
+  },
+  {
+    "startTime": 247.54,
+    "endTime": 251.23999999999998,
+    "text": "But the universe is complicated and does not care about our calendars."
+  },
+  {
+    "startTime": 251.36,
+    "endTime": 254.20000000000002,
+    "text": "So the Gregorian calendar is still a little bit too long."
+  },
+  {
+    "startTime": 254.26,
+    "endTime": 259.62,
+    "text": "We will add a day about every 7,700 years, but don't hold your breath for a new calendar."
+  },
+  {
+    "startTime": 259.75,
+    "endTime": 264.96,
+    "text": "The Gregorian calendar was only introduced when the Julian one was 13 days off from the true date."
+  },
+  {
+    "startTime": 264.96,
+    "endTime": 269.46,
+    "text": "And that won't happen to the Gregorian calendar for another 100,000 years or so."
+  },
+  {
+    "startTime": 269.46,
+    "endTime": 273.09999999999997,
+    "text": "Thank you for watching this episode of SciShow, which was brought to you by our patrons on Patreon."
+  },
+  {
+    "startTime": 273.1,
+    "endTime": 276.74,
+    "text": "If you want to help support the show, you can go to: patreon.com/SciShow"
+  },
+  {
+    "startTime": 276.76,
+    "endTime": 279.88,
+    "text": "We always very much appreciate that, it is the reason why we can do all this."
+  },
+  {
+    "startTime": 279.88,
+    "endTime": 285.52,
+    "text": "And if you want to keep getting smarter with us, as always, go to YouTube.com/SciShow and subscribe."
+  }
+]
