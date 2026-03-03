@@ -1,0 +1,242 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.8,
+    "text": "If you're deep in the Apple ecosystem, you've probably noticed that the iPhone, Apple Watch, and Mac all have calculator apps."
+  },
+  {
+    "startTime": 7.8,
+    "endTime": 9.7,
+    "text": "But the iPad doesn't."
+  },
+  {
+    "startTime": 9.7,
+    "endTime": 15.0,
+    "text": "This has left many people wondering why, and that's exactly what I'll explain right now."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 20.8,
+    "text": "When the iPad was being created, a guy named Scott Forstall was leading its software development."
+  },
+  {
+    "startTime": 20.8,
+    "endTime": 32.4,
+    "text": "He was responsible for the skeuomorphic interface featured early on in iOS, and the calculator app included with the iPad prototype was simply a scaled-up version of the iPhone's."
+  },
+  {
+    "startTime": 32.4,
+    "endTime": 46.099999999999994,
+    "text": "The software team assumed the final product would ship with this calculator, but once Steve Jobs saw it one month before the iPad's release, he met with Forstall right away saying, \"where is the new design for the calculator?\""
+  },
+  {
+    "startTime": 46.2,
+    "endTime": 47.5,
+    "text": "\"This looks awful.\""
+  },
+  {
+    "startTime": 47.5,
+    "endTime": 50.0,
+    "text": "Forstall replied, \"What new design?\""
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 51.5,
+    "text": "\"This is what we are shipping with.”"
+  },
+  {
+    "startTime": 51.5,
+    "endTime": 55.4,
+    "text": "Jobs said, \"No, pull it. We can't ship that.”"
+  },
+  {
+    "startTime": 55.4,
+    "endTime": 68.9,
+    "text": "Although Forstall tried to convince Jobs to keep the calculator on iPad, he was given an ultimatum: Redesign the calculator's user interface to make it look good on the iPad's larger display, or it won't be included."
+  },
+  {
+    "startTime": 68.9,
+    "endTime": 79.2,
+    "text": "With the iPad's release just weeks away, Forstall knew his team wouldn't be able to create a new app from scratch, so the original iPad shipped without a calculator."
+  },
+  {
+    "startTime": 79.2,
+    "endTime": 91.10000000000001,
+    "text": "Forcing users to download third-party solutions from the app store, most of which had ads and provided a worse experience than simply including a scaled-up version of the iPhone calculator."
+  },
+  {
+    "startTime": 91.1,
+    "endTime": 99.67999999999999,
+    "text": "It may seem odd for Jobs to have such strict standards for something as simple as a calculator app, but this wasn't out of the ordinary for him."
+  },
+  {
+    "startTime": 99.68,
+    "endTime": 103.2,
+    "text": "In fact, this wasn't even his first calculator fiasco."
+  },
+  {
+    "startTime": 103.2,
+    "endTime": 112.2,
+    "text": "Back in 1981, when Steve Jobs was leading development of the Macintosh, he wasn't satisfied with the initial design of the system calculator."
+  },
+  {
+    "startTime": 112.2,
+    "endTime": 118.10000000000001,
+    "text": "He told Chris Espinosa, the creator, \"Well, it's a start, but basically, it stinks."
+  },
+  {
+    "startTime": 118.1,
+    "endTime": 123.6,
+    "text": "\"The background color is too dark, some lines are the wrong thickness, and the buttons are too big.\""
+  },
+  {
+    "startTime": 123.6,
+    "endTime": 128.29999999999998,
+    "text": "So Espinosa told Jobs he'd continue working on it until he was satisfied."
+  },
+  {
+    "startTime": 128.3,
+    "endTime": 135.10000000000002,
+    "text": "But every time he created a new iteration of the calculator, Jobs would point out new things he didn't like about it."
+  },
+  {
+    "startTime": 135.1,
+    "endTime": 139.0,
+    "text": "So Espinosa decided to let Jobs be the designer instead."
+  },
+  {
+    "startTime": 139.0,
+    "endTime": 147.5,
+    "text": "By creating a program that allowed every visual attribute of the calculator to be customized, from line thickness to button size."
+  },
+  {
+    "startTime": 147.5,
+    "endTime": 154.2,
+    "text": "Jobs sat down with the new program and spent 10 minutes adjusting its design until he was satisfied."
+  },
+  {
+    "startTime": 154.2,
+    "endTime": 164.2,
+    "text": "And that calculator ended up being used with the original Macintosh in 1984 until Mac OS 9 whose latest release was in 2001."
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 165.5,
+    "text": "But what about today?"
+  },
+  {
+    "startTime": 165.5,
+    "endTime": 171.54,
+    "text": "Steve Jobs isn't CEO of Apple anymore, but they still haven't included a calculator on the iPad."
+  },
+  {
+    "startTime": 171.54,
+    "endTime": 178.79999999999998,
+    "text": "Well, it just so happens that MKBHD, or Marques Brownlee, asked Craig Federighi about this in an interview."
+  },
+  {
+    "startTime": 178.8,
+    "endTime": 180.0,
+    "text": "Here's what  he said."
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 186.0,
+    "text": "The iPad still does not have a default weather and calculator app, and they want to know why."
+  },
+  {
+    "startTime": 188.7,
+    "endTime": 212.0,
+    "text": "You know, there's some things that we, we have not done because, we, to do it, we would want to do something really distinctly great in that space, and, uh, I think it's obviously easy to create a calculator app, uh, but creating one that feels like, \"wow, this is, this is the greatest iPad calculator app that I've felt."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 221.569,
+    "text": "Like, I think we, we, we want to do it when we can do it really, really well, and we honestly have just, uh, haven't gotten around to doing it great... so."
+  },
+  {
+    "startTime": 221.569,
+    "endTime": 224.7,
+    "text": "So, uh, that, that day, that day may come, but, uh..."
+  },
+  {
+    "startTime": 224.7,
+    "endTime": 233.2,
+    "text": "So, they won't create an iPad calculator until it's truly great, which is essentially the same position Jobs took in 2010."
+  },
+  {
+    "startTime": 233.2,
+    "endTime": 237.5,
+    "text": "The problem is, they don't even appear to be working on an iPad calculator."
+  },
+  {
+    "startTime": 237.5,
+    "endTime": 240.3,
+    "text": "Since they've had over a decade to make it happen."
+  },
+  {
+    "startTime": 240.3,
+    "endTime": 245.20000000000002,
+    "text": "But we've seen Apple suffer from this sort of analysis paralysis before."
+  },
+  {
+    "startTime": 245.2,
+    "endTime": 252.79899999999998,
+    "text": "They didn't include copy and paste in iOS until years after Android since they wanted to make sure it was truly great."
+  },
+  {
+    "startTime": 252.8,
+    "endTime": 259.1,
+    "text": "And they didn't include an app library until iOS 14, something Android already had for a decade."
+  },
+  {
+    "startTime": 259.1,
+    "endTime": 269.93,
+    "text": "While it's easy to become frustrated by these quirks in Apple's philosophy, it's helpful to recognize that their restraint when adding new features probably helps more than it hurts."
+  },
+  {
+    "startTime": 269.93,
+    "endTime": 278.029,
+    "text": "It ensures they only add features that improve the user experience, instead of making it messy, complex, or counterintuitive."
+  },
+  {
+    "startTime": 278.029,
+    "endTime": 282.0,
+    "text": "Also, Apple's proven that they respond to customer feedback."
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 289.199,
+    "text": "In that same interview with MKBHD, Federighi talked about Siri, and how it should behave after a voice command."
+  },
+  {
+    "startTime": 289.199,
+    "endTime": 295.7,
+    "text": "Marques Brownlee said it's strange that Siri doesn't dismiss itself after a few seconds of completing an inquiry."
+  },
+  {
+    "startTime": 295.7,
+    "endTime": 299.7,
+    "text": "Instead, users are forced to swipe back to their content."
+  },
+  {
+    "startTime": 299.7,
+    "endTime": 308.0,
+    "text": "Later on, when iPadOS 14 was released, Apple quietly updated Siri to automatically disappear after about five seconds."
+  },
+  {
+    "startTime": 308.0,
+    "endTime": 314.05,
+    "text": "Something that makes the experience much more pleasant, especially when using hands-free voice commands."
+  },
+  {
+    "startTime": 314.05,
+    "endTime": 323.1,
+    "text": "So based Apple's previous actions, I do expect to see a native iPad calculator app, I just hope it's sooner rather than later."
+  },
+  {
+    "startTime": 323.1,
+    "endTime": 328.97,
+    "text": "All right guys, thanks for watching till the end, this is Greg from Apple Explained, and I'll see you in the next video."
+  }
+]
