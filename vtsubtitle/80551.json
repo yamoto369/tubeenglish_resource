@@ -1,0 +1,407 @@
+[
+  {
+    "startTime": 29.937,
+    "endTime": 37.377,
+    "text": "Upon emerging from stasis, Ethic is the  unfortunate recipient of three surprises."
+  },
+  {
+    "startTime": 37.377,
+    "endTime": 40.339000000000006,
+    "text": "The first: a prison cell."
+  },
+  {
+    "startTime": 40.339,
+    "endTime": 43.504,
+    "text": "The second: complete amnesia."
+  },
+  {
+    "startTime": 43.504,
+    "endTime": 47.211,
+    "text": "And the third: a mysterious stranger  has gotten stuck"
+  },
+  {
+    "startTime": 47.212,
+    "endTime": 50.867000000000004,
+    "text": "squeezing through the bars on her window."
+  },
+  {
+    "startTime": 50.867,
+    "endTime": 56.425,
+    "text": "His name is Hedge, and he has come  to help Ethic save the world."
+  },
+  {
+    "startTime": 56.425,
+    "endTime": 59.955,
+    "text": "But first they have to break out of jail."
+  },
+  {
+    "startTime": 59.956,
+    "endTime": 65.973,
+    "text": "Hedge turns his hand into a lockpick and  outlines the challenge ahead."
+  },
+  {
+    "startTime": 65.973,
+    "endTime": 70.623,
+    "text": "Each lock in the prison works  in the same unusual way."
+  },
+  {
+    "startTime": 70.623,
+    "endTime": 77.251,
+    "text": "Inside the keyhole is a red dial that can  be rotated to one of 100 positions"
+  },
+  {
+    "startTime": 77.251,
+    "endTime": 79.699,
+    "text": "numbered 1 through 100."
+  },
+  {
+    "startTime": 79.699,
+    "endTime": 84.042,
+    "text": "The key for a given cell spins the dial  to the right position,"
+  },
+  {
+    "startTime": 84.043,
+    "endTime": 88.91300000000001,
+    "text": "which, when stopped there, makes it turn  green and unlocks the door."
+  },
+  {
+    "startTime": 88.913,
+    "endTime": 93.628,
+    "text": "It would be out of the question to steal  keys from a guard,"
+  },
+  {
+    "startTime": 93.628,
+    "endTime": 96.765,
+    "text": "but Hedge has a better idea."
+  },
+  {
+    "startTime": 96.765,
+    "endTime": 99.496,
+    "text": "Hedge can carry out Ethic's commands."
+  },
+  {
+    "startTime": 99.496,
+    "endTime": 102.696,
+    "text": "If Ethic tells him to walk  5 steps forward,"
+  },
+  {
+    "startTime": 102.696,
+    "endTime": 106.17,
+    "text": "turn right, then walk another 5 steps,"
+  },
+  {
+    "startTime": 106.171,
+    "endTime": 109.72300000000001,
+    "text": "that's exactly what he'll do."
+  },
+  {
+    "startTime": 109.723,
+    "endTime": 112.844,
+    "text": "Hedge needs specific instructions though."
+  },
+  {
+    "startTime": 112.844,
+    "endTime": 117.0,
+    "text": "If Ethic says “pick the lock” or  “try every combination”"
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 123.685,
+    "text": "that would be too vague, but “spin the  dial 5 positions forward” would work."
+  },
+  {
+    "startTime": 123.685,
+    "endTime": 127.70700000000001,
+    "text": "Once out of the cell, they will only have  a few moments to crack the lock"
+  },
+  {
+    "startTime": 127.707,
+    "endTime": 132.225,
+    "text": "for the outer prison door too before  the guards catch them."
+  },
+  {
+    "startTime": 132.225,
+    "endTime": 137.704,
+    "text": "So what instructions will allow Hedge  to efficiently open any door?"
+  },
+  {
+    "startTime": 140.325,
+    "endTime": 144.39399999999998,
+    "text": "Pause now to figure it out for yourself."
+  },
+  {
+    "startTime": 145.775,
+    "endTime": 150.752,
+    "text": "Before we explain the solution,  here's a hint."
+  },
+  {
+    "startTime": 150.752,
+    "endTime": 157.18,
+    "text": "A key programming concept that can help  unlock the door is called a loop."
+  },
+  {
+    "startTime": 157.18,
+    "endTime": 162.51000000000002,
+    "text": "This can be one or more instructions  that Hedge will iterate— or repeat—"
+  },
+  {
+    "startTime": 162.51,
+    "endTime": 166.654,
+    "text": "a specified number of times,"
+  },
+  {
+    "startTime": 166.654,
+    "endTime": 170.065,
+    "text": "like “jump up and down 100 times.”"
+  },
+  {
+    "startTime": 170.065,
+    "endTime": 175.245,
+    "text": "Or an instruction that Hedge will  repeat until a condition is met,"
+  },
+  {
+    "startTime": 175.245,
+    "endTime": 180.0,
+    "text": "such as “keep jumping up and  down until it's 7 o'clock.”"
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 186.248,
+    "text": "Pause now to figure it out for yourself."
+  },
+  {
+    "startTime": 186.248,
+    "endTime": 190.136,
+    "text": "The first thing that's clear is that you  need to find a way for Hedge"
+  },
+  {
+    "startTime": 190.136,
+    "endTime": 194.23,
+    "text": "to try every combination until one works."
+  },
+  {
+    "startTime": 194.23,
+    "endTime": 198.51899999999998,
+    "text": "What takes a little more effort is  how exactly you do so."
+  },
+  {
+    "startTime": 198.52,
+    "endTime": 203.8,
+    "text": "One solution would be to instruct Hedge  to try every combination in succession."
+  },
+  {
+    "startTime": 203.8,
+    "endTime": 206.50500000000002,
+    "text": "Try 1 and check the light."
+  },
+  {
+    "startTime": 206.505,
+    "endTime": 212.353,
+    "text": "If it turns green, open the door,  and if not, try 2."
+  },
+  {
+    "startTime": 212.353,
+    "endTime": 218.243,
+    "text": "If that doesn't work try 3.  All the way up to 100."
+  },
+  {
+    "startTime": 218.243,
+    "endTime": 221.817,
+    "text": "But it would be tedious to lay  that out in its entirety."
+  },
+  {
+    "startTime": 221.817,
+    "endTime": 224.25300000000001,
+    "text": "Why write more than 100 lines of code,"
+  },
+  {
+    "startTime": 224.253,
+    "endTime": 228.387,
+    "text": "when you can do the same thing  with just 3?"
+  },
+  {
+    "startTime": 228.388,
+    "endTime": 230.683,
+    "text": "This is where a loop comes in."
+  },
+  {
+    "startTime": 230.683,
+    "endTime": 233.908,
+    "text": "There are a few ways to go about this."
+  },
+  {
+    "startTime": 233.908,
+    "endTime": 236.262,
+    "text": "The lock has 100 positions,"
+  },
+  {
+    "startTime": 236.263,
+    "endTime": 242.314,
+    "text": "so Ethic could say “Check the dial's  color, then spin the dial forward once,"
+  },
+  {
+    "startTime": 242.314,
+    "endTime": 246.196,
+    "text": "for 100 repetitions."
+  },
+  {
+    "startTime": 246.196,
+    "endTime": 253.012,
+    "text": "Remember where the dial turns green, then  have Hedge set it back to that number.”"
+  },
+  {
+    "startTime": 253.012,
+    "endTime": 257.178,
+    "text": "A loop like this, where you specify  the number of times it repeats,"
+  },
+  {
+    "startTime": 257.178,
+    "endTime": 260.164,
+    "text": "is called a “for\" loop."
+  },
+  {
+    "startTime": 260.165,
+    "endTime": 262.107,
+    "text": "But an even more efficient loop"
+  },
+  {
+    "startTime": 262.107,
+    "endTime": 267.357,
+    "text": "would have Hedge spin the dial one  position at a time until it turns green"
+  },
+  {
+    "startTime": 267.357,
+    "endTime": 271.84400000000005,
+    "text": "and as soon as that happens, have him  stop and open the door."
+  },
+  {
+    "startTime": 271.844,
+    "endTime": 275.253,
+    "text": "That way if the door unlocks on 1,"
+  },
+  {
+    "startTime": 275.253,
+    "endTime": 279.248,
+    "text": "he doesn't need to cycle through  all the rest of the numbers."
+  },
+  {
+    "startTime": 279.248,
+    "endTime": 282.662,
+    "text": "This is an “until” loop,"
+  },
+  {
+    "startTime": 282.662,
+    "endTime": 287.441,
+    "text": "because it involves doing an  action until a condition is met."
+  },
+  {
+    "startTime": 287.442,
+    "endTime": 292.211,
+    "text": "A similar, alternate approach would be  to turn the dial while it's still red,"
+  },
+  {
+    "startTime": 292.211,
+    "endTime": 294.31,
+    "text": "then stop."
+  },
+  {
+    "startTime": 294.31,
+    "endTime": 298.04200000000003,
+    "text": "That's called a “while” loop."
+  },
+  {
+    "startTime": 298.042,
+    "endTime": 299.929,
+    "text": "Back to the adventure."
+  },
+  {
+    "startTime": 299.93,
+    "endTime": 307.03000000000003,
+    "text": "Hedge loops through the combinations,  and the cell opens at 41."
+  },
+  {
+    "startTime": 307.03,
+    "endTime": 310.95,
+    "text": "Ethic and Hedge wait until the  perfect moment in the guards' rotation"
+  },
+  {
+    "startTime": 310.951,
+    "endTime": 314.48,
+    "text": "and make a break for it."
+  },
+  {
+    "startTime": 314.48,
+    "endTime": 319.887,
+    "text": "Soon, Ethic faces a choice:  hide inside a mysterious crystal,"
+  },
+  {
+    "startTime": 319.887,
+    "endTime": 323.851,
+    "text": "or try to crack the outer door  and make a run for it."
+  },
+  {
+    "startTime": 323.851,
+    "endTime": 326.117,
+    "text": "Ethic chooses to run."
+  },
+  {
+    "startTime": 328.227,
+    "endTime": 334.643,
+    "text": "The second door takes Hedge longer,  requiring him to spin all the way to 93."
+  },
+  {
+    "startTime": 334.643,
+    "endTime": 337.193,
+    "text": "But he gets it open"
+  },
+  {
+    "startTime": 343.871,
+    "endTime": 348.741,
+    "text": "and takes the opportunity  to explain why he's rescued Ethic."
+  },
+  {
+    "startTime": 348.741,
+    "endTime": 350.469,
+    "text": "The world is in turmoil:"
+  },
+  {
+    "startTime": 350.469,
+    "endTime": 354.542,
+    "text": "robots have taken over,  and only Ethic can set things right."
+  },
+  {
+    "startTime": 354.542,
+    "endTime": 355.695,
+    "text": "In order to do so,"
+  },
+  {
+    "startTime": 355.695,
+    "endTime": 358.161,
+    "text": "they'll need to collect three  powerful artifacts"
+  },
+  {
+    "startTime": 358.161,
+    "endTime": 361.623,
+    "text": "that are being used for nefarious  purposes across the land."
+  },
+  {
+    "startTime": 361.623,
+    "endTime": 365.971,
+    "text": "Only then can Ethic return to the  world machine— that giant crystal—"
+  },
+  {
+    "startTime": 365.971,
+    "endTime": 367.471,
+    "text": "to set things right."
+  },
+  {
+    "startTime": 379.685,
+    "endTime": 382.525,
+    "text": "Ethic may have escaped the prison…"
+  },
+  {
+    "startTime": 382.525,
+    "endTime": 385.455,
+    "text": "but what has she gotten herself into?"
+  }
+]

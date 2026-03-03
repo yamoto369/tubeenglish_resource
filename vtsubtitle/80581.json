@@ -1,0 +1,437 @@
+[
+  {
+    "startTime": 22.038,
+    "endTime": 24.606,
+    "text": "After breaking Ethic out of prison,"
+  },
+  {
+    "startTime": 24.606,
+    "endTime": 27.821,
+    "text": "Hedge flies them both towards  a frontier settlement"
+  },
+  {
+    "startTime": 27.821,
+    "endTime": 34.641000000000005,
+    "text": "in the shadow of the Bradbarrier,  the great wall that encircles the nation."
+  },
+  {
+    "startTime": 34.641,
+    "endTime": 38.973,
+    "text": "All the settlers there will soon gather  for the monthly feeding."
+  },
+  {
+    "startTime": 38.973,
+    "endTime": 43.188,
+    "text": "The people of the wall spend their days  gathering up works of art and literature,"
+  },
+  {
+    "startTime": 43.188,
+    "endTime": 45.788000000000004,
+    "text": "from all across the land."
+  },
+  {
+    "startTime": 45.788,
+    "endTime": 50.378,
+    "text": "On feeding day, the furnace-bots arrive,  ravenous."
+  },
+  {
+    "startTime": 50.378,
+    "endTime": 56.119,
+    "text": "If they eat, the lights stay on,  and the food gets delivered."
+  },
+  {
+    "startTime": 56.119,
+    "endTime": 59.409,
+    "text": "If they starve, the people do too."
+  },
+  {
+    "startTime": 60.0,
+    "endTime": 65.934,
+    "text": "Hedge's fuel supply runs out just as he  and Ethic reach the outskirts of town,"
+  },
+  {
+    "startTime": 65.934,
+    "endTime": 68.732,
+    "text": "and they come in for a crash landing."
+  },
+  {
+    "startTime": 70.576,
+    "endTime": 74.996,
+    "text": "Luckily, everyone is too busy preparing  for the feeding to notice."
+  },
+  {
+    "startTime": 74.996,
+    "endTime": 77.869,
+    "text": "Today's feeding is where Ethic  can find the leader"
+  },
+  {
+    "startTime": 77.87,
+    "endTime": 80.551,
+    "text": "of an underground resistance movement."
+  },
+  {
+    "startTime": 80.551,
+    "endTime": 84.819,
+    "text": "This person knows the location of the  first of three powerful artifacts."
+  },
+  {
+    "startTime": 84.819,
+    "endTime": 87.22200000000001,
+    "text": "The problem is, Hedge and  Ethic don't know"
+  },
+  {
+    "startTime": 87.222,
+    "endTime": 90.618,
+    "text": "the resistance leader's name  or appearance."
+  },
+  {
+    "startTime": 90.618,
+    "endTime": 94.8,
+    "text": "But Hedge has gathered the  following information:"
+  },
+  {
+    "startTime": 94.801,
+    "endTime": 97.21600000000001,
+    "text": "The leader has green eyes."
+  },
+  {
+    "startTime": 97.216,
+    "endTime": 103.235,
+    "text": "If the leader has red hair, their name has at least one consecutive double letter."
+  },
+  {
+    "startTime": 103.236,
+    "endTime": 108.286,
+    "text": "If the leader wear glasses,  their name has exactly 2 vowels."
+  },
+  {
+    "startTime": 108.286,
+    "endTime": 112.299,
+    "text": "Otherwise, their name has  exactly 3 vowels."
+  },
+  {
+    "startTime": 112.299,
+    "endTime": 117.10900000000001,
+    "text": "There is exactly one person for whom  these are all true."
+  },
+  {
+    "startTime": 117.109,
+    "endTime": 118.324,
+    "text": "As a fugitive,"
+  },
+  {
+    "startTime": 118.324,
+    "endTime": 122.514,
+    "text": "Ethic can't sneak into the crowd without  drawing attention to herself."
+  },
+  {
+    "startTime": 122.514,
+    "endTime": 125.326,
+    "text": "But she can give instructions to Hedge."
+  },
+  {
+    "startTime": 125.326,
+    "endTime": 129.505,
+    "text": "And one tool she has is what  programmers call a conditional."
+  },
+  {
+    "startTime": 129.505,
+    "endTime": 133.185,
+    "text": "That's a statement of the form  “If A, then B.”"
+  },
+  {
+    "startTime": 133.185,
+    "endTime": 136.376,
+    "text": "Flowcharts are great illustrations  of how those work."
+  },
+  {
+    "startTime": 136.376,
+    "endTime": 142.266,
+    "text": "This conditional translates to:  if A is true, carry out instruction B."
+  },
+  {
+    "startTime": 142.266,
+    "endTime": 146.178,
+    "text": "There are also conditionals that account  for different possibilities."
+  },
+  {
+    "startTime": 146.178,
+    "endTime": 150.025,
+    "text": "This says, “If A is true, perform  instruction B."
+  },
+  {
+    "startTime": 150.025,
+    "endTime": 153.71800000000002,
+    "text": "Otherwise, carry out instruction C.”"
+  },
+  {
+    "startTime": 153.718,
+    "endTime": 158.828,
+    "text": "So what instructions does she give Hedge  so he can find the resistance leader?"
+  },
+  {
+    "startTime": 158.828,
+    "endTime": 163.492,
+    "text": "Pause now to figure it out for yourself."
+  },
+  {
+    "startTime": 163.492,
+    "endTime": 167.40599999999998,
+    "text": "With a problem like this,  it can help to simplify first."
+  },
+  {
+    "startTime": 167.407,
+    "endTime": 170.98700000000002,
+    "text": "What if Hedge just has to examine  this one person?"
+  },
+  {
+    "startTime": 170.987,
+    "endTime": 174.232,
+    "text": "What information does he need  to collect about her?"
+  },
+  {
+    "startTime": 174.232,
+    "endTime": 177.236,
+    "text": "He might ask, “Does she have green eyes?”"
+  },
+  {
+    "startTime": 177.236,
+    "endTime": 181.688,
+    "text": "What other questions should Hedge  ask to find the resistance leader,"
+  },
+  {
+    "startTime": 181.688,
+    "endTime": 185.72699999999998,
+    "text": "and how can he track those answers?"
+  },
+  {
+    "startTime": 185.728,
+    "endTime": 190.71800000000002,
+    "text": "Pause now to figure it out for yourself."
+  },
+  {
+    "startTime": 190.718,
+    "endTime": 194.607,
+    "text": "It may seem intuitive how you'd approach  this problem as a human."
+  },
+  {
+    "startTime": 194.607,
+    "endTime": 196.38,
+    "text": "But Hedge isn't a human,"
+  },
+  {
+    "startTime": 196.38,
+    "endTime": 200.99,
+    "text": "and so the challenge comes from needing  to give him systematic instructions"
+  },
+  {
+    "startTime": 200.99,
+    "endTime": 203.654,
+    "text": "that will work in any scenario."
+  },
+  {
+    "startTime": 203.654,
+    "endTime": 206.578,
+    "text": "Hedge needs to examine the settlers,  one at a time,"
+  },
+  {
+    "startTime": 206.578,
+    "endTime": 209.139,
+    "text": "until he discovers the right person."
+  },
+  {
+    "startTime": 209.139,
+    "endTime": 212.709,
+    "text": "In other words, like with the  lock on the prison cell,"
+  },
+  {
+    "startTime": 212.709,
+    "endTime": 216.555,
+    "text": "this is a loop that repeats the  same instructions."
+  },
+  {
+    "startTime": 216.555,
+    "endTime": 220.083,
+    "text": "Only this time the loop will involve  a series of questions"
+  },
+  {
+    "startTime": 220.083,
+    "endTime": 221.77,
+    "text": "in the form of conditionals,"
+  },
+  {
+    "startTime": 221.77,
+    "endTime": 225.08100000000002,
+    "text": "and will end as soon as Hedge  finds his target."
+  },
+  {
+    "startTime": 225.081,
+    "endTime": 228.59099999999998,
+    "text": "But first, you'll want to organize  your information."
+  },
+  {
+    "startTime": 228.592,
+    "endTime": 235.13000000000002,
+    "text": "Each person has a set of characteristics:  Eye color, hair color, glasses, and name."
+  },
+  {
+    "startTime": 235.13,
+    "endTime": 237.297,
+    "text": "Does this person have green eyes?"
+  },
+  {
+    "startTime": 237.297,
+    "endTime": 242.367,
+    "text": "If so, mark a check next to “eye color.\"  If not, mark an X there."
+  },
+  {
+    "startTime": 242.367,
+    "endTime": 246.207,
+    "text": "If they have red hair, does their  name contain a double letter?"
+  },
+  {
+    "startTime": 246.207,
+    "endTime": 249.543,
+    "text": "If so, mark a check next to “hair color.”"
+  },
+  {
+    "startTime": 249.543,
+    "endTime": 253.832,
+    "text": "If they don't have a double letter,  mark an X next to “hair color.”"
+  },
+  {
+    "startTime": 253.832,
+    "endTime": 258.582,
+    "text": "Anyone with red hair and no double  letter can't be the resistance leader."
+  },
+  {
+    "startTime": 258.582,
+    "endTime": 260.832,
+    "text": "But notice that if they have blue hair,"
+  },
+  {
+    "startTime": 260.832,
+    "endTime": 265.432,
+    "text": "Hedge will skip this question and  go on to the next one."
+  },
+  {
+    "startTime": 265.432,
+    "endTime": 267.80100000000004,
+    "text": "For the last question, we can say,"
+  },
+  {
+    "startTime": 267.801,
+    "endTime": 272.551,
+    "text": "“If they wear glasses, does their name  have exactly 2 vowels?"
+  },
+  {
+    "startTime": 272.551,
+    "endTime": 278.128,
+    "text": "If they don't have glasses, does their  name have exactly 3 vowels?”"
+  },
+  {
+    "startTime": 278.129,
+    "endTime": 282.457,
+    "text": "There will be people in the crowd with  glasses and 1 vowel,"
+  },
+  {
+    "startTime": 282.457,
+    "endTime": 284.864,
+    "text": "or no glasses and 2 vowels."
+  },
+  {
+    "startTime": 284.864,
+    "endTime": 288.673,
+    "text": "But they're not who we're looking for,  so they'll get X's."
+  },
+  {
+    "startTime": 288.673,
+    "endTime": 292.198,
+    "text": "The resistance leader must be someone  with either check marks"
+  },
+  {
+    "startTime": 292.198,
+    "endTime": 295.027,
+    "text": "or blanks next to every question."
+  },
+  {
+    "startTime": 295.027,
+    "endTime": 298.113,
+    "text": "Blanks are ok, because if someone  has blue hair,"
+  },
+  {
+    "startTime": 298.113,
+    "endTime": 301.923,
+    "text": "the rule about red hair doesn't  apply to them."
+  },
+  {
+    "startTime": 301.923,
+    "endTime": 305.511,
+    "text": "You could have Hedge ask every question  about every person,"
+  },
+  {
+    "startTime": 305.511,
+    "endTime": 309.21500000000003,
+    "text": "and then choose the person with  only checks and blanks."
+  },
+  {
+    "startTime": 309.215,
+    "endTime": 314.164,
+    "text": "But there's a way to save yourself lots  of time: as soon as Hedge marks an X,"
+  },
+  {
+    "startTime": 314.167,
+    "endTime": 316.722,
+    "text": "have him move on to the next person."
+  },
+  {
+    "startTime": 316.722,
+    "endTime": 319.294,
+    "text": "You don't need to know the answer  to every question;"
+  },
+  {
+    "startTime": 319.294,
+    "endTime": 324.404,
+    "text": "just one X means they're not the target  of your search."
+  },
+  {
+    "startTime": 326.283,
+    "endTime": 328.08500000000004,
+    "text": "Hedge buzzes through the crowd,"
+  },
+  {
+    "startTime": 328.085,
+    "endTime": 331.645,
+    "text": "and within minutes finds Adila,  the resistance leader,"
+  },
+  {
+    "startTime": 331.646,
+    "endTime": 333.785,
+    "text": "and brings her back to Ethic."
+  },
+  {
+    "startTime": 333.785,
+    "endTime": 339.055,
+    "text": "Adila agrees to help them steal the first  artifact— the node of power—"
+  },
+  {
+    "startTime": 339.055,
+    "endTime": 341.01800000000003,
+    "text": "but under one condition:"
+  },
+  {
+    "startTime": 341.018,
+    "endTime": 343.746,
+    "text": "that Ethic and Hedge jump-start  the revolution"
+  },
+  {
+    "startTime": 343.746,
+    "endTime": 348.349,
+    "text": "by reprogramming the furnace-bots  that terrorize the town."
+  },
+  {
+    "startTime": 348.349,
+    "endTime": 351.128,
+    "text": "And right on cue, the robots descend."
+  }
+]
