@@ -1,0 +1,372 @@
+[
+  {
+    "startTime": 6.37,
+    "endTime": 10.719000000000001,
+    "text": "A new drug reduces  the risk of heart attacks by 40%."
+  },
+  {
+    "startTime": 10.72,
+    "endTime": 14.08,
+    "text": "Shark attacks are up by a factor of two."
+  },
+  {
+    "startTime": 14.08,
+    "endTime": 18.945,
+    "text": "Drinking a liter of soda per day  doubles your chance of developing cancer."
+  },
+  {
+    "startTime": 18.946,
+    "endTime": 22.276000000000003,
+    "text": "These are all examples of relative risk,"
+  },
+  {
+    "startTime": 22.276,
+    "endTime": 26.17,
+    "text": "a common way risk  is presented in news articles."
+  },
+  {
+    "startTime": 26.17,
+    "endTime": 30.310000000000002,
+    "text": "Risk evaluation is a complicated tangle  of statistical thinking"
+  },
+  {
+    "startTime": 30.31,
+    "endTime": 31.997,
+    "text": "and personal preference."
+  },
+  {
+    "startTime": 31.998,
+    "endTime": 34.849000000000004,
+    "text": "One common stumbling block  is the difference between"
+  },
+  {
+    "startTime": 34.849,
+    "endTime": 39.797,
+    "text": "relative risks like these  and what are called absolute risks."
+  },
+  {
+    "startTime": 39.797,
+    "endTime": 42.705999999999996,
+    "text": "Risk is the likelihood  that an event will occur."
+  },
+  {
+    "startTime": 42.707,
+    "endTime": 45.12,
+    "text": "It can be expressed  as either a percentage—"
+  },
+  {
+    "startTime": 45.12,
+    "endTime": 48.708999999999996,
+    "text": "for example, that heart attacks  occur in 11% of men"
+  },
+  {
+    "startTime": 48.71,
+    "endTime": 51.46,
+    "text": "between the ages of 60 and 79—"
+  },
+  {
+    "startTime": 51.46,
+    "endTime": 57.273,
+    "text": "or as a rate— that one in two million  divers along Australia's western coast"
+  },
+  {
+    "startTime": 57.273,
+    "endTime": 60.0,
+    "text": "will suffer a fatal shark bite each year."
+  },
+  {
+    "startTime": 60.0,
+    "endTime": 64.006,
+    "text": "These numbers express  the absolute risk of heart attacks"
+  },
+  {
+    "startTime": 64.006,
+    "endTime": 66.396,
+    "text": "and shark attacks in these groups."
+  },
+  {
+    "startTime": 66.396,
+    "endTime": 71.555,
+    "text": "Changes in risk can be expressed  in relative or absolute terms."
+  },
+  {
+    "startTime": 71.555,
+    "endTime": 76.31,
+    "text": "For example, a review in 2009  found that mammography screenings"
+  },
+  {
+    "startTime": 76.31,
+    "endTime": 82.57600000000001,
+    "text": "reduced the number of breast cancer deaths from five women in one thousand to four."
+  },
+  {
+    "startTime": 82.576,
+    "endTime": 86.196,
+    "text": "The absolute risk reduction  was about .1%."
+  },
+  {
+    "startTime": 86.196,
+    "endTime": 90.896,
+    "text": "But the relative risk reduction  from 5 cases of cancer mortality to four"
+  },
+  {
+    "startTime": 90.896,
+    "endTime": 92.562,
+    "text": "is 20%."
+  },
+  {
+    "startTime": 92.562,
+    "endTime": 94.798,
+    "text": "Based on reports of this higher number,"
+  },
+  {
+    "startTime": 94.799,
+    "endTime": 98.19900000000001,
+    "text": "people overestimated  the impact of screening."
+  },
+  {
+    "startTime": 98.199,
+    "endTime": 102.298,
+    "text": "To see why the difference between  the two ways of expressing risk matters,"
+  },
+  {
+    "startTime": 102.299,
+    "endTime": 105.319,
+    "text": "let's consider  the hypothetical example of a drug"
+  },
+  {
+    "startTime": 105.319,
+    "endTime": 109.059,
+    "text": "that reduces heart attack risk by 40%."
+  },
+  {
+    "startTime": 109.059,
+    "endTime": 111.479,
+    "text": "Imagine that out of a group  of 1,000 people"
+  },
+  {
+    "startTime": 111.479,
+    "endTime": 115.219,
+    "text": "who didn't take the new drug,  10 would have heart attacks."
+  },
+  {
+    "startTime": 115.219,
+    "endTime": 119.759,
+    "text": "The absolute risk  is 10 out of 1,000, or 1%."
+  },
+  {
+    "startTime": 119.759,
+    "endTime": 123.051,
+    "text": "If a similar group of 1,000 people  did take the drug,"
+  },
+  {
+    "startTime": 123.051,
+    "endTime": 125.929,
+    "text": "the number of heart attacks would be six."
+  },
+  {
+    "startTime": 125.929,
+    "endTime": 130.189,
+    "text": "In other words, the drug could prevent  four out of ten heart attacks—"
+  },
+  {
+    "startTime": 130.189,
+    "endTime": 133.287,
+    "text": "a relative risk reduction of 40%."
+  },
+  {
+    "startTime": 133.287,
+    "endTime": 138.735,
+    "text": "Meanwhile, the absolute risk  only dropped from 1% to 0.6%—"
+  },
+  {
+    "startTime": 138.735,
+    "endTime": 143.971,
+    "text": "but the 40% relative risk decrease  sounds a lot more significant."
+  },
+  {
+    "startTime": 143.971,
+    "endTime": 146.761,
+    "text": "Surely preventing  even a handful of heart attacks,"
+  },
+  {
+    "startTime": 146.761,
+    "endTime": 150.829,
+    "text": "or any other negative outcome,  is worthwhile— isn't it?"
+  },
+  {
+    "startTime": 150.829,
+    "endTime": 152.562,
+    "text": "Not necessarily."
+  },
+  {
+    "startTime": 152.562,
+    "endTime": 156.15900000000002,
+    "text": "The problem is that choices  that reduce some risks"
+  },
+  {
+    "startTime": 156.159,
+    "endTime": 159.159,
+    "text": "can put you in the path of others."
+  },
+  {
+    "startTime": 159.159,
+    "endTime": 164.659,
+    "text": "Suppose the heart-attack drug caused  cancer in one half of 1% of patients."
+  },
+  {
+    "startTime": 164.659,
+    "endTime": 166.999,
+    "text": "In our group of 1,000 people,"
+  },
+  {
+    "startTime": 166.999,
+    "endTime": 170.418,
+    "text": "four heart attacks  would be prevented by taking the drug,"
+  },
+  {
+    "startTime": 170.419,
+    "endTime": 174.291,
+    "text": "but there would be  five new cases of cancer."
+  },
+  {
+    "startTime": 174.291,
+    "endTime": 177.99099999999999,
+    "text": "The relative reduction  in heart attack risk sounds substantial"
+  },
+  {
+    "startTime": 177.991,
+    "endTime": 180.0,
+    "text": "and the absolute risk of cancer  sounds small,"
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 184.161,
+    "text": "but they work out  to about the same number of cases."
+  },
+  {
+    "startTime": 184.161,
+    "endTime": 185.151,
+    "text": "In real life,"
+  },
+  {
+    "startTime": 185.151,
+    "endTime": 188.241,
+    "text": "everyone's individual evaluation of risk  will vary"
+  },
+  {
+    "startTime": 188.241,
+    "endTime": 191.02100000000002,
+    "text": "depending on  their personal circumstances."
+  },
+  {
+    "startTime": 191.021,
+    "endTime": 193.641,
+    "text": "If you know you have a family history  of heart disease"
+  },
+  {
+    "startTime": 193.641,
+    "endTime": 196.891,
+    "text": "you might be more strongly motivated  to take a medication"
+  },
+  {
+    "startTime": 196.891,
+    "endTime": 198.87,
+    "text": "that would lower your heart-attack risk,"
+  },
+  {
+    "startTime": 198.871,
+    "endTime": 203.75900000000001,
+    "text": "even knowing it provided  only a small reduction in absolute risk."
+  },
+  {
+    "startTime": 203.759,
+    "endTime": 207.60799999999998,
+    "text": "Sometimes, we have to decide between  exposing ourselves to risks"
+  },
+  {
+    "startTime": 207.609,
+    "endTime": 210.049,
+    "text": "that aren't directly comparable."
+  },
+  {
+    "startTime": 210.049,
+    "endTime": 213.45000000000002,
+    "text": "If, for example, the heart attack drug  carried a higher risk"
+  },
+  {
+    "startTime": 213.45,
+    "endTime": 215.904,
+    "text": "of a debilitating,  but not life-threatening,"
+  },
+  {
+    "startTime": 215.904,
+    "endTime": 219.103,
+    "text": "side effect like migraines  rather than cancer,"
+  },
+  {
+    "startTime": 219.104,
+    "endTime": 223.48100000000002,
+    "text": "our evaluation of whether that risk  is worth taking might change."
+  },
+  {
+    "startTime": 223.481,
+    "endTime": 227.061,
+    "text": "And sometimes there isn't necessarily  a correct choice:"
+  },
+  {
+    "startTime": 227.061,
+    "endTime": 231.731,
+    "text": "some might say even a minuscule risk  of shark attack is worth avoiding,"
+  },
+  {
+    "startTime": 231.731,
+    "endTime": 234.49099999999999,
+    "text": "because all you'd miss out on  is an ocean swim,"
+  },
+  {
+    "startTime": 234.491,
+    "endTime": 237.24400000000003,
+    "text": "while others wouldn't even consider  skipping a swim"
+  },
+  {
+    "startTime": 237.244,
+    "endTime": 240.0,
+    "text": "to avoid an objectively tiny risk  of shark attack."
+  },
+  {
+    "startTime": 240.0,
+    "endTime": 245.13400000000001,
+    "text": "For all these reasons,  risk evaluation is tricky at baseline,"
+  },
+  {
+    "startTime": 245.134,
+    "endTime": 247.75599999999997,
+    "text": "and reporting on risk can be misleading,"
+  },
+  {
+    "startTime": 247.757,
+    "endTime": 251.239,
+    "text": "especially when it shares some numbers  in absolute terms"
+  },
+  {
+    "startTime": 251.239,
+    "endTime": 253.729,
+    "text": "and others in relative terms."
+  },
+  {
+    "startTime": 253.729,
+    "endTime": 255.93900000000002,
+    "text": "Understanding how these measures work"
+  },
+  {
+    "startTime": 255.939,
+    "endTime": 258.509,
+    "text": "will help you cut through  some of the confusion"
+  },
+  {
+    "startTime": 258.509,
+    "endTime": 260.699,
+    "text": "and better evaluate risk."
+  }
+]
