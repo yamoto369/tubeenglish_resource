@@ -1,0 +1,187 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 6.897,
+    "text": "\"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?\"- George Carlin"
+  },
+  {
+    "startTime": 6.897,
+    "endTime": 12.347000000000001,
+    "text": "You're cruising down the highway when all of a sudden, endless rows of brake lights appear ahead."
+  },
+  {
+    "startTime": 12.347,
+    "endTime": 17.523,
+    "text": "There's no accident, no stoplight, no change in speed limit or narrowing of the road."
+  },
+  {
+    "startTime": 17.523,
+    "endTime": 21.006999999999998,
+    "text": "So why the fuck is there so much traffic?"
+  },
+  {
+    "startTime": 21.007,
+    "endTime": 27.5,
+    "text": "When traffic comes to a near standstill for no apparent reason, it's called a phantom traffic jam."
+  },
+  {
+    "startTime": 27.5,
+    "endTime": 35.017,
+    "text": "A phantom traffic jam is an emergent phenomenon whose behavior takes on a life of its own, greater than the sum of its parts."
+  },
+  {
+    "startTime": 35.017,
+    "endTime": 46.197,
+    "text": "But in spite of this, we can actually model these jams, even understand the principles that shape them, and we're closer than you might think to preventing this kind of traffic in the future."
+  },
+  {
+    "startTime": 46.197,
+    "endTime": 51.09,
+    "text": "For a phantom traffic jam to form,  there must be a lot of cars on the road."
+  },
+  {
+    "startTime": 51.09,
+    "endTime": 62.563,
+    "text": "That doesn't mean there are necessarily too many cars to pass through a stretch of roadway smoothly, at least not if every driver maintains the same consistent speed and spacing from other drivers."
+  },
+  {
+    "startTime": 62.563,
+    "endTime": 71.641,
+    "text": "In this dense but flowing traffic, it only takes a minor disturbance to set off the chain of events that causes a traffic jam."
+  },
+  {
+    "startTime": 71.641,
+    "endTime": 74.081,
+    "text": "Say one driver brakes slightly."
+  },
+  {
+    "startTime": 74.081,
+    "endTime": 83.525,
+    "text": "Each successive driver then brakes a little more strongly, creating a wave of brake lights that propagates backward through the cars on the road."
+  },
+  {
+    "startTime": 83.525,
+    "endTime": 88.51400000000001,
+    "text": "These stop-and-go waves can travel along a highway for miles."
+  },
+  {
+    "startTime": 88.514,
+    "endTime": 101.271,
+    "text": "With a low density of cars on the road, traffic flows smoothly because small disturbances, like individual cars changing lanes or slowing down at a curve, are absorbed by other drivers' adjustments."
+  },
+  {
+    "startTime": 101.271,
+    "endTime": 113.318,
+    "text": "But once the number of cars on the road exceeds a critical density, generally when cars are spaced less than 35 meters apart, the system's behavior changes dramatically."
+  },
+  {
+    "startTime": 113.318,
+    "endTime": 119.661,
+    "text": "It begins to display dynamic instability, meaning small disturbances are amplified."
+  },
+  {
+    "startTime": 119.661,
+    "endTime": 130.046,
+    "text": "Dynamic instability isn't unique to phantom traffic jams, it's also responsible for raindrops, sand dunes, cloud patterns, and more."
+  },
+  {
+    "startTime": 130.046,
+    "endTime": 133.326,
+    "text": "The instability is a positive feedback loop."
+  },
+  {
+    "startTime": 133.326,
+    "endTime": 142.159,
+    "text": "Above the critical density, any additional vehicle reduces the number of cars per second passing through a given point on the road."
+  },
+  {
+    "startTime": 142.159,
+    "endTime": 155.18699999999998,
+    "text": "This in turn means it takes longer for a local pileup to move out of a section of the road, increasing vehicle density even more, which eventually adds up to stop-and-go traffic."
+  },
+  {
+    "startTime": 155.187,
+    "endTime": 164.43200000000002,
+    "text": "Drivers tend not to realize they need to brake far in advance of a traffic jam, which means they end up having to brake harder to avoid a collision."
+  },
+  {
+    "startTime": 164.432,
+    "endTime": 168.0,
+    "text": "This strengthens the wave of braking from vehicle to vehicle."
+  },
+  {
+    "startTime": 168.6,
+    "endTime": 178.191,
+    "text": "What's more, drivers tend to accelerate too rapidly out of a slowdown, meaning they try to drive faster than the average flow of traffic downstream of them."
+  },
+  {
+    "startTime": 178.191,
+    "endTime": 185.813,
+    "text": "Then, they have to brake again, eventually producing another feedback loop that causes more stop-and-go traffic."
+  },
+  {
+    "startTime": 185.813,
+    "endTime": 193.498,
+    "text": "In both cases, drivers make traffic worse simply because they don't have a good sense of the conditions ahead of them."
+  },
+  {
+    "startTime": 193.498,
+    "endTime": 204.578,
+    "text": "Self-driving cars equipped with data on traffic conditions ahead from connected vehicles or roadway sensors might be able to counteract phantom traffic in real-time."
+  },
+  {
+    "startTime": 204.578,
+    "endTime": 215.407,
+    "text": "These vehicles would maintain a uniform speed, safety permitting, that matches the average speed of the overall flow, preventing traffic waves from forming."
+  },
+  {
+    "startTime": 215.407,
+    "endTime": 227.977,
+    "text": "In situations where there's already a traffic wave, the automated vehicle would be able to anticipate it, braking sooner and more gradually than a human driver and reducing the strength of the wave."
+  },
+  {
+    "startTime": 227.977,
+    "endTime": 231.197,
+    "text": "And it wouldn't take that many self-driving cars."
+  },
+  {
+    "startTime": 231.197,
+    "endTime": 240.24,
+    "text": "In a recent experiment, one autonomous vehicle for every 20 human drivers was enough to dampen and prevent traffic waves."
+  },
+  {
+    "startTime": 240.24,
+    "endTime": 249.24,
+    "text": "Traffic jams are not only a daily annoyance, they're a major cause of fatalities, wasted resources, and planet-threatening pollution."
+  },
+  {
+    "startTime": 249.24,
+    "endTime": 258.01,
+    "text": "But new technology may help reduce these patterns, rendering our roads safer, our daily commutes more efficient, and our air cleaner."
+  },
+  {
+    "startTime": 258.01,
+    "endTime": 270.207,
+    "text": "And the next time you're stuck in traffic, it may help to remember that other drivers aren't necessarily driving spitefully, but are simply unaware of road conditions ahead, and drive accordingly."
+  },
+  {
+    "startTime": 271.5,
+    "endTime": 273.5,
+    "text": "In a hurry but love physics?"
+  },
+  {
+    "startTime": 273.5,
+    "endTime": 275.0,
+    "text": "We've got a book rec for you."
+  },
+  {
+    "startTime": 275.0,
+    "endTime": 281.0,
+    "text": "Astrophysics for People in a Hurry is fun, accessible and may just blow your mind."
+  },
+  {
+    "startTime": 281.0,
+    "endTime": 290.0,
+    "text": "Download a free audiobook version from audible.com/ted-ed and get lost in the stars."
+  }
+]

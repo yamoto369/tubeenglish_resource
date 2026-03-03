@@ -1,0 +1,257 @@
+[
+  {
+    "startTime": 1.5,
+    "endTime": 6.0,
+    "text": "'\"I never voted for anybody. I always voted against.\" - W.C. Fields, quoted in \"W.C. Fields: His Follies and Fortunes\"'."
+  },
+  {
+    "startTime": 6.817,
+    "endTime": 16.65,
+    "text": "Imagine we want to build a new space port at one of four recently settled Martian bases, and are holding a vote to determine its location."
+  },
+  {
+    "startTime": 16.65,
+    "endTime": 28.252,
+    "text": "Of the hundred colonists on Mars, 42 live on West Base, 26 on North Base, 15 on South Base, and 17 on East Base."
+  },
+  {
+    "startTime": 28.252,
+    "endTime": 37.155,
+    "text": "For our purposes, let's assume that everyone prefers the space port to be as close to their base as possible, and will vote accordingly."
+  },
+  {
+    "startTime": 37.155,
+    "endTime": 40.445,
+    "text": "What is the fairest way to conduct that vote?"
+  },
+  {
+    "startTime": 40.445,
+    "endTime": 48.75,
+    "text": "The most straightforward solution would be to just let each individual cast a single ballot, and choose the location with the most votes."
+  },
+  {
+    "startTime": 48.75,
+    "endTime": 54.119,
+    "text": "This is known as plurality voting, or \"first past the post.\""
+  },
+  {
+    "startTime": 54.119,
+    "endTime": 59.791,
+    "text": "In this case, West Base wins easily, since it has more residents than any other."
+  },
+  {
+    "startTime": 59.791,
+    "endTime": 67.045,
+    "text": "And yet, most colonists would consider this the worst result, given how far it is from everyone else."
+  },
+  {
+    "startTime": 67.045,
+    "endTime": 72.099,
+    "text": "So, is plurality vote really the fairest method?"
+  },
+  {
+    "startTime": 72.099,
+    "endTime": 81.59100000000001,
+    "text": "What if we tried a system like instant runoff voting, which accounts for the full range of people's preferences rather than just their top choices?"
+  },
+  {
+    "startTime": 81.591,
+    "endTime": 83.131,
+    "text": "Here's how it would work."
+  },
+  {
+    "startTime": 83.131,
+    "endTime": 89.651,
+    "text": "First, voters rank each of the options from 1 to 4, and we compare their top picks."
+  },
+  {
+    "startTime": 89.651,
+    "endTime": 94.348,
+    "text": "South receives the fewest votes for first place, so it's eliminated."
+  },
+  {
+    "startTime": 94.348,
+    "endTime": 103.666,
+    "text": "Its 15 votes get allocated to those voters' second choice — East Base — giving it a total of 32."
+  },
+  {
+    "startTime": 103.666,
+    "endTime": 109.17699999999999,
+    "text": "We then compare top preferences and cut the last place option again."
+  },
+  {
+    "startTime": 109.177,
+    "endTime": 111.35700000000001,
+    "text": "This time, North Base is eliminated."
+  },
+  {
+    "startTime": 111.357,
+    "endTime": 119.19,
+    "text": "Its residents' second choice would've been South Base, but since that's already gone, the votes go to their third choice."
+  },
+  {
+    "startTime": 119.19,
+    "endTime": 125.39,
+    "text": "That gives East 58 votes over West's 42, making it the winner."
+  },
+  {
+    "startTime": 125.39,
+    "endTime": 128.09,
+    "text": "But this doesn't seem fair either."
+  },
+  {
+    "startTime": 128.09,
+    "endTime": 136.28,
+    "text": "Not only did East start out in second-to-last place, but a majority ranked it among their two least preferred options."
+  },
+  {
+    "startTime": 136.28,
+    "endTime": 145.057,
+    "text": "Instead of using rankings, we could try voting in multiple rounds, with the top two winners proceeding to a separate runoff."
+  },
+  {
+    "startTime": 145.057,
+    "endTime": 150.84799999999998,
+    "text": "Normally, this would mean West and North winning the first round, and North winning the second."
+  },
+  {
+    "startTime": 150.848,
+    "endTime": 159.36900000000003,
+    "text": "But the residents of East Base realize that while they don't have the votes to win, they can still skew the results in their favor."
+  },
+  {
+    "startTime": 159.369,
+    "endTime": 166.299,
+    "text": "In the first round, they vote for South Base instead of their own, successfully keeping North from advancing."
+  },
+  {
+    "startTime": 166.299,
+    "endTime": 175.17700000000002,
+    "text": "Thanks to this \"tactical voting\" by East Base residents, South wins the second round easily, despite being the least populated."
+  },
+  {
+    "startTime": 175.177,
+    "endTime": 181.712,
+    "text": "Can a system be called fair and good if it incentivizes lying about your preferences?"
+  },
+  {
+    "startTime": 181.712,
+    "endTime": 188.676,
+    "text": "Maybe what we need to do is let voters express a preference in every possible head-to-head matchup."
+  },
+  {
+    "startTime": 188.676,
+    "endTime": 191.671,
+    "text": "This is known as the Condorcet method."
+  },
+  {
+    "startTime": 191.671,
+    "endTime": 195.203,
+    "text": "Consider one matchup:  West versus North."
+  },
+  {
+    "startTime": 195.203,
+    "endTime": 198.713,
+    "text": "All 100 colonists vote on their preference between the two."
+  },
+  {
+    "startTime": 198.713,
+    "endTime": 205.731,
+    "text": "So that's West's 42 versus the 58 from North, South, and East, who would all prefer North."
+  },
+  {
+    "startTime": 205.731,
+    "endTime": 209.066,
+    "text": "Now do the same for the other five matchups."
+  },
+  {
+    "startTime": 209.066,
+    "endTime": 212.661,
+    "text": "The victor will be whichever base wins the most times."
+  },
+  {
+    "startTime": 212.661,
+    "endTime": 216.622,
+    "text": "Here, North wins three and South wins two."
+  },
+  {
+    "startTime": 216.622,
+    "endTime": 225.65900000000002,
+    "text": "These are indeed the two most central locations, and North has the advantage of not being anyone's least preferred choice."
+  },
+  {
+    "startTime": 225.659,
+    "endTime": 230.846,
+    "text": "So, does that make the Condorcet method an ideal voting system in general?"
+  },
+  {
+    "startTime": 230.846,
+    "endTime": 233.17600000000002,
+    "text": "Not necessarily."
+  },
+  {
+    "startTime": 233.176,
+    "endTime": 235.87699999999998,
+    "text": "Consider an election with three candidates."
+  },
+  {
+    "startTime": 235.877,
+    "endTime": 244.151,
+    "text": "If voters prefer A over B, and B over C, but prefer C over A, this method fails to select a winner."
+  },
+  {
+    "startTime": 244.151,
+    "endTime": 254.84,
+    "text": "Over the decades, researchers and statisticians have come up with dozens of intricate ways of conducting and counting votes, and some have even been put into practice."
+  },
+  {
+    "startTime": 254.84,
+    "endTime": 261.508,
+    "text": "But whichever one you choose, it's possible to imagine it delivering an unfair result."
+  },
+  {
+    "startTime": 261.508,
+    "endTime": 269.59,
+    "text": "It turns out that our intuitive concept of fairness actually contains a number of assumptions that may contradict each other."
+  },
+  {
+    "startTime": 269.59,
+    "endTime": 273.90999999999997,
+    "text": "It doesn't seem fair for some voters to have more influence than others."
+  },
+  {
+    "startTime": 273.91,
+    "endTime": 281.41900000000004,
+    "text": "But nor does it seem fair to simply ignore minority preferences, or encourage people to game the system."
+  },
+  {
+    "startTime": 281.419,
+    "endTime": 295.513,
+    "text": "In fact, mathematical proofs have shown that for any election with more than two options, it's impossible to design a voting system that doesn't violate at least some theoretically desirable criteria."
+  },
+  {
+    "startTime": 295.513,
+    "endTime": 305.46299999999997,
+    "text": "So while we often think of democracy as a simple matter of counting votes, it's also worth considering who benefits from the different ways of counting them."
+  },
+  {
+    "startTime": 308.0,
+    "endTime": 317.5,
+    "text": "The United States' use of the electoral college to elect presidents instead of the popular vote has become increasingly contentious in recent years."
+  },
+  {
+    "startTime": 317.5,
+    "endTime": 320.0,
+    "text": "How exactly does this system work?"
+  },
+  {
+    "startTime": 320.0,
+    "endTime": 322.5,
+    "text": "And is it fair? Or antiquated."
+  },
+  {
+    "startTime": 322.5,
+    "endTime": 324.0,
+    "text": "Find out here."
+  }
+]
