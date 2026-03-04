@@ -1,0 +1,432 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 10.0,
+    "text": "This week at the company's annual conference in Las Vegas, Adobe emphasized that AI is very much part of its future and that it plans to capitalize on this big technology shift."
+  },
+  {
+    "startTime": 10.12,
+    "endTime": 13.479999999999999,
+    "text": "Here with more, we are now joined by Adobe's David Wadwani."
+  },
+  {
+    "startTime": 13.6,
+    "endTime": 15.52,
+    "text": "David, thank you for joining the show."
+  },
+  {
+    "startTime": 15.52,
+    "endTime": 18.759999999999998,
+    "text": "I wanna get right to a data point that stood out here."
+  },
+  {
+    "startTime": 18.9,
+    "endTime": 25.119999999999997,
+    "text": "Adobe now sees its total addressable market reaching 293 billion in 2027."
+  },
+  {
+    "startTime": 25.3,
+    "endTime": 29.0,
+    "text": "That is up from a projected $205 billion in 2024."
+  },
+  {
+    "startTime": 29.28,
+    "endTime": 31.68,
+    "text": "So, you know, David, that's a nice size jump."
+  },
+  {
+    "startTime": 31.68,
+    "endTime": 36.599,
+    "text": "What explains that jump and how much of that market do you think Adobe can ultimately capture?"
+  },
+  {
+    "startTime": 37.52,
+    "endTime": 39.68000000000001,
+    "text": "Yeah, thanks for having me, Josh."
+  },
+  {
+    "startTime": 39.68,
+    "endTime": 43.8,
+    "text": "First of all, it is a significant growth in what we see in the market."
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 50.0,
+    "text": "And a lot of it is driven by the fact that generative AI is helping make creativity and communication."
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 59.0,
+    "text": "And also marketing and digital experience is much more approachable for everyone from communicators, all the way up to the largest enterprises in the world."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 69.199,
+    "text": "And given that we already do business across that spectrum, it's giving us an opportunity to reach those customers in a much more significant way than we've been able to reach in the past."
+  },
+  {
+    "startTime": 69.199,
+    "endTime": 73.199,
+    "text": "So we feel that we are going to be one of the primary winners of that market."
+  },
+  {
+    "startTime": 73.199,
+    "endTime": 76.839,
+    "text": "And we're very excited about the announcements we had at Summit yesterday."
+  },
+  {
+    "startTime": 76.839,
+    "endTime": 80.0,
+    "text": "Yeah, and so David, let's dig right into some of those announcements."
+  },
+  {
+    "startTime": 80.0,
+    "endTime": 82.599,
+    "text": "One, you unveiled Firefly services."
+  },
+  {
+    "startTime": 82.599,
+    "endTime": 86.839,
+    "text": "Walk us through that product, David, and just what it's gonna mean for Adobe customers."
+  },
+  {
+    "startTime": 86.839,
+    "endTime": 93.3,
+    "text": "Great, yeah, for those viewers that don't know what Firefly is, Firefly is Adobe-owned generative models,"
+  },
+  {
+    "startTime": 93.5,
+    "endTime": 112.199,
+    "text": "so foundation models that let you create the widest set of AI creative content in the world, everything from imaging to design to text to vectors and other capabilities coming like video and audio and 3D later this year."
+  },
+  {
+    "startTime": 112.199,
+    "endTime": 116.839,
+    "text": "What we did was we enabled all of the ability to reach all of that through API."
+  },
+  {
+    "startTime": 116.839,
+    "endTime": 126.0,
+    "text": "So you can now, through an API, an application programming interface, enable automation in enterprise workflows so that you can generate content, you can assemble content,"
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 138.32,
+    "text": "and then you can distribute that content through an automation layer that helps enterprises move much more quickly and produce more content that they can use for personalizing their experiences with their customers."
+  },
+  {
+    "startTime": 138.32,
+    "endTime": 142.63899999999998,
+    "text": "And another product I wanna touch on with you, David, because it made some headlines, was GenStudio."
+  },
+  {
+    "startTime": 142.639,
+    "endTime": 149.16,
+    "text": "So this kinda sounded like a sort of end-to-end platform for delivering campaign content, David."
+  },
+  {
+    "startTime": 149.16,
+    "endTime": 151.32,
+    "text": "That's exactly what it is."
+  },
+  {
+    "startTime": 151.32,
+    "endTime": 158.79999999999998,
+    "text": "Every enterprise is struggling with content velocity, so they need to think about their content as a content supply chain."
+  },
+  {
+    "startTime": 158.8,
+    "endTime": 162.24,
+    "text": "How do you start by planning what you want to build?"
+  },
+  {
+    "startTime": 162.4,
+    "endTime": 165.639,
+    "text": "How do you actually go through the process of creating that content?"
+  },
+  {
+    "startTime": 165.639,
+    "endTime": 170.75900000000001,
+    "text": "How do you decide how to activate it and distribute it and what channels you want it to go out on?"
+  },
+  {
+    "startTime": 170.759,
+    "endTime": 172.039,
+    "text": "And then how do you measure it?"
+  },
+  {
+    "startTime": 172.039,
+    "endTime": 178.16,
+    "text": "And all of it sort of sitting on a platform of how do you manage, just the proliferation of content you're creating."
+  },
+  {
+    "startTime": 178.16,
+    "endTime": 180.24,
+    "text": "Content is fueling the global economy."
+  },
+  {
+    "startTime": 180.24,
+    "endTime": 186.03900000000002,
+    "text": "Digital content is really the way that enterprises need to engage their customers and drive and grow their business."
+  },
+  {
+    "startTime": 186.039,
+    "endTime": 192.35999999999999,
+    "text": "And this is a single solution and application that they can do all of those five stages on."
+  },
+  {
+    "startTime": 192.36,
+    "endTime": 203.88000000000002,
+    "text": "You know, David, when we talk about AI and these sort of AI innovations you are announcing here, one question, certainly for investors, when are they gonna see meaningful AI monetization, David?"
+  },
+  {
+    "startTime": 203.88,
+    "endTime": 206.44,
+    "text": "Any sense of timeline there?"
+  },
+  {
+    "startTime": 206.44,
+    "endTime": 208.759,
+    "text": "Is that late 2024, 2025?"
+  },
+  {
+    "startTime": 208.759,
+    "endTime": 210.51999999999998,
+    "text": "How are you thinking about it?"
+  },
+  {
+    "startTime": 210.52,
+    "endTime": 224.36,
+    "text": "Yeah, we've been very clear with investors that we are hyper-focused on really the proliferation of the use of this technology, starting in October of last year when we took a lot of this technology generally available."
+  },
+  {
+    "startTime": 224.36,
+    "endTime": 227.44000000000003,
+    "text": "And since then, we have seen an incredible adoption."
+  },
+  {
+    "startTime": 227.44,
+    "endTime": 235.91899999999998,
+    "text": "First of all, one of the key things about the way we do AI is we build these products, these models responsibly, so everyone knows what we train on."
+  },
+  {
+    "startTime": 235.919,
+    "endTime": 244.199,
+    "text": "And then secondly, we integrate it into our tools, everything from Photoshop to Adobe Express, all the way into our enterprise products that we just talked about."
+  },
+  {
+    "startTime": 244.199,
+    "endTime": 250.399,
+    "text": "We've now generated over 6.5 billion assets with all of this, so we feel really good about that proliferation."
+  },
+  {
+    "startTime": 250.399,
+    "endTime": 254.88,
+    "text": "And we are now starting to look at different ways to monetize it more actively."
+  },
+  {
+    "startTime": 254.88,
+    "endTime": 261.2,
+    "text": "We've said we should expect to see some of the benefit of that in the back half of this year, and certainly ramping going forward."
+  },
+  {
+    "startTime": 261.2,
+    "endTime": 266.0,
+    "text": "But we're thrilled with the adoption, and that gives us all the levers we need to monetize this over time."
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 270.519,
+    "text": "David, when you talk about AI, one issue that comes up, and for good reason, it's copyright issues."
+  },
+  {
+    "startTime": 270.519,
+    "endTime": 276.48,
+    "text": "What's interesting to note is Adobe actually provides legal protection for users, a legal shield."
+  },
+  {
+    "startTime": 276.48,
+    "endTime": 278.35900000000004,
+    "text": "Explain that for us."
+  },
+  {
+    "startTime": 278.359,
+    "endTime": 280.959,
+    "text": "Yeah, this is very important, and thank you for asking the question."
+  },
+  {
+    "startTime": 280.959,
+    "endTime": 283.04,
+    "text": "I don't think it gets enough coverage."
+  },
+  {
+    "startTime": 283.04,
+    "endTime": 288.48,
+    "text": "The problem with AI is also a question and a discussion we need to have around: how is the AI trained?"
+  },
+  {
+    "startTime": 288.48,
+    "endTime": 292.079,
+    "text": "Where are we getting the content, and how are we enabling that content to be trained?"
+  },
+  {
+    "startTime": 292.079,
+    "endTime": 299.23900000000003,
+    "text": "Adobe is one of the only companies that trains our models on content that we have 100% access to and 100% license to."
+  },
+  {
+    "startTime": 299.239,
+    "endTime": 301.839,
+    "text": "We're also very transparent about how we train that license."
+  },
+  {
+    "startTime": 301.839,
+    "endTime": 309.959,
+    "text": "So therefore, everything that people use for generative AI, if you're an organization, really we're one of the only choices in market."
+  },
+  {
+    "startTime": 309.959,
+    "endTime": 325.6,
+    "text": "The second thing we do is that everything that gets created with our artificial intelligence, or any of our tools for that matter, is inserted with content authenticity, meaning it's like a digital label, a nutrition label for how this content was created,"
+  },
+  {
+    "startTime": 325.8,
+    "endTime": 332.119,
+    "text": "so that not only do enterprises know where they got the content, but when the content does go out, consumers will know how the content was produced."
+  },
+  {
+    "startTime": 332.119,
+    "endTime": 338.72,
+    "text": "And we think this is a really important thing, especially in an election year when over 50% of the world is going out to vote."
+  },
+  {
+    "startTime": 338.72,
+    "endTime": 341.23900000000003,
+    "text": "David, I wanna bring this back to investors."
+  },
+  {
+    "startTime": 341.239,
+    "endTime": 350.11899999999997,
+    "text": "You know, when you talk about your TAM, David, that total addressable market, and you see it kind of growing mid-teens, but you also are just projecting about 10% growth."
+  },
+  {
+    "startTime": 350.119,
+    "endTime": 358.48,
+    "text": "There's some investors, David, who might hear that and think, you know, Adobe is a real leader here. It should be growing faster than the overall market."
+  },
+  {
+    "startTime": 358.48,
+    "endTime": 360.88,
+    "text": "What is your response to that?"
+  },
+  {
+    "startTime": 360.88,
+    "endTime": 368.679,
+    "text": "I come back to, you know, Adobe has always taken a long view on the market, and that's really what made us the company that we are today."
+  },
+  {
+    "startTime": 368.679,
+    "endTime": 384.59999999999997,
+    "text": "We could, of course, take actions that are gonna drive more revenue in the short term, but we feel the right game to do right now is to drive proliferation, really get everyone adopting our technology, and then ramp the value and the monetization over time."
+  },
+  {
+    "startTime": 384.6,
+    "endTime": 396.279,
+    "text": "For us, it is about making sure that Adobe and Firefly and GenStudio are the places that companies and individuals come to create content more effectively, and then monetization will follow."
+  },
+  {
+    "startTime": 396.279,
+    "endTime": 398.64,
+    "text": "And David, I wanna get you out of here on a question about competition."
+  },
+  {
+    "startTime": 398.64,
+    "endTime": 402.399,
+    "text": "It interests me when folks saw OpenAI's Sora, David."
+  },
+  {
+    "startTime": 402.399,
+    "endTime": 405.559,
+    "text": "I'm sure some Adobe investors, they might've gotten nervous, right?"
+  },
+  {
+    "startTime": 405.559,
+    "endTime": 420.0,
+    "text": "I'm more interested in how you at Adobe saw that, and whether actually you saw that as a kind of opportunity, meaning it's one thing to generate an image, but, you know, if you wanna cut, you wanna edit, et cetera, you still have to look for those Adobe tools."
+  },
+  {
+    "startTime": 420.0,
+    "endTime": 421.839,
+    "text": "Is that how you saw it?"
+  },
+  {
+    "startTime": 421.839,
+    "endTime": 422.679,
+    "text": "Absolutely."
+  },
+  {
+    "startTime": 422.679,
+    "endTime": 425.279,
+    "text": "Content production has always had multiple steps."
+  },
+  {
+    "startTime": 425.279,
+    "endTime": 431.32,
+    "text": "It starts with capturing content, then it goes into producing that content, and it goes into distributing that content."
+  },
+  {
+    "startTime": 431.32,
+    "endTime": 437.59999999999997,
+    "text": "Adobe has always played in the producing phase of this, and we think that's a massive market that we're gonna continue to play in."
+  },
+  {
+    "startTime": 437.6,
+    "endTime": 440.44,
+    "text": "What Sora does is it really addresses the capture part."
+  },
+  {
+    "startTime": 440.44,
+    "endTime": 447.04,
+    "text": "So today, most of the content that's created that gets edited in our tools is through cameras and video machines."
+  },
+  {
+    "startTime": 447.04,
+    "endTime": 455.79900000000004,
+    "text": "Today with Sora, we're gonna expect to see more video created that needs to flow into our tools, and we're gonna integrate Sora and other video models directly into our tools."
+  },
+  {
+    "startTime": 455.799,
+    "endTime": 459.15999999999997,
+    "text": "I do wanna also add that we have our own technology."
+  },
+  {
+    "startTime": 459.16,
+    "endTime": 463.6,
+    "text": "The research is very similar to what Sora is doing, and we expect to have that out later this year."
+  },
+  {
+    "startTime": 463.6,
+    "endTime": 466.44,
+    "text": "So we feel very pleased with what Sora is doing."
+  },
+  {
+    "startTime": 466.44,
+    "endTime": 472.519,
+    "text": "We'll have our own with hopefully increased levels of controllability, but it all flows into our tools and helps our business."
+  },
+  {
+    "startTime": 472.519,
+    "endTime": 474.399,
+    "text": "David, thank you so much for joining the show today."
+  },
+  {
+    "startTime": 474.399,
+    "endTime": 475.839,
+    "text": "Appreciate your time."
+  },
+  {
+    "startTime": 475.839,
+    "endTime": 477.339,
+    "text": "Thank you for having me, Josh."
+  }
+]

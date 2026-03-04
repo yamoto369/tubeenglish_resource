@@ -1,0 +1,262 @@
+[
+  {
+    "startTime": 0.28,
+    "endTime": 6.8,
+    "text": "This is NVIDIA project GR00T."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 12.989,
+    "text": "A general purpose foundation model for humanoid robot learning."
+  },
+  {
+    "startTime": 12.989,
+    "endTime": 23.200000000000003,
+    "text": "The GR00T model takes multimodal instructions and past interactions as input and produces the next action for the robot to execute."
+  },
+  {
+    "startTime": 23.309,
+    "endTime": 29.569000000000003,
+    "text": "We developed Isaac Lab, a robot learning application to train GR00T on Omniverse Isaac Sim."
+  },
+  {
+    "startTime": 30.579,
+    "endTime": 41.04,
+    "text": "And we scale out with OSMO, a new compute orchestration service that coordinates workflows across DGX systems for training and OVX systems for simulation."
+  },
+  {
+    "startTime": 42.22,
+    "endTime": 49.43,
+    "text": "With these tools, we can train GR00T in physically based simulation and transfer zero shot to the real world."
+  },
+  {
+    "startTime": 51.04,
+    "endTime": 64.05,
+    "text": "The group model will enable a robot to learn from a handful of human demonstrations so it can help with everyday tasks and emulate human movement just by observing us."
+  },
+  {
+    "startTime": 65.86,
+    "endTime": 76.6,
+    "text": "This is made possible with invidious technologies that can understand humans from videos, train models and simulation and ultimately deploy them directly to physical robots."
+  },
+  {
+    "startTime": 76.8,
+    "endTime": 84.22,
+    "text": "Connecting group to a large language model even allows it to generate motions by following natural language instructions."
+  },
+  {
+    "startTime": 84.22,
+    "endTime": 87.2,
+    "text": "Hi, GR-1. Can you give me a high-five?"
+  },
+  {
+    "startTime": 87.2,
+    "endTime": 89.089,
+    "text": "Sure thing! Let's high-five."
+  },
+  {
+    "startTime": 90.379,
+    "endTime": 92.80000000000001,
+    "text": "Can you give us some cool moves?"
+  },
+  {
+    "startTime": 93.0,
+    "endTime": 98.33,
+    "text": "Sure! Check this out!"
+  },
+  {
+    "startTime": 98.33,
+    "endTime": 106.1,
+    "text": "All this incredible intelligence is powered by the new Jetson Thor robotics chips, designed for GR00T built for the future."
+  },
+  {
+    "startTime": 106.3,
+    "endTime": 127.269,
+    "text": "With Isaac Lab, OSMO and GR00T, we're providing the building blocks for the next generation of AI-powered robotics."
+  },
+  {
+    "startTime": 127.269,
+    "endTime": 135.3,
+    "text": "About the same size."
+  },
+  {
+    "startTime": 135.5,
+    "endTime": 145.7,
+    "text": "The soul of NVIDIA, the intersection of computer graphics, physics, artificial intelligence. It all came to bear at this moment."
+  },
+  {
+    "startTime": 145.83,
+    "endTime": 152.20000000000002,
+    "text": "The name of that project, General Robotics 003."
+  },
+  {
+    "startTime": 152.399,
+    "endTime": 159.0,
+    "text": "I know. Super good, super good."
+  },
+  {
+    "startTime": 159.19,
+    "endTime": 173.7,
+    "text": "Well, I think we have some special guests, do we?"
+  },
+  {
+    "startTime": 173.82,
+    "endTime": 174.619,
+    "text": "Hey guys."
+  },
+  {
+    "startTime": 177.91,
+    "endTime": 180.79999999999998,
+    "text": "So I understand you guys are powered by Jetson."
+  },
+  {
+    "startTime": 181.71,
+    "endTime": 183.46,
+    "text": "They're powered by Jetsons."
+  },
+  {
+    "startTime": 184.25,
+    "endTime": 187.179,
+    "text": "Little Jetson robotics computers inside."
+  },
+  {
+    "startTime": 187.38,
+    "endTime": 189.789,
+    "text": "They learn to walk in Isaac Sim."
+  },
+  {
+    "startTime": 194.38,
+    "endTime": 199.60999999999999,
+    "text": "Ladies and gentlemen, this is Orange and this is the famous Green."
+  },
+  {
+    "startTime": 199.929,
+    "endTime": 207.6,
+    "text": "They are the BDX robots of Disney. Amazing Disney research."
+  },
+  {
+    "startTime": 209.97,
+    "endTime": 212.589,
+    "text": "Come on, you guys, let's wrap up, let's go."
+  },
+  {
+    "startTime": 213.99,
+    "endTime": 215.08,
+    "text": "Five things."
+  },
+  {
+    "startTime": 215.779,
+    "endTime": 225.2,
+    "text": "Where are you going? I say right here."
+  },
+  {
+    "startTime": 225.4,
+    "endTime": 226.229,
+    "text": "Don't be afraid."
+  },
+  {
+    "startTime": 226.24,
+    "endTime": 227.05,
+    "text": "Come here, Green."
+  },
+  {
+    "startTime": 227.059,
+    "endTime": 227.72899999999998,
+    "text": "Hurry up."
+  },
+  {
+    "startTime": 230.91,
+    "endTime": 231.72899999999998,
+    "text": "What are you saying?"
+  },
+  {
+    "startTime": 233.91,
+    "endTime": 235.539,
+    "text": "No, it's not time to eat."
+  },
+  {
+    "startTime": 237.97,
+    "endTime": 238.72,
+    "text": "It's not time to eat."
+  },
+  {
+    "startTime": 242.41,
+    "endTime": 244.16899999999998,
+    "text": "I'll give you, I'll give you a snack in a moment."
+  },
+  {
+    "startTime": 244.179,
+    "endTime": 245.5,
+    "text": "Let me finish up real quick."
+  },
+  {
+    "startTime": 246.88,
+    "endTime": 248.029,
+    "text": "Come on, Green, hurry up."
+  },
+  {
+    "startTime": 248.69,
+    "endTime": 250.91,
+    "text": "Stop wasting time."
+  },
+  {
+    "startTime": 253.3,
+    "endTime": 257.66,
+    "text": "The next generation of robotics will likely be a humanoid robotics."
+  },
+  {
+    "startTime": 258.528,
+    "endTime": 260.709,
+    "text": "We now have the necessary technology."
+  },
+  {
+    "startTime": 261.169,
+    "endTime": 271.75,
+    "text": "And as I was describing earlier, the necessary technology to imagine generalized human robotics in a way human robotics is likely easier."
+  },
+  {
+    "startTime": 271.76,
+    "endTime": 280.769,
+    "text": "And the reason for that is because we have a lot more imitation training data that we can provide the robots because we are constructed in a very similar way."
+  },
+  {
+    "startTime": 280.839,
+    "endTime": 290.269,
+    "text": "It is very likely that the human and robotics will be much more useful in our world because we created the world to be something that we can interoperate in and work well in."
+  },
+  {
+    "startTime": 290.6,
+    "endTime": 297.32000000000005,
+    "text": "And the way that we set up our workstations and manufacturing and logistics they were designed for, for humans, they were designed for people."
+  },
+  {
+    "startTime": 297.41,
+    "endTime": 302.8,
+    "text": "And so these human robotics will likely be much more productive to deploy."
+  },
+  {
+    "startTime": 303.0,
+    "endTime": 316.739,
+    "text": "While we're creating, just like we're doing with the others, the entire stack starting from the top, a foundation model that learns from watching video, human examples."
+  },
+  {
+    "startTime": 316.739,
+    "endTime": 320.28999999999996,
+    "text": "It could be in video form, it could be in virtual reality form."
+  },
+  {
+    "startTime": 320.6,
+    "endTime": 330.8,
+    "text": "We then created a gym for it called Isaac Reinforcement Learning Gym, which allows the humanoid robot to learn how to adapt to the physical world."
+  },
+  {
+    "startTime": 331.0,
+    "endTime": 340.1,
+    "text": "And then, an incredible computer—the same computer that's going to go into a robotic car—will run inside a humanoid robot called Thor."
+  },
+  {
+    "startTime": 340.32,
+    "endTime": 342.589,
+    "text": "It's designed for transformer engines."
+  }
+]
