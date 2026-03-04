@@ -1,0 +1,197 @@
+[
+  {
+    "startTime": 0.01,
+    "endTime": 5.2,
+    "text": "This episode is brought to you by the \"music for scientists\" album, now available on all streaming services."
+  },
+  {
+    "startTime": 5.3,
+    "endTime": 7.5,
+    "text": "Click the link in the description to start listening."
+  },
+  {
+    "startTime": 7.6,
+    "endTime": 11.3,
+    "text": "(Sci Show - Fast Fact)"
+  },
+  {
+    "startTime": 11.4,
+    "endTime": 18.7,
+    "text": "If you've ever paid close attention to the humidity levels on your phone's weather app, you might have noticed that they always seem to make no sense."
+  },
+  {
+    "startTime": 18.75,
+    "endTime": 23.6,
+    "text": "Like, in the summer, your app can say there's 75% humidity, and you'll be sticky and sweaty."
+  },
+  {
+    "startTime": 23.7,
+    "endTime": 27.4,
+    "text": "But during winter, 75% might mean that your skin is super dry."
+  },
+  {
+    "startTime": 27.5,
+    "endTime": 29.3,
+    "text": "So, what's going on here?"
+  },
+  {
+    "startTime": 29.4,
+    "endTime": 34.5,
+    "text": "Well, it turns out that the most common definition of humidity is kind of inconvenient."
+  },
+  {
+    "startTime": 34.6,
+    "endTime": 36.1,
+    "text": "But there is a better way to think about it."
+  },
+  {
+    "startTime": 36.2,
+    "endTime": 42.0,
+    "text": "It all comes down to the fact that your phone, and most weather channels, specifically report relative humidity."
+  },
+  {
+    "startTime": 42.1,
+    "endTime": 49.0,
+    "text": "This number is measured in percentages, and it's the amount of moisture in the air compared to how much water the air can hold."
+  },
+  {
+    "startTime": 49.1,
+    "endTime": 54.7,
+    "text": "And the key is: How much water the air can hold depends a lot on temperature."
+  },
+  {
+    "startTime": 54.8,
+    "endTime": 62.3,
+    "text": "See, for water vapor to come out of the air, it has to go from a gas to a liquid, usually by condensing onto something like dust or your window glass."
+  },
+  {
+    "startTime": 62.4,
+    "endTime": 65.9,
+    "text": "And for something to go from a gas to a liquid, it has to lose energy."
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 69.0,
+    "text": "In other words, the molecules have to physically slow down."
+  },
+  {
+    "startTime": 69.1,
+    "endTime": 73.19999999999999,
+    "text": "Well, when the air is warm, the water molecules in it contain a lot of energy."
+  },
+  {
+    "startTime": 73.3,
+    "endTime": 76.2,
+    "text": "They're moving more than water molecules in cooler air."
+  },
+  {
+    "startTime": 76.3,
+    "endTime": 82.39999999999999,
+    "text": "That means they're less likely to condense out of the atmosphere, and they end up hanging out in the air and making things feel all sticky."
+  },
+  {
+    "startTime": 82.5,
+    "endTime": 85.2,
+    "text": "So, temperature plays a big role in relative humidity."
+  },
+  {
+    "startTime": 85.3,
+    "endTime": 88.89999999999999,
+    "text": "And it's why this stat usually isn't that useful in planning your day."
+  },
+  {
+    "startTime": 89.0,
+    "endTime": 96.2,
+    "text": "If it's -10 degrees Celsius, the air can't hold as much moisture, so 75% humidity isn't actually that humid."
+  },
+  {
+    "startTime": 96.3,
+    "endTime": 102.3,
+    "text": "But if it's 20 degrees, 75% humidity suddenly means there's a lot more water in the air to make things feel all muggy."
+  },
+  {
+    "startTime": 102.4,
+    "endTime": 107.30000000000001,
+    "text": "If you want a number for humidity that isn't quite so relative, try the dew point temperature."
+  },
+  {
+    "startTime": 107.35,
+    "endTime": 111.39999999999999,
+    "text": "This is the temperature at which water droplets or dew form on things like grass."
+  },
+  {
+    "startTime": 111.5,
+    "endTime": 116.1,
+    "text": "In other words, it's the temperature at which the air is completely saturated with moisture."
+  },
+  {
+    "startTime": 116.2,
+    "endTime": 121.8,
+    "text": "And the closer the dew point temperature is to the temperature outside, the stickier and more unpleasant it'll be."
+  },
+  {
+    "startTime": 121.9,
+    "endTime": 127.60000000000001,
+    "text": "For reference, people react differently to dew points, but most folks are comfortable with a dew point of 10 degrees Celsius."
+  },
+  {
+    "startTime": 127.7,
+    "endTime": 131.2,
+    "text": "And things get pretty humid and unpleasant around 15 or 21 degrees."
+  },
+  {
+    "startTime": 131.3,
+    "endTime": 136.10000000000002,
+    "text": "So, it's still a new scale to learn, but it's also consistent no matter how cold it is outside."
+  },
+  {
+    "startTime": 136.2,
+    "endTime": 144.19,
+    "text": "Now, the big question is: If the dew point temperature is a great way to tell you how the outside world feels, why don't weather apps and weather channels use it?"
+  },
+  {
+    "startTime": 144.2,
+    "endTime": 145.89999999999998,
+    "text": "It's mostly a matter of history."
+  },
+  {
+    "startTime": 146.0,
+    "endTime": 150.3,
+    "text": "Instruments that measure relative humidity predate the ones that measure dew points."
+  },
+  {
+    "startTime": 150.4,
+    "endTime": 156.3,
+    "text": "Like one of the first mechanical hygrometers, a device that measures humidity, appeared in 1783."
+  },
+  {
+    "startTime": 156.4,
+    "endTime": 165.3,
+    "text": "And, since these devices were widely available to the public and gave reliable measurements of relative humidity, the term, unfortunately, stuck around."
+  },
+  {
+    "startTime": 165.4,
+    "endTime": 169.4,
+    "text": "You know what else is available to the public and gives reliable science inspiration?"
+  },
+  {
+    "startTime": 169.5,
+    "endTime": 174.9,
+    "text": "\"music for scientists\", a tribute album to science inspired by the beauty of science."
+  },
+  {
+    "startTime": 175.05,
+    "endTime": 177.0,
+    "text": "It was written and recorded by Patrick Olsen,"
+  },
+  {
+    "startTime": 177.1,
+    "endTime": 187.7,
+    "text": "and if you want to check it out, I'd recommend starting off with the song \"Aristarchus in the Rain\", which isn't about humidity, but it is about a scientist trying to make sense of this messy and cloudy world."
+  },
+  {
+    "startTime": 187.8,
+    "endTime": 194.4,
+    "text": "If you want to check it out, look for \"music for scientists\" on all major music streaming services or click the link below."
+  }
+]
