@@ -1,0 +1,672 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 9.3,
+    "text": "Jensen Huang, co-founder and CEO of NVIDIA, the company that is at the heart of AI revolution, recently made a comment about what kids should learn in the future."
+  },
+  {
+    "startTime": 9.5,
+    "endTime": 13.52,
+    "text": "And let me spoil it to you, it's not computer science or programming."
+  },
+  {
+    "startTime": 13.52,
+    "endTime": 19.2,
+    "text": "I'm going to say something and it's going to sound completely opposite of what people feel."
+  },
+  {
+    "startTime": 19.4,
+    "endTime": 32.0,
+    "text": "You probably recall over [that] the course of the last 10 years, 15 years, almost everybody who sits on a stage like this would tell you it is vital that your children learn computer science."
+  },
+  {
+    "startTime": 32.1,
+    "endTime": 33.7,
+    "text": "Everybody should learn how to program."
+  },
+  {
+    "startTime": 33.7,
+    "endTime": 36.2,
+    "text": "And in fact, it's almost exactly the opposite."
+  },
+  {
+    "startTime": 36.4,
+    "endTime": 43.0,
+    "text": "It is our job to create computing technology such that nobody has to program."
+  },
+  {
+    "startTime": 43.1,
+    "endTime": 45.7,
+    "text": "And that the programming language, it's human."
+  },
+  {
+    "startTime": 45.9,
+    "endTime": 51.0,
+    "text": "At Zymph Minds, a full service agency, where I'm a co-founder, we're in a close relationship with NVIDIA."
+  },
+  {
+    "startTime": 51.3,
+    "endTime": 56.278999999999996,
+    "text": "And later in this video, I will include a clip of what Jensen said people should study,"
+  },
+  {
+    "startTime": 56.1,
+    "endTime": 61.84,
+    "text": "which is also in alignment why we are expanding our team with people like Amy Zolotov, who comes from healthcare."
+  },
+  {
+    "startTime": 61.84,
+    "endTime": 75.0,
+    "text": "Collectively, we trained and taught close to 20,000 people at this point, from people at all ages and walks of life who subscribe to my channel, to the amazing teams at the companies like General Electronics and Kraft Heinz."
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 83.44,
+    "text": "Plus, we've been developing AI educational material, both for universities like Stanford or Yeshiva, all the way to developing courses on Uplimit."
+  },
+  {
+    "startTime": 83.48,
+    "endTime": 94.5,
+    "text": "I think this shows that there is raising awareness about prompt engineering and the impact that you can have in your organization or your team if you just know better how to work with AI tools."
+  },
+  {
+    "startTime": 94.7,
+    "endTime": 100.7,
+    "text": "And I understand that when a girl on the internet says that prompting is the new programming language, that's one thing."
+  },
+  {
+    "startTime": 100.9,
+    "endTime": 110.9,
+    "text": "But I'm really happy to see that more people kind of receive a message when it is NVIDIA CEO on a stage at the World Government Summit, saying it out loud."
+  },
+  {
+    "startTime": 111.0,
+    "endTime": 114.0,
+    "text": "Everybody in the world is now a programmer."
+  },
+  {
+    "startTime": 114.0,
+    "endTime": 115.0,
+    "text": "This is the miracle."
+  },
+  {
+    "startTime": 115.2,
+    "endTime": 117.10000000000001,
+    "text": "This is the miracle of artificial intelligence."
+  },
+  {
+    "startTime": 117.3,
+    "endTime": 120.39999999999999,
+    "text": "For the very first time, we have closed the gap."
+  },
+  {
+    "startTime": 120.6,
+    "endTime": 124.0,
+    "text": "The technology divide has been completely closed."
+  },
+  {
+    "startTime": 124.2,
+    "endTime": 127.0,
+    "text": "And this is the reason why so many people can engage artificial intelligence."
+  },
+  {
+    "startTime": 127.2,
+    "endTime": 135.4,
+    "text": "It's the reason why every single government, every single industrial conference, every single company is talking about artificial intelligence today."
+  },
+  {
+    "startTime": 135.6,
+    "endTime": 141.7,
+    "text": "Because for the very first time, you can imagine everybody in your company being a technologist."
+  },
+  {
+    "startTime": 141.8,
+    "endTime": 149.36,
+    "text": "This is a tremendous time for all of you to realize that the technology divide has been closed."
+  },
+  {
+    "startTime": 149.36,
+    "endTime": 154.60000000000002,
+    "text": "I hope more people and businesses will take it as a wake-up call and start looking at this quite seriously."
+  },
+  {
+    "startTime": 154.8,
+    "endTime": 161.3,
+    "text": "Also to realize that to engage AI is a lot easier now than at any time in the history of computing."
+  },
+  {
+    "startTime": 161.5,
+    "endTime": 163.6,
+    "text": "It is vital that we upskill everyone."
+  },
+  {
+    "startTime": 163.8,
+    "endTime": 168.55900000000003,
+    "text": "As for 90% of people, prompting is going to just become easier and easier."
+  },
+  {
+    "startTime": 168.559,
+    "endTime": 170.0,
+    "text": "And there is a good reason for that."
+  },
+  {
+    "startTime": 170.2,
+    "endTime": 176.0,
+    "text": "It's because of smart AI engineers and prompt engineers working in the background, optimizing that chat interface."
+  },
+  {
+    "startTime": 176.1,
+    "endTime": 184.279,
+    "text": "So that a few vague words can be taken, processed by a way bigger and more extensive prompt or the whole separate AI model, by the way."
+  },
+  {
+    "startTime": 184.279,
+    "endTime": 188.2,
+    "text": "All that optimization gets combined into the final prompt and sent to the AI model."
+  },
+  {
+    "startTime": 188.4,
+    "endTime": 192.20000000000002,
+    "text": "Therefore, you get these amazing outcomes like Delhi Tree or Copilot."
+  },
+  {
+    "startTime": 192.4,
+    "endTime": 195.0,
+    "text": "It starts with a prompt from you in an app."
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 198.6,
+    "text": "Copilot pre-processes the prompt through an approach called grounding."
+  },
+  {
+    "startTime": 198.8,
+    "endTime": 201.9,
+    "text": "Put simply, grounding improves the quality of the prompt."
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 204.3,
+    "text": "So you get answers that are relevant and actionable."
+  },
+  {
+    "startTime": 204.5,
+    "endTime": 211.4,
+    "text": "One of the most important parts of grounding is making a call to the Microsoft Graph to retrieve your business content and context."
+  },
+  {
+    "startTime": 211.6,
+    "endTime": 217.0,
+    "text": "Copilot combines this user data from the graph with other inputs to improve the prompt."
+  },
+  {
+    "startTime": 217.0,
+    "endTime": 220.6,
+    "text": "It then sends that modified prompt to the LLM."
+  },
+  {
+    "startTime": 220.8,
+    "endTime": 224.70000000000002,
+    "text": "Copilot takes the response from the LLM and post-processes it."
+  },
+  {
+    "startTime": 224.9,
+    "endTime": 234.4,
+    "text": "This post-processing includes additional grounding calls to the graph, responsible AI checks, security, compliance and privacy reviews, and command generation."
+  },
+  {
+    "startTime": 234.6,
+    "endTime": 240.0,
+    "text": "Finally, Copilot sends a response to the user and commands back to the apps."
+  },
+  {
+    "startTime": 240.2,
+    "endTime": 242.89999999999998,
+    "text": "It's awesome if you're not specific and you are just really exploring."
+  },
+  {
+    "startTime": 243.2,
+    "endTime": 245.2,
+    "text": "But it also takes away some controls."
+  },
+  {
+    "startTime": 245.4,
+    "endTime": 251.399,
+    "text": "Because sometimes these chatbots get so optimized that it gets horribly hilarious."
+  },
+  {
+    "startTime": 251.399,
+    "endTime": 263.839,
+    "text": "Gemini from Google went viral for absolutely wrong reasons, refusing to generate white people and over-optimizing for inclusivity and I could say stereotypes, but kind of phenomenal is that it became stereotypical."
+  },
+  {
+    "startTime": 263.839,
+    "endTime": 269.2,
+    "text": "I'm genuinely curious what impact it will have that NVIDIA CEO had this hot take."
+  },
+  {
+    "startTime": 269.4,
+    "endTime": 273.47999999999996,
+    "text": "But if you listen between the lines, even Sam Altman hinted at this future."
+  },
+  {
+    "startTime": 273.72,
+    "endTime": 276.119,
+    "text": "I think coding will still be important in the future."
+  },
+  {
+    "startTime": 276.119,
+    "endTime": 278.1,
+    "text": "It's just going to change a little bit or a lot."
+  },
+  {
+    "startTime": 278.3,
+    "endTime": 283.79900000000004,
+    "text": "One of the predictions I'm most confident about the future is it's just going to happen much faster than the past did."
+  },
+  {
+    "startTime": 283.799,
+    "endTime": 289.239,
+    "text": "And that, you know, young people are always the best at adapting to that, but now it's going to be extra valuable."
+  },
+  {
+    "startTime": 289.239,
+    "endTime": 291.399,
+    "text": "I think I agree with that framework incredibly much."
+  },
+  {
+    "startTime": 291.5,
+    "endTime": 300.3,
+    "text": "And I think anytime you can choose a skill or a class or an activity to do that you feel aligns with the learning how to adapt to new technology, pick it for sure."
+  },
+  {
+    "startTime": 300.3,
+    "endTime": 305.5,
+    "text": "But on specifics, I still think that software is actually a really important skill to build."
+  },
+  {
+    "startTime": 305.7,
+    "endTime": 316.3,
+    "text": "And some of it is it's not going to be about the mechanics, it's not going to be about the specifics of the programming language, it's not going to be about those details, but fundamentally getting computers to do what you intend."
+  },
+  {
+    "startTime": 316.5,
+    "endTime": 317.7,
+    "text": "That's the world we're heading to."
+  },
+  {
+    "startTime": 317.9,
+    "endTime": 322.2,
+    "text": "And so understanding the low-level details of how it works, that's a starting point."
+  },
+  {
+    "startTime": 322.0,
+    "endTime": 327.64,
+    "text": "And you know, we do see people who have never coded before who build some of the best AI applications."
+  },
+  {
+    "startTime": 327.679,
+    "endTime": 333.4,
+    "text": "And so that's actually new, that you can actually get computers to do things without having to do it in this like contort yourself to the machine."
+  },
+  {
+    "startTime": 333.6,
+    "endTime": 338.0,
+    "text": "As it is right now, anyone can work with AI, anybody can instruct AI."
+  },
+  {
+    "startTime": 338.2,
+    "endTime": 345.4,
+    "text": "Can you imagine that a couple years ago, this ability to interact with AI models was available only to researchers and actual developers?"
+  },
+  {
+    "startTime": 345.6,
+    "endTime": 352.67900000000003,
+    "text": "And just because it's available to everybody and it's getting easier, doesn't mean that people use it in the best way possible or the most effectively."
+  },
+  {
+    "startTime": 352.679,
+    "endTime": 355.29999999999995,
+    "text": "The way I like to think about this stuff is like a spectrum."
+  },
+  {
+    "startTime": 355.4,
+    "endTime": 359.4,
+    "text": "On one side, you have like, oh my God, prompt engineering is the only thing you need to know."
+  },
+  {
+    "startTime": 359.6,
+    "endTime": 362.35900000000004,
+    "text": "On the other spectrum is like, oh, it doesn't matter."
+  },
+  {
+    "startTime": 362.0,
+    "endTime": 365.0,
+    "text": "Programming is going to be still there, and it's a solid skill."
+  },
+  {
+    "startTime": 365.0,
+    "endTime": 369.44,
+    "text": "And in our team, the way we like to look at things is a bit more leveled."
+  },
+  {
+    "startTime": 369.4,
+    "endTime": 371.0,
+    "text": "Yes, prompt engineering is important."
+  },
+  {
+    "startTime": 371.3,
+    "endTime": 373.0,
+    "text": "That also is going to change."
+  },
+  {
+    "startTime": 373.1,
+    "endTime": 378.0,
+    "text": "If you think about in a term of 10 years, if we all walk with the neural link chips in our head."
+  },
+  {
+    "startTime": 378.2,
+    "endTime": 384.7,
+    "text": "This morning, Elon Musk announcing that for the first time, his company Neuralink has implanted a brain chip in a human."
+  },
+  {
+    "startTime": 384.9,
+    "endTime": 386.5,
+    "text": "Everything kind of changed again."
+  },
+  {
+    "startTime": 386.8,
+    "endTime": 395.5,
+    "text": "And after the statement from Jensen, on the whole other spectrum, there's going to be a group of people who are like, \"Okay, programmers, they are not valued, they are not important."
+  },
+  {
+    "startTime": 395.7,
+    "endTime": 397.94,
+    "text": "Don't study computer science and stuff like that.\""
+  },
+  {
+    "startTime": 397.9,
+    "endTime": 399.5,
+    "text": "And I think that's also wrong."
+  },
+  {
+    "startTime": 399.7,
+    "endTime": 406.09999999999997,
+    "text": "Because programming and computer science as hands on skill is one thing, but what it teaches people is problem solving."
+  },
+  {
+    "startTime": 406.3,
+    "endTime": 410.2,
+    "text": "And that is a hard skill, which won't get absolute anytime soon."
+  },
+  {
+    "startTime": 410.4,
+    "endTime": 419.0,
+    "text": "And I want to say never, but we also said that creativity is probably going to be the last affected by AI, which turned out completely opposite."
+  },
+  {
+    "startTime": 419.04,
+    "endTime": 426.40000000000003,
+    "text": "So anyway, taking a part being in the middle, educate yourself about prompt engineering; how to use AI, how it works, what are ethical uses of that."
+  },
+  {
+    "startTime": 426.6,
+    "endTime": 436.3,
+    "text": "But if you're able to also learn about computer science and how computers work in general, develop deeper problem solving and critical thinking, really skills with programming, that is not going to hurt you."
+  },
+  {
+    "startTime": 436.5,
+    "endTime": 445.16,
+    "text": "Like I myself, I talk about prompt engineering, but I also decided to take CS50 course to kind of bridge the gap I have when it comes down to programming."
+  },
+  {
+    "startTime": 445.3,
+    "endTime": 454.48,
+    "text": "Funny thing that a month ago, before Jensen's video came out, I made a video where I said that domain expertise is going to be extremely important when using AI tools."
+  },
+  {
+    "startTime": 454.48,
+    "endTime": 457.20000000000005,
+    "text": "And here's one universal truth when it comes to prompting."
+  },
+  {
+    "startTime": 457.4,
+    "endTime": 466.0,
+    "text": "You as a user have to have domain expertise and use specific language to condition the AI model and steer its responses to the right direction."
+  },
+  {
+    "startTime": 466.0,
+    "endTime": 473.7,
+    "text": "Because if you know your stuff very well, not only you will be able to explain it well and make clear instructions, but you will also be able to detect hallucinations."
+  },
+  {
+    "startTime": 473.7,
+    "endTime": 485.2,
+    "text": "The countries, the people that understand how to solve a domain problem in digital biology or in education of young people or in manufacturing or in farming,"
+  },
+  {
+    "startTime": 485.4,
+    "endTime": 493.09999999999997,
+    "text": "those people who understand domain expertise now can utilize technology that is readily available to you."
+  },
+  {
+    "startTime": 493.2,
+    "endTime": 501.0,
+    "text": "You now have a computer that will do what you tell it to do, to help automate your work, to amplify your productivity, to make you more efficient."
+  },
+  {
+    "startTime": 501.0,
+    "endTime": 503.6,
+    "text": "And so I think that this is just a tremendous time."
+  },
+  {
+    "startTime": 503.8,
+    "endTime": 507.0,
+    "text": "And going back to that question, what kids should study in the future?"
+  },
+  {
+    "startTime": 507.3,
+    "endTime": 508.40000000000003,
+    "text": "This is what Jensen said."
+  },
+  {
+    "startTime": 508.6,
+    "endTime": 519.7,
+    "text": "If I were starting all over again, I would realize one thing, that one of the most complex fields of science is the understanding of biology, human biology."
+  },
+  {
+    "startTime": 519.9,
+    "endTime": 527.6999999999999,
+    "text": "Not only is it complicated because it's so diverse, so complicated, so hard to understand, living and breathing, it is also incredibly impactful."
+  },
+  {
+    "startTime": 527.9,
+    "endTime": 531.4,
+    "text": "Complicated technology, complicated science, incredibly impactful."
+  },
+  {
+    "startTime": 531.6,
+    "endTime": 537.0,
+    "text": "And remember, we call this field life sciences and we call drug discovery, discovery."
+  },
+  {
+    "startTime": 537.1,
+    "endTime": 541.1,
+    "text": "As if you wander around the universe and all of a sudden, \"Hey, look what I discovered.\""
+  },
+  {
+    "startTime": 541.3,
+    "endTime": 549.8,
+    "text": "Nobody in computer science, nobody in computers and nobody in the traditional industries that are very large today, nobody says car discovery."
+  },
+  {
+    "startTime": 549.9,
+    "endTime": 551.9,
+    "text": "We don't say computer discovery."
+  },
+  {
+    "startTime": 552.0,
+    "endTime": 553.88,
+    "text": "We don't say software discovery."
+  },
+  {
+    "startTime": 553.88,
+    "endTime": 558.9,
+    "text": "We don't go home and say, \"Hey honey, look what I found today. This piece of software, we call it engineering.\""
+  },
+  {
+    "startTime": 559.0,
+    "endTime": 564.7,
+    "text": "And every single year, our computer science, our software becomes better and better than the year before."
+  },
+  {
+    "startTime": 564.9,
+    "endTime": 566.4,
+    "text": "Every single year, our chips get better."
+  },
+  {
+    "startTime": 566.7,
+    "endTime": 569.119,
+    "text": "Every single year, our infrastructure gets better."
+  },
+  {
+    "startTime": 569.119,
+    "endTime": 571.0,
+    "text": "However, life sciences is sporadic."
+  },
+  {
+    "startTime": 571.3,
+    "endTime": 578.4,
+    "text": "If I were to do it over again right now, I would realize that the technology to turn life science to life engineering is upon us."
+  },
+  {
+    "startTime": 578.5,
+    "endTime": 583.4,
+    "text": "And that digital biology will be a field of engineering, not a field of science."
+  },
+  {
+    "startTime": 583.5,
+    "endTime": 588.5,
+    "text": "It will continue to have science, of course, but not a field just of science in the future."
+  },
+  {
+    "startTime": 588.7,
+    "endTime": 593.0,
+    "text": "And so I hope that this is going to start a whole generation."
+  },
+  {
+    "startTime": 593.1,
+    "endTime": 599.4,
+    "text": "The Albert Einstein College of Medicine will be tuition free."
+  },
+  {
+    "startTime": 599.6,
+    "endTime": 612.679,
+    "text": "People who enjoy working with proteins and chemicals and enzymes and materials and they're engineering these amazing things that are more energy efficient, that are lighter weight, that are stronger, that are more sustainable."
+  },
+  {
+    "startTime": 612.679,
+    "endTime": 618.5,
+    "text": "All of these inventions in the future are going to be part of engineering, not scientific discovery."
+  },
+  {
+    "startTime": 618.7,
+    "endTime": 630.159,
+    "text": "But if studying is not applicable to you and you want to get into AI or learn how to use it, my recommendation to you is to start exploring together with other people so you can exchange ideas and tools."
+  },
+  {
+    "startTime": 630.3,
+    "endTime": 634.5999999999999,
+    "text": "There are so many resources online that you can definitely dive into."
+  },
+  {
+    "startTime": 634.7,
+    "endTime": 635.5,
+    "text": "There's also a lot of noise."
+  },
+  {
+    "startTime": 635.8,
+    "endTime": 641.9599999999999,
+    "text": "And what I learned from my co-founder Joe, who is an educator from his background, that there is a lot of science, how humans learn."
+  },
+  {
+    "startTime": 641.96,
+    "endTime": 644.4000000000001,
+    "text": "And this is why we really enjoy the partnership with UpLimits."
+  },
+  {
+    "startTime": 644.5,
+    "endTime": 646.64,
+    "text": "Because one thing, it's life."
+  },
+  {
+    "startTime": 646.64,
+    "endTime": 647.64,
+    "text": "You have accountability."
+  },
+  {
+    "startTime": 647.64,
+    "endTime": 652.159,
+    "text": "You have to do real projects for your work, for your business, for yourself."
+  },
+  {
+    "startTime": 652.159,
+    "endTime": 654.7,
+    "text": "And then there is the whole peer community as well."
+  },
+  {
+    "startTime": 654.8,
+    "endTime": 660.0799999999999,
+    "text": "Make sure to check out the UpLimit courses we have for image, for data analytics."
+  },
+  {
+    "startTime": 660.08,
+    "endTime": 663.88,
+    "text": "We have AI, ChatGPT for everyone and also the advanced course."
+  },
+  {
+    "startTime": 663.88,
+    "endTime": 665.359,
+    "text": "And we are working on many, many more."
+  },
+  {
+    "startTime": 665.359,
+    "endTime": 669.6790000000001,
+    "text": "Normally, I would tell you to go watch another video of mine so that algorithm is happy."
+  },
+  {
+    "startTime": 669.679,
+    "endTime": 671.9599999999999,
+    "text": "But actually, this time, we really want to ask you a question."
+  },
+  {
+    "startTime": 671.96,
+    "endTime": 675.7,
+    "text": "How do you feel about the whole programming, prompt engineering, where you stand?"
+  },
+  {
+    "startTime": 676.0,
+    "endTime": 679.2,
+    "text": "What has been your experience and journey in 2023?"
+  },
+  {
+    "startTime": 679.6,
+    "endTime": 681.719,
+    "text": "And what is your approach in 2024?"
+  },
+  {
+    "startTime": 681.719,
+    "endTime": 683.599,
+    "text": "And as always, thank you for watching and sticking around."
+  },
+  {
+    "startTime": 683.599,
+    "endTime": 690.6,
+    "text": "I've been going through some personal stuff, but I want to make a promise that I will be uploading videos more consistently."
+  },
+  {
+    "startTime": 690.7,
+    "endTime": 694.239,
+    "text": "So if you are new on this channel, it would mean a lot if you would subscribe."
+  }
+]

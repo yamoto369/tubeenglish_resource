@@ -1,0 +1,167 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 6.48,
+    "text": "There are many algorithms, computer graphics is one, that you can operate completely in parallel."
+  },
+  {
+    "startTime": 6.48,
+    "endTime": 20.68,
+    "text": "Computer graphics, image processing, physics simulations, combinatorial optimizations, graph processing, database processing, and of course, the very famous linear algebra of deep learning."
+  },
+  {
+    "startTime": 20.68,
+    "endTime": 28.34,
+    "text": "There are many types of algorithms that are very conducive to acceleration through parallel processing."
+  },
+  {
+    "startTime": 28.379,
+    "endTime": 31.82,
+    "text": "So we invented an architecture to do that."
+  },
+  {
+    "startTime": 32.779,
+    "endTime": 47.02,
+    "text": "By adding the GPU to the CPU, the specialized processor can take something that takes a great deal of time and accelerate it down to something that is incredibly fast."
+  },
+  {
+    "startTime": 47.02,
+    "endTime": 59.660000000000004,
+    "text": "And because the two processors can work side by side, they're both autonomous and they're both separate, independent that is, we could accelerate what used to take 100 units of time down to one unit of time."
+  },
+  {
+    "startTime": 59.66,
+    "endTime": 62.259,
+    "text": "Well, the speed up is incredible."
+  },
+  {
+    "startTime": 62.259,
+    "endTime": 65.22,
+    "text": "It almost sounds unbelievable."
+  },
+  {
+    "startTime": 66.339,
+    "endTime": 68.139,
+    "text": "It almost sounds unbelievable."
+  },
+  {
+    "startTime": 68.139,
+    "endTime": 70.699,
+    "text": "But today I'll demonstrate many examples for you."
+  },
+  {
+    "startTime": 71.94,
+    "endTime": 74.419,
+    "text": "The benefit is quite extraordinary."
+  },
+  {
+    "startTime": 74.419,
+    "endTime": 80.779,
+    "text": "100 times speed up, but you only increase the power by about a factor of three."
+  },
+  {
+    "startTime": 80.779,
+    "endTime": 84.86,
+    "text": "And you increase the cost by only about 50%."
+  },
+  {
+    "startTime": 84.86,
+    "endTime": 87.86,
+    "text": "We do this all the time in the PC industry."
+  },
+  {
+    "startTime": 87.86,
+    "endTime": 96.739,
+    "text": "We add a GPU, a $500 GPU, GeForce GPU, to a $1,000 PC, and the performance increases tremendously."
+  },
+  {
+    "startTime": 96.739,
+    "endTime": 99.059,
+    "text": "We do this in a data center."
+  },
+  {
+    "startTime": 99.059,
+    "endTime": 107.86,
+    "text": "A billion dollar data center, we add $500 million worth of GPUs, and all of a sudden, it becomes an AI factory."
+  },
+  {
+    "startTime": 109.0,
+    "endTime": 112.86,
+    "text": "This is happening all over the world today."
+  },
+  {
+    "startTime": 112.86,
+    "endTime": 116.419,
+    "text": "Well, the savings are quite extraordinary."
+  },
+  {
+    "startTime": 117.26,
+    "endTime": 121.62,
+    "text": "You're getting 60 times performance per dollar."
+  },
+  {
+    "startTime": 121.62,
+    "endTime": 126.62,
+    "text": "100 times speed up, you only increase your power by 3X."
+  },
+  {
+    "startTime": 126.9,
+    "endTime": 131.899,
+    "text": "100 times speed up, you only increase your cost by 1.5X."
+  },
+  {
+    "startTime": 132.179,
+    "endTime": 134.419,
+    "text": "The savings are incredible."
+  },
+  {
+    "startTime": 135.679,
+    "endTime": 139.059,
+    "text": "The savings are measured in dollars."
+  },
+  {
+    "startTime": 139.059,
+    "endTime": 146.69899999999998,
+    "text": "It is very clear that many, many companies spend hundreds of millions of dollars processing data in the cloud."
+  },
+  {
+    "startTime": 146.699,
+    "endTime": 154.86,
+    "text": "If it was accelerated, it is not unexpected that you could save hundreds of millions of dollars."
+  },
+  {
+    "startTime": 154.86,
+    "endTime": 156.66000000000003,
+    "text": "Now, why is that?"
+  },
+  {
+    "startTime": 156.66,
+    "endTime": 159.1,
+    "text": "Well, the reason for that is very clear."
+  },
+  {
+    "startTime": 159.1,
+    "endTime": 164.5,
+    "text": "We've been experiencing inflation for so long in general purpose computing."
+  },
+  {
+    "startTime": 164.5,
+    "endTime": 175.47899999999998,
+    "text": "Now that we finally came to, we're finally determined to accelerate, there's an enormous amount of captured loss that we can now regain."
+  },
+  {
+    "startTime": 175.479,
+    "endTime": 184.339,
+    "text": "A great deal of captured, retained waste that we can now relieve out of the system, and that will translate into savings."
+  },
+  {
+    "startTime": 184.339,
+    "endTime": 187.639,
+    "text": "Savings in money, savings in energy."
+  },
+  {
+    "startTime": 187.639,
+    "endTime": 194.279,
+    "text": " And that's the reason why you've heard me say, the more you buy, the more you save."
+  }
+]

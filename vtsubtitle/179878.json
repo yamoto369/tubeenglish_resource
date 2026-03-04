@@ -1,0 +1,517 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.84,
+    "text": "As we've launched the Core Ultra with Meteor Lake, it also introduced this next generation of chiplet-based design."
+  },
+  {
+    "startTime": 7.84,
+    "endTime": 10.64,
+    "text": "And Lunar Lake is the next step forward."
+  },
+  {
+    "startTime": 10.64,
+    "endTime": 12.600000000000001,
+    "text": "And I'm happy to announce it today."
+  },
+  {
+    "startTime": 12.6,
+    "endTime": 15.2,
+    "text": "Lunar Lake is a revolutionary design."
+  },
+  {
+    "startTime": 15.2,
+    "endTime": 20.68,
+    "text": "It's new IP blocks for CPU, GPU, and NPU."
+  },
+  {
+    "startTime": 20.68,
+    "endTime": 25.558999999999997,
+    "text": "It'll power the largest number of next-gen AI PCs in the industry."
+  },
+  {
+    "startTime": 25.559,
+    "endTime": 31.959000000000003,
+    "text": "We already have over 80 designs with 20 OEMs that will start shipping in volume in Q3."
+  },
+  {
+    "startTime": 31.959,
+    "endTime": 34.959,
+    "text": "First, it starts with a great CPU."
+  },
+  {
+    "startTime": 34.959,
+    "endTime": 50.080000000000005,
+    "text": "And with that, this is our next generation LionCove processor that has significant IPC improvements and delivers that performance while also delivering dramatic power efficiency gains as well."
+  },
+  {
+    "startTime": 50.08,
+    "endTime": 57.879999999999995,
+    "text": "So it's delivering Core Ultra performance at nearly half the power that we had in Meteor Lake, which was already a great chip."
+  },
+  {
+    "startTime": 57.88,
+    "endTime": 60.759,
+    "text": "The GPU is also a huge step forward."
+  },
+  {
+    "startTime": 60.759,
+    "endTime": 64.36,
+    "text": "It's based on our next generation C2 IP."
+  },
+  {
+    "startTime": 64.36,
+    "endTime": 68.599,
+    "text": "And it delivers 50% more graphics performance."
+  },
+  {
+    "startTime": 68.599,
+    "endTime": 75.76,
+    "text": "And literally, we've taken a discrete graphics card and we've shoved it into this amazing chip called Lunar Lake."
+  },
+  {
+    "startTime": 75.76,
+    "endTime": 84.4,
+    "text": "Alongside this, we're delivering strong AI compute performance with our enhanced NPU, up to 48 tops of performance."
+  },
+  {
+    "startTime": 84.4,
+    "endTime": 98.239,
+    "text": "And as you heard Satya talk about, our collaboration with Microsoft and Copilot Plus and along with 300 other ISVs, incredible software support, more applications than anyone else."
+  },
+  {
+    "startTime": 98.239,
+    "endTime": 102.239,
+    "text": "Now, some say that the NPU is the only thing that you need."
+  },
+  {
+    "startTime": 102.239,
+    "endTime": 104.63900000000001,
+    "text": "And simply put, that's not true."
+  },
+  {
+    "startTime": 104.639,
+    "endTime": 113.59899999999999,
+    "text": "And now having engaged with hundreds of ISVs, most of them are taking advantage of CPU, GPU, and NPU performance."
+  },
+  {
+    "startTime": 113.599,
+    "endTime": 120.879,
+    "text": "In fact, our new C2 GPU is an incredible on-device AI performance engine."
+  },
+  {
+    "startTime": 120.879,
+    "endTime": 126.16000000000001,
+    "text": "Only 30% of the ISVs we've engaged with are only using the NPU."
+  },
+  {
+    "startTime": 126.16,
+    "endTime": 131.07999999999998,
+    "text": "The GPU and the CPU in combination deliver extraordinary performance."
+  },
+  {
+    "startTime": 131.08,
+    "endTime": 140.32000000000002,
+    "text": "The GPU, 67 tops with our XMS performance, 3 and 1 1x the gains over prior generation."
+  },
+  {
+    "startTime": 140.32,
+    "endTime": 148.32,
+    "text": "And since there's been some talk about this other XElite chip coming out and its superiority to the x86,"
+  },
+  {
+    "startTime": 148.32,
+    "endTime": 150.279,
+    "text": "I just want to put that to bed right now."
+  },
+  {
+    "startTime": 150.279,
+    "endTime": 151.679,
+    "text": "Ain't true."
+  },
+  {
+    "startTime": 151.679,
+    "endTime": 164.75900000000001,
+    "text": "Lunar Lake running in our labs today outperforms the XElite on the CPU, on the GPU, and on AI performance, delivering a stunning 120 tops of total platform performance."
+  },
+  {
+    "startTime": 164.759,
+    "endTime": 166.19899999999998,
+    "text": "And it's compatible."
+  },
+  {
+    "startTime": 166.199,
+    "endTime": 169.119,
+    "text": "So you don't need any of those compatibility issues."
+  },
+  {
+    "startTime": 169.119,
+    "endTime": 171.279,
+    "text": "This is x86 at its finest."
+  },
+  {
+    "startTime": 171.279,
+    "endTime": 177.119,
+    "text": "Every enterprise, every customer, every historical driver and capability simply works."
+  },
+  {
+    "startTime": 177.119,
+    "endTime": 178.559,
+    "text": "This is a no-brainer."
+  },
+  {
+    "startTime": 178.559,
+    "endTime": 180.52,
+    "text": "Everyone should upgrade."
+  },
+  {
+    "startTime": 180.52,
+    "endTime": 188.03900000000002,
+    "text": "And the final nail in the coffin of this discussion is some say the x86 can't win on power efficiency."
+  },
+  {
+    "startTime": 188.039,
+    "endTime": 191.16,
+    "text": "Lunar Lake busts this myth as well."
+  },
+  {
+    "startTime": 191.16,
+    "endTime": 204.07999999999998,
+    "text": "This radical new SoC architecture and design delivers unprecedented power efficiency, up to 40% lower SoC performance than Meteor Lake, which was already very good."
+  },
+  {
+    "startTime": 204.08,
+    "endTime": 211.03900000000002,
+    "text": "Customers are looking for high-performance, cost effective, gen AI training and inferencing solutions."
+  },
+  {
+    "startTime": 211.039,
+    "endTime": 215.16,
+    "text": "And they've started to turn to alternatives like Gaudi."
+  },
+  {
+    "startTime": 215.16,
+    "endTime": 216.6,
+    "text": "They want choice."
+  },
+  {
+    "startTime": 216.6,
+    "endTime": 226.759,
+    "text": "They want open, open software and hardware solutions and time-to-market solutions at dramatically lower TCOs."
+  },
+  {
+    "startTime": 226.759,
+    "endTime": 234.39899999999997,
+    "text": "And that's why we're seeing customers like Naver, Airtel, Bosch, Infosys, and Seeker turning to Gaudi too."
+  },
+  {
+    "startTime": 234.399,
+    "endTime": 237.559,
+    "text": "And we're putting these pieces together."
+  },
+  {
+    "startTime": 237.559,
+    "endTime": 241.97899999999998,
+    "text": "We're standardizing through the open source community and the Linux Foundation."
+  },
+  {
+    "startTime": 241.979,
+    "endTime": 252.08,
+    "text": "We've created the open platform for enterprise AI to make Xeon and Gaudi a standardized AI solution for workloads like RAG."
+  },
+  {
+    "startTime": 252.08,
+    "endTime": 254.8,
+    "text": "So let me start with maybe a quick medical query."
+  },
+  {
+    "startTime": 255.08,
+    "endTime": 259.35900000000004,
+    "text": "So this is Xeon and Gaudi working together on a medical query."
+  },
+  {
+    "startTime": 259.359,
+    "endTime": 265.32,
+    "text": "So it's a lot of private, confidential, on-prem data being combined with a open source LLM."
+  },
+  {
+    "startTime": 265.32,
+    "endTime": 265.88,
+    "text": "Exactly."
+  },
+  {
+    "startTime": 265.88,
+    "endTime": 266.959,
+    "text": "OK, very cool."
+  },
+  {
+    "startTime": 266.959,
+    "endTime": 269.92,
+    "text": "All right, so let's see what our LLM has to say."
+  },
+  {
+    "startTime": 269.92,
+    "endTime": 275.76,
+    "text": "So you can see a typical LLM, we're getting the text answer here, standard, but it's a multimodal LLM."
+  },
+  {
+    "startTime": 275.76,
+    "endTime": 279.76,
+    "text": "So we also have this great visual here of the chest X-ray."
+  },
+  {
+    "startTime": 279.76,
+    "endTime": 282.0,
+    "text": "I'm not good at reading X-rays, so what does this say?"
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 282.88,
+    "text": "I'm not great either."
+  },
+  {
+    "startTime": 282.88,
+    "endTime": 287.71999999999997,
+    "text": "But the nice thing about, and I'm going to spare you my typing skills,"
+  },
+  {
+    "startTime": 287.72,
+    "endTime": 290.119,
+    "text": "I'm going to do a little cut and pasting here."
+  },
+  {
+    "startTime": 290.119,
+    "endTime": 297.32000000000005,
+    "text": "The nice thing about this multimodal LLM is we can actually ask it questions to further illustrate what's going on here."
+  },
+  {
+    "startTime": 297.32,
+    "endTime": 304.44,
+    "text": "So this LLM is actually going to analyze this image and tell us a little bit more about this hazy opacity, such as it is."
+  },
+  {
+    "startTime": 304.44,
+    "endTime": 306.76,
+    "text": "You can see here it's saying it's down here in the lower left."
+  },
+  {
+    "startTime": 306.76,
+    "endTime": 309.55899999999997,
+    "text": "So once again, just a great example of multimodal LLM."
+  },
+  {
+    "startTime": 309.559,
+    "endTime": 318.72,
+    "text": "And as you see, Gaudi is not just winning on price, it's also delivering incredible TCO and incredible performance."
+  },
+  {
+    "startTime": 318.72,
+    "endTime": 322.079,
+    "text": "And that performance is only getting better with Gaudi 3."
+  },
+  {
+    "startTime": 322.079,
+    "endTime": 332.32,
+    "text": "Gaudi 3 architecture is the only MLPerf benchmark alternative to H100s for LLM training and inferencing, and Gaudi 3 only makes it stronger."
+  },
+  {
+    "startTime": 332.32,
+    "endTime": 351.44,
+    "text": "We're projected to deliver 40% faster time to train than H100s, and 1.5x versus H200s, and faster inferencing than H100s, and delivering that 2.3x performance per dollar in throughput versus H100s."
+  },
+  {
+    "startTime": 351.44,
+    "endTime": 357.16,
+    "text": "And in training, Gaudi 3 is expected to deliver 2x the performance per dollar."
+  },
+  {
+    "startTime": 357.16,
+    "endTime": 360.64000000000004,
+    "text": "And this idea is simply music to our customers' ears."
+  },
+  {
+    "startTime": 360.64,
+    "endTime": 362.839,
+    "text": "Spend less and get more."
+  },
+  {
+    "startTime": 362.839,
+    "endTime": 369.16,
+    "text": "It's highly scalable, uses open industry standards like Ethernet, which we'll talk more about in a second."
+  },
+  {
+    "startTime": 369.16,
+    "endTime": 375.079,
+    "text": "We're also supporting all of the expected open source frameworks like PyTorch, VLLM."
+  },
+  {
+    "startTime": 375.079,
+    "endTime": 380.519,
+    "text": "And hundreds of thousands of models are now available on Hugging Face for Gaudi."
+  },
+  {
+    "startTime": 380.519,
+    "endTime": 388.67900000000003,
+    "text": "And with our developer cloud, you can experience Gaudi capabilities firsthand, easily accessible, and readily available."
+  },
+  {
+    "startTime": 388.679,
+    "endTime": 395.32,
+    "text": "But of course, with this, the entire ecosystem is lining up behind Gaudi 3."
+  },
+  {
+    "startTime": 395.32,
+    "endTime": 398.959,
+    "text": "And it's my pleasure today to show you the wall of Gaudi 3."
+  },
+  {
+    "startTime": 406.079,
+    "endTime": 409.079,
+    "text": "Today, we're launching Xeon 6 with eCores."
+  },
+  {
+    "startTime": 417.64,
+    "endTime": 427.279,
+    "text": "And we see this as an essential upgrade for the modern data center, a high core count, high density, exceptional performance per watt."
+  },
+  {
+    "startTime": 427.279,
+    "endTime": 431.92,
+    "text": "It's also important to note that this is our first product on Intel 3."
+  },
+  {
+    "startTime": 431.92,
+    "endTime": 442.82,
+    "text": "And Intel 3 is the third of our five nodes in four years as we continue our march back to process technology, competitiveness, and leadership next year."
+  },
+  {
+    "startTime": 442.82,
+    "endTime": 449.839,
+    "text": "I'd like you to fill this rack with the equivalent compute capability of the Gen 2 using Gen 6, OK?"
+  },
+  {
+    "startTime": 449.839,
+    "endTime": 450.88,
+    "text": "Give me a minute or two."
+  },
+  {
+    "startTime": 450.88,
+    "endTime": 451.519,
+    "text": "I'll make it happen."
+  },
+  {
+    "startTime": 451.519,
+    "endTime": 452.279,
+    "text": "OK, get with it."
+  },
+  {
+    "startTime": 452.279,
+    "endTime": 452.959,
+    "text": "Come on."
+  },
+  {
+    "startTime": 452.959,
+    "endTime": 456.16,
+    "text": "Hop to it, buddy."
+  },
+  {
+    "startTime": 456.16,
+    "endTime": 459.79900000000004,
+    "text": "And it's important to think about the data centers."
+  },
+  {
+    "startTime": 459.799,
+    "endTime": 469.959,
+    "text": "Every data center provider I know today is being crushed by how they upgrade, how they expand their footprint and the space, the flexibility."
+  },
+  {
+    "startTime": 469.959,
+    "endTime": 474.76,
+    "text": "For high performance computing, they have more demands for AI in the data center."
+  },
+  {
+    "startTime": 474.76,
+    "endTime": 490.799,
+    "text": "And having a processor with 144 cores versus 28 cores for Gen 2 gives them the ability to both condense as well as to attack these new workloads as well with performance and efficiency that was never seen before."
+  },
+  {
+    "startTime": 490.799,
+    "endTime": 492.2,
+    "text": "So Chuck, are you done?"
+  },
+  {
+    "startTime": 492.2,
+    "endTime": 492.839,
+    "text": "I'm done."
+  },
+  {
+    "startTime": 492.839,
+    "endTime": 494.92,
+    "text": "I wanted a few more reps, but you said equivalent."
+  },
+  {
+    "startTime": 494.92,
+    "endTime": 495.79900000000004,
+    "text": "You can put a little bit more in there."
+  },
+  {
+    "startTime": 495.799,
+    "endTime": 497.0,
+    "text": "OK, so let me get it."
+  },
+  {
+    "startTime": 497.0,
+    "endTime": 499.959,
+    "text": "That rack has become this."
+  },
+  {
+    "startTime": 499.959,
+    "endTime": 512.679,
+    "text": "And what you just saw was eCores delivering this distinct advantage for cloud native and hyperscale workloads, 4.2x in media transcode, 2.6x performance per watt."
+  },
+  {
+    "startTime": 512.679,
+    "endTime": 517.039,
+    "text": "And from a sustainability perspective, this is just game changing."
+  },
+  {
+    "startTime": 517.039,
+    "endTime": 530.679,
+    "text": "You know, a three to one rack consolidation over a four year cycle, just one 200 rack data center would save 80k megawatts per megawatt hours of energy."
+  },
+  {
+    "startTime": 530.679,
+    "endTime": 531.88,
+    "text": "And Xeon is everywhere."
+  },
+  {
+    "startTime": 531.88,
+    "endTime": 538.599,
+    "text": "So imagine the benefits that this could have across the thousands and tens of thousands of data centers."
+  },
+  {
+    "startTime": 538.599,
+    "endTime": 558.359,
+    "text": "In fact, if just 500 data centers were upgraded with what we just saw, this would power almost 1.4 million Taiwan households for a year, 3.7 million cars off the road for a year, or power Taipei 101 for 500 years."
+  },
+  {
+    "startTime": 558.359,
+    "endTime": 560.719,
+    "text": "And by the way, this will only get better."
+  },
+  {
+    "startTime": 560.719,
+    "endTime": 569.44,
+    "text": "And if 144 cores is good, well, let's put two of them together and let's have 288 cores."
+  },
+  {
+    "startTime": 569.44,
+    "endTime": 578.2800000000001,
+    "text": "So later this year, we'll be bringing the second generation of our Xeon 6 with eCores, a whopping 288 cores."
+  },
+  {
+    "startTime": 578.28,
+    "endTime": 586.76,
+    "text": " And this will enable a stunning six to one consolidation ratio, better claim than anything we've seen in the industry."
+  }
+]

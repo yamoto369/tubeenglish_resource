@@ -1,0 +1,392 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.0,
+    "text": "Welcome to everyone joining us today in Taipei and from around the world as we open Computex 2024."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 9.0,
+    "text": "At AMD, we love gaming."
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 14.0,
+    "text": "Today, I'm excited to show you what's next for PC gaming with Ryzen."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 27.0,
+    "text": "Our new Ryzen 9000 CPUs are the world's fastest consumer PC processors, bringing our new Zen5 core to the AM5 platform with support for the latest I.O."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 35.0,
+    "text": "and memory technologies including PCIe5 and DDR5.I'm happy to show you now our brand new Zen5 core."
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 44.0,
+    "text": "Zen5 is actually the next big step in high performance CPUs and when you look at the technology behind this, we have so much new technology."
+  },
+  {
+    "startTime": 45.0,
+    "endTime": 53.0,
+    "text": "We have a new parallel dual pipeline front end and what this does is it improves branch prediction accuracy and reduces latency."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 67.0,
+    "text": "It also enables us to deliver much more.We also designed Zen5 with a wider CPU engine and instruction window to run more instructions in parallel for leadership compute throughput and efficiency."
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 80.0,
+    "text": "As a result, compared to Zen4, we get double the instruction bandwidth, double the data bandwidth between the cache and floating point unit, and double the AI performance with full AVX-512 throughput."
+  },
+  {
+    "startTime": 81.0,
+    "endTime": 103.0,
+    "text": "All of this comes together in the product in Ryzen 9000 series and we're delivering an average of 16% higher IPC across a broad range of application benchmarks and games compared to Zen4.So now let me show you the top of the line Ryzen 9 9950X for the very first time."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 107.0,
+    "text": "There you go."
+  },
+  {
+    "startTime": 111.0,
+    "endTime": 124.0,
+    "text": "We have 16 Zen5 cores, 32 threads, up to 5.67 gigahertz boost, a large 80 megabyte cache at 170 watt TDP."
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 132.0,
+    "text": "This is the fastest consumer CPU in the world.We know all of our fans love gaming."
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 150.0,
+    "text": "The 9950X delivers best-in-class gaming performance across a wide range of popular games.Now with desktops, we know that enthusiasts want to have an infrastructure that lets you upgrade across multiple product generations and with Ryzen, we've done just that."
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 168.0,
+    "text": "Our original Ryzen platform, Socket AM4, launched in 2016 and now we're approaching the ninth year and we have 145 CPUs and APUs across 11 different product families in Socket AM4 and we're actually still launching new products."
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 180.0,
+    "text": "We actually have a few Ryzen 5000 CPUs that are coming next month and we're taking this exact same strategy with Socket AM5 which we now plan on supporting through 2027 and beyond."
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 207.0,
+    "text": "So you're going to see AM5 processors from us for many, many years to come.Now in addition to the top of the stack Ryzen 9950X, we're also announcing the 12, 8, and 6 core versions that will bring the leadership performance of Zen 5 to mainstream price points and all of these go on sale in July.We're so excited to announce today our third gen Ryzen AI processors."
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 218.0,
+    "text": "Our new Ryzen AI series actually is a significant increase in compute and AI performance and sets the bar for what a co-pilot PC should do."
+  },
+  {
+    "startTime": 219.0,
+    "endTime": 219.0,
+    "text": "Thank you, Drew."
+  },
+  {
+    "startTime": 220.0,
+    "endTime": 221.0,
+    "text": "Here we go."
+  },
+  {
+    "startTime": 221.0,
+    "endTime": 222.0,
+    "text": "This is Strix."
+  },
+  {
+    "startTime": 222.0,
+    "endTime": 243.0,
+    "text": "Strix is our next generation processor for ultra-thin and premium notebooks and it combines our new Zen 5 CPU, faster RDNA 3.5 graphics, and the new XDNA 2 NPU."
+  },
+  {
+    "startTime": 245.0,
+    "endTime": 248.0,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 249.0,
+    "endTime": 255.0,
+    "text": "And when you look at what we have, it really is all of the best technology on one chip."
+  },
+  {
+    "startTime": 255.0,
+    "endTime": 260.0,
+    "text": "We have a new NPU that delivers an industry-leading 50 tops."
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 263.0,
+    "text": "We're going to talk about tops a lot today."
+  },
+  {
+    "startTime": 263.0,
+    "endTime": 267.0,
+    "text": "50 tops of compute that can power new AI experiences at very low power."
+  },
+  {
+    "startTime": 268.0,
+    "endTime": 285.0,
+    "text": "We have our new Zen 5 core that enables all the compute performance for ultra-thin notebooks and we have faster RDNA 3.5 graphics that really brings the best-in-class application acceleration as well as console-level gaming to notebooks.Now we have a couple of SKUs."
+  },
+  {
+    "startTime": 285.0,
+    "endTime": 297.0,
+    "text": "The flagship Ryzen 9 HX370 has 12 Zen 5 cores, 24 threads, 36 megabytes of cache, the industry's most integrated NPU, and our latest RDNA graphics."
+  },
+  {
+    "startTime": 298.0,
+    "endTime": 306.0,
+    "text": "Strix is simply the best mobile CPU.So let me talk a little bit about what's special in this new NPU."
+  },
+  {
+    "startTime": 307.0,
+    "endTime": 322.0,
+    "text": "NPUs are really new and they're really there for all of these AI applications and with double the multitasking performance."
+  },
+  {
+    "startTime": 322.0,
+    "endTime": 345.0,
+    "text": "It's also an extremely efficient architecture that delivers up to two times better energy efficiency of our prior generation when running gen AI workloads.In addition to Microsoft, we're also working with all of the leading software developers including Adobe, Epic Games, SolidWorks, Sony, Zoom, and many others to accelerate the adoption of AI-enabled PC apps."
+  },
+  {
+    "startTime": 345.0,
+    "endTime": 369.0,
+    "text": "And by the end of 2024, we're on track to have more than 150 ISVs developing for AMD AI platforms across content creation, consumer, gaming, and productivity applications.Now to give us a look at some of these upcoming Copilot Plus PCs, let me welcome our next guest, a very close partner and good friend, Enrique Lloras, HP President and CEO."
+  },
+  {
+    "startTime": 372.0,
+    "endTime": 382.0,
+    "text": "And we are incredibly excited about the new family of products we will be launching in a few weeks."
+  },
+  {
+    "startTime": 383.0,
+    "endTime": 385.0,
+    "text": "So I think you have something to show us, is that right?"
+  },
+  {
+    "startTime": 385.0,
+    "endTime": 386.0,
+    "text": "I hope so."
+  },
+  {
+    "startTime": 386.0,
+    "endTime": 390.0,
+    "text": "And this is actually the new generation."
+  },
+  {
+    "startTime": 391.0,
+    "endTime": 393.0,
+    "text": "Since we have done together, we can show it together."
+  },
+  {
+    "startTime": 393.0,
+    "endTime": 393.0,
+    "text": "That's wonderful."
+  },
+  {
+    "startTime": 394.0,
+    "endTime": 415.0,
+    "text": "This is the next generation Omnibook when we integrate the latest Raytheon AI 300 series that, as Lisa was saying before, will be the first product that will have 50 tops integrated in the device."
+  },
+  {
+    "startTime": 416.0,
+    "endTime": 429.0,
+    "text": "And performance, as Pavel was saying, is critical because it will enable us to continue to deliver incredible experiences to our customers.Let's welcome Luca Rossi, President of Lenovo Intelligent Devices Group."
+  },
+  {
+    "startTime": 430.0,
+    "endTime": 436.0,
+    "text": "Now, Luca, you've been holding something and I think you're going to show us what it is."
+  },
+  {
+    "startTime": 436.0,
+    "endTime": 437.0,
+    "text": "Is that right?"
+  },
+  {
+    "startTime": 437.0,
+    "endTime": 446.0,
+    "text": "Well, I wasn't supposed to even show this yet, since this is something we will not announce until later this year."
+  },
+  {
+    "startTime": 446.0,
+    "endTime": 447.0,
+    "text": "But Lisa, you're right."
+  },
+  {
+    "startTime": 448.0,
+    "endTime": 450.0,
+    "text": "I felt it's just too exciting."
+  },
+  {
+    "startTime": 450.0,
+    "endTime": 451.0,
+    "text": "You look very happy."
+  },
+  {
+    "startTime": 452.0,
+    "endTime": 467.0,
+    "text": "So straight from our R&D, straight from our R&D lab, this is the first ever sneak peek at our new yoga laptop powered by third gen Ryzen AI."
+  },
+  {
+    "startTime": 467.0,
+    "endTime": 468.0,
+    "text": "That's beautiful."
+  },
+  {
+    "startTime": 470.0,
+    "endTime": 475.0,
+    "text": "Maybe we want to do left and right."
+  },
+  {
+    "startTime": 478.0,
+    "endTime": 491.0,
+    "text": "Yeah, so I can't share more for today, but I can tell you this device represents a significant leap forward in next generation AI computing."
+  },
+  {
+    "startTime": 491.0,
+    "endTime": 496.0,
+    "text": "It will include some of the Lenovo exclusive IP AI features that I mentioned."
+  },
+  {
+    "startTime": 497.0,
+    "endTime": 509.0,
+    "text": "And this is just the beginning.Next, I'd like to welcome one of the most important visionaries and innovators in the Taiwan ecosystem and a very, very close partner, Johnny Hsu, Chairman of ASUS."
+  },
+  {
+    "startTime": 509.0,
+    "endTime": 533.0,
+    "text": "I think later today at 4pm, we'll be unveiling a range of cutting edge AI PCs across our portfolio with brand new ZenBook, ProArt, VivoBook, ASUS TUF, and ROG laptops powered by the third gen AMD Ryzen AI processors."
+  },
+  {
+    "startTime": 533.0,
+    "endTime": 546.0,
+    "text": "These new lineups are equipped with the world's most powerful MPU with 50 tops and the superior AMD Zenfire architecture that leads the industry in compute and AI performance."
+  },
+  {
+    "startTime": 546.0,
+    "endTime": 564.0,
+    "text": "The third gen Ryzen AI processor is the catalyst to bring in personalized computing to everyone from content creators to gamers and business professionals and empower them like never before."
+  },
+  {
+    "startTime": 564.0,
+    "endTime": 573.0,
+    "text": "This advancement gives the new ZenBook higher AI performance than MacBook while making it thinner and lighter as well."
+  },
+  {
+    "startTime": 574.0,
+    "endTime": 582.0,
+    "text": "ASUS is so proud and honored to be the first OEM partner to make the third gen Ryzen AI systems available to consumers."
+  },
+  {
+    "startTime": 582.0,
+    "endTime": 586.0,
+    "text": "It will be ready for purchase in July."
+  },
+  {
+    "startTime": 586.0,
+    "endTime": 587.0,
+    "text": "Isn't that incredible?"
+  },
+  {
+    "startTime": 587.0,
+    "endTime": 591.0,
+    "text": "Thank you.So I have something to show you today."
+  },
+  {
+    "startTime": 591.0,
+    "endTime": 598.0,
+    "text": "It's actually the preview of our upcoming fifth gen EPYC processor codenamed Turin."
+  },
+  {
+    "startTime": 599.0,
+    "endTime": 607.0,
+    "text": "So please take a look at Turin for the very first time."
+  },
+  {
+    "startTime": 608.0,
+    "endTime": 620.0,
+    "text": "Turin features 192 cores and 384 threads and has 13 different chiplets built in 3 and 6 nanometer process technology."
+  },
+  {
+    "startTime": 621.0,
+    "endTime": 624.0,
+    "text": "There's a lot of technology on Turin."
+  },
+  {
+    "startTime": 625.0,
+    "endTime": 627.0,
+    "text": "It supports all the latest memory and I.O."
+  },
+  {
+    "startTime": 627.0,
+    "endTime": 631.0,
+    "text": "standards and is a drop-in replacement for our existing fourth gen EPYC platforms."
+  },
+  {
+    "startTime": 632.0,
+    "endTime": 639.0,
+    "text": "Turin will extend EPYC's leadership in general purpose and high performance computing workloads.So let's take a look at some of that performance."
+  },
+  {
+    "startTime": 641.0,
+    "endTime": 647.0,
+    "text": "NAMD is a very compute intensive scientific software that simulates complex systems and structures."
+  },
+  {
+    "startTime": 648.0,
+    "endTime": 664.0,
+    "text": "When simulating a 20 million atom model, a 128 core version of Turin is more than three times faster than the competition's best, enabling researchers to more quickly complete models that can lead to breakthroughs in drug research, material science, and other fields."
+  },
+  {
+    "startTime": 665.0,
+    "endTime": 671.0,
+    "text": "Now Turin also excels at AI inferencing performance when running smaller large language models."
+  },
+  {
+    "startTime": 672.0,
+    "endTime": 673.0,
+    "text": "So I want to show you a demo here."
+  },
+  {
+    "startTime": 674.0,
+    "endTime": 686.0,
+    "text": "Now what this demo compares is the performance of Turin when running a typical enterprise deployment of LLAMA 2 virtual assistants with a minimum guaranteed latency to ensure a high quality user experience."
+  },
+  {
+    "startTime": 687.0,
+    "endTime": 694.0,
+    "text": "Both servers begin by loading multiple LLAMA 2 instances with each assistant being asked to summarize an uploaded document."
+  },
+  {
+    "startTime": 695.0,
+    "endTime": 705.0,
+    "text": "Right away you can see that the Turin server on the right is adding double the number of sessions in the same amount of time while responding to user requests significantly faster than the competition."
+  },
+  {
+    "startTime": 707.0,
+    "endTime": 716.0,
+    "text": "And while the other server reaches a maximum number of sessions, you'll see it stop soon, it basically can't support the latency requirements anymore."
+  },
+  {
+    "startTime": 717.0,
+    "endTime": 722.0,
+    "text": "Turin continues scaling and delivers a sustained throughput of nearly four times more tokens per second."
+  },
+  {
+    "startTime": 727.0,
+    "endTime": 734.0,
+    "text": " Our customers are super excited about Turin, and I know many of our partners are actually here in the audience today, and"
+  }
+]

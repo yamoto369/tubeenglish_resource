@@ -1,0 +1,852 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.16,
+    "text": "Just last week, Google announced that they've put"
+  },
+  {
+    "startTime": 3.16,
+    "endTime": 7.12,
+    "text": "CUDF in the cloud and Accelerate Pandas."
+  },
+  {
+    "startTime": 7.12,
+    "endTime": 11.08,
+    "text": "Pandas is the most popular data science library in the world."
+  },
+  {
+    "startTime": 11.08,
+    "endTime": 13.64,
+    "text": "Many of you in here probably already use Pandas."
+  },
+  {
+    "startTime": 13.64,
+    "endTime": 21.32,
+    "text": "It's used by 10 million data scientists in the world, downloaded 170 million times each month."
+  },
+  {
+    "startTime": 21.32,
+    "endTime": 25.44,
+    "text": "It is the Excel that is the spreadsheet of data scientists."
+  },
+  {
+    "startTime": 25.52,
+    "endTime": 36.439,
+    "text": "Well, with just one click, you can now use Pandas in Colab, which is Google's cloud data centers platform, accelerated by CUDF."
+  },
+  {
+    "startTime": 36.439,
+    "endTime": 38.0,
+    "text": "The speed up is really incredible."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 39.66,
+    "text": "Let's take a look."
+  },
+  {
+    "startTime": 39.66,
+    "endTime": 53.259,
+    "text": "That was a great demo, right?"
+  },
+  {
+    "startTime": 53.259,
+    "endTime": 55.7,
+    "text": "Didn't take long."
+  },
+  {
+    "startTime": 55.7,
+    "endTime": 58.74,
+    "text": "This is Earth 2."
+  },
+  {
+    "startTime": 58.74,
+    "endTime": 82.22,
+    "text": "The idea that we would create a digital twin of the Earth, that we would go and simulate the Earth so that we could predict the future of our planet to better avert disasters or better understand the impact of climate change so that we can adapt better, so that we could change our habits now."
+  },
+  {
+    "startTime": 82.22,
+    "endTime": 89.5,
+    "text": "This digital twin of Earth is probably one of the most ambitious projects that the world's ever undertaken."
+  },
+  {
+    "startTime": 89.5,
+    "endTime": 92.82,
+    "text": "And we're taking large steps every single year."
+  },
+  {
+    "startTime": 92.82,
+    "endTime": 94.779,
+    "text": "And I'll show you results every single year."
+  },
+  {
+    "startTime": 94.779,
+    "endTime": 96.37899999999999,
+    "text": "But this year, we made some great breakthroughs."
+  },
+  {
+    "startTime": 96.379,
+    "endTime": 97.13900000000001,
+    "text": "Let's take a look."
+  },
+  {
+    "startTime": 99.58,
+    "endTime": 103.459,
+    "text": "On Monday, the storm will veer north again and approach Taiwan."
+  },
+  {
+    "startTime": 103.459,
+    "endTime": 106.62,
+    "text": "There are big uncertainties regarding its path."
+  },
+  {
+    "startTime": 106.62,
+    "endTime": 109.82000000000001,
+    "text": "Different paths will have different levels of impact on Taiwan."
+  },
+  {
+    "startTime": 109.82,
+    "endTime": 121.09899999999999,
+    "text": "Someday, in the near future, we will have continuous weather prediction at every square kilometer on the planet."
+  },
+  {
+    "startTime": 121.099,
+    "endTime": 127.099,
+    "text": "We will have continuous weather prediction at every square kilometer on the planet."
+  },
+  {
+    "startTime": 127.099,
+    "endTime": 129.419,
+    "text": "You will always know what the climate's going to be."
+  },
+  {
+    "startTime": 129.419,
+    "endTime": 131.339,
+    "text": "You will always know."
+  },
+  {
+    "startTime": 131.339,
+    "endTime": 136.339,
+    "text": "And this will run continuously because we've trained the AI."
+  },
+  {
+    "startTime": 136.339,
+    "endTime": 138.46,
+    "text": "And the AI requires so little energy."
+  },
+  {
+    "startTime": 138.46,
+    "endTime": 145.619,
+    "text": "In the late 1890s, Nikola Tesla invented an AC generator."
+  },
+  {
+    "startTime": 145.619,
+    "endTime": 149.059,
+    "text": "We invented an AI generator."
+  },
+  {
+    "startTime": 149.059,
+    "endTime": 152.539,
+    "text": "The AC generator generated electrons."
+  },
+  {
+    "startTime": 152.539,
+    "endTime": 155.82,
+    "text": "NVIDIA's AI generator generates electrons."
+  },
+  {
+    "startTime": 155.82,
+    "endTime": 159.38,
+    "text": "The AI generator generates tokens."
+  },
+  {
+    "startTime": 159.38,
+    "endTime": 163.85999999999999,
+    "text": "Both of these things have large market opportunities."
+  },
+  {
+    "startTime": 163.86,
+    "endTime": 167.699,
+    "text": "It's completely fungible in almost every industry."
+  },
+  {
+    "startTime": 167.699,
+    "endTime": 171.77900000000002,
+    "text": "And that's why it's a new industrial revolution."
+  },
+  {
+    "startTime": 171.779,
+    "endTime": 176.259,
+    "text": "And now we have a new factory, a new computer."
+  },
+  {
+    "startTime": 176.259,
+    "endTime": 180.539,
+    "text": "And what we will run on top of this is a new type of software."
+  },
+  {
+    "startTime": 180.539,
+    "endTime": 184.97899999999998,
+    "text": "And we call it NIMS, NVIDIA Inference Microservices."
+  },
+  {
+    "startTime": 186.339,
+    "endTime": 190.46,
+    "text": "Now, what happens is the NIM runs inside this factory."
+  },
+  {
+    "startTime": 190.46,
+    "endTime": 194.5,
+    "text": "And this NIM is a pre-trained model."
+  },
+  {
+    "startTime": 194.5,
+    "endTime": 196.259,
+    "text": "It's an AI."
+  },
+  {
+    "startTime": 196.259,
+    "endTime": 200.89899999999997,
+    "text": "Well, this AI is, of course, quite complex in itself."
+  },
+  {
+    "startTime": 200.899,
+    "endTime": 206.25900000000001,
+    "text": "But the computing stack that runs AIs are insanely complex."
+  },
+  {
+    "startTime": 206.259,
+    "endTime": 212.279,
+    "text": "When you go and use chat GPT, underneath their stack is a whole bunch of software."
+  },
+  {
+    "startTime": 212.279,
+    "endTime": 215.07999999999998,
+    "text": "Underneath that prompt is a ton of software."
+  },
+  {
+    "startTime": 215.08,
+    "endTime": 220.52,
+    "text": "And it's incredibly complex because the models are large, billions to trillions of parameters."
+  },
+  {
+    "startTime": 220.52,
+    "endTime": 222.03900000000002,
+    "text": "It doesn't run on just one computer."
+  },
+  {
+    "startTime": 222.039,
+    "endTime": 224.119,
+    "text": "It runs on multiple computers."
+  },
+  {
+    "startTime": 224.119,
+    "endTime": 241.639,
+    "text": "It has to distribute the workload across multiple GPUs, tensor parallelism, pipeline parallelism, data parallelism, all kinds of parallelism, expert parallelism, all kinds of parallelism, distributing the workload across multiple GPUs, processing it as fast as possible."
+  },
+  {
+    "startTime": 241.639,
+    "endTime": 250.88,
+    "text": "Because if you are in a factory, if you run a factory, your throughput directly correlates to your revenues."
+  },
+  {
+    "startTime": 250.88,
+    "endTime": 253.839,
+    "text": "Your throughput directly correlates to quality of service."
+  },
+  {
+    "startTime": 253.839,
+    "endTime": 258.359,
+    "text": "And your throughput directly correlates to the number of people who can use your service."
+  },
+  {
+    "startTime": 258.359,
+    "endTime": 265.03999999999996,
+    "text": "We are now in a world where data center throughput utilization is vitally important."
+  },
+  {
+    "startTime": 265.04,
+    "endTime": 267.72,
+    "text": "It was important in the past, but not vitally important."
+  },
+  {
+    "startTime": 267.72,
+    "endTime": 270.64000000000004,
+    "text": "It was important in the past, but people don't measure it."
+  },
+  {
+    "startTime": 270.64,
+    "endTime": 274.079,
+    "text": "Today, every parameter is measured."
+  },
+  {
+    "startTime": 274.079,
+    "endTime": 280.279,
+    "text": "Start time, up time, utilization, throughput, idle time, you name it."
+  },
+  {
+    "startTime": 280.279,
+    "endTime": 282.21999999999997,
+    "text": "Because it's a factory."
+  },
+  {
+    "startTime": 282.22,
+    "endTime": 289.32000000000005,
+    "text": "When something is a factory, its operations directly correlate to the financial performance of the company."
+  },
+  {
+    "startTime": 289.32,
+    "endTime": 294.92,
+    "text": "And so we realized that this is incredibly complex for most companies to do."
+  },
+  {
+    "startTime": 294.92,
+    "endTime": 299.0,
+    "text": "So what we did was we created this AI in a box."
+  },
+  {
+    "startTime": 299.0,
+    "endTime": 303.64,
+    "text": "And the container's an incredible amount of software."
+  },
+  {
+    "startTime": 303.64,
+    "endTime": 309.55899999999997,
+    "text": "Inside this container is CUDA, CUDNN, TensorRT,"
+  },
+  {
+    "startTime": 309.559,
+    "endTime": 312.519,
+    "text": "Triton for inference services."
+  },
+  {
+    "startTime": 312.519,
+    "endTime": 317.399,
+    "text": "It is cloud native, so that you could autoscale in a Kubernetes environment."
+  },
+  {
+    "startTime": 317.399,
+    "endTime": 321.559,
+    "text": "It has management services and hooks, so that you can monitor your AIs."
+  },
+  {
+    "startTime": 321.559,
+    "endTime": 330.04,
+    "text": "It has common APIs, standard APIs, so that you could literally chat with this box."
+  },
+  {
+    "startTime": 330.04,
+    "endTime": 334.119,
+    "text": "We now have the ability to create large language models and pre-trained models of all kinds."
+  },
+  {
+    "startTime": 334.119,
+    "endTime": 342.04,
+    "text": "And we have all of these various versions, whether it's language-based, or vision-based, or imaging-based."
+  },
+  {
+    "startTime": 342.04,
+    "endTime": 346.76000000000005,
+    "text": "We have versions that are available for health care, digital biology."
+  },
+  {
+    "startTime": 346.76,
+    "endTime": 351.71999999999997,
+    "text": "We have versions that are digital humans that I'll talk to you about."
+  },
+  {
+    "startTime": 351.72,
+    "endTime": 355.92,
+    "text": "And the way you use this, just come to AI.NVIDIA.com."
+  },
+  {
+    "startTime": 355.92,
+    "endTime": 364.35900000000004,
+    "text": "And today, we just posted up in Hugging Face the LLAMA3 NIM, fully optimized."
+  },
+  {
+    "startTime": 364.359,
+    "endTime": 366.71999999999997,
+    "text": "It's available there for you to try."
+  },
+  {
+    "startTime": 366.72,
+    "endTime": 368.6,
+    "text": "And you can even take it with you."
+  },
+  {
+    "startTime": 368.6,
+    "endTime": 370.64000000000004,
+    "text": "It's available to you for free."
+  },
+  {
+    "startTime": 370.64,
+    "endTime": 389.959,
+    "text": "And finally, AI models that reproduce lifelike appearances, enabling real-time path traced subsurface scattering to simulate the way light penetrates the skin, scatters, and exits at various points, giving skin its soft and translucent appearance."
+  },
+  {
+    "startTime": 389.959,
+    "endTime": 399.519,
+    "text": "NVIDIA ACE is a suite of digital human technologies packaged as easy-to-deploy, fully-optimized microservices, or NIMs."
+  },
+  {
+    "startTime": 399.519,
+    "endTime": 406.92,
+    "text": "Developers can integrate ACE NIMs into their existing frameworks, engines, and digital human experiences."
+  },
+  {
+    "startTime": 406.92,
+    "endTime": 413.48,
+    "text": "Nemotron SLM and LLM NIMs to understand our intent and orchestrate other models."
+  },
+  {
+    "startTime": 413.48,
+    "endTime": 417.6,
+    "text": "Riva Speech NIMs for interactive speech and translation."
+  },
+  {
+    "startTime": 417.6,
+    "endTime": 421.959,
+    "text": "Audio-to-Face and Gesture NIMs for facial and body animation."
+  },
+  {
+    "startTime": 421.959,
+    "endTime": 426.559,
+    "text": "And Omniverse RTX with DLSS for neural rendering of skin and hair."
+  },
+  {
+    "startTime": 426.559,
+    "endTime": 432.72,
+    "text": "And so we installed every single RTX GPU with Tensor Core processing."
+  },
+  {
+    "startTime": 432.72,
+    "endTime": 438.20000000000005,
+    "text": "And now we have 100 million GeForce RTX AI PCs in the world."
+  },
+  {
+    "startTime": 438.2,
+    "endTime": 440.11899999999997,
+    "text": "And we're shipping 200."
+  },
+  {
+    "startTime": 440.119,
+    "endTime": 446.04,
+    "text": "And this Computex, we're featuring four new amazing laptops."
+  },
+  {
+    "startTime": 446.04,
+    "endTime": 449.04,
+    "text": "All of them are able to run AI."
+  },
+  {
+    "startTime": 449.04,
+    "endTime": 453.16,
+    "text": "Your future laptop, your future PC, will become an AI."
+  },
+  {
+    "startTime": 453.16,
+    "endTime": 457.959,
+    "text": "It'll be constantly helping you, assisting you in the background."
+  },
+  {
+    "startTime": 457.959,
+    "endTime": 460.16,
+    "text": "Ladies and gentlemen, this is Blackwell."
+  },
+  {
+    "startTime": 461.119,
+    "endTime": 464.76000000000005,
+    "text": "Blackwell is in production."
+  },
+  {
+    "startTime": 464.76,
+    "endTime": 467.15999999999997,
+    "text": "Incredible amounts of technology."
+  },
+  {
+    "startTime": 470.519,
+    "endTime": 473.279,
+    "text": "This is our production board."
+  },
+  {
+    "startTime": 473.279,
+    "endTime": 477.48,
+    "text": "This is the most complex, highest performance computer the world's ever made."
+  },
+  {
+    "startTime": 480.519,
+    "endTime": 482.839,
+    "text": "This is the gray CPU."
+  },
+  {
+    "startTime": 482.839,
+    "endTime": 494.0,
+    "text": "And these are, you could see, the CPUs are the most powerful, the most powerful, and these are, you could see, each one of these Blackwell dies, two of them connected together."
+  },
+  {
+    "startTime": 494.0,
+    "endTime": 495.6,
+    "text": "You see that?"
+  },
+  {
+    "startTime": 495.6,
+    "endTime": 499.399,
+    "text": "It is the largest die, the largest chip the world makes."
+  },
+  {
+    "startTime": 499.399,
+    "endTime": 504.279,
+    "text": "And then we connect two of them together with a 10 terabyte per second link."
+  },
+  {
+    "startTime": 504.279,
+    "endTime": 508.079,
+    "text": "So this is a DGX Blackwell."
+  },
+  {
+    "startTime": 508.079,
+    "endTime": 513.32,
+    "text": "This has, this is air-cooled, has eight of these GPUs inside."
+  },
+  {
+    "startTime": 513.32,
+    "endTime": 519.6790000000001,
+    "text": "Look at the size of the heat sinks on these GPUs."
+  },
+  {
+    "startTime": 519.679,
+    "endTime": 526.0799999999999,
+    "text": "About 15 kilowatts, 15,000 watts, and completely air-cooled."
+  },
+  {
+    "startTime": 526.08,
+    "endTime": 533.84,
+    "text": "This version supports x86, and it goes into the infrastructure that we've been shipping hoppers into."
+  },
+  {
+    "startTime": 533.84,
+    "endTime": 539.039,
+    "text": "However, if you would like to have liquid cooling, we have a new system."
+  },
+  {
+    "startTime": 539.039,
+    "endTime": 547.84,
+    "text": "And this new system is based on this board, and we call it MGX for modular."
+  },
+  {
+    "startTime": 547.84,
+    "endTime": 553.479,
+    "text": "And this modular system, you won't be able to see this."
+  },
+  {
+    "startTime": 553.479,
+    "endTime": 555.5590000000001,
+    "text": "Can they see this?"
+  },
+  {
+    "startTime": 555.559,
+    "endTime": 557.64,
+    "text": "Can you see this?"
+  },
+  {
+    "startTime": 557.64,
+    "endTime": 559.559,
+    "text": "You can?"
+  },
+  {
+    "startTime": 559.559,
+    "endTime": 561.679,
+    "text": "Are you?"
+  },
+  {
+    "startTime": 561.679,
+    "endTime": 562.179,
+    "text": "OK."
+  },
+  {
+    "startTime": 565.4,
+    "endTime": 565.9,
+    "text": "I see."
+  },
+  {
+    "startTime": 566.58,
+    "endTime": 568.739,
+    "text": "OK."
+  },
+  {
+    "startTime": 568.739,
+    "endTime": 573.7800000000001,
+    "text": "And so this is the MGX system, and here's the two Blackwell boards."
+  },
+  {
+    "startTime": 573.78,
+    "endTime": 577.659,
+    "text": "So this one node has four Blackwell chips."
+  },
+  {
+    "startTime": 577.659,
+    "endTime": 580.659,
+    "text": "These four Blackwell chips, this is liquid cooled."
+  },
+  {
+    "startTime": 583.82,
+    "endTime": 597.7,
+    "text": "Nine of them, nine of them, well, 72 of these, 72 of these GPUs, 72 of these GPUs are then connected together with a new NVLink."
+  },
+  {
+    "startTime": 597.7,
+    "endTime": 602.979,
+    "text": "This is NVLink switch fifth generation."
+  },
+  {
+    "startTime": 602.979,
+    "endTime": 605.4000000000001,
+    "text": "And the NVLink switch is a technology miracle."
+  },
+  {
+    "startTime": 605.4,
+    "endTime": 608.179,
+    "text": "This is the most advanced switch the world's ever made."
+  },
+  {
+    "startTime": 608.179,
+    "endTime": 610.9399999999999,
+    "text": "The data rate is insane."
+  },
+  {
+    "startTime": 610.94,
+    "endTime": 621.739,
+    "text": "And these switches connect every single one of these Blackwells to each other so that we have one giant 72 GPU Blackwell."
+  },
+  {
+    "startTime": 621.739,
+    "endTime": 633.099,
+    "text": "Well, the benefit of this is that in one domain, one GPU domain, this now looks like one GPU."
+  },
+  {
+    "startTime": 633.099,
+    "endTime": 638.94,
+    "text": "This one GPU has 72 versus the last generation of eight, so we increased it by nine times."
+  },
+  {
+    "startTime": 638.94,
+    "endTime": 641.859,
+    "text": "The amount of bandwidth we've increased by 18 times."
+  },
+  {
+    "startTime": 641.859,
+    "endTime": 648.2990000000001,
+    "text": "The AI flops we've increased by 45 times, and yet the amount of power is only 10 times."
+  },
+  {
+    "startTime": 648.299,
+    "endTime": 653.419,
+    "text": "This is 100 kilowatts, and that is 10 kilowatts."
+  },
+  {
+    "startTime": 653.419,
+    "endTime": 656.34,
+    "text": "This is one GPU."
+  },
+  {
+    "startTime": 656.34,
+    "endTime": 658.38,
+    "text": "Ladies and gentlemen, DGX GPU."
+  },
+  {
+    "startTime": 665.82,
+    "endTime": 671.0200000000001,
+    "text": "The back of this GPU is the NVLink spine."
+  },
+  {
+    "startTime": 671.02,
+    "endTime": 681.14,
+    "text": "The NVLink spine is 5,000 wires, two miles, and it's right here."
+  },
+  {
+    "startTime": 683.78,
+    "endTime": 695.5799999999999,
+    "text": "This is an NVLink spine, and it connects 72 GPUs to each other."
+  },
+  {
+    "startTime": 695.58,
+    "endTime": 700.26,
+    "text": "This is an electrical mechanical miracle."
+  },
+  {
+    "startTime": 700.26,
+    "endTime": 706.14,
+    "text": "The transceivers makes it possible for us to drive the entire length in copper."
+  },
+  {
+    "startTime": 706.14,
+    "endTime": 718.02,
+    "text": "And as a result, this switch, the NVLink switch, driving the NVLink spine in copper makes it possible for us to save 20 kilowatts in one rack."
+  },
+  {
+    "startTime": 718.02,
+    "endTime": 721.0989999999999,
+    "text": "20 kilowatts can now be used for processing."
+  },
+  {
+    "startTime": 721.099,
+    "endTime": 724.979,
+    "text": "Just an incredible achievement."
+  },
+  {
+    "startTime": 724.979,
+    "endTime": 730.0200000000001,
+    "text": "We have code names in our company, and we try to keep them very secret."
+  },
+  {
+    "startTime": 730.02,
+    "endTime": 732.78,
+    "text": "Oftentimes, most of the employees don't even know."
+  },
+  {
+    "startTime": 732.78,
+    "endTime": 735.619,
+    "text": "But our next generation platform is called Rubin."
+  },
+  {
+    "startTime": 735.619,
+    "endTime": 741.179,
+    "text": "The Rubin platform, I'm not going to spend much time on it."
+  },
+  {
+    "startTime": 741.179,
+    "endTime": 742.4599999999999,
+    "text": "I know what's going to happen."
+  },
+  {
+    "startTime": 742.46,
+    "endTime": 747.14,
+    "text": "You're going to take pictures of it, and you're going to go look at the fine prints, and feel free to do that."
+  },
+  {
+    "startTime": 747.14,
+    "endTime": 752.179,
+    "text": "So we have the Rubin platform, and one year later, we'd have the Rubin Ultra platform."
+  },
+  {
+    "startTime": 752.179,
+    "endTime": 757.3399999999999,
+    "text": "All of these chips that I'm showing you here are all in full development, 100% of them."
+  },
+  {
+    "startTime": 757.34,
+    "endTime": 763.619,
+    "text": "And the rhythm is one year at the limits of technology, all 100% architecturally compatible."
+  },
+  {
+    "startTime": 763.619,
+    "endTime": 767.859,
+    "text": "So this is basically what NVIDIA is building."
+  },
+  {
+    "startTime": 767.859,
+    "endTime": 770.979,
+    "text": "A robotic factory is designed with three computers."
+  },
+  {
+    "startTime": 770.979,
+    "endTime": 773.0590000000001,
+    "text": "Train the AI on NVIDIA AI."
+  },
+  {
+    "startTime": 773.059,
+    "endTime": 780.02,
+    "text": "You have the robot running on the PLC systems for orchestrating the factories."
+  },
+  {
+    "startTime": 780.02,
+    "endTime": 783.859,
+    "text": "And then you, of course, simulate everything inside Omniverse."
+  },
+  {
+    "startTime": 783.859,
+    "endTime": 789.479,
+    "text": "Well, the robotic arm and the robotic AMRs are also the same way, three computer systems."
+  },
+  {
+    "startTime": 789.479,
+    "endTime": 793.44,
+    "text": "The difference is the two Omniverses will come together."
+  },
+  {
+    "startTime": 793.44,
+    "endTime": 795.96,
+    "text": "So they'll share one virtual space."
+  },
+  {
+    "startTime": 795.96,
+    "endTime": 804.239,
+    "text": "When they share one virtual space, that robotic arm will become inside the robotic factory."
+  },
+  {
+    "startTime": 804.239,
+    "endTime": 814.719,
+    "text": "And again, three computers, and we provide the computer, the acceleration layers, and pre-trained AI models."
+  },
+  {
+    "startTime": 814.719,
+    "endTime": 819.6790000000001,
+    "text": "Well, I think we have some robots that we'd like to welcome."
+  },
+  {
+    "startTime": 823.88,
+    "endTime": 825.059,
+    "text": "Here we go."
+  },
+  {
+    "startTime": 825.059,
+    "endTime": 825.679,
+    "text": "About my size."
+  },
+  {
+    "startTime": 834.599,
+    "endTime": 837.359,
+    "text": "And we have some friends to join us."
+  },
+  {
+    "startTime": 837.359,
+    "endTime": 842.88,
+    "text": "So the future of robotics is here, the next wave of AI."
+  },
+  {
+    "startTime": 842.88,
+    "endTime": 850.559,
+    "text": "And of course, Taiwan builds computers with keyboards."
+  },
+  {
+    "startTime": 850.559,
+    "endTime": 853.28,
+    "text": "You build computers for your pocket."
+  },
+  {
+    "startTime": 853.28,
+    "endTime": 856.8399999999999,
+    "text": "You build computers for data centers in the cloud."
+  },
+  {
+    "startTime": 856.84,
+    "endTime": 864.96,
+    "text": "In the future, you're going to build computers that walk and computers that roll around."
+  },
+  {
+    "startTime": 864.96,
+    "endTime": 867.76,
+    "text": "And so these are all just computers."
+  },
+  {
+    "startTime": 867.76,
+    "endTime": 875.2189999999999,
+    "text": "And as it turns out, the technology is very similar to the technology of building all of the other computers that you already built today."
+  },
+  {
+    "startTime": 875.219,
+    "endTime": 880.4190000000001,
+    "text": " So this is going to be a really extraordinary journey for us."
+  }
+]
