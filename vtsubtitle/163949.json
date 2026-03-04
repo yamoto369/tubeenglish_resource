@@ -1,0 +1,182 @@
+[
+  {
+    "startTime": 6.4,
+    "endTime": 16.5,
+    "text": "In 2011, a group of researchers conducted a scientific study to find an impossible result: that listening to certain songs can make you younger."
+  },
+  {
+    "startTime": 16.6,
+    "endTime": 23.200000000000003,
+    "text": "Their study involved real people, truthfully reported data, and commonplace statistical analyses."
+  },
+  {
+    "startTime": 23.3,
+    "endTime": 24.7,
+    "text": "So, how did they do it?"
+  },
+  {
+    "startTime": 24.8,
+    "endTime": 33.704,
+    "text": "The answer lies in a statistical method scientists often use to try to figure out whether their results mean something or if they're random noise."
+  },
+  {
+    "startTime": 33.704,
+    "endTime": 40.6,
+    "text": "In fact, the whole point of the music study was to point out ways this method can be misused."
+  },
+  {
+    "startTime": 40.7,
+    "endTime": 43.7,
+    "text": "A famous thought experiment explains the method."
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 50.199999999999996,
+    "text": "There are eight cups of tea, four with the milk added first and four with the tea added first."
+  },
+  {
+    "startTime": 50.3,
+    "endTime": 53.8,
+    "text": "A participant must determine which are which according to taste."
+  },
+  {
+    "startTime": 53.9,
+    "endTime": 60.5,
+    "text": "There are 70 different ways the cups can be sorted into two groups of four and only one is correct."
+  },
+  {
+    "startTime": 60.6,
+    "endTime": 63.2,
+    "text": "So, can she taste the difference?"
+  },
+  {
+    "startTime": 63.3,
+    "endTime": 64.7,
+    "text": "That's our research question."
+  },
+  {
+    "startTime": 64.87,
+    "endTime": 71.80000000000001,
+    "text": "To analyze her choices, we define what's called a null hypothesis, that she can't distinguish the teas."
+  },
+  {
+    "startTime": 71.871,
+    "endTime": 78.8,
+    "text": "If she can't distinguish the teas, she'll still get the right answer 1 in 70 times by chance."
+  },
+  {
+    "startTime": 78.9,
+    "endTime": 86.0,
+    "text": "1 in 70 is roughly .014⏤that single number is called a p-value."
+  },
+  {
+    "startTime": 86.038,
+    "endTime": 96.996,
+    "text": "In many fields, a p-value of .05 or below is considered statistically significant, meaning there's enough evidence to reject the null hypothesis."
+  },
+  {
+    "startTime": 96.996,
+    "endTime": 104.913,
+    "text": "Based on a p-value of .014, they'd rule out the null hypothesis that she can't distinguish the teas."
+  },
+  {
+    "startTime": 104.913,
+    "endTime": 114.329,
+    "text": "Though p-values are commonly used by both researchers and journals to evaluate scientific results, they're really confusing, even for many scientists."
+  },
+  {
+    "startTime": 114.329,
+    "endTime": 124.663,
+    "text": "That's partly because all a p-value actually tells us is the probability of getting a certain result, assuming the null hypothesis is true."
+  },
+  {
+    "startTime": 124.663,
+    "endTime": 133.329,
+    "text": "So if she correctly sorts the teas, the p-value is the probability of her doing so assuming she can't tell the difference."
+  },
+  {
+    "startTime": 133.329,
+    "endTime": 142.329,
+    "text": "But the reverse isn't true: the p-value doesn't tell us the probability that she can taste the difference, which is what we're trying to find out."
+  },
+  {
+    "startTime": 142.329,
+    "endTime": 148.329,
+    "text": "So if a p-value doesn't answer the research question, why does the scientific community use it?"
+  },
+  {
+    "startTime": 148.329,
+    "endTime": 159.204,
+    "text": "Well, because even though a p-value doesn't directly state the probability that the results are due to random chance, it usually gives a pretty reliable indication."
+  },
+  {
+    "startTime": 159.204,
+    "endTime": 167.538,
+    "text": "At least, it does when used correctly. And that's where many researchers, and even whole fields, have run into trouble."
+  },
+  {
+    "startTime": 167.538,
+    "endTime": 180.5,
+    "text": "Most real studies are more complex than the tea experiment. Scientists can test their research question in multiple ways, and some of these tests might produce a statistically significant result, while others don't."
+  },
+  {
+    "startTime": 180.5,
+    "endTime": 190.996,
+    "text": "It might seem like a good idea to test every possibility. But it's not, because with each additional test, the chance of a false positive increases."
+  },
+  {
+    "startTime": 190.996,
+    "endTime": 198.3,
+    "text": "Searching for a low p-value, and then presenting only that analysis, is often called p-hacking."
+  },
+  {
+    "startTime": 198.3,
+    "endTime": 208.20000000000002,
+    "text": "It's like throwing darts until you hit a bullseye and then saying you only threw the dart that hit the bull's eye. This is exactly what the music researchers did."
+  },
+  {
+    "startTime": 208.2,
+    "endTime": 214.28799999999998,
+    "text": "They played three groups of participants each a different song and collected lots of information about them."
+  },
+  {
+    "startTime": 214.288,
+    "endTime": 218.538,
+    "text": "The analysis they published included only two out of the three groups."
+  },
+  {
+    "startTime": 218.538,
+    "endTime": 229.20000000000002,
+    "text": "Of all the information they collected, their analysis only used participants' fathers' age— to \"control for variation in baseline age across participants\"."
+  },
+  {
+    "startTime": 229.2,
+    "endTime": 241.74599999999998,
+    "text": "They also paused their experiment after every ten participants, and continued if the p-value was above .05, but stopped when it dipped below .05."
+  },
+  {
+    "startTime": 241.746,
+    "endTime": 252.163,
+    "text": "They found that participants who heard one song were 1.5 years younger than those who heard the other song, with a p-value of .04."
+  },
+  {
+    "startTime": 252.163,
+    "endTime": 261.329,
+    "text": "Usually it's much tougher to spot p-hacking, because we don't know the results are impossible: the whole point of doing experiments is to learn something new."
+  },
+  {
+    "startTime": 261.329,
+    "endTime": 278.90000000000003,
+    "text": "Fortunately, there's a simple way to make p-values more reliable: pre-registering a detailed plan for the experiment and analysis beforehand that others can check, so researchers can't keep trying different analyses until they find a significant result."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 291.3,
+    "text": "And, in the true spirit of scientific inquiry, there's even a new field that's basically science doing science on itself: studying scientific practices in order to improve them."
+  },
+  {
+    "startTime": 291.3,
+    "endTime": 305.0,
+    "text": "This new field has emerged in response to a crisis in science, and p-hacking is just one part of that crisis. So, what's going on? And can we fix it? Learn more with this video."
+  }
+]
