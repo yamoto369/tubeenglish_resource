@@ -1,0 +1,207 @@
+[
+  {
+    "startTime": 0.26,
+    "endTime": 2.54,
+    "text": "Why are I-beams shaped like an I?"
+  },
+  {
+    "startTime": 2.54,
+    "endTime": 5.109999999999999,
+    "text": "Have you ever actually taken a moment to think about this?"
+  },
+  {
+    "startTime": 5.11,
+    "endTime": 11.4,
+    "text": "This simple technology forms the basis of all our largest structures, and even features in one of the world's most famous photos."
+  },
+  {
+    "startTime": 11.62,
+    "endTime": 16.21,
+    "text": "But after asking some of my friends, few actually knew the answer to this simple question."
+  },
+  {
+    "startTime": 16.21,
+    "endTime": 21.630000000000003,
+    "text": "The I-beam is designed in that way to handle a maximum bending load while using the least amount of material."
+  },
+  {
+    "startTime": 21.63,
+    "endTime": 25.09,
+    "text": "Let's look at an I-beam supported on either end to understand more."
+  },
+  {
+    "startTime": 25.09,
+    "endTime": 30.0,
+    "text": "When we apply a uniform load across this beam, the max deflection will occur here in the middle."
+  },
+  {
+    "startTime": 30.07,
+    "endTime": 32.62,
+    "text": "We can calculate the deflection with this equation."
+  },
+  {
+    "startTime": 32.62,
+    "endTime": 35.089999999999996,
+    "text": "This may look complicated, but it really isn't."
+  },
+  {
+    "startTime": 35.09,
+    "endTime": 41.730000000000004,
+    "text": "W represents the uniformly distributed load in terms of Newtons per meter; L is the span between supports;"
+  },
+  {
+    "startTime": 41.75,
+    "endTime": 48.37,
+    "text": "E is the Young's Modulus which as explained in my Material Properties 101 video, describes the stiffness of the material."
+  },
+  {
+    "startTime": 48.37,
+    "endTime": 56.199999999999996,
+    "text": "But the variable we want to focus on is I, which represents the second moment of area, sometimes called the moment area of inertia."
+  },
+  {
+    "startTime": 56.26,
+    "endTime": 62.47,
+    "text": "This describes the shape of the beam, more specifically, it describes how the material is distributed throughout the shape."
+  },
+  {
+    "startTime": 62.47,
+    "endTime": 68.11,
+    "text": "These two shapes have the same area, but that area is distributed very differently and that is important."
+  },
+  {
+    "startTime": 68.11,
+    "endTime": 70.83,
+    "text": "A see-saw is a good analogy for this idea."
+  },
+  {
+    "startTime": 70.83,
+    "endTime": 77.27,
+    "text": "When we place weight in the middle, it is very easy to lift, in fact, if it is placed exactly over the middle, we aren't lifting it at all."
+  },
+  {
+    "startTime": 77.27,
+    "endTime": 82.99,
+    "text": "But the further we move that weight to the end, the more difficult it is to lift, due to the increasing leverage."
+  },
+  {
+    "startTime": 82.99,
+    "endTime": 85.55999999999999,
+    "text": "A very similar thing happens with beams in bending."
+  },
+  {
+    "startTime": 85.56,
+    "endTime": 93.79,
+    "text": "Material at the center of the beam, which is called the neutral axis, does not resist bending, and the material furthest away from the center, resists the bending the most."
+  },
+  {
+    "startTime": 93.79,
+    "endTime": 98.5,
+    "text": "It is called the neutral axis because if we place a bending load downward the same way we did before,"
+  },
+  {
+    "startTime": 98.8,
+    "endTime": 104.8,
+    "text": "the beam will bend in a way that will cause the lower edge to be in max tension and the upper edge to be in max compression,"
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 111.08,
+    "text": "and the values of stress gradually decrease to 0 at the neutral axis where there is neither tension or compression."
+  },
+  {
+    "startTime": 111.08,
+    "endTime": 120.02,
+    "text": "Because the tension and compression is maximum the furthest from neutral axis, we want to maximize the amount of material on the outside of the profile where it is needed most."
+  },
+  {
+    "startTime": 120.02,
+    "endTime": 124.83,
+    "text": "The more material further from the neutral axis, the larger the second moment of area will be."
+  },
+  {
+    "startTime": 124.83,
+    "endTime": 130.69,
+    "text": "Applying that to the equation, we can see that a larger second moment of area will result in a smaller deflection."
+  },
+  {
+    "startTime": 130.69,
+    "endTime": 140.59,
+    "text": "So if we to place this section under the same bending load, it would actually be stronger if we flipped it over 90 degrees, because now more material now located future from the neutral axis."
+  },
+  {
+    "startTime": 140.59,
+    "endTime": 146.26,
+    "text": "We could make it even stronger again, by reducing this thickness to a minimum, just enough to resist the shear stress,"
+  },
+  {
+    "startTime": 146.26,
+    "endTime": 150.64,
+    "text": "and placing that material at the the top and suddenly, we're back to the I-beam shape."
+  },
+  {
+    "startTime": 150.64,
+    "endTime": 153.36999999999998,
+    "text": "You can see this idea put into action all around you."
+  },
+  {
+    "startTime": 153.37,
+    "endTime": 159.17000000000002,
+    "text": "In my last video, I mentioned just one of them when I spoke about the Willis Tower using a bundled tube structure."
+  },
+  {
+    "startTime": 159.17,
+    "endTime": 166.17,
+    "text": "This structure maximizes the amount of steel on the outside of the building to maximize it's resistance to lateral bending from wind and other loads."
+  },
+  {
+    "startTime": 166.17,
+    "endTime": 170.22,
+    "text": "I will be talking about another application of this technology in my next video,"
+  },
+  {
+    "startTime": 170.22,
+    "endTime": 176.5,
+    "text": "and if  you can think of any other examples of the second moment of area being applied in the world around you, be sure to share it in the comments."
+  },
+  {
+    "startTime": 176.6,
+    "endTime": 177.67,
+    "text": "Thanks for watching."
+  },
+  {
+    "startTime": 177.67,
+    "endTime": 185.51999999999998,
+    "text": "Like my last video, I wanted to experiment with a shorter format, and it's thanks to sponsors like the TheGreatCoursesPlus that allow me the freedom to do that."
+  },
+  {
+    "startTime": 185.52,
+    "endTime": 188.83,
+    "text": "They have been a fantastic sponsor of this channel over the last few months."
+  },
+  {
+    "startTime": 188.83,
+    "endTime": 196.12,
+    "text": "If you'd like to learn more about subjects like this, they have a really great course called Everyday Engineering, and they have a huge range or other topics too."
+  },
+  {
+    "startTime": 196.12,
+    "endTime": 200.47,
+    "text": "Their courses give you indepth knowledge and are taught by world renowned educators."
+  },
+  {
+    "startTime": 200.47,
+    "endTime": 205.78,
+    "text": "They added a new course by Niel De Grasse Tyson recently or you can learn about photography, history, or cooking."
+  },
+  {
+    "startTime": 205.78,
+    "endTime": 211.67,
+    "text": "If you'd like to learn more, head over to TheGreatCoursesPLus.com/RealEngineering for your free one month trial."
+  },
+  {
+    "startTime": 211.67,
+    "endTime": 220.0,
+    "text": "If you'd like to see more content from me, the links to my Patreon, Instagram, Facebook, and Twitter accounts are below."
+  }
+]

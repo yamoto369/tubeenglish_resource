@@ -1,0 +1,197 @@
+[
+  {
+    "startTime": 0.14,
+    "endTime": 5.6499999999999995,
+    "text": "NASA spent billions on the James Webb Space Telescope and now they're going to launch it really far away."
+  },
+  {
+    "startTime": 5.65,
+    "endTime": 10.11,
+    "text": "I'm talking about over 1.5 million kilometers to be exact."
+  },
+  {
+    "startTime": 10.11,
+    "endTime": 16.36,
+    "text": "But why do we need to send it so far and what kind of technology did we put on board to support mission success?"
+  },
+  {
+    "startTime": 16.36,
+    "endTime": 23.83,
+    "text": "Affectionately known as Webb, or JWST, this next-generation observatory has been in development for over 25 years."
+  },
+  {
+    "startTime": 23.83,
+    "endTime": 34.15,
+    "text": "And fun fact, as a mechanical engineer, I actually got the chance to work with NASA on this incredible telescope, specifically with the instrument module, which holds cutting-edge infrared technology."
+  },
+  {
+    "startTime": 34.15,
+    "endTime": 43.839999999999996,
+    "text": "Webb is set to tackle some of humanity's biggest goals like searching for the first galaxies in our universe and observing various signs for potential life in planetary systems."
+  },
+  {
+    "startTime": 43.84,
+    "endTime": 54.06,
+    "text": "Mostly known as the successor of the incredibly popular Hubble Space Telescope, Webb will observe the universe with detectors that target near and mid-infrared wavelengths."
+  },
+  {
+    "startTime": 54.06,
+    "endTime": 63.440000000000005,
+    "text": "This means that the instruments on board Webb are specifically designed to combat some of the historic challenges astronomers have faced when trying to observe the early universe,"
+  },
+  {
+    "startTime": 63.44,
+    "endTime": 71.87,
+    "text": "like huge dust clouds that block the view of celestial objects, cosmological red-shifting, and even interference from other bodies."
+  },
+  {
+    "startTime": 71.87,
+    "endTime": 83.88000000000001,
+    "text": "In fact, there are three things necessary to create the perfect environment for an infrared telescope: a large mirror to collect as much light as possible, extremely cold temperatures, and a clear line of sight to your target."
+  },
+  {
+    "startTime": 83.88,
+    "endTime": 94.86,
+    "text": "Each detail has been thought out meticulously over the past two decades leading to this point, like where it will orbit. 1.5 million kilometers is a bit of a trip to say the least."
+  },
+  {
+    "startTime": 94.86,
+    "endTime": 97.49,
+    "text": "So why are we putting Webb in such a distant orbit?"
+  },
+  {
+    "startTime": 97.49,
+    "endTime": 102.71,
+    "text": "Well, it's headed to L2, the second Lagrange point around the Sun and Earth."
+  },
+  {
+    "startTime": 102.71,
+    "endTime": 110.16,
+    "text": "These five points are stable configurations that allow bodies to orbit each other, but still remain in the same position relative to one another."
+  },
+  {
+    "startTime": 110.16,
+    "endTime": 118.09,
+    "text": "The key to L2 is centripetal force, which you can imagine as the tension in a rope on a tether ball that keeps it connected to the pole."
+  },
+  {
+    "startTime": 118.09,
+    "endTime": 128.68,
+    "text": "At L2, the centripetal force required for a small satellite-sized object to move in respect to the Earth is equal to the gravitational pull of the two larger masses."
+  },
+  {
+    "startTime": 128.68,
+    "endTime": 133.69,
+    "text": "Meaning that this particularly cozy orbit has several benefits to support Webb's mission."
+  },
+  {
+    "startTime": 133.69,
+    "endTime": 138.379,
+    "text": "The first is that because of the gravitational pull from the larger bodies, Webb will move in sync with the Earth as it orbits the Sun,"
+  },
+  {
+    "startTime": 141.63,
+    "endTime": 146.24,
+    "text": "which is great for commanding and telemetry data drops back to our ground stations."
+  },
+  {
+    "startTime": 146.24,
+    "endTime": 156.02,
+    "text": "This allows us to use the Deep Space Network to stay in constant communication with the satellite, and cuts down on any potential delay time that you might see in other missions."
+  },
+  {
+    "startTime": 156.02,
+    "endTime": 166.27,
+    "text": "The second is, thanks to centripetal force, it takes very short bursts of rocket thrust to keep the observatory in the original L2 orbit, which can ultimately increase mission life."
+  },
+  {
+    "startTime": 166.27,
+    "endTime": 175.87,
+    "text": "The third benefit of the L2 position is that Webb's tennis court-sized sun shield can effectively block out any excess light from the Sun, Earth, and even the Moon."
+  },
+  {
+    "startTime": 175.87,
+    "endTime": 183.02,
+    "text": "Thus voila! Creating a beautiful and open line of sight between Webb and our target."
+  },
+  {
+    "startTime": 183.02,
+    "endTime": 189.12,
+    "text": "So remember the reason why we use the shield is because infrared light can also be interpreted as heat."
+  },
+  {
+    "startTime": 189.12,
+    "endTime": 200.38,
+    "text": "Since one of Webb's main goals is to study extremely distant and usually faint wavelengths, engineers had to ensure the observatory is protected from all heat sources, including itself."
+  },
+  {
+    "startTime": 200.38,
+    "endTime": 210.89,
+    "text": "For this reason, the telescope is uniquely divided into two separate sections: the Cold and the Hot Side with the sunshield layers acting as the dividing line between the two."
+  },
+  {
+    "startTime": 210.89,
+    "endTime": 216.02999999999997,
+    "text": "The cold side handles the observation functions, meaning it's where we get our data."
+  },
+  {
+    "startTime": 216.03,
+    "endTime": 226.81,
+    "text": "This side includes the primary and secondary mirrors, infrared instruments, and the detectors with an operating temperature of -233 degrees Celsius."
+  },
+  {
+    "startTime": 226.81,
+    "endTime": 230.83,
+    "text": "The hot side includes mainly spacecraft operation elements."
+  },
+  {
+    "startTime": 230.83,
+    "endTime": 241.47000000000003,
+    "text": "This includes the sunshield, solar panel, communication antenna, spacecraft bus, and star tracker with an operational temperature of 85 degrees Celsius."
+  },
+  {
+    "startTime": 241.47,
+    "endTime": 247.51,
+    "text": "And it's insane to think that this telescope has to operate at these two extreme temperatures simultaneously."
+  },
+  {
+    "startTime": 247.51,
+    "endTime": 252.39,
+    "text": "Having the opportunity to work on this satellite was an absolutely amazing experience,"
+  },
+  {
+    "startTime": 252.39,
+    "endTime": 255.45899999999997,
+    "text": "and I have to say although I'm Team Cold Side, I can't think of a better group to have fully integrated this amazing telescope with."
+  },
+  {
+    "startTime": 259.29,
+    "endTime": 266.45000000000005,
+    "text": "And just think, following launch, it will take Webb approximately 30 days to fully deploy and reach its desired L2 orbit."
+  },
+  {
+    "startTime": 266.45,
+    "endTime": 272.05,
+    "text": "From there, a series of calibrations will occur and we can expect to see data within six months."
+  },
+  {
+    "startTime": 272.05,
+    "endTime": 279.56,
+    "text": "I'm not sure about you, but I'm beyond excited to get one step closer to answering the question, \"Where did it all begin?\""
+  },
+  {
+    "startTime": 279.56,
+    "endTime": 282.86,
+    "text": "So what are some of your biggest questions about the Webb telescope?"
+  },
+  {
+    "startTime": 282.86,
+    "endTime": 285.47,
+    "text": "Let us know in the comments below and make sure to subscribe."
+  },
+  {
+    "startTime": 285.47,
+    "endTime": 289.67,
+    "text": "Thanks so much for watching Seeker, and I'll see you next time."
+  }
+]
