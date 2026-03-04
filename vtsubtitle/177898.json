@@ -1,0 +1,277 @@
+[
+  {
+    "startTime": 0.009,
+    "endTime": 2.6,
+    "text": "Bluetooth is literally indistinguishable from magic."
+  },
+  {
+    "startTime": 2.8,
+    "endTime": 9.59,
+    "text": "Give an iPhone 7 and some AirPods to a Victorian child, and watch them get burned at the stake just for holding that stuff."
+  },
+  {
+    "startTime": 9.6,
+    "endTime": 10.299999999999999,
+    "text": "Like we're for real just here on a big rock with sticks and water and made Bluetooth from that."
+  },
+  {
+    "startTime": 13.88,
+    "endTime": 15.75,
+    "text": "What the flip is going on here?"
+  },
+  {
+    "startTime": 15.76,
+    "endTime": 16.87,
+    "text": "Well, it's actually quite simple."
+  },
+  {
+    "startTime": 17.329,
+    "endTime": 18.069,
+    "text": "No, it's not."
+  },
+  {
+    "startTime": 18.079,
+    "endTime": 18.75,
+    "text": "That was a lie."
+  },
+  {
+    "startTime": 18.76,
+    "endTime": 20.3,
+    "text": "This stuff is wack."
+  },
+  {
+    "startTime": 20.5,
+    "endTime": 23.03,
+    "text": "To begin, your phone and earbuds communicate with light."
+  },
+  {
+    "startTime": 23.04,
+    "endTime": 25.149,
+    "text": "Not this light, not this light either."
+  },
+  {
+    "startTime": 25.159,
+    "endTime": 26.5,
+    "text": "It's like a freaky sort of light."
+  },
+  {
+    "startTime": 26.7,
+    "endTime": 30.5,
+    "text": "On the electromagnetic spectrum, the human eye can see 400 to 600 nanometers."
+  },
+  {
+    "startTime": 30.7,
+    "endTime": 33.208999999999996,
+    "text": "Zoom out and you'll notice the human eye is actually blind."
+  },
+  {
+    "startTime": 33.209,
+    "endTime": 38.709,
+    "text": "The light that Bluetooth uses is over here, specifically 121 millimeters through 124 millimeters."
+  },
+  {
+    "startTime": 38.72,
+    "endTime": 46.0,
+    "text": "Not only is this light invisible to the human eye, but the waves are so long that it can pass through walls like how visible light passes through glass."
+  },
+  {
+    "startTime": 46.0,
+    "endTime": 48.9,
+    "text": "Cool, but how does light allow me to listen to Shakira?"
+  },
+  {
+    "startTime": 49.1,
+    "endTime": 54.81,
+    "text": "1s and 0s. Say 121 millimeters is purple and 124 millimeters is green."
+  },
+  {
+    "startTime": 54.81,
+    "endTime": 58.25,
+    "text": "If your phone wants to send a one to your earbuds, your antenna turns purple."
+  },
+  {
+    "startTime": 58.31,
+    "endTime": 61.619,
+    "text": "The antenna on the earbuds sees this and tells the microchip in the earbuds."
+  },
+  {
+    "startTime": 61.72,
+    "endTime": 62.99,
+    "text": "\"Hey, it's purple.\""
+  },
+  {
+    "startTime": 63.0,
+    "endTime": 64.41,
+    "text": "And then the microchip writes down a 1."
+  },
+  {
+    "startTime": 64.419,
+    "endTime": 68.0,
+    "text": "If the phone wants to send a 0, the antenna turns green, and the same thing happens."
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 69.959,
+    "text": "This happens about a million times a second."
+  },
+  {
+    "startTime": 69.97,
+    "endTime": 70.42999999999999,
+    "text": "Ok."
+  },
+  {
+    "startTime": 70.44,
+    "endTime": 72.029,
+    "text": "So now we know how to communicate."
+  },
+  {
+    "startTime": 72.05,
+    "endTime": 74.11,
+    "text": "But this brings up about a million problems."
+  },
+  {
+    "startTime": 74.12,
+    "endTime": 80.16000000000001,
+    "text": "For example, if my bro is next to me listening to Taylor Swift, while I'm hearkening to the songs of Shakira, like a real man,"
+  },
+  {
+    "startTime": 80.169,
+    "endTime": 83.64399999999999,
+    "text": "how does my ear buds know to ignore the Taylor Swift and only play Shakira?"
+  },
+  {
+    "startTime": 83.654,
+    "endTime": 85.535,
+    "text": "Well, this problem has a couple of solutions."
+  },
+  {
+    "startTime": 85.544,
+    "endTime": 88.574,
+    "text": "First of all, it's not actually just purple and green."
+  },
+  {
+    "startTime": 88.584,
+    "endTime": 93.055,
+    "text": "There are 79 separate sections or channels within the range of purple and green."
+  },
+  {
+    "startTime": 93.065,
+    "endTime": 96.334,
+    "text": "Each channel has its own specific wavelength for 1 and 0."
+  },
+  {
+    "startTime": 96.345,
+    "endTime": 100.514,
+    "text": "So while you might be in channel 37, your bro could be in channel 73."
+  },
+  {
+    "startTime": 100.525,
+    "endTime": 106.65400000000001,
+    "text": "But what if there are 158 different phones and earbuds playing music in the same place, 2 for each channel?"
+  },
+  {
+    "startTime": 106.665,
+    "endTime": 115.91900000000001,
+    "text": "First of all, the lag would be absolutely scandalous, but still, your earbuds would limp along, playing the one and only Shakira and no one else's garbage."
+  },
+  {
+    "startTime": 115.93,
+    "endTime": 120.69000000000001,
+    "text": "How? Well, this is when we finally talk about how your headphones and phone pair."
+  },
+  {
+    "startTime": 120.699,
+    "endTime": 123.12,
+    "text": "Think of your earbuds as being a lock."
+  },
+  {
+    "startTime": 123.129,
+    "endTime": 127.7,
+    "text": "When you click the pair button on set earbuds, it actively sends out a key through its antenna."
+  },
+  {
+    "startTime": 127.769,
+    "endTime": 134.70000000000002,
+    "text": "Then, in your phone settings, you can see all the keys being sent out and your phone can say, \"Key number 37948, I choose you.\""
+  },
+  {
+    "startTime": 134.809,
+    "endTime": 142.195,
+    "text": "What then happens is at the beginning each package of 1s and 0s your earbuds, change its lock and using the old key, it gives a new key to your phone."
+  },
+  {
+    "startTime": 142.205,
+    "endTime": 147.50500000000002,
+    "text": "So your earbuds technically can hear your bro's Taylor Swift playing if it's in the same channel."
+  },
+  {
+    "startTime": 147.514,
+    "endTime": 155.865,
+    "text": "But since it doesn't have the correct key, it not only ignores it completely, but it actually has no idea how to read it because the key is an encryption for the rest of the message."
+  },
+  {
+    "startTime": 155.875,
+    "endTime": 163.145,
+    "text": "Now another question arises. Couldn't someone just intercept and then decrypt of all of what's being transmitted between your phone and headphones?"
+  },
+  {
+    "startTime": 163.154,
+    "endTime": 168.47,
+    "text": "Well, some of the engineers probably watched a little Einstein as a kid because there's a genius solution to this problem."
+  },
+  {
+    "startTime": 168.479,
+    "endTime": 171.27,
+    "text": "Your phone and earbuds don't just stay in one channel."
+  },
+  {
+    "startTime": 171.279,
+    "endTime": 173.309,
+    "text": "They do something called frequency hopping."
+  },
+  {
+    "startTime": 173.32,
+    "endTime": 178.029,
+    "text": "They hop around from channel to channel and do this about 1600 times every second."
+  },
+  {
+    "startTime": 178.039,
+    "endTime": 186.5,
+    "text": "So an eavesdropper might be able to listen in for a teeny fraction of a second, but then you change channels and they would have no way of knowing what channel you went to."
+  },
+  {
+    "startTime": 186.7,
+    "endTime": 190.44,
+    "text": "But then how do both your phone and earbuds know what channel to go to?"
+  },
+  {
+    "startTime": 190.44,
+    "endTime": 202.0,
+    "text": "Well, when your phone initially connects and says, \"Key number 37948, I choose you,\" within that message, it picks out a sequence and sends that information encrypted over to your headphones before any sound is even playing."
+  },
+  {
+    "startTime": 202.2,
+    "endTime": 206.95499999999998,
+    "text": "This way, your phone and headphones are the only things that know what channel they're going to go to next."
+  },
+  {
+    "startTime": 206.964,
+    "endTime": 208.48499999999999,
+    "text": "So, yeah, not too complicated."
+  },
+  {
+    "startTime": 208.494,
+    "endTime": 211.634,
+    "text": "Now, you should be able to take sticks, rocks and water and create some Bluetooth."
+  },
+  {
+    "startTime": 211.645,
+    "endTime": 212.274,
+    "text": "You're welcome."
+  },
+  {
+    "startTime": 212.285,
+    "endTime": 217.695,
+    "text": "That's gonna cost you one subscribe and let me just flip this bad boy around tips in the form of likes are appreciated."
+  }
+]

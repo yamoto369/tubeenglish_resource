@@ -1,0 +1,327 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.39,
+    "text": "Over the last year, everyone has been talking about:"
+  },
+  {
+    "startTime": 3.39,
+    "endTime": 4.35,
+    "text": "Generative AI."
+  },
+  {
+    "startTime": 4.35,
+    "endTime": 5.22,
+    "text": "Generative AI."
+  },
+  {
+    "startTime": 5.22,
+    "endTime": 6.3,
+    "text": "Generative AI."
+  },
+  {
+    "startTime": 6.3,
+    "endTime": 7.26,
+    "text": "Generative AI."
+  },
+  {
+    "startTime": 7.26,
+    "endTime": 9.8,
+    "text": "I'm like, \"Wait, why am I doing this? I just wait for the AI to do it.\""
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 12.39,
+    "text": "Driving the boom are AI chips."
+  },
+  {
+    "startTime": 12.39,
+    "endTime": 17.8,
+    "text": "Some no bigger than the size of your palm, and the demand for them has skyrocketed."
+  },
+  {
+    "startTime": 17.8,
+    "endTime": 27.5,
+    "text": "We originally thought the total market for data center, AI accelerators would be about 150 billion, and now we think it's gonna be over 400 billion."
+  },
+  {
+    "startTime": 27.7,
+    "endTime": 35.089,
+    "text": "As AI gains popularity, some of the world's tech titans are racing to design chips that run better and faster."
+  },
+  {
+    "startTime": 35.089,
+    "endTime": 39.699999999999996,
+    "text": "Here's how they work and why tech companies are betting they're the future."
+  },
+  {
+    "startTime": 39.7,
+    "endTime": 47.13,
+    "text": "This is \"The Tech Behind AI Chips.\""
+  },
+  {
+    "startTime": 47.13,
+    "endTime": 54.0,
+    "text": "This is Amazon's chip lab in Austin, Texas, where the company designs AI chips to use in AWS's servers."
+  },
+  {
+    "startTime": 54.0,
+    "endTime": 59.0,
+    "text": "Right out of manufacturing, we get something that is called the wafer."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 65.0,
+    "text": "Ron Diamant is the chief architect of Inferentia and Trainium, the company's custom AI chips."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 69.8,
+    "text": "These are the compute elements or the components that actually perform the computation."
+  },
+  {
+    "startTime": 69.8,
+    "endTime": 74.16,
+    "text": "Each of these rectangles, called dice, is a chip."
+  },
+  {
+    "startTime": 74.16,
+    "endTime": 82.38,
+    "text": "Each die contains tens of billions of microscopic semiconductors called transistors that communicate inputs and outputs."
+  },
+  {
+    "startTime": 82.38,
+    "endTime": 87.69999999999999,
+    "text": "Think about one millionth of a centimeter, that's roughly the size of each one of these transistors."
+  },
+  {
+    "startTime": 87.7,
+    "endTime": 90.0,
+    "text": "All chips use semiconductors like this."
+  },
+  {
+    "startTime": 90.0,
+    "endTime": 97.6,
+    "text": "What makes AI chips different from CPUs, the kind of chip that powers your computer or phone, is how they're packaged."
+  },
+  {
+    "startTime": 97.6,
+    "endTime": 101.6,
+    "text": "Say, for example, you want to generate a new image of a cat."
+  },
+  {
+    "startTime": 101.6,
+    "endTime": 105.44999999999999,
+    "text": "CPUs have a smaller number of powerful cores."
+  },
+  {
+    "startTime": 105.45,
+    "endTime": 113.0,
+    "text": "The units that make up the chip that are good at doing a lot of different things, these cores process information sequentially."
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 116.8,
+    "text": "So one calculation after another."
+  },
+  {
+    "startTime": 116.59,
+    "endTime": 121.2,
+    "text": "So to create a brand new image of a cat, it would only produce a couple pixels at a time."
+  },
+  {
+    "startTime": 121.2,
+    "endTime": 130.27700000000002,
+    "text": "But an AI chip has more cores that run in parallel, so it can process hundreds or even thousands of those cat pixels all at once."
+  },
+  {
+    "startTime": 130.277,
+    "endTime": 138.48,
+    "text": "These cores are smaller and typically do less than CPU cores, but are specially designed for running AI calculations."
+  },
+  {
+    "startTime": 138.48,
+    "endTime": 140.79999999999998,
+    "text": "But those chips can't operate on their own."
+  },
+  {
+    "startTime": 140.8,
+    "endTime": 149.0,
+    "text": "That compute die then gets integrated into a package, and that's what people typically think about when they think about the chip."
+  },
+  {
+    "startTime": 149.0,
+    "endTime": 156.0,
+    "text": "Amazon makes two different AI chips, named for its two essential functions, training and inference."
+  },
+  {
+    "startTime": 156.0,
+    "endTime": 165.0,
+    "text": "Training is where an AI model is set millions of examples of something, images of cats, for instance, to teach it what a cat is and what it looks like."
+  },
+  {
+    "startTime": 165.0,
+    "endTime": 171.0,
+    "text": "Inference is when it uses that training to actually generate an original image of a cat."
+  },
+  {
+    "startTime": 171.0,
+    "endTime": 174.0,
+    "text": "Training is the most difficult part of this process."
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 179.4,
+    "text": "We typically train not on one chip, but rather on tens of thousands of chips."
+  },
+  {
+    "startTime": 179.4,
+    "endTime": 184.5,
+    "text": "In contrast, inference is typically done on 1 to 16 chips."
+  },
+  {
+    "startTime": 184.5,
+    "endTime": 190.0,
+    "text": "Processing all of that information demands a lot of energy, which generates heat."
+  },
+  {
+    "startTime": 190.0,
+    "endTime": 196.046,
+    "text": "And we're able to use this device here in order to force a certain temperature to the chip,"
+  },
+  {
+    "startTime": 196.046,
+    "endTime": 202.332,
+    "text": "and that's how we're able to test that the chip is reliable at very low temperatures and very high temperatures."
+  },
+  {
+    "startTime": 202.332,
+    "endTime": 209.48999999999998,
+    "text": "To help keep chips cool, they're attached to heat sinks, pieces of metal with vents that help dissipate heat."
+  },
+  {
+    "startTime": 209.49,
+    "endTime": 215.01000000000002,
+    "text": "Once they're packaged, the chips are integrated into servers for Amazon's AWS cloud."
+  },
+  {
+    "startTime": 215.01,
+    "endTime": 226.006,
+    "text": "So the training cards will be mounted on this baseboard, eight of them in total, and they are interconnected between them at a very high bandwidth and low latency."
+  },
+  {
+    "startTime": 226.006,
+    "endTime": 234.21,
+    "text": "So this allows the different training devices inside the server to work together on the same training job."
+  },
+  {
+    "startTime": 234.21,
+    "endTime": 249.10000000000002,
+    "text": "So if you are interacting with an AI chatbot, your text, your question will hit the CPUs, and the CPUs will move the data into the Inferentia2 devices, which will collectively perform a gigantic computation."
+  },
+  {
+    "startTime": 249.1,
+    "endTime": 258.15,
+    "text": "Basically performing the AI model, will respond to the CPU with the result, and the CPU will send the result back to you."
+  },
+  {
+    "startTime": 258.15,
+    "endTime": 267.0,
+    "text": "Amazon's chips are just one type competing in this emerging market, which is currently dominated by the biggest chip designer, Nvidia."
+  },
+  {
+    "startTime": 267.0,
+    "endTime": 273.2,
+    "text": "Nvidia is still a chip provider to all different types of customers who have to run different workloads."
+  },
+  {
+    "startTime": 273.2,
+    "endTime": 278.8,
+    "text": "And then the next category of competitor that you have is the major cloud providers."
+  },
+  {
+    "startTime": 278.8,
+    "endTime": 291.27000000000004,
+    "text": "Microsoft, Amazon AWS, and Google are all designing their own chips because they can optimize their computing workloads for the software that runs on their cloud to get a performance edge,"
+  },
+  {
+    "startTime": 291.27,
+    "endTime": 297.24,
+    "text": "and they don't have to give Nvidia its very juicy profit margin on the sale of every chip."
+  },
+  {
+    "startTime": 297.24,
+    "endTime": 301.35,
+    "text": "-But right now, generative AI is still a young technology."
+  },
+  {
+    "startTime": 301.35,
+    "endTime": 306.3,
+    "text": "It's mostly used in consumer-facing products like chatbots and image generators,"
+  },
+  {
+    "startTime": 306.3,
+    "endTime": 311.07,
+    "text": "but experts say that hype cycles around technology can pay off in the end."
+  },
+  {
+    "startTime": 311.07,
+    "endTime": 319.26,
+    "text": "While there might be something like a dot-com bubble for the current AI hype cycle, at the end of the dot-com bubble was still the internet."
+  },
+  {
+    "startTime": 319.26,
+    "endTime": 322.146,
+    "text": "And I think we're in a similar situation with generative AI."
+  },
+  {
+    "startTime": 322.146,
+    "endTime": 328.148,
+    "text": "The technology's rapid advance means that chips and the software to use them are going to have to keep up."
+  },
+  {
+    "startTime": 328.148,
+    "endTime": 335.01000000000005,
+    "text": "Amazon says it uses a mixture of its own chips and Nvidia's chips to give customers multiple options."
+  },
+  {
+    "startTime": 335.01,
+    "endTime": 337.59999999999997,
+    "text": "Microsoft says it's following a similar model."
+  },
+  {
+    "startTime": 337.6,
+    "endTime": 347.0,
+    "text": "For those cloud providers, the question is, how much of their computing workloads for AI is gonna be offered through Nvidia versus their own custom AI chips?"
+  },
+  {
+    "startTime": 347.0,
+    "endTime": 351.0,
+    "text": "And that's the battle that's playing out in corporate boardrooms all over the world."
+  },
+  {
+    "startTime": 351.0,
+    "endTime": 354.9,
+    "text": "Amazon released a new version of Trainium in November."
+  },
+  {
+    "startTime": 355.0,
+    "endTime": 359.7,
+    "text": "Diamant says he doesn't see the AI boom slowing down anytime soon."
+  },
+  {
+    "startTime": 359.7,
+    "endTime": 365.7,
+    "text": "We've been investing in machine learning and artificial intelligence for almost two decades now,"
+  },
+  {
+    "startTime": 365.7,
+    "endTime": 373.0,
+    "text": "and we're just seeing a step-up in pace of innovation and capabilities that these models are enabling us."
+  },
+  {
+    "startTime": 373.0,
+    "endTime": 381.553,
+    "text": "So our investment in AI chips is here to stay with a significant step-up in capabilities from generation to generation."
+  }
+]
