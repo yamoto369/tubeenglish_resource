@@ -1,0 +1,927 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 9.0,
+    "text": "Hey, Digit, take the box with the heaviest animal and move it to Tower 4."
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 16.0,
+    "text": "This is Digit, a robot who sort of looks like a person, hence the name humanoid robot."
+  },
+  {
+    "startTime": 16.0,
+    "endTime": 19.0,
+    "text": "Technically, these are called bipedal humanoid robots."
+  },
+  {
+    "startTime": 19.0,
+    "endTime": 26.0,
+    "text": "Using semantic intelligence, it's able to interpret commands from people and then make its own decisions about how to act."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 35.0,
+    "text": "So the goal is for him to be able to interpret normal human language to say, hey, I need you to pick this box up, help me out in this instance."
+  },
+  {
+    "startTime": 35.0,
+    "endTime": 36.0,
+    "text": "Is that where you see this going?"
+  },
+  {
+    "startTime": 37.0,
+    "endTime": 46.0,
+    "text": "Yeah, and I think it will generally be probably less of a, I need you to do this one thing for me and more of a, do this for me forever in the corner of the facility."
+  },
+  {
+    "startTime": 46.0,
+    "endTime": 53.0,
+    "text": "Robots like this one are catching the attention and billions of investment dollars from big tech companies like Amazon, Google, Nvidia and Microsoft."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 57.0,
+    "text": "Elon Musk is betting the future of Tesla on these machines."
+  },
+  {
+    "startTime": 58.0,
+    "endTime": 65.0,
+    "text": "As you see Optimus develop, it's really going to transform the world, I think to a degree even greater than the cars."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 73.0,
+    "text": "Some also argue robots like Digit can solve the world's labor crisis, filling jobs that are too dangerous or that people simply don't want."
+  },
+  {
+    "startTime": 73.0,
+    "endTime": 77.0,
+    "text": "They may even replace an aging workforce as people around the world have fewer kids."
+  },
+  {
+    "startTime": 78.0,
+    "endTime": 86.0,
+    "text": "Today in manufacturing, we're short about 300,000 people and it's something very similar in warehousing and logistics."
+  },
+  {
+    "startTime": 86.0,
+    "endTime": 90.0,
+    "text": "So we're somewhere around 600,000, 700,000 jobs we can't fill."
+  },
+  {
+    "startTime": 90.0,
+    "endTime": 93.0,
+    "text": "The idea of robots isn't exactly new."
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 96.0,
+    "text": "Here I am, sir."
+  },
+  {
+    "startTime": 96.0,
+    "endTime": 98.0,
+    "text": "So why all the sudden attention?"
+  },
+  {
+    "startTime": 98.0,
+    "endTime": 100.0,
+    "text": "The big driver, artificial intelligence."
+  },
+  {
+    "startTime": 100.0,
+    "endTime": 105.0,
+    "text": "These bots have seen quantum leaps in what they're capable of in just the past few years, thanks to AI."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 112.0,
+    "text": "Generative AI is really a key unlock overall for what you can get a robot to do, let alone a humanoid robot."
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 115.0,
+    "text": "Robotics is where AI meets reality."
+  },
+  {
+    "startTime": 116.0,
+    "endTime": 121.0,
+    "text": "We are really at the cusp of solving one of the grand challenges of humanity."
+  },
+  {
+    "startTime": 122.0,
+    "endTime": 124.0,
+    "text": "It'll change labor forever."
+  },
+  {
+    "startTime": 124.0,
+    "endTime": 130.0,
+    "text": "There is probably a need in the future once the humanoids get a bit more clever, a bit more perhaps autonomy."
+  },
+  {
+    "startTime": 130.0,
+    "endTime": 137.0,
+    "text": "But until that point, I think the market will be fairly limited to PR spectacles."
+  },
+  {
+    "startTime": 137.0,
+    "endTime": 142.0,
+    "text": "It all sounds great, but will we ever trust robots working in our houses, schools and nursing homes?"
+  },
+  {
+    "startTime": 143.0,
+    "endTime": 144.0,
+    "text": "Will they ever be safe enough?"
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 146.0,
+    "text": "And how lifelike is too lifelike?"
+  },
+  {
+    "startTime": 146.0,
+    "endTime": 151.0,
+    "text": "And how should the U.S. think about global adversaries building similar fleets of humanoids?"
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 160.0,
+    "text": "CNBC explores the rise of these AI-driven humanoids and if they're really a cure-all for our global workforce problems, or if this is another tech bubble."
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 175.0,
+    "text": "This hardware has been around for decades."
+  },
+  {
+    "startTime": 175.0,
+    "endTime": 181.0,
+    "text": "Companies like Boston Dynamics, Honda, Sony and others have wowed the public with early versions of these robots."
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 182.0,
+    "text": "Why would we want humanoids?"
+  },
+  {
+    "startTime": 183.0,
+    "endTime": 188.0,
+    "text": "The prevailing sort of answer has been the world is built to be occupied by humans."
+  },
+  {
+    "startTime": 189.0,
+    "endTime": 197.0,
+    "text": "If we want robots that are versatile, that can do a wide range of things, then having it adopt the humanoid form factor always made a lot of sense."
+  },
+  {
+    "startTime": 197.0,
+    "endTime": 201.0,
+    "text": "Recent leaps in artificial intelligence have resulted in leaps for robotics."
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 205.0,
+    "text": "The data that they use to train these robots, it's based in real-world scenarios."
+  },
+  {
+    "startTime": 205.0,
+    "endTime": 208.0,
+    "text": "Now a robot can be trained the same way a human is."
+  },
+  {
+    "startTime": 209.0,
+    "endTime": 211.0,
+    "text": "We have this technology called teleoperation."
+  },
+  {
+    "startTime": 211.0,
+    "endTime": 217.0,
+    "text": "The person does the thing 200 times, we record all that data, and then we use that data to train these models."
+  },
+  {
+    "startTime": 218.0,
+    "endTime": 223.0,
+    "text": "And the AI models are very similar to the GPT-style generative AI models."
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 232.0,
+    "text": "You feed in the 200 trajectories and the system learns how the task is being done, and then the robot will do the task autonomously."
+  },
+  {
+    "startTime": 232.0,
+    "endTime": 237.0,
+    "text": "If I go into a new space, I'm now not looking at spending months trying to code that problem."
+  },
+  {
+    "startTime": 237.0,
+    "endTime": 246.0,
+    "text": "I can potentially just generate it straight out of gen AI and be able to have Digit interact with new objects and in new environments without having to develop it all."
+  },
+  {
+    "startTime": 246.0,
+    "endTime": 251.0,
+    "text": "AI models require massive quantities of data to train off of, and this is no different."
+  },
+  {
+    "startTime": 252.0,
+    "endTime": 257.0,
+    "text": "If you show the robot enough things, it starts to be able to do things that it hasn't been shown before."
+  },
+  {
+    "startTime": 257.0,
+    "endTime": 262.0,
+    "text": "Big tech is very interested in the big potential this technology promises."
+  },
+  {
+    "startTime": 262.0,
+    "endTime": 269.0,
+    "text": "If you're going to do AI at the frontier, you need to be partnered with Microsoft or NVIDIA or Google or one of the big players."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 270.0,
+    "text": "This is no other way."
+  },
+  {
+    "startTime": 270.0,
+    "endTime": 272.0,
+    "text": "They have resources that nobody else has, even governments."
+  },
+  {
+    "startTime": 273.0,
+    "endTime": 275.0,
+    "text": "NVIDIA's been a great partner up until this point."
+  },
+  {
+    "startTime": 275.0,
+    "endTime": 283.0,
+    "text": "We're using everything from their hardware to their simulation, and then recently have started working with them on foundation models as well."
+  },
+  {
+    "startTime": 283.0,
+    "endTime": 286.0,
+    "text": "One of this industry's biggest proponents is Elon Musk."
+  },
+  {
+    "startTime": 286.0,
+    "endTime": 299.0,
+    "text": "He's made some bold predictions that Tesla's robot, Optimus, could propel it to a $25 trillion market cap and that it will amount to a majority of Tesla's long-term value with demand as high as 10 to 20 billion units."
+  },
+  {
+    "startTime": 300.0,
+    "endTime": 306.0,
+    "text": "Tesla is arguably the world's biggest robotics company because our cars are like semi-sentient robots on wheels."
+  },
+  {
+    "startTime": 306.0,
+    "endTime": 313.0,
+    "text": "And with the full self-driving computer and all the neural nets, it kind of makes sense to put that onto a humanoid form."
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 322.0,
+    "text": "And it's intended to be friendly, of course, and navigate through a world built for tasks."
+  },
+  {
+    "startTime": 322.0,
+    "endTime": 326.0,
+    "text": "Musk isn't alone in believing humanoid robots could change the world."
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 333.0,
+    "text": "Investors are pouring millions into startups with the market expected to grow to $38 billion by 2035."
+  },
+  {
+    "startTime": 333.0,
+    "endTime": 338.0,
+    "text": "The funding that has gone into some of these companies has been absolutely huge."
+  },
+  {
+    "startTime": 338.0,
+    "endTime": 342.0,
+    "text": "And I think that kind of the parallel with the AI funding."
+  },
+  {
+    "startTime": 342.0,
+    "endTime": 344.0,
+    "text": "This is the biggest market in the world."
+  },
+  {
+    "startTime": 344.0,
+    "endTime": 353.0,
+    "text": "I mean, effectively, this has the potential to change the way we live and work pretty dramatically."
+  },
+  {
+    "startTime": 354.0,
+    "endTime": 357.0,
+    "text": "Humanoid robots are closer to being a real part of our workforce than you might think."
+  },
+  {
+    "startTime": 358.0,
+    "endTime": 361.0,
+    "text": "Some companies are already deploying them in factories and warehouses."
+  },
+  {
+    "startTime": 361.0,
+    "endTime": 364.0,
+    "text": "Tesla claims it has two Optimus humanoid robots in its factory."
+  },
+  {
+    "startTime": 365.0,
+    "endTime": 378.0,
+    "text": "During Tesla's 2024 first quarter earnings call, Musk said he believes Optimus will be performing tasks in Tesla's factories by the end of the year and that it could start selling the robot to outside customers by the end of 2025."
+  },
+  {
+    "startTime": 378.0,
+    "endTime": 387.0,
+    "text": "At the company's 2024 Investor Day in June, Musk predicted it could have over a thousand or a few thousand robots working at Tesla next year."
+  },
+  {
+    "startTime": 387.0,
+    "endTime": 390.0,
+    "text": "Musk saying that Optimus will be bigger than the cars."
+  },
+  {
+    "startTime": 390.0,
+    "endTime": 393.0,
+    "text": "I presume that means that they are spending huge amounts of this."
+  },
+  {
+    "startTime": 393.0,
+    "endTime": 395.0,
+    "text": "I wouldn't underestimate them."
+  },
+  {
+    "startTime": 395.0,
+    "endTime": 404.0,
+    "text": "Digit, created by Oregon-based Agility Robotics, is helping Amazon in early stage testing at its Sumner Washington Fulfillment Center and Innovation Lab."
+  },
+  {
+    "startTime": 404.0,
+    "endTime": 407.0,
+    "text": "We've been working with them recycling totes."
+  },
+  {
+    "startTime": 407.0,
+    "endTime": 413.0,
+    "text": "The arms are capable of handling a wide variety of different payloads up to about 33 ish pounds."
+  },
+  {
+    "startTime": 414.0,
+    "endTime": 418.0,
+    "text": "Agility says it plans to keep expanding the scope of work that Digit is capable of."
+  },
+  {
+    "startTime": 418.0,
+    "endTime": 428.0,
+    "text": "We envision an app store for robots out in the future where if you need tote recycling app, you can go into the app store and download that onto your robot."
+  },
+  {
+    "startTime": 428.0,
+    "endTime": 431.0,
+    "text": "And according to the company, there is plenty of demand."
+  },
+  {
+    "startTime": 432.0,
+    "endTime": 435.0,
+    "text": "Agility is building a factory in Salem, Oregon, to keep up with orders."
+  },
+  {
+    "startTime": 435.0,
+    "endTime": 436.0,
+    "text": "We call it Robofab."
+  },
+  {
+    "startTime": 436.0,
+    "endTime": 438.0,
+    "text": "We'll be online this summer."
+  },
+  {
+    "startTime": 438.0,
+    "endTime": 442.0,
+    "text": "In a few years, have a capacity of about 10,000 robots per year."
+  },
+  {
+    "startTime": 443.0,
+    "endTime": 444.0,
+    "text": "And where will those go for the most part?"
+  },
+  {
+    "startTime": 444.0,
+    "endTime": 450.0,
+    "text": "To many, many customers, but largely initially in the logistics, warehousing space."
+  },
+  {
+    "startTime": 450.0,
+    "endTime": 456.0,
+    "text": "The next big market we see is automotive, retail and then eventually into markets like health care."
+  },
+  {
+    "startTime": 456.0,
+    "endTime": 459.0,
+    "text": "Several other startups are developing similar humanoid robots."
+  },
+  {
+    "startTime": 460.0,
+    "endTime": 465.0,
+    "text": "Sanctuary AI launched in 2018 in Vancouver, Canada, and built its latest robot last year."
+  },
+  {
+    "startTime": 465.0,
+    "endTime": 469.0,
+    "text": "Phoenix, a five foot seven robot capable of lifting up to 55 pounds."
+  },
+  {
+    "startTime": 469.0,
+    "endTime": 473.0,
+    "text": "It looks a bit different from other humanoid designs, trading its legs for wheels."
+  },
+  {
+    "startTime": 473.0,
+    "endTime": 478.0,
+    "text": "Robots with legs, the upper body, including the hands, have to be very weak and light."
+  },
+  {
+    "startTime": 479.0,
+    "endTime": 482.0,
+    "text": "So instead of doing that, we put our product on a wheel base."
+  },
+  {
+    "startTime": 482.0,
+    "endTime": 489.0,
+    "text": "And because we made that trade off, we can build very powerful, very precise, very fast motors in the upper body."
+  },
+  {
+    "startTime": 489.0,
+    "endTime": 498.0,
+    "text": "The company deployed early iterations of its robot with Canadian Tire, completing front and back of store tasks such as picking and packing merchandise."
+  },
+  {
+    "startTime": 498.0,
+    "endTime": 504.0,
+    "text": "Robots were asked to do everything from greeting people when they come through the door to actually putting things on trucks."
+  },
+  {
+    "startTime": 504.0,
+    "endTime": 513.0,
+    "text": "Sanctuary says it's close to releasing its eighth generation robot in the next few months and has partnered with automotive manufacturer Magna to help build its robots at scale."
+  },
+  {
+    "startTime": 514.0,
+    "endTime": 520.0,
+    "text": "Optronic started in 2016 as a spin out from the human centered robotics lab at the University of Texas at Austin."
+  },
+  {
+    "startTime": 521.0,
+    "endTime": 525.0,
+    "text": "It began with an initial project to help NASA build a generalized humanoid robot."
+  },
+  {
+    "startTime": 526.0,
+    "endTime": 529.0,
+    "text": "The company says it's now on its eighth version of a humanoid."
+  },
+  {
+    "startTime": 529.0,
+    "endTime": 540.0,
+    "text": "All that has culminated in building the robot that we essentially always dreamed of building, a robot called Apollo, which is a mass manufacturable commercial humanoid robot."
+  },
+  {
+    "startTime": 540.0,
+    "endTime": 550.0,
+    "text": "With a max payload of 55 pounds and a swappable four hour battery, Apollo is designed to help support logistics and manufacturing to start with retail as its next focus."
+  },
+  {
+    "startTime": 550.0,
+    "endTime": 560.0,
+    "text": "We've got to prove out sort of the simpler tasks, but my dream is for Apollo hopefully to be ready in time to help my parents, hopefully to help me as I get old."
+  },
+  {
+    "startTime": 560.0,
+    "endTime": 565.0,
+    "text": "The company says it has deployed Apollo and pilots with Mercedes-Benz, GXO and others."
+  },
+  {
+    "startTime": 565.0,
+    "endTime": 571.0,
+    "text": "We've started with pretty simple tasks, things like moving boxes or moving cases from one place to another."
+  },
+  {
+    "startTime": 571.0,
+    "endTime": 580.0,
+    "text": "What we're moving into is doing more dexterity and more end to end tasks and then hope to be in full commercial launch by the end of next year."
+  },
+  {
+    "startTime": 581.0,
+    "endTime": 584.0,
+    "text": "It's no wonder tech companies have taken notice."
+  },
+  {
+    "startTime": 584.0,
+    "endTime": 600.0,
+    "text": "Some Wall Street analysts predict these robots are the next must have device, not unlike smartphones or EVs, but they also say such robots would be vital for manufacturing and dangerous work, but they would also help with elderly care and fill in labor shortages in factories."
+  },
+  {
+    "startTime": 601.0,
+    "endTime": 604.0,
+    "text": "There's already too few workers to fill all of the world's manufacturing jobs."
+  },
+  {
+    "startTime": 604.0,
+    "endTime": 607.0,
+    "text": "It's an estimated shortage of 500,000 people."
+  },
+  {
+    "startTime": 607.0,
+    "endTime": 612.0,
+    "text": "And by 2030, Goldman Sachs thinks that will grow to a shortage of 2 million workers."
+  },
+  {
+    "startTime": 612.0,
+    "endTime": 618.0,
+    "text": "Imagine I could give you a labor force that costs the price of electricity, you know, a few cents an hour per worker."
+  },
+  {
+    "startTime": 619.0,
+    "endTime": 624.0,
+    "text": "And they were equipped with the kinds of general intelligence that you might imagine comes like in science fiction."
+  },
+  {
+    "startTime": 624.0,
+    "endTime": 629.0,
+    "text": "There's going to be things that you think of that will dramatically improve your life no matter who you are."
+  },
+  {
+    "startTime": 629.0,
+    "endTime": 632.0,
+    "text": "We've only automated 10 percent of automotive manufacturing."
+  },
+  {
+    "startTime": 632.0,
+    "endTime": 636.0,
+    "text": "If we can automate a much higher degree, it would dramatically change the economy."
+  },
+  {
+    "startTime": 636.0,
+    "endTime": 639.0,
+    "text": "We have the ability to add new tools."
+  },
+  {
+    "startTime": 639.0,
+    "endTime": 648.0,
+    "text": "You can imagine if you needed to put a rivet into a car or something, you could actually have the screw produced in the hand."
+  },
+  {
+    "startTime": 648.0,
+    "endTime": 652.0,
+    "text": "But robots taking human jobs can be a contentious topic."
+  },
+  {
+    "startTime": 652.0,
+    "endTime": 656.0,
+    "text": "What would you tell those people who, you know, there are certain jobs that might be lost as a result of this?"
+  },
+  {
+    "startTime": 656.0,
+    "endTime": 664.0,
+    "text": "Actually, we've heard from some of those people and what their jobs start to evolve into is the manager of the robot fleet."
+  },
+  {
+    "startTime": 664.0,
+    "endTime": 672.0,
+    "text": "They can be deployed in coal mines and fires for rescue efforts where it might not be as safe for a human being."
+  },
+  {
+    "startTime": 673.0,
+    "endTime": 676.0,
+    "text": "There are just some jobs that people don't want."
+  },
+  {
+    "startTime": 676.0,
+    "endTime": 678.0,
+    "text": "Proponents say a humanoid can help fill those."
+  },
+  {
+    "startTime": 678.0,
+    "endTime": 682.0,
+    "text": "There's about 10 million open jobs in the United States alone."
+  },
+  {
+    "startTime": 682.0,
+    "endTime": 688.0,
+    "text": "We could build and maintain 10 million of the robots that we're talking about without touching a single job."
+  },
+  {
+    "startTime": 689.0,
+    "endTime": 696.0,
+    "text": "If you have to lift 55 pounds somewhere between 50 and 100 times an hour, that's a serious workout."
+  },
+  {
+    "startTime": 696.0,
+    "endTime": 700.0,
+    "text": "So we're taking these dirty, dull and dangerous jobs first."
+  },
+  {
+    "startTime": 701.0,
+    "endTime": 703.0,
+    "text": "How far away are we from digit doing your laundry?"
+  },
+  {
+    "startTime": 704.0,
+    "endTime": 709.0,
+    "text": "That's probably more along the lines of, you know, a decade or more."
+  },
+  {
+    "startTime": 712.0,
+    "endTime": 715.0,
+    "text": "Is there a kill switch, for lack of a better term?"
+  },
+  {
+    "startTime": 715.0,
+    "endTime": 716.0,
+    "text": "There is a kill switch."
+  },
+  {
+    "startTime": 717.0,
+    "endTime": 719.0,
+    "text": "It's the big red button over there."
+  },
+  {
+    "startTime": 719.0,
+    "endTime": 722.0,
+    "text": "These are 140 pounds."
+  },
+  {
+    "startTime": 723.0,
+    "endTime": 726.0,
+    "text": "They have a lot of torque in their hands and arms and legs."
+  },
+  {
+    "startTime": 726.0,
+    "endTime": 733.0,
+    "text": "And so you have to be very conscious of the situation when robots are interfacing with humans."
+  },
+  {
+    "startTime": 733.0,
+    "endTime": 736.0,
+    "text": "The biggest sort of short term obstacle we have is safety."
+  },
+  {
+    "startTime": 736.0,
+    "endTime": 750.0,
+    "text": "The U.N. has sort of put together a committee that's called AI for Good, which is basically coming up with policy recommendations at a U.N. level for how should countries think about A.I. and also think about robotics."
+  },
+  {
+    "startTime": 751.0,
+    "endTime": 756.0,
+    "text": "For Agility's deployment of Digit, its robots operate away from human workers for safety reasons."
+  },
+  {
+    "startTime": 756.0,
+    "endTime": 772.0,
+    "text": "Right now, Digit is non-collaborative and we're working to what's formally verify, according to international standards, that Digit is safe to be in close proximity to a person."
+  },
+  {
+    "startTime": 772.0,
+    "endTime": 774.0,
+    "text": "We have very tight safety regulations today."
+  },
+  {
+    "startTime": 774.0,
+    "endTime": 780.0,
+    "text": "And then eventually, OSHA is the workplace safety organization that actually has to approve any deployment."
+  },
+  {
+    "startTime": 781.0,
+    "endTime": 785.0,
+    "text": "So it's very regulated to make sure that we don't get bad accidents."
+  },
+  {
+    "startTime": 785.0,
+    "endTime": 787.0,
+    "text": "Another big roadblock, the cost."
+  },
+  {
+    "startTime": 788.0,
+    "endTime": 791.0,
+    "text": "Humanoid robots are expensive, complex pieces of machinery."
+  },
+  {
+    "startTime": 791.0,
+    "endTime": 793.0,
+    "text": "For them to go mainstream, that's going to have to change."
+  },
+  {
+    "startTime": 793.0,
+    "endTime": 796.0,
+    "text": "It's really expensive to even try to do this."
+  },
+  {
+    "startTime": 796.0,
+    "endTime": 801.0,
+    "text": "And you have to have investors who are willing to take risks because nobody's done this before."
+  },
+  {
+    "startTime": 801.0,
+    "endTime": 810.0,
+    "text": "Elon Musk came out with this idea that it should cost less than $20,000 and that would be a level where mass adoption would be possible."
+  },
+  {
+    "startTime": 810.0,
+    "endTime": 814.0,
+    "text": "I think we'll have to wait quite a few years, probably a decade at least."
+  },
+  {
+    "startTime": 816.0,
+    "endTime": 824.0,
+    "text": "Agility says its robots can be purchased upfront with an additional software as a service."
+  },
+  {
+    "startTime": 824.0,
+    "endTime": 830.0,
+    "text": "As long as they have the robot, we help maintain it, take care of it, keep the software updated, and they just pay on a monthly basis."
+  },
+  {
+    "startTime": 831.0,
+    "endTime": 832.0,
+    "text": "What does one of these robots cost?"
+  },
+  {
+    "startTime": 833.0,
+    "endTime": 834.0,
+    "text": "How should people think about it?"
+  },
+  {
+    "startTime": 834.0,
+    "endTime": 835.0,
+    "text": "Is it like buying a car or a boat?"
+  },
+  {
+    "startTime": 836.0,
+    "endTime": 841.0,
+    "text": "I'd say it's like buying an expensive car, but the costs are coming down very, very quickly."
+  },
+  {
+    "startTime": 842.0,
+    "endTime": 851.0,
+    "text": "While the U.S. has seen activity in humanoid robots explode, China is giving the West a run for its money."
+  },
+  {
+    "startTime": 851.0,
+    "endTime": 860.0,
+    "text": "It already dominates the industry, surpassing Japan in 2013 as the world's largest installer of industrial robots and now accounts for more than half of the global total."
+  },
+  {
+    "startTime": 861.0,
+    "endTime": 864.0,
+    "text": "China, the market is absolutely huge."
+  },
+  {
+    "startTime": 864.0,
+    "endTime": 867.0,
+    "text": "For example, in mobile robots, it's the biggest in the world."
+  },
+  {
+    "startTime": 868.0,
+    "endTime": 874.0,
+    "text": "The only other company in the West that has anything similar to the quantities that the companies have in China is Amazon."
+  },
+  {
+    "startTime": 874.0,
+    "endTime": 877.0,
+    "text": "But Chinese companies are catching up fast."
+  },
+  {
+    "startTime": 877.0,
+    "endTime": 885.0,
+    "text": "If you just count the number of humanoid robots that have come onto the scene over the last year, about half of them are from Chinese companies."
+  },
+  {
+    "startTime": 886.0,
+    "endTime": 889.0,
+    "text": "Interestingly, you've seen companies like BYD also invest."
+  },
+  {
+    "startTime": 889.0,
+    "endTime": 894.0,
+    "text": "There's a broader effort to get the capital into this industry in China."
+  },
+  {
+    "startTime": 894.0,
+    "endTime": 897.0,
+    "text": "One of China's biggest competitive advantages is cost."
+  },
+  {
+    "startTime": 898.0,
+    "endTime": 902.0,
+    "text": "They need to source these parts almost custom made."
+  },
+  {
+    "startTime": 902.0,
+    "endTime": 908.0,
+    "text": "Being based in China, they're closer to the factories that can make these parts potentially at a lower cost."
+  },
+  {
+    "startTime": 908.0,
+    "endTime": 914.0,
+    "text": "Unitry in China, they came out with this $16,000 humanoid, which is a very exciting development."
+  },
+  {
+    "startTime": 915.0,
+    "endTime": 917.0,
+    "text": "But what can the robot actually do?"
+  },
+  {
+    "startTime": 917.0,
+    "endTime": 919.0,
+    "text": "That's a huge question."
+  },
+  {
+    "startTime": 919.0,
+    "endTime": 922.0,
+    "text": "I think an interesting space to watch will be in the components."
+  },
+  {
+    "startTime": 923.0,
+    "endTime": 932.0,
+    "text": "Once there are more standards and potentially factories that have been making some of these components for the humanoid startups in China, they could also sell those parts overseas."
+  },
+  {
+    "startTime": 933.0,
+    "endTime": 940.0,
+    "text": "Competitiveness in this space is crucial for the U.S., which has been seeking to as geopolitical tensions rise."
+  },
+  {
+    "startTime": 940.0,
+    "endTime": 949.0,
+    "text": "Even though the U.S. invented the very first robot, 100 percent of all major industrial robots were produced outside of the U.S. by foreign companies."
+  },
+  {
+    "startTime": 949.0,
+    "endTime": 959.0,
+    "text": "I think of the humanoid race as effectively the next space race, and it has major implications for both national competitiveness and national security."
+  },
+  {
+    "startTime": 959.0,
+    "endTime": 962.0,
+    "text": "In terms of large economics, it is China versus the U.S."
+  },
+  {
+    "startTime": 962.0,
+    "endTime": 970.0,
+    "text": "We need to make sure that the big applications for this are in the U.S. and in Europe, because if it's not, then we're going to lose that arms race."
+  },
+  {
+    "startTime": 971.0,
+    "endTime": 974.0,
+    "text": "This is a real arms race and we better make sure we win it."
+  },
+  {
+    "startTime": 975.0,
+    "endTime": 979.0,
+    "text": "There are still very real roadblocks."
+  },
+  {
+    "startTime": 980.0,
+    "endTime": 982.0,
+    "text": "Cost and safety are the biggest near-term issues."
+  },
+  {
+    "startTime": 982.0,
+    "endTime": 987.0,
+    "text": "Finally, there's questions over how to regulate the space, similar to questions on how to regulate AI."
+  },
+  {
+    "startTime": 987.0,
+    "endTime": 996.0,
+    "text": "Even the robot's biggest advocates say they want to put up guardrails and make sure those eventually working alongside humanoids aren't put in harm's way."
+  },
+  {
+    "startTime": 996.0,
+    "endTime": 1003.0,
+    "text": "But they're also competitive and they want this industry to innovate with an ability to move quickly enough to keep up with rapid progress abroad."
+  },
+  {
+    "startTime": 1003.0,
+    "endTime": 1006.0,
+    "text": "This is really the beginning of a new industry."
+  },
+  {
+    "startTime": 1007.0,
+    "endTime": 1010.0,
+    "text": "Think of this like the personal computer in the early 80s."
+  },
+  {
+    "startTime": 1010.0,
+    "endTime": 1014.0,
+    "text": "It will have potentially bigger impacts than the personal computer."
+  },
+  {
+    "startTime": 1014.0,
+    "endTime": 1016.0,
+    "text": " These robots are going to give us all back time."
+  }
+]
