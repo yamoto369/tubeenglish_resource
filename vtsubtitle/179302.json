@@ -1,0 +1,147 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 6.0,
+    "text": "Hello, Bernhard Maher here, author of many books on AI, including Generative AI in Practice."
+  },
+  {
+    "startTime": 6.0,
+    "endTime": 14.0,
+    "text": "And in today's video, we're going to unravel some complexities of artificial intelligence or AI."
+  },
+  {
+    "startTime": 14.0,
+    "endTime": 24.0,
+    "text": "We'll explore the different types of AI, everything from traditional AI to general AI, and clarify some common misconceptions along the way."
+  },
+  {
+    "startTime": 24.0,
+    "endTime": 26.0,
+    "text": "So let's jump straight in."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 30.0,
+    "text": "First, let's talk about traditional AI."
+  },
+  {
+    "startTime": 31.0,
+    "endTime": 38.0,
+    "text": "This includes algorithms that you encounter every day, such as recommendation systems on Netflix or Amazon."
+  },
+  {
+    "startTime": 39.0,
+    "endTime": 46.0,
+    "text": "These systems analyze your past behaviors to predict and recommend movies or products you might like."
+  },
+  {
+    "startTime": 47.0,
+    "endTime": 57.0,
+    "text": "They operate using straightforward data processing and matching algorithms, making predictions based on your previous interactions."
+  },
+  {
+    "startTime": 57.0,
+    "endTime": 68.0,
+    "text": "If we now step up the level of complexity, we get to supervised or imitation learning, which powers sophisticated systems like self-driving cars."
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 82.0,
+    "text": "So supervised learning means training an AI with data that is already labeled, or learning from copying human behaviors like we see in Tesla cars that monitor what drivers do."
+  },
+  {
+    "startTime": 82.0,
+    "endTime": 96.0,
+    "text": "And self-driving cars learn to navigate real-world roads safely by analyzing vast amounts of labeled data and monitoring what people are doing, so they're able to react to elements like stop signs and pedestrians."
+  },
+  {
+    "startTime": 96.0,
+    "endTime": 101.0,
+    "text": "In contrast to supervised learning, we have unsupervised learning."
+  },
+  {
+    "startTime": 101.0,
+    "endTime": 117.0,
+    "text": "This is an AI that doesn't rely on labeled data, it identifies patterns and relationships on its own, which is crucial for discovering hidden insights in data without any prior knowledge of what you're looking for."
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 123.0,
+    "text": "This capability is especially useful in market segmentation and anomaly detection."
+  },
+  {
+    "startTime": 123.0,
+    "endTime": 137.0,
+    "text": "Another type of AI is reinforcement learning, which learns through trial and error, primarily using feedback from its own actions and experiences, rather than from explicit teaching."
+  },
+  {
+    "startTime": 137.0,
+    "endTime": 155.0,
+    "text": "In the context of self-driving cars, reinforcement learning is used in simulated environments where the system learns to make decisions by experiencing virtual scenarios, thus improving its algorithms before ever hitting the real road."
+  },
+  {
+    "startTime": 155.0,
+    "endTime": 160.0,
+    "text": "Next, let's delve into generative AI, a truly exciting frontier of AI development."
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 171.0,
+    "text": "Generative models like ChatGPT for text or MidJourney for images can create new, realistic text, images, sound or video."
+  },
+  {
+    "startTime": 171.0,
+    "endTime": 177.0,
+    "text": "They operate by predicting the next word or pixel based on their training data."
+  },
+  {
+    "startTime": 177.0,
+    "endTime": 190.0,
+    "text": "Although these tools generate impressive results, it's crucial to remember they do not truly understand the content they create, they simply generate predictions based on patterns."
+  },
+  {
+    "startTime": 190.0,
+    "endTime": 197.0,
+    "text": "Finally, we reach something that doesn't yet exist, the concept of Artificial General Intelligence or AGI."
+  },
+  {
+    "startTime": 197.0,
+    "endTime": 212.0,
+    "text": "AGI would be capable of performing any intellectual task that a human can, with the ability to understand and conceptualize the world on a human level."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 224.0,
+    "text": "This would involve processing contextual nuances, abstract thinking, planning and even experiencing emotions, capabilities far beyond the reach of today's AI."
+  },
+  {
+    "startTime": 224.0,
+    "endTime": 234.0,
+    "text": "So while today's AIs can perform tasks from driving cars to writing articles, it lacks a deep understanding of the world."
+  },
+  {
+    "startTime": 234.0,
+    "endTime": 244.0,
+    "text": "AGI however remains a theoretical leap that would fundamentally change how machines interact with their environment and with us."
+  },
+  {
+    "startTime": 244.0,
+    "endTime": 248.0,
+    "text": "Thank you for tuning in."
+  },
+  {
+    "startTime": 248.0,
+    "endTime": 257.0,
+    "text": "If you are fascinated by the evolution of AI and want to stay updated on the journey towards AGI, don't forget to like, subscribe and hit the notification bell."
+  },
+  {
+    "startTime": 257.0,
+    "endTime": 260.0,
+    "text": "And of course check out my book Genitive AI in Practice."
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 268.0,
+    "text": " I will see you in my next video where we continue to explore the transformative technologies that are shaping our future."
+  }
+]

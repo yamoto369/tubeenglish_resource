@@ -1,0 +1,512 @@
+[
+  {
+    "startTime": 7.23,
+    "endTime": 10.290000000000001,
+    "text": "At Google, we are fully in our Gemini era."
+  },
+  {
+    "startTime": 10.29,
+    "endTime": 14.28,
+    "text": "Today, all of our two billion user products use Gemini."
+  },
+  {
+    "startTime": 14.4,
+    "endTime": 19.0,
+    "text": "Gemini 1.5 Pro is available today in Workspace Labs."
+  },
+  {
+    "startTime": 19.2,
+    "endTime": 22.7,
+    "text": "Let's see how this comes to life with Google Workspace."
+  },
+  {
+    "startTime": 22.9,
+    "endTime": 25.9,
+    "text": "People are always searching their emails in Gmail."
+  },
+  {
+    "startTime": 26.2,
+    "endTime": 29.4,
+    "text": "We are working to make it much more powerful with Gemini."
+  },
+  {
+    "startTime": 29.6,
+    "endTime": 34.1,
+    "text": "Now we can ask Gemini to summarize all recent emails from the school."
+  },
+  {
+    "startTime": 34.21,
+    "endTime": 38.2,
+    "text": "Maybe you were traveling this week and you couldn't make the PTA meeting."
+  },
+  {
+    "startTime": 38.34,
+    "endTime": 41.300000000000004,
+    "text": "The recording of the meeting is an hour long."
+  },
+  {
+    "startTime": 41.5,
+    "endTime": 46.1,
+    "text": "If it's from Google Meet, you can ask Gemini to give you the highlights."
+  },
+  {
+    "startTime": 46.29,
+    "endTime": 50.0,
+    "text": "People love using photos to search across their life."
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 53.0,
+    "text": "With Gemini, you're making that a whole lot easier."
+  },
+  {
+    "startTime": 53.3,
+    "endTime": 58.0,
+    "text": "And Ask Photos can also help you search your memories in a deeper way."
+  },
+  {
+    "startTime": 58.0,
+    "endTime": 63.2,
+    "text": "For example, you might be reminiscing about your daughter Lucia's early milestones."
+  },
+  {
+    "startTime": 63.45,
+    "endTime": 68.5,
+    "text": "You can ask Photos, show me how Lucia's swimming has progressed."
+  },
+  {
+    "startTime": 68.7,
+    "endTime": 80.5,
+    "text": "Here, Gemini goes beyond a simple search, recognizing different contexts and photos, packages it up all together in a summary."
+  },
+  {
+    "startTime": 80.7,
+    "endTime": 86.0,
+    "text": "Unlocking knowledge across formats is why we built Gemini to be multimodal from the ground up."
+  },
+  {
+    "startTime": 86.11,
+    "endTime": 89.41,
+    "text": "It's one model with all the modalities built in."
+  },
+  {
+    "startTime": 89.41,
+    "endTime": 94.5,
+    "text": "We've been rolling out Gemini 1.5 Pro with long context in preview over the last few months."
+  },
+  {
+    "startTime": 94.7,
+    "endTime": 103.60000000000001,
+    "text": "So today, we are expanding the context window to 2 million tokens."
+  },
+  {
+    "startTime": 103.9,
+    "endTime": 110.0,
+    "text": "So far, we've talked about two technical advances-- multimodality and long context."
+  },
+  {
+    "startTime": 110.18,
+    "endTime": 116.4,
+    "text": "Each is powerful on its own, but together they unlock deeper capabilities and more intelligence."
+  },
+  {
+    "startTime": 116.6,
+    "endTime": 119.11999999999999,
+    "text": "But what if it could go even further?"
+  },
+  {
+    "startTime": 119.12,
+    "endTime": 123.11,
+    "text": "That's one of the opportunities we see with AI Agents."
+  },
+  {
+    "startTime": 123.11,
+    "endTime": 131.3,
+    "text": "Think about them as intelligence systems that show reasoning, planning, and memory, are able to think multiple steps ahead,"
+  },
+  {
+    "startTime": 131.3,
+    "endTime": 141.35500000000002,
+    "text": "work across software and systems all to get something done on your behalf, and most importantly, under your supervision."
+  },
+  {
+    "startTime": 141.355,
+    "endTime": 148.7,
+    "text": "Today we have some exciting new progress to share about the future of AI assistants that we're calling Project Astra."
+  },
+  {
+    "startTime": 148.9,
+    "endTime": 154.3,
+    "text": "For a long time, we've wanted to build a universal AI agent that can be truly helpful in everyday life."
+  },
+  {
+    "startTime": 154.47,
+    "endTime": 158.2,
+    "text": "Here's a video of our prototype, which you'll see has two parts."
+  },
+  {
+    "startTime": 158.4,
+    "endTime": 164.1,
+    "text": "Each part was captured in a single take in real time."
+  },
+  {
+    "startTime": 164.1,
+    "endTime": 168.5,
+    "text": "What does that part of the code do?"
+  },
+  {
+    "startTime": 168.8,
+    "endTime": 172.60000000000002,
+    "text": "This code defines encryption and decryption functions."
+  },
+  {
+    "startTime": 172.8,
+    "endTime": 182.0,
+    "text": "It seems to use AES-CBC encryption to encode and decode data based on a key and an initialization vector, IV."
+  },
+  {
+    "startTime": 182.2,
+    "endTime": 186.6,
+    "text": "Do you remember where you saw my glasses?"
+  },
+  {
+    "startTime": 186.8,
+    "endTime": 187.60000000000002,
+    "text": "Yes, I do."
+  },
+  {
+    "startTime": 187.8,
+    "endTime": 190.10500000000002,
+    "text": "Your glasses were on the desk near a red apple."
+  },
+  {
+    "startTime": 197.1,
+    "endTime": 203.23999999999998,
+    "text": "Give me a band name for this duo."
+  },
+  {
+    "startTime": 203.24,
+    "endTime": 204.9,
+    "text": "Golden Stripes."
+  },
+  {
+    "startTime": 204.9,
+    "endTime": 205.6,
+    "text": "Nice."
+  },
+  {
+    "startTime": 205.6,
+    "endTime": 206.29999999999998,
+    "text": "Thanks, Gemini."
+  },
+  {
+    "startTime": 206.6,
+    "endTime": 210.4,
+    "text": "Today, we're introducing Gemini 1.5 Flash."
+  },
+  {
+    "startTime": 210.6,
+    "endTime": 213.45,
+    "text": "Flash is a lighter weight model compared to Pro."
+  },
+  {
+    "startTime": 213.45,
+    "endTime": 221.7,
+    "text": "It's designed to be fast and cost efficient to serve at scale, while still featuring multimodal reasoning capabilities and breakthrough long context."
+  },
+  {
+    "startTime": 221.9,
+    "endTime": 225.23000000000002,
+    "text": "There's one more area I'm really excited to share with you."
+  },
+  {
+    "startTime": 225.23,
+    "endTime": 229.5,
+    "text": "Our teams have made some incredible progress in generative video."
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 235.29999999999998,
+    "text": "Today, I'm excited to announce our newest, most capable generative video model called Veo."
+  },
+  {
+    "startTime": 235.6,
+    "endTime": 241.5,
+    "text": "Veo creates high quality 1080p videos from text, image, and video prompts."
+  },
+  {
+    "startTime": 241.7,
+    "endTime": 249.39999999999998,
+    "text": "It can capture the details of your instructions in different visual and cinematic styles."
+  },
+  {
+    "startTime": 249.6,
+    "endTime": 254.5,
+    "text": "For 25 years, we've invested in world class technical infrastructure."
+  },
+  {
+    "startTime": 254.7,
+    "endTime": 260.4,
+    "text": "Today, we are excited to announce the sixth generation of CPUs called Trillium."
+  },
+  {
+    "startTime": 260.6,
+    "endTime": 267.40000000000003,
+    "text": "Trillium delivers a 4.7x improvement in compute performance per chip over the previous generation."
+  },
+  {
+    "startTime": 267.6,
+    "endTime": 278.42,
+    "text": "Google search is generative AI at the scale of human curiosity, and it's our most exciting chapter of search yet."
+  },
+  {
+    "startTime": 278.42,
+    "endTime": 280.42,
+    "text": "All the advancements you'll see today are made possible by a new Gemini model customized for Google Search."
+  },
+  {
+    "startTime": 285.45,
+    "endTime": 289.34,
+    "text": "What really sets this apart is our three unique strengths."
+  },
+  {
+    "startTime": 289.5,
+    "endTime": 292.0,
+    "text": "This is search in the Gemini era."
+  },
+  {
+    "startTime": 292.1,
+    "endTime": 296.8,
+    "text": "By the end of the year, AI Overviews will come to over a billion people."
+  },
+  {
+    "startTime": 297.0,
+    "endTime": 305.6,
+    "text": "We're making AI Overviews even more helpful for your most complex questions, the types that are really more 10 questions in one."
+  },
+  {
+    "startTime": 305.8,
+    "endTime": 312.40000000000003,
+    "text": "You can ask your entire question with all its sub questions and get an overview in seconds."
+  },
+  {
+    "startTime": 312.6,
+    "endTime": 317.40000000000003,
+    "text": "I'm really excited to share that soon you'll be able to ask questions with video."
+  },
+  {
+    "startTime": 317.6,
+    "endTime": 322.6,
+    "text": "Why will this not stay in place?"
+  },
+  {
+    "startTime": 322.8,
+    "endTime": 327.18,
+    "text": "And in a near instant, Google gives me an AI Overview."
+  },
+  {
+    "startTime": 327.18,
+    "endTime": 331.40000000000003,
+    "text": "I get some reasons this might be happening, and steps I can take to troubleshoot."
+  },
+  {
+    "startTime": 331.6,
+    "endTime": 342.0,
+    "text": "Since last may, we've been hard at work making Gemini for Workspace even more helpful for businesses and consumers across the world."
+  },
+  {
+    "startTime": 342.2,
+    "endTime": 352.5,
+    "text": "Now, I can simply type out my question right here in the mobile card and say something like, compare my roof repair bids by price and availability."
+  },
+  {
+    "startTime": 352.7,
+    "endTime": 358.34999999999997,
+    "text": "This new Q&A feature makes it so easy to get quick answers on anything in my inbox."
+  },
+  {
+    "startTime": 358.35,
+    "endTime": 363.3,
+    "text": "Today, we'll show you how Gemini is delivering our most intelligent AI experience."
+  },
+  {
+    "startTime": 363.6,
+    "endTime": 372.03000000000003,
+    "text": "We're rolling out a new feature that lets you customize it for your own needs and create personal experts on any topic you want."
+  },
+  {
+    "startTime": 372.03,
+    "endTime": 374.28999999999996,
+    "text": "We're calling these Gems."
+  },
+  {
+    "startTime": 374.29,
+    "endTime": 375.70000000000005,
+    "text": "They're really simple to set up."
+  },
+  {
+    "startTime": 375.9,
+    "endTime": 381.4,
+    "text": "Just tap to create a Gem, write your instructions once, and come back whenever you need it."
+  },
+  {
+    "startTime": 381.6,
+    "endTime": 389.8,
+    "text": "Starting today, Gemini Advanced subscribers get access to Gemini 1.5 Pro with one million tokens."
+  },
+  {
+    "startTime": 389.8,
+    "endTime": 394.40000000000003,
+    "text": "That is the longest context window of any chatbot in the world."
+  },
+  {
+    "startTime": 394.6,
+    "endTime": 406.19,
+    "text": "You can upload a PDF up to 1,500 pages long or multiple files to get insights across a project."
+  },
+  {
+    "startTime": 406.19,
+    "endTime": 408.3,
+    "text": "Now, we all know that chatbots can give you ideas for your next vacation."
+  },
+  {
+    "startTime": 410.48,
+    "endTime": 414.5,
+    "text": "But there's a lot more that goes into planning a great trip."
+  },
+  {
+    "startTime": 414.7,
+    "endTime": 423.0,
+    "text": "It requires reasoning that considers space-time logistics, and the intelligence to prioritize and make decisions."
+  },
+  {
+    "startTime": 423.2,
+    "endTime": 429.59999999999997,
+    "text": "That reasoning and intelligence all come together in the new trip planning experience in Gemini Advanced."
+  },
+  {
+    "startTime": 429.8,
+    "endTime": 436.37,
+    "text": "We've embarked on a multi-year journey to reimagine Android with AI at the core."
+  },
+  {
+    "startTime": 436.4,
+    "endTime": 445.5,
+    "text": "Now we're making Gemini context aware so it can anticipate what you're trying to do and provide more helpful suggestions in the moment."
+  },
+  {
+    "startTime": 445.7,
+    "endTime": 447.42,
+    "text": "Let me show you how this works."
+  },
+  {
+    "startTime": 447.3,
+    "endTime": 451.1,
+    "text": "So my friend Pete is asking if I want to play pickleball this weekend."
+  },
+  {
+    "startTime": 451.3,
+    "endTime": 455.19,
+    "text": "But I'm new to this pickleball thing, and I can bring up Gemini to help with that."
+  },
+  {
+    "startTime": 455.19,
+    "endTime": 462.8,
+    "text": "Gemini knows I'm looking at a video, so it proactively shows me an ask this video chip, so let me tap on that."
+  },
+  {
+    "startTime": 463.0,
+    "endTime": 466.48,
+    "text": "And now I can ask specific questions about the video."
+  },
+  {
+    "startTime": 466.48,
+    "endTime": 471.70000000000005,
+    "text": "So for example, what is the two bounce rule?"
+  },
+  {
+    "startTime": 471.9,
+    "endTime": 474.59999999999997,
+    "text": "So give it a moment-- and there."
+  },
+  {
+    "startTime": 474.8,
+    "endTime": 477.04,
+    "text": "I get a nice, distinct answer."
+  },
+  {
+    "startTime": 477.04,
+    "endTime": 484.6,
+    "text": "Starting with Pixel later this year, we'll be expanding what's possible with our latest model, Gemini Nano with multimodality."
+  },
+  {
+    "startTime": 485.1,
+    "endTime": 489.5,
+    "text": "This means your phone can understand the world the way you understand it."
+  },
+  {
+    "startTime": 489.7,
+    "endTime": 495.5,
+    "text": "So not just through text input, but also through sights, sounds, and spoken language."
+  },
+  {
+    "startTime": 495.7,
+    "endTime": 504.4,
+    "text": "Now let's shift gears and talk about Gemma, our family of open models, which are crucial for driving AI innovation and responsibility."
+  },
+  {
+    "startTime": 504.6,
+    "endTime": 513.6,
+    "text": "Today's newest member, PaliGemma, our first vision language open model, and it's available right now."
+  },
+  {
+    "startTime": 513.9,
+    "endTime": 518.6999999999999,
+    "text": "I'm also excited to announce that we have Gemma 2 coming."
+  },
+  {
+    "startTime": 518.9,
+    "endTime": 523.2099999999999,
+    "text": "It's the next generation of Gemma, and it will be available in June."
+  },
+  {
+    "startTime": 523.21,
+    "endTime": 533.0500000000001,
+    "text": "So in a few weeks, we'll be adding a new 27 billion parameter model to Gemma 2."
+  },
+  {
+    "startTime": 533.0,
+    "endTime": 541.5,
+    "text": "To us, building AI responsibly means both addressing the risks and maximizing the benefits for people and society."
+  },
+  {
+    "startTime": 541.7,
+    "endTime": 551.5,
+    "text": "We're improving our models with an industry standard practice called Red Teaming, in which we test our own models and try to break them to identify weaknesses."
+  },
+  {
+    "startTime": 551.7,
+    "endTime": 561.1600000000001,
+    "text": "I'm excited to introduce LearnLM, our new family of models based on Gemini and fine tuned for learning."
+  },
+  {
+    "startTime": 561.16,
+    "endTime": 574.6999999999999,
+    "text": "Another example is a new feature in YouTube that uses LearnLM to make educational videos more interactive, allowing you to ask a clarifying question, get a helpful explanation, or take a quiz."
+  },
+  {
+    "startTime": 574.9,
+    "endTime": 582.5,
+    "text": "All of this shows the important progress we have made as we take a bold and responsible approach to making AI helpful for everyone."
+  },
+  {
+    "startTime": 582.7,
+    "endTime": 590.7,
+    "text": "To everyone here in Shoreline and the millions more watching around the world, here's to the possibilities ahead and creating them together."
+  },
+  {
+    "startTime": 590.9,
+    "endTime": 594.76,
+    "text": "Thank you."
+  }
+]

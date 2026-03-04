@@ -1,0 +1,427 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 0.8,
+    "text": "What's up? Josh here."
+  },
+  {
+    "startTime": 1.0,
+    "endTime": 11.36,
+    "text": "So in case you missed it, OpenAI has just announced ChatGPT-4o, which is their brand new flagship model that is two times faster and more capable than GPT-4."
+  },
+  {
+    "startTime": 11.36,
+    "endTime": 13.899999999999999,
+    "text": "And good news for all of us is going to be free to use."
+  },
+  {
+    "startTime": 14.1,
+    "endTime": 24.4,
+    "text": "Now, GPT-4 was previously a $20-a-month subscription, but now with 4o being completely free, we also get the benefits of everything that we got with GPT-4."
+  },
+  {
+    "startTime": 24.6,
+    "endTime": 28.3,
+    "text": "There's Vision, where you can upload images and ask it questions about those images."
+  },
+  {
+    "startTime": 28.5,
+    "endTime": 33.6,
+    "text": "There's also Browse, where it can scrub the internet for more real-time and up-to-date data."
+  },
+  {
+    "startTime": 33.8,
+    "endTime": 37.3,
+    "text": "There's also Memory, where it can actually remember facts about you."
+  },
+  {
+    "startTime": 37.5,
+    "endTime": 44.0,
+    "text": "And then lastly, there's Analyzing Complex Data. So you can actually give it like an Excel spreadsheet and ask it questions about that."
+  },
+  {
+    "startTime": 44.3,
+    "endTime": 47.9,
+    "text": "So all of those features are going to be coming to 4o in the next couple of weeks."
+  },
+  {
+    "startTime": 48.1,
+    "endTime": 52.2,
+    "text": "But yeah, first of all, let's just start with everything that's going to be new with GPT-4o."
+  },
+  {
+    "startTime": 52.4,
+    "endTime": 58.48,
+    "text": "So in the presentation, the most impressive part was obviously the demo. So they did a bunch of stuff."
+  },
+  {
+    "startTime": 58.48,
+    "endTime": 63.43899999999999,
+    "text": "They asked it all kinds of questions, gave it math equations, and asked it to read bedtime stories."
+  },
+  {
+    "startTime": 63.439,
+    "endTime": 73.5,
+    "text": "And for the most part, I think the intelligence level and like the answers it's giving is pretty similar to the current GPT-4, which is why I don't think they updated the name to GPT-5."
+  },
+  {
+    "startTime": 73.7,
+    "endTime": 78.8,
+    "text": "But surprisingly, the biggest updates of 4o actually come in the voice feature."
+  },
+  {
+    "startTime": 78.72,
+    "endTime": 80.72,
+    "text": "Hey, ChatGPT, how are you doing?"
+  },
+  {
+    "startTime": 80.72,
+    "endTime": 84.48,
+    "text": "I'm doing fantastic. Thanks for asking. How about you?"
+  },
+  {
+    "startTime": 84.48,
+    "endTime": 84.959,
+    "text": "Pretty good."
+  },
+  {
+    "startTime": 84.959,
+    "endTime": 85.519,
+    "text": "What's up?"
+  },
+  {
+    "startTime": 85.519,
+    "endTime": 88.959,
+    "text": "So my friend Barrett here, he's been having trouble sleeping lately."
+  },
+  {
+    "startTime": 88.959,
+    "endTime": 92.32000000000001,
+    "text": "And I want you to tell him a bedtime story about robots and love."
+  },
+  {
+    "startTime": 93.12,
+    "endTime": 98.4,
+    "text": "Oh, a bedtime story about robots and love. I got you covered."
+  },
+  {
+    "startTime": 98.4,
+    "endTime": 108.5,
+    "text": "So now we have response times as quick as 232 milliseconds and with an average of 320 milliseconds, which is sort of the average human response rate of a conversation."
+  },
+  {
+    "startTime": 108.7,
+    "endTime": 113.68,
+    "text": "You can also now just interrupt the conversation simply by speaking, which I think is pretty intuitive."
+  },
+  {
+    "startTime": 113.68,
+    "endTime": 122.48,
+    "text": "They even put this disclaimer on the website that all of their videos are played at one time speed because previously there was such a delay that now it just seems like such a drastic improvement."
+  },
+  {
+    "startTime": 122.48,
+    "endTime": 129.5,
+    "text": "So yeah, clearly some very impressive stuff here that they're able to pull off just milliseconds for a response time."
+  },
+  {
+    "startTime": 129.7,
+    "endTime": 140.32,
+    "text": "And you know what I was thinking, the humane AI pin really would have benefited from GPT-4o with its faster response times because it was largely flamed online for how slow it took to respond."
+  },
+  {
+    "startTime": 140.32,
+    "endTime": 143.44,
+    "text": "And it was running on GPT-4, which was much slower."
+  },
+  {
+    "startTime": 144.32,
+    "endTime": 146.23999999999998,
+    "text": "Who designed the Washington Monument?"
+  },
+  {
+    "startTime": 149.919,
+    "endTime": 152.399,
+    "text": "But yeah, that is the first thing that I noticed is the speed."
+  },
+  {
+    "startTime": 152.399,
+    "endTime": 156.88,
+    "text": "But the second thing you might've picked up on already is the emotion behind the voice."
+  },
+  {
+    "startTime": 156.88,
+    "endTime": 157.44,
+    "text": "How are you?"
+  },
+  {
+    "startTime": 160.639,
+    "endTime": 163.119,
+    "text": "I'm doing well. Thanks for asking. How about you?"
+  },
+  {
+    "startTime": 163.119,
+    "endTime": 165.119,
+    "text": "Hey, ChatGPT. How are you doing?"
+  },
+  {
+    "startTime": 165.119,
+    "endTime": 168.8,
+    "text": "I'm doing fantastic. Thanks for asking. How about you?"
+  },
+  {
+    "startTime": 168.8,
+    "endTime": 173.75900000000001,
+    "text": "Me? The announcement is about me? Well, color me intrigued."
+  },
+  {
+    "startTime": 174.32,
+    "endTime": 176.79999999999998,
+    "text": "Are you about to reveal something about AI?"
+  },
+  {
+    "startTime": 176.8,
+    "endTime": 186.88000000000002,
+    "text": "So it seems like OpenAI has really just dialed up the expressiveness and just the overall energy of this assistant, which I'm not sure how I feel about."
+  },
+  {
+    "startTime": 187.0,
+    "endTime": 193.6,
+    "text": "It just feels like you're talking to a friend who is just overly caffeinated and overly energized all of the time,"
+  },
+  {
+    "startTime": 193.8,
+    "endTime": 198.88000000000002,
+    "text": "which I think for an assistant should just honestly be a little bit more straightforward and straight up."
+  },
+  {
+    "startTime": 198.88,
+    "endTime": 201.759,
+    "text": "Hopefully in the future, we can have the option to customize the voice."
+  },
+  {
+    "startTime": 201.759,
+    "endTime": 203.119,
+    "text": "I think that would be a smart move."
+  },
+  {
+    "startTime": 203.679,
+    "endTime": 206.08,
+    "text": "But also, you can ask it to change its tone."
+  },
+  {
+    "startTime": 206.08,
+    "endTime": 210.16000000000003,
+    "text": "So in the demo, they asked it to be a little bit more dramatic when reading a bedtime story."
+  },
+  {
+    "startTime": 210.16,
+    "endTime": 212.88,
+    "text": "And they also asked it to read it in a robotic voice."
+  },
+  {
+    "startTime": 212.88,
+    "endTime": 217.19899999999998,
+    "text": "I really want maximal emotion, like maximal expressiveness, much more than you were doing before."
+  },
+  {
+    "startTime": 218.32,
+    "endTime": 221.279,
+    "text": "Understood. Let's amplify the drama."
+  },
+  {
+    "startTime": 222.08,
+    "endTime": 226.639,
+    "text": "Once upon a time in a world not too different from ours."
+  },
+  {
+    "startTime": 226.639,
+    "endTime": 229.679,
+    "text": "Initiating dramatic robotic voice."
+  },
+  {
+    "startTime": 230.24,
+    "endTime": 235.119,
+    "text": "And then also apparently the robot can sing, which I'll let you be the judge of that."
+  },
+  {
+    "startTime": 235.119,
+    "endTime": 243.679,
+    "text": "(ChatGPT-4o singing)"
+  },
+  {
+    "startTime": 243.679,
+    "endTime": 253.679,
+    "text": "There's also a new feature that is sort of a subset of Vision, which is being able to take your camera and just point it at something and asking it questions about that in real time."
+  },
+  {
+    "startTime": 253.679,
+    "endTime": 256.959,
+    "text": "Sort of like this beta test of giving the AI eyes."
+  },
+  {
+    "startTime": 256.959,
+    "endTime": 257.44,
+    "text": "What do you see?"
+  },
+  {
+    "startTime": 259.44,
+    "endTime": 264.48,
+    "text": "Oh, I see \"I love ChatGPT.\" That's so sweet of you."
+  },
+  {
+    "startTime": 265.119,
+    "endTime": 274.959,
+    "text": "Now, as if all of that wasn't enough, they also announced a brand new desktop app where you can do all of those same things like text input, speech input, as well as upload images."
+  },
+  {
+    "startTime": 275.1,
+    "endTime": 278.399,
+    "text": "But also on top of that, you can also screen share."
+  },
+  {
+    "startTime": 278.399,
+    "endTime": 283.04,
+    "text": "So you can have it sort of just look at your screen and whatever you're looking at, you can ask it questions."
+  },
+  {
+    "startTime": 283.04,
+    "endTime": 288.48,
+    "text": "Now, I think this is going to be a huge productivity feature for anybody who works on their computer a lot."
+  },
+  {
+    "startTime": 288.5,
+    "endTime": 292.399,
+    "text": "In the demo, they sort of showed how it could analyze a graph that you're looking at."
+  },
+  {
+    "startTime": 292.4,
+    "endTime": 295.519,
+    "text": "But also I think it would be really helpful for research purposes."
+  },
+  {
+    "startTime": 296.399,
+    "endTime": 306.32,
+    "text": "And just, I don't know, there's just so many use cases where I'm on the computer and it would be nice to almost have a conversational, like, assistant or someone to bounce ideas off of."
+  },
+  {
+    "startTime": 306.32,
+    "endTime": 308.239,
+    "text": "I think that would be really helpful."
+  },
+  {
+    "startTime": 308.239,
+    "endTime": 310.399,
+    "text": "All right, sure it can see our screen."
+  },
+  {
+    "startTime": 310.399,
+    "endTime": 312.799,
+    "text": "Can you find which one is the hypotenuse?"
+  },
+  {
+    "startTime": 312.799,
+    "endTime": 314.15999999999997,
+    "text": "Oh, okay. I see."
+  },
+  {
+    "startTime": 314.16,
+    "endTime": 319.67900000000003,
+    "text": "So I think the hypotenuse is this really long side from A to B."
+  },
+  {
+    "startTime": 319.679,
+    "endTime": 320.47999999999996,
+    "text": "Would that be correct?"
+  },
+  {
+    "startTime": 321.519,
+    "endTime": 323.2,
+    "text": "Exactly. Well done."
+  },
+  {
+    "startTime": 323.2,
+    "endTime": 327.59999999999997,
+    "text": "Now, just to quickly touch on what the \"o\" in 4o actually really is pointing to."
+  },
+  {
+    "startTime": 327.8,
+    "endTime": 338.72,
+    "text": "It's not pointing to so much the fact that it's omniscient or omnipotent,  but rather the fact that it is taking your multimodal inputs, which is text, speech, and now vision, all into the same neural network."
+  },
+  {
+    "startTime": 338.72,
+    "endTime": 342.0,
+    "text": "Whereas before, it was processing those separately."
+  },
+  {
+    "startTime": 342.0,
+    "endTime": 347.519,
+    "text": "So before with the voice feature on 3.5 and 4, it would actually take your voice and transcribe it into text."
+  },
+  {
+    "startTime": 347.519,
+    "endTime": 353.67900000000003,
+    "text": "And so that's how it was recognizing your input, which basically strips a lot of information from that LLM."
+  },
+  {
+    "startTime": 353.679,
+    "endTime": 360.07899999999995,
+    "text": "So all of your emotion and the tone that would be captured in an audio format is now just boiled down into text."
+  },
+  {
+    "startTime": 360.079,
+    "endTime": 363.76,
+    "text": "So you can think of it like texting a friend versus calling a friend."
+  },
+  {
+    "startTime": 363.76,
+    "endTime": 369.76,
+    "text": "So now with the new Omni model, it is sort of taking all of those things into consideration with their response."
+  },
+  {
+    "startTime": 369.76,
+    "endTime": 372.48,
+    "text": "But yeah, that is the latest update with OpenAI."
+  },
+  {
+    "startTime": 372.48,
+    "endTime": 375.67900000000003,
+    "text": "Clearly some very impressive stuff cooking under the hood."
+  },
+  {
+    "startTime": 376.32,
+    "endTime": 379.519,
+    "text": "I'm curious to see what Google is going to come out with tomorrow."
+  },
+  {
+    "startTime": 379.519,
+    "endTime": 381.2,
+    "text": "So definitely get subscribed for that."
+  },
+  {
+    "startTime": 381.2,
+    "endTime": 382.64,
+    "text": "And that video is already out."
+  },
+  {
+    "startTime": 382.64,
+    "endTime": 384.0,
+    "text": "It's probably on the screen somewhere."
+  },
+  {
+    "startTime": 384.0,
+    "endTime": 384.72,
+    "text": "Hope you enjoyed the video."
+  },
+  {
+    "startTime": 384.72,
+    "endTime": 386.79900000000004,
+    "text": "I'll catch you guys in the next one."
+  },
+  {
+    "startTime": 386.799,
+    "endTime": 387.359,
+    "text": "Peace."
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 7.2,
+    "text": "Yesterday was Google I.O., the annual developer conference where Google desperately tries to catch up to its artificial rival, OpenAI."
+  },
+  {
+    "startTime": 7.2,
+    "endTime": 9.2,
+    "text": "Google!"
+  },
+  {
+    "startTime": 9.2,
+    "endTime": 14.1,
+    "text": "Google announced some crazy stuff I never thought I would see in my lifetime, like a SQL database for Firebase."
+  },
+  {
+    "startTime": 14.1,
+    "endTime": 17.7,
+    "text": "More on that later, because first we need to talk about the biggest announcement at I.O."
+  },
+  {
+    "startTime": 17.7,
+    "endTime": 21.2,
+    "text": "OpenAI's new GPT-4-O-O-O."
+  },
+  {
+    "startTime": 21.2,
+    "endTime": 32.5,
+    "text": "You see, OpenAI hype lord Sam Altman yet again wrapped up Sundar in a wet blanket by releasing GPT-4-O just hours before Google I.O., which is a total coincidence and definitely not designed to troll Google."
+  },
+  {
+    "startTime": 32.5,
+    "endTime": 39.9,
+    "text": "In today's video, we'll break down this artificial beef, but more importantly, look at all kinds of crazy new technology released in just the last 48 hours."
+  },
+  {
+    "startTime": 39.9,
+    "endTime": 43.099,
+    "text": "It is May 15th, 2024, and you're watching The Code Report."
+  },
+  {
+    "startTime": 43.099,
+    "endTime": 49.199999999999996,
+    "text": "On Monday, OpenAI had a surprise spring update where they unveiled their new flagship model, GPT-4 Omni."
+  },
+  {
+    "startTime": 49.2,
+    "endTime": 54.0,
+    "text": "You've got me on the edge of my... well, I don't really have a seat, but you get the idea."
+  },
+  {
+    "startTime": 54.0,
+    "endTime": 55.599,
+    "text": "What's the big news?"
+  },
+  {
+    "startTime": 55.599,
+    "endTime": 57.299,
+    "text": "Yeah, we've got a new model."
+  },
+  {
+    "startTime": 57.299,
+    "endTime": 62.799,
+    "text": "Which is faster and cheaper than GPT-4 Turbo and combines text, vision, and audio into a single model."
+  },
+  {
+    "startTime": 62.799,
+    "endTime": 66.599,
+    "text": "What was most impressive, though, was its human-like conversational abilities."
+  },
+  {
+    "startTime": 66.599,
+    "endTime": 72.599,
+    "text": "Well, well, well, just when I thought things couldn't get any more interesting."
+  },
+  {
+    "startTime": 72.599,
+    "endTime": 76.0,
+    "text": "Talking to another AI that can see the world."
+  },
+  {
+    "startTime": 76.0,
+    "endTime": 85.4,
+    "text": "By default, it uses a California Valley Girl accent set to maximum cringe, but the tone of the voice can vary from dramatic to sarcastic to super chill for bedtime stories."
+  },
+  {
+    "startTime": 85.4,
+    "endTime": 89.599,
+    "text": "Bedtime story about robots and love? I got you covered!"
+  },
+  {
+    "startTime": 89.599,
+    "endTime": 98.30000000000001,
+    "text": "This technology will be a huge leap forward for your AI girlfriend, and you can use the GPT-4 Om model today, but the conversational part of it is still not available to the public."
+  },
+  {
+    "startTime": 98.3,
+    "endTime": 106.89999999999999,
+    "text": "That's disappointing, but what you also need to know is that OpenAI is in talks to put their technology on the iPhone, but Google also wants to get its flagship model on the iPhone as well."
+  },
+  {
+    "startTime": 106.9,
+    "endTime": 114.69900000000001,
+    "text": "Talks are ongoing to also get Gemini on the iPhone, so these companies are competing to create a model that's smart, but also fast and cheap enough to run on mobile."
+  },
+  {
+    "startTime": 114.699,
+    "endTime": 116.8,
+    "text": "In order to get that massive bag from Apple."
+  },
+  {
+    "startTime": 116.8,
+    "endTime": 121.599,
+    "text": "Yesterday at I.O., Google demoed something called Project Astra, which feels similar to 4 Omni."
+  },
+  {
+    "startTime": 121.599,
+    "endTime": 125.9,
+    "text": "Do you remember where you saw my glasses?"
+  },
+  {
+    "startTime": 125.9,
+    "endTime": 129.3,
+    "text": "Yes, I do. Your glasses were on the desk near a red apple."
+  },
+  {
+    "startTime": 129.3,
+    "endTime": 133.699,
+    "text": "It's cool, but there's more latency and the voice is more robotic compared to OpenAI."
+  },
+  {
+    "startTime": 133.699,
+    "endTime": 142.8,
+    "text": "Now, what's also very interesting is that OpenAI just parted ways with Ilya, their former chief scientist and co-founder, who many people used to worship as the brains behind OpenAI."
+  },
+  {
+    "startTime": 142.8,
+    "endTime": 148.5,
+    "text": "There's definitely some underlying drama here, but we likely won't know the truth until they release their memoirs in the 2040s."
+  },
+  {
+    "startTime": 148.5,
+    "endTime": 150.6,
+    "text": "But now let's finally talk about Google I.O."
+  },
+  {
+    "startTime": 150.6,
+    "endTime": 157.19899999999998,
+    "text": "The biggest AI announcement from Google was Gemini 1.5 Pro, which can now handle a 2 million token context window."
+  },
+  {
+    "startTime": 157.199,
+    "endTime": 160.60000000000002,
+    "text": "That could be two hours of video content or 60,000 lines of code."
+  },
+  {
+    "startTime": 160.6,
+    "endTime": 163.19899999999998,
+    "text": "That's a lot of context, but tokens can be expensive."
+  },
+  {
+    "startTime": 163.199,
+    "endTime": 169.10000000000002,
+    "text": "And to address that, they released a new feature called context caching that can reuse tokens for a fraction of the cost."
+  },
+  {
+    "startTime": 169.1,
+    "endTime": 175.399,
+    "text": "In addition, Google launched a competition for developers, and whoever builds the best Gemini-powered app wins an electric DeLorean."
+  },
+  {
+    "startTime": 175.399,
+    "endTime": 184.399,
+    "text": "To make building this app easier, they also released a new tool called Firebase GenKit, which is integrated with Olama and makes it easy to build AI-enabled API endpoints."
+  },
+  {
+    "startTime": 184.399,
+    "endTime": 192.0,
+    "text": "In addition, Project IDX is now open to the public, which is a browser-based VS code that's also integrated with things like mobile emulators."
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 198.8,
+    "text": "By far the most exciting thing for me, though, is a new tool called Firebase Data Connect, which officially brings Postgres into Firebase."
+  },
+  {
+    "startTime": 198.8,
+    "endTime": 201.5,
+    "text": "This has been the number one most requested feature for years."
+  },
+  {
+    "startTime": 201.5,
+    "endTime": 203.3,
+    "text": "How do I use Firebase with SQL?"
+  },
+  {
+    "startTime": 203.3,
+    "endTime": 208.3,
+    "text": "And its absence has led to startups like Supabase, which is branded as a Firebase alternative."
+  },
+  {
+    "startTime": 208.3,
+    "endTime": 210.699,
+    "text": "But now in 2024, the turn's have tabled."
+  },
+  {
+    "startTime": 210.699,
+    "endTime": 213.0,
+    "text": "Firebase is now the Supabase alternative."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 222.899,
+    "text": "I'm a big fan of both Supabase and Firebase, and if you want to learn these technologies, check out my full courses on Fireship.io, and stay tuned for a full tutorial on Data Connect on my second channel, Beyond Fireship, soon."
+  },
+  {
+    "startTime": 222.899,
+    "endTime": 229.6,
+    "text": "Google also announced some new hardware, like Trillium TPUs, and Axion, its new ARM-based CPUs for data centers."
+  },
+  {
+    "startTime": 229.6,
+    "endTime": 235.0,
+    "text": "And finally, Google also announced Veo, a generative video model to compete with OpenAI Sora."
+  },
+  {
+    "startTime": 235.0,
+    "endTime": 240.8,
+    "text": "It's extremely impressive compared to where we were just a year ago, but yet again, it just feels one step behind OpenAI."
+  },
+  {
+    "startTime": 240.8,
+    "endTime": 247.5,
+    "text": "We just looked at all kinds of crazy new game-changing technology, but at this point, I'm feeling a little disappointed with our progress towards the singularity."
+  },
+  {
+    "startTime": 247.5,
+    "endTime": 251.3,
+    "text": "It's been over a year since GPT-4, and unfortunately, I still have a job."
+  },
+  {
+    "startTime": 251.3,
+    "endTime": 256.7,
+    "text": "4Omni, Clod, and Gemini 1.5 all seem to be pretty maxed out on how far they can get with these benchmarks."
+  },
+  {
+    "startTime": 256.7,
+    "endTime": 262.0,
+    "text": "Making models faster and cheaper is great, but if they're not becoming more intelligent, then the singularity is nowhere in sight."
+  },
+  {
+    "startTime": 262.0,
+    "endTime": 274.799,
+    "text": "They've already absorbed almost all the information humans have created, so unless there's a major breakthrough that makes AI actually intelligent and able to learn independently, it sure looks like we're standing on the edge of a plateau, and the only place to go is the trough of disillusionment."
+  },
+  {
+    "startTime": 274.799,
+    "endTime": 275.899,
+    "text": "This has been The Code Report."
+  },
+  {
+    "startTime": 275.899,
+    "endTime": 278.399,
+    "text": " Thanks for watching, and I will see you in the next one."
+  }
+]
