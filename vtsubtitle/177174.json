@@ -1,0 +1,337 @@
+[
+  {
+    "startTime": 0.33,
+    "endTime": 7.9,
+    "text": "Go through checkout, tap your card and there, you paid in less than two seconds."
+  },
+  {
+    "startTime": 8.01,
+    "endTime": 10.971,
+    "text": "It's faster than, hold on,"
+  },
+  {
+    "startTime": 12.12,
+    "endTime": 15.209999999999999,
+    "text": "this and safer than this."
+  },
+  {
+    "startTime": 15.21,
+    "endTime": 23.4,
+    "text": "That quick exchange is thanks in large part to these, just a few little wires that make contactless payments possible."
+  },
+  {
+    "startTime": 23.6,
+    "endTime": 33.2,
+    "text": "Here's a look inside the tech that makes those payments both quick and secure and why tap-to-pay has taken so long to gain traction in the US."
+  },
+  {
+    "startTime": 33.4,
+    "endTime": 38.4,
+    "text": "This is the tech behind tap-to-pay."
+  },
+  {
+    "startTime": 38.6,
+    "endTime": 51.7,
+    "text": "At the heart of tap-to-pay is a technology called NFC, or near field communication, which itself is a specific form of RFID or radio frequency identification."
+  },
+  {
+    "startTime": 51.9,
+    "endTime": 55.9,
+    "text": "You might be familiar with it as a way to unlock your hotel room, for example."
+  },
+  {
+    "startTime": 56.1,
+    "endTime": 61.0,
+    "text": "NFC relies on those little wires which are actually antennas."
+  },
+  {
+    "startTime": 61.2,
+    "endTime": 71.10000000000001,
+    "text": "The antenna kind of looks like a racetrack and it's a coil of different wires and that's what's used to basically transmit the radio frequency on both sides."
+  },
+  {
+    "startTime": 71.22,
+    "endTime": 72.3,
+    "text": "This is Mike Maclennan."
+  },
+  {
+    "startTime": 72.5,
+    "endTime": 77.3,
+    "text": "He's the general manager of hardware at Square, a company that makes card readers."
+  },
+  {
+    "startTime": 77.43,
+    "endTime": 82.0,
+    "text": "And he cracked one open to show us exactly how a tap-to-pay transaction works."
+  },
+  {
+    "startTime": 82.23,
+    "endTime": 84.7,
+    "text": "Reminds me a lot of opening oysters."
+  },
+  {
+    "startTime": 84.9,
+    "endTime": 87.10000000000001,
+    "text": "Card readers also have those antennas."
+  },
+  {
+    "startTime": 87.33,
+    "endTime": 91.4,
+    "text": "This is the NFC antenna, so this is the magic of what makes NFC transactions work."
+  },
+  {
+    "startTime": 91.6,
+    "endTime": 96.1,
+    "text": "And you can see, once we pull it off, how thin the NFC antenna is."
+  },
+  {
+    "startTime": 96.21,
+    "endTime": 100.39999999999999,
+    "text": "The card and the reader are what he calls passive and active connections."
+  },
+  {
+    "startTime": 100.6,
+    "endTime": 106.89999999999999,
+    "text": "The reader is active because it has power, and can initiate radio communication on its own."
+  },
+  {
+    "startTime": 107.04,
+    "endTime": 114.2,
+    "text": "And the card is passive because it doesn't have power and needs to be near an active source to initiate that communication."
+  },
+  {
+    "startTime": 114.4,
+    "endTime": 118.9,
+    "text": "Tapping your phone works the same way, because your phone emulates the passive card."
+  },
+  {
+    "startTime": 119.04,
+    "endTime": 126.5,
+    "text": "What's happening right now is the coil in here is active and it's looking for a card, basically, anywhere within this region up here."
+  },
+  {
+    "startTime": 126.9,
+    "endTime": 136.70000000000002,
+    "text": "It's doing that, using a radio frequency specific to NFC devices, which only works at a very short range, a maximum of about four centimeters."
+  },
+  {
+    "startTime": 137.04,
+    "endTime": 141.5,
+    "text": "And when the reader finds the card, it requests the information needed for payment."
+  },
+  {
+    "startTime": 141.7,
+    "endTime": 145.39999999999998,
+    "text": "That information is stored here, in your card's chip."
+  },
+  {
+    "startTime": 145.6,
+    "endTime": 151.6,
+    "text": "One thing it stores is what's known as static data, meaning information that's the same every time you use your card."
+  },
+  {
+    "startTime": 151.8,
+    "endTime": 155.10000000000002,
+    "text": "That's things like the account number and expiration date."
+  },
+  {
+    "startTime": 155.28,
+    "endTime": 158.9,
+    "text": "It's what's sent from your card's magnetic stripe when you swipe."
+  },
+  {
+    "startTime": 159.09,
+    "endTime": 162.8,
+    "text": "But your chip doesn't just send that static data when you tap."
+  },
+  {
+    "startTime": 162.97,
+    "endTime": 169.6,
+    "text": "It also sends something called a cryptogram, a unique string of numbers the issuers use to verify that your card is valid."
+  },
+  {
+    "startTime": 169.8,
+    "endTime": 175.4,
+    "text": "What the card is doing is it's collecting information from the reader about the transaction,"
+  },
+  {
+    "startTime": 175.6,
+    "endTime": 185.6,
+    "text": "about the reader specifically, and it's combining that with the the card information using its cryptographic key to create a unique number for that transaction."
+  },
+  {
+    "startTime": 185.8,
+    "endTime": 197.10000000000002,
+    "text": "That's what makes it really hard to replicate a card fraudulently is because the card needs to have a cryptographic key that lets them generate that secret code."
+  },
+  {
+    "startTime": 197.28,
+    "endTime": 206.5,
+    "text": "That information is fed through this, the payment board which sorts to the data that needs from the card and puts it all into an encrypted package."
+  },
+  {
+    "startTime": 206.7,
+    "endTime": 210.2,
+    "text": "That package then gets sent off to the main board, which then."
+  },
+  {
+    "startTime": 210.33,
+    "endTime": 216.4,
+    "text": "Sends that on to our servers, which then send it on to the networks like Visa, MasterCard, AMEX,"
+  },
+  {
+    "startTime": 216.6,
+    "endTime": 219.06,
+    "text": "which then send it on to the issuer and then back with the approval message."
+  },
+  {
+    "startTime": 220.2,
+    "endTime": 222.32999999999998,
+    "text": "Once you get to this board, it's all encrypted and protected information and so anything beyond this will have a high degree of security involved in it."
+  },
+  {
+    "startTime": 229.44,
+    "endTime": 232.14,
+    "text": "All of that happens in just a few seconds, faster than inserting your chip."
+  },
+  {
+    "startTime": 234.21,
+    "endTime": 242.9,
+    "text": "So when you insert a chip card into a reader, there's a few back and forths in that communication whereas in contactless, there's just fewer back and forth."
+  },
+  {
+    "startTime": 243.09,
+    "endTime": 249.6,
+    "text": "It was just built as a more efficient, more streamlined, only the bare necessities kind of information being passed back and forth."
+  },
+  {
+    "startTime": 249.8,
+    "endTime": 256.3,
+    "text": "Card networks and security experts say that this is also more secure than other ways you can use your card."
+  },
+  {
+    "startTime": 256.44,
+    "endTime": 261.4,
+    "text": "Unlike swiping, your static data is better protected during that communication."
+  },
+  {
+    "startTime": 261.6,
+    "endTime": 270.20000000000005,
+    "text": "And because it doesn't have contact with the reader, it's not susceptible to malware that can affect chip insert transactions on rare occasions."
+  },
+  {
+    "startTime": 270.4,
+    "endTime": 278.09999999999997,
+    "text": "This tap-to-pay technology has taken off in the last few years, in part because of the push for contactless during the pandemic."
+  },
+  {
+    "startTime": 278.28,
+    "endTime": 284.2,
+    "text": "Square says such payments tripled between the beginning of 2020 and the end of 2022."
+  },
+  {
+    "startTime": 284.34,
+    "endTime": 288.72999999999996,
+    "text": "While other countries like the UK have had contactless integrated into public transportation for years, it's taken the US more than a decade to get here."
+  },
+  {
+    "startTime": 294.09,
+    "endTime": 297.09999999999997,
+    "text": "For a whole new way to pay, MasterCard introduces Pay Pass."
+  },
+  {
+    "startTime": 297.36,
+    "endTime": 301.05,
+    "text": "US first started issuing tap-to-pay cards in the 2000s."
+  },
+  {
+    "startTime": 301.05,
+    "endTime": 306.3,
+    "text": "Peter Rudegair is a Wall Street Journal reporter who covers payments and financial technology."
+  },
+  {
+    "startTime": 306.48,
+    "endTime": 311.20000000000005,
+    "text": "Different banks thought it was a cool, new technology and thought their consumers would really flock to it."
+  },
+  {
+    "startTime": 311.31,
+    "endTime": 315.9,
+    "text": "Didn't really work out just because there were few businesses that were set up to accept tap-to-pay."
+  },
+  {
+    "startTime": 316.08,
+    "endTime": 323.0,
+    "text": "US Retailers have been slow to replace payment systems, in part because they're expensive to change."
+  },
+  {
+    "startTime": 323.16,
+    "endTime": 331.6,
+    "text": "In 2022, about 55% of merchants said they accepted tap-to-pay, with others saying they were planning on implementing it."
+  },
+  {
+    "startTime": 331.8,
+    "endTime": 338.3,
+    "text": "Consumer behaviors are also difficult to change and the switch to contactless didn't feel urgent."
+  },
+  {
+    "startTime": 338.5,
+    "endTime": 341.7,
+    "text": "It's just often been described as a solution in search of a problem."
+  },
+  {
+    "startTime": 341.9,
+    "endTime": 348.59999999999997,
+    "text": "Yes, it might be convenient and yes, it might be safe, but that's not usually enough for people to switch their behavior."
+  },
+  {
+    "startTime": 348.8,
+    "endTime": 355.6,
+    "text": "The tech still has room to grow and the push to integrate it into more parts of everyday life is working in its favor."
+  },
+  {
+    "startTime": 355.8,
+    "endTime": 360.6,
+    "text": "In New York, for example, subway riders can now tap-to-pay at turnstiles."
+  },
+  {
+    "startTime": 360.8,
+    "endTime": 367.5,
+    "text": "So you have this big push to get tap-to-pay into more transportation systems and to get people used to using it every day."
+  },
+  {
+    "startTime": 367.7,
+    "endTime": 370.8,
+    "text": "And if you're gonna use tap-to-pay to get on and off the subway at least twice a day,"
+  },
+  {
+    "startTime": 371.1,
+    "endTime": 375.8,
+    "text": "maybe you'll also use it for your coffee, your lunch, your drinks."
+  },
+  {
+    "startTime": 376.0,
+    "endTime": 378.4,
+    "text": "At least that's the idea that the credit card companies hope happens."
+  },
+  {
+    "startTime": 378.6,
+    "endTime": 386.5,
+    "text": "Square and other companies have also recently released to the functionality to use the NFC antenna in your phone as the active connection,"
+  },
+  {
+    "startTime": 386.7,
+    "endTime": 393.5,
+    "text": "essentially putting a reader in your pocket, which could make it easier for small retailers to accept card payments."
+  },
+  {
+    "startTime": 393.7,
+    "endTime": 399.3,
+    "text": "This is showing you where it wants you to tap and so the NFC antenna on your phone is right behind this."
+  },
+  {
+    "startTime": 399.45,
+    "endTime": 410.0,
+    "text": "And so when I take my NFC-enabled credit card and I hold it over there, done, transaction complete."
+  }
+]
