@@ -1,0 +1,282 @@
+[
+  {
+    "startTime": 7.128,
+    "endTime": 18.5,
+    "text": "This round structure is only about ten billionths of a meter in diameter, but it— as well as other technologies in the pipeline—could be stepping stones to a monumental public health ambition:"
+  },
+  {
+    "startTime": 18.7,
+    "endTime": 22.185,
+    "text": "a single vaccine that protects you against everything."
+  },
+  {
+    "startTime": 22.185,
+    "endTime": 27.2,
+    "text": "We'll get back to the grand vision later, but first, let's start with something that's being developed now:"
+  },
+  {
+    "startTime": 27.398,
+    "endTime": 33.4,
+    "text": "a vaccine that would protect you against every strain of the flu—even ones that don't exist yet."
+  },
+  {
+    "startTime": 33.6,
+    "endTime": 35.5,
+    "text": "Here's one flu virus particle."
+  },
+  {
+    "startTime": 35.7,
+    "endTime": 41.6,
+    "text": "On the inside is the virus' RNA, and on the outside are lots and lots of hemagglutinin proteins."
+  },
+  {
+    "startTime": 41.8,
+    "endTime": 49.4,
+    "text": "Hemagglutinin attaches to a receptor on a human cell and fuses the viral and human membranes, starting the infection."
+  },
+  {
+    "startTime": 49.6,
+    "endTime": 55.7,
+    "text": "Hemagglutinin is also one of the things your immune system recognizes and reacts to the most."
+  },
+  {
+    "startTime": 55.9,
+    "endTime": 62.8,
+    "text": "To understand how this works, think of hemagglutinin as a bust of 19th century French Emperor Napoleon Bonaparte."
+  },
+  {
+    "startTime": 63.0,
+    "endTime": 64.352,
+    "text": "Croissant!"
+  },
+  {
+    "startTime": 64.352,
+    "endTime": 71.10000000000001,
+    "text": "If you show Napoleon to an immune system and say, \"remember him,\" the immune system will mostly focus on his head."
+  },
+  {
+    "startTime": 71.234,
+    "endTime": 73.8,
+    "text": "And the same is true for the real hemagglutinin."
+  },
+  {
+    "startTime": 74.0,
+    "endTime": 78.3,
+    "text": "One way the immune system remembers things is by physically interacting with them."
+  },
+  {
+    "startTime": 78.407,
+    "endTime": 84.7,
+    "text": "Think of it as making plaster molds of parts of the head: we call these molds antibodies."
+  },
+  {
+    "startTime": 84.9,
+    "endTime": 88.4,
+    "text": "The antibodies float around your bloodstream for a while and then can diminish,"
+  },
+  {
+    "startTime": 88.6,
+    "endTime": 94.89999999999999,
+    "text": "but blueprints on how to make them are stored in specialized memory cells, waiting for future Napoleons to invade."
+  },
+  {
+    "startTime": 95.091,
+    "endTime": 96.3,
+    "text": "Here's the thing, though."
+  },
+  {
+    "startTime": 96.3,
+    "endTime": 99.011,
+    "text": "Hemagglutinin is constantly mutating."
+  },
+  {
+    "startTime": 99.011,
+    "endTime": 105.5,
+    "text": "Most mutations are subtle, produced by single letter changes in the virus' RNA: like this or this."
+  },
+  {
+    "startTime": 105.7,
+    "endTime": 113.9,
+    "text": "Over time, Napoleon/hemagglutinin's head can change enough that our antibodies become less good at recognizing it."
+  },
+  {
+    "startTime": 114.1,
+    "endTime": 116.8,
+    "text": "This is called antigenic drift."
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 121.9,
+    "text": "Influenza is constantly drifting; that's one reason you have to get a new flu shot every year."
+  },
+  {
+    "startTime": 122.034,
+    "endTime": 124.5,
+    "text": "But sometimes bigger changes happen."
+  },
+  {
+    "startTime": 124.7,
+    "endTime": 131.6,
+    "text": "An animal, usually a pig, can get infected with, say, a human flu and a bird flu."
+  },
+  {
+    "startTime": 131.71,
+    "endTime": 134.38,
+    "text": "And those different viruses might infect the same cell."
+  },
+  {
+    "startTime": 134.4,
+    "endTime": 140.1,
+    "text": "If that happens, the two different viral genomes can recombine in tens or even hundreds of ways."
+  },
+  {
+    "startTime": 140.3,
+    "endTime": 146.9,
+    "text": "The human flu virus could pick up a bird flu hemagglutinin that's never infected humans before."
+  },
+  {
+    "startTime": 147.1,
+    "endTime": 156.29999999999998,
+    "text": "This is called antigenic shift, and if you get infected by this version of influenza, none of the antibodies against Napoleon's head are going to help you."
+  },
+  {
+    "startTime": 156.402,
+    "endTime": 165.2,
+    "text": "Antigenically shifted viruses have the potential to infect many people very quickly, causing epidemics and sometimes pandemics."
+  },
+  {
+    "startTime": 165.369,
+    "endTime": 173.3,
+    "text": "A truly universal flu vaccine would be able to protect against current flu strains and future drifted or shifted strains."
+  },
+  {
+    "startTime": 173.461,
+    "endTime": 177.5,
+    "text": "But how do we design a vaccine against a strain that doesn't exist yet?"
+  },
+  {
+    "startTime": 177.7,
+    "endTime": 179.13299999999998,
+    "text": "We look to the past."
+  },
+  {
+    "startTime": 179.133,
+    "endTime": 186.4,
+    "text": "There are key parts of hemagglutinin that haven't changed much over time and are probably critical to infect human cells;"
+  },
+  {
+    "startTime": 186.6,
+    "endTime": 191.26999999999998,
+    "text": "these \"conserved regions\" could be promising targets for universal vaccines."
+  },
+  {
+    "startTime": 191.4,
+    "endTime": 194.44,
+    "text": "But there's a problem that's hindered classical vaccine production."
+  },
+  {
+    "startTime": 194.44,
+    "endTime": 200.6,
+    "text": "Many conserved regions are in the neck, and it's tough to get the immune system to react to the neck."
+  },
+  {
+    "startTime": 200.7,
+    "endTime": 211.0,
+    "text": "Also, because influenza-like viruses have been around for hundreds of millions of years, there may not be a single region that's common across all species and subtypes of influenza."
+  },
+  {
+    "startTime": 211.123,
+    "endTime": 213.6,
+    "text": "But there's promising science in development."
+  },
+  {
+    "startTime": 213.8,
+    "endTime": 215.336,
+    "text": "Remember this?"
+  },
+  {
+    "startTime": 215.336,
+    "endTime": 220.4,
+    "text": "This is a protein called ferritin; its normal purpose is to store and move iron."
+  },
+  {
+    "startTime": 220.5,
+    "endTime": 224.095,
+    "text": "But it's also the rough size and shape of a small virus."
+  },
+  {
+    "startTime": 224.095,
+    "endTime": 233.3,
+    "text": "And if you attach viral proteins to it, like this, you'd have something that looks, to an immune system, like a virus—but would be completely harmless and very engineerable."
+  },
+  {
+    "startTime": 233.437,
+    "endTime": 242.0,
+    "text": "Recently, scientists engineered a ferritin nanoparticle to present 8 identical copies of the neck region of an H1 flu virus."
+  },
+  {
+    "startTime": 242.196,
+    "endTime": 250.2,
+    "text": "They vaccinated mice with the nanoparticle, then injected them with a lethal dose of a completely different subtype, H5N1."
+  },
+  {
+    "startTime": 250.329,
+    "endTime": 254.292,
+    "text": "All the vaccinated mice lived; all the unvaccinated ones died."
+  },
+  {
+    "startTime": 254.3,
+    "endTime": 256.87600000000003,
+    "text": "Going one step beyond that,"
+  },
+  {
+    "startTime": 256.876,
+    "endTime": 267.09999999999997,
+    "text": "there may be conserved regions that we could take advantage of across different-but-related virus species—like SARS-CoV-2, MERS, and a few coronaviruses which cause some common colds."
+  },
+  {
+    "startTime": 267.221,
+    "endTime": 272.1,
+    "text": "Over the past few decades, a different part of the immune system has come into clearer focus."
+  },
+  {
+    "startTime": 272.268,
+    "endTime": 281.2,
+    "text": "Instead of antibodies, this part of the immune system uses a vast array of T cells that kill, for example, cells that have been infected by a virus."
+  },
+  {
+    "startTime": 281.319,
+    "endTime": 287.70000000000005,
+    "text": "Vaccines that train this part of the immune system, in addition to the antibody response, could provide broader protection."
+  },
+  {
+    "startTime": 287.9,
+    "endTime": 293.205,
+    "text": "A universal flu vaccine would be a monumental achievement in public health."
+  },
+  {
+    "startTime": 293.205,
+    "endTime": 300.3,
+    "text": "A fully universal vaccine against all infectious disease is— for the moment—squarely in the realm of science fiction,"
+  },
+  {
+    "startTime": 300.5,
+    "endTime": 309.4,
+    "text": "partially because we have no idea how our immune system would react if we tried to train it against hundreds of different diseases at the same time. Probably not well."
+  },
+  {
+    "startTime": 309.6,
+    "endTime": 311.20000000000005,
+    "text": "But that doesn't mean it's impossible."
+  },
+  {
+    "startTime": 311.39,
+    "endTime": 315.019,
+    "text": "Look at where medicine is today compared to where it was two centuries ago."
+  },
+  {
+    "startTime": 315.019,
+    "endTime": 325.612,
+    "text": "Who knows what it'll look like in another 50 or 100 years—maybe some future groundbreaking technology will bring truly universal vaccines within our grasp."
+  }
+]

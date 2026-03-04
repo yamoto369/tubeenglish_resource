@@ -1,0 +1,332 @@
+[
+  {
+    "startTime": 6.771,
+    "endTime": 7.771,
+    "text": "The Black Death."
+  },
+  {
+    "startTime": 8.47,
+    "endTime": 10.245000000000001,
+    "text": "The 1918 Flu Pandemic."
+  },
+  {
+    "startTime": 10.25,
+    "endTime": 11.504999999999999,
+    "text": "COVID-19。"
+  },
+  {
+    "startTime": 11.51,
+    "endTime": 17.78,
+    "text": "We tend to think of these catastrophic, world-changing pandemics as very unlikely events,"
+  },
+  {
+    "startTime": 18.389,
+    "endTime": 24.77,
+    "text": "But between 1980 and 2020, at least three diseases emerged that caused global pandemics."
+  },
+  {
+    "startTime": 24.771,
+    "endTime": 29.698,
+    "text": "COVID-19, yes, but also the 2009 swine flu and HIV/AIDS."
+  },
+  {
+    "startTime": 29.699,
+    "endTime": 32.28,
+    "text": "Disease outbreaks are surprisingly common."
+  },
+  {
+    "startTime": 32.281,
+    "endTime": 42.022999999999996,
+    "text": "Over the past four centuries, the longest stretch of time without a documented outbreak that killed at least 10,000 people was just four years."
+  },
+  {
+    "startTime": 42.03,
+    "endTime": 47.34,
+    "text": "As bad as these small outbreaks are, they're far less deadly than  a COVID-19-level pandemic."
+  },
+  {
+    "startTime": 47.35,
+    "endTime": 55.81,
+    "text": "In fact, many people born after the 1918 flu lived their entire lives without experiencing a similar world-changing pandemic."
+  },
+  {
+    "startTime": 55.82,
+    "endTime": 58.02,
+    "text": "What's the probability that you do, too?"
+  },
+  {
+    "startTime": 58.03,
+    "endTime": 60.35,
+    "text": "There are several ways to answer this question."
+  },
+  {
+    "startTime": 60.36,
+    "endTime": 61.97,
+    "text": "You could look at history."
+  },
+  {
+    "startTime": 61.98,
+    "endTime": 70.47,
+    "text": "A team of scientists and engineers who took this approach catalogued all documented epidemics and pandemics between 1600 and 1950."
+  },
+  {
+    "startTime": 70.48,
+    "endTime": 72.91000000000001,
+    "text": "They used that data to do two things."
+  },
+  {
+    "startTime": 72.93,
+    "endTime": 79.80000000000001,
+    "text": "First, to graph the likelihood that an outbreak of any size pops up somewhere in the world over a set period of time."
+  },
+  {
+    "startTime": 80.409,
+    "endTime": 87.27000000000001,
+    "text": "And second, to estimate the likelihood that that outbreak would get large enough to kill a certain percentage of the world's population."
+  },
+  {
+    "startTime": 87.28,
+    "endTime": 93.3,
+    "text": "This graph shows that while huge pandemics are unlikely, they're not that unlikely."
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 101.3,
+    "text": "The team used these two distributions to estimate that the risk of a COVID-19-level pandemic is about 0.5% per year,"
+  },
+  {
+    "startTime": 101.301,
+    "endTime": 107.3,
+    "text": "and could be as high as 1.4% if new diseases emerge more frequently in the future."
+  },
+  {
+    "startTime": 108.0,
+    "endTime": 109.57,
+    "text": "And we'll come back to those numbers,"
+  },
+  {
+    "startTime": 109.58,
+    "endTime": 116.184,
+    "text": "but first, let's look at another way to estimate the likelihood of a future pandemic: modeling one from the ground up."
+  },
+  {
+    "startTime": 116.185,
+    "endTime": 120.75200000000001,
+    "text": "For most pandemics to happen, a pathogen, which is a microbe that can cause disease,"
+  },
+  {
+    "startTime": 120.753,
+    "endTime": 126.328,
+    "text": "has to spill over from its normal host by making contact with and infecting a human."
+  },
+  {
+    "startTime": 126.497,
+    "endTime": 132.76,
+    "text": "Then, the pathogen has to spread widely, crossing international boundaries and infecting lots of people."
+  },
+  {
+    "startTime": 133.7,
+    "endTime": 138.78,
+    "text": "Many variables determine whether a given spillover event becomes a pandemic."
+  },
+  {
+    "startTime": 138.8,
+    "endTime": 146.45000000000002,
+    "text": "For example, the type of pathogen, how often humans come into close contact with its animal reservoir, existing immunity, and so on."
+  },
+  {
+    "startTime": 147.46,
+    "endTime": 151.6,
+    "text": "Viruses are prime candidates to cause the next big pandemic."
+  },
+  {
+    "startTime": 151.7,
+    "endTime": 160.155,
+    "text": "Scientists estimate that there are about 1.7 million as-yet-undiscovered viruses that currently infect mammals and birds,"
+  },
+  {
+    "startTime": 160.156,
+    "endTime": 164.92000000000002,
+    "text": "and that roughly 40% of these have the potential to spill over and infect humans."
+  },
+  {
+    "startTime": 166.15,
+    "endTime": 174.46200000000002,
+    "text": "A team of scientists built a model using this information, as well as data about the global population, air travel networks, how people move around in communities,"
+  },
+  {
+    "startTime": 174.463,
+    "endTime": 178.331,
+    "text": "country preparedness levels, and how people might respond to pandemics."
+  },
+  {
+    "startTime": 178.332,
+    "endTime": 182.5,
+    "text": "The model generated hundreds of thousands of virtual pandemics."
+  },
+  {
+    "startTime": 182.6,
+    "endTime": 192.0,
+    "text": "The scientists then used this catalog to estimate that the probability of another COVID-19-level pandemic is 2.5 to 3.3% per year."
+  },
+  {
+    "startTime": 192.4,
+    "endTime": 199.4,
+    "text": "To get a sense of how these risks play out over a lifetime, let's pick a value roughly in the middle of all these estimates: 2%."
+  },
+  {
+    "startTime": 199.5,
+    "endTime": 204.762,
+    "text": "Now let's build what's called \"a probability tree diagram\" to model all possible scenarios."
+  },
+  {
+    "startTime": 205.0,
+    "endTime": 208.305,
+    "text": "The first branch of the tree represents the first year:"
+  },
+  {
+    "startTime": 208.31,
+    "endTime": 216.47,
+    "text": "There's a 2% probability of experiencing a COVID-19-level pandemic, which means there's a 98% probability of not experiencing one."
+  },
+  {
+    "startTime": 216.5,
+    "endTime": 218.3,
+    "text": "Second branch, same thing,"
+  },
+  {
+    "startTime": 218.51,
+    "endTime": 219.934,
+    "text": "Third branch, same."
+  },
+  {
+    "startTime": 219.934,
+    "endTime": 222.31,
+    "text": "And so on, 72 more times."
+  },
+  {
+    "startTime": 222.32,
+    "endTime": 235.18,
+    "text": "There is only one path that results in a fully pandemic-free lifetime: 98%, or 0.98, multiplied by itself 75 times, which comes out to roughly 22%."
+  },
+  {
+    "startTime": 235.2,
+    "endTime": 245.53,
+    "text": "So the likelihood of living through at least one more COVID 19-level-pandemic in the next 75 years is a hundred minus 22% or 78%."
+  },
+  {
+    "startTime": 245.54,
+    "endTime": 247.03,
+    "text": "78%！"
+  },
+  {
+    "startTime": 247.1,
+    "endTime": 254.82,
+    "text": "If we use the most optimistic yearly estimate— 0.5%—, the lifetime probability drops to 31%."
+  },
+  {
+    "startTime": 255.0,
+    "endTime": 258.96,
+    "text": "If we use the most pessimistic one, it jumps to 92%."
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 262.386,
+    "text": "Even 31% is too high to ignore;"
+  },
+  {
+    "startTime": 262.39,
+    "endTime": 266.09,
+    "text": "even if we get lucky, future generations might not."
+  },
+  {
+    "startTime": 266.091,
+    "endTime": 269.641,
+    "text": "Also, pandemics are usually random, independent events:"
+  },
+  {
+    "startTime": 269.65,
+    "endTime": 277.32,
+    "text": "So even if the yearly probability of a COVID-19-level pandemic is 1%, we could absolutely get another one in ten years."
+  },
+  {
+    "startTime": 278.0,
+    "endTime": 282.511,
+    "text": "The good news is we now have tools that make pandemics less destructive."
+  },
+  {
+    "startTime": 282.515,
+    "endTime": 291.21999999999997,
+    "text": "Scientists estimated that early warning systems, contact tracing, social distancing, and other public health measures saved over a million lives"
+  },
+  {
+    "startTime": 291.22,
+    "endTime": 294.76000000000005,
+    "text": "in just the first six months of the COVID-19 pandemic in the US,"
+  },
+  {
+    "startTime": 294.9,
+    "endTime": 298.9,
+    "text": "not to mention the millions of lives saved by vaccines."
+  },
+  {
+    "startTime": 299.0,
+    "endTime": 302.556,
+    "text": "One day, another pandemic will sweep the globe."
+  },
+  {
+    "startTime": 302.56,
+    "endTime": 306.08,
+    "text": "But we can work to make that day less likely to be tomorrow."
+  },
+  {
+    "startTime": 306.081,
+    "endTime": 314.172,
+    "text": "We can reduce the risk of spillover events, and we can contain spillovers that do happen so they don't become full-blown pandemics."
+  },
+  {
+    "startTime": 315.0,
+    "endTime": 319.05,
+    "text": "Imagine how the future might look if we interacted with the animal world more carefully,"
+  },
+  {
+    "startTime": 319.06,
+    "endTime": 326.24,
+    "text": "and if we had well-funded, open-access global disease monitoring programs, AI-powered contact tracing and isolation measures,"
+  },
+  {
+    "startTime": 326.25,
+    "endTime": 331.6,
+    "text": "universal vaccines, next-generation antiviral drugs, and other tech we haven't even thought of."
+  },
+  {
+    "startTime": 331.7,
+    "endTime": 335.205,
+    "text": "It's in our power to change these probabilities."
+  },
+  {
+    "startTime": 335.206,
+    "endTime": 343.70000000000005,
+    "text": "So, we have a choice: we could do nothing and hope we get lucky, or we could take the threat seriously enough that it becomes a self-defeating prophecy."
+  },
+  {
+    "startTime": 343.8,
+    "endTime": 345.6,
+    "text": "Which future would you rather live in?"
+  },
+  {
+    "startTime": 347.0,
+    "endTime": 351.0,
+    "text": "Luckily for us, the virus that cause pandemic can and do go extinct."
+  },
+  {
+    "startTime": 351.1,
+    "endTime": 355.199,
+    "text": "Find out what it takes to make that happen and how long with this video."
+  },
+  {
+    "startTime": 355.2,
+    "endTime": 362.0,
+    "text": "Or watch this video to learn more about the one sickness that we can never seem to get rid of—the common cold."
+  }
+]

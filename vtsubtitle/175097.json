@@ -1,0 +1,302 @@
+[
+  {
+    "startTime": 6.2,
+    "endTime": 12.5,
+    "text": "In the coming years,  artificial intelligence is probably going to change your life,  and likely the entire world."
+  },
+  {
+    "startTime": 12.6,
+    "endTime": 15.6,
+    "text": "But people have a hard time agreeing on exactly how."
+  },
+  {
+    "startTime": 15.8,
+    "endTime": 24.9,
+    "text": "The following are excerpts  from an interview where renowned computer science professor  and AI expert Stuart Russell helps separate the sense  from the nonsense."
+  },
+  {
+    "startTime": 25.313,
+    "endTime": 32.3,
+    "text": "There's a big difference between asking a human to do something and giving that as the objective to an AI system."
+  },
+  {
+    "startTime": 32.5,
+    "endTime": 39.6,
+    "text": "When you ask a human to get you a cup of coffee, you don't mean this should be their life's mission, and nothing else in the universe matters."
+  },
+  {
+    "startTime": 39.8,
+    "endTime": 44.699999999999996,
+    "text": "Even if they have to kill everybody else in Starbucks to get you the coffee before it closes—they should do that."
+  },
+  {
+    "startTime": 44.9,
+    "endTime": 46.5,
+    "text": "No, that's not what you mean."
+  },
+  {
+    "startTime": 46.7,
+    "endTime": 50.7,
+    "text": "All the other things that we mutually care about, they should factor into your behavior as well."
+  },
+  {
+    "startTime": 50.9,
+    "endTime": 55.3,
+    "text": "And the problem with the way we build AI systems now is we give them a fixed objective."
+  },
+  {
+    "startTime": 55.5,
+    "endTime": 59.4,
+    "text": "The algorithms require us to specify everything in the objective."
+  },
+  {
+    "startTime": 59.6,
+    "endTime": 62.9,
+    "text": "And if you say, can we fix the acidification of the oceans?"
+  },
+  {
+    "startTime": 63.1,
+    "endTime": 67.021,
+    "text": "Yeah, you could have a catalytic reaction that does that extremely efficiently,"
+  },
+  {
+    "startTime": 67.021,
+    "endTime": 70.274,
+    "text": "but it consumes a quarter of the oxygen in the atmosphere,"
+  },
+  {
+    "startTime": 70.274,
+    "endTime": 76.1,
+    "text": "which would apparently cause us to die fairly slowly and unpleasantly over the course of several hours."
+  },
+  {
+    "startTime": 76.3,
+    "endTime": 79.0,
+    "text": "So, how do we avoid this problem?"
+  },
+  {
+    "startTime": 79.2,
+    "endTime": 85.9,
+    "text": "You might say, okay, well, just be more careful about specifying the objective—don't forget the atmospheric oxygen."
+  },
+  {
+    "startTime": 86.1,
+    "endTime": 90.69999999999999,
+    "text": "And then, of course, some side effect of the reaction in the ocean poisons all the fish."
+  },
+  {
+    "startTime": 90.9,
+    "endTime": 93.464,
+    "text": "Okay, well I meant don't kill the fish either."
+  },
+  {
+    "startTime": 93.464,
+    "endTime": 94.7,
+    "text": "And then, well, what about the seaweed?"
+  },
+  {
+    "startTime": 94.9,
+    "endTime": 97.60000000000001,
+    "text": "Okay, don't do anything that's going to cause all the seaweed to die, and on and on and on."
+  },
+  {
+    "startTime": 99.9,
+    "endTime": 108.35400000000001,
+    "text": "And the reason that we don't have to do that with humans is that humans often know that they don't know all the things that we care about."
+  },
+  {
+    "startTime": 108.354,
+    "endTime": 116.7,
+    "text": "If you ask a human to get you a cup of coffee, and you happen to be in the Hotel George Sand in Paris, where the coffee is 13 euros a cup,"
+  },
+  {
+    "startTime": 116.9,
+    "endTime": 123.7,
+    "text": "it's entirely reasonable to come back and say, \"Well, it's 13 euros, are you sure you want it? Or I could go next door and get one?\""
+  },
+  {
+    "startTime": 123.9,
+    "endTime": 128.3,
+    "text": "And it's a perfectly normal thing for a person to do—to ask."
+  },
+  {
+    "startTime": 128.5,
+    "endTime": 133.3,
+    "text": "I'm going to repaint your house, is it okay if I take off the drainpipes and then put them back?"
+  },
+  {
+    "startTime": 133.5,
+    "endTime": 141.7,
+    "text": "We don't think of this as a terribly sophisticated capability, but AI systems don't have it  because the way we build them now, they have to know the full objective."
+  },
+  {
+    "startTime": 141.9,
+    "endTime": 147.9,
+    "text": "If we build systems that know that they don't know what the objective is, then they start to exhibit these behaviors,"
+  },
+  {
+    "startTime": 148.06,
+    "endTime": 152.6,
+    "text": "like asking permission before getting rid of all the oxygen in the atmosphere."
+  },
+  {
+    "startTime": 152.8,
+    "endTime": 160.20000000000002,
+    "text": "In all these senses, control over the AI system comes from the machine's uncertainty about what the true objective is."
+  },
+  {
+    "startTime": 160.4,
+    "endTime": 168.20000000000002,
+    "text": "It's when you build machines that believe with certainty that they have the objective, that's when you get this sort of psychopathic behavior."
+  },
+  {
+    "startTime": 168.4,
+    "endTime": 170.6,
+    "text": "And I think we see the same thing in humans."
+  },
+  {
+    "startTime": 170.8,
+    "endTime": 175.37900000000002,
+    "text": "What happens when general purpose AI hits the real economy?"
+  },
+  {
+    "startTime": 175.379,
+    "endTime": 179.17499999999998,
+    "text": "How do things change? Can we adapt?"
+  },
+  {
+    "startTime": 179.175,
+    "endTime": 181.01000000000002,
+    "text": "This is a very old point."
+  },
+  {
+    "startTime": 181.01,
+    "endTime": 184.5,
+    "text": "Amazingly, Aristotle actually has a passage where he says,"
+  },
+  {
+    "startTime": 184.7,
+    "endTime": 193.79999999999998,
+    "text": "\"Look, if we had fully automated weaving machines and plectrums that could pluck the lyre and produce music without any humans, then we wouldn't need any workers.\""
+  },
+  {
+    "startTime": 194.0,
+    "endTime": 201.4,
+    "text": "That idea, which I think it was Keynes who called it technological unemployment in 1930, is very obvious to people."
+  },
+  {
+    "startTime": 201.6,
+    "endTime": 206.0,
+    "text": "They think, yeah, of course,  if the machine does the work, then I'm going to be unemployed."
+  },
+  {
+    "startTime": 206.2,
+    "endTime": 212.5,
+    "text": "You can think about the warehouses that companies are currently operating for e-commerce, they are half automated."
+  },
+  {
+    "startTime": 212.7,
+    "endTime": 220.5,
+    "text": "The way it works is that an old warehouse— where you've got tons of stuff piled up all over the place  and humans go and rummage around and then bring it back and send it off—"
+  },
+  {
+    "startTime": 220.7,
+    "endTime": 226.0,
+    "text": "there's a robot who goes and gets the shelving unit that contains the thing that you need,"
+  },
+  {
+    "startTime": 226.2,
+    "endTime": 231.89999999999998,
+    "text": "but the human has to pick the object  out of the bin or off the shelf, because that's still too difficult."
+  },
+  {
+    "startTime": 232.019,
+    "endTime": 242.1,
+    "text": "But, at the same time, would you make a robot that is accurate enough to be able to pick pretty much any object within a very wide  variety of objects that you can buy?"
+  },
+  {
+    "startTime": 242.28,
+    "endTime": 246.409,
+    "text": "That would, at a stroke,  eliminate 3 or 4 million jobs?"
+  },
+  {
+    "startTime": 246.409,
+    "endTime": 253.29999999999998,
+    "text": "There's an interesting story that E.M. Forster wrote, where everyone is entirely machine dependent."
+  },
+  {
+    "startTime": 253.499,
+    "endTime": 266.1,
+    "text": "The story is really about the fact that if you hand over the management of your civilization to machines, you then lose the incentive to understand it yourself or to teach the next generation  how to understand it."
+  },
+  {
+    "startTime": 266.262,
+    "endTime": 274.7,
+    "text": "You can see \"WALL-E\" actually as a modern version, where everyone is enfeebled and infantilized by the machine, and that hasn't been possible up to now."
+  },
+  {
+    "startTime": 274.9,
+    "endTime": 278.7,
+    "text": "We put a lot of our civilizations into books, but the books can't run it for us."
+  },
+  {
+    "startTime": 278.9,
+    "endTime": 281.7,
+    "text": "And so we always have to teach the next generation."
+  },
+  {
+    "startTime": 281.9,
+    "endTime": 290.0,
+    "text": "If you work it out, it's about a trillion person years of teaching and learning and an unbroken chain that goes back tens of thousands of generations."
+  },
+  {
+    "startTime": 290.119,
+    "endTime": 292.038,
+    "text": "What happens if that chain breaks?"
+  },
+  {
+    "startTime": 292.038,
+    "endTime": 295.6,
+    "text": "I think that's something we have to understand as AI moves forward."
+  },
+  {
+    "startTime": 295.8,
+    "endTime": 302.1,
+    "text": "The actual date of arrival of general purpose AI—you're not going to be able to pinpoint, it isn't a single day."
+  },
+  {
+    "startTime": 302.298,
+    "endTime": 304.6,
+    "text": "It's also not the case that it's all or nothing."
+  },
+  {
+    "startTime": 304.8,
+    "endTime": 307.053,
+    "text": "The impact is going to be increasing."
+  },
+  {
+    "startTime": 307.053,
+    "endTime": 311.9,
+    "text": "So with every advance in AI, it significantly expands the range of tasks."
+  },
+  {
+    "startTime": 312.058,
+    "endTime": 320.7,
+    "text": "So in that sense, I think most experts say by the end of the century, we're very, very likely to have  general purpose AI."
+  },
+  {
+    "startTime": 320.9,
+    "endTime": 324.48699999999997,
+    "text": "The median is something around 2045."
+  },
+  {
+    "startTime": 324.487,
+    "endTime": 328.3,
+    "text": "I'm a little more on the conservative side. I think the problem is harder than we think."
+  },
+  {
+    "startTime": 328.5,
+    "endTime": 338.9,
+    "text": "I like what John McAfee (said), he was one of the founders of AI, when he was asked this question, he said, \"well, somewhere between 5 and 500 years. And we're going to need, I think, several Einsteins to make it happen.\""
+  }
+]
