@@ -1,0 +1,342 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 10.16,
+    "text": "In the last five years, the food delivery industry in the United States has almost quadrupled, as Americans all collectively came together and agreed that Chipotle should cost three times more money."
+  },
+  {
+    "startTime": 10.16,
+    "endTime": 23.3,
+    "text": "Meanwhile, fees have gotten worse, small restaurants are being extorted, delivery drivers are getting their tips stolen, and there's still like a 30% chance that if you order a burger from Shake Shack, it's going to take 75 minutes and when it shows up, it's going to be someone else's half-melted pint of ice cream."
+  },
+  {
+    "startTime": 23.5,
+    "endTime": 28.4,
+    "text": "This is as good as it gets—that is, unless you live in Mumbai."
+  },
+  {
+    "startTime": 28.5,
+    "endTime": 44.2,
+    "text": "For the last 130 years, Mumbai, India has operated one of the most efficient and reliable food delivery systems in the world, delivering 300,000 lunches per day, with precision timing and an error rate of only 0.0001%."
+  },
+  {
+    "startTime": 44.3,
+    "endTime": 52.58,
+    "text": "All of this is done entirely offline, with a fleet of 5,000 predominantly illiterate delivery workers who organize their supply chain themselves."
+  },
+  {
+    "startTime": 52.9,
+    "endTime": 62.58,
+    "text": "Oh, and did I mention that it only costs like $6 a month and still turns a profit while every major food delivery app somehow manages to lose all the money that they gouged by charging you $37 for Pad Thai?"
+  },
+  {
+    "startTime": 62.58,
+    "endTime": 63.699999999999996,
+    "text": "Let's talk about it."
+  },
+  {
+    "startTime": 64.0,
+    "endTime": 68.019,
+    "text": "The year was 1890, and Mumbai was rapidly industrializing."
+  },
+  {
+    "startTime": 68.019,
+    "endTime": 75.0,
+    "text": "As the Great Indian Peninsular Railway extended out across the country, rural Indians and British colonizers alike poured into town."
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 83.4,
+    "text": "The new spectrum of different cultures also came with different tastes, and when lunchtime rolled around, the local restaurants couldn't quite support the diverse… um… look,"
+  },
+  {
+    "startTime": 83.6,
+    "endTime": 90.6,
+    "text": "basically, what I'm trying to say is that the British people are too racist to eat food that tastes good and there aren't many restaurants that serve wet bread or whatever it is that British people eat."
+  },
+  {
+    "startTime": 90.6,
+    "endTime": 100.0,
+    "text": "So, a fellow by the name of Mahadeo Havajibachi decided to start a delivery service that would pick up home-cooked meals from people's houses in the morning, and deliver them to their offices at lunchtime."
+  },
+  {
+    "startTime": 100.1,
+    "endTime": 103.86,
+    "text": "That way, everyone could eat a lunch from their own… culture."
+  },
+  {
+    "startTime": 103.86,
+    "endTime": 112.9,
+    "text": "The delivery men were called dabawalas—daba being the standardized cylindrical lunch container that they used to transport meals, and wala being… guy, I guess."
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 125.7,
+    "text": "For a small monthly payment, these dabawalas would pick up your lunch each workday and deliver it, on the hour, to wherever you worked—and the system worked so well that it has remained, mostly unchanged, though far, far larger, for the last century."
+  },
+  {
+    "startTime": 125.9,
+    "endTime": 129.74,
+    "text": "The question remains then, how does it actually work?"
+  },
+  {
+    "startTime": 129.74,
+    "endTime": 133.9,
+    "text": "Well, the dabawalas do not operate like traditional delivery drivers."
+  },
+  {
+    "startTime": 134.0,
+    "endTime": 141.8,
+    "text": "From your kitchen to your office, your lunch will be handed off to at least three, but up to twelve different people, and take multiple different forms of transportation on its way to you."
+  },
+  {
+    "startTime": 141.9,
+    "endTime": 155.6,
+    "text": "All of this is coordinated, not by a computer or a map, but by a collection of four to five colored symbols painted on top of each daba, which contain the information, not only of where to deliver it, but also the route the container needs to take, and who's responsible for each step of the journey."
+  },
+  {
+    "startTime": 155.8,
+    "endTime": 160.60000000000002,
+    "text": "It all starts here, with a symbol that denotes one of Mumbai's 150 train stations."
+  },
+  {
+    "startTime": 160.7,
+    "endTime": 168.29999999999998,
+    "text": "The entire dabawala system is built around the Mumbai Suburban Railway—one of the busiest and most extensive commuter railways in the world."
+  },
+  {
+    "startTime": 168.4,
+    "endTime": 177.559,
+    "text": "Each station serves as an initial collection hub for the surrounding households, which themselves are grouped into smaller areas that are each overseen by a single dabawala, labeled from A to Z."
+  },
+  {
+    "startTime": 177.559,
+    "endTime": 190.0,
+    "text": "So, for example, VLP would mean the container would start its journey at Vilpar Station, and E would indicate that it should be collected by the dabawala assigned to that station's E-zone, which, in this case, are the houses along Hooniman Street."
+  },
+  {
+    "startTime": 190.2,
+    "endTime": 200.94,
+    "text": "Every morning, from 8:30 to 9:30, the dabawalas collect lunches from the households in their zone, usually between 25 and 35 stops, which each need to go off without a hitch in order to keep the process moving."
+  },
+  {
+    "startTime": 200.94,
+    "endTime": 203.539,
+    "text": "If a customer's lunch is too heavy, they'll get a fine."
+  },
+  {
+    "startTime": 203.539,
+    "endTime": 208.059,
+    "text": "If they don't have it ready to be picked up on time, the dabawala can drop them as a customer altogether."
+  },
+  {
+    "startTime": 208.3,
+    "endTime": 215.10000000000002,
+    "text": "It's sort of similar to my proposal for DoorDash, which is that if you make your driver wait for more than five minutes, the driver should be allowed to come inside your house and kill you."
+  },
+  {
+    "startTime": 215.8,
+    "endTime": 223.5,
+    "text": "From 9:30 to 10:30, the dabawalas take their 25 to 35 lunches, by foot or by bicycle, to a collection center outside the station."
+  },
+  {
+    "startTime": 223.6,
+    "endTime": 229.1,
+    "text": "Here the containers are sorted by the middle symbol, this one here, which indicates the destination station."
+  },
+  {
+    "startTime": 229.2,
+    "endTime": 238.89999999999998,
+    "text": "Once sorted by destination, each collection of containers are handed off to a second group of dabawalas, who are given just 40 seconds to load the lunches onto the goods compartment at the front of the correct train."
+  },
+  {
+    "startTime": 239.0,
+    "endTime": 253.7,
+    "text": "If any of the containers need to transfer trains to reach their final destination, the dabawalas will have already identified a secondary transfer hub along the route, like Mumbai Central, where the containers can be handed off to a third group of dabawalas and loaded onto their next train in under 20 seconds."
+  },
+  {
+    "startTime": 253.9,
+    "endTime": 258.1,
+    "text": "By around 11 or 1130, the containers will have reached their final station."
+  },
+  {
+    "startTime": 258.1,
+    "endTime": 262.3,
+    "text": "Here they're sorted once again by the final part of their code, these symbols here."
+  },
+  {
+    "startTime": 262.4,
+    "endTime": 270.09999999999997,
+    "text": "Much like the zones at each origin station, each destination station is also broken up into smaller zones, managed by one designated dabawala."
+  },
+  {
+    "startTime": 270.3,
+    "endTime": 275.90000000000003,
+    "text": "Churchgate station, for example, has 10 zones, with 9 on this container indicating the Neriman point."
+  },
+  {
+    "startTime": 276.1,
+    "endTime": 286.70000000000005,
+    "text": "So, the dabawala responsible for that zone will take all of their containers, again by biker by foot, to the buildings indicated in this part of the code, and then finally to the floor marked by the code's final digit."
+  },
+  {
+    "startTime": 286.9,
+    "endTime": 292.79999999999995,
+    "text": "Every single lunch, all 300,000 of them, have to be delivered precisely within the window of 12:30 to 1pm."
+  },
+  {
+    "startTime": 293.0,
+    "endTime": 302.4,
+    "text": "Any slip-up in any part of this process, and the window is missed, the worker goes hungry, their work efficacy plummets, India's GDP starts tanking, and China becomes the new United States."
+  },
+  {
+    "startTime": 302.559,
+    "endTime": 305.3,
+    "text": "So, pressure's on, every single morning."
+  },
+  {
+    "startTime": 305.5,
+    "endTime": 317.1,
+    "text": "And then, just as efficiently as they were delivered, each container needs to be collected a half-hour later, and this whole process has to happen in reverse, returning the containers to every single household so they can be reused again the next day."
+  },
+  {
+    "startTime": 317.1,
+    "endTime": 319.66,
+    "text": "So, why don't you have it this good?"
+  },
+  {
+    "startTime": 319.66,
+    "endTime": 329.6,
+    "text": "Well, part of the problem is that you, dear viewer, are a special snowflake living in an indulgent Western society, and you don't actually want to schedule your lunch delivery a month ahead of time."
+  },
+  {
+    "startTime": 329.8,
+    "endTime": 339.1,
+    "text": "No, you want to eat red velvet-flavored rice pudding at 3:14am, which is a desire that cannot truly be factored into any kind of rational, standardized supply chain."
+  },
+  {
+    "startTime": 339.2,
+    "endTime": 340.799,
+    "text": "But that's not the whole story."
+  },
+  {
+    "startTime": 340.799,
+    "endTime": 349.5,
+    "text": "Obviously, the repetitive, pre-organized structure of this system leads to gains in efficiency and consistency, but it still wouldn't function this well without the unique way that it's managed."
+  },
+  {
+    "startTime": 349.7,
+    "endTime": 359.5,
+    "text": "You see, the Dabbawalas are not a single corporate entity—they're broken up into about 200 different, self-governing groups, each with their own coding system, culture, and routes."
+  },
+  {
+    "startTime": 359.7,
+    "endTime": 366.8,
+    "text": "These groups negotiate among themselves to add new members, to elect Dabbawalas to positions of power, and most importantly, to sign new customers."
+  },
+  {
+    "startTime": 367.0,
+    "endTime": 375.3,
+    "text": "If you pay to get your lunch delivered through the dabbawala system, it's going to be picked up by the same person every single day, and delivered by the same person every single day."
+  },
+  {
+    "startTime": 375.5,
+    "endTime": 382.459,
+    "text": "These are the same people that can negotiate your rates, determine your lunch's route, and drop you as a customer if they feel like it."
+  },
+  {
+    "startTime": 382.459,
+    "endTime": 386.6,
+    "text": "So there's a mutual sense of responsibility, and even community, for everyone involved."
+  },
+  {
+    "startTime": 386.8,
+    "endTime": 393.2,
+    "text": "People trust their dabbawalas, and in turn, the dabbawalas know exactly who they're serving, and how to serve them."
+  },
+  {
+    "startTime": 393.4,
+    "endTime": 400.7,
+    "text": "In 1993, amidst repeated domestic bombings of the Mumbai Suburban Railway, the only riders who weren't frisked were the dabbawalas."
+  },
+  {
+    "startTime": 400.8,
+    "endTime": 406.1,
+    "text": "Their local communities knew who they were, and the dabbawalas knew if they were carrying a container that had been tampered with."
+  },
+  {
+    "startTime": 406.3,
+    "endTime": 413.44,
+    "text": "Imagine trusting your DoorDash driver with your life—I don't even trust my DoorDash driver not to spit in my food, I just accept that it's already been spat in."
+  },
+  {
+    "startTime": 413.44,
+    "endTime": 417.3,
+    "text": "So, maybe the problem we have is a lack of community and sense of trust in one another."
+  },
+  {
+    "startTime": 417.5,
+    "endTime": 419.2,
+    "text": "Or maybe it's capitalism."
+  },
+  {
+    "startTime": 419.3,
+    "endTime": 421.7,
+    "text": "Or maybe those are the same thing, I don't know."
+  },
+  {
+    "startTime": 421.7,
+    "endTime": 428.14,
+    "text": "Maybe try giving your DoorDash driver an unsolicited hug next time, you never know what might happen."
+  },
+  {
+    "startTime": 428.14,
+    "endTime": 435.3,
+    "text": "I, however, do know what will happen because I've already taken a course on probability theory from our sponsor, Brilliant.org."
+  },
+  {
+    "startTime": 435.3,
+    "endTime": 437.8,
+    "text": "And guess what, you're going to jail."
+  },
+  {
+    "startTime": 438.0,
+    "endTime": 443.6,
+    "text": "Brilliant.org is my go-to resource whenever I need to learn a new STEM skill quickly and efficiently."
+  },
+  {
+    "startTime": 443.7,
+    "endTime": 451.5,
+    "text": "They have courses on everything from neural networks, to Python, to circuitry—they even just put out a course on going viral on Twitter, not that I need it."
+  },
+  {
+    "startTime": 451.7,
+    "endTime": 456.2,
+    "text": "Their lessons are interactive, fun, and make even the most technical concepts easy to grasp."
+  },
+  {
+    "startTime": 456.4,
+    "endTime": 458.29999999999995,
+    "text": "And even better, they're quick."
+  },
+  {
+    "startTime": 458.5,
+    "endTime": 468.7,
+    "text": "No sitting down and studying long blocks of text—with Brilliant.org, you can learn these new concepts a few minutes at a time, knock out a lesson on the subway, do one in bed, cruise through a few in the shower—it's up to you."
+  },
+  {
+    "startTime": 468.9,
+    "endTime": 477.0,
+    "text": "So whether you're in school and trying not to forget too much over the summer, or a real adult just trying to know more stuff, I highly recommend you give Brilliant.org a try."
+  },
+  {
+    "startTime": 477.2,
+    "endTime": 485.679,
+    "text": "And it's never been easier because you can try everything they have to offer, free for a full 30 days if you visit brilliant.org.hai or click the link in the description."
+  },
+  {
+    "startTime": 485.679,
+    "endTime": 489.64,
+    "text": "You'll also get 20% off an annual premium subscription, so what are you waiting for?"
+  }
+]

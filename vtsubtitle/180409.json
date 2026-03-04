@@ -1,0 +1,482 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 12.0,
+    "text": "Okay, so I was listening to the Wired podcast this morning and they said something that really nailed the way I think about a lot of emerging technologies, especially AI."
+  },
+  {
+    "startTime": 12.0,
+    "endTime": 22.0,
+    "text": "What they said was WWDC, which we just had from Apple, basically proved that AI is a feature, not a product."
+  },
+  {
+    "startTime": 24.0,
+    "endTime": 33.0,
+    "text": "And this hit so hard for me because that's the exact question that we've been asking ourselves for so long here about new stuff."
+  },
+  {
+    "startTime": 33.0,
+    "endTime": 36.0,
+    "text": "Is it a feature or a product?"
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 37.0,
+    "text": "So I'll give you an example."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 39.0,
+    "text": "Do you remember Clubhouse?"
+  },
+  {
+    "startTime": 40.0,
+    "endTime": 48.0,
+    "text": "We've talked about this before, but Clubhouse back in the 2020s, like the pandemic era, it was this meteoric rise to success."
+  },
+  {
+    "startTime": 48.0,
+    "endTime": 54.0,
+    "text": "There was this platform that was just live audio stage events that would disappear after they were over."
+  },
+  {
+    "startTime": 54.0,
+    "endTime": 55.0,
+    "text": "And that's kind of all it was."
+  },
+  {
+    "startTime": 55.0,
+    "endTime": 56.0,
+    "text": "It was super simple."
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 59.0,
+    "text": "But with everybody sitting at home, it blew up in popularity."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 61.0,
+    "text": "It skyrockets to the top of the app store."
+  },
+  {
+    "startTime": 61.0,
+    "endTime": 62.0,
+    "text": "Everyone starts using it."
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 65.0,
+    "text": "It had major interviews happen on it."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 67.0,
+    "text": "Major new weekly shows were created on it."
+  },
+  {
+    "startTime": 67.0,
+    "endTime": 71.0,
+    "text": "There were huge, famous people participating in Clubhouses regularly."
+  },
+  {
+    "startTime": 71.0,
+    "endTime": 79.0,
+    "text": "But fast forward literally one year, maybe two, and suddenly Spotify had built this feature into their app."
+  },
+  {
+    "startTime": 79.0,
+    "endTime": 81.0,
+    "text": "Discord had built the feature into their app."
+  },
+  {
+    "startTime": 81.0,
+    "endTime": 82.0,
+    "text": "They built stages."
+  },
+  {
+    "startTime": 83.0,
+    "endTime": 85.0,
+    "text": "Slack had built it into their app."
+  },
+  {
+    "startTime": 85.0,
+    "endTime": 87.0,
+    "text": "Even Twitter had built it into their app."
+  },
+  {
+    "startTime": 87.0,
+    "endTime": 88.0,
+    "text": "They've got spaces now."
+  },
+  {
+    "startTime": 89.0,
+    "endTime": 94.0,
+    "text": "And so suddenly it was just a feature inside of these larger apps."
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 102.0,
+    "text": "So the question became, is Clubhouse, this huge thing that came out of nowhere, is this a product or is it just a feature?"
+  },
+  {
+    "startTime": 102.0,
+    "endTime": 109.0,
+    "text": "And it turned out the success of all of the features and all the other apps that built it in meant that Clubhouse would just die."
+  },
+  {
+    "startTime": 109.0,
+    "endTime": 111.0,
+    "text": "And a lot of the other ones eventually ended up dying."
+  },
+  {
+    "startTime": 111.0,
+    "endTime": 115.0,
+    "text": "I think we still have Twitter spaces, but generally it just became a feature."
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 120.0,
+    "text": "And there are actually many examples of these, which is why the product versus feature question still keeps coming up over and over again."
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 127.0,
+    "text": "So now the newest question, is AI a product or a feature?"
+  },
+  {
+    "startTime": 127.0,
+    "endTime": 130.0,
+    "text": "Because we got to see what it looked like as a standalone product."
+  },
+  {
+    "startTime": 130.0,
+    "endTime": 137.0,
+    "text": "We just had in 2024, we had the Humane AI pin, which was a dedicated piece of hardware specifically for engaging with an AI."
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 144.0,
+    "text": "We got the Rabbit R1, another device that promised to be like this physical embodiment of an assistant you have everywhere."
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 148.0,
+    "text": "Now both these devices were bad and they didn't work very well, but let's say they did."
+  },
+  {
+    "startTime": 148.0,
+    "endTime": 150.0,
+    "text": "Let's say they actually worked well and were fine."
+  },
+  {
+    "startTime": 150.0,
+    "endTime": 153.0,
+    "text": "That would be AI as a product."
+  },
+  {
+    "startTime": 153.0,
+    "endTime": 159.0,
+    "text": "And you can even consider like going to the ChatGPT website and using it there as AI as a product."
+  },
+  {
+    "startTime": 159.0,
+    "endTime": 168.0,
+    "text": "But then fast forward now to just a few months later, and we just had Apple's WWDC, and we also just had Google IO and very different approach."
+  },
+  {
+    "startTime": 168.0,
+    "endTime": 179.0,
+    "text": "Like look what happened with Apple, just like Clockwork, they went through and systematically added all these AI features sprinkled throughout a bunch of its operating systems."
+  },
+  {
+    "startTime": 179.0,
+    "endTime": 192.0,
+    "text": "So for example, inside of any app with the ability to write text, you now have these writing tools that pop up that are powered by these new language models that can help you summarize or proofread or change the tone or style of your writing."
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 195.0,
+    "text": "And then there's also a new Siri, you know, powered by these language models again."
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 205.0,
+    "text": "So it can hold conversations better and understand context better and use a semantic index to parse info about various files and things on your device and bring them into Siri's understanding."
+  },
+  {
+    "startTime": 205.0,
+    "endTime": 208.0,
+    "text": "You can literally generate images as a feature on your device."
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 210.0,
+    "text": "You can generate emojis."
+  },
+  {
+    "startTime": 210.0,
+    "endTime": 211.0,
+    "text": "The list goes on."
+  },
+  {
+    "startTime": 211.0,
+    "endTime": 221.0,
+    "text": "But the point is, it's clearly a very different way of thinking about AI for the consumer where it's just one of the features built into the thing that you use."
+  },
+  {
+    "startTime": 221.0,
+    "endTime": 223.0,
+    "text": "Now I realize this isn't a perfect analogy."
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 238.0,
+    "text": "I think probably the biggest flaw being that, you know, when they integrated these features, like when Slack, when Twitter built Spaces, when they built these features, they didn't integrate Clubhouse into those bigger websites."
+  },
+  {
+    "startTime": 238.0,
+    "endTime": 247.0,
+    "text": "They actually just took the idea of what Clubhouse is, which is just a live audio event on stage, and they built it themselves into their own apps."
+  },
+  {
+    "startTime": 248.0,
+    "endTime": 249.0,
+    "text": "So Clubhouse was left to die."
+  },
+  {
+    "startTime": 249.0,
+    "endTime": 253.0,
+    "text": "But in this specific case with Apple, it's actually a combination of two things."
+  },
+  {
+    "startTime": 253.0,
+    "endTime": 264.0,
+    "text": "It's them building a bunch of their own models to do a lot of these things on device, but then also them literally building a ChatGPT wrapper into a lot of their OS."
+  },
+  {
+    "startTime": 264.0,
+    "endTime": 268.0,
+    "text": "So ChatGPT actually gets more users this way."
+  },
+  {
+    "startTime": 268.0,
+    "endTime": 269.0,
+    "text": "So I thought this was fun to think about."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 274.0,
+    "text": "Now there is no answer yet as far as is AI actually a feature or a product?"
+  },
+  {
+    "startTime": 275.0,
+    "endTime": 276.0,
+    "text": "Which one will win?"
+  },
+  {
+    "startTime": 276.0,
+    "endTime": 276.0,
+    "text": "Which one will lose?"
+  },
+  {
+    "startTime": 276.0,
+    "endTime": 277.0,
+    "text": "We don't know."
+  },
+  {
+    "startTime": 277.0,
+    "endTime": 290.0,
+    "text": "But I think if history is any indication, I do think that more people in the long run are going to end up using this AI stuff as a feature more than going to like a standalone thing."
+  },
+  {
+    "startTime": 290.0,
+    "endTime": 306.0,
+    "text": "Like I was looking back for other examples of this, and I honestly found it really hard to find any examples of the other way around happening, where the individual product becomes far more successful than the same idea being baked as a feature into something larger."
+  },
+  {
+    "startTime": 306.0,
+    "endTime": 318.0,
+    "text": "Like I think TikTok is maybe the best example of this opposite version, where TikTok, it's a vertical video carousel with an algorithm that learns really quickly what video you want to see next, right?"
+  },
+  {
+    "startTime": 318.0,
+    "endTime": 320.0,
+    "text": "That's what TikTok is."
+  },
+  {
+    "startTime": 320.0,
+    "endTime": 323.0,
+    "text": "Like we've seen Instagram Reels develop that exact same thing."
+  },
+  {
+    "startTime": 323.0,
+    "endTime": 325.0,
+    "text": "Now it's a huge feature for them."
+  },
+  {
+    "startTime": 325.0,
+    "endTime": 326.0,
+    "text": "Same thing with YouTube Shorts."
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 332.0,
+    "text": "We've got all of YouTube, but inside of YouTube is this vertically scrolling carousel with an algorithm."
+  },
+  {
+    "startTime": 332.0,
+    "endTime": 336.0,
+    "text": "But I still think today we would say TikTok is the most popular version of that idea."
+  },
+  {
+    "startTime": 336.0,
+    "endTime": 342.0,
+    "text": "So the standalone version is winning currently over it being built in as a feature."
+  },
+  {
+    "startTime": 342.0,
+    "endTime": 344.0,
+    "text": "And maybe Snapchat is another one, kind of."
+  },
+  {
+    "startTime": 344.0,
+    "endTime": 350.0,
+    "text": "Like Snapchat Stories was one of the biggest features in Snapchat, and then that kind of got ripped into being a feature everywhere else."
+  },
+  {
+    "startTime": 350.0,
+    "endTime": 355.0,
+    "text": "Like everyone has Stories, but Snapchat by itself is doing well."
+  },
+  {
+    "startTime": 355.0,
+    "endTime": 367.0,
+    "text": "But anyway, the question is, do you have to get all the way to the level of Snapchat or TikTok in order to be successful as a standalone product to defeat the fact that your thing could just become a feature somewhere?"
+  },
+  {
+    "startTime": 367.0,
+    "endTime": 369.0,
+    "text": "But yeah, that is now the question with AI."
+  },
+  {
+    "startTime": 369.0,
+    "endTime": 375.0,
+    "text": "It just struck me as such a difference in approach between the product and the feature version of it."
+  },
+  {
+    "startTime": 375.0,
+    "endTime": 387.0,
+    "text": "And it also struck me that, yeah, it feels like Rabbit and Humane were kind of doomed from the start because there's no way they would also develop all the other benefits of the big things, those being smartphones."
+  },
+  {
+    "startTime": 387.0,
+    "endTime": 407.0,
+    "text": "But also one more quick thing I wanted to highlight that I don't think got as much attention as it maybe deserved, which is all of these models that we've been talking about with WWDC, all the models under the umbrella of Apple Intelligence, the diffusion model, the image generation model, the language models are all built by Apple."
+  },
+  {
+    "startTime": 407.0,
+    "endTime": 413.0,
+    "text": "Like there was a whole moment on Twitter with a lot of confusion over just how integrated chat GPT is into iOS."
+  },
+  {
+    "startTime": 413.0,
+    "endTime": 416.0,
+    "text": "I think it's actually not really that integrated at all."
+  },
+  {
+    "startTime": 416.0,
+    "endTime": 420.0,
+    "text": "So Apple had to go through the work of obviously making all these models, but also training them all."
+  },
+  {
+    "startTime": 420.0,
+    "endTime": 422.0,
+    "text": "And so we've asked Apple about this."
+  },
+  {
+    "startTime": 422.0,
+    "endTime": 432.0,
+    "text": "They've had to go through finding publicly available data and licensing and doing that whole dance and spending the millions and millions of dollars required to make these models work."
+  },
+  {
+    "startTime": 432.0,
+    "endTime": 445.0,
+    "text": "So that is a really higher barrier to entry, but it's only the once in a while that the request is complex enough or deals with enough real world data, which isn't in Apple's training, that it actually asks, okay, can I go out to chat GPT?"
+  },
+  {
+    "startTime": 445.0,
+    "endTime": 450.0,
+    "text": "And it asks every single time, which feels about as unintegrated as it gets."
+  },
+  {
+    "startTime": 450.0,
+    "endTime": 456.0,
+    "text": "But generally, I think this is going to be something that's really hard for other companies, for any new companies to pull off."
+  },
+  {
+    "startTime": 456.0,
+    "endTime": 459.0,
+    "text": "This might be the last big set of models we get to see."
+  },
+  {
+    "startTime": 459.0,
+    "endTime": 471.0,
+    "text": "So unless you're Apple or Google or Microsoft or open AI, or any of the other massive ones that are safe because they'll get integrated now, probably don't have much of a shot."
+  },
+  {
+    "startTime": 471.0,
+    "endTime": 473.0,
+    "text": "But either way, this has been really interesting to think about AI."
+  },
+  {
+    "startTime": 474.0,
+    "endTime": 477.0,
+    "text": "Is it a product or a feature?"
+  },
+  {
+    "startTime": 477.0,
+    "endTime": 478.0,
+    "text": "Can it be both?"
+  },
+  {
+    "startTime": 478.0,
+    "endTime": 481.0,
+    "text": "Or does it have to be one or the other and one wins and the other loses?"
+  },
+  {
+    "startTime": 481.0,
+    "endTime": 483.0,
+    "text": "Let me know what you think in the comment section below."
+  },
+  {
+    "startTime": 483.0,
+    "endTime": 484.0,
+    "text": "We'll hang out there."
+  },
+  {
+    "startTime": 484.0,
+    "endTime": 485.0,
+    "text": "Either way."
+  },
+  {
+    "startTime": 486.0,
+    "endTime": 486.0,
+    "text": "Thanks for watching."
+  },
+  {
+    "startTime": 486.0,
+    "endTime": 487.0,
+    "text": "Thanks for subscribing."
+  },
+  {
+    "startTime": 488.0,
+    "endTime": 489.0,
+    "text": "And I'll catch you guys in the next one."
+  },
+  {
+    "startTime": 490.0,
+    "endTime": 490.0,
+    "text": " Peace."
+  }
+]

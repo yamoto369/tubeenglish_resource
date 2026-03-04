@@ -1,0 +1,402 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 2.9,
+    "text": "You can't learn another language without understanding the phrase, POOP."
+  },
+  {
+    "startTime": 3.5,
+    "endTime": 4.8,
+    "text": "POOP?"
+  },
+  {
+    "startTime": 4.7,
+    "endTime": 7.4,
+    "text": "But what does POOP mean?"
+  },
+  {
+    "startTime": 7.6,
+    "endTime": 8.4,
+    "text": "Watch closely."
+  },
+  {
+    "startTime": 8.6,
+    "endTime": 11.0,
+    "text": "Practice often, obtain proficiency."
+  },
+  {
+    "startTime": 11.0,
+    "endTime": 13.0,
+    "text": "Ah, POOP."
+  },
+  {
+    "startTime": 13.0,
+    "endTime": 16.0,
+    "text": "Looks like Mr. Squarepants understands POOP."
+  },
+  {
+    "startTime": 16.0,
+    "endTime": 20.8,
+    "text": "Why am I holding the dialogue for all 299 episodes of Spongebob Squarepants?"
+  },
+  {
+    "startTime": 21.1,
+    "endTime": 21.6,
+    "text": "Welcome to the internet."
+  },
+  {
+    "startTime": 21.8,
+    "endTime": 28.0,
+    "text": "A lot of people say that you should start learning a language by watching kids' TV shows, so I wanted to put that suggestion to the test using data."
+  },
+  {
+    "startTime": 28.0,
+    "endTime": 32.3,
+    "text": "Using code I've developed to model how we learn languages, I've got answers, and they blew me away."
+  },
+  {
+    "startTime": 32.5,
+    "endTime": 44.0,
+    "text": "And specifically, using the Emmy award-winning dialogue from Spongebob and comparing that to the '90s sitcom Friends, let's explore what a 100-day language learning challenge would look like when we compare a kids' show versus content for adults."
+  },
+  {
+    "startTime": 48.6,
+    "endTime": 53.1,
+    "text": "Using amateur data science and language learner overconfidence, I wanted to answer two questions."
+  },
+  {
+    "startTime": 53.3,
+    "endTime": 57.5,
+    "text": "First, can you learn the basics of a language with a show like Spongebob or any other kids' show?"
+  },
+  {
+    "startTime": 57.7,
+    "endTime": 62.6,
+    "text": "And second, with an eye for dialogue and word choice, how do kids' shows differ from shows for adults?"
+  },
+  {
+    "startTime": 62.8,
+    "endTime": 70.6,
+    "text": "We all know that you need to spend a meaningful amount of time with a language in order to learn it, but at the beginning, it's a challenge to find things that will make you grow and are also engaging."
+  },
+  {
+    "startTime": 70.9,
+    "endTime": 79.2,
+    "text": "Following the input hypothesis of famous linguist Stephen Krashen, your goal is to find content and materials that's engaging but just outside your current skill set."
+  },
+  {
+    "startTime": 79.3,
+    "endTime": 89.2,
+    "text": "Like many, you may be tempted to start with a kids' show like Spongebob to learn English, or Die Sendung mit der Maus for German or Dora the Explorer in Español for Spanish or the show Bluey for basically any language."
+  },
+  {
+    "startTime": 89.4,
+    "endTime": 99.0,
+    "text": "Compared to regular content, especially in 2024, the pacing of kids' shows is a lot slower, with pauses for you to take in what's going on and plenty of colorful visuals to help aid in understanding the story."
+  },
+  {
+    "startTime": 99.2,
+    "endTime": 102.4,
+    "text": "Now let's take a look at some data and zoom out on the numbers for Spongebob."
+  },
+  {
+    "startTime": 102.6,
+    "endTime": 111.19999999999999,
+    "text": "The show currently has 299 episodes so far, and each episode has around 2,100 spoken words, which is in line with other kids' shows like Paw Patrol."
+  },
+  {
+    "startTime": 111.3,
+    "endTime": 117.0,
+    "text": "Most of the dialogue comes from the sponge himself, but you'll get used to other speaking patterns as different characters join in."
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 125.3,
+    "text": "Let's simulate a 100-day language learning challenge where you watch one episode per day of a kids' show in your target language, and let's see what Bikini Bottom has to offer."
+  },
+  {
+    "startTime": 125.4,
+    "endTime": 136.0,
+    "text": "To maximize your comprehension and enjoyment, use a tool like Language Reactor so you can have dual language subtitles, though it's helpful to transition to watching just with subtitles in the language that you're trying to learn at some point."
+  },
+  {
+    "startTime": 136.1,
+    "endTime": 140.0,
+    "text": "The first episode begins to play and you follow along, and by the end, you've heard Spongebob say:"
+  },
+  {
+    "startTime": 140.0,
+    "endTime": 142.1,
+    "text": "\"I'm ready!\""
+  },
+  {
+    "startTime": 142.3,
+    "endTime": 145.4,
+    "text": "27 times as he's applying for a job at the Krusty Krab."
+  },
+  {
+    "startTime": 145.5,
+    "endTime": 151.0,
+    "text": "And in the next episode, you've mastered the elements of water and air as Spongebob visits Sandy's Tree Dome."
+  },
+  {
+    "startTime": 151.2,
+    "endTime": 161.39999999999998,
+    "text": "Like we've covered in previous episodes, while there is a debate in academia about how quickly you can acquire words, a good conservative estimate is that you need to hear a word 20 times in context to have acquired it."
+  },
+  {
+    "startTime": 161.6,
+    "endTime": 165.1,
+    "text": "So by the 20th time that you've seen most words, you can count it towards your vocabulary."
+  },
+  {
+    "startTime": 165.4,
+    "endTime": 173.70000000000002,
+    "text": "So let's take all 21,327 unique words used in Spongebob and see how quickly your vocabulary grows as you go through a 100-day challenge."
+  },
+  {
+    "startTime": 173.9,
+    "endTime": 180.0,
+    "text": "With these assumptions, you're learning around 10 new words per episode, though this pace does slow a little bit as your vocabulary expands."
+  },
+  {
+    "startTime": 180.2,
+    "endTime": 188.39999999999998,
+    "text": "After a 100-day challenge with a kid's show, as you start learning a language, like with Spongebob here, you could familiarize yourself with more than 1,000 words."
+  },
+  {
+    "startTime": 188.5,
+    "endTime": 193.3,
+    "text": "In a minute, we'll get to what types of words you learn from a show like Spongebob, but spoiler alert, it's very compelling."
+  },
+  {
+    "startTime": 193.5,
+    "endTime": 204.0,
+    "text": "Plus, if you take your watching a little bit more seriously and add in vocab note cards with a tool like Anki, or if you do any formal language study, you can speed up the pace of your learning and increase your enjoyment of what you watch."
+  },
+  {
+    "startTime": 204.0,
+    "endTime": 209.0,
+    "text": "But where this really gets fascinating is if you compare the learning you can do with a kid's show versus regular TV."
+  },
+  {
+    "startTime": 209.0,
+    "endTime": 213.2,
+    "text": "Let's compare Spongebob to a 100-day challenge with the show Friends."
+  },
+  {
+    "startTime": 213.3,
+    "endTime": 215.0,
+    "text": "What the heck?"
+  },
+  {
+    "startTime": 216.1,
+    "endTime": 217.0,
+    "text": "Is this a joke?"
+  },
+  {
+    "startTime": 217.0,
+    "endTime": 219.6,
+    "text": "\"No, this is Patrick.\""
+  },
+  {
+    "startTime": 219.8,
+    "endTime": 224.0,
+    "text": "You learn roughly the same number of words if you watch Spongebob as if you had watched Friends?"
+  },
+  {
+    "startTime": 224.0,
+    "endTime": 229.6,
+    "text": "The answer to our first question is that a few months with a kid's show can help you lay the foundation for learning a language."
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 238.6,
+    "text": "And it may even be better as a beginner than watching regular TV because each episode of Spongebob only has 2,100 words, while each episode of Friends has 3,300 words."
+  },
+  {
+    "startTime": 238.7,
+    "endTime": 242.0,
+    "text": "So you're hearing fewer words overall in kid's shows, but you're not learning less."
+  },
+  {
+    "startTime": 242.0,
+    "endTime": 249.3,
+    "text": "That means that either the characters are speaking slower or there are more pauses for you to understand what's going on, both of which are challenges for people beginning in a language."
+  },
+  {
+    "startTime": 249.4,
+    "endTime": 252.6,
+    "text": "But how can it be that there's less dialogue but you're still learning at the same rate?"
+  },
+  {
+    "startTime": 252.7,
+    "endTime": 258.9,
+    "text": "As you'd expect from kid's programming, Spongebob and other similar shows are using common, simpler words more often."
+  },
+  {
+    "startTime": 259.0,
+    "endTime": 269.0,
+    "text": "If we control for the fact that there are more spoken words in each episode of Friends, these common and simple words show up in Spongebob up to 50% more than we would have expected compared to regular programming."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 278.0,
+    "text": "This is especially true for the vocab words that have crossed that 20 exposure threshold in your 100-day challenge, so it's clear from the data that kid's shows use simple words more often."
+  },
+  {
+    "startTime": 278.0,
+    "endTime": 285.4,
+    "text": "For kid's shows, the visual cues help you understand what's being said, and the pauses and slower dialogue also mean you can understand at a more comfortable pace."
+  },
+  {
+    "startTime": 285.5,
+    "endTime": 290.8,
+    "text": "Obviously, you need to find a kid's show that you'd be willing to watch, but the data speaks for itself."
+  },
+  {
+    "startTime": 290.9,
+    "endTime": 296.4,
+    "text": "So a kid's show can keep pace with the words that you would learn from a full-fledged sitcom, but we need to address that second question."
+  },
+  {
+    "startTime": 296.5,
+    "endTime": 301.0,
+    "text": "What are the differences between kid's shows and shows for adults in terms of dialogue and word choice?"
+  },
+  {
+    "startTime": 301.2,
+    "endTime": 309.09999999999997,
+    "text": "Because surely, Spongebob is just poisoning your mind with C puns and made-up holidays."
+  },
+  {
+    "startTime": 309.3,
+    "endTime": 317.0,
+    "text": "Nope! 65% of the unique words that you learn from Spongebob or Friends after a 100-day challenge are shared between both shows."
+  },
+  {
+    "startTime": 317.0,
+    "endTime": 323.5,
+    "text": "And that number goes up if we account for the fact that common words like 'go' and 'have' and 'good' come up a lot more in conversation."
+  },
+  {
+    "startTime": 323.6,
+    "endTime": 329.5,
+    "text": "Plus, both shows have a lot of words in common that are valuable to know in a language, like 'love' and 'thinking' and 'already.'"
+  },
+  {
+    "startTime": 329.8,
+    "endTime": 336.2,
+    "text": "On the other hand, of course, Friends has more words related to being a grown-up like 'wedding' and 'kissing' and 'pregnant,'"
+  },
+  {
+    "startTime": 336.4,
+    "endTime": 341.79999999999995,
+    "text": "and Spongebob stays true to its nautical nonsense with words like 'jellyfish' and 'pickles' and 'treasure.'"
+  },
+  {
+    "startTime": 342.0,
+    "endTime": 348.6,
+    "text": "But looking at the words not shared between the two shows highlights how language gets tailored based on your interests and your life stage."
+  },
+  {
+    "startTime": 348.7,
+    "endTime": 354.0,
+    "text": "A big part of the overlap is because both adult shows and kid's shows will cover common words at a similar rate."
+  },
+  {
+    "startTime": 354.0,
+    "endTime": 364.0,
+    "text": "If we look at the first 200 episodes of both Spongebob and Friends, both shows have covered roughly 700 of the 1,000 most common words at least 20 times."
+  },
+  {
+    "startTime": 364.0,
+    "endTime": 368.4,
+    "text": "And more than 900 of the top 1,000 words are covered at least once in both shows."
+  },
+  {
+    "startTime": 368.6,
+    "endTime": 374.20000000000005,
+    "text": "The takeaway is that many words in kid's shows will translate to interactions and other content in your target language."
+  },
+  {
+    "startTime": 374.3,
+    "endTime": 382.8,
+    "text": "And on top of the individual words, the more that you watch, the more you'll get a feel for conversation, dialogue, and the music of your target language just by watching a kid's show."
+  },
+  {
+    "startTime": 383.2,
+    "endTime": 384.9,
+    "text": "Two other interesting factors also come up."
+  },
+  {
+    "startTime": 385.2,
+    "endTime": 388.0,
+    "text": "There are often more characters to juggle for regular TV shows."
+  },
+  {
+    "startTime": 388.0,
+    "endTime": 394.4,
+    "text": "So for kid's TV shows, you won't need to worry about as many mannerisms or accents if fewer characters are doing most of the talking."
+  },
+  {
+    "startTime": 394.6,
+    "endTime": 399.0,
+    "text": "This could be an advantage or a disadvantage depending on what your goal is, but I thought it was interesting to point out."
+  },
+  {
+    "startTime": 399.3,
+    "endTime": 409.40000000000003,
+    "text": "The other factor is that the exaggerated talking patterns for most kid's shows convey the emotional tone of what's being said and can help you feel less lost if you don't understand the exact meaning of what's being said."
+  },
+  {
+    "startTime": 409.7,
+    "endTime": 416.2,
+    "text": "These bigger, dramatic scenes and movements are more memorable and can serve as sort of a mnemonic device to help words stick better in the language."
+  },
+  {
+    "startTime": 416.3,
+    "endTime": 420.2,
+    "text": "And to go on from here, the last question is how best to use kid's content if you want to learn a language."
+  },
+  {
+    "startTime": 420.3,
+    "endTime": 428.7,
+    "text": "It makes sense that you should watch a kid's TV show at the beginning of your language-learning journey because you'll benefit most from the slower dialogue and the more obvious storytelling elements."
+  },
+  {
+    "startTime": 428.9,
+    "endTime": 436.2,
+    "text": "I'd recommend finding a kid's TV show that's close to the type of content that you'd actually want to watch because if you stop watching, then you're not going to learn anything."
+  },
+  {
+    "startTime": 436.3,
+    "endTime": 443.1,
+    "text": "But as we saw before with the learning curves for both Spongebob and Friends, you can watch hundreds of episodes of the same show and still continue learning."
+  },
+  {
+    "startTime": 443.2,
+    "endTime": 449.3,
+    "text": "That being said, when your interest starts to fade and you want another challenge, move on to other TV shows and books in your target language."
+  },
+  {
+    "startTime": 449.5,
+    "endTime": 458.2,
+    "text": "Let me know in a comment your thoughts on this approach and if you've watched any kid's TV shows that you really recommend, please do subscribe to the channel for more database explorations like this and share the video if you liked it."
+  },
+  {
+    "startTime": 458.3,
+    "endTime": 459.1,
+    "text": "That's all I've got for this one."
+  },
+  {
+    "startTime": 459.4,
+    "endTime": 460.2,
+    "text": "Catch you in the next one."
+  },
+  {
+    "startTime": 460.6,
+    "endTime": 464.0,
+    "text": "It's time for the moment you've been waiting for."
+  }
+]
