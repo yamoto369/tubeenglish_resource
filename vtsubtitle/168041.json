@@ -1,0 +1,202 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 2.44,
+    "text": "If you want to know where you are, you can check on your phone."
+  },
+  {
+    "startTime": 2.44,
+    "endTime": 5.699999999999999,
+    "text": "It listens for signals from whole constellations of satellites in orbit,"
+  },
+  {
+    "startTime": 5.8,
+    "endTime": 11.768,
+    "text": "and by triangulating all those signals and using a lot of maths, it works out where you are and shows you a little dot on a map."
+  },
+  {
+    "startTime": 11.76,
+    "endTime": 14.34,
+    "text": "But how do the satellites know where they are?"
+  },
+  {
+    "startTime": 14.34,
+    "endTime": 17.64,
+    "text": "There aren't any landmarks in orbit for them to refer to."
+  },
+  {
+    "startTime": 17.64,
+    "endTime": 22.02,
+    "text": "If satellites are in a high enough orbit, well away from the atmosphere, then they can predict their position."
+  },
+  {
+    "startTime": 22.02,
+    "endTime": 26.42,
+    "text": "They'll just keep orbiting in about the same path: there's no atmosphere to slow them down."
+  },
+  {
+    "startTime": 26.42,
+    "endTime": 28.310000000000002,
+    "text": "But that's not precise enough."
+  },
+  {
+    "startTime": 28.31,
+    "endTime": 33.31,
+    "text": "There will be distortions caused by gravity from the sun and moon, or even from mountain ranges down on Earth."
+  },
+  {
+    "startTime": 33.31,
+    "endTime": 36.730000000000004,
+    "text": "So maybe they could use the other satellite signals, like GPS."
+  },
+  {
+    "startTime": 36.73,
+    "endTime": 41.919999999999995,
+    "text": "But if they're all relying on each other, that could steadily drift apart from reality."
+  },
+  {
+    "startTime": 41.92,
+    "endTime": 46.43,
+    "text": "Maybe they could track the stars or the features down on Earth, but that's not precise enough either."
+  },
+  {
+    "startTime": 46.43,
+    "endTime": 53.269999999999996,
+    "text": "At some point, something down here on Earth has to look up in the sky and work out the position precisely."
+  },
+  {
+    "startTime": 53.27,
+    "endTime": 56.690000000000005,
+    "text": "And one of those somethings is hidden away in the countryside of southern England."
+  },
+  {
+    "startTime": 56.69,
+    "endTime": 60.94,
+    "text": "It looks like a regular observatory, but it's not looking at the stars."
+  },
+  {
+    "startTime": 60.94,
+    "endTime": 65.03999999999999,
+    "text": "We track manmade satellites in various orbits doing various jobs."
+  },
+  {
+    "startTime": 65.04,
+    "endTime": 69.27000000000001,
+    "text": "They all have to have special reflectors on that enables the light to be returned to us."
+  },
+  {
+    "startTime": 69.27,
+    "endTime": 74.84,
+    "text": "Uh, and so we can measure the time of flight, and from the time of flight, derive the distance."
+  },
+  {
+    "startTime": 74.84,
+    "endTime": 79.73,
+    "text": "You send out a very short pulse of laser light. You do that a thousand times a second."
+  },
+  {
+    "startTime": 79.73,
+    "endTime": 87.68,
+    "text": "Each of those shots, because you're using such a tiny short-pulsed laser, is 10 picoseconds long, which is about 3mm."
+  },
+  {
+    "startTime": 87.68,
+    "endTime": 92.72000000000001,
+    "text": "That's the limitation on your precision. So each shot is about 3-4mm precision."
+  },
+  {
+    "startTime": 92.72,
+    "endTime": 95.38,
+    "text": "This station works around the clock, whenever the sky is clear."
+  },
+  {
+    "startTime": 95.38,
+    "endTime": 101.11999999999999,
+    "text": "That's why I'm here today: there will be some genuine observations when the clouds break, but right now, I'm not actually disrupting anything."
+  },
+  {
+    "startTime": 101.12,
+    "endTime": 104.64,
+    "text": "But it does look significantly better after dark."
+  },
+  {
+    "startTime": 104.64,
+    "endTime": 110.67,
+    "text": "Because it's a laser, it's a very specific wavelength, so you can filter, and that's what lets you work in day and night."
+  },
+  {
+    "startTime": 110.67,
+    "endTime": 115.18,
+    "text": "The main problem with the atmosphere is: the speed of light in a vacuum is a very well known constant."
+  },
+  {
+    "startTime": 115.18,
+    "endTime": 120.65,
+    "text": "The speed of light through the atmosphere is variable according to the mainly the pressure, but also temperature and humidity."
+  },
+  {
+    "startTime": 120.65,
+    "endTime": 122.72,
+    "text": "So we measure those things on site, as well."
+  },
+  {
+    "startTime": 122.72,
+    "endTime": 131.84,
+    "text": "There's probably about 35 active stations scattered around the globe, located predominantly in the northern hemisphere, which is a slight problem from a science point of view."
+  },
+  {
+    "startTime": 131.84,
+    "endTime": 134.04,
+    "text": "You'd like them evenly distributed all around the globe."
+  },
+  {
+    "startTime": 134.04,
+    "endTime": 139.63,
+    "text": "There's a couple in Australia which are really important because they're providing a bulk of the data from southern hemisphere."
+  },
+  {
+    "startTime": 139.63,
+    "endTime": 141.74,
+    "text": "Ideally, we'd have a more even distribution."
+  },
+  {
+    "startTime": 141.74,
+    "endTime": 148.72,
+    "text": "Of course, as the light fades, there's one assumption that we've been working on throughout this video: that the earth, the ground we're standing on, doesn't move."
+  },
+  {
+    "startTime": 148.72,
+    "endTime": 150.76,
+    "text": "And that's not strictly true."
+  },
+  {
+    "startTime": 150.76,
+    "endTime": 160.34,
+    "text": "In the early days of laser ranging, in the 60s, it was the primary method by which they were deriving those early measurements of the drift between us and North America."
+  },
+  {
+    "startTime": 160.34,
+    "endTime": 166.66,
+    "text": "So you can see long-term trends, like the ice caps melting and the redistribution of mass from the ice caps to the equator."
+  },
+  {
+    "startTime": 166.66,
+    "endTime": 171.52,
+    "text": "All the data goes off to international databases, from all the sites all around the world."
+  },
+  {
+    "startTime": 171.52,
+    "endTime": 179.45000000000002,
+    "text": "Anyone, any researcher, anywhere can go and grab the international data set, the data from us, from Australia, from North America, from China, from Russia,"
+  },
+  {
+    "startTime": 179.45,
+    "endTime": 183.26,
+    "text": "and can use that data to derive the orbits and do the research they need to do."
+  },
+  {
+    "startTime": 183.26,
+    "endTime": 189.44,
+    "text": "Thanks very much to all the team at the Space Geodesy Facility. You can find out more about them and their work at the link in the description."
+  }
+]
