@@ -1,0 +1,457 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.0,
+    "text": "This video is sponsored by Ground News."
+  },
+  {
+    "startTime": 3.0,
+    "endTime": 6.8,
+    "text": "Your friends are statistically likely to have more friends than you."
+  },
+  {
+    "startTime": 6.8,
+    "endTime": 10.379999999999999,
+    "text": "Sounds funny but it's an actual phenomenon called the 'friendship paradox'."
+  },
+  {
+    "startTime": 10.7,
+    "endTime": 20.5,
+    "text": "It's a paradox that doesn't only apply to friendships, but also to other areas of your life such as dating, social media, sports and pretty much most things that can be described as a social network."
+  },
+  {
+    "startTime": 20.7,
+    "endTime": 25.2,
+    "text": "We're going to be looking at how this paradox affects your life and why it's good to be aware of it."
+  },
+  {
+    "startTime": 25.4,
+    "endTime": 28.2,
+    "text": "I also asked my audience to participate in an experiment."
+  },
+  {
+    "startTime": 28.2,
+    "endTime": 35.8,
+    "text": "I analyzed the Twitter accounts of 89 of my subscribers to find out if their followers have more followers than them and to see if the friendship paradox applies."
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 40.0,
+    "text": "But before we dive into that, let's try to understand: how does this paradox work?"
+  },
+  {
+    "startTime": 40.2,
+    "endTime": 46.300000000000004,
+    "text": "If our friends have more friends than us then the paradox can't possibly be true for them as well, right?"
+  },
+  {
+    "startTime": 46.5,
+    "endTime": 51.408,
+    "text": "Let's imagine a classroom with 9 students. "
+  },
+  {
+    "startTime": 51.408,
+    "endTime": 54.06,
+    "text": "Let's assume everyone has 2 friends."
+  },
+  {
+    "startTime": 54.06,
+    "endTime": 58.0,
+    "text": "In this scenario, the friendship paradox is not true for anyone right now."
+  },
+  {
+    "startTime": 58.1,
+    "endTime": 61.14,
+    "text": "Everyone's friends also have two friends each."
+  },
+  {
+    "startTime": 61.14,
+    "endTime": 68.04,
+    "text": "However, in almost every social network, there are people with more connections than others."
+  },
+  {
+    "startTime": 68.04,
+    "endTime": 81.39,
+    "text": "Let's add a tenth person who's a bit more popular than his colleagues."
+  },
+  {
+    "startTime": 81.39,
+    "endTime": 88.0,
+    "text": "He's friends with six people. Let's see what that does to the network."
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 91.4,
+    "text": "Let's start with the people on the sides who are not connected to him"
+  },
+  {
+    "startTime": 91.6,
+    "endTime": 94.89999999999999,
+    "text": "The people on the edges continue having two friends, "
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 99.0,
+    "text": "but now those friends have three friends each, since they are now connected to the popular guy."
+  },
+  {
+    "startTime": 99.0,
+    "endTime": 103.32,
+    "text": "So the friendship paradox is now true for this case."
+  },
+  {
+    "startTime": 103.32,
+    "endTime": 109.38,
+    "text": "The people in the middle now have 3 friends, but those friends have an average of 3.7 friends."
+  },
+  {
+    "startTime": 109.38,
+    "endTime": 113.39999999999999,
+    "text": "That's because they're now friends with the popular guy who skews the average up."
+  },
+  {
+    "startTime": 113.4,
+    "endTime": 117.80000000000001,
+    "text": "So the friendship paradox is also true for the people in the middle."
+  },
+  {
+    "startTime": 118.0,
+    "endTime": 123.5,
+    "text": "The only one who is not affected by the friendship paradox is the popular guy, who has way more friends than his friends."
+  },
+  {
+    "startTime": 123.7,
+    "endTime": 128.0,
+    "text": "In this scenario, the friendship paradox is true for 90% of the classroom."
+  },
+  {
+    "startTime": 128.2,
+    "endTime": 131.1,
+    "text": "It's actually a simple phenomenon if you think about it:"
+  },
+  {
+    "startTime": 131.1,
+    "endTime": 134.2,
+    "text": "Popular people are friends with many people."
+  },
+  {
+    "startTime": 134.2,
+    "endTime": 139.0,
+    "text": "Therefore, they are more likely to be your friends and they skew the average up."
+  },
+  {
+    "startTime": 139.0,
+    "endTime": 143.34,
+    "text": "Social networks often have a small group of people with many connections."
+  },
+  {
+    "startTime": 143.34,
+    "endTime": 147.3,
+    "text": "This phenomenon is actually quite common in other real-world networks as well."
+  },
+  {
+    "startTime": 147.7,
+    "endTime": 155.22,
+    "text": "Networks are often concentrated around certain points, or nodes, the technical term, that have more connections than the remaining nodes."
+  },
+  {
+    "startTime": 155.22,
+    "endTime": 157.44,
+    "text": "For example, this affects online networks."
+  },
+  {
+    "startTime": 157.44,
+    "endTime": 162.0,
+    "text": "There's a Facebook dataset collected by Stanford with data from 4000 volunteers."
+  },
+  {
+    "startTime": 162.0,
+    "endTime": 169.5,
+    "text": "If we look at this data, we see that 87% of those people have fewer Facebook friends than their Facebook friends."
+  },
+  {
+    "startTime": 169.7,
+    "endTime": 173.45999999999998,
+    "text": "The friendship paradox is also visible in transportation networks."
+  },
+  {
+    "startTime": 173.46,
+    "endTime": 182.8,
+    "text": "If we look at the Eurail train network, we see that each city is connected to 2.7 cities on average whereas their neighboors are connected to 3.8 cities."
+  },
+  {
+    "startTime": 183.0,
+    "endTime": 188.8,
+    "text": "There's a group of central stations which have more connections than their neighboors and are responsible for most of the traffic."
+  },
+  {
+    "startTime": 189.0,
+    "endTime": 193.2,
+    "text": "Notice how most of them are European capitals."
+  },
+  {
+    "startTime": 193.2,
+    "endTime": 204.6,
+    "text": "This phenomenon is also relevant to understand how diseases spread."
+  },
+  {
+    "startTime": 204.8,
+    "endTime": 210.0,
+    "text": "People with more social connections are more likely to catch and spread infections."
+  },
+  {
+    "startTime": 210.0,
+    "endTime": 213.0,
+    "text": "So, how does this affect your life?"
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 217.26,
+    "text": "In dating, it's more likely that your partners have had more partners than you."
+  },
+  {
+    "startTime": 217.26,
+    "endTime": 220.26,
+    "text": "In my previous video, I made a simulation of a dating app."
+  },
+  {
+    "startTime": 220.4,
+    "endTime": 227.1,
+    "text": "In this simulation, 78% of users who got matches matched with people that had more matches than them."
+  },
+  {
+    "startTime": 227.368,
+    "endTime": 238.6,
+    "text": "When you play Call of Duty or Fifa online and you get trashed by someone, there's a good chance that on the other side, there's a person who plays more often and against more people than you."
+  },
+  {
+    "startTime": 238.6,
+    "endTime": 243.2,
+    "text": "When you go to the gym, it's more likely that the people you find there go to the gym more often than you."
+  },
+  {
+    "startTime": 243.4,
+    "endTime": 248.74,
+    "text": "Therefore, it's normal if they are in better shape than you."
+  },
+  {
+    "startTime": 247.9,
+    "endTime": 252.6,
+    "text": "Even though the friendship paradox is easy to understand, it's not always intuitive and it's a common bias."
+  },
+  {
+    "startTime": 252.8,
+    "endTime": 259.1,
+    "text": "We would think that our friends are a fairy representative sample of typical people, but that's not always true."
+  },
+  {
+    "startTime": 259.3,
+    "endTime": 262.02000000000004,
+    "text": "In this case, they have more friends than the typical person."
+  },
+  {
+    "startTime": 262.3,
+    "endTime": 265.38,
+    "text": "In statistics, this is called a sampling bias:"
+  },
+  {
+    "startTime": 265.38,
+    "endTime": 270.18,
+    "text": "When our sample of data points is biased in a way that does not represent the entire population."
+  },
+  {
+    "startTime": 270.8,
+    "endTime": 275.0,
+    "text": "That's why we should be careful when we make generalizations from the things we see."
+  },
+  {
+    "startTime": 275.0,
+    "endTime": 280.8,
+    "text": "We often understand reality through social networks. We follow newspapers, influencers and friends."
+  },
+  {
+    "startTime": 281.0,
+    "endTime": 286.8,
+    "text": "We might think they give us an accurate image of the world, but they can also suffer from a sampling bias."
+  },
+  {
+    "startTime": 287.0,
+    "endTime": 290.34,
+    "text": "Today's sponsor tries to remove the sampling bias from your news."
+  },
+  {
+    "startTime": 290.34,
+    "endTime": 296.5,
+    "text": "Ground News is a website and app that allows you to see how the same story is told by left, center and right sources."
+  },
+  {
+    "startTime": 296.5,
+    "endTime": 301.14,
+    "text": "For example, if you want to learn more about how Elon Musk restricted satellite service to Ukraine,"
+  },
+  {
+    "startTime": 301.14,
+    "endTime": 307.2,
+    "text": "you can see if most of the sources reporting this news lean left or right, and you can see how it was reported by each side."
+  },
+  {
+    "startTime": 307.32,
+    "endTime": 316.2,
+    "text": "So in this case, some left leaning sources emphasize the fact that Elon Musk interfered with Ukraine whereas right leaning sources put more emphasis on the fact that he prevented an attack."
+  },
+  {
+    "startTime": 316.32,
+    "endTime": 322.08,
+    "text": "They have a feature called blindspot that shows you stories that are disproportionately covered by one side of the political spectrum."
+  },
+  {
+    "startTime": 322.08,
+    "endTime": 326.09999999999997,
+    "text": "They also have a phone app and you can get a personalized feed based on your interests."
+  },
+  {
+    "startTime": 326.1,
+    "endTime": 333.1,
+    "text": "The amount of bias in news is one of the reasons why I use data to tell my stories and one of the reasons why I created this channel in the first place."
+  },
+  {
+    "startTime": 333.3,
+    "endTime": 337.38,
+    "text": "Personally, I think it's very healthy to look at the perspective from opposite views, "
+  },
+  {
+    "startTime": 337.38,
+    "endTime": 340.8,
+    "text": "even if it makes us feel uncomfortable, and I love what Ground News is doing here."
+  },
+  {
+    "startTime": 341.0,
+    "endTime": 345.2,
+    "text": "They even have a feature called My News Bias, which is a dashboard for your news consumption."
+  },
+  {
+    "startTime": 345.4,
+    "endTime": 353.0,
+    "text": "It's only available through their Vantage plan and if you subscribe through my link, you get 30% off and it would be a big support to my channel."
+  },
+  {
+    "startTime": 353.0,
+    "endTime": 355.4,
+    "text": "Now let's see the results of our Twitter experiment."
+  },
+  {
+    "startTime": 355.6,
+    "endTime": 358.08000000000004,
+    "text": "I asked my audience to share their Twitter usernames."
+  },
+  {
+    "startTime": 358.3,
+    "endTime": 366.3,
+    "text": "The goal here is to find their number of followers, and then compare that with the number of followers of the followers to see if the friendship paradox is true for them."
+  },
+  {
+    "startTime": 366.42,
+    "endTime": 372.0,
+    "text": "I also gave the participants the option to remain anonymous, so some of them will have nicknames."
+  },
+  {
+    "startTime": 372.0,
+    "endTime": 375.6,
+    "text": "89 people participated in the survey."
+  },
+  {
+    "startTime": 375.8,
+    "endTime": 381.0,
+    "text": "Of these people, seven provided non-existent usernames so I excluded them."
+  },
+  {
+    "startTime": 381.0,
+    "endTime": 384.8,
+    "text": "One person claimed to be Elon Musk, so I decided to exclude them as well."
+  },
+  {
+    "startTime": 385.0,
+    "endTime": 390.3,
+    "text": "Elon, if it's really you watching my videos then I'm sorry, but I can't afford to analyze all your followers."
+  },
+  {
+    "startTime": 390.42,
+    "endTime": 393.1,
+    "text": "The next step was to get the number of followers for everyone."
+  },
+  {
+    "startTime": 393.3,
+    "endTime": 398.447,
+    "text": "I signed up for Twitter's API and after some work I got the follower count per user."
+  },
+  {
+    "startTime": 398.447,
+    "endTime": 402.5,
+    "text": "Three people had private accounts so I was not able to look into their list of followers."
+  },
+  {
+    "startTime": 402.7,
+    "endTime": 409.13599999999997,
+    "text": "Sorry, I forgot to mention that in the survey."
+  },
+  {
+    "startTime": 409.136,
+    "endTime": 412.8,
+    "text": "Eight people had zero followers, so I had to exclude them as well."
+  },
+  {
+    "startTime": 413.0,
+    "endTime": 418.4,
+    "text": "Sorry, but I can't check if the friendship paradox applies to you if you don't have friends in the first place."
+  },
+  {
+    "startTime": 418.6,
+    "endTime": 421.40000000000003,
+    "text": "The next step was to find the list of followers for every user."
+  },
+  {
+    "startTime": 421.6,
+    "endTime": 426.90000000000003,
+    "text": "To my disappointment, I found out that Twitter recently disabled the API's endpoint I needed to do this."
+  },
+  {
+    "startTime": 427.1,
+    "endTime": 432.20000000000005,
+    "text": "But after some research, I found a third party website that provides this service and I got the lists of followers."
+  },
+  {
+    "startTime": 432.36,
+    "endTime": 438.24,
+    "text": "The final results: There were only two participants that had more followers than their followers."
+  },
+  {
+    "startTime": 438.24,
+    "endTime": 444.8,
+    "text": "For the remaining 97% of participants, the friendship paradox was true: their followers had more followers than them."
+  },
+  {
+    "startTime": 445.0,
+    "endTime": 452.2,
+    "text": "So, in conclusion, if the people around you have more connections then you don't feel bad because that's quite normal according to math."
+  },
+  {
+    "startTime": 452.34,
+    "endTime": 456.5,
+    "text": "And personally, I would be careful when making a generalization out of the people around you."
+  },
+  {
+    "startTime": 456.7,
+    "endTime": 462.4,
+    "text": "There's a good chance you're facing a sampling bias and that the people connected to you don't represent the entire network."
+  },
+  {
+    "startTime": 462.6,
+    "endTime": 468.3,
+    "text": "Thank you for watching. If you like stories told with data and would like to support my work, consider leaving a like and subscribing to the channel."
+  },
+  {
+    "startTime": 468.3,
+    "endTime": 470.92,
+    "text": "And thank you to our patrons."
+  }
+]
