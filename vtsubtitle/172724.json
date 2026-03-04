@@ -1,0 +1,212 @@
+[
+  {
+    "startTime": 6.6,
+    "endTime": 12.5,
+    "text": "Portals - those magnificent sci-fi devices where you step into one end and are immediately transported somewhere else."
+  },
+  {
+    "startTime": 12.6,
+    "endTime": 17.8,
+    "text": "Portals are just begging for us to ask: What happens if you pass a portal through itself?"
+  },
+  {
+    "startTime": 17.9,
+    "endTime": 26.099999999999998,
+    "text": "Because anything going into the orange portal comes out of the blue portal, so when the blue portal goes into the orange portal it should come out of itself."
+  },
+  {
+    "startTime": 26.3,
+    "endTime": 28.2,
+    "text": "Which is that even possible?"
+  },
+  {
+    "startTime": 28.4,
+    "endTime": 31.599999999999998,
+    "text": "Yes. I'm going to show you how, and it's weird."
+  },
+  {
+    "startTime": 31.9,
+    "endTime": 36.1,
+    "text": "To make things easier, we'll start with a portal in 2D space, which is basically a line."
+  },
+  {
+    "startTime": 36.6,
+    "endTime": 42.7,
+    "text": "We'll imagine these work just like portals in 3D: When an object enters a portal, it exits at the same position relative to the other portal."
+  },
+  {
+    "startTime": 42.9,
+    "endTime": 51.7,
+    "text": "The idea is that if you put two portals back to back, you can't tell there's a portal at all, and then you keep that same relative behavior no matter where you move or how you orient the portals."
+  },
+  {
+    "startTime": 51.9,
+    "endTime": 56.6,
+    "text": "So an object entering near the bottom of the orange portal exits near the bottom of the blue portal, and so on."
+  },
+  {
+    "startTime": 56.9,
+    "endTime": 64.8,
+    "text": "And if the blue portal itself starts to pass through the bottom of the orange portal - and we'll try to keep it clear where the front and back and top and bottom of the portals are so you can tell how they're oriented -"
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 72.1,
+    "text": "if the top of the blue portal enters the bottom of the orange portal, it will emerge out the bottom of the blue portal with the same relative orientation."
+  },
+  {
+    "startTime": 72.3,
+    "endTime": 75.2,
+    "text": "Which looks weird, but it's what logically should happen!"
+  },
+  {
+    "startTime": 75.3,
+    "endTime": 79.5,
+    "text": "If we just keep pushing the blue portal in, the portal will  crash into itself and we won't be able to keep going."
+  },
+  {
+    "startTime": 79.7,
+    "endTime": 83.3,
+    "text": "And it's the same if we flip it and put the bottom of the blue portal in near the top of the orange."
+  },
+  {
+    "startTime": 83.7,
+    "endTime": 94.3,
+    "text": "But if we put the top end of the blue portal into the top of the orange portal, it comes out of itself closer to the top until the part coming out of itself goes back into the orange portal again and comes out of the blue portal farther down."
+  },
+  {
+    "startTime": 94.5,
+    "endTime": 96.9,
+    "text": "It's the portal coming out of itself, coming out of itself."
+  },
+  {
+    "startTime": 97.1,
+    "endTime": 103.8,
+    "text": "It's all a bit confusing to keep track of, but is maybe slightly easier if we add numbers along the blue portal so you can keep track of which part of it is where."
+  },
+  {
+    "startTime": 103.9,
+    "endTime": 112.60000000000001,
+    "text": "Because you should be able to keep track of the entire blue portal: there's no \"inside\" of a portal, since anything that passes through one portal is immediately outside the other side."
+  },
+  {
+    "startTime": 112.7,
+    "endTime": 117.2,
+    "text": "So 100% of the blue portal must remain visible and in existence at all times!"
+  },
+  {
+    "startTime": 117.4,
+    "endTime": 123.4,
+    "text": "That is, we should always be able to account for the full length of the blue portal, no matter how weirdly recursive the situation becomes."
+  },
+  {
+    "startTime": 123.6,
+    "endTime": 126.06899999999999,
+    "text": "And it can be very VERY weird."
+  },
+  {
+    "startTime": 126.069,
+    "endTime": 128.1,
+    "text": "And pretty, but definitely weird."
+  },
+  {
+    "startTime": 128.22,
+    "endTime": 136.1,
+    "text": "Anyway, to get the blue portal to go all the way through, the very end of the blue portal has to finish coming out of itself as it simultaneously disappears into the orange portal,"
+  },
+  {
+    "startTime": 136.3,
+    "endTime": 142.5,
+    "text": "which seems impossible unless the portal is infinitely thin, otherwise it's going to get stuck on itself or get squeezed or something."
+  },
+  {
+    "startTime": 142.7,
+    "endTime": 148.5,
+    "text": "But, if we allow ourselves a little flexibility, a 2D portal passing through itself looks like this."
+  },
+  {
+    "startTime": 148.7,
+    "endTime": 150.2,
+    "text": "Or this."
+  },
+  {
+    "startTime": 150.4,
+    "endTime": 151.9,
+    "text": "Or this."
+  },
+  {
+    "startTime": 152.1,
+    "endTime": 152.9,
+    "text": "And in 3D?"
+  },
+  {
+    "startTime": 153.1,
+    "endTime": 158.1,
+    "text": "It's similar, but slightly more confusing because of the rotations needed to fit the portal through itself."
+  },
+  {
+    "startTime": 158.2,
+    "endTime": 164.0,
+    "text": "Here's one way a portal can pass through itself, where I've colored the \"back\" side of the portal black and kept the front side a solid color."
+  },
+  {
+    "startTime": 164.2,
+    "endTime": 171.1,
+    "text": "And here's the same thing with a grid on the portal so you can keep track and really confirm that it is always 100% outside, even as it's passing through itself."
+  },
+  {
+    "startTime": 171.3,
+    "endTime": 179.3,
+    "text": "But of course, we probably want to be able to look through the portals as this is all going on - which looks like this."
+  },
+  {
+    "startTime": 179.4,
+    "endTime": 184.3,
+    "text": "To be honest, I was kind of surprised that it's as possible as it is to pass a portal through itself."
+  },
+  {
+    "startTime": 184.5,
+    "endTime": 192.6,
+    "text": "But when we follow things through to their logical conclusions, sometimes the universe - even a made up one - can surprise us."
+  },
+  {
+    "startTime": 192.8,
+    "endTime": 199.5,
+    "text": "And while it may not surprise you to learn that I made the animations in this video using visual effects software, I also had to use a fair bit of computer coding as well."
+  },
+  {
+    "startTime": 199.7,
+    "endTime": 205.79999999999998,
+    "text": "Computer coding sneaks in everywhere these days, even video editing, and that's why you should check out Nebula Classes, this video's sponsor."
+  },
+  {
+    "startTime": 206.0,
+    "endTime": 215.1,
+    "text": "Nebula is the creator-owned streaming platform I'm a part of, and yes, there are now classes by your favorite creators, including one on computer coding by youtuber and NYU professor Daniel Shiffman."
+  },
+  {
+    "startTime": 215.3,
+    "endTime": 224.70000000000002,
+    "text": "Daniel's whole approach is to give you the basics so you understand how coding works, and then when it jumps out at you in life,  like maybe in your video editing software , you won't be intimidated."
+  },
+  {
+    "startTime": 224.9,
+    "endTime": 229.5,
+    "text": "Other classes include those by Adam Neely, Wendover Productions, Devin Stone, Aimee Nolte, and more."
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 236.79999999999998,
+    "text": "Nebula classes is $119 a year if you sign up via nebulaclasses.com/minutephysics - and that includes all of the rest of Nebula, too."
+  },
+  {
+    "startTime": 237.0,
+    "endTime": 240.5,
+    "text": "Nebula Classes: Great Classes from your favorite creators."
+  },
+  {
+    "startTime": 240.7,
+    "endTime": 250.0,
+    "text": "And no, I don't have one on there... yet."
+  }
+]

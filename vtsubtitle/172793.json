@@ -1,0 +1,307 @@
+[
+  {
+    "startTime": 0.343,
+    "endTime": 14.009,
+    "text": "Pixar...the studio behind this, and this, and this, has mastered a sort of photo-surrealistic style where there's a sense of cartoonies, but most things look and feel like they could exist in the real world."
+  },
+  {
+    "startTime": 14.01,
+    "endTime": 16.435,
+    "text": "Like these fibers on Mr. Incredible's shirt."
+  },
+  {
+    "startTime": 16.436,
+    "endTime": 19.025,
+    "text": "And the tree stump and grass in this scene from \"Up.\""
+  },
+  {
+    "startTime": 19.392,
+    "endTime": 22.834,
+    "text": "Or the glimmering, out-of-focus bokeh behind Bo Peep."
+  },
+  {
+    "startTime": 22.9,
+    "endTime": 25.784,
+    "text": "And it's not just Pixar."
+  },
+  {
+    "startTime": 25.8,
+    "endTime": 31.372,
+    "text": "These movies look so similar you can barely tell they're from different animation studios."
+  },
+  {
+    "startTime": 31.38,
+    "endTime": 36.243,
+    "text": "But when you look at these movies it's clear that something different is happening."
+  },
+  {
+    "startTime": 36.3,
+    "endTime": 39.741,
+    "text": "These lights don't just illuminate; they reveal a texture."
+  },
+  {
+    "startTime": 39.8,
+    "endTime": 44.233,
+    "text": "This tree in the background isn't out of focus. It's just got a simplified look."
+  },
+  {
+    "startTime": 44.3,
+    "endTime": 47.568999999999996,
+    "text": "And this hair looks more like brush strokes than human hair."
+  },
+  {
+    "startTime": 47.991,
+    "endTime": 55.215,
+    "text": "These films are part of a new trend that's steering animation away from  replicating the real world and into somewhere new."
+  },
+  {
+    "startTime": 58.019,
+    "endTime": 66.198,
+    "text": "Crafting beautiful animation in CG films requires a lot of dedicated artists to perform specialized tasks, like rendering."
+  },
+  {
+    "startTime": 66.2,
+    "endTime": 78.98100000000001,
+    "text": "Rendering is the process by which a computer takes geometry, textures, lighting, camera inputs  and does a bunch of math to apply that information into a final image, like this one."
+  },
+  {
+    "startTime": 79.0,
+    "endTime": 90.387,
+    "text": "Most render engines, like the one I'm using here, are physically based, which essentially means that it tries to replicate the real world physics of light, shadow, reflection, and more."
+  },
+  {
+    "startTime": 90.39,
+    "endTime": 99.041,
+    "text": "You can see this type of rendering all over Pixar's work, even going back to their first movie. Rex looks like he could exist  in the real world."
+  },
+  {
+    "startTime": 99.1,
+    "endTime": 102.41,
+    "text": "Every meeting we would have, everybody brought up like the Pixar look."
+  },
+  {
+    "startTime": 102.41,
+    "endTime": 109.116,
+    "text": "The Pixar look was something that was very high quality, very successful at the box office, so everybody kind of wanted \"the Pixar look.\""
+  },
+  {
+    "startTime": 109.2,
+    "endTime": 111.331,
+    "text": "And my name is Christos Obrenetov."
+  },
+  {
+    "startTime": 111.35,
+    "endTime": 118.78699999999999,
+    "text": "Christos is the CEO of Lollipop Shaders, a company that builds custom shaders and plugins for 3D software."
+  },
+  {
+    "startTime": 118.8,
+    "endTime": 124.503,
+    "text": "He has worked on tons of films, including \"Life of Pi\", \"A Christmas Carol,\" and the upcoming \"Across the Spider-Verse.\""
+  },
+  {
+    "startTime": 124.51,
+    "endTime": 129.769,
+    "text": "But before all that he worked on a bunch of films that tried to replicate that Pixar look."
+  },
+  {
+    "startTime": 129.8,
+    "endTime": 133.03500000000003,
+    "text": "Because it was reliable, popular, and safe."
+  },
+  {
+    "startTime": 133.036,
+    "endTime": 140.412,
+    "text": "Part of doing a feature film is, you know, a lot of money and a lot of time, so they were kind of chasing that Pixar dream of having that kind of a success."
+  },
+  {
+    "startTime": 140.413,
+    "endTime": 143.16500000000002,
+    "text": "So to go and spend, you know, 100 million dollars or more."
+  },
+  {
+    "startTime": 143.166,
+    "endTime": 148.30599999999998,
+    "text": "You know, the investors and what not they are probably saying: \"It's got to look like Pixar or Disney, right?\""
+  },
+  {
+    "startTime": 149.0,
+    "endTime": 154.35,
+    "text": "That was the case for a long time, even when studios wanted to try something different."
+  },
+  {
+    "startTime": 154.36,
+    "endTime": 157.988,
+    "text": "Disney would come up and interview for a movie that ended up being called \"Bolt.\""
+  },
+  {
+    "startTime": 157.99,
+    "endTime": 161.14000000000001,
+    "text": "They were showing us this really cool concept art and they're like, \"Oh, it's going to be super stylized.\""
+  },
+  {
+    "startTime": 161.15,
+    "endTime": 163.132,
+    "text": "\"It's going to look like sort of like the concept art.\""
+  },
+  {
+    "startTime": 163.079,
+    "endTime": 165.122,
+    "text": "And it was very exciting. I was like, \"Oh, this is great.\""
+  },
+  {
+    "startTime": 165.13,
+    "endTime": 171.242,
+    "text": "And then when the movie did come out, I mean, \"Bolt\" is fantastic, but they made it very, you know, that same look."
+  },
+  {
+    "startTime": 171.3,
+    "endTime": 181.145,
+    "text": "Movies like \"Monster House\" and \"A Christmas Carol\" were intended to look stylized too, but ultimately they settled back into that tried-and-true physically based rendering look."
+  },
+  {
+    "startTime": 181.3,
+    "endTime": 194.222,
+    "text": "There were glimmers of more stylized approaches in short film tests and small sequences like in Disney's Moana, but this stylized sequence is only about 30 seconds out of the hour and 43 minute-long film."
+  },
+  {
+    "startTime": 194.23,
+    "endTime": 196.60199999999998,
+    "text": "A lot of studios have been playing with this for a long time."
+  },
+  {
+    "startTime": 196.61,
+    "endTime": 202.12900000000002,
+    "text": "But to take that risk to do a full feature film that's very stylized in 3D, I think people were scared."
+  },
+  {
+    "startTime": 202.614,
+    "endTime": 206.486,
+    "text": "And that fear kept studios from making bold choices."
+  },
+  {
+    "startTime": 206.49,
+    "endTime": 210.666,
+    "text": "Until 2017 when the trailer for \"Into the Spider-Verse\" dropped."
+  },
+  {
+    "startTime": 210.7,
+    "endTime": 215.171,
+    "text": "It had simplified graphic bursts that felt like comic book panels."
+  },
+  {
+    "startTime": 215.18,
+    "endTime": 222.04000000000002,
+    "text": "There was no motion blur or depth of field and everything, from the characters to the environments, was full of texture."
+  },
+  {
+    "startTime": 222.5,
+    "endTime": 234.567,
+    "text": "According to one of the animation supervisors for the project after a year and a half of work, the studio was still nervous that people were going to hate the visuals, because they felt like they were taking too many risks."
+  },
+  {
+    "startTime": 234.5,
+    "endTime": 241.483,
+    "text": "Instead of leaning into the safe, physically based, rendering look, \"Into the Spider-Verse\" chose to use  non-photorealistic rendering."
+  },
+  {
+    "startTime": 241.49,
+    "endTime": 245.81900000000002,
+    "text": "To pull this off, they essentially had to break their physically-based renderer."
+  },
+  {
+    "startTime": 245.82,
+    "endTime": 258.643,
+    "text": "Instead of inputting data from lights,  camera, and materials and receiving a realistic looking render, they combined all that data with custom data passes that tweaked things like the focus plane or the way the light worked in an image."
+  },
+  {
+    "startTime": 258.65,
+    "endTime": 262.08799999999997,
+    "text": "This combo allowed the renderer to produce stylized results."
+  },
+  {
+    "startTime": 262.705,
+    "endTime": 267.173,
+    "text": "For example, in \"Into the Spider-verse,\" out of focus elements aren't blurry."
+  },
+  {
+    "startTime": 267.2,
+    "endTime": 272.515,
+    "text": "Instead, the colors split as if the screen printing on an actual  comic book was done poorly."
+  },
+  {
+    "startTime": 272.52,
+    "endTime": 275.21099999999996,
+    "text": "Lighting and shadow were approached in new ways, too."
+  },
+  {
+    "startTime": 275.22,
+    "endTime": 280.12300000000005,
+    "text": "Light often reveals halftone dots, and shadows create sketchy hatch marks."
+  },
+  {
+    "startTime": 280.4,
+    "endTime": 283.71299999999997,
+    "text": "But there's more than just shading magic happening here."
+  },
+  {
+    "startTime": 283.72,
+    "endTime": 296.391,
+    "text": "Non-photorealistic renderings often use linework, 2D elements like speed lines and doubles, and variable frame rates to pull these frames further away from reality and often, closer to the concept art."
+  },
+  {
+    "startTime": 297.154,
+    "endTime": 304.807,
+    "text": "Just two months after its release, \"Into the Spider-Verse\" became the highest grossing film Sony Pictures animation had ever made."
+  },
+  {
+    "startTime": 304.85,
+    "endTime": 312.504,
+    "text": "It doesn't hold a candle to Pixar in terms of lifetime gross: \"Incredibles 2\" sits at the number one spot while Spider-verse doesn't even crack the top 50."
+  },
+  {
+    "startTime": 312.55,
+    "endTime": 321.034,
+    "text": "But, much like Pixar did in the first wave of CG animated features, \"Into the Spider-Verse\" redefined the visual goals for animation studios."
+  },
+  {
+    "startTime": 321.719,
+    "endTime": 333.655,
+    "text": "2021's \"The Mitchells V.S. the Machines\" and 2022's \"Puss in Boots\" take non-photorealistic rendering in a different, more painterly direction where out-of-focus objects  become simplified shapes"
+  },
+  {
+    "startTime": 333.66,
+    "endTime": 341.78200000000004,
+    "text": "Emulating the way artists may use simplified marks in backgrounds, \"In the Mitchells V.S. the Machines\", shadows create different marker textures."
+  },
+  {
+    "startTime": 341.79,
+    "endTime": 347.70000000000005,
+    "text": "\"Puss in Boots\" is simplified 2D cutaways mimic the graphic bursts of \"Into the Spider-verse.\""
+  },
+  {
+    "startTime": 347.71,
+    "endTime": 351.17199999999997,
+    "text": "People were like, \"Oh, this looks really good and it's different.\""
+  },
+  {
+    "startTime": 351.173,
+    "endTime": 359.335,
+    "text": "So now, like all like future projects at studios from DreamWorks and Imageworks and Pixar— you know, they're looking at the next whatever, five years or whatnot."
+  },
+  {
+    "startTime": 359.34,
+    "endTime": 361.479,
+    "text": "It's all like very stylized."
+  },
+  {
+    "startTime": 361.48,
+    "endTime": 369.297,
+    "text": "And that's really exciting, because non-photorealism allows animated movies to take advantage of the things that make them special."
+  },
+  {
+    "startTime": 369.5,
+    "endTime": 372.804,
+    "text": "They can be anything the imagination allows."
+  }
+]
