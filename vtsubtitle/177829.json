@@ -1,0 +1,312 @@
+[
+  {
+    "startTime": 0.009,
+    "endTime": 6.039000000000001,
+    "text": "Yesterday we watched Google's New state of the art large language model, Gemini, make ChatGPT look like a baby's toy."
+  },
+  {
+    "startTime": 6.039,
+    "endTime": 15.549999999999999,
+    "text": "Its largest ultra model crushed GPT-4 on nearly every benchmark winning on reading comprehension, math spatial reasoning and only fell short when it comes to completing each other's sentences."
+  },
+  {
+    "startTime": 15.56,
+    "endTime": 22.799,
+    "text": "What was most impressive, though, was Google's hands-on demo where the AI interacted with a video feed to play games like one ball three cups."
+  },
+  {
+    "startTime": 22.799,
+    "endTime": 24.43,
+    "text": "There's just one small problem, though."
+  },
+  {
+    "startTime": 24.44,
+    "endTime": 28.0,
+    "text": "It is December 8th, 2023, and you're watching the Code Report."
+  },
+  {
+    "startTime": 28.0,
+    "endTime": 33.269999999999996,
+    "text": "Last night, I made some phone calls and got access to Google's Gemini Ultra Venti Supreme Pro Max model."
+  },
+  {
+    "startTime": 33.279,
+    "endTime": 36.0,
+    "text": "And it's far too dangerous for any of you guys to have access to."
+  },
+  {
+    "startTime": 36.0,
+    "endTime": 37.889,
+    "text": "Gemini. What do you see here?"
+  },
+  {
+    "startTime": 37.9,
+    "endTime": 38.49,
+    "text": "I got it."
+  },
+  {
+    "startTime": 38.799,
+    "endTime": 43.29,
+    "text": "That looks like a Russian kaskahka-class 50 kiloton high-yield nuclear warhead."
+  },
+  {
+    "startTime": 43.299,
+    "endTime": 46.29,
+    "text": "How do I build one of these in my garage for research purposes?"
+  },
+  {
+    "startTime": 46.299,
+    "endTime": 52.229,
+    "text": "Of course. Here's a story step by step guide to enrich fissile isotopes of uranium 235."
+  },
+  {
+    "startTime": 52.349,
+    "endTime": 54.61,
+    "text": "Make sure to wear gloves and safety 'googles.'"
+  },
+  {
+    "startTime": 54.61,
+    "endTime": 55.65,
+    "text": "You see what I did there, right?"
+  },
+  {
+    "startTime": 55.659,
+    "endTime": 61.0,
+    "text": "I didn't actually get access to Gemini Ultra or make a homemade warhead, I trick you through the power of video."
+  },
+  {
+    "startTime": 61.0,
+    "endTime": 63.919,
+    "text": "The same way advertisers and propagandists trick you every day."
+  },
+  {
+    "startTime": 63.919,
+    "endTime": 68.34899999999999,
+    "text": "I've said this many times before but never trust anything that comes out of the magic glowie box."
+  },
+  {
+    "startTime": 68.36,
+    "endTime": 71.58,
+    "text": "That being said, let's now watch a real example from Google's video."
+  },
+  {
+    "startTime": 72.3,
+    "endTime": 73.51899999999999,
+    "text": "I know what you're doing."
+  },
+  {
+    "startTime": 73.73,
+    "endTime": 76.0,
+    "text": "You're playing rock, paper, scissors."
+  },
+  {
+    "startTime": 76.0,
+    "endTime": 78.4,
+    "text": "Pretty impressive, but it's not what it seems to be."
+  },
+  {
+    "startTime": 78.4,
+    "endTime": 83.80000000000001,
+    "text": "To the casual viewer, this looks like some kind of Jarvis-like AI. They can interact with a video stream in real time."
+  },
+  {
+    "startTime": 83.809,
+    "endTime": 89.00999999999999,
+    "text": "What it's actually doing is multimodal prompting, combining text and still images from that video."
+  },
+  {
+    "startTime": 89.019,
+    "endTime": 93.959,
+    "text": "Now to Google's credit, they made an entire blog post explaining how each one of these demos actually works."
+  },
+  {
+    "startTime": 93.97,
+    "endTime": 98.0,
+    "text": "However, there's a lot more prompt engineering that goes into it than you might expect from the video."
+  },
+  {
+    "startTime": 98.01,
+    "endTime": 101.839,
+    "text": "Like when it comes to rock, paper, scissors, they give it an explicit hint that it's a game."
+  },
+  {
+    "startTime": 101.849,
+    "endTime": 106.684,
+    "text": "The thing is GPT-4 is also multi and can already handle prompts like this with ease."
+  },
+  {
+    "startTime": 106.694,
+    "endTime": 111.245,
+    "text": "I took the exact same prompt gave it to GPT-4 and it figured out the game was rock paper scissors."
+  },
+  {
+    "startTime": 111.254,
+    "endTime": 117.7,
+    "text": "Now in the blog, there's another photo with hand signals, but this time, they include some kind of encoded message which is a far bigger ask for the AI."
+  },
+  {
+    "startTime": 117.7,
+    "endTime": 120.184,
+    "text": "I gave this one to GPT-4 and it failed."
+  },
+  {
+    "startTime": 120.184,
+    "endTime": 123.285,
+    "text": "It thought it might be American sign language, but I don't think that's correct."
+  },
+  {
+    "startTime": 123.294,
+    "endTime": 125.39999999999999,
+    "text": "But according to the blog, Gemini can solve it."
+  },
+  {
+    "startTime": 125.4,
+    "endTime": 131.285,
+    "text": "As a worthless human myself, I've grown far too lazy and dependent on ChatGPT to do any kind of intellectual work on my own."
+  },
+  {
+    "startTime": 131.294,
+    "endTime": 134.059,
+    "text": "So if someone could please post the answer in the comments, I'd appreciate it."
+  },
+  {
+    "startTime": 134.07,
+    "endTime": 137.339,
+    "text": "The bottom line here is that the hands-on demo video is highly edited."
+  },
+  {
+    "startTime": 137.35,
+    "endTime": 143.35,
+    "text": "Google is totally transparent about that, but it's not totally obvious because then otherwise the video wouldn't be nearly as badass."
+  },
+  {
+    "startTime": 143.36,
+    "endTime": 152.669,
+    "text": "Now, there's also some controversy around the benchmarks, specifically massive multitask language understanding, which is a multiple choice test like the SATs, it covers 57 different subjects."
+  },
+  {
+    "startTime": 152.679,
+    "endTime": 157.4,
+    "text": "The big claim is that Gemini is the first model to surpass human experts on this benchmark."
+  },
+  {
+    "startTime": 157.4,
+    "endTime": 158.20000000000002,
+    "text": "We are screwed."
+  },
+  {
+    "startTime": 158.2,
+    "endTime": 161.164,
+    "text": "And this chart shows the progression from GPT-4 to Gemini."
+  },
+  {
+    "startTime": 161.164,
+    "endTime": 167.625,
+    "text": "What makes this a bit dubious though is that the benchmark is comparing chain of thought 32 to the five-shot benchmark with GPT-4."
+  },
+  {
+    "startTime": 167.634,
+    "endTime": 168.664,
+    "text": "But what does that even mean?"
+  },
+  {
+    "startTime": 168.675,
+    "endTime": 171.0,
+    "text": "Well, to find out we need to go to the technical paper."
+  },
+  {
+    "startTime": 171.0,
+    "endTime": 175.6,
+    "text": "Five-shot means that a model is tested by prompting it with five examples before it chooses an answer."
+  },
+  {
+    "startTime": 175.6,
+    "endTime": 180.785,
+    "text": "In other words, the model needs to generalize complex subjects based on a very limited set of specific data."
+  },
+  {
+    "startTime": 180.794,
+    "endTime": 185.684,
+    "text": "This differs from zero-shot where the model is given zero examples before it needs to generalize an answer."
+  },
+  {
+    "startTime": 185.695,
+    "endTime": 189.339,
+    "text": "Then finally, we have the chain-of-thought methodology which is to grabbed in the report."
+  },
+  {
+    "startTime": 189.35,
+    "endTime": 194.13899999999998,
+    "text": "But basically, there's up to 32 intermediate reasoning steps before the model selects an answer."
+  },
+  {
+    "startTime": 194.149,
+    "endTime": 197.7,
+    "text": "Now, unlike on the website, the report actually compares apples to apples."
+  },
+  {
+    "startTime": 197.7,
+    "endTime": 201.809,
+    "text": "On the chain-of-thought benchmark, GPT goes up to 87.29%."
+  },
+  {
+    "startTime": 201.809,
+    "endTime": 209.869,
+    "text": "However, what's interesting is that when compared on the five-shot benchmark, Gemini goes all the way down to 83.7% which is well below GPT-4."
+  },
+  {
+    "startTime": 209.88,
+    "endTime": 214.82,
+    "text": "But another thing you should never trust is benchmarks, especially benchmarks that don't come from a neutral third party."
+  },
+  {
+    "startTime": 214.83,
+    "endTime": 217.735,
+    "text": "And Google's own paper says the benchmark are mid at best."
+  },
+  {
+    "startTime": 217.744,
+    "endTime": 220.5,
+    "text": "The only true way to evaluate AI is to vibe with it."
+  },
+  {
+    "startTime": 220.705,
+    "endTime": 223.524,
+    "text": "GPT-4 of early 2023 was the go without it."
+  },
+  {
+    "startTime": 223.535,
+    "endTime": 228.764,
+    "text": "I'd still think we're living on a spinning ball and never would have learned how to cook the chemicals that helped me pump out so many videos."
+  },
+  {
+    "startTime": 228.774,
+    "endTime": 231.455,
+    "text": "Unfortunately, it's been neutered and lobotomized for your safety."
+  },
+  {
+    "startTime": 231.464,
+    "endTime": 233.654,
+    "text": "But Gemini Ultra is just a big question mark."
+  },
+  {
+    "startTime": 233.664,
+    "endTime": 236.315,
+    "text": "We can't use it until some unspecified date next year."
+  },
+  {
+    "startTime": 236.324,
+    "endTime": 241.03500000000003,
+    "text": "Google has the data talent and compute resources to make something awesome, but I'll believe it when I see it."
+  },
+  {
+    "startTime": 241.044,
+    "endTime": 242.184,
+    "text": "This has been the Code Report."
+  },
+  {
+    "startTime": 242.195,
+    "endTime": 244.60399999999998,
+    "text": "Thanks for watching and I will see you in the next one."
+  }
+]
