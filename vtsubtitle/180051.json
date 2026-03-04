@@ -1,0 +1,647 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 0.84,
+    "text": "What's up, Josh here."
+  },
+  {
+    "startTime": 0.84,
+    "endTime": 11.08,
+    "text": "So Apple just finished up WWDC 2024, where they announced several major updates to iOS, macOS, iPadOS, and some minor updates to their other platforms."
+  },
+  {
+    "startTime": 11.08,
+    "endTime": 22.799,
+    "text": "There were some good quality of life updates that we've been asking Apple for for quite some time now, including scheduled messages, better home screen customization, and even an iPad calculator app, something I'd never thought I'd see."
+  },
+  {
+    "startTime": 22.799,
+    "endTime": 25.16,
+    "text": "But for the last 40-ish minutes or so,"
+  },
+  {
+    "startTime": 25.16,
+    "endTime": 33.08,
+    "text": "Apple talked about Apple Intelligence, which is their brand new suite of AI-powered features that has been highly anticipated for some time now."
+  },
+  {
+    "startTime": 33.08,
+    "endTime": 40.48,
+    "text": "And so in this video, we're gonna try to break down everything that Apple Intelligence can do and how you can take advantage of those features coming in the next few months."
+  },
+  {
+    "startTime": 40.48,
+    "endTime": 44.0,
+    "text": "Make sure to like the video, subscribe if you aren't already, and let's get into it."
+  },
+  {
+    "startTime": 44.0,
+    "endTime": 45.52,
+    "text": "So let's just start with the basics."
+  },
+  {
+    "startTime": 45.52,
+    "endTime": 47.160000000000004,
+    "text": "What is Apple Intelligence?"
+  },
+  {
+    "startTime": 47.16,
+    "endTime": 50.759,
+    "text": "So Apple Intelligence is, not to be confused, with Siri."
+  },
+  {
+    "startTime": 50.759,
+    "endTime": 57.639,
+    "text": "You can sort of think of Apple Intelligence as the foundation or the groundwork or the engine behind how all of these"
+  },
+  {
+    "startTime": 57.639,
+    "endTime": 59.540000000000006,
+    "text": "AI-powered tasks are powered."
+  },
+  {
+    "startTime": 59.54,
+    "endTime": 64.36,
+    "text": "And the way that they're able to be powered is through Apple's latest advancements in Apple Silicon."
+  },
+  {
+    "startTime": 64.36,
+    "endTime": 84.919,
+    "text": "That means that in order to take advantage of Apple Intelligence, you need to have a device that has the latest Apple Silicon, like the M-series chips and the A17 Pro, which is currently only limited to the iPhone 15 Pro, which I understand is a little bit disappointing for those of us with older hardware, considering that even the 14 Pro is not even two years old at this point."
+  },
+  {
+    "startTime": 84.919,
+    "endTime": 89.16,
+    "text": "But there is a good reason for why it's limited to those devices, which we'll cover later on."
+  },
+  {
+    "startTime": 89.16,
+    "endTime": 92.11999999999999,
+    "text": "So now you might be asking, what can Apple Intelligence do?"
+  },
+  {
+    "startTime": 92.12,
+    "endTime": 96.9,
+    "text": "And I think the first bucket of features that we all probably do daily is with writing."
+  },
+  {
+    "startTime": 96.9,
+    "endTime": 102.76,
+    "text": "So I'd say the biggest announcement with Apple Intelligence in terms of text is what's called Writing Tools."
+  },
+  {
+    "startTime": 102.76,
+    "endTime": 112.98,
+    "text": "This is a new system-wide tool that you'll be able to use in any app and brings a couple of features that we've already probably seen before in other third-party AI-powered apps."
+  },
+  {
+    "startTime": 112.98,
+    "endTime": 120.32000000000001,
+    "text": "So as you can see, when you're in a text field or anywhere where you're able to type, you can actually bring up this menu, which gives you a couple of different options."
+  },
+  {
+    "startTime": 120.32,
+    "endTime": 126.61999999999999,
+    "text": "For example, you can either rewrite something in a different tone, fix grammatical errors, or summarize a piece of text."
+  },
+  {
+    "startTime": 126.62,
+    "endTime": 131.779,
+    "text": "And then if you wanted to request something more specific, you can just write out your request at the top."
+  },
+  {
+    "startTime": 131.779,
+    "endTime": 133.38,
+    "text": "This is not anything new."
+  },
+  {
+    "startTime": 133.38,
+    "endTime": 148.399,
+    "text": "We've seen these features in other apps as well, but I think the biggest game changer here is that it's actually system-wide, meaning you don't have to go into a separate app to use these features, nor do you only have to be in an app that's made by Apple."
+  },
+  {
+    "startTime": 148.399,
+    "endTime": 154.559,
+    "text": "As long as you're using an Apple device, like an iPhone, Mac, or iPad, you're gonna have access to these writing tools."
+  },
+  {
+    "startTime": 154.559,
+    "endTime": 155.72,
+    "text": "And this one feature alone,"
+  },
+  {
+    "startTime": 155.72,
+    "endTime": 167.559,
+    "text": "I think as insignificant or as basic as it might seem, is actually a pretty big deal because it sort of eliminates the need for any third-party subscriptions that you might have to other apps that might do the same thing."
+  },
+  {
+    "startTime": 167.559,
+    "endTime": 172.559,
+    "text": "But also this opens the door for generative text to just so many other people."
+  },
+  {
+    "startTime": 172.559,
+    "endTime": 182.24,
+    "text": "Think about how many people use iPhones, Macs, and iPads, and how many people are just going to have access directly on the device for generative text."
+  },
+  {
+    "startTime": 182.24,
+    "endTime": 188.559,
+    "text": "It's been shown time and time again that when Apple does something, that that thing sort of just catches on like wildfire."
+  },
+  {
+    "startTime": 188.559,
+    "endTime": 193.339,
+    "text": "And so I think pretty soon we're gonna see a lot more people utilizing generative text."
+  },
+  {
+    "startTime": 193.339,
+    "endTime": 197.839,
+    "text": "So yeah, that is writing tools, but then there's also what's called smart replies."
+  },
+  {
+    "startTime": 197.839,
+    "endTime": 209.07999999999998,
+    "text": "This is a feature in Apple's new Mail app, which uses AI to draft up a response to an email, and will even come up with custom prompts based off of action steps or questions in the emails."
+  },
+  {
+    "startTime": 209.08,
+    "endTime": 232.399,
+    "text": "So instead of going into writing tools and then asking it to generate some email that says that you are going or you aren't going, this new smart reply integration will actually just give you some toggles, which you can say yes or no, or reply, and basically allows you to reply to an email with just a couple of taps and probably some tweaks, which is actually pretty crazy, and I personally can't wait to take advantage of this feature."
+  },
+  {
+    "startTime": 232.399,
+    "endTime": 237.839,
+    "text": "But then one subcategory of writing, or I guess text in general, is summarization."
+  },
+  {
+    "startTime": 237.839,
+    "endTime": 242.24,
+    "text": "And with Apple Intelligence, there's a couple of ways that they're summarizing pieces of text."
+  },
+  {
+    "startTime": 242.24,
+    "endTime": 249.32000000000002,
+    "text": "So again, within the new Mail app, you'll now have a section dedicated to priority emails, which are just your most important time-sensitive emails."
+  },
+  {
+    "startTime": 249.32,
+    "endTime": 255.779,
+    "text": "Then at the top of a specific email, you can, of course, summarize that email with a single tap, which is gonna be super handy."
+  },
+  {
+    "startTime": 255.779,
+    "endTime": 267.6,
+    "text": "But also, in every single email, you might have noticed that they now all include a high-level summary of the contents of that email, rather than just displaying the first few lines, which are often not super helpful."
+  },
+  {
+    "startTime": 267.6,
+    "endTime": 272.779,
+    "text": "The same thing goes for notifications, having a priority section for all your most important notifications."
+  },
+  {
+    "startTime": 272.779,
+    "endTime": 278.65999999999997,
+    "text": "And then within each notification are summarizations, which are gonna be great for catching you up on group chats."
+  },
+  {
+    "startTime": 278.66,
+    "endTime": 287.559,
+    "text": "I think these summarizations are gonna add up to a lot of saved time in the long run, and are really gonna make a significant difference in terms of productivity and efficiency."
+  },
+  {
+    "startTime": 287.559,
+    "endTime": 293.839,
+    "text": "Now, the second bucket of features that are powered by Apple Intelligence are everything that has to do with images."
+  },
+  {
+    "startTime": 293.839,
+    "endTime": 303.48,
+    "text": "One feature coming to the Photos app is called Cleanup, which is similar to Google's Magic Eraser, which automatically identifies and removes distracting elements from the background of your pictures."
+  },
+  {
+    "startTime": 303.48,
+    "endTime": 304.959,
+    "text": "I mean, we sort of saw this coming."
+  },
+  {
+    "startTime": 304.959,
+    "endTime": 309.88,
+    "text": "Google's been doing it for a while now, but it is nice that we are finally getting it in the Photos app."
+  },
+  {
+    "startTime": 310.32,
+    "endTime": 317.55899999999997,
+    "text": "And then another feature is turning your entire photos and video library into something actually searchable with natural language."
+  },
+  {
+    "startTime": 317.559,
+    "endTime": 321.0,
+    "text": "So now you can just describe what you wanna find and it'll find it."
+  },
+  {
+    "startTime": 321.0,
+    "endTime": 324.64,
+    "text": "Again, this is another feature that Google has done for a while now."
+  },
+  {
+    "startTime": 324.64,
+    "endTime": 328.94,
+    "text": "And for me personally, I'm already pretty invested in the Google Photos ecosystem."
+  },
+  {
+    "startTime": 328.94,
+    "endTime": 333.239,
+    "text": "So not sure how much I'll be using this one, but it's nice to see that it's there."
+  },
+  {
+    "startTime": 333.239,
+    "endTime": 345.44,
+    "text": "But then Apple announced something called Image Playground, which sort of reminds me of Google's AI Wallpaper feature, where you pick from a theme and then fill in some words to generate an image as a wallpaper."
+  },
+  {
+    "startTime": 345.44,
+    "endTime": 354.76,
+    "text": "But I think Apple did it a little bit better here because instead of just generating wallpapers, you can actually generate images to be used in messages."
+  },
+  {
+    "startTime": 354.76,
+    "endTime": 361.11899999999997,
+    "text": "So just like Google's AI Wallpaper, in Image Playground, you can tap on these broad themes or broad concepts."
+  },
+  {
+    "startTime": 361.119,
+    "endTime": 368.119,
+    "text": "And when you tap on them, they get added to your playground where an image then gets created for you in just a couple of seconds to share in messages."
+  },
+  {
+    "startTime": 368.119,
+    "endTime": 374.76000000000005,
+    "text": "If you want something a little bit more specific, you can also just describe it using text, which then gets added into your playground."
+  },
+  {
+    "startTime": 374.76,
+    "endTime": 384.519,
+    "text": "You can pick from three styles, which are animation, illustration, and sketch, and even choose to incorporate people into these generations to make them feel more personalized to that conversation."
+  },
+  {
+    "startTime": 384.519,
+    "endTime": 393.959,
+    "text": "So if you wanted to generate a picture of your mom in a superhero cape because you appreciated her so much, you can now actually do that because Apple Intelligence knows what your mom looks like."
+  },
+  {
+    "startTime": 394.04,
+    "endTime": 395.64000000000004,
+    "text": "Oh!"
+  },
+  {
+    "startTime": 395.64,
+    "endTime": 398.079,
+    "text": "Based off of what I assume is your photo library."
+  },
+  {
+    "startTime": 398.079,
+    "endTime": 404.959,
+    "text": "I think for those moments where we can't find the perfect GIF or we want something to feel a little bit more personalized, this is gonna come in clutch."
+  },
+  {
+    "startTime": 404.959,
+    "endTime": 413.359,
+    "text": "But then possibly the most Apple thing that they could have done is roll out Genmojis, which stands for generative emojis."
+  },
+  {
+    "startTime": 413.359,
+    "endTime": 427.679,
+    "text": "So this is another way of utilizing generative images built directly into the keyboard where you can now just type out a description of an emoji and it'll give you that exact emoji in the classic Apple illustration style of emojis."
+  },
+  {
+    "startTime": 427.679,
+    "endTime": 433.88,
+    "text": "And again, you can also now create these Genmojis based off of real people in your photos library."
+  },
+  {
+    "startTime": 433.88,
+    "endTime": 437.239,
+    "text": "And honestly, this is something that I never thought we would see."
+  },
+  {
+    "startTime": 437.239,
+    "endTime": 440.55899999999997,
+    "text": "This basically changes the emoji game forever."
+  },
+  {
+    "startTime": 440.559,
+    "endTime": 443.72,
+    "text": "Now, one question I have is how does it work on the backend?"
+  },
+  {
+    "startTime": 443.72,
+    "endTime": 452.399,
+    "text": "Because emojis typically have like a Unicode or some sort of zeros and ones to identify that emoji."
+  },
+  {
+    "startTime": 452.44,
+    "endTime": 460.64,
+    "text": "So that when it comes to another operating system like Windows or Android, it can point to that code and then spit out like a similar emoji."
+  },
+  {
+    "startTime": 460.64,
+    "endTime": 463.59999999999997,
+    "text": "But then in this case, it's just creating emojis out of thin air."
+  },
+  {
+    "startTime": 463.6,
+    "endTime": 470.0,
+    "text": "So I don't really know how these emojis are gonna show up if you send it to an Android device or if you view it on a Windows device."
+  },
+  {
+    "startTime": 470.0,
+    "endTime": 473.059,
+    "text": "But regardless, this is definitely something that I'm excited about."
+  },
+  {
+    "startTime": 473.059,
+    "endTime": 480.0,
+    "text": "And then finally, we have maybe the most impressive part of Apple Intelligence, which is the third bucket, actions."
+  },
+  {
+    "startTime": 480.0,
+    "endTime": 495.92,
+    "text": "So on top of helping us write and summarize text and maybe generate some images, the one thing that we've been dreaming that our phones would be able to do is actually be a really smart assistant that incorporates everything that these phones know about our lives and makes it useful."
+  },
+  {
+    "startTime": 495.92,
+    "endTime": 502.38,
+    "text": "And I can finally say that we are getting a glimpse into what that might look like with iOS 18 and Siri."
+  },
+  {
+    "startTime": 502.38,
+    "endTime": 514.599,
+    "text": "So Siri now has a brand new look with this new animation for when you prompt it with this glowing border around the entire screen, which sort of gives the vibe that it's integrated into your phone and that it's almost like living inside of it."
+  },
+  {
+    "startTime": 514.599,
+    "endTime": 516.0,
+    "text": "At least that's how I feel."
+  },
+  {
+    "startTime": 516.0,
+    "endTime": 522.919,
+    "text": "And one thing that's largely improved with Siri is that it has a much better language model, which will understand you even better."
+  },
+  {
+    "startTime": 522.919,
+    "endTime": 529.96,
+    "text": "So even if you stumble on your words or you say the wrong thing, you can actually correct yourself mid-sentence and Siri will understand you."
+  },
+  {
+    "startTime": 529.96,
+    "endTime": 533.159,
+    "text": "What does the weather look like for tomorrow at Muir Beach?"
+  },
+  {
+    "startTime": 533.159,
+    "endTime": 534.859,
+    "text": "Oh wait, I meant Muir Woods."
+  },
+  {
+    "startTime": 536.559,
+    "endTime": 541.539,
+    "text": "The forecast is calling for clear skies in the morning near Muir Woods National Monument."
+  },
+  {
+    "startTime": 541.539,
+    "endTime": 553.58,
+    "text": "But now on top of these very basic surface level requests that we're used to doing with Siri, the new Siri powered by Apple intelligence is actually able to use context clues based off of your personal information in different apps."
+  },
+  {
+    "startTime": 553.58,
+    "endTime": 567.6790000000001,
+    "text": "So this includes stuff like your calendar events, your emails, but not just your emails, but also the attachments in those emails, also your text history, your photos, your notes, and it can even look at your screen if you wanted it to."
+  },
+  {
+    "startTime": 567.679,
+    "endTime": 571.4,
+    "text": "Now, the example they gave is if you got a work email to push a meeting to 5 p.m."
+  },
+  {
+    "startTime": 571.4,
+    "endTime": 575.179,
+    "text": "and you're afraid it might conflict with your daughter's play later in the day."
+  },
+  {
+    "startTime": 575.179,
+    "endTime": 581.8199999999999,
+    "text": "Well now, instead of having to pull up the play details that your daughter sent you, whether through text or email or wherever she sent it,"
+  },
+  {
+    "startTime": 581.82,
+    "endTime": 592.08,
+    "text": "Siri can now just find that for you, cross-reference that data with your meeting time, and also look into the commute times to help you figure out whether you can actually make that play or not."
+  },
+  {
+    "startTime": 592.08,
+    "endTime": 594.659,
+    "text": "Which I think this is insane."
+  },
+  {
+    "startTime": 594.659,
+    "endTime": 606.7189999999999,
+    "text": "If it actually works as intended, this honestly reminds me of Jarvis from Iron Man or just a really smart, actually smart assistant that knows everything about you and can help you throughout your day."
+  },
+  {
+    "startTime": 606.719,
+    "endTime": 612.719,
+    "text": "Another example that makes use of Siri being able to look at your screen is, let's say your friend sends you their address."
+  },
+  {
+    "startTime": 612.719,
+    "endTime": 616.7600000000001,
+    "text": "Well now, you can just ask Siri to add that address into that contact."
+  },
+  {
+    "startTime": 616.76,
+    "endTime": 620.64,
+    "text": "Or maybe you're filling out a form and you need to find your driver's license number."
+  },
+  {
+    "startTime": 620.64,
+    "endTime": 628.0989999999999,
+    "text": "Well now, Siri can pull that up for you, assuming that you have a photo or scan of your driver's license stored somewhere on your device."
+  },
+  {
+    "startTime": 628.099,
+    "endTime": 635.119,
+    "text": "Now this brings us to privacy because obviously there is a huge concern with allowing AI to look into all of your documents."
+  },
+  {
+    "startTime": 635.119,
+    "endTime": 641.28,
+    "text": "And we've already seen some pretty big blunders when it comes to this stuff, specifically with Microsoft and their recall feature."
+  },
+  {
+    "startTime": 641.28,
+    "endTime": 646.2389999999999,
+    "text": "So how is Apple handling privacy when it comes to all the sensitive information?"
+  },
+  {
+    "startTime": 646.239,
+    "endTime": 652.4,
+    "text": "One thing that Apple mentioned is that Apple Intelligence was designed with a strong emphasis with on-device processing."
+  },
+  {
+    "startTime": 652.4,
+    "endTime": 663.119,
+    "text": "This means that for a lot of the tasks, the device is actually able to process everything on device without collecting or storing any information or bouncing anything to an external server."
+  },
+  {
+    "startTime": 663.119,
+    "endTime": 672.4,
+    "text": "And this explains why Apple Intelligence is only rolling out to the latest Apple products with the latest Apple Silicon with dedicated processing for these complex AI tasks."
+  },
+  {
+    "startTime": 672.4,
+    "endTime": 673.84,
+    "text": "And also with going with this route,"
+  },
+  {
+    "startTime": 673.84,
+    "endTime": 677.159,
+    "text": "I assume there's other benefits apart from just privacy."
+  },
+  {
+    "startTime": 677.159,
+    "endTime": 687.039,
+    "text": "For example, latency and speed, being able to process everything on device means you don't have to rely on an internet connection to bounce things back and forth from the server and back to your device."
+  },
+  {
+    "startTime": 687.039,
+    "endTime": 701.239,
+    "text": "And also I'm assuming that operating costs are cheaper, not having to process potentially hundreds of millions of Siri requests on your own servers, but rather just having all of that done on the user's device could save a lot of money."
+  },
+  {
+    "startTime": 701.239,
+    "endTime": 704.76,
+    "text": "But not all requests are gonna be handled on device."
+  },
+  {
+    "startTime": 704.76,
+    "endTime": 706.46,
+    "text": "So for more complex stuff,"
+  },
+  {
+    "startTime": 706.46,
+    "endTime": 717.5,
+    "text": "Apple talked about private cloud compute, which only uses the data strictly necessary for the specific tasks you're requesting and never stores any information or makes any of that information accessible to Apple."
+  },
+  {
+    "startTime": 717.5,
+    "endTime": 723.64,
+    "text": "Apple also says that independent experts can inspect the code that runs on these servers to verify these privacy promises."
+  },
+  {
+    "startTime": 723.64,
+    "endTime": 724.52,
+    "text": "Last but not least,"
+  },
+  {
+    "startTime": 724.52,
+    "endTime": 731.159,
+    "text": "Apple announced their partnership with OpenAI and now directly integrates ChatGPT within Apple Intelligence."
+  },
+  {
+    "startTime": 731.159,
+    "endTime": 745.119,
+    "text": "So for more research focused requests, like if you ask Siri to come up with a recipe based off of some ingredients that you have, it'll now give you a button that says use ChatGPT, which then bounces your questions to ChatGPT and gets you an answer right there on the spot."
+  },
+  {
+    "startTime": 745.119,
+    "endTime": 747.02,
+    "text": "You can also share photos with your questions."
+  },
+  {
+    "startTime": 747.02,
+    "endTime": 750.159,
+    "text": "So if you're looking at a photo and you're asking questions about that photo,"
+  },
+  {
+    "startTime": 750.159,
+    "endTime": 754.119,
+    "text": "Siri will now ask you if you wanna share that photo with ChatGPT."
+  },
+  {
+    "startTime": 754.119,
+    "endTime": 762.919,
+    "text": "This also works with documents, presentations, and PDFs, and is all gonna be powered by ChatGPT 4.0, completely free without needing to create an account."
+  },
+  {
+    "startTime": 762.919,
+    "endTime": 764.059,
+    "text": "Overall, to sum it all up,"
+  },
+  {
+    "startTime": 764.059,
+    "endTime": 770.3589999999999,
+    "text": "I think Apple Intelligence is a good step forward in terms of Apple's overall vision into the future with AI."
+  },
+  {
+    "startTime": 771.159,
+    "endTime": 776.119,
+    "text": "I think with these types of demos, we sort of have to take them with a grain of salt because we don't really have them in our hands yet."
+  },
+  {
+    "startTime": 776.119,
+    "endTime": 783.679,
+    "text": "So things like response times, overall accuracy of the answers, and overall usefulness of these features are still up in the air."
+  },
+  {
+    "startTime": 783.679,
+    "endTime": 790.3199999999999,
+    "text": "Also, one interesting observation that I had is that they never really even showed off the voice of this new Siri."
+  },
+  {
+    "startTime": 790.32,
+    "endTime": 795.0390000000001,
+    "text": "I think in the entire demo, they never allowed us to actually listen to what she sounds like."
+  },
+  {
+    "startTime": 795.039,
+    "endTime": 804.08,
+    "text": "But yeah, definitely an exciting few months ahead of us in both iOS, macOS, and iPadOS, as well as all of the other things that we didn't even get to cover in this video."
+  },
+  {
+    "startTime": 804.08,
+    "endTime": 807.88,
+    "text": "So definitely get subscribed if you aren't already for more Apple content."
+  },
+  {
+    "startTime": 807.88,
+    "endTime": 811.559,
+    "text": "But what do you guys think of Apple Intelligence?"
+  },
+  {
+    "startTime": 811.559,
+    "endTime": 814.799,
+    "text": "Do you think Apple under-delivered or over-delivered?"
+  },
+  {
+    "startTime": 814.799,
+    "endTime": 815.64,
+    "text": "Let me know in the comments."
+  },
+  {
+    "startTime": 815.64,
+    "endTime": 816.5989999999999,
+    "text": "Leave a like on your way out."
+  },
+  {
+    "startTime": 816.599,
+    "endTime": 820.159,
+    "text": "Again, subscribe if you aren't already, and I'll catch you guys in the next one."
+  },
+  {
+    "startTime": 820.159,
+    "endTime": 821.0,
+    "text": " Peace."
+  }
+]
