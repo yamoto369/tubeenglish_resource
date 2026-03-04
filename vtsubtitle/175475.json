@@ -1,0 +1,362 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 6.6,
+    "text": "You've likely heard about how with each of its movies, Pixar has improved some element of its process, or mastered some new skill."
+  },
+  {
+    "startTime": 6.8,
+    "endTime": 9.2,
+    "text": "With Monster's Inc. they mastered how to create fur and hair,"
+  },
+  {
+    "startTime": 9.3,
+    "endTime": 12.100000000000001,
+    "text": "in Finding Nemo they mastered underwater animation and lighting,"
+  },
+  {
+    "startTime": 12.2,
+    "endTime": 14.299999999999999,
+    "text": "in The Incredibles they mastered animating humans,"
+  },
+  {
+    "startTime": 14.4,
+    "endTime": 16.6,
+    "text": "in Cars, they mastered reflective surfaces,"
+  },
+  {
+    "startTime": 16.7,
+    "endTime": 20.5,
+    "text": "and in Soul they mastered making me fundamentally question the meaning and purpose of my life."
+  },
+  {
+    "startTime": 20.6,
+    "endTime": 27.900000000000002,
+    "text": "But as the technology has progressed, one thing has stayed remarkably constant: it typically takes years to render one of their movies."
+  },
+  {
+    "startTime": 28.0,
+    "endTime": 30.1,
+    "text": "Which raises the question: why?"
+  },
+  {
+    "startTime": 30.4,
+    "endTime": 35.8,
+    "text": "Rendering is the process by which computers spit out the actual, final frames that will create an animated movie."
+  },
+  {
+    "startTime": 35.9,
+    "endTime": 44.099999999999994,
+    "text": "It's a complex process, but it can ultimately be thought of very simply—the computer must answer one, basic, question: what color is this pixel?"
+  },
+  {
+    "startTime": 44.2,
+    "endTime": 48.2,
+    "text": "The problem is, the computer has to answer that question, like, a lot."
+  },
+  {
+    "startTime": 48.5,
+    "endTime": 53.8,
+    "text": "Let's say Pixar makes a movie in HD—which they probably wouldn't, but for the sake of simplicity, let's say they did."
+  },
+  {
+    "startTime": 53.9,
+    "endTime": 56.8,
+    "text": "You might sometimes hear this called 1080p."
+  },
+  {
+    "startTime": 56.1,
+    "endTime": 64.5,
+    "text": "That's because it's 1080 pixels by 1920 pixels, for a total of 2,073,600 pixels in a frame."
+  },
+  {
+    "startTime": 64.6,
+    "endTime": 72.5,
+    "text": "Pixar's movies are in 24 fps, or frames per second, so that's 49,766,400 pixels per second,"
+  },
+  {
+    "startTime": 72.7,
+    "endTime": 83.5,
+    "text": "meaning for a 90 minute, or 5,400 second, movie, the computer has to answer the question \"what color is this pixel\" 268,738,560,000 times."
+  },
+  {
+    "startTime": 83.6,
+    "endTime": 95.1,
+    "text": "To put into perspective how big 268,738,560,000 is, if I ate 268,738,560,000 hot dogs, I would die."
+  },
+  {
+    "startTime": 95.2,
+    "endTime": 102.0,
+    "text": "So to answer the fundamental question for understanding rendering, how does the computer figure out what color this pixel should be, let's start at the beginning."
+  },
+  {
+    "startTime": 102.6,
+    "endTime": 111.19999999999999,
+    "text": "Characters at Pixar start, of course, as story and art—artists and writers come up with weird little guys who would do funny little things that would make us weep uncontrollably."
+  },
+  {
+    "startTime": 111.3,
+    "endTime": 116.1,
+    "text": "The next step is modeling, where animators create a wireframe of points and lines that define a character's shape."
+  },
+  {
+    "startTime": 116.2,
+    "endTime": 123.10000000000001,
+    "text": "Basically, it's a way to turn the writers and artists' ideas and drawings into a model that is fundamentally mathematical, so a computer can understand it."
+  },
+  {
+    "startTime": 123.3,
+    "endTime": 126.89999999999999,
+    "text": "The next step is rigging, where the model forms relationships to how it moves."
+  },
+  {
+    "startTime": 127.1,
+    "endTime": 134.29999999999998,
+    "text": "In rigging, character models are fitted with virtual bones, muscles, joints, and so on to give the animators the control points they use to move characters around."
+  },
+  {
+    "startTime": 134.4,
+    "endTime": 140.1,
+    "text": "They also use tools called deformers and displacers to define how the character's elements have relationships to each other:"
+  },
+  {
+    "startTime": 140.2,
+    "endTime": 147.29999999999998,
+    "text": "that way, if a character smiles, their mouth moves, but also their chin goes down, their cheeks get lines, their eyes widen, their eyebrows raise,"
+  },
+  {
+    "startTime": 147.4,
+    "endTime": 152.4,
+    "text": "and whatever else happens when you smile—I don't totally know, as I refuse to smile until Jet Lag gets a gold play button."
+  },
+  {
+    "startTime": 152.6,
+    "endTime": 157.79999999999998,
+    "text": "Next they animate surfaces, which are basically all about figuring out how a surface interacts with light—"
+  },
+  {
+    "startTime": 157.9,
+    "endTime": 167.20000000000002,
+    "text": "is it shiny, or matte, or ooey gooey sticky icky—which is calculated using a mathematical function called BRDF, which stands for Big Rockin' Deflection Fingy."
+  },
+  {
+    "startTime": 167.3,
+    "endTime": 171.3,
+    "text": "Afterwards, virtual 3D sets are built, lighting designers add in virtual light sources,"
+  },
+  {
+    "startTime": 171.4,
+    "endTime": 177.3,
+    "text": "and virtual cameras are added into those virtual sets to determine what parts of the shot will actually end up in the frame of the movie you see."
+  },
+  {
+    "startTime": 177.4,
+    "endTime": 181.0,
+    "text": "Then, to add things like fur, hair, and clothing, there's simulation."
+  },
+  {
+    "startTime": 181.1,
+    "endTime": 188.4,
+    "text": "Basically, something like fur has potentially millions of hairs, which can't be individually animated, so physics models have to be built to simulate their motion."
+  },
+  {
+    "startTime": 188.5,
+    "endTime": 195.0,
+    "text": "Lastly, animators finally come in to fine tune and craft a bunch of programmed motions into a talking fish so emotionally resonant"
+  },
+  {
+    "startTime": 195.1,
+    "endTime": 197.79999999999998,
+    "text": "that it makes you call your parents and tell them you should have appreciated them more."
+  },
+  {
+    "startTime": 197.9,
+    "endTime": 203.3,
+    "text": "And then, finally, once this is all done—essentially, the movie is made—it's time to render."
+  },
+  {
+    "startTime": 203.4,
+    "endTime": 206.4,
+    "text": "Rendering time is a function of several different factors."
+  },
+  {
+    "startTime": 206.5,
+    "endTime": 211.5,
+    "text": "One is, pretty simply, detail, both in terms of the number of objects and the detail on each object."
+  },
+  {
+    "startTime": 211.6,
+    "endTime": 215.2,
+    "text": "For example, if I have a shot with a bunch of… what would Pixar make a movie about…"
+  },
+  {
+    "startTime": 216.1,
+    "endTime": 218.6,
+    "text": "talking socks overcoming nihilism"
+  },
+  {
+    "startTime": 218.7,
+    "endTime": 226.5,
+    "text": "—the more talking socks, the more render time, and the more detail put into rendering the fabric on each sock, adding more individual threads that are taken into account, the longer."
+  },
+  {
+    "startTime": 226.6,
+    "endTime": 230.1,
+    "text": "Another key aspect is the number of samples per pixel, which is really complicated,"
+  },
+  {
+    "startTime": 230.2,
+    "endTime": 235.6,
+    "text": "so I'm going to simplify in a way that hits the perfect mix of simultaneously annoying animators and still confusing you."
+  },
+  {
+    "startTime": 235.8,
+    "endTime": 236.4,
+    "text": "Let's start here:"
+  },
+  {
+    "startTime": 236.5,
+    "endTime": 242.3,
+    "text": "if you had to guess, you'd probably assume that to render a shot, the computer looks at the lighting sources rigged up by the lighting designers,"
+  },
+  {
+    "startTime": 242.4,
+    "endTime": 248.4,
+    "text": "then simulates having that light get shot down and reflected and refract off the surfaces, and then it would see what light reaches the camera."
+  },
+  {
+    "startTime": 248.5,
+    "endTime": 253.8,
+    "text": "The thing is, if the computer did that, most of the light wouldn't reach the camera, making that super inefficient."
+  },
+  {
+    "startTime": 254.0,
+    "endTime": 258.4,
+    "text": "So instead, at least in several of its movies, Pixar uses ray tracing,"
+  },
+  {
+    "startTime": 258.5,
+    "endTime": 263.7,
+    "text": "where the computer sort of shoots a theoretical beam of light from one of the pixels in its camera's frame onto the scene,"
+  },
+  {
+    "startTime": 263.8,
+    "endTime": 267.5,
+    "text": "and then sees if, when it bounces off whatever it hits, it reaches a light source."
+  },
+  {
+    "startTime": 267.6,
+    "endTime": 271.1,
+    "text": "If it doesn't the pixel is dark, if it does, it's bright."
+  },
+  {
+    "startTime": 271.4,
+    "endTime": 275.4,
+    "text": "But light can bounce many different ways, so if you only simulate this once per pixel,"
+  },
+  {
+    "startTime": 275.5,
+    "endTime": 281.1,
+    "text": "most of your theoretical light beams won't hit a lighting source, so you'll end up with a bunch of dark spots that shouldn't really be dark."
+  },
+  {
+    "startTime": 281.2,
+    "endTime": 287.3,
+    "text": "Instead, the computer runs multiple samples per pixel to see potentially hundreds or thousands of ways the light could bounce,"
+  },
+  {
+    "startTime": 287.4,
+    "endTime": 290.0,
+    "text": "and then averages those to create a crisp image."
+  },
+  {
+    "startTime": 290.1,
+    "endTime": 296.1,
+    "text": "The computer also must determine how many times to let the light bounce, which adds significantly to render time as well."
+  },
+  {
+    "startTime": 296.2,
+    "endTime": 302.5,
+    "text": "So, going back to the title I so cleverly engineered to trick you into clicking this video: why do Pixar movies take years to render?"
+  },
+  {
+    "startTime": 302.6,
+    "endTime": 308.90000000000003,
+    "text": "Well, movies have to be rendered at massively high levels of detail, with a huge number of samples per pixel, and with several light bounces,"
+  },
+  {
+    "startTime": 309.0,
+    "endTime": 314.2,
+    "text": "ultimately having to answer the question \"what color is this pixel\" over 260 billion times."
+  },
+  {
+    "startTime": 314.3,
+    "endTime": 320.2,
+    "text": "Arguably, though, the biggest part of why rendering takes so long is that Pixar is always pushing the limits of what's possible."
+  },
+  {
+    "startTime": 320.3,
+    "endTime": 327.0,
+    "text": "With Pixar's modern technology—their special rendering software, called Renderman, and their render farm that has 2,000 machines and 24,000 cores,"
+  },
+  {
+    "startTime": 327.1,
+    "endTime": 332.8,
+    "text": "which by the way makes it one of the 25 largest supercomputers in the world—they could render the original Toy Story in about an hour."
+  },
+  {
+    "startTime": 333.1,
+    "endTime": 341.20000000000005,
+    "text": "But the complexity of the shots they choose to put in their movies now means there are individual frames in Toy Story 4 that took 30 hours just to render."
+  },
+  {
+    "startTime": 342.4,
+    "endTime": 351.0,
+    "text": "That's pretty inefficient, so if you want to protest Pixar's rendering inefficiency or something—I don't know—then boy do I have a solution for you: it's called our sponsor, Audible."
+  },
+  {
+    "startTime": 351.1,
+    "endTime": 354.8,
+    "text": "That's because Audible is the place to go for spoken-word entertainment."
+  },
+  {
+    "startTime": 354.9,
+    "endTime": 358.0,
+    "text": "Now, you might be thinking, \"I don't listen to spoken-word entertainment,\""
+  },
+  {
+    "startTime": 358.1,
+    "endTime": 365.1,
+    "text": "but just think of all the times when your ear-holes are free: when doing the dishes, commuting to work, going on a walk, going on a run, going on a hike—you get the point."
+  },
+  {
+    "startTime": 365.2,
+    "endTime": 371.3,
+    "text": "I use Audible constantly, because I absolutely love being able to listen to the books that I want to consume while doing other things,"
+  },
+  {
+    "startTime": 371.4,
+    "endTime": 374.5,
+    "text": "rather than feeling bad about not having the time to read a print book."
+  },
+  {
+    "startTime": 374.47,
+    "endTime": 380.8,
+    "text": "And in addition to an enormous library of free Audiobooks and an even more enormous library of basically any audiobook you could want—"
+  },
+  {
+    "startTime": 380.9,
+    "endTime": 385.9,
+    "text": "of which you get one a month for free—Audible also has podcasts, Audible Originals, and even more."
+  },
+  {
+    "startTime": 386.1,
+    "endTime": 395.40000000000003,
+    "text": "Basically, this is the one-stop-shop for all your spoken-word entertainment, and if you want to see if I'm right, then good news because new members can try Audible free for 30 days."
+  },
+  {
+    "startTime": 395.5,
+    "endTime": 401.1,
+    "text": "Just click the button on-screen or visit Audible.com/HAI or text HAI to 500-500."
+  }
+]

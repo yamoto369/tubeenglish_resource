@@ -1,0 +1,282 @@
+[
+  {
+    "startTime": 1.3,
+    "endTime": 5.8,
+    "text": "[\"An inefficient virus kills its host. A clever virus stays with it.\" - James Lovelock]"
+  },
+  {
+    "startTime": 6.9,
+    "endTime": 14.2,
+    "text": "It's spring 2021, the Alpha variant of the coronavirus has spread rapidly, becoming the dominant variant worldwide."
+  },
+  {
+    "startTime": 14.3,
+    "endTime": 19.1,
+    "text": "But another more transmissible variant is about to appear⏤Delta."
+  },
+  {
+    "startTime": 19.2,
+    "endTime": 21.9,
+    "text": "What happens when two variants clash?"
+  },
+  {
+    "startTime": 22.3,
+    "endTime": 24.1,
+    "text": "Let's do a thought experiment."
+  },
+  {
+    "startTime": 24.2,
+    "endTime": 33.3,
+    "text": "Suppose that the variants reach a hypothetical isolated city of 1 million people who are completely susceptible to both viruses on the same day."
+  },
+  {
+    "startTime": 33.9,
+    "endTime": 40.199999999999996,
+    "text": "When a person here is infected with Alpha, they transmit it to, on average, 5 close contacts,"
+  },
+  {
+    "startTime": 40.3,
+    "endTime": 45.3,
+    "text": "then, begin to feel sick and immediately isolate themselves for the rest of the simulation."
+  },
+  {
+    "startTime": 45.8,
+    "endTime": 53.199999999999996,
+    "text": "The same thing happens with Delta, except that an infected person transmits it to, on average, 7.5 close contacts."
+  },
+  {
+    "startTime": 53.7,
+    "endTime": 55.5,
+    "text": "What would you guess happens next?"
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 65.2,
+    "text": "After six days, Alpha will have infected 15,625 people; Delta will have infected more than 10 times as many."
+  },
+  {
+    "startTime": 65.8,
+    "endTime": 63.9,
+    "text": "Just 20 hours later, Delta will have infected the rest of the population, all before Alpha could infect 6% of it."
+  },
+  {
+    "startTime": 74.0,
+    "endTime": 76.9,
+    "text": "With no one left to infect, Alpha dies out."
+  },
+  {
+    "startTime": 77.4,
+    "endTime": 83.80000000000001,
+    "text": "This model is drastically simplified, but it accurately reflects one thing that did happen in real life:"
+  },
+  {
+    "startTime": 83.9,
+    "endTime": 89.30000000000001,
+    "text": "When both variants competed, Delta drove Alpha towards extinction in a matter of weeks."
+  },
+  {
+    "startTime": 89.8,
+    "endTime": 92.89999999999999,
+    "text": "Viruses are wildly successful organisms."
+  },
+  {
+    "startTime": 93.0,
+    "endTime": 101.1,
+    "text": "There are about 100 million times as many virus particles on Earth as there are stars in the observable universe."
+  },
+  {
+    "startTime": 101.2,
+    "endTime": 104.9,
+    "text": "Even so, viruses can and do go extinct."
+  },
+  {
+    "startTime": 105.5,
+    "endTime": 107.7,
+    "text": "There are three main ways that can happen."
+  },
+  {
+    "startTime": 108.1,
+    "endTime": 110.8,
+    "text": "First, a virus could run out of hosts."
+  },
+  {
+    "startTime": 111.2,
+    "endTime": 117.0,
+    "text": "This might have happened in early 2020 to a flu lineage known as B/Yamagata."
+  },
+  {
+    "startTime": 117.6,
+    "endTime": 123.3,
+    "text": "When much of the world shut down, social-distanced, and wore masks to slow the spread of COVID-19,"
+  },
+  {
+    "startTime": 123.4,
+    "endTime": 128.20000000000002,
+    "text": "that dramatically reduced the number of hosts available for B/Yamagata to infect."
+  },
+  {
+    "startTime": 128.8,
+    "endTime": 135.0,
+    "text": "It'll take a few more flu seasons to know for sure if it's truly extinct or just hiding out in an animal reservoir."
+  },
+  {
+    "startTime": 135.5,
+    "endTime": 141.1,
+    "text": "Many viruses, as part of their life cycle, cause diseases severe enough to kill their hosts."
+  },
+  {
+    "startTime": 141.2,
+    "endTime": 149.7,
+    "text": "This can be a problem because if a virus kills all its hosts, it could, in theory, run out of hosts to infect and go extinct."
+  },
+  {
+    "startTime": 149.8,
+    "endTime": 153.8,
+    "text": "This almost happened back in 1950s Australia."
+  },
+  {
+    "startTime": 154.5,
+    "endTime": 159.9,
+    "text": "At the time, Australia was overrun by the European rabbit, an invasive species."
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 171.3,
+    "text": "So, in an attempt to control the population, scientists released a virus called myxoma, which had been previously shown to be almost 100% lethal to European rabbits."
+  },
+  {
+    "startTime": 171.4,
+    "endTime": 177.3,
+    "text": "During the initial outbreak, as planned, tens, perhaps hundreds, of millions of European rabbits died."
+  },
+  {
+    "startTime": 177.4,
+    "endTime": 187.3,
+    "text": "But as the virus spread, it evolved a series of mutations that happened to make it less deadly, killing rabbits more slowly and killing fewer rabbits overall."
+  },
+  {
+    "startTime": 188.2,
+    "endTime": 195.29999999999998,
+    "text": "With more infected hosts hopping around, this strain of the virus was more likely to spread than its deadlier cousin."
+  },
+  {
+    "startTime": 195.7,
+    "endTime": 200.1,
+    "text": "And, of course, rabbits evolved, too, to mount better immune responses."
+  },
+  {
+    "startTime": 200.2,
+    "endTime": 208.29999999999998,
+    "text": "Overall, instead of killing every single rabbit, the virus evolved, the rabbit population bounced back, and both survived."
+  },
+  {
+    "startTime": 209.0,
+    "endTime": 214.8,
+    "text": "The second way a virus could go extinct is if humans fight back with an effective vaccine and win."
+  },
+  {
+    "startTime": 215.7,
+    "endTime": 225.89999999999998,
+    "text": "Vaccination campaigns have driven two viruses essentially to extinction since vaccines were invented in the 1800s: smallpox and rinderpest, which kills cattle."
+  },
+  {
+    "startTime": 226.0,
+    "endTime": 227.7,
+    "text": "More on vaccination later."
+  },
+  {
+    "startTime": 228.1,
+    "endTime": 235.6,
+    "text": "The third way a virus can go extinct is if it's outcompeted by another virus or strain, like we saw earlier with Delta and Alpha."
+  },
+  {
+    "startTime": 236.1,
+    "endTime": 239.29999999999998,
+    "text": "By the way, viruses don't always compete with each other."
+  },
+  {
+    "startTime": 239.4,
+    "endTime": 251.70000000000002,
+    "text": "A viral species can carve out its own distinct niche, for example, influenza infects your respiratory tract, and norovirus infects cells in your intestine, so both of these viruses can co-exist."
+  },
+  {
+    "startTime": 252.4,
+    "endTime": 255.5,
+    "text": "A virus' ecological niche can be tiny."
+  },
+  {
+    "startTime": 255.6,
+    "endTime": 265.2,
+    "text": "Hepatitis B and Hepatitis C viruses can infect the same cell; Hep B occupies the nucleus and Hep C occupies the cytoplasm."
+  },
+  {
+    "startTime": 265.3,
+    "endTime": 273.0,
+    "text": "In fact, epidemiologists estimate that 2 to 10 percent of people with Hep C are also infected with Hep B."
+  },
+  {
+    "startTime": 273.1,
+    "endTime": 280.1,
+    "text": "So, will SARS-CoV-2, the species of virus that causes COVID-19, ever go extinct?"
+  },
+  {
+    "startTime": 280.2,
+    "endTime": 283.9,
+    "text": "Variants within the species will continue to arise."
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 287.8,
+    "text": "Those variants might drive prior ones to extinction⏤or not."
+  },
+  {
+    "startTime": 287.9,
+    "endTime": 296.9,
+    "text": "Regardless of how the variants compete⏤or don't, the species itself, to which all the variants belong, is pretty firmly established among humans."
+  },
+  {
+    "startTime": 297.4,
+    "endTime": 302.4,
+    "text": "If we managed to vaccinate enough people, could we drive SARS-CoV-2 to extinction?"
+  },
+  {
+    "startTime": 302.5,
+    "endTime": 312.9,
+    "text": "Our vaccination campaign against smallpox worked because the vaccine was highly protective against infection, and smallpox had no close animal reservoir in which it could hide."
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 323.5,
+    "text": "But SARS-CoV-2 can hide out in animals, and our current vaccines, while they provide excellent protection against severe illness and death, don't prevent all infections."
+  },
+  {
+    "startTime": 324.3,
+    "endTime": 330.8,
+    "text": "So, conceivably, there are two ways that SARS-CoV-2⏤the entire species⏤could go extinct."
+  },
+  {
+    "startTime": 331.7,
+    "endTime": 340.59999999999997,
+    "text": "A cataclysmic disaster could kill us all, or we could invent a universal vaccine that prevents all SARS-CoV-2 infections,"
+  },
+  {
+    "startTime": 340.7,
+    "endTime": 344.9,
+    "text": "those caused by all the variants that currently exist and those that don't."
+  },
+  {
+    "startTime": 345.4,
+    "endTime": 347.4,
+    "text": "Let's work toward that second option."
+  },
+  {
+    "startTime": 349.8,
+    "endTime": 355.90000000000003,
+    "text": "If a universal vaccine for COVID sounds appealing, what about a vaccine that protects you against everything?"
+  },
+  {
+    "startTime": 356.0,
+    "endTime": 366.0,
+    "text": "Learn more about the pitfalls and promise of a universal vaccine with this video, or watch this video to learn about some older pandemic technology⏤plague masks."
+  }
+]
