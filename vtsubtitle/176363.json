@@ -1,0 +1,392 @@
+[
+  {
+    "startTime": 0.8,
+    "endTime": 6.1,
+    "text": "With 500 million monthly users, Spotify is the world's largest music streaming service."
+  },
+  {
+    "startTime": 6.6,
+    "endTime": 9.0,
+    "text": "Spotify is the home of audio."
+  },
+  {
+    "startTime": 9.4,
+    "endTime": 13.8,
+    "text": "It's known for its personalized playlists, made with its recommendation algorithm."
+  },
+  {
+    "startTime": 13.9,
+    "endTime": 21.1,
+    "text": "Think about users as this raw material, and then, on top of the data layer, we're able to build shared models."
+  },
+  {
+    "startTime": 21.2,
+    "endTime": 28.299999999999997,
+    "text": "But relying so much on artificial intelligence has also drawn criticism from some industry experts worried about algorithmic bias."
+  },
+  {
+    "startTime": 28.8,
+    "endTime": 33.6,
+    "text": "Here's how Spotify uses AI to personalize users' experiences on the platform."
+  },
+  {
+    "startTime": 34.1,
+    "endTime": 36.7,
+    "text": "This is the tech behind Spotify."
+  },
+  {
+    "startTime": 39.1,
+    "endTime": 46.1,
+    "text": "In the early 2000s, many people found music recommendations through top charts and early streaming platforms like Pandora and Last.fm."
+  },
+  {
+    "startTime": 46.2,
+    "endTime": 50.2,
+    "text": "With the Last.fm app from the App Store, you can listen to great bands..."
+  },
+  {
+    "startTime": 50.3,
+    "endTime": 53.0,
+    "text": "So, when Spotify entered the scene in 2008..."
+  },
+  {
+    "startTime": 53.1,
+    "endTime": 57.7,
+    "text": "It's not so much that they were the first people to start using analytics to recommend music,"
+  },
+  {
+    "startTime": 57.8,
+    "endTime": 66.3,
+    "text": "but it was the way in which they combined various computational techniques in order to make their recommendations feel more lifelike."
+  },
+  {
+    "startTime": 66.7,
+    "endTime": 74.4,
+    "text": "Thomas Hodgson studies algorithms and artificial intelligence, with a focus on how new technology from music streaming companies impact artists."
+  },
+  {
+    "startTime": 74.5,
+    "endTime": 79.0,
+    "text": "Fans who listen to discover weekly and daily mix."
+  },
+  {
+    "startTime": 79.1,
+    "endTime": 82.44999999999999,
+    "text": "The way that they talk about them is in very human-like terms."
+  },
+  {
+    "startTime": 82.5,
+    "endTime": 86.6,
+    "text": "Discover weekly, you magnificent ****; you've done it again."
+  },
+  {
+    "startTime": 86.9,
+    "endTime": 91.2,
+    "text": "In 2014, Spotify acquired music analytics firm, the Echo Nest,"
+  },
+  {
+    "startTime": 91.3,
+    "endTime": 96.5,
+    "text": "which blended machine learning and natural language processing to build a database of songs and artists."
+  },
+  {
+    "startTime": 96.6,
+    "endTime": 102.3,
+    "text": "Spotify says this technology marked an important step in the evolution of its recommendation system."
+  },
+  {
+    "startTime": 103.2,
+    "endTime": 104.8,
+    "text": "So, how does that system work?"
+  },
+  {
+    "startTime": 104.9,
+    "endTime": 107.60000000000001,
+    "text": "It starts with a process called \"collaborative filtering\"."
+  },
+  {
+    "startTime": 107.7,
+    "endTime": 117.4,
+    "text": "Collaborative filtering looks at the pattern across all of this data and tries to understand: when do tracks happen to be playlisted together very often?"
+  },
+  {
+    "startTime": 117.5,
+    "endTime": 122.0,
+    "text": "You can think of it as building a map of music and podcast."
+  },
+  {
+    "startTime": 122.1,
+    "endTime": 124.1,
+    "text": "That map looks something like this."
+  },
+  {
+    "startTime": 124.2,
+    "endTime": 127.7,
+    "text": "Each point represents a different track in Spotify's catalog,"
+  },
+  {
+    "startTime": 127.8,
+    "endTime": 131.2,
+    "text": "and the location of each point is determined by collaborative filtering."
+  },
+  {
+    "startTime": 131.3,
+    "endTime": 137.60000000000002,
+    "text": "Which means that these tracks go together according to the way users have playlisted them and listened to them."
+  },
+  {
+    "startTime": 137.7,
+    "endTime": 142.5,
+    "text": "So, if these two songs are frequently playlisted together, they will be close to each other in this map."
+  },
+  {
+    "startTime": 142.6,
+    "endTime": 147.0,
+    "text": "Whereas if these songs are never playlisted together, they will be farther apart in the map."
+  },
+  {
+    "startTime": 147.1,
+    "endTime": 151.2,
+    "text": "But recommendations based purely on collaborative filtering aren't perfect."
+  },
+  {
+    "startTime": 151.3,
+    "endTime": 158.10000000000002,
+    "text": "For example, during the holidays, Mariah Carey's \"All I Want for Christmas Is You\" might get playlisted more frequently with \"Silent Night\","
+  },
+  {
+    "startTime": 158.2,
+    "endTime": 170.6,
+    "text": "even though this sounds like a pop song, and this sounds like a Christmas carol."
+  },
+  {
+    "startTime": 170.7,
+    "endTime": 174.16,
+    "text": "If Spotify only generated recommendations based on proximity,"
+  },
+  {
+    "startTime": 174.169,
+    "endTime": 179.8,
+    "text": "then users who like Mariah Carey might get recommended \"Silent Night\" when they aren't interested in Christmas carols."
+  },
+  {
+    "startTime": 180.5,
+    "endTime": 185.8,
+    "text": "To prevent this, Spotify adds another layer of analysis called \"content-based filtering\"."
+  },
+  {
+    "startTime": 185.9,
+    "endTime": 191.8,
+    "text": "This algorithm gathers metadata, like the release date and label, and executes a raw audio analysis."
+  },
+  {
+    "startTime": 191.9,
+    "endTime": 197.3,
+    "text": "It uses metrics like danceability and loudness to describe the sonic characteristics of the track."
+  },
+  {
+    "startTime": 197.4,
+    "endTime": 204.6,
+    "text": "These are the results for \"Uptown Funk\", which sounds like this..."
+  },
+  {
+    "startTime": 204.7,
+    "endTime": 209.6,
+    "text": "and has a danceability score of 0.856 on a scale of 0 to 1."
+  },
+  {
+    "startTime": 209.7,
+    "endTime": 213.29999999999998,
+    "text": "The algorithm also dissects each track's temporal structure."
+  },
+  {
+    "startTime": 213.4,
+    "endTime": 217.1,
+    "text": "Here's a visual representation of that for \"Anti-Hero\" by Taylor Swift."
+  },
+  {
+    "startTime": 217.2,
+    "endTime": 221.39999999999998,
+    "text": "These are the beats, the bars, and the sections."
+  },
+  {
+    "startTime": 221.5,
+    "endTime": 225.7,
+    "text": "Content-based filtering also takes into account a track's cultural context,"
+  },
+  {
+    "startTime": 225.8,
+    "endTime": 231.70000000000002,
+    "text": "which means studying the lyrics and analyzing the adjectives used to describe the track in articles and blogs."
+  },
+  {
+    "startTime": 231.8,
+    "endTime": 234.70000000000002,
+    "text": "These filtering techniques are not unique to Spotify,"
+  },
+  {
+    "startTime": 234.8,
+    "endTime": 241.5,
+    "text": "but industry experts say what sets the platform apart is the amount of user data it has and the products it creates from it."
+  },
+  {
+    "startTime": 241.6,
+    "endTime": 249.2,
+    "text": "Spotify says its content-based filtering technology has evolved over the years, and now includes more advanced proprietary-facing features."
+  },
+  {
+    "startTime": 250.0,
+    "endTime": 254.7,
+    "text": "But Hodgson says the danger with algorithms is that they could reinforce existing biases."
+  },
+  {
+    "startTime": 254.8,
+    "endTime": 261.2,
+    "text": "This could mean that a particular catalog of music has more male artists than female artists."
+  },
+  {
+    "startTime": 261.3,
+    "endTime": 263.8,
+    "text": "One of the dangers with machine learning is that,"
+  },
+  {
+    "startTime": 263.9,
+    "endTime": 274.0,
+    "text": "as listeners start to engage with that catalog, those biases become magnified, and that this creates what's called a, kind of, \"feedback loop\"."
+  },
+  {
+    "startTime": 274.1,
+    "endTime": 282.6,
+    "text": "Spotify says its research teams evaluate and mitigate against potential algorithmic inequities and harms, and strive for transparency about its impact."
+  },
+  {
+    "startTime": 282.7,
+    "endTime": 288.09999999999997,
+    "text": "Another criticism is that the algorithm isn't optimized for new artists because there's no user data."
+  },
+  {
+    "startTime": 288.2,
+    "endTime": 290.3,
+    "text": "This is known as the \"cold-start problem\"."
+  },
+  {
+    "startTime": 290.4,
+    "endTime": 295.5,
+    "text": "Sultan says this is where human editors play a significant role in delivering recommendations."
+  },
+  {
+    "startTime": 295.6,
+    "endTime": 301.3,
+    "text": "They're possibly some of the best people in the world that's trying to understand new releases and culture and what's relevant."
+  },
+  {
+    "startTime": 301.4,
+    "endTime": 308.09999999999997,
+    "text": "But Hodgson says the bigger concern is that certain metrics used in the platform's audio analysis might be culturally biased"
+  },
+  {
+    "startTime": 308.2,
+    "endTime": 314.3,
+    "text": "In other parts of the world, they have musical systems and musical cultures that are entirely different."
+  },
+  {
+    "startTime": 314.4,
+    "endTime": 316.9,
+    "text": "Like this North Indian classical track, for example."
+  },
+  {
+    "startTime": 320.2,
+    "endTime": 326.9,
+    "text": "Spotify's algorithm labels its key signature as E minor, which Hodgson says is inappropriate for this musical tradition."
+  },
+  {
+    "startTime": 327.0,
+    "endTime": 329.7,
+    "text": "However, it's still the case that"
+  },
+  {
+    "startTime": 329.8,
+    "endTime": 338.6,
+    "text": "the music that is emerging from South Asia is being understood algorithmically under, you know, the Western equal temperament scale."
+  },
+  {
+    "startTime": 338.7,
+    "endTime": 346.2,
+    "text": "Spotify says the audio analysis is one small part of the overall system, which takes into account many factors before making a recommendation."
+  },
+  {
+    "startTime": 346.7,
+    "endTime": 352.2,
+    "text": "Some industry experts also point to issues with how the system understands metadata for classical music."
+  },
+  {
+    "startTime": 352.3,
+    "endTime": 360.6,
+    "text": "For example, the metadata for a Tchaikovsky track can include not just the name of the work and the artist, but also the movement, opus number, and conductor."
+  },
+  {
+    "startTime": 360.7,
+    "endTime": 363.5,
+    "text": "Spotify's algorithm isn't optimized for that."
+  },
+  {
+    "startTime": 363.6,
+    "endTime": 367.70000000000005,
+    "text": "Apple Music, which has emerged in recent years as a competitor to Spotify,"
+  },
+  {
+    "startTime": 367.8,
+    "endTime": 372.1,
+    "text": "released a new app in March that the company says is designed to solve this problem."
+  },
+  {
+    "startTime": 375.8,
+    "endTime": 379.7,
+    "text": "Spotify says it doesn't comment on a competitor's marketing campaigns."
+  },
+  {
+    "startTime": 380.3,
+    "endTime": 384.5,
+    "text": "In February, the streaming service joined the recent buzz around generative AI."
+  },
+  {
+    "startTime": 384.6,
+    "endTime": 389.40000000000003,
+    "text": "I'm X, and from this moment on, I'm gonna be your own personal AI DJ on Spotify."
+  },
+  {
+    "startTime": 389.5,
+    "endTime": 395.3,
+    "text": "The DJ gives the algorithm a human voice and offers listeners additional context around a recommendation."
+  },
+  {
+    "startTime": 396.1,
+    "endTime": 398.90000000000003,
+    "text": "Up next, I know you've been on a summer song kick lately."
+  },
+  {
+    "startTime": 399.2,
+    "endTime": 402.7,
+    "text": "Sultan says the company is also exploring reinforcement learning,"
+  },
+  {
+    "startTime": 402.8,
+    "endTime": 407.3,
+    "text": "a technique that would allow the recommendation system to learn automatically based on feedback."
+  },
+  {
+    "startTime": 407.4,
+    "endTime": 412.59999999999997,
+    "text": "It will help with the diversity of their recommendation, it will help with the longer-term retention."
+  },
+  {
+    "startTime": 412.7,
+    "endTime": 415.9,
+    "text": "And we're trying to push the state-of-the-art in each of those,"
+  },
+  {
+    "startTime": 416.0,
+    "endTime": 420.3,
+    "text": "introducing new technologies, new capabilities, and bringing new experiences."
+  }
+]
