@@ -1,0 +1,272 @@
+[
+  {
+    "startTime": 1.01,
+    "endTime": 3.87,
+    "text": "Cyberattacks seem to be really having a moment."
+  },
+  {
+    "startTime": 3.87,
+    "endTime": 12.71,
+    "text": "Take the U.S., for example: the FBI has reported 4,000 attacks a day since the COVID pandemic began, and there's no sign of things slowing down."
+  },
+  {
+    "startTime": 12.71,
+    "endTime": 19.41,
+    "text": "But how exactly did we get to this point, and how can cybersecurity help us get out of this mess?"
+  },
+  {
+    "startTime": 19.41,
+    "endTime": 29.62,
+    "text": "The infrastructure that we use every single day, in our houses, in our cars, in our workplaces, and generally in the country as a whole, is full of computing systems."
+  },
+  {
+    "startTime": 29.62,
+    "endTime": 41.15,
+    "text": "Anything that prevents us from getting those things done, or in some way makes that computing infrastructure create a negative event, you know, we could consider that to be a threat."
+  },
+  {
+    "startTime": 41.15,
+    "endTime": 48.23,
+    "text": "Basically, cybersecurity refers to the practices, technologies, and processes designed to keep all of those threats at bay."
+  },
+  {
+    "startTime": 48.23,
+    "endTime": 56.379999999999995,
+    "text": "And these threats have evolved a LOT since the 1950s, back when Steve Jobs was hacking phones to make free long-distance calls."
+  },
+  {
+    "startTime": 56.38,
+    "endTime": 64.27,
+    "text": "A watershed moment for the world of cyberthreats came in 2010 with the discovery of STUXNET, the world's first digital weapon."
+  },
+  {
+    "startTime": 64.27,
+    "endTime": 73.85,
+    "text": "It was found targeting Iran's nuclear facilities, and in the process, proved that cyberattacks could have devastating consequences beyond the digital realm."
+  },
+  {
+    "startTime": 73.85,
+    "endTime": 84.67999999999999,
+    "text": "That kind of cyber-physical environment is really quite a modern phenomena in the last few decades, and so securing that environment is really what cybersecurity is all about."
+  },
+  {
+    "startTime": 84.68,
+    "endTime": 89.48,
+    "text": "Computers today are more complex than ever, as are the types of threats they face."
+  },
+  {
+    "startTime": 89.48,
+    "endTime": 97.33,
+    "text": "The more we ask our computers to do, open an email, visit a webpage, join a network, the more potential points of attack emerge."
+  },
+  {
+    "startTime": 97.33,
+    "endTime": 102.13,
+    "text": "To exploit these vulnerabilities, hackers have countless tools up their sleeves."
+  },
+  {
+    "startTime": 102.13,
+    "endTime": 111.77,
+    "text": "Create computer viruses, send out fraudulent emails, or flood a server with requests until it becomes totally unresponsive."
+  },
+  {
+    "startTime": 111.77,
+    "endTime": 123.83,
+    "text": "This ever-shifting threat landscape is of particular concern for governments and other organizations that use computers to deal with sensitive data and networks, like, say, the ones used to manage our power grids."
+  },
+  {
+    "startTime": 123.83,
+    "endTime": 127.16,
+    "text": "But it's not always easy to tell what's going on."
+  },
+  {
+    "startTime": 127.16,
+    "endTime": 138.56,
+    "text": "So, if we're talking about a very low competence, crude attack, there will be sort of digital fingerprints if you like, that will show you very quickly that actually something deliberate has been done here."
+  },
+  {
+    "startTime": 138.56,
+    "endTime": 148.08,
+    "text": "However, for more sophisticated attackers, if they want to hide their tracks a little bit, then the real problem with cybersecurity is that, that's possible to do."
+  },
+  {
+    "startTime": 148.08,
+    "endTime": 155.28,
+    "text": "And that's the kind of thing that you see in national level cyber attacks and defense postures."
+  },
+  {
+    "startTime": 155.28,
+    "endTime": 160.63,
+    "text": "And nowhere have we seen these concerns materialize so dramatically as in the U.S."
+  },
+  {
+    "startTime": 160.63,
+    "endTime": 171.24,
+    "text": "For years, experts have warned that if the U.S. government didn't change its behaviors, the fallout from cyberattacks would only get worse. But our ability to pivot hasn't kept pace."
+  },
+  {
+    "startTime": 171.24,
+    "endTime": 184.55,
+    "text": "For one, many U.S. federal agencies still rely heavily on “legacy systems” aka old, which are not only costly to maintain but also super vulnerable to hackers because of their outdated code and architecture."
+  },
+  {
+    "startTime": 184.55,
+    "endTime": 192.93,
+    "text": "That's not to say the government hasn't invested in new technology, notably, EINSTEIN, with the first version coming onto the scene in 2003."
+  },
+  {
+    "startTime": 192.93,
+    "endTime": 200.65,
+    "text": "This machine learning tool is used by nearly every federal agency to detect suspicious activity and identify potential attacks."
+  },
+  {
+    "startTime": 200.65,
+    "endTime": 207.51000000000002,
+    "text": "But even EINSTEIN has its limitations, because it's only one tool in our many layers of defense."
+  },
+  {
+    "startTime": 207.51,
+    "endTime": 215.56,
+    "text": "Because cybersecurity is such a big job, the government outsources a lot of its needs to 3rd party providers, like SolarWinds."
+  },
+  {
+    "startTime": 215.56,
+    "endTime": 220.81,
+    "text": "But when the company got hacked in 2020, EINSTEIN failed to detect the intrusion."
+  },
+  {
+    "startTime": 220.81,
+    "endTime": 229.77,
+    "text": "It wasn't until after that programmers introduced signatures of the SolarWinds attack to EINSTEIN's system, so that it could learn to do better next time."
+  },
+  {
+    "startTime": 229.77,
+    "endTime": 236.13000000000002,
+    "text": "This so-called \"penetrate-and-patch\" approach to cybersecurity is sort of like patching up an old pair of jeans."
+  },
+  {
+    "startTime": 236.13,
+    "endTime": 243.14,
+    "text": "The more patches you sew onto them, the more embarrassing they look and the less they function like actual jeans."
+  },
+  {
+    "startTime": 243.14,
+    "endTime": 250.32,
+    "text": "Patching introduces risk, and also makes it so that we're constantly working to fix the mess that cyber threats leave behind."
+  },
+  {
+    "startTime": 250.32,
+    "endTime": 257.81,
+    "text": "And these messes are expensive. Losses from cybercrime now total over $1 trillion globally."
+  },
+  {
+    "startTime": 257.81,
+    "endTime": 261.11,
+    "text": "Clearly, something's gotta change."
+  },
+  {
+    "startTime": 261.11,
+    "endTime": 265.95,
+    "text": "One approach that's gaining traction is to implement zero-trust architecture."
+  },
+  {
+    "startTime": 265.95,
+    "endTime": 275.05,
+    "text": "Basically, this means every user in a system must be authenticated on a continual basis, no matter if they're operating from inside the organization or not."
+  },
+  {
+    "startTime": 275.05,
+    "endTime": 284.01,
+    "text": "As part of a recent executive order by President Biden to modernize the government's cybersecurity, this zero-trust model will now be required."
+  },
+  {
+    "startTime": 284.01,
+    "endTime": 287.59,
+    "text": "Another emerging solution is called secure by design."
+  },
+  {
+    "startTime": 287.59,
+    "endTime": 292.65999999999997,
+    "text": "Its basic approach is to bake security into the design of computer hardware and software."
+  },
+  {
+    "startTime": 292.66,
+    "endTime": 296.68,
+    "text": "So, every step of the way, as you're developing that product, the security is a core feature of it."
+  },
+  {
+    "startTime": 296.68,
+    "endTime": 299.52,
+    "text": "So that by the time you get to the end, there's no bolting on."
+  },
+  {
+    "startTime": 299.52,
+    "endTime": 307.07,
+    "text": "One core tenant of this approach is to keep the system's architecture simple, so that the risk of design error is kept low."
+  },
+  {
+    "startTime": 307.07,
+    "endTime": 314.28,
+    "text": "But this approach can't always react to new vulnerabilities, which is why developing cyber resilience is so important."
+  },
+  {
+    "startTime": 314.28,
+    "endTime": 325.60999999999996,
+    "text": "The idea is that by employing certain strategies, like automatically backing up your data, blocking threats before they infiltrate your network, and training a system's users to identify problems before they arise,"
+  },
+  {
+    "startTime": 325.61,
+    "endTime": 328.96000000000004,
+    "text": "we'll be prepared whenever a cyber attack does hit."
+  },
+  {
+    "startTime": 328.96,
+    "endTime": 333.60999999999996,
+    "text": "Because at the end of the day, we're all playing a role in our cyber infrastructure."
+  },
+  {
+    "startTime": 333.61,
+    "endTime": 341.33000000000004,
+    "text": "So we should all be aware of the vulnerabilities out there and keep pressuring our government representatives to take them more seriously too."
+  },
+  {
+    "startTime": 341.33,
+    "endTime": 347.68,
+    "text": "It's easy to think about cyber as just being about computers, but it's actually about human beings working with computational systems, right?"
+  },
+  {
+    "startTime": 347.68,
+    "endTime": 356.96,
+    "text": "So we're all involved in it. So we should all be conscious of it, and understand how we use that infrastructure and maybe what the vulnerabilities are that we might face."
+  },
+  {
+    "startTime": 356.96,
+    "endTime": 360.71,
+    "text": "You may remember me saying that Steve Jobs used to hack phones."
+  },
+  {
+    "startTime": 360.71,
+    "endTime": 370.02,
+    "text": "He was part of a group called the phreaks, spelled ph-, for phone, who reverse-engineered the tones used by telecom companies to route long-distance calls."
+  },
+  {
+    "startTime": 370.02,
+    "endTime": 372.65,
+    "text": "Ah, the early days of hacking culture."
+  },
+  {
+    "startTime": 372.65,
+    "endTime": 379.51,
+    "text": "But if you want to learn more about hacking today, check out this video on the 2020 cyberattack that took out SolarWinds."
+  },
+  {
+    "startTime": 379.51,
+    "endTime": 381.86,
+    "text": "Let us know if there's anything else you want us to cover."
+  },
+  {
+    "startTime": 381.86,
+    "endTime": 387.73,
+    "text": "Be sure to subscribe, and as always, thank you so much for watching. I'll see you next time on Seeker."
+  }
+]
