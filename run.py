@@ -205,6 +205,7 @@ def download_with_retry(fetch_fn, video_id: str, label: str) -> str:
         STATUS_FAILED      — all retries exhausted due to errors
     """
     last_exception = None
+    return STATUS_NO_SUBTITLE
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             data = fetch_fn(video_id)
