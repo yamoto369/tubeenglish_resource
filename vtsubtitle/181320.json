@@ -1,0 +1,352 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 4.0,
+    "text": "We're now joined by the founder and CEO of CrowdStrike, George Kurtz."
+  },
+  {
+    "startTime": 5.0,
+    "endTime": 7.0,
+    "text": "George, it's good to see a lot of people woke up."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 9.0,
+    "text": "They saw that blue screen of death."
+  },
+  {
+    "startTime": 9.0,
+    "endTime": 15.0,
+    "text": "We've been hearing all about the messes at the airports, a lot of broadcast channels, Australia, even ours here."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 18.0,
+    "text": "We were we had those blue screens everywhere."
+  },
+  {
+    "startTime": 18.0,
+    "endTime": 21.0,
+    "text": "People are wondering what happened."
+  },
+  {
+    "startTime": 21.0,
+    "endTime": 22.0,
+    "text": "So what did happen?"
+  },
+  {
+    "startTime": 22.0,
+    "endTime": 23.0,
+    "text": "Yeah."
+  },
+  {
+    "startTime": 23.0,
+    "endTime": 28.0,
+    "text": "So first, thank you for giving me the opportunity to chat with you first on air."
+  },
+  {
+    "startTime": 28.0,
+    "endTime": 37.0,
+    "text": "And I want to start with saying we're deeply sorry for the impact that we've caused to customers, to travelers, to anyone affected by this, including our companies."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 40.0,
+    "text": "So we know what the issue is."
+  },
+  {
+    "startTime": 40.0,
+    "endTime": 42.0,
+    "text": "We're resolving and have resolved the issue."
+  },
+  {
+    "startTime": 43.0,
+    "endTime": 45.0,
+    "text": "Now it's recovering systems that are out there."
+  },
+  {
+    "startTime": 45.0,
+    "endTime": 58.0,
+    "text": "And essentially, as you've talked about in the statement I put out is the system was sent an update and that update had a software bug in it and caused a an issue with the Microsoft operating system."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 63.0,
+    "text": "And we identified this very quickly and remediated the issue."
+  },
+  {
+    "startTime": 63.0,
+    "endTime": 67.0,
+    "text": "And as systems come back online, as they're rebooted, they're coming up and they're working."
+  },
+  {
+    "startTime": 67.0,
+    "endTime": 73.0,
+    "text": "And now we are working with each and every customer to make sure that we can bring them back online."
+  },
+  {
+    "startTime": 73.0,
+    "endTime": 75.0,
+    "text": "But that was the extent of an issue."
+  },
+  {
+    "startTime": 76.0,
+    "endTime": 79.0,
+    "text": "The issue in terms of a bug that was related to our update."
+  },
+  {
+    "startTime": 80.0,
+    "endTime": 83.0,
+    "text": "Mr. Kurtz, it's Savannah here in Milwaukee."
+  },
+  {
+    "startTime": 83.0,
+    "endTime": 88.0,
+    "text": "I mean, you're in the cybersecurity business and I certainly don't even pretend to understand this."
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 104.0,
+    "text": "But according to your statement, it was a single content update that has managed to shut down air travel, credit card payment systems, banks, broadcast, street lights, 9-1-1, emergency around the globe."
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 108.0,
+    "text": "Why is there not some kind of redundancy or some sort of backup?"
+  },
+  {
+    "startTime": 108.0,
+    "endTime": 114.0,
+    "text": "How is it that one single software bug can have such a profound and immediate impact?"
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 124.0,
+    "text": "Well, when you look at the complexity of cybersecurity, you're always trying to stay one, excuse me, one step ahead of the adversaries."
+  },
+  {
+    "startTime": 125.0,
+    "endTime": 126.0,
+    "text": "Excuse me."
+  },
+  {
+    "startTime": 126.0,
+    "endTime": 128.0,
+    "text": "Just one second, please."
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 129.0,
+    "text": "Oh, yeah."
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 131.0,
+    "text": "Take a drink of water."
+  },
+  {
+    "startTime": 131.0,
+    "endTime": 132.0,
+    "text": "Yeah, sorry."
+  },
+  {
+    "startTime": 132.0,
+    "endTime": 133.0,
+    "text": "I'm sure it's been a long night."
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 134.0,
+    "text": "It's been a long night."
+  },
+  {
+    "startTime": 134.0,
+    "endTime": 136.0,
+    "text": "We're always trying to stay one step ahead of the adversaries."
+  },
+  {
+    "startTime": 137.0,
+    "endTime": 145.0,
+    "text": "And in this particular case, you know, our systems are always looking for the latest attacks from these adversaries that are out there."
+  },
+  {
+    "startTime": 145.0,
+    "endTime": 147.0,
+    "text": "So this content update went out."
+  },
+  {
+    "startTime": 148.0,
+    "endTime": 158.0,
+    "text": "And as it does and it's been doing for many, many years, obviously, we've got a robust team that's looking at the safety and security and the quality of these updates."
+  },
+  {
+    "startTime": 158.0,
+    "endTime": 160.0,
+    "text": "And we have to go back and see what happened here."
+  },
+  {
+    "startTime": 161.0,
+    "endTime": 169.0,
+    "text": "But if there is a negative interaction with the way some of these operating systems work, in this particular case, it was only the Microsoft operating system that was impacted."
+  },
+  {
+    "startTime": 169.0,
+    "endTime": 172.0,
+    "text": "You'll see a reaction like this."
+  },
+  {
+    "startTime": 172.0,
+    "endTime": 174.0,
+    "text": "And this is what we've seen here."
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 175.0,
+    "text": "Yeah."
+  },
+  {
+    "startTime": 175.0,
+    "endTime": 181.0,
+    "text": "I think a lot of people woke up and wondered if something nefarious was afoot, if this was some kind of a cyber attack."
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 184.0,
+    "text": "But you're saying that it was just something within your own system."
+  },
+  {
+    "startTime": 184.0,
+    "endTime": 187.0,
+    "text": "So now, as we sit here, I was watching the news out of Australia."
+  },
+  {
+    "startTime": 188.0,
+    "endTime": 194.0,
+    "text": "They were trying to get their television stations back on the air, their hospital software back up and running, the banks going."
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 198.0,
+    "text": "How long does it take to get everything back up and running?"
+  },
+  {
+    "startTime": 199.0,
+    "endTime": 203.0,
+    "text": "Well, yeah, first and foremost, again, just to reinforce what you said, it wasn't a cyber attack."
+  },
+  {
+    "startTime": 203.0,
+    "endTime": 205.0,
+    "text": "You know, it was related to this this content update."
+  },
+  {
+    "startTime": 206.0,
+    "endTime": 212.0,
+    "text": "And as you might imagine, we've been on with our customers all night and working with them."
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 221.0,
+    "text": "Many of the customers are rebooting the system and it's coming up and it will be operational because of, you know, we fixed it on our end."
+  },
+  {
+    "startTime": 221.0,
+    "endTime": 224.0,
+    "text": "And some of the systems that aren't recovering, we're working with them."
+  },
+  {
+    "startTime": 224.0,
+    "endTime": 229.0,
+    "text": "So it could be some time for some systems that just automatically won't recover."
+  },
+  {
+    "startTime": 230.0,
+    "endTime": 236.0,
+    "text": "But it is, you know, it is our mission is why we're here to make sure that every customer is fully recovered."
+  },
+  {
+    "startTime": 236.0,
+    "endTime": 240.0,
+    "text": "And we're not going to relent until we get every customer back to where they were."
+  },
+  {
+    "startTime": 240.0,
+    "endTime": 243.0,
+    "text": "And we continue to protect them and keep the bad guys out of their systems."
+  },
+  {
+    "startTime": 244.0,
+    "endTime": 248.0,
+    "text": "Did you ever think, Mr. Hearst, that you could experience something like this?"
+  },
+  {
+    "startTime": 249.0,
+    "endTime": 252.0,
+    "text": "I mean, is this the breadth of this surprise you?"
+  },
+  {
+    "startTime": 254.0,
+    "endTime": 259.0,
+    "text": "Well, when you look at software, it is a is a very complex world and there's a lot of interactions."
+  },
+  {
+    "startTime": 259.0,
+    "endTime": 264.0,
+    "text": "And always staying ahead of the adversary is certainly a tall task."
+  },
+  {
+    "startTime": 265.0,
+    "endTime": 272.0,
+    "text": "So these sort of things, obviously, you know, you try to understand and mitigate them."
+  },
+  {
+    "startTime": 272.0,
+    "endTime": 279.0,
+    "text": "And in some cases you have a weird interaction and it didn't seem like it happened on every Windows system."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 283.0,
+    "text": "There's different versions and flavors and patch levels, if you will."
+  },
+  {
+    "startTime": 283.0,
+    "endTime": 287.0,
+    "text": "And we're just trying to sort out where the that negative interaction was."
+  },
+  {
+    "startTime": 287.0,
+    "endTime": 291.0,
+    "text": "And again, that's what we're focused on, getting customers back up and running."
+  },
+  {
+    "startTime": 292.0,
+    "endTime": 298.0,
+    "text": "CrowdStrike CEO Joris Kurtz, we appreciate you coming on the air so quickly after this happened and explain your company's point of view."
+  },
+  {
+    "startTime": 298.0,
+    "endTime": 299.0,
+    "text": "We really appreciate it."
+  },
+  {
+    "startTime": 299.0,
+    "endTime": 299.0,
+    "text": "Thank you so much."
+  },
+  {
+    "startTime": 300.0,
+    "endTime": 300.0,
+    "text": "Thank you."
+  },
+  {
+    "startTime": 300.0,
+    "endTime": 300.0,
+    "text": "Thank you very much."
+  },
+  {
+    "startTime": 301.0,
+    "endTime": 301.0,
+    "text": " Thank you."
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 5.24,
+    "text": "The tech world right now is absolutely captivated with artificial intelligence."
+  },
+  {
+    "startTime": 5.28,
+    "endTime": 6.44,
+    "text": "Artificial intelligence."
+  },
+  {
+    "startTime": 6.48,
+    "endTime": 15.24,
+    "text": "The estimates are for big tech to spend big time bucks on artificial intelligence. And one company in particular seems to be on everyone's lips. OpenAI."
+  },
+  {
+    "startTime": 15.28,
+    "endTime": 17.799,
+    "text": "Breaking news right now on OpenAI."
+  },
+  {
+    "startTime": 17.84,
+    "endTime": 34.16,
+    "text": "OpenAI and Altman are on a quest to develop AGI or artificial general intelligence. The company behind the popular chatbot, ChatGPT, OpenAI was founded in 2015 by a number of researchers, academics and entrepreneurs, including Sam Altman, Greg Brockman and Elon Musk."
+  },
+  {
+    "startTime": 34.52,
+    "endTime": 41.119,
+    "text": "Altman and Brockman are still at OpenAI today, serving as CEO and president respectively. Elon Musk left the company in 2018."
+  },
+  {
+    "startTime": 41.439,
+    "endTime": 48.439,
+    "text": "At the time, OpenAI said Musk left to avoid a conflict of interest with his other company, Tesla, which was becoming increasingly focused on AI."
+  },
+  {
+    "startTime": 48.919,
+    "endTime": 53.239999999999995,
+    "text": "In the years since, OpenAI has grown into one of the most prominent leaders in AI development."
+  },
+  {
+    "startTime": 53.56,
+    "endTime": 57.04,
+    "text": "OpenAI's growth has absolutely exploded in recent years."
+  },
+  {
+    "startTime": 57.279,
+    "endTime": 64.0,
+    "text": "Nearly a decade ago, it was just a research lab that not many people had ever heard of. Now it's a household name."
+  },
+  {
+    "startTime": 71.08,
+    "endTime": 77.959,
+    "text": "Today, we've got about two million developers building on our API for a wide variety of use cases, doing amazing stuff."
+  },
+  {
+    "startTime": 78.8,
+    "endTime": 82.87899999999999,
+    "text": "Over 92 percent of Fortune 500 companies building on our products."
+  },
+  {
+    "startTime": 83.879,
+    "endTime": 87.80000000000001,
+    "text": "And we have about 100 million weekly active users now on ChatGPT."
+  },
+  {
+    "startTime": 87.959,
+    "endTime": 91.199,
+    "text": "OpenAI has kept up a rapid clip of growth."
+  },
+  {
+    "startTime": 91.239,
+    "endTime": 106.44,
+    "text": "It's scaled its corporate partnerships and continues to launch new innovations. All of that has earned OpenAI a reported 86 billion dollar valuation. With metrics like this, it may be hard to believe that OpenAI was founded as a nonprofit."
+  },
+  {
+    "startTime": 106.599,
+    "endTime": 117.36,
+    "text": "Their original mission statement was something like to advance artificial intelligence in a way that benefits all of humanity, unconstrained by a need for financial return."
+  },
+  {
+    "startTime": 117.519,
+    "endTime": 121.36,
+    "text": "Early on, a number of investors, including Amazon Web Services, YC Research,"
+  },
+  {
+    "startTime": 121.4,
+    "endTime": 127.48,
+    "text": "Musk, Peter Thiel and others, injected an eye-popping $1 billion into the nonprofit so that it could begin its work."
+  },
+  {
+    "startTime": 127.8,
+    "endTime": 132.19899999999998,
+    "text": "But OpenAI was not the first lab to tackle the challenge of advancing artificial intelligence."
+  },
+  {
+    "startTime": 132.44,
+    "endTime": 136.19899999999998,
+    "text": "UK startup DeepMind, which opened its doors in 2010 and was acquired by"
+  },
+  {
+    "startTime": 136.199,
+    "endTime": 140.36,
+    "text": "Google for around $500 million in 2014, had a similar goal."
+  },
+  {
+    "startTime": 140.639,
+    "endTime": 142.559,
+    "text": "OpenAI refers to open source."
+  },
+  {
+    "startTime": 142.72,
+    "endTime": 143.919,
+    "text": "What's the opposite of Google?"
+  },
+  {
+    "startTime": 143.919,
+    "endTime": 152.839,
+    "text": "It would be an open source nonprofit because Google is closed source for-profit. And that profit motivation can be potentially dangerous."
+  },
+  {
+    "startTime": 153.08,
+    "endTime": 158.03900000000002,
+    "text": "In the early years, OpenAI flew somewhat under the radar, at least from the point of view of the general public."
+  },
+  {
+    "startTime": 158.36,
+    "endTime": 166.36,
+    "text": "The company released its first project in 2016, a toolkit called OpenAI Gym, used for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "startTime": 166.44,
+    "endTime": 174.07999999999998,
+    "text": "Reinforcement learning algorithms are a set of algorithms and approaches that essentially allow you to give feedback to a model."
+  },
+  {
+    "startTime": 174.279,
+    "endTime": 188.6,
+    "text": "It's like you having a student that is put into a classroom and then you give it a bunch of information and then you have to try and answer a bunch of questions. And based upon whether it answers those questions correctly or not, you give it positive feedback or negative feedback."
+  },
+  {
+    "startTime": 188.639,
+    "endTime": 191.559,
+    "text": "And if it gets positive feedback, we'll fold it into its knowledge base."
+  },
+  {
+    "startTime": 191.559,
+    "endTime": 193.24,
+    "text": "If it gets negative feedback, it will not."
+  },
+  {
+    "startTime": 193.44,
+    "endTime": 209.88,
+    "text": "So essentially, what it boils down to is it's a way for people or systems to further iterate on a model to direct it towards a certain set of behaviors. In 2016, OpenAI also released Universe, a tool to train intelligent agents on websites and gaming platforms."
+  },
+  {
+    "startTime": 210.36,
+    "endTime": 215.919,
+    "text": "But training and running artificial intelligence requires a massive amount of data and an incredible amount of computing power."
+  },
+  {
+    "startTime": 216.32,
+    "endTime": 220.79999999999998,
+    "text": "In 2017, the company spent $7.9 million on cloud computing alone."
+  },
+  {
+    "startTime": 220.8,
+    "endTime": 239.52,
+    "text": "OpenAI was growing fast, and leaders at the company realized that if the growth was to continue, OpenAI would need to invest billions of dollars into large-scale cloud computing, attracting talent and building AI supercomputers. The company's solution was launching what it called a capped-profit organization alongside its nonprofit arm."
+  },
+  {
+    "startTime": 239.88,
+    "endTime": 249.16,
+    "text": "This move, OpenAI said, would enable it to raise outside funding and hand out equity to employees, an incentive commonly offered by tech startups trying to attract top talent."
+  },
+  {
+    "startTime": 249.6,
+    "endTime": 259.6,
+    "text": "The capped part meant that investors and employees would be limited in the amount of returns they could get, regardless of how successful the company became. A few months later, Microsoft invested $1 billion in"
+  },
+  {
+    "startTime": 259.6,
+    "endTime": 265.35900000000004,
+    "text": "OpenAI in a partnership whereby the two companies would jointly develop new AI technologies on Microsoft's Azure cloud."
+  },
+  {
+    "startTime": 265.799,
+    "endTime": 269.2,
+    "text": "To date, Microsoft has invested $13 billion into OpenAI."
+  },
+  {
+    "startTime": 269.519,
+    "endTime": 278.44,
+    "text": "Their partnership seems to really have been based around Microsoft getting access to the cutting-edge technologies that OpenAI is developing and releasing before anybody else."
+  },
+  {
+    "startTime": 278.559,
+    "endTime": 282.079,
+    "text": "That has been manifested and continues to be manifested in the way that"
+  },
+  {
+    "startTime": 282.2,
+    "endTime": 288.64,
+    "text": "OpenAI is only deployed on Azure as the OpenAI service and not on any of the other major cloud providers."
+  },
+  {
+    "startTime": 291.399,
+    "endTime": 299.679,
+    "text": "With the support of Microsoft, OpenAI continued to develop its artificial intelligence technology, and in 2022, the company's for-profit arm released ChatGPT."
+  },
+  {
+    "startTime": 299.959,
+    "endTime": 308.32,
+    "text": "ChatGPT is a chatbot powered by artificial intelligence, which basically means it ingests a ton of human language from all over the"
+  },
+  {
+    "startTime": 308.32,
+    "endTime": 323.59999999999997,
+    "text": "Internet, maybe Reddit, Google search results, maybe travel blogs, whatever it was trained on, it will use all of that to come up with a response to you that sounds like a way a human would answer your question. Here's Brian Chesky, a close friend of Altman and CEO of"
+  },
+  {
+    "startTime": 323.6,
+    "endTime": 333.399,
+    "text": "Airbnb, recounting the moment ChatGPT launched during a recent interview. It was a phenomenon unlike anything we'd seen probably since the launch of the iPhone. I have no recollection of anything."
+  },
+  {
+    "startTime": 333.44,
+    "endTime": 335.92,
+    "text": "And we knew overnight everything was going to change."
+  },
+  {
+    "startTime": 336.32,
+    "endTime": 337.32,
+    "text": "Chesky was right."
+  },
+  {
+    "startTime": 337.88,
+    "endTime": 343.079,
+    "text": "ChatGPT catapulted OpenAI's name to new heights and made it one of the world's most valuable startups."
+  },
+  {
+    "startTime": 343.279,
+    "endTime": 356.04,
+    "text": "Chatbots have been around for a while, but I think what set ChatGPT apart here was the fact that it debuted at a time when public interest and curiosity around AI was at an all-time high."
+  },
+  {
+    "startTime": 356.2,
+    "endTime": 357.399,
+    "text": "It was very easy to use."
+  },
+  {
+    "startTime": 357.44,
+    "endTime": 360.32,
+    "text": "Anyone could just go to the website and use it immediately."
+  },
+  {
+    "startTime": 360.6,
+    "endTime": 366.72,
+    "text": "And it really just started to be part of the zeitgeist in a way that no chatbot ever had been before."
+  },
+  {
+    "startTime": 367.359,
+    "endTime": 373.359,
+    "text": "Within two months, it had 100 million monthly users and it broke records."
+  },
+  {
+    "startTime": 376.2,
+    "endTime": 406.76,
+    "text": "For many, OpenAI's ChatGPT was the first time that they were exposed to generative AI. Unlike typical machine learning, which focuses on analyzing data patterns and making predictions, generative AI can create new content. Generative AI specifically puts out images, text, video, code, basically anything you can generate as a result of the data it was trained on. All this has been made possible by the development of large language models, which experts say have come a long way in the last several years."
+  },
+  {
+    "startTime": 406.839,
+    "endTime": 416.04,
+    "text": "Language model is a class of algorithms that are used to model the way that human language is developed and expressed."
+  },
+  {
+    "startTime": 416.559,
+    "endTime": 423.72,
+    "text": "And essentially what these do is they take a whole bunch of data and they look at all of it and they understand how that data relates to each other."
+  },
+  {
+    "startTime": 423.72,
+    "endTime": 438.16,
+    "text": "And then they build a construction, a model of how that all relates to each other. The reason that we call them large language models is because there's so much data in there that it is just orders and orders and orders of magnitude bigger than the language models that we've had in the past."
+  },
+  {
+    "startTime": 438.88,
+    "endTime": 442.239,
+    "text": "And generative AI is no longer limited to text-based outputs."
+  },
+  {
+    "startTime": 442.679,
+    "endTime": 466.64,
+    "text": "Besides ChatGPT, OpenAI also offers DALI 3, which takes a user's text prompt and turns it into still images, while Sora transforms text prompts to videos. The company has been working on rolling all these tools into the latest version of ChatGPT called ChatGPT 4.0, as well as giving the chatbot access to other sensory inputs, including sight and sound, allowing for applications such as real-time tutoring and translation."
+  },
+  {
+    "startTime": 467.16,
+    "endTime": 468.64000000000004,
+    "text": "What are these objects in Spanish?"
+  },
+  {
+    "startTime": 469.64,
+    "endTime": 474.399,
+    "text": "The objects you're showing are una manzana and un plátano in Spanish."
+  },
+  {
+    "startTime": 474.559,
+    "endTime": 481.079,
+    "text": "The O stands for Omni, meaning it has improved capabilities in video, audio and text."
+  },
+  {
+    "startTime": 481.119,
+    "endTime": 489.92,
+    "text": "What it can do ranges from being able to sing, being able to generate code, being able to perceive or analyze users' facial expressions."
+  },
+  {
+    "startTime": 490.359,
+    "endTime": 499.0,
+    "text": "It can handle up to 50 different languages and it can also handle users interrupting it, which I think is a big step forward for chatbots."
+  },
+  {
+    "startTime": 499.64,
+    "endTime": 507.88,
+    "text": "OpenAI already makes a pretty penny from its technology, largely from paid versions of ChatGPT, which the company began to monetize in early 2023."
+  },
+  {
+    "startTime": 508.079,
+    "endTime": 518.159,
+    "text": "OpenAI reportedly makes an annualized revenue right now of $3.4 billion from things like consumers subscribing to a Plus version of"
+  },
+  {
+    "startTime": 518.159,
+    "endTime": 525.679,
+    "text": "ChatGPT, companies subscribing to ChatGPT's Enterprise product and developers paying to access the API."
+  },
+  {
+    "startTime": 526.159,
+    "endTime": 534.599,
+    "text": "In July, OpenAI announced that it was testing a new search engine to incorporate into ChatGPT that would give users fast and timely answers with clear and relevant sources."
+  },
+  {
+    "startTime": 534.76,
+    "endTime": 537.84,
+    "text": "The technology is seen as a direct competitor to Google Search."
+  },
+  {
+    "startTime": 537.919,
+    "endTime": 551.559,
+    "text": "What we've seen from OpenAI over the past couple of years is that they definitely seem to have an interest in being a commercial company and in being a company that serves the largest businesses in the world, that serves enterprise companies."
+  },
+  {
+    "startTime": 552.359,
+    "endTime": 559.0,
+    "text": "A number of companies, including PwC, Moderna and Estee Lauder, have already started to introduce ChatGPT into their workflows."
+  },
+  {
+    "startTime": 559.32,
+    "endTime": 579.2800000000001,
+    "text": "There are a lot of biotech research applications, drug discovery, certain applications within legal services, anything that requires ingesting a bunch of data or documents or information and then summarizing it, creating tasks based off of it, creating key takeaways."
+  },
+  {
+    "startTime": 579.76,
+    "endTime": 600.5989999999999,
+    "text": "If we look at the software development space, I think that that is the area that has been influenced probably most obviously at this point in time. A recent report found that jobs in the banking sector were the most likely to be impacted by AI, followed by jobs in the insurance and energy sectors. As for what that will mean for human workers in these sectors, Curran says it may still be too early to tell."
+  },
+  {
+    "startTime": 600.919,
+    "endTime": 607.0799999999999,
+    "text": "As with every technological innovation and development, there's going to be a shift in where the jobs are and there will be some job loss."
+  },
+  {
+    "startTime": 607.08,
+    "endTime": 624.88,
+    "text": "We're going to see some job transformation, but I think that the net growth is going to be significantly greater than the jobs that are lost at this point. All this potential has got investors and tech giants excited, many of which are heavily investing in AI startups as well as building out their own technology."
+  },
+  {
+    "startTime": 625.0,
+    "endTime": 629.28,
+    "text": "Amazon saying that it will invest up to $4 billion in AI company"
+  },
+  {
+    "startTime": 629.28,
+    "endTime": 637.0799999999999,
+    "text": "Anthropic. Microsoft, Alphabet and Meta all outlining plans to spend tens of billions a quarter to develop AI products."
+  },
+  {
+    "startTime": 637.159,
+    "endTime": 640.159,
+    "text": "The generative AI market is just popping off right now."
+  },
+  {
+    "startTime": 640.239,
+    "endTime": 645.76,
+    "text": "Experts have said that it is estimated that it will generate $1 trillion within the next decade."
+  },
+  {
+    "startTime": 646.119,
+    "endTime": 650.0,
+    "text": "The OpenAI's biggest competitor that's still a startup is Anthropic."
+  },
+  {
+    "startTime": 650.119,
+    "endTime": 654.52,
+    "text": "Other competitors include Cohere, which is more enterprise focused, and"
+  },
+  {
+    "startTime": 654.679,
+    "endTime": 657.119,
+    "text": "Google and Microsoft themselves."
+  },
+  {
+    "startTime": 658.039,
+    "endTime": 667.799,
+    "text": "In addition to OpenAI, Microsoft has invested in over 20 other AI startups since 2022, including French startup Mistral AI, robotic startup Figure AI and Inflection AI."
+  },
+  {
+    "startTime": 668.32,
+    "endTime": 670.9190000000001,
+    "text": "The company also has its own chatbot called Copilot."
+  },
+  {
+    "startTime": 671.559,
+    "endTime": 678.159,
+    "text": "Google has invested in Anthropic, Hugging Face and its own Gemini models. Amazon has also backed Anthropic and Hugging Face as well as"
+  },
+  {
+    "startTime": 678.159,
+    "endTime": 680.96,
+    "text": "Scale AI, which also counts Meta as an investor."
+  },
+  {
+    "startTime": 681.679,
+    "endTime": 684.8399999999999,
+    "text": "Earlier this year, Meta also rolled out its competitor to Chad GPT and"
+  },
+  {
+    "startTime": 684.84,
+    "endTime": 686.4,
+    "text": "Gemini called Meta AI."
+  },
+  {
+    "startTime": 687.52,
+    "endTime": 689.159,
+    "text": "Even Apple is getting in on the action."
+  },
+  {
+    "startTime": 689.719,
+    "endTime": 697.08,
+    "text": "Apple just announcing that Chad GPT from OpenAI will be integrated into iPhone, iPad and Mac software."
+  },
+  {
+    "startTime": 697.2,
+    "endTime": 706.719,
+    "text": "To use the new feature called Apple Intelligence, users will be asked to opt in and it will only be available on Apple's latest generation of devices, including last year's iPhone 15 Pro models."
+  },
+  {
+    "startTime": 707.919,
+    "endTime": 714.4789999999999,
+    "text": "But for all the excitement the generative AI and OpenAI have stirred up, the company and technology have garnered a fair share of scrutiny."
+  },
+  {
+    "startTime": 714.919,
+    "endTime": 720.64,
+    "text": "From those who worry we're moving too fast in adopting AI without considering the potential consequences."
+  },
+  {
+    "startTime": 723.0,
+    "endTime": 726.4,
+    "text": "Despite being one of its original founders, Elon Musk has become one of"
+  },
+  {
+    "startTime": 726.4,
+    "endTime": 730.0,
+    "text": "OpenAI's largest critics since he left the company in 2018."
+  },
+  {
+    "startTime": 730.239,
+    "endTime": 738.6790000000001,
+    "text": "The war of words between OpenAI and Elon Musk over Musk's lawsuit against the company showing no signs of letting up."
+  },
+  {
+    "startTime": 738.96,
+    "endTime": 743.599,
+    "text": "Elon Musk brought a lawsuit against OpenAI and Sam Altman and Greg"
+  },
+  {
+    "startTime": 743.599,
+    "endTime": 748.0390000000001,
+    "text": "Brockman, two of the founders, for breach of contract and fiduciary duty."
+  },
+  {
+    "startTime": 748.559,
+    "endTime": 758.4399999999999,
+    "text": "In his case, he was arguing that OpenAI had strayed from its original mission as a nonprofit and that it was now a for-profit entity supporting the interests of Microsoft."
+  },
+  {
+    "startTime": 758.559,
+    "endTime": 767.0799999999999,
+    "text": "Experts I spoke with at the time said it was a pretty questionable legal foundation because there was never a formal contract that was signed by all the parties involved."
+  },
+  {
+    "startTime": 767.599,
+    "endTime": 769.599,
+    "text": "Musk dropped the original lawsuit in June."
+  },
+  {
+    "startTime": 769.96,
+    "endTime": 779.159,
+    "text": "But in early August, he filed a similar lawsuit against Altman, Brockman and OpenAI, alleging that he was manipulated into co-founding OpenAI on the basis that it would be a nonprofit."
+  },
+  {
+    "startTime": 779.84,
+    "endTime": 787.5590000000001,
+    "text": "OpenAI maintains that in 2018, Musk agreed that OpenAI needed to become a for-profit company to compete with Google, as evidenced by old emails"
+  },
+  {
+    "startTime": 787.599,
+    "endTime": 789.84,
+    "text": "OpenAI published in a blog post on its site."
+  },
+  {
+    "startTime": 791.76,
+    "endTime": 795.559,
+    "text": "Musk has a competing AI startup known as XAI and a chatbot called Grok."
+  },
+  {
+    "startTime": 795.96,
+    "endTime": 805.5590000000001,
+    "text": "This, despite Musk signing a letter last year alongside over a thousand other tech leaders and researchers calling for a moratorium on AI development because of profound risks to society and humanity."
+  },
+  {
+    "startTime": 806.119,
+    "endTime": 812.44,
+    "text": "The Tesla and SpaceX CEO also threatened to ban Apple devices at his companies after Apple announced their deal with OpenAI."
+  },
+  {
+    "startTime": 813.719,
+    "endTime": 817.08,
+    "text": "But worries about the effects of AI on society were also brewing inside"
+  },
+  {
+    "startTime": 817.08,
+    "endTime": 826.039,
+    "text": "OpenAI. In November 2023, OpenAI CEO Sam Altman was ousted from the company temporarily by its board of directors."
+  },
+  {
+    "startTime": 826.2,
+    "endTime": 847.84,
+    "text": "Certain board members have come out since then saying that they had lost trust in Altman as a leader, that he wasn't being forthcoming with the boards and that they couldn't fully trust what he said as far as the company's direction with profit-based products and the nonprofit's mission to develop AGI for the benefit of humanity."
+  },
+  {
+    "startTime": 848.4,
+    "endTime": 849.559,
+    "text": "The effort backfired."
+  },
+  {
+    "startTime": 849.88,
+    "endTime": 864.08,
+    "text": "Less than a week after he was ousted, Altman, whom Microsoft had intermittently hired, was reinstated as OpenAI's CEO and the board that fired him was replaced after hundreds of OpenAI's employees threatened to quit and join Altman at Microsoft."
+  },
+  {
+    "startTime": 865.159,
+    "endTime": 877.52,
+    "text": "Now, the government is also questioning OpenAI's and Big Tech's business practices. The Federal Trade Commission is launching an inquiry into AI deals made by tech giants, calling out specifically Microsoft, Amazon and"
+  },
+  {
+    "startTime": 877.52,
+    "endTime": 882.0799999999999,
+    "text": "Google for their billion-dollar investments into the startups OpenAI and"
+  },
+  {
+    "startTime": 882.08,
+    "endTime": 892.08,
+    "text": "Anthropic. The inquiry, the FTC says, is meant to shed light on whether investments and partnerships pursued by dominant companies risk distorting innovation and undermining fair competition."
+  },
+  {
+    "startTime": 892.52,
+    "endTime": 899.4,
+    "text": "These AI models are incredibly expensive to train, run and even build."
+  },
+  {
+    "startTime": 899.52,
+    "endTime": 922.76,
+    "text": "So I've seen estimates between a few million and one billion to train an AI model like this and to run them day by day could be hundreds of thousands or more. There's a lot of concentrated power right now between startups and big tech companies. And we may see that shift depending on the results of the FTC inquiry and other regulatory scrutiny happening right now."
+  },
+  {
+    "startTime": 923.159,
+    "endTime": 924.7189999999999,
+    "text": "This is all happening at a time when the U.S."
+  },
+  {
+    "startTime": 924.719,
+    "endTime": 942.44,
+    "text": "government has struggled to figure out how it should regulate artificial intelligence. Last October, the Biden administration issued the first ever AI executive order, which outlined new safety assessments, new equity and civil rights guidance and new research into AI's impact on the labor market."
+  },
+  {
+    "startTime": 942.599,
+    "endTime": 948.7990000000001,
+    "text": "So that was pretty well received by people in the industry that have called for more regulation, but they did say it wasn't enough."
+  },
+  {
+    "startTime": 948.84,
+    "endTime": 960.359,
+    "text": "They wanted more specifics, more wide ranging safety assessments and calls for companies to be more transparent on exactly how their models are trained and the impact that they have."
+  },
+  {
+    "startTime": 960.919,
+    "endTime": 970.559,
+    "text": "One of the big concerns with generative AI at the moment is people abusing the technology to spread misinformation and disinformation, as well as using AI to perpetuate existing biases."
+  },
+  {
+    "startTime": 971.159,
+    "endTime": 974.64,
+    "text": "At their heart, these tools are pattern generators."
+  },
+  {
+    "startTime": 974.64,
+    "endTime": 991.64,
+    "text": "So they take all of the data that they are fed and they create patterns based on that data. And since a lot of them are trained on the entirety of the Internet, they exhibit bias, sexism, racism, all sorts of problematic beliefs."
+  },
+  {
+    "startTime": 992.159,
+    "endTime": 1001.119,
+    "text": "Another concern is that as we head into a major election year globally, there's a lot of propensity for misinformation, deep fakes."
+  },
+  {
+    "startTime": 1001.52,
+    "endTime": 1003.88,
+    "text": "Sam Altman admitted to some of these issues recently."
+  },
+  {
+    "startTime": 1004.0,
+    "endTime": 1005.239,
+    "text": "Were these things inevitable?"
+  },
+  {
+    "startTime": 1005.24,
+    "endTime": 1010.72,
+    "text": "I mean, you clearly saw the risk coming as this technology was maturing."
+  },
+  {
+    "startTime": 1011.64,
+    "endTime": 1012.52,
+    "text": "Like deep fakes and stuff?"
+  },
+  {
+    "startTime": 1012.56,
+    "endTime": 1014.641,
+    "text": "Deep fakes, yeah. Face swapping."
+  },
+  {
+    "startTime": 1014.72,
+    "endTime": 1019.6800000000001,
+    "text": "Yeah. It was inevitable that the technology was going to be capable of that."
+  },
+  {
+    "startTime": 1019.76,
+    "endTime": 1024.599,
+    "text": "And so, you know, of course, there are going to be systems out there that allow that."
+  },
+  {
+    "startTime": 1025.96,
+    "endTime": 1039.72,
+    "text": "But that's where I think we, society and governments, have a role to say, you know, we'll allow some use cases of technology we're not comfortable with, but in some places we are going to draw a line."
+  },
+  {
+    "startTime": 1040.32,
+    "endTime": 1044.24,
+    "text": "And face swapping, deep fake revenge porn is a great place to draw a line."
+  },
+  {
+    "startTime": 1044.72,
+    "endTime": 1050.801,
+    "text": "Back in May, OpenAI raised eyebrows after the company announced that it was disbanding its team focused on long-term AI risks."
+  },
+  {
+    "startTime": 1051.52,
+    "endTime": 1081.119,
+    "text": "In July, OpenAI also reassigned its top AI safety executive to a role focused on AI reasoning. However, OpenAI does continue to use what the industry calls red teamers. Red teamers test a company's models from within to see exactly how disturbing, unsafe, negative or dangerous they can be and report that to the company so that hopefully they can put up more guardrails and stop that from happening. Since the beginning, copyright issues have also plagued OpenAI."
+  },
+  {
+    "startTime": 1081.32,
+    "endTime": 1085.84,
+    "text": "The New York Times sued OpenAI and Microsoft today, alleging the pair used the"
+  },
+  {
+    "startTime": 1085.84,
+    "endTime": 1089.521,
+    "text": "Times' copyrighted material to train their AI models."
+  },
+  {
+    "startTime": 1089.88,
+    "endTime": 1093.239,
+    "text": "The Center for Investigative Reporting, the Chicago Tribune and New York Daily"
+  },
+  {
+    "startTime": 1093.24,
+    "endTime": 1096.1200000000001,
+    "text": "News have also sued OpenAI for copyright infringement."
+  },
+  {
+    "startTime": 1096.44,
+    "endTime": 1100.2,
+    "text": "Others have taken a different approach, instead choosing to partner with OpenAI."
+  },
+  {
+    "startTime": 1100.72,
+    "endTime": 1103.681,
+    "text": "News Corp., which owns The Wall Street Journal, Market Watch, The New York"
+  },
+  {
+    "startTime": 1103.68,
+    "endTime": 1117.68,
+    "text": "Post, Business Insider and Time, these companies are getting paid to share their content and archive of content with the company to help train its models and to show up within Chat2BT as answers to user questions."
+  },
+  {
+    "startTime": 1118.12,
+    "endTime": 1127.2399999999998,
+    "text": "Sustainability is another question that looms large as tech giants scramble to build enough supercomputers and keep pace with the energy needs required by AI's power-hungry algorithms."
+  },
+  {
+    "startTime": 1127.84,
+    "endTime": 1135.1609999999998,
+    "text": "Some experts estimate that by 2027, AI servers could use between 85 and 134 terawatt hours of electricity annually."
+  },
+  {
+    "startTime": 1135.64,
+    "endTime": 1143.3590000000002,
+    "text": "To put that into context, it's a similar amount of electricity that some countries, including the Netherlands, Argentina and Sweden, each used in 2022."
+  },
+  {
+    "startTime": 1144.76,
+    "endTime": 1146.56,
+    "text": "Water consumption is also a concern."
+  },
+  {
+    "startTime": 1147.44,
+    "endTime": 1153.2,
+    "text": "Still, despite these lingering obstacles, the pace of AI development shows no signs of slowing down."
+  },
+  {
+    "startTime": 1153.44,
+    "endTime": 1159.2,
+    "text": "People are going to go use these tools to invent the future that we all collectively live in. That is the story of the world getting better."
+  },
+  {
+    "startTime": 1159.48,
+    "endTime": 1166.6,
+    "text": " We make technology, people use it to build new things, express their creative ideas, and society improves."
+  }
+]

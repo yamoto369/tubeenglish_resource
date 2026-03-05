@@ -1,0 +1,532 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 5.0,
+    "text": "This is an NBC News special report."
+  },
+  {
+    "startTime": 6.0,
+    "endTime": 6.0,
+    "text": "Here's Hoda Kotb."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 9.0,
+    "text": "Good morning."
+  },
+  {
+    "startTime": 9.0,
+    "endTime": 9.0,
+    "text": "Good to see you."
+  },
+  {
+    "startTime": 9.0,
+    "endTime": 25.0,
+    "text": "You are coming on the air right now with breaking news, a massive global technical outage tied to CrowdStrike, which is a major cybersecurity provider, has knocked critical computer infrastructure offline all across the country and, in fact, all around the world."
+  },
+  {
+    "startTime": 25.0,
+    "endTime": 27.0,
+    "text": "It's an issue with a software update."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 38.0,
+    "text": "It's impacting lots and lots of Microsoft computer systems worldwide, from businesses to emergency services, 911, traffic lights, transit systems."
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 42.0,
+    "text": "And it's having a major impact on airlines as well."
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 45.0,
+    "text": "American, Delta, United, they're all keeping their flights grounded."
+  },
+  {
+    "startTime": 46.0,
+    "endTime": 48.0,
+    "text": "You're looking at some live scenes from the airport."
+  },
+  {
+    "startTime": 49.0,
+    "endTime": 53.0,
+    "text": "It is chaos again, 6 a.m. on the East Coast, and this is the scene now."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 56.0,
+    "text": "They're having difficulty even printing any kind of boarding passes."
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 58.0,
+    "text": "This, of course, is a developing situation."
+  },
+  {
+    "startTime": 59.0,
+    "endTime": 61.0,
+    "text": "The full scope of this problem remains to be seen."
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 69.0,
+    "text": "And, Brian, as we get started right here in Studio 1A, we should point out computers at NBC News right here as we're getting on the air."
+  },
+  {
+    "startTime": 69.0,
+    "endTime": 74.0,
+    "text": "We're trying to do some workarounds here to get on the air, but this is something that's affecting people worldwide."
+  },
+  {
+    "startTime": 74.0,
+    "endTime": 75.0,
+    "text": "Yeah, and other newsrooms."
+  },
+  {
+    "startTime": 75.0,
+    "endTime": 77.0,
+    "text": "Our partners at Red Sky News having issues as well."
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 80.0,
+    "text": "I mean, this is impacting all different types of businesses."
+  },
+  {
+    "startTime": 80.0,
+    "endTime": 91.0,
+    "text": "When you talk about airlines, you also talk about, you know, just 911 services in some cases reporting outages as well, and you're even hearing of anecdotes of banks in other countries experiencing that."
+  },
+  {
+    "startTime": 91.0,
+    "endTime": 98.0,
+    "text": "We don't yet have reporting of banks in the United States being impacted by this, but this appears to be not just in the United States, worldwide and across different types of industries."
+  },
+  {
+    "startTime": 98.0,
+    "endTime": 102.0,
+    "text": "This definitely speaks to what I feel like is the fragility of the situation."
+  },
+  {
+    "startTime": 103.0,
+    "endTime": 105.0,
+    "text": "It's like this is not a cyber attack."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 107.0,
+    "text": "This is a computer kind of snafu that happened."
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 110.0,
+    "text": "Yeah, and just to kind of walk you through exactly what's going on here."
+  },
+  {
+    "startTime": 110.0,
+    "endTime": 113.0,
+    "text": "So this appears to be an issue between CrowdStrike and Microsoft."
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 121.0,
+    "text": "So CrowdStrike, for those that aren't familiar, is a cybersecurity firm that basically provides businesses with a way to foolproof their systems from being hacked."
+  },
+  {
+    "startTime": 121.0,
+    "endTime": 125.0,
+    "text": "Now, apparently what happened was that CrowdStrike was working on some sort of update."
+  },
+  {
+    "startTime": 125.0,
+    "endTime": 131.0,
+    "text": "We just heard from the CEO in the last few minutes describing this as not a security incident or cyber attacks."
+  },
+  {
+    "startTime": 131.0,
+    "endTime": 131.0,
+    "text": "I will repeat that again."
+  },
+  {
+    "startTime": 132.0,
+    "endTime": 134.0,
+    "text": "It doesn't appear to be a cyber attack at issue here."
+  },
+  {
+    "startTime": 134.0,
+    "endTime": 145.0,
+    "text": "But the reason why CrowdStrike is so instrumental to not just businesses here in the United States, but in the world, is because they're using CrowdStrike to basically foolproof their systems."
+  },
+  {
+    "startTime": 145.0,
+    "endTime": 147.0,
+    "text": "Well, they're going to be incorporating that into their computers."
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 150.0,
+    "text": "So if they get that, it's being being plugged into Microsoft computers."
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 155.0,
+    "text": "If there's an issue with CrowdStrike, it takes down all of those Microsoft computers that are related to that."
+  },
+  {
+    "startTime": 155.0,
+    "endTime": 159.0,
+    "text": "The company saying Mac and Linux computers are not impacted."
+  },
+  {
+    "startTime": 159.0,
+    "endTime": 165.0,
+    "text": "But again, this is very interesting because I think what happened was a lot of people this was happening in Australia, Europe while we were all sleeping."
+  },
+  {
+    "startTime": 166.0,
+    "endTime": 167.0,
+    "text": "We woke up and we're like, what's going on?"
+  },
+  {
+    "startTime": 167.0,
+    "endTime": 174.0,
+    "text": "But what people are finding is they're getting on their computers or at the bank or at the airline and they're seeing just a blue screen."
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 175.0,
+    "text": "Is that what's going on?"
+  },
+  {
+    "startTime": 175.0,
+    "endTime": 177.0,
+    "text": "Yeah, well, the term for this is called the blue screen of death."
+  },
+  {
+    "startTime": 177.0,
+    "endTime": 183.0,
+    "text": "And I don't know if we have examples that we can show on the screen right now, but we've been seeing it even in our newsrooms this morning."
+  },
+  {
+    "startTime": 183.0,
+    "endTime": 190.0,
+    "text": "So it's basically this blue screen that has this prompt that says, you know, you're having issues and they're basically trying to figure out a workaround."
+  },
+  {
+    "startTime": 190.0,
+    "endTime": 192.0,
+    "text": "But that essentially breaks your computer."
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 194.0,
+    "text": "You are unable to log in."
+  },
+  {
+    "startTime": 194.0,
+    "endTime": 207.0,
+    "text": "Now, that's scary for any person that's just trying to log into their personal computer, although it's not clear if your personal computer has CrowdStrike, if it doesn't have that plug in or have that cybersecurity layer, you likely won't be affected because of the nature of what we understand this issue to be."
+  },
+  {
+    "startTime": 207.0,
+    "endTime": 213.0,
+    "text": "But for all these enterprise companies, which is translation for corporate customers that use this protection, well, that's a major issue."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 217.0,
+    "text": "If you can't log in, you can't print out the boarding passes to get people on their planes."
+  },
+  {
+    "startTime": 217.0,
+    "endTime": 222.0,
+    "text": "You can't, you know, as a bank teller even get fired up to help open up someone's deposit account."
+  },
+  {
+    "startTime": 222.0,
+    "endTime": 223.0,
+    "text": "This is a major issue."
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 226.0,
+    "text": "CrowdStrike says that they have an issue."
+  },
+  {
+    "startTime": 226.0,
+    "endTime": 227.0,
+    "text": "They identify the issue."
+  },
+  {
+    "startTime": 227.0,
+    "endTime": 229.0,
+    "text": "They isolated and there's a fix that has been deployed."
+  },
+  {
+    "startTime": 229.0,
+    "endTime": 236.0,
+    "text": "How long that fix takes to basically patch over all this, we don't know, as it seems like anecdotes of these issues and outages are still out there."
+  },
+  {
+    "startTime": 236.0,
+    "endTime": 242.0,
+    "text": "And when you're thinking about it, like 9-1-1, all of these things, hospitals like time of the essence when it comes to this."
+  },
+  {
+    "startTime": 242.0,
+    "endTime": 244.0,
+    "text": "But you did bring up the airlines and a lot of folks."
+  },
+  {
+    "startTime": 244.0,
+    "endTime": 248.0,
+    "text": "I have a good friend who's on the way to the airport who's texting me saying what's going on with all these flights."
+  },
+  {
+    "startTime": 248.0,
+    "endTime": 250.0,
+    "text": "This is the scene at the airport."
+  },
+  {
+    "startTime": 251.0,
+    "endTime": 252.0,
+    "text": "And we have NBC's Antonia Hilton."
+  },
+  {
+    "startTime": 252.0,
+    "endTime": 253.0,
+    "text": "She joins us now."
+  },
+  {
+    "startTime": 253.0,
+    "endTime": 255.0,
+    "text": "I think she is at Newark Airport."
+  },
+  {
+    "startTime": 256.0,
+    "endTime": 257.0,
+    "text": "Antonia, what's the scene there?"
+  },
+  {
+    "startTime": 259.0,
+    "endTime": 260.0,
+    "text": "Good morning."
+  },
+  {
+    "startTime": 260.0,
+    "endTime": 266.0,
+    "text": "Well, passengers are arriving here to Newark to chaos, long lines and intense frustrations."
+  },
+  {
+    "startTime": 267.0,
+    "endTime": 268.0,
+    "text": "The kiosks are down."
+  },
+  {
+    "startTime": 268.0,
+    "endTime": 269.0,
+    "text": "The computers are down."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 276.0,
+    "text": "The boards where people, travelers typically go to find out what's going on with their delays and their cancellations, they're not updating properly."
+  },
+  {
+    "startTime": 276.0,
+    "endTime": 279.0,
+    "text": "They're showing just a couple cancellations and delays."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 284.0,
+    "text": "And passengers tell me that it's not reflective of what the staff tell them is actually happening."
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 290.0,
+    "text": "So we have tons of people who have been lining up in some cases for hours trying to get more information about their flights."
+  },
+  {
+    "startTime": 290.0,
+    "endTime": 298.0,
+    "text": "And at times they've even gotten into fights with the staff here because they say this airline behind me here, Spirit, hasn't done enough to keep customers in the loop."
+  },
+  {
+    "startTime": 298.0,
+    "endTime": 301.0,
+    "text": "They say they haven't received text messages, no updates through the app."
+  },
+  {
+    "startTime": 301.0,
+    "endTime": 309.0,
+    "text": "That Spirit hasn't even yet posted a statement on their social media accounts like Twitter, the usual platforms that passengers would turn to in a moment like this."
+  },
+  {
+    "startTime": 309.0,
+    "endTime": 313.0,
+    "text": "And so the emotions have in some cases really spilled over here."
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 317.0,
+    "text": "And some families have essentially just ditched the line."
+  },
+  {
+    "startTime": 317.0,
+    "endTime": 323.0,
+    "text": "They're now moving aside, in some cases leaving the airport, convinced they might not get to leave on their flights at all today."
+  },
+  {
+    "startTime": 324.0,
+    "endTime": 331.0,
+    "text": "What we know nationally right now, according to FlightAware, is that we have more than 500 cancellations and over 700 delays."
+  },
+  {
+    "startTime": 332.0,
+    "endTime": 340.0,
+    "text": "If things don't start looking up soon, the guess from most of the people here at New Work, at least today, is that that could get worse, guys."
+  },
+  {
+    "startTime": 340.0,
+    "endTime": 341.0,
+    "text": "All right, Antonia, thank you."
+  },
+  {
+    "startTime": 341.0,
+    "endTime": 348.0,
+    "text": "I think if you have your eye on what's going on in Europe, you kind of see what's going to be coming here as the sun rises."
+  },
+  {
+    "startTime": 348.0,
+    "endTime": 350.0,
+    "text": "We saw the chaos in airports there."
+  },
+  {
+    "startTime": 350.0,
+    "endTime": 351.0,
+    "text": "We're seeing it here."
+  },
+  {
+    "startTime": 351.0,
+    "endTime": 353.0,
+    "text": "We see the situation with banks in Europe."
+  },
+  {
+    "startTime": 353.0,
+    "endTime": 358.0,
+    "text": "And we're starting to figure out what that will look like here in this country as people wake up."
+  },
+  {
+    "startTime": 358.0,
+    "endTime": 358.0,
+    "text": "Yeah."
+  },
+  {
+    "startTime": 358.0,
+    "endTime": 364.0,
+    "text": "And again, I think it depends on how quickly CrowdStrike can address this issue, which, as their statement says, they're trying to deploy this fix."
+  },
+  {
+    "startTime": 365.0,
+    "endTime": 366.0,
+    "text": "How quickly they can do that, we don't know."
+  },
+  {
+    "startTime": 366.0,
+    "endTime": 369.0,
+    "text": "One thing I want to emphasize is that we've seen 9-1-1 issues in New Hampshire."
+  },
+  {
+    "startTime": 370.0,
+    "endTime": 372.0,
+    "text": "They've been reporting that whether or not it's tied to this remains to be seen."
+  },
+  {
+    "startTime": 372.0,
+    "endTime": 378.0,
+    "text": "But for those that are unable to access 9-1-1, do not try to call 9-1-1 to test it."
+  },
+  {
+    "startTime": 378.0,
+    "endTime": 383.0,
+    "text": "Try to figure out other avenues, maybe try a different carrier, different type of phone to access them if you are in an emergency."
+  },
+  {
+    "startTime": 383.0,
+    "endTime": 389.0,
+    "text": "Because, yes, we're talking about people trying to get to flights, but there are many serious emergency issues that as well that could be impacted by this."
+  },
+  {
+    "startTime": 389.0,
+    "endTime": 392.0,
+    "text": "Just make sure that you're trying to try other avenues."
+  },
+  {
+    "startTime": 392.0,
+    "endTime": 396.0,
+    "text": "And quickly again, they're saying this is a technical issue and not any kind of cyber."
+  },
+  {
+    "startTime": 396.0,
+    "endTime": 401.0,
+    "text": "This is not a security incident or cyber attack that, according to George Kurtz, the CEO of CrowdStrike."
+  },
+  {
+    "startTime": 401.0,
+    "endTime": 402.0,
+    "text": "All right, let's see what happens."
+  },
+  {
+    "startTime": 402.0,
+    "endTime": 403.0,
+    "text": "This day is going to unfold again."
+  },
+  {
+    "startTime": 403.0,
+    "endTime": 404.0,
+    "text": "Thank you so much, Brian."
+  },
+  {
+    "startTime": 404.0,
+    "endTime": 405.0,
+    "text": "We appreciate it."
+  },
+  {
+    "startTime": 405.0,
+    "endTime": 407.0,
+    "text": "This concludes our NBC News special report."
+  },
+  {
+    "startTime": 407.0,
+    "endTime": 411.0,
+    "text": "We'll have a lot more on our streaming network, NBC News Now and at NBCNews.com."
+  },
+  {
+    "startTime": 412.0,
+    "endTime": 415.0,
+    "text": "And of course, throughout the morning on today, I'm Hoda Kotb."
+  },
+  {
+    "startTime": 415.0,
+    "endTime": 416.0,
+    "text": "Thank you so much for watching."
+  },
+  {
+    "startTime": 416.0,
+    "endTime": 417.0,
+    "text": "We'll see you in a bit."
+  },
+  {
+    "startTime": 417.0,
+    "endTime": 425.0,
+    "text": "Thanks for watching."
+  },
+  {
+    "startTime": 426.0,
+    "endTime": 432.0,
+    "text": " Stay updated about breaking news and top stories on the NBC News app or follow us on social media."
+  }
+]

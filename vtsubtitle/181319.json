@@ -1,0 +1,192 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 6.0,
+    "text": "If you woke up today, you should probably just go back to sleep, because your Windows Word computer will likely have a blue screen of death."
+  },
+  {
+    "startTime": 6.0,
+    "endTime": 14.0,
+    "text": "Today, millions if not billions of Windows computers got instabricked around the world, thanks to an update pushed by enterprise cybersecurity firm CrowdStrike."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 15.0,
+    "text": "And it's bad."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 25.0,
+    "text": "Airports are shutting down, hospitals are unable to treat patients, banks aren't able to get your money, and the Arby's drive-thru window went down, forcing people to hunt stray cats in the street just for food."
+  },
+  {
+    "startTime": 25.0,
+    "endTime": 32.0,
+    "text": "What's hilarious, though, is that a top cybersecurity firm just messed up the global economy in a way that the evil hackers they protect you from could only dream of."
+  },
+  {
+    "startTime": 32.0,
+    "endTime": 40.0,
+    "text": "In today's video, we'll take a look at the technical side of this disaster, and find out how such a catastrophic mistake like this can even happen in the modern world."
+  },
+  {
+    "startTime": 40.0,
+    "endTime": 43.0,
+    "text": "It is July 19th, 2024, and you're watching The Code Reporter."
+  },
+  {
+    "startTime": 44.0,
+    "endTime": 50.0,
+    "text": "Corporate America is in panic mode right now because everybody's work computers are bricked, and that means the hamsters can't keep spinning the wheels."
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 54.0,
+    "text": "A huge number of Fortune 500 companies use CrowdStrike for cybersecurity."
+  },
+  {
+    "startTime": 54.0,
+    "endTime": 56.0,
+    "text": "It's got over 500 clients on the Fortune 1000 list."
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 64.0,
+    "text": "Its primary product is called Falcon, a tool that provides endpoint protection using artificial intelligence and analytics to detect threats in real time."
+  },
+  {
+    "startTime": 64.0,
+    "endTime": 72.0,
+    "text": "It is publicly traded, and its stonk is down right now, and for good reason, because everybody's blaming them for causing Windows to deliver its blue screen of death."
+  },
+  {
+    "startTime": 72.0,
+    "endTime": 75.0,
+    "text": "Luckily, macOS users and Linux chads are unaffected."
+  },
+  {
+    "startTime": 75.0,
+    "endTime": 80.0,
+    "text": "To understand why, we first need to understand how CloudStrike's Falcon sensor actually works."
+  },
+  {
+    "startTime": 80.0,
+    "endTime": 89.0,
+    "text": "It's installed just like regular software, but integrates with the operating system at a low level, often using kernel-mode drivers, and basically just sits there in the background looking for anomalies."
+  },
+  {
+    "startTime": 89.0,
+    "endTime": 98.0,
+    "text": "It collects telemetry data, produces reports, and offers a bunch of other incomprehensible techno-nonsense products to justify multi-million dollar enterprise contracts."
+  },
+  {
+    "startTime": 98.0,
+    "endTime": 105.0,
+    "text": "But the bottom line is that it's third-party software that sits in the critical path of a computer, which means if it fails, the entire computer might fail."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 107.0,
+    "text": "And that's exactly what happened here."
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 113.0,
+    "text": "Apparently, an automated software update last night had some bad code in it, and every computer that got that update is now dead."
+  },
+  {
+    "startTime": 113.0,
+    "endTime": 123.0,
+    "text": "Now part of the reason this is really bad is that it's not just a regular outage, but every affected computer needs to be rebooted in fail mode, so the driver can be removed manually."
+  },
+  {
+    "startTime": 124.0,
+    "endTime": 129.0,
+    "text": "And most employees don't have access to do that on their own, and that means IT guys are going to be really busy today."
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 132.0,
+    "text": "It's the IT guy equivalent of being a surgeon in World War 1."
+  },
+  {
+    "startTime": 132.0,
+    "endTime": 133.0,
+    "text": "And the consequences are real."
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 141.0,
+    "text": "The London Stock Exchange was disrupted, most Indian airports went down, causing them to write boarding passes by hand, along with a ton of other issues."
+  },
+  {
+    "startTime": 141.0,
+    "endTime": 146.0,
+    "text": "To CloudStrike's credit, they were quick to point out that it's not a security incident or cyber attack, and explained it this way."
+  },
+  {
+    "startTime": 147.0,
+    "endTime": 154.0,
+    "text": "But they were quick to fix it."
+  },
+  {
+    "startTime": 154.0,
+    "endTime": 156.0,
+    "text": "And the fix is really easy."
+  },
+  {
+    "startTime": 156.0,
+    "endTime": 173.0,
+    "text": "All you have to do is detach the operating system disk, create a snapshot or backup of the disk, mount a volume to a new virtual server, navigate to the WinDir drivers directory, locate the file C0000291.sys and delete it, detach the volume from the new virtual server, then reattach the fix volume to the impacted virtual server."
+  },
+  {
+    "startTime": 173.0,
+    "endTime": 180.0,
+    "text": "Piece of cake, but option two is to go to Home Depot and buy a sledgehammer, then use it to uninstall Microsoft Windows, and switch to Linux."
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 186.0,
+    "text": "I do feel really bad for the programmer who updated this driver though, because the tech lead's about to run git blame, and blame them for this whole mess."
+  },
+  {
+    "startTime": 186.0,
+    "endTime": 195.0,
+    "text": "Not only is this person about to get fired, but they also have blood on their hands for shutting down the hospitals, transportation networks, and Arby's family restaurants that we need to survive."
+  },
+  {
+    "startTime": 195.0,
+    "endTime": 197.0,
+    "text": "If you're that guy and you're watching this, don't feel too bad though."
+  },
+  {
+    "startTime": 197.0,
+    "endTime": 201.0,
+    "text": "What we have here is a situation where the cure is more harmful than the disease."
+  },
+  {
+    "startTime": 202.0,
+    "endTime": 208.0,
+    "text": "Public megacorporations are under a ton of pressure to secure their computer systems, and they're constantly audited by third parties."
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 212.0,
+    "text": "A company like Macy's isn't going to go out and hire a team of a hundred cybersecurity weirdos."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 220.0,
+    "text": "Instead, they'll pay a company like CloudStrike a few million dollars a year to figure out cybersecurity for them, giving them someone else to blame when their system gets hacked."
+  },
+  {
+    "startTime": 220.0,
+    "endTime": 234.0,
+    "text": "What everyone failed to realize though, is that giving one company kernel access to the actually be a bad idea, because it only takes one automatic update with a misplace zero to nearly destroy the entire world."
+  },
+  {
+    "startTime": 234.0,
+    "endTime": 237.0,
+    "text": " This has been The Code Report, thanks for watching, and I will see you in the next one."
+  }
+]

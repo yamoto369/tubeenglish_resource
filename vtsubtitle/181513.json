@@ -1,0 +1,122 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 10.0,
+    "text": "If you use Apple Music and Spotify, you may have noticed that the audio quality between each service is quite different, with Apple Music offering more dynamic, high-fidelity audio."
+  },
+  {
+    "startTime": 10.0,
+    "endTime": 11.0,
+    "text": "So why is this?"
+  },
+  {
+    "startTime": 11.0,
+    "endTime": 23.0,
+    "text": "Well, it's because Apple does quite a few things differently than Spotify. First, they stream songs at a higher bitrate: 256 kilobits per second compared to 160 for free Spotify users."
+  },
+  {
+    "startTime": 23.0,
+    "endTime": 37.0,
+    "text": "And while paid subscribers do have a 320 kilobit per second option on Spotify, audio quality still won't likely be as good as the 256 standard option on Apple Music.  And the reason why has to do with audio compression."
+  },
+  {
+    "startTime": 37.0,
+    "endTime": 42.0,
+    "text": "You see, streaming services want their file sizes to be as small as possible for several reasons."
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 52.0,
+    "text": "That way, storing millions of songs takes up less space on their expensive music servers, and when you select a song to play on your device, it takes less time to load and buffer."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 57.0,
+    "text": "Finally, downloading a song for offline listening takes up less of your storage space."
+  },
+  {
+    "startTime": 57.0,
+    "endTime": 87.0,
+    "text": "So, smaller file sizes benefit everyone, and the way that's done is through audio compression, which can be achieved in a variety of ways, with different methods delivering different levels of quality, file size, and cost. When Apple Music was originally released in 2015, Apple only offered songs compressed in their AAC format, which, while not retaining 100% of the original audio data, did deliver better sound quality than Spotify's AugVorbis format."
+  },
+  {
+    "startTime": 87.0,
+    "endTime": 95.0,
+    "text": "But in 2021, Apple took things even further, by offering lossless audio using their own compression format called ALAC."
+  },
+  {
+    "startTime": 95.0,
+    "endTime": 101.0,
+    "text": "Lossless simply means there's no data lost between the original song file and the compressed file."
+  },
+  {
+    "startTime": 101.0,
+    "endTime": 106.0,
+    "text": "This means better sound quality, but also larger file sizes. How much larger?"
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 116.0,
+    "text": "Well, a 4-minute AAC song on Apple Music would be about 4 megabytes, while the same song in lossless would be about 20, so about 5 times larger."
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 120.0,
+    "text": "Spotify, on the other hand, doesn't offer true lossless audio."
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 133.0,
+    "text": "They did announce plans for a new Spotify Hi-Fi streaming tier back in February 2021, which would've delivered lossless songs to users willing to pay a higher monthly subscription, but there have been no signs of it since."
+  },
+  {
+    "startTime": 134.0,
+    "endTime": 144.0,
+    "text": "And after three years, many are wondering if it'll ever arrive. Meanwhile, Apple not only delivered lossless audio on their streaming platform but did it without charging a premium."
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 145.0,
+    "text": "And they didn't stop there."
+  },
+  {
+    "startTime": 146.0,
+    "endTime": 152.0,
+    "text": "Apple also created something called Spatial Audio, which is essentially an upgraded version of surround sound."
+  },
+  {
+    "startTime": 152.0,
+    "endTime": 160.0,
+    "text": "Where instrumentals or vocals can be placed in 3D space around the listener, creating an audio experience similar to a movie theater."
+  },
+  {
+    "startTime": 160.0,
+    "endTime": 175.0,
+    "text": "This technology is achieved by basically taking a 5.1 or 7.1 Dolby Atmos signal containing multiple channels, then applying various audio filters and equalizers to make it sound like the audio is coming from all around you."
+  },
+  {
+    "startTime": 175.0,
+    "endTime": 180.0,
+    "text": "Again, this is technology Spotify doesn't offer. But Apple didn't stop there."
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 191.0,
+    "text": "Because AirPods have sensors like accelerometers and gyroscopes, Apple can track your head movement and adjust the placement of these audio channels as you move your head around."
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 215.0,
+    "text": "This gives the illusion that the audio is coming from a fixed point in space, as if you really are in a wide-open movie theater, rather than wearing headphones that are stuck to your head. So all of these things, AAC encoding, lossless audio, spatial audio, and head tracking, make Apple Music sound way better than Spotify or any other music streaming service."
+  },
+  {
+    "startTime": 216.0,
+    "endTime": 217.0,
+    "text": "This is Greg with Apple Explained."
+  },
+  {
+    "startTime": 218.0,
+    "endTime": 220.0,
+    "text": " Thanks for watching till the end, and I'll see you in the next video."
+  }
+]

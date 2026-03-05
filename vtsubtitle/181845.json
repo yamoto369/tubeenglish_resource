@@ -1,0 +1,487 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 14.6,
+    "text": "Way back in the '80s, I noticed that sometimes when an elephant called a member of her family, one individual would answer and everybody else ignored the calling animal."
+  },
+  {
+    "startTime": 14.6,
+    "endTime": 24.299999999999997,
+    "text": "And then she would call again and a different elephant would sort of lift her head up and, you know, rumble very loudly."
+  },
+  {
+    "startTime": 24.3,
+    "endTime": 25.900000000000002,
+    "text": "This is Joyce Poole."
+  },
+  {
+    "startTime": 25.6,
+    "endTime": 30.0,
+    "text": "She's been studying African elephants and their communication for 50 years."
+  },
+  {
+    "startTime": 30.0,
+    "endTime": 36.6,
+    "text": "Then I started to think, well, okay, so maybe they have a way of directing a call to a specific individual."
+  },
+  {
+    "startTime": 36.6,
+    "endTime": 39.5,
+    "text": "But we had no way of detecting that."
+  },
+  {
+    "startTime": 39.5,
+    "endTime": 44.5,
+    "text": "Decades later, she partnered up with Mickey Pardo, who designed a study around her observations."
+  },
+  {
+    "startTime": 44.5,
+    "endTime": 45.3,
+    "text": "I went out into the field."
+  },
+  {
+    "startTime": 45.3,
+    "endTime": 48.199999999999996,
+    "text": "I recorded calls with careful behavioral observations."
+  },
+  {
+    "startTime": 48.2,
+    "endTime": 50.0,
+    "text": "So we knew who made each call."
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 51.7,
+    "text": "We knew who the call was addressed to."
+  },
+  {
+    "startTime": 51.7,
+    "endTime": 53.0,
+    "text": "We knew the context of the call."
+  },
+  {
+    "startTime": 53.0,
+    "endTime": 61.0,
+    "text": "They encoded the acoustic information from the recordings into a long string of numbers, along with the data Mickey collected about the calls."
+  },
+  {
+    "startTime": 61.0,
+    "endTime": 65.6,
+    "text": "They fed nearly 500 different calls like this into a statistical model."
+  },
+  {
+    "startTime": 65.6,
+    "endTime": 73.6,
+    "text": "And when given the acoustic structure of a new call, the model could predict who the receiver of the call was much better than chance."
+  },
+  {
+    "startTime": 73.6,
+    "endTime": 80.3,
+    "text": "In other words, evidence suggesting African savannah elephants give each other names."
+  },
+  {
+    "startTime": 80.3,
+    "endTime": 88.0,
+    "text": "When we posted it on Facebook, somebody wrote back, said that the earth just shifted a little bit."
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 90.2,
+    "text": "And I think that's true."
+  },
+  {
+    "startTime": 90.0,
+    "endTime": 97.0,
+    "text": "This is just one example of how machine learning is decoding complexities in animal communication that humans can't detect."
+  },
+  {
+    "startTime": 97.0,
+    "endTime": 100.1,
+    "text": "And now some AI researchers want to take the next step."
+  },
+  {
+    "startTime": 100.1,
+    "endTime": 107.0,
+    "text": "Large language models like the ones that power chatbots, but built for interspecies communication."
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 109.0,
+    "text": "Can we talk a little bit about love?"
+  },
+  {
+    "startTime": 109.0,
+    "endTime": 113.0,
+    "text": "There is still much to be learned about whales."
+  },
+  {
+    "startTime": 125.0,
+    "endTime": 129.0,
+    "text": "When researchers study animal communication, they usually employ a few methods."
+  },
+  {
+    "startTime": 129.0,
+    "endTime": 138.0,
+    "text": "Recording their vocalizations, observing and documenting the behavior and context around those sounds, and sometimes doing a playback to measure the animal's response."
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 142.1,
+    "text": "All of these areas are already being impacted by AI."
+  },
+  {
+    "startTime": 142.0,
+    "endTime": 147.9,
+    "text": "Recordings from the field don't usually sound like this."
+  },
+  {
+    "startTime": 147.9,
+    "endTime": 152.9,
+    "text": "They often sound like this."
+  },
+  {
+    "startTime": 152.9,
+    "endTime": 157.0,
+    "text": "Multiple animals vocalizing on top of one another in a noisy environment."
+  },
+  {
+    "startTime": 157.0,
+    "endTime": 159.0,
+    "text": "This is known as the cocktail party problem."
+  },
+  {
+    "startTime": 159.0,
+    "endTime": 162.4,
+    "text": "And it's a common issue in the field of animal research."
+  },
+  {
+    "startTime": 162.4,
+    "endTime": 166.5,
+    "text": "But machine learning solved a similar problem in human speech recognition."
+  },
+  {
+    "startTime": 166.5,
+    "endTime": 173.5,
+    "text": "AI researchers trained a model called deep karaoke on lots of music tracks where instruments and vocals were recorded separately."
+  },
+  {
+    "startTime": 173.5,
+    "endTime": 176.0,
+    "text": "Then also on the fully mixed tracks."
+  },
+  {
+    "startTime": 176.0,
+    "endTime": 182.4,
+    "text": "Until it was able to do the task of separating out instruments and vocals in new music clips."
+  },
+  {
+    "startTime": 182.4,
+    "endTime": 188.6,
+    "text": "Recently, AI researchers have had some success applying similar algorithms to animal sound recordings."
+  },
+  {
+    "startTime": 188.6,
+    "endTime": 198.5,
+    "text": "Which means you can take a clip of a group of macaque monkeys and single out one discernible call."
+  },
+  {
+    "startTime": 198.5,
+    "endTime": 202.8,
+    "text": "Researchers could also start using AI in how they use playbacks in the field."
+  },
+  {
+    "startTime": 202.8,
+    "endTime": 211.60000000000002,
+    "text": "You may have seen AI models that can be trained on lots of examples of a sound recording."
+  },
+  {
+    "startTime": 211.5,
+    "endTime": 218.7,
+    "text": "And then generate another unique version of it."
+  },
+  {
+    "startTime": 218.4,
+    "endTime": 225.0,
+    "text": "AI researchers are starting to develop similar models for animal recordings."
+  },
+  {
+    "startTime": 225.5,
+    "endTime": 228.5,
+    "text": "These are all types of supervised learning."
+  },
+  {
+    "startTime": 228.5,
+    "endTime": 232.6,
+    "text": "That means that the model gets trained on lots of examples labeled by humans."
+  },
+  {
+    "startTime": 232.6,
+    "endTime": 236.7,
+    "text": "And in the elephant name study, researchers were able to feed a model their observations."
+  },
+  {
+    "startTime": 236.4,
+    "endTime": 242.6,
+    "text": "Which, along with the sound data, helped them detect something in elephant calls they couldn't through observation alone."
+  },
+  {
+    "startTime": 242.6,
+    "endTime": 244.29999999999998,
+    "text": "You need to annotate a lot of data."
+  },
+  {
+    "startTime": 244.3,
+    "endTime": 250.0,
+    "text": "Yossi Yovel trained a statistical model on 15,000 Egyptian fruit bat vocalizations."
+  },
+  {
+    "startTime": 250.0,
+    "endTime": 257.0,
+    "text": "Which was able to identify the emitter of the call, the context of the call, its behavioral response, and who the call was addressed to."
+  },
+  {
+    "startTime": 257.0,
+    "endTime": 259.5,
+    "text": "And we annotated them manually."
+  },
+  {
+    "startTime": 259.5,
+    "endTime": 264.6,
+    "text": "You know, I'm already saying this is a restriction of the study because maybe we're missing something."
+  },
+  {
+    "startTime": 264.6,
+    "endTime": 266.0,
+    "text": "We're humans, we're not bats."
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 269.0,
+    "text": "And that's the problem with supervised learning models."
+  },
+  {
+    "startTime": 269.0,
+    "endTime": 274.7,
+    "text": "They are limited by what we humans already know about animal communication in order to label the training data."
+  },
+  {
+    "startTime": 274.7,
+    "endTime": 276.5,
+    "text": "And we don't know a lot."
+  },
+  {
+    "startTime": 276.5,
+    "endTime": 283.4,
+    "text": "That's why some AI researchers say self-supervised models hold the most potential for decoding animal communication."
+  },
+  {
+    "startTime": 283.4,
+    "endTime": 287.5,
+    "text": "This is how natural language processing models like ChatGPT are trained."
+  },
+  {
+    "startTime": 287.5,
+    "endTime": 292.5,
+    "text": "Instead of human-labeled examples, they are trained on a large amount of unlabeled data."
+  },
+  {
+    "startTime": 292.5,
+    "endTime": 297.4,
+    "text": "And they can sort it according to patterns and categories it detects all on its own."
+  },
+  {
+    "startTime": 297.4,
+    "endTime": 307.59999999999997,
+    "text": "In the example of ChatGPT, it learned from all the books, websites, social media feeds, and anything else it could scrape from the internet and came to its own conclusions about how language works."
+  },
+  {
+    "startTime": 307.6,
+    "endTime": 312.0,
+    "text": "Every language has a shape that AI discovers."
+  },
+  {
+    "startTime": 312.0,
+    "endTime": 313.0,
+    "text": "This is Eze Raskin."
+  },
+  {
+    "startTime": 313.0,
+    "endTime": 320.0,
+    "text": "He co-founded the Earth Species Project, one of a few organizations that want to build models like this for animal communication."
+  },
+  {
+    "startTime": 320.0,
+    "endTime": 326.5,
+    "text": "What he means by language having a shape is that language models are built out of relationships among words."
+  },
+  {
+    "startTime": 326.5,
+    "endTime": 329.0,
+    "text": "Words that mean similar things are placed near each other."
+  },
+  {
+    "startTime": 329.0,
+    "endTime": 333.5,
+    "text": "Words that share a relationship, share a distance and direction."
+  },
+  {
+    "startTime": 333.5,
+    "endTime": 336.1,
+    "text": "So man is to king as woman is to queen."
+  },
+  {
+    "startTime": 336.0,
+    "endTime": 344.2,
+    "text": "So this is the shape of all those relationships among the English language's 10,000 most common words, visualized here by the Earth Species Project."
+  },
+  {
+    "startTime": 344.2,
+    "endTime": 346.8,
+    "text": "Flattened out, it looks something like this."
+  },
+  {
+    "startTime": 346.8,
+    "endTime": 349.7,
+    "text": "Something really miraculous happened in 2017."
+  },
+  {
+    "startTime": 349.7,
+    "endTime": 363.8,
+    "text": "And that was researchers discovered that you could take the shape of any one language and match it to the shape of any other language and the point which is dog ends up in the same spot."
+  },
+  {
+    "startTime": 363.8,
+    "endTime": 374.0,
+    "text": "This idea that similar words can be located in other languages in roughly the same place is what gives the Earth Species Project hope we could do a version of this for animal communication."
+  },
+  {
+    "startTime": 374.0,
+    "endTime": 379.5,
+    "text": "To do a translation without needing any examples, without needing a Rosetta stone."
+  },
+  {
+    "startTime": 379.5,
+    "endTime": 385.5,
+    "text": "This is complicated though because we know that animals don't just communicate with sound but with other senses too."
+  },
+  {
+    "startTime": 385.3,
+    "endTime": 394.0,
+    "text": "But Eiza points out that we can learn from the fact that image generation models like Dali and Midjourney are built on the same large language model structure used for text."
+  },
+  {
+    "startTime": 394.0,
+    "endTime": 398.4,
+    "text": "It turns out behind the scenes, it's again these kinds of shapes."
+  },
+  {
+    "startTime": 398.4,
+    "endTime": 403.09999999999997,
+    "text": "There's the shape that represents sound, the shapes that represents images."
+  },
+  {
+    "startTime": 403.1,
+    "endTime": 410.40000000000003,
+    "text": "Those two shapes get aligned and now you can translate between images and text."
+  },
+  {
+    "startTime": 410.4,
+    "endTime": 418.0,
+    "text": "Their expectation is that where non-human animals communication would line up with ours will tell us even more about what we have in common."
+  },
+  {
+    "startTime": 418.0,
+    "endTime": 421.0,
+    "text": "Dolphins look in mirrors and recognize themselves."
+  },
+  {
+    "startTime": 421.0,
+    "endTime": 422.4,
+    "text": "Elephants too."
+  },
+  {
+    "startTime": 422.4,
+    "endTime": 424.7,
+    "text": "That's a kind of self-awareness."
+  },
+  {
+    "startTime": 424.5,
+    "endTime": 429.8,
+    "text": "One concern with this plan is related to a step in self-supervised learning called validation."
+  },
+  {
+    "startTime": 429.5,
+    "endTime": 434.0,
+    "text": "Meaning humans still need to refine these models by grading them on their answers."
+  },
+  {
+    "startTime": 434.0,
+    "endTime": 438.0,
+    "text": "How would we do that in a communication so foreign from our own?"
+  },
+  {
+    "startTime": 438.0,
+    "endTime": 448.0,
+    "text": "We also might have too high of expectations of this overlap or the capacity for having a conversation with a non-human animal in a shared language and about shared experiences."
+  },
+  {
+    "startTime": 448.0,
+    "endTime": 450.0,
+    "text": "Hey Kurt, how are you doing, dude?"
+  },
+  {
+    "startTime": 450.0,
+    "endTime": 454.1,
+    "text": "So I'm about to translate that into a meow."
+  },
+  {
+    "startTime": 454.1,
+    "endTime": 457.6,
+    "text": "We said hi, hi, hi, hi."
+  },
+  {
+    "startTime": 457.5,
+    "endTime": 460.2,
+    "text": "You know, next time you want to say how are you."
+  },
+  {
+    "startTime": 460.2,
+    "endTime": 464.5,
+    "text": "I do not think that humans should be considered more important than other species,"
+  },
+  {
+    "startTime": 464.5,
+    "endTime": 479.2,
+    "text": "but that doesn't mean that there's no usefulness in distinguishing between language which is this very specific behavior that at least based on what we currently know seems to be unique to humans and other forms of communication."
+  },
+  {
+    "startTime": 479.2,
+    "endTime": 485.4,
+    "text": "In order to build these models, the first step is collecting a lot more data on animal sounds than exists right now."
+  },
+  {
+    "startTime": 485.4,
+    "endTime": 498.2,
+    "text": "And so I'm actually at the moment building up a database with all the individual calls so close to 10,000 records in that which is very small actually."
+  },
+  {
+    "startTime": 498.2,
+    "endTime": 508.8,
+    "text": "Around the world, animal researchers are in the midst of a massive data collection effort tagging and recording animals with video and sound and spatial data to feed these data-thirsty models."
+  },
+  {
+    "startTime": 508.8,
+    "endTime": 522.0,
+    "text": "Time will tell whether true interspecies communication will be facilitated by AI but researchers hope that discoveries along the way will continue to have an impact on our appreciation and protection of the species we share the planet with."
+  },
+  {
+    "startTime": 522.0,
+    "endTime": 533.0,
+    "text": "We're not the only ones on the planet who can communicate, who care about one another, who have thoughts about the past and about the future."
+  },
+  {
+    "startTime": 533.0,
+    "endTime": 539.0,
+    "text": "They also have a right to be here and a reason for being here. you"
+  }
+]
